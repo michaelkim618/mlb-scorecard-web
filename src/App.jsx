@@ -1,3 +1,5 @@
+import { useEffect } from "react";
+import { useLocation } from "react-router-dom";
 import NavBar from "./components/NavBar";
 import Hero from "./components/Hero";
 import TodaysGames from "./components/TodaysGames";
@@ -8,6 +10,18 @@ import Community from "./components/Community";
 import Footer from "./components/Footer";
 
 function App() {
+  const location = useLocation();
+
+  // When navigating from /blog to /#section, scroll to that section
+  useEffect(() => {
+    if (location.hash) {
+      const el = document.querySelector(location.hash);
+      if (el) {
+        setTimeout(() => el.scrollIntoView({ behavior: "smooth" }), 100);
+      }
+    }
+  }, [location]);
+
   return (
     <div style={{ paddingTop: "var(--nav-height)" }}>
       <NavBar />

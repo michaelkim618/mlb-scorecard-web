@@ -1,10 +1,12 @@
 import React, { useState, useEffect } from "react";
-import { useNavigate } from "react-router-dom";
+import { useNavigate, useLocation } from "react-router-dom";
 import { SEASON_RECORD } from "../data/mlbData";
 
 export default function NavBar() {
   const [scrolled, setScrolled] = useState(false);
   const navigate = useNavigate();
+  const location = useLocation();
+  const isHomePage = location.pathname === "/";
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 10);
@@ -13,6 +15,17 @@ export default function NavBar() {
   }, []);
 
   const pct = ((SEASON_RECORD.wins / (SEASON_RECORD.wins + SEASON_RECORD.losses)) * 100).toFixed(1);
+
+  // For anchor links: if already on home, scroll to section; otherwise navigate to /#section
+  const handleAnchorClick = (e, href) => {
+    e.preventDefault();
+    if (isHomePage) {
+      const el = document.querySelector(href);
+      if (el) el.scrollIntoView({ behavior: "smooth" });
+    } else {
+      navigate("/" + href);
+    }
+  };
 
   return (
     <nav style={{
@@ -27,8 +40,11 @@ export default function NavBar() {
         maxWidth: "var(--max-width)", margin: "0 auto", padding: "0 24px",
         height: "100%", display: "flex", alignItems: "center", justifyContent: "space-between",
       }}>
-        {/* Logo */}
-        <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
+        {/* Logo — always goes to home */}
+        <div
+          onClick={() => navigate("/")}
+          style={{ display: "flex", alignItems: "center", gap: 10, cursor: "pointer" }}
+        >
           <div style={{
             width: 32, height: 32, borderRadius: 8,
             background: "linear-gradient(135deg, #0EA5E9, #0284C7)",
@@ -66,10 +82,9 @@ export default function NavBar() {
                 {label}
               </button>
             ) : (
-              <a key={label} href={href} className="t-caption" style={{
-                color: "var(--color-muted)", textDecoration: "none",
-                transition: "color 0.15s",
-              }}
+              <a key={label} href={href} className="t-caption"
+                style={{ color: "var(--color-muted)", textDecoration: "none", transition: "color 0.15s" }}
+                onClick={(e) => handleAnchorClick(e, href)}
                 onMouseEnter={e => e.target.style.color = "var(--color-ink)"}
                 onMouseLeave={e => e.target.style.color = "var(--color-muted)"}
               >
