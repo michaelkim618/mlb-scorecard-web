@@ -65,7 +65,7 @@ export default function NavBar() {
             { label: "Season Stats", href: "#stats", page: false },
             { label: "News", href: "#news", page: false },
             { label: "Blog", href: "/blog", page: true },
-            { label: "Community", href: "#community", page: false },
+            { label: "Community", href: "/community", page: true },
           ].map(({ label, href, page }) =>
             page ? (
               <button

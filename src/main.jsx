@@ -6,6 +6,7 @@ import './styles/global.css'
 import App from './App.jsx'
 import BlogListPage from './pages/BlogListPage.jsx'
 import BlogPostPage from './pages/BlogPostPage.jsx'
+import CommunityPage from './pages/CommunityPage.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -14,6 +15,7 @@ createRoot(document.getElementById('root')).render(
         <Route path="/" element={<App />} />
         <Route path="/blog" element={<BlogListPage />} />
         <Route path="/blog/:slug" element={<BlogPostPage />} />
+        <Route path="/community" element={<CommunityPage />} />
       </Routes>
     </BrowserRouter>
   </StrictMode>,
