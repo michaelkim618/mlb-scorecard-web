@@ -339,6 +339,108 @@ function LiveScoreboard({ liveGame, awayAbbr, homeAbbr, awayColor, homeColor }) 
   );
 }
 
+// ── Summary Badges ────────────────────────────────────────────
+function Chip({ bg, color, border, children }) {
+  return (
+    <span style={{
+      fontSize: 10, fontWeight: 600, padding: "2px 8px",
+      borderRadius: 99, background: bg, color: color,
+      border: `1px solid ${border || bg}`,
+      whiteSpace: "nowrap",
+    }}>
+      {children}
+    </span>
+  );
+}
+
+function SummaryBadges({ game, pickProb, awayColor, homeColor, awayName, homeName }) {
+  const badges = [];
+
+  // 1. Market comparison (edge vs Kalshi)
+  if (game.edge != null) {
+    const edgeVal = parseFloat(game.edge);
+    if (Math.abs(edgeVal) <= 3) {
+      badges.push(<Chip key="mkt" bg="#F1F5F9" color="#475569" border="#CBD5E1">➖ Near Market</Chip>);
+    } else if (edgeVal > 3) {
+      badges.push(<Chip key="mkt" bg="#F0FDF4" color="#15803D" border="#86EFAC">📈 Edge +{edgeVal.toFixed(1)}%p</Chip>);
+    } else {
+      badges.push(<Chip key="mkt" bg="#FFF1F2" color="#B91C1C" border="#FCA5A5">📉 Edge {edgeVal.toFixed(1)}%p</Chip>);
+    }
+    if (game.kalshi_prob != null) {
+      badges.push(<Chip key="kal" bg="#F8FAFC" color="#64748B" border="#E2E8F0">Kalshi {game.kalshi_prob?.toFixed(0)}%</Chip>);
+    }
+  }
+
+  // 2. Expected score
+  const exp = game.expected_score;
+  if (exp && (exp.away || exp.home)) {
+    const a = (exp.away || 0).toFixed(1);
+    const h = (exp.home || 0).toFixed(1);
+    badges.push(<Chip key="exp" bg="#F8FAFC" color="#475569" border="#E2E8F0">🎯 Proj {a}–{h}</Chip>);
+  }
+
+  // 3. Win probability strength
+  if (pickProb >= 65) {
+    badges.push(<Chip key="conf" bg="#FFFBEB" color="#92400E" border="#FDE68A">⭐ High Conf {pickProb}%</Chip>);
+  } else if (pickProb >= 60) {
+    badges.push(<Chip key="conf" bg="#EFF6FF" color="#1D4ED8" border="#BFDBFE">📊 Lean {pickProb}%</Chip>);
+  }
+
+  // 4. Pitcher trends
+  const awaySPTrend = game.away_pitcher_stats?.trend;
+  const homeSPTrend = game.home_pitcher_stats?.trend;
+  if (awaySPTrend === "hot") {
+    const sp = (game.away_pitcher || "Away SP").split(" ").pop();
+    badges.push(<Chip key="asp" bg="#FEF3C7" color="#92400E" border="#FDE68A">🔥 {sp} Hot</Chip>);
+  } else if (awaySPTrend === "cold") {
+    const sp = (game.away_pitcher || "Away SP").split(" ").pop();
+    badges.push(<Chip key="asp" bg="#EFF6FF" color="#1E40AF" border="#BFDBFE">🥶 {sp} Cold</Chip>);
+  }
+  if (homeSPTrend === "hot") {
+    const sp = (game.home_pitcher || "Home SP").split(" ").pop();
+    badges.push(<Chip key="hsp" bg="#FEF3C7" color="#92400E" border="#FDE68A">🔥 {sp} Hot</Chip>);
+  } else if (homeSPTrend === "cold") {
+    const sp = (game.home_pitcher || "Home SP").split(" ").pop();
+    badges.push(<Chip key="hsp" bg="#EFF6FF" color="#1E40AF" border="#BFDBFE">🥶 {sp} Cold</Chip>);
+  }
+
+  // 5. Recent form streak
+  const awayStreak = game.away_recent_form?.streak ?? 0;
+  const homeStreak = game.home_recent_form?.streak ?? 0;
+  if (awayStreak >= 3) {
+    badges.push(<Chip key="aws" bg="#F0FDF4" color="#15803D" border="#86EFAC">🔥 {awayName.split(" ").pop()} {awayStreak}W streak</Chip>);
+  } else if (awayStreak <= -3) {
+    badges.push(<Chip key="aws" bg="#FFF1F2" color="#B91C1C" border="#FCA5A5">📉 {awayName.split(" ").pop()} {Math.abs(awayStreak)}L streak</Chip>);
+  }
+  if (homeStreak >= 3) {
+    badges.push(<Chip key="hws" bg="#F0FDF4" color="#15803D" border="#86EFAC">🔥 {homeName.split(" ").pop()} {homeStreak}W streak</Chip>);
+  } else if (homeStreak <= -3) {
+    badges.push(<Chip key="hws" bg="#FFF1F2" color="#B91C1C" border="#FCA5A5">📉 {homeName.split(" ").pop()} {Math.abs(homeStreak)}L streak</Chip>);
+  }
+
+  // 6. Division leader
+  const awaySt = game.away_standing;
+  const homeSt = game.home_standing;
+  if (awaySt?.games_back === "-") {
+    badges.push(<Chip key="adl" bg={`${awayColor}12`} color={awayColor} border={`${awayColor}30`}>🏆 {awayName.split(" ").pop()} Div Leader</Chip>);
+  }
+  if (homeSt?.games_back === "-") {
+    badges.push(<Chip key="hdl" bg={`${homeColor}12`} color={homeColor} border={`${homeColor}30`}>🏆 {homeName.split(" ").pop()} Div Leader</Chip>);
+  }
+
+  if (badges.length === 0) return null;
+
+  return (
+    <div style={{
+      display: "flex", flexWrap: "wrap", gap: 5,
+      marginTop: 8, paddingTop: 8,
+      borderTop: "1px solid var(--color-border)",
+    }}>
+      {badges}
+    </div>
+  );
+}
+
 // ── Main GameCard ─────────────────────────────────────────────
 export default function GameCard({ game, liveGame = null, defaultOpen = false }) {
   const [open, setOpen] = useState(defaultOpen);
@@ -531,6 +633,9 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
             homeColor={homeColor}
           />
         )}
+
+        {/* ── Summary badge row ── */}
+        <SummaryBadges game={game} pickProb={pickProb} awayColor={awayColor} homeColor={homeColor} awayName={awayName} homeName={homeName} />
       </div>
 
       {/* ── Expanded detail ── */}
@@ -567,12 +672,6 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
             />
           </div>
 
-          {/* Notes */}
-          {game.notes && (
-            <div style={{ marginTop: 10, padding: "8px 12px", background: "#FFFBEB", borderRadius: 8, fontSize: 12, color: "#92400E", border: "1px solid #FDE68A" }}>
-              📋 {game.notes}
-            </div>
-          )}
         </div>
       )}
     </div>
