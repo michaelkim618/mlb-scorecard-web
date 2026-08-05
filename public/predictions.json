@@ -347,7 +347,8 @@
     "edge": 6.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "lineup_confirmed": true
   },
   {
     "date": "2026-08-05",
@@ -697,7 +698,8 @@
     "edge": 5.4,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "lineup_confirmed": true
   },
   {
     "date": "2026-08-05",
@@ -986,7 +988,8 @@
     "edge": 5.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "lineup_confirmed": true
   },
   {
     "date": "2026-08-05",
@@ -1336,7 +1339,8 @@
     "edge": 7.5,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "lineup_confirmed": true
   },
   {
     "date": "2026-08-05",
@@ -1686,7 +1690,8 @@
     "edge": -4.3,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "lineup_confirmed": true
   },
   {
     "date": "2026-08-05",
@@ -2036,7 +2041,8 @@
     "edge": -1.8,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "lineup_confirmed": true
   },
   {
     "date": "2026-08-05",
@@ -2386,7 +2392,8 @@
     "edge": 11.0,
     "value_bet": "⚠️ 고위험경기 주의 — ✅ Value Bet 후보 (Cincinnati Reds)",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "lineup_confirmed": true
   },
   {
     "date": "2026-08-05",
@@ -2736,7 +2743,8 @@
     "edge": 6.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "lineup_confirmed": true
   },
   {
     "date": "2026-08-05",
@@ -3086,7 +3094,8 @@
     "edge": 5.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "lineup_confirmed": true
   },
   {
     "date": "2026-08-05",
@@ -3436,7 +3445,8 @@
     "edge": 9.4,
     "value_bet": "⚠️ VB주의(상대선발Hot·edge부족 9.4%p<14.0%p)",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "lineup_confirmed": true
   },
   {
     "date": "2026-08-05",
@@ -3786,7 +3796,8 @@
     "edge": -0.5,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "lineup_confirmed": true
   },
   {
     "date": "2026-08-05",
@@ -4136,7 +4147,8 @@
     "edge": 4.4,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "lineup_confirmed": true
   },
   {
     "date": "2026-08-05",
@@ -4486,7 +4498,8 @@
     "edge": 8.0,
     "value_bet": "✅ Value Bet 후보 (Milwaukee Brewers)",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "lineup_confirmed": true
   },
   {
     "date": "2026-08-05",
@@ -4836,7 +4849,8 @@
     "edge": -10.0,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Arizona Diamondbacks)",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "lineup_confirmed": false
   },
   {
     "date": "2026-08-05",
@@ -5186,6 +5200,7 @@
     "edge": -1.8,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "lineup_confirmed": false
   }
 ]
