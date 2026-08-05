@@ -90,7 +90,7 @@ function PostCard({ post, onClick }) {
           </div>
         </div>
         <span className="t-caption" style={{ color: "var(--color-subtle)" }}>
-          {new Date(post.date + "T00:00:00").toLocaleDateString("ko-KR", { month: "short", day: "numeric" })}
+          {new Date(post.date + "T00:00:00").toLocaleDateString("en-US", { month: "short", day: "numeric" })}
         </span>
       </div>
     </div>
@@ -127,7 +127,7 @@ export default function BlogListPage() {
             </h1>
           </div>
           <p className="t-body" style={{ color: "var(--color-muted)", marginTop: 8 }}>
-            6명의 전문가 팀이 매일 분석, 리뷰, 인사이더 스토리를 씁니다.
+            Daily analysis, game reviews, and insider stories from our 6-writer team.
           </p>
         </div>
       </div>
@@ -159,7 +159,7 @@ export default function BlogListPage() {
                   transition: "all 0.12s",
                 }}
               >
-                {t === "All" ? "전체" : t === "daily" ? "Daily" : "Weekly"}
+                {t === "All" ? "All" : t === "daily" ? "Daily" : "Weekly"}
               </button>
             ))}
           </div>
@@ -199,17 +199,17 @@ export default function BlogListPage() {
         {/* Posts grid */}
         {loading && (
           <div style={{ textAlign: "center", padding: "60px 0", color: "var(--color-muted)" }}>
-            불러오는 중...
+            Loading posts...
           </div>
         )}
         {error && (
           <div style={{ textAlign: "center", padding: "60px 0", color: "var(--color-loss)" }}>
-            오류: {error}
+            Error: {error}
           </div>
         )}
         {!loading && !error && filtered.length === 0 && (
           <div style={{ textAlign: "center", padding: "60px 0", color: "var(--color-muted)" }}>
-            조건에 맞는 포스트가 없습니다.
+            No posts match your filters.
           </div>
         )}
         {!loading && !error && filtered.length > 0 && (

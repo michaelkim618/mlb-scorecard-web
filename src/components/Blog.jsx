@@ -27,11 +27,11 @@ export default function Blog() {
         </div>
 
         {loading && (
-          <div className="t-caption" style={{ color: "var(--color-muted)", padding: "20px 0" }}>불러오는 중...</div>
+          <div className="t-caption" style={{ color: "var(--color-muted)", padding: "20px 0" }}>Loading posts...</div>
         )}
 
         {!loading && latest.length === 0 && (
-          <div className="t-caption" style={{ color: "var(--color-muted)", padding: "20px 0" }}>포스트가 없습니다.</div>
+          <div className="t-caption" style={{ color: "var(--color-muted)", padding: "20px 0" }}>No posts available.</div>
         )}
 
         <div style={{ display: "flex", flexDirection: "column", gap: 2 }}>
@@ -52,7 +52,7 @@ export default function Blog() {
               <div style={{ textAlign: "center" }}>
                 <div style={{ fontSize: 20, lineHeight: 1 }}>{post.author_emoji}</div>
                 <div className="t-label" style={{ color: "var(--color-primary)", marginTop: 4 }}>
-                  {new Date(post.date + "T00:00:00").toLocaleDateString("ko-KR", { month: "short", day: "numeric" })}
+                  {new Date(post.date + "T00:00:00").toLocaleDateString("en-US", { month: "short", day: "numeric" })}
                 </div>
               </div>
 

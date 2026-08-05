@@ -257,16 +257,16 @@ export default function BlogPostPage() {
 
       <div style={{ maxWidth: 740, margin: "0 auto", padding: "32px 24px 60px" }}>
         {loading && (
-          <div style={{ textAlign: "center", padding: "80px 0", color: "var(--color-muted)" }}>불러오는 중...</div>
+          <div style={{ textAlign: "center", padding: "80px 0", color: "var(--color-muted)" }}>Loading post...</div>
         )}
         {error && (
           <div style={{ textAlign: "center", padding: "80px 0" }}>
-            <div style={{ color: "var(--color-loss)", marginBottom: 16 }}>포스트를 찾을 수 없습니다.</div>
+            <div style={{ color: "var(--color-loss)", marginBottom: 16 }}>Post not found.</div>
             <button onClick={() => navigate("/blog")} style={{
               background: "var(--color-primary)", color: "#fff",
               border: "none", borderRadius: "var(--radius-full)", padding: "10px 20px",
               fontWeight: 600, cursor: "pointer",
-            }}>목록으로 돌아가기</button>
+            }}>Back to Blog</button>
           </div>
         )}
 
@@ -279,7 +279,7 @@ export default function BlogPostPage() {
               color: "var(--color-muted)", fontSize: 13, fontWeight: 500,
               marginBottom: 24, padding: 0,
             }}>
-              ← 블로그 목록
+              ← Back to Blog
             </button>
 
             {/* Post header */}
@@ -292,7 +292,7 @@ export default function BlogPostPage() {
                   borderRadius: "var(--radius-full)", padding: "3px 10px",
                 }}>{post.tag}</span>
                 <span className="t-caption" style={{ color: "var(--color-subtle)" }}>
-                  {new Date(post.date + "T00:00:00").toLocaleDateString("ko-KR", { year: "numeric", month: "long", day: "numeric" })}
+                  {new Date(post.date + "T00:00:00").toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}
                 </span>
                 <span className="t-caption" style={{ color: "var(--color-subtle)" }}>·</span>
                 <span className="t-caption" style={{ color: "var(--color-subtle)" }}>{post.read_time}</span>
@@ -330,7 +330,7 @@ export default function BlogPostPage() {
                 background: "#7C3AED10", border: "1px solid #7C3AED30",
                 borderRadius: "var(--radius-md)", padding: "14px 18px", marginBottom: 20,
               }}>
-                <div className="t-label" style={{ color: "#7C3AED", marginBottom: 4 }}>편집장 노트</div>
+                <div className="t-label" style={{ color: "#7C3AED", marginBottom: 4 }}>Editor's Note</div>
                 <div className="t-caption" style={{ color: "var(--color-muted)" }}>{post.editor_note}</div>
               </div>
             )}
@@ -352,7 +352,7 @@ export default function BlogPostPage() {
                   onMouseEnter={e => e.currentTarget.style.background = "var(--color-canvas-muted)"}
                   onMouseLeave={e => e.currentTarget.style.background = "var(--color-canvas)"}
                 >
-                  <div className="t-label" style={{ color: "var(--color-muted)", marginBottom: 4 }}>← 이전 포스트</div>
+                  <div className="t-label" style={{ color: "var(--color-muted)", marginBottom: 4 }}>← Previous Post</div>
                   <div className="t-caption-strong" style={{ color: "var(--color-ink)" }}>{prevPost.title}</div>
                 </button>
               )}
@@ -365,7 +365,7 @@ export default function BlogPostPage() {
                   onMouseEnter={e => e.currentTarget.style.background = "var(--color-canvas-muted)"}
                   onMouseLeave={e => e.currentTarget.style.background = "var(--color-canvas)"}
                 >
-                  <div className="t-label" style={{ color: "var(--color-muted)", marginBottom: 4 }}>다음 포스트 →</div>
+                  <div className="t-label" style={{ color: "var(--color-muted)", marginBottom: 4 }}>Next Post →</div>
                   <div className="t-caption-strong" style={{ color: "var(--color-ink)" }}>{nextPost.title}</div>
                 </button>
               )}
