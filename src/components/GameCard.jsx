@@ -356,6 +356,11 @@ function Chip({ bg, color, border, children }) {
 function SummaryBadges({ game, pickProb, awayColor, homeColor, awayName, homeName }) {
   const badges = [];
 
+  // 0. Lineup confirmed
+  if (game.lineup_confirmed) {
+    badges.push(<Chip key="lineup" bg="#F0FDF4" color="#15803D" border="#86EFAC">✅ Lineup Confirmed</Chip>);
+  }
+
   // 1. Market comparison (edge vs Kalshi)
   if (game.edge != null) {
     const edgeVal = parseFloat(game.edge);
