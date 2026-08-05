@@ -69,7 +69,7 @@ export default function TodaysGames() {
                     key={i}
                     game={game}
                     liveGame={liveGame}
-                    defaultOpen={i === 0 && (game.consensus || game.value_bet)}
+                    defaultOpen={false}
                   />
                 );
               })
