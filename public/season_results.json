@@ -1,0 +1,156 @@
+{
+  "season": "2026",
+  "start_date": "2026-08-04",
+  "games": [
+    {
+      "date": "2026-08-04",
+      "away": "Los Angeles Angels",
+      "home": "Baltimore Orioles",
+      "pick": "Baltimore Orioles",
+      "pick_prob": 52.0,
+      "actual_winner": "Baltimore Orioles",
+      "correct": true,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-04",
+      "away": "New York Mets",
+      "home": "Cleveland Guardians",
+      "pick": "New York Mets",
+      "pick_prob": 59.2,
+      "actual_winner": "New York Mets",
+      "correct": true,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-04",
+      "away": "Athletics",
+      "home": "Cincinnati Reds",
+      "pick": "Cincinnati Reds",
+      "pick_prob": 67.0,
+      "actual_winner": "Cincinnati Reds",
+      "correct": true,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-04",
+      "away": "Washington Nationals",
+      "home": "Philadelphia Phillies",
+      "pick": "Philadelphia Phillies",
+      "pick_prob": 63.0,
+      "actual_winner": "Philadelphia Phillies",
+      "correct": true,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-04",
+      "away": "St. Louis Cardinals",
+      "home": "New York Yankees",
+      "pick": "New York Yankees",
+      "pick_prob": 63.0,
+      "actual_winner": "New York Yankees",
+      "correct": true,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-04",
+      "away": "Chicago White Sox",
+      "home": "Boston Red Sox",
+      "pick": "Boston Red Sox",
+      "pick_prob": 67.0,
+      "actual_winner": "Boston Red Sox",
+      "correct": true,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-04",
+      "away": "Miami Marlins",
+      "home": "Atlanta Braves",
+      "pick": "Atlanta Braves",
+      "pick_prob": 63.0,
+      "actual_winner": "Atlanta Braves",
+      "correct": true,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-04",
+      "away": "Minnesota Twins",
+      "home": "Kansas City Royals",
+      "pick": "Kansas City Royals",
+      "pick_prob": 64.0,
+      "actual_winner": "Kansas City Royals",
+      "correct": true,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-04",
+      "away": "Pittsburgh Pirates",
+      "home": "Milwaukee Brewers",
+      "pick": "Milwaukee Brewers",
+      "pick_prob": 63.0,
+      "actual_winner": "Milwaukee Brewers",
+      "correct": true,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-04",
+      "away": "Los Angeles Dodgers",
+      "home": "Chicago Cubs",
+      "pick": "Chicago Cubs",
+      "pick_prob": 50.3,
+      "actual_winner": "Chicago Cubs",
+      "correct": true,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-04",
+      "away": "San Francisco Giants",
+      "home": "Texas Rangers",
+      "pick": "Texas Rangers",
+      "pick_prob": 67.0,
+      "actual_winner": "Texas Rangers",
+      "correct": true,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-04",
+      "away": "Toronto Blue Jays",
+      "home": "Houston Astros",
+      "pick": "Houston Astros",
+      "pick_prob": 67.0,
+      "actual_winner": "Houston Astros",
+      "correct": true,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-04",
+      "away": "Tampa Bay Rays",
+      "home": "Colorado Rockies",
+      "pick": "Colorado Rockies",
+      "pick_prob": 60.0,
+      "actual_winner": "Tampa Bay Rays",
+      "correct": false,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-04",
+      "away": "San Diego Padres",
+      "home": "Arizona Diamondbacks",
+      "pick": "Arizona Diamondbacks",
+      "pick_prob": 59.3,
+      "actual_winner": "San Diego Padres",
+      "correct": false,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-04",
+      "away": "Detroit Tigers",
+      "home": "Seattle Mariners",
+      "pick": "Detroit Tigers",
+      "pick_prob": 59.9,
+      "actual_winner": "Detroit Tigers",
+      "correct": true,
+      "high_conf": false
+    }
+  ]
+}
