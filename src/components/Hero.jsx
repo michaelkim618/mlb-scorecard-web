@@ -48,7 +48,7 @@ export default function Hero() {
             padding: "4px 14px", fontSize: 11, fontWeight: 700, letterSpacing: "0.8px",
             textTransform: "uppercase", boxShadow: "0 2px 10px rgba(245,158,11,0.35)",
           }}>
-            ⭐ 오늘의 고신뢰 픽
+            ⭐ Today's High Confidence Pick
           </span>
           <span className="t-caption" style={{ color: "var(--color-muted)" }}>{TODAY}</span>
         </div>

@@ -11,7 +11,7 @@ export default function SeasonStats() {
         <div style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between", marginBottom: 32 }}>
           <div>
             <h2 className="t-display-md" style={{ color: "var(--color-ink)" }}>Season Accuracy</h2>
-            <p className="t-caption" style={{ color: "var(--color-muted)", marginTop: 4 }}>매 경기 추적. 매일 업데이트.</p>
+            <p className="t-caption" style={{ color: "var(--color-muted)", marginTop: 4 }}>Every pick tracked. Updated daily.</p>
           </div>
         </div>
 

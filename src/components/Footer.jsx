@@ -23,8 +23,8 @@ export default function Footer() {
               </span>
             </div>
             <p style={{ fontSize: 13, lineHeight: 1.6, color: "rgba(255,255,255,0.5)" }}>
-              데이터 기반 MLB 경기 예측. 매일 업데이트.
-              투명하고 정확한 분석.
+              Data-driven MLB predictions, updated daily.
+              Transparent, accurate analysis.
             </p>
           </div>
 
@@ -93,7 +93,7 @@ export default function Footer() {
           display: "flex", alignItems: "center", justifyContent: "space-between",
         }}>
           <span style={{ fontSize: 12, color: "rgba(255,255,255,0.35)" }}>
-            © 2026 MLBScorecard.com · 데이터 기반 분석, 투자 조언 아님
+            © 2026 MLBScorecard.com · For entertainment purposes only, not financial advice
           </span>
           <span style={{ fontSize: 12, color: "rgba(255,255,255,0.35)" }}>
             Powered by statsapi.mlb.com

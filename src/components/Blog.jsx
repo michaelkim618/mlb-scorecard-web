@@ -2,6 +2,9 @@ import React from "react";
 import { BLOG_POSTS } from "../data/mlbData";
 
 const TAG_COLORS = {
+  "Results": "#0EA5E9",
+  "SP Analysis": "#8B5CF6",
+  "Methodology": "#16A34A",
   "결과 분석": "#0EA5E9",
   "선발 분석": "#8B5CF6",
   "방법론": "#16A34A",
@@ -14,9 +17,9 @@ export default function Blog() {
         <div style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between", marginBottom: 28 }}>
           <div>
             <h2 className="t-display-md" style={{ color: "var(--color-ink)" }}>From the Desk</h2>
-            <p className="t-caption" style={{ color: "var(--color-muted)", marginTop: 4 }}>분석 · 경기 리뷰 · 방법론</p>
+            <p className="t-caption" style={{ color: "var(--color-muted)", marginTop: 4 }}>Analysis · Game Reviews · Methodology</p>
           </div>
-          <a href="#" className="t-caption-strong" style={{ color: "var(--color-primary)" }}>모든 글 보기 →</a>
+          <a href="#" className="t-caption-strong" style={{ color: "var(--color-primary)" }}>View all posts →</a>
         </div>
 
         <div style={{ display: "flex", flexDirection: "column", gap: 2 }}>

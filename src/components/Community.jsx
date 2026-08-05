@@ -11,7 +11,7 @@ export default function Community() {
         <div style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between", marginBottom: 28 }}>
           <div>
             <h2 className="t-display-md" style={{ color: "var(--color-ink)" }}>Community</h2>
-            <p className="t-caption" style={{ color: "var(--color-muted)", marginTop: 4 }}>오늘의 픽에 대한 의견을 남겨주세요</p>
+            <p className="t-caption" style={{ color: "var(--color-muted)", marginTop: 4 }}>Share your thoughts on today's picks</p>
           </div>
           <div style={{
             display: "flex", alignItems: "center", gap: 6,
@@ -37,7 +37,7 @@ export default function Community() {
               <textarea
                 value={comment}
                 onChange={e => setComment(e.target.value)}
-                placeholder="오늘 경기에 대한 의견을 남겨주세요..."
+                placeholder="Share your take on today's games..."
                 style={{
                   width: "100%", border: "none", outline: "none", resize: "none",
                   fontFamily: "var(--font-text)", fontSize: 14, lineHeight: 1.5,
@@ -47,7 +47,7 @@ export default function Community() {
               />
               <div style={{ display: "flex", justifyContent: "flex-end", marginTop: 8, gap: 8 }}>
                 <span className="t-micro" style={{ color: "var(--color-subtle)", alignSelf: "center" }}>
-                  로그인 후 댓글 작성 가능합니다
+                  Sign in to post a comment
                 </span>
                 <button style={{
                   background: "var(--color-primary)", color: "#fff",
@@ -108,10 +108,10 @@ export default function Community() {
               boxShadow: "var(--shadow-sm)",
             }}>
               <h3 className="t-headline" style={{ color: "var(--color-ink)", marginBottom: 6 }}>
-                커뮤니티 참여하기
+                Join the Community
               </h3>
               <p className="t-caption" style={{ color: "var(--color-muted)", marginBottom: 18 }}>
-                로그인하고 의견을 공유하세요
+                Sign in to share your picks and analysis
               </p>
               <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
                 <button style={{
@@ -119,7 +119,7 @@ export default function Community() {
                   background: "#1877F2", color: "#fff", fontWeight: 600, fontSize: 14,
                   display: "flex", alignItems: "center", justifyContent: "center", gap: 8,
                 }}>
-                  <span style={{ fontSize: 16 }}>𝕏</span> Twitter로 로그인
+                  <span style={{ fontSize: 16 }}>𝕏</span> Sign in with Twitter
                 </button>
                 <button style={{
                   width: "100%", padding: "10px", borderRadius: "var(--radius-md)",
@@ -127,7 +127,7 @@ export default function Community() {
                   fontWeight: 600, fontSize: 14, border: "1px solid var(--color-border)",
                   display: "flex", alignItems: "center", justifyContent: "center", gap: 8,
                 }}>
-                  <span>G</span> Google로 로그인
+                  <span>G</span> Sign in with Google
                 </button>
               </div>
             </div>
@@ -140,7 +140,7 @@ export default function Community() {
             }}>
               <div className="t-label" style={{ color: "var(--color-muted)", marginBottom: 14 }}>📊 Today's Poll</div>
               <p className="t-body-strong" style={{ color: "var(--color-ink)", marginBottom: 16, lineHeight: 1.4 }}>
-                오늘 BOS vs CWS, 누가 이길까요?
+                Who wins today: BOS vs CWS?
               </p>
               {[
                 { team: "BOS Red Sox", pct: 78, color: "#BD3039" },
@@ -157,7 +157,7 @@ export default function Community() {
                 </div>
               ))}
               <div className="t-micro" style={{ color: "var(--color-subtle)", marginTop: 12 }}>
-                247명 투표 · 6시간 남음
+                247 votes · 6 hours left
               </div>
             </div>
           </div>
