@@ -254,8 +254,93 @@ function TeamPanel({ label, color, sc, pitcherName, pitcherStats, pitcherGamelog
   );
 }
 
+// ── Live Scoreboard ───────────────────────────────────────────
+function LiveScoreboard({ liveGame, awayAbbr, homeAbbr, awayColor, homeColor }) {
+  if (!liveGame) return null;
+  const { status, awayScore, homeScore, currentInningOrd, inningHalf, outs, innings } = liveGame;
+  if (status === "Preview") return null;
+
+  const isLive  = status === "Live";
+  const isFinal = status === "Final";
+
+  // Build inning columns (1–9, or more)
+  const maxInn = Math.max(9, innings.length);
+  const innCols = Array.from({ length: maxInn }, (_, i) => {
+    const found = innings.find(x => x.num === i + 1);
+    return { num: i + 1, awayRuns: found?.awayRuns ?? null, homeRuns: found?.homeRuns ?? null };
+  });
+
+  const cellStyle = { padding: "3px 6px", textAlign: "center", fontSize: 11, minWidth: 22 };
+  const headerStyle = { ...cellStyle, color: "var(--color-muted)", fontWeight: 600, fontSize: 10 };
+
+  return (
+    <div style={{
+      margin: "8px 0 4px",
+      background: "#fff",
+      borderRadius: 10,
+      padding: "10px 12px",
+      border: isLive ? "1px solid #FCA5A5" : "1px solid var(--color-border)",
+    }}>
+      {/* Status bar */}
+      <div style={{ display: "flex", alignItems: "center", gap: 8, marginBottom: 8 }}>
+        {isLive && (
+          <span style={{ display: "flex", alignItems: "center", gap: 5 }}>
+            <span style={{ width: 8, height: 8, borderRadius: "50%", background: "#EF4444", animation: "pulse 1.5s infinite", display: "inline-block" }} />
+            <span style={{ fontSize: 11, fontWeight: 800, color: "#EF4444", letterSpacing: "0.5px" }}>LIVE</span>
+          </span>
+        )}
+        {isFinal && (
+          <span style={{ fontSize: 11, fontWeight: 700, color: "var(--color-muted)" }}>FINAL</span>
+        )}
+        {isLive && currentInningOrd && (
+          <span style={{ fontSize: 11, color: "var(--color-muted)" }}>
+            {inningHalf} {currentInningOrd} · {outs} out{outs !== 1 ? "s" : ""}
+          </span>
+        )}
+      </div>
+
+      {/* Scoreboard table */}
+      <div style={{ overflowX: "auto" }}>
+        <table style={{ borderCollapse: "collapse", width: "100%" }}>
+          <thead>
+            <tr>
+              <td style={{ ...headerStyle, textAlign: "left", minWidth: 36, color: "var(--color-muted)" }}>Team</td>
+              {innCols.map(c => (
+                <td key={c.num} style={{ ...headerStyle, color: "var(--color-muted)" }}>{c.num}</td>
+              ))}
+              <td style={{ ...headerStyle, borderLeft: "1px solid var(--color-border)", fontWeight: 800, color: "var(--color-ink)" }}>R</td>
+            </tr>
+          </thead>
+          <tbody>
+            {/* Away row */}
+            <tr>
+              <td style={{ ...cellStyle, textAlign: "left", fontWeight: 800, color: awayColor, fontSize: 12 }}>{awayAbbr}</td>
+              {innCols.map(c => (
+                <td key={c.num} style={{ ...cellStyle, color: c.awayRuns != null ? "var(--color-ink)" : "var(--color-subtle)" }}>
+                  {c.awayRuns ?? "·"}
+                </td>
+              ))}
+              <td style={{ ...cellStyle, borderLeft: "1px solid var(--color-border)", fontWeight: 900, fontSize: 16, color: "var(--color-ink)" }}>{awayScore ?? "—"}</td>
+            </tr>
+            {/* Home row */}
+            <tr>
+              <td style={{ ...cellStyle, textAlign: "left", fontWeight: 800, color: homeColor, fontSize: 12 }}>{homeAbbr}</td>
+              {innCols.map(c => (
+                <td key={c.num} style={{ ...cellStyle, color: c.homeRuns != null ? "var(--color-ink)" : "var(--color-subtle)" }}>
+                  {c.homeRuns ?? "·"}
+                </td>
+              ))}
+              <td style={{ ...cellStyle, borderLeft: "1px solid var(--color-border)", fontWeight: 900, fontSize: 16, color: "var(--color-ink)" }}>{homeScore ?? "—"}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  );
+}
+
 // ── Main GameCard ─────────────────────────────────────────────
-export default function GameCard({ game, defaultOpen = false }) {
+export default function GameCard({ game, liveGame = null, defaultOpen = false }) {
   const [open, setOpen] = useState(defaultOpen);
 
   const awayName  = game.away || "";
@@ -345,7 +430,27 @@ export default function GameCard({ game, defaultOpen = false }) {
 
           {/* Center: status + score */}
           <div style={{ textAlign: "center", minWidth: 90 }}>
-            {hasScore ? (
+            {liveGame?.status === "Live" ? (
+              <div>
+                <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: 5, marginBottom: 3 }}>
+                  <span style={{ width: 7, height: 7, borderRadius: "50%", background: "#EF4444", display: "inline-block" }} />
+                  <span style={{ fontSize: 10, fontWeight: 800, color: "#EF4444" }}>LIVE</span>
+                </div>
+                <div style={{ fontFamily: "var(--font-display)", fontWeight: 900, fontSize: 24, color: "#F59E0B", letterSpacing: "-1px" }}>
+                  {liveGame.awayScore ?? "—"} – {liveGame.homeScore ?? "—"}
+                </div>
+                <div style={{ fontSize: 10, color: "var(--color-muted)" }}>
+                  {liveGame.inningHalf} {liveGame.currentInningOrd}
+                </div>
+              </div>
+            ) : liveGame?.status === "Final" ? (
+              <div>
+                <div style={{ fontSize: 10, fontWeight: 700, color: "var(--color-muted)", marginBottom: 3 }}>FINAL</div>
+                <div style={{ fontFamily: "var(--font-display)", fontWeight: 900, fontSize: 24, color: "var(--color-ink)", letterSpacing: "-1px" }}>
+                  {liveGame.awayScore} – {liveGame.homeScore}
+                </div>
+              </div>
+            ) : hasScore ? (
               <div style={{ fontFamily: "var(--font-display)", fontWeight: 900, fontSize: 24, color: "#F59E0B", letterSpacing: "-1px" }}>
                 {awayScore} – {homeScore}
               </div>
@@ -416,6 +521,16 @@ export default function GameCard({ game, defaultOpen = false }) {
             <span style={{ fontSize: 10, color: "var(--color-muted)" }}>Home {homeProb}%</span>
           </div>
         </div>
+        {/* Live inning scoreboard */}
+        {(liveGame?.status === "Live" || liveGame?.status === "Final") && (
+          <LiveScoreboard
+            liveGame={liveGame}
+            awayAbbr={awayAbbr}
+            homeAbbr={homeAbbr}
+            awayColor={awayColor}
+            homeColor={homeColor}
+          />
+        )}
       </div>
 
       {/* ── Expanded detail ── */}

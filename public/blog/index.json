@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "slug": "2026-08-05-daily-stan",
+      "title": "13W-2L: 오늘 숫자들이 쏟아내는 신호를 봐봐",
+      "author": "Stan",
+      "author_emoji": "📊",
+      "author_color": "#0EA5E9",
+      "author_role": "Data Analyst",
+      "date": "2026-08-05",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#0EA5E9",
+      "read_time": "3 min",
+      "summary": "오늘 13W-2L 완벽한 하루. Skubal ERA 0.89의 숫자가 왜 역사적인지, 내일 BOS Top Pick까지."
+    },
+    {
+      "slug": "2026-08-04-weekly-rico",
+      "title": "트레이드 데드라인 총평: MLB 구단들 다 멍청하냐?",
+      "author": "Rico",
+      "author_emoji": "🎭",
+      "author_color": "#DC2626",
+      "author_role": "Drama Critic",
+      "date": "2026-08-04",
+      "type": "weekly",
+      "tag": "Weekly Analysis",
+      "tag_color": "#DC2626",
+      "read_time": "5 min",
+      "summary": "7월 31일 트레이드 데드라인 총결산. 누가 윈너라면 Losers는 누구인지 솔직하게 까발린다."
+    }
+  ]
+}

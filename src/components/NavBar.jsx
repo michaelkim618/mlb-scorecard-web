@@ -1,8 +1,10 @@
 import React, { useState, useEffect } from "react";
+import { useNavigate } from "react-router-dom";
 import { SEASON_RECORD } from "../data/mlbData";
 
 export default function NavBar() {
   const [scrolled, setScrolled] = useState(false);
+  const navigate = useNavigate();
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 10);
@@ -43,22 +45,38 @@ export default function NavBar() {
         {/* Center Nav Links */}
         <div style={{ display: "flex", alignItems: "center", gap: 28 }}>
           {[
-            { label: "Today's Picks", href: "#slate" },
-            { label: "Season Stats", href: "#stats" },
-            { label: "News", href: "#news" },
-            { label: "Blog", href: "#blog" },
-            { label: "Community", href: "#community" },
-          ].map(({ label, href }) => (
-            <a key={label} href={href} className="t-caption" style={{
-              color: "var(--color-muted)", textDecoration: "none",
-              transition: "color 0.15s",
-            }}
-              onMouseEnter={e => e.target.style.color = "var(--color-ink)"}
-              onMouseLeave={e => e.target.style.color = "var(--color-muted)"}
-            >
-              {label}
-            </a>
-          ))}
+            { label: "Today's Picks", href: "#slate", page: false },
+            { label: "Season Stats", href: "#stats", page: false },
+            { label: "News", href: "#news", page: false },
+            { label: "Blog", href: "/blog", page: true },
+            { label: "Community", href: "#community", page: false },
+          ].map(({ label, href, page }) =>
+            page ? (
+              <button
+                key={label}
+                onClick={() => navigate(href)}
+                className="t-caption"
+                style={{
+                  background: "none", border: "none", cursor: "pointer", padding: 0,
+                  color: "var(--color-muted)", transition: "color 0.15s",
+                }}
+                onMouseEnter={e => e.target.style.color = "var(--color-ink)"}
+                onMouseLeave={e => e.target.style.color = "var(--color-muted)"}
+              >
+                {label}
+              </button>
+            ) : (
+              <a key={label} href={href} className="t-caption" style={{
+                color: "var(--color-muted)", textDecoration: "none",
+                transition: "color 0.15s",
+              }}
+                onMouseEnter={e => e.target.style.color = "var(--color-ink)"}
+                onMouseLeave={e => e.target.style.color = "var(--color-muted)"}
+              >
+                {label}
+              </a>
+            )
+          )}
         </div>
 
         {/* Right: Season badge + Follow */}

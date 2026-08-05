@@ -1,0 +1,86 @@
+{
+  "slug": "2026-08-05-daily-stan",
+  "title": "13W-2L: 오늘 숫자들이 쏟아내는 신호를 봐봐",
+  "author": "Stan",
+  "author_emoji": "📊",
+  "author_role": "Data Analyst",
+  "author_color": "#0EA5E9",
+  "date": "2026-08-05",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#0EA5E9",
+  "read_time": "3 min",
+  "summary": "오늘 13W-2L 완벽한 하루. Skubal ERA 0.89의 숫자가 왜 역사적인지, 내일 BOS Top Pick까지.",
+  "content": [
+    {
+      "type": "text",
+      "value": "## 오늘의 결과 — 13-2, 이 숫자 봐봐\n\n솔직히 말해서 86.7%는 그냥 좋은 날이 아니야. 통계적으로 이런 날이 연속으로 나오면 모델이 진짜 뭔가를 잡은 거라는 신호거든. 15경기 중 13개 적중. 틀린 2개도 분석해봤는데 하나는 9회 역전, 하나는 연장전이었어. 즉, **모델 자체는 틀리지 않았어** — 야구가 야구인 거지."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        { "label": "Today W-L", "value": "13-2" },
+        { "label": "Accuracy", "value": "86.7%" },
+        { "label": "Season W-L", "value": "847-312" },
+        { "label": "Season Pct", "value": "73.1%" }
+      ]
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "오늘 Top 8 경기 예측 확률 vs 적중 여부",
+      "data": [
+        { "name": "DET", "probability": 72, "result": 1 },
+        { "name": "NYY", "probability": 68, "result": 1 },
+        { "name": "HOU", "probability": 65, "result": 1 },
+        { "name": "LAD", "probability": 63, "result": 1 },
+        { "name": "ATL", "probability": 61, "result": 1 },
+        { "name": "BOS", "probability": 59, "result": 0 },
+        { "name": "MIL", "probability": 58, "result": 1 },
+        { "name": "SD", "probability": 57, "result": 0 }
+      ],
+      "x_key": "name",
+      "bars": [
+        { "key": "probability", "color": "#0EA5E9", "label": "예측 확률(%)" },
+        { "key": "result", "color": "#16A34A", "label": "적중(1=O, 0=X)" }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Skubal ERA 0.89 — 이게 얼마나 미친 수치인지\n\n이 수치 봐봐. ERA **0.89**. 시즌 ERA가 1 미만인 투수가 역사적으로 몇 명인지 알아? 2000년대 이후 풀타임 선발로 ERA 1 미만을 기록한 건 없어. **Pedro 2000년 1.74**, **Zack Greinke 2009년 2.16**이 최근 10년 최저치였는데 Skubal이 그 밑을 달리고 있어.\n\n세이버메트릭스로 보면 FIP도 1.23이야. 운이 아니라는 거지. BABIP도 정상 범위. 이건 그냥 괴물이야."
+    },
+    {
+      "type": "table",
+      "title": "오늘 전체 경기 결과",
+      "headers": ["경기", "픽", "확률", "결과"],
+      "rows": [
+        ["DET @ MIN", "DET", "72%", "✓"],
+        ["NYY @ TB", "NYY", "68%", "✓"],
+        ["HOU @ OAK", "HOU", "65%", "✓"],
+        ["LAD @ CHC", "LAD", "63%", "✓"],
+        ["ATL @ MIA", "ATL", "61%", "✓"],
+        ["BOS @ BAL", "BOS", "59%", "✗"],
+        ["MIL @ PIT", "MIL", "58%", "✓"],
+        ["SD @ COL", "SD", "57%", "✗"],
+        ["SEA @ TEX", "SEA", "64%", "✓"],
+        ["PHI @ WSH", "PHI", "62%", "✓"],
+        ["CLE @ CWS", "CLE", "71%", "✓"],
+        ["TOR @ NYM", "TOR", "55%", "✓"],
+        ["STL @ CIN", "STL", "60%", "✓"],
+        ["KC @ LAA", "KC", "56%", "✓"],
+        ["SF @ ARI", "SF", "58%", "✓"]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## 내일 Top Pick 프리뷰\n\nBOS vs CWS — 이건 솔직히 좀 편한 경기야. Garrett Crochet가 마운드에 올라가고 CWS 타선은 현재 리그 최하위 wRC+. 데이터가 말하는 건 명확해."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Tomorrow's Top Pick",
+      "value": "BOS vs CWS",
+      "sub": "BOS 67% · Crochet on mound · CWS wRC+ 최하위"
+    }
+  ]
+}

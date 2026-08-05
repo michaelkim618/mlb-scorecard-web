@@ -1,11 +1,14 @@
 import React from "react";
 import { usePredictions } from "../hooks/usePredictions";
+import useLiveScores from "../hooks/useLiveScores";
 import GameCard from "./GameCard";
 
 const TODAY = new Date().toLocaleDateString("en-CA"); // YYYY-MM-DD
+const TODAY_DISPLAY = new Date().toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
 
 export default function TodaysGames() {
   const { games, seasonW, seasonL, loading, error } = usePredictions(TODAY);
+  const { scores, lastUpdated } = useLiveScores(TODAY_DISPLAY);
 
   return (
     <section id="slate" style={{ background: "var(--color-canvas-muted)", padding: "56px 0", scrollMarginTop: "var(--nav-height)" }}>
@@ -21,12 +24,19 @@ export default function TodaysGames() {
               Click a game to see the full model breakdown
             </p>
           </div>
-          <div style={{
-            background: "var(--color-primary)", color: "#fff",
-            borderRadius: "var(--radius-full)", padding: "5px 14px",
-            fontSize: 12, fontWeight: 700,
-          }}>
-            {games.length} Games
+          <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
+            {lastUpdated && (
+              <span style={{ fontSize: 11, color: "var(--color-muted)" }}>
+                Live scores updated {lastUpdated.toLocaleTimeString("en-US", { hour: "2-digit", minute: "2-digit", second: "2-digit" })}
+              </span>
+            )}
+            <div style={{
+              background: "var(--color-primary)", color: "#fff",
+              borderRadius: "var(--radius-full)", padding: "5px 14px",
+              fontSize: 12, fontWeight: 700,
+            }}>
+              {games.length} Games
+            </div>
           </div>
         </div>
 
@@ -50,9 +60,19 @@ export default function TodaysGames() {
                 No games found for today.
               </div>
             ) : (
-              games.map((game, i) => (
-                <GameCard key={i} game={game} defaultOpen={i === 0 && (game.consensus || game.value_bet)} />
-              ))
+              games.map((game, i) => {
+                // Match live score by team name
+                const liveKey = `${game.away}|${game.home}`;
+                const liveGame = scores[liveKey] || null;
+                return (
+                  <GameCard
+                    key={i}
+                    game={game}
+                    liveGame={liveGame}
+                    defaultOpen={i === 0 && (game.consensus || game.value_bet)}
+                  />
+                );
+              })
             )}
           </div>
         )}
