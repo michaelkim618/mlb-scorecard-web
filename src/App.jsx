@@ -13,9 +13,18 @@ function App() {
   const location = useLocation();
 
   // When navigating from /blog to /#section, scroll to that section
+  // Also handle Supabase OAuth callback (strips access_token from URL)
   useEffect(() => {
-    if (location.hash) {
-      const el = document.querySelector(location.hash);
+    const hash = location.hash;
+
+    // Supabase OAuth callback contains access_token — clean URL and reload
+    if (hash && hash.includes("access_token")) {
+      window.history.replaceState(null, "", window.location.pathname);
+      return;
+    }
+
+    if (hash) {
+      const el = document.querySelector(hash);
       if (el) {
         setTimeout(() => el.scrollIntoView({ behavior: "smooth" }), 100);
       }
