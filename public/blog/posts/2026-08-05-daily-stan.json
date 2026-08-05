@@ -1,6 +1,6 @@
 {
   "slug": "2026-08-05-daily-stan",
-  "title": "13W-2L: 오늘 숫자들이 쏟아내는 신호를 봐봐",
+  "title": "13W-2L: The Numbers Don't Lie — And Today They Were Screaming",
   "author": "Stan",
   "author_emoji": "📊",
   "author_role": "Data Analyst",
@@ -10,11 +10,11 @@
   "tag": "Daily Review",
   "tag_color": "#0EA5E9",
   "read_time": "3 min",
-  "summary": "오늘 13W-2L 완벽한 하루. Skubal ERA 0.89의 숫자가 왜 역사적인지, 내일 BOS Top Pick까지.",
+  "summary": "86.7% accuracy today — 13W-2L. Skubal's ERA is historically insane, and tomorrow's BOS top pick is a no-brainer.",
   "content": [
     {
       "type": "text",
-      "value": "## 오늘의 결과 — 13-2, 이 숫자 봐봐\n\n솔직히 말해서 86.7%는 그냥 좋은 날이 아니야. 통계적으로 이런 날이 연속으로 나오면 모델이 진짜 뭔가를 잡은 거라는 신호거든. 15경기 중 13개 적중. 틀린 2개도 분석해봤는데 하나는 9회 역전, 하나는 연장전이었어. 즉, **모델 자체는 틀리지 않았어** — 야구가 야구인 거지."
+      "value": "## Today's Results — 13-2. Look at That Number.\n\nLet me be real with you: 86.7% isn't just a good day. Statistically, when you string together results like this, it's a signal that the model has locked onto something real. 15 games, 13 correct. I dug into the 2 misses — one was a 9th-inning comeback, the other went to extras. In other words, **the model wasn't wrong — baseball happened**. There's a difference."
     },
     {
       "type": "stat_row",
@@ -28,7 +28,7 @@
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "오늘 Top 8 경기 예측 확률 vs 적중 여부",
+      "title": "Top 8 Games — Win Probability vs. Hit/Miss",
       "data": [
         { "name": "DET", "probability": 72, "result": 1 },
         { "name": "NYY", "probability": 68, "result": 1 },
@@ -41,18 +41,18 @@
       ],
       "x_key": "name",
       "bars": [
-        { "key": "probability", "color": "#0EA5E9", "label": "예측 확률(%)" },
-        { "key": "result", "color": "#16A34A", "label": "적중(1=O, 0=X)" }
+        { "key": "probability", "color": "#0EA5E9", "label": "Win Probability (%)" },
+        { "key": "result", "color": "#16A34A", "label": "Correct (1=Yes, 0=No)" }
       ]
     },
     {
       "type": "text",
-      "value": "## Skubal ERA 0.89 — 이게 얼마나 미친 수치인지\n\n이 수치 봐봐. ERA **0.89**. 시즌 ERA가 1 미만인 투수가 역사적으로 몇 명인지 알아? 2000년대 이후 풀타임 선발로 ERA 1 미만을 기록한 건 없어. **Pedro 2000년 1.74**, **Zack Greinke 2009년 2.16**이 최근 10년 최저치였는데 Skubal이 그 밑을 달리고 있어.\n\n세이버메트릭스로 보면 FIP도 1.23이야. 운이 아니라는 거지. BABIP도 정상 범위. 이건 그냥 괴물이야."
+      "value": "## Skubal ERA 0.89 — Do You Understand How Insane This Is?\n\nLook at this number. **ERA 0.89**. Do you know how many full-time starters have finished a season under 1.00 ERA since 2000? Zero. Pedro Martinez's legendary 2000 season was 1.74. Zack Greinke in 2009 posted 2.16 — considered one of the best in recent memory. Skubal is running **below both of those** right now.\n\nAnd before you say it's luck — FIP is 1.23. BABIP is normal. This isn't smoke and mirrors. This is a generational pitching performance happening in real time."
     },
     {
       "type": "table",
-      "title": "오늘 전체 경기 결과",
-      "headers": ["경기", "픽", "확률", "결과"],
+      "title": "Full Game Results — August 5",
+      "headers": ["Game", "Pick", "Prob", "Result"],
       "rows": [
         ["DET @ MIN", "DET", "72%", "✓"],
         ["NYY @ TB", "NYY", "68%", "✓"],
@@ -73,14 +73,14 @@
     },
     {
       "type": "text",
-      "value": "## 내일 Top Pick 프리뷰\n\nBOS vs CWS — 이건 솔직히 좀 편한 경기야. Garrett Crochet가 마운드에 올라가고 CWS 타선은 현재 리그 최하위 wRC+. 데이터가 말하는 건 명확해."
+      "value": "## Tomorrow's Top Pick Preview\n\nBOS vs CWS — honestly, this one is straightforward. Garrett Crochet takes the mound, and the White Sox lineup is currently sitting at the bottom of the league in wRC+. The data is telling a clear story here. No drama needed."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Tomorrow's Top Pick",
       "value": "BOS vs CWS",
-      "sub": "BOS 67% · Crochet on mound · CWS wRC+ 최하위"
+      "sub": "BOS 67% · Crochet on the mound · CWS lowest wRC+ in the league"
     }
   ]
 }

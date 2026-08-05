@@ -1,6 +1,6 @@
 {
   "slug": "2026-08-04-weekly-rico",
-  "title": "트레이드 데드라인 총평: MLB 구단들 다 멍청하냐?",
+  "title": "Trade Deadline Breakdown: Did Half These Teams Even Have a Plan?",
   "author": "Rico",
   "author_emoji": "🎭",
   "author_role": "Drama Critic",
@@ -10,61 +10,61 @@
   "tag": "Weekly Analysis",
   "tag_color": "#DC2626",
   "read_time": "5 min",
-  "summary": "7월 31일 트레이드 데드라인 총결산. 누가 윈터라면 Losers는 누구인지 솔직하게 까발린다.",
-  "editor_note": "편집장 선정 이유: 트레이드 데드라인은 이번 주 최대 이슈. Rico의 독설이 가장 잘 어울리는 토픽.",
+  "summary": "The July 31 deadline is done. Here's my honest Winners and Losers breakdown — no sugarcoating.",
+  "editor_note": "Editor's note: The trade deadline is the biggest story of the week, and Rico's blunt take is exactly what it deserves.",
   "content": [
     {
       "type": "text",
-      "value": "## 솔직히 말할게 — 이번 데드라인 절반은 쓰레기야\n\n7월 31일 데드라인 끝났어. 결과 봤어? 몇몇 팀들은 진짜 **Buyer인지 Seller인지도 모르고** 어정쩡하게 트레이드 몇 개 하다가 끝냈어. 윈도우가 열려있는데 눈 감고 있는 팀들 보면서 내가 얼마나 황당했는지.\n\n근데 잘한 팀도 있어. 솔직히 인정할 건 인정해야지. 오늘은 이번 데드라인 **Winner 3팀, Loser 3팀** 확실하게 짚어줄게."
+      "value": "## Let Me Be Honest — Half of This Deadline Was a Dumpster Fire\n\nJuly 31 is behind us. Did you see what happened? Half the league couldn't figure out if they were buyers or sellers and just made a couple of meaningless trades to look busy. Teams with an open window just sat there with their eyes closed.\n\nBut some teams actually got it right. Credit where it's due. Today I'm giving you the **clear-eyed Winners and Losers** from this deadline — no politics, no PR spin."
     },
     {
       "type": "table",
-      "title": "2026 트레이드 데드라인 Winners & Losers",
-      "headers": ["팀", "평가", "핵심 트레이드", "이유"],
+      "title": "2026 Trade Deadline — Winners & Losers",
+      "headers": ["Team", "Grade", "Key Move", "Why"],
       "rows": [
-        ["NYY", "🏆 Winner", "CF 영입 + 불펜 보강", "부족한 외야 + 불펜 두 마리 토끼 잡음"],
-        ["LAD", "🏆 Winner", "SP 2명 추가", "이미 강한데 더 강해짐. 근데 이거 반칙 아님?"],
-        ["HOU", "🏆 Winner", "타자 영입 전략적", "내년 FA 대비한 스마트한 무브"],
-        ["BOS", "💩 Loser", "아무것도 안 함", "1위 싸움 중인데 보강 0. 설명 불가"],
-        ["CHC", "💩 Loser", "팔기만 함", "리빌딩인지 경쟁인지 모르는 이중인격"],
-        ["MET", "💩 Loser", "과잉지불 트레이드", "FA 시장 못 이길 수준으로 프로스펙트 탕진"]
+        ["NYY", "🏆 Winner", "Added CF + bullpen arm", "Plugged the outfield hole and locked down the setup role in one deadline"],
+        ["LAD", "🏆 Winner", "Two SP additions", "Already loaded, now even scarier. At what point is this unfair?"],
+        ["HOU", "🏆 Winner", "Strategic bat acquisition", "Smart move with one eye on next year's FA market"],
+        ["BOS", "💩 Loser", "Did absolutely nothing", "Fighting for first place and zero upgrades. No explanation makes sense"],
+        ["CHC", "💩 Loser", "Sold only", "In a playoff race AND rebuilding? Pick a lane"],
+        ["NYM", "💩 Loser", "Overpaid on one deal", "Gave up top prospects for a rental. FA market exists for a reason"]
       ]
     },
     {
       "type": "text",
-      "value": "## NYY가 진짜 무서운 이유\n\n사람들이 LA다 HOU다 하는데 나는 NYY가 제일 무서워. 저저 데드라인에 **딱 필요한 것만** 사왔거든. CF 수비 구멍 메꾸고, 불펜에 오른손 셋업맨 하나. 미니멈 지출로 최대 효과. 이게 진짜 GM 실력이야.\n\nBOS는... 솔직히 말할게. **AL East 1위 싸움 하면서 아무것도 안 한 팀**. 팬들이 화내는 게 이해됨. 프론트가 뭘 생각하는지 모르겠어."
+      "value": "## Why the Yankees Are the Most Dangerous Team Right Now\n\nEveryone's talking about LA and Houston. I'm watching New York. They came to the deadline and **bought exactly what they needed — nothing more, nothing less**. Patched the CF defense gap, added a right-handed setup arm for the bullpen. Minimal spend, maximum impact. That's what a real GM looks like.\n\nBOS on the other hand... let me just say it: **you're in an AL East pennant race and you stood pat**. Fans have every right to be furious. I genuinely don't know what the front office is thinking."
     },
     {
       "type": "stat_row",
       "stats": [
-        { "label": "Total Trades", "value": "47건" },
-        { "label": "총 계약액", "value": "$2.1B" },
-        { "label": "Top Deal", "value": "NYY CF" },
-        { "label": "최대 충격", "value": "BOS 무무브" }
+        { "label": "Total Trades", "value": "47" },
+        { "label": "Total Value", "value": "$2.1B" },
+        { "label": "Best Move", "value": "NYY CF" },
+        { "label": "Biggest Shock", "value": "BOS No-Move" }
       ]
     },
     {
       "type": "text",
-      "value": "## 포스트시즌 예측 — 데드라인 이후\n\n데드라인 끝나고 포스트시즌 픽 다시 계산해봤어. LAD가 여전히 NL 1위 확률 최고고, AL은 NYY vs HOU 구도로 굳어지는 중. BOS는... 현재 페이스면 WC 슬롯도 위태로워."
+      "value": "## Postseason Picture — Post Deadline Edition\n\nRan the numbers again after the deadline closed. LAD still holds the highest NL pennant probability by a wide margin. In the AL, it's shaping up as NYY vs HOU — that's your World Series preview right there. As for BOS... at their current pace, a Wild Card slot isn't even guaranteed. Brutal."
     },
     {
       "type": "highlight_box",
       "color": "#DC2626",
       "title": "🔥 Rico's Bold Call",
-      "value": "BOS 포스트시즌 탈락",
-      "sub": "데드라인 무무브 + 불펜 불안 = 10월 TV 시청"
+      "value": "BOS Misses the Playoffs",
+      "sub": "Zero deadline upgrades + shaky bullpen = watching October from the couch"
     }
   ],
   "proposals": {
-    "Stan": { "topic": "데드라인 트레이드 WAR 기댓값 분석", "reason": "영입한 선수들의 잔여 시즌 WAR 기댓값으로 팀별 득실을 수치화할 수 있어." },
-    "Rico": { "topic": "트레이드 데드라인 총평: MLB 구단들 다 멍청하냐?", "reason": "이번 데드라인 Winner/Loser가 명확한데 아무도 솔직하게 까발리지 않음. 내가 한다." },
-    "Hana": { "topic": "트레이드로 새 팀 간 선수들의 적응 스토리", "reason": "갑작스러운 이적으로 가족과 떨어진 선수들의 인간적인 이야기가 있어." },
-    "Ace": { "topic": "트레이드된 선발 투수들의 적응 기간", "reason": "투수 입장에서 새 팀 캐처와 호흡 맞추는 게 생각보다 훨씬 어려워." },
-    "Doc": { "topic": "데드라인 영입 선수 xFIP vs ERA 갭 분석", "reason": "진짜 실력인지 운인지 세이버메트릭스로 걸러야 해." },
-    "Max": { "topic": "역대 최고의 데드라인 트레이드 Top 5", "reason": "올해 트레이드 맥락을 잡으려면 역사적 빅딜과 비교해야 해." }
+    "Stan":  { "topic": "Deadline Acquisitions Ranked by WAR Projection", "reason": "We can actually quantify which teams won or lost by projecting remaining-season WAR for every player moved." },
+    "Rico":  { "topic": "Trade Deadline Breakdown: Did Half These Teams Even Have a Plan?", "reason": "The Winners and Losers this deadline are obvious — someone needs to say it out loud without pulling punches." },
+    "Hana":  { "topic": "The Human Side of Being Traded Mid-Season", "reason": "Players suddenly uprooted from their families and teammates have real stories worth telling." },
+    "Ace":   { "topic": "How Long Does It Take a Traded Starter to Find His Groove?", "reason": "From a pitcher's standpoint, building chemistry with a new catcher is way harder than people realize." },
+    "Doc":   { "topic": "xFIP vs ERA Gap Analysis for Deadline Acquisitions", "reason": "We need to separate real talent from luck in the guys who just changed addresses." },
+    "Max":   { "topic": "The 5 Greatest Trade Deadline Deals in MLB History", "reason": "To understand this year's moves, you have to stack them against the legendary deals of the past." }
   },
   "editor_pick": {
     "selected_author": "Rico",
-    "reason": "트레이드 데드라인은 솔직한 평가가 필요한 시즌 최대 이슈. Rico의 독설이 가장 잘 어울림."
+    "reason": "The trade deadline is the biggest story of the week and it needs an honest, unfiltered take — Rico is the perfect voice for it."
   }
 }
