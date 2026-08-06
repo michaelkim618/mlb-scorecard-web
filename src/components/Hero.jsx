@@ -225,39 +225,31 @@ export default function Hero() {
           </span>
         </div>
 
-        {/* 선수 사진 영역 (중앙) — MLB action/hero 투명배경 PNG */}
+        {/* 선수 사진 영역 (중앙) — headshot/silo 투명배경, 얼굴+어깨 클로즈업 */}
         <div style={{
           position:"absolute", left:"50%", transform:"translateX(-50%)",
-          bottom:0, zIndex:1, pointerEvents:"none", width:420,
+          top: 20, zIndex:1, pointerEvents:"none", width:560,
         }}>
           {/* 글로우 헤일로 */}
           <div style={{
-            position:"absolute", bottom:0, left:"50%", transform:"translateX(-50%)",
-            width:340, height:340, borderRadius:"50%",
+            position:"absolute", top:"30%", left:"50%", transform:"translateX(-50%)",
+            width:400, height:400, borderRadius:"50%",
             background:`radial-gradient(circle, ${pickColor_}28 0%, transparent 70%)`,
-            filter:"blur(36px)",
+            filter:"blur(40px)",
           }} />
-          {/* 투명배경 전신 사진 — action/hero 타입 */}
+          {/* headshot silo — 얼굴+어깨, 투명배경 */}
           <img
-            src={`https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:action:hero:current.png/w_1000,q_auto:best/v1/people/${pickIsHome ? (topGame.home_pitcher_id || "1") : (topGame.away_pitcher_id || "1")}/action/hero/current`}
+            src={`https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/w_640,q_auto:best/v1/people/${pickIsHome ? (topGame.home_pitcher_id || "1") : (topGame.away_pitcher_id || "1")}/headshot/silo/current`}
             alt={pickPitcherName}
             style={{
               width:"100%",
-              height:500,
+              height:480,
               objectFit:"contain",
-              objectPosition:"center top",    /* 얼굴부터 보이게 위 기준 */
+              objectPosition:"center top",
               display:"block",
-              filter:"drop-shadow(0 8px 24px rgba(0,0,0,0.18))",
+              filter:"drop-shadow(0 12px 32px rgba(0,0,0,0.22))",
             }}
-            onError={e => {
-              /* action/hero 없으면 headshot silo(반신 투명) 시도 */
-              const pid = pickIsHome ? (topGame.home_pitcher_id || "") : (topGame.away_pitcher_id || "");
-              if (e.target.src.includes("action/hero")) {
-                e.target.src = `https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/w_640,q_auto:best/v1/people/${pid}/headshot/silo/current`;
-              } else {
-                e.target.onerror = null;
-              }
-            }}
+            onError={e => { e.target.onerror = null; }}
           />
         </div>
 
