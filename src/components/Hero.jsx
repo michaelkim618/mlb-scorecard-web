@@ -71,7 +71,7 @@ function StatCard({ label, value, frac, bg, big }) {
 
 /* ── 메인 ────────────────────────────────────────────────────── */
 export default function Hero() {
-  const { games, loading } = usePredictions(TODAY_DATE);
+  const { games, loading, lastUpdated } = usePredictions(TODAY_DATE, { refreshInterval: 5 * 60 * 1000 }); // 5분마다 자동 갱신
 
   /* 최고 신뢰도 게임 선택 */
   const topGame = React.useMemo(() => {
@@ -202,9 +202,16 @@ export default function Hero() {
           </span>
           <span className="t-caption" style={{ color:"var(--color-muted)" }}>{TODAY_DISPLAY}</span>
         </div>
-        <span className="t-caption" style={{ color:"var(--color-muted)" }}>
-          {topGame.game_time ? `${topGame.game_time} · ` : ""}{awayAbbr} @ {homeAbbr}
-        </span>
+        <div style={{ display:"flex", alignItems:"center", gap:12 }}>
+          {lastUpdated && (
+            <span className="t-caption" style={{ color:"var(--color-subtle)", fontSize:11 }}>
+              🔄 {lastUpdated.toLocaleTimeString("en-US", { hour:"2-digit", minute:"2-digit" })}
+            </span>
+          )}
+          <span className="t-caption" style={{ color:"var(--color-muted)" }}>
+            {topGame.game_time ? `${topGame.game_time} · ` : ""}{awayAbbr} @ {homeAbbr}
+          </span>
+        </div>
       </div>
 
       {/* ── 스테이지 ── */}
