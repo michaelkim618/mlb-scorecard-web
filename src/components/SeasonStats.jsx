@@ -154,7 +154,8 @@ export default function SeasonStats() {
               <span style={{ fontWeight: 700, fontSize: 14, color: "var(--color-ink)" }}>Daily History</span>
               <span style={{ fontSize: 12, color: "var(--color-muted)" }}>{byDate.length} days tracked</span>
             </div>
-            <div>
+            {/* 스크롤 영역: 4개 행 높이(~220px) 고정 */}
+            <div style={{ maxHeight: 220, overflowY: "auto" }}>
               {byDate.map(([dateStr, dateGames], i) => {
                 const dW   = dateGames.filter(g => g.correct).length;
                 const dL   = dateGames.filter(g => !g.correct).length;
