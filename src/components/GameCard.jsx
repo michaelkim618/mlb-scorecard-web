@@ -492,11 +492,12 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
   const isDone     = game.model_correct !== null && game.model_correct !== undefined;
   const isCorrect  = game.model_correct === true;
 
-  // Live scores
+  // 실제 종료된 경기 스코어 (actual_winner 있어야 확정된 것)
   const actual    = game.actual_score || {};
   const awayScore = actual.away;
   const homeScore = actual.home;
-  const hasScore  = awayScore !== null && awayScore !== undefined;
+  const hasScore  = game.actual_winner != null &&
+                    awayScore !== null && awayScore !== undefined;
 
   return (
     <div style={{ borderRadius: "var(--radius-md)", overflow: "hidden", background: "#fff", boxShadow: "var(--shadow-sm)", border: `1px solid var(--color-border)`, borderLeft: `4px solid ${isHighConf ? "#F59E0B" : pickColor}` }}>
