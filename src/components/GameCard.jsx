@@ -257,13 +257,11 @@ function TeamPanel({ label, color, sc, pitcherName, pitcherStats, pitcherGamelog
 // ── Live Scoreboard ───────────────────────────────────────────
 function LiveScoreboard({ liveGame, awayAbbr, homeAbbr, awayColor, homeColor }) {
   if (!liveGame) return null;
-  const { status, detailCode, awayScore, homeScore, currentInningOrd, inningHalf, outs, innings } = liveGame;
+  const { status, detailCode, awayScore, homeScore, currentInning, currentInningOrd, inningHalf, outs, innings } = liveGame;
   if (status === "Preview") return null;
 
-  // detailCode "S" = Scheduled (경기 전), "PW" = Pre-game Warmup
-  // 실제 진행 중인 경우만 LIVE 표시
-  const PREGAME_CODES = new Set(["S", "PW", "P", "PR", "SO"]);
-  const isLive  = status === "Live" && !PREGAME_CODES.has(detailCode);
+  // 실제 진행 중 = detailCode "I" (In Progress) 이고 이닝이 1 이상
+  const isLive  = status === "Live" && detailCode === "I" && (currentInning ?? 0) >= 1;
   const isFinal = status === "Final";
 
   // Build inning columns (1–9, or more)
@@ -540,7 +538,7 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
 
           {/* Center: status + score */}
           <div style={{ textAlign: "center", minWidth: 90 }}>
-            {liveGame?.status === "Live" && !["S","PW","P","PR","SO"].includes(liveGame?.detailCode) ? (
+            {liveGame?.status === "Live" && liveGame?.detailCode === "I" && (liveGame?.currentInning ?? 0) >= 1 ? (
               <div>
                 <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: 5, marginBottom: 3 }}>
                   <span style={{ width: 7, height: 7, borderRadius: "50%", background: "#EF4444", display: "inline-block" }} />
@@ -632,7 +630,7 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
           </div>
         </div>
         {/* Live inning scoreboard */}
-        {((liveGame?.status === "Live" && !["S","PW","P","PR","SO"].includes(liveGame?.detailCode)) || liveGame?.status === "Final") && (
+        {((liveGame?.status === "Live" && liveGame?.detailCode === "I" && (liveGame?.currentInning ?? 0) >= 1) || liveGame?.status === "Final") && (
           <LiveScoreboard
             liveGame={liveGame}
             awayAbbr={awayAbbr}
