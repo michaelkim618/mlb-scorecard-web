@@ -93,6 +93,7 @@
       "streak": 2
     },
     "away_pitcher": "Ryan Johnson",
+    "away_pitcher_id": 696270,
     "away_pitcher_stats": {
       "wins": 2,
       "losses": 6,
@@ -151,6 +152,7 @@
       }
     ],
     "home_pitcher": "Brandon Young",
+    "home_pitcher_id": 687064,
     "home_pitcher_stats": {
       "wins": 8,
       "losses": 2,
@@ -450,6 +452,7 @@
       "streak": 3
     },
     "away_pitcher": "Mason Barnett",
+    "away_pitcher_id": 686930,
     "away_pitcher_stats": {
       "wins": 1,
       "losses": 1,
@@ -508,6 +511,7 @@
       }
     ],
     "home_pitcher": "Andrew Abbott",
+    "home_pitcher_id": 671096,
     "home_pitcher_stats": {
       "wins": 5,
       "losses": 7,
@@ -807,6 +811,7 @@
       "streak": -2
     },
     "away_pitcher": "Nolan McLean",
+    "away_pitcher_id": 690997,
     "away_pitcher_stats": {
       "wins": 7,
       "losses": 7,
@@ -865,6 +870,7 @@
       }
     ],
     "home_pitcher": "Foster Griffin",
+    "home_pitcher_id": 656492,
     "home_pitcher_stats": {
       "wins": 12,
       "losses": 3,
@@ -924,18 +930,18 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 43.6,
-      "home": 56.4
+      "away": 47.9,
+      "home": 52.1
     },
     "expected_score": {
       "away": 1.6,
-      "home": 2.8
+      "home": 2.2
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "L",
       "bullpen_game": false,
@@ -967,32 +973,32 @@
           "team_era": 2.53,
           "sample_games": 10
         },
-        "bat_score": 26.8,
+        "bat_score": 27.4,
         "bat_detail": {
-          "recent_avg": 0.219,
+          "recent_avg": 0.231,
           "runs_per_g": 4.9,
           "hr_per_g": 0.9,
           "bb_per_g": 3.0,
-          "season_ops": 0.676,
-          "season_avg": 0.219,
+          "season_ops": 0.648,
+          "season_avg": 0.231,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "A.J. Ewing(0.664)",
             "Francisco Lindor(0.785)",
             "Bo Bichette(0.643)",
+            "Luis Robert Jr.(0.503)",
             "Carson Benge(0.796)",
-            "Jared Young(0.727)",
             "Francisco Alvarez(0.770)",
-            "Brett Baty(0.590)",
-            "Jorge Polanco(0.395)",
-            "Marcus Semien(0.710)"
+            "Marcus Semien(0.710)",
+            "Eric Wagaman(0.557)",
+            "Luis Torrens(0.716)",
+            "Cristian Pache(0.350)"
           ]
         },
         "sit_score": 46.9,
-        "total": 54.0
+        "total": 54.2
       },
       "home": {
         "sp_score": 72.0,
@@ -1015,24 +1021,24 @@
           "team_era": 3.48,
           "sample_games": 10
         },
-        "bat_score": 47.0,
+        "bat_score": 38.3,
         "bat_detail": {
-          "recent_avg": 0.313,
+          "recent_avg": 0.285,
           "runs_per_g": 3.2,
           "hr_per_g": 0.9,
           "bb_per_g": 3.0,
-          "season_ops": 0.79,
-          "season_avg": 0.313,
+          "season_ops": 0.754,
+          "season_avg": 0.285,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Steven Kwan(0.761)",
-            "Chase DeLauter(0.765)",
-            "Jo Adell(0.672)",
-            "Nathaniel Lowe(0.857)",
             "Travis Bazzana(0.702)",
+            "Chase DeLauter(0.765)",
+            "José Ramírez(0.577)",
+            "Nathaniel Lowe(0.857)",
+            "Angel Martínez(0.534)",
             "Brayan Rocchio(0.499)",
             "Petey Halpin(0.503)",
             "Patrick Bailey(0.748)",
@@ -1040,20 +1046,20 @@
           ]
         },
         "sit_score": 56.9,
-        "total": 59.5
+        "total": 56.4
       }
     },
     "scores": {
-      "away_offense": 26.8,
+      "away_offense": 27.4,
       "away_defense": 76.0,
-      "home_offense": 47.0,
+      "home_offense": 38.3,
       "home_defense": 68.2
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -1064,8 +1070,8 @@
     "model_winner": "Cleveland Guardians",
     "model_correct": null,
     "notes": "New York Mets IL: Austin Warren, Cionel Pérez, Juan Soto, Justin Hagenman, Mark Vientos 외 다수 / Cleveland Guardians IL: Shawn Armstrong",
-    "kalshi_prob": 52.0,
-    "edge": 4.4,
+    "kalshi_prob": 53.0,
+    "edge": -0.9,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -1164,6 +1170,7 @@
       "streak": 2
     },
     "away_pitcher": "Braxton Ashcraft",
+    "away_pitcher_id": 677952,
     "away_pitcher_stats": {
       "wins": 11,
       "losses": 4,
@@ -1222,6 +1229,7 @@
       }
     ],
     "home_pitcher": "Dustin May",
+    "home_pitcher_id": 669160,
     "home_pitcher_stats": {
       "wins": 5,
       "losses": 7,
@@ -1521,6 +1529,7 @@
       "streak": 3
     },
     "away_pitcher": "Dylan Cease",
+    "away_pitcher_id": 656302,
     "away_pitcher_stats": {
       "wins": 7,
       "losses": 5,
@@ -1579,6 +1588,7 @@
       }
     ],
     "home_pitcher": "David Peterson",
+    "home_pitcher_id": 656849,
     "home_pitcher_stats": {
       "wins": 6,
       "losses": 7,
@@ -1878,6 +1888,7 @@
       "streak": 1
     },
     "away_pitcher": "Framber Valdez",
+    "away_pitcher_id": 664285,
     "away_pitcher_stats": {
       "wins": 6,
       "losses": 7,
@@ -1936,6 +1947,7 @@
       }
     ],
     "home_pitcher": "Bryce Miller",
+    "home_pitcher_id": 682243,
     "home_pitcher_stats": {
       "wins": 4,
       "losses": 5,
@@ -2235,6 +2247,7 @@
       "streak": -1
     },
     "away_pitcher": "Miles Mikolas",
+    "away_pitcher_id": 571945,
     "away_pitcher_stats": {
       "wins": 3,
       "losses": 8,
@@ -2293,6 +2306,7 @@
       }
     ],
     "home_pitcher": "Cristopher Sánchez",
+    "home_pitcher_id": 650911,
     "home_pitcher_stats": {
       "wins": 14,
       "losses": 4,
@@ -2592,6 +2606,7 @@
       "streak": 5
     },
     "away_pitcher": "Luis Castillo",
+    "away_pitcher_id": 622491,
     "away_pitcher_stats": {
       "wins": 3,
       "losses": 9,
@@ -2650,6 +2665,7 @@
       }
     ],
     "home_pitcher": "Ranger Suarez",
+    "home_pitcher_id": 624133,
     "home_pitcher_stats": {
       "wins": 4,
       "losses": 3,
@@ -2949,6 +2965,7 @@
       "streak": 5
     },
     "away_pitcher": "Janson Junk",
+    "away_pitcher_id": 676083,
     "away_pitcher_stats": {
       "wins": 5,
       "losses": 6,
@@ -3007,6 +3024,7 @@
       }
     ],
     "home_pitcher": "Martín Pérez",
+    "home_pitcher_id": 527048,
     "home_pitcher_stats": {
       "wins": 7,
       "losses": 6,
@@ -3306,6 +3324,7 @@
       "streak": 2
     },
     "away_pitcher": "Bailey Ober",
+    "away_pitcher_id": 641927,
     "away_pitcher_stats": {
       "wins": 7,
       "losses": 3,
@@ -3364,6 +3383,7 @@
       }
     ],
     "home_pitcher": "Michael Wacha",
+    "home_pitcher_id": 608379,
     "home_pitcher_stats": {
       "wins": 5,
       "losses": 8,
@@ -3663,6 +3683,7 @@
       "streak": 1
     },
     "away_pitcher": "Walker Buehler",
+    "away_pitcher_id": 621111,
     "away_pitcher_stats": {
       "wins": 6,
       "losses": 5,
@@ -3721,6 +3742,7 @@
       }
     ],
     "home_pitcher": "Kohl Drake",
+    "home_pitcher_id": 684442,
     "home_pitcher_stats": {
       "wins": 0,
       "losses": 0,
