@@ -225,32 +225,40 @@ export default function Hero() {
           </span>
         </div>
 
-        {/* 선수 사진 영역 (중앙) — MLB headshot (없으면 generic) */}
+        {/* 선수 사진 영역 (중앙) — MLB action/hero 투명배경 PNG */}
         <div style={{
           position:"absolute", left:"50%", transform:"translateX(-50%)",
-          bottom:0, zIndex:1, pointerEvents:"none", width:380,
+          bottom:0, zIndex:1, pointerEvents:"none", width:420,
         }}>
           {/* 글로우 헤일로 */}
           <div style={{
-            position:"absolute", bottom:20, left:"50%", transform:"translateX(-50%)",
-            width:320, height:320, borderRadius:"50%",
-            background:`radial-gradient(circle, ${pickColor_}22 0%, transparent 70%)`,
-            filter:"blur(32px)",
+            position:"absolute", bottom:0, left:"50%", transform:"translateX(-50%)",
+            width:340, height:340, borderRadius:"50%",
+            background:`radial-gradient(circle, ${pickColor_}28 0%, transparent 70%)`,
+            filter:"blur(36px)",
           }} />
-          {/* 사진 */}
-          <div style={{ position:"relative" }}>
-            <img
-              src={`https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_640,q_auto:best/v1/people/${pickIsHome ? (topGame.home_pitcher_id || "") : (topGame.away_pitcher_id || "")}/headshot/67/current`}
-              alt={pickPitcherName}
-              style={{ width:"100%", height:460, objectFit:"cover", objectPosition:"top center", borderRadius:"28px 28px 0 0", display:"block" }}
-              onError={e => {
-                // player_id 없으면 generic silhouette 그대로 표시
+          {/* 투명배경 전신 사진 — action/hero 타입 */}
+          <img
+            src={`https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:action:hero:current.png/w_1000,q_auto:best/v1/people/${pickIsHome ? (topGame.home_pitcher_id || "1") : (topGame.away_pitcher_id || "1")}/action/hero/current`}
+            alt={pickPitcherName}
+            style={{
+              width:"100%",
+              height:500,
+              objectFit:"contain",
+              objectPosition:"center top",    /* 얼굴부터 보이게 위 기준 */
+              display:"block",
+              filter:"drop-shadow(0 8px 24px rgba(0,0,0,0.18))",
+            }}
+            onError={e => {
+              /* action/hero 없으면 headshot silo(반신 투명) 시도 */
+              const pid = pickIsHome ? (topGame.home_pitcher_id || "") : (topGame.away_pitcher_id || "");
+              if (e.target.src.includes("action/hero")) {
+                e.target.src = `https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/w_640,q_auto:best/v1/people/${pid}/headshot/silo/current`;
+              } else {
                 e.target.onerror = null;
-              }}
-            />
-            {/* 하단 페이드 */}
-            <div style={{ position:"absolute", bottom:0, left:0, right:0, height:160, background:"linear-gradient(to bottom, transparent 0%, #ffffff 100%)" }} />
-          </div>
+              }
+            }}
+          />
         </div>
 
         {/* ── 왼쪽 패널: 투수 정보 ── */}
