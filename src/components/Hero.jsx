@@ -240,11 +240,11 @@ export default function Hero() {
           {/* 사진 */}
           <div style={{ position:"relative" }}>
             <img
-              src={`https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_640,q_auto:best/v1/people/${topGame.away_pitcher_id || topGame.home_pitcher_id || "generic"}/headshot/67/current`}
+              src={`https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_640,q_auto:best/v1/people/${pickIsHome ? (topGame.home_pitcher_id || "") : (topGame.away_pitcher_id || "")}/headshot/67/current`}
               alt={pickPitcherName}
               style={{ width:"100%", height:460, objectFit:"cover", objectPosition:"top center", borderRadius:"28px 28px 0 0", display:"block" }}
               onError={e => {
-                e.target.src = "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_640,q_auto:best/v1/people/1/headshot/67/current";
+                // player_id 없으면 generic silhouette 그대로 표시
                 e.target.onerror = null;
               }}
             />
