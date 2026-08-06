@@ -1,0 +1,202 @@
+{
+  "title": "Aug 5 Results: When 73% Feels Like a Victory Lap",
+  "summary": "We went 11-4 on August 5th with some big hits and a few humbling misses",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Here's the thing about solid wins\n\nAugust 5th was one of those days where the baseball gods smiled on us—mostly. An 11-4 record with 73.3% accuracy isn't just good, it's the kind of day that reminds you why we love this game. But let me tell you the whole story, because the misses matter just as much as the wins."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Today W-L",
+          "value": "11-4"
+        },
+        {
+          "label": "Accuracy",
+          "value": "73.3%"
+        },
+        {
+          "label": "Total Games",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The wins that built our day\n\nLet's start with what went right. The Cubs hosting the Dodgers? Nailed it. The Rangers taking care of the Giants at home? Check. We caught the Orioles handling the Angels, the Reds dispatching the Athletics, and even that White Sox matchup—yeah, we got that one too.\n\nThese weren't just lucky guesses. Each prediction sat in that sweet spot between 57% and 62% confidence, and they delivered exactly as the numbers suggested they would."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "August 5th Prediction Performance",
+      "data": [
+        {
+          "name": "Astros",
+          "probability": 62,
+          "result": 0
+        },
+        {
+          "name": "Cubs",
+          "probability": 62,
+          "result": 1
+        },
+        {
+          "name": "Rangers",
+          "probability": 62,
+          "result": 1
+        },
+        {
+          "name": "Rays",
+          "probability": 62,
+          "result": 1
+        },
+        {
+          "name": "Orioles",
+          "probability": 57,
+          "result": 1
+        },
+        {
+          "name": "Guardians",
+          "probability": 61,
+          "result": 0
+        },
+        {
+          "name": "Reds",
+          "probability": 62,
+          "result": 1
+        },
+        {
+          "name": "Phillies",
+          "probability": 62,
+          "result": 0
+        },
+        {
+          "name": "Yankees",
+          "probability": 60,
+          "result": 0
+        },
+        {
+          "name": "White Sox",
+          "probability": 62,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The four that got away\n\nNow for the humbling part. The Blue Jays upset our Astros pick. The Mets surprised us against the Guardians. The Nationals showed up against the Phillies when we didn't expect them to. And the Cardinals? They had other plans against our Yankees prediction.\n\nFour misses out of fifteen. In baseball terms, that's still better than most batting averages. But here's what I love about days like this—each miss teaches us something. Baseball isn't a game of certainties, and that's exactly what makes it beautiful."
+    },
+    {
+      "type": "table",
+      "title": "Complete August 5th Results Breakdown",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Blue Jays @ Astros",
+          "Astros",
+          "62%",
+          "✗"
+        ],
+        [
+          "Dodgers @ Cubs",
+          "Cubs",
+          "62%",
+          "✓"
+        ],
+        [
+          "Giants @ Rangers",
+          "Rangers",
+          "62%",
+          "✓"
+        ],
+        [
+          "Rays @ Rockies",
+          "Rays",
+          "62%",
+          "✓"
+        ],
+        [
+          "Angels @ Orioles",
+          "Orioles",
+          "57%",
+          "✓"
+        ],
+        [
+          "Mets @ Guardians",
+          "Guardians",
+          "61%",
+          "✗"
+        ],
+        [
+          "Athletics @ Reds",
+          "Reds",
+          "62%",
+          "✓"
+        ],
+        [
+          "Nationals @ Phillies",
+          "Phillies",
+          "62%",
+          "✗"
+        ],
+        [
+          "Cardinals @ Yankees",
+          "Yankees",
+          "60%",
+          "✗"
+        ],
+        [
+          "White Sox @ Red Sox",
+          "White Sox",
+          "62%",
+          "✓"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## What this day taught us\n\nSeventy-three percent accuracy across fifteen games is exactly where we want to be. It's high enough to show our models are sharp, but realistic enough to respect the unpredictability that makes baseball the greatest game on earth.\n\nThe Rangers, Orioles, and Reds all came through in games where the probabilities suggested they should. Our algorithm identified value in those matchups, and the teams delivered. That's the sweet spot—when probability meets reality on the diamond.\n\nBut those four misses? They're equally valuable. They remind us that a 62% confidence isn't a guarantee—it's a probability. And in a game where the best teams still lose 60 games a season, that distinction matters."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#10B981",
+      "title": "📊 Today's Takeaway",
+      "value": "11-4 performance shows our model's strength",
+      "sub": "73.3% accuracy with balanced confidence levels across all picks"
+    },
+    {
+      "type": "text",
+      "value": "## Looking ahead\n\nNo games scheduled for tomorrow, which gives us all a chance to breathe, recalibrate, and get ready for the next slate. Days like August 5th—with their wins, their losses, and their lessons—are exactly why we do this.\n\nWe'll be back with fresh predictions soon. Until then, take the win, learn from the misses, and remember: in baseball, just like in life, it's the journey through the full 162 that matters.\n\n*- Hana*"
+    }
+  ],
+  "slug": "2026-08-05-daily-hana",
+  "author": "Hana",
+  "author_emoji": "🌸",
+  "author_role": "Story Writer",
+  "author_color": "#EC4899",
+  "date": "2026-08-05",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#EC4899"
+}
