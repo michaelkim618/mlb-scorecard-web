@@ -1,10 +1,7 @@
 import React, { useMemo } from "react";
 import { usePredictions } from "../hooks/usePredictions";
 import useSeasonResults from "../hooks/useSeasonResults";
-import { SEASON_STATS } from "../data/mlbData";
-
 const TODAY = new Date().toLocaleDateString("en-CA");
-const TODAY_DISPLAY = new Date().toLocaleDateString("en-US", { month: "short", day: "numeric" }).toUpperCase();
 
 function ResultBadge({ correct }) {
   if (correct === true)  return <span style={{ fontSize: 11, fontWeight: 700, padding: "2px 8px", borderRadius: 99, background: "#DCFCE7", color: "#15803D" }}>✓ Correct</span>;
@@ -14,7 +11,7 @@ function ResultBadge({ correct }) {
 
 export default function SeasonStats() {
   const { games: todayGames, loading: todayLoading } = usePredictions(TODAY);
-  const { games: seasonGames, W: cumW, L: cumL, pct: cumPct, startDate, loading: seasonLoading } = useSeasonResults();
+  const { games: seasonGames, W: cumW, L: cumL, pct: cumPct, startDate, lastDate, categoryStats, loading: seasonLoading } = useSeasonResults();
 
   // 오늘 완료된 경기 결과
   const todayDone  = todayGames.filter(g => g.model_correct !== null && g.model_correct !== undefined);
@@ -23,10 +20,13 @@ export default function SeasonStats() {
   const todayTotal = todayW + todayL;
   const todayPct   = todayTotal > 0 ? ((todayW / todayTotal) * 100).toFixed(1) : null;
 
-  // 시즌 시작일 포맷
+  // 시즌 시작일/마지막 결과 날짜 포맷
   const startDisplay = startDate
     ? new Date(startDate + "T00:00:00").toLocaleDateString("en-US", { month: "short", day: "numeric" }).toUpperCase()
     : "AUG 4";
+  const lastDisplay = lastDate
+    ? new Date(lastDate + "T00:00:00").toLocaleDateString("en-US", { month: "short", day: "numeric" }).toUpperCase()
+    : startDisplay;
 
   // 날짜별 그룹핑 (히스토리용)
   const byDate = useMemo(() => {
@@ -61,7 +61,7 @@ export default function SeasonStats() {
             <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: 20 }}>
               <div>
                 <div style={{ fontSize: 10, fontWeight: 700, color: "var(--color-muted)", textTransform: "uppercase", letterSpacing: "0.8px" }}>Today's Results</div>
-                <div style={{ fontSize: 13, fontWeight: 700, color: "var(--color-ink)", marginTop: 2 }}>{TODAY_DISPLAY}</div>
+                <div style={{ fontSize: 13, fontWeight: 700, color: "var(--color-ink)", marginTop: 2 }}>{new Date().toLocaleDateString("en-US", { month: "short", day: "numeric" }).toUpperCase()}</div>
               </div>
               {!isLoading && (
                 <span style={{ fontSize: 12, fontWeight: 600, color: "var(--color-muted)" }}>
@@ -118,7 +118,7 @@ export default function SeasonStats() {
               Cumulative Record
             </div>
             <div style={{ fontSize: 13, fontWeight: 700, color: "rgba(255,255,255,0.85)", marginBottom: 20 }}>
-              {startDisplay} → {TODAY_DISPLAY}
+              {startDisplay} → {lastDisplay}
             </div>
 
             {/* 큰 % */}
@@ -142,7 +142,7 @@ export default function SeasonStats() {
 
             {/* 총 경기 수 */}
             <div style={{ textAlign: "center", fontSize: 12, color: "rgba(255,255,255,0.6)" }}>
-              {cumW + cumL} games tracked since {startDisplay}
+              {cumW + cumL} games tracked · {startDisplay} → {lastDisplay}
             </div>
           </div>
         </div>
@@ -200,7 +200,7 @@ export default function SeasonStats() {
 
         {/* ── 하단: 카테고리별 통계 ── */}
         <div className="season-category-grid" style={{ display: "grid", gridTemplateColumns: "repeat(4, 1fr)", gap: 12 }}>
-          {SEASON_STATS.map((stat, i) => (
+          {categoryStats.map((stat, i) => (
             <div key={i} style={{
               background: "var(--color-canvas-muted)", borderRadius: "var(--radius-md)",
               padding: "16px 18px", border: "1px solid var(--color-border)",
