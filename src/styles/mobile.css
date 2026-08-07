@@ -55,6 +55,12 @@
     grid-template-columns: 1fr !important;
   }
 
+  /* News 그리드: 4열 → 2열 */
+  .news-grid {
+    grid-template-columns: 1fr 1fr !important;
+    gap: 12px !important;
+  }
+
   /* TodaysGames */
   .todays-games-header {
     flex-direction: column !important;

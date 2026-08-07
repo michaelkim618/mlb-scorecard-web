@@ -265,7 +265,7 @@ export default function News() {
 
           {/* 4×2 그리드 */}
           {!loading && news.length > 0 && (
-            <div style={{ display: "grid", gridTemplateColumns: "repeat(4, 1fr)", gap: 16 }}>
+            <div className="news-grid" style={{ display: "grid", gridTemplateColumns: "repeat(4, 1fr)", gap: 16 }}>
               {news.map((article, i) => (
                 <NewsCard key={i} article={article} onClick={() => setSelected(article)} />
               ))}
