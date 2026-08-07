@@ -1,7 +1,32 @@
 /* ── Mobile Responsive Styles ─────────────────────────── */
 @media (max-width: 768px) {
 
-  /* GameCard tweaks */
+  /* ── GameCard: 팀 헤더 짤림 방지 ── */
+  .game-card-team-header {
+    gap: 6px !important;
+  }
+  .game-card-away-block,
+  .game-card-home-block {
+    min-width: 0 !important;
+    overflow: hidden !important;
+  }
+  .game-card-team-name {
+    font-size: 12px !important;
+    word-break: break-word !important;
+    white-space: normal !important;
+    line-height: 1.2 !important;
+  }
+  .game-card-team-sub {
+    font-size: 9px !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+  }
+  .game-card-center {
+    min-width: 60px !important;
+  }
+
+  /* GameCard expanded */
   .game-card-sp-grid {
     grid-template-columns: 1fr !important;
     gap: 12px !important;
@@ -13,7 +38,16 @@
     grid-template-columns: 1fr 1fr !important;
   }
 
-  /* SeasonStats grid */
+  /* ── SeasonStats: 카테고리 4열 → 2열 ── */
+  .season-category-grid {
+    grid-template-columns: 1fr 1fr !important;
+    gap: 10px !important;
+  }
+  .season-category-grid > div {
+    padding: 12px 14px !important;
+  }
+
+  /* SeasonStats top & history */
   .season-top-grid {
     grid-template-columns: 1fr !important;
   }

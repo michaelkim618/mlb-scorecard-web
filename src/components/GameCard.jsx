@@ -536,19 +536,18 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
       <div onClick={() => setOpen(o => !o)} style={{ cursor: "pointer", padding: "12px 16px" }}>
 
         {/* Top: team info row */}
-        <div style={{ display: "grid", gridTemplateColumns: "1fr auto 1fr", alignItems: "center", gap: 12, marginBottom: 10 }}>
+        <div className="game-card-team-header" style={{ display: "grid", gridTemplateColumns: "1fr auto 1fr", alignItems: "center", gap: 12, marginBottom: 10 }}>
 
           {/* Away team */}
-          <div style={{ display: "flex", alignItems: "flex-start", gap: 10 }}>
+          <div className="game-card-away-block" style={{ display: "flex", alignItems: "flex-start", gap: 8, minWidth: 0 }}>
             <div style={{ width: 36, height: 36, borderRadius: 9, background: `${awayColor}18`, border: `1.5px solid ${awayColor}30`, display: "flex", alignItems: "center", justifyContent: "center", fontSize: 11, fontWeight: 800, color: awayColor, flexShrink: 0, marginTop: 2 }}>
               {awayAbbr}
             </div>
-            <div>
-              <div style={{ fontWeight: 700, fontSize: 14, color: awayColor, lineHeight: 1.2 }}>{awayName}</div>
+            <div style={{ minWidth: 0, overflow: "hidden" }}>
+              <div className="game-card-team-name" style={{ fontWeight: 700, fontSize: 14, color: awayColor, lineHeight: 1.2 }}>{awayName}</div>
               {awaySt && (
-                <div style={{ fontSize: 10, color: "var(--color-muted)", marginTop: 2 }}>
+                <div className="game-card-team-sub" style={{ fontSize: 10, color: "var(--color-muted)", marginTop: 2 }}>
                   {awaySt.div_name} #{awaySt.div_rank} · {awaySt.wins}W-{awaySt.losses}L
-                  {awaySt.games_back !== "-" && <span> · GB {awaySt.games_back}</span>}
                 </div>
               )}
               <div style={{ display: "flex", alignItems: "center", gap: 6, marginTop: 4 }}>
@@ -568,7 +567,7 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
           </div>
 
           {/* Center: status + score */}
-          <div style={{ textAlign: "center", minWidth: 90 }}>
+          <div className="game-card-center" style={{ textAlign: "center", minWidth: 90 }}>
             {liveGame?.status === "Live" && liveGame?.detailCode === "I" && (liveGame?.currentInning ?? 0) >= 1 ? (
               <div>
                 <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: 5, marginBottom: 3 }}>
@@ -604,13 +603,12 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
           </div>
 
           {/* Home team */}
-          <div style={{ display: "flex", alignItems: "flex-start", gap: 10, justifyContent: "flex-end" }}>
-            <div style={{ textAlign: "right" }}>
-              <div style={{ fontWeight: 700, fontSize: 14, color: homeColor, lineHeight: 1.2 }}>{homeName}</div>
+          <div className="game-card-home-block" style={{ display: "flex", alignItems: "flex-start", gap: 8, justifyContent: "flex-end", minWidth: 0 }}>
+            <div style={{ textAlign: "right", minWidth: 0, overflow: "hidden" }}>
+              <div className="game-card-team-name" style={{ fontWeight: 700, fontSize: 14, color: homeColor, lineHeight: 1.2 }}>{homeName}</div>
               {homeSt && (
-                <div style={{ fontSize: 10, color: "var(--color-muted)", marginTop: 2 }}>
+                <div className="game-card-team-sub" style={{ fontSize: 10, color: "var(--color-muted)", marginTop: 2 }}>
                   {homeSt.div_name} #{homeSt.div_rank} · {homeSt.wins}W-{homeSt.losses}L
-                  {homeSt.games_back === "-" ? <span> · Division Leader</span> : <span> · GB {homeSt.games_back}</span>}
                 </div>
               )}
               <div style={{ display: "flex", alignItems: "center", gap: 6, marginTop: 4, justifyContent: "flex-end" }}>

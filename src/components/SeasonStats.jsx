@@ -199,7 +199,7 @@ export default function SeasonStats() {
         )}
 
         {/* ── 하단: 카테고리별 통계 ── */}
-        <div style={{ display: "grid", gridTemplateColumns: "repeat(4, 1fr)", gap: 12 }}>
+        <div className="season-category-grid" style={{ display: "grid", gridTemplateColumns: "repeat(4, 1fr)", gap: 12 }}>
           {SEASON_STATS.map((stat, i) => (
             <div key={i} style={{
               background: "var(--color-canvas-muted)", borderRadius: "var(--radius-md)",
