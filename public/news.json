@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-07T16:37:59.164817+00:00",
+  "updated_at": "2026-08-07T17:31:18.557992+00:00",
   "news": [
+    {
+      "title": "Twins' No. 2 prospect Culpepper getting the call (source)",
+      "link": "https://www.mlb.com/news/kaelen-culpepper-callup-to-twins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sk3qqawsbarmqsqhswwu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-07T16:42:00+00:00",
+      "time_ago": "49m ago"
+    },
+    {
+      "title": "Mr. Met has company in Mascot Hall of Fame -- make room for Mrs. Met",
+      "link": "https://www.mlb.com/news/mrs-met-elected-to-mascot-hall-of-fame",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hb9ttv1vt6rdtrf5dtnf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-07T16:40:24+00:00",
+      "time_ago": "50m ago"
+    },
+    {
+      "title": "Here are the rosters for Wednesday's High School All-American Game",
+      "link": "https://www.mlb.com/news/2026-high-school-all-american-game-rosters-announced",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ncjblt0hpwsdkitgblbh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ben Weinrib",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-08-07T16:37:25+00:00",
+      "time_ago": "53m ago"
+    },
     {
       "title": "Orioles-Rangers, first-place Rays highlight 'Friday Night Baseball' slate on Apple TV",
       "link": "https://www.mlb.com/news/friday-night-baseball-on-apple-tv-for-2026-mlb-season",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-07T16:17:00+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Why Dodgers' other trade could pay off in October",
@@ -25,7 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-07T15:03:26+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "After back-to-back abbreviated outings, Wheeler eyes length vs. Blue Jays",
@@ -38,72 +77,33 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-07T15:02:37+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
-      "title": "Twins' No. 2 prospect Culpepper getting the call (source)",
-      "link": "https://www.mlb.com/news/kaelen-culpepper-callup-to-twins",
+      "title": "Just a fan at Bengals' camp, Stewart meets his football hero",
+      "link": "https://www.mlb.com/news/sal-stewart-meets-ja-marr-chase-nfl-bengals-camp",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sk3qqawsbarmqsqhswwu",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1785879184/mlb/w3ekfgibgabw7e3n8prf",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "",
+      "author": "Mark Sheldon",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-07T14:45:17+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-08-07T13:55:50+00:00",
+      "time_ago": "3h ago"
     },
     {
-      "title": "Padres even season series with D-backs, gain ground in Wild Card race",
-      "link": "https://www.mlb.com/news/padres-beat-d-backs-in-key-national-league-wild-card-battle",
+      "title": "Griffin talks injury status, aims to rejoin Bucs for potential playoff push",
+      "link": "https://www.mlb.com/news/konnor-griffin-hoping-to-make-pirates-return-in-september",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qbxxlsad8fds55x8yxzy",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786039126/mlb/is7vwpmhsattlm51bpx0",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-08-07T06:13:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Red Sox trailed in the 9th, 10th, 11th and 12th ... and still won their 8th straight",
-      "link": "https://www.mlb.com/news/red-sox-walk-it-off-in-13-innings-to-win-8th-straight",
-      "summary": "Tracy: 'I think today, what you saw was a team that didn’t want to lose'",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786074631/mlb/zwjw73829mqih9uojfng",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ken Powtak",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-07T05:23:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "TWO deflections on Acuña's 1st HR propel Braves to 8th straight win",
-      "link": "https://www.mlb.com/news/ronald-acuna-jr-hits-home-run-after-it-deflects-off-two-marlins-players",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yawfolt40un6t19ggi8g",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-07T05:01:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Bart headed to IL with fracture in left hand after 97.7 mph HBP",
-      "link": "https://www.mlb.com/news/joey-bart-exits-with-left-hand-fracture-after-hit-by-pitch",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dca81bt109x4vowguv1i",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Craig Forde",
+      "author": "Aiden Stepansky",
       "tag": "Injury",
       "tag_color": "#DC2626",
-      "pub_date": "2026-08-07T04:41:00+00:00",
-      "time_ago": "11h ago"
+      "pub_date": "2026-08-07T13:54:46+00:00",
+      "time_ago": "3h ago"
     }
   ]
 }
