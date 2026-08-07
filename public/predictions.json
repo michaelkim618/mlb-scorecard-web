@@ -2483,8 +2483,8 @@
     "model_winner": "Cleveland Guardians",
     "model_correct": null,
     "notes": "Cleveland Guardians IL: Shawn Armstrong, Slade Cecconi / Chicago White Sox IL: Brooks Baldwin, Chris Murphy, Drew Thorpe, Joey Bart, Jordan Leasure 외 다수",
-    "kalshi_prob": 43.0,
-    "edge": -6.0,
+    "kalshi_prob": 42.0,
+    "edge": -5.0,
     "value_bet": "⭐ 고신뢰 예측 — 모델·시장 동의 (Cleveland Guardians 63%)",
     "extreme_edge": false,
     "consensus": true
