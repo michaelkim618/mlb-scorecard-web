@@ -39,8 +39,8 @@ export default function useSeasonResults() {
   const picks60   = games.filter(g => (g.pick_prob || 0) >= 60);
   const stat60    = calcStat(picks60);
 
-  // High Confidence (high_conf === true)
-  const highConf  = games.filter(g => g.high_conf === true);
+  // High Confidence (pick_prob >= 65%)
+  const highConf  = games.filter(g => (g.pick_prob || 0) >= 65);
   const statHC    = calcStat(highConf);
 
   // Home Fav (pick === home team)
