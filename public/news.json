@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-07T22:09:19.071997+00:00",
+  "updated_at": "2026-08-07T22:20:56.655345+00:00",
   "news": [
+    {
+      "title": "Notebook: Elite players stand out during Girls Breakthrough Series",
+      "link": "https://www.mlb.com/news/elite-athletes-gather-for-2026-girls-breakthrough-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hhowkpbuudba0flntjgk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Courtney Hollmon",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-07T21:59:40+00:00",
+      "time_ago": "21m ago"
+    },
     {
       "title": "Last in bigs in 2024, Jordan Montgomery comes off IL to join Rangers",
       "link": "https://www.mlb.com/news/jordan-montgomery-comes-off-il-joins-rangers",
@@ -64,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-07T20:14:30+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Chicago White Sox Nike RBI wins Junior Baseball Championship",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-07T20:12:30+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "GM David Forst, Athletics part ways",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-07T20:02:57+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Blue Jays calling up outfield prospect Bateman",
-      "link": "https://www.mlb.com/news/brett-bateman-callup-to-blue-jays",
-      "summary": "Urías on the 10-day injured list with a right quad strain",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gzzru9uz2bpsmgv4bxkt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-07T19:27:49+00:00",
       "time_ago": "2h ago"
     }
   ]
