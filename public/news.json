@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-07T18:34:12.346226+00:00",
+  "updated_at": "2026-08-07T19:41:27.306184+00:00",
   "news": [
+    {
+      "title": "Yankees add catching depth, inking Garver to Minor League deal (source)",
+      "link": "https://www.mlb.com/news/yankees-mitch-garver-minor-league-deal",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cbbogcfvhlq23aanttia",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-08-07T18:59:38+00:00",
+      "time_ago": "41m ago"
+    },
+    {
+      "title": "Could Skubal re-sign with Tigers in free agency? 'I would love to return'",
+      "link": "https://www.mlb.com/news/could-tarik-skubal-re-sign-with-tigers-i-would-love-to-return",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dmuu1lhi6vmmlqzbtzn1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-08-07T18:48:42+00:00",
+      "time_ago": "52m ago"
+    },
+    {
+      "title": "Phillies fan goes viral after winning chance to join radio booth for an inning",
+      "link": "https://www.mlb.com/news/viral-phillies-fan-calls-inning-on-radio",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y3q5kuxarnoivjs0kaz4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-07T18:08:17+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Emmet Mitchell a true success story representing Detroit in RBI World Series",
+      "link": "https://www.mlb.com/news/emmet-mitchell-represents-detroit-in-rbi-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sr9sbxbq4ttshtsimtpq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Perla Paredes",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-07T17:47:54+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Twins' No. 2 prospect Culpepper getting the call (source)",
       "link": "https://www.mlb.com/news/kaelen-culpepper-callup-to-twins",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-07T16:42:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Mr. Met has company in Mascot Hall of Fame -- make room for Mrs. Met",
@@ -25,10 +77,10 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-07T16:40:24+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "3h ago"
     },
     {
-      "title": "Here are the rosters for Wednesday's High School All-American Game",
+      "title": "Here are the rosters for Wednesday's High School All-American Gamerincon",
       "link": "https://www.mlb.com/news/2026-high-school-all-american-game-rosters-announced",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ncjblt0hpwsdkitgblbh",
@@ -38,7 +90,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-08-07T16:37:25+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Orioles-Rangers, first-place Rays highlight 'Friday Night Baseball' slate on Apple TV",
@@ -51,59 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-07T16:17:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Why Dodgers' other trade could pay off in October",
-      "link": "https://www.mlb.com/news/why-kris-bubic-could-help-the-dodgers-in-the-playoffs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786069277/mlb/vhopykabv67jcqni4j2y",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-08-07T15:03:26+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "After back-to-back abbreviated outings, Wheeler eyes length vs. Blue Jays",
-      "link": "https://www.mlb.com/news/zack-wheeler-faces-blue-jays-at-citizens-bank-park",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yexnqxjmye3jkoe3gcnx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-07T15:02:37+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Just a fan at Bengals' camp, Stewart meets his football hero",
-      "link": "https://www.mlb.com/news/sal-stewart-meets-ja-marr-chase-nfl-bengals-camp",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1785879184/mlb/w3ekfgibgabw7e3n8prf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-07T13:55:50+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Griffin talks injury status, aims to rejoin Bucs for potential playoff push",
-      "link": "https://www.mlb.com/news/konnor-griffin-hoping-to-make-pirates-return-in-september",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786039126/mlb/is7vwpmhsattlm51bpx0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-07T13:54:46+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }

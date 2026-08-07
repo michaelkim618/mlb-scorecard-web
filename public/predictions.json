@@ -2,6 +2,7 @@
   {
     "date": "2026-08-07",
     "status": "Preview",
+    "game_time": "3:40 PM PT",
     "away": "New York Mets",
     "home": "Pittsburgh Pirates",
     "away_standing": {
@@ -102,7 +103,7 @@
     "away_pitcher_gamelog": [
       {
         "date": "2026-06-26",
-        "opp": "vs PHI",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 1,
         "h": 5,
@@ -112,7 +113,7 @@
       },
       {
         "date": "2026-07-12",
-        "opp": "vs BOS",
+        "opp": "@ ",
         "ip": "7.0",
         "er": 0,
         "h": 2,
@@ -122,7 +123,7 @@
       },
       {
         "date": "2026-07-21",
-        "opp": "@ MIL",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 0,
         "h": 3,
@@ -132,7 +133,7 @@
       },
       {
         "date": "2026-07-27",
-        "opp": "vs ATL",
+        "opp": "@ ",
         "ip": "6.1",
         "er": 3,
         "h": 6,
@@ -142,7 +143,7 @@
       },
       {
         "date": "2026-08-01",
-        "opp": "vs MIA",
+        "opp": "@ ",
         "ip": "4.2",
         "er": 3,
         "h": 6,
@@ -161,7 +162,7 @@
     "home_pitcher_gamelog": [
       {
         "date": "2026-07-18",
-        "opp": "@ CLE",
+        "opp": "@ ",
         "ip": "3.0",
         "er": 0,
         "h": 2,
@@ -171,7 +172,7 @@
       },
       {
         "date": "2026-07-22",
-        "opp": "@ NYY",
+        "opp": "@ ",
         "ip": "2.2",
         "er": 3,
         "h": 3,
@@ -181,7 +182,7 @@
       },
       {
         "date": "2026-07-26",
-        "opp": "vs CHC",
+        "opp": "@ ",
         "ip": "2.0",
         "er": 1,
         "h": 3,
@@ -191,7 +192,7 @@
       },
       {
         "date": "2026-07-29",
-        "opp": "vs OAK",
+        "opp": "@ ",
         "ip": "3.0",
         "er": 0,
         "h": 2,
@@ -201,7 +202,7 @@
       },
       {
         "date": "2026-08-01",
-        "opp": "@ CIN",
+        "opp": "@ ",
         "ip": "3.0",
         "er": 0,
         "h": 1,
@@ -270,7 +271,7 @@
           "lineup_ops": [
             "Francisco Lindor(0.839)",
             "Bo Bichette(0.658)",
-            "Luis Robert Jr.(0.506)",
+            "Luis Robert(0.506)",
             "Carson Benge(0.854)",
             "Francisco Alvarez(0.742)",
             "Marcus Semien(0.769)",
@@ -361,6 +362,7 @@
   {
     "date": "2026-08-07",
     "status": "Preview",
+    "game_time": "3:40 PM PT",
     "away": "Toronto Blue Jays",
     "home": "Philadelphia Phillies",
     "away_standing": {
@@ -461,7 +463,7 @@
     "away_pitcher_gamelog": [
       {
         "date": "2026-06-30",
-        "opp": "@ SEA",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 3,
         "h": 6,
@@ -471,7 +473,7 @@
       },
       {
         "date": "2026-07-07",
-        "opp": "@ TEX",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 2,
         "h": 2,
@@ -481,7 +483,7 @@
       },
       {
         "date": "2026-07-12",
-        "opp": "@ MIN",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 3,
         "h": 5,
@@ -491,7 +493,7 @@
       },
       {
         "date": "2026-07-20",
-        "opp": "vs STL",
+        "opp": "@ ",
         "ip": "7.0",
         "er": 2,
         "h": 4,
@@ -501,7 +503,7 @@
       },
       {
         "date": "2026-07-26",
-        "opp": "@ SF",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 0,
         "h": 3,
@@ -520,7 +522,7 @@
     "home_pitcher_gamelog": [
       {
         "date": "2026-07-07",
-        "opp": "@ CIN",
+        "opp": "@ ",
         "ip": "7.0",
         "er": 1,
         "h": 4,
@@ -530,7 +532,7 @@
       },
       {
         "date": "2026-07-12",
-        "opp": "@ DET",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 0,
         "h": 2,
@@ -540,7 +542,7 @@
       },
       {
         "date": "2026-07-21",
-        "opp": "vs LAD",
+        "opp": "@ ",
         "ip": "7.0",
         "er": 2,
         "h": 5,
@@ -550,7 +552,7 @@
       },
       {
         "date": "2026-07-27",
-        "opp": "@ MIA",
+        "opp": "@ ",
         "ip": "3.0",
         "er": 5,
         "h": 6,
@@ -560,7 +562,7 @@
       },
       {
         "date": "2026-08-02",
-        "opp": "@ BAL",
+        "opp": "@ ",
         "ip": "2.0",
         "er": 0,
         "h": 1,
@@ -575,14 +577,14 @@
       "home": 63.0
     },
     "expected_score": {
-      "away": 1.3,
+      "away": 0.9,
       "home": 3.4
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": false,
@@ -614,32 +616,32 @@
           "team_era": 4.71,
           "sample_games": 10
         },
-        "bat_score": 20.6,
+        "bat_score": 14.4,
         "bat_detail": {
-          "recent_avg": 0.222,
+          "recent_avg": 0.207,
           "runs_per_g": 3.6,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.664,
-          "season_avg": 0.222,
+          "season_ops": 0.623,
+          "season_avg": 0.207,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Myles Straw(0.735)",
-            "Kazuma Okamoto(0.718)",
-            "Alejandro Kirk(0.783)",
-            "George Springer(0.726)",
             "Nathan Lukes(0.479)",
+            "Alejandro Kirk(0.783)",
+            "Jesús Sánchez(0.577)",
+            "George Springer(0.726)",
+            "Kazuma Okamoto(0.718)",
+            "Andrés Giménez(0.598)",
             "Ernie Clement(0.617)",
-            "Luis Urías(0.789)",
-            "Davis Schneider(0.527)",
-            "Andrés Giménez(0.598)"
+            "Josh Smith(0.407)",
+            "Brett Bateman(0.700)"
           ]
         },
         "sit_score": 43.5,
-        "total": 33.9
+        "total": 31.7
       },
       "home": {
         "sp_score": 72.0,
@@ -691,16 +693,16 @@
       }
     },
     "scores": {
-      "away_offense": 20.6,
+      "away_offense": 14.4,
       "away_defense": 39.7,
       "home_offense": 45.2,
       "home_defense": 57.6
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -713,13 +715,14 @@
     "notes": "Toronto Blue Jays IL: Addison Barger, Anthony Santander, Bowden Francis, Cody Ponce, Joe Mantiply 외 다수 / Philadelphia Phillies IL: Adolis García, Brad Keller, Johan Rojas, Rafael Marchán, Tanner Banks",
     "kalshi_prob": 66.0,
     "edge": -3.0,
-    "value_bet": "➖ 시장과 유사",
+    "value_bet": "⭐ 고신뢰 예측 — 모델·시장 동의 (Philadelphia Phillies 63%)",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": true
   },
   {
     "date": "2026-08-07",
     "status": "Preview",
+    "game_time": "3:45 PM PT",
     "away": "Cincinnati Reds",
     "home": "Washington Nationals",
     "away_standing": {
@@ -820,7 +823,7 @@
     "away_pitcher_gamelog": [
       {
         "date": "2026-07-12",
-        "opp": "vs CHC",
+        "opp": "@ ",
         "ip": "2.0",
         "er": 1,
         "h": 2,
@@ -830,7 +833,7 @@
       },
       {
         "date": "2026-07-20",
-        "opp": "@ SEA",
+        "opp": "@ ",
         "ip": "1.0",
         "er": 1,
         "h": 2,
@@ -840,7 +843,7 @@
       },
       {
         "date": "2026-07-25",
-        "opp": "@ STL",
+        "opp": "@ ",
         "ip": "2.0",
         "er": 0,
         "h": 2,
@@ -850,7 +853,7 @@
       },
       {
         "date": "2026-07-28",
-        "opp": "vs CLE",
+        "opp": "@ ",
         "ip": "1.0",
         "er": 0,
         "h": 1,
@@ -860,7 +863,7 @@
       },
       {
         "date": "2026-07-29",
-        "opp": "vs CLE",
+        "opp": "@ ",
         "ip": "1.1",
         "er": 2,
         "h": 4,
@@ -879,7 +882,7 @@
     "home_pitcher_gamelog": [
       {
         "date": "2026-07-12",
-        "opp": "vs NYY",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 2,
         "h": 4,
@@ -889,7 +892,7 @@
       },
       {
         "date": "2026-07-17",
-        "opp": "@ OAK",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 2,
         "h": 4,
@@ -899,7 +902,7 @@
       },
       {
         "date": "2026-07-22",
-        "opp": "@ COL",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 0,
         "h": 4,
@@ -909,7 +912,7 @@
       },
       {
         "date": "2026-07-28",
-        "opp": "vs TOR",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 2,
         "h": 6,
@@ -919,7 +922,7 @@
       },
       {
         "date": "2026-08-02",
-        "opp": "@ ATL",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 2,
         "h": 6,
@@ -930,8 +933,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 46.3,
-      "home": 53.7
+      "away": 49.3,
+      "home": 50.7
     },
     "expected_score": {
       "away": 1.0,
@@ -1071,7 +1074,7 @@
     "model_correct": null,
     "notes": "Cincinnati Reds IL: Blake Dunn, Brandon Williamson, Graham Ashcraft, Hunter Greene, Nick Lodolo 외 다수 / Washington Nationals IL: Connelly Early, DJ Herz, Drew Millas, James Wood, Josiah Gray 외 다수",
     "kalshi_prob": 52.0,
-    "edge": 1.7,
+    "edge": -1.3,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -1079,6 +1082,7 @@
   {
     "date": "2026-08-07",
     "status": "Preview",
+    "game_time": "4:05 PM PT",
     "away": "Atlanta Braves",
     "home": "New York Yankees",
     "away_standing": {
@@ -1179,7 +1183,7 @@
     "away_pitcher_gamelog": [
       {
         "date": "2026-07-05",
-        "opp": "@ COL",
+        "opp": "@ ",
         "ip": "4.1",
         "er": 3,
         "h": 8,
@@ -1189,7 +1193,7 @@
       },
       {
         "date": "2026-07-11",
-        "opp": "vs COL",
+        "opp": "@ ",
         "ip": "7.0",
         "er": 1,
         "h": 5,
@@ -1199,7 +1203,7 @@
       },
       {
         "date": "2026-07-21",
-        "opp": "@ KC",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 3,
         "h": 5,
@@ -1209,7 +1213,7 @@
       },
       {
         "date": "2026-07-27",
-        "opp": "vs MIL",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 0,
         "h": 3,
@@ -1219,7 +1223,7 @@
       },
       {
         "date": "2026-08-01",
-        "opp": "@ SD",
+        "opp": "@ ",
         "ip": "5.2",
         "er": 5,
         "h": 5,
@@ -1238,7 +1242,7 @@
     "home_pitcher_gamelog": [
       {
         "date": "2026-05-08",
-        "opp": "@ MIL",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 5,
         "h": 6,
@@ -1248,7 +1252,7 @@
       },
       {
         "date": "2026-05-13",
-        "opp": "@ BAL",
+        "opp": "@ ",
         "ip": "3.0",
         "er": 3,
         "h": 5,
@@ -1258,7 +1262,7 @@
       },
       {
         "date": "2026-07-22",
-        "opp": "vs PIT",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 0,
         "h": 1,
@@ -1268,7 +1272,7 @@
       },
       {
         "date": "2026-07-27",
-        "opp": "@ CWS",
+        "opp": "@ ",
         "ip": "3.0",
         "er": 3,
         "h": 5,
@@ -1278,7 +1282,7 @@
       },
       {
         "date": "2026-08-01",
-        "opp": "@ CHC",
+        "opp": "@ ",
         "ip": "5.1",
         "er": 1,
         "h": 2,
@@ -1412,6 +1416,7 @@
   {
     "date": "2026-08-07",
     "status": "Preview",
+    "game_time": "4:10 PM PT",
     "away": "Athletics",
     "home": "Boston Red Sox",
     "away_standing": {
@@ -1512,7 +1517,7 @@
     "away_pitcher_gamelog": [
       {
         "date": "2026-07-03",
-        "opp": "vs MIA",
+        "opp": "@ ",
         "ip": "3.2",
         "er": 7,
         "h": 7,
@@ -1522,7 +1527,7 @@
       },
       {
         "date": "2026-07-09",
-        "opp": "@ DET",
+        "opp": "@ ",
         "ip": "3.0",
         "er": 3,
         "h": 2,
@@ -1532,7 +1537,7 @@
       },
       {
         "date": "2026-07-21",
-        "opp": "@ OAK",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 3,
         "h": 5,
@@ -1542,7 +1547,7 @@
       },
       {
         "date": "2026-07-27",
-        "opp": "vs BOS",
+        "opp": "@ ",
         "ip": "5.2",
         "er": 2,
         "h": 1,
@@ -1552,7 +1557,7 @@
       },
       {
         "date": "2026-08-01",
-        "opp": "vs DET",
+        "opp": "@ ",
         "ip": "5.1",
         "er": 6,
         "h": 9,
@@ -1571,7 +1576,7 @@
     "home_pitcher_gamelog": [
       {
         "date": "2026-07-07",
-        "opp": "@ CWS",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 0,
         "h": 2,
@@ -1581,7 +1586,7 @@
       },
       {
         "date": "2026-07-12",
-        "opp": "@ NYM",
+        "opp": "@ ",
         "ip": "3.2",
         "er": 1,
         "h": 3,
@@ -1591,7 +1596,7 @@
       },
       {
         "date": "2026-07-20",
-        "opp": "vs BAL",
+        "opp": "@ ",
         "ip": "5.2",
         "er": 4,
         "h": 8,
@@ -1601,7 +1606,7 @@
       },
       {
         "date": "2026-07-27",
-        "opp": "@ OAK",
+        "opp": "@ ",
         "ip": "5.1",
         "er": 2,
         "h": 5,
@@ -1611,7 +1616,7 @@
       },
       {
         "date": "2026-08-01",
-        "opp": "@ LAD",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 2,
         "h": 9,
@@ -1771,6 +1776,7 @@
   {
     "date": "2026-08-07",
     "status": "Preview",
+    "game_time": "4:10 PM PT",
     "away": "Los Angeles Angels",
     "home": "Miami Marlins",
     "away_standing": {
@@ -1871,7 +1877,7 @@
     "away_pitcher_gamelog": [
       {
         "date": "2026-04-05",
-        "opp": "vs SEA",
+        "opp": "@ ",
         "ip": "2.2",
         "er": 2,
         "h": 3,
@@ -1881,7 +1887,7 @@
       },
       {
         "date": "2026-04-11",
-        "opp": "@ CIN",
+        "opp": "@ ",
         "ip": "2.0",
         "er": 4,
         "h": 4,
@@ -1900,7 +1906,7 @@
     "home_pitcher_gamelog": [
       {
         "date": "2026-07-08",
-        "opp": "vs SEA",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 0,
         "h": 4,
@@ -1910,7 +1916,7 @@
       },
       {
         "date": "2026-07-12",
-        "opp": "vs CLE",
+        "opp": "@ ",
         "ip": "1.0",
         "er": 2,
         "h": 2,
@@ -1920,7 +1926,7 @@
       },
       {
         "date": "2026-07-21",
-        "opp": "@ HOU",
+        "opp": "@ ",
         "ip": "4.1",
         "er": 2,
         "h": 5,
@@ -1930,7 +1936,7 @@
       },
       {
         "date": "2026-07-27",
-        "opp": "vs PHI",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 2,
         "h": 3,
@@ -1940,7 +1946,7 @@
       },
       {
         "date": "2026-08-01",
-        "opp": "@ NYM",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 2,
         "h": 6,
@@ -2100,6 +2106,7 @@
   {
     "date": "2026-08-07",
     "status": "Preview",
+    "game_time": "4:40 PM PT",
     "away": "Cleveland Guardians",
     "home": "Chicago White Sox",
     "away_standing": {
@@ -2200,7 +2207,7 @@
     "away_pitcher_gamelog": [
       {
         "date": "2026-07-04",
-        "opp": "vs CWS",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 1,
         "h": 5,
@@ -2210,7 +2217,7 @@
       },
       {
         "date": "2026-07-10",
-        "opp": "@ MIA",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 1,
         "h": 1,
@@ -2220,7 +2227,7 @@
       },
       {
         "date": "2026-07-21",
-        "opp": "vs MIN",
+        "opp": "@ ",
         "ip": "5.2",
         "er": 1,
         "h": 4,
@@ -2230,7 +2237,7 @@
       },
       {
         "date": "2026-07-26",
-        "opp": "@ TB",
+        "opp": "@ ",
         "ip": "7.2",
         "er": 1,
         "h": 6,
@@ -2240,7 +2247,7 @@
       },
       {
         "date": "2026-08-01",
-        "opp": "vs OAK",
+        "opp": "@ ",
         "ip": "4.1",
         "er": 1,
         "h": 6,
@@ -2259,7 +2266,7 @@
     "home_pitcher_gamelog": [
       {
         "date": "2026-07-07",
-        "opp": "vs BOS",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 4,
         "h": 7,
@@ -2269,7 +2276,7 @@
       },
       {
         "date": "2026-07-12",
-        "opp": "vs OAK",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 1,
         "h": 4,
@@ -2279,7 +2286,7 @@
       },
       {
         "date": "2026-07-21",
-        "opp": "@ TEX",
+        "opp": "@ ",
         "ip": "3.2",
         "er": 5,
         "h": 11,
@@ -2289,7 +2296,7 @@
       },
       {
         "date": "2026-07-27",
-        "opp": "vs NYY",
+        "opp": "@ ",
         "ip": "3.1",
         "er": 3,
         "h": 2,
@@ -2299,7 +2306,7 @@
       },
       {
         "date": "2026-08-01",
-        "opp": "@ TB",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 1,
         "h": 3,
@@ -2449,7 +2456,7 @@
     "actual_winner": null,
     "model_winner": "Cleveland Guardians",
     "model_correct": null,
-    "notes": "Cleveland Guardians IL: Shawn Armstrong / Chicago White Sox IL: Brooks Baldwin, Drew Thorpe, Jordan Leasure, Ky Bush, Kyle Teel 외 다수",
+    "notes": "Cleveland Guardians IL: Shawn Armstrong / Chicago White Sox IL: Brooks Baldwin, Chris Murphy, Drew Thorpe, Joey Bart, Jordan Leasure 외 다수",
     "kalshi_prob": 43.0,
     "edge": -6.0,
     "value_bet": "➖ 시장과 유사",
@@ -2459,6 +2466,7 @@
   {
     "date": "2026-08-07",
     "status": "Preview",
+    "game_time": "4:40 PM PT",
     "away": "Minnesota Twins",
     "home": "Milwaukee Brewers",
     "away_standing": {
@@ -2559,7 +2567,7 @@
     "away_pitcher_gamelog": [
       {
         "date": "2026-07-04",
-        "opp": "@ NYY",
+        "opp": "@ ",
         "ip": "4.2",
         "er": 4,
         "h": 3,
@@ -2569,7 +2577,7 @@
       },
       {
         "date": "2026-07-10",
-        "opp": "vs LAA",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 4,
         "h": 9,
@@ -2579,7 +2587,7 @@
       },
       {
         "date": "2026-07-19",
-        "opp": "@ CHC",
+        "opp": "@ ",
         "ip": "3.0",
         "er": 8,
         "h": 9,
@@ -2589,7 +2597,7 @@
       },
       {
         "date": "2026-07-24",
-        "opp": "vs OAK",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 2,
         "h": 3,
@@ -2599,7 +2607,7 @@
       },
       {
         "date": "2026-07-31",
-        "opp": "@ SEA",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 3,
         "h": 4,
@@ -2618,7 +2626,7 @@
     "home_pitcher_gamelog": [
       {
         "date": "2026-07-06",
-        "opp": "@ STL",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 1,
         "h": 6,
@@ -2628,7 +2636,7 @@
       },
       {
         "date": "2026-07-11",
-        "opp": "@ PIT",
+        "opp": "@ ",
         "ip": "6.1",
         "er": 3,
         "h": 5,
@@ -2638,7 +2646,7 @@
       },
       {
         "date": "2026-07-18",
-        "opp": "vs MIA",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 3,
         "h": 5,
@@ -2648,7 +2656,7 @@
       },
       {
         "date": "2026-07-24",
-        "opp": "vs COL",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 5,
         "h": 6,
@@ -2658,7 +2666,7 @@
       },
       {
         "date": "2026-07-31",
-        "opp": "@ LAA",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 2,
         "h": 4,
@@ -2818,6 +2826,7 @@
   {
     "date": "2026-08-07",
     "status": "Preview",
+    "game_time": "5:10 PM PT",
     "away": "Chicago Cubs",
     "home": "Kansas City Royals",
     "away_standing": {
@@ -2918,7 +2927,7 @@
     "away_pitcher_gamelog": [
       {
         "date": "2026-07-08",
-        "opp": "@ BAL",
+        "opp": "@ ",
         "ip": "5.1",
         "er": 3,
         "h": 7,
@@ -2928,7 +2937,7 @@
       },
       {
         "date": "2026-07-17",
-        "opp": "vs MIN",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 3,
         "h": 5,
@@ -2938,7 +2947,7 @@
       },
       {
         "date": "2026-07-22",
-        "opp": "vs DET",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 4,
         "h": 6,
@@ -2948,7 +2957,7 @@
       },
       {
         "date": "2026-07-28",
-        "opp": "@ STL",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 1,
         "h": 4,
@@ -2958,7 +2967,7 @@
       },
       {
         "date": "2026-08-02",
-        "opp": "vs NYY",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 2,
         "h": 3,
@@ -2977,7 +2986,7 @@
     "home_pitcher_gamelog": [
       {
         "date": "2026-07-22",
-        "opp": "vs SF",
+        "opp": "@ ",
         "ip": "1.0",
         "er": 0,
         "h": 0,
@@ -2987,7 +2996,7 @@
       },
       {
         "date": "2026-07-25",
-        "opp": "@ DET",
+        "opp": "@ ",
         "ip": "1.0",
         "er": 0,
         "h": 1,
@@ -2997,7 +3006,7 @@
       },
       {
         "date": "2026-07-28",
-        "opp": "@ MIN",
+        "opp": "@ ",
         "ip": "0.2",
         "er": 0,
         "h": 1,
@@ -3007,7 +3016,7 @@
       },
       {
         "date": "2026-07-29",
-        "opp": "@ MIN",
+        "opp": "@ ",
         "ip": "1.0",
         "er": 0,
         "h": 1,
@@ -3017,7 +3026,7 @@
       },
       {
         "date": "2026-08-04",
-        "opp": "vs MIN",
+        "opp": "@ ",
         "ip": "1.0",
         "er": 0,
         "h": 1,
@@ -3177,6 +3186,7 @@
   {
     "date": "2026-08-07",
     "status": "Preview",
+    "game_time": "5:15 PM PT",
     "away": "Colorado Rockies",
     "home": "St. Louis Cardinals",
     "away_standing": {
@@ -3277,7 +3287,7 @@
     "away_pitcher_gamelog": [
       {
         "date": "2026-07-03",
-        "opp": "vs SF",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 2,
         "h": 6,
@@ -3287,7 +3297,7 @@
       },
       {
         "date": "2026-07-09",
-        "opp": "@ SF",
+        "opp": "@ ",
         "ip": "4.1",
         "er": 4,
         "h": 6,
@@ -3297,7 +3307,7 @@
       },
       {
         "date": "2026-07-19",
-        "opp": "vs CIN",
+        "opp": "@ ",
         "ip": "2.1",
         "er": 8,
         "h": 7,
@@ -3307,7 +3317,7 @@
       },
       {
         "date": "2026-07-25",
-        "opp": "@ MIL",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 5,
         "h": 9,
@@ -3317,7 +3327,7 @@
       },
       {
         "date": "2026-08-01",
-        "opp": "vs KC",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 4,
         "h": 8,
@@ -3336,7 +3346,7 @@
     "home_pitcher_gamelog": [
       {
         "date": "2026-07-04",
-        "opp": "@ CHC",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 0,
         "h": 3,
@@ -3346,7 +3356,7 @@
       },
       {
         "date": "2026-07-10",
-        "opp": "vs ATL",
+        "opp": "@ ",
         "ip": "3.0",
         "er": 0,
         "h": 1,
@@ -3356,7 +3366,7 @@
       },
       {
         "date": "2026-07-20",
-        "opp": "@ LAA",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 1,
         "h": 3,
@@ -3366,7 +3376,7 @@
       },
       {
         "date": "2026-07-26",
-        "opp": "vs CIN",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 2,
         "h": 6,
@@ -3376,7 +3386,7 @@
       },
       {
         "date": "2026-07-31",
-        "opp": "@ TOR",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 1,
         "h": 6,
@@ -3387,8 +3397,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 33.0,
-      "home": 67.0
+      "away": 35.9,
+      "home": 64.1
     },
     "expected_score": {
       "away": 2.1,
@@ -3510,6 +3520,7 @@
   {
     "date": "2026-08-07",
     "status": "Preview",
+    "game_time": "5:15 PM PT",
     "away": "Baltimore Orioles",
     "home": "Texas Rangers",
     "away_standing": {
@@ -3610,7 +3621,7 @@
     "away_pitcher_gamelog": [
       {
         "date": "2026-07-07",
-        "opp": "vs CHC",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 3,
         "h": 6,
@@ -3620,7 +3631,7 @@
       },
       {
         "date": "2026-07-12",
-        "opp": "vs KC",
+        "opp": "@ ",
         "ip": "4.2",
         "er": 2,
         "h": 8,
@@ -3630,7 +3641,7 @@
       },
       {
         "date": "2026-07-20",
-        "opp": "@ BOS",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 1,
         "h": 6,
@@ -3640,7 +3651,7 @@
       },
       {
         "date": "2026-07-26",
-        "opp": "vs ATL",
+        "opp": "@ ",
         "ip": "4.1",
         "er": 1,
         "h": 6,
@@ -3650,7 +3661,7 @@
       },
       {
         "date": "2026-08-01",
-        "opp": "vs PHI",
+        "opp": "@ ",
         "ip": "6.1",
         "er": 1,
         "h": 6,
@@ -3669,7 +3680,7 @@
     "home_pitcher_gamelog": [
       {
         "date": "2026-07-02",
-        "opp": "vs DET",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 3,
         "h": 6,
@@ -3679,7 +3690,7 @@
       },
       {
         "date": "2026-07-09",
-        "opp": "vs LAA",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 3,
         "h": 6,
@@ -3689,7 +3700,7 @@
       },
       {
         "date": "2026-07-19",
-        "opp": "@ ATL",
+        "opp": "@ ",
         "ip": "4.0",
         "er": 4,
         "h": 6,
@@ -3699,7 +3710,7 @@
       },
       {
         "date": "2026-07-25",
-        "opp": "vs SEA",
+        "opp": "@ ",
         "ip": "7.0",
         "er": 1,
         "h": 3,
@@ -3709,7 +3720,7 @@
       },
       {
         "date": "2026-07-31",
-        "opp": "@ HOU",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 6,
         "h": 10,
@@ -3843,6 +3854,7 @@
   {
     "date": "2026-08-07",
     "status": "Preview",
+    "game_time": "6:40 PM PT",
     "away": "Los Angeles Dodgers",
     "home": "Arizona Diamondbacks",
     "away_standing": {
@@ -3943,7 +3955,7 @@
     "away_pitcher_gamelog": [
       {
         "date": "2026-07-02",
-        "opp": "vs SD",
+        "opp": "@ ",
         "ip": "3.0",
         "er": 6,
         "h": 7,
@@ -3953,7 +3965,7 @@
       },
       {
         "date": "2026-07-08",
-        "opp": "vs COL",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 3,
         "h": 4,
@@ -3963,7 +3975,7 @@
       },
       {
         "date": "2026-07-17",
-        "opp": "@ NYY",
+        "opp": "@ ",
         "ip": "5.2",
         "er": 0,
         "h": 5,
@@ -3973,7 +3985,7 @@
       },
       {
         "date": "2026-07-24",
-        "opp": "@ NYM",
+        "opp": "@ ",
         "ip": "7.0",
         "er": 1,
         "h": 3,
@@ -3983,7 +3995,7 @@
       },
       {
         "date": "2026-07-30",
-        "opp": "vs SEA",
+        "opp": "@ ",
         "ip": "5.1",
         "er": 2,
         "h": 5,
@@ -4002,7 +4014,7 @@
     "home_pitcher_gamelog": [
       {
         "date": "2026-07-09",
-        "opp": "@ SD",
+        "opp": "@ ",
         "ip": "7.0",
         "er": 1,
         "h": 3,
@@ -4012,7 +4024,7 @@
       },
       {
         "date": "2026-07-17",
-        "opp": "vs STL",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 1,
         "h": 4,
@@ -4022,7 +4034,7 @@
       },
       {
         "date": "2026-07-22",
-        "opp": "vs OAK",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 2,
         "h": 5,
@@ -4032,7 +4044,7 @@
       },
       {
         "date": "2026-07-27",
-        "opp": "@ PIT",
+        "opp": "@ ",
         "ip": "5.2",
         "er": 0,
         "h": 4,
@@ -4042,7 +4054,7 @@
       },
       {
         "date": "2026-08-02",
-        "opp": "@ CLE",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 5,
         "h": 8,
@@ -4176,6 +4188,7 @@
   {
     "date": "2026-08-07",
     "status": "Preview",
+    "game_time": "6:40 PM PT",
     "away": "Houston Astros",
     "home": "San Diego Padres",
     "away_standing": {
@@ -4276,7 +4289,7 @@
     "away_pitcher_gamelog": [
       {
         "date": "2026-07-20",
-        "opp": "vs MIA",
+        "opp": "@ ",
         "ip": "4.2",
         "er": 4,
         "h": 2,
@@ -4286,7 +4299,7 @@
       },
       {
         "date": "2026-07-26",
-        "opp": "@ CWS",
+        "opp": "@ ",
         "ip": "5.1",
         "er": 5,
         "h": 4,
@@ -4296,7 +4309,7 @@
       },
       {
         "date": "2026-08-01",
-        "opp": "vs TEX",
+        "opp": "@ ",
         "ip": "4.2",
         "er": 3,
         "h": 5,
@@ -4315,7 +4328,7 @@
     "home_pitcher_gamelog": [
       {
         "date": "2026-07-04",
-        "opp": "@ COL",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 3,
         "h": 5,
@@ -4325,7 +4338,7 @@
       },
       {
         "date": "2026-07-10",
-        "opp": "vs COL",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 1,
         "h": 4,
@@ -4335,7 +4348,7 @@
       },
       {
         "date": "2026-07-19",
-        "opp": "@ SEA",
+        "opp": "@ ",
         "ip": "4.0",
         "er": 1,
         "h": 8,
@@ -4345,7 +4358,7 @@
       },
       {
         "date": "2026-07-25",
-        "opp": "vs LAA",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 0,
         "h": 6,
@@ -4355,7 +4368,7 @@
       },
       {
         "date": "2026-07-30",
-        "opp": "@ SD",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 1,
         "h": 4,
@@ -4489,6 +4502,7 @@
   {
     "date": "2026-08-07",
     "status": "Preview",
+    "game_time": "6:45 PM PT",
     "away": "Tampa Bay Rays",
     "home": "Seattle Mariners",
     "away_standing": {
@@ -4589,7 +4603,7 @@
     "away_pitcher_gamelog": [
       {
         "date": "2026-07-04",
-        "opp": "@ HOU",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 5,
         "h": 6,
@@ -4599,7 +4613,7 @@
       },
       {
         "date": "2026-07-09",
-        "opp": "vs NYY",
+        "opp": "@ ",
         "ip": "2.1",
         "er": 6,
         "h": 7,
@@ -4609,7 +4623,7 @@
       },
       {
         "date": "2026-07-21",
-        "opp": "@ TOR",
+        "opp": "@ ",
         "ip": "5.0",
         "er": 2,
         "h": 7,
@@ -4619,7 +4633,7 @@
       },
       {
         "date": "2026-07-26",
-        "opp": "vs CLE",
+        "opp": "@ ",
         "ip": "7.0",
         "er": 0,
         "h": 1,
@@ -4629,7 +4643,7 @@
       },
       {
         "date": "2026-08-01",
-        "opp": "vs CWS",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 0,
         "h": 4,
@@ -4648,7 +4662,7 @@
     "home_pitcher_gamelog": [
       {
         "date": "2026-07-04",
-        "opp": "vs TOR",
+        "opp": "@ ",
         "ip": "7.1",
         "er": 0,
         "h": 1,
@@ -4658,7 +4672,7 @@
       },
       {
         "date": "2026-07-11",
-        "opp": "@ TB",
+        "opp": "@ ",
         "ip": "6.2",
         "er": 4,
         "h": 9,
@@ -4668,7 +4682,7 @@
       },
       {
         "date": "2026-07-19",
-        "opp": "vs SF",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 3,
         "h": 4,
@@ -4678,7 +4692,7 @@
       },
       {
         "date": "2026-07-26",
-        "opp": "@ TEX",
+        "opp": "@ ",
         "ip": "5.2",
         "er": 3,
         "h": 5,
@@ -4688,7 +4702,7 @@
       },
       {
         "date": "2026-08-01",
-        "opp": "vs MIN",
+        "opp": "@ ",
         "ip": "7.0",
         "er": 3,
         "h": 5,
@@ -4822,6 +4836,7 @@
   {
     "date": "2026-08-07",
     "status": "Preview",
+    "game_time": "7:15 PM PT",
     "away": "Detroit Tigers",
     "home": "San Francisco Giants",
     "away_standing": {
@@ -4922,7 +4937,7 @@
     "away_pitcher_gamelog": [
       {
         "date": "2026-07-12",
-        "opp": "vs PHI",
+        "opp": "@ ",
         "ip": "3.0",
         "er": 3,
         "h": 4,
@@ -4932,7 +4947,7 @@
       },
       {
         "date": "2026-07-17",
-        "opp": "@ LAA",
+        "opp": "@ ",
         "ip": "3.1",
         "er": 0,
         "h": 1,
@@ -4942,7 +4957,7 @@
       },
       {
         "date": "2026-07-22",
-        "opp": "@ CHC",
+        "opp": "@ ",
         "ip": "5.1",
         "er": 1,
         "h": 3,
@@ -4952,7 +4967,7 @@
       },
       {
         "date": "2026-07-27",
-        "opp": "vs BAL",
+        "opp": "@ ",
         "ip": "4.1",
         "er": 4,
         "h": 9,
@@ -4962,7 +4977,7 @@
       },
       {
         "date": "2026-08-02",
-        "opp": "@ OAK",
+        "opp": "@ ",
         "ip": "6.0",
         "er": 0,
         "h": 2,
@@ -4971,69 +4986,69 @@
         "era": 0.0
       }
     ],
-    "home_pitcher": "Landen Roupp (미정)",
-    "home_pitcher_id": 694738,
+    "home_pitcher": "JT Brubaker",
+    "home_pitcher_id": 664141,
     "home_pitcher_stats": {
-      "wins": 7,
-      "losses": 10,
-      "era": "4.34"
+      "wins": 0,
+      "losses": 0,
+      "era": "3.17"
     },
     "home_pitcher_gamelog": [
       {
-        "date": "2026-07-06",
-        "opp": "vs TOR",
-        "ip": "8.0",
+        "date": "2026-07-11",
+        "opp": "@ ",
+        "ip": "2.0",
         "er": 1,
-        "h": 3,
-        "bb": 2,
-        "so": 5,
-        "era": 1.12
+        "h": 1,
+        "bb": 0,
+        "so": 2,
+        "era": 4.5
       },
       {
-        "date": "2026-07-17",
-        "opp": "@ SEA",
-        "ip": "7.0",
+        "date": "2026-07-20",
+        "opp": "@ ",
+        "ip": "2.1",
         "er": 0,
-        "h": 2,
-        "bb": 3,
+        "h": 3,
+        "bb": 0,
         "so": 2,
         "era": 0.0
       },
       {
-        "date": "2026-07-22",
-        "opp": "@ KC",
-        "ip": "6.0",
-        "er": 2,
-        "h": 4,
-        "bb": 0,
-        "so": 7,
-        "era": 3.0
-      },
-      {
         "date": "2026-07-28",
-        "opp": "vs MIL",
-        "ip": "3.2",
-        "er": 4,
-        "h": 4,
-        "bb": 3,
+        "opp": "@ ",
+        "ip": "3.0",
+        "er": 3,
+        "h": 5,
+        "bb": 0,
         "so": 1,
-        "era": 9.82
+        "era": 9.0
       },
       {
         "date": "2026-08-02",
-        "opp": "@ SD",
-        "ip": "4.2",
-        "er": 5,
-        "h": 6,
-        "bb": 4,
-        "so": 6,
-        "era": 9.64
+        "opp": "@ ",
+        "ip": "0.2",
+        "er": 0,
+        "h": 0,
+        "bb": 1,
+        "so": 0,
+        "era": 0.0
+      },
+      {
+        "date": "2026-08-04",
+        "opp": "@ ",
+        "ip": "1.0",
+        "er": 1,
+        "h": 0,
+        "bb": 1,
+        "so": 0,
+        "era": 9.0
       }
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 64.6,
-      "home": 35.4
+      "away": 63.0,
+      "home": 37.0
     },
     "expected_score": {
       "away": 2.3,
@@ -5047,11 +5062,11 @@
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": false,
-      "any_cold_sp": false,
+      "any_cold_sp": true,
       "eff_weights": {
         "sp": 0.3,
-        "bp": 0.2,
-        "bat": 0.35,
+        "bp": 0.25,
+        "bat": 0.3,
         "sit": 0.15
       },
       "away": {
@@ -5087,26 +5102,26 @@
           "explosive_games": 2
         },
         "sit_score": 47.8,
-        "total": 49.6
+        "total": 50.7
       },
       "home": {
-        "sp_score": 50.5,
+        "sp_score": 42.0,
         "sp_detail": {
-          "era": 4.47,
-          "whip": 1.27,
-          "k9": 8.0,
-          "avg_ip": 5.4,
-          "qs_rate": 50.0,
-          "last3_era": 3.68,
-          "trend": "stable",
+          "era": 3.5,
+          "whip": 0.94,
+          "k9": 5.0,
+          "avg_ip": 1.8,
+          "qs_rate": 0.0,
+          "last3_era": 5.0,
+          "trend": "cold",
           "n_games": 10,
           "sample_confidence": 1.0,
-          "rest_days": 5,
-          "rest_note": null
+          "rest_days": 3,
+          "rest_note": "short_rest"
         },
-        "bp_score": 37.4,
+        "bp_score": 37.0,
         "bp_detail": {
-          "bullpen_era": 4.63,
+          "bullpen_era": 4.65,
           "team_era": 4.65,
           "sample_games": 10
         },
@@ -5122,14 +5137,14 @@
           "explosive_games": 2
         },
         "sit_score": 47.8,
-        "total": 35.7
+        "total": 34.1
       }
     },
     "scores": {
       "away_offense": 32.5,
       "away_defense": 60.7,
       "home_offense": 16.8,
-      "home_defense": 44.0
+      "home_defense": 39.5
     },
     "actual_score": {
       "away": null,
