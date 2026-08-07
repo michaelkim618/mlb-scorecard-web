@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-07T20:25:51.654786+00:00",
+  "updated_at": "2026-08-07T21:24:05.694262+00:00",
   "news": [
+    {
+      "title": "Last in bigs in 2024, Jordan Montgomery comes off IL to join Rangers",
+      "link": "https://www.mlb.com/news/jordan-montgomery-comes-off-il-joins-rangers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fb8bvkyetmdgxzfxtojy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-07T20:50:00+00:00",
+      "time_ago": "34m ago"
+    },
+    {
+      "title": "Inbox: Which team has the best trio of top prospects?",
+      "link": "https://www.mlb.com/news/mlb-pipeline-inbox-which-farm-systems-improved-most",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/k6cwsa50lp0ctfa35j4g",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jim Callis",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-07T20:34:00+00:00",
+      "time_ago": "50m ago"
+    },
+    {
+      "title": "Netflix drama series about the New York Yankees is in development",
+      "link": "https://www.mlb.com/news/new-york-yankees-scripted-drama-series-coming-to-netflix",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kmd58cpgryz5wzk7yzht",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-07T20:28:21+00:00",
+      "time_ago": "55m ago"
+    },
+    {
+      "title": "Twins' No. 2 prospect Culpepper gets call to big leagues",
+      "link": "https://www.mlb.com/news/kaelen-culpepper-callup-to-twins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sk3qqawsbarmqsqhswwu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-07T20:25:00+00:00",
+      "time_ago": "59m ago"
+    },
     {
       "title": "Hunter Greene to undergo right elbow surgery",
       "link": "https://www.mlb.com/news/hunter-greene-right-elbow-surgery",
@@ -12,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-07T20:14:30+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Chicago White Sox Nike RBI wins Junior Baseball Championship",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-07T20:12:30+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "GM David Forst, Athletics part ways",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-07T20:02:57+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Blue Jays calling up outfield prospect Bateman",
@@ -51,59 +103,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-07T19:27:49+00:00",
-      "time_ago": "58m ago"
-    },
-    {
-      "title": "Yankees add catching depth, inking Garver to Minor League deal (source)",
-      "link": "https://www.mlb.com/news/yankees-mitch-garver-minor-league-deal",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cbbogcfvhlq23aanttia",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-08-07T18:59:38+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Could Skubal re-sign with Tigers in free agency? 'I would love to return'",
-      "link": "https://www.mlb.com/news/could-tarik-skubal-re-sign-with-tigers-i-would-love-to-return",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dmuu1lhi6vmmlqzbtzn1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-08-07T18:48:42+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Phillies fan goes viral after winning chance to join radio booth for an inning",
-      "link": "https://www.mlb.com/news/viral-phillies-fan-calls-inning-on-radio",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y3q5kuxarnoivjs0kaz4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-07T18:08:17+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Emmet Mitchell a true success story representing Detroit in RBI World Series",
-      "link": "https://www.mlb.com/news/emmet-mitchell-represents-detroit-in-rbi-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sr9sbxbq4ttshtsimtpq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Perla Paredes",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-07T17:47:54+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
