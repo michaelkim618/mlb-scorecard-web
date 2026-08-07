@@ -1293,18 +1293,18 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 50.0,
-      "home": 50.0
+      "away": 45.6,
+      "home": 54.4
     },
     "expected_score": {
-      "away": 2.4,
-      "home": 2.6
+      "away": 1.5,
+      "home": 2.3
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "team_stats",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "L",
       "bullpen_game": false,
@@ -1336,19 +1336,32 @@
           "team_era": 1.82,
           "sample_games": 10
         },
-        "bat_score": 40.1,
+        "bat_score": 24.4,
         "bat_detail": {
-          "recent_avg": 0.257,
+          "recent_avg": 0.211,
           "runs_per_g": 4.9,
           "hr_per_g": 1.3,
-          "bb_per_g": 3.7,
-          "season_ops": 0.72,
-          "season_avg": 0.25,
-          "n_games": 10,
-          "explosive_games": 1
+          "bb_per_g": 3.0,
+          "season_ops": 0.641,
+          "season_avg": 0.211,
+          "n_games": 9,
+          "source": "prev_day",
+          "handedness": "L",
+          "splits_used": false,
+          "lineup_ops": [
+            "Ronald Acuña Jr.(0.784)",
+            "Drake Baldwin(0.674)",
+            "Ozzie Albies(0.768)",
+            "Matt Olson(1.038)",
+            "Mauricio Dubón(0.708)",
+            "Lane Thomas(0.660)",
+            "Austin Riley(0.717)",
+            "Sean Murphy(0.222)",
+            "Ha-Seong Kim(0.195)"
+          ]
         },
         "sit_score": 71.6,
-        "total": 55.2
+        "total": 50.5
       },
       "home": {
         "sp_score": 50.3,
@@ -1371,32 +1384,45 @@
           "team_era": 2.42,
           "sample_games": 10
         },
-        "bat_score": 39.3,
+        "bat_score": 35.4,
         "bat_detail": {
-          "recent_avg": 0.228,
+          "recent_avg": 0.221,
           "runs_per_g": 5.2,
           "hr_per_g": 1.1,
-          "bb_per_g": 5.0,
-          "season_ops": 0.72,
-          "season_avg": 0.25,
-          "n_games": 10,
-          "explosive_games": 3
+          "bb_per_g": 3.0,
+          "season_ops": 0.757,
+          "season_avg": 0.221,
+          "n_games": 9,
+          "source": "prev_day",
+          "handedness": "R",
+          "splits_used": false,
+          "lineup_ops": [
+            "Trent Grisham(0.606)",
+            "Ben Rice(0.683)",
+            "Heliot Ramos(0.665)",
+            "Luis García Jr.(0.969)",
+            "Jazz Chisholm Jr.(0.594)",
+            "Spencer Jones(0.681)",
+            "George Lombard Jr.(1.262)",
+            "Ryan McMahon(0.638)",
+            "Austin Wells(0.711)"
+          ]
         },
         "sit_score": 57.8,
-        "total": 55.5
+        "total": 54.4
       }
     },
     "scores": {
-      "away_offense": 40.1,
+      "away_offense": 24.4,
       "away_defense": 60.7,
-      "home_offense": 39.3,
+      "home_offense": 35.4,
       "home_defense": 65.2
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -1407,9 +1433,9 @@
     "model_winner": "New York Yankees",
     "model_correct": null,
     "notes": "Atlanta Braves IL: Joe Jiménez, Joey Wentz, Reynaldo López, Robert Suarez, Spencer Schwellenbach 외 다수 / New York Yankees IL: Aaron Judge, Carlos Rodón, Clarke Schmidt, Cody Bellinger, Giancarlo Stanton",
-    "kalshi_prob": null,
-    "edge": null,
-    "value_bet": "⏭️ 패스 (라인업 미공개)",
+    "kalshi_prob": 55.0,
+    "edge": -0.6,
+    "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
   },
@@ -2321,14 +2347,14 @@
       "home": 37.0
     },
     "expected_score": {
-      "away": 2.2,
-      "home": 1.7
+      "away": 2.0,
+      "home": 1.6
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "L",
       "home_handedness": "L",
       "bullpen_game": false,
@@ -2360,32 +2386,32 @@
           "team_era": 3.48,
           "sample_games": 10
         },
-        "bat_score": 28.5,
+        "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.258,
+          "recent_avg": 0.24,
           "runs_per_g": 3.2,
           "hr_per_g": 0.9,
           "bb_per_g": 3.0,
-          "season_ops": 0.699,
-          "season_avg": 0.258,
+          "season_ops": 0.706,
+          "season_avg": 0.24,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Travis Bazzana(0.674)",
+            "Steven Kwan(0.761)",
             "Chase DeLauter(0.769)",
             "José Ramírez(0.595)",
-            "Nathaniel Lowe(0.899)",
+            "Jo Adell(0.633)",
             "Angel Martínez(0.559)",
+            "Rhys Hoskins(0.743)",
             "Brayan Rocchio(0.525)",
-            "Petey Halpin(0.581)",
-            "Patrick Bailey(0.582)",
+            "Austin Hedges(0.657)",
             "Angel Genao(1.111)"
           ]
         },
         "sit_score": 44.9,
-        "total": 52.0
+        "total": 51.0
       },
       "home": {
         "sp_score": 30.0,
@@ -2408,14 +2434,14 @@
           "team_era": 5.76,
           "sample_games": 10
         },
-        "bat_score": 27.3,
+        "bat_score": 24.7,
         "bat_detail": {
-          "recent_avg": 0.239,
+          "recent_avg": 0.235,
           "runs_per_g": 3.6,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.706,
-          "season_avg": 0.239,
+          "season_ops": 0.682,
+          "season_avg": 0.235,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
@@ -2426,27 +2452,27 @@
             "Miguel Vargas(0.715)",
             "Randal Grichuk(0.893)",
             "Colson Montgomery(0.666)",
-            "Joey Bart(0.650)",
             "Brenton Doyle(0.690)",
             "Braden Montgomery(0.569)",
+            "Edgar Quero(0.440)",
             "Luisangel Acuña(0.487)"
           ]
         },
         "sit_score": 58.3,
-        "total": 31.0
+        "total": 30.2
       }
     },
     "scores": {
-      "away_offense": 28.5,
+      "away_offense": 25.0,
       "away_defense": 66.5,
-      "home_offense": 27.3,
+      "home_offense": 24.7,
       "home_defense": 25.1
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -2456,12 +2482,12 @@
     "actual_winner": null,
     "model_winner": "Cleveland Guardians",
     "model_correct": null,
-    "notes": "Cleveland Guardians IL: Shawn Armstrong / Chicago White Sox IL: Brooks Baldwin, Chris Murphy, Drew Thorpe, Joey Bart, Jordan Leasure 외 다수",
+    "notes": "Cleveland Guardians IL: Shawn Armstrong, Slade Cecconi / Chicago White Sox IL: Brooks Baldwin, Chris Murphy, Drew Thorpe, Joey Bart, Jordan Leasure 외 다수",
     "kalshi_prob": 43.0,
     "edge": -6.0,
-    "value_bet": "➖ 시장과 유사",
+    "value_bet": "⭐ 고신뢰 예측 — 모델·시장 동의 (Cleveland Guardians 63%)",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": true
   },
   {
     "date": "2026-08-07",
