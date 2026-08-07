@@ -698,7 +698,7 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
           )}
 
           {/* Two-column team panels */}
-          <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 16 }}>
+          <div className="game-card-sp-grid" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 16 }}>
             <TeamPanel
               label={awayAbbr}
               color={awayColor}

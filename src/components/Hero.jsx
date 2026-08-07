@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import { usePredictions } from "../hooks/usePredictions";
 import { TEAM_COLORS } from "../data/mlbData";
 
@@ -72,6 +72,13 @@ function StatCard({ label, value, frac, bg, big }) {
 /* ── 메인 ────────────────────────────────────────────────────── */
 export default function Hero() {
   const { games, loading, lastUpdated } = usePredictions(TODAY_DATE, { refreshInterval: 5 * 60 * 1000 }); // 5분마다 자동 갱신
+  const [isMobile, setIsMobile] = useState(window.innerWidth <= 768);
+
+  useEffect(() => {
+    const onResize = () => setIsMobile(window.innerWidth <= 768);
+    window.addEventListener("resize", onResize);
+    return () => window.removeEventListener("resize", onResize);
+  }, []);
 
   /* 최고 신뢰도 게임 선택 */
   const topGame = React.useMemo(() => {
@@ -185,6 +192,144 @@ export default function Hero() {
 
   /* 워드마크(배경 팀명) */
   const bgWord = pickNickFull.toUpperCase();
+
+  /* ── 모바일 레이아웃 ── */
+  if (isMobile) {
+    return (
+      <section style={{ background:"#fff", borderBottom:"1px solid var(--color-border)", padding:"16px" }}>
+        {/* Header row */}
+        <div style={{ display:"flex", alignItems:"center", justifyContent:"space-between", marginBottom:12 }}>
+          <span style={{
+            background:"linear-gradient(135deg, #F59E0B, #D97706)",
+            color:"#fff", borderRadius:"var(--radius-full)",
+            padding:"4px 12px", fontSize:10, fontWeight:700, letterSpacing:"0.6px",
+            textTransform:"uppercase", boxShadow:"0 2px 10px rgba(245,158,11,0.35)",
+          }}>
+            ⭐ High Confidence Pick
+          </span>
+          <span style={{ fontSize:11, color:"var(--color-muted)" }}>{TODAY_DISPLAY}</span>
+        </div>
+
+        {/* Matchup info */}
+        <div style={{ textAlign:"center", marginBottom:10 }}>
+          <div style={{ fontSize:18, fontWeight:800, color:"var(--color-ink)", letterSpacing:"-0.5px" }}>
+            <span style={{ color:awayColor }}>{awayAbbr}</span>
+            <span style={{ color:"var(--color-muted)", margin:"0 8px" }}>@</span>
+            <span style={{ color:homeColor }}>{homeAbbr}</span>
+          </div>
+          {topGame.game_time && (
+            <div style={{ fontSize:11, color:"var(--color-muted)", marginTop:2 }}>{topGame.game_time}</div>
+          )}
+        </div>
+
+        {/* Big pick percentage */}
+        <div style={{ textAlign:"center", marginBottom:12 }}>
+          <div style={{ fontFamily:"var(--font-display)", fontWeight:900, fontSize:56, lineHeight:1, color:pickColor_, letterSpacing:"-2px" }}>
+            {pickPct.toFixed(0)}%
+          </div>
+          <div style={{ fontSize:12, color:"var(--color-muted)", marginTop:4 }}>
+            Pick: <b style={{ color:pickColor_ }}>{pickAbbr}</b>
+          </div>
+        </div>
+
+        {/* SP headshot */}
+        <div style={{ display:"flex", justifyContent:"center", marginBottom:12, position:"relative" }}>
+          <div style={{
+            position:"absolute", top:"10%", left:"50%", transform:"translateX(-50%)",
+            width:200, height:200, borderRadius:"50%",
+            background:`radial-gradient(circle, ${pickColor_}28 0%, transparent 70%)`,
+            filter:"blur(20px)",
+          }} />
+          <img
+            src={`https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/w_320,q_auto:best/v1/people/${pickIsHome ? (topGame.home_pitcher_id || "1") : (topGame.away_pitcher_id || "1")}/headshot/silo/current`}
+            alt={pickPitcherName}
+            style={{ width:180, height:180, objectFit:"contain", objectPosition:"center top", display:"block", filter:"drop-shadow(0 8px 16px rgba(0,0,0,0.18))", position:"relative" }}
+            onError={e => { e.target.onerror = null; }}
+          />
+        </div>
+
+        {/* SP name + trend badge */}
+        <div style={{ textAlign:"center", marginBottom:14 }}>
+          <div style={{ fontFamily:"var(--font-display)", fontWeight:800, fontSize:22, color:"var(--color-ink)", letterSpacing:"-0.5px" }}>
+            {pickPitcherName}
+          </div>
+          <div style={{ display:"inline-flex", alignItems:"center", gap:6, marginTop:6, padding:"4px 12px", border:"1px solid var(--color-border)", borderRadius:"var(--radius-full)" }}>
+            <span style={{ fontSize:11, color:"var(--color-muted)" }}>SP · Starting Pitcher</span>
+            <span style={{ fontSize:10, fontWeight:700, padding:"2px 7px", background:pickBadge.bg, color:pickBadge.fg, borderRadius:"var(--radius-full)" }}>
+              {pickBadge.label}
+            </span>
+          </div>
+        </div>
+
+        {/* Stats row: ERA | K/9 | WHIP */}
+        <div style={{ display:"grid", gridTemplateColumns:"1fr 1fr 1fr", gap:8, marginBottom:14 }}>
+          {[
+            { label:"ERA", value: typeof pickEraRaw === "number" ? pickEraRaw.toFixed(2) : pickEraRaw },
+            { label:"K/9", value: typeof pickK9 === "number" ? pickK9.toFixed(1) : pickK9 },
+            { label:"WHIP", value: typeof pickWhip === "number" ? pickWhip.toFixed(2) : pickWhip },
+          ].map(({ label, value }) => (
+            <div key={label} style={{
+              background:`${pickColor_}12`, borderRadius:12, padding:"10px 8px",
+              textAlign:"center", border:`1px solid ${pickColor_}25`,
+            }}>
+              <div style={{ fontSize:9, fontWeight:700, color:pickColor_, textTransform:"uppercase", letterSpacing:"0.8px", marginBottom:4 }}>{label}</div>
+              <div style={{ fontFamily:"var(--font-display)", fontWeight:800, fontSize:22, color:"var(--color-ink)", letterSpacing:"-1px" }}>{value}</div>
+            </div>
+          ))}
+        </div>
+
+        {/* Prediction card */}
+        <div style={{ background:pickColor_, borderRadius:16, padding:"16px", boxShadow:`0 8px 24px ${pickColor_}35`, marginBottom:12 }}>
+          <div style={{ fontSize:9, fontWeight:700, color:"rgba(255,255,255,0.55)", textTransform:"uppercase", letterSpacing:"1.2px", marginBottom:8 }}>
+            Model Prediction
+          </div>
+          <div style={{ display:"flex", alignItems:"baseline", gap:8, marginBottom:10 }}>
+            <span style={{ fontFamily:"var(--font-display)", fontWeight:800, fontSize:32, color:"#fff", lineHeight:1 }}>
+              {pickPct.toFixed(0)}%
+            </span>
+            <span style={{ color:"rgba(255,255,255,0.45)", fontSize:18 }}>–</span>
+            <span style={{ fontFamily:"var(--font-display)", fontWeight:800, fontSize:32, color:"rgba(255,255,255,0.45)", lineHeight:1 }}>
+              {(100 - pickPct).toFixed(0)}%
+            </span>
+            <span style={{ fontSize:11, color:"rgba(255,255,255,0.5)", marginLeft:"auto" }}>
+              {awayAbbr} @ {homeAbbr}
+            </span>
+          </div>
+          <div style={{ height:6, borderRadius:"var(--radius-full)", background:"rgba(255,255,255,0.2)", overflow:"hidden", marginBottom:8 }}>
+            <div style={{ height:"100%", width:`${pickPct}%`, background:"#fff", borderRadius:"var(--radius-full)" }} />
+          </div>
+          <div style={{ display:"flex", justifyContent:"space-between" }}>
+            <span style={{ fontSize:11, color:"rgba(255,255,255,0.6)" }}>Pick: {pickAbbr}</span>
+            {topGame.edge != null && (
+              <span style={{ fontSize:11, color:"#fff", fontWeight:600 }}>+{Number(topGame.edge).toFixed(1)}%p edge</span>
+            )}
+          </div>
+        </div>
+
+        {/* Opponent SP info */}
+        <div style={{ background:"var(--color-canvas-muted)", borderRadius:12, padding:"12px 14px", border:"1px solid var(--color-border)" }}>
+          <div style={{ fontSize:9, fontWeight:700, color:"var(--color-subtle)", textTransform:"uppercase", letterSpacing:"0.8px", marginBottom:6 }}>
+            vs · {oppAbbr} SP
+          </div>
+          <div style={{ fontWeight:700, fontSize:14, color: pickIsHome ? awayColor : homeColor, marginBottom:4 }}>{oppPitcherName}</div>
+          <div style={{ display:"flex", alignItems:"center", gap:8 }}>
+            <span style={{ fontSize:12, color:"var(--color-muted)" }}>ERA {typeof oppEraRaw === "number" ? oppEraRaw.toFixed(2) : oppEraRaw}</span>
+            <span style={{ fontSize:10, fontWeight:700, padding:"2px 7px", borderRadius:"var(--radius-full)", background:oppBadge.bg, color:oppBadge.fg }}>
+              {oppBadge.label}
+            </span>
+          </div>
+        </div>
+
+        {lastUpdated && (
+          <div style={{ textAlign:"center", marginTop:12 }}>
+            <span style={{ fontSize:10, color:"var(--color-subtle)" }}>
+              Updated {lastUpdated.toLocaleTimeString("en-US", { hour:"2-digit", minute:"2-digit" })}
+            </span>
+          </div>
+        )}
+      </section>
+    );
+  }
 
   return (
     <section style={{ background:"#fff", borderBottom:"1px solid var(--color-border)", overflow:"hidden" }}>

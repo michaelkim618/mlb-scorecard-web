@@ -54,7 +54,7 @@ export default function SeasonStats() {
         </div>
 
         {/* ── 상단: 오늘 결과 + 누적 ── */}
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 16, marginBottom: 24 }}>
+        <div className="season-top-grid" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 16, marginBottom: 24 }}>
 
           {/* 당일 결과 */}
           <div style={{ background: "#fff", borderRadius: "var(--radius-lg)", padding: "24px 28px", border: "1px solid var(--color-border)", boxShadow: "var(--shadow-sm)" }}>

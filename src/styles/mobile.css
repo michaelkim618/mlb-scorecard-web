@@ -1,0 +1,30 @@
+/* ── Mobile Responsive Styles ─────────────────────────── */
+@media (max-width: 768px) {
+
+  /* GameCard tweaks */
+  .game-card-sp-grid {
+    grid-template-columns: 1fr !important;
+    gap: 12px !important;
+  }
+  .game-card-detail-grid {
+    grid-template-columns: 1fr 1fr !important;
+  }
+  .game-card-scorecard-grid {
+    grid-template-columns: 1fr 1fr !important;
+  }
+
+  /* SeasonStats grid */
+  .season-top-grid {
+    grid-template-columns: 1fr !important;
+  }
+  .season-history-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  /* TodaysGames */
+  .todays-games-header {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 8px !important;
+  }
+}

@@ -15,7 +15,7 @@ export default function TodaysGames() {
       <div style={{ maxWidth: "var(--max-width)", margin: "0 auto", padding: "0 24px" }}>
 
         {/* Header */}
-        <div style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between", marginBottom: 24 }}>
+        <div className="todays-games-header" style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between", marginBottom: 24 }}>
           <div>
             <h2 className="t-display-md" style={{ color: "var(--color-ink)" }}>
               Today's Slate
