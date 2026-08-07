@@ -417,7 +417,7 @@ function SummaryBadges({ game, pickProb, awayColor, homeColor, awayName, homeNam
 
   // 3. Win probability strength
   if (pickProb >= 65) {
-    badges.push(<Chip key="conf" bg="#FFFBEB" color="#92400E" border="#FDE68A">⭐ High Conf {pickProb}%</Chip>);
+    badges.push(<Chip key="conf" bg="#FEF3C7" color="#78350F" border="#FCD34D">⭐ Premium Pick · {pickProb}% Win Prob</Chip>);
   } else if (pickProb >= 60) {
     badges.push(<Chip key="conf" bg="#EFF6FF" color="#1D4ED8" border="#BFDBFE">📊 Lean {pickProb}%</Chip>);
   }
@@ -518,7 +518,7 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
   const awayStreak = awayForm?.streak ?? 0;
   const homeStreak = homeForm?.streak ?? 0;
 
-  const isHighConf = game.consensus === true || game.value_bet === true;
+  const isHighConf = pickProb >= 65;
   const isDone     = game.model_correct !== null && game.model_correct !== undefined;
   const isCorrect  = game.model_correct === true;
 
@@ -531,6 +531,22 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
 
   return (
     <div style={{ borderRadius: "var(--radius-md)", overflow: "hidden", background: "#fff", boxShadow: "var(--shadow-sm)", border: `1px solid var(--color-border)`, borderLeft: `4px solid ${isHighConf ? "#F59E0B" : pickColor}` }}>
+
+      {/* ── Premium banner ── */}
+      {isHighConf && (
+        <div style={{
+          background: "linear-gradient(90deg, #F59E0B, #FBBF24)",
+          padding: "5px 16px",
+          display: "flex", alignItems: "center", justifyContent: "space-between",
+        }}>
+          <span style={{ fontSize: 11, fontWeight: 800, color: "#78350F", letterSpacing: "0.5px" }}>
+            ⭐ PREMIUM PICK
+          </span>
+          <span style={{ fontSize: 10, fontWeight: 700, color: "#92400E" }}>
+            {pickProb}% Confidence
+          </span>
+        </div>
+      )}
 
       {/* ── Collapsed row ── */}
       <div onClick={() => setOpen(o => !o)} style={{ cursor: "pointer", padding: "12px 16px" }}>
