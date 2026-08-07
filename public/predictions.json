@@ -3591,22 +3591,22 @@
   },
   {
     "date": "2026-08-06",
-    "status": "Live",
+    "status": "Final",
     "away": "San Diego Padres",
     "home": "Arizona Diamondbacks",
     "away_standing": {
       "div_rank": 3,
       "div_name": "NL West",
-      "wins": 59,
+      "wins": 60,
       "losses": 56,
-      "games_back": "10.0"
+      "games_back": "9.5"
     },
     "home_standing": {
       "div_rank": 2,
       "div_name": "NL West",
       "wins": 61,
-      "losses": 54,
-      "games_back": "8.0"
+      "losses": 55,
+      "games_back": "8.5"
     },
     "away_recent_form": {
       "games": [
@@ -3745,7 +3745,7 @@
     "home_pitcher_id": 684442,
     "home_pitcher_stats": {
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "era": "5.40"
     },
     "home_pitcher_gamelog": [
@@ -3792,8 +3792,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 49.4,
-      "home": 50.6
+      "away": 51.1,
+      "home": 48.9
     },
     "expected_score": {
       "away": 2.4,
@@ -3859,8 +3859,8 @@
             "Jake Cronenworth(0.589)"
           ]
         },
-        "sit_score": 48.2,
-        "total": 41.2
+        "sit_score": 52.3,
+        "total": 41.8
       },
       "home": {
         "sp_score": 30.0,
@@ -3900,15 +3900,15 @@
             "Corbin Carroll(0.705)",
             "Gabriel Moreno(0.765)",
             "Ketel Marte(0.647)",
-            "Lars Nootbaar(0.629)",
-            "Nolan Arenado(0.724)",
-            "Max Kepler(0.583)",
-            "Tim Tawa(0.678)",
+            "Lars Nootbaar(0.620)",
+            "Nolan Arenado(0.714)",
+            "Max Kepler(0.611)",
+            "Tim Tawa(0.666)",
             "Ryan Waldschmidt(0.884)"
           ]
         },
-        "sit_score": 61.5,
-        "total": 38.6
+        "sit_score": 57.4,
+        "total": 38.0
       }
     },
     "scores": {
@@ -3928,14 +3928,14 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
-    "model_winner": "Arizona Diamondbacks",
-    "model_correct": null,
+    "actual_winner": "San Diego Padres",
+    "model_winner": "San Diego Padres",
+    "model_correct": true,
     "notes": "San Diego Padres IL: Bryan Hoeing, David Morgan, Jason Adam, Joe Musgrove, Lucas Giolito 외 다수 / Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Blake Walston, Corbin Burnes, Cristian Mena 외 다수",
-    "kalshi_prob": 99.0,
-    "edge": -48.4,
-    "value_bet": "⚠️ 극단적 역edge -48.4%p — 마켓 데이터 이상 의심 (Arizona Diamondbacks 시장 과대평가)",
-    "extreme_edge": true,
+    "kalshi_prob": null,
+    "edge": null,
+    "value_bet": "마켓 없음",
+    "extreme_edge": false,
     "consensus": false
   }
 ]
