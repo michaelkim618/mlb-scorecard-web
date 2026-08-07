@@ -2730,7 +2730,7 @@
     },
     "expected_score": {
       "away": 1.9,
-      "home": 3.0
+      "home": 2.9
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -2768,14 +2768,14 @@
           "team_era": 5.76,
           "sample_games": 10
         },
-        "bat_score": 27.1,
+        "bat_score": 26.8,
         "bat_detail": {
-          "recent_avg": 0.239,
+          "recent_avg": 0.238,
           "runs_per_g": 3.6,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.703,
-          "season_avg": 0.239,
+          "season_ops": 0.702,
+          "season_avg": 0.238,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
@@ -2788,7 +2788,7 @@
             "Colson Montgomery(0.665)",
             "Joey Bart(0.650)",
             "Brenton Doyle(0.690)",
-            "Braden Montgomery(0.595)",
+            "Braden Montgomery(0.588)",
             "Luisangel Acuña(0.487)"
           ]
         },
@@ -2816,23 +2816,23 @@
           "team_era": 4.84,
           "sample_games": 10
         },
-        "bat_score": 36.6,
+        "bat_score": 35.6,
         "bat_detail": {
-          "recent_avg": 0.264,
+          "recent_avg": 0.261,
           "runs_per_g": 3.6,
           "hr_per_g": 0.9,
           "bb_per_g": 3.0,
-          "season_ops": 0.766,
-          "season_avg": 0.264,
+          "season_ops": 0.761,
+          "season_avg": 0.261,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
             "Nick Sogard(0.646)",
-            "Ceddanne Rafaela(1.008)",
-            "Wilyer Abreu(0.869)",
-            "Caleb Durbin(0.867)",
+            "Ceddanne Rafaela(0.994)",
+            "Wilyer Abreu(0.857)",
+            "Caleb Durbin(0.853)",
             "Masataka Yoshida(0.825)",
             "Andruw Monasterio(0.850)",
             "Jarren Duran(0.693)",
@@ -2841,13 +2841,13 @@
           ]
         },
         "sit_score": 67.7,
-        "total": 43.5
+        "total": 43.3
       }
     },
     "scores": {
-      "away_offense": 27.1,
+      "away_offense": 26.8,
       "away_defense": 29.1,
-      "home_offense": 36.6,
+      "home_offense": 35.6,
       "home_defense": 40.3
     },
     "actual_score": {
@@ -2865,10 +2865,10 @@
     "model_winner": "Boston Red Sox",
     "model_correct": null,
     "notes": "Chicago White Sox IL: Brooks Baldwin, Drew Thorpe, Jordan Leasure, Ky Bush, Kyle Teel 외 다수 / Boston Red Sox IL: Curtis Mead, Garrett Crochet, Isiah Kiner-Falefa, Johan Oviedo, Kutter Crawford 외 다수",
-    "kalshi_prob": 44.0,
-    "edge": 23.0,
-    "value_bet": "⏭️ 패스 (불펜전 — 양팀 선발 Cold, 예측 신뢰 낮음)",
-    "extreme_edge": false,
+    "kalshi_prob": 29.0,
+    "edge": 38.0,
+    "value_bet": "⚠️ 극단적 edge +38.0%p — 마켓 데이터 이상 의심, VB 신중 검토 (Boston Red Sox)",
+    "extreme_edge": true,
     "consensus": false
   },
   {
@@ -3088,7 +3088,7 @@
       "home": 63.0
     },
     "expected_score": {
-      "away": 1.5,
+      "away": 1.4,
       "home": 2.8
     },
     "blend_detail": null,
@@ -3127,14 +3127,14 @@
           "team_era": 3.89,
           "sample_games": 10
         },
-        "bat_score": 24.4,
+        "bat_score": 24.1,
         "bat_detail": {
-          "recent_avg": 0.217,
+          "recent_avg": 0.216,
           "runs_per_g": 4.9,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
-          "season_ops": 0.655,
-          "season_avg": 0.217,
+          "season_ops": 0.654,
+          "season_avg": 0.216,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
@@ -3144,15 +3144,15 @@
             "Heriberto Hernández(0.648)",
             "Agustín Ramírez(0.621)",
             "Xavier Edwards(0.679)",
-            "Leo Jiménez(0.480)",
-            "Kyle Stowers(0.815)",
-            "Javier Sanoja(0.704)",
+            "Leo Jiménez(0.500)",
+            "Kyle Stowers(0.801)",
+            "Javier Sanoja(0.691)",
             "Esteury Ruiz(0.845)",
             "Brian Navarreto(0.411)"
           ]
         },
         "sit_score": 48.1,
-        "total": 37.2
+        "total": 37.1
       },
       "home": {
         "sp_score": 55.7,
@@ -3204,7 +3204,7 @@
       }
     },
     "scores": {
-      "away_offense": 24.4,
+      "away_offense": 24.1,
       "away_defense": 42.3,
       "home_offense": 37.9,
       "home_defense": 67.8
@@ -3224,8 +3224,8 @@
     "model_winner": "Atlanta Braves",
     "model_correct": null,
     "notes": "Miami Marlins IL: Adam Mazur, Andrew Nardi, Anthony Bender, Max Meyer, Robby Snelling 외 다수 / Atlanta Braves IL: Joe Jiménez, Joey Wentz, Reynaldo López, Robert Suarez, Spencer Schwellenbach 외 다수",
-    "kalshi_prob": 80.0,
-    "edge": -17.0,
+    "kalshi_prob": 86.0,
+    "edge": -23.0,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Atlanta Braves)",
     "extreme_edge": false,
     "consensus": false
@@ -3443,8 +3443,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 34.2,
-      "home": 65.8
+      "away": 34.3,
+      "home": 65.7
     },
     "expected_score": {
       "away": 1.5,
@@ -3534,14 +3534,14 @@
           "team_era": 4.28,
           "sample_games": 10
         },
-        "bat_score": 24.8,
+        "bat_score": 24.5,
         "bat_detail": {
-          "recent_avg": 0.222,
+          "recent_avg": 0.221,
           "runs_per_g": 4.2,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.681,
-          "season_avg": 0.222,
+          "season_ops": 0.68,
+          "season_avg": 0.221,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -3555,17 +3555,17 @@
             "Isaac Collins(0.631)",
             "John Rave(0.826)",
             "Josh Rojas(0.615)",
-            "Kyle Isbel(0.554)"
+            "Kyle Isbel(0.545)"
           ]
         },
         "sit_score": 51.8,
-        "total": 45.7
+        "total": 45.6
       }
     },
     "scores": {
       "away_offense": 23.1,
       "away_defense": 42.8,
-      "home_offense": 24.8,
+      "home_offense": 24.5,
       "home_defense": 54.7
     },
     "actual_score": {
@@ -3583,8 +3583,8 @@
     "model_winner": "Kansas City Royals",
     "model_correct": null,
     "notes": "Minnesota Twins IL: Anthony Banda, Byron Buxton, Cole Sands, David Festa, Mick Abel 외 다수 / Kansas City Royals IL: Alec Marsh, Beck Way, Carlos Estévez, Cole Ragans, Connor Seabold 외 다수",
-    "kalshi_prob": 88.0,
-    "edge": -22.2,
+    "kalshi_prob": 87.0,
+    "edge": -21.3,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Kansas City Royals)",
     "extreme_edge": false,
     "consensus": false
@@ -3691,16 +3691,6 @@
     },
     "away_pitcher_gamelog": [
       {
-        "date": "2026-07-06",
-        "opp": "@ ",
-        "ip": "5.0",
-        "er": 7,
-        "h": 7,
-        "bb": 1,
-        "so": 4,
-        "era": 12.6
-      },
-      {
         "date": "2026-07-11",
         "opp": "@ ",
         "ip": "2.0",
@@ -3739,6 +3729,16 @@
         "bb": 2,
         "so": 1,
         "era": 6.23
+      },
+      {
+        "date": "2026-08-06",
+        "opp": "@ ",
+        "ip": "0.0",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 0,
+        "era": null
       }
     ],
     "home_pitcher": "Kohl Drake",
@@ -3778,16 +3778,26 @@
         "bb": 1,
         "so": 6,
         "era": 4.5
+      },
+      {
+        "date": "2026-08-06",
+        "opp": "@ ",
+        "ip": "0.2",
+        "er": 1,
+        "h": 2,
+        "bb": 0,
+        "so": 0,
+        "era": 13.5
       }
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 49.5,
-      "home": 50.5
+      "away": 49.0,
+      "home": 51.0
     },
     "expected_score": {
       "away": 2.4,
-      "home": 2.0
+      "home": 2.1
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -3807,12 +3817,12 @@
       "away": {
         "sp_score": 30.0,
         "sp_detail": {
-          "era": 5.98,
-          "whip": 1.65,
-          "k9": 8.3,
-          "avg_ip": 4.7,
+          "era": 6.43,
+          "whip": 1.6,
+          "k9": 8.4,
+          "avg_ip": 4.2,
           "qs_rate": 0.0,
-          "last3_era": 7.25,
+          "last3_era": 5.71,
           "trend": "cold",
           "n_games": 10,
           "sample_confidence": 1.0,
@@ -3825,62 +3835,62 @@
           "team_era": 3.74,
           "sample_games": 10
         },
-        "bat_score": 33.5,
+        "bat_score": 32.8,
         "bat_detail": {
-          "recent_avg": 0.279,
+          "recent_avg": 0.278,
           "runs_per_g": 3.7,
           "hr_per_g": 0.5,
           "bb_per_g": 3.0,
-          "season_ops": 0.695,
-          "season_avg": 0.279,
+          "season_ops": 0.689,
+          "season_avg": 0.278,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis Jr.(0.742)",
-            "Luis Rengifo(0.641)",
-            "Manny Machado(0.721)",
-            "Ty France(0.772)",
-            "Jackson Merrill(0.808)",
-            "Xander Bogaerts(0.683)",
-            "Gavin Sheets(0.585)",
-            "Freddy Fermin(0.714)",
-            "Jake Cronenworth(0.588)"
+            "Fernando Tatis Jr.(0.804)",
+            "Luis Rengifo(0.627)",
+            "Manny Machado(0.655)",
+            "Ty France(0.758)",
+            "Jackson Merrill(0.762)",
+            "Xander Bogaerts(0.698)",
+            "Gavin Sheets(0.580)",
+            "Freddy Fermin(0.749)",
+            "Jake Cronenworth(0.568)"
           ]
         },
         "sit_score": 48.2,
-        "total": 41.3
+        "total": 41.1
       },
       "home": {
-        "sp_score": 30.6,
+        "sp_score": 30.0,
         "sp_detail": {
-          "era": 4.85,
-          "whip": 1.46,
-          "k9": 8.3,
-          "avg_ip": 4.3,
+          "era": 5.27,
+          "whip": 1.54,
+          "k9": 7.9,
+          "avg_ip": 3.4,
           "qs_rate": 0.0,
-          "last3_era": 4.85,
+          "last3_era": 5.27,
           "trend": "cold",
-          "n_games": 3,
-          "sample_confidence": 0.6,
+          "n_games": 4,
+          "sample_confidence": 0.8,
           "rest_days": 5,
           "rest_note": null
         },
-        "bp_score": 45.0,
+        "bp_score": 44.8,
         "bp_detail": {
-          "bullpen_era": 4.25,
+          "bullpen_era": 4.26,
           "team_era": 4.3,
           "sample_games": 10
         },
-        "bat_score": 27.0,
+        "bat_score": 28.6,
         "bat_detail": {
-          "recent_avg": 0.242,
+          "recent_avg": 0.247,
           "runs_per_g": 3.5,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
-          "season_ops": 0.712,
-          "season_avg": 0.242,
+          "season_ops": 0.72,
+          "season_avg": 0.247,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -3888,24 +3898,24 @@
           "lineup_ops": [
             "Geraldo Perdomo(0.839)",
             "Corbin Carroll(0.713)",
-            "Gabriel Moreno(0.722)",
-            "Ketel Marte(0.609)",
+            "Gabriel Moreno(0.702)",
+            "Ketel Marte(0.633)",
             "Lars Nootbaar(0.627)",
-            "Nolan Arenado(0.736)",
-            "Max Kepler(0.630)",
+            "Nolan Arenado(0.760)",
+            "Max Kepler(0.620)",
             "Tim Tawa(0.641)",
-            "Ryan Waldschmidt(0.891)"
+            "Ryan Waldschmidt(0.948)"
           ]
         },
         "sit_score": 61.5,
-        "total": 38.7
+        "total": 38.8
       }
     },
     "scores": {
-      "away_offense": 33.5,
+      "away_offense": 32.8,
       "away_defense": 42.8,
-      "home_offense": 27.0,
-      "home_defense": 37.8
+      "home_offense": 28.6,
+      "home_defense": 37.4
     },
     "actual_score": {
       "away": 0,
@@ -3922,9 +3932,9 @@
     "model_winner": "Arizona Diamondbacks",
     "model_correct": null,
     "notes": "San Diego Padres IL: Bryan Hoeing, David Morgan, Jason Adam, Joe Musgrove, Lucas Giolito 외 다수 / Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Blake Walston, Corbin Burnes, Cristian Mena 외 다수",
-    "kalshi_prob": 50.0,
-    "edge": 0.5,
-    "value_bet": "➖ 시장과 유사",
+    "kalshi_prob": 41.0,
+    "edge": 10.0,
+    "value_bet": "⏭️ 패스 (불펜전 — 양팀 선발 Cold, 예측 신뢰 낮음)",
     "extreme_edge": false,
     "consensus": false
   }
