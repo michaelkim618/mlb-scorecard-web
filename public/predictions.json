@@ -3792,11 +3792,11 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 49.1,
-      "home": 50.9
+      "away": 49.4,
+      "home": 50.6
     },
     "expected_score": {
-      "away": 2.3,
+      "away": 2.4,
       "home": 2.1
     },
     "blend_detail": null,
@@ -3835,24 +3835,24 @@
           "team_era": 3.74,
           "sample_games": 10
         },
-        "bat_score": 32.1,
+        "bat_score": 33.1,
         "bat_detail": {
-          "recent_avg": 0.276,
+          "recent_avg": 0.279,
           "runs_per_g": 3.7,
           "hr_per_g": 0.5,
           "bb_per_g": 3.0,
-          "season_ops": 0.685,
-          "season_avg": 0.276,
+          "season_ops": 0.69,
+          "season_avg": 0.279,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
             "Fernando Tatis Jr.(0.780)",
-            "Luis Rengifo(0.629)",
-            "Manny Machado(0.640)",
-            "Ty France(0.768)",
-            "Jackson Merrill(0.771)",
+            "Luis Rengifo(0.651)",
+            "Manny Machado(0.633)",
+            "Ty France(0.803)",
+            "Jackson Merrill(0.759)",
             "Xander Bogaerts(0.735)",
             "Gavin Sheets(0.538)",
             "Freddy Fermin(0.718)",
@@ -3860,7 +3860,7 @@
           ]
         },
         "sit_score": 48.2,
-        "total": 40.9
+        "total": 41.2
       },
       "home": {
         "sp_score": 30.0,
@@ -3912,7 +3912,7 @@
       }
     },
     "scores": {
-      "away_offense": 32.1,
+      "away_offense": 33.1,
       "away_defense": 42.8,
       "home_offense": 27.6,
       "home_defense": 37.5
@@ -3932,9 +3932,9 @@
     "model_winner": "Arizona Diamondbacks",
     "model_correct": null,
     "notes": "San Diego Padres IL: Bryan Hoeing, David Morgan, Jason Adam, Joe Musgrove, Lucas Giolito 외 다수 / Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Blake Walston, Corbin Burnes, Cristian Mena 외 다수",
-    "kalshi_prob": 1.0,
-    "edge": 49.9,
-    "value_bet": "⚠️ 극단적 edge +49.9%p — 마켓 데이터 이상 의심, VB 신중 검토 (Arizona Diamondbacks)",
+    "kalshi_prob": 99.0,
+    "edge": -48.4,
+    "value_bet": "⚠️ 극단적 역edge -48.4%p — 마켓 데이터 이상 의심 (Arizona Diamondbacks 시장 과대평가)",
     "extreme_edge": true,
     "consensus": false
   }
