@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useNavigate, useLocation } from "react-router-dom";
-import { SEASON_RECORD } from "../data/mlbData";
+import useSeasonResults from "../hooks/useSeasonResults";
 
 export default function NavBar() {
   const [scrolled, setScrolled] = useState(false);
@@ -9,6 +9,9 @@ export default function NavBar() {
   const navigate = useNavigate();
   const location = useLocation();
   const isHomePage = location.pathname === "/";
+
+  const { W: wins, L: losses, pct: pctRaw } = useSeasonResults();
+  const pct = pctRaw ?? "0.0";
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 10);
@@ -24,8 +27,6 @@ export default function NavBar() {
 
   // Close menu when route changes
   useEffect(() => { setMenuOpen(false); }, [location]);
-
-  const pct = ((SEASON_RECORD.wins / (SEASON_RECORD.wins + SEASON_RECORD.losses)) * 100).toFixed(1);
 
   const handleAnchorClick = (e, href) => {
     e.preventDefault();
@@ -119,9 +120,9 @@ export default function NavBar() {
                 padding: "5px 12px",
               }}>
                 <span style={{ width: 7, height: 7, borderRadius: "50%", background: "var(--color-win)" }} />
-                <span className="t-caption-strong" style={{ color: "var(--color-win)" }}>{SEASON_RECORD.wins}W</span>
+                <span className="t-caption-strong" style={{ color: "var(--color-win)" }}>{wins}W</span>
                 <span className="t-caption" style={{ color: "var(--color-muted)" }}>–</span>
-                <span className="t-caption-strong" style={{ color: "var(--color-loss)" }}>{SEASON_RECORD.losses}L</span>
+                <span className="t-caption-strong" style={{ color: "var(--color-loss)" }}>{losses}L</span>
                 <span className="t-caption" style={{ color: "var(--color-muted)" }}>({pct}%)</span>
               </div>
               <a
@@ -218,9 +219,9 @@ export default function NavBar() {
           {/* Season record in mobile menu */}
           <div style={{ marginTop: 16, display: "flex", alignItems: "center", gap: 6 }}>
             <span style={{ width: 7, height: 7, borderRadius: "50%", background: "var(--color-win)" }} />
-            <span style={{ fontSize: 13, fontWeight: 700, color: "var(--color-win)" }}>{SEASON_RECORD.wins}W</span>
+            <span style={{ fontSize: 13, fontWeight: 700, color: "var(--color-win)" }}>{wins}W</span>
             <span style={{ fontSize: 13, color: "var(--color-muted)" }}>–</span>
-            <span style={{ fontSize: 13, fontWeight: 700, color: "var(--color-loss)" }}>{SEASON_RECORD.losses}L</span>
+            <span style={{ fontSize: 13, fontWeight: 700, color: "var(--color-loss)" }}>{losses}L</span>
             <span style={{ fontSize: 13, color: "var(--color-muted)" }}>({pct}%)</span>
           </div>
 
