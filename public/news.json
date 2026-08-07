@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-07T20:05:56.834916+00:00",
+  "updated_at": "2026-08-07T20:25:51.654786+00:00",
   "news": [
+    {
+      "title": "Hunter Greene to undergo right elbow surgery",
+      "link": "https://www.mlb.com/news/hunter-greene-right-elbow-surgery",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pcs842uqu8u6jkifuf6f",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-07T20:14:30+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Chicago White Sox Nike RBI wins Junior Baseball Championship",
+      "link": "https://www.mlb.com/news/white-sox-nike-rbi-wins-2026-junior-baseball-championship",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dvdv66uxlpe6m3egfdcn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-07T20:12:30+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "GM David Forst, Athletics part ways",
+      "link": "https://www.mlb.com/news/general-manager-david-forst-athletics-part-ways",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e1vphakwq80n1agrwzve",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-07T20:02:57+00:00",
+      "time_ago": "22m ago"
+    },
     {
       "title": "Blue Jays calling up outfield prospect Bateman",
       "link": "https://www.mlb.com/news/brett-bateman-callup-to-blue-jays",
@@ -12,7 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-07T19:27:49+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Yankees add catching depth, inking Garver to Minor League deal (source)",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-07T18:08:17+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Emmet Mitchell a true success story representing Detroit in RBI World Series",
@@ -65,45 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-08-07T17:47:54+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Twins' No. 2 prospect Culpepper getting the call (source)",
-      "link": "https://www.mlb.com/news/kaelen-culpepper-callup-to-twins",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sk3qqawsbarmqsqhswwu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-07T16:42:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Mr. Met has company in Mascot Hall of Fame -- make room for Mrs. Met",
-      "link": "https://www.mlb.com/news/mrs-met-elected-to-mascot-hall-of-fame",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hb9ttv1vt6rdtrf5dtnf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-07T16:40:24+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Here are the rosters for Wednesday's High School All-American Gamerincon",
-      "link": "https://www.mlb.com/news/2026-high-school-all-american-game-rosters-announced",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ncjblt0hpwsdkitgblbh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ben Weinrib",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-08-07T16:37:25+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
