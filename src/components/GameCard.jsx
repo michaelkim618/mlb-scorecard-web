@@ -357,9 +357,39 @@ function Chip({ bg, color, border, children }) {
 function SummaryBadges({ game, pickProb, awayColor, homeColor, awayName, homeName }) {
   const badges = [];
 
-  // 0. Lineup confirmed
+  // 0. Lineup / 데이터 신뢰도 표시
+  const batSource = game.scorecard?.bat_source;
+  const spTbd     = game.sp_tbd?.any;
+
   if (game.lineup_confirmed) {
+    // 라인업 확정 → 최고 신뢰도
     badges.push(<Chip key="lineup" bg="#F0FDF4" color="#15803D" border="#86EFAC">✅ Lineup Confirmed</Chip>);
+  } else if (batSource === "team_stats") {
+    // 라인업 완전 미공개 → 낮은 신뢰도
+    badges.push(
+      <Chip key="reliability" bg="#FFF7ED" color="#C2410C" border="#FED7AA"
+        title="Lineup not yet announced. Prediction based on season averages and may shift significantly once lineups are confirmed.">
+        ⚠️ Lineup Pending — Prediction May Change
+      </Chip>
+    );
+  } else if (batSource === "prev_day") {
+    // 전날 라인업 기반 → 중간 신뢰도
+    badges.push(
+      <Chip key="reliability" bg="#FFFBEB" color="#92400E" border="#FDE68A"
+        title="Based on yesterday's lineup. Today's lineup not yet confirmed — prediction may update closer to game time.">
+        🕐 Awaiting Today's Lineup
+      </Chip>
+    );
+  }
+
+  // SP TBD 추가 경고 (라인업 칩과 별도)
+  if (spTbd) {
+    badges.push(
+      <Chip key="sptbd" bg="#F5F3FF" color="#6D28D9" border="#DDD6FE"
+        title="Starting pitcher not yet announced. SP has significant impact on prediction accuracy.">
+        🔄 SP TBD — Confidence Low
+      </Chip>
+    );
   }
 
   // 1. Market comparison (edge vs Kalshi)
@@ -616,7 +646,15 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
           <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginTop: 5 }}>
             <span style={{ fontSize: 10, color: "var(--color-muted)" }}>Away {awayProb}%</span>
             <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
-              <span style={{ fontSize: 10, color: "var(--color-subtle)", textTransform: "uppercase", letterSpacing: "0.5px" }}>WIN PROBABILITY</span>
+              <span style={{ fontSize: 10, color: "var(--color-subtle)", textTransform: "uppercase", letterSpacing: "0.5px" }}>
+              WIN PROBABILITY
+              {game.scorecard?.bat_source === "team_stats" && (
+                <span style={{ marginLeft: 5, color: "#C2410C", fontWeight: 600, textTransform: "none", letterSpacing: 0 }}>⚠️ Pre-Lineup</span>
+              )}
+              {game.scorecard?.bat_source === "prev_day" && !game.lineup_confirmed && (
+                <span style={{ marginLeft: 5, color: "#B45309", fontWeight: 600, textTransform: "none", letterSpacing: 0 }}>🕐 Est.</span>
+              )}
+            </span>
               {isDone ? (
                 <span style={{ fontSize: 11, fontWeight: 700, padding: "1px 8px", borderRadius: 99, background: isCorrect ? "var(--color-win-bg)" : "var(--color-loss-bg)", color: isCorrect ? "var(--color-win)" : "var(--color-loss)" }}>
                   {isCorrect ? "✓ Correct" : "✗ Miss"}
