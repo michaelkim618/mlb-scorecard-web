@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-07T05:03:36.095860+00:00",
+  "updated_at": "2026-08-07T05:10:50.547552+00:00",
   "news": [
+    {
+      "title": "TWO deflections on Acuña's 1st HR propel Braves to 8th straight win",
+      "link": "https://www.mlb.com/news/ronald-acuna-jr-hits-home-run-after-it-deflects-off-two-marlins-players",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yawfolt40un6t19ggi8g",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-07T05:01:00+00:00",
+      "time_ago": "9m ago"
+    },
     {
       "title": "Bart headed to IL with fracture in left hand after 97.7 mph HBP",
       "link": "https://www.mlb.com/news/joey-bart-exits-with-left-hand-fracture-after-hit-by-pitch",
@@ -12,7 +25,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-07T04:41:00+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "29m ago"
     },
     {
       "title": "A look at the post-Deadline postseason picture",
@@ -25,7 +38,20 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-07T04:40:09+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "Revamped Twins 'pen gets its shot against Royals",
+      "link": "https://www.mlb.com/news/revamped-twins-bullpen-protects-lead-in-comeback-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/m7zncfy6jgxwhf7qwdim",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-07T04:34:00+00:00",
+      "time_ago": "36m ago"
     },
     {
       "title": "Yordan, meet the Mick? Alvarez gunning for feat not seen in 70 years",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-07T04:22:00+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "Red Sox trailed in the 9th, 10th, 11th and 12th ... and still won their 8th straight",
@@ -51,19 +77,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-07T03:59:17+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Not one but TWO Marlins outfielders helped this Acuña HR over the wall",
-      "link": "https://www.mlb.com/news/ronald-acuna-jr-hits-home-run-after-it-deflects-off-two-marlins-players",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yawfolt40un6t19ggi8g",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-07T03:43:00+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -90,19 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-07T03:00:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Revamped Twins 'pen gets its shot against Royals",
-      "link": "https://www.mlb.com/news/revamped-twins-bullpen-protects-lead-in-comeback-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786077432/mlb/zlfgrc04d3myeern6pcz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-07T02:48:29+00:00",
       "time_ago": "2h ago"
     }
   ]
