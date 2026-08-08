@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-08T15:03:18.711517+00:00",
+  "updated_at": "2026-08-08T15:56:51.665040+00:00",
   "news": [
+    {
+      "title": "250 for 250: Top 10 memorable animal moments",
+      "link": "https://www.mlb.com/news/best-animal-moments-in-mlb-history",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/exqg1tnqrr0rkk33rtzn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-08T15:34:29+00:00",
+      "time_ago": "22m ago"
+    },
     {
       "title": "Waldschmidt's 2nd career HR? Just a walk-off against the Dodgers",
       "link": "https://www.mlb.com/news/ryan-waldschmidt-hits-walk-off-home-run-against-dodgers",
@@ -12,7 +25,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-08T06:34:00+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "With 27 wins in 30 games, Red Sox in rare air",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T06:18:12+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "Smith hits 2 homers, both off southpaws, to power Astros' win",
@@ -38,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-08T06:04:00+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "White Sox calling up top arms Smith (No. 2) and McDougal (No. 4), per source",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T05:50:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "Wheeler's wild night features epic 15-pitch duel ... and some choice words for Jays",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T05:44:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "As hometown battles fires, Rasmussen continues dominance in Seattle",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T05:33:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "Soriano keeps it simple in 1st start for Blue Jays",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T05:25:00+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "In test of playoff-type baseball, Yanks show their mettle with comeback win",
-      "link": "https://www.mlb.com/news/ryan-mcmahon-s-sacrifice-fly-lifts-yankees-in-10",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786164160/mlb/wcmhxuemhugtepirqpi2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-08-08T05:23:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     }
   ]
 }
