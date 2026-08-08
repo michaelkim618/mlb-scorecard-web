@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-08T22:00:51.438948+00:00",
+  "updated_at": "2026-08-08T22:59:08.948643+00:00",
   "news": [
+    {
+      "title": "Alcantara sets 3rd Marlins franchise record of '26, this time for innings pitched in shutout win",
+      "link": "https://www.mlb.com/news/sandy-alcantara-sets-marlins-franchise-record-for-innings-pitched",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786221763/mlb/u1wnqlft8vpffbwz3lvl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Christina De Nicola",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-08T22:50:00+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Rutschman doubles, throws out runner in strong 1st rehab game with Sox",
+      "link": "https://www.mlb.com/news/adley-rutschman-doubles-in-first-triple-a-rehab-start-for-red-sox",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786227561/mlb/fbsl5uqqyrfcus9onuxp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-08T22:27:10+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "Weiss tossed after Sale gets called for run-scoring balk",
+      "link": "https://www.mlb.com/news/walt-weiss-ejected-after-run-scoring-balk-on-chris-sale",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786227654/mlb/wx4wwxywkwgm23mmqzvf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bill Ladson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-08T22:21:00+00:00",
+      "time_ago": "38m ago"
+    },
+    {
+      "title": "Benge (left wrist) out of lineup on Saturday but expects quick return",
+      "link": "https://www.mlb.com/news/carson-benge-out-of-mets-lineup-with-wrist-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tlnuvckmgxqxwwdtbdek",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "John Perrotto",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-08-08T22:02:50+00:00",
+      "time_ago": "56m ago"
+    },
     {
       "title": "Cole becomes fastest to 1,000 K's as a Yankee in latest dazzling start",
       "link": "https://www.mlb.com/news/gerrit-cole-picks-up-1-000th-strikeout-as-a-yankee",
@@ -11,33 +63,7 @@
       "author": "Bryan Hoch",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-08T21:44:00+00:00",
-      "time_ago": "16m ago"
-    },
-    {
-      "title": "Weiss tossed after Sale gets called for run-scoring balk",
-      "link": "https://www.mlb.com/news/walt-weiss-ejected-after-run-scoring-balk-on-chris-sale",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786222128/mlb/vaoxacpzrknkz9besfst",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bill Ladson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-08T21:07:00+00:00",
-      "time_ago": "53m ago"
-    },
-    {
-      "title": "Alcantara sets 3rd Marlins franchise record of '26, this time for innings pitched",
-      "link": "https://www.mlb.com/news/sandy-alcantara-sets-marlins-franchise-record-for-innings-pitched",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786221763/mlb/u1wnqlft8vpffbwz3lvl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Christina De Nicola",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-08T20:55:03+00:00",
+      "pub_date": "2026-08-08T21:59:00+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T20:04:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Tommy John shares message thanking fans and teammates as he battles health issues",
@@ -64,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T20:02:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "White Sox call up top arms Smith (No. 2) and McDougal (No. 4)",
-      "link": "https://www.mlb.com/news/hagen-smith-and-tanner-mcdougal-called-up-white-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/enmvtzbguqrlfncw6bg1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa and Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-08T18:56:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "What sets Yamamoto apart -- even from Dodgers' other 4 aces",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T17:26:04+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "TWIB: Skubal debuts for Dodgers in an epic series at Wrigley Field",
-      "link": "https://www.mlb.com/news/this-week-in-baseball-tarik-skubal-debuts-with-dodgers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e8cpaez2qmrqlmjmejnh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-08T16:00:14+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "5h ago"
     }
   ]
 }

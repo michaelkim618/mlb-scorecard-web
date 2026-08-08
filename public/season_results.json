@@ -5681,6 +5681,16 @@
       "actual_winner": "New York Yankees",
       "correct": false,
       "high_conf": false
+    },
+    {
+      "date": "2026-08-08",
+      "away": "Los Angeles Angels",
+      "home": "Miami Marlins",
+      "pick": "Miami Marlins",
+      "pick_prob": 57.3,
+      "actual_winner": "Miami Marlins",
+      "correct": true,
+      "high_conf": false
     }
   ]
 }
