@@ -100,15 +100,29 @@ function TrendBadge({ spd }) {
 }
 
 // ── Batting stats block ───────────────────────────────────────
-function BatStats({ bd }) {
+function fmtAvg(v) {
+  if (v == null) return "—";
+  return "." + String(Math.round(v * 1000)).padStart(3, "0");
+}
+
+function BatStats({ bd, isHome }) {
   if (!bd) return <div style={{ fontSize: 11, color: "var(--color-muted)" }}>No batting data</div>;
 
-  const avg  = bd.recent_avg  != null ? "." + String(Math.round(bd.recent_avg * 1000)).padStart(3, "0") : "—";
+  const avg  = fmtAvg(bd.recent_avg);
   const ops  = bd.season_ops  != null ? bd.season_ops.toFixed(3) : "—";
   const rpg  = bd.runs_per_g  != null ? bd.runs_per_g.toFixed(1) : "—";
   const hrpg = bd.hr_per_g    != null ? bd.hr_per_g.toFixed(1)   : "—";
   const exp  = bd.explosive_games ?? 0;
   const stars = exp >= 3 ? "★★★" : exp === 2 ? "★★☆" : exp === 1 ? "★☆☆" : "☆☆☆";
+
+  // 홈/원정 split 데이터
+  const homeSplit = bd.home_split;
+  const awaySplit = bd.away_split;
+  const hasSplit  = homeSplit || awaySplit;
+
+  // 예측에 사용된 split (홈팀→홈경기, 원정팀→원정경기)
+  const usedSplit  = isHome ? homeSplit : awaySplit;
+  const otherSplit = isHome ? awaySplit : homeSplit;
 
   return (
     <div>
@@ -125,7 +139,59 @@ function BatStats({ bd }) {
           </div>
         ))}
       </div>
-      <div style={{ fontSize: 10, color: "var(--color-muted)" }}>
+
+      {/* 홈/원정 분리 타율 */}
+      {hasSplit && (
+        <div style={{
+          marginTop: 8,
+          padding: "7px 9px",
+          background: "var(--color-canvas-muted, #F8FAFC)",
+          borderRadius: 7,
+          border: "1px solid var(--color-border)",
+        }}>
+          <div style={{ fontSize: 9, fontWeight: 700, color: "var(--color-muted)", textTransform: "uppercase", letterSpacing: "0.5px", marginBottom: 5 }}>
+            Home / Away Split (last 10G each)
+          </div>
+          <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "4px 8px" }}>
+            {[
+              {
+                label: "🏠 Home",
+                split: homeSplit,
+                highlight: !!isHome,
+              },
+              {
+                label: "✈️ Away",
+                split: awaySplit,
+                highlight: !isHome,
+              },
+            ].map(({ label, split, highlight }) => {
+              if (!split) return null;
+              const n    = split.n_games ?? 10;
+              const sAvg = fmtAvg(split.recent_avg);
+              const sRpg = split.runs_per_g != null ? split.runs_per_g.toFixed(1) : "—";
+              const sHr  = split.hr_per_g   != null ? split.hr_per_g.toFixed(1)   : "—";
+              return (
+                <div key={label} style={{
+                  padding: "5px 7px",
+                  borderRadius: 6,
+                  background: highlight ? "rgba(14,165,233,0.07)" : "transparent",
+                  border: highlight ? "1px solid rgba(14,165,233,0.25)" : "1px solid transparent",
+                }}>
+                  <div style={{ fontSize: 9, fontWeight: 700, color: highlight ? "#0369A1" : "var(--color-muted)", marginBottom: 3 }}>
+                    {label}
+                    {highlight && <span style={{ marginLeft: 4, fontSize: 8, background: "#0EA5E9", color: "#fff", borderRadius: 3, padding: "1px 4px" }}>Used</span>}
+                  </div>
+                  <div style={{ fontSize: 13, fontWeight: 800, color: "var(--color-ink)", letterSpacing: "-0.3px" }}>{sAvg}</div>
+                  <div style={{ fontSize: 10, color: "var(--color-muted)", marginTop: 1 }}>{sRpg} R/G · {sHr} HR/G</div>
+                  <div style={{ fontSize: 9, color: "var(--color-subtle)", marginTop: 1 }}>({n}G)</div>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      )}
+
+      <div style={{ fontSize: 10, color: "var(--color-muted)", marginTop: 6 }}>
         Explosive games <span style={{ color: "#F59E0B", fontWeight: 700 }}>{stars}</span>
       </div>
     </div>
@@ -171,7 +237,7 @@ function PitcherGamelog({ gamelog }) {
 }
 
 // ── Per-team panel ────────────────────────────────────────────
-function TeamPanel({ label, color, sc, pitcherName, pitcherStats, pitcherGamelog }) {
+function TeamPanel({ label, color, sc, pitcherName, pitcherStats, pitcherGamelog, isHome }) {
   const spd = sc?.sp_detail || {};
 
   const era  = pitcherStats?.era ?? spd.era?.toFixed(2) ?? "—";
@@ -230,7 +296,7 @@ function TeamPanel({ label, color, sc, pitcherName, pitcherStats, pitcherGamelog
             {(sc?.bat_score ?? 0).toFixed(1)}<span style={{ fontSize: 10, fontWeight: 600, color: "var(--color-muted)", marginLeft: 2 }}>pts</span>
           </span>
         </div>
-        <BatStats bd={sc?.bat_detail} />
+        <BatStats bd={sc?.bat_detail} isHome={isHome} />
       </div>
 
       {/* Divider */}
@@ -720,6 +786,7 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
               pitcherName={game.away_pitcher}
               pitcherStats={game.away_pitcher_stats}
               pitcherGamelog={game.away_pitcher_gamelog}
+              isHome={false}
             />
             <TeamPanel
               label={homeAbbr}
@@ -728,6 +795,7 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
               pitcherName={game.home_pitcher}
               pitcherStats={game.home_pitcher_stats}
               pitcherGamelog={game.home_pitcher_gamelog}
+              isHome={true}
             />
           </div>
 
