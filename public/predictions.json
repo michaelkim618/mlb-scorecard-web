@@ -353,8 +353,8 @@
     "model_winner": "Atlanta Braves",
     "model_correct": null,
     "notes": "Atlanta Braves IL: Joe Jiménez, Joey Wentz, Reynaldo López, Robert Suarez, Spencer Schwellenbach 외 다수 / New York Yankees IL: Aaron Judge, Carlos Rodón, Clarke Schmidt, Cody Bellinger, Giancarlo Stanton",
-    "kalshi_prob": 42.0,
-    "edge": 1.0,
+    "kalshi_prob": 41.0,
+    "edge": 2.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -933,18 +933,18 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 41.3,
-      "home": 58.7
+      "away": 43.9,
+      "home": 56.1
     },
     "expected_score": {
-      "away": 1.0,
-      "home": 1.9
+      "away": 1.2,
+      "home": 1.7
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": false,
@@ -976,14 +976,14 @@
           "team_era": 3.34,
           "sample_games": 10
         },
-        "bat_score": 15.7,
+        "bat_score": 19.0,
         "bat_detail": {
-          "recent_avg": 0.201,
+          "recent_avg": 0.21,
           "runs_per_g": 4.1,
           "hr_per_g": 1.1,
           "bb_per_g": 3.0,
-          "season_ops": 0.619,
-          "season_avg": 0.201,
+          "season_ops": 0.637,
+          "season_avg": 0.21,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -995,13 +995,13 @@
             "Zach Neto(0.598)",
             "Vaughn Grissom(0.694)",
             "Moisés Ballesteros(0.552)",
-            "Oswald Peraza(0.447)",
+            "Denzer Guzman(0.607)",
             "Josh Lowe(0.641)",
             "Tyler Heineman(0.463)"
           ]
         },
         "sit_score": 44.3,
-        "total": 46.1
+        "total": 47.2
       },
       "home": {
         "sp_score": 72.0,
@@ -1024,45 +1024,45 @@
           "team_era": 3.89,
           "sample_games": 10
         },
-        "bat_score": 30.0,
+        "bat_score": 27.8,
         "bat_detail": {
-          "recent_avg": 0.224,
+          "recent_avg": 0.214,
           "runs_per_g": 4.9,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
-          "season_ops": 0.711,
-          "season_avg": 0.224,
+          "season_ops": 0.712,
+          "season_avg": 0.214,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
+            "Jakob Marsee(0.757)",
+            "Xavier Edwards(0.665)",
             "Kyle Stowers(0.901)",
             "Otto Lopez(0.594)",
             "Griffin Conine(0.758)",
-            "Xavier Edwards(0.665)",
+            "Heriberto Hernández(0.634)",
             "Owen Caissie(0.648)",
-            "Leo Jiménez(0.582)",
-            "Jakob Marsee(0.757)",
             "Joe Mack(0.633)",
-            "Esteury Ruiz(0.859)"
+            "Javier Sanoja(0.816)"
           ]
         },
         "sit_score": 48.4,
-        "total": 51.0
+        "total": 50.2
       }
     },
     "scores": {
-      "away_offense": 15.7,
+      "away_offense": 19.0,
       "away_defense": 67.8,
-      "home_offense": 30.0,
+      "home_offense": 27.8,
       "home_defense": 65.0
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -1074,7 +1074,7 @@
     "model_correct": null,
     "notes": "Los Angeles Angels IL: Anthony Rendon, Jack Kochanowicz, Robert Stephenson, Sam Bachman, Sebastián Rivero 외 다수 / Miami Marlins IL: Adam Mazur, Andrew Nardi, Anthony Bender, Max Meyer, Robby Snelling 외 다수",
     "kalshi_prob": 59.0,
-    "edge": -0.3,
+    "edge": -2.9,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -1725,7 +1725,7 @@
             "Nick Gonzales(0.672)",
             "Ronny Simon(0.522)",
             "Jared Triolo(0.681)",
-            "Rafael Flores Jr.(0.790)"
+            "Rafael Flores(0.790)"
           ]
         },
         "sit_score": 42.7,
@@ -5224,7 +5224,7 @@
             "Liam Hicks(0.827)",
             "Chandler Simpson(0.663)",
             "Jonny DeLuca(0.736)",
-            "Victor Mesa Jr.(0.665)",
+            "Victor Mesa(0.665)",
             "Richie Palacios(0.728)",
             "Taylor Walls(0.454)"
           ]
