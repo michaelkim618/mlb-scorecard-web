@@ -5691,6 +5691,16 @@
       "actual_winner": "Miami Marlins",
       "correct": true,
       "high_conf": false
+    },
+    {
+      "date": "2026-08-08",
+      "away": "Athletics",
+      "home": "Boston Red Sox",
+      "pick": "Boston Red Sox",
+      "pick_prob": 63.0,
+      "actual_winner": "Athletics",
+      "correct": false,
+      "high_conf": false
     }
   ]
 }
