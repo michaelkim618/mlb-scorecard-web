@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-08T03:59:11.125550+00:00",
+  "updated_at": "2026-08-08T04:19:23.022159+00:00",
   "news": [
+    {
+      "title": "5 batters in, Schultz's early pull after 2nd mound visit puts Sox behind 8-ball",
+      "link": "https://www.mlb.com/news/noah-schultz-pulled-in-first-inning-after-two-mound-visits",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gzyneudkeglqt4mslw8v",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-08T04:13:00+00:00",
+      "time_ago": "6m ago"
+    },
+    {
+      "title": "Soriano grinds through solid Blue Jays debut in Philly",
+      "link": "https://www.mlb.com/news/jose-soriano-makes-blue-jays-debut-against-phillies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786156018/mlb/escxm9oydgtybncxeupf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Feinsand",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-08T04:06:00+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Wheeler's wild night features epic 15-pitch duel ... and some choice words for Jays",
+      "link": "https://www.mlb.com/news/zack-wheeler-faces-blue-jays-at-citizens-bank-park",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hv6pgeabzonl2hrfi6hd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-08T04:03:00+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "It never gets old: Trout homers on birthday for record-tying SIXTH time",
+      "link": "https://www.mlb.com/news/mike-trout-homers-on-his-birthday-for-the-sixth-time",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786156637/mlb/jijiluuococbs7xyczr9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Perla Paredes",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-08T03:55:00+00:00",
+      "time_ago": "24m ago"
+    },
     {
       "title": "Kelly takes no-hitter into 6th, then exits with right leg cramp",
       "link": "https://www.mlb.com/news/merrill-kelly-exits-game-with-injury-in-6th-inning",
@@ -12,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-08T03:44:00+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "35m ago"
     },
     {
       "title": "Rutschman closing in on rehab assignment; Anthony continues hitting progression",
@@ -25,20 +77,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-08T03:38:00+00:00",
-      "time_ago": "21m ago"
-    },
-    {
-      "title": "It never gets old: Trout homers on birthday for record-tying SIXTH time",
-      "link": "https://www.mlb.com/news/mike-trout-homers-on-his-birthday-for-the-sixth-time",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786156637/mlb/jijiluuococbs7xyczr9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Perla Paredes",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-08T03:22:00+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "41m ago"
     },
     {
       "title": "Benge exits with wrist soreness after incredible catch at wall in LF",
@@ -51,59 +90,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T03:22:00+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "These players have hit the most homers on their birthday",
       "link": "https://www.mlb.com/news/mlb-players-with-most-home-runs-on-their-birthday",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/et1zpsurfyzdb7hqlt8n",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786161859/mlb/et1zpsurfyzdb7hqlt8n",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Manny Randhawa",
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-08T03:20:07+00:00",
-      "time_ago": "39m ago"
-    },
-    {
-      "title": "Tolle's 14-K gem reminiscent of Clemens ... and draws comp to Skubal",
-      "link": "https://www.mlb.com/news/payton-tolle-strikes-out-14-in-red-sox-s-9th-straight-win",
-      "summary": "Boston won its 9th straight and 27th in its last 30 games",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786150831/mlb/hhzfuoyjiajiaxsijjtf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-08T03:20:00+00:00",
-      "time_ago": "39m ago"
-    },
-    {
-      "title": "Wheeler's wild night features epic 15-pitch duel ... and some choice words for Jays",
-      "link": "https://www.mlb.com/news/zack-wheeler-faces-blue-jays-at-citizens-bank-park",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hv6pgeabzonl2hrfi6hd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-08T03:18:00+00:00",
-      "time_ago": "41m ago"
-    },
-    {
-      "title": "Leahy keeps up impressive streak despite constant traffic in win",
-      "link": "https://www.mlb.com/news/kyle-leahy-cardinals-win-series-opener-vs-rockies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/s2sazpig0iadgmorol9w",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Joe Harris",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-08T03:16:23+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "59m ago"
     }
   ]
 }
