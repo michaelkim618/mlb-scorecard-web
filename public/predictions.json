@@ -577,14 +577,14 @@
       "home": 63.0
     },
     "expected_score": {
-      "away": 1.5,
-      "home": 3.8
+      "away": 1.6,
+      "home": 4.3
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "L",
       "home_handedness": "L",
       "bullpen_game": false,
@@ -616,14 +616,14 @@
           "team_era": 5.52,
           "sample_games": 10
         },
-        "bat_score": 23.5,
+        "bat_score": 24.2,
         "bat_detail": {
-          "recent_avg": 0.225,
+          "recent_avg": 0.224,
           "runs_per_g": 4.3,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.647,
-          "season_avg": 0.225,
+          "season_ops": 0.66,
+          "season_avg": 0.224,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
@@ -637,11 +637,11 @@
             "Brian Serven(0.776)",
             "Lawrence Butler(0.762)",
             "Max Muncy(0.573)",
-            "Jonathan Ornelas(0.432)"
+            "Alika Williams(0.543)"
           ]
         },
         "sit_score": 32.3,
-        "total": 25.5
+        "total": 25.8
       },
       "home": {
         "sp_score": 72.0,
@@ -664,45 +664,45 @@
           "team_era": 4.84,
           "sample_games": 10
         },
-        "bat_score": 46.0,
+        "bat_score": 51.8,
         "bat_detail": {
-          "recent_avg": 0.298,
+          "recent_avg": 0.314,
           "runs_per_g": 3.6,
           "hr_per_g": 0.9,
           "bb_per_g": 3.0,
-          "season_ops": 0.793,
-          "season_avg": 0.298,
+          "season_ops": 0.826,
+          "season_avg": 0.314,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Nick Sogard(0.647)",
+            "Jahmai Jones(1.036)",
             "Ceddanne Rafaela(0.951)",
-            "Wilyer Abreu(0.956)",
             "Caleb Durbin(0.861)",
-            "Masataka Yoshida(0.846)",
+            "Willson Contreras(0.855)",
             "Andruw Monasterio(0.859)",
+            "Eli White(0.788)",
+            "Nick Sogard(0.647)",
             "Jarren Duran(0.758)",
-            "Anthony Seigler(0.597)",
-            "Jake Rogers(0.666)"
+            "Connor Wong(0.682)"
           ]
         },
         "sit_score": 64.8,
-        "total": 54.6
+        "total": 56.4
       }
     },
     "scores": {
-      "away_offense": 23.5,
+      "away_offense": 24.2,
       "away_defense": 24.3,
-      "home_offense": 46.0,
+      "home_offense": 51.8,
       "home_defense": 55.0
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -1725,7 +1725,7 @@
             "Nick Gonzales(0.672)",
             "Ronny Simon(0.522)",
             "Jared Triolo(0.681)",
-            "Rafael Flores(0.790)"
+            "Rafael Flores Jr.(0.790)"
           ]
         },
         "sit_score": 42.7,
@@ -5224,7 +5224,7 @@
             "Liam Hicks(0.827)",
             "Chandler Simpson(0.663)",
             "Jonny DeLuca(0.736)",
-            "Victor Mesa(0.665)",
+            "Victor Mesa Jr.(0.665)",
             "Richie Palacios(0.728)",
             "Taylor Walls(0.454)"
           ]
