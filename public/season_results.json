@@ -5521,6 +5521,156 @@
       "actual_winner": "San Diego Padres",
       "correct": true,
       "high_conf": false
+    },
+    {
+      "date": "2026-08-07",
+      "away": "New York Mets",
+      "home": "Pittsburgh Pirates",
+      "pick": "New York Mets",
+      "pick_prob": 63.0,
+      "actual_winner": "New York Mets",
+      "correct": true,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-07",
+      "away": "Toronto Blue Jays",
+      "home": "Philadelphia Phillies",
+      "pick": "Philadelphia Phillies",
+      "pick_prob": 63.1,
+      "actual_winner": "Toronto Blue Jays",
+      "correct": false,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-07",
+      "away": "Cincinnati Reds",
+      "home": "Washington Nationals",
+      "pick": "Washington Nationals",
+      "pick_prob": 50.0,
+      "actual_winner": "Washington Nationals",
+      "correct": true,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-07",
+      "away": "Atlanta Braves",
+      "home": "New York Yankees",
+      "pick": "New York Yankees",
+      "pick_prob": 56.0,
+      "actual_winner": "New York Yankees",
+      "correct": true,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-07",
+      "away": "Athletics",
+      "home": "Boston Red Sox",
+      "pick": "Boston Red Sox",
+      "pick_prob": 63.0,
+      "actual_winner": "Boston Red Sox",
+      "correct": true,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-07",
+      "away": "Los Angeles Angels",
+      "home": "Miami Marlins",
+      "pick": "Miami Marlins",
+      "pick_prob": 62.0,
+      "actual_winner": "Los Angeles Angels",
+      "correct": false,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-07",
+      "away": "Cleveland Guardians",
+      "home": "Chicago White Sox",
+      "pick": "Cleveland Guardians",
+      "pick_prob": 63.0,
+      "actual_winner": "Cleveland Guardians",
+      "correct": true,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-07",
+      "away": "Minnesota Twins",
+      "home": "Milwaukee Brewers",
+      "pick": "Milwaukee Brewers",
+      "pick_prob": 64.4,
+      "actual_winner": "Minnesota Twins",
+      "correct": false,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-07",
+      "away": "Chicago Cubs",
+      "home": "Kansas City Royals",
+      "pick": "Chicago Cubs",
+      "pick_prob": 52.6,
+      "actual_winner": "Chicago Cubs",
+      "correct": true,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-07",
+      "away": "Colorado Rockies",
+      "home": "St. Louis Cardinals",
+      "pick": "St. Louis Cardinals",
+      "pick_prob": 60.8,
+      "actual_winner": "St. Louis Cardinals",
+      "correct": true,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-07",
+      "away": "Baltimore Orioles",
+      "home": "Texas Rangers",
+      "pick": "Texas Rangers",
+      "pick_prob": 59.5,
+      "actual_winner": "Texas Rangers",
+      "correct": true,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-07",
+      "away": "Los Angeles Dodgers",
+      "home": "Arizona Diamondbacks",
+      "pick": "Los Angeles Dodgers",
+      "pick_prob": 63.0,
+      "actual_winner": "Arizona Diamondbacks",
+      "correct": false,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-07",
+      "away": "Houston Astros",
+      "home": "San Diego Padres",
+      "pick": "San Diego Padres",
+      "pick_prob": 60.0,
+      "actual_winner": "Houston Astros",
+      "correct": false,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-07",
+      "away": "Tampa Bay Rays",
+      "home": "Seattle Mariners",
+      "pick": "Seattle Mariners",
+      "pick_prob": 54.0,
+      "actual_winner": "Tampa Bay Rays",
+      "correct": false,
+      "high_conf": false
+    },
+    {
+      "date": "2026-08-07",
+      "away": "Detroit Tigers",
+      "home": "San Francisco Giants",
+      "pick": "Detroit Tigers",
+      "pick_prob": 63.0,
+      "actual_winner": "San Francisco Giants",
+      "correct": false,
+      "high_conf": false
     }
   ]
 }
