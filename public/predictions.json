@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-08-08",
-    "status": "Preview",
+    "status": "Live",
     "game_time": "12:05 PM PT",
     "away": "Atlanta Braves",
     "home": "New York Yankees",
@@ -102,16 +102,6 @@
     },
     "away_pitcher_gamelog": [
       {
-        "date": "2026-07-04",
-        "opp": "vs NYM",
-        "ip": "5.0",
-        "er": 3,
-        "h": 7,
-        "bb": 2,
-        "so": 3,
-        "era": 5.4
-      },
-      {
         "date": "2026-07-10",
         "opp": "@ STL",
         "ip": "3.0",
@@ -150,6 +140,16 @@
         "bb": 0,
         "so": 9,
         "era": 0.0
+      },
+      {
+        "date": "2026-08-08",
+        "opp": "@ NYY",
+        "ip": "0.0",
+        "er": 0,
+        "h": 1,
+        "bb": 0,
+        "so": 0,
+        "era": null
       }
     ],
     "home_pitcher": "Gerrit Cole",
@@ -157,19 +157,9 @@
     "home_pitcher_stats": {
       "wins": 5,
       "losses": 5,
-      "era": "3.42"
+      "era": "3.38"
     },
     "home_pitcher_gamelog": [
-      {
-        "date": "2026-07-08",
-        "opp": "@ TB",
-        "ip": "6.1",
-        "er": 3,
-        "h": 7,
-        "bb": 1,
-        "so": 6,
-        "era": 4.26
-      },
       {
         "date": "2026-07-17",
         "opp": "vs LAD",
@@ -209,15 +199,25 @@
         "bb": 3,
         "so": 5,
         "era": 1.59
+      },
+      {
+        "date": "2026-08-08",
+        "opp": "vs ATL",
+        "ip": "1.0",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 1,
+        "era": 0.0
       }
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 57.0,
-      "home": 43.0
+      "away": 55.6,
+      "home": 44.4
     },
     "expected_score": {
-      "away": 2.5,
+      "away": 2.4,
       "home": 1.7
     },
     "blend_detail": null,
@@ -236,14 +236,14 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 66.2,
+        "sp_score": 67.1,
         "sp_detail": {
-          "era": 2.29,
-          "whip": 1.18,
-          "k9": 11.6,
-          "avg_ip": 5.5,
+          "era": 2.16,
+          "whip": 1.14,
+          "k9": 11.3,
+          "avg_ip": 5.0,
           "qs_rate": 40.0,
-          "last3_era": 2.0,
+          "last3_era": 1.23,
           "trend": "hot",
           "n_games": 10,
           "sample_confidence": 1.0,
@@ -256,22 +256,22 @@
           "team_era": 1.82,
           "sample_games": 10
         },
-        "bat_score": 42.4,
+        "bat_score": 41.5,
         "bat_detail": {
-          "recent_avg": 0.253,
+          "recent_avg": 0.251,
           "runs_per_g": 4.9,
           "hr_per_g": 1.3,
           "bb_per_g": 3.0,
-          "season_ops": 0.764,
-          "season_avg": 0.253,
+          "season_ops": 0.758,
+          "season_avg": 0.251,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Drake Baldwin(0.699)",
-            "Ronald Acuña Jr.(0.799)",
-            "Matt Olson(1.083)",
+            "Drake Baldwin(0.654)",
+            "Ronald Acuña Jr.(0.809)",
+            "Matt Olson(1.065)",
             "Michael Harris II(0.763)",
             "Ozzie Albies(0.681)",
             "Mauricio Dubón(0.726)",
@@ -284,14 +284,14 @@
         "total": 59.3
       },
       "home": {
-        "sp_score": 60.4,
+        "sp_score": 62.5,
         "sp_detail": {
-          "era": 3.88,
-          "whip": 1.17,
-          "k9": 10.3,
-          "avg_ip": 5.6,
+          "era": 3.76,
+          "whip": 1.1,
+          "k9": 10.4,
+          "avg_ip": 5.3,
           "qs_rate": 50.0,
-          "last3_era": 2.61,
+          "last3_era": 2.1,
           "trend": "hot",
           "n_games": 10,
           "sample_confidence": 1.0,
@@ -304,39 +304,39 @@
           "team_era": 2.42,
           "sample_games": 10
         },
-        "bat_score": 27.8,
+        "bat_score": 29.0,
         "bat_detail": {
-          "recent_avg": 0.205,
+          "recent_avg": 0.209,
           "runs_per_g": 5.2,
           "hr_per_g": 1.1,
           "bb_per_g": 3.0,
-          "season_ops": 0.699,
-          "season_avg": 0.205,
+          "season_ops": 0.704,
+          "season_avg": 0.209,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Paul Goldschmidt(0.568)",
+            "Paul Goldschmidt(0.575)",
             "Heliot Ramos(0.708)",
             "Ben Rice(0.640)",
             "Amed Rosario(0.681)",
             "Trent Grisham(0.589)",
             "George Lombard Jr.(1.017)",
-            "Spencer Jones(0.663)",
+            "Spencer Jones(0.683)",
             "José Caballero(0.804)",
-            "Austin Wells(0.624)"
+            "Austin Wells(0.638)"
           ]
         },
         "sit_score": 58.9,
-        "total": 52.7
+        "total": 53.7
       }
     },
     "scores": {
-      "away_offense": 42.4,
-      "away_defense": 73.1,
-      "home_offense": 27.8,
-      "home_defense": 70.2
+      "away_offense": 41.5,
+      "away_defense": 73.5,
+      "home_offense": 29.0,
+      "home_defense": 71.2
     },
     "actual_score": {
       "away": 0,
@@ -353,8 +353,8 @@
     "model_winner": "Atlanta Braves",
     "model_correct": null,
     "notes": "Atlanta Braves IL: Joe Jiménez, Joey Wentz, Reynaldo López, Robert Suarez, Spencer Schwellenbach 외 다수 / New York Yankees IL: Aaron Judge, Carlos Rodón, Clarke Schmidt, Cody Bellinger, Giancarlo Stanton",
-    "kalshi_prob": 41.0,
-    "edge": 2.0,
+    "kalshi_prob": 48.0,
+    "edge": -3.6,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -712,7 +712,7 @@
     "actual_winner": null,
     "model_winner": "Boston Red Sox",
     "model_correct": null,
-    "notes": "Athletics IL: Brent Rooker, Brooks Kriske, Denzel Clarke, Gunnar Hoglund, Jeffrey Springs 외 다수 / Boston Red Sox IL: Curtis Mead, Garrett Crochet, Isiah Kiner-Falefa, Johan Oviedo, Kutter Crawford 외 다수",
+    "notes": "Athletics IL: Brent Rooker, Brooks Kriske, Denzel Clarke, Gunnar Hoglund, Jeffrey Springs 외 다수 / Boston Red Sox IL: Adley Rutschman, Curtis Mead, Garrett Crochet, Isiah Kiner-Falefa, Johan Oviedo 외 다수",
     "kalshi_prob": 71.0,
     "edge": -8.0,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Boston Red Sox)",
@@ -1973,18 +1973,18 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 66.9,
-      "home": 33.1
+      "away": 67.0,
+      "home": 33.0
     },
     "expected_score": {
-      "away": 1.1,
+      "away": 1.8,
       "home": 2.1
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "L",
       "bullpen_game": false,
@@ -2016,14 +2016,14 @@
           "team_era": 2.93,
           "sample_games": 10
         },
-        "bat_score": 13.9,
+        "bat_score": 21.8,
         "bat_detail": {
-          "recent_avg": 0.197,
+          "recent_avg": 0.227,
           "runs_per_g": 2.8,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.694,
-          "season_avg": 0.197,
+          "season_ops": 0.722,
+          "season_avg": 0.227,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
@@ -2031,17 +2031,17 @@
           "lineup_ops": [
             "Elly De La Cruz(0.912)",
             "Sal Stewart(0.808)",
-            "JJ Bleday(0.861)",
-            "Tyler Stephenson(0.818)",
+            "Dane Myers(0.691)",
             "Eugenio Suárez(0.623)",
-            "Héctor Rodríguez(0.495)",
+            "JJ Bleday(0.861)",
+            "Matt McLain(0.679)",
+            "Jose Trevino(0.871)",
             "Noelvi Marte(0.563)",
-            "Ke'Bryan Hayes(0.488)",
-            "Matt McLain(0.679)"
+            "Ke'Bryan Hayes(0.488)"
           ]
         },
         "sit_score": 43.8,
-        "total": 46.8
+        "total": 49.2
       },
       "home": {
         "sp_score": 36.0,
@@ -2064,14 +2064,14 @@
           "team_era": 6.24,
           "sample_games": 10
         },
-        "bat_score": 32.8,
+        "bat_score": 32.7,
         "bat_detail": {
-          "recent_avg": 0.196,
+          "recent_avg": 0.203,
           "runs_per_g": 6.4,
           "hr_per_g": 1.4,
           "bb_per_g": 3.0,
-          "season_ops": 0.681,
-          "season_avg": 0.196,
+          "season_ops": 0.67,
+          "season_avg": 0.203,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -2079,30 +2079,30 @@
           "lineup_ops": [
             "CJ Abrams(0.782)",
             "Abimelec Ortiz(0.717)",
-            "Brady House(0.587)",
-            "Daylen Lile(0.796)",
             "Dylan Crews(0.572)",
-            "Harry Ford(0.738)",
+            "Daylen Lile(0.796)",
+            "Keibert Ruiz(0.680)",
+            "Jorbit Vivas(0.546)",
             "Nasim Nuñez(0.400)",
             "José Tena(0.625)",
             "Jacob Young(0.910)"
           ]
         },
         "sit_score": 48.2,
-        "total": 29.2
+        "total": 29.1
       }
     },
     "scores": {
-      "away_offense": 13.9,
+      "away_offense": 21.8,
       "away_defense": 66.0,
-      "home_offense": 32.8,
+      "home_offense": 32.7,
       "home_defense": 20.6
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -2114,7 +2114,7 @@
     "model_correct": null,
     "notes": "Cincinnati Reds IL: Blake Dunn, Brandon Williamson, Graham Ashcraft, Hunter Greene, Nick Lodolo 외 다수 / Washington Nationals IL: Connelly Early, DJ Herz, Drew Millas, James Wood, Josiah Gray 외 다수",
     "kalshi_prob": 42.0,
-    "edge": -8.9,
+    "edge": -9.0,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Washington Nationals)",
     "extreme_edge": false,
     "consensus": false
@@ -3367,13 +3367,13 @@
     },
     "expected_score": {
       "away": 4.0,
-      "home": 1.2
+      "home": 1.4
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": false,
@@ -3453,14 +3453,14 @@
           "team_era": 4.65,
           "sample_games": 10
         },
-        "bat_score": 16.5,
+        "bat_score": 19.3,
         "bat_detail": {
-          "recent_avg": 0.228,
+          "recent_avg": 0.241,
           "runs_per_g": 2.6,
           "hr_per_g": 0.4,
           "bb_per_g": 3.0,
-          "season_ops": 0.697,
-          "season_avg": 0.228,
+          "season_ops": 0.696,
+          "season_avg": 0.241,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -3470,28 +3470,28 @@
             "Jung Hoo Lee(0.857)",
             "Willy Adames(0.599)",
             "Rafael Devers(0.804)",
-            "Daniel Susac(0.794)",
-            "Drew Gilbert(0.666)",
             "Osleivis Basabe(1.090)",
-            "Grant McCray(0.423)",
+            "Drew Gilbert(0.666)",
+            "Eddys Leonard(0.600)",
+            "Drew Cavanaugh(0.613)",
             "Christian Koss(0.370)"
           ]
         },
         "sit_score": 48.8,
-        "total": 35.7
+        "total": 36.7
       }
     },
     "scores": {
       "away_offense": 56.8,
       "away_defense": 49.7,
-      "home_offense": 16.5,
+      "home_offense": 19.3,
       "home_defense": 44.0
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -3862,8 +3862,8 @@
     "model_winner": "Colorado Rockies",
     "model_correct": null,
     "notes": "Colorado Rockies IL: Blas Castaño, Chase Dollander, Jaden Hill, Jeff Criswell, Jose Quintana 외 다수 / St. Louis Cardinals IL: Max Rajcic, Ramón Urías",
-    "kalshi_prob": 58.0,
-    "edge": -10.1,
+    "kalshi_prob": 59.0,
+    "edge": -11.1,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: St. Louis Cardinals)",
     "extreme_edge": false,
     "consensus": false
