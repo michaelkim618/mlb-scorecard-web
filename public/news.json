@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-08T20:00:07.580010+00:00",
+  "updated_at": "2026-08-08T21:06:50.649629+00:00",
   "news": [
+    {
+      "title": "Alcantara sets 3rd Marlins franchise record of '26, this time for innings pitched",
+      "link": "https://www.mlb.com/news/sandy-alcantara-sets-marlins-franchise-record-for-innings-pitched",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786221763/mlb/u1wnqlft8vpffbwz3lvl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Christina De Nicola",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-08T20:55:03+00:00",
+      "time_ago": "11m ago"
+    },
     {
       "title": "Fathers and sons help honor pinstriped legacy at the Yankees' Old-Timers' Day",
       "link": "https://www.mlb.com/news/yankees-hold-2026-old-timers-day",
@@ -11,8 +24,21 @@
       "author": "Bryan Hoch",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-08T19:52:00+00:00",
-      "time_ago": "8m ago"
+      "pub_date": "2026-08-08T20:04:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Tommy John shares message thanking fans and teammates as he battles health issues",
+      "link": "https://www.mlb.com/news/tommy-john-misses-old-timers-day-for-health-reasons",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786218234/mlb/il4utnxbuccnkxfpxrdo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-08T20:02:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "White Sox call up top arms Smith (No. 2) and McDougal (No. 4)",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T18:56:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "What sets Yamamoto apart -- even from Dodgers' other 4 aces",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T17:26:04+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "TWIB: Skubal debuts for Dodgers in an epic series at Wrigley Field",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T16:00:14+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "250 for 250: Top 10 memorable animal moments",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T15:34:29+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Waldschmidt's 2nd career HR? Just a walk-off against the Dodgers",
@@ -77,33 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-08T06:34:00+00:00",
-      "time_ago": "13h ago"
-    },
-    {
-      "title": "No team in history has gone on a run like these Red Sox",
-      "link": "https://www.mlb.com/news/red-sox-on-historic-27-3-hot-streak",
-      "summary": "Boston was 37-48 on the season before incredible 27-3 stretch",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rg96fe75mqlwergu2dg8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sarah Langs",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-08T06:18:12+00:00",
-      "time_ago": "13h ago"
-    },
-    {
-      "title": "Smith hits 2 homers, both off southpaws, to power Astros' win",
-      "link": "https://www.mlb.com/news/cam-smith-powers-astros-with-2-home-runs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/murse4lcvvlao7ptuspx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Courtney Hollmon",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-08T06:04:00+00:00",
-      "time_ago": "13h ago"
+      "time_ago": "14h ago"
     }
   ]
 }
