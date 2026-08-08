@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-08T21:09:53.181664+00:00",
+  "updated_at": "2026-08-08T21:53:51.879233+00:00",
   "news": [
+    {
+      "title": "Cole becomes fastest to 1,000 K's as a Yankee in latest dazzling start",
+      "link": "https://www.mlb.com/news/gerrit-cole-picks-up-1-000th-strikeout-as-a-yankee",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786218475/mlb/i7e7bwvkxyraozqzcuyf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-08T21:44:00+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Weiss tossed after Sale gets called for run-scoring balk",
+      "link": "https://www.mlb.com/news/walt-weiss-ejected-after-run-scoring-balk-on-chris-sale",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786222128/mlb/vaoxacpzrknkz9besfst",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bill Ladson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-08T21:07:00+00:00",
+      "time_ago": "46m ago"
+    },
     {
       "title": "Alcantara sets 3rd Marlins franchise record of '26, this time for innings pitched",
       "link": "https://www.mlb.com/news/sandy-alcantara-sets-marlins-franchise-record-for-innings-pitched",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T20:55:03+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Fathers and sons help honor pinstriped legacy at the Yankees' Old-Timers' Day",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T17:26:04+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "TWIB: Skubal debuts for Dodgers in an epic series at Wrigley Field",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T16:00:14+00:00",
       "time_ago": "5h ago"
-    },
-    {
-      "title": "250 for 250: Top 10 memorable animal moments",
-      "link": "https://www.mlb.com/news/best-animal-moments-in-mlb-history",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/exqg1tnqrr0rkk33rtzn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-08T15:34:29+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Waldschmidt's 2nd career HR? Just a walk-off against the Dodgers",
-      "link": "https://www.mlb.com/news/ryan-waldschmidt-hits-walk-off-home-run-against-dodgers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786163632/mlb/enuvvmt2rwnvwajhsbqz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-08T06:34:00+00:00",
-      "time_ago": "14h ago"
     }
   ]
 }
