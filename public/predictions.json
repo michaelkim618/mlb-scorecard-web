@@ -98,7 +98,7 @@
     "away_pitcher_stats": {
       "wins": 12,
       "losses": 6,
-      "era": "2.08"
+      "era": "2.05"
     },
     "away_pitcher_gamelog": [
       {
@@ -144,9 +144,9 @@
       {
         "date": "2026-08-08",
         "opp": "@ NYY",
-        "ip": "0.1",
+        "ip": "1.1",
         "er": 0,
-        "h": 1,
+        "h": 2,
         "bb": 0,
         "so": 0,
         "era": 0.0
@@ -157,7 +157,7 @@
     "home_pitcher_stats": {
       "wins": 5,
       "losses": 5,
-      "era": "3.38"
+      "era": "3.33"
     },
     "home_pitcher_gamelog": [
       {
@@ -203,22 +203,22 @@
       {
         "date": "2026-08-08",
         "opp": "vs ATL",
-        "ip": "1.0",
+        "ip": "2.0",
         "er": 0,
-        "h": 0,
+        "h": 1,
         "bb": 0,
-        "so": 1,
+        "so": 3,
         "era": 0.0
       }
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 56.5,
-      "home": 43.5
+      "away": 55.2,
+      "home": 44.8
     },
     "expected_score": {
-      "away": 2.5,
-      "home": 1.7
+      "away": 2.6,
+      "home": 2.0
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -236,14 +236,14 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 67.5,
+        "sp_score": 68.0,
         "sp_detail": {
-          "era": 2.15,
+          "era": 2.1,
           "whip": 1.13,
-          "k9": 11.3,
-          "avg_ip": 5.0,
+          "k9": 11.0,
+          "avg_ip": 5.1,
           "qs_rate": 40.0,
-          "last3_era": 1.21,
+          "last3_era": 1.16,
           "trend": "hot",
           "n_games": 10,
           "sample_confidence": 1.0,
@@ -256,14 +256,14 @@
           "team_era": 1.82,
           "sample_games": 10
         },
-        "bat_score": 43.1,
+        "bat_score": 44.7,
         "bat_detail": {
-          "recent_avg": 0.256,
+          "recent_avg": 0.261,
           "runs_per_g": 4.9,
           "hr_per_g": 1.3,
           "bb_per_g": 3.0,
-          "season_ops": 0.765,
-          "season_avg": 0.256,
+          "season_ops": 0.772,
+          "season_avg": 0.261,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -272,26 +272,38 @@
             "Drake Baldwin(0.654)",
             "Ronald Acuña Jr.(0.809)",
             "Matt Olson(1.065)",
-            "Michael Harris II(0.784)",
-            "Ozzie Albies(0.681)",
-            "Mauricio Dubón(0.726)",
-            "Mike Yastrzemski(0.812)",
+            "Michael Harris II(0.772)",
+            "Ozzie Albies(0.764)",
+            "Mauricio Dubón(0.747)",
+            "Mike Yastrzemski(0.784)",
             "Austin Riley(0.805)",
-            "Jim Jarvis(0.548)"
-          ]
+            "Jim Jarvis(0.551)"
+          ],
+          "home_split": {
+            "recent_avg": 0.293,
+            "runs_per_g": 5.2,
+            "hr_per_g": 1.0,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.256,
+            "runs_per_g": 5.8,
+            "hr_per_g": 1.6,
+            "n_games": 10
+          }
         },
         "sit_score": 57.6,
-        "total": 60.0
+        "total": 60.7
       },
       "home": {
-        "sp_score": 62.5,
+        "sp_score": 63.2,
         "sp_detail": {
-          "era": 3.76,
+          "era": 3.69,
           "whip": 1.1,
-          "k9": 10.4,
-          "avg_ip": 5.3,
+          "k9": 10.6,
+          "avg_ip": 5.4,
           "qs_rate": 50.0,
-          "last3_era": 2.1,
+          "last3_era": 2.02,
           "trend": "hot",
           "n_games": 10,
           "sample_confidence": 1.0,
@@ -304,39 +316,51 @@
           "team_era": 2.42,
           "sample_games": 10
         },
-        "bat_score": 29.0,
+        "bat_score": 33.2,
         "bat_detail": {
-          "recent_avg": 0.209,
+          "recent_avg": 0.222,
           "runs_per_g": 5.2,
           "hr_per_g": 1.1,
           "bb_per_g": 3.0,
-          "season_ops": 0.704,
-          "season_avg": 0.209,
+          "season_ops": 0.723,
+          "season_avg": 0.222,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
             "Paul Goldschmidt(0.577)",
-            "Heliot Ramos(0.707)",
-            "Ben Rice(0.640)",
-            "Amed Rosario(0.681)",
-            "Trent Grisham(0.589)",
+            "Heliot Ramos(0.735)",
+            "Ben Rice(0.654)",
+            "Amed Rosario(0.708)",
+            "Trent Grisham(0.611)",
             "George Lombard Jr.(1.017)",
             "Spencer Jones(0.683)",
-            "José Caballero(0.804)",
+            "José Caballero(0.887)",
             "Austin Wells(0.638)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.209,
+            "runs_per_g": 5.1,
+            "hr_per_g": 1.5,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.228,
+            "runs_per_g": 3.9,
+            "hr_per_g": 0.9,
+            "n_games": 10
+          }
         },
         "sit_score": 58.9,
-        "total": 53.7
+        "total": 55.4
       }
     },
     "scores": {
-      "away_offense": 43.1,
-      "away_defense": 73.8,
-      "home_offense": 29.0,
-      "home_defense": 71.2
+      "away_offense": 44.7,
+      "away_defense": 74.0,
+      "home_offense": 33.2,
+      "home_defense": 71.6
     },
     "actual_score": {
       "away": 0,
@@ -353,8 +377,8 @@
     "model_winner": "Atlanta Braves",
     "model_correct": null,
     "notes": "Atlanta Braves IL: Joe Jiménez, Joey Wentz, Reynaldo López, Robert Suarez, Spencer Schwellenbach 외 다수 / New York Yankees IL: Aaron Judge, Carlos Rodón, Clarke Schmidt, Cody Bellinger, Giancarlo Stanton",
-    "kalshi_prob": 42.0,
-    "edge": 1.5,
+    "kalshi_prob": 49.0,
+    "edge": -4.2,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -638,7 +662,19 @@
             "Lawrence Butler(0.762)",
             "Max Muncy(0.573)",
             "Alika Williams(0.543)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.248,
+            "runs_per_g": 5.1,
+            "hr_per_g": 1.0,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.201,
+            "runs_per_g": 2.8,
+            "hr_per_g": 0.6,
+            "n_games": 10
+          }
         },
         "sit_score": 32.3,
         "total": 25.8
@@ -686,7 +722,19 @@
             "Nick Sogard(0.647)",
             "Jarren Duran(0.758)",
             "Connor Wong(0.682)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.231,
+            "runs_per_g": 3.9,
+            "hr_per_g": 0.4,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.228,
+            "runs_per_g": 4.1,
+            "hr_per_g": 0.8,
+            "n_games": 10
+          }
         },
         "sit_score": 64.8,
         "total": 56.4
@@ -998,7 +1046,19 @@
             "Denzer Guzman(0.607)",
             "Josh Lowe(0.641)",
             "Tyler Heineman(0.463)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.203,
+            "runs_per_g": 3.2,
+            "hr_per_g": 0.7,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.218,
+            "runs_per_g": 5.3,
+            "hr_per_g": 1.4,
+            "n_games": 10
+          }
         },
         "sit_score": 44.3,
         "total": 47.2
@@ -1046,7 +1106,19 @@
             "Owen Caissie(0.648)",
             "Joe Mack(0.633)",
             "Javier Sanoja(0.816)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.274,
+            "runs_per_g": 5.1,
+            "hr_per_g": 0.8,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.259,
+            "runs_per_g": 4.6,
+            "hr_per_g": 0.8,
+            "n_games": 10
+          }
         },
         "sit_score": 48.4,
         "total": 50.2
@@ -1293,18 +1365,18 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 41.4,
-      "home": 58.6
+      "away": 39.1,
+      "home": 60.9
     },
     "expected_score": {
-      "away": 2.5,
-      "home": 3.1
+      "away": 2.2,
+      "home": 3.3
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": true,
@@ -1336,32 +1408,44 @@
           "team_era": 4.71,
           "sample_games": 10
         },
-        "bat_score": 33.7,
+        "bat_score": 29.7,
         "bat_detail": {
-          "recent_avg": 0.248,
+          "recent_avg": 0.235,
           "runs_per_g": 3.6,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.768,
-          "season_avg": 0.248,
+          "season_ops": 0.752,
+          "season_avg": 0.235,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
             "Nathan Lukes(0.516)",
-            "Alejandro Kirk(0.752)",
-            "Jesús Sánchez(0.702)",
+            "Brett Bateman(1.750)",
+            "Vladimir Guerrero Jr.(0.660)",
             "George Springer(0.734)",
-            "Kazuma Okamoto(0.680)",
-            "Andrés Giménez(0.644)",
+            "Jesús Sánchez(0.702)",
             "Ernie Clement(0.581)",
-            "Josh Smith(0.556)",
-            "Brett Bateman(1.750)"
-          ]
+            "Andrés Giménez(0.644)",
+            "Brandon Valenzuela(0.625)",
+            "Josh Smith(0.556)"
+          ],
+          "home_split": {
+            "recent_avg": 0.256,
+            "runs_per_g": 4.4,
+            "hr_per_g": 1.0,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.249,
+            "runs_per_g": 3.8,
+            "hr_per_g": 0.7,
+            "n_games": 10
+          }
         },
         "sit_score": 47.6,
-        "total": 35.5
+        "total": 34.5
       },
       "home": {
         "sp_score": 31.2,
@@ -1384,14 +1468,14 @@
           "team_era": 4.35,
           "sample_games": 10
         },
-        "bat_score": 39.4,
+        "bat_score": 42.1,
         "bat_detail": {
-          "recent_avg": 0.266,
+          "recent_avg": 0.272,
           "runs_per_g": 4.2,
           "hr_per_g": 1.1,
           "bb_per_g": 3.0,
-          "season_ops": 0.745,
-          "season_avg": 0.266,
+          "season_ops": 0.764,
+          "season_avg": 0.272,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -1401,28 +1485,40 @@
             "Trea Turner(0.768)",
             "Bryce Harper(0.954)",
             "Luis Arraez(0.756)",
-            "Alec Bohm(0.592)",
-            "Brandon Marsh(0.653)",
-            "J.T. Realmuto(0.643)",
             "Bryson Stott(0.851)",
-            "Justin Crawford(0.770)"
-          ]
+            "Brandon Marsh(0.653)",
+            "Justin Crawford(0.770)",
+            "Bryan De La Cruz(1.163)",
+            "Garrett Stubbs(0.251)"
+          ],
+          "home_split": {
+            "recent_avg": 0.242,
+            "runs_per_g": 4.7,
+            "hr_per_g": 1.3,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.214,
+            "runs_per_g": 3.3,
+            "hr_per_g": 0.9,
+            "n_games": 10
+          }
         },
         "sit_score": 54.4,
-        "total": 40.3
+        "total": 41.0
       }
     },
     "scores": {
-      "away_offense": 33.7,
+      "away_offense": 29.7,
       "away_defense": 33.2,
-      "home_offense": 39.4,
+      "home_offense": 42.1,
       "home_defense": 37.2
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -1434,7 +1530,7 @@
     "model_correct": null,
     "notes": "Toronto Blue Jays IL: Addison Barger, Anthony Santander, Bowden Francis, Cody Ponce, Joe Mantiply 외 다수 / Philadelphia Phillies IL: Adolis García, Brad Keller, Johan Rojas, Rafael Marchán, Tanner Banks",
     "kalshi_prob": 61.0,
-    "edge": -2.4,
+    "edge": -0.1,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -1613,18 +1709,18 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 57.8,
-      "home": 42.2
+      "away": 53.3,
+      "home": 46.7
     },
     "expected_score": {
-      "away": 2.2,
+      "away": 1.4,
       "home": 1.9
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": false,
@@ -1656,14 +1752,14 @@
           "team_era": 2.53,
           "sample_games": 10
         },
-        "bat_score": 32.6,
+        "bat_score": 21.2,
         "bat_detail": {
-          "recent_avg": 0.241,
+          "recent_avg": 0.205,
           "runs_per_g": 4.9,
           "hr_per_g": 0.9,
           "bb_per_g": 3.0,
-          "season_ops": 0.689,
-          "season_avg": 0.241,
+          "season_ops": 0.64,
+          "season_avg": 0.205,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -1672,16 +1768,28 @@
             "A.J. Ewing(0.718)",
             "Francisco Lindor(0.724)",
             "Bo Bichette(0.611)",
-            "Carson Benge(0.891)",
             "Jared Young(0.754)",
-            "Marcus Semien(0.704)",
+            "Luis Robert Jr.(0.506)",
             "Brett Baty(0.645)",
+            "Marcus Semien(0.704)",
             "Jorge Polanco(0.359)",
-            "Luis Torrens(0.796)"
-          ]
+            "Francisco Alvarez(0.742)"
+          ],
+          "home_split": {
+            "recent_avg": 0.211,
+            "runs_per_g": 3.4,
+            "hr_per_g": 0.8,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.22,
+            "runs_per_g": 3.4,
+            "hr_per_g": 0.7,
+            "n_games": 10
+          }
         },
         "sit_score": 50.0,
-        "total": 53.4
+        "total": 49.9
       },
       "home": {
         "sp_score": 41.5,
@@ -1704,14 +1812,14 @@
           "team_era": 3.5,
           "sample_games": 10
         },
-        "bat_score": 30.5,
+        "bat_score": 30.3,
         "bat_detail": {
-          "recent_avg": 0.232,
+          "recent_avg": 0.231,
           "runs_per_g": 4.5,
           "hr_per_g": 1.2,
           "bb_per_g": 3.0,
           "season_ops": 0.697,
-          "season_avg": 0.232,
+          "season_avg": 0.231,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -1720,29 +1828,41 @@
             "Jake Mangum(0.723)",
             "Brandon Lowe(0.772)",
             "Bryan Reynolds(0.706)",
-            "Esmerlyn Valdez(0.697)",
             "Spencer Horwitz(0.711)",
             "Nick Gonzales(0.672)",
-            "Ronny Simon(0.522)",
-            "Jared Triolo(0.681)",
-            "Rafael Flores Jr.(0.790)"
-          ]
+            "Endy Rodríguez(0.810)",
+            "Esmerlyn Valdez(0.697)",
+            "Jacob Gonzalez(0.661)",
+            "Ronny Simon(0.522)"
+          ],
+          "home_split": {
+            "recent_avg": 0.279,
+            "runs_per_g": 5.4,
+            "hr_per_g": 0.7,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.219,
+            "runs_per_g": 4.2,
+            "hr_per_g": 1.4,
+            "n_games": 10
+          }
         },
         "sit_score": 42.7,
-        "total": 43.9
+        "total": 43.8
       }
     },
     "scores": {
-      "away_offense": 32.6,
+      "away_offense": 21.2,
       "away_defense": 66.8,
-      "home_offense": 30.5,
+      "home_offense": 30.3,
       "home_defense": 52.5
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -1754,8 +1874,8 @@
     "model_correct": null,
     "notes": "New York Mets IL: Austin Warren, Cionel Pérez, Juan Soto, Justin Hagenman, Mark Vientos 외 다수 / Pittsburgh Pirates IL: Konnor Griffin, Mitch Keller, Oneil Cruz, Ryan O'Hearn",
     "kalshi_prob": 53.0,
-    "edge": -10.8,
-    "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Pittsburgh Pirates)",
+    "edge": -6.3,
+    "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
   },
@@ -2038,7 +2158,19 @@
             "Jose Trevino(0.871)",
             "Noelvi Marte(0.563)",
             "Ke'Bryan Hayes(0.488)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.182,
+            "runs_per_g": 3.4,
+            "hr_per_g": 1.1,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.222,
+            "runs_per_g": 3.6,
+            "hr_per_g": 0.6,
+            "n_games": 10
+          }
         },
         "sit_score": 43.8,
         "total": 49.2
@@ -2086,7 +2218,19 @@
             "Nasim Nuñez(0.400)",
             "José Tena(0.625)",
             "Jacob Young(0.910)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.23,
+            "runs_per_g": 5.1,
+            "hr_per_g": 1.4,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.284,
+            "runs_per_g": 6.1,
+            "hr_per_g": 1.0,
+            "n_games": 10
+          }
         },
         "sit_score": 48.2,
         "total": 29.1
@@ -2113,8 +2257,8 @@
     "model_winner": "Cincinnati Reds",
     "model_correct": null,
     "notes": "Cincinnati Reds IL: Blake Dunn, Brandon Williamson, Graham Ashcraft, Hunter Greene, Nick Lodolo 외 다수 / Washington Nationals IL: Connelly Early, DJ Herz, Drew Millas, James Wood, Josiah Gray 외 다수",
-    "kalshi_prob": 42.0,
-    "edge": -9.0,
+    "kalshi_prob": 43.0,
+    "edge": -10.0,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Washington Nationals)",
     "extreme_edge": false,
     "consensus": false
@@ -2398,7 +2542,19 @@
             "Carson Kelly(0.756)",
             "Pedro Ramírez(0.802)",
             "Dansby Swanson(0.623)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.248,
+            "runs_per_g": 5.2,
+            "hr_per_g": 1.1,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.268,
+            "runs_per_g": 6.0,
+            "hr_per_g": 1.3,
+            "n_games": 10
+          }
         },
         "sit_score": 63.2,
         "total": 54.5
@@ -2446,7 +2602,19 @@
             "Michael Massey(0.621)",
             "Starling Marte(0.486)",
             "Tyler Tolbert(0.954)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.248,
+            "runs_per_g": 4.1,
+            "hr_per_g": 0.8,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.191,
+            "runs_per_g": 2.6,
+            "hr_per_g": 0.8,
+            "n_games": 10
+          }
         },
         "sit_score": 43.2,
         "total": 38.1
@@ -2758,7 +2926,19 @@
             "Kaelen Culpepper(1.250)",
             "Victor Caratini(0.520)",
             "Ryan Kreidler(0.579)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.244,
+            "runs_per_g": 5.8,
+            "hr_per_g": 1.3,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.214,
+            "runs_per_g": 5.0,
+            "hr_per_g": 1.4,
+            "n_games": 10
+          }
         },
         "sit_score": 55.9,
         "total": 52.3
@@ -2806,7 +2986,19 @@
             "Luis Lara(0.708)",
             "Cooper Pratt(0.706)",
             "David Hamilton(0.643)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.249,
+            "runs_per_g": 6.2,
+            "hr_per_g": 1.6,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.234,
+            "runs_per_g": 5.2,
+            "hr_per_g": 0.3,
+            "n_games": 10
+          }
         },
         "sit_score": 62.8,
         "total": 51.1
@@ -3118,7 +3310,19 @@
             "Yainer Diaz(0.764)",
             "Cam Smith(0.881)",
             "Jake Meyers(0.652)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.256,
+            "runs_per_g": 5.7,
+            "hr_per_g": 1.1,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.274,
+            "runs_per_g": 5.0,
+            "hr_per_g": 1.0,
+            "n_games": 10
+          }
         },
         "sit_score": 60.2,
         "total": 57.8
@@ -3166,7 +3370,19 @@
             "Gavin Sheets(0.581)",
             "Xander Bogaerts(0.683)",
             "Sung-Mun Song(0.511)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.227,
+            "runs_per_g": 4.7,
+            "hr_per_g": 1.2,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.211,
+            "runs_per_g": 3.4,
+            "hr_per_g": 0.4,
+            "n_games": 10
+          }
         },
         "sit_score": 50.2,
         "total": 43.9
@@ -3427,7 +3643,19 @@
             "Max Clark(0.915)",
             "Javier Báez(0.635)",
             "Zach McKinstry(0.826)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.278,
+            "runs_per_g": 5.2,
+            "hr_per_g": 1.3,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.216,
+            "runs_per_g": 3.6,
+            "hr_per_g": 0.1,
+            "n_games": 10
+          }
         },
         "sit_score": 43.7,
         "total": 50.8
@@ -3475,7 +3703,19 @@
             "Eddys Leonard(0.600)",
             "Drew Cavanaugh(0.613)",
             "Christian Koss(0.370)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.231,
+            "runs_per_g": 2.8,
+            "hr_per_g": 0.2,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.264,
+            "runs_per_g": 4.0,
+            "hr_per_g": 1.0,
+            "n_games": 10
+          }
         },
         "sit_score": 48.8,
         "total": 36.7
@@ -3787,7 +4027,19 @@
             "Ezequiel Tovar(0.720)",
             "Troy Johnston(0.510)",
             "Edouard Julien(0.484)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.265,
+            "runs_per_g": 4.6,
+            "hr_per_g": 1.0,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.223,
+            "runs_per_g": 3.6,
+            "hr_per_g": 0.9,
+            "n_games": 10
+          }
         },
         "sit_score": 37.3,
         "total": 35.9
@@ -3835,7 +4087,19 @@
             "Nathan Church(0.721)",
             "Bryan Torres(0.686)",
             "César Prieto(0.000)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.23,
+            "runs_per_g": 3.9,
+            "hr_per_g": 1.1,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.226,
+            "runs_per_g": 5.6,
+            "hr_per_g": 1.1,
+            "n_games": 10
+          }
         },
         "sit_score": 52.5,
         "total": 30.7
@@ -4147,7 +4411,19 @@
             "Coby Mayo(0.819)",
             "Colton Cowser(0.581)",
             "Carlos Narváez(0.361)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.261,
+            "runs_per_g": 5.0,
+            "hr_per_g": 1.2,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.201,
+            "runs_per_g": 3.3,
+            "hr_per_g": 0.7,
+            "n_games": 10
+          }
         },
         "sit_score": 43.7,
         "total": 38.2
@@ -4195,7 +4471,19 @@
             "Jake Burger(0.611)",
             "Elias Díaz(0.649)",
             "Nicky Lopez(0.462)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.222,
+            "runs_per_g": 2.8,
+            "hr_per_g": 0.5,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.255,
+            "runs_per_g": 5.5,
+            "hr_per_g": 1.7,
+            "n_games": 10
+          }
         },
         "sit_score": 61.0,
         "total": 44.1
@@ -4507,7 +4795,19 @@
             "Brayan Rocchio(0.521)",
             "Austin Hedges(0.670)",
             "Angel Genao(0.770)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.236,
+            "runs_per_g": 4.4,
+            "hr_per_g": 1.2,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.204,
+            "runs_per_g": 3.4,
+            "hr_per_g": 0.9,
+            "n_games": 10
+          }
         },
         "sit_score": 51.9,
         "total": 46.1
@@ -4555,7 +4855,19 @@
             "Braden Montgomery(0.672)",
             "Edgar Quero(0.470)",
             "Luisangel Acuña(0.531)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.223,
+            "runs_per_g": 3.6,
+            "hr_per_g": 0.7,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.176,
+            "runs_per_g": 2.9,
+            "hr_per_g": 1.0,
+            "n_games": 10
+          }
         },
         "sit_score": 56.7,
         "total": 37.0
@@ -4867,7 +5179,19 @@
             "Teoscar Hernández(0.774)",
             "Tommy Edman(0.686)",
             "Hunter Feduccia(0.661)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.26,
+            "runs_per_g": 4.3,
+            "hr_per_g": 1.5,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.329,
+            "runs_per_g": 8.0,
+            "hr_per_g": 2.3,
+            "n_games": 10
+          }
         },
         "sit_score": 49.4,
         "total": 63.0
@@ -4915,7 +5239,19 @@
             "Max Kepler(0.597)",
             "Tim Tawa(0.687)",
             "Ryan Waldschmidt(0.905)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.237,
+            "runs_per_g": 4.3,
+            "hr_per_g": 0.9,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.237,
+            "runs_per_g": 4.4,
+            "hr_per_g": 0.7,
+            "n_games": 10
+          }
         },
         "sit_score": 59.9,
         "total": 47.9
@@ -5227,7 +5563,19 @@
             "Victor Mesa Jr.(0.665)",
             "Richie Palacios(0.728)",
             "Taylor Walls(0.454)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.247,
+            "runs_per_g": 4.4,
+            "hr_per_g": 1.0,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.273,
+            "runs_per_g": 5.3,
+            "hr_per_g": 0.8,
+            "n_games": 10
+          }
         },
         "sit_score": 64.5,
         "total": 49.5
@@ -5275,7 +5623,19 @@
             "Brendan Donovan(0.645)",
             "Cal Raleigh(0.581)",
             "Colt Emerson(0.578)"
-          ]
+          ],
+          "home_split": {
+            "recent_avg": 0.222,
+            "runs_per_g": 5.0,
+            "hr_per_g": 1.1,
+            "n_games": 10
+          },
+          "away_split": {
+            "recent_avg": 0.173,
+            "runs_per_g": 2.5,
+            "hr_per_g": 0.5,
+            "n_games": 10
+          }
         },
         "sit_score": 49.7,
         "total": 46.8
