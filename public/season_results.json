@@ -5671,6 +5671,16 @@
       "actual_winner": "San Francisco Giants",
       "correct": false,
       "high_conf": false
+    },
+    {
+      "date": "2026-08-08",
+      "away": "Atlanta Braves",
+      "home": "New York Yankees",
+      "pick": "Atlanta Braves",
+      "pick_prob": 54.4,
+      "actual_winner": "New York Yankees",
+      "correct": false,
+      "high_conf": false
     }
   ]
 }
