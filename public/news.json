@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-08T16:16:39.011040+00:00",
+  "updated_at": "2026-08-08T16:34:41.363750+00:00",
   "news": [
+    {
+      "title": "TWIB: Skubal debuts for Dodgers in an epic series at Wrigley Field",
+      "link": "https://www.mlb.com/news/this-week-in-baseball-tarik-skubal-debuts-with-dodgers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e8cpaez2qmrqlmjmejnh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-08T16:00:14+00:00",
+      "time_ago": "34m ago"
+    },
     {
       "title": "250 for 250: Top 10 memorable animal moments",
       "link": "https://www.mlb.com/news/best-animal-moments-in-mlb-history",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T15:34:29+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Waldschmidt's 2nd career HR? Just a walk-off against the Dodgers",
@@ -25,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-08T06:34:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "With 27 wins in 30 games, Red Sox in rare air",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T06:18:12+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "Smith hits 2 homers, both off southpaws, to power Astros' win",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T05:33:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Soriano keeps it simple in 1st start for Blue Jays",
-      "link": "https://www.mlb.com/news/jose-soriano-makes-blue-jays-debut-against-phillies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786156018/mlb/escxm9oydgtybncxeupf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-08T05:25:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     }
   ]
 }
