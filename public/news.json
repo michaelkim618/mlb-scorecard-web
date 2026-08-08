@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-08T23:04:07.824985+00:00",
+  "updated_at": "2026-08-08T23:50:51.615887+00:00",
   "news": [
+    {
+      "title": "Red Sox fall to A's to snap 9-game winning streak",
+      "link": "https://www.mlb.com/news/red-sox-lose-to-a-s-to-snap-9-game-winning-streak",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786230425/mlb/wcof9etznhp8oo2xk7fd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-08T23:14:44+00:00",
+      "time_ago": "36m ago"
+    },
     {
       "title": "Alcantara sets 3rd Marlins franchise record of '26, this time for innings pitched in shutout win",
       "link": "https://www.mlb.com/news/sandy-alcantara-sets-marlins-franchise-record-for-innings-pitched",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T22:50:00+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rutschman doubles, throws out runner in strong 1st rehab game with Sox",
@@ -25,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-08T22:27:10+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Weiss tossed after Sale gets called for run-scoring balk",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T22:21:00+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Benge (left wrist) out of lineup on Saturday but expects quick return",
@@ -91,19 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T20:02:00+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "What sets Yamamoto apart -- even from Dodgers' other 4 aces",
-      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-splitter-evolution",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xmj9amrlmg9xr5ixyjoe",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-08T17:26:04+00:00",
-      "time_ago": "5h ago"
     }
   ]
 }
