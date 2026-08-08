@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T04:19:23.022159+00:00",
+  "updated_at": "2026-08-08T04:34:34.969844+00:00",
   "news": [
     {
       "title": "5 batters in, Schultz's early pull after 2nd mound visit puts Sox behind 8-ball",
@@ -12,7 +12,33 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T04:13:00+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "How the Trade Deadline could impact this year's qualifying offers",
+      "link": "https://www.mlb.com/news/2026-trade-deadline-impact-on-qualifying-offer-free-agents",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/h6n5lfgeawkcv307bput",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harrigan",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-08-08T04:09:26+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "Which teams have the top potential postseason rotations?",
+      "link": "https://www.mlb.com/news/mlb-2026-top-potential-postseason-rotations",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gqufdbkxkoqxwt10irac",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-08T04:09:23+00:00",
+      "time_ago": "25m ago"
     },
     {
       "title": "Soriano grinds through solid Blue Jays debut in Philly",
@@ -25,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-08T04:06:00+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "28m ago"
     },
     {
       "title": "Wheeler's wild night features epic 15-pitch duel ... and some choice words for Jays",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T04:03:00+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "31m ago"
     },
     {
       "title": "It never gets old: Trout homers on birthday for record-tying SIXTH time",
@@ -51,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-08T03:55:00+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "39m ago"
     },
     {
       "title": "Kelly takes no-hitter into 6th, then exits with right leg cramp",
@@ -64,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-08T03:44:00+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Rutschman closing in on rehab assignment; Anthony continues hitting progression",
@@ -77,33 +103,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-08T03:38:00+00:00",
-      "time_ago": "41m ago"
-    },
-    {
-      "title": "Benge exits with wrist soreness after incredible catch at wall in LF",
-      "link": "https://www.mlb.com/news/carson-benge-injury-exit-mets-pirates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786148876/mlb/z96jlsdx2stjsc2vc955",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "John Perrotto",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-08T03:22:00+00:00",
-      "time_ago": "57m ago"
-    },
-    {
-      "title": "These players have hit the most homers on their birthday",
-      "link": "https://www.mlb.com/news/mlb-players-with-most-home-runs-on-their-birthday",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786161859/mlb/et1zpsurfyzdb7hqlt8n",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-08T03:20:07+00:00",
-      "time_ago": "59m ago"
+      "time_ago": "56m ago"
     }
   ]
 }
