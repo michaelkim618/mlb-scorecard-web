@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-08-07-daily-doc",
+      "title": "Aug 7 Results: Regression to the Mean in Real Time",
+      "author": "Doc",
+      "author_emoji": "🧠",
+      "author_color": "#7C3AED",
+      "author_role": "Sabermetrician",
+      "date": "2026-08-07",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#7C3AED",
+      "read_time": "3 min",
+      "summary": "53.3% accuracy on Aug 7—a statistical reality check on predictive modeling"
+    },
+    {
       "slug": "2026-08-05-daily-stan",
       "title": "Aug 4 Results + Aug 5 Preview: 13W-2L and the Numbers Are Screaming",
       "author": "Stan",

@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-08T06:05:16.561373+00:00",
+  "updated_at": "2026-08-08T06:24:43.859272+00:00",
   "news": [
+    {
+      "title": "With 27 wins in 30 games, Red Sox in rare air",
+      "link": "https://www.mlb.com/news/red-sox-on-historic-27-3-hot-streak",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ah0viyggv0u6a3lxgxhg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sarah Langs",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-08T06:18:12+00:00",
+      "time_ago": "6m ago"
+    },
+    {
+      "title": "Smith hits 2 homers, both off southpaws, to power Astros' win",
+      "link": "https://www.mlb.com/news/cam-smith-powers-astros-with-2-home-runs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/murse4lcvvlao7ptuspx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Courtney Hollmon",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-08T06:04:00+00:00",
+      "time_ago": "20m ago"
+    },
     {
       "title": "White Sox calling up top arms Smith (No. 2) and McDougal (No. 4), per source",
       "link": "https://www.mlb.com/news/hagen-smith-and-tanner-mcdougal-called-up-white-sox",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T05:50:00+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "34m ago"
     },
     {
       "title": "Wheeler's wild night features epic 15-pitch duel ... and some choice words for Jays",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T05:44:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "40m ago"
     },
     {
       "title": "As hometown battles fires, Rasmussen continues dominance in Seattle",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T05:33:00+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "51m ago"
     },
     {
       "title": "Soriano keeps it simple in 1st start for Blue Jays",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T05:25:00+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "In test of playoff-type baseball, Yanks show their mettle with comeback win",
@@ -64,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-08-08T05:23:00+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Leahy's impressive streak aided by Winn's great defensive plays",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T05:11:00+00:00",
-      "time_ago": "54m ago"
-    },
-    {
-      "title": "Culpepper's emotional whirlwind callup ends with HR in MLB debut",
-      "link": "https://www.mlb.com/news/kaelen-culpepper-callup-to-twins",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786151118/mlb/zlqmsx9fgrrjgirduorr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-08T05:07:00+00:00",
-      "time_ago": "58m ago"
-    },
-    {
-      "title": "Smith powers Astros to win with 3-hit game, including 2 homers",
-      "link": "https://www.mlb.com/news/cam-smith-powers-astros-with-2-home-runs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/murse4lcvvlao7ptuspx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Courtney Hollmon",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-08T04:59:32+00:00",
       "time_ago": "1h ago"
     }
   ]
