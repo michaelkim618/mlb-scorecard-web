@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-08T19:37:34.974161+00:00",
+  "updated_at": "2026-08-08T19:49:51.679251+00:00",
   "news": [
+    {
+      "title": "Fathers and sons help honor pinstriped legacy at the Yankees' Old-Timers' Day",
+      "link": "https://www.mlb.com/news/yankees-hold-2026-old-timers-day",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/etp00ajrecmxouldne30",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-08T19:36:03+00:00",
+      "time_ago": "13m ago"
+    },
     {
       "title": "White Sox call up top arms Smith (No. 2) and McDougal (No. 4)",
       "link": "https://www.mlb.com/news/hagen-smith-and-tanner-mcdougal-called-up-white-sox",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T18:56:00+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "What sets Yamamoto apart -- even from Dodgers' other 4 aces",
@@ -90,19 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-08T06:04:00+00:00",
-      "time_ago": "13h ago"
-    },
-    {
-      "title": "Wheeler's wild night features epic 15-pitch duel ... and some choice words for Jays",
-      "link": "https://www.mlb.com/news/zack-wheeler-faces-blue-jays-at-citizens-bank-park",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hv6pgeabzonl2hrfi6hd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-08T05:44:00+00:00",
       "time_ago": "13h ago"
     }
   ]
