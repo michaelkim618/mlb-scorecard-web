@@ -97,7 +97,7 @@ function TrendBadge({ spd }) {
       )}
       {spd.recent_bad_start && (
         <span style={{ fontSize: 10, fontWeight: 700, padding: "2px 7px", borderRadius: 99, background: "#FFF7ED", color: "#C2410C", border: "1px solid #FDBA74" }}>
-          ⚠️ Rough last start ({spd.last_start_era?.toFixed(2)} ERA)
+          ⚠️ Rough recent start ({(spd.last2_eras || []).filter(e => e >= 6.0).map(e => e.toFixed(2)).join("/")} ERA)
         </span>
       )}
     </div>
