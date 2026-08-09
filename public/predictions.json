@@ -3969,9 +3969,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "St. Louis Cardinals",
     "model_winner": "St. Louis Cardinals",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Colorado Rockies IL: Chase Dollander, Jaden Hill, Jeff Criswell, Jose Quintana, Kris Bryant 외 다수 / St. Louis Cardinals IL: Max Rajcic, Ramón Urías",
     "kalshi_prob": 57.0,
     "edge": 4.9,
