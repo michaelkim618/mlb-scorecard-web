@@ -1,70 +1,18 @@
 {
-  "updated_at": "2026-08-09T21:17:50.270996+00:00",
+  "updated_at": "2026-08-09T21:59:45.527770+00:00",
   "news": [
     {
-      "title": "Stowers exits Marlins' rout with left hamstring discomfort after 2-run single",
-      "link": "https://www.mlb.com/news/kyle-stowers-exits-marlins-game-with-hamstring-injury",
+      "title": "Alonso's first multihomer game as an Oriole leads rout of Rangers",
+      "link": "https://www.mlb.com/news/pete-alonso-homers-twice-in-orioles-win-over-rangers",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aabsxaw3xclrfypeo5ws",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786308913/mlb/itguejuudibix6bey4bz",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Steve Gorten",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-09T20:51:00+00:00",
-      "time_ago": "26m ago"
-    },
-    {
-      "title": "Phillies give 4 former players their 'Moonlight' moment in ode to Field of Dreams",
-      "link": "https://www.mlb.com/news/phillies-host-former-players-in-ode-to-moonlight-graham-from-field-of-dreams",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786304340/mlb/ecmf1pxzjw4pgyjfbet7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-09T20:46:44+00:00",
-      "time_ago": "31m ago"
-    },
-    {
-      "title": "Mets' bats break out for 15-hit, 11-run outburst to keep rolling",
-      "link": "https://www.mlb.com/news/mets-score-11-runs-to-win-series-vs-pirates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rupdu4bxzqzb5wfxrx0m",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "John Perrotto",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-09T20:39:54+00:00",
-      "time_ago": "37m ago"
-    },
-    {
-      "title": "Overhauled 'pen steps up again as Nats complete first sweep since April",
-      "link": "https://www.mlb.com/news/brad-lord-leads-strong-effort-by-nationals-bullpen",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786299297/mlb/dgmec4gqf07llz0ul1yg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jessica Camerato",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-09T20:34:00+00:00",
-      "time_ago": "43m ago"
-    },
-    {
-      "title": "Braves win 10-inning pitchers' duel to avoid Bronx sweep",
-      "link": "https://www.mlb.com/news/grant-holmes-pitches-6-scoreless-innings-in-win-over-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786304415/mlb/tqspb5ivazkwnrdxrcxi",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bill Ladson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-09T20:30:29+00:00",
-      "time_ago": "47m ago"
+      "author": "Dave Sessions",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-09T21:51:48+00:00",
+      "time_ago": "7m ago"
     },
     {
       "title": "111 games, zero errors: Wilson sets MLB record at shortstop",
@@ -76,21 +24,34 @@
       "author": "Greg Levinsky",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-09T20:28:06+00:00",
-      "time_ago": "49m ago"
+      "pub_date": "2026-08-09T21:38:00+00:00",
+      "time_ago": "21m ago"
     },
     {
-      "title": "Schlittler rebounds from worst start of '26 with one of his best vs. Braves",
-      "link": "https://www.mlb.com/news/cam-schlittler-pitches-7-strong-innings-against-braves",
+      "title": "Pratt (hamstring strain) placed on 10-day IL",
+      "link": "https://www.mlb.com/news/cooper-pratt-placed-on-injured-list-with-hamstring-injury",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786303769/mlb/vrzqdptr58bfileehxs9",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ucgs8qpkbu2pueaaokbh",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-09T20:11:00+00:00",
-      "time_ago": "1h ago"
+      "author": "Casey Drottar",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-09T21:34:00+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "Schwarber snaps dinger drought with 2 HRs in walk-off win",
+      "link": "https://www.mlb.com/news/kyle-schwarber-hits-two-homers-in-phillies-walk-off-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/d9u0d80u6xcx398ugcsq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-09T21:33:21+00:00",
+      "time_ago": "26m ago"
     },
     {
       "title": "Miz blazes his way to 200 K's faster than all but one pitcher in MLB history",
@@ -102,8 +63,47 @@
       "author": "Casey Drottar",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-09T20:07:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-08-09T21:32:00+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "Wetherholt lifts Cardinals to victory with clutch 8th-inning double",
+      "link": "https://www.mlb.com/news/jj-wetherholt-gets-game-winning-hit-vs-rockies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786310512/mlb/tdd1az1ghr4kaoh0rwoi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brenden Schaeffer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-09T21:31:59+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "Royals add 9-time All-Star Kimbrel to bolster bullpen (source)",
+      "link": "https://www.mlb.com/news/craig-kimbrel-royals-2026-contract",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kaoagbavumkbefo0vqct",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anne Rogers",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-08-09T21:25:02+00:00",
+      "time_ago": "34m ago"
+    },
+    {
+      "title": "New Giant Mayer excited for 'next chapter' with boyhood favorite team",
+      "link": "https://www.mlb.com/news/marcelo-mayer-excited-to-join-giants-after-trade-from-red-sox",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786310478/mlb/ml70srhvzeqwozhhr1hq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Maria Guardado",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-09T21:21:37+00:00",
+      "time_ago": "38m ago"
     }
   ]
 }

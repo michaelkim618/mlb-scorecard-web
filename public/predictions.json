@@ -3571,9 +3571,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Milwaukee Brewers",
     "model_winner": "Milwaukee Brewers",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Minnesota Twins IL: Anthony Banda, Byron Buxton, Cole Sands, David Festa, Joe Ryan 외 다수 / Milwaukee Brewers IL: Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Cooper Pratt, JoJo Romero 외 다수",
     "kalshi_prob": 81.0,
     "edge": -18.0,
@@ -4367,9 +4367,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Baltimore Orioles",
     "model_winner": "Texas Rangers",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Baltimore Orioles IL: Blaze Alexander, Chris Bassitt, Colin Selby, Félix Bautista, Jordan Westburg 외 다수 / Texas Rangers IL: Carter Baumler, Danny Jansen, Jack Leiter, Jakob Junis, Jalen Beeks 외 다수",
     "kalshi_prob": 12.0,
     "edge": 41.2,

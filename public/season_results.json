@@ -5989,6 +5989,48 @@
       "away_bp_score": 26.6,
       "home_bp_score": 53.8,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-09",
+      "away": "Minnesota Twins",
+      "home": "Milwaukee Brewers",
+      "pick": "Milwaukee Brewers",
+      "pick_prob": 63.0,
+      "actual_winner": "Milwaukee Brewers",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "hot",
+      "away_sp_era": 5.05,
+      "home_sp_era": 1.5,
+      "away_bp_era": 3.72,
+      "home_bp_era": 3.22,
+      "away_sp_score": 36.7,
+      "home_sp_score": 72.0,
+      "away_bp_score": 52.9,
+      "home_bp_score": 65.6,
+      "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-09",
+      "away": "Baltimore Orioles",
+      "home": "Texas Rangers",
+      "pick": "Texas Rangers",
+      "pick_prob": 53.2,
+      "actual_winner": "Baltimore Orioles",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "cold",
+      "away_sp_era": 3.76,
+      "home_sp_era": 5.55,
+      "away_bp_era": 3.9,
+      "home_bp_era": 3.36,
+      "away_sp_score": 45.5,
+      "home_sp_score": 29.2,
+      "away_bp_score": 47.3,
+      "home_bp_score": 57.3,
+      "bat_source": "lineup"
     }
   ]
 }
