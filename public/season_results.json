@@ -5811,6 +5811,16 @@
       "actual_winner": "Los Angeles Dodgers",
       "correct": true,
       "high_conf": false
+    },
+    {
+      "date": "2026-08-08",
+      "away": "Tampa Bay Rays",
+      "home": "Seattle Mariners",
+      "pick": "Seattle Mariners",
+      "pick_prob": 64.7,
+      "actual_winner": "Tampa Bay Rays",
+      "correct": false,
+      "high_conf": false
     }
   ]
 }
