@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-09T10:04:27.676750+00:00",
+  "updated_at": "2026-08-09T15:23:25.965366+00:00",
   "news": [
+    {
+      "title": "Nats No. 4 prospect homers off of 3-time All-Star at Triple-A",
+      "link": "https://www.mlb.com/news/nationals-prospect-seaver-king-homers-off-of-carlos-rodon-at-triple-a",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hguoqatvc1zugmw9hjyd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-09T14:04:28+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "'I gotta wear the slanted hat': Baker breaks Rodney's record with 23rd consecutive save",
       "link": "https://www.mlb.com/news/rays-bullpen-leads-way-in-win-over-mariners",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-09T06:53:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "8h ago"
     },
     {
       "title": "Wilson tossed for the 2nd time in 4 games as frustration mounts in Seattle",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-09T06:11:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "After late-inning drama, Ohtani's go-ahead hit snaps Dodgers' 7-game skid",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-09T05:11:00+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "Last Chance: Trade Deadline sale offers you the best deal for MLB.TV",
@@ -51,7 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-09T04:41:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "Mad Max passes Big Train to move into 10th on career strikeout list",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-09T04:37:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "5-run rally carries White Sox to win after retiring Guillen's number",
@@ -77,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-09T04:22:00+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Unexpected heroes come up clutch in Brewers' gritty comeback win",
-      "link": "https://www.mlb.com/news/andrew-vaughn-s-rbi-single-completes-comeback-against-twins",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ycyty5uycsnjkqoet2sh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Casey Drottar",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-09T04:19:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Put on a show, Jac! Caglianone clobbers 2 monster HRs in 4-hit night",
@@ -103,7 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-09T03:44:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "11h ago"
     }
   ]
 }
