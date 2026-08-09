@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-09T20:04:29.487797+00:00",
+  "updated_at": "2026-08-09T21:05:50.092316+00:00",
   "news": [
     {
-      "title": "Stowers exits with left hamstring discomfort after 2-run single",
+      "title": "Stowers exits Marlins' rout with left hamstring discomfort after 2-run single",
       "link": "https://www.mlb.com/news/kyle-stowers-exits-marlins-game-with-hamstring-injury",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aabsxaw3xclrfypeo5ws",
@@ -11,34 +11,34 @@
       "author": "Steve Gorten",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-09T19:55:13+00:00",
-      "time_ago": "9m ago"
+      "pub_date": "2026-08-09T20:51:00+00:00",
+      "time_ago": "14m ago"
     },
     {
-      "title": "Brewers RF loses it, locates it, leaps for it to make adventurous catch",
-      "link": "https://bdata-producedclips.mlb.com/bdcff88b-6a7a-4dad-b76d-717cd72265a4.mp4",
-      "summary": "Luis Lara's insane leaping grab",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ut2gpq5gdklvxgvp12gd",
+      "title": "Phillies give 4 former players their 'Moonlight' moment in ode to Field of Dreams",
+      "link": "https://www.mlb.com/news/phillies-host-former-players-in-ode-to-moonlight-graham-from-field-of-dreams",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786304340/mlb/ecmf1pxzjw4pgyjfbet7",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "",
+      "author": "Paul Casella",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-09T19:52:30+00:00",
-      "time_ago": "11m ago"
+      "pub_date": "2026-08-09T20:46:44+00:00",
+      "time_ago": "19m ago"
     },
     {
-      "title": "Jax lands on IL with elbow discomfort; Grove called up",
-      "link": "https://www.mlb.com/news/griffin-jax-placed-on-15-day-injured-list-with-right-elbow-discomfort",
+      "title": "Mets' bats break out for 15-hit, 11-run outburst to keep rolling",
+      "link": "https://www.mlb.com/news/mets-score-11-runs-to-win-series-vs-pirates",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/k7suulffekpurgecmczv",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rupdu4bxzqzb5wfxrx0m",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Luke Olson",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-09T19:49:24+00:00",
-      "time_ago": "15m ago"
+      "author": "John Perrotto",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-09T20:39:54+00:00",
+      "time_ago": "25m ago"
     },
     {
       "title": "Overhauled 'pen steps up again as Nats complete first sweep since April",
@@ -50,8 +50,34 @@
       "author": "Jessica Camerato",
       "tag": "Injury",
       "tag_color": "#DC2626",
-      "pub_date": "2026-08-09T19:43:00+00:00",
-      "time_ago": "21m ago"
+      "pub_date": "2026-08-09T20:34:00+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "Braves win 10-inning pitchers' duel to avoid Bronx sweep",
+      "link": "https://www.mlb.com/news/grant-holmes-pitches-6-scoreless-innings-in-win-over-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786304415/mlb/tqspb5ivazkwnrdxrcxi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bill Ladson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-09T20:30:29+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "111 games, zero errors: Wilson sets MLB record at shortstop",
+      "link": "https://www.mlb.com/news/jacob-wilson-mlb-error-free-shortstop-record",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786301631/mlb/h2qcxjjyvih5udhvrszf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Greg Levinsky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-09T20:28:06+00:00",
+      "time_ago": "37m ago"
     },
     {
       "title": "Schlittler rebounds from worst start of '26 with one of his best vs. Braves",
@@ -63,8 +89,8 @@
       "author": "Bryan Hoch",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-09T19:36:28+00:00",
-      "time_ago": "28m ago"
+      "pub_date": "2026-08-09T20:11:00+00:00",
+      "time_ago": "54m ago"
     },
     {
       "title": "Miz blazes his way to 200 K's faster than all but one pitcher in MLB history",
@@ -76,34 +102,8 @@
       "author": "Casey Drottar",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-09T19:20:04+00:00",
-      "time_ago": "44m ago"
-    },
-    {
-      "title": "Padres sign outfielder Austin Hays (source)",
-      "link": "https://www.mlb.com/news/austin-hays-padres-contract",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/puqzu53o68bdc1dhxmso",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-08-09T19:08:55+00:00",
-      "time_ago": "55m ago"
-    },
-    {
-      "title": "Chris Sale -- who is not pitching today -- ejected before game vs. Yankees",
-      "link": "https://www.mlb.com/news/chris-sale-ejected-before-game-against-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786222128/mlb/vaoxacpzrknkz9besfst",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bill Ladson",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-09T18:43:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-08-09T20:07:00+00:00",
+      "time_ago": "58m ago"
     }
   ]
 }
