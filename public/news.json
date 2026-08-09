@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-09T23:02:18.346850+00:00",
+  "updated_at": "2026-08-09T23:05:29.654787+00:00",
   "news": [
+    {
+      "title": "Rutschman on cusp of making Red Sox debut during next series in Toronto",
+      "link": "https://www.mlb.com/news/adley-rutschman-eyeing-red-sox-debut-in-toronto",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dn0ohppetsrnwliftukm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-09T22:50:04+00:00",
+      "time_ago": "15m ago"
+    },
     {
       "title": "E-Rod's 115-pitch gem helps D-backs secure season series vs. LA for 1st time since '18",
       "link": "https://www.mlb.com/news/eduardo-rodriguez-lead-d-backs-to-series-win-over-dodgers",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-09T22:45:19+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "20m ago"
     },
     {
       "title": "Chris Sale -- who wasn't pitching Sunday -- ejected before game vs. Yankees",
@@ -25,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-09T22:35:00+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "30m ago"
     },
     {
       "title": "Padres upgrade roster with post-Deadline signing of outfielder Hays",
@@ -38,7 +51,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-09T22:27:00+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Astros, Padres clash in matchup of playoff contenders on Sunday Night Baseball (NBC, 8:20 ET)",
@@ -51,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-08-09T22:25:00+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "40m ago"
     },
     {
       "title": "Buoyed by 11-run outburst, Mets focused on finishing strong",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-09T22:16:00+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "Braves win 10-inning pitchers' duel to avoid Bronx sweep",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-09T22:05:00+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Boyd goes 7 in Cubs' romp vs. Royals",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-09T22:04:00+00:00",
-      "time_ago": "58m ago"
-    },
-    {
-      "title": "Alonso's first multihomer game as an Oriole leads rout of Rangers",
-      "link": "https://www.mlb.com/news/pete-alonso-homers-twice-in-orioles-win-over-rangers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786308913/mlb/itguejuudibix6bey4bz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Dave Sessions",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-09T21:51:48+00:00",
       "time_ago": "1h ago"
     }
   ]
