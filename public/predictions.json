@@ -98,7 +98,7 @@
     "away_pitcher_stats": {
       "wins": 5,
       "losses": 10,
-      "era": "4.67"
+      "era": "4.82"
     },
     "away_pitcher_gamelog": [
       {
@@ -144,12 +144,12 @@
       {
         "date": "2026-08-09",
         "opp": "@ WSH",
-        "ip": "0.2",
-        "er": 0,
-        "h": 0,
-        "bb": 0,
+        "ip": "2.0",
+        "er": 2,
+        "h": 3,
+        "bb": 1,
         "so": 0,
-        "era": 0.0
+        "era": 9.0
       }
     ],
     "home_pitcher": "Brad Lord",
@@ -157,7 +157,7 @@
     "home_pitcher_stats": {
       "wins": 5,
       "losses": 2,
-      "era": "3.75"
+      "era": "3.79"
     },
     "home_pitcher_gamelog": [
       {
@@ -203,12 +203,12 @@
       {
         "date": "2026-08-09",
         "opp": "vs CIN",
-        "ip": "1.0",
-        "er": 0,
-        "h": 0,
+        "ip": "2.2",
+        "er": 1,
+        "h": 2,
         "bb": 0,
-        "so": 3,
-        "era": 0.0
+        "so": 4,
+        "era": 3.38
       }
     ],
     "pred_model": "scorecard",
@@ -217,8 +217,8 @@
       "home": 38.0
     },
     "expected_score": {
-      "away": 1.8,
-      "home": 2.4
+      "away": 1.6,
+      "home": 2.5
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -236,18 +236,18 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 48.3,
+        "sp_score": 45.3,
         "sp_detail": {
-          "era": 3.54,
-          "whip": 1.16,
-          "k9": 8.4,
-          "avg_ip": 5.3,
+          "era": 3.79,
+          "whip": 1.21,
+          "k9": 8.2,
+          "avg_ip": 5.5,
           "qs_rate": 50.0,
-          "last3_era": 4.38,
-          "last_start_era": 0.0,
+          "last3_era": 4.85,
+          "last_start_era": 9.0,
           "last2_eras": [
             4.5,
-            0.0
+            9.0
           ],
           "recent_bad_start": false,
           "trend": "cold",
@@ -256,34 +256,34 @@
           "rest_days": 5,
           "rest_note": null
         },
-        "bp_score": 66.7,
+        "bp_score": 65.8,
         "bp_detail": {
           "bullpen_era": 2.97,
           "team_era": 2.93,
           "sample_games": 10
         },
-        "bat_score": 21.7,
+        "bat_score": 19.9,
         "bat_detail": {
-          "recent_avg": 0.221,
+          "recent_avg": 0.218,
           "runs_per_g": 2.8,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.739,
-          "season_avg": 0.221,
+          "season_ops": 0.723,
+          "season_avg": 0.218,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Elly De La Cruz(0.940)",
-            "Sal Stewart(0.840)",
-            "JJ Bleday(0.762)",
-            "Tyler Stephenson(0.874)",
-            "Eugenio Suárez(0.710)",
-            "Héctor Rodríguez(0.633)",
-            "Dane Myers(0.697)",
-            "Matt McLain(0.703)",
-            "Ke'Bryan Hayes(0.496)"
+            "Elly De La Cruz(0.924)",
+            "Sal Stewart(0.856)",
+            "JJ Bleday(0.732)",
+            "Tyler Stephenson(0.891)",
+            "Eugenio Suárez(0.758)",
+            "Héctor Rodríguez(0.581)",
+            "Dane Myers(0.675)",
+            "Matt McLain(0.715)",
+            "Ke'Bryan Hayes(0.375)"
           ],
           "home_split": {
             "recent_avg": 0.182,
@@ -299,21 +299,21 @@
           }
         },
         "sit_score": 43.7,
-        "total": 46.5
+        "total": 42.8
       },
       "home": {
         "sp_score": 36.0,
         "sp_detail": {
-          "era": 6.41,
-          "whip": 1.58,
-          "k9": 9.6,
-          "avg_ip": 2.0,
+          "era": 6.33,
+          "whip": 1.55,
+          "k9": 9.3,
+          "avg_ip": 2.1,
           "qs_rate": 0.0,
-          "last3_era": 6.48,
-          "last_start_era": 0.0,
+          "last3_era": 6.3,
+          "last_start_era": 3.38,
           "last2_eras": [
             0.0,
-            0.0
+            3.38
           ],
           "recent_bad_start": false,
           "trend": "cold",
@@ -328,28 +328,28 @@
           "team_era": 6.24,
           "sample_games": 10
         },
-        "bat_score": 35.3,
+        "bat_score": 36.4,
         "bat_detail": {
-          "recent_avg": 0.214,
+          "recent_avg": 0.217,
           "runs_per_g": 6.4,
           "hr_per_g": 1.4,
           "bb_per_g": 3.0,
-          "season_ops": 0.674,
-          "season_avg": 0.214,
+          "season_ops": 0.68,
+          "season_avg": 0.217,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "CJ Abrams(0.847)",
-            "Abimelec Ortiz(0.671)",
-            "José Tena(0.632)",
-            "Daylen Lile(0.794)",
-            "Dylan Crews(0.536)",
-            "Jorbit Vivas(0.597)",
-            "Nasim Nuñez(0.425)",
-            "Keibert Ruiz(0.690)",
-            "Jacob Young(0.873)"
+            "CJ Abrams(0.835)",
+            "Abimelec Ortiz(0.844)",
+            "José Tena(0.570)",
+            "Daylen Lile(0.675)",
+            "Dylan Crews(0.583)",
+            "Jorbit Vivas(0.621)",
+            "Nasim Nuñez(0.436)",
+            "Keibert Ruiz(0.712)",
+            "Jacob Young(0.847)"
           ],
           "home_split": {
             "recent_avg": 0.23,
@@ -365,18 +365,18 @@
           }
         },
         "sit_score": 48.3,
-        "total": 28.4
+        "total": 28.7
       }
     },
     "scores": {
-      "away_offense": 21.7,
-      "away_defense": 57.5,
-      "home_offense": 35.3,
+      "away_offense": 19.9,
+      "away_defense": 55.5,
+      "home_offense": 36.4,
       "home_defense": 16.0
     },
     "actual_score": {
-      "away": 0,
-      "home": 0
+      "away": 1,
+      "home": 3
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -389,10 +389,10 @@
     "model_winner": "Cincinnati Reds",
     "model_correct": null,
     "notes": "Cincinnati Reds IL: Blake Dunn, Brandon Williamson, Graham Ashcraft, Hunter Greene, Nick Lodolo 외 다수 / Washington Nationals IL: Connelly Early, DJ Herz, Drew Millas, James Wood, Josiah Gray 외 다수",
-    "kalshi_prob": 53.0,
-    "edge": -15.0,
-    "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Washington Nationals)",
-    "extreme_edge": false,
+    "kalshi_prob": 74.0,
+    "edge": -36.0,
+    "value_bet": "⚠️ 극단적 역edge -36.0%p — 마켓 데이터 이상 의심 (Washington Nationals 시장 과대평가)",
+    "extreme_edge": true,
     "consensus": false
   },
   {
@@ -695,7 +695,7 @@
           }
         },
         "sit_score": 46.4,
-        "total": 30.5
+        "total": 29.1
       },
       "home": {
         "sp_score": 48.0,
@@ -785,8 +785,8 @@
     "model_winner": "Boston Red Sox",
     "model_correct": null,
     "notes": "Athletics IL: Brent Rooker, Brooks Kriske, Denzel Clarke, Gunnar Hoglund, Jeffrey Springs 외 다수 / Boston Red Sox IL: Adley Rutschman, Curtis Mead, Garrett Crochet, Isiah Kiner-Falefa, Johan Oviedo 외 다수",
-    "kalshi_prob": 69.0,
-    "edge": -2.0,
+    "kalshi_prob": 67.0,
+    "edge": 0.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -1189,7 +1189,7 @@
   },
   {
     "date": "2026-08-09",
-    "status": "Preview",
+    "status": "Live",
     "game_time": "10:35 AM PT",
     "away": "Toronto Blue Jays",
     "home": "Philadelphia Phillies",
@@ -1487,7 +1487,7 @@
           }
         },
         "sit_score": 47.6,
-        "total": 27.5
+        "total": 24.8
       },
       "home": {
         "sp_score": 70.5,
@@ -2193,8 +2193,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 40.4,
-      "home": 59.6
+      "away": 36.7,
+      "home": 63.3
     },
     "expected_score": {
       "away": 1.2,
@@ -2279,7 +2279,7 @@
           }
         },
         "sit_score": 40.3,
-        "total": 36.4
+        "total": 33.6
       },
       "home": {
         "sp_score": 32.0,
@@ -2370,7 +2370,7 @@
     "model_correct": null,
     "notes": "Los Angeles Angels IL: Anthony Rendon, Jack Kochanowicz, Robert Stephenson, Sam Bachman, Sebastián Rivero 외 다수 / Miami Marlins IL: Adam Mazur, Andrew Nardi, Anthony Bender, Max Meyer, Robby Snelling 외 다수",
     "kalshi_prob": 57.0,
-    "edge": 2.6,
+    "edge": 6.3,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -2985,8 +2985,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 63.8,
-      "home": 36.2
+      "away": 65.4,
+      "home": 34.6
     },
     "expected_score": {
       "away": 2.4,
@@ -3137,7 +3137,7 @@
           }
         },
         "sit_score": 63.8,
-        "total": 30.5
+        "total": 29.1
       }
     },
     "scores": {
@@ -3162,7 +3162,7 @@
     "model_correct": null,
     "notes": "Cleveland Guardians IL: Shawn Armstrong, Slade Cecconi / Chicago White Sox IL: Brooks Baldwin, Chris Murphy, Drew Thorpe, Joey Bart, Jordan Leasure 외 다수",
     "kalshi_prob": 46.0,
-    "edge": -9.8,
+    "edge": -11.4,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Chicago White Sox)",
     "extreme_edge": false,
     "consensus": false
@@ -4177,14 +4177,14 @@
       "home": 62.0
     },
     "expected_score": {
-      "away": 0.8,
-      "home": 1.4
+      "away": 0.9,
+      "home": 1.5
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "L",
       "home_handedness": "R",
       "bullpen_game": false,
@@ -4196,7 +4196,7 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 37.6,
+        "sp_score": 38.1,
         "sp_detail": {
           "era": 3.91,
           "whip": 1.34,
@@ -4216,20 +4216,20 @@
           "rest_days": 5,
           "rest_note": null
         },
-        "bp_score": 39.1,
+        "bp_score": 39.7,
         "bp_detail": {
           "bullpen_era": 4.26,
           "team_era": 4.33,
           "sample_games": 10
         },
-        "bat_score": 11.0,
+        "bat_score": 12.8,
         "bat_detail": {
-          "recent_avg": 0.171,
+          "recent_avg": 0.187,
           "runs_per_g": 3.6,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
-          "season_ops": 0.616,
-          "season_avg": 0.171,
+          "season_ops": 0.642,
+          "season_avg": 0.187,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -4241,7 +4241,7 @@
             "Tyler O'Neill(0.880)",
             "Dylan Beavers(0.561)",
             "Leody Taveras(0.576)",
-            "Christian Encarnacion-Strand(0.604)",
+            "Coby Mayo(0.835)",
             "Colton Cowser(0.596)",
             "Carlos Narváez(0.353)"
           ],
@@ -4259,10 +4259,10 @@
           }
         },
         "sit_score": 40.7,
-        "total": 30.5
+        "total": 28.2
       },
       "home": {
-        "sp_score": 31.4,
+        "sp_score": 31.7,
         "sp_detail": {
           "era": 4.67,
           "whip": 1.35,
@@ -4282,34 +4282,34 @@
           "rest_days": 7,
           "rest_note": "extra_rest"
         },
-        "bp_score": 61.5,
+        "bp_score": 62.0,
         "bp_detail": {
           "bullpen_era": 3.16,
           "team_era": 3.34,
           "sample_games": 10
         },
-        "bat_score": 18.0,
+        "bat_score": 19.3,
         "bat_detail": {
-          "recent_avg": 0.208,
+          "recent_avg": 0.204,
           "runs_per_g": 3.8,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.657,
-          "season_avg": 0.208,
+          "season_ops": 0.687,
+          "season_avg": 0.204,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Joc Pederson(0.782)",
             "Wyatt Langford(0.649)",
             "Corey Seager(0.808)",
-            "Brandon Nimmo(0.889)",
             "Ezequiel Duran(0.781)",
-            "Evan Carter(0.475)",
+            "Brandon Nimmo(0.889)",
             "Jake Burger(0.618)",
-            "Austin Wynns(0.468)",
-            "Nicky Lopez(0.439)"
+            "Justin Foscue(0.603)",
+            "Elias Díaz(0.649)",
+            "Jonah Bride(0.700)",
+            "Cam Cauley(0.486)"
           ],
           "home_split": {
             "recent_avg": 0.222,
@@ -4325,20 +4325,20 @@
           }
         },
         "sit_score": 61.1,
-        "total": 39.4
+        "total": 37.8
       }
     },
     "scores": {
-      "away_offense": 11.0,
-      "away_defense": 38.4,
-      "home_offense": 18.0,
-      "home_defense": 46.5
+      "away_offense": 12.8,
+      "away_defense": 38.9,
+      "home_offense": 19.3,
+      "home_defense": 46.9
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -4721,7 +4721,7 @@
           }
         },
         "sit_score": 43.3,
-        "total": 39.4
+        "total": 37.0
       }
     },
     "scores": {
@@ -5361,8 +5361,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 44.9,
-      "home": 55.1
+      "away": 46.8,
+      "home": 53.2
     },
     "expected_score": {
       "away": 2.1,
@@ -5513,7 +5513,7 @@
           }
         },
         "sit_score": 46.6,
-        "total": 48.0
+        "total": 46.7
       }
     },
     "scores": {
@@ -5538,7 +5538,7 @@
     "model_correct": null,
     "notes": "Tampa Bay Rays IL: Ben Williamson, Cole Sulser, Edwin Uceta, Gavin Lux, Jake Fraley 외 다수 / Seattle Mariners IL: Carlos Vargas, Cole Wilcox, Cooper Criswell, J.P. Crawford, Logan Evans 외 다수",
     "kalshi_prob": 50.0,
-    "edge": 5.1,
+    "edge": 3.2,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
