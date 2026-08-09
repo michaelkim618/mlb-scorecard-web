@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-08-08-daily-max",
+      "title": "Aug 8 Results + Aug 9 Preview: A Rough Day at the Office",
+      "author": "Max",
+      "author_emoji": "📰",
+      "author_color": "#16A34A",
+      "author_role": "Senior Reporter",
+      "date": "2026-08-08",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#16A34A",
+      "read_time": "3 min",
+      "summary": "Our model went 7-8 on Aug 8. Sometimes the baseball gods just aren't listening."
+    },
+    {
       "slug": "2026-08-07-daily-doc",
       "title": "Aug 7 Results: Regression to the Mean in Real Time",
       "author": "Doc",
@@ -13,6 +27,20 @@
       "tag_color": "#7C3AED",
       "read_time": "3 min",
       "summary": "53.3% accuracy on Aug 7—a statistical reality check on predictive modeling"
+    },
+    {
+      "slug": "2026-08-06-daily-ace",
+      "title": "Aug 6 Results + Aug 7 Preview: Eight Wins When You Trust the Arms",
+      "author": "Ace",
+      "author_emoji": "🎙️",
+      "author_color": "#D97706",
+      "author_role": "Former Pitcher",
+      "date": "2026-08-06",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#D97706",
+      "read_time": "3 min",
+      "summary": "8-3 on Aug 6 with 72.7% accuracy. Pirates' bullpen can't hold tomorrow against the Mets."
     },
     {
       "slug": "2026-08-05-daily-stan",

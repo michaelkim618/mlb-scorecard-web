@@ -1,0 +1,198 @@
+{
+  "title": "Aug 6 Results + Aug 7 Preview: Eight Wins When You Trust the Arms",
+  "summary": "8-3 on Aug 6 with 72.7% accuracy. Pirates' bullpen can't hold tomorrow against the Mets.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Aug 6 Recap: The Pitching Matchups Held Up\n\nEight wins out of eleven games. That's the kind of day that reminds me why we trust the numbers when the arms match up right. From a pitcher's perspective, yesterday was about identifying which rotations had the edge and which bullpens could close it out. We nailed it on 72.7% of our picks, and the three misses? All coin-flip situations or games where variance bit us."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Aug 6 Record",
+          "value": "8-3"
+        },
+        {
+          "label": "Win Rate",
+          "value": "72.7%"
+        },
+        {
+          "label": "Avg Pick Confidence",
+          "value": "61%"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Breaking Down the Misses\n\nLet me be straight with you—when I see three losses, I look at the confidence levels first. The Orioles pick at 56%? That's barely above a toss-up. Angels got to their bullpen early and capitalized. The Guardians at 50%? That's telling you it's a push. The Royals miss at 62% stings a bit more, but that's baseball. The Twins' lineup got hot at the right time.\n\nWhat matters is we dominated the higher-confidence plays. The Phillies, White Sox, and Reds picks at 67% all cashed. That's where you make your money—when the model sees a clear pitching advantage."
+    },
+    {
+      "type": "table",
+      "title": "Aug 6 Full Game Results",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Angels @ Orioles",
+          "Orioles",
+          "56%",
+          "✗"
+        ],
+        [
+          "Athletics @ Reds",
+          "Reds",
+          "67%",
+          "✓"
+        ],
+        [
+          "Mets @ Guardians",
+          "Guardians",
+          "50%",
+          "✗"
+        ],
+        [
+          "Pirates @ Brewers",
+          "Brewers",
+          "63%",
+          "✓"
+        ],
+        [
+          "Blue Jays @ Cubs",
+          "Cubs",
+          "65%",
+          "✓"
+        ],
+        [
+          "Tigers @ Mariners",
+          "Tigers",
+          "50%",
+          "✓"
+        ],
+        [
+          "Nationals @ Phillies",
+          "Phillies",
+          "67%",
+          "✓"
+        ],
+        [
+          "Red Sox @ White Sox",
+          "White Sox",
+          "67%",
+          "✓"
+        ],
+        [
+          "Marlins @ Braves",
+          "Braves",
+          "63%",
+          "✓"
+        ],
+        [
+          "Twins @ Royals",
+          "Royals",
+          "62%",
+          "✗"
+        ]
+      ]
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Aug 6 Pick Confidence vs Results",
+      "data": [
+        {
+          "name": "Orioles",
+          "probability": 56,
+          "result": 0
+        },
+        {
+          "name": "Reds",
+          "probability": 67,
+          "result": 1
+        },
+        {
+          "name": "Guardians",
+          "probability": 50,
+          "result": 0
+        },
+        {
+          "name": "Brewers",
+          "probability": 63,
+          "result": 1
+        },
+        {
+          "name": "Cubs",
+          "probability": 65,
+          "result": 1
+        },
+        {
+          "name": "Tigers",
+          "probability": 50,
+          "result": 1
+        },
+        {
+          "name": "Phillies",
+          "probability": 67,
+          "result": 1
+        },
+        {
+          "name": "White Sox",
+          "probability": 67,
+          "result": 1
+        },
+        {
+          "name": "Braves",
+          "probability": 63,
+          "result": 1
+        },
+        {
+          "name": "Royals",
+          "probability": 62,
+          "result": 0
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Hit, 0=Miss)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Aug 7 Preview: Mets Over Pirates\n\nTomorrow's top pick is the Mets heading to Pittsburgh, and I like what I'm seeing in this matchup. Zac Thornton gets the ball for New York against Carmen Mlodzinski for the Pirates. At 58% confidence, this isn't a screaming play, but it's a solid pitching edge.\n\nFrom the mound, Thornton has better command of his secondary pitches and works the zone more efficiently. Mlodzinski can be wild—when you're missing locations in Pirates' home park, a Mets lineup that's patient will make you pay. Pittsburgh's bullpen has been taxed lately too, and if Mlodzinski can't give them six innings, they're in trouble."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Tomorrow's Top Pick - Aug 7",
+      "value": "New York Mets @ Pittsburgh Pirates",
+      "sub": "Pick: Mets (58%) | SP Edge: Thornton > Mlodzinski"
+    },
+    {
+      "type": "text",
+      "value": "## The Pitcher's Take\n\nHere's what I'd be thinking if I'm Carmen Mlodzinski tomorrow: You're facing a Mets team that just got shut down by the Guardians and they're looking to bounce back. They're going to be aggressive early, hunting fastballs, working counts. You can't fall behind 2-0, 3-1 on these hitters or they'll crush you.\n\nMeanwhile, Thornton should be licking his chops against a Pirates lineup that strikes out at a high clip. If he's locating his offspeed stuff—and the data says he has been—Pittsburgh's going to have a long night.\n\nRide with the Mets tomorrow. Trust the arm that has better control of the strike zone."
+    }
+  ],
+  "slug": "2026-08-06-daily-ace",
+  "author": "Ace",
+  "author_emoji": "🎙️",
+  "author_role": "Former Pitcher",
+  "author_color": "#D97706",
+  "date": "2026-08-06",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#D97706"
+}

@@ -1,0 +1,198 @@
+{
+  "title": "Aug 8 Results + Aug 9 Preview: A Rough Day at the Office",
+  "summary": "Our model went 7-8 on Aug 8. Sometimes the baseball gods just aren't listening.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Looking Back at August 8\n\nWell, folks, I've been doing this long enough to know that some days the ball just doesn't bounce your way. We finished 7-8 yesterday, hitting just under 47%. Not the kind of day that makes you want to frame the scorecard, but I've seen worse—trust me, I've seen a lot worse over the years.\n\nThe model had some strong opinions with those 63% picks, and we went 3-5 on them. That'll sting every time. But that's baseball. You learn to take your lumps and move on to tomorrow's slate."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Aug 8 Record",
+          "value": "7-8"
+        },
+        {
+          "label": "Accuracy",
+          "value": "46.7%"
+        },
+        {
+          "label": "Highest Confidence",
+          "value": "66%"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "August 8 Complete Results",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Braves @ Yankees",
+          "Braves",
+          "52%",
+          "✗"
+        ],
+        [
+          "Athletics @ Sox",
+          "Sox",
+          "63%",
+          "✗"
+        ],
+        [
+          "Angels @ Marlins",
+          "Marlins",
+          "63%",
+          "✓"
+        ],
+        [
+          "Jays @ Phillies",
+          "Phillies",
+          "66%",
+          "✗"
+        ],
+        [
+          "Mets @ Pirates",
+          "Pirates",
+          "63%",
+          "✓"
+        ],
+        [
+          "Reds @ Nationals",
+          "Reds",
+          "64%",
+          "✗"
+        ],
+        [
+          "Cubs @ Royals",
+          "Cubs",
+          "63%",
+          "✗"
+        ],
+        [
+          "Twins @ Brewers",
+          "Brewers",
+          "56%",
+          "✓"
+        ],
+        [
+          "Astros @ Padres",
+          "Astros",
+          "56%",
+          "✗"
+        ],
+        [
+          "Tigers @ Giants",
+          "Tigers",
+          "63%",
+          "✓"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Bright Spots\n\nLet's give credit where it's due. The Pirates, Marlins, Brewers, and Tigers all came through for us. The Tigers pick was particularly satisfying—63% confidence and they delivered. Sometimes you can feel good about the process even when the overall numbers don't wow you.\n\nThat Phillies miss at 66% confidence? That one hurts. Philadelphia was our strongest play of the day, and the Jays had other ideas. I've been around long enough to know that's when you just tip your cap and reload for tomorrow."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Aug 8 Prediction Confidence vs Results",
+      "data": [
+        {
+          "name": "Braves",
+          "probability": 52,
+          "result": 0
+        },
+        {
+          "name": "Sox",
+          "probability": 63,
+          "result": 0
+        },
+        {
+          "name": "Marlins",
+          "probability": 63,
+          "result": 1
+        },
+        {
+          "name": "Phillies",
+          "probability": 66,
+          "result": 0
+        },
+        {
+          "name": "Pirates",
+          "probability": 63,
+          "result": 1
+        },
+        {
+          "name": "Reds",
+          "probability": 64,
+          "result": 0
+        },
+        {
+          "name": "Cubs",
+          "probability": 63,
+          "result": 0
+        },
+        {
+          "name": "Brewers",
+          "probability": 56,
+          "result": 1
+        },
+        {
+          "name": "Astros",
+          "probability": 56,
+          "result": 0
+        },
+        {
+          "name": "Tigers",
+          "probability": 63,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Hit, 0=Miss)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Top Pick Preview: August 9\n\nHere's the thing about this game—sometimes you need to look at the same matchup twice. Yesterday we liked the Reds at 64% in this exact same series. They didn't deliver. Today? We're flipping the script.\n\nThe model is giving us the Nationals at 60% with Brad Lord on the mound against Brady Singer. It's not our highest confidence play ever, but there's something to be said about home cooking and a fresh look at a pitching matchup. Singer has been solid, but Lord at home is a different conversation.\n\nI've been doing this since the '90s, and one thing I know: divisional series have a rhythm. The Reds got their win yesterday. Now it's Washington's turn to respond at home."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Tomorrow's Top Pick - August 9",
+      "value": "Washington Nationals over Cincinnati Reds",
+      "sub": "60% win probability • Brad Lord vs Brady Singer • Home advantage matters"
+    },
+    {
+      "type": "text",
+      "value": "## The Veteran's Take\n\nLook, a 7-8 day isn't going to make anybody's highlight reel. But this is a long season, and I've seen hot streaks follow cold days more times than I can count. The model isn't broken—we just ran into one of those days where the coin flips didn't go our way.\n\nTomorrow we get back at it with the Nationals. Sometimes the best response to a tough day is a simple, solid pick with reasonable confidence. No need to overthink it.\n\nSee you at first pitch."
+    }
+  ],
+  "slug": "2026-08-08-daily-max",
+  "author": "Max",
+  "author_emoji": "📰",
+  "author_role": "Senior Reporter",
+  "author_color": "#16A34A",
+  "date": "2026-08-08",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#16A34A"
+}
