@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-08T23:50:51.615887+00:00",
+  "updated_at": "2026-08-09T00:00:37.153325+00:00",
   "news": [
+    {
+      "title": "Yanks' past, present, future coincide as Cole hits milestone -- and kids steal show",
+      "link": "https://www.mlb.com/news/gerrit-cole-picks-up-1-000th-strikeout-as-a-yankee",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786218475/mlb/i7e7bwvkxyraozqzcuyf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-08T23:43:00+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "White Sox call up top pitching prospects Smith (No. 2) and McDougal (No. 4)",
+      "link": "https://www.mlb.com/news/hagen-smith-and-tanner-mcdougal-called-up-white-sox",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/enmvtzbguqrlfncw6bg1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-08T23:34:00+00:00",
+      "time_ago": "26m ago"
+    },
     {
       "title": "Red Sox fall to A's to snap 9-game winning streak",
       "link": "https://www.mlb.com/news/red-sox-lose-to-a-s-to-snap-9-game-winning-streak",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T23:14:44+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "Alcantara sets 3rd Marlins franchise record of '26, this time for innings pitched in shutout win",
@@ -67,19 +93,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Cole becomes fastest to 1,000 K's as a Yankee in latest dazzling start",
-      "link": "https://www.mlb.com/news/gerrit-cole-picks-up-1-000th-strikeout-as-a-yankee",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786218475/mlb/i7e7bwvkxyraozqzcuyf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-08T21:59:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Fathers and sons help honor pinstriped legacy at the Yankees' Old-Timers' Day",
       "link": "https://www.mlb.com/news/yankees-hold-2026-old-timers-day",
       "summary": "",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-08T20:04:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Tommy John shares message thanking fans and teammates as he battles health issues",
-      "link": "https://www.mlb.com/news/tommy-john-misses-old-timers-day-for-health-reasons",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786218234/mlb/il4utnxbuccnkxfpxrdo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-08T20:02:00+00:00",
       "time_ago": "3h ago"
     }
   ]
