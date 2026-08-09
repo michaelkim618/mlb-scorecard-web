@@ -5821,6 +5821,27 @@
       "actual_winner": "Tampa Bay Rays",
       "correct": false,
       "high_conf": false
+    },
+    {
+      "date": "2026-08-09",
+      "away": "Cincinnati Reds",
+      "home": "Washington Nationals",
+      "pick": "Washington Nationals",
+      "pick_prob": 60.0,
+      "actual_winner": "Washington Nationals",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 3.68,
+      "home_sp_era": 6.33,
+      "away_bp_era": 3.99,
+      "home_bp_era": 3.94,
+      "away_sp_score": 46.6,
+      "home_sp_score": 36.0,
+      "away_bp_score": 45.6,
+      "home_bp_score": 51.2,
+      "bat_source": "lineup"
     }
   ]
 }
