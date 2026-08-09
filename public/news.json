@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T04:47:53.029014+00:00",
+  "updated_at": "2026-08-09T04:50:26.443171+00:00",
   "news": [
     {
       "title": "Last Chance: Trade Deadline sale offers you the best deal for MLB.TV",
@@ -12,7 +12,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-09T04:41:00+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "9m ago"
     },
     {
       "title": "Mad Max passes Big Train to move into 10th on career strikeout list",
@@ -25,7 +25,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-09T04:37:00+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Wilson tossed for the 2nd time in 4 games over ABS dispute",
+      "link": "https://www.mlb.com/news/dan-wilson-ejected-during-rays-mariners-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w5yoqsradiybdu3il9wi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Josh Kirshenbaum",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-09T04:30:00+00:00",
+      "time_ago": "20m ago"
     },
     {
       "title": "5-run rally carries White Sox to win after retiring Guillen's number",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-09T04:22:00+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "28m ago"
     },
     {
       "title": "Unexpected heroes come up clutch in Brewers' gritty comeback win",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-09T04:19:00+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "31m ago"
     },
     {
       "title": "After late-inning drama, Dodgers claw back for first win in a week",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-09T03:51:43+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Put on a show, Jac! Caglianone clobbers 2 monster HRs in 4-hit night",
@@ -90,19 +103,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-09T03:43:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Resurgences from King, Merrill could be key to Padres' stretch run",
-      "link": "https://www.mlb.com/news/michael-king-jackson-merrill-lead-padres-win-over-astros",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786239716/mlb/amdebdbvunq3rblofms4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jay Paris",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-09T03:28:00+00:00",
       "time_ago": "1h ago"
     }
   ]
