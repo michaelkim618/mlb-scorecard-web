@@ -84,7 +84,7 @@ export default function SeasonStats() {
                   </div>
                 </div>
                 {/* 경기별 결과 */}
-                <div style={{ display: "flex", flexDirection: "column", gap: 4 }}>
+                <div style={{ display: "flex", flexDirection: "column", gap: 4, maxHeight: 280, overflowY: "auto", paddingRight: 2 }}>
                   {todayDone.map((g, i) => {
                     const away = g.away?.split(" ").pop() || "—";
                     const home = g.home?.split(" ").pop() || "—";
