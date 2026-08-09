@@ -1,31 +1,44 @@
 {
-  "updated_at": "2026-08-09T06:10:32.700658+00:00",
+  "updated_at": "2026-08-09T07:44:40.283601+00:00",
   "news": [
+    {
+      "title": "'I gotta wear the slanted hat': Baker breaks Rodney's record with 23rd consecutive save",
+      "link": "https://www.mlb.com/news/rays-bullpen-leads-way-in-win-over-mariners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f5nbpmqh1abz3oqqkykr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Luke Olson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-09T06:53:00+00:00",
+      "time_ago": "51m ago"
+    },
+    {
+      "title": "Wilson tossed for the 2nd time in 4 games as frustration mounts in Seattle",
+      "link": "https://www.mlb.com/news/dan-wilson-ejected-during-rays-mariners-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w5yoqsradiybdu3il9wi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Josh Kirshenbaum",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-09T06:11:00+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "After late-inning drama, Ohtani's go-ahead hit snaps Dodgers' 7-game skid",
       "link": "https://www.mlb.com/news/dodgers-losing-streak-ends-after-7-games",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786247158/mlb/ln9ampcrvhnhlchj89ss",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/k3ovy3urqxeaauu7vsmb",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Sonja Chen",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-09T05:11:00+00:00",
-      "time_ago": "59m ago"
-    },
-    {
-      "title": "Starter scratched? No problem for Rays' 'pen in win over Mariners",
-      "link": "https://www.mlb.com/news/rays-bullpen-leads-way-in-win-over-mariners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ee8r1kqufsgnavl99qps",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Luke Olson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-09T04:59:34+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Last Chance: Trade Deadline sale offers you the best deal for MLB.TV",
@@ -38,7 +51,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-09T04:41:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Mad Max passes Big Train to move into 10th on career strikeout list",
@@ -51,20 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-09T04:37:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Wilson tossed for the 2nd time in 4 games over ABS dispute",
-      "link": "https://www.mlb.com/news/dan-wilson-ejected-during-rays-mariners-game",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w5yoqsradiybdu3il9wi",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Josh Kirshenbaum",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-09T04:30:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "5-run rally carries White Sox to win after retiring Guillen's number",
@@ -77,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-09T04:22:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Unexpected heroes come up clutch in Brewers' gritty comeback win",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-09T04:19:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Put on a show, Jac! Caglianone clobbers 2 monster HRs in 4-hit night",
@@ -103,7 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-09T03:44:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
