@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T19:22:03.521876+00:00",
+  "updated_at": "2026-08-09T19:50:25.735181+00:00",
   "news": [
     {
       "title": "Overhauled 'pen steps up again as Nats complete first sweep since April",
@@ -11,8 +11,34 @@
       "author": "Jessica Camerato",
       "tag": "Injury",
       "tag_color": "#DC2626",
-      "pub_date": "2026-08-09T19:11:23+00:00",
-      "time_ago": "10m ago"
+      "pub_date": "2026-08-09T19:43:00+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Schlittler rebounds from worst start of '26 with one of his best vs. Braves",
+      "link": "https://www.mlb.com/news/cam-schlittler-pitches-7-strong-innings-against-braves",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786303769/mlb/vrzqdptr58bfileehxs9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-09T19:36:28+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Miz becomes 2nd-fastest pitcher in MLB history to 200 K's in single season",
+      "link": "https://www.mlb.com/news/jacob-misiorowski-notches-200th-strikeout-of-season-vs-twins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ysrdeay4ue4y7lgxkx7f",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Casey Drottar",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-09T19:20:04+00:00",
+      "time_ago": "30m ago"
     },
     {
       "title": "Padres sign outfielder Austin Hays (source)",
@@ -25,20 +51,20 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-09T19:08:55+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "41m ago"
     },
     {
-      "title": "A day after disputed balk call, Sale gets ejected before finale vs. Yankees",
+      "title": "Chris Sale -- who is not pitching today -- ejected before game vs. Yankees",
       "link": "https://www.mlb.com/news/chris-sale-ejected-before-game-against-yankees",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786222128/mlb/vaoxacpzrknkz9besfst",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Bill Ladson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
       "pub_date": "2026-08-09T18:43:00+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Pratt (hamstring strain) placed on 10-day IL",
@@ -51,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-09T18:26:50+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Benge (left wrist) returns to Mets' lineup Sunday",
@@ -78,32 +104,6 @@
       "tag_color": "#D97706",
       "pub_date": "2026-08-09T14:04:28+00:00",
       "time_ago": "5h ago"
-    },
-    {
-      "title": "After late-inning drama, Ohtani's go-ahead hit snaps Dodgers' 7-game skid",
-      "link": "https://www.mlb.com/news/dodgers-losing-streak-ends-after-7-games",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/k3ovy3urqxeaauu7vsmb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-09T05:11:00+00:00",
-      "time_ago": "14h ago"
-    },
-    {
-      "title": "Last Chance: Trade Deadline sale offers you the best deal for MLB.TV",
-      "link": "https://www.mlb.com/news/mlb-tv-trade-deadline-2026-sale",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mmxantvtnfmrwqlgq5pk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-08-09T04:41:00+00:00",
-      "time_ago": "14h ago"
     }
   ]
 }
