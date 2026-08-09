@@ -213,8 +213,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 65.4,
-      "home": 34.6
+      "away": 62.0,
+      "home": 38.0
     },
     "expected_score": {
       "away": 1.6,
@@ -299,7 +299,7 @@
           }
         },
         "sit_score": 43.7,
-        "total": 46.2
+        "total": 44.0
       },
       "home": {
         "sp_score": 36.0,
@@ -390,7 +390,7 @@
     "model_correct": null,
     "notes": "Cincinnati Reds IL: Blake Dunn, Brandon Williamson, Graham Ashcraft, Hunter Greene, Nick Lodolo 외 다수 / Washington Nationals IL: Connelly Early, DJ Herz, Drew Millas, James Wood, Josiah Gray 외 다수",
     "kalshi_prob": 51.0,
-    "edge": -16.4,
+    "edge": -13.0,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Washington Nationals)",
     "extreme_edge": false,
     "consensus": false
@@ -695,7 +695,7 @@
           }
         },
         "sit_score": 46.4,
-        "total": 31.5
+        "total": 30.1
       },
       "home": {
         "sp_score": 48.0,
@@ -1487,7 +1487,7 @@
           }
         },
         "sit_score": 47.6,
-        "total": 29.0
+        "total": 26.1
       },
       "home": {
         "sp_score": 70.5,
@@ -1577,8 +1577,8 @@
     "model_winner": "Philadelphia Phillies",
     "model_correct": null,
     "notes": "Toronto Blue Jays IL: Addison Barger, Anthony Santander, Bowden Francis, Cody Ponce, Joe Mantiply 외 다수 / Philadelphia Phillies IL: Adolis García, Brad Keller, Johan Rojas, Rafael Marchán, Tanner Banks",
-    "kalshi_prob": 67.0,
-    "edge": -4.0,
+    "kalshi_prob": 68.0,
+    "edge": -5.0,
     "value_bet": "⭐ 고신뢰 예측 — 모델·시장 동의 (Philadelphia Phillies 63%)",
     "extreme_edge": false,
     "consensus": true
@@ -2193,8 +2193,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 43.9,
-      "home": 56.1
+      "away": 40.1,
+      "home": 59.9
     },
     "expected_score": {
       "away": 1.2,
@@ -2279,7 +2279,7 @@
           }
         },
         "sit_score": 40.3,
-        "total": 39.0
+        "total": 36.2
       },
       "home": {
         "sp_score": 32.0,
@@ -2370,7 +2370,7 @@
     "model_correct": null,
     "notes": "Los Angeles Angels IL: Anthony Rendon, Jack Kochanowicz, Robert Stephenson, Sam Bachman, Sebastián Rivero 외 다수 / Miami Marlins IL: Adam Mazur, Andrew Nardi, Anthony Bender, Max Meyer, Robby Snelling 외 다수",
     "kalshi_prob": 57.0,
-    "edge": -0.9,
+    "edge": 2.9,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -2985,8 +2985,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 62.900000000000006,
-      "home": 37.1
+      "away": 64.5,
+      "home": 35.5
     },
     "expected_score": {
       "away": 2.3,
@@ -3137,7 +3137,7 @@
           }
         },
         "sit_score": 63.8,
-        "total": 31.3
+        "total": 30.0
       }
     },
     "scores": {
@@ -3162,7 +3162,7 @@
     "model_correct": null,
     "notes": "Cleveland Guardians IL: Shawn Armstrong, Slade Cecconi / Chicago White Sox IL: Brooks Baldwin, Chris Murphy, Drew Thorpe, Joey Bart, Jordan Leasure 외 다수",
     "kalshi_prob": 46.0,
-    "edge": -8.9,
+    "edge": -10.5,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Chicago White Sox)",
     "extreme_edge": false,
     "consensus": false
@@ -4173,8 +4173,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 37.2,
-      "home": 62.8
+      "away": 38.0,
+      "home": 62.0
     },
     "expected_score": {
       "away": 0.7,
@@ -4259,7 +4259,7 @@
           }
         },
         "sit_score": 40.7,
-        "total": 33.5
+        "total": 30.2
       },
       "home": {
         "sp_score": 34.1,
@@ -4325,7 +4325,7 @@
           }
         },
         "sit_score": 61.1,
-        "total": 41.5
+        "total": 39.0
       }
     },
     "scores": {
@@ -4350,7 +4350,7 @@
     "model_correct": null,
     "notes": "Baltimore Orioles IL: Blaze Alexander, Chris Bassitt, Colin Selby, Félix Bautista, Jordan Westburg 외 다수 / Texas Rangers IL: Carter Baumler, Danny Jansen, Jack Leiter, Jakob Junis, Jalen Beeks 외 다수",
     "kalshi_prob": 54.0,
-    "edge": 8.8,
+    "edge": 8.0,
     "value_bet": "⚠️ VB주의(선발Cold) — ✅ Value Bet 후보 (Texas Rangers)",
     "extreme_edge": false,
     "consensus": false
@@ -4721,7 +4721,7 @@
           }
         },
         "sit_score": 43.3,
-        "total": 41.7
+        "total": 39.3
       }
     },
     "scores": {
@@ -5361,8 +5361,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 42.5,
-      "home": 57.5
+      "away": 44.3,
+      "home": 55.7
     },
     "expected_score": {
       "away": 2.0,
@@ -5513,7 +5513,7 @@
           }
         },
         "sit_score": 46.6,
-        "total": 49.8
+        "total": 48.5
       }
     },
     "scores": {
@@ -5538,7 +5538,7 @@
     "model_correct": null,
     "notes": "Tampa Bay Rays IL: Ben Williamson, Cole Sulser, Edwin Uceta, Gavin Lux, Jake Fraley 외 다수 / Seattle Mariners IL: Carlos Vargas, Cole Wilcox, Cooper Criswell, J.P. Crawford, Logan Evans 외 다수",
     "kalshi_prob": 50.0,
-    "edge": 7.5,
+    "edge": 5.7,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
