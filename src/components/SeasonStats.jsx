@@ -84,13 +84,21 @@ export default function SeasonStats() {
                   </div>
                 </div>
                 {/* 경기별 결과 */}
-                <div style={{ display: "flex", flexDirection: "column", gap: 4, maxHeight: 280, overflowY: "auto", paddingRight: 2 }}>
+                <div style={{ display: "flex", flexDirection: "column", gap: 4, maxHeight: 108, overflowY: "auto", paddingRight: 2 }}>
                   {todayDone.map((g, i) => {
                     const away = g.away?.split(" ").pop() || "—";
                     const home = g.home?.split(" ").pop() || "—";
                     const pick = g.model_winner?.split(" ").pop() || "—";
+                    const cardId = `game-${away}-${home}`.toLowerCase().replace(/[^a-z0-9-]/g, "");
+                    const scrollToCard = () => {
+                      const el = document.getElementById(cardId);
+                      if (el) el.scrollIntoView({ behavior: "smooth", block: "center" });
+                    };
                     return (
-                      <div key={i} style={{ display: "flex", alignItems: "center", justifyContent: "space-between", padding: "5px 10px", borderRadius: 6, background: "var(--color-canvas-muted)" }}>
+                      <div key={i} onClick={scrollToCard} style={{ display: "flex", alignItems: "center", justifyContent: "space-between", padding: "5px 10px", borderRadius: 6, background: "var(--color-canvas-muted)", cursor: "pointer" }}
+                        onMouseEnter={e => e.currentTarget.style.background = "#E2E8F0"}
+                        onMouseLeave={e => e.currentTarget.style.background = "var(--color-canvas-muted)"}
+                      >
                         <span style={{ fontSize: 12, color: "var(--color-ink)", fontWeight: 600 }}>{away} @ {home}</span>
                         <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
                           <span style={{ fontSize: 11, color: "var(--color-muted)" }}>Pick: <b>{pick}</b></span>

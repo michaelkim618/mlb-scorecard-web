@@ -595,8 +595,10 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
   const hasScore  = game.actual_winner != null &&
                     awayScore !== null && awayScore !== undefined;
 
+  const cardId = `game-${awayName.split(" ").pop()}-${homeName.split(" ").pop()}`.toLowerCase().replace(/[^a-z0-9-]/g, "");
+
   return (
-    <div style={{ borderRadius: "var(--radius-md)", overflow: "hidden", background: "#fff", boxShadow: "var(--shadow-sm)", border: `1px solid var(--color-border)`, borderLeft: `4px solid ${isHighConf ? "#F59E0B" : pickColor}` }}>
+    <div id={cardId} style={{ borderRadius: "var(--radius-md)", overflow: "hidden", background: "#fff", boxShadow: "var(--shadow-sm)", border: `1px solid var(--color-border)`, borderLeft: `4px solid ${isHighConf ? "#F59E0B" : pickColor}` }}>
 
       {/* ── Premium banner ── */}
       {isHighConf && (
