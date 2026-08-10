@@ -775,7 +775,7 @@
       "home_defense": 63.3
     },
     "actual_score": {
-      "away": 2,
+      "away": 4,
       "home": 3
     },
     "lineup_confirmed": true,
@@ -1173,7 +1173,7 @@
       "home_defense": 48.8
     },
     "actual_score": {
-      "away": 10,
+      "away": 11,
       "home": 1
     },
     "lineup_confirmed": true,
@@ -1571,8 +1571,8 @@
       "home_defense": 64.2
     },
     "actual_score": {
-      "away": 2,
-      "home": 4
+      "away": 6,
+      "home": 7
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -1969,8 +1969,8 @@
       "home_defense": 71.0
     },
     "actual_score": {
-      "away": 0,
-      "home": 0
+      "away": 2,
+      "home": 1
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -2367,8 +2367,8 @@
       "home_defense": 42.1
     },
     "actual_score": {
-      "away": 2,
-      "home": 4
+      "away": 3,
+      "home": 12
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -2765,8 +2765,8 @@
       "home_defense": 48.6
     },
     "actual_score": {
-      "away": 3,
-      "home": 0
+      "away": 10,
+      "home": 2
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -3163,8 +3163,8 @@
       "home_defense": 55.3
     },
     "actual_score": {
-      "away": 2,
-      "home": 1
+      "away": 3,
+      "home": 5
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -3561,8 +3561,8 @@
       "home_defense": 68.8
     },
     "actual_score": {
-      "away": 0,
-      "home": 1
+      "away": 3,
+      "home": 4
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -3959,8 +3959,8 @@
       "home_defense": 46.0
     },
     "actual_score": {
-      "away": 1,
-      "home": 1
+      "away": 4,
+      "home": 7
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -4357,8 +4357,8 @@
       "home_defense": 47.5
     },
     "actual_score": {
-      "away": 3,
-      "home": 0
+      "away": 10,
+      "home": 5
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -4755,8 +4755,8 @@
       "home_defense": 55.5
     },
     "actual_score": {
-      "away": 0,
-      "home": 0
+      "away": 3,
+      "home": 1
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -5153,8 +5153,8 @@
       "home_defense": 58.7
     },
     "actual_score": {
-      "away": 0,
-      "home": 0
+      "away": 2,
+      "home": 4
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -5551,8 +5551,8 @@
       "home_defense": 52.8
     },
     "actual_score": {
-      "away": 0,
-      "home": 0
+      "away": 4,
+      "home": 1
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -5949,8 +5949,8 @@
       "home_defense": 53.2
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 2,
+      "home": 7
     },
     "lineup_confirmed": false,
     "sp_tbd": {
@@ -5959,9 +5959,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "San Diego Padres",
     "model_winner": "Houston Astros",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Houston Astros IL: Brandon Walter, Brice Matthews, Carlos Correa, Mike Burrows / San Diego Padres IL: Bryan Hoeing, David Morgan, Jason Adam, Joe Musgrove, Lucas Giolito 외 다수",
     "kalshi_prob": 53.0,
     "edge": -9.7,
