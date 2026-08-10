@@ -124,41 +124,47 @@ export default function Hero() {
   const pickAbbr   = pickIsHome ? homeAbbr  : awayAbbr;
   const pickPct    = pickIsHome ? homePct   : awayPct;
 
-  /* 픽팀 SP — cold면 상대(좋은) 투수를 Hero로 교체 */
-  const rawPickSpDetail  = pickIsHome
+  /* ── Hero 선수 선정 로직 ──────────────────────────────────────
+     규칙 1: 항상 예측 승리팀(픽팀)에서 선정
+     규칙 2: 픽팀 SP가 HOT → SP를 Hero로
+             SP가 HOT이 아님 → lineup_players 중 OPS 최고 타자를 Hero로
+  ─────────────────────────────────────────────────────────── */
+  const pickSpDetail = pickIsHome
     ? topGame.scorecard?.home?.sp_detail
     : topGame.scorecard?.away?.sp_detail;
-  const rawPickTrend     = rawPickSpDetail?.trend ?? "stable";
-
-  // cold SP일 때는 상대 투수를 featured로 사용 (단, 상대도 cold면 그냥 픽팀 유지)
-  const oppSpDetailRaw   = pickIsHome
+  const oppSpDetail  = pickIsHome
     ? topGame.scorecard?.away?.sp_detail
     : topGame.scorecard?.home?.sp_detail;
-  const oppTrendRaw      = oppSpDetailRaw?.trend ?? "stable";
-  const useOppAsFeatured = rawPickTrend === "cold" && oppTrendRaw !== "cold";
 
-  const pickPitcherName  = useOppAsFeatured
-    ? (pickIsHome ? (topGame.away_pitcher || "TBD") : (topGame.home_pitcher || "TBD"))
-    : (pickIsHome ? (topGame.home_pitcher || "TBD") : (topGame.away_pitcher || "TBD"));
-  const oppPitcherName   = useOppAsFeatured
-    ? (pickIsHome ? (topGame.home_pitcher || "TBD") : (topGame.away_pitcher || "TBD"))
-    : (pickIsHome ? (topGame.away_pitcher || "TBD") : (topGame.home_pitcher || "TBD"));
+  const pickTrend  = pickSpDetail?.trend ?? "stable";
+  const oppTrend   = oppSpDetail?.trend  ?? "stable";
 
-  const pickSpDetail     = useOppAsFeatured ? oppSpDetailRaw  : rawPickSpDetail;
-  const oppSpDetail      = useOppAsFeatured ? rawPickSpDetail : oppSpDetailRaw;
+  const pickPitcherName = pickIsHome ? (topGame.home_pitcher || "TBD") : (topGame.away_pitcher || "TBD");
+  const oppPitcherName  = pickIsHome ? (topGame.away_pitcher || "TBD") : (topGame.home_pitcher || "TBD");
 
-  // Hero 투수 ID (사진용)
-  const featuredPitcherId = useOppAsFeatured
-    ? (pickIsHome ? topGame.away_pitcher_id : topGame.home_pitcher_id)
-    : (pickIsHome ? topGame.home_pitcher_id : topGame.away_pitcher_id);
+  // 픽팀 lineup_players에서 OPS 최고 타자
+  const pickBatDetail = pickIsHome
+    ? topGame.scorecard?.home?.bat_detail
+    : topGame.scorecard?.away?.bat_detail;
+  const pickLineupPlayers = pickBatDetail?.lineup_players ?? [];
+  const bestBatter = pickLineupPlayers.length > 0
+    ? pickLineupPlayers.reduce((best, p) => (p.ops > best.ops ? p : best), pickLineupPlayers[0])
+    : null;
+
+  // SP hot → 투수가 Hero / 아니면 최고 타자가 Hero
+  const heroIsPitcher = pickTrend === "hot";
+  const heroName      = heroIsPitcher ? pickPitcherName : (bestBatter?.name ?? pickPitcherName);
+  const heroId        = heroIsPitcher
+    ? (pickIsHome ? topGame.home_pitcher_id : topGame.away_pitcher_id)
+    : (bestBatter?.id ?? (pickIsHome ? topGame.home_pitcher_id : topGame.away_pitcher_id));
+  const heroRole      = heroIsPitcher ? "SP" : "BAT";
+  const heroOps       = heroIsPitcher ? null : (bestBatter?.ops ?? null);
 
   const pickEraRaw = pickSpDetail?.era  ?? topGame[pickIsHome ? "home_pitcher_stats" : "away_pitcher_stats"]?.era ?? "--";
   const pickWhip   = pickSpDetail?.whip ?? "--";
   const pickK9     = pickSpDetail?.k9   ?? "--";
-  const pickTrend  = pickSpDetail?.trend ?? "stable";
 
   const oppEraRaw  = oppSpDetail?.era   ?? topGame[pickIsHome ? "away_pitcher_stats" : "home_pitcher_stats"]?.era ?? "--";
-  const oppTrend   = oppSpDetail?.trend ?? "stable";
 
   /* ERA 표시 포맷 (2.85 → value="2" frac=".85") */
   function splitEra(raw) {
@@ -198,8 +204,8 @@ export default function Hero() {
   const pickCityFull = TEAM_CITY[pickAbbr] || "";
   const pickNickFull = TEAM_NICKNAME[pickAbbr] || "";
 
-  /* 첫자/성 분리 */
-  const nameParts = pickPitcherName.split(" ");
+  /* 첫자/성 분리 (Hero 선수 이름 기준) */
+  const nameParts = heroName.split(" ");
   const spFirst = nameParts[0] || "";
   const spLast  = nameParts.slice(1).join(" ") || "";
 
@@ -258,33 +264,50 @@ export default function Hero() {
             filter:"blur(20px)",
           }} />
           <img
-            src={`https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/w_320,q_auto:best/v1/people/${featuredPitcherId || "1"}/headshot/silo/current`}
-            alt={pickPitcherName}
+            src={`https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/w_320,q_auto:best/v1/people/${heroId || "1"}/headshot/silo/current`}
+            alt={heroName}
             style={{ width:180, height:180, objectFit:"contain", objectPosition:"center top", display:"block", filter:"drop-shadow(0 8px 16px rgba(0,0,0,0.18))", position:"relative" }}
             onError={e => { e.target.onerror = null; }}
           />
         </div>
 
-        {/* SP name + trend badge */}
+        {/* Hero name + role badge */}
         <div style={{ textAlign:"center", marginBottom:14 }}>
           <div style={{ fontFamily:"var(--font-display)", fontWeight:800, fontSize:22, color:"var(--color-ink)", letterSpacing:"-0.5px" }}>
-            {pickPitcherName}
+            {heroName}
           </div>
           <div style={{ display:"inline-flex", alignItems:"center", gap:6, marginTop:6, padding:"4px 12px", border:"1px solid var(--color-border)", borderRadius:"var(--radius-full)" }}>
-            <span style={{ fontSize:11, color:"var(--color-muted)" }}>SP · Starting Pitcher</span>
-            <span style={{ fontSize:10, fontWeight:700, padding:"2px 7px", background:pickBadge.bg, color:pickBadge.fg, borderRadius:"var(--radius-full)" }}>
-              {pickBadge.label}
-            </span>
+            {heroIsPitcher ? (
+              <>
+                <span style={{ fontSize:11, color:"var(--color-muted)" }}>SP · Starting Pitcher</span>
+                <span style={{ fontSize:10, fontWeight:700, padding:"2px 7px", background:trendBadge(pickTrend).bg, color:trendBadge(pickTrend).fg, borderRadius:"var(--radius-full)" }}>
+                  {trendBadge(pickTrend).label}
+                </span>
+              </>
+            ) : (
+              <>
+                <span style={{ fontSize:11, color:"var(--color-muted)" }}>🔥 Hot Batter</span>
+                {heroOps && (
+                  <span style={{ fontSize:10, fontWeight:700, padding:"2px 7px", background:"#F0FDF4", color:"#166534", borderRadius:"var(--radius-full)" }}>
+                    OPS {heroOps.toFixed(3)}
+                  </span>
+                )}
+              </>
+            )}
           </div>
         </div>
 
-        {/* Stats row: ERA | K/9 | WHIP */}
+        {/* Stats row: 투수면 ERA/K9/WHIP, 타자면 OPS/AVG/RPG */}
         <div style={{ display:"grid", gridTemplateColumns:"1fr 1fr 1fr", gap:8, marginBottom:14 }}>
-          {[
+          {(heroIsPitcher ? [
             { label:"ERA", value: typeof pickEraRaw === "number" ? pickEraRaw.toFixed(2) : pickEraRaw },
             { label:"K/9", value: typeof pickK9 === "number" ? pickK9.toFixed(1) : pickK9 },
             { label:"WHIP", value: typeof pickWhip === "number" ? pickWhip.toFixed(2) : pickWhip },
-          ].map(({ label, value }) => (
+          ] : [
+            { label:"OPS", value: heroOps ? heroOps.toFixed(3) : "--" },
+            { label:"AVG", value: bestBatter?.avg ? bestBatter.avg.toFixed(3) : "--" },
+            { label:"", value: "" },
+          ]).map(({ label, value }) => (
             <div key={label} style={{
               background:`${pickColor_}12`, borderRadius:12, padding:"10px 8px",
               textAlign:"center", border:`1px solid ${pickColor_}25`,
@@ -408,8 +431,8 @@ export default function Hero() {
           }} />
           {/* headshot silo — 얼굴+어깨, 투명배경 */}
           <img
-            src={`https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/w_640,q_auto:best/v1/people/${featuredPitcherId || "1"}/headshot/silo/current`}
-            alt={pickPitcherName}
+            src={`https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/w_640,q_auto:best/v1/people/${heroId || "1"}/headshot/silo/current`}
+            alt={heroName}
             style={{
               width:"100%",
               height:480,
@@ -450,12 +473,25 @@ export default function Hero() {
             </div>
           </div>
 
-          {/* 포지션 + 트렌드 */}
+          {/* 포지션/역할 + 트렌드 */}
           <div style={{ display:"inline-flex", alignItems:"center", gap:8, padding:"6px 14px", border:"1px solid var(--color-border)", borderRadius:"var(--radius-full)" }}>
-            <span className="t-caption" style={{ color:"var(--color-muted)" }}>SP · Starting Pitcher</span>
-            <span style={{ fontSize:10, fontWeight:700, padding:"2px 8px", background:pickBadge.bg, color:pickBadge.fg, borderRadius:"var(--radius-full)" }}>
-              {pickBadge.label}
-            </span>
+            {heroIsPitcher ? (
+              <>
+                <span className="t-caption" style={{ color:"var(--color-muted)" }}>SP · Starting Pitcher</span>
+                <span style={{ fontSize:10, fontWeight:700, padding:"2px 8px", background:trendBadge(pickTrend).bg, color:trendBadge(pickTrend).fg, borderRadius:"var(--radius-full)" }}>
+                  {trendBadge(pickTrend).label}
+                </span>
+              </>
+            ) : (
+              <>
+                <span className="t-caption" style={{ color:"var(--color-muted)" }}>🔥 Hot Batter</span>
+                {heroOps && (
+                  <span style={{ fontSize:10, fontWeight:700, padding:"2px 8px", background:"#F0FDF4", color:"#166534", borderRadius:"var(--radius-full)" }}>
+                    OPS {heroOps.toFixed(3)}
+                  </span>
+                )}
+              </>
+            )}
           </div>
         </div>
 
@@ -463,12 +499,17 @@ export default function Hero() {
         <div style={{ position:"absolute", right:32, top:36, width:272, zIndex:2 }}>
           {/* 매치업 팩트 그리드 */}
           <div style={{ display:"grid", gridTemplateColumns:"1fr 1fr", gap:16, marginBottom:20 }}>
-            {[
+            {(heroIsPitcher ? [
               { label:"ERA (Season)", value: typeof pickEraRaw === "number" ? pickEraRaw.toFixed(2) : pickEraRaw },
               { label:"K/9",          value: typeof pickK9 === "number" ? pickK9.toFixed(1) : pickK9 },
               { label:"Opponent",    value: oppAbbr, sub: oppCity, color: pickIsHome ? awayColor : homeColor },
               { label:"Season",      value:`${pickW}-${pickL}` },
-            ].map((f, i) => (
+            ] : [
+              { label:"OPS (Blended)", value: heroOps ? heroOps.toFixed(3) : "--" },
+              { label:"AVG (Recent)", value: bestBatter?.avg ? bestBatter.avg.toFixed(3) : "--" },
+              { label:"Opponent",    value: oppAbbr, sub: oppCity, color: pickIsHome ? awayColor : homeColor },
+              { label:"Season",      value:`${pickW}-${pickL}` },
+            ]).map((f, i) => (
               <div key={i}>
                 <div style={{ fontSize:9, fontWeight:700, color:"var(--color-subtle)", textTransform:"uppercase", letterSpacing:"0.8px", marginBottom:4 }}>
                   {f.label}

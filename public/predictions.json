@@ -286,6 +286,62 @@
             "Eli White(0.736)",
             "Jake Rogers(0.654)"
           ],
+          "lineup_players": [
+            {
+              "id": 686765,
+              "name": "Nick Sogard",
+              "ops": 0.706,
+              "avg": 0.25
+            },
+            {
+              "id": 678882,
+              "name": "Ceddanne Rafaela",
+              "ops": 0.879,
+              "avg": 0.326
+            },
+            {
+              "id": 677800,
+              "name": "Wilyer Abreu",
+              "ops": 0.965,
+              "avg": 0.297
+            },
+            {
+              "id": 575929,
+              "name": "Willson Contreras",
+              "ops": 0.842,
+              "avg": 0.25
+            },
+            {
+              "id": 655316,
+              "name": "Andruw Monasterio",
+              "ops": 0.773,
+              "avg": 0.308
+            },
+            {
+              "id": 678011,
+              "name": "Anthony Seigler",
+              "ops": 0.635,
+              "avg": 0.207
+            },
+            {
+              "id": 680776,
+              "name": "Jarren Duran",
+              "ops": 0.703,
+              "avg": 0.237
+            },
+            {
+              "id": 642201,
+              "name": "Eli White",
+              "ops": 0.736,
+              "avg": 0.375
+            },
+            {
+              "id": 668670,
+              "name": "Jake Rogers",
+              "ops": 0.654,
+              "avg": 0.211
+            }
+          ],
           "home_split": {
             "recent_avg": 0.231,
             "runs_per_g": 3.9,
@@ -352,6 +408,62 @@
             "Myles Straw(0.623)",
             "Josh Smith(0.582)",
             "Davis Schneider(0.581)"
+          ],
+          "lineup_players": [
+            {
+              "id": 703520,
+              "name": "Brett Bateman",
+              "ops": 0.599,
+              "avg": 0.214
+            },
+            {
+              "id": 665489,
+              "name": "Vladimir Guerrero Jr.",
+              "ops": 0.65,
+              "avg": 0.205
+            },
+            {
+              "id": 672386,
+              "name": "Alejandro Kirk",
+              "ops": 0.766,
+              "avg": 0.353
+            },
+            {
+              "id": 672960,
+              "name": "Kazuma Okamoto",
+              "ops": 0.566,
+              "avg": 0.171
+            },
+            {
+              "id": 676391,
+              "name": "Ernie Clement",
+              "ops": 0.601,
+              "avg": 0.179
+            },
+            {
+              "id": 665926,
+              "name": "Andrés Giménez",
+              "ops": 0.741,
+              "avg": 0.333
+            },
+            {
+              "id": 664702,
+              "name": "Myles Straw",
+              "ops": 0.623,
+              "avg": 0.219
+            },
+            {
+              "id": 669701,
+              "name": "Josh Smith",
+              "ops": 0.582,
+              "avg": 0.167
+            },
+            {
+              "id": 676914,
+              "name": "Davis Schneider",
+              "ops": 0.581,
+              "avg": 0.091
+            }
           ],
           "home_split": {
             "recent_avg": 0.256,
@@ -684,6 +796,62 @@
             "Brett Baty(0.478)",
             "Francisco Alvarez(0.746)"
           ],
+          "lineup_players": [
+            {
+              "id": 805999,
+              "name": "A.J. Ewing",
+              "ops": 0.631,
+              "avg": 0.2
+            },
+            {
+              "id": 596019,
+              "name": "Francisco Lindor",
+              "ops": 0.766,
+              "avg": 0.275
+            },
+            {
+              "id": 666182,
+              "name": "Bo Bichette",
+              "ops": 0.774,
+              "avg": 0.333
+            },
+            {
+              "id": 701807,
+              "name": "Carson Benge",
+              "ops": 0.874,
+              "avg": 0.375
+            },
+            {
+              "id": 673357,
+              "name": "Luis Robert Jr.",
+              "ops": 0.572,
+              "avg": 0.22
+            },
+            {
+              "id": 676724,
+              "name": "Jared Young",
+              "ops": 0.8,
+              "avg": 0.281
+            },
+            {
+              "id": 543760,
+              "name": "Marcus Semien",
+              "ops": 0.717,
+              "avg": 0.242
+            },
+            {
+              "id": 683146,
+              "name": "Brett Baty",
+              "ops": 0.478,
+              "avg": 0.107
+            },
+            {
+              "id": 682626,
+              "name": "Francisco Alvarez",
+              "ops": 0.746,
+              "avg": 0.188
+            }
+          ],
           "home_split": {
             "recent_avg": 0.211,
             "runs_per_g": 3.4,
@@ -750,6 +918,62 @@
             "Mike Yastrzemski(0.865)",
             "Austin Riley(0.790)",
             "Jim Jarvis(0.551)"
+          ],
+          "lineup_players": [
+            {
+              "id": 686948,
+              "name": "Drake Baldwin",
+              "ops": 0.603,
+              "avg": 0.171
+            },
+            {
+              "id": 660670,
+              "name": "Ronald Acuña Jr.",
+              "ops": 0.84,
+              "avg": 0.244
+            },
+            {
+              "id": 621566,
+              "name": "Matt Olson",
+              "ops": 1.055,
+              "avg": 0.297
+            },
+            {
+              "id": 671739,
+              "name": "Michael Harris II",
+              "ops": 0.794,
+              "avg": 0.27
+            },
+            {
+              "id": 645277,
+              "name": "Ozzie Albies",
+              "ops": 0.706,
+              "avg": 0.242
+            },
+            {
+              "id": 642086,
+              "name": "Dominic Smith",
+              "ops": 0.724,
+              "avg": 0.28
+            },
+            {
+              "id": 573262,
+              "name": "Mike Yastrzemski",
+              "ops": 0.865,
+              "avg": 0.273
+            },
+            {
+              "id": 663586,
+              "name": "Austin Riley",
+              "ops": 0.79,
+              "avg": 0.303
+            },
+            {
+              "id": 805347,
+              "name": "Jim Jarvis",
+              "ops": 0.551,
+              "avg": 0.2
+            }
           ],
           "home_split": {
             "recent_avg": 0.293,
@@ -1082,6 +1306,62 @@
             "Colton Cowser(0.704)",
             "Carlos Narváez(0.395)"
           ],
+          "lineup_players": [
+            {
+              "id": 683002,
+              "name": "Gunnar Henderson",
+              "ops": 0.599,
+              "avg": 0.129
+            },
+            {
+              "id": 624413,
+              "name": "Pete Alonso",
+              "ops": 0.842,
+              "avg": 0.27
+            },
+            {
+              "id": 702616,
+              "name": "Jackson Holliday",
+              "ops": 0.712,
+              "avg": 0.219
+            },
+            {
+              "id": 641933,
+              "name": "Tyler O'Neill",
+              "ops": 0.965,
+              "avg": 0.292
+            },
+            {
+              "id": 687637,
+              "name": "Dylan Beavers",
+              "ops": 0.609,
+              "avg": 0.222
+            },
+            {
+              "id": 665750,
+              "name": "Leody Taveras",
+              "ops": 0.623,
+              "avg": 0.2
+            },
+            {
+              "id": 691723,
+              "name": "Coby Mayo",
+              "ops": 0.843,
+              "avg": 0.31
+            },
+            {
+              "id": 681297,
+              "name": "Colton Cowser",
+              "ops": 0.704,
+              "avg": 0.25
+            },
+            {
+              "id": 665966,
+              "name": "Carlos Narváez",
+              "ops": 0.395,
+              "avg": 0.083
+            }
+          ],
           "home_split": {
             "recent_avg": 0.261,
             "runs_per_g": 5.0,
@@ -1148,6 +1428,62 @@
             "Victor Caratini(0.538)",
             "Alan Roden(0.531)",
             "Ryan Kreidler(0.521)"
+          ],
+          "lineup_players": [
+            {
+              "id": 663616,
+              "name": "Trevor Larnach",
+              "ops": 0.676,
+              "avg": 0.133
+            },
+            {
+              "id": 668904,
+              "name": "Royce Lewis",
+              "ops": 0.891,
+              "avg": 0.366
+            },
+            {
+              "id": 605137,
+              "name": "Josh Bell",
+              "ops": 0.807,
+              "avg": 0.297
+            },
+            {
+              "id": 665019,
+              "name": "Kody Clemens",
+              "ops": 0.597,
+              "avg": 0.125
+            },
+            {
+              "id": 686797,
+              "name": "Brooks Lee",
+              "ops": 0.635,
+              "avg": 0.162
+            },
+            {
+              "id": 807712,
+              "name": "Luke Keaschall",
+              "ops": 0.799,
+              "avg": 0.306
+            },
+            {
+              "id": 605170,
+              "name": "Victor Caratini",
+              "ops": 0.538,
+              "avg": 0.154
+            },
+            {
+              "id": 702176,
+              "name": "Alan Roden",
+              "ops": 0.531,
+              "avg": 0.176
+            },
+            {
+              "id": 668952,
+              "name": "Ryan Kreidler",
+              "ops": 0.521,
+              "avg": 0.167
+            }
           ],
           "home_split": {
             "recent_avg": 0.244,
@@ -1480,6 +1816,62 @@
             "Alec Bohm(0.617)",
             "Justin Crawford(0.811)"
           ],
+          "lineup_players": [
+            {
+              "id": 656941,
+              "name": "Kyle Schwarber",
+              "ops": 0.853,
+              "avg": 0.188
+            },
+            {
+              "id": 607208,
+              "name": "Trea Turner",
+              "ops": 0.749,
+              "avg": 0.295
+            },
+            {
+              "id": 547180,
+              "name": "Bryce Harper",
+              "ops": 0.983,
+              "avg": 0.294
+            },
+            {
+              "id": 650333,
+              "name": "Luis Arraez",
+              "ops": 0.736,
+              "avg": 0.273
+            },
+            {
+              "id": 592663,
+              "name": "J.T. Realmuto",
+              "ops": 0.649,
+              "avg": 0.222
+            },
+            {
+              "id": 681082,
+              "name": "Bryson Stott",
+              "ops": 0.917,
+              "avg": 0.379
+            },
+            {
+              "id": 669016,
+              "name": "Brandon Marsh",
+              "ops": 0.65,
+              "avg": 0.216
+            },
+            {
+              "id": 664761,
+              "name": "Alec Bohm",
+              "ops": 0.617,
+              "avg": 0.243
+            },
+            {
+              "id": 702222,
+              "name": "Justin Crawford",
+              "ops": 0.811,
+              "avg": 0.37
+            }
+          ],
           "home_split": {
             "recent_avg": 0.242,
             "runs_per_g": 4.7,
@@ -1546,6 +1938,62 @@
             "Nathan Church(0.743)",
             "José Fermín(0.605)",
             "Bryan Torres(0.592)"
+          ],
+          "lineup_players": [
+            {
+              "id": 802139,
+              "name": "JJ Wetherholt",
+              "ops": 0.728,
+              "avg": 0.194
+            },
+            {
+              "id": 671056,
+              "name": "Iván Herrera",
+              "ops": 0.762,
+              "avg": 0.286
+            },
+            {
+              "id": 676475,
+              "name": "Alec Burleson",
+              "ops": 0.966,
+              "avg": 0.286
+            },
+            {
+              "id": 691023,
+              "name": "Jordan Walker",
+              "ops": 0.739,
+              "avg": 0.289
+            },
+            {
+              "id": 699625,
+              "name": "Jimmy Crooks",
+              "ops": 0.581,
+              "avg": 0.2
+            },
+            {
+              "id": 691026,
+              "name": "Masyn Winn",
+              "ops": 0.677,
+              "avg": 0.25
+            },
+            {
+              "id": 701675,
+              "name": "Nathan Church",
+              "ops": 0.743,
+              "avg": 0.343
+            },
+            {
+              "id": 665877,
+              "name": "José Fermín",
+              "ops": 0.605,
+              "avg": 0.194
+            },
+            {
+              "id": 663494,
+              "name": "Bryan Torres",
+              "ops": 0.592,
+              "avg": 0.208
+            }
           ],
           "home_split": {
             "recent_avg": 0.23,
@@ -1878,6 +2326,62 @@
             "Jonah Bride(0.500)",
             "Cam Cauley(0.508)"
           ],
+          "lineup_players": [
+            {
+              "id": 694671,
+              "name": "Wyatt Langford",
+              "ops": 0.683,
+              "avg": 0.147
+            },
+            {
+              "id": 608369,
+              "name": "Corey Seager",
+              "ops": 0.715,
+              "avg": 0.258
+            },
+            {
+              "id": 677649,
+              "name": "Ezequiel Duran",
+              "ops": 0.786,
+              "avg": 0.278
+            },
+            {
+              "id": 607043,
+              "name": "Brandon Nimmo",
+              "ops": 0.921,
+              "avg": 0.343
+            },
+            {
+              "id": 669394,
+              "name": "Jake Burger",
+              "ops": 0.643,
+              "avg": 0.233
+            },
+            {
+              "id": 679822,
+              "name": "Justin Foscue",
+              "ops": 0.623,
+              "avg": 0.133
+            },
+            {
+              "id": 553869,
+              "name": "Elias Díaz",
+              "ops": 0.627,
+              "avg": 0.16
+            },
+            {
+              "id": 681146,
+              "name": "Jonah Bride",
+              "ops": 0.5,
+              "avg": 0.25
+            },
+            {
+              "id": 695508,
+              "name": "Cam Cauley",
+              "ops": 0.508,
+              "avg": 0.136
+            }
+          ],
           "home_split": {
             "recent_avg": 0.222,
             "runs_per_g": 2.8,
@@ -1944,6 +2448,62 @@
             "Josh Lowe(0.529)",
             "Jose Siri(0.950)",
             "Adam Frazier(0.445)"
+          ],
+          "lineup_players": [
+            {
+              "id": 685133,
+              "name": "Wade Meckler",
+              "ops": 0.863,
+              "avg": 0.367
+            },
+            {
+              "id": 545361,
+              "name": "Mike Trout",
+              "ops": 0.667,
+              "avg": 0.162
+            },
+            {
+              "id": 694384,
+              "name": "Nolan Schanuel",
+              "ops": 0.733,
+              "avg": 0.229
+            },
+            {
+              "id": 687263,
+              "name": "Zach Neto",
+              "ops": 0.56,
+              "avg": 0.14
+            },
+            {
+              "id": 694208,
+              "name": "Moisés Ballesteros",
+              "ops": 0.523,
+              "avg": 0.156
+            },
+            {
+              "id": 694203,
+              "name": "Denzer Guzman",
+              "ops": 0.599,
+              "avg": 0.182
+            },
+            {
+              "id": 666139,
+              "name": "Josh Lowe",
+              "ops": 0.529,
+              "avg": 0.13
+            },
+            {
+              "id": 642350,
+              "name": "Jose Siri",
+              "ops": 0.95,
+              "avg": 0.3
+            },
+            {
+              "id": 624428,
+              "name": "Adam Frazier",
+              "ops": 0.445,
+              "avg": 0.091
+            }
           ],
           "home_split": {
             "recent_avg": 0.203,
@@ -2276,6 +2836,62 @@
             "Brett Sullivan(0.845)",
             "Ezequiel Tovar(0.634)"
           ],
+          "lineup_players": [
+            {
+              "id": 664983,
+              "name": "Jake McCarthy",
+              "ops": 0.952,
+              "avg": 0.378
+            },
+            {
+              "id": 694249,
+              "name": "Cole Carrigg",
+              "ops": 0.859,
+              "avg": 0.281
+            },
+            {
+              "id": 681198,
+              "name": "TJ Rumfield",
+              "ops": 0.758,
+              "avg": 0.308
+            },
+            {
+              "id": 696100,
+              "name": "Hunter Goodman",
+              "ops": 0.764,
+              "avg": 0.205
+            },
+            {
+              "id": 666160,
+              "name": "Mickey Moniak",
+              "ops": 0.85,
+              "avg": 0.257
+            },
+            {
+              "id": 691720,
+              "name": "Kyle Karros",
+              "ops": 0.711,
+              "avg": 0.281
+            },
+            {
+              "id": 650489,
+              "name": "Willi Castro",
+              "ops": 0.953,
+              "avg": 0.324
+            },
+            {
+              "id": 664954,
+              "name": "Brett Sullivan",
+              "ops": 0.845,
+              "avg": 0.333
+            },
+            {
+              "id": 678662,
+              "name": "Ezequiel Tovar",
+              "ops": 0.634,
+              "avg": 0.258
+            }
+          ],
           "home_split": {
             "recent_avg": 0.265,
             "runs_per_g": 4.6,
@@ -2342,6 +2958,62 @@
             "Tim Tawa(0.746)",
             "Tyler Locklear(0.832)",
             "Ryan Waldschmidt(0.783)"
+          ],
+          "lineup_players": [
+            {
+              "id": 672695,
+              "name": "Geraldo Perdomo",
+              "ops": 0.895,
+              "avg": 0.4
+            },
+            {
+              "id": 682998,
+              "name": "Corbin Carroll",
+              "ops": 0.679,
+              "avg": 0.154
+            },
+            {
+              "id": 672515,
+              "name": "Gabriel Moreno",
+              "ops": 0.756,
+              "avg": 0.244
+            },
+            {
+              "id": 606466,
+              "name": "Ketel Marte",
+              "ops": 0.635,
+              "avg": 0.143
+            },
+            {
+              "id": 571448,
+              "name": "Nolan Arenado",
+              "ops": 0.706,
+              "avg": 0.167
+            },
+            {
+              "id": 545121,
+              "name": "Ildemaro Vargas",
+              "ops": 0.77,
+              "avg": 0.28
+            },
+            {
+              "id": 694374,
+              "name": "Tim Tawa",
+              "ops": 0.746,
+              "avg": 0.297
+            },
+            {
+              "id": 682988,
+              "name": "Tyler Locklear",
+              "ops": 0.832,
+              "avg": 0.276
+            },
+            {
+              "id": 814439,
+              "name": "Ryan Waldschmidt",
+              "ops": 0.783,
+              "avg": 0.344
+            }
           ],
           "home_split": {
             "recent_avg": 0.237,
@@ -2674,6 +3346,62 @@
             "Richie Palacios(0.732)",
             "Taylor Walls(0.474)"
           ],
+          "lineup_players": [
+            {
+              "id": 650490,
+              "name": "Yandy Díaz",
+              "ops": 0.763,
+              "avg": 0.279
+            },
+            {
+              "id": 666018,
+              "name": "Jonathan Aranda",
+              "ops": 0.764,
+              "avg": 0.295
+            },
+            {
+              "id": 802415,
+              "name": "Chandler Simpson",
+              "ops": 0.771,
+              "avg": 0.41
+            },
+            {
+              "id": 691406,
+              "name": "Junior Caminero",
+              "ops": 0.91,
+              "avg": 0.222
+            },
+            {
+              "id": 689414,
+              "name": "Liam Hicks",
+              "ops": 0.831,
+              "avg": 0.294
+            },
+            {
+              "id": 683748,
+              "name": "Victor Mesa Jr.",
+              "ops": 0.658,
+              "avg": 0.176
+            },
+            {
+              "id": 656775,
+              "name": "Cedric Mullins",
+              "ops": 0.698,
+              "avg": 0.25
+            },
+            {
+              "id": 680700,
+              "name": "Richie Palacios",
+              "ops": 0.732,
+              "avg": 0.227
+            },
+            {
+              "id": 670764,
+              "name": "Taylor Walls",
+              "ops": 0.474,
+              "avg": 0.133
+            }
+          ],
           "home_split": {
             "recent_avg": 0.247,
             "runs_per_g": 4.4,
@@ -2740,6 +3468,62 @@
             "Jonathan Ornelas(0.398)",
             "Max Muncy(0.527)",
             "Jeff McNeil(0.653)"
+          ],
+          "lineup_players": [
+            {
+              "id": 703607,
+              "name": "Henry Bolte",
+              "ops": 0.795,
+              "avg": 0.324
+            },
+            {
+              "id": 805779,
+              "name": "Jacob Wilson",
+              "ops": 0.66,
+              "avg": 0.244
+            },
+            {
+              "id": 641680,
+              "name": "Jonah Heim",
+              "ops": 0.641,
+              "avg": 0.211
+            },
+            {
+              "id": 691016,
+              "name": "Tyler Soderstrom",
+              "ops": 0.836,
+              "avg": 0.243
+            },
+            {
+              "id": 695720,
+              "name": "Tommy White",
+              "ops": 0.454,
+              "avg": 0.179
+            },
+            {
+              "id": 671732,
+              "name": "Lawrence Butler",
+              "ops": 0.579,
+              "avg": 0.184
+            },
+            {
+              "id": 680716,
+              "name": "Jonathan Ornelas",
+              "ops": 0.398,
+              "avg": 0.167
+            },
+            {
+              "id": 691777,
+              "name": "Max Muncy",
+              "ops": 0.527,
+              "avg": 0.125
+            },
+            {
+              "id": 643446,
+              "name": "Jeff McNeil",
+              "ops": 0.653,
+              "avg": 0.312
+            }
           ],
           "home_split": {
             "recent_avg": 0.248,
@@ -3072,6 +3856,62 @@
             "Brandon Lockridge(0.750)",
             "David Hamilton(0.633)"
           ],
+          "lineup_players": [
+            {
+              "id": 694192,
+              "name": "Jackson Chourio",
+              "ops": 0.933,
+              "avg": 0.278
+            },
+            {
+              "id": 668930,
+              "name": "Brice Turang",
+              "ops": 0.815,
+              "avg": 0.289
+            },
+            {
+              "id": 683734,
+              "name": "Andrew Vaughn",
+              "ops": 0.779,
+              "avg": 0.241
+            },
+            {
+              "id": 661388,
+              "name": "William Contreras",
+              "ops": 0.674,
+              "avg": 0.2
+            },
+            {
+              "id": 641343,
+              "name": "Jake Bauers",
+              "ops": 1.052,
+              "avg": 0.382
+            },
+            {
+              "id": 800325,
+              "name": "Luis Lara",
+              "ops": 0.606,
+              "avg": 0.161
+            },
+            {
+              "id": 596142,
+              "name": "Gary Sánchez",
+              "ops": 0.841,
+              "avg": 0.25
+            },
+            {
+              "id": 663604,
+              "name": "Brandon Lockridge",
+              "ops": 0.75,
+              "avg": 0.348
+            },
+            {
+              "id": 666152,
+              "name": "David Hamilton",
+              "ops": 0.633,
+              "avg": 0.222
+            }
+          ],
           "home_split": {
             "recent_avg": 0.249,
             "runs_per_g": 6.2,
@@ -3138,6 +3978,62 @@
             "Gavin Sheets(0.746)",
             "Xander Bogaerts(0.649)",
             "Freddy Fermin(0.728)"
+          ],
+          "lineup_players": [
+            {
+              "id": 665487,
+              "name": "Fernando Tatis Jr.",
+              "ops": 0.839,
+              "avg": 0.25
+            },
+            {
+              "id": 630105,
+              "name": "Jake Cronenworth",
+              "ops": 0.558,
+              "avg": 0.231
+            },
+            {
+              "id": 592518,
+              "name": "Manny Machado",
+              "ops": 0.63,
+              "avg": 0.194
+            },
+            {
+              "id": 664034,
+              "name": "Ty France",
+              "ops": 0.817,
+              "avg": 0.324
+            },
+            {
+              "id": 701538,
+              "name": "Jackson Merrill",
+              "ops": 0.843,
+              "avg": 0.325
+            },
+            {
+              "id": 650859,
+              "name": "Luis Rengifo",
+              "ops": 0.617,
+              "avg": 0.257
+            },
+            {
+              "id": 657757,
+              "name": "Gavin Sheets",
+              "ops": 0.746,
+              "avg": 0.222
+            },
+            {
+              "id": 593428,
+              "name": "Xander Bogaerts",
+              "ops": 0.649,
+              "avg": 0.25
+            },
+            {
+              "id": 666023,
+              "name": "Freddy Fermin",
+              "ops": 0.728,
+              "avg": 0.367
+            }
           ],
           "home_split": {
             "recent_avg": 0.227,
@@ -3440,6 +4336,62 @@
             "Yainer Diaz(0.823)",
             "LaMonte Wade Jr.(0.730)"
           ],
+          "lineup_players": [
+            {
+              "id": 665161,
+              "name": "Jeremy Peña",
+              "ops": 0.781,
+              "avg": 0.209
+            },
+            {
+              "id": 670541,
+              "name": "Yordan Alvarez",
+              "ops": 0.946,
+              "avg": 0.289
+            },
+            {
+              "id": 670623,
+              "name": "Isaac Paredes",
+              "ops": 0.702,
+              "avg": 0.216
+            },
+            {
+              "id": 514888,
+              "name": "Jose Altuve",
+              "ops": 0.766,
+              "avg": 0.333
+            },
+            {
+              "id": 666211,
+              "name": "Taylor Trammell",
+              "ops": 0.752,
+              "avg": 0.219
+            },
+            {
+              "id": 572233,
+              "name": "Christian Walker",
+              "ops": 0.818,
+              "avg": 0.289
+            },
+            {
+              "id": 662139,
+              "name": "Daulton Varsho",
+              "ops": 0.627,
+              "avg": 0.171
+            },
+            {
+              "id": 673237,
+              "name": "Yainer Diaz",
+              "ops": 0.823,
+              "avg": 0.382
+            },
+            {
+              "id": 664774,
+              "name": "LaMonte Wade Jr.",
+              "ops": 0.73,
+              "avg": 0.292
+            }
+          ],
           "home_split": {
             "recent_avg": 0.256,
             "runs_per_g": 5.7,
@@ -3506,6 +4458,62 @@
             "Daniel Susac(0.784)",
             "Grant McCray(0.361)",
             "Christian Koss(0.372)"
+          ],
+          "lineup_players": [
+            {
+              "id": 805811,
+              "name": "Bryce Eldridge",
+              "ops": 0.618,
+              "avg": 0.205
+            },
+            {
+              "id": 808982,
+              "name": "Jung Hoo Lee",
+              "ops": 0.795,
+              "avg": 0.263
+            },
+            {
+              "id": 642715,
+              "name": "Willy Adames",
+              "ops": 0.606,
+              "avg": 0.167
+            },
+            {
+              "id": 646240,
+              "name": "Rafael Devers",
+              "ops": 0.833,
+              "avg": 0.314
+            },
+            {
+              "id": 678545,
+              "name": "Osleivis Basabe",
+              "ops": 0.847,
+              "avg": 0.258
+            },
+            {
+              "id": 687551,
+              "name": "Drew Gilbert",
+              "ops": 0.724,
+              "avg": 0.292
+            },
+            {
+              "id": 691740,
+              "name": "Daniel Susac",
+              "ops": 0.784,
+              "avg": 0.222
+            },
+            {
+              "id": 687529,
+              "name": "Grant McCray",
+              "ops": 0.361,
+              "avg": 0.05
+            },
+            {
+              "id": 683766,
+              "name": "Christian Koss",
+              "ops": 0.372,
+              "avg": 0.188
+            }
           ],
           "home_split": {
             "recent_avg": 0.231,
@@ -3838,6 +4846,62 @@
             "Luke Maile(0.816)",
             "Kyle Isbel(0.553)"
           ],
+          "lineup_players": [
+            {
+              "id": 679845,
+              "name": "Nick Loftin",
+              "ops": 0.572,
+              "avg": 0.138
+            },
+            {
+              "id": 677951,
+              "name": "Bobby Witt Jr.",
+              "ops": 0.766,
+              "avg": 0.278
+            },
+            {
+              "id": 695506,
+              "name": "Jac Caglianone",
+              "ops": 0.974,
+              "avg": 0.375
+            },
+            {
+              "id": 521692,
+              "name": "Salvador Perez",
+              "ops": 0.682,
+              "avg": 0.263
+            },
+            {
+              "id": 516782,
+              "name": "Starling Marte",
+              "ops": 0.555,
+              "avg": 0.16
+            },
+            {
+              "id": 686681,
+              "name": "Michael Massey",
+              "ops": 0.649,
+              "avg": 0.211
+            },
+            {
+              "id": 686475,
+              "name": "Tyler Tolbert",
+              "ops": 0.888,
+              "avg": 0.304
+            },
+            {
+              "id": 571912,
+              "name": "Luke Maile",
+              "ops": 0.816,
+              "avg": 0.278
+            },
+            {
+              "id": 664728,
+              "name": "Kyle Isbel",
+              "ops": 0.553,
+              "avg": 0.207
+            }
+          ],
           "home_split": {
             "recent_avg": 0.248,
             "runs_per_g": 4.1,
@@ -3904,6 +4968,62 @@
             "Teoscar Hernández(0.766)",
             "Enrique Hernández(0.842)",
             "Ben Rortvedt(0.500)"
+          ],
+          "lineup_players": [
+            {
+              "id": 660271,
+              "name": "Shohei Ohtani",
+              "ops": 1.0,
+              "avg": 0.342
+            },
+            {
+              "id": 681624,
+              "name": "Andy Pages",
+              "ops": 0.809,
+              "avg": 0.325
+            },
+            {
+              "id": 518692,
+              "name": "Freddie Freeman",
+              "ops": 0.758,
+              "avg": 0.324
+            },
+            {
+              "id": 669242,
+              "name": "Tommy Edman",
+              "ops": 0.548,
+              "avg": 0.105
+            },
+            {
+              "id": 605141,
+              "name": "Mookie Betts",
+              "ops": 0.601,
+              "avg": 0.229
+            },
+            {
+              "id": 663656,
+              "name": "Kyle Tucker",
+              "ops": 0.862,
+              "avg": 0.323
+            },
+            {
+              "id": 606192,
+              "name": "Teoscar Hernández",
+              "ops": 0.766,
+              "avg": 0.265
+            },
+            {
+              "id": 571771,
+              "name": "Enrique Hernández",
+              "ops": 0.842,
+              "avg": 0.286
+            },
+            {
+              "id": 666163,
+              "name": "Ben Rortvedt",
+              "ops": 0.5,
+              "avg": 0.25
+            }
           ],
           "home_split": {
             "recent_avg": 0.26,
