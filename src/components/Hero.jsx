@@ -124,16 +124,33 @@ export default function Hero() {
   const pickAbbr   = pickIsHome ? homeAbbr  : awayAbbr;
   const pickPct    = pickIsHome ? homePct   : awayPct;
 
-  /* 어웨이 SP (픽팀이 away면 away SP가 주인공) */
-  const pickPitcherName  = pickIsHome ? (topGame.home_pitcher || "TBD") : (topGame.away_pitcher || "TBD");
-  const oppPitcherName   = pickIsHome ? (topGame.away_pitcher || "TBD") : (topGame.home_pitcher || "TBD");
-
-  const pickSpDetail     = pickIsHome
+  /* 픽팀 SP — cold면 상대(좋은) 투수를 Hero로 교체 */
+  const rawPickSpDetail  = pickIsHome
     ? topGame.scorecard?.home?.sp_detail
     : topGame.scorecard?.away?.sp_detail;
-  const oppSpDetail      = pickIsHome
+  const rawPickTrend     = rawPickSpDetail?.trend ?? "stable";
+
+  // cold SP일 때는 상대 투수를 featured로 사용 (단, 상대도 cold면 그냥 픽팀 유지)
+  const oppSpDetailRaw   = pickIsHome
     ? topGame.scorecard?.away?.sp_detail
     : topGame.scorecard?.home?.sp_detail;
+  const oppTrendRaw      = oppSpDetailRaw?.trend ?? "stable";
+  const useOppAsFeatured = rawPickTrend === "cold" && oppTrendRaw !== "cold";
+
+  const pickPitcherName  = useOppAsFeatured
+    ? (pickIsHome ? (topGame.away_pitcher || "TBD") : (topGame.home_pitcher || "TBD"))
+    : (pickIsHome ? (topGame.home_pitcher || "TBD") : (topGame.away_pitcher || "TBD"));
+  const oppPitcherName   = useOppAsFeatured
+    ? (pickIsHome ? (topGame.home_pitcher || "TBD") : (topGame.away_pitcher || "TBD"))
+    : (pickIsHome ? (topGame.away_pitcher || "TBD") : (topGame.home_pitcher || "TBD"));
+
+  const pickSpDetail     = useOppAsFeatured ? oppSpDetailRaw  : rawPickSpDetail;
+  const oppSpDetail      = useOppAsFeatured ? rawPickSpDetail : oppSpDetailRaw;
+
+  // Hero 투수 ID (사진용)
+  const featuredPitcherId = useOppAsFeatured
+    ? (pickIsHome ? topGame.away_pitcher_id : topGame.home_pitcher_id)
+    : (pickIsHome ? topGame.home_pitcher_id : topGame.away_pitcher_id);
 
   const pickEraRaw = pickSpDetail?.era  ?? topGame[pickIsHome ? "home_pitcher_stats" : "away_pitcher_stats"]?.era ?? "--";
   const pickWhip   = pickSpDetail?.whip ?? "--";
@@ -241,7 +258,7 @@ export default function Hero() {
             filter:"blur(20px)",
           }} />
           <img
-            src={`https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/w_320,q_auto:best/v1/people/${pickIsHome ? (topGame.home_pitcher_id || "1") : (topGame.away_pitcher_id || "1")}/headshot/silo/current`}
+            src={`https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/w_320,q_auto:best/v1/people/${featuredPitcherId || "1"}/headshot/silo/current`}
             alt={pickPitcherName}
             style={{ width:180, height:180, objectFit:"contain", objectPosition:"center top", display:"block", filter:"drop-shadow(0 8px 16px rgba(0,0,0,0.18))", position:"relative" }}
             onError={e => { e.target.onerror = null; }}
@@ -391,7 +408,7 @@ export default function Hero() {
           }} />
           {/* headshot silo — 얼굴+어깨, 투명배경 */}
           <img
-            src={`https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/w_640,q_auto:best/v1/people/${pickIsHome ? (topGame.home_pitcher_id || "1") : (topGame.away_pitcher_id || "1")}/headshot/silo/current`}
+            src={`https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/w_640,q_auto:best/v1/people/${featuredPitcherId || "1"}/headshot/silo/current`}
             alt={pickPitcherName}
             style={{
               width:"100%",

@@ -391,8 +391,8 @@
     "model_winner": "Boston Red Sox",
     "model_correct": null,
     "notes": "Boston Red Sox IL: Adley Rutschman, Curtis Mead, Garrett Crochet, Isiah Kiner-Falefa, Johan Oviedo 외 다수 / Toronto Blue Jays IL: Addison Barger, Anthony Santander, Bowden Francis, Cody Ponce, Joe Mantiply 외 다수",
-    "kalshi_prob": 38.0,
-    "edge": -1.0,
+    "kalshi_prob": 41.0,
+    "edge": -4.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -789,8 +789,8 @@
     "model_winner": "Atlanta Braves",
     "model_correct": null,
     "notes": "New York Mets IL: Austin Warren, Cionel Pérez, Juan Soto, Justin Hagenman, Mark Vientos 외 다수 / Atlanta Braves IL: Joe Jiménez, Joey Wentz, Reynaldo López, Robert Suarez, Spencer Schwellenbach 외 다수",
-    "kalshi_prob": 58.0,
-    "edge": 2.4,
+    "kalshi_prob": 57.0,
+    "edge": 3.4,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -1187,8 +1187,8 @@
     "model_winner": "Baltimore Orioles",
     "model_correct": null,
     "notes": "Baltimore Orioles IL: Blaze Alexander, Chris Bassitt, Colin Selby, Félix Bautista, Jordan Westburg 외 다수 / Minnesota Twins IL: Anthony Banda, Byron Buxton, Cole Sands, David Festa, Joe Ryan 외 다수",
-    "kalshi_prob": 48.0,
-    "edge": -7.8,
+    "kalshi_prob": 47.0,
+    "edge": -6.8,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -1585,8 +1585,8 @@
     "model_winner": "St. Louis Cardinals",
     "model_correct": null,
     "notes": "Philadelphia Phillies IL: Adolis García, Brad Keller, Johan Rojas, Rafael Marchán, Tanner Banks / St. Louis Cardinals IL: Max Rajcic, Ramón Urías",
-    "kalshi_prob": 50.0,
-    "edge": 3.3,
+    "kalshi_prob": 48.0,
+    "edge": 5.3,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -1983,8 +1983,8 @@
     "model_winner": "Texas Rangers",
     "model_correct": null,
     "notes": "Texas Rangers IL: Carter Baumler, Danny Jansen, Jack Leiter, Jakob Junis, Jalen Beeks 외 다수 / Los Angeles Angels IL: Anthony Rendon, Jack Kochanowicz, Robert Stephenson, Sam Bachman, Sebastián Rivero 외 다수",
-    "kalshi_prob": 47.0,
-    "edge": -3.7,
+    "kalshi_prob": 48.0,
+    "edge": -4.7,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -2381,8 +2381,8 @@
     "model_winner": "Arizona Diamondbacks",
     "model_correct": null,
     "notes": "Colorado Rockies IL: Chase Dollander, Jaden Hill, Jeff Criswell, Jose Quintana, Kris Bryant 외 다수 / Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Blake Walston, Corbin Burnes, Cristian Mena 외 다수",
-    "kalshi_prob": 62.0,
-    "edge": 1.0,
+    "kalshi_prob": 65.0,
+    "edge": -2.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -2601,8 +2601,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 67.0,
-      "home": 33.0
+      "away": 62.0,
+      "home": 38.0
     },
     "expected_score": {
       "away": 3.0,
@@ -2780,7 +2780,7 @@
     "model_correct": null,
     "notes": "Tampa Bay Rays IL: Ben Williamson, Cole Sulser, Edwin Uceta, Gavin Lux, Griffin Jax 외 다수 / Athletics IL: Brent Rooker, Brooks Kriske, Denzel Clarke, Gunnar Hoglund, Jeffrey Springs 외 다수",
     "kalshi_prob": 40.0,
-    "edge": -7.0,
+    "edge": -2.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -3177,8 +3177,8 @@
     "model_winner": "Milwaukee Brewers",
     "model_correct": null,
     "notes": "Milwaukee Brewers IL: Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Cooper Pratt, JoJo Romero 외 다수 / San Diego Padres IL: Bryan Hoeing, David Morgan, Jason Adam, Joe Musgrove, Lucas Giolito 외 다수",
-    "kalshi_prob": 49.0,
-    "edge": -12.0,
+    "kalshi_prob": 47.0,
+    "edge": -10.0,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: San Diego Padres)",
     "extreme_edge": false,
     "consensus": false
@@ -3545,8 +3545,8 @@
     "model_winner": "Houston Astros",
     "model_correct": null,
     "notes": "Houston Astros IL: Brandon Walter, Brice Matthews, Carlos Correa, Mike Burrows / San Francisco Giants IL: Casey Schmitt, Harrison Bader, Hayden Birdsong, Jesus Rodriguez, Joel Peguero 외 다수",
-    "kalshi_prob": 40.0,
-    "edge": -3.0,
+    "kalshi_prob": 41.0,
+    "edge": -4.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -3943,8 +3943,8 @@
     "model_winner": "Los Angeles Dodgers",
     "model_correct": null,
     "notes": "Kansas City Royals IL: Alec Marsh, Beck Way, Carlos Estévez, Cole Ragans, Connor Seabold 외 다수 / Los Angeles Dodgers IL: Ben Casparius, Blake Snell, Blake Treinen, Bobby Miller, Brock Stewart 외 다수",
-    "kalshi_prob": 74.0,
-    "edge": -11.0,
+    "kalshi_prob": 71.0,
+    "edge": -8.0,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Los Angeles Dodgers)",
     "extreme_edge": false,
     "consensus": false
