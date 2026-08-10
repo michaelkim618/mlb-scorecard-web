@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T17:38:30.477760+00:00",
+  "updated_at": "2026-08-10T18:00:44.885796+00:00",
   "news": [
     {
       "title": "The postseason schedule is out. Here’s what you need to know",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-10T16:41:13+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "43-run nail-biter among wildest Minors moments from July",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-10T15:00:34+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Phillies-Cardinals clash could have major playoff implications",
@@ -64,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-08-10T14:51:31+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Red Sox have been historically hot, and that's without slew of injured stars",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-10T04:00:00+00:00",
-      "time_ago": "13h ago"
+      "time_ago": "14h ago"
     }
   ]
 }
