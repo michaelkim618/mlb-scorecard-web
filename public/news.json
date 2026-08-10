@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-10T23:19:45.510406+00:00",
+  "updated_at": "2026-08-10T23:54:26.159923+00:00",
   "news": [
+    {
+      "title": "Kilian heads to IL with moderate left oblique strain, out 'for a while'",
+      "link": "https://www.mlb.com/news/caleb-kilian-placed-on-injured-list-with-left-oblique-strain",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dnthin57fxzunf1ygbpi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jeff Jones",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-10T23:34:36+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Mets lose Williams to IL, opening door for Senga, other closer contenders",
+      "link": "https://www.mlb.com/news/devin-williams-right-shoulder-strain-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/juzfpur5z4tlnmwat2n1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-10T23:34:00+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "Buxton (hip) takes key steps toward return; Ryan tosses on flat ground",
+      "link": "https://www.mlb.com/news/byron-buxton-takes-on-field-batting-practice-runs-bases-for-first-time",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/azac6aigzhxc6goim19v",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-10T23:21:56+00:00",
+      "time_ago": "32m ago"
+    },
     {
       "title": "Rangers place Eovaldi on IL with elbow inflammation",
       "link": "https://www.mlb.com/news/nathan-eovaldi-elbow-inflammation-injured-list",
@@ -12,7 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-10T22:33:44+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Trio of prospects traded at Deadline headline latest Team of the Week",
@@ -25,7 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-10T21:23:48+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Abreu, McCarthy start August red-hot with Player of the Week honors",
@@ -38,19 +77,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-10T20:35:03+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Mets lose closer Williams to IL with shoulder strain",
-      "link": "https://www.mlb.com/news/devin-williams-right-shoulder-strain-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/juzfpur5z4tlnmwat2n1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-10T20:07:00+00:00",
       "time_ago": "3h ago"
     },
     {
@@ -64,7 +90,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-08-10T18:35:53+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "The postseason schedule is out. Here’s what you need to know",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-10T16:41:13+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "43-run nail-biter among wildest Minors moments from July",
-      "link": "https://www.mlb.com/news/crooked-numbers-july-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xegx6dw7tqeaikdggfw2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Benjamin Hill",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-10T15:25:00+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "Ranking the top 10 series clinchers in MLB history",
-      "link": "https://www.mlb.com/news/top-series-clinchers-in-baseball-history",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dhrcbct9yc4z0t6syp4y",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince",
-      "tag": "Rankings",
-      "tag_color": "#4F46E5",
-      "pub_date": "2026-08-10T15:20:54+00:00",
       "time_ago": "7h ago"
     }
   ]
