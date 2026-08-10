@@ -6094,6 +6094,27 @@
       "away_bp_score": 74.4,
       "home_bp_score": 51.4,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-09",
+      "away": "Cleveland Guardians",
+      "home": "Chicago White Sox",
+      "pick": "Chicago White Sox",
+      "pick_prob": 54.4,
+      "actual_winner": "Chicago White Sox",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 3.21,
+      "home_sp_era": 7.25,
+      "away_bp_era": 3.33,
+      "home_bp_era": 2.88,
+      "away_sp_score": 36.0,
+      "home_sp_score": 30.4,
+      "away_bp_score": 63.4,
+      "home_bp_score": 68.7,
+      "bat_source": "lineup"
     }
   ]
 }
