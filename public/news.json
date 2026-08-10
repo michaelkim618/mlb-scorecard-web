@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-08-10T16:39:17.289228+00:00",
+  "updated_at": "2026-08-10T17:38:30.477760+00:00",
   "news": [
     {
-      "title": "43-run nailbiter among wildest Minors moments from July",
+      "title": "The postseason schedule is out. Here’s what you need to know",
+      "link": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gudybhpgtsudp233m9f9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-10T16:41:13+00:00",
+      "time_ago": "57m ago"
+    },
+    {
+      "title": "43-run nail-biter among wildest Minors moments from July",
       "link": "https://www.mlb.com/news/crooked-numbers-july-2026",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xegx6dw7tqeaikdggfw2",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-10T15:25:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Ranking the top 10 series clinchers in MLB history",
@@ -25,7 +38,7 @@
       "tag": "Rankings",
       "tag_color": "#4F46E5",
       "pub_date": "2026-08-10T15:20:54+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Ichiro! Lou! Rizzs! Legends come home for packed 50 Seasons Celebration",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-10T15:00:34+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Phillies-Cardinals clash could have major playoff implications",
@@ -51,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-08-10T14:51:31+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Red Sox have been historically hot, and that's without slew of injured stars",
@@ -64,20 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-10T13:28:59+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Reds ace Burns bullish on rising Nats SS, a former Wake Forest teammate",
-      "link": "https://www.mlb.com/news/seaver-king-chase-burns-teammates-at-wake-forest",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rfez1osiejrgq3kcqxfl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jessica Camerato",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-10T13:12:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Newest Padre Hays delivers with home run in first at-bat",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-10T04:20:00+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "13h ago"
     },
     {
       "title": "MLB's highest-scoring offense is also its all-time youngest",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-10T04:00:00+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "13h ago"
     }
   ]
 }
