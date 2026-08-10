@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-08-10T11:33:40.372108+00:00",
+  "updated_at": "2026-08-10T16:39:17.289228+00:00",
   "news": [
+    {
+      "title": "43-run nailbiter among wildest Minors moments from July",
+      "link": "https://www.mlb.com/news/crooked-numbers-july-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xegx6dw7tqeaikdggfw2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Benjamin Hill",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-10T15:25:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Ranking the top 10 series clinchers in MLB history",
+      "link": "https://www.mlb.com/news/top-series-clinchers-in-baseball-history",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dhrcbct9yc4z0t6syp4y",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "Rankings",
+      "tag_color": "#4F46E5",
+      "pub_date": "2026-08-10T15:20:54+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Ichiro! Lou! Rizzs! Legends come home for packed 50 Seasons Celebration",
+      "link": "https://www.mlb.com/news/mariners-50-seasons-celebration-best-moments",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lm7dsz5bw5jkqtr86brw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Josh Kirshenbaum",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-10T15:00:34+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Phillies-Cardinals clash could have major playoff implications",
+      "link": "https://www.mlb.com/news/phillies-cardinals-series-has-nl-wild-card-implications",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sxzp9d1qa0gymrq4q4ng",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Josh Jacobs",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-08-10T14:51:31+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Red Sox have been historically hot, and that's without slew of injured stars",
+      "link": "https://www.mlb.com/news/red-sox-ready-to-welcome-back-injured-players",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786332989/mlb/nv7fktqqadt6syrvfc4q",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-10T13:28:59+00:00",
+      "time_ago": "3h ago"
+    },
+    {
+      "title": "Reds ace Burns bullish on rising Nats SS, a former Wake Forest teammate",
+      "link": "https://www.mlb.com/news/seaver-king-chase-burns-teammates-at-wake-forest",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rfez1osiejrgq3kcqxfl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jessica Camerato",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-10T13:12:00+00:00",
+      "time_ago": "3h ago"
+    },
     {
       "title": "Newest Padre Hays delivers with home run in first at-bat",
       "link": "https://www.mlb.com/news/austin-hays-padres-contract",
@@ -12,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-10T04:20:00+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "Stars come out to help lead Padres to series win over Astros",
-      "link": "https://www.mlb.com/news/padres-hit-4-home-runs-to-take-series-from-astros",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qi1o5b2saztuesuei5n3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-10T04:04:00+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "12h ago"
     },
     {
       "title": "MLB's highest-scoring offense is also its all-time youngest",
@@ -38,72 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-10T04:00:00+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "Every team’s biggest impending free agent for 2026-27",
-      "link": "https://www.mlb.com/news/baseball-s-biggest-free-agents-by-team-for-2026-2027",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/go4x7gajn0v28146tjql",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Shanthi Sepe-Chepuru, Manny Randhawa and Theo DeRosa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-10T03:38:53+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "Brewers-Dodgers clash among 5 series to watch this week",
-      "link": "https://www.mlb.com/news/mlb-series-to-watch-week-of-aug-10-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/asudbok69hhg8mwbkmpu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-10T03:24:12+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "Alonso leads by example, re-energizes O's in 1st multihomer game with club",
-      "link": "https://www.mlb.com/news/pete-alonso-homers-twice-in-orioles-win-over-rangers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786308913/mlb/itguejuudibix6bey4bz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Dave Sessions",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-10T01:30:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Rutschman on cusp of making Red Sox debut during next series in Toronto",
-      "link": "https://www.mlb.com/news/adley-rutschman-eyeing-red-sox-debut-in-toronto",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dn0ohppetsrnwliftukm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-10T01:13:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Surging Tigers head home riding high after big road trip",
-      "link": "https://www.mlb.com/news/tigers-beat-giants-to-cap-successful-west-coast-road-trip",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786316518/mlb/riynikniqzrqvchgu6gh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Henry Schulman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-10T00:59:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "12h ago"
     }
   ]
 }
