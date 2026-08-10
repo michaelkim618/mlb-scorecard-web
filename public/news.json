@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T05:53:40.643751+00:00",
+  "updated_at": "2026-08-10T06:01:03.928676+00:00",
   "news": [
     {
       "title": "Newest Padre Hays delivers with home run in first at-bat",
@@ -38,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-10T04:00:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Every team’s biggest impending free agent for 2026-27",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-10T00:59:00+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     }
   ]
 }
