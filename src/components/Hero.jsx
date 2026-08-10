@@ -166,7 +166,7 @@ export default function Hero() {
 
   const oppEraRaw  = oppSpDetail?.era   ?? topGame[pickIsHome ? "away_pitcher_stats" : "home_pitcher_stats"]?.era ?? "--";
 
-  /* ERA 표시 포맷 (2.85 → value="2" frac=".85") */
+  /* 숫자 포맷 (2.85 → {int:"2", dec:".85"}) */
   function splitEra(raw) {
     const s = typeof raw === "number" ? raw.toFixed(2) : String(raw);
     const parts = s.split(".");
@@ -177,6 +177,12 @@ export default function Hero() {
     const parts = s.split(".");
     return { int: parts[0] ?? "--", dec: parts[1] ? `.${parts[1]}` : "" };
   }
+
+  /* 타자 스탯 포맷 */
+  const heroOpsF = splitFloat(heroOps ?? 0);
+  const heroAvgF = splitFloat(bestBatter?.avg ?? 0);
+  const pickRpg  = pickBatDetail?.runs_per_g ?? "--";
+  const pickRpgF = splitFloat(pickRpg);
 
   const pickEra   = splitEra(pickEraRaw);
   const pickWhipF = splitFloat(pickWhip);
@@ -304,9 +310,9 @@ export default function Hero() {
             { label:"K/9", value: typeof pickK9 === "number" ? pickK9.toFixed(1) : pickK9 },
             { label:"WHIP", value: typeof pickWhip === "number" ? pickWhip.toFixed(2) : pickWhip },
           ] : [
-            { label:"OPS", value: heroOps ? heroOps.toFixed(3) : "--" },
-            { label:"AVG", value: bestBatter?.avg ? bestBatter.avg.toFixed(3) : "--" },
-            { label:"", value: "" },
+            { label:"OPS (Blended)", value: heroOps ? heroOps.toFixed(3) : "--" },
+            { label:"AVG (Recent)",  value: bestBatter?.avg ? bestBatter.avg.toFixed(3) : "--" },
+            { label:"R/G (Team)",    value: typeof pickRpg === "number" ? pickRpg.toFixed(1) : String(pickRpg) },
           ]).map(({ label, value }) => (
             <div key={label} style={{
               background:`${pickColor_}12`, borderRadius:12, padding:"10px 8px",
@@ -566,9 +572,19 @@ export default function Hero() {
 
         {/* ── 하단 스탯 카드 3개 ── */}
         <div style={{ position:"absolute", bottom:0, left:"50%", transform:"translateX(-50%)", display:"flex", alignItems:"flex-end", gap:16, zIndex:3 }}>
-          <StatCard label="ERA · Season"  value={pickEra.int}   frac={pickEra.dec}   bg={`${pickColor_}cc`} />
-          <StatCard label="K/9 · Season"  value={pickK9F.int}   frac={pickK9F.dec}   bg={pickColor_} big />
-          <StatCard label="WHIP"          value={pickWhipF.int} frac={pickWhipF.dec} bg={`${pickColor_}cc`} />
+          {heroIsPitcher ? (
+            <>
+              <StatCard label="ERA · Season"  value={pickEra.int}   frac={pickEra.dec}   bg={`${pickColor_}cc`} />
+              <StatCard label="K/9 · Season"  value={pickK9F.int}   frac={pickK9F.dec}   bg={pickColor_} big />
+              <StatCard label="WHIP"          value={pickWhipF.int} frac={pickWhipF.dec} bg={`${pickColor_}cc`} />
+            </>
+          ) : (
+            <>
+              <StatCard label="OPS · Blended" value={heroOpsF.int} frac={heroOpsF.dec} bg={`${pickColor_}cc`} />
+              <StatCard label="AVG · Recent"  value={heroAvgF.int} frac={heroAvgF.dec} bg={pickColor_} big />
+              <StatCard label="R/G · Team"    value={pickRpgF.int} frac={pickRpgF.dec} bg={`${pickColor_}cc`} />
+            </>
+          )}
         </div>
 
       </div>
