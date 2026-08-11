@@ -6325,6 +6325,27 @@
       "away_bp_score": 43.4,
       "home_bp_score": 58.0,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-10",
+      "away": "Texas Rangers",
+      "home": "Los Angeles Angels",
+      "pick": "Texas Rangers",
+      "pick_prob": 53.2,
+      "actual_winner": "Texas Rangers",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "cold",
+      "away_sp_era": 4.99,
+      "home_sp_era": 3.93,
+      "away_bp_era": 3.36,
+      "home_bp_era": 3.8,
+      "away_sp_score": 48.2,
+      "home_sp_score": 46.7,
+      "away_bp_score": 58.7,
+      "home_bp_score": 50.5,
+      "bat_source": "lineup"
     }
   ]
 }
