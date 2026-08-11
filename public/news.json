@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-08-11T10:38:54.574766+00:00",
+  "updated_at": "2026-08-11T17:32:54.986941+00:00",
   "news": [
+    {
+      "title": "Yankees' Triple-A team to announce new name for 2027",
+      "link": "https://www.mlb.com/news/swb-railriders-to-change-name",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gqvjrxigaqyl9u6xmdfb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Josh Jackson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-11T17:03:03+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "Watch MiLB at Field of Dreams tonight on MLB Network (7:30 ET)",
+      "link": "https://www.mlb.com/news/milb-at-field-of-dreams-game-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/td1gf0pejxozoeqcrnxh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brendan Samson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-11T16:20:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Opposing pitchers beware: 'Jack-Jack is back'",
+      "link": "https://www.mlb.com/news/jackson-chourio-gets-his-power-back-to-boost-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tb4csrwyuxhxag1wforr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Casey Drottar",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-11T15:46:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Ranking top 10 masterclass pitching performances of all time",
+      "link": "https://www.mlb.com/news/top-pitching-performances-in-baseball-history",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/crtuijwy38sers8gpzis",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brent Maguire",
+      "tag": "Rankings",
+      "tag_color": "#4F46E5",
+      "pub_date": "2026-08-11T15:25:08+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Checking in on all 9 players in the O's Deadline haul",
+      "link": "https://www.mlb.com/news/orioles-2026-trade-deadline-acquisitions-update",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gsmznhkmjz2312nofjco",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-08-11T14:59:38+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "3 plays that show Lombard's all-around impact for Yanks",
+      "link": "https://www.mlb.com/news/george-lombard-jr-showing-all-around-skill-set-for-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/guz1qarvxqqe0dfz5xzg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "David Adler",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-11T14:57:38+00:00",
+      "time_ago": "2h ago"
+    },
     {
       "title": "Gore strikes out nine in first start after welcoming daughter",
       "link": "https://www.mlb.com/news/mackenzie-gore-posts-strong-start-as-rangers-beat-angels",
@@ -12,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-11T07:03:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "Feeling urgency after tough road trip, Dodgers conjure some clutch magic",
@@ -25,85 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-11T06:49:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Skubal gets 'nerves' in 1st LA start as Dodger: 'This one was special to me'",
-      "link": "https://www.mlb.com/news/tarik-skubal-dodger-stadium-debut-with-dodgers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786420053/mlb/v6brys5qptudxxhkry9m",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Courtney Hollmon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-11T06:32:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Rays stay rolling as 8-run 8th secures 7th straight win",
-      "link": "https://www.mlb.com/news/rays-win-seventh-straight-game-with-eight-run-eighth",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786425326/mlb/m6pk9bdf3sx9rv2qe6xu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-11T06:28:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Down to their final strike, Smith saves Astros in 9th ... then Peña wins it in 10th",
-      "link": "https://www.mlb.com/news/jeremy-pena-astros-beat-giants-in-extra-innings",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qlzsu4kahby30ol8ddhv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-11T06:20:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Watch MiLB at Field of Dreams tonight on MLB Network",
-      "link": "https://www.mlb.com/news/milb-at-field-of-dreams-game-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/td1gf0pejxozoeqcrnxh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brendan Samson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-11T06:07:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Soroka sharp in IL return, while D-backs unconcerned about Perdomo (knee)",
-      "link": "https://www.mlb.com/news/michael-soroka-returns-from-il-geraldo-perdomo-injures-knee",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786423918/mlb/fmd5zuk6mqxo5qeeqdtq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-11T05:51:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Yelich knocks in Contreras with homer after both moved down in lineup",
-      "link": "https://www.mlb.com/news/william-contreras-christian-yelich-move-down-in-brewers-lineup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vnxigvvs5zpurvixcfrl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-11T05:42:00+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "10h ago"
     }
   ]
 }
