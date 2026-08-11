@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-11T19:50:30.354753+00:00",
+  "updated_at": "2026-08-11T20:03:55.402859+00:00",
   "news": [
+    {
+      "title": "Blue Jays place Taillon (right forearm tendinitis) on IL, recall Chase Lee",
+      "link": "https://www.mlb.com/news/jameson-taillon-to-injured-list-with-right-forearm-tendinitis",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nxmavningkjxcuhahkmo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-11T19:45:30+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Angels relieve pitching coaches Maddux, Chiti, Scott of duties",
+      "link": "https://www.mlb.com/news/angels-dismiss-mike-maddux-dom-chiti-darryl-scott",
+      "summary": "Tim Leveque named interim pitching coach; Michael Wuertz named interim bullpen coach",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pzebpzrvc3ldn5b3ycys",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rhett Bollinger",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-11T19:44:00+00:00",
+      "time_ago": "19m ago"
+    },
     {
       "title": "Stowers placed on 10-day IL with left hamstring strain",
       "link": "https://www.mlb.com/news/kyle-stowers-placed-on-injured-list-with-left-hamstring-strain",
@@ -12,20 +38,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-11T19:02:58+00:00",
-      "time_ago": "47m ago"
-    },
-    {
-      "title": "Angels relieve pitching coaches Maddux, Chiti, Scott of duties",
-      "link": "https://www.mlb.com/news/angels-dismiss-mike-maddux-dom-chiti-darryl-scott",
-      "summary": "Tim Leveque named interim pitching coach; Michael Wuertz named interim bullpen coach",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pzebpzrvc3ldn5b3ycys",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-11T18:56:12+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Movers of Series 1: Klingler, Brown and Ricketts earn Series 2 captain spots",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-11T17:03:03+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Watch MiLB at Field of Dreams tonight on MLB Network (7:30 ET)",
@@ -90,19 +103,6 @@
       "tag": "Rankings",
       "tag_color": "#4F46E5",
       "pub_date": "2026-08-11T15:25:08+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Checking in on all 9 players in the O's Deadline haul",
-      "link": "https://www.mlb.com/news/orioles-2026-trade-deadline-acquisitions-update",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gsmznhkmjz2312nofjco",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-08-11T14:59:38+00:00",
       "time_ago": "4h ago"
     }
   ]
