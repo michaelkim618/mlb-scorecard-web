@@ -1,8 +1,60 @@
 {
-  "updated_at": "2026-08-11T22:31:40.922291+00:00",
+  "updated_at": "2026-08-11T23:23:19.684316+00:00",
   "news": [
     {
-      "title": "Rockies calling Veen back up to Majors after torrid stretch at Triple-A (source)",
+      "title": "Deadline prize Rutschman batting third, catching in Red Sox debut",
+      "link": "https://www.mlb.com/news/adley-rutschman-red-sox-debut",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dn0ohppetsrnwliftukm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne, Matt Betts",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-08-11T23:17:00+00:00",
+      "time_ago": "6m ago"
+    },
+    {
+      "title": "Watch MiLB at Field of Dreams tonight on MLB Network (7:30 ET)",
+      "link": "https://www.mlb.com/news/milb-at-field-of-dreams-game-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/td1gf0pejxozoeqcrnxh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brendan Samson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-11T23:16:00+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Snell returning from IL for first start since May 9",
+      "link": "https://www.mlb.com/news/blake-snell-set-to-return-from-il-to-face-royals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mpntviz2tj0d1wvof5cu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-11T23:05:00+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Reunited! Senga retrieves ball from his 1st career save",
+      "link": "https://www.mlb.com/news/kodai-senga-retrieves-ball-from-first-save-of-mlb-career",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oxirge4tyfjk6jafo00d",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-11T22:56:32+00:00",
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "Rockies call Veen back up to Majors after torrid stretch at Triple-A",
       "link": "https://www.mlb.com/news/zac-veen-called-up-rockies-2026",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lp3qubgdphqaavlyxji4",
@@ -11,8 +63,21 @@
       "author": "Brian Murphy",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-11T22:15:31+00:00",
-      "time_ago": "16m ago"
+      "pub_date": "2026-08-11T22:37:00+00:00",
+      "time_ago": "46m ago"
+    },
+    {
+      "title": "Last night's 4th-out ruling was weird. But it gets even weirder ...",
+      "link": "https://www.mlb.com/news/blue-jays-red-sox-4th-out-rule-revisited",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786485017/mlb/daaauwfnpnywwsbmujrp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-11T22:14:42+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Stowers placed on 10-day IL with left hamstring strain",
@@ -38,71 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-11T21:21:02+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Yesavage has surgery on left knee, could still return this season",
-      "link": "https://www.mlb.com/news/trey-yesavage-surgery-left-knee",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lm3bug63sr0smevtu2oq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-11T21:03:10+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Here's what you need to know ahead of tomorrow's High School All-American Game",
-      "link": "https://www.mlb.com/news/high-school-all-american-game-2026-watch-live",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ncjblt0hpwsdkitgblbh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ben Weinrib",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-11T20:44:14+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Watch MiLB at Field of Dreams tonight on MLB Network (7:30 ET)",
-      "link": "https://www.mlb.com/news/milb-at-field-of-dreams-game-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/td1gf0pejxozoeqcrnxh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brendan Samson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-11T20:10:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Blue Jays place Taillon (right forearm tendinitis) on IL, recall Chase Lee",
-      "link": "https://www.mlb.com/news/jameson-taillon-to-injured-list-with-right-forearm-tendinitis",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nxmavningkjxcuhahkmo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-11T19:45:30+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Angels relieve pitching coaches Maddux, Chiti, Scott of duties",
-      "link": "https://www.mlb.com/news/angels-dismiss-mike-maddux-dom-chiti-darryl-scott",
-      "summary": "Tim Leveque named interim pitching coach; Michael Wuertz named interim bullpen coach",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pzebpzrvc3ldn5b3ycys",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Rhett Bollinger",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-11T19:44:00+00:00",
       "time_ago": "2h ago"
     }
   ]
