@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-11T06:13:12.969097+00:00",
+  "updated_at": "2026-08-11T06:41:01.580550+00:00",
   "news": [
+    {
+      "title": "Skubal gets 'nerves' in 1st LA start as Dodger: 'This one was special to me'",
+      "link": "https://www.mlb.com/news/tarik-skubal-dodger-stadium-debut-with-dodgers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786420053/mlb/v6brys5qptudxxhkry9m",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Courtney Hollmon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-11T06:32:00+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Down to their final strike, Smith saves Astros in 9th ... then Peña wins it in 10th",
+      "link": "https://www.mlb.com/news/jeremy-pena-astros-beat-giants-in-extra-innings",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qlzsu4kahby30ol8ddhv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-11T06:20:00+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "Watch MiLB at Field of Dreams tonight on MLB Network",
+      "link": "https://www.mlb.com/news/milb-at-field-of-dreams-game-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/td1gf0pejxozoeqcrnxh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brendan Samson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-11T06:07:00+00:00",
+      "time_ago": "34m ago"
+    },
     {
       "title": "Soroka sharp in IL return, while D-backs unconcerned about Perdomo (knee)",
       "link": "https://www.mlb.com/news/michael-soroka-returns-from-il-geraldo-perdomo-injures-knee",
@@ -12,7 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-11T05:51:00+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Yelich knocks in Contreras with homer after both moved down in lineup",
@@ -25,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-11T05:42:00+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "Merrill the masher! Slugger belts 3rd HR in as many games in Padres' win",
@@ -38,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-11T05:29:00+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Gore strikes out nine as Rangers beat Angels in extras to open series",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-11T05:18:29+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Back home after tough road trip, Dodgers conjure some clutch magic",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-11T05:07:10+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Did a midseason reinvention give the White Sox another ace reliever?",
-      "link": "https://www.mlb.com/news/white-sox-jordan-hicks-midseason-reinvention",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ygsasa5ifno2fxdb8hox",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-11T04:49:22+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Predicting this year's All-MLB Teams",
-      "link": "https://www.mlb.com/news/all-mlb-team-predictions-for-august-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t9ehoj843gvjipv6m6zd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Foster",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-11T04:49:17+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "With 1 week of hindsight, MLB execs recap a frenzied Trade Deadline",
-      "link": "https://www.mlb.com/news/2026-trade-deadline-recap-from-mlb-executives",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lka8ponkcbvcjg06yajb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-08-11T04:49:15+00:00",
       "time_ago": "1h ago"
     }
   ]
