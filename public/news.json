@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-11T04:51:53.821944+00:00",
+  "updated_at": "2026-08-11T04:56:17.015342+00:00",
   "news": [
+    {
+      "title": "Did a midseason reinvention give the White Sox another ace reliever?",
+      "link": "https://www.mlb.com/news/white-sox-jordan-hicks-midseason-reinvention",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ygsasa5ifno2fxdb8hox",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-11T04:49:22+00:00",
+      "time_ago": "6m ago"
+    },
+    {
+      "title": "Predicting this year's All-MLB Team",
+      "link": "https://www.mlb.com/news/all-mlb-team-predictions-for-august-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t9ehoj843gvjipv6m6zd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Foster",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-11T04:49:17+00:00",
+      "time_ago": "6m ago"
+    },
+    {
+      "title": "With 1 week of hindsight, MLB execs recap a frenzied Trade Deadline",
+      "link": "https://www.mlb.com/news/2026-trade-deadline-recap-from-mlb-executives",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lka8ponkcbvcjg06yajb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Feinsand",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-08-11T04:49:15+00:00",
+      "time_ago": "7m ago"
+    },
     {
       "title": "Rays stay rolling as 8-run 8th secures 7th straight win",
       "link": "https://www.mlb.com/news/rays-win-seventh-straight-game-with-eight-run-eighth",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-11T04:42:41+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "13m ago"
     },
     {
       "title": "Red Sox get a run thanks to seldom-seen 'fourth out rule'",
@@ -25,20 +64,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-11T04:37:00+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "19m ago"
     },
     {
       "title": "In Soroka's IL return, Perdomo exits early with knee injury",
       "link": "https://www.mlb.com/news/michael-soroka-returns-from-il-geraldo-perdomo-injures-knee",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786419106/mlb/fmd5zuk6mqxo5qeeqdtq",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786423918/mlb/fmd5zuk6mqxo5qeeqdtq",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Steve Gilbert",
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-11T04:30:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "26m ago"
     },
     {
       "title": "Kremer gives unfriendly welcome to former team with 7-inning gem",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-11T04:23:00+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "33m ago"
     },
     {
       "title": "Skubal gets first taste of pitching for Dodger Stadium home crowd",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-11T04:18:00+00:00",
-      "time_ago": "33m ago"
-    },
-    {
-      "title": "After closer Williams lands on IL, Senga earns 1st save -- but doesn't get the ball!",
-      "link": "https://www.mlb.com/news/devin-williams-right-shoulder-strain-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mvfotv4hqzj1diezdvjf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-11T04:16:00+00:00",
-      "time_ago": "35m ago"
-    },
-    {
-      "title": "Merrill the masher! Slugger belts 3rd HR in as many games in Padres' win",
-      "link": "https://www.mlb.com/news/jackson-merrill-s-go-ahead-home-run-leads-padres-to-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/whqn7k4k1cdeny8615rm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bernie Wilson",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-11T04:11:21+00:00",
-      "time_ago": "40m ago"
-    },
-    {
-      "title": "Red Sox set to activate Deadline prize Rutschman on Tuesday",
-      "link": "https://www.mlb.com/news/adley-rutschman-eyeing-red-sox-debut-in-toronto",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dn0ohppetsrnwliftukm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne, Matt Betts",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-08-11T04:09:00+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "38m ago"
     }
   ]
 }
