@@ -147,16 +147,20 @@ export default function Hero() {
     ? topGame.scorecard?.home?.bat_detail
     : topGame.scorecard?.away?.bat_detail;
   const pickLineupPlayers = pickBatDetail?.lineup_players ?? [];
-  const bestBatter = pickLineupPlayers.length > 0
-    ? pickLineupPlayers.reduce((best, p) => (p.ops > best.ops ? p : best), pickLineupPlayers[0])
+
+  // OPS > 0 인 타자만 유효 (0이면 데이터 없는 것)
+  const validBatters = pickLineupPlayers.filter(p => p.ops > 0);
+  const bestBatter = validBatters.length > 0
+    ? validBatters.reduce((best, p) => (p.ops > best.ops ? p : best), validBatters[0])
     : null;
 
-  // SP hot → 투수가 Hero / 아니면 최고 타자가 Hero
-  const heroIsPitcher = pickTrend === "hot";
-  const heroName      = heroIsPitcher ? pickPitcherName : (bestBatter?.name ?? pickPitcherName);
+  // Hero 결정:
+  // SP hot → 투수 / 유효 타자 있으면 최고 타자 / 타자 없으면 투수로 폴백
+  const heroIsPitcher = pickTrend === "hot" || bestBatter === null;
+  const heroName      = heroIsPitcher ? pickPitcherName : bestBatter.name;
   const heroId        = heroIsPitcher
     ? (pickIsHome ? topGame.home_pitcher_id : topGame.away_pitcher_id)
-    : (bestBatter?.id ?? (pickIsHome ? topGame.home_pitcher_id : topGame.away_pitcher_id));
+    : bestBatter.id;
   const heroRole      = heroIsPitcher ? "SP" : "BAT";
   const heroOps       = heroIsPitcher ? null : (bestBatter?.ops ?? null);
 
