@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-11T18:38:43.558420+00:00",
+  "updated_at": "2026-08-11T19:50:30.354753+00:00",
   "news": [
+    {
+      "title": "Stowers placed on 10-day IL with left hamstring strain",
+      "link": "https://www.mlb.com/news/kyle-stowers-placed-on-injured-list-with-left-hamstring-strain",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/za7a0v9bjzl2gzum7p65",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Christina De Nicola",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-11T19:02:58+00:00",
+      "time_ago": "47m ago"
+    },
+    {
+      "title": "Angels relieve pitching coaches Maddux, Chiti, Scott of duties",
+      "link": "https://www.mlb.com/news/angels-dismiss-mike-maddux-dom-chiti-darryl-scott",
+      "summary": "Tim Leveque named interim pitching coach; Michael Wuertz named interim bullpen coach",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pzebpzrvc3ldn5b3ycys",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-11T18:56:12+00:00",
+      "time_ago": "54m ago"
+    },
     {
       "title": "Movers of Series 1: Klingler, Brown and Ricketts earn Series 2 captain spots",
       "link": "https://www.mlb.com/news/baylee-klingler-kenzie-brown-keilani-ricketts-captains-for-ausl-cup-series-two",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-11T18:12:19+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yankees' Triple-A team to announce new name for 2027",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-11T17:03:03+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Watch MiLB at Field of Dreams tonight on MLB Network (7:30 ET)",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-11T16:20:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Opposing pitchers beware: 'Jack-Jack is back'",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-11T15:46:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Ranking top 10 masterclass pitching performances of all time",
@@ -64,7 +90,7 @@
       "tag": "Rankings",
       "tag_color": "#4F46E5",
       "pub_date": "2026-08-11T15:25:08+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Checking in on all 9 players in the O's Deadline haul",
@@ -77,33 +103,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-11T14:59:38+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "3 plays that show Lombard's all-around impact for Yanks",
-      "link": "https://www.mlb.com/news/george-lombard-jr-showing-all-around-skill-set-for-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/guz1qarvxqqe0dfz5xzg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "David Adler",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-11T14:57:38+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Gore strikes out nine in first start after welcoming daughter",
-      "link": "https://www.mlb.com/news/mackenzie-gore-posts-strong-start-as-rangers-beat-angels",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lvgxw87zubbzdr71i2hi",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jacob Gurvis",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-11T07:03:00+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
