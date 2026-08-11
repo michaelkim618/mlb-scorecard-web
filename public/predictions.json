@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-08-11",
-    "status": "Preview",
+    "status": "Live",
     "game_time": "3:40 PM PT",
     "away": "Cleveland Guardians",
     "home": "Detroit Tigers",
@@ -797,7 +797,7 @@
   },
   {
     "date": "2026-08-11",
-    "status": "Preview",
+    "status": "Live",
     "game_time": "3:45 PM PT",
     "away": "Chicago Cubs",
     "home": "Washington Nationals",
@@ -4952,14 +4952,14 @@
       "home": 37.0
     },
     "expected_score": {
-      "away": 2.4,
-      "home": 1.7
+      "away": 4.8,
+      "home": 2.1
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "L",
       "home_handedness": "R",
       "bullpen_game": false,
@@ -4998,14 +4998,14 @@
           "bp_ip": 272.0,
           "bp_count": 6
         },
-        "bat_score": 38.2,
+        "bat_score": 75.5,
         "bat_detail": {
-          "recent_avg": 0.214,
+          "recent_avg": 0.302,
           "runs_per_g": 6.8,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.712,
-          "season_avg": 0.214,
+          "season_ops": 0.852,
+          "season_avg": 0.302,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -5013,13 +5013,13 @@
           "lineup_ops": [
             "Brice Turang(0.724)",
             "Jackson Chourio(1.002)",
-            "Jake Bauers(1.003)",
-            "Andrew Vaughn(0.740)",
             "Garrett Mitchell(0.572)",
+            "Jake Bauers(1.003)",
             "William Contreras(0.638)",
             "Christian Yelich(0.576)",
             "Luis Lara(0.571)",
-            "David Hamilton(0.585)"
+            "David Hamilton(0.585)",
+            "Jihwan Bae(2.000)"
           ],
           "home_split": {
             "recent_avg": 0.249,
@@ -5035,10 +5035,10 @@
           }
         },
         "sit_score": 57.8,
-        "total": 54.5
+        "total": 65.7
       },
       "home": {
-        "sp_score": 29.1,
+        "sp_score": 30.0,
         "sp_detail": {
           "era": 6.07,
           "whip": 1.61,
@@ -5058,35 +5058,35 @@
           "rest_days": 5,
           "rest_note": null
         },
-        "bp_score": 73.2,
+        "bp_score": 75.4,
         "bp_detail": {
           "bullpen_era": 2.73,
           "team_era": 3.63,
           "bp_ip": 346.3,
           "bp_count": 7
         },
-        "bat_score": 25.7,
+        "bat_score": 32.4,
         "bat_detail": {
-          "recent_avg": 0.244,
+          "recent_avg": 0.265,
           "runs_per_g": 3.7,
           "hr_per_g": 0.5,
           "bb_per_g": 3.0,
-          "season_ops": 0.694,
-          "season_avg": 0.244,
+          "season_ops": 0.723,
+          "season_avg": 0.265,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
             "Fernando Tatis Jr.(0.812)",
-            "Jake Cronenworth(0.575)",
+            "Luis Rengifo(0.588)",
             "Manny Machado(0.587)",
             "Ty France(0.849)",
             "Jackson Merrill(0.923)",
-            "Luis Rengifo(0.588)",
-            "Gavin Sheets(0.665)",
-            "Freddy Fermin(0.748)",
-            "Sung-Mun Song(0.495)"
+            "Austin Hays(0.702)",
+            "Luis Campusano(0.818)",
+            "Xander Bogaerts(0.649)",
+            "Jake Cronenworth(0.575)"
           ],
           "home_split": {
             "recent_avg": 0.227,
@@ -5102,20 +5102,20 @@
           }
         },
         "sit_score": 58.9,
-        "total": 43.0
+        "total": 46.4
       }
     },
     "scores": {
-      "away_offense": 38.2,
+      "away_offense": 75.5,
       "away_defense": 62.9,
-      "home_offense": 25.7,
-      "home_defense": 57.8
+      "home_offense": 32.4,
+      "home_defense": 59.5
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -5524,8 +5524,8 @@
     "model_winner": "Houston Astros",
     "model_correct": null,
     "notes": "Houston Astros IL: Brandon Walter, Brice Matthews, Carlos Correa, Mike Burrows / San Francisco Giants IL: Casey Schmitt, Daniel Susac, Harrison Bader, Hayden Birdsong, Jesus Rodriguez 외 다수",
-    "kalshi_prob": 37.0,
-    "edge": 0.0,
+    "kalshi_prob": 36.0,
+    "edge": 1.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false

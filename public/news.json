@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-11T22:13:58.138758+00:00",
+  "updated_at": "2026-08-11T22:28:29.552127+00:00",
   "news": [
+    {
+      "title": "Rockies calling Veen back up to Majors after torrid stretch at Triple-A (source)",
+      "link": "https://www.mlb.com/news/zac-veen-called-up-rockies-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lp3qubgdphqaavlyxji4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-11T22:15:31+00:00",
+      "time_ago": "12m ago"
+    },
     {
       "title": "Stowers placed on 10-day IL with left hamstring strain",
       "link": "https://www.mlb.com/news/kyle-stowers-placed-on-injured-list-with-left-hamstring-strain",
@@ -12,7 +25,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-11T21:24:00+00:00",
-      "time_ago": "49m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Cards bring back navy caps for remaining road games",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-11T21:21:02+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yesavage has surgery on left knee, could still return this season",
@@ -91,19 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-08-11T19:44:00+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Yankees' Triple-A team to announce new name for 2027",
-      "link": "https://www.mlb.com/news/swb-railriders-to-change-name",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/snw7hwqghcgcjxef3nuj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Josh Jackson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-11T17:03:03+00:00",
-      "time_ago": "5h ago"
     }
   ]
 }
