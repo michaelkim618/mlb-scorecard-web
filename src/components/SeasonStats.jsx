@@ -11,7 +11,7 @@ function ResultBadge({ correct }) {
 
 export default function SeasonStats() {
   const { games: todayGames, loading: todayLoading } = usePredictions(TODAY);
-  const { games: seasonGames, W: cumW, L: cumL, pct: cumPct, startDate, lastDate, categoryStats, loading: seasonLoading } = useSeasonResults();
+  const { games: seasonGames, pstToday, W: cumW, L: cumL, pct: cumPct, startDate, lastDate, categoryStats, loading: seasonLoading } = useSeasonResults();
 
   // 오늘 완료된 경기 결과
   const todayDone  = todayGames.filter(g => g.model_correct !== null && g.model_correct !== undefined);
@@ -20,23 +20,32 @@ export default function SeasonStats() {
   const todayTotal = todayW + todayL;
   const todayPct   = todayTotal > 0 ? ((todayW / todayTotal) * 100).toFixed(1) : null;
 
-  // 시즌 시작일/마지막 결과 날짜 포맷
+  // 시즌 시작일/마지막 결과 날짜 포맷 (누적은 어제까지 기준)
   const startDisplay = startDate
     ? new Date(startDate + "T00:00:00").toLocaleDateString("en-US", { month: "short", day: "numeric" }).toUpperCase()
     : "AUG 4";
-  const lastDisplay = lastDate
-    ? new Date(lastDate + "T00:00:00").toLocaleDateString("en-US", { month: "short", day: "numeric" }).toUpperCase()
+  // lastDate가 오늘이면 어제 날짜로 표시 (진행 중인 오늘은 누적에서 제외)
+  const effectiveLastDate = lastDate && lastDate >= (pstToday || TODAY)
+    ? (() => {
+        const d = new Date(pstToday + "T00:00:00");
+        d.setDate(d.getDate() - 1);
+        return d.toLocaleDateString("en-CA");
+      })()
+    : lastDate;
+  const lastDisplay = effectiveLastDate
+    ? new Date(effectiveLastDate + "T00:00:00").toLocaleDateString("en-US", { month: "short", day: "numeric" }).toUpperCase()
     : startDisplay;
 
-  // 날짜별 그룹핑 (히스토리용)
+  // 날짜별 그룹핑 (히스토리용) — 오늘 날짜 제외 (진행 중인 경기 포함 방지)
   const byDate = useMemo(() => {
     const map = {};
     seasonGames.forEach(g => {
+      if (g.date >= (pstToday || TODAY)) return; // 오늘 날짜 제외
       if (!map[g.date]) map[g.date] = [];
       map[g.date].push(g);
     });
     return Object.entries(map).sort((a, b) => b[0].localeCompare(a[0])); // 최신순
-  }, [seasonGames]);
+  }, [seasonGames, pstToday]);
 
   const isLoading = todayLoading || seasonLoading;
 

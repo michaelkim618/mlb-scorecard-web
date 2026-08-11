@@ -7,6 +7,11 @@ function calcStat(games) {
   return { W, L, pct };
 }
 
+// PST 기준 오늘 날짜 (en-CA = YYYY-MM-DD 포맷)
+function getPstToday() {
+  return new Date().toLocaleDateString("en-CA", { timeZone: "America/Los_Angeles" });
+}
+
 export default function useSeasonResults() {
   const [data, setData]       = useState(null);
   const [loading, setLoading] = useState(true);
@@ -23,8 +28,9 @@ export default function useSeasonResults() {
 
   const allGames  = data.games || [];
   const startDate = data.start_date || null;
+  const pstToday  = getPstToday();
 
-  // start_date 이후 경기만 집계
+  // start_date 이후 경기만 집계 (전체 — Daily History용)
   const games = startDate
     ? allGames.filter(g => g.date >= startDate)
     : allGames;
@@ -33,18 +39,23 @@ export default function useSeasonResults() {
   const datesWithResults = games.filter(g => g.actual_winner).map(g => g.date).sort();
   const lastDate = datesWithResults.length > 0 ? datesWithResults[datesWithResults.length - 1] : null;
 
-  const overall   = calcStat(games);
+  // ── 누적 통계는 오늘 제외 ──
+  // 오늘 경기는 진행 중일 수 있어 부분 결과가 누적에 포함되면 신뢰성이 떨어짐.
+  // 오늘 결과는 "Today's Results" 패널에서 별도로 표시함.
+  const completedGames = games.filter(g => g.date < pstToday);
+
+  const overall   = calcStat(completedGames);
 
   // 60%+ picks
-  const picks60   = games.filter(g => (g.pick_prob || 0) >= 60);
+  const picks60   = completedGames.filter(g => (g.pick_prob || 0) >= 60);
   const stat60    = calcStat(picks60);
 
   // High Confidence (pick_prob >= 65%)
-  const highConf  = games.filter(g => (g.pick_prob || 0) >= 65);
+  const highConf  = completedGames.filter(g => (g.pick_prob || 0) >= 65);
   const statHC    = calcStat(highConf);
 
   // Home Fav (pick === home team)
-  const homeFav   = games.filter(g => g.pick === g.home);
+  const homeFav   = completedGames.filter(g => g.pick === g.home);
   const statHF    = calcStat(homeFav);
 
   const categoryStats = [
@@ -54,5 +65,5 @@ export default function useSeasonResults() {
     { label: "Home fav",         wins: statHF.W,  losses: statHF.L,  pct: statHF.pct  },
   ];
 
-  return { loading, games, season: data.season, startDate, lastDate, W: overall.W, L: overall.L, pct: overall.pct.toFixed(1), categoryStats };
+  return { loading, games, pstToday, season: data.season, startDate, lastDate, W: overall.W, L: overall.L, pct: overall.pct.toFixed(1), categoryStats };
 }
