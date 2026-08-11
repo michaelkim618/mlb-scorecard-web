@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-11T05:44:32.254870+00:00",
+  "updated_at": "2026-08-11T06:02:31.770807+00:00",
   "news": [
+    {
+      "title": "Soroka sharp in IL return, while D-backs unconcerned about Perdomo (knee)",
+      "link": "https://www.mlb.com/news/michael-soroka-returns-from-il-geraldo-perdomo-injures-knee",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786423918/mlb/fmd5zuk6mqxo5qeeqdtq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Steve Gilbert",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-11T05:51:00+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Yelich knocks in Contreras with homer after both moved down in lineup",
+      "link": "https://www.mlb.com/news/william-contreras-christian-yelich-move-down-in-brewers-lineup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vnxigvvs5zpurvixcfrl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-11T05:42:00+00:00",
+      "time_ago": "20m ago"
+    },
     {
       "title": "Merrill the masher! Slugger belts 3rd HR in as many games in Padres' win",
       "link": "https://www.mlb.com/news/jackson-merrill-s-go-ahead-home-run-leads-padres-to-win",
@@ -12,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-11T05:29:00+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "33m ago"
     },
     {
       "title": "Gore strikes out nine as Rangers beat Angels in extras to open series",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-11T05:18:29+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "44m ago"
     },
     {
       "title": "Back home after tough road trip, Dodgers conjure some clutch magic",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-11T05:07:10+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "Did a midseason reinvention give the White Sox another ace reliever?",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-11T04:49:22+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Predicting this year's All-MLB Teams",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-11T04:49:17+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "With 1 week of hindsight, MLB execs recap a frenzied Trade Deadline",
@@ -77,32 +103,6 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-11T04:49:15+00:00",
-      "time_ago": "55m ago"
-    },
-    {
-      "title": "Rays stay rolling as 8-run 8th secures 7th straight win",
-      "link": "https://www.mlb.com/news/rays-win-seventh-straight-game-with-eight-run-eighth",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786425326/mlb/m6pk9bdf3sx9rv2qe6xu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-11T04:42:41+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Red Sox get a run thanks to seldom-seen 'fourth out rule'",
-      "link": "https://www.mlb.com/news/blue-jays-red-sox-delayed-for-rule-check",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sj3kzzd0gfdaqomrhral",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-11T04:37:00+00:00",
       "time_ago": "1h ago"
     }
   ]
