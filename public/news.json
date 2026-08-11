@@ -1,44 +1,31 @@
 {
-  "updated_at": "2026-08-11T04:09:01.990379+00:00",
+  "updated_at": "2026-08-11T04:51:53.821944+00:00",
   "news": [
+    {
+      "title": "Rays stay rolling as 8-run 8th secures 7th straight win",
+      "link": "https://www.mlb.com/news/rays-win-seventh-straight-game-with-eight-run-eighth",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/m6pk9bdf3sx9rv2qe6xu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-11T04:42:41+00:00",
+      "time_ago": "9m ago"
+    },
     {
       "title": "Red Sox get a run thanks to seldom-seen 'fourth out rule'",
       "link": "https://www.mlb.com/news/blue-jays-red-sox-delayed-for-rule-check",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pnnfbtefg0oe693ts7hw",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sj3kzzd0gfdaqomrhral",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Keegan Matheson",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-11T03:59:00+00:00",
-      "time_ago": "10m ago"
-    },
-    {
-      "title": "Taillon exits first Toronto home start with right forearm discomfort",
-      "link": "https://www.mlb.com/news/jameson-taillon-exits-blue-jays-game-with-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p4ipakqdhvxjxi5ncfvf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-11T03:53:00+00:00",
-      "time_ago": "16m ago"
-    },
-    {
-      "title": "McAdoo's second MLB homer shows Schneider's willingness to ride hot hand",
-      "link": "https://www.mlb.com/news/charles-mcadoo-homers-in-blue-jays-win-over-red-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iyityxmswpg1zyd0uqel",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-11T03:39:00+00:00",
-      "time_ago": "30m ago"
+      "pub_date": "2026-08-11T04:37:00+00:00",
+      "time_ago": "14m ago"
     },
     {
       "title": "In Soroka's IL return, Perdomo exits early with knee injury",
@@ -50,21 +37,8 @@
       "author": "Steve Gilbert",
       "tag": "Injury",
       "tag_color": "#DC2626",
-      "pub_date": "2026-08-11T03:36:12+00:00",
-      "time_ago": "32m ago"
-    },
-    {
-      "title": "Painter deals work of art with no-hit bid into sixth inning",
-      "link": "https://www.mlb.com/news/andrew-painter-pitches-five-no-hit-innings-in-win-against-cardinals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/o0mycya2z6dasbwj2vsa",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jeff Jones",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-08-11T03:03:32+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-08-11T04:30:00+00:00",
+      "time_ago": "21m ago"
     },
     {
       "title": "Kremer gives unfriendly welcome to former team with 7-inning gem",
@@ -76,21 +50,47 @@
       "author": "Matthew Leach",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-11T02:38:44+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-08-11T04:23:00+00:00",
+      "time_ago": "28m ago"
     },
     {
-      "title": "Mets lose closer Williams to IL, then Senga records first MLB save",
+      "title": "Skubal gets first taste of pitching for Dodger Stadium home crowd",
+      "link": "https://www.mlb.com/news/tarik-skubal-dodger-stadium-debut-with-dodgers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786420053/mlb/v6brys5qptudxxhkry9m",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Courtney Hollmon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-11T04:18:00+00:00",
+      "time_ago": "33m ago"
+    },
+    {
+      "title": "After closer Williams lands on IL, Senga earns 1st save -- but doesn't get the ball!",
       "link": "https://www.mlb.com/news/devin-williams-right-shoulder-strain-injured-list",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/juzfpur5z4tlnmwat2n1",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mvfotv4hqzj1diezdvjf",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Anthony DiComo",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-11T02:25:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-08-11T04:16:00+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "Merrill the masher! Slugger belts 3rd HR in as many games in Padres' win",
+      "link": "https://www.mlb.com/news/jackson-merrill-s-go-ahead-home-run-leads-padres-to-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/whqn7k4k1cdeny8615rm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bernie Wilson",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-11T04:11:21+00:00",
+      "time_ago": "40m ago"
     },
     {
       "title": "Red Sox set to activate Deadline prize Rutschman on Tuesday",
@@ -99,11 +99,11 @@
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dn0ohppetsrnwliftukm",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Ian Browne",
+      "author": "Ian Browne, Matt Betts",
       "tag": "Trade",
       "tag_color": "#7C3AED",
-      "pub_date": "2026-08-11T02:22:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-08-11T04:09:00+00:00",
+      "time_ago": "42m ago"
     }
   ]
 }
