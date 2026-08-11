@@ -399,7 +399,7 @@
   },
   {
     "date": "2026-08-11",
-    "status": "Preview",
+    "status": "Live",
     "game_time": "3:40 PM PT",
     "away": "Pittsburgh Pirates",
     "home": "Miami Marlins",
@@ -3575,9 +3575,9 @@
     "model_winner": "Philadelphia Phillies",
     "model_correct": null,
     "notes": "Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Johan Rojas, Rafael Marchán 외 다수 / St. Louis Cardinals IL: Max Rajcic, Ramón Urías",
-    "kalshi_prob": 38.0,
-    "edge": 11.0,
-    "value_bet": "⚠️ VB주의(선발Hot·edge부족 11.0%p<14.0%p)",
+    "kalshi_prob": 39.0,
+    "edge": 10.0,
+    "value_bet": "⚠️ VB주의(선발Hot·edge부족 10.0%p<14.0%p)",
     "extreme_edge": false,
     "consensus": false
   },
@@ -4991,11 +4991,11 @@
           "rest_days": 6,
           "rest_note": null
         },
-        "bp_score": 67.2,
+        "bp_score": 67.8,
         "bp_detail": {
-          "bullpen_era": 3.14,
-          "team_era": 3.24,
-          "bp_ip": 252.0,
+          "bullpen_era": 3.11,
+          "team_era": 3.23,
+          "bp_ip": 272.0,
           "bp_count": 6
         },
         "bat_score": 38.2,
@@ -5035,7 +5035,7 @@
           }
         },
         "sit_score": 57.8,
-        "total": 54.3
+        "total": 54.5
       },
       "home": {
         "sp_score": 29.1,
@@ -5107,7 +5107,7 @@
     },
     "scores": {
       "away_offense": 38.2,
-      "away_defense": 62.6,
+      "away_defense": 62.9,
       "home_offense": 25.7,
       "home_defense": 57.8
     },
@@ -5126,8 +5126,8 @@
     "model_winner": "Milwaukee Brewers",
     "model_correct": null,
     "notes": "Milwaukee Brewers IL: Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Cooper Pratt, JoJo Romero 외 다수 / San Diego Padres IL: Bryan Hoeing, David Morgan, Jason Adam, Joe Musgrove, Lucas Giolito 외 다수",
-    "kalshi_prob": 46.0,
-    "edge": -9.0,
+    "kalshi_prob": 45.0,
+    "edge": -8.0,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: San Diego Padres)",
     "extreme_edge": false,
     "consensus": false
