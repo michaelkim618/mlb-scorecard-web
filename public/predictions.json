@@ -218,7 +218,7 @@
     },
     "expected_score": {
       "away": 1.4,
-      "home": 3.3
+      "home": 3.4
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -236,7 +236,7 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 59.0,
+        "sp_score": 54.0,
         "sp_detail": {
           "era": 3.54,
           "whip": 1.0,
@@ -368,7 +368,7 @@
     },
     "scores": {
       "away_offense": 21.2,
-      "away_defense": 56.6,
+      "away_defense": 54.1,
       "home_offense": 49.4,
       "home_defense": 52.7
     },
@@ -1089,7 +1089,7 @@
         "total": 63.1
       },
       "home": {
-        "sp_score": 29.0,
+        "sp_score": 24.0,
         "sp_detail": {
           "era": 5.88,
           "whip": 1.48,
@@ -1158,7 +1158,7 @@
       "away_offense": 54.8,
       "away_defense": 68.9,
       "home_offense": 35.4,
-      "home_defense": 42.4
+      "home_defense": 40.6
     },
     "actual_score": {
       "away": null,
@@ -2299,8 +2299,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 38.9,
-      "home": 61.1
+      "away": 46.9,
+      "home": 53.1
     },
     "expected_score": {
       "away": 2.1,
@@ -2590,7 +2590,7 @@
     "model_correct": null,
     "notes": "New York Mets IL: Austin Warren, Cionel Pérez, Devin Williams, Juan Soto, Justin Hagenman 외 다수 / Atlanta Braves IL: Joe Jiménez, Joey Wentz, Reynaldo López, Robert Suarez, Spencer Schwellenbach 외 다수",
     "kalshi_prob": 54.0,
-    "edge": 7.1,
+    "edge": -0.9,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -4003,8 +4003,8 @@
     "model_winner": "St. Louis Cardinals",
     "model_correct": null,
     "notes": "Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Johan Rojas, Rafael Marchán 외 다수 / St. Louis Cardinals IL: Max Rajcic, Ramón Urías",
-    "kalshi_prob": 39.0,
-    "edge": 15.1,
+    "kalshi_prob": 38.0,
+    "edge": 16.1,
     "value_bet": "✅ Value Bet 후보 (St. Louis Cardinals)",
     "extreme_edge": false,
     "consensus": false
@@ -6715,7 +6715,7 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 55.8,
+        "sp_score": 50.8,
         "sp_detail": {
           "era": 3.43,
           "whip": 1.17,
@@ -6962,7 +6962,7 @@
     },
     "scores": {
       "away_offense": 24.2,
-      "away_defense": 47.8,
+      "away_defense": 45.2,
       "home_offense": 48.5,
       "home_defense": 43.9
     },
