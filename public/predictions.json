@@ -5877,9 +5877,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Los Angeles Dodgers",
     "model_winner": "Los Angeles Dodgers",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Kansas City Royals IL: Alec Marsh, Beck Way, Carlos Estévez, Cole Ragans, Connor Seabold 외 다수 / Los Angeles Dodgers IL: Ben Casparius, Blake Treinen, Bobby Miller, Brock Stewart, Brusdar Graterol 외 다수",
     "kalshi_prob": 71.0,
     "edge": -14.4,
