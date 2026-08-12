@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-11T23:26:24.172366+00:00",
+  "updated_at": "2026-08-12T00:11:31.670789+00:00",
   "news": [
+    {
+      "title": "Greene exits with leg injury in 3rd after HBP",
+      "link": "https://www.mlb.com/news/riley-greene-exits-with-leg-injury-after-hit-by-pitch",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/q989bzy9mydvosz7ovhd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-11T23:53:25+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Which White Sox were dressed as Spider-Man? Their true identity is still unknown",
+      "link": "https://www.mlb.com/news/miguel-vargas-mystery-white-sox-see-movie-in-spider-man-costume",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/h7c5vub7mgt26gvfvzsd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-11T23:49:02+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "LIVE: Watch MiLB at Field of Dreams on MLB Network",
+      "link": "https://www.mlb.com/news/milb-at-field-of-dreams-game-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/td1gf0pejxozoeqcrnxh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brendan Samson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-11T23:46:00+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "Angels relieve pitching coaches Maddux, Chiti, Scott of duties",
+      "link": "https://www.mlb.com/news/angels-dismiss-mike-maddux-dom-chiti-darryl-scott",
+      "summary": "Tim Leveque named interim pitching coach; Michael Wuertz named interim bullpen coach",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pzebpzrvc3ldn5b3ycys",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rhett Bollinger",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-11T23:18:00+00:00",
+      "time_ago": "53m ago"
+    },
     {
       "title": "Deadline prize Rutschman batting third, catching in Red Sox debut",
       "link": "https://www.mlb.com/news/adley-rutschman-red-sox-debut",
@@ -12,20 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-11T23:17:00+00:00",
-      "time_ago": "9m ago"
-    },
-    {
-      "title": "Watch MiLB at Field of Dreams tonight on MLB Network (7:30 ET)",
-      "link": "https://www.mlb.com/news/milb-at-field-of-dreams-game-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/td1gf0pejxozoeqcrnxh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brendan Samson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-11T23:16:00+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "Snell returning from IL for first start since May 9",
@@ -38,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-11T23:05:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Reunited! Senga retrieves ball from his 1st career save",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-11T22:56:32+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rockies call Veen back up to Majors after torrid stretch at Triple-A",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-11T22:37:00+00:00",
-      "time_ago": "49m ago"
-    },
-    {
-      "title": "Last night's 4th-out ruling was weird. But it gets even weirder ...",
-      "link": "https://www.mlb.com/news/blue-jays-red-sox-4th-out-rule-revisited",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786485017/mlb/daaauwfnpnywwsbmujrp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-11T22:14:42+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Stowers placed on 10-day IL with left hamstring strain",
-      "link": "https://www.mlb.com/news/kyle-stowers-placed-on-injured-list-with-left-hamstring-strain",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/za7a0v9bjzl2gzum7p65",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Christina De Nicola",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-11T21:24:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Cards bring back navy caps for remaining road games",
-      "link": "https://www.mlb.com/news/cardinals-navy-caps-road-games-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786483079/mlb/hvbclvaoo6snc4dshl3v",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-11T21:21:02+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
