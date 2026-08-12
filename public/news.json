@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-12T17:49:16.134557+00:00",
+  "updated_at": "2026-08-12T18:44:52.458782+00:00",
   "news": [
+    {
+      "title": "Watch LIVE: '26 High School All-American Game",
+      "link": "https://www.mlb.com/news/high-school-all-american-game-2026-watch-live",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ncjblt0hpwsdkitgblbh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ben Weinrib",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-12T17:48:00+00:00",
+      "time_ago": "56m ago"
+    },
+    {
+      "title": "Harper: Soreness in left knee 'nothing over the top' as Phils prepare for stretch run",
+      "link": "https://www.mlb.com/news/bryce-harper-dealing-with-knee-soreness-after-move-back-to-outfield",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mykliizmldasrqwfnkhx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jeff Jones",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-12T17:44:00+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Mikolas DFA'd by Nationals; Kent called up for start vs. Cubs",
       "link": "https://www.mlb.com/news/miles-mikolas-designated-by-nationals",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T16:42:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "The story behind why Ohtani always 'reels in' Seiya",
@@ -25,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-12T16:29:05+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "New season of Café con Lindor features Eladio Carrión in Episode 1",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T16:15:10+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Lindor says he wants to stay with Mets: 'We have not taken a step backwards'",
@@ -51,19 +77,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T16:03:18+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Harper dealing with knee soreness amid transition back to RF",
-      "link": "https://www.mlb.com/news/bryce-harper-dealing-with-knee-soreness-after-move-back-to-outfield",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mykliizmldasrqwfnkhx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-08-12T15:41:05+00:00",
       "time_ago": "2h ago"
     },
     {
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T15:30:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "250 for 250: Top 10 flashes of infield wizardry",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T15:25:04+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "O's land 18-year-old OF Rivas from Sox to complete Adley deal",
-      "link": "https://www.mlb.com/news/orioles-acquire-harold-rivas-complete-adley-rutschman-deal",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ulc5tn62tk0rmkpby4pg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-08-12T15:17:05+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
