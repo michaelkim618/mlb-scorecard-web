@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-12T18:44:52.458782+00:00",
+  "updated_at": "2026-08-12T19:53:24.678486+00:00",
   "news": [
+    {
+      "title": "Altuve (left foot contusion) out of lineup after getting hit by pitch",
+      "link": "https://www.mlb.com/news/jose-altuve-leaves-game-with-foot-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pkv7c6ojcw1iktkgtblu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-08-12T19:20:00+00:00",
+      "time_ago": "33m ago"
+    },
+    {
+      "title": "Blue Jays claim veteran reliever Sewald off waivers",
+      "link": "https://www.mlb.com/news/paul-sewald-claimed-off-waivers-by-blue-jays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oz8my5j4hjkf7qorr1yx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-12T19:08:10+00:00",
+      "time_ago": "45m ago"
+    },
+    {
+      "title": "Need a reminder of baseball's magic? Just look at Boston",
+      "link": "https://www.mlb.com/news/red-sox-turnaround-magical-mlb-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786560055/mlb/ztq9isavi4zngyoa4vsn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mike Lupica",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-12T18:56:32+00:00",
+      "time_ago": "56m ago"
+    },
+    {
+      "title": "Karros placed on concussion IL after collision with Tovar",
+      "link": "https://www.mlb.com/news/kyle-karros-exits-game-after-infield-collision",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786509456/mlb/yr7uz2owxl4x22ipkj4c",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Steve Stockmar",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-12T18:51:00+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Watch LIVE: '26 High School All-American Game",
       "link": "https://www.mlb.com/news/high-school-all-american-game-2026-watch-live",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T17:48:00+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Harper: Soreness in left knee 'nothing over the top' as Phils prepare for stretch run",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T17:44:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Mikolas DFA'd by Nationals; Kent called up for start vs. Cubs",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T16:42:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "The story behind why Ohtani always 'reels in' Seiya",
@@ -51,58 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-12T16:29:05+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "New season of Café con Lindor features Eladio Carrión in Episode 1",
-      "link": "https://www.mlb.com/news/francisco-lindor-new-season-cafe-con-lindor-podcast",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uwycnckn6ghbvwl1mc5i",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Marino Panchano",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-12T16:15:10+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Lindor says he wants to stay with Mets: 'We have not taken a step backwards'",
-      "link": "https://www.mlb.com/news/francisco-lindor-discusses-future-with-mets",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ov506o6c03bjcekr6tp2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Foster",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-12T16:03:18+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Tonight on ESPN: Yankees battle Mariners, Rangers continue push for 1st",
-      "link": "https://www.mlb.com/news/mariners-vs-yankees-and-angels-vs-rangers-on-espn",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/flbxk7mmuq8rbsrdhknj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brent Maguire",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-12T15:30:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "250 for 250: Top 10 flashes of infield wizardry",
-      "link": "https://www.mlb.com/news/top-flashes-of-infield-wizardry-in-baseball-history",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/z9lgzn2idxawcactkbix",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-12T15:25:04+00:00",
       "time_ago": "3h ago"
     }
   ]
