@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-12T22:07:25.893404+00:00",
+  "updated_at": "2026-08-12T22:23:41.343062+00:00",
   "news": [
+    {
+      "title": "Perfect 9: Rays make history with unbeaten road trip",
+      "link": "https://www.mlb.com/news/rays-first-perfect-9-0-road-trip-franchise-history",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c0x0l27gyqushbukty8x",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-12T22:07:11+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "Blue Jays claim Sewald off waivers to bolster weary bullpen",
       "link": "https://www.mlb.com/news/paul-sewald-claimed-off-waivers-by-blue-jays",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T21:34:00+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "Injuries: R. Greene, Eovaldi, Altuve, Buxton, Dodgers, Stowers",
@@ -25,19 +38,32 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-12T21:24:00+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "59m ago"
     },
     {
-      "title": "Four-run 5th inning sinks Wheeler in another shaky outing for Phils ace",
-      "link": "https://www.mlb.com/news/zack-wheeler-start-cardinals-phillies-aug-12-2026",
+      "title": "Burleson notches 3 RBIs in Cards' offensive outburst vs. Wheeler",
+      "link": "https://www.mlb.com/news/cardinals-beat-zack-wheeler-for-series-win-over-phillies",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/karuon3rfcp9js2vmn0l",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/swh4rhbaglifa4rmnar5",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Jeff Jones",
+      "author": "Brenden Schaeffer",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-12T21:00:00+00:00",
+      "pub_date": "2026-08-12T21:07:20+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Greene (right hamstring strain) placed on 10-day IL",
+      "link": "https://www.mlb.com/news/riley-greene-exits-with-leg-injury-after-hit-by-pitch",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/q989bzy9mydvosz7ovhd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-12T21:02:00+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -54,19 +80,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Mikolas DFA'd by Nationals; Kent called up for start vs. Cubs",
-      "link": "https://www.mlb.com/news/miles-mikolas-designated-by-nationals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iagziw4fuyl9tf4twnvg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jessica Camerato",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-12T20:33:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Rays to open upper deck Saturday as Flappy Boi, first-place club pack the Trop",
       "link": "https://www.mlb.com/news/rays-open-upper-deck-vs-orioles-2026",
       "summary": "",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T20:13:06+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Daughter of former big leaguer leads her Alabama team to 1st LLWS in 27 years",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T19:31:09+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Altuve (left foot contusion) out of lineup after getting hit by pitch",
-      "link": "https://www.mlb.com/news/jose-altuve-leaves-game-with-foot-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pkv7c6ojcw1iktkgtblu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-08-12T19:20:00+00:00",
       "time_ago": "2h ago"
     }
   ]
