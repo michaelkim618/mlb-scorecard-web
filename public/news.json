@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-12T05:20:12.879503+00:00",
+  "updated_at": "2026-08-12T05:48:10.014826+00:00",
   "news": [
+    {
+      "title": "Who will be the HR king? We haven't had a race this close in over 40 years",
+      "link": "https://www.mlb.com/news/who-will-win-the-mlb-home-run-race",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cpqflgarzehdeuscj4eh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sarah Langs",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-12T05:27:58+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "Pérez passes latest test in quest to be one of MLB's elite starters",
+      "link": "https://www.mlb.com/news/eury-perez-throws-seven-scoreless-innings-vs-pirates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786500266/mlb/bwk5f8uf4fjqhha5zkkd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Christina De Nicola",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-12T05:21:00+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "Snell makes statement with 10 K's in return from elbow surgery",
+      "link": "https://www.mlb.com/news/blake-snell-strikes-out-10-in-return-from-elbow-surgery",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786504208/mlb/nydj5ibsj4vexzjarx4h",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-12T05:15:00+00:00",
+      "time_ago": "33m ago"
+    },
     {
       "title": "Muncy delivers again with bases loaded, this time with walk-off in 10th",
       "link": "https://www.mlb.com/news/max-muncy-walks-off-royals-in-10th-inning",
@@ -12,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-12T05:14:35+00:00",
-      "time_ago": "5m ago"
+      "time_ago": "33m ago"
     },
     {
       "title": "(Watch) Pair of AL showdowns on ESPN headlines Wednesday slate",
@@ -25,20 +64,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T05:13:39+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "34m ago"
     },
     {
       "title": "O holy night! White Sox give Pope Hats to sellout crowd, celebrate HRs with their own",
       "link": "https://www.mlb.com/news/white-sox-have-pope-hat-giveaway-at-rate-field",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uz6nacmnlcfpcjyvjtpo",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gsxjsqw00nhnbezmvkhf",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Scott Merkin",
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-12T05:12:00+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "36m ago"
     },
     {
       "title": "Pallante outduels 2-time All-Star Sánchez -- with a little help from his friends",
@@ -51,7 +90,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-08-12T05:06:00+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "Raleigh doesn't mince words after offensive struggles continue on road",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T05:05:10+00:00",
-      "time_ago": "15m ago"
-    },
-    {
-      "title": "Here's what you need to know ahead of today's High School All-American Game",
-      "link": "https://www.mlb.com/news/high-school-all-american-game-2026-watch-live",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ncjblt0hpwsdkitgblbh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ben Weinrib",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-12T05:00:00+00:00",
-      "time_ago": "20m ago"
-    },
-    {
-      "title": "These 11 moments and sights made MiLB at Field of Dreams magical",
-      "link": "https://www.mlb.com/news/moments-that-made-milb-at-field-of-dreams-magical-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ny0hgi7qrfo1mja66nl5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kelsie Heneghan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-12T04:44:00+00:00",
-      "time_ago": "36m ago"
-    },
-    {
-      "title": "Whisenhunt rights early struggles, matches career-high 5 2/3 innings in Giants win",
-      "link": "https://www.mlb.com/news/carson-whisenhunt-pitches-career-high-5-2-3-innings-in-giants-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iudvncum6rtwwhvarjfw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Maria Guardado",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-12T04:32:58+00:00",
-      "time_ago": "47m ago"
+      "time_ago": "42m ago"
     }
   ]
 }
