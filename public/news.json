@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-08-12T22:26:35.300894+00:00",
+  "updated_at": "2026-08-12T23:22:06.294805+00:00",
   "news": [
+    {
+      "title": "Teel (left ankle sprain) ahead of initial timeline with recovery",
+      "link": "https://www.mlb.com/news/kyle-teel-recovering-from-ankle-injury-for-white-sox",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nvgmxcdrjun54uftosye",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-12T23:12:27+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Stott bringing angels to infield with homage to late Phillies at Field of Dreams Game",
+      "link": "https://www.mlb.com/news/bryson-stott-to-wear-custom-cleats-at-field-of-dreams",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786575863/mlb/qnnhtosew6v84nr7udau",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-12T23:07:11+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "Colorado's pitchers walk tightrope, but secure Rockies' first series win in Arizona since '22",
+      "link": "https://www.mlb.com/news/rockies-secure-series-win-on-road-vs-d-backs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/czivn15gzwhixbmibhzd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Steve Stockmar",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-12T22:59:41+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "Smith-Shawver nears return, while Schwellenbach's road back looks longer",
+      "link": "https://www.mlb.com/news/braves-update-aj-smith-shawver-spencer-schwellenbach-robert-suarez",
+      "summary": "Suarez to begin playing catch after being shut down with right forearm inflammation",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/okrbxblohdmorrvj7b1h",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-12T22:51:06+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "11 top performers from the High School All-American Game",
+      "link": "https://www.mlb.com/news/top-performances-from-the-high-school-all-american-game-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/albrqovlju7pirgx8kre",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kelsie Heneghan and Rob Terranova",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-12T22:51:00+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "Astros' bats remain quiet, but sneak out a series-clinching win vs. Giants",
+      "link": "https://www.mlb.com/news/nick-allen-sacrifice-fly-gets-astros-a-win-vs-giants",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cvavlb4pheayxwwe2lx2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-12T22:29:14+00:00",
+      "time_ago": "52m ago"
+    },
     {
       "title": "Perfect 9: Rays make history with unbeaten road trip",
       "link": "https://www.mlb.com/news/rays-first-perfect-9-0-road-trip-franchise-history",
@@ -12,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T22:07:11+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Blue Jays claim Sewald off waivers to bolster weary bullpen",
@@ -25,85 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T21:34:00+00:00",
-      "time_ago": "52m ago"
-    },
-    {
-      "title": "Injuries: R. Greene, Eovaldi, Altuve, Buxton, Dodgers, Stowers",
-      "link": "https://www.mlb.com/news/baseball-injury-updates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/swuj5fq9ga1wlmhr7tao",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-12T21:24:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Burleson notches 3 RBIs in Cards' offensive outburst vs. Wheeler",
-      "link": "https://www.mlb.com/news/cardinals-beat-zack-wheeler-for-series-win-over-phillies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/swh4rhbaglifa4rmnar5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brenden Schaeffer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-12T21:07:20+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Greene (right hamstring strain) placed on 10-day IL",
-      "link": "https://www.mlb.com/news/riley-greene-exits-with-leg-injury-after-hit-by-pitch",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/q989bzy9mydvosz7ovhd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Beck",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-12T21:02:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Lewis heating up at right time as Twins rally past O's",
-      "link": "https://www.mlb.com/news/royce-lewis-twins-beat-orioles-wild-card-push",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qm5uhm9hlm9qb6qixsds",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-12T20:38:26+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Rays to open upper deck Saturday as Flappy Boi, first-place club pack the Trop",
-      "link": "https://www.mlb.com/news/rays-open-upper-deck-vs-orioles-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ckhtszaksvr6zwyohncv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-12T20:13:06+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Daughter of former big leaguer leads her Alabama team to 1st LLWS in 27 years",
-      "link": "https://www.mlb.com/news/kinley-rasmus-daughter-of-cory-rasmus-stars-in-little-league-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pni3erikoc5yrvexrk6v",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-12T19:31:09+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
