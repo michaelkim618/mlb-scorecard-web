@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-12T19:53:24.678486+00:00",
+  "updated_at": "2026-08-12T20:07:46.455738+00:00",
   "news": [
+    {
+      "title": "Daughter of former big leaguer leads her Alabama team to 1st LLWS in 27 years",
+      "link": "https://www.mlb.com/news/kinley-rasmus-daughter-of-cory-rasmus-stars-in-little-league-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pni3erikoc5yrvexrk6v",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-12T19:31:09+00:00",
+      "time_ago": "36m ago"
+    },
     {
       "title": "Altuve (left foot contusion) out of lineup after getting hit by pitch",
       "link": "https://www.mlb.com/news/jose-altuve-leaves-game-with-foot-injury",
@@ -12,7 +25,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-08-12T19:20:00+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "Blue Jays claim veteran reliever Sewald off waivers",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T19:08:10+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "Need a reminder of baseball's magic? Just look at Boston",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T18:56:32+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Karros placed on concussion IL after collision with Tovar",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T16:42:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "The story behind why Ohtani always 'reels in' Seiya",
-      "link": "https://www.mlb.com/news/shohei-ohtani-seiya-suzuki-fishing-joke",
-      "summary": "A joke three years in the making",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ig7kud4dfnncb6tznlgm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Yuki Yamada",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-12T16:29:05+00:00",
       "time_ago": "3h ago"
     }
   ]
