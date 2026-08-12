@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-12T06:57:03.248380+00:00",
+  "updated_at": "2026-08-12T06:59:51.334440+00:00",
   "news": [
+    {
+      "title": "Muncy delivers AGAIN with bases loaded -- this time with walk-off in 10th",
+      "link": "https://www.mlb.com/news/max-muncy-walks-off-royals-in-10th-inning",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786517002/mlb/wr6uk6ayf3esuxentstp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-12T06:56:00+00:00",
+      "time_ago": "3m ago"
+    },
     {
       "title": "High-altitude rehab start may have been key to Snell's 10-K return from elbow surgery",
       "link": "https://www.mlb.com/news/blake-snell-strikes-out-10-in-return-from-elbow-surgery",
@@ -12,7 +25,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-12T06:40:00+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "19m ago"
     },
     {
       "title": "Tatis climbs to No. 2 behind Manny on Padres all-time HR list",
@@ -25,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-12T06:25:00+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "34m ago"
     },
     {
       "title": "Padres rout Brewers, create three-way tie for final two NL Wild Card spots",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T05:21:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Muncy delivers again with bases loaded, this time with walk-off in 10th",
-      "link": "https://www.mlb.com/news/max-muncy-walks-off-royals-in-10th-inning",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786511472/mlb/omtc6yombnxnolfaumxn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-12T05:14:35+00:00",
       "time_ago": "1h ago"
     }
   ]
