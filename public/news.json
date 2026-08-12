@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-12T20:28:01.742708+00:00",
+  "updated_at": "2026-08-12T21:35:33.420038+00:00",
   "news": [
+    {
+      "title": "Four-run 5th inning sinks Wheeler in another shaky outing for Phils ace",
+      "link": "https://www.mlb.com/news/zack-wheeler-start-cardinals-phillies-aug-12-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/karuon3rfcp9js2vmn0l",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jeff Jones",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-12T21:00:00+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "Lewis heating up at right time as Twins rally past O's",
+      "link": "https://www.mlb.com/news/royce-lewis-twins-beat-orioles-wild-card-push",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qm5uhm9hlm9qb6qixsds",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-12T20:38:26+00:00",
+      "time_ago": "57m ago"
+    },
+    {
+      "title": "Mikolas DFA'd by Nationals; Kent called up for start vs. Cubs",
+      "link": "https://www.mlb.com/news/miles-mikolas-designated-by-nationals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iagziw4fuyl9tf4twnvg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jessica Camerato",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-12T20:33:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Rays to open upper deck Saturday as Flappy Boi, first-place club pack the Trop",
+      "link": "https://www.mlb.com/news/rays-open-upper-deck-vs-orioles-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ckhtszaksvr6zwyohncv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-12T20:13:06+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Daughter of former big leaguer leads her Alabama team to 1st LLWS in 27 years",
       "link": "https://www.mlb.com/news/kinley-rasmus-daughter-of-cory-rasmus-stars-in-little-league-world-series",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T19:31:09+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Altuve (left foot contusion) out of lineup after getting hit by pitch",
@@ -25,7 +77,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-08-12T19:20:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Blue Jays claim veteran reliever Sewald off waivers",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T19:08:10+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Need a reminder of baseball's magic? Just look at Boston",
@@ -51,59 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T18:56:32+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Karros placed on concussion IL after collision with Tovar",
-      "link": "https://www.mlb.com/news/kyle-karros-exits-game-after-infield-collision",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786509456/mlb/yr7uz2owxl4x22ipkj4c",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Stockmar",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-12T18:51:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Harper: Soreness in left knee 'nothing over the top' as Phils prepare for stretch run",
-      "link": "https://www.mlb.com/news/bryce-harper-dealing-with-knee-soreness-after-move-back-to-outfield",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mykliizmldasrqwfnkhx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jeff Jones",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-12T17:44:00+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Mikolas DFA'd by Nationals; Kent called up for start vs. Cubs",
-      "link": "https://www.mlb.com/news/miles-mikolas-designated-by-nationals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iagziw4fuyl9tf4twnvg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jessica Camerato",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-12T16:42:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "The story behind why Ohtani always 'reels in' Seiya",
-      "link": "https://www.mlb.com/news/shohei-ohtani-seiya-suzuki-fishing-joke",
-      "summary": "A joke three years in the making",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ig7kud4dfnncb6tznlgm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Yuki Yamada",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-12T16:29:05+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
