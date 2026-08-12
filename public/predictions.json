@@ -161,16 +161,6 @@
     },
     "home_pitcher_gamelog": [
       {
-        "date": "2026-07-10",
-        "opp": "vs LAA",
-        "ip": "6.0",
-        "er": 4,
-        "h": 9,
-        "bb": 2,
-        "so": 3,
-        "era": 6.0
-      },
-      {
         "date": "2026-07-19",
         "opp": "@ CHC",
         "ip": "3.0",
@@ -209,12 +199,22 @@
         "bb": 2,
         "so": 4,
         "era": 5.4
+      },
+      {
+        "date": "2026-08-12",
+        "opp": "vs BAL",
+        "ip": "0.0",
+        "er": 0,
+        "h": 1,
+        "bb": 1,
+        "so": 0,
+        "era": null
       }
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 44.2,
-      "home": 55.8
+      "away": 44.7,
+      "home": 55.3
     },
     "expected_score": {
       "away": 0.9,
@@ -303,17 +303,16 @@
         "total": 33.3
       },
       "home": {
-        "sp_score": 29.3,
+        "sp_score": 29.2,
         "sp_detail": {
-          "era": 5.82,
-          "whip": 1.47,
-          "k9": 7.6,
-          "avg_ip": 5.6,
+          "era": 5.26,
+          "whip": 1.49,
+          "k9": 7.8,
+          "avg_ip": 5.0,
           "qs_rate": 40.0,
-          "last3_era": 7.2,
+          "last3_era": 7.58,
           "last_start_era": 5.4,
           "last2_eras": [
-            5.4,
             5.4
           ],
           "recent_bad_start": false,
@@ -323,21 +322,21 @@
           "rest_days": 5,
           "rest_note": null
         },
-        "bp_score": 49.4,
+        "bp_score": 49.2,
         "bp_detail": {
           "bullpen_era": 3.72,
           "team_era": 4.21,
           "bp_ip": 346.0,
           "bp_count": 8
         },
-        "bat_score": 26.3,
+        "bat_score": 25.8,
         "bat_detail": {
-          "recent_avg": 0.223,
+          "recent_avg": 0.221,
           "runs_per_g": 4.5,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.678,
-          "season_avg": 0.223,
+          "season_ops": 0.677,
+          "season_avg": 0.221,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -348,8 +347,8 @@
             "Josh Bell(0.868)",
             "Kody Clemens(0.547)",
             "Brooks Lee(0.753)",
-            "Luke Keaschall(0.880)",
-            "Victor Caratini(0.469)",
+            "Luke Keaschall(0.843)",
+            "Victor Caratini(0.493)",
             "Alan Roden(0.476)",
             "Ryan Kreidler(0.543)"
           ],
@@ -367,14 +366,14 @@
           }
         },
         "sit_score": 49.8,
-        "total": 36.1
+        "total": 35.7
       }
     },
     "scores": {
       "away_offense": 12.7,
       "away_defense": 46.5,
-      "home_offense": 26.3,
-      "home_defense": 42.4
+      "home_offense": 25.8,
+      "home_defense": 39.2
     },
     "actual_score": {
       "away": 0,
@@ -391,9 +390,9 @@
     "model_winner": "Minnesota Twins",
     "model_correct": null,
     "notes": "Baltimore Orioles IL: Blaze Alexander, Chris Bassitt, Colin Selby, Félix Bautista, Jordan Westburg 외 다수 / Minnesota Twins IL: Anthony Banda, Byron Buxton, Cole Sands, David Festa, Joe Ryan 외 다수",
-    "kalshi_prob": 50.0,
-    "edge": 5.8,
-    "value_bet": "➖ 시장과 유사",
+    "kalshi_prob": 38.0,
+    "edge": 17.3,
+    "value_bet": "⚠️ VB주의(선발Cold) — ✅ Value Bet 후보 (Minnesota Twins)",
     "extreme_edge": false,
     "consensus": false
   },
