@@ -387,9 +387,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Minnesota Twins",
     "model_winner": "Minnesota Twins",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Baltimore Orioles IL: Blaze Alexander, Chris Bassitt, Colin Selby, Félix Bautista, Jordan Westburg 외 다수 / Minnesota Twins IL: Anthony Banda, Byron Buxton, Cole Sands, David Festa, Joe Ryan 외 다수",
     "kalshi_prob": 94.0,
     "edge": -32.0,
