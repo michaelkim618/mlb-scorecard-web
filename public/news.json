@@ -1,83 +1,70 @@
 {
-  "updated_at": "2026-08-13T11:13:58.826276+00:00",
+  "updated_at": "2026-08-13T17:38:42.951107+00:00",
   "news": [
     {
-      "title": "Freeman smiles through 'total body soreness' after scary tumble into opposing dugout",
-      "link": "https://www.mlb.com/news/freddie-freeman-falls-into-royals-dugout-attempting-catch",
+      "title": "Reds ace Greene undergoes 2nd Tommy John surgery",
+      "link": "https://www.mlb.com/news/hunter-greene-has-second-tommy-john-surgery",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wqdoik4acdmf2oms2ewf",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uwlspctkosm2gssvn8te",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-13T06:23:00+00:00",
-      "time_ago": "4h ago"
+      "author": "Zach Sweet",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-13T17:17:00+00:00",
+      "time_ago": "21m ago"
     },
     {
-      "title": "Everything to know about tonight's MLB at Field of Dreams Game on Netflix",
-      "link": "https://www.mlb.com/news/2026-mlb-at-field-of-dreams-game-on-netflix-date-time-matchup",
+      "title": "Red Sox lose setup man Whitlock to IL; Weissert recalled",
+      "link": "https://www.mlb.com/news/garrett-whitlock-right-elbow-inflammation-injured-list",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/drc245ygkidrwuo45g5d",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sldlq3x4suugskagedvv",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Paul Casella and Matthew Leach",
+      "author": "Matt Betts",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-13T06:23:00+00:00",
-      "time_ago": "4h ago"
+      "pub_date": "2026-08-13T16:43:00+00:00",
+      "time_ago": "55m ago"
     },
     {
-      "title": "The story of 'Moonlight' Graham, a Minnesota doctor who got a tantalizing taste of the bigs",
-      "link": "https://www.mlb.com/news/biography-of-field-of-dreams-moonlight-graham",
+      "title": "How much did Dylan Cease’s original painting sell for?",
+      "link": "https://www.mlb.com/news/dylan-cease-artwork-blue-jays-sportsnet-auction",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ar1brilgsajyxds8lp5p",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1778296999/mlb/smrz87frlqwzyihkvk4x",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Cole Jacobson",
+      "author": "Aiden Stepansky",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-13T05:44:00+00:00",
-      "time_ago": "5h ago"
+      "pub_date": "2026-08-13T16:17:29+00:00",
+      "time_ago": "1h ago"
     },
     {
-      "title": "The real ghosts of baseball past",
-      "link": "https://www.mlb.com/news/field-of-dreams-real-life-players-and-events",
-      "summary": "Although 'Field of Dreams' is a wonderful work of fiction, many real-life ballplayers and events were depicted in the film",
-      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/bx4wjd2gfrq8k3i435bf",
+      "title": "These 5 Cardinals have something to prove down the stretch",
+      "link": "https://www.mlb.com/news/cardinals-who-have-chance-for-larger-role-for-rest-of-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wtnsprrpfm624clmizxp",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Anthony Castrovince",
+      "author": "Will Leitch",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-13T05:41:00+00:00",
-      "time_ago": "5h ago"
+      "pub_date": "2026-08-13T16:04:16+00:00",
+      "time_ago": "1h ago"
     },
     {
-      "title": "The woman who found the Field of Dreams",
-      "link": "https://www.mlb.com/news/who-found-the-field-of-dreams",
-      "summary": "Movie magic was built from Sue Riedel's little snapshots in 1988",
-      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/bgs7mgjw5lhfisgkkcw1",
+      "title": "The Phanatic takes on the Field (trip) of Dreams",
+      "link": "https://www.mlb.com/news/phanatic-takes-trip-through-field-of-dreams-ballpark",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uwergheipsukkksu8iwm",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Matt Monagan",
+      "author": "Max Ralph",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-13T05:40:00+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "W.P. Kinsella: The voice behind 'Field of Dreams'",
-      "link": "https://www.mlb.com/news/how-w-p-kinsella-s-novel-turned-into-field-of-dreams",
-      "summary": "The movie -- and book -- that 'should never have been made'",
-      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/gptuxpkzxcs19gcrwljr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Michael Clair",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-13T05:40:00+00:00",
-      "time_ago": "5h ago"
+      "pub_date": "2026-08-13T15:55:43+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "11 Field of Dreams facts you never knew",
@@ -89,21 +76,34 @@
       "author": "Michael Clair",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-13T05:39:00+00:00",
-      "time_ago": "5h ago"
+      "pub_date": "2026-08-13T15:35:00+00:00",
+      "time_ago": "2h ago"
     },
     {
-      "title": "Moved into 3 hole, Jones rewards faith by fueling Yankees' outburst",
-      "link": "https://www.mlb.com/news/spencer-jones-drives-in-three-as-yankees-beat-mariners",
+      "title": "'Excited to see the corn': Schwarber, Phillies head to Iowa for Field of Dreams Game",
+      "link": "https://www.mlb.com/news/phillies-vs-twins-2026-field-of-dreams-game-preview",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786589214/mlb/f5y24zjwz2njgbtxfywv",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/biqhhlv8qt3lf4nn37ja",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Matthew Ritchie",
+      "author": "Paul Casella",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-13T04:19:00+00:00",
-      "time_ago": "6h ago"
+      "pub_date": "2026-08-13T15:30:00+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Today's Reds-White Sox game moved to 12:10 p.m. CT",
+      "link": "https://www.mlb.com/news/reds-white-sox-aug-13-2026-game-start-time-changed",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gjv7mxzeqnm2hqxzmrbz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-13T15:26:14+00:00",
+      "time_ago": "2h ago"
     }
   ]
 }
