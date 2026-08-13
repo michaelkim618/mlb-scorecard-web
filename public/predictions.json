@@ -785,9 +785,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Cincinnati Reds",
     "model_winner": "Chicago White Sox",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Cincinnati Reds IL: Blake Dunn, Brandon Williamson, Graham Ashcraft, Hunter Greene, Spencer Steer 외 다수 / Chicago White Sox IL: Brooks Baldwin, Chris Murphy, Drew Thorpe, Joey Bart, Jordan Leasure 외 다수",
     "kalshi_prob": 6.0,
     "edge": 61.0,
@@ -1581,9 +1581,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Seattle Mariners",
     "model_winner": "New York Yankees",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Seattle Mariners IL: Carlos Vargas, Cole Wilcox, Cooper Criswell, J.P. Crawford, Logan Evans 외 다수 / New York Yankees IL: Aaron Judge, Carlos Rodón, Clarke Schmidt, Cody Bellinger, Giancarlo Stanton 외 다수",
     "kalshi_prob": 25.0,
     "edge": 38.0,

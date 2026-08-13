@@ -7018,6 +7018,48 @@
       "away_bp_score": 56.2,
       "home_bp_score": 45.6,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-13",
+      "away": "Cincinnati Reds",
+      "home": "Chicago White Sox",
+      "pick": "Chicago White Sox",
+      "pick_prob": 67.0,
+      "actual_winner": "Cincinnati Reds",
+      "correct": false,
+      "high_conf": true,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 4.39,
+      "home_sp_era": 6.23,
+      "away_bp_era": 3.96,
+      "home_bp_era": 2.8,
+      "away_sp_score": 28.2,
+      "home_sp_score": 31.8,
+      "away_bp_score": 44.8,
+      "home_bp_score": 73.5,
+      "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-13",
+      "away": "Seattle Mariners",
+      "home": "New York Yankees",
+      "pick": "New York Yankees",
+      "pick_prob": 63.0,
+      "actual_winner": "Seattle Mariners",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "hot",
+      "away_sp_era": 2.88,
+      "home_sp_era": 2.72,
+      "away_bp_era": 3.8,
+      "home_bp_era": 2.6,
+      "away_sp_score": 66.0,
+      "home_sp_score": 66.0,
+      "away_bp_score": 49.5,
+      "home_bp_score": 78.0,
+      "bat_source": "lineup"
     }
   ]
 }
