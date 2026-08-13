@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-12T23:29:18.992778+00:00",
+  "updated_at": "2026-08-13T00:07:26.652836+00:00",
   "news": [
+    {
+      "title": "Leahy bests Wheeler to continue impressive stretch for rallying Cards",
+      "link": "https://www.mlb.com/news/cardinals-beat-zack-wheeler-for-series-win-over-phillies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786577477/mlb/oxpvfjvgm5yd4d21k5xq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brenden Schaeffer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-13T00:02:00+00:00",
+      "time_ago": "5m ago"
+    },
+    {
+      "title": "Perfect 9: Rays make history with unbeaten road trip",
+      "link": "https://www.mlb.com/news/rays-first-perfect-9-0-road-trip-franchise-history",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c0x0l27gyqushbukty8x",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-12T23:53:00+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "11 top performers from the High School All-American Game",
+      "link": "https://www.mlb.com/news/top-performances-from-the-high-school-all-american-game-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/albrqovlju7pirgx8kre",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kelsie Heneghan and Rob Terranova",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-12T23:35:00+00:00",
+      "time_ago": "32m ago"
+    },
     {
       "title": "Twins' 'centerpiece' finding his old form at just the right time",
       "link": "https://www.mlb.com/news/royce-lewis-twins-beat-orioles-wild-card-push",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T23:21:00+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "46m ago"
     },
     {
       "title": "Teel (left ankle sprain) ahead of initial timeline with recovery",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T23:12:27+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "Stott bringing angels to infield with homage to late Phillies at Field of Dreams Game",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T23:07:11+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Colorado's pitchers walk tightrope, but secure Rockies' first series win in Arizona since '22",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T22:59:41+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Smith-Shawver nears return, while Schwellenbach's road back looks longer",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-12T22:51:06+00:00",
-      "time_ago": "38m ago"
-    },
-    {
-      "title": "11 top performers from the High School All-American Game",
-      "link": "https://www.mlb.com/news/top-performances-from-the-high-school-all-american-game-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/albrqovlju7pirgx8kre",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kelsie Heneghan and Rob Terranova",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-12T22:51:00+00:00",
-      "time_ago": "38m ago"
-    },
-    {
-      "title": "Astros' bats remain quiet, but sneak out a series-clinching win vs. Giants",
-      "link": "https://www.mlb.com/news/nick-allen-sacrifice-fly-gets-astros-a-win-vs-giants",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cvavlb4pheayxwwe2lx2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-12T22:29:14+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Perfect 9: Rays make history with unbeaten road trip",
-      "link": "https://www.mlb.com/news/rays-first-perfect-9-0-road-trip-franchise-history",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c0x0l27gyqushbukty8x",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-12T22:07:11+00:00",
       "time_ago": "1h ago"
     }
   ]

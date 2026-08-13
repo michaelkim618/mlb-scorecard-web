@@ -2377,9 +2377,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "San Diego Padres",
     "model_winner": "San Diego Padres",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Milwaukee Brewers IL: Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Cooper Pratt, JoJo Romero 외 다수 / San Diego Padres IL: Bryan Hoeing, David Morgan, Jason Adam, Joe Musgrove, Lucas Giolito 외 다수",
     "kalshi_prob": 35.0,
     "edge": 15.8,
