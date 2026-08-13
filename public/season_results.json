@@ -7060,6 +7060,27 @@
       "away_bp_score": 49.5,
       "home_bp_score": 78.0,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-13",
+      "away": "Boston Red Sox",
+      "home": "Toronto Blue Jays",
+      "pick": "Boston Red Sox",
+      "pick_prob": 63.0,
+      "actual_winner": "Boston Red Sox",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "cold",
+      "away_sp_era": 3.31,
+      "home_sp_era": 6.81,
+      "away_bp_era": 3.01,
+      "home_bp_era": 3.2,
+      "away_sp_score": 60.3,
+      "home_sp_score": 28.5,
+      "away_bp_score": 69.8,
+      "home_bp_score": 62.6,
+      "bat_source": "lineup"
     }
   ]
 }

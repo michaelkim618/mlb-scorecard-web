@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-13T20:25:20.294378+00:00",
+  "updated_at": "2026-08-13T21:30:49.896306+00:00",
   "news": [
+    {
+      "title": "NEW Top 100 and Top 30 Prospects lists are here!",
+      "link": "https://www.mlb.com/news/top-100-prospects-updated-in-season-rankings-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a8cnhckrxsulghh919px",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jonathan Mayo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-13T21:05:58+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "Gilbert blanks Yankees in Bronx to halt Mariners' losing streak",
+      "link": "https://www.mlb.com/news/logan-gilbert-leads-mariners-over-yankees-with-six-strong-innings",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xj6ycyynurwlktwg7hl7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bill Ladson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-13T20:36:45+00:00",
+      "time_ago": "54m ago"
+    },
+    {
+      "title": "Fried keeps rolling, but Yanks' bats silenced by Mariners",
+      "link": "https://www.mlb.com/news/max-fried-allows-one-run-in-five-innings-against-mariners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/al33t7m1dtax9g8hryuj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Ritchie",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-13T20:34:00+00:00",
+      "time_ago": "56m ago"
+    },
+    {
+      "title": "After benches clear and Martin gets ejected, Stewart and Reds get final word vs. White Sox",
+      "link": "https://www.mlb.com/news/davis-martin-ejected-after-hitting-sal-stewart-with-a-pitch",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ulqriesoj2kbplkbsb1p",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin and Zach Sweet",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-13T20:21:00+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Bucs hurler Ashcraft throws 85-pitch complete game",
       "link": "https://www.mlb.com/news/braxton-ashcraft-throws-85-pitch-complete-game",
@@ -12,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-13T20:11:29+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "No K's? No problem: Tigers pull off rare feat in shutout of Guardians",
@@ -25,19 +77,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-13T20:04:32+00:00",
-      "time_ago": "20m ago"
-    },
-    {
-      "title": "Benches clear, Martin ejected after hitting Stewart in the helmet with a pitch",
-      "link": "https://www.mlb.com/news/davis-martin-ejected-after-hitting-sal-stewart-with-a-pitch",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aupexy4d07beluytyo9t",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-13T18:31:10+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -51,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-13T18:28:12+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Three keys for Cardinals in their push for postseason berth",
@@ -64,46 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-13T18:24:19+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Rays sign INF Mateo; Williams optioned to Triple-A",
-      "link": "https://www.mlb.com/news/rays-sign-veteran-jorge-mateo",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786591863/mlb/gt01yscme9g4ouw1ydou",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-08-13T18:24:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Red Sox lose setup man Whitlock to IL; Weissert recalled",
-      "link": "https://www.mlb.com/news/garrett-whitlock-right-elbow-inflammation-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sldlq3x4suugskagedvv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matt Betts",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-13T18:17:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Twins activate Buxton before MLB at Field of Dreams Game",
-      "link": "https://www.mlb.com/news/byron-buxton-activated-before-mlb-at-field-of-dreams",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1783273908/mlb/nezufljhzeei2g36ehtd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-13T18:03:25+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
