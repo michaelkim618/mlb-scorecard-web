@@ -1,18 +1,57 @@
 {
-  "updated_at": "2026-08-13T18:09:43.457919+00:00",
+  "updated_at": "2026-08-13T18:44:03.551041+00:00",
   "news": [
     {
-      "title": "Reds ace Greene undergoes 2nd Tommy John surgery",
-      "link": "https://www.mlb.com/news/hunter-greene-has-second-tommy-john-surgery",
+      "title": "Benches clear, Martin ejected after hitting Stewart in the head with a pitch",
+      "link": "https://www.mlb.com/news/davis-martin-ejected-after-hitting-sal-stewart-with-a-pitch",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uwlspctkosm2gssvn8te",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aupexy4d07beluytyo9t",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-13T17:17:00+00:00",
-      "time_ago": "52m ago"
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-13T18:31:10+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Ohtani progresses to long toss; throwing off mound could be next",
+      "link": "https://www.mlb.com/news/shohei-ohtani-progressing-toward-return-to-pitching",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lpnpx9tldaf5k4uogfga",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-13T18:28:12+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "Three keys for Cardinals in their push for postseason berth",
+      "link": "https://www.mlb.com/news/three-keys-for-cardinals-in-their-push-for-postseason-berth",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jswazzlc6gmet1olswn1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Josh Jacobs",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-13T18:24:19+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Rays sign INF Mateo; Williams optioned to Triple-A",
+      "link": "https://www.mlb.com/news/rays-sign-veteran-jorge-mateo",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786591863/mlb/gt01yscme9g4ouw1ydou",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-08-13T18:24:00+00:00",
+      "time_ago": "20m ago"
     },
     {
       "title": "Red Sox lose setup man Whitlock to IL; Weissert recalled",
@@ -24,7 +63,33 @@
       "author": "Matt Betts",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-13T16:43:00+00:00",
+      "pub_date": "2026-08-13T18:17:00+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "Twins activate Buxton before MLB at Field of Dreams Game",
+      "link": "https://www.mlb.com/news/byron-buxton-activated-before-mlb-at-field-of-dreams",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1783273908/mlb/nezufljhzeei2g36ehtd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-13T18:03:25+00:00",
+      "time_ago": "40m ago"
+    },
+    {
+      "title": "Reds ace Greene undergoes 2nd Tommy John surgery",
+      "link": "https://www.mlb.com/news/hunter-greene-has-second-tommy-john-surgery",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uwlspctkosm2gssvn8te",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Sweet",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-13T17:17:00+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -38,71 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-13T16:17:29+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "These 5 Cardinals have something to prove down the stretch",
-      "link": "https://www.mlb.com/news/cardinals-who-have-chance-for-larger-role-for-rest-of-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wtnsprrpfm624clmizxp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-13T16:04:16+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "The Phanatic takes on the Field (trip) of Dreams",
-      "link": "https://www.mlb.com/news/phanatic-takes-trip-through-field-of-dreams-ballpark",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uwergheipsukkksu8iwm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-13T15:55:43+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "11 Field of Dreams facts you never knew",
-      "link": "https://www.mlb.com/news/field-of-dreams-facts-you-may-not-have-known",
-      "summary": "There are more mysteries than just what is going on in that cornfield",
-      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/sdfgy55cuzcvo8l2oypk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Michael Clair",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-13T15:35:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "'Excited to see the corn': Schwarber, Phillies head to Iowa for Field of Dreams Game",
-      "link": "https://www.mlb.com/news/phillies-vs-twins-2026-field-of-dreams-game-preview",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kq8fwopirbculkmgzexv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-13T15:30:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Today's Reds-White Sox game moved to 12:10 p.m. CT",
-      "link": "https://www.mlb.com/news/reds-white-sox-aug-13-2026-game-start-time-changed",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gjv7mxzeqnm2hqxzmrbz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-13T15:26:14+00:00",
       "time_ago": "2h ago"
     }
   ]
