@@ -387,9 +387,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Detroit Tigers",
     "model_winner": "Detroit Tigers",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Cleveland Guardians IL: Shawn Armstrong, Slade Cecconi / Detroit Tigers IL: Bailey Horn, Brant Hurter, Burch Smith, Jack Flaherty, James Outman 외 다수",
     "kalshi_prob": 82.0,
     "edge": -28.5,
@@ -1183,9 +1183,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Pittsburgh Pirates",
     "model_winner": "Miami Marlins",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Pittsburgh Pirates IL: Endy Rodríguez, Konnor Griffin, Mitch Keller, Oneil Cruz, Ryan O'Hearn / Miami Marlins IL: Adam Mazur, Andrew Nardi, Anthony Bender, Kyle Stowers, Max Meyer 외 다수",
     "kalshi_prob": 3.0,
     "edge": 64.0,

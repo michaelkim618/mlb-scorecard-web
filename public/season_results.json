@@ -6976,6 +6976,48 @@
       "away_bp_score": 44.5,
       "home_bp_score": 63.1,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-13",
+      "away": "Cleveland Guardians",
+      "home": "Detroit Tigers",
+      "pick": "Detroit Tigers",
+      "pick_prob": 53.5,
+      "actual_winner": "Detroit Tigers",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "stable",
+      "away_sp_era": 2.34,
+      "home_sp_era": 2.88,
+      "away_bp_era": 3.34,
+      "home_bp_era": 3.23,
+      "away_sp_score": 70.7,
+      "home_sp_score": 55.2,
+      "away_bp_score": 62.1,
+      "home_bp_score": 65.4,
+      "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-13",
+      "away": "Pittsburgh Pirates",
+      "home": "Miami Marlins",
+      "pick": "Miami Marlins",
+      "pick_prob": 67.0,
+      "actual_winner": "Pittsburgh Pirates",
+      "correct": false,
+      "high_conf": true,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "stable",
+      "away_sp_era": 4.96,
+      "home_sp_era": 3.88,
+      "away_bp_era": 3.5,
+      "home_bp_era": 4.22,
+      "away_sp_score": 33.7,
+      "home_sp_score": 46.7,
+      "away_bp_score": 56.2,
+      "home_bp_score": 45.6,
+      "bat_source": "lineup"
     }
   ]
 }
