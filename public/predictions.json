@@ -2377,9 +2377,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Washington Nationals",
     "model_winner": "Washington Nationals",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Chicago Cubs IL: Ben Brown, Cade Horton, Daniel Palencia, Edward Cabrera, Gavin Hollowell 외 다수 / Washington Nationals IL: Connelly Early, DJ Herz, Drew Millas, James Wood, Josiah Gray 외 다수",
     "kalshi_prob": 99.0,
     "edge": -48.1,

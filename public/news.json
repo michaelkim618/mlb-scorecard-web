@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-13T22:09:25.723553+00:00",
+  "updated_at": "2026-08-13T22:24:25.640118+00:00",
   "news": [
+    {
+      "title": "85 pitches, 27 outs: Bucs' Ashcraft goes the distance",
+      "link": "https://www.mlb.com/news/braxton-ashcraft-throws-85-pitch-complete-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/azqtb0wsa7eafz06m7lo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Perla Paredes",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-13T22:18:00+00:00",
+      "time_ago": "6m ago"
+    },
+    {
+      "title": "After benches clear and Martin gets ejected, Stewart and Reds get final word vs. White Sox",
+      "link": "https://www.mlb.com/news/davis-martin-ejected-after-hitting-sal-stewart-with-a-pitch",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ulqriesoj2kbplkbsb1p",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin and Zach Sweet",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-13T22:12:00+00:00",
+      "time_ago": "12m ago"
+    },
     {
       "title": "Key takeaways: Red Sox 7, Blue Jays 0",
       "link": "https://www.mlb.com/news/max-scherzer-surpasses-3-000-career-innings-in-start-vs-red-sox",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-13T21:52:09+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "32m ago"
     },
     {
       "title": "After his 14-K start, Tolle continues to dominate ... but now, in a different way",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-13T21:43:06+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "41m ago"
     },
     {
       "title": "NEW Top 100 and Top 30 Prospects lists are here!",
@@ -64,32 +90,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-13T20:34:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "After benches clear and Martin gets ejected, Stewart and Reds get final word vs. White Sox",
-      "link": "https://www.mlb.com/news/davis-martin-ejected-after-hitting-sal-stewart-with-a-pitch",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ulqriesoj2kbplkbsb1p",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin and Zach Sweet",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-13T20:21:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Bucs hurler Ashcraft throws 85-pitch complete game",
-      "link": "https://www.mlb.com/news/braxton-ashcraft-throws-85-pitch-complete-game",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/azqtb0wsa7eafz06m7lo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-13T20:11:29+00:00",
       "time_ago": "1h ago"
     },
     {

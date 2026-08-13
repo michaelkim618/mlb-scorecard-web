@@ -7081,6 +7081,27 @@
       "away_bp_score": 69.8,
       "home_bp_score": 62.6,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-13",
+      "away": "Chicago Cubs",
+      "home": "Washington Nationals",
+      "pick": "Washington Nationals",
+      "pick_prob": 50.9,
+      "actual_winner": "Washington Nationals",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "hot",
+      "away_sp_era": 6.4,
+      "home_sp_era": 2.44,
+      "away_bp_era": 3.23,
+      "home_bp_era": 4.2,
+      "away_sp_score": 30.0,
+      "home_sp_score": 72.0,
+      "away_bp_score": 65.4,
+      "home_bp_score": 46.0,
+      "bat_source": "lineup"
     }
   ]
 }
