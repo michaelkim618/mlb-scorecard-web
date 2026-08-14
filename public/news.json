@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-14T16:36:47.533306+00:00",
+  "updated_at": "2026-08-14T17:43:09.776586+00:00",
   "news": [
+    {
+      "title": "White Sox place Martin (blister) on IL; Urquidy gets call to Chicago",
+      "link": "https://www.mlb.com/news/davis-martin-to-il-with-blister-jose-urquidy-joins-white-sox",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dwh3jo8mpejy8jv4aa8v",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Foster",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-14T17:06:26+00:00",
+      "time_ago": "36m ago"
+    },
     {
       "title": "MLB at Field of Dreams to return in 2027 with Royals-Red Sox matchup",
       "link": "https://www.mlb.com/news/royals-red-sox-to-meet-in-2027-field-of-dreams-game",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-14T16:00:00+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Born with one hand, WPBL's Brittany Apgar living her baseball dream",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-14T15:46:50+00:00",
-      "time_ago": "49m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "250 for 250: Top 10 fan moments",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-14T15:28:57+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Cardinals-Cubs, Yankees-Blue Jays highlight Friday baseball slate on Apple TV",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-14T15:24:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Mets reportedly among teams with early interest in star Japanese slugger",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-14T15:16:50+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Rodríguez K's 7 across 7 scoreless innings to continue Triple-A tear",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-14T14:27:46+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Giants to host 2028 All-Star Game by the Bay",
@@ -90,19 +103,6 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-08-14T14:02:43+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "For baseball's youngest pitcher, it's never too early to fulfill your dreams",
-      "link": "https://www.mlb.com/news/didier-fuentes-youngest-pitcher-in-mlb-turned-star-reliever",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nthebgbhwhzmlswfblvw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-14T12:53:53+00:00",
       "time_ago": "3h ago"
     }
   ]
