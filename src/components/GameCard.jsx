@@ -491,6 +491,8 @@ function SummaryBadges({ game, pickProb, awayColor, homeColor, awayName, homeNam
     badges.push(<Chip key="conf" bg="#FEF3C7" color="#78350F" border="#FCD34D">⭐ Premium Pick · {pickProb}% Win Prob</Chip>);
   } else if (pickProb >= 60) {
     badges.push(<Chip key="conf" bg="#EFF6FF" color="#1D4ED8" border="#BFDBFE">📊 Lean {pickProb}%</Chip>);
+  } else if (pickProb < 55) {
+    badges.push(<Chip key="conf" bg="#F1F5F9" color="#475569" border="#CBD5E1">⚠️ Toss-Up · Low Confidence</Chip>);
   }
 
   // 4. Pitcher trends
@@ -590,6 +592,7 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
   const homeStreak = homeForm?.streak ?? 0;
 
   const isHighConf = pickProb >= 65;
+  const isTossUp   = pickProb < 55;
   const isDone     = game.model_correct !== null && game.model_correct !== undefined;
   const isCorrect  = game.model_correct === true;
 
@@ -603,7 +606,7 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
   const cardId = `game-${awayName.split(" ").pop()}-${homeName.split(" ").pop()}`.toLowerCase().replace(/[^a-z0-9-]/g, "");
 
   return (
-    <div id={cardId} style={{ borderRadius: "var(--radius-md)", overflow: "hidden", background: "#fff", boxShadow: "var(--shadow-sm)", border: `1px solid var(--color-border)`, borderLeft: `4px solid ${isHighConf ? "#F59E0B" : pickColor}` }}>
+    <div id={cardId} style={{ borderRadius: "var(--radius-md)", overflow: "hidden", background: "#fff", boxShadow: "var(--shadow-sm)", border: `1px solid var(--color-border)`, borderLeft: `4px solid ${isHighConf ? "#F59E0B" : isTossUp ? "#94A3B8" : pickColor}` }}>
 
       {/* ── Premium banner ── */}
       {isHighConf && (
@@ -617,6 +620,23 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
           </span>
           <span style={{ fontSize: 10, fontWeight: 700, color: "#92400E" }}>
             {pickProb}% Confidence
+          </span>
+        </div>
+      )}
+
+      {/* ── Toss-Up banner ── */}
+      {isTossUp && !isDone && (
+        <div style={{
+          background: "#F1F5F9",
+          borderBottom: "1px solid #CBD5E1",
+          padding: "5px 16px",
+          display: "flex", alignItems: "center", justifyContent: "space-between",
+        }}>
+          <span style={{ fontSize: 11, fontWeight: 700, color: "#475569", letterSpacing: "0.3px" }}>
+            ⚠️ TOSS-UP — Too Close to Call
+          </span>
+          <span style={{ fontSize: 10, fontWeight: 600, color: "#64748B" }}>
+            {pickProb}% · Bet with caution
           </span>
         </div>
       )}
