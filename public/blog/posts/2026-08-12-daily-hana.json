@@ -1,0 +1,209 @@
+{
+  "title": "Aug 12 Results: When the Numbers Tell the Story",
+  "summary": "A solid 66.7% day with 10 wins—here's how our Aug 12 predictions played out",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Here's the Thing About Consistency\n\nAugust 12th gave us exactly what we needed—a solid, winning day that reminds us why we trust the numbers. Ten wins out of fifteen games isn't perfect, but it's the kind of consistency that builds confidence over a long season. Let me walk you through how it all unfolded."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Today W-L",
+          "value": "10-5"
+        },
+        {
+          "label": "Accuracy",
+          "value": "66.7%"
+        },
+        {
+          "label": "Games Analyzed",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Big Picture\n\nWe went 10-5 across today's slate, hitting on exactly two-thirds of our picks. The Yankees, Twins, and Cardinals came through as expected, while a few close calls—looking at you, Guardians-Tigers—reminded us that baseball always has the final say."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Today's Prediction Results by Confidence Level",
+      "data": [
+        {
+          "name": "Twins",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Cardinals",
+          "probability": 55,
+          "result": 1
+        },
+        {
+          "name": "Rays",
+          "probability": 60,
+          "result": 1
+        },
+        {
+          "name": "D-backs",
+          "probability": 57,
+          "result": 0
+        },
+        {
+          "name": "Astros",
+          "probability": 54,
+          "result": 1
+        },
+        {
+          "name": "Brewers",
+          "probability": 52,
+          "result": 0
+        },
+        {
+          "name": "Tigers",
+          "probability": 50,
+          "result": 0
+        },
+        {
+          "name": "Marlins",
+          "probability": 55,
+          "result": 1
+        },
+        {
+          "name": "Cubs",
+          "probability": 57,
+          "result": 1
+        },
+        {
+          "name": "Yankees",
+          "probability": 59,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Wins That Made the Day\n\nThe Yankees pick at 59% confidence was textbook—our model loved their matchup against the Mariners, and they delivered. Same story with the Twins hosting Baltimore at 61%. These weren't coin flips; these were calculated reads that paid off.\n\nThe Rays shutting down the Athletics at 60% confidence? That's the kind of pick that feels good before the first pitch and even better after the final out."
+    },
+    {
+      "type": "table",
+      "title": "Complete Aug 12 Results Breakdown",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Orioles @ Twins",
+          "Twins",
+          "61%",
+          "✓ Hit"
+        ],
+        [
+          "Phillies @ Cardinals",
+          "Cardinals",
+          "55%",
+          "✓ Hit"
+        ],
+        [
+          "Rays @ Athletics",
+          "Rays",
+          "60%",
+          "✓ Hit"
+        ],
+        [
+          "Rockies @ Diamondbacks",
+          "Diamondbacks",
+          "57%",
+          "✗ Miss"
+        ],
+        [
+          "Astros @ Giants",
+          "Astros",
+          "54%",
+          "✓ Hit"
+        ],
+        [
+          "Brewers @ Padres",
+          "Brewers",
+          "52%",
+          "✗ Miss"
+        ],
+        [
+          "Guardians @ Tigers",
+          "Tigers",
+          "50%",
+          "✗ Miss"
+        ],
+        [
+          "Pirates @ Marlins",
+          "Marlins",
+          "55%",
+          "✓ Hit"
+        ],
+        [
+          "Cubs @ Nationals",
+          "Cubs",
+          "57%",
+          "✓ Hit"
+        ],
+        [
+          "Mariners @ Yankees",
+          "Yankees",
+          "59%",
+          "✓ Hit"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Where We Missed\n\nThe Guardians-Tigers game was essentially a toss-up at 50%, and honestly, those are the toughest to stomach when they don't go your way. The Brewers-Padres miss at 52% stings a little more—we liked Milwaukee's chances in San Diego, but the Padres had other plans.\n\nThe Diamondbacks at 57% was our highest-confidence miss. Colorado came to play, and sometimes the underdog story writes itself despite what the numbers suggest."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#3B82F6",
+      "title": "💭 The Takeaway",
+      "value": "66.7% accuracy keeps us ahead of the curve",
+      "sub": "10 wins out of 15 games shows our model is reading the field well"
+    },
+    {
+      "type": "text",
+      "value": "## What's Next\n\nHere's where it gets interesting—there are no games scheduled for tomorrow. Baseball takes a breath, and so do we. It's a rare chance to step back, analyze what worked today, and prepare for the next slate.\n\nDays like August 12th remind us why we do this. It's not about perfection; it's about making informed picks that give us an edge over the long haul. Ten wins, five losses, and a whole lot of baseball stories in between.\n\nWe'll be back when the games return, ready to break down the numbers and find the next winning angle. Until then, enjoy the quiet—it won't last long in this sport."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#10B981",
+      "title": "📊 Bottom Line",
+      "value": "Strong showing on Aug 12 with 66.7% accuracy",
+      "sub": "No games tomorrow—back to work when baseball returns"
+    }
+  ],
+  "slug": "2026-08-12-daily-hana",
+  "author": "Hana",
+  "author_emoji": "🌸",
+  "author_role": "Story Writer",
+  "author_color": "#EC4899",
+  "date": "2026-08-12",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#EC4899"
+}

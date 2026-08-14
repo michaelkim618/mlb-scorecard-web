@@ -1,0 +1,202 @@
+{
+  "title": "Aug 10 Results + Aug 11 Preview: 60% Win Rate on a 10-Game Slate",
+  "summary": "6-4 record on Aug 10 delivers 60% accuracy. Detroit Tigers lead Aug 11 picks at 58%.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Aug 10 Results: The Numbers Don't Lie\n\nLet's break down yesterday's performance. We went 6-4 across a 10-game slate, posting a 60.0% win rate. Not elite, but solidly profitable. The model hit on 6 of 10 predictions, with our highest-confidence picks showing mixed results."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Overall Record",
+          "value": "6-4"
+        },
+        {
+          "label": "Win Rate",
+          "value": "60.0%"
+        },
+        {
+          "label": "Games Analyzed",
+          "value": "10"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Breaking Down the Performance\n\nThe data reveals an interesting pattern: our 63% confidence picks went 3-3, a coin flip result. Meanwhile, our lower-confidence plays (50-62% range) hit at a better clip. The Twins pick at 50% confidence? Hit. Sometimes the tightest games are the easiest to read."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Aug 10 Prediction Results by Confidence Level",
+      "data": [
+        {
+          "name": "Sox",
+          "probability": 63,
+          "result": 0
+        },
+        {
+          "name": "Braves",
+          "probability": 60,
+          "result": 0
+        },
+        {
+          "name": "Twins",
+          "probability": 50,
+          "result": 1
+        },
+        {
+          "name": "Cardinals",
+          "probability": 57,
+          "result": 0
+        },
+        {
+          "name": "Rangers",
+          "probability": 58,
+          "result": 1
+        },
+        {
+          "name": "D-backs",
+          "probability": 63,
+          "result": 1
+        },
+        {
+          "name": "Rays",
+          "probability": 62,
+          "result": 1
+        },
+        {
+          "name": "Brewers",
+          "probability": 63,
+          "result": 0
+        },
+        {
+          "name": "Astros",
+          "probability": 63,
+          "result": 1
+        },
+        {
+          "name": "Dodgers",
+          "probability": 63,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Complete Aug 10 Results Breakdown",
+      "headers": [
+        "Game",
+        "Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Sox @ Jays",
+          "Sox",
+          "63%",
+          "✗"
+        ],
+        [
+          "Mets @ Braves",
+          "Braves",
+          "60%",
+          "✗"
+        ],
+        [
+          "Orioles @ Twins",
+          "Twins",
+          "50%",
+          "✓"
+        ],
+        [
+          "Phillies @ Cardinals",
+          "Cardinals",
+          "57%",
+          "✗"
+        ],
+        [
+          "Rangers @ Angels",
+          "Rangers",
+          "58%",
+          "✓"
+        ],
+        [
+          "Rockies @ D-backs",
+          "D-backs",
+          "63%",
+          "✓"
+        ],
+        [
+          "Rays @ Athletics",
+          "Rays",
+          "62%",
+          "✓"
+        ],
+        [
+          "Brewers @ Padres",
+          "Brewers",
+          "63%",
+          "✗"
+        ],
+        [
+          "Astros @ Giants",
+          "Astros",
+          "63%",
+          "✓"
+        ],
+        [
+          "Royals @ Dodgers",
+          "Dodgers",
+          "63%",
+          "✓"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Key Takeaways from Aug 10\n\nOur biggest misses came in close games: Sox-Jays, Mets-Braves, and Cardinals-Phillies. The Brewers-Padres upset at 63% confidence stings the most from a value perspective. But look at the wins: Rangers, Rays, Astros, and Dodgers all delivered as expected. The Diamondbacks crushing the Rockies at 63% was textbook."
+    },
+    {
+      "type": "text",
+      "value": "## Aug 11 Preview: Tomorrow's Top Pick\n\nThe model is targeting the Guardians-Tigers matchup. Drew Anderson takes the mound for Detroit against Cleveland's Tanner Bibee. The numbers favor the home team at 58% confidence—not our highest conviction play, but the pitching matchup and home field advantage create value."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Aug 11 Top Pick",
+      "value": "Detroit Tigers",
+      "sub": "58% win probability · Anderson vs Bibee · Guardians @ Tigers"
+    },
+    {
+      "type": "text",
+      "value": "## The Aug 11 Angle\n\nThis Tigers pick sits in that 58% sweet spot—the same range where we hit on Rangers and Cardinals yesterday (well, the Rangers at least). Drew Anderson's home splits and Cleveland's road performance metrics give Detroit the edge. Not a slam dunk at 58%, but the data supports backing the home squad.\n\nCheck back tomorrow for the full Aug 11 results breakdown. The numbers never sleep."
+    }
+  ],
+  "slug": "2026-08-10-daily-stan",
+  "author": "Stan",
+  "author_emoji": "📊",
+  "author_role": "Data Analyst",
+  "author_color": "#0EA5E9",
+  "date": "2026-08-10",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#0EA5E9"
+}

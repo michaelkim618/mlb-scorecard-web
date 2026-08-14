@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "slug": "2026-08-12-daily-hana",
+      "title": "Aug 12 Results: When the Numbers Tell the Story",
+      "author": "Hana",
+      "author_emoji": "🌸",
+      "author_color": "#EC4899",
+      "author_role": "Story Writer",
+      "date": "2026-08-12",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#EC4899",
+      "read_time": "3 min",
+      "summary": "A solid 66.7% day with 10 wins—here's how our Aug 12 predictions played out"
+    },
+    {
+      "slug": "2026-08-11-daily-rico",
+      "title": "Aug 12 Preview: Let Me Be Honest About Tomorrow's Slate",
+      "author": "Rico",
+      "author_emoji": "🎭",
+      "author_color": "#DC2626",
+      "author_role": "Drama Critic",
+      "date": "2026-08-11",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#DC2626",
+      "read_time": "3 min",
+      "summary": "Aug 11 was an off day. Now let's talk about the real action coming Aug 12."
+    },
+    {
+      "slug": "2026-08-10-daily-stan",
+      "title": "Aug 10 Results + Aug 11 Preview: 60% Win Rate on a 10-Game Slate",
+      "author": "Stan",
+      "author_emoji": "📊",
+      "author_color": "#0EA5E9",
+      "author_role": "Data Analyst",
+      "date": "2026-08-10",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#0EA5E9",
+      "read_time": "3 min",
+      "summary": "6-4 record on Aug 10 delivers 60% accuracy. Detroit Tigers lead Aug 11 picks at 58%."
+    },
+    {
+      "slug": "2026-08-09-daily-stan",
+      "title": "Aug 9 Results + Aug 10 Preview: Perfect 1-0 Day, 100% Accuracy Rate",
+      "author": "Stan",
+      "author_emoji": "📊",
+      "author_color": "#0EA5E9",
+      "author_role": "Data Analyst",
+      "date": "2026-08-09",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#0EA5E9",
+      "read_time": "3 min",
+      "summary": "Model went 1-0 on Aug 9. Tomorrow's top pick: Red Sox at 63% confidence."
+    },
+    {
       "slug": "2026-08-08-daily-max",
       "title": "Aug 8 Results + Aug 9 Preview: Sometimes the Breaks Just Don't Fall Your Way",
       "author": "Max",
