@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-14T07:01:50.783379+00:00",
+  "updated_at": "2026-08-14T08:01:11.533411+00:00",
   "news": [
+    {
+      "title": "Díaz blows third save in a week, and LA misses chance to tie for NL's best record",
+      "link": "https://www.mlb.com/news/edwin-diaz-blows-third-save-in-last-four-outings",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/orxqgbvhdvmoxrcxdapl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-14T07:08:53+00:00",
+      "time_ago": "52m ago"
+    },
+    {
+      "title": "Brew Crew rallies in 9th to stun Dodgers: 'That's Brewers baseball right there'",
+      "link": "https://www.mlb.com/news/brewers-rally-in-9th-inning-to-beat-dodgers-keep-nl-best-record",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vwjjrf0zps5bm3ij6gkr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-14T07:02:00+00:00",
+      "time_ago": "59m ago"
+    },
     {
       "title": "Trout throws it back to 2018 with another big night for hot-hitting Halos",
       "link": "https://www.mlb.com/news/mike-trout-has-3-hits-as-angels-beat-rangers",
@@ -12,19 +38,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-14T06:05:00+00:00",
-      "time_ago": "56m ago"
-    },
-    {
-      "title": "Brew Crew rallies in 9th to stun Dodgers, stay atop NL",
-      "link": "https://www.mlb.com/news/brewers-rally-in-9th-inning-to-beat-dodgers-keep-nl-best-record",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vwjjrf0zps5bm3ij6gkr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-14T05:18:40+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-14T05:17:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Stats of the Week: Milestones for Miz, Max and more",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-14T05:12:05+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "With Karros on the call, Muncy passes him for most homers at Dodger Stadium",
@@ -64,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-14T05:05:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Despite outcome, Twins gain memories they'll 'cherish for a lifetime' at Field of Dreams Game",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-14T04:40:36+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "The changes that fueled Gavin Williams' historic stretch",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-14T04:26:53+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Hall of Famers of all stripes open Field of Dreams Game festivities",
-      "link": "https://www.mlb.com/news/field-of-dreams-game-hall-of-famers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ktg6rix6ruummpkim3ql",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-14T04:15:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
