@@ -7165,6 +7165,27 @@
       "away_bp_score": 66.4,
       "home_bp_score": 60.2,
       "bat_source": "prev_day"
+    },
+    {
+      "date": "2026-08-14",
+      "away": "St. Louis Cardinals",
+      "home": "Chicago Cubs",
+      "pick": "Chicago Cubs",
+      "pick_prob": 63.0,
+      "actual_winner": "Chicago Cubs",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "stable",
+      "away_sp_era": 5.59,
+      "home_sp_era": 2.5,
+      "away_bp_era": 3.74,
+      "home_bp_era": 3.2,
+      "away_sp_score": 29.7,
+      "home_sp_score": 62.3,
+      "away_bp_score": 54.6,
+      "home_bp_score": 66.0,
+      "bat_source": "lineup"
     }
   ]
 }
