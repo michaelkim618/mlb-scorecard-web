@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-14T21:53:52.669600+00:00",
+  "updated_at": "2026-08-14T22:00:52.151414+00:00",
   "news": [
+    {
+      "title": "Cardinals calling up No. 3 prospect Báez, slugger to debut at Wrigley",
+      "link": "https://www.mlb.com/news/joshua-baez-being-called-up-saturday-to-make-mlb-debut",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/etw9mbo21o6ocgv1qi7j",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Foster",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-14T21:47:48+00:00",
+      "time_ago": "13m ago"
+    },
     {
       "title": "'Beg your pardon, Miss Umpire': Over a century ago, she made history calling games",
       "link": "https://www.mlb.com/news/amanda-clement-trailblazing-umpire-in-early-1900s",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-14T21:16:25+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "44m ago"
     },
     {
       "title": "Yankees-Blue Jays cap full Friday baseball slate on Apple TV",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-14T21:15:00+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "Suzuki powers Holmes' first win with Cubs",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-14T21:11:58+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "Giants call up hot-hitting OF Hill from Triple-A",
@@ -91,19 +104,6 @@
       "tag_color": "#DC2626",
       "pub_date": "2026-08-14T18:39:38+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "White Sox place Martin (blister) on IL; Urquidy gets call to Chicago",
-      "link": "https://www.mlb.com/news/davis-martin-to-il-with-blister-jose-urquidy-joins-white-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dwh3jo8mpejy8jv4aa8v",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Foster",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-14T17:06:26+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }
