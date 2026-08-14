@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-13T23:29:02.936009+00:00",
+  "updated_at": "2026-08-14T00:08:40.972679+00:00",
   "news": [
+    {
+      "title": "No K's? No problem: Tigers pull off rare feat in shutout of Guardians",
+      "link": "https://www.mlb.com/news/tigers-shut-out-guardians-without-strikeout",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hp0qot8jc5usipmd5dm0",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-13T23:54:00+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "MLB surprises MercyOne patients with Field of Dreams experience",
+      "link": "https://www.mlb.com/news/mlb-gives-field-of-dreams-game-tickets-to-mercyone-dubuque-patients",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hf13gvjdadhwtqs7gj8q",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-13T23:47:06+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "Hall of Famers of all stripes open Field of Dreams Game festivities",
+      "link": "https://www.mlb.com/news/field-of-dreams-game-hall-of-famers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ytmci8nsa2n3oxrf2pdl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-13T23:40:00+00:00",
+      "time_ago": "28m ago"
+    },
     {
       "title": "LIVE on Netflix: Phils take on Twins in MLB at Field of Dreams Game",
       "link": "https://www.mlb.com/news/2026-mlb-at-field-of-dreams-game-on-netflix-date-time-matchup",
@@ -12,20 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-13T23:17:00+00:00",
-      "time_ago": "12m ago"
-    },
-    {
-      "title": "Hall of Famers of all stripes open Field of Dreams Game festivities",
-      "link": "https://www.mlb.com/news/field-of-dreams-game-hall-of-famers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ljclljbyz6idfu61hmjr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-13T23:11:55+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "51m ago"
     },
     {
       "title": "Tolle's evolution into dominant starter even draws rave review from rival manager",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-13T23:08:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Royals sign former All-Star, WS champ Gonsolin",
@@ -51,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-13T22:59:00+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Scherzer becomes second active pitcher to reach 3,000 career innings",
@@ -64,45 +90,19 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-13T22:56:00+00:00",
-      "time_ago": "33m ago"
-    },
-    {
-      "title": "85 pitches, 27 outs: Bucs' Ashcraft goes the distance",
-      "link": "https://www.mlb.com/news/braxton-ashcraft-throws-85-pitch-complete-game",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/azqtb0wsa7eafz06m7lo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Perla Paredes",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-13T22:18:00+00:00",
       "time_ago": "1h ago"
     },
     {
-      "title": "After benches clear and Martin gets ejected, Stewart and Reds get final word vs. White Sox",
-      "link": "https://www.mlb.com/news/davis-martin-ejected-after-hitting-sal-stewart-with-a-pitch",
+      "title": "On mound where he dreamed of pitching, Gilbert tosses gem to halt skid",
+      "link": "https://www.mlb.com/news/logan-gilbert-leads-mariners-over-yankees-with-six-strong-innings",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ulqriesoj2kbplkbsb1p",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xj6ycyynurwlktwg7hl7",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Scott Merkin and Zach Sweet",
+      "author": "Bill Ladson",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-13T22:12:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Fried keeps rolling, but Yanks' bats silenced by Mariners",
-      "link": "https://www.mlb.com/news/max-fried-allows-one-run-in-five-innings-against-mariners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/al33t7m1dtax9g8hryuj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Ritchie",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-13T21:52:00+00:00",
+      "pub_date": "2026-08-13T22:44:00+00:00",
       "time_ago": "1h ago"
     }
   ]
