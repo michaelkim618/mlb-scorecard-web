@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-14T21:04:15.293337+00:00",
+  "updated_at": "2026-08-14T21:50:27.008632+00:00",
   "news": [
+    {
+      "title": "'Beg your pardon, Miss Umpire': Over a century ago, she made history calling games",
+      "link": "https://www.mlb.com/news/amanda-clement-trailblazing-umpire-in-early-1900s",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jyvlutbqhjj78sojmz7s",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Chiusano",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-14T21:16:25+00:00",
+      "time_ago": "34m ago"
+    },
+    {
+      "title": "Yankees-Blue Jays cap full Friday baseball slate on Apple TV",
+      "link": "https://www.mlb.com/news/friday-night-baseball-on-apple-tv-for-2026-mlb-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dk1ildpimck5roexbaly",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-14T21:15:00+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "Suzuki powers Holmes' first win with Cubs",
+      "link": "https://www.mlb.com/news/clay-holmes-seiya-suzuki-lead-cubs-win-vs-cardinals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aldvcy9pro5fozrzphqj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-14T21:11:58+00:00",
+      "time_ago": "38m ago"
+    },
+    {
+      "title": "Giants call up hot-hitting OF Hill from Triple-A",
+      "link": "https://www.mlb.com/news/turner-hill-called-up-by-giants",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yxetw63nldaddjpmbvs3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Maria Guardado",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-14T20:22:45+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "A man has spent 6 days trying to throw a Roy Oswalt perfect game in MVP '05",
       "link": "https://www.mlb.com/news/man-trying-to-throw-perfect-game-in-mvp-2005-with-roy-oswalt",
@@ -12,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-14T20:09:40+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Former Mets slugger Huskey, one of last players to wear No. 42, passes away at 54",
@@ -38,20 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-14T18:39:38+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Cardinals-Cubs (LIVE), Yankees-Blue Jays highlight Friday baseball slate on Apple TV",
-      "link": "https://www.mlb.com/news/friday-night-baseball-on-apple-tv-for-2026-mlb-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dk1ildpimck5roexbaly",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-14T18:20:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "White Sox place Martin (blister) on IL; Urquidy gets call to Chicago",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-14T17:06:26+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "MLB at Field of Dreams to return in 2027 with Royals-Red Sox matchup",
-      "link": "https://www.mlb.com/news/royals-red-sox-to-meet-in-2027-field-of-dreams-game",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kpytpswjkwxzrwmtcpul",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-14T16:00:00+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Born with one hand, WPBL's Brittany Apgar living her baseball dream",
-      "link": "https://www.mlb.com/news/brittany-apgar-has-one-hand-and-a-love-for-baseball",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qlro70zrbe0pwecp5yia",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Michael Clair",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-14T15:46:50+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "250 for 250: Top 10 fan moments",
-      "link": "https://www.mlb.com/news/top-fan-moments-in-baseball-history",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nry3aovsgbzvvaufam5k",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-14T15:28:57+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
