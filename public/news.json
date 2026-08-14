@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-14T05:13:12.558174+00:00",
+  "updated_at": "2026-08-14T05:18:41.657624+00:00",
   "news": [
+    {
+      "title": "Trout throws it back to 2018 with another big night for hot-hitting Halos",
+      "link": "https://www.mlb.com/news/mike-trout-has-3-hits-as-angels-beat-rangers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786682692/mlb/ti44mss6ctqi7kpyquzd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rhett Bollinger",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-14T05:12:55+00:00",
+      "time_ago": "5m ago"
+    },
+    {
+      "title": "Stats of the Week: Milestones for Miz, Max and more",
+      "link": "https://www.mlb.com/news/mlb-stats-of-the-week-ending-august-13-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mzlcinb686aijdfzwjx1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-14T05:12:05+00:00",
+      "time_ago": "6m ago"
+    },
     {
       "title": "With Karros on the call, Muncy passes him for most homers at Dodger Stadium",
       "link": "https://www.mlb.com/news/max-muncy-sets-all-time-home-run-record-at-dodger-stadium",
@@ -12,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-14T05:05:00+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "13m ago"
     },
     {
       "title": "Despite outcome, Twins gain memories they'll 'cherish for a lifetime' at Field of Dreams Game",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-14T04:40:36+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "The changes that fueled Gavin Williams' historic stretch",
@@ -38,20 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-14T04:26:53+00:00",
-      "time_ago": "46m ago"
-    },
-    {
-      "title": "deGrom (right triceps fatigue) exits start vs. Angels",
-      "link": "https://www.mlb.com/news/jacob-degrom-exits-with-right-triceps-injury-against-angels",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786676805/mlb/mr9hwjgebsja66uwdvls",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jacob Gurvis",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-14T04:18:00+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "51m ago"
     },
     {
       "title": "Hall of Famers of all stripes open Field of Dreams Game festivities",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-14T04:15:00+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "If you build it, Schwarbombs will come! Phils slugger blasts 2 HRs at Field of Dreams Game",
@@ -77,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-14T04:15:00+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Schwarber's blasts, Nola's gem have Phils asking 'Is this heaven?' in Field of Dreams win",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-14T04:05:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Best moments from MLB at Field of Dreams Game",
-      "link": "https://www.mlb.com/news/top-moments-from-2026-mlb-field-of-dreams-game",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pqdzewzax0cvb4tas6i1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella  Matthew Leach",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-14T03:55:00+00:00",
       "time_ago": "1h ago"
     }
   ]
