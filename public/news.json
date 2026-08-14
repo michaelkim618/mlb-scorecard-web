@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-14T20:14:08.146167+00:00",
+  "updated_at": "2026-08-14T20:18:37.294462+00:00",
   "news": [
+    {
+      "title": "A man has spent 6 days trying to throw a Roy Oswalt perfect game in MVP '05",
+      "link": "https://www.mlb.com/news/man-trying-to-throw-perfect-game-in-mvp-2005-with-roy-oswalt",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/otvkwmiyeokakxt5zzm5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matt Monagan",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-14T20:09:40+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Former Mets slugger Huskey, one of last players to wear No. 42, passes away at 54",
+      "link": "https://www.mlb.com/news/butch-huskey-passes-away",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/shbtkrwzttin9avirm3c",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Foster",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-14T20:02:21+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "Cabrera (hamstring/adductor strain) set for Sunday return vs. Cardinals",
       "link": "https://www.mlb.com/news/edward-cabrera-to-come-off-injured-list-sunday-to-face-cardinals",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-08-14T15:28:57+00:00",
       "time_ago": "4h ago"
-    },
-    {
-      "title": "Mets reportedly among teams with early interest in star Japanese slugger",
-      "link": "https://www.mlb.com/news/mets-reportedly-interested-in-npb-star-teruaki-sato",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ssz4byfhgewoztuzueq5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-14T15:16:50+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Rodríguez K's 7 across 7 scoreless innings to continue Triple-A tear",
-      "link": "https://www.mlb.com/news/elmer-rodriguez-7-scoreless-innings-with-7-strikeouts",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ic2b6ldcxiomhagunsyg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-14T14:27:46+00:00",
-      "time_ago": "5h ago"
     }
   ]
 }
