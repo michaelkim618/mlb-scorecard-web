@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-15T03:26:29.190493+00:00",
+  "updated_at": "2026-08-15T04:00:05.592341+00:00",
   "news": [
+    {
+      "title": "Lindor sparks sleepy Mets bats and kicks off comeback victory",
+      "link": "https://www.mlb.com/news/francisco-lindor-mets-beat-nationals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vxuhmnyicbzs9umh1vfa",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bill Ladson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-15T03:17:00+00:00",
+      "time_ago": "43m ago"
+    },
+    {
+      "title": "Defensive chaos sabotages Cole's gem in 1st start vs. Blue Jays in 2 years",
+      "link": "https://www.mlb.com/news/gerrit-cole-pitches-6-strong-innings-for-yankees-vs-blue-jays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786751306/mlb/pl0jhmhmuoafgdbq58nd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Worden",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-15T03:17:00+00:00",
+      "time_ago": "43m ago"
+    },
     {
       "title": "Guerrero exits, in concussion protocol after collision on chaotic play",
       "link": "https://www.mlb.com/news/vladimir-guerrero-jr-exits-game-after-collision-at-third",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T03:07:00+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "Vargas homers twice as White Sox power up to open critical series with Tigers",
@@ -25,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-15T02:51:00+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Henderson heating up with 4-for-4 night as O's snap Rays' win streak at 9",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T02:06:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Pfaadt outduels a Cy Young winner, shuts down Braves through 7 scoreless innings",
-      "link": "https://www.mlb.com/news/brandon-pfaadt-pitches-seven-scoreless-innings-against-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786760375/mlb/ibnw9ymwxknb7e1uufcz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Rick Farlow",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-15T02:01:50+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Ohtani throws off mound; Smith, Rushing take batting practice",
-      "link": "https://www.mlb.com/news/shohei-ohtani-will-smith-dalton-rushing-injury-updates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pxhevmh4c71kti3foyyo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-15T02:00:03+00:00",
       "time_ago": "1h ago"
     }
   ]
