@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-15T04:07:34.879724+00:00",
+  "updated_at": "2026-08-15T04:16:46.378230+00:00",
   "news": [
+    {
+      "title": "Yamamoto powers through high pitch count to limit Crew to 1 run in 6 innings",
+      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-throws-6-innings-of-1-run-ball-vs-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vd6wabg27sfkeiecpuva",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-15T04:09:49+00:00",
+      "time_ago": "6m ago"
+    },
+    {
+      "title": "Ohtani throws off mound; Smith, Rushing take batting practice",
+      "link": "https://www.mlb.com/news/shohei-ohtani-will-smith-dalton-rushing-injury-updates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pxhevmh4c71kti3foyyo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-15T04:06:00+00:00",
+      "time_ago": "10m ago"
+    },
     {
       "title": "Christian Walk(off)! Astros slugger's winning blast caps 5-run 10th in wild win",
       "link": "https://www.mlb.com/news/christian-walker-hits-walk-off-home-run-in-astros-win-over-mariners",
@@ -12,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-15T03:53:09+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "23m ago"
     },
     {
       "title": "Lindor sparks sleepy Mets bats and kicks off comeback victory",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T03:17:00+00:00",
-      "time_ago": "50m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "Defensive chaos sabotages Cole's gem in 1st start vs. Blue Jays in 2 years",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T03:17:00+00:00",
-      "time_ago": "50m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "Guerrero exits, in concussion protocol after collision on chaotic play",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T02:25:59+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Boone ejected by home-plate ump after arguing strike call on García",
-      "link": "https://www.mlb.com/news/aaron-boone-ejected-from-yankees-blue-jays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/urghyarwu5po4l04y75o",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Worden",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-15T02:23:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Campusano, Bogaerts combine for 6 RBIs to push Padres' win streak to 6",
-      "link": "https://www.mlb.com/news/luis-campusano-padres-beat-guardians-series-opener",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cpzznxfspzxc3i6lqmtj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Dulik",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-15T02:08:35+00:00",
       "time_ago": "1h ago"
     }
   ]
