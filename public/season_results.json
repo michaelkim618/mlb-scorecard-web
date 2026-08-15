@@ -7459,6 +7459,27 @@
       "away_bp_score": 27.8,
       "home_bp_score": 47.6,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-15",
+      "away": "Chicago White Sox",
+      "home": "Detroit Tigers",
+      "pick": "Detroit Tigers",
+      "pick_prob": 57.9,
+      "actual_winner": "Chicago White Sox",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "hot",
+      "away_sp_era": 3.09,
+      "home_sp_era": 0.98,
+      "away_bp_era": 2.93,
+      "home_bp_era": 3.36,
+      "away_sp_score": 46.8,
+      "home_sp_score": 72.0,
+      "away_bp_score": 71.4,
+      "home_bp_score": 62.8,
+      "bat_source": "lineup"
     }
   ]
 }
