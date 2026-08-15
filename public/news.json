@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-08-15T04:16:46.378230+00:00",
+  "updated_at": "2026-08-15T04:57:46.434740+00:00",
   "news": [
+    {
+      "title": "Henderson heating up with 4-for-4 night as O's snap Rays' win streak at 9",
+      "link": "https://www.mlb.com/news/gunnar-henderson-leads-orioles-to-win-over-rays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ghe6v3wtyzih0vykccxj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-15T04:48:00+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "How baseball's unorthodox pitchers found their way",
+      "link": "https://www.mlb.com/news/origin-stories-behind-unique-mlb-pitchers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zwb6zcpbjajfetua32ai",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-15T04:46:33+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Can these struggling stars rebound for the stretch run?",
+      "link": "https://www.mlb.com/news/struggling-stars-look-to-bounce-back-late-in-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rdootmcfwuauurxtjpds",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brent Maguire",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-15T04:46:00+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Padres win 6th straight behind new (temporary) closer",
+      "link": "https://www.mlb.com/news/luis-campusano-padres-beat-guardians-series-opener",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/btrcd0nkht8udtqhcoh2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Dulik",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-15T04:20:00+00:00",
+      "time_ago": "37m ago"
+    },
+    {
+      "title": "Marte day to day after exiting early due to left knee soreness",
+      "link": "https://www.mlb.com/news/ketel-marte-left-knee-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mkws0kl2fqe9u8ck4egx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rick Farlow",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-15T04:20:00+00:00",
+      "time_ago": "37m ago"
+    },
     {
       "title": "Yamamoto powers through high pitch count to limit Crew to 1 run in 6 innings",
       "link": "https://www.mlb.com/news/yoshinobu-yamamoto-throws-6-innings-of-1-run-ball-vs-brewers",
@@ -12,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-15T04:09:49+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "Ohtani throws off mound; Smith, Rushing take batting practice",
@@ -25,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-15T04:06:00+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "51m ago"
     },
     {
       "title": "Christian Walk(off)! Astros slugger's winning blast caps 5-run 10th in wild win",
@@ -38,71 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-15T03:53:09+00:00",
-      "time_ago": "23m ago"
-    },
-    {
-      "title": "Lindor sparks sleepy Mets bats and kicks off comeback victory",
-      "link": "https://www.mlb.com/news/francisco-lindor-mets-beat-nationals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vxuhmnyicbzs9umh1vfa",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bill Ladson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-15T03:17:00+00:00",
-      "time_ago": "59m ago"
-    },
-    {
-      "title": "Defensive chaos sabotages Cole's gem in 1st start vs. Blue Jays in 2 years",
-      "link": "https://www.mlb.com/news/gerrit-cole-pitches-6-strong-innings-for-yankees-vs-blue-jays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786751306/mlb/pl0jhmhmuoafgdbq58nd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Worden",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-15T03:17:00+00:00",
-      "time_ago": "59m ago"
-    },
-    {
-      "title": "Guerrero exits, in concussion protocol after collision on chaotic play",
-      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-exits-game-after-collision-at-third",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mygdn2cvstwieqk4ghle",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-15T03:07:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Vargas homers twice as White Sox power up to open critical series with Tigers",
-      "link": "https://www.mlb.com/news/white-sox-hit-4-home-runs-in-win-over-tigers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786763079/mlb/yzsl1snuhczv0ortdbrc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-15T02:51:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Henderson heating up with 4-for-4 night as O's snap Rays' win streak at 9",
-      "link": "https://www.mlb.com/news/gunnar-henderson-leads-orioles-to-win-over-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ghe6v3wtyzih0vykccxj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-15T02:25:59+00:00",
       "time_ago": "1h ago"
     }
   ]
