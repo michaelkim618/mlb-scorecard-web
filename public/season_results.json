@@ -7543,6 +7543,27 @@
       "away_bp_score": 27.4,
       "home_bp_score": 48.1,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-15",
+      "away": "Washington Nationals",
+      "home": "New York Mets",
+      "pick": "New York Mets",
+      "pick_prob": 58.3,
+      "actual_winner": "New York Mets",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "stable",
+      "away_sp_era": 6.33,
+      "home_sp_era": 3.56,
+      "away_bp_era": 4.22,
+      "home_bp_era": 3.93,
+      "away_sp_score": 36.0,
+      "home_sp_score": 55.8,
+      "away_bp_score": 45.6,
+      "home_bp_score": 51.4,
+      "bat_source": "prev_day"
     }
   ]
 }
