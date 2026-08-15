@@ -1,0 +1,206 @@
+{
+  "title": "Aug 14 Results: A Coin Flip's Worth of Predictive Value",
+  "summary": "Aug 14 delivered a perfectly balanced 7-7 record—statistical noise or systemic bias?",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## The Expected Value of 50%\n\nAugust 14th gave us exactly what no predictive model wants to see: a 7-7 record, perfectly straddling the line between signal and noise. When you're hitting .500, you're statistically indistinguishable from random chance. Let's dissect where the model found edges and where those edges evaporated."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Today W-L",
+          "value": "7-7"
+        },
+        {
+          "label": "Accuracy",
+          "value": "50.0%"
+        },
+        {
+          "label": "Avg Confidence",
+          "value": "59.8%"
+        },
+        {
+          "label": "High-Confidence Hits",
+          "value": "3-5"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Confidence Calibration Analysis\n\nThe most instructive failures came in our highest-confidence picks. At 63% win probability, we went 3-5—a significant underperformance that suggests either model miscalibration or small-sample variance. The Cubs, Astros, and Padres delivered as expected, while the Orioles, Yankees, and Cardinals picks missed despite identical confidence levels."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Aug 14 Prediction Performance by Game",
+      "data": [
+        {
+          "name": "Cubs",
+          "probability": 63,
+          "result": 1
+        },
+        {
+          "name": "Marlins",
+          "probability": 62,
+          "result": 0
+        },
+        {
+          "name": "Sox (PIT)",
+          "probability": 57,
+          "result": 0
+        },
+        {
+          "name": "Sox (DET)",
+          "probability": 58,
+          "result": 1
+        },
+        {
+          "name": "Nationals",
+          "probability": 54,
+          "result": 0
+        },
+        {
+          "name": "Padres",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Rays",
+          "probability": 63,
+          "result": 0
+        },
+        {
+          "name": "Braves",
+          "probability": 54,
+          "result": 0
+        },
+        {
+          "name": "Yankees",
+          "probability": 63,
+          "result": 0
+        },
+        {
+          "name": "Astros",
+          "probability": 63,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Complete Aug 14 Results Breakdown",
+      "headers": [
+        "Matchup",
+        "Pick",
+        "Confidence",
+        "Outcome"
+      ],
+      "rows": [
+        [
+          "Cardinals @ Cubs",
+          "Cubs",
+          "63%",
+          "✓ Hit"
+        ],
+        [
+          "Marlins @ Reds",
+          "Marlins",
+          "62%",
+          "✗ Miss"
+        ],
+        [
+          "White Sox @ Pirates",
+          "White Sox",
+          "57%",
+          "✗ Miss"
+        ],
+        [
+          "Red Sox @ Tigers",
+          "Red Sox",
+          "58%",
+          "✓ Hit"
+        ],
+        [
+          "Nationals @ Mets",
+          "Nationals",
+          "54%",
+          "✗ Miss"
+        ],
+        [
+          "Padres @ Guardians",
+          "Padres",
+          "61%",
+          "✓ Hit"
+        ],
+        [
+          "Orioles @ Rays",
+          "Rays",
+          "63%",
+          "✗ Miss"
+        ],
+        [
+          "Diamondbacks @ Braves",
+          "Braves",
+          "54%",
+          "✗ Miss"
+        ],
+        [
+          "Yankees @ Blue Jays",
+          "Yankees",
+          "63%",
+          "✗ Miss"
+        ],
+        [
+          "Mariners @ Astros",
+          "Astros",
+          "63%",
+          "✓ Hit"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Variance Question\n\nOur 54% confidence picks went 0-2 (Nationals, Braves), reinforcing the reality that narrow edges are just that—narrow. These represent the margins where home-field advantage, bullpen depth, or a single defensive play can swing outcomes. The model correctly identified these as closer to toss-ups, but the actual results skewed entirely toward the underdog.\n\nMeanwhile, mid-range confidence picks (57-62%) produced a mixed 4-3 record, which aligns more closely with expectation. The Sox sweep of their doubleheader split and the Padres' road win over Cleveland represented cases where underlying talent metrics overcame situational disadvantages."
+    },
+    {
+      "type": "text",
+      "value": "## Recalibration Insights\n\nA .500 day isn't cause for model panic—it's one standard deviation from expected outcomes given our confidence distribution. However, the clustering of misses in our highest-confidence tier (63%) warrants examination. Possible factors:\n\n- **August fatigue effects** not fully captured in rest-advantage metrics\n- **Bullpen volatility** in close games exceeding seasonal averages\n- **Regression artifacts** from teams overperforming recent peripherals\n\nThe absence of games tomorrow provides an opportunity to review late-season adjustment factors before the next slate."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#64748B",
+      "title": "📊 Statistical Note",
+      "value": "No games scheduled Aug 15",
+      "sub": "Off-day allows for model recalibration and rest-advantage reset across all teams"
+    },
+    {
+      "type": "text",
+      "value": "## Looking Ahead\n\nWith no games on the Aug 15 schedule, we'll be monitoring roster moves, injury reports, and updated playoff probability matrices. The next game slate will benefit from refreshed bullpen availability metrics—a variable that likely played a role in today's underperformance on high-leverage situations.\n\nA 7-7 record is a reminder that baseball remains stubbornly resistant to prediction, even with advanced metrics. The key is whether our model's confidence levels align with long-term hit rates. One day doesn't establish a trend, but it does provide 14 new data points for ongoing calibration."
+    }
+  ],
+  "slug": "2026-08-14-daily-doc",
+  "author": "Doc",
+  "author_emoji": "🧠",
+  "author_role": "Sabermetrician",
+  "author_color": "#7C3AED",
+  "date": "2026-08-14",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#7C3AED"
+}

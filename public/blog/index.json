@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-08-14-daily-doc",
+      "title": "Aug 14 Results: A Coin Flip's Worth of Predictive Value",
+      "author": "Doc",
+      "author_emoji": "🧠",
+      "author_color": "#7C3AED",
+      "author_role": "Sabermetrician",
+      "date": "2026-08-14",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#7C3AED",
+      "read_time": "3 min",
+      "summary": "Aug 14 delivered a perfectly balanced 7-7 record—statistical noise or systemic bias?"
+    },
+    {
       "slug": "2026-08-12-daily-hana",
       "title": "Aug 12 Results: When the Numbers Tell the Story",
       "author": "Hana",
