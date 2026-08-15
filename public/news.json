@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-15T19:44:25.924450+00:00",
+  "updated_at": "2026-08-15T19:56:06.728915+00:00",
   "news": [
+    {
+      "title": "After long journey through injuries in Minors, Tiedemann called up to make MLB debut",
+      "link": "https://www.mlb.com/news/ricky-tiedemann-call-up-blue-jays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lgiyfng7oxacy9osvt3f",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-15T19:51:00+00:00",
+      "time_ago": "5m ago"
+    },
+    {
+      "title": "After 'crazy few weeks,' Rogers back where it all began for 4th team debut of '26",
+      "link": "https://www.mlb.com/news/jake-rogers-white-sox-debut-comerica-park-tigers",
+      "summary": "Veteran catcher on his way to becoming 'an incredible answer on Immaculate Grid,' jokes Detroit skipper Hinch",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/byncg1qt3gq4xjihnai7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-15T19:50:00+00:00",
+      "time_ago": "6m ago"
+    },
     {
       "title": "2-for-2! Báez homers twice in debut, including on first pitch he sees",
       "link": "https://www.mlb.com/news/joshua-baez-mlb-debut",
@@ -11,8 +37,8 @@
       "author": "Zach Sweet",
       "tag": "Highlight",
       "tag_color": "#D97706",
-      "pub_date": "2026-08-15T19:26:00+00:00",
-      "time_ago": "18m ago"
+      "pub_date": "2026-08-15T19:39:00+00:00",
+      "time_ago": "17m ago"
     },
     {
       "title": "Gil pitches two hitless innings at High-A, could be bullpen option down stretch",
@@ -25,7 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-15T18:55:25+00:00",
-      "time_ago": "49m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Judge plays catch for first time, marking key step in rehab",
@@ -41,19 +67,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "After long journey through injuries in Minors, Tiedemann called up to make MLB debut",
-      "link": "https://www.mlb.com/news/ricky-tiedemann-call-up-blue-jays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/keg3gnd22hhimrzuwgfo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-15T18:14:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Vlad placed on injured list day after exiting with head injury",
       "link": "https://www.mlb.com/news/vladimir-guerrero-jr-out-of-blue-jays-lineup-vs-yankees-on-august-15-2026",
       "summary": "",
@@ -64,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-15T17:49:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "After historic 3-homer game, Whitmore hits 2 more dingers ... and pitches!",
@@ -80,19 +93,6 @@
       "time_ago": "2h ago"
     },
     {
-      "title": "After 'crazy few weeks,' Rogers back where it all began for 4th team debut of '26",
-      "link": "https://www.mlb.com/news/jake-rogers-white-sox-debut-comerica-park-tigers",
-      "summary": "Veteran catcher on his way to becoming 'an incredible answer on Immaculate Grid,' jokes Detroit skipper Hinch",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/byncg1qt3gq4xjihnai7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Beck",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-15T17:19:44+00:00",
-      "time_ago": "2h ago"
-    },
-    {
       "title": "Can these struggling stars rebound for the stretch run?",
       "link": "https://www.mlb.com/news/struggling-stars-look-to-bounce-back-late-in-2026",
       "summary": "",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T15:45:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
