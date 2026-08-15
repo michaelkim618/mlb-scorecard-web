@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T20:50:54.559045+00:00",
+  "updated_at": "2026-08-15T21:01:24.796638+00:00",
   "news": [
     {
       "title": "Misiorowski looking to bring the heat vs. Ohtani, Dodgers in NLCS rematch",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T20:45:00+00:00",
-      "time_ago": "5m ago"
+      "time_ago": "16m ago"
     },
     {
       "title": "Brewers shuffle infield with trade for Ornelas; Bae DFA'd",
@@ -25,20 +25,20 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-15T20:13:22+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "History at Wrigley! Báez the first ever to homer THREE TIMES in MLB debut",
       "link": "https://www.mlb.com/news/joshua-baez-mlb-debut",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dqb0yta4li02pwjoamh2",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wsismx809dqs52qqkq58",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Zach Sweet",
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-15T20:08:00+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "White Sox win series vs. Tigers amid battle in AL Central",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T20:04:46+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "56m ago"
     },
     {
       "title": "After long journey through injuries in Minors, Tiedemann called up to make MLB debut",
@@ -64,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-15T20:04:00+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "After 'crazy few weeks,' Rogers back where it all began for 4th team debut of '26",
@@ -103,7 +103,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-15T18:55:25+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
