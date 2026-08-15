@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-15T04:00:05.592341+00:00",
+  "updated_at": "2026-08-15T04:07:34.879724+00:00",
   "news": [
+    {
+      "title": "Christian Walk(off)! Astros slugger's winning blast caps 5-run 10th in wild win",
+      "link": "https://www.mlb.com/news/christian-walker-hits-walk-off-home-run-in-astros-win-over-mariners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rjzzwgunzg1kz9abh517",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-15T03:53:09+00:00",
+      "time_ago": "14m ago"
+    },
     {
       "title": "Lindor sparks sleepy Mets bats and kicks off comeback victory",
       "link": "https://www.mlb.com/news/francisco-lindor-mets-beat-nationals",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T03:17:00+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Defensive chaos sabotages Cole's gem in 1st start vs. Blue Jays in 2 years",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T03:17:00+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Guerrero exits, in concussion protocol after collision on chaotic play",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T03:07:00+00:00",
-      "time_ago": "53m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Vargas homers twice as White Sox power up to open critical series with Tigers",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T02:08:35+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "'Back to my roots': Burns re-emerges as dominant self in scoreless showing vs. Marlins",
-      "link": "https://www.mlb.com/news/chase-burns-start-vs-marlins-august-14",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bgnojkzsj1oig1ukiw02",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mike Petraglia",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-15T02:06:00+00:00",
       "time_ago": "1h ago"
     }
   ]
