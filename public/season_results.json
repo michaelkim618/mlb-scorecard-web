@@ -7522,6 +7522,27 @@
       "away_bp_score": 78.2,
       "home_bp_score": 60.0,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-15",
+      "away": "Colorado Rockies",
+      "home": "San Francisco Giants",
+      "pick": "San Francisco Giants",
+      "pick_prob": 53.9,
+      "actual_winner": "San Francisco Giants",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "hot",
+      "away_sp_era": 5.83,
+      "home_sp_era": 3.29,
+      "away_bp_era": 5.13,
+      "home_bp_era": 3.69,
+      "away_sp_score": 30.0,
+      "home_sp_score": 61.7,
+      "away_bp_score": 27.4,
+      "home_bp_score": 48.1,
+      "bat_source": "lineup"
     }
   ]
 }
