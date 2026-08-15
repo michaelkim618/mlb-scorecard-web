@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-15T21:01:24.796638+00:00",
+  "updated_at": "2026-08-15T21:43:26.071145+00:00",
   "news": [
+    {
+      "title": "Schlittler works around traffic to deliver effective 5 1/3-inning start",
+      "link": "https://www.mlb.com/news/cam-schlittler-pitches-5-1-3-innings-against-blue-jays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786824576/mlb/v5edxozhq3eoswwbinvz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Worden",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-15T21:13:00+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "After long journey through injuries in Minors, Tiedemann called up to make MLB debut",
+      "link": "https://www.mlb.com/news/ricky-tiedemann-call-up-blue-jays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786824287/mlb/mibkvn8tolffletfqz6i",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-15T21:06:00+00:00",
+      "time_ago": "37m ago"
+    },
+    {
+      "title": "3 HRs in 1st 3 at-bats?! Cards prospect Báez first to accomplish feat in epic big league debut",
+      "link": "https://www.mlb.com/news/joshua-baez-mlb-debut",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wsismx809dqs52qqkq58",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Sweet",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-15T21:02:00+00:00",
+      "time_ago": "41m ago"
+    },
     {
       "title": "Misiorowski looking to bring the heat vs. Ohtani, Dodgers in NLCS rematch",
       "link": "https://www.mlb.com/news/jacob-misiorowski-faces-dodgers-for-second-time-in-career",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T20:45:00+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Brewers shuffle infield with trade for Ornelas; Bae DFA'd",
@@ -25,20 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-15T20:13:22+00:00",
-      "time_ago": "48m ago"
-    },
-    {
-      "title": "History at Wrigley! Báez the first ever to homer THREE TIMES in MLB debut",
-      "link": "https://www.mlb.com/news/joshua-baez-mlb-debut",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wsismx809dqs52qqkq58",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-15T20:08:00+00:00",
-      "time_ago": "53m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "White Sox win series vs. Tigers amid battle in AL Central",
@@ -51,20 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T20:04:46+00:00",
-      "time_ago": "56m ago"
-    },
-    {
-      "title": "After long journey through injuries in Minors, Tiedemann called up to make MLB debut",
-      "link": "https://www.mlb.com/news/ricky-tiedemann-call-up-blue-jays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786824287/mlb/mibkvn8tolffletfqz6i",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-15T20:04:00+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "After 'crazy few weeks,' Rogers back where it all began for 4th team debut of '26",
@@ -83,26 +96,13 @@
       "title": "Players who homered on first career pitch",
       "link": "https://www.mlb.com/news/mlb-rare-feats-home-run-on-1st-career-pitch-c265964496",
       "summary": "Cardinals rookie slugger Báez has a debut for the ages",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j0ipv0kvmhm9vjgwzvx6",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iajowrerbvaeuzx5cqcv",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "David Adler",
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-15T19:21:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Gil pitches two hitless innings at High-A, could be bullpen option down stretch",
-      "link": "https://www.mlb.com/news/luis-gil-pitches-two-hitless-innings-in-rehab-start",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gnsta4km8gmku5clyucq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Worden",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-15T18:55:25+00:00",
       "time_ago": "2h ago"
     }
   ]
