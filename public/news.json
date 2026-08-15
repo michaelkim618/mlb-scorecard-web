@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-08-15T03:05:36.115209+00:00",
+  "updated_at": "2026-08-15T03:09:13.699987+00:00",
   "news": [
-    {
-      "title": "Glasnow strikes out 8 in sharp rehab start, expects to make one more",
-      "link": "https://www.mlb.com/news/tyler-glasnow-strikes-out-8-in-rehab-start",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nwaolkrjdnrwbfmm1qzg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-15T02:33:32+00:00",
-      "time_ago": "32m ago"
-    },
     {
       "title": "Guerrero exits, in concussion protocol after collision on chaotic play",
       "link": "https://www.mlb.com/news/vladimir-guerrero-jr-exits-game-after-collision-at-third",
@@ -24,8 +11,21 @@
       "author": "Keegan Matheson",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-15T02:33:00+00:00",
-      "time_ago": "32m ago"
+      "pub_date": "2026-08-15T03:07:00+00:00",
+      "time_ago": "2m ago"
+    },
+    {
+      "title": "Vargas homers twice as White Sox power up to open critical series with Tigers",
+      "link": "https://www.mlb.com/news/white-sox-hit-4-home-runs-in-win-over-tigers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786763079/mlb/yzsl1snuhczv0ortdbrc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-15T02:51:00+00:00",
+      "time_ago": "18m ago"
     },
     {
       "title": "Henderson heating up with 4-for-4 night as O's snap Rays' win streak at 9",
@@ -38,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T02:25:59+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Boone ejected by home-plate ump after arguing strike call on García",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T02:23:00+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "46m ago"
     },
     {
       "title": "Campusano, Bogaerts combine for 6 RBIs to push Padres' win streak to 6",
@@ -64,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T02:08:35+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'Back to my roots': Burns re-emerges as dominant self in scoreless showing vs. Marlins",
@@ -77,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T02:06:00+00:00",
-      "time_ago": "59m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Pfaadt outduels a Cy Young winner, shuts down Braves through 7 scoreless innings",
@@ -96,7 +96,7 @@
       "title": "Ohtani throws off mound; Smith, Rushing take batting practice",
       "link": "https://www.mlb.com/news/shohei-ohtani-will-smith-dalton-rushing-injury-updates",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pxhevmh4c71kti3foyyo",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nszjhw9ws4kylq549dss",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Sonja Chen",
