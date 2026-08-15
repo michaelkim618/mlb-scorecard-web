@@ -1013,8 +1013,8 @@
     "model_winner": "Chicago Cubs",
     "model_correct": null,
     "notes": "St. Louis Cardinals IL: Max Rajcic, Ramón Urías / Chicago Cubs IL: Ben Brown, Cade Horton, Daniel Palencia, Edward Cabrera, Gavin Hollowell 외 다수",
-    "kalshi_prob": 61.0,
-    "edge": 2.0,
+    "kalshi_prob": 62.0,
+    "edge": 1.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
