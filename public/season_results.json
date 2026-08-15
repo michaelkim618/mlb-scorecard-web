@@ -7501,6 +7501,27 @@
       "away_bp_score": 55.2,
       "home_bp_score": 66.0,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-15",
+      "away": "New York Yankees",
+      "home": "Toronto Blue Jays",
+      "pick": "New York Yankees",
+      "pick_prob": 62.7,
+      "actual_winner": "Toronto Blue Jays",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "cold",
+      "away_sp_era": 2.81,
+      "home_sp_era": 2.61,
+      "away_bp_era": 2.59,
+      "home_bp_era": 3.47,
+      "away_sp_score": 64.9,
+      "home_sp_score": 35.6,
+      "away_bp_score": 78.2,
+      "home_bp_score": 60.0,
+      "bat_source": "lineup"
     }
   ]
 }
