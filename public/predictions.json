@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-08-15",
-    "status": "Preview",
+    "status": "Live",
     "game_time": "10:10 AM PT",
     "away": "Chicago White Sox",
     "home": "Detroit Tigers",
@@ -503,8 +503,8 @@
     "model_winner": "Detroit Tigers",
     "model_correct": null,
     "notes": "Chicago White Sox IL: Brooks Baldwin, Chris Murphy, Davis Martin, Drew Thorpe, Joey Bart 외 다수 / Detroit Tigers IL: Bailey Horn, Brant Hurter, Burch Smith, Jack Flaherty, James Outman 외 다수",
-    "kalshi_prob": 56.0,
-    "edge": -0.1,
+    "kalshi_prob": 57.0,
+    "edge": -1.1,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -1233,18 +1233,18 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 63.0,
-      "home": 37.0
+      "away": 62.7,
+      "home": 37.3
     },
     "expected_score": {
       "away": 2.2,
-      "home": 1.6
+      "home": 1.7
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": false,
@@ -1298,13 +1298,13 @@
           "lineup_ops": [
             "Trent Grisham(0.942)",
             "Ben Rice(0.696)",
-            "Spencer Jones(0.616)",
-            "Luis García Jr.(0.767)",
-            "Jazz Chisholm Jr.(0.595)",
             "Heliot Ramos(0.511)",
+            "Luis García Jr.(0.767)",
+            "Spencer Jones(0.616)",
+            "Jazz Chisholm Jr.(0.595)",
+            "George Lombard Jr.(0.752)",
             "Ryan McMahon(0.792)",
-            "Austin Wells(0.761)",
-            "George Lombard Jr.(0.752)"
+            "Austin Wells(0.761)"
           ],
           "lineup_players": [
             {
@@ -1320,10 +1320,10 @@
               "avg": 0.114
             },
             {
-              "id": 682987,
-              "name": "Spencer Jones",
-              "ops": 0.616,
-              "avg": 0.147
+              "id": 671218,
+              "name": "Heliot Ramos",
+              "ops": 0.511,
+              "avg": 0.094
             },
             {
               "id": 671277,
@@ -1332,16 +1332,22 @@
               "avg": 0.231
             },
             {
+              "id": 682987,
+              "name": "Spencer Jones",
+              "ops": 0.616,
+              "avg": 0.147
+            },
+            {
               "id": 665862,
               "name": "Jazz Chisholm Jr.",
               "ops": 0.595,
               "avg": 0.152
             },
             {
-              "id": 671218,
-              "name": "Heliot Ramos",
-              "ops": 0.511,
-              "avg": 0.094
+              "id": 806146,
+              "name": "George Lombard Jr.",
+              "ops": 0.752,
+              "avg": 0.25
             },
             {
               "id": 641857,
@@ -1354,12 +1360,6 @@
               "name": "Austin Wells",
               "ops": 0.761,
               "avg": 0.333
-            },
-            {
-              "id": 806146,
-              "name": "George Lombard Jr.",
-              "ops": 0.752,
-              "avg": 0.25
             }
           ],
           "home_split": {
@@ -1379,7 +1379,7 @@
         "total": 56.6
       },
       "home": {
-        "sp_score": 35.3,
+        "sp_score": 35.6,
         "sp_detail": {
           "era": 2.61,
           "whip": 1.45,
@@ -1399,21 +1399,21 @@
           "rest_days": 2,
           "rest_note": "short_rest"
         },
-        "bp_score": 59.4,
+        "bp_score": 60.0,
         "bp_detail": {
           "bullpen_era": 3.47,
           "team_era": 3.71,
           "bp_ip": 319.3,
           "bp_count": 6
         },
-        "bat_score": 27.0,
+        "bat_score": 28.4,
         "bat_detail": {
-          "recent_avg": 0.242,
+          "recent_avg": 0.249,
           "runs_per_g": 3.6,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.674,
-          "season_avg": 0.242,
+          "season_ops": 0.676,
+          "season_avg": 0.249,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -1421,13 +1421,13 @@
           "lineup_ops": [
             "Brett Bateman(0.688)",
             "Nathan Lukes(0.644)",
-            "Vladimir Guerrero Jr.(0.640)",
-            "George Springer(0.510)",
             "Alejandro Kirk(0.893)",
-            "Andrés Giménez(0.738)",
-            "Kazuma Okamoto(0.617)",
             "Jesús Sánchez(0.692)",
-            "Ernie Clement(0.645)"
+            "Kazuma Okamoto(0.617)",
+            "Andrés Giménez(0.738)",
+            "Brandon Valenzuela(0.625)",
+            "Josh Smith(0.637)",
+            "Charles McAdoo(0.553)"
           ],
           "lineup_players": [
             {
@@ -1443,34 +1443,10 @@
               "avg": 0.25
             },
             {
-              "id": 665489,
-              "name": "Vladimir Guerrero Jr.",
-              "ops": 0.64,
-              "avg": 0.225
-            },
-            {
-              "id": 543807,
-              "name": "George Springer",
-              "ops": 0.51,
-              "avg": 0.115
-            },
-            {
               "id": 672386,
               "name": "Alejandro Kirk",
               "ops": 0.893,
               "avg": 0.394
-            },
-            {
-              "id": 665926,
-              "name": "Andrés Giménez",
-              "ops": 0.738,
-              "avg": 0.306
-            },
-            {
-              "id": 672960,
-              "name": "Kazuma Okamoto",
-              "ops": 0.617,
-              "avg": 0.211
             },
             {
               "id": 660821,
@@ -1479,10 +1455,34 @@
               "avg": 0.174
             },
             {
-              "id": 676391,
-              "name": "Ernie Clement",
-              "ops": 0.645,
-              "avg": 0.216
+              "id": 672960,
+              "name": "Kazuma Okamoto",
+              "ops": 0.617,
+              "avg": 0.211
+            },
+            {
+              "id": 665926,
+              "name": "Andrés Giménez",
+              "ops": 0.738,
+              "avg": 0.306
+            },
+            {
+              "id": 678218,
+              "name": "Brandon Valenzuela",
+              "ops": 0.625,
+              "avg": 0.238
+            },
+            {
+              "id": 669701,
+              "name": "Josh Smith",
+              "ops": 0.637,
+              "avg": 0.222
+            },
+            {
+              "id": 807727,
+              "name": "Charles McAdoo",
+              "ops": 0.553,
+              "avg": 0.154
             }
           ],
           "home_split": {
@@ -1499,20 +1499,20 @@
           }
         },
         "sit_score": 49.8,
-        "total": 41.0
+        "total": 41.7
       }
     },
     "scores": {
       "away_offense": 32.1,
       "away_defense": 71.6,
-      "home_offense": 27.0,
-      "home_defense": 47.3
+      "home_offense": 28.4,
+      "home_defense": 47.8
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -1523,8 +1523,8 @@
     "model_winner": "New York Yankees",
     "model_correct": null,
     "notes": "New York Yankees IL: Aaron Judge, Carlos Rodón, Clarke Schmidt, Cody Bellinger, Giancarlo Stanton 외 다수 / Toronto Blue Jays IL: Addison Barger, Anthony Santander, Bowden Francis, Cody Ponce, Jake Bloss 외 다수",
-    "kalshi_prob": 38.0,
-    "edge": -1.0,
+    "kalshi_prob": 36.0,
+    "edge": 1.3,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -5467,8 +5467,8 @@
     "model_winner": "Boston Red Sox",
     "model_correct": null,
     "notes": "Boston Red Sox IL: Curtis Mead, Garrett Crochet, Garrett Whitlock, Isiah Kiner-Falefa, Johan Oviedo 외 다수 / Pittsburgh Pirates IL: Endy Rodríguez, Konnor Griffin, Mitch Keller, Oneil Cruz, Ryan O'Hearn",
-    "kalshi_prob": 45.0,
-    "edge": -8.0,
+    "kalshi_prob": 46.0,
+    "edge": -9.0,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Pittsburgh Pirates)",
     "extreme_edge": false,
     "consensus": false
@@ -7507,8 +7507,8 @@
     "model_winner": "Texas Rangers",
     "model_correct": null,
     "notes": "Texas Rangers IL: Carter Baumler, Danny Jansen, Jack Leiter, Jakob Junis, Jalen Beeks 외 다수 / Athletics IL: Brent Rooker, Brooks Kriske, Denzel Clarke, Gunnar Hoglund, Jeffrey Springs 외 다수",
-    "kalshi_prob": 42.0,
-    "edge": 6.9,
+    "kalshi_prob": 41.0,
+    "edge": 7.9,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
