@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-15T16:57:50.285050+00:00",
+  "updated_at": "2026-08-15T17:38:44.399978+00:00",
   "news": [
+    {
+      "title": "After historic 3-homer game, Whitmore hits 2 more dingers ... and pitches!",
+      "link": "https://www.mlb.com/news/wpbl-star-kelsie-whitmore-hits-2-home-runs-pitches-in-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fxb1bztmh7fgdxanfc21",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-15T17:22:05+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "After 'crazy few weeks,' Rogers back where it all began for 4th team debut of '26",
+      "link": "https://www.mlb.com/news/jake-rogers-white-sox-debut-comerica-park-tigers",
+      "summary": "Veteran catcher on his way to becoming 'an incredible answer on Immaculate Grid,' jokes Detroit skipper Hinch",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/u9u8ddit1krbcfyv3xro",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-15T17:19:44+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Vlad placed on injured list day after exiting with head injury",
+      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-out-of-blue-jays-lineup-vs-yankees-on-august-15-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/km78vtu1yzqaegxillbn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-15T17:10:00+00:00",
+      "time_ago": "28m ago"
+    },
     {
       "title": "After long journey through injuries in Minors, Tiedemann called up to make MLB debut",
       "link": "https://www.mlb.com/news/ricky-tiedemann-call-up-blue-jays",
@@ -12,20 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-15T16:29:51+00:00",
-      "time_ago": "27m ago"
-    },
-    {
-      "title": "Vlad out of Toronto lineup day after exiting with head injury",
-      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-out-of-blue-jays-lineup-vs-yankees-on-august-15-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/km78vtu1yzqaegxillbn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-15T16:11:13+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Can these struggling stars rebound for the stretch run?",
@@ -41,69 +67,43 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Ohtani throws off mound; Smith, Rushing take batting practice",
-      "link": "https://www.mlb.com/news/shohei-ohtani-will-smith-dalton-rushing-injury-updates",
+      "title": "From bass to snook, Caissie becoming avid fisherman in Miami",
+      "link": "https://www.mlb.com/news/owen-caissie-fisherman-marlins",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pxhevmh4c71kti3foyyo",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oteawlfncxghhz55h7bi",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-15T06:53:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Yamamoto dominates through 6, then Díaz gets redemption with a save",
-      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-throws-6-innings-of-1-run-ball-vs-brewers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vd6wabg27sfkeiecpuva",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-15T06:35:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "McNeil stops just short of cycle as A's begin to play spoiler",
-      "link": "https://www.mlb.com/news/jeff-mcneil-s-four-hits-lead-a-s-past-rangers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786768534/mlb/nkavym6mlcerp88gevrg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Martín Gallegos",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-15T06:24:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Christian Walk(off)! Astros slugger's winning blast caps 5-run 10th in wild win",
-      "link": "https://www.mlb.com/news/christian-walker-hits-walk-off-home-run-in-astros-win-over-mariners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/r15mmb1aoeigp8dlkral",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-15T05:32:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Henderson heating up with 4-for-4 night as O's snap Rays' win streak at 9",
-      "link": "https://www.mlb.com/news/gunnar-henderson-leads-orioles-to-win-over-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ghe6v3wtyzih0vykccxj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
+      "author": "Christina De Nicola",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-15T04:48:00+00:00",
-      "time_ago": "12h ago"
+      "pub_date": "2026-08-15T15:23:14+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "From Bieber to Metallica, Mets rookies Ewing, Benge strike a chord on and off field",
+      "link": "https://www.mlb.com/news/aj-ewing-carson-benge-guitars-players-weekend-mets",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ejv02jm7jankbzamenf9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-15T14:46:58+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Eyanson, Witherspoon combine for 16 K's to continue strong start in O's organization",
+      "link": "https://www.mlb.com/news/anthony-eyanson-kyson-witherspoon-combine-for-16-strikeouts",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oe5adrh9u8drrcapxmvt",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-15T14:00:25+00:00",
+      "time_ago": "3h ago"
     }
   ]
 }
