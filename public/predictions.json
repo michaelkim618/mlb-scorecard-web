@@ -213,18 +213,18 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 37.8,
-      "home": 62.2
+      "away": 44.1,
+      "home": 55.9
     },
     "expected_score": {
-      "away": 1.8,
-      "home": 2.8
+      "away": 2.0,
+      "home": 2.1
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "L",
       "home_handedness": "R",
       "bullpen_game": false,
@@ -263,14 +263,14 @@
           "bp_ip": 254.7,
           "bp_count": 7
         },
-        "bat_score": 30.2,
+        "bat_score": 33.1,
         "bat_detail": {
-          "recent_avg": 0.237,
+          "recent_avg": 0.245,
           "runs_per_g": 3.6,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.748,
-          "season_avg": 0.237,
+          "season_ops": 0.771,
+          "season_avg": 0.245,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -284,7 +284,7 @@
             "Colson Montgomery(0.592)",
             "Chase Meidroth(0.971)",
             "Tristan Peters(0.824)",
-            "Drew Romo(0.447)"
+            "Jake Rogers(0.654)"
           ],
           "lineup_players": [
             {
@@ -336,10 +336,10 @@
               "avg": 0.292
             },
             {
-              "id": 691011,
-              "name": "Drew Romo",
-              "ops": 0.447,
-              "avg": 0.133
+              "id": 668670,
+              "name": "Jake Rogers",
+              "ops": 0.654,
+              "avg": 0.211
             }
           ],
           "home_split": {
@@ -356,7 +356,7 @@
           }
         },
         "sit_score": 60.3,
-        "total": 49.5
+        "total": 50.5
       },
       "home": {
         "sp_score": 72.0,
@@ -386,28 +386,28 @@
           "bp_ip": 340.7,
           "bp_count": 10
         },
-        "bat_score": 42.2,
+        "bat_score": 31.7,
         "bat_detail": {
-          "recent_avg": 0.271,
+          "recent_avg": 0.242,
           "runs_per_g": 4.5,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
-          "season_ops": 0.804,
-          "season_avg": 0.271,
+          "season_ops": 0.716,
+          "season_avg": 0.242,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
             "Gleyber Torres(0.703)",
+            "Hao-Yu Lee(0.601)",
             "Dillon Dingler(0.735)",
             "Kevin McGonigle(0.764)",
             "Eduardo Valencia(1.105)",
-            "Colt Keith(0.725)",
             "Spencer Torkelson(0.797)",
-            "Zach McKinstry(0.701)",
             "Ben Malgeri(1.070)",
-            "Max Clark(0.635)"
+            "Javier Báez(0.671)",
+            "Corey Julks(0.000)"
           ],
           "lineup_players": [
             {
@@ -415,6 +415,12 @@
               "name": "Gleyber Torres",
               "ops": 0.703,
               "avg": 0.22
+            },
+            {
+              "id": 701678,
+              "name": "Hao-Yu Lee",
+              "ops": 0.601,
+              "avg": 0.188
             },
             {
               "id": 693307,
@@ -435,22 +441,10 @@
               "avg": 0.323
             },
             {
-              "id": 690993,
-              "name": "Colt Keith",
-              "ops": 0.725,
-              "avg": 0.25
-            },
-            {
               "id": 679529,
               "name": "Spencer Torkelson",
               "ops": 0.797,
               "avg": 0.351
-            },
-            {
-              "id": 656716,
-              "name": "Zach McKinstry",
-              "ops": 0.701,
-              "avg": 0.296
             },
             {
               "id": 701162,
@@ -459,10 +453,16 @@
               "avg": 0.35
             },
             {
-              "id": 703601,
-              "name": "Max Clark",
-              "ops": 0.635,
-              "avg": 0.195
+              "id": 595879,
+              "name": "Javier Báez",
+              "ops": 0.671,
+              "avg": 0.293
+            },
+            {
+              "id": 667452,
+              "name": "Corey Julks",
+              "ops": 0.0,
+              "avg": 0.0
             }
           ],
           "home_split": {
@@ -479,20 +479,20 @@
           }
         },
         "sit_score": 53.9,
-        "total": 57.0
+        "total": 53.3
       }
     },
     "scores": {
-      "away_offense": 30.2,
+      "away_offense": 33.1,
       "away_defense": 61.7,
-      "home_offense": 42.2,
+      "home_offense": 31.7,
       "home_defense": 67.4
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -504,7 +504,7 @@
     "model_correct": null,
     "notes": "Chicago White Sox IL: Brooks Baldwin, Chris Murphy, Davis Martin, Drew Thorpe, Joey Bart 외 다수 / Detroit Tigers IL: Bailey Horn, Brant Hurter, Burch Smith, Jack Flaherty, James Outman 외 다수",
     "kalshi_prob": 56.0,
-    "edge": 6.2,
+    "edge": -0.1,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -4073,8 +4073,8 @@
     "model_winner": "San Diego Padres",
     "model_correct": null,
     "notes": "San Diego Padres IL: Bryan Hoeing, Jason Adam, Joe Musgrove, Lucas Giolito, Miguel Andujar 외 다수 / Cleveland Guardians IL: Shawn Armstrong, Slade Cecconi",
-    "kalshi_prob": 53.0,
-    "edge": -14.5,
+    "kalshi_prob": 52.0,
+    "edge": -13.5,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Cleveland Guardians)",
     "extreme_edge": false,
     "consensus": false
@@ -5467,8 +5467,8 @@
     "model_winner": "Boston Red Sox",
     "model_correct": null,
     "notes": "Boston Red Sox IL: Curtis Mead, Garrett Crochet, Garrett Whitlock, Isiah Kiner-Falefa, Johan Oviedo 외 다수 / Pittsburgh Pirates IL: Endy Rodríguez, Konnor Griffin, Mitch Keller, Oneil Cruz, Ryan O'Hearn",
-    "kalshi_prob": 46.0,
-    "edge": -9.0,
+    "kalshi_prob": 45.0,
+    "edge": -8.0,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Pittsburgh Pirates)",
     "extreme_edge": false,
     "consensus": false
@@ -6487,8 +6487,8 @@
     "model_winner": "Milwaukee Brewers",
     "model_correct": null,
     "notes": "Milwaukee Brewers IL: Abner Uribe, Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Cooper Pratt 외 다수 / Los Angeles Dodgers IL: Ben Casparius, Blake Treinen, Bobby Miller, Brock Stewart, Brusdar Graterol 외 다수",
-    "kalshi_prob": 45.0,
-    "edge": -3.5,
+    "kalshi_prob": 46.0,
+    "edge": -4.5,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -7507,8 +7507,8 @@
     "model_winner": "Texas Rangers",
     "model_correct": null,
     "notes": "Texas Rangers IL: Carter Baumler, Danny Jansen, Jack Leiter, Jakob Junis, Jalen Beeks 외 다수 / Athletics IL: Brent Rooker, Brooks Kriske, Denzel Clarke, Gunnar Hoglund, Jeffrey Springs 외 다수",
-    "kalshi_prob": 45.0,
-    "edge": 3.9,
+    "kalshi_prob": 42.0,
+    "edge": 6.9,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
