@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-15T22:53:24.771606+00:00",
+  "updated_at": "2026-08-15T23:00:35.556256+00:00",
   "news": [
+    {
+      "title": "After long journey through injuries in Minors, Tiedemann makes his MLB debut",
+      "link": "https://www.mlb.com/news/ricky-tiedemann-call-up-blue-jays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786824287/mlb/mibkvn8tolffletfqz6i",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-15T22:55:00+00:00",
+      "time_ago": "5m ago"
+    },
     {
       "title": "Vlad placed on injured list day after exiting with head injury",
       "link": "https://www.mlb.com/news/vladimir-guerrero-jr-out-of-blue-jays-lineup-vs-yankees-on-august-15-2026",
@@ -12,7 +25,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-15T22:47:00+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "13m ago"
     },
     {
       "title": "Injuries: Judge, Ohtani, Vladdy, Marte, deGrom, Anthony",
@@ -25,7 +38,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-15T22:40:00+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "20m ago"
     },
     {
       "title": "'Johnny Rockets' joins Brewers, gets 1st big league start",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T22:36:00+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "24m ago"
     },
     {
       "title": "White Sox earn series win vs. rival Tigers but 'still have a lot more to go'",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T22:23:00+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "Surging Blue Jays withstand Schlittler, take down Yankees",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T22:17:00+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Schlittler works around traffic to deliver effective 5 1/3-inning start",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T21:43:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Basallo (shoulder) scheduled to begin rehab assignment on Sunday",
-      "link": "https://www.mlb.com/news/samuel-basallo-orioles-rehab-assignment-start",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786826758/mlb/hqfpnpfppcawtktc7ws9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-08-15T21:31:03+00:00",
       "time_ago": "1h ago"
     }
   ]
