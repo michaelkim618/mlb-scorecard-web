@@ -1,18 +1,70 @@
 {
-  "updated_at": "2026-08-15T19:56:06.728915+00:00",
+  "updated_at": "2026-08-15T20:50:54.559045+00:00",
   "news": [
+    {
+      "title": "Misiorowski looking to bring the heat vs. Ohtani, Dodgers in NLCS rematch",
+      "link": "https://www.mlb.com/news/jacob-misiorowski-faces-dodgers-for-second-time-in-career",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wrpel3jjvvr617dpfipo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-15T20:45:00+00:00",
+      "time_ago": "5m ago"
+    },
+    {
+      "title": "Brewers shuffle infield with trade for Ornelas; Bae DFA'd",
+      "link": "https://www.mlb.com/news/jonathan-ornelas-acquired-by-brewers-via-trade",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ksc0d1ssy7rnmxagdnfi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-08-15T20:13:22+00:00",
+      "time_ago": "37m ago"
+    },
+    {
+      "title": "History at Wrigley! Báez the first ever to homer THREE TIMES in MLB debut",
+      "link": "https://www.mlb.com/news/joshua-baez-mlb-debut",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dqb0yta4li02pwjoamh2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Sweet",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-15T20:08:00+00:00",
+      "time_ago": "42m ago"
+    },
+    {
+      "title": "White Sox win series vs. Tigers amid battle in AL Central",
+      "link": "https://www.mlb.com/news/white-sox-win-series-vs-al-central-rival-tigers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hkikss9m3nw1iaagjvzl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-15T20:04:46+00:00",
+      "time_ago": "46m ago"
+    },
     {
       "title": "After long journey through injuries in Minors, Tiedemann called up to make MLB debut",
       "link": "https://www.mlb.com/news/ricky-tiedemann-call-up-blue-jays",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lgiyfng7oxacy9osvt3f",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786824287/mlb/mibkvn8tolffletfqz6i",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Keegan Matheson",
       "tag": "Injury",
       "tag_color": "#DC2626",
-      "pub_date": "2026-08-15T19:51:00+00:00",
-      "time_ago": "5m ago"
+      "pub_date": "2026-08-15T20:04:00+00:00",
+      "time_ago": "46m ago"
     },
     {
       "title": "After 'crazy few weeks,' Rogers back where it all began for 4th team debut of '26",
@@ -25,20 +77,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-15T19:50:00+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "1h ago"
     },
     {
-      "title": "2-for-2! Báez homers twice in debut, including on first pitch he sees",
-      "link": "https://www.mlb.com/news/joshua-baez-mlb-debut",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dqb0yta4li02pwjoamh2",
+      "title": "Players who homered on first career pitch",
+      "link": "https://www.mlb.com/news/mlb-rare-feats-home-run-on-1st-career-pitch-c265964496",
+      "summary": "Cardinals rookie slugger Báez has a debut for the ages",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j0ipv0kvmhm9vjgwzvx6",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Zach Sweet",
+      "author": "David Adler",
       "tag": "Highlight",
       "tag_color": "#D97706",
-      "pub_date": "2026-08-15T19:39:00+00:00",
-      "time_ago": "17m ago"
+      "pub_date": "2026-08-15T19:21:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Gil pitches two hitless innings at High-A, could be bullpen option down stretch",
@@ -52,58 +104,6 @@
       "tag_color": "#DC2626",
       "pub_date": "2026-08-15T18:55:25+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Judge plays catch for first time, marking key step in rehab",
-      "link": "https://www.mlb.com/news/aaron-judge-plays-catch-for-first-time-during-rehab",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bmq6hufwzblyypp0nwgx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Worden",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-15T18:36:51+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Vlad placed on injured list day after exiting with head injury",
-      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-out-of-blue-jays-lineup-vs-yankees-on-august-15-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/km78vtu1yzqaegxillbn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-15T17:49:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "After historic 3-homer game, Whitmore hits 2 more dingers ... and pitches!",
-      "link": "https://www.mlb.com/news/wpbl-star-kelsie-whitmore-hits-2-home-runs-pitches-in-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fxb1bztmh7fgdxanfc21",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-15T17:22:05+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Can these struggling stars rebound for the stretch run?",
-      "link": "https://www.mlb.com/news/struggling-stars-look-to-bounce-back-late-in-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rdootmcfwuauurxtjpds",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brent Maguire",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-15T15:45:00+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }
