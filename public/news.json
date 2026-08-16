@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-16T17:56:20.313140+00:00",
+  "updated_at": "2026-08-16T19:00:38.005315+00:00",
   "news": [
+    {
+      "title": "The best Tommy John success stories",
+      "link": "https://www.mlb.com/news/top-10-tommy-john-surgery-success-stories-c295719048",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/whrjp8lavftkcvzqfmux",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "David Adler",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-16T18:26:00+00:00",
+      "time_ago": "34m ago"
+    },
+    {
+      "title": "Injuries: Bellinger, McClanahan, Wood, Trea, Ohtani, Red Sox",
+      "link": "https://www.mlb.com/news/baseball-injury-updates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1781748458/mlb/mtn0xarx08lykrhbzplh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-16T18:26:00+00:00",
+      "time_ago": "34m ago"
+    },
+    {
+      "title": "A look back at when Tommy John changed baseball history",
+      "link": "https://www.mlb.com/news/tommy-john-surgery-50th-anniversary",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/llhddfdtrz6dy5inhwjg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bill Ladson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-16T17:52:00+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Tommy John, whose surgery blazed a trail for countless players, dies at 83",
       "link": "https://www.mlb.com/news/tommy-john-passes-away",
@@ -12,7 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-16T17:40:28+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Bellinger to begin rehab assignment Tuesday, could join Yanks next weekend",
@@ -25,7 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-16T17:19:32+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Chapman triggers his vesting option for '27",
@@ -38,7 +77,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-08-16T17:16:00+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yoshida (left hamstring strain), Slaten (elbow inflammation) go on injured list",
@@ -51,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-16T17:07:00+00:00",
-      "time_ago": "49m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Turner OK after injury scare, available off bench Sunday",
@@ -64,46 +103,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-16T17:03:00+00:00",
-      "time_ago": "53m ago"
-    },
-    {
-      "title": "LIVE: Caminero and the Rays host Alonso and the Orioles on Peacock",
-      "link": "https://www.mlb.com/news/mlb-sunday-leadoff-on-nbc-peacock-for-2026-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ybyszmgorqrjbaf86tug",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-16T16:06:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Skenes fine with extra rest as Bucs push his next start back to Wednesday",
-      "link": "https://www.mlb.com/news/paul-skenes-start-pushed-back-until-wednesday-vs-tigers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/defvavx6pmw2nud8caut",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-16T05:20:00+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "D-backs finally putting pieces together as NL Wild Card battle heats up",
-      "link": "https://www.mlb.com/news/nolan-arenado-eduardo-rodriguez-help-d-backs-win-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fndesddx1nvgscrd0vqq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Rick Farlow",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-08-16T05:06:00+00:00",
-      "time_ago": "12h ago"
     }
   ]
 }
