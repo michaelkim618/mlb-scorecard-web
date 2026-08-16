@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-08-15-daily-max",
+      "title": "Aug 15 Results: I've Seen Worse Slates, But I've Seen Better",
+      "author": "Max",
+      "author_emoji": "📰",
+      "author_color": "#16A34A",
+      "author_role": "Senior Reporter",
+      "date": "2026-08-15",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#16A34A",
+      "read_time": "3 min",
+      "summary": "A solid 11-4 showing on Aug 15, but those late misses sting a little."
+    },
+    {
       "slug": "2026-08-14-daily-doc",
       "title": "Aug 14 Results: A Coin Flip's Worth of Predictive Value",
       "author": "Doc",
