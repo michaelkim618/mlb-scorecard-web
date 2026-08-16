@@ -1,4 +1,5 @@
-[
+// Auto-generated (scorecard) — 2026-08-16
+window.PREDICTIONS_DATA = [
   {
     "date": "2026-08-16",
     "status": "Live",
@@ -7799,4 +7800,4 @@
     "extreme_edge": false,
     "consensus": false
   }
-]
+];
