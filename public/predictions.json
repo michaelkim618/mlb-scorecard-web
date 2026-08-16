@@ -7709,9 +7709,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Texas Rangers",
     "model_winner": "Athletics",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Texas Rangers IL: Carter Baumler, Danny Jansen, Jack Leiter, Jakob Junis, Jalen Beeks 외 다수 / Athletics IL: Brent Rooker, Brooks Kriske, Denzel Clarke, Gunnar Hoglund, Jeffrey Springs 외 다수",
     "kalshi_prob": 40.0,
     "edge": 10.0,

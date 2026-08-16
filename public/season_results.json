@@ -7753,6 +7753,27 @@
       "away_bp_score": 44.1,
       "home_bp_score": 52.5,
       "bat_source": "prev_day"
+    },
+    {
+      "date": "2026-08-15",
+      "away": "Texas Rangers",
+      "home": "Athletics",
+      "pick": "Athletics",
+      "pick_prob": 50.0,
+      "actual_winner": "Texas Rangers",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "cold",
+      "away_sp_era": 4.66,
+      "home_sp_era": 4.2,
+      "away_bp_era": 3.57,
+      "home_bp_era": 4.58,
+      "away_sp_score": 49.1,
+      "home_sp_score": 41.9,
+      "away_bp_score": 33.9,
+      "home_bp_score": 23.9,
+      "bat_source": "prev_day"
     }
   ]
 }
