@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T05:07:25.495038+00:00",
+  "updated_at": "2026-08-16T05:50:02.690819+00:00",
   "news": [
     {
       "title": "Skenes fine with extra rest as Bucs push his next start back to Wednesday",
@@ -11,8 +11,47 @@
       "author": "Aiden Stepansky",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-16T04:46:00+00:00",
-      "time_ago": "21m ago"
+      "pub_date": "2026-08-16T05:20:00+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "D-backs finally putting pieces together as NL Wild Card battle heats up",
+      "link": "https://www.mlb.com/news/nolan-arenado-eduardo-rodriguez-help-d-backs-win-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fndesddx1nvgscrd0vqq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rick Farlow",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-08-16T05:06:00+00:00",
+      "time_ago": "44m ago"
+    },
+    {
+      "title": "How has Weathers been so good? By using one of his best pitches less",
+      "link": "https://www.mlb.com/news/ryan-weathers-using-fastball-less-for-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xlv6q912pamtt2pozrxh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-16T04:46:58+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Langford's long ball helps Rangers snap out of funk",
+      "link": "https://www.mlb.com/news/wyatt-langford-hits-home-run-in-rangers-win-over-a-s",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786854613/mlb/hmi5fzczdgwoty3niwvu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-16T04:46:36+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "How the division races have changed since the All-Star break",
@@ -25,7 +64,20 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-08-16T04:40:54+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Donovan stars as Mariners put it all together for much-needed win over Astros",
+      "link": "https://www.mlb.com/news/mariners-put-together-complete-win-vs-astros",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nglc4rjb9s1spgyhhjbf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-16T04:37:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "If at first you don't succeed, try (and dance) again!",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-16T04:33:52+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Guards ride complete effort to 10,000th win in franchise history",
@@ -51,58 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-16T04:24:00+00:00",
-      "time_ago": "43m ago"
-    },
-    {
-      "title": "As home slump continues, Tucker gets game off vs. Brewers",
-      "link": "https://www.mlb.com/news/kyle-tucker-out-of-starting-lineup-vs-brewers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786835346/mlb/e46xnhf9kj3ypecvkh0i",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Doug Padilla",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-16T04:11:00+00:00",
-      "time_ago": "56m ago"
-    },
-    {
-      "title": "Red-hot Bohm, Stott showing position change no problem as duo sparks Phils' win",
-      "link": "https://www.mlb.com/news/alec-bohm-has-five-hits-in-phillies-win-over-twins",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786853555/mlb/zjdkooqykzkqtxdrekhv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-16T04:04:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Báez looks to build on historic 3-HR debut today vs. Cubs (3:15 p.m. ET, ABC/ESPN App)",
-      "link": "https://www.mlb.com/news/cardinals-cubs-series-finale-on-abc",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zbwf4sbvyncciqzd6ekb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Foster",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-16T03:46:02+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Gray continues run as Boston's stand-in ace with career-best 15th win",
-      "link": "https://www.mlb.com/news/sonny-gray-seven-scoreless-innings-red-sox-shut-out-pirates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786854777/mlb/y6ytphe6sveq1mhmg20j",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-16T03:39:00+00:00",
       "time_ago": "1h ago"
     }
   ]
