@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-16T19:00:38.005315+00:00",
+  "updated_at": "2026-08-16T19:31:45.573662+00:00",
   "news": [
+    {
+      "title": "Orioles strengthen Wild Card position with 3rd straight win vs. AL-best Rays",
+      "link": "https://www.mlb.com/news/orioles-score-10-runs-defeat-rays-third-straight-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bndcuefxpbvhtlaatpln",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-08-16T19:27:11+00:00",
+      "time_ago": "4m ago"
+    },
+    {
+      "title": "Arenado exits early in Atlanta with apparent injury",
+      "link": "https://www.mlb.com/news/nolan-arenado-exits-d-backs-game-with-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sfwnte25a0jinb7fl8hz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rick Farlow",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-16T19:15:49+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "With Cabrera returning from IL, Cubs make tough pitching decisions",
+      "link": "https://www.mlb.com/news/edward-cabrera-returns-from-injured-list-vs-cardinals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xmiclrawowxp32silvcr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-16T19:10:25+00:00",
+      "time_ago": "21m ago"
+    },
     {
       "title": "The best Tommy John success stories",
       "link": "https://www.mlb.com/news/top-10-tommy-john-surgery-success-stories-c295719048",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-16T18:26:00+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Injuries: Bellinger, McClanahan, Wood, Trea, Ohtani, Red Sox",
@@ -25,7 +64,20 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-16T18:26:00+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "LIVE: Báez looks to build on historic 3-HR debut today vs. Cubs (ABC/ESPN App)",
+      "link": "https://www.mlb.com/news/cardinals-cubs-series-finale-on-abc",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qcijhqaxb18lnjmmuevh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Foster",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-16T18:05:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "A look back at when Tommy John changed baseball history",
@@ -51,58 +103,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-16T17:40:28+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Bellinger to begin rehab assignment Tuesday, could join Yanks next weekend",
-      "link": "https://www.mlb.com/news/cody-bellinger-set-to-begin-rehab-assignment",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786898105/mlb/uqmee3zm2bkz51d0y1aa",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Worden",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-08-16T17:19:32+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Chapman triggers his vesting option for '27",
-      "link": "https://www.mlb.com/news/aroldis-chapman-triggers-vesting-option-for-2027",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ivnkphfxnriw4607cxqa",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-08-16T17:16:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Yoshida (left hamstring strain), Slaten (elbow inflammation) go on injured list",
-      "link": "https://www.mlb.com/news/masataka-yoshida-exits-with-left-leg-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ryrj4tejy1kgfuk2qgw3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-16T17:07:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Turner OK after injury scare, available off bench Sunday",
-      "link": "https://www.mlb.com/news/trea-turner-leaves-phillies-game-after-fouling-ball-off-knee",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yvsyxnpbzruurql6f2ks",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-16T17:03:00+00:00",
       "time_ago": "1h ago"
     }
   ]
