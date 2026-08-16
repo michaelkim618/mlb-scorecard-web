@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-16T03:36:37.461201+00:00",
+  "updated_at": "2026-08-16T04:03:11.689655+00:00",
   "news": [
+    {
+      "title": "Gray continues run as Boston's stand-in ace with career-best 15th win",
+      "link": "https://www.mlb.com/news/sonny-gray-seven-scoreless-innings-red-sox-shut-out-pirates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y6ytphe6sveq1mhmg20j",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-16T03:39:00+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "Skenes fine with extra rest as Bucs push his next start back to Wednesday",
+      "link": "https://www.mlb.com/news/paul-skenes-start-pushed-back-until-wednesday-vs-tigers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/defvavx6pmw2nud8caut",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-16T03:34:48+00:00",
+      "time_ago": "28m ago"
+    },
     {
       "title": "Misiorowski K's Ohtani, Freeman to escape jam, and it wasn't just the heater",
       "link": "https://www.mlb.com/news/jacob-misiorowski-faces-dodgers-for-second-time-in-career",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-16T03:15:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "D-backs finally putting pieces together to stay in Wild Card contention",
@@ -54,19 +80,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Gray continues mound mastery with 7-K gem for career-best 15th win",
-      "link": "https://www.mlb.com/news/sonny-gray-seven-scoreless-innings-red-sox-shut-out-pirates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y6ytphe6sveq1mhmg20j",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-16T02:11:35+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Cantillo leads 1-hitter as Guards secure 10,000th win in franchise history",
       "link": "https://www.mlb.com/news/guardians-secure-10-000th-win-in-franchise-history",
       "summary": "",
@@ -77,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-16T01:51:44+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Marsee's 4 hits, Hernández's 3 RBIs lift Marlins in comeback victory",
-      "link": "https://www.mlb.com/news/jakob-marsee-has-four-hit-game-in-win-over-reds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/n0hylno2mgcvandjq7pr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ben Weinrib",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-16T01:47:59+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Báez sends Memphis Redbirds' clubhouse into frenzy with historic third homer",
@@ -103,7 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-16T01:38:48+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }

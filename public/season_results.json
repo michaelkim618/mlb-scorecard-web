@@ -7732,6 +7732,27 @@
       "away_bp_score": 58.4,
       "home_bp_score": 54.6,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-15",
+      "away": "Kansas City Royals",
+      "home": "Los Angeles Angels",
+      "pick": "Los Angeles Angels",
+      "pick_prob": 56.0,
+      "actual_winner": "Los Angeles Angels",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "hot",
+      "away_sp_era": 2.0,
+      "home_sp_era": 4.0,
+      "away_bp_era": 4.24,
+      "home_bp_era": 3.71,
+      "away_sp_score": 45.9,
+      "home_sp_score": 54.1,
+      "away_bp_score": 44.1,
+      "home_bp_score": 52.5,
+      "bat_source": "prev_day"
     }
   ]
 }
