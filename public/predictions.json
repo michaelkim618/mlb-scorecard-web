@@ -1830,10 +1830,10 @@
             "Trent Grisham(0.877)",
             "Ben Rice(0.692)",
             "Heliot Ramos(0.477)",
-            "Luis García Jr.(0.752)",
+            "Luis García(0.752)",
             "Spencer Jones(0.652)",
-            "Jazz Chisholm Jr.(0.600)",
-            "George Lombard Jr.(0.783)",
+            "Jazz Chisholm(0.600)",
+            "George Lombard(0.783)",
             "Ryan McMahon(0.680)",
             "Austin Wells(0.674)"
           ],
@@ -1858,7 +1858,7 @@
             },
             {
               "id": 671277,
-              "name": "Luis García Jr.",
+              "name": "Luis García",
               "ops": 0.752,
               "avg": 0.231
             },
@@ -1870,13 +1870,13 @@
             },
             {
               "id": 665862,
-              "name": "Jazz Chisholm Jr.",
+              "name": "Jazz Chisholm",
               "ops": 0.6,
               "avg": 0.156
             },
             {
               "id": 806146,
-              "name": "George Lombard Jr.",
+              "name": "George Lombard",
               "ops": 0.783,
               "avg": 0.265
             },
@@ -2859,7 +2859,7 @@
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis Jr.(0.973)",
+            "Fernando Tatis(0.973)",
             "Jake Cronenworth(0.589)",
             "Manny Machado(0.600)",
             "Ty France(0.906)",
@@ -2872,7 +2872,7 @@
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis Jr.",
+              "name": "Fernando Tatis",
               "ops": 0.973,
               "avg": 0.265
             },
