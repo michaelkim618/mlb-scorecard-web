@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T04:53:33.729466+00:00",
+  "updated_at": "2026-08-16T05:03:12.434192+00:00",
   "news": [
     {
       "title": "Skenes fine with extra rest as Bucs push his next start back to Wednesday",
@@ -12,7 +12,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-16T04:46:00+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "How the division races have changed since the All-Star break",
+      "link": "https://www.mlb.com/news/2026-mlb-division-races-since-all-star-break",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hpse0fnhrm1yrmocupqr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Manny Randhawa",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-08-16T04:40:54+00:00",
+      "time_ago": "22m ago"
     },
     {
       "title": "If at first you don't succeed, try (and dance) again!",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-16T04:33:52+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "29m ago"
     },
     {
       "title": "Guards ride complete effort to 10,000th win in franchise history",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-16T04:24:00+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "39m ago"
     },
     {
       "title": "As home slump continues, Tucker gets game off vs. Brewers",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-16T04:11:00+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "Red-hot Bohm, Stott showing position change no problem as duo sparks Phils' win",
@@ -64,19 +77,19 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-16T04:04:00+00:00",
-      "time_ago": "49m ago"
+      "time_ago": "59m ago"
     },
     {
-      "title": "Sanders a revelation for O's as they eke out consecutive 1-run wins vs. Rays",
-      "link": "https://www.mlb.com/news/cam-sanders-gets-save-orioles-beat-rays-in-10-innings",
+      "title": "Báez looks to build on historic 3-HR debut today vs. Cubs (3:15 p.m. ET, ABC/ESPN App)",
+      "link": "https://www.mlb.com/news/cardinals-cubs-series-finale-on-abc",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786853621/mlb/htyuadjwemfukqvee8kt",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zbwf4sbvyncciqzd6ekb",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-16T03:50:00+00:00",
+      "author": "Jason Foster",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-16T03:46:02+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-16T03:39:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Misiorowski K's Ohtani, Freeman to escape jam, and it wasn't just the heater",
-      "link": "https://www.mlb.com/news/jacob-misiorowski-faces-dodgers-for-second-time-in-career",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786846043/mlb/hyilkfpdpyov6cfrkhfj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-16T03:15:00+00:00",
       "time_ago": "1h ago"
     }
   ]
