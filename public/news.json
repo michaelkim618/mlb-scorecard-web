@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T05:50:02.690819+00:00",
+  "updated_at": "2026-08-16T05:58:27.462468+00:00",
   "news": [
     {
       "title": "Skenes fine with extra rest as Bucs push his next start back to Wednesday",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-16T05:20:00+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "D-backs finally putting pieces together as NL Wild Card battle heats up",
@@ -25,7 +25,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-08-16T05:06:00+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "How has Weathers been so good? By using one of his best pitches less",
@@ -38,19 +38,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-16T04:46:58+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Langford's long ball helps Rangers snap out of funk",
-      "link": "https://www.mlb.com/news/wyatt-langford-hits-home-run-in-rangers-win-over-a-s",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786854613/mlb/hmi5fzczdgwoty3niwvu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-16T04:46:36+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -103,6 +90,19 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-16T04:24:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "As home slump continues, Tucker gets game off vs. Brewers",
+      "link": "https://www.mlb.com/news/kyle-tucker-out-of-starting-lineup-vs-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786835346/mlb/e46xnhf9kj3ypecvkh0i",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Doug Padilla",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-16T04:11:00+00:00",
       "time_ago": "1h ago"
     }
   ]
