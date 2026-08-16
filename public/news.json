@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-16T20:59:36.851024+00:00",
+  "updated_at": "2026-08-16T21:41:22.259691+00:00",
   "news": [
+    {
+      "title": "Bellinger nearing return with rehab assignment set to begin within week",
+      "link": "https://www.mlb.com/news/cody-bellinger-set-to-begin-rehab-assignment",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786898105/mlb/uqmee3zm2bkz51d0y1aa",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Worden",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-08-16T21:28:00+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Painter prevails after rocky start as Phils rally for first sweep since June",
+      "link": "https://www.mlb.com/news/phillies-overcome-five-run-deficit-to-sweep-twins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/opfgavrjcwemmei9ure6",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-16T21:23:43+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Báez's borrowed cleats from historic debut heading to Cooperstown",
+      "link": "https://www.mlb.com/news/hall-of-fame-wants-joshua-baez-s-equipment-from-historic-debut",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ba4yxys9izofaydhf1lf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Sweet",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-16T21:12:00+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "Orioles strengthen Wild Card position with 3rd straight win vs. AL-best Rays",
+      "link": "https://www.mlb.com/news/orioles-score-10-runs-defeat-rays-third-straight-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bndcuefxpbvhtlaatpln",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-08-16T20:56:00+00:00",
+      "time_ago": "45m ago"
+    },
     {
       "title": "Sweet redemption for Rice, who hits go-ahead blast after error in 9th",
       "link": "https://www.mlb.com/news/ben-rice-homers-in-10th-as-yankees-beat-blue-jays",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-16T20:54:18+00:00",
-      "time_ago": "5m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "Eury's sweet slide step against Reds helps continue strong run of starts",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-16T20:50:41+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "White Sox showing they're the team to beat in AL Central with sweep of Tigers",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-16T20:43:06+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "A's place Soderstrom on 10-day IL with left hip impingement; Hernaiz recalled",
@@ -51,59 +103,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-16T20:36:19+00:00",
-      "time_ago": "23m ago"
-    },
-    {
-      "title": "Swanson exits after swing and miss with left side discomfort",
-      "link": "https://www.mlb.com/news/dansby-swanson-exits-with-left-side-discomfort",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lna2gy0mfd6ztitkrvuh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-16T20:30:48+00:00",
-      "time_ago": "28m ago"
-    },
-    {
-      "title": "Scott pitches into 7th, picks up win as Mets sweep Nats",
-      "link": "https://www.mlb.com/news/mets-complete-sweep-of-nationals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hxvyqa2eeywznaen15vq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bill Ladson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-16T20:24:57+00:00",
-      "time_ago": "34m ago"
-    },
-    {
-      "title": "Olson swats go-ahead moonshot as Braves fend off surging Snakes",
-      "link": "https://www.mlb.com/news/matt-olson-homer-braves-win-d-backs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/snlqsahkxcw4in6ekvik",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zak Kerr",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-16T20:17:25+00:00",
-      "time_ago": "42m ago"
-    },
-    {
-      "title": "Turang (knee) targeting Tuesday for return to Brewers' lineup",
-      "link": "https://www.mlb.com/news/brice-turang-targeting-tuesday-for-return-from-knee-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786908354/mlb/dtjr9xw7i9lw9azy0v74",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-08-16T20:09:30+00:00",
-      "time_ago": "50m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
