@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-16T17:34:56.602544+00:00",
+  "updated_at": "2026-08-16T17:48:58.417503+00:00",
   "news": [
+    {
+      "title": "Tommy John, whose surgery blazed a trail for countless players, dies at 83",
+      "link": "https://www.mlb.com/news/tommy-john-passes-away",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ibsu7qcan0fe769db8zw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-16T17:40:28+00:00",
+      "time_ago": "8m ago"
+    },
     {
       "title": "Bellinger to begin rehab assignment Tuesday, could join Yanks next weekend",
       "link": "https://www.mlb.com/news/cody-bellinger-set-to-begin-rehab-assignment",
@@ -12,7 +25,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-16T17:19:32+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "29m ago"
     },
     {
       "title": "Chapman triggers his vesting option for '27",
@@ -25,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-08-16T17:16:00+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "32m ago"
     },
     {
       "title": "Yoshida (left hamstring strain), Slaten (elbow inflammation) go on injured list",
@@ -38,7 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-16T17:07:00+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "41m ago"
     },
     {
       "title": "Turner OK after injury scare, available off bench Sunday",
@@ -51,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-16T17:03:00+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "LIVE: Caminero and the Rays host Alonso and the Orioles on Peacock",
@@ -90,19 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-08-16T05:06:00+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "How has Weathers been so good? By using one of his best pitches less",
-      "link": "https://www.mlb.com/news/ryan-weathers-using-fastball-less-for-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xlv6q912pamtt2pozrxh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-16T04:46:58+00:00",
       "time_ago": "12h ago"
     }
   ]
