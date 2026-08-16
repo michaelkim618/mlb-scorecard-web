@@ -1537,9 +1537,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Toronto Blue Jays",
     "model_winner": "New York Yankees",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "New York Yankees IL: Aaron Judge, Carlos Rodón, Clarke Schmidt, Cody Bellinger, Giancarlo Stanton 외 다수 / Toronto Blue Jays IL: Addison Barger, Anthony Santander, Bowden Francis, Cody Ponce, Jake Bloss 외 다수",
     "kalshi_prob": 86.0,
     "edge": -39.1,
@@ -2053,9 +2053,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "San Francisco Giants",
     "model_winner": "San Francisco Giants",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Colorado Rockies IL: Chase Dollander, Jaden Hill, Jose Quintana, Kris Bryant, Kyle Karros 외 다수 / San Francisco Giants IL: Casey Schmitt, Daniel Susac, Harrison Bader, Hayden Birdsong, Jesus Rodriguez 외 다수",
     "kalshi_prob": 97.0,
     "edge": -44.4,
