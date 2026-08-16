@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-16T22:58:58.757288+00:00",
+  "updated_at": "2026-08-16T23:39:32.787086+00:00",
   "news": [
+    {
+      "title": "Veen confidently dashes home on wild pitch that barely gets away from catcher",
+      "link": "https://www.mlb.com/news/zac-veen-scores-on-wild-pitch-in-rockies-win-over-giants",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gtln7ozqdby2igoiylns",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adrian Garro",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-16T23:31:59+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Injuries: Bellinger, Dansby, McClanahan, Wood, Trea, Dodgers",
+      "link": "https://www.mlb.com/news/baseball-injury-updates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1781748458/mlb/mtn0xarx08lykrhbzplh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-16T23:22:00+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Skubal finishes with a flourish in 6 strong innings, but Dodgers' bats stay quiet",
+      "link": "https://www.mlb.com/news/tarik-skubal-strikes-out-7-vs-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786915117/mlb/ogziyjonedoxglnwnolc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-16T23:15:00+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "Orioles take sole possession of 3rd Wild Card with 3rd straight win vs. AL-best Rays",
+      "link": "https://www.mlb.com/news/orioles-score-10-runs-defeat-rays-third-straight-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bndcuefxpbvhtlaatpln",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-08-16T23:04:00+00:00",
+      "time_ago": "35m ago"
+    },
     {
       "title": "Swanson heading to IL with left side discomfort",
       "link": "https://www.mlb.com/news/dansby-swanson-exits-with-left-side-discomfort",
@@ -12,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-16T22:43:00+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "56m ago"
     },
     {
       "title": "Noah flirts with no-no! Cameron dominates in one-hit shutout",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-16T22:38:05+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Detroit prospect debuts with feat not seen by a Tiger in 114 years",
@@ -38,72 +90,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-16T22:38:01+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "1h ago"
     },
     {
-      "title": "Painter prevails after rocky start as Phils rally for first sweep since June",
-      "link": "https://www.mlb.com/news/phillies-overcome-five-run-deficit-to-sweep-twins",
+      "title": "Sweet redemption for Rice, who hits go-ahead blast after error in 9th",
+      "link": "https://www.mlb.com/news/ben-rice-homers-in-10th-as-yankees-beat-blue-jays",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/opfgavrjcwemmei9ure6",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786919811/mlb/exrr21nmuvzkmmwtocf1",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Paul Casella",
+      "author": "Zach Worden",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-16T22:37:00+00:00",
-      "time_ago": "21m ago"
-    },
-    {
-      "title": "Cards make statement with pivotal series win at Wrigley",
-      "link": "https://www.mlb.com/news/alec-burleson-cardinals-win-series-vs-cubs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/geod1xrjrl7vflhxacdn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-16T22:36:24+00:00",
-      "time_ago": "22m ago"
-    },
-    {
-      "title": "Eury quick to find scoreless success by keeping Reds' runners at bay",
-      "link": "https://www.mlb.com/news/eury-perez-marlins-win-series-against-reds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c5n1ifsdezag2v8ykbgs",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ben Weinrib",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-16T22:27:00+00:00",
-      "time_ago": "31m ago"
-    },
-    {
-      "title": "Bullpen meltdown spoils promising return of 'Fastball Freddy'",
-      "link": "https://www.mlb.com/news/freddy-peralta-solid-in-fastball-heavy-start-for-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786901676/mlb/luylvmy7oi43hgjownbu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-16T22:20:00+00:00",
-      "time_ago": "38m ago"
-    },
-    {
-      "title": "Family affair: Brewers' Carsten Sabathia III hits first pro homer with Hall-of-Famer dad in stands",
-      "link": "https://www.mlb.com/news/brewers-carsten-sabathia-iii-hits-first-professional-homer",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bdt8rogllqqhgbfmhqwk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Clark Fahrenthold",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-16T22:16:00+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
