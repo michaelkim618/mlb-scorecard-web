@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-17T19:21:23.437049+00:00",
+  "updated_at": "2026-08-17T19:50:49.270239+00:00",
   "news": [
+    {
+      "title": "Oneil Cruz returning from 60-day injured list",
+      "link": "https://www.mlb.com/news/oneil-cruz-activated-off-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nh5lfg0mblcs65phwemw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-17T19:25:35+00:00",
+      "time_ago": "25m ago"
+    },
     {
       "title": "LHP Tugboat Wilkinson -- who throws an 'Invisiball' -- gets call from Giants (source)",
       "link": "https://www.mlb.com/news/matt-tugboat-wilkinson-called-up-by-giants",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-17T17:38:11+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "As White Sox-Cubs takes center stage, Windy City envisions all-Chicago World Series",
@@ -64,7 +77,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-08-17T15:31:42+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Romero wins inaugural Rawlings Gold Glove Award in AUSL",
@@ -77,7 +90,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-08-17T15:28:50+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "What's the most clutch moment in baseball history?",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-17T15:21:26+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "The Dodgers have a bullpen problem. Here's what may have caused it",
-      "link": "https://www.mlb.com/news/edwin-diaz-dodgers-bullpen-have-caused-trouble-for-champs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786977070/mlb/w5jatgcxvvknc16jvb8g",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-17T15:03:22+00:00",
       "time_ago": "4h ago"
     }
   ]
