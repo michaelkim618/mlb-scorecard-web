@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-17T03:37:11.655046+00:00",
+  "updated_at": "2026-08-17T04:07:55.704134+00:00",
   "news": [
+    {
+      "title": "A day after racking up 10 RBIs(!!), Braves prospect hits three home runs(!!)",
+      "link": "https://www.mlb.com/news/braves-prospect-dixon-williams-career-high-10-rbi-high-a",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mxcvxkhqzdibsxkxieac",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Clark Fahrenthold",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-17T03:43:00+00:00",
+      "time_ago": "24m ago"
+    },
     {
       "title": "Mize weathers lengthy rain delay, Bowen shines back home in series winner",
       "link": "https://www.mlb.com/news/casey-mize-six-scoreless-innings-padres-blank-guardians",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-17T03:09:00+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "10 unheralded players stepping up for postseason contenders",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-17T02:57:33+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Mariners bullpen walks tightrope to clinch key series win in Houston",
@@ -51,19 +64,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-17T02:23:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "A day after racking up 10 RBIs(!!), Braves prospect hits three home runs(!!)",
-      "link": "https://www.mlb.com/news/braves-prospect-dixon-williams-career-high-10-rbi-high-a",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mxcvxkhqzdibsxkxieac",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Clark Fahrenthold",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-17T02:21:00+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -93,7 +93,7 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Tigers look to renew playoff push Monday vs. Pirates (7:05 p.m. ET, ESPN)",
+      "title": "Tigers look to renew playoff push tonight vs. Pirates (7:05 p.m. ET, ESPN)",
       "link": "https://www.mlb.com/news/tigers-pirates-on-espn-august-17-2026",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nijk3ghwkg9twsqp7rmt",
@@ -103,7 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-08-17T02:02:21+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
