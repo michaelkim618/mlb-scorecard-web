@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T17:57:21.041198+00:00",
+  "updated_at": "2026-08-17T18:01:51.686392+00:00",
   "news": [
     {
       "title": "MLB approves Padres' sale to José E. Feliciano and Kwanza Jones",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-17T17:38:11+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "23m ago"
     },
     {
       "title": "LHP 'Tugboat' Wilkinson, acquired in Bailey trade, gets call from Giants (source)",
@@ -25,7 +25,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-17T17:21:53+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "39m ago"
     },
     {
       "title": "As White Sox-Cubs takes center stage, Windy City envisions all-Chicago World Series",
@@ -103,7 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-08-17T15:00:12+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
