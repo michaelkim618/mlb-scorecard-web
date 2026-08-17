@@ -8068,6 +8068,27 @@
       "away_bp_score": 60.0,
       "home_bp_score": 56.2,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-16",
+      "away": "Seattle Mariners",
+      "home": "Houston Astros",
+      "pick": "Houston Astros",
+      "pick_prob": 53.7,
+      "actual_winner": "Seattle Mariners",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "stable",
+      "away_sp_era": 3.83,
+      "home_sp_era": 4.47,
+      "away_bp_era": 3.86,
+      "home_bp_era": 3.46,
+      "away_sp_score": 59.6,
+      "home_sp_score": 47.1,
+      "away_bp_score": 25.6,
+      "home_bp_score": 46.5,
+      "bat_source": "lineup"
     }
   ]
 }
