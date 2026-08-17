@@ -2664,69 +2664,69 @@
         "era": 3.0
       }
     ],
-    "home_pitcher": "Ranger Suarez (미정)",
-    "home_pitcher_id": 624133,
+    "home_pitcher": "Alec Gamboa",
+    "home_pitcher_id": 687941,
     "home_pitcher_stats": {
-      "wins": 4,
-      "losses": 3,
-      "era": "3.25"
+      "wins": 0,
+      "losses": 0,
+      "era": "1.59"
     },
     "home_pitcher_gamelog": [
       {
-        "date": "2026-07-05",
-        "opp": "@ LAA",
-        "ip": "2.2",
-        "er": 3,
-        "h": 6,
-        "bb": 0,
-        "so": 5,
-        "era": 10.12
-      },
-      {
-        "date": "2026-07-26",
-        "opp": "vs TOR",
-        "ip": "4.0",
+        "date": "2026-07-17",
+        "opp": "vs TB",
+        "ip": "3.0",
         "er": 0,
-        "h": 4,
+        "h": 2,
         "bb": 0,
-        "so": 6,
+        "so": 1,
         "era": 0.0
       },
       {
-        "date": "2026-07-31",
-        "opp": "@ LAD",
-        "ip": "4.2",
-        "er": 3,
-        "h": 4,
-        "bb": 2,
-        "so": 2,
-        "era": 5.79
+        "date": "2026-07-22",
+        "opp": "vs BAL",
+        "ip": "1.0",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 1,
+        "era": 0.0
       },
       {
-        "date": "2026-08-06",
-        "opp": "vs CWS",
-        "ip": "3.0",
-        "er": 3,
-        "h": 3,
-        "bb": 2,
-        "so": 3,
-        "era": 9.0
+        "date": "2026-07-25",
+        "opp": "vs TOR",
+        "ip": "4.0",
+        "er": 1,
+        "h": 5,
+        "bb": 1,
+        "so": 6,
+        "era": 2.25
       },
       {
         "date": "2026-08-12",
         "opp": "@ TOR",
-        "ip": "5.0",
-        "er": 1,
-        "h": 6,
-        "bb": 1,
-        "so": 2,
-        "era": 1.8
+        "ip": "1.0",
+        "er": 0,
+        "h": 2,
+        "bb": 0,
+        "so": 0,
+        "era": 0.0
+      },
+      {
+        "date": "2026-08-14",
+        "opp": "@ PIT",
+        "ip": "3.0",
+        "er": 0,
+        "h": 2,
+        "bb": 0,
+        "so": 0,
+        "era": 0.0
       }
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 54.4,
-      "home": 45.6
+      "away": 56.3,
+      "home": 43.7
     },
     "expected_score": {
       "away": 3.0,
@@ -2877,25 +2877,25 @@
         "total": 50.3
       },
       "home": {
-        "sp_score": 52.8,
+        "sp_score": 47.3,
         "sp_detail": {
-          "era": 3.1,
-          "whip": 1.22,
-          "k9": 9.7,
-          "avg_ip": 4.9,
-          "qs_rate": 40.0,
-          "last3_era": 4.66,
-          "last_start_era": 1.8,
+          "era": 1.59,
+          "whip": 1.12,
+          "k9": 6.4,
+          "avg_ip": 1.9,
+          "qs_rate": 0.0,
+          "last3_era": 0.75,
+          "last_start_era": 0.0,
           "last2_eras": [
-            9.0,
-            1.8
+            0.0,
+            0.0
           ],
           "recent_bad_start": false,
           "trend": "cold",
-          "n_games": 10,
+          "n_games": 9,
           "sample_confidence": 1.0,
-          "rest_days": 5,
-          "rest_note": null
+          "rest_days": 3,
+          "rest_note": "short_rest"
         },
         "bp_score": 53.5,
         "bp_detail": {
@@ -3003,14 +3003,14 @@
           }
         },
         "sit_score": 50.5,
-        "total": 45.1
+        "total": 43.5
       }
     },
     "scores": {
       "away_offense": 45.1,
       "away_defense": 54.4,
       "home_offense": 27.8,
-      "home_defense": 53.1
+      "home_defense": 50.4
     },
     "actual_score": {
       "away": null,
@@ -3027,8 +3027,8 @@
     "model_winner": "Arizona Diamondbacks",
     "model_correct": null,
     "notes": "Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Blake Walston, Corbin Burnes, Cristian Mena 외 다수 / Boston Red Sox IL: Curtis Mead, Garrett Crochet, Garrett Whitlock, Isiah Kiner-Falefa, Johan Oviedo 외 다수",
-    "kalshi_prob": 57.0,
-    "edge": -11.4,
+    "kalshi_prob": 56.0,
+    "edge": -12.3,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Boston Red Sox)",
     "extreme_edge": false,
     "consensus": false
@@ -5115,8 +5115,8 @@
     "model_winner": "Chicago White Sox",
     "model_correct": null,
     "notes": "Chicago White Sox IL: Brooks Baldwin, Chris Murphy, Davis Martin, Drew Thorpe, Joey Bart 외 다수 / Chicago Cubs IL: Ben Brown, Cade Horton, Daniel Palencia, Gavin Hollowell, Hoby Milner 외 다수",
-    "kalshi_prob": 60.0,
-    "edge": -19.2,
+    "kalshi_prob": 59.0,
+    "edge": -18.2,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Chicago Cubs)",
     "extreme_edge": false,
     "consensus": false
