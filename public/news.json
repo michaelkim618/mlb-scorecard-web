@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-16T23:39:32.787086+00:00",
+  "updated_at": "2026-08-16T23:58:17.953939+00:00",
   "news": [
+    {
+      "title": "Scott pitches into 7th, picks up win as Mets sweep Nats",
+      "link": "https://www.mlb.com/news/mets-complete-sweep-of-nationals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cebmcnxpmxipxfzsfhqe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bill Ladson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-16T23:47:00+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Mize weathers lengthy rain-delayed start to earn first Padres win",
+      "link": "https://www.mlb.com/news/casey-mize-six-scoreless-innings-padres-blank-guardians",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fvhlsty5h4prwoywu5pg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Dulik",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-16T23:45:50+00:00",
+      "time_ago": "12m ago"
+    },
     {
       "title": "Veen confidently dashes home on wild pitch that barely gets away from catcher",
       "link": "https://www.mlb.com/news/zac-veen-scores-on-wild-pitch-in-rockies-win-over-giants",
@@ -12,7 +38,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-16T23:31:59+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "Dodgers retake top spot in refreshed farm system rankings",
+      "link": "https://www.mlb.com/news/in-season-farm-system-rankings-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/h1lh7b2k2wtxhx8oekqa",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sam Dykstra, Jim Callis and Jonathan Mayo",
+      "tag": "Rankings",
+      "tag_color": "#4F46E5",
+      "pub_date": "2026-08-16T23:30:00+00:00",
+      "time_ago": "28m ago"
     },
     {
       "title": "Injuries: Bellinger, Dansby, McClanahan, Wood, Trea, Dodgers",
@@ -25,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-16T23:22:00+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "36m ago"
     },
     {
       "title": "Skubal finishes with a flourish in 6 strong innings, but Dodgers' bats stay quiet",
@@ -38,7 +77,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-16T23:15:00+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "43m ago"
+    },
+    {
+      "title": "Henderson outduels Skubal as Brewers take season series from Dodgers",
+      "link": "https://www.mlb.com/news/logan-henderson-strikes-out-6-in-brewers-win-over-dodgers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786921265/mlb/zkpgzdnsuikeuw4byhhn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-16T23:12:03+00:00",
+      "time_ago": "46m ago"
     },
     {
       "title": "Orioles take sole possession of 3rd Wild Card with 3rd straight win vs. AL-best Rays",
@@ -51,59 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-08-16T23:04:00+00:00",
-      "time_ago": "35m ago"
-    },
-    {
-      "title": "Swanson heading to IL with left side discomfort",
-      "link": "https://www.mlb.com/news/dansby-swanson-exits-with-left-side-discomfort",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lna2gy0mfd6ztitkrvuh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-16T22:43:00+00:00",
-      "time_ago": "56m ago"
-    },
-    {
-      "title": "Noah flirts with no-no! Cameron dominates in one-hit shutout",
-      "link": "https://www.mlb.com/news/noah-cameron-throws-one-hit-shutout-vs-angels",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/waqvtmkq3i6sfrq3451r",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jack Janes",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-16T22:38:05+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Detroit prospect debuts with feat not seen by a Tiger in 114 years",
-      "link": "https://www.mlb.com/news/brett-callahan-2-run-triple-first-pitch-mlb-debut",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kouiu9my3dvagmnfxc7c",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Beck",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-16T22:38:01+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Sweet redemption for Rice, who hits go-ahead blast after error in 9th",
-      "link": "https://www.mlb.com/news/ben-rice-homers-in-10th-as-yankees-beat-blue-jays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786919811/mlb/exrr21nmuvzkmmwtocf1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Worden",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-16T22:37:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "54m ago"
     }
   ]
 }
