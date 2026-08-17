@@ -1,18 +1,70 @@
 {
-  "updated_at": "2026-08-17T14:58:28.379288+00:00",
+  "updated_at": "2026-08-17T15:45:27.185470+00:00",
   "news": [
     {
-      "title": "Q&A with Andy Green: Mets manager talks recent surge, leadership style",
-      "link": "https://www.mlb.com/news/andy-green-on-managing-2026-mets",
+      "title": "After nearly 2,000 attempts, the Oswalt MVP '05 perfecto has been pitched!",
+      "link": "https://www.mlb.com/news/jay-lucarelli-pitches-roy-oswalt-perfect-game-in-mvp-2005",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rgeqlpuovbjpx9l6ylhy",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786978427/mlb/usfahojfh4suxbfkg6ed",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Bill Ladson",
+      "author": "Matt Monagan",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-08-17T15:31:42+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Romero wins inaugural Rawlings Gold Glove Award in AUSL",
+      "link": "https://www.mlb.com/news/sydney-romero-gold-glove-award-ausl",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hvhd7ldpcekang0in9tt",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AUSL",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-08-17T15:28:50+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Picking the top 10 most clutch moments in baseball history",
+      "link": "https://www.mlb.com/news/top-clutch-moments-in-baseball-history",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vpjd7veg6wb0ro3zapbt",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-17T14:25:40+00:00",
-      "time_ago": "32m ago"
+      "pub_date": "2026-08-17T15:21:26+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "The Dodgers have a bullpen problem. Here's what may have caused it",
+      "link": "https://www.mlb.com/news/edwin-diaz-dodgers-bullpen-have-caused-trouble-for-champs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786977070/mlb/w5jatgcxvvknc16jvb8g",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-17T15:03:22+00:00",
+      "time_ago": "42m ago"
+    },
+    {
+      "title": "How unexpected production sparked the Padres' Wild Card push",
+      "link": "https://www.mlb.com/news/role-players-continue-driving-padres-wild-card-run",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/goqgidijufgaojefruda",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Cole Bradley",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-08-17T15:00:12+00:00",
+      "time_ago": "45m ago"
     },
     {
       "title": "Cubs' rotation looks braced for October push",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-17T14:14:31+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "How does the Phillies' path to postseason stack up with fellow NL contenders?",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-17T14:01:58+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Which Braves predictions have come true? And what to expect for the end of '26",
@@ -51,59 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-17T14:00:13+00:00",
-      "time_ago": "58m ago"
-    },
-    {
-      "title": "Analyzing Posada's HOF case on his birthday",
-      "link": "https://www.mlb.com/news/jorge-posada-hall-of-fame-case",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/txmuhzbcsk8c5gmsdtva",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sweeny Murti",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-17T13:58:07+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Do Blue Jays have real shot at Wild Card? 3 reasons why they just might",
-      "link": "https://www.mlb.com/news/why-blue-jays-have-chance-at-al-wild-card-spot",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bztbxvxthti1vghrw9vf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-08-17T13:45:48+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "10 unheralded players stepping up for postseason contenders",
-      "link": "https://www.mlb.com/news/under-the-radar-players-on-mlb-contenders-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jysdni5gzraxdnsfr9jc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-17T02:57:33+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "Top 5 series to watch this week",
-      "link": "https://www.mlb.com/news/mlb-series-to-watch-week-of-august-17-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tyoqymg1qc59xzetupdf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brent Maguire",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-17T02:23:00+00:00",
-      "time_ago": "12h ago"
     }
   ]
 }
