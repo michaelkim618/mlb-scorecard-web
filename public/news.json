@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-17T04:07:55.704134+00:00",
+  "updated_at": "2026-08-17T04:26:30.111103+00:00",
   "news": [
+    {
+      "title": "On the rebound: Mariners take Astros series with key contributors stepping up",
+      "link": "https://www.mlb.com/news/mariners-bullpen-shines-to-clinch-series-win-vs-astros",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786935543/mlb/wg8vegqie3pf2kpmijft",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-17T03:54:00+00:00",
+      "time_ago": "32m ago"
+    },
     {
       "title": "A day after racking up 10 RBIs(!!), Braves prospect hits three home runs(!!)",
       "link": "https://www.mlb.com/news/braves-prospect-dixon-williams-career-high-10-rbi-high-a",
@@ -12,7 +25,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-17T03:43:00+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Mize weathers lengthy rain delay, Bowen shines back home in series winner",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-17T03:09:00+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "10 unheralded players stepping up for postseason contenders",
@@ -41,19 +54,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Mariners bullpen walks tightrope to clinch key series win in Houston",
-      "link": "https://www.mlb.com/news/mariners-bullpen-shines-to-clinch-series-win-vs-astros",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/opzzvsqwb3cajefuxfbh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-17T02:26:33+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Top 5 series to watch this week",
       "link": "https://www.mlb.com/news/mlb-series-to-watch-week-of-august-17-2026",
       "summary": "",
@@ -64,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-17T02:23:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Top 2 in Power Rankings may not look like this for long",
@@ -77,7 +77,7 @@
       "tag": "Rankings",
       "tag_color": "#4F46E5",
       "pub_date": "2026-08-17T02:17:51+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Pitchers laud Tommy John as 'trailblazer'",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-17T02:11:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Tigers look to renew playoff push tonight vs. Pirates (7:05 p.m. ET, ESPN)",
