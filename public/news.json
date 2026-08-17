@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-17T03:31:41.926881+00:00",
+  "updated_at": "2026-08-17T03:37:11.655046+00:00",
   "news": [
+    {
+      "title": "Mize weathers lengthy rain delay, Bowen shines back home in series winner",
+      "link": "https://www.mlb.com/news/casey-mize-six-scoreless-innings-padres-blank-guardians",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fvhlsty5h4prwoywu5pg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Dulik",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-17T03:09:00+00:00",
+      "time_ago": "28m ago"
+    },
     {
       "title": "10 unheralded players stepping up for postseason contenders",
       "link": "https://www.mlb.com/news/under-the-radar-players-on-mlb-contenders-2026",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-17T02:57:33+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "39m ago"
     },
     {
       "title": "Mariners bullpen walks tightrope to clinch key series win in Houston",
@@ -91,19 +104,6 @@
       "tag_color": "#0EA5E9",
       "pub_date": "2026-08-17T02:02:21+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "'Bleachers are empty': Cards make statement as offense shines vs. Cubs",
-      "link": "https://www.mlb.com/news/alec-burleson-cardinals-win-series-vs-cubs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/geod1xrjrl7vflhxacdn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-17T01:31:00+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
