@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-17T20:06:33.452241+00:00",
+  "updated_at": "2026-08-17T21:06:03.848862+00:00",
   "news": [
+    {
+      "title": "Burleson retakes RBI lead, Mathews racks up K's as Cards win twin bill opener",
+      "link": "https://www.mlb.com/news/cardinals-beat-reds-in-opening-game-of-doubleheader",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jbpobm0nxzore8rn58fi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mike Petraglia",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-17T20:50:20+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "Griffin no longer needs splint, could return within 3 weeks",
+      "link": "https://www.mlb.com/news/konnor-griffin-finger-injury-progress",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rgvdefdgvgmoj0jmkztz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-17T20:41:51+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "Alonso, Carroll nab Player of the Week honors",
+      "link": "https://www.mlb.com/news/pete-alonso-corbin-carroll-named-players-of-the-week",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hhefxuajqvn9rnvzil4j",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ed Eagle",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-17T20:34:39+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "MLB approves Padres' sale to José E. Feliciano and Kwanza Jones",
+      "link": "https://www.mlb.com/news/padres-sale-to-jose-e-feliciano-and-kwanza-jones-approved-by-mlb",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gxvzq1ctepy67fe6gkjn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-17T20:28:00+00:00",
+      "time_ago": "38m ago"
+    },
     {
       "title": "Oneil Cruz returning from 60-day injured list",
       "link": "https://www.mlb.com/news/oneil-cruz-activated-off-injured-list",
@@ -12,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-17T19:25:35+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "LHP Tugboat Wilkinson -- who throws an 'Invisiball' -- gets call from Giants (source)",
@@ -25,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-17T18:12:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Don't let this new Mariner's size fool you ... he once took down a bull",
@@ -38,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-17T18:05:53+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "MLB approves Padres' sale to José E. Feliciano and Kwanza Jones",
-      "link": "https://www.mlb.com/news/padres-sale-to-jose-e-feliciano-and-kwanza-jones-approved-by-mlb",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gxvzq1ctepy67fe6gkjn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-17T17:38:11+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "As White Sox-Cubs takes center stage, Windy City envisions all-Chicago World Series",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-17T16:13:24+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "After nearly 2,000 attempts, the Oswalt MVP '05 perfecto has been pitched!",
-      "link": "https://www.mlb.com/news/jay-lucarelli-pitches-roy-oswalt-perfect-game-in-mvp-2005",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786978427/mlb/usfahojfh4suxbfkg6ed",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matt Monagan",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-08-17T15:31:42+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Romero wins inaugural Rawlings Gold Glove Award in AUSL",
-      "link": "https://www.mlb.com/news/sydney-romero-gold-glove-award-ausl",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hvhd7ldpcekang0in9tt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AUSL",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-08-17T15:28:50+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "What's the most clutch moment in baseball history?",
-      "link": "https://www.mlb.com/news/top-clutch-moments-in-baseball-history",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vpjd7veg6wb0ro3zapbt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-17T15:21:26+00:00",
       "time_ago": "4h ago"
     }
   ]

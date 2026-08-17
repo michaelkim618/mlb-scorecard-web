@@ -8404,6 +8404,27 @@
       "away_bp_score": 25.6,
       "home_bp_score": 49.8,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-17",
+      "away": "St. Louis Cardinals",
+      "home": "Cincinnati Reds",
+      "pick": "St. Louis Cardinals",
+      "pick_prob": 63.0,
+      "actual_winner": "St. Louis Cardinals",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "stable",
+      "away_sp_era": 3.0,
+      "home_sp_era": 3.6,
+      "away_bp_era": 3.67,
+      "home_bp_era": 3.71,
+      "away_sp_score": 48.0,
+      "home_sp_score": 38.9,
+      "away_bp_score": 60.5,
+      "home_bp_score": 45.1,
+      "bat_source": "prev_day"
     }
   ]
 }
