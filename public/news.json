@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-18T22:59:45.692118+00:00",
+  "updated_at": "2026-08-18T23:08:27.348748+00:00",
   "news": [
+    {
+      "title": "Marte returning to Phoenix for MRI on knee, Lovullo focusing on series in Boston",
+      "link": "https://www.mlb.com/news/ketel-marte-heading-for-mri-on-knee-after-restricted-list-placement",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rdocmde1psfmqerqmucn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Steve Gilbert",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-18T22:58:00+00:00",
+      "time_ago": "10m ago"
+    },
     {
       "title": "Yankees optimistic Fried will miss minimum in latest IL stint",
       "link": "https://www.mlb.com/news/max-fried-hopes-to-miss-minimum-in-il-stint-for-yankees",
@@ -12,7 +25,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-18T22:52:00+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "16m ago"
     },
     {
       "title": "Dodgers closer Díaz heading back to IL with neck inflammation",
@@ -25,7 +38,20 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-18T22:48:00+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "Ryan throws off mound for first time since landing on IL",
+      "link": "https://www.mlb.com/news/joe-ryan-throws-off-mound-for-first-time-since-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787091646/mlb/fsm2qm3vahxnzeqj0g4r",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Patrick Donnelly",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-18T22:46:29+00:00",
+      "time_ago": "21m ago"
     },
     {
       "title": "Pool work for Judge may be final step before hitting progression begins",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T22:27:41+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "40m ago"
     },
     {
       "title": "Movers of AUSL Series 2: Landry leaps, Palacios takes top spot",
@@ -77,33 +103,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-08-18T21:03:44+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "All-Star catcher Goodman (shoulder strain) placed on IL",
-      "link": "https://www.mlb.com/news/hunter-goodman-rockies-injured-list-shoulder-strain",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786753539/mlb/flpju07p7ulr7iutcerq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harding",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-18T21:00:30+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Yankees activate Rodón for 1st start since June tonight vs. O's",
-      "link": "https://www.mlb.com/news/carlos-rodon-activated-start-vs-orioles",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rmtusjlisvq1snuvdbxw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Foster",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-18T19:32:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
