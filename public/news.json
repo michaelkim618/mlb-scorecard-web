@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-18T17:59:13.624635+00:00",
+  "updated_at": "2026-08-18T19:20:00.386782+00:00",
   "news": [
+    {
+      "title": "How did this Russian tennis superstar turn into a huge Reds fan?",
+      "link": "https://www.mlb.com/news/daniil-medvedev-throws-out-first-pitch-at-reds-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ez3rxibcwixvwxkcw5qr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Sheldon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-18T18:07:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Red-hot Bolte looking to build on lessons from rookie season",
+      "link": "https://www.mlb.com/news/henry-bolte-growing-with-athletics-in-breakout-rookie-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/evezrsniy4hl1kagft1n",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-18T17:55:28+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "OMG! Fan favorite Iglesias returning to Citi Field for 1st pitch",
       "link": "https://www.mlb.com/news/jose-iglesias-returns-to-citi-field-first-pitch",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T17:48:55+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Hao-Yu Lee sets single-season record for hits by a player born in Taiwan",
@@ -25,20 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T17:23:52+00:00",
-      "time_ago": "35m ago"
-    },
-    {
-      "title": "This Russian tennis superstar is a massive Reds fan -- and he can prove it",
-      "link": "https://www.mlb.com/news/daniil-medvedev-throws-out-first-pitch-at-reds-game",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ez3rxibcwixvwxkcw5qr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-18T17:15:14+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Marte heading for MRI on knee after placement on restricted list (source)",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T16:27:54+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "After two inspirational comebacks, Mancini announces retirement",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T16:19:30+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Rays assign No. 2 overall pick Emerson to Single-A for pro debut",
@@ -77,7 +90,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-18T15:08:41+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "In Walker and Báez, Cards may have a serious outfield duo",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T14:37:17+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Three iconic baseball franchises getting the comic book treatment",
-      "link": "https://www.mlb.com/news/all-baseball-comics-has-yankees-dodgers-cubs-issues",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dtqm6y0oqgyczgikrtxm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-18T14:25:24+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
