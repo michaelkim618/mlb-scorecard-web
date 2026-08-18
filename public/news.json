@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-18T17:04:01.013930+00:00",
+  "updated_at": "2026-08-18T17:53:00.901997+00:00",
   "news": [
+    {
+      "title": "Hao-Yu Lee sets single-season record for hits by a player born in Taiwan",
+      "link": "https://www.mlb.com/news/hao-yu-lee-sets-taiwanese-record-for-hits-in-a-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aetu0swybqcayb5kwx8o",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Michael Clair",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-18T17:23:52+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "This Russian tennis superstar is a massive Reds fan -- and he can prove it",
+      "link": "https://www.mlb.com/news/daniil-medvedev-throws-out-first-pitch-at-reds-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ez3rxibcwixvwxkcw5qr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Sheldon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-18T17:15:14+00:00",
+      "time_ago": "37m ago"
+    },
     {
       "title": "Marte heading for MRI on knee after placement on restricted list (source)",
       "link": "https://www.mlb.com/news/ketel-marte-heading-for-mri-on-knee-after-restricted-list-placement",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T16:27:54+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "After two inspirational comebacks, Mancini announces retirement",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T16:19:30+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rays assign No. 2 overall pick Emerson to Single-A for pro debut",
@@ -38,7 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-18T15:08:41+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "In Walker and Báez, Cards may have a serious outfield duo",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T14:37:17+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Three iconic baseball franchises getting the comic book treatment",
@@ -64,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-18T14:25:24+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Crunch time starts now for Rangers after difficult road trip",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T13:54:36+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Bagwell opens up about journey to sobriety",
-      "link": "https://www.mlb.com/news/jeff-bagwell-discusses-post-playing-life-sobriety",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tcxtbuqjju1sc4unwhb0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-18T13:32:31+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Team Venezuela’s championship culture could help Brewers in October",
-      "link": "https://www.mlb.com/news/antonio-senzatela-joins-teammates-from-team-venezuela-on-brewers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nvgcvvxck10iyap9cqlp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-18T13:27:23+00:00",
       "time_ago": "3h ago"
     }
   ]
