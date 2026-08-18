@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-18T20:56:38.749819+00:00",
+  "updated_at": "2026-08-18T21:09:51.026700+00:00",
   "news": [
+    {
+      "title": "All-Star catcher Goodman (shoulder strain) placed on IL",
+      "link": "https://www.mlb.com/news/hunter-goodman-rockies-injured-list-shoulder-strain",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786753539/mlb/flpju07p7ulr7iutcerq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harding",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-18T21:00:30+00:00",
+      "time_ago": "9m ago"
+    },
     {
       "title": "Yankees activate Rodón for 1st start since June tonight vs. O's",
       "link": "https://www.mlb.com/news/carlos-rodon-activated-start-vs-orioles",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T18:07:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Red-hot Bolte looking to build on lessons from rookie season",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T16:27:54+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "After two inspirational comebacks, Mancini announces retirement",
-      "link": "https://www.mlb.com/news/trey-mancini-announces-retirement",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pmlx7vib5jxq1xhumnk4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-18T16:19:30+00:00",
       "time_ago": "4h ago"
     }
   ]
