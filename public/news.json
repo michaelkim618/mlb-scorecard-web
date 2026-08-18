@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-08-18T23:08:27.348748+00:00",
+  "updated_at": "2026-08-18T23:48:13.131552+00:00",
   "news": [
+    {
+      "title": "Yankees activate Rodón for 1st start since June tonight vs. O's",
+      "link": "https://www.mlb.com/news/carlos-rodon-activated-start-vs-orioles",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787096269/mlb/lasdhjomfrujlo3yskck",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Foster",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-18T23:38:00+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "OMG! Fan favorite Iglesias returns to Citi Field for 1st pitch",
+      "link": "https://www.mlb.com/news/jose-iglesias-returns-to-citi-field-first-pitch",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ilhcpagdggrs8h2odcqr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bill Ladson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-18T23:19:00+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "Turang returns to Brewers lineup after missing 4 games",
+      "link": "https://www.mlb.com/news/brice-turang-returns-to-brewers-lineup-vs-mariners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/itdnqzpop5go1lipg4hx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy and Theo DeRosa",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-08-18T23:18:00+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "Soderstrom to have season-ending hip surgery",
+      "link": "https://www.mlb.com/news/tyler-soderstrom-to-have-season-ending-hip-surgery",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ote8g9s4qxfjyryjmx2l",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Robert Falkoff",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-18T23:13:26+00:00",
+      "time_ago": "34m ago"
+    },
+    {
+      "title": "These 10 Top 100 prospects could make their MLB debuts SOON",
+      "link": "https://www.mlb.com/news/prospects-who-could-make-mlb-debuts-in-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nwu2ff6j46th4u9cx5oi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jim Callis, Jonathan Mayo and Ben Weinrib",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-18T23:11:00+00:00",
+      "time_ago": "37m ago"
+    },
+    {
+      "title": "Amid discouraging Yoshida update, Red Sox receive good news on Houck's progress",
+      "link": "https://www.mlb.com/news/masataka-yoshida-injury-update-tanner-houck-throws-to-hitters",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jvq4l5nmlhc4jzreaece",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-18T23:08:49+00:00",
+      "time_ago": "39m ago"
+    },
     {
       "title": "Marte returning to Phoenix for MRI on knee, Lovullo focusing on series in Boston",
       "link": "https://www.mlb.com/news/ketel-marte-heading-for-mri-on-knee-after-restricted-list-placement",
@@ -12,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T22:58:00+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Yankees optimistic Fried will miss minimum in latest IL stint",
@@ -25,85 +103,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-18T22:52:00+00:00",
-      "time_ago": "16m ago"
-    },
-    {
-      "title": "Dodgers closer Díaz heading back to IL with neck inflammation",
-      "link": "https://www.mlb.com/news/edwin-diaz-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oy4cyfnfzjm2mambzsly",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-18T22:48:00+00:00",
-      "time_ago": "20m ago"
-    },
-    {
-      "title": "Ryan throws off mound for first time since landing on IL",
-      "link": "https://www.mlb.com/news/joe-ryan-throws-off-mound-for-first-time-since-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787091646/mlb/fsm2qm3vahxnzeqj0g4r",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Patrick Donnelly",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-18T22:46:29+00:00",
-      "time_ago": "21m ago"
-    },
-    {
-      "title": "Pool work for Judge may be final step before hitting progression begins",
-      "link": "https://www.mlb.com/news/aaron-judge-to-start-hitting-progression-for-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787090476/mlb/ix41atg3sup27xizqz63",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-18T22:27:41+00:00",
-      "time_ago": "40m ago"
-    },
-    {
-      "title": "Movers of AUSL Series 2: Landry leaps, Palacios takes top spot",
-      "link": "https://www.mlb.com/news/ausl-series-2-update",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rulxat8qtmm1vqwzwceo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-18T21:32:46+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Turang returns to Brewers lineup after missing 4 games",
-      "link": "https://www.mlb.com/news/brice-turang-returns-to-brewers-lineup-vs-mariners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/itdnqzpop5go1lipg4hx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-08-18T21:21:15+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "DeLauter (left hamstring) improving, but out of lineup for Giants opener",
-      "link": "https://www.mlb.com/news/chase-delauter-out-of-guardians-lineup-left-hamstring-tightness",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/axf6tys5fgyvhze6a3o8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-08-18T21:03:44+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "56m ago"
     }
   ]
 }
