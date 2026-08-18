@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-18T21:09:51.026700+00:00",
+  "updated_at": "2026-08-18T21:53:58.665255+00:00",
   "news": [
+    {
+      "title": "Dodgers closer Díaz heading back to IL (reports)",
+      "link": "https://www.mlb.com/news/edwin-diaz-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oy4cyfnfzjm2mambzsly",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-18T21:46:19+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Movers of AUSL Series 2: Landry leaps, Palacios takes top spot",
+      "link": "https://www.mlb.com/news/ausl-series-2-update",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rulxat8qtmm1vqwzwceo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-18T21:32:46+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "Turang returns to Brewers lineup after missing 4 games",
+      "link": "https://www.mlb.com/news/brice-turang-returns-to-brewers-lineup-vs-mariners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/itdnqzpop5go1lipg4hx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-08-18T21:21:15+00:00",
+      "time_ago": "32m ago"
+    },
+    {
+      "title": "DeLauter (left hamstring) improving, but out of lineup for Giants opener",
+      "link": "https://www.mlb.com/news/chase-delauter-out-of-guardians-lineup-left-hamstring-tightness",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/axf6tys5fgyvhze6a3o8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-08-18T21:03:44+00:00",
+      "time_ago": "50m ago"
+    },
     {
       "title": "All-Star catcher Goodman (shoulder strain) placed on IL",
       "link": "https://www.mlb.com/news/hunter-goodman-rockies-injured-list-shoulder-strain",
@@ -12,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-18T21:00:30+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "Yankees activate Rodón for 1st start since June tonight vs. O's",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T19:32:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Prospect storylines to follow for the remainder of the season",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T19:30:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "How did this Russian tennis superstar turn into a huge Reds fan?",
@@ -52,58 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T18:07:00+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "Red-hot Bolte looking to build on lessons from rookie season",
-      "link": "https://www.mlb.com/news/henry-bolte-growing-with-athletics-in-breakout-rookie-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/evezrsniy4hl1kagft1n",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-18T17:55:28+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "OMG! Fan favorite Iglesias returning to Citi Field for 1st pitch",
-      "link": "https://www.mlb.com/news/jose-iglesias-returns-to-citi-field-first-pitch",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ilhcpagdggrs8h2odcqr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-18T17:48:55+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Hao-Yu Lee sets single-season record for hits by a player born in Taiwan",
-      "link": "https://www.mlb.com/news/hao-yu-lee-sets-taiwanese-record-for-hits-in-a-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aetu0swybqcayb5kwx8o",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Michael Clair",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-18T17:23:52+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Marte heading for MRI on knee after placement on restricted list (source)",
-      "link": "https://www.mlb.com/news/ketel-marte-heading-for-mri-on-knee-after-restricted-list-placement",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rdocmde1psfmqerqmucn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-18T16:27:54+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }

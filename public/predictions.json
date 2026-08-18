@@ -5243,8 +5243,8 @@
     "model_winner": "Atlanta Braves",
     "model_correct": null,
     "notes": "Atlanta Braves IL: Joe Jiménez, Joey Wentz, Reynaldo López, Robert Suarez, Spencer Schwellenbach 외 다수 / Minnesota Twins IL: Anthony Banda, Austin Martin, Cole Sands, David Festa, Joe Ryan 외 다수",
-    "kalshi_prob": 43.0,
-    "edge": 3.7,
+    "kalshi_prob": 42.0,
+    "edge": 4.7,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -7515,18 +7515,18 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 61.0,
-      "home": 39.0
+      "away": 63.0,
+      "home": 37.0
     },
     "expected_score": {
       "away": 2.7,
-      "home": 3.5
+      "home": 2.2
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "L",
       "home_handedness": "R",
       "bullpen_game": true,
@@ -7586,8 +7586,8 @@
             "Andy Pages(0.888)",
             "Max Muncy(0.906)",
             "Mookie Betts(0.763)",
-            "Kyle Tucker(0.550)",
             "Tommy Edman(0.583)",
+            "Kyle Tucker(0.550)",
             "Teoscar Hernández(0.580)",
             "Hunter Feduccia(0.703)"
           ],
@@ -7623,16 +7623,16 @@
               "avg": 0.257
             },
             {
-              "id": 663656,
-              "name": "Kyle Tucker",
-              "ops": 0.55,
-              "avg": 0.086
-            },
-            {
               "id": 669242,
               "name": "Tommy Edman",
               "ops": 0.583,
               "avg": 0.147
+            },
+            {
+              "id": 663656,
+              "name": "Kyle Tucker",
+              "ops": 0.55,
+              "avg": 0.086
             },
             {
               "id": 606192,
@@ -7667,7 +7667,7 @@
         "total": 44.5
       },
       "home": {
-        "sp_score": 25.0,
+        "sp_score": 24.9,
         "sp_detail": {
           "era": 5.86,
           "whip": 1.7,
@@ -7687,7 +7687,7 @@
           "rest_days": 6,
           "rest_note": null
         },
-        "bp_score": 25.8,
+        "bp_score": 25.7,
         "bp_detail": {
           "bullpen_era": 5.24,
           "recent_era": 4.41,
@@ -7697,27 +7697,27 @@
           "bp_ip": 245.7,
           "bp_count": 8
         },
-        "bat_score": 47.5,
+        "bat_score": 29.3,
         "bat_detail": {
-          "recent_avg": 0.264,
+          "recent_avg": 0.217,
           "runs_per_g": 4.7,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.812,
-          "season_avg": 0.264,
+          "season_ops": 0.647,
+          "season_avg": 0.217,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
             "Jake McCarthy(0.837)",
-            "Jordan Beck(0.633)",
             "Cole Carrigg(0.731)",
             "Willi Castro(0.685)",
             "TJ Rumfield(0.696)",
             "Connor Norby(0.566)",
-            "Adael Amador(1.625)",
-            "Brett Sullivan(0.938)",
+            "Mickey Moniak(0.627)",
+            "Jordan Beck(0.633)",
+            "Braxton Fulford(0.451)",
             "Ezequiel Tovar(0.595)"
           ],
           "lineup_players": [
@@ -7726,12 +7726,6 @@
               "name": "Jake McCarthy",
               "ops": 0.837,
               "avg": 0.3
-            },
-            {
-              "id": 687597,
-              "name": "Jordan Beck",
-              "ops": 0.633,
-              "avg": 0.226
             },
             {
               "id": 694249,
@@ -7758,16 +7752,22 @@
               "avg": 0.179
             },
             {
-              "id": 691182,
-              "name": "Adael Amador",
-              "ops": 1.625,
-              "avg": 0.4
+              "id": 666160,
+              "name": "Mickey Moniak",
+              "ops": 0.627,
+              "avg": 0.156
             },
             {
-              "id": 664954,
-              "name": "Brett Sullivan",
-              "ops": 0.938,
-              "avg": 0.321
+              "id": 687597,
+              "name": "Jordan Beck",
+              "ops": 0.633,
+              "avg": 0.226
+            },
+            {
+              "id": 690924,
+              "name": "Braxton Fulford",
+              "ops": 0.451,
+              "avg": 0.143
             },
             {
               "id": 678662,
@@ -7793,20 +7793,20 @@
           }
         },
         "sit_score": 42.5,
-        "total": 33.5
+        "total": 28.9
       }
     },
     "scores": {
       "away_offense": 34.8,
       "away_defense": 44.2,
-      "home_offense": 47.5,
-      "home_defense": 25.5
+      "home_offense": 29.3,
+      "home_defense": 25.4
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -7818,7 +7818,7 @@
     "model_correct": null,
     "notes": "Los Angeles Dodgers IL: Ben Casparius, Blake Treinen, Bobby Miller, Brock Stewart, Brusdar Graterol 외 다수 / Colorado Rockies IL: Chase Dollander, Hunter Goodman, Jaden Hill, Jose Quintana, Kris Bryant 외 다수",
     "kalshi_prob": 35.0,
-    "edge": 4.0,
+    "edge": 2.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
