@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-08-18T09:18:32.186369+00:00",
+  "updated_at": "2026-08-18T14:57:40.806873+00:00",
   "news": [
+    {
+      "title": "In Walker and Báez, Cards may have a serious outfield duo",
+      "link": "https://www.mlb.com/news/joshua-baez-jordan-walker-form-fearsome-duo-for-cardinals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/juzq8kr0oyobxzhjvbvx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Josh Jacobs",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-18T14:37:17+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "Three iconic baseball franchises getting the comic book treatment",
+      "link": "https://www.mlb.com/news/all-baseball-comics-has-yankees-dodgers-cubs-issues",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dtqm6y0oqgyczgikrtxm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-18T14:25:24+00:00",
+      "time_ago": "32m ago"
+    },
+    {
+      "title": "Crunch time starts now for Rangers after difficult road trip",
+      "link": "https://www.mlb.com/news/rangers-return-home-for-big-games-after-tough-road-trip",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iopbx7irnoqffawgvipv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kennedi Landry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-18T13:54:36+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Bagwell opens up about journey to sobriety",
+      "link": "https://www.mlb.com/news/jeff-bagwell-discusses-post-playing-life-sobriety",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tcxtbuqjju1sc4unwhb0",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-18T13:32:31+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Team Venezuela’s championship culture could help Brewers in October",
+      "link": "https://www.mlb.com/news/antonio-senzatela-joins-teammates-from-team-venezuela-on-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nvgcvvxck10iyap9cqlp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-18T13:27:23+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "'Very few people' like Messick, who's shining one year after debut",
+      "link": "https://www.mlb.com/news/parker-messick-shining-guardians-one-year-mlb-debut",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dm3bmw66lsfmz1be6p3q",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-18T12:53:24+00:00",
+      "time_ago": "2h ago"
+    },
     {
       "title": "PCA secures 2nd straight 30-30 season -- boosts MVP case -- in epic way",
       "link": "https://www.mlb.com/news/pete-crow-armstrong-records-second-straight-30-30-season",
@@ -12,7 +90,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-08-18T06:12:42+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "8h ago"
     },
     {
       "title": "Ohtani hits 878 feet of HRs ... and eyes possible bullpen session Tuesday",
@@ -25,85 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-18T05:24:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Players who hit a leadoff and walk-off home run in the same game",
-      "link": "https://www.mlb.com/news/players-with-a-leadoff-and-walk-off-home-run-in-the-same-game",
-      "summary": "PCA becomes the sixth player to achieve this rare feat",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yv6hqv1gdklfl72qkpno",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brent Maguire",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-18T05:11:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Sommers shows off wheels and whiffs as Tigers' latest young standout",
-      "link": "https://www.mlb.com/news/kevin-mcgonigle-tigers-win-pirates-series-opener",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sxds61xhkyw3af2lwtlb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Beck",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-18T05:05:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Bello bouncing back in bulk-relief role with a vengeance",
-      "link": "https://www.mlb.com/news/brayan-bello-succeeding-as-bulk-reliever-in-second-half-of-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cpbbwkjgcfvunlxiklde",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-18T05:01:25+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Keaschall's first leadoff at-bat of the year couldn't have gone much better",
-      "link": "https://www.mlb.com/news/luke-keaschall-hits-double-in-first-look-in-leadoff-spot",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c4ioi0f3rhdcqr4iwo13",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Patrick Donnelly",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-18T04:26:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "McCullough's ejection punctuates frustrating Wild Card setback",
-      "link": "https://www.mlb.com/news/clayton-mccullough-ejected-after-arguing-replay-review",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jtou6ufdjvlax9xz6u8w",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Corey Seidman",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-08-18T04:14:00+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "With 3 K's in return to Rays, McClanahan shows he's ready for stretch run",
-      "link": "https://www.mlb.com/news/shane-mcclanahan-rays-rotation-return",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c2ewlcr1oosedncsrdrr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-18T04:14:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "9h ago"
     }
   ]
 }
