@@ -1,18 +1,44 @@
 {
-  "updated_at": "2026-08-18T21:58:48.964910+00:00",
+  "updated_at": "2026-08-18T22:59:45.692118+00:00",
   "news": [
     {
-      "title": "Dodgers closer Díaz heading back to IL (reports)",
+      "title": "Yankees optimistic Fried will miss minimum in latest IL stint",
+      "link": "https://www.mlb.com/news/max-fried-hopes-to-miss-minimum-in-il-stint-for-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787089641/mlb/kfuhgzibotd3ianvj2qu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-18T22:52:00+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Dodgers closer Díaz heading back to IL with neck inflammation",
       "link": "https://www.mlb.com/news/edwin-diaz-injured-list",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oy4cyfnfzjm2mambzsly",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "MLB.com",
+      "author": "Theo DeRosa",
       "tag": "Injury",
       "tag_color": "#DC2626",
-      "pub_date": "2026-08-18T21:46:19+00:00",
-      "time_ago": "12m ago"
+      "pub_date": "2026-08-18T22:48:00+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Pool work for Judge may be final step before hitting progression begins",
+      "link": "https://www.mlb.com/news/aaron-judge-to-start-hitting-progression-for-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787090476/mlb/ix41atg3sup27xizqz63",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-18T22:27:41+00:00",
+      "time_ago": "32m ago"
     },
     {
       "title": "Movers of AUSL Series 2: Landry leaps, Palacios takes top spot",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T21:32:46+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Turang returns to Brewers lineup after missing 4 games",
@@ -38,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-08-18T21:21:15+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "DeLauter (left hamstring) improving, but out of lineup for Giants opener",
@@ -51,7 +77,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-08-18T21:03:44+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "All-Star catcher Goodman (shoulder strain) placed on IL",
@@ -64,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-18T21:00:30+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yankees activate Rodón for 1st start since June tonight vs. O's",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T19:32:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Prospect storylines to follow for the remainder of the season",
-      "link": "https://www.mlb.com/news/prospect-storylines-to-follow-for-the-remainder-of-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qft5o3cu4wept0pahgfb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sam Dykstra",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-18T19:30:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "How did this Russian tennis superstar turn into a huge Reds fan?",
-      "link": "https://www.mlb.com/news/daniil-medvedev-throws-out-first-pitch-at-reds-game",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ez3rxibcwixvwxkcw5qr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-18T18:07:00+00:00",
       "time_ago": "3h ago"
     }
   ]
