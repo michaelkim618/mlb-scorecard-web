@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-18T17:53:00.901997+00:00",
+  "updated_at": "2026-08-18T17:59:13.624635+00:00",
   "news": [
+    {
+      "title": "OMG! Fan favorite Iglesias returning to Citi Field for 1st pitch",
+      "link": "https://www.mlb.com/news/jose-iglesias-returns-to-citi-field-first-pitch",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ilhcpagdggrs8h2odcqr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-18T17:48:55+00:00",
+      "time_ago": "10m ago"
+    },
     {
       "title": "Hao-Yu Lee sets single-season record for hits by a player born in Taiwan",
       "link": "https://www.mlb.com/news/hao-yu-lee-sets-taiwanese-record-for-hits-in-a-season",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T17:23:52+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "35m ago"
     },
     {
       "title": "This Russian tennis superstar is a massive Reds fan -- and he can prove it",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T17:15:14+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Marte heading for MRI on knee after placement on restricted list (source)",
@@ -90,19 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-18T14:25:24+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Crunch time starts now for Rangers after difficult road trip",
-      "link": "https://www.mlb.com/news/rangers-return-home-for-big-games-after-tough-road-trip",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iopbx7irnoqffawgvipv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kennedi Landry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-18T13:54:36+00:00",
       "time_ago": "3h ago"
     }
   ]
