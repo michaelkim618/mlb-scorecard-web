@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-18T15:05:01.237027+00:00",
+  "updated_at": "2026-08-18T15:17:36.952323+00:00",
   "news": [
+    {
+      "title": "Rays assign No. 2 overall pick Emerson to Single-A for pro debut",
+      "link": "https://www.mlb.com/news/grady-emerson-assigned-to-single-a-for-pro-debut",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zxmqlbahswtkqrujsyzv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-08-18T15:08:41+00:00",
+      "time_ago": "8m ago"
+    },
     {
       "title": "In Walker and Báez, Cards may have a serious outfield duo",
       "link": "https://www.mlb.com/news/joshua-baez-jordan-walker-form-fearsome-duo-for-cardinals",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T14:37:17+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "40m ago"
     },
     {
       "title": "Three iconic baseball franchises getting the comic book treatment",
@@ -25,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-18T14:25:24+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "Crunch time starts now for Rangers after difficult road trip",
@@ -90,19 +103,6 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-08-18T06:12:42+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "Ohtani hits 878 feet of HRs ... and eyes possible bullpen session Tuesday",
-      "link": "https://www.mlb.com/news/shohei-ohtani-homer-caught-by-dodgers-reliever",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787025344/mlb/bpdt3gvix8ek6pj8yxmt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Patrick Saunders",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-18T05:24:00+00:00",
       "time_ago": "9h ago"
     }
   ]
