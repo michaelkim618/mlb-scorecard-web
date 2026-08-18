@@ -216,12 +216,12 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 60.6,
-      "home": 39.4
+      "away": 59.4,
+      "home": 40.6
     },
     "expected_score": {
-      "away": 1.4,
-      "home": 1.2
+      "away": 1.3,
+      "home": 1.1
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -259,10 +259,10 @@
           "rest_days": 51,
           "rest_note": "long_rest"
         },
-        "bp_score": 70.4,
+        "bp_score": 71.7,
         "bp_detail": {
           "bullpen_era": 2.63,
-          "recent_era": 2.0,
+          "recent_era": 1.83,
           "recent_appearances": 19,
           "recent_ip": 19.7,
           "team_era": 3.02,
@@ -310,7 +310,7 @@
           }
         },
         "sit_score": 56.8,
-        "total": 46.2
+        "total": 46.5
       },
       "home": {
         "sp_score": 40.3,
@@ -333,12 +333,12 @@
           "rest_days": 6,
           "rest_note": null
         },
-        "bp_score": 26.4,
+        "bp_score": 40.4,
         "bp_detail": {
           "bullpen_era": 4.1,
-          "recent_era": 5.76,
-          "recent_appearances": 27,
-          "recent_ip": 25.0,
+          "recent_era": 3.86,
+          "recent_appearances": 23,
+          "recent_ip": 21.0,
           "team_era": 4.02,
           "bp_ip": 285.3,
           "bp_count": 8
@@ -384,14 +384,14 @@
           }
         },
         "sit_score": 44.8,
-        "total": 30.4
+        "total": 33.2
       }
     },
     "scores": {
       "away_offense": 18.3,
-      "away_defense": 63.9,
+      "away_defense": 64.5,
       "home_offense": 17.9,
-      "home_defense": 33.3
+      "home_defense": 40.3
     },
     "actual_score": {
       "away": null,
@@ -1161,7 +1161,7 @@
     },
     "expected_score": {
       "away": 1.3,
-      "home": 2.2
+      "home": 2.3
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -1199,12 +1199,12 @@
           "rest_days": 7,
           "rest_note": "extra_rest"
         },
-        "bp_score": 28.3,
+        "bp_score": 24.2,
         "bp_detail": {
           "bullpen_era": 4.03,
-          "recent_era": 5.68,
-          "recent_appearances": 25,
-          "recent_ip": 31.7,
+          "recent_era": 6.23,
+          "recent_appearances": 19,
+          "recent_ip": 21.7,
           "team_era": 4.11,
           "bp_ip": 214.3,
           "bp_count": 9
@@ -1250,7 +1250,7 @@
           }
         },
         "sit_score": 41.2,
-        "total": 28.3
+        "total": 27.0
       },
       "home": {
         "sp_score": 55.7,
@@ -1329,7 +1329,7 @@
     },
     "scores": {
       "away_offense": 20.7,
-      "away_defense": 28.2,
+      "away_defense": 25.6,
       "home_offense": 27.6,
       "home_defense": 58.4
     },
@@ -1614,12 +1614,12 @@
           "rest_days": 6,
           "rest_note": null
         },
-        "bp_score": 60.1,
+        "bp_score": 64.9,
         "bp_detail": {
           "bullpen_era": 3.67,
-          "recent_era": 2.48,
-          "recent_appearances": 27,
-          "recent_ip": 32.7,
+          "recent_era": 1.88,
+          "recent_appearances": 23,
+          "recent_ip": 28.7,
           "team_era": 3.76,
           "bp_ip": 343.7,
           "bp_count": 9
@@ -1720,7 +1720,7 @@
           }
         },
         "sit_score": 48.1,
-        "total": 57.4
+        "total": 58.6
       },
       "home": {
         "sp_score": 28.7,
@@ -1854,7 +1854,7 @@
     },
     "scores": {
       "away_offense": 45.1,
-      "away_defense": 66.0,
+      "away_defense": 68.5,
       "home_offense": 14.4,
       "home_defense": 36.5
     },
@@ -2096,8 +2096,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 45.5,
-      "home": 54.5
+      "away": 47.3,
+      "home": 52.7
     },
     "expected_score": {
       "away": 2.0,
@@ -2139,12 +2139,12 @@
           "rest_days": 6,
           "rest_note": null
         },
-        "bp_score": 63.7,
+        "bp_score": 65.3,
         "bp_detail": {
           "bullpen_era": 3.69,
-          "recent_era": 2.0,
-          "recent_appearances": 18,
-          "recent_ip": 17.0,
+          "recent_era": 1.8,
+          "recent_appearances": 16,
+          "recent_ip": 15.0,
           "team_era": 3.78,
           "bp_ip": 341.3,
           "bp_count": 7
@@ -2190,7 +2190,7 @@
           }
         },
         "sit_score": 43.8,
-        "total": 47.8
+        "total": 48.1
       },
       "home": {
         "sp_score": 56.9,
@@ -2213,12 +2213,12 @@
           "rest_days": 7,
           "rest_note": "extra_rest"
         },
-        "bp_score": 54.8,
+        "bp_score": 49.3,
         "bp_detail": {
           "bullpen_era": 2.61,
-          "recent_era": 4.7,
-          "recent_appearances": 14,
-          "recent_ip": 15.3,
+          "recent_era": 5.4,
+          "recent_appearances": 12,
+          "recent_ip": 13.3,
           "team_era": 3.5,
           "bp_ip": 272.3,
           "bp_count": 6
@@ -2264,14 +2264,14 @@
           }
         },
         "sit_score": 63.6,
-        "total": 47.8
+        "total": 46.7
       }
     },
     "scores": {
       "away_offense": 30.9,
-      "away_defense": 61.4,
+      "away_defense": 62.1,
       "home_offense": 29.3,
-      "home_defense": 55.8
+      "home_defense": 53.1
     },
     "actual_score": {
       "away": null,
@@ -2683,12 +2683,12 @@
           "rest_days": 6,
           "rest_note": null
         },
-        "bp_score": 51.8,
+        "bp_score": 50.1,
         "bp_detail": {
           "bullpen_era": 3.54,
-          "recent_era": 3.72,
-          "recent_appearances": 20,
-          "recent_ip": 19.3,
+          "recent_era": 3.93,
+          "recent_appearances": 19,
+          "recent_ip": 18.3,
           "team_era": 3.74,
           "bp_ip": 330.3,
           "bp_count": 8
@@ -2789,14 +2789,14 @@
           }
         },
         "sit_score": 59.6,
-        "total": 53.0
+        "total": 52.5
       }
     },
     "scores": {
       "away_offense": 40.2,
       "away_defense": 37.7,
       "home_offense": 44.8,
-      "home_defense": 54.8
+      "home_defense": 54.0
     },
     "actual_score": {
       "away": null,
@@ -3036,8 +3036,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 40.0,
-      "home": 60.0
+      "away": 38.6,
+      "home": 61.4
     },
     "expected_score": {
       "away": 2.0,
@@ -3208,12 +3208,12 @@
           "rest_days": 6,
           "rest_note": null
         },
-        "bp_score": 60.0,
+        "bp_score": 55.7,
         "bp_detail": {
           "bullpen_era": 2.76,
-          "recent_era": 3.86,
-          "recent_appearances": 14,
-          "recent_ip": 16.3,
+          "recent_era": 4.4,
+          "recent_appearances": 13,
+          "recent_ip": 14.3,
           "team_era": 3.21,
           "bp_ip": 228.3,
           "bp_count": 7
@@ -3314,14 +3314,14 @@
           }
         },
         "sit_score": 54.5,
-        "total": 51.2
+        "total": 49.9
       }
     },
     "scores": {
       "away_offense": 30.6,
       "away_defense": 42.8,
       "home_offense": 35.7,
-      "home_defense": 56.8
+      "home_defense": 54.7
     },
     "actual_score": {
       "away": null,
@@ -3339,7 +3339,7 @@
     "model_correct": null,
     "notes": "Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Blake Walston, Corbin Burnes, Cristian Mena 외 다수 / Boston Red Sox IL: Curtis Mead, Garrett Crochet, Garrett Whitlock, Isiah Kiner-Falefa, Johan Oviedo 외 다수",
     "kalshi_prob": 61.0,
-    "edge": -1.0,
+    "edge": 0.4,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -3561,8 +3561,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 54.2,
-      "home": 45.8
+      "away": 54.9,
+      "home": 45.1
     },
     "expected_score": {
       "away": 2.5,
@@ -3604,12 +3604,12 @@
           "rest_days": 6,
           "rest_note": null
         },
-        "bp_score": 78.0,
+        "bp_score": 80.0,
         "bp_detail": {
           "bullpen_era": 2.5,
-          "recent_era": 2.0,
-          "recent_appearances": 16,
-          "recent_ip": 19.0,
+          "recent_era": 1.12,
+          "recent_appearances": 13,
+          "recent_ip": 16.0,
           "team_era": 3.58,
           "bp_ip": 302.3,
           "bp_count": 6
@@ -3710,7 +3710,7 @@
           }
         },
         "sit_score": 52.5,
-        "total": 57.4
+        "total": 57.9
       },
       "home": {
         "sp_score": 61.8,
@@ -3733,12 +3733,12 @@
           "rest_days": 6,
           "rest_note": null
         },
-        "bp_score": 59.9,
+        "bp_score": 59.2,
         "bp_detail": {
           "bullpen_era": 3.54,
-          "recent_era": 2.7,
-          "recent_appearances": 19,
-          "recent_ip": 23.3,
+          "recent_era": 2.79,
+          "recent_appearances": 16,
+          "recent_ip": 19.3,
           "team_era": 3.98,
           "bp_ip": 73.7,
           "bp_count": 8
@@ -3839,14 +3839,14 @@
           }
         },
         "sit_score": 50.3,
-        "total": 52.4
+        "total": 52.3
       }
     },
     "scores": {
       "away_offense": 39.9,
-      "away_defense": 72.3,
+      "away_defense": 73.3,
       "home_offense": 41.0,
-      "home_defense": 60.8
+      "home_defense": 60.5
     },
     "actual_score": {
       "away": null,
@@ -3864,7 +3864,7 @@
     "model_correct": null,
     "notes": "San Diego Padres IL: Bryan Hoeing, Jason Adam, Joe Musgrove, Lucas Giolito, Miguel Andujar 외 다수 / New York Mets IL: Austin Warren, Cionel Pérez, Devin Williams, Juan Soto, Justin Hagenman 외 다수",
     "kalshi_prob": 48.0,
-    "edge": -2.2,
+    "edge": -2.9,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -4086,12 +4086,12 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 42.3,
-      "home": 57.7
+      "away": 42.0,
+      "home": 58.0
     },
     "expected_score": {
-      "away": 2.9,
-      "home": 2.8
+      "away": 2.8,
+      "home": 2.7
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -4129,12 +4129,12 @@
           "rest_days": 6,
           "rest_note": null
         },
-        "bp_score": 15.8,
+        "bp_score": 20.1,
         "bp_detail": {
           "bullpen_era": 4.68,
-          "recent_era": 6.82,
-          "recent_appearances": 23,
-          "recent_ip": 30.3,
+          "recent_era": 5.97,
+          "recent_appearances": 21,
+          "recent_ip": 28.7,
           "team_era": 4.83,
           "bp_ip": 267.3,
           "bp_count": 9
@@ -4235,7 +4235,7 @@
           }
         },
         "sit_score": 40.9,
-        "total": 29.5
+        "total": 30.8
       },
       "home": {
         "sp_score": 30.0,
@@ -4258,12 +4258,12 @@
           "rest_days": 4,
           "rest_note": null
         },
-        "bp_score": 33.8,
+        "bp_score": 38.8,
         "bp_detail": {
           "bullpen_era": 4.62,
-          "recent_era": 4.35,
-          "recent_appearances": 19,
-          "recent_ip": 20.7,
+          "recent_era": 3.72,
+          "recent_appearances": 17,
+          "recent_ip": 19.3,
           "team_era": 4.19,
           "bp_ip": 331.0,
           "bp_count": 9
@@ -4364,14 +4364,14 @@
           }
         },
         "sit_score": 48.7,
-        "total": 34.6
+        "total": 36.1
       }
     },
     "scores": {
       "away_offense": 38.5,
-      "away_defense": 20.8,
+      "away_defense": 23.6,
       "home_offense": 32.5,
-      "home_defense": 32.5
+      "home_defense": 35.7
     },
     "actual_score": {
       "away": null,
@@ -4389,7 +4389,7 @@
     "model_correct": null,
     "notes": "Athletics IL: Brent Rooker, Brooks Kriske, Denzel Clarke, Gunnar Hoglund, Jeffrey Springs 외 다수 / Kansas City Royals IL: Alec Marsh, Beck Way, Carlos Estévez, Cole Ragans, Connor Seabold 외 다수",
     "kalshi_prob": 55.0,
-    "edge": 2.7,
+    "edge": 3.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -4611,8 +4611,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 55.6,
-      "home": 44.4
+      "away": 52.8,
+      "home": 47.2
     },
     "expected_score": {
       "away": 1.5,
@@ -4654,12 +4654,12 @@
           "rest_days": 6,
           "rest_note": null
         },
-        "bp_score": 62.4,
+        "bp_score": 61.7,
         "bp_detail": {
           "bullpen_era": 3.0,
-          "recent_era": 2.7,
-          "recent_appearances": 19,
-          "recent_ip": 23.3,
+          "recent_era": 2.79,
+          "recent_appearances": 17,
+          "recent_ip": 19.3,
           "team_era": 3.33,
           "bp_ip": 330.0,
           "bp_count": 8
@@ -4760,7 +4760,7 @@
           }
         },
         "sit_score": 57.4,
-        "total": 47.7
+        "total": 47.5
       },
       "home": {
         "sp_score": 30.8,
@@ -4783,12 +4783,12 @@
           "rest_days": 6,
           "rest_note": null
         },
-        "bp_score": 49.8,
+        "bp_score": 59.1,
         "bp_detail": {
           "bullpen_era": 3.68,
-          "recent_era": 3.76,
-          "recent_appearances": 24,
-          "recent_ip": 26.3,
+          "recent_era": 2.59,
+          "recent_appearances": 22,
+          "recent_ip": 24.3,
           "team_era": 4.3,
           "bp_ip": 367.3,
           "bp_count": 8
@@ -4889,14 +4889,14 @@
           }
         },
         "sit_score": 52.8,
-        "total": 41.4
+        "total": 43.7
       }
     },
     "scores": {
       "away_offense": 20.9,
-      "away_defense": 59.9,
+      "away_defense": 59.5,
       "home_offense": 39.2,
-      "home_defense": 40.3
+      "home_defense": 45.0
     },
     "actual_score": {
       "away": null,
@@ -4914,7 +4914,7 @@
     "model_correct": null,
     "notes": "Atlanta Braves IL: Joe Jiménez, Joey Wentz, Reynaldo López, Robert Suarez, Spencer Schwellenbach 외 다수 / Minnesota Twins IL: Anthony Banda, Austin Martin, Cole Sands, David Festa, Joe Ryan 외 다수",
     "kalshi_prob": 45.0,
-    "edge": -0.6,
+    "edge": 2.2,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -5515,7 +5515,7 @@
       "home": 63.0
     },
     "expected_score": {
-      "away": 1.3,
+      "away": 1.4,
       "home": 3.2
     },
     "blend_detail": null,
@@ -5627,12 +5627,12 @@
           "rest_days": 6,
           "rest_note": null
         },
-        "bp_score": 38.4,
+        "bp_score": 31.4,
         "bp_detail": {
           "bullpen_era": 3.53,
-          "recent_era": 5.4,
-          "recent_appearances": 26,
-          "recent_ip": 33.3,
+          "recent_era": 6.28,
+          "recent_appearances": 21,
+          "recent_ip": 28.7,
           "team_era": 3.89,
           "bp_ip": 339.3,
           "bp_count": 9
@@ -5678,14 +5678,14 @@
           }
         },
         "sit_score": 53.8,
-        "total": 45.6
+        "total": 43.8
       }
     },
     "scores": {
       "away_offense": 19.2,
       "away_defense": 23.5,
       "home_offense": 37.9,
-      "home_defense": 46.8
+      "home_defense": 43.3
     },
     "actual_score": {
       "away": null,
@@ -5930,7 +5930,7 @@
     },
     "expected_score": {
       "away": 3.5,
-      "home": 2.9
+      "home": 2.8
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -5968,10 +5968,10 @@
           "rest_days": 5,
           "rest_note": null
         },
-        "bp_score": 73.4,
+        "bp_score": 75.2,
         "bp_detail": {
           "bullpen_era": 2.88,
-          "recent_era": 2.0,
+          "recent_era": 1.78,
           "recent_appearances": 16,
           "recent_ip": 25.3,
           "team_era": 3.59,
@@ -6074,7 +6074,7 @@
           }
         },
         "sit_score": 56.4,
-        "total": 51.9
+        "total": 52.4
       },
       "home": {
         "sp_score": 30.0,
@@ -6208,7 +6208,7 @@
     },
     "scores": {
       "away_offense": 47.1,
-      "away_defense": 58.9,
+      "away_defense": 60.1,
       "home_offense": 43.0,
       "home_defense": 37.0
     },
@@ -6440,11 +6440,11 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 42.6,
-      "home": 57.4
+      "away": 45.2,
+      "home": 54.8
     },
     "expected_score": {
-      "away": 1.5,
+      "away": 1.6,
       "home": 3.7
     },
     "blend_detail": null,
@@ -6483,12 +6483,12 @@
           "rest_days": 6,
           "rest_note": null
         },
-        "bp_score": 60.6,
+        "bp_score": 63.4,
         "bp_detail": {
           "bullpen_era": 3.46,
-          "recent_era": 2.3,
-          "recent_appearances": 23,
-          "recent_ip": 27.3,
+          "recent_era": 1.93,
+          "recent_appearances": 17,
+          "recent_ip": 23.3,
           "team_era": 4.12,
           "bp_ip": 169.0,
           "bp_count": 9
@@ -6534,7 +6534,7 @@
           }
         },
         "sit_score": 40.9,
-        "total": 38.3
+        "total": 39.1
       },
       "home": {
         "sp_score": 30.0,
@@ -6557,12 +6557,12 @@
           "rest_days": 9,
           "rest_note": "extra_rest"
         },
-        "bp_score": 49.8,
+        "bp_score": 44.9,
         "bp_detail": {
           "bullpen_era": 3.46,
-          "recent_era": 4.09,
-          "recent_appearances": 23,
-          "recent_ip": 33.0,
+          "recent_era": 4.7,
+          "recent_appearances": 20,
+          "recent_ip": 23.0,
           "team_era": 3.76,
           "bp_ip": 361.7,
           "bp_count": 9
@@ -6608,14 +6608,14 @@
           }
         },
         "sit_score": 57.1,
-        "total": 45.5
+        "total": 44.0
       }
     },
     "scores": {
       "away_offense": 21.9,
-      "away_defense": 49.3,
+      "away_defense": 51.1,
       "home_offense": 51.9,
-      "home_defense": 42.9
+      "home_defense": 39.7
     },
     "actual_score": {
       "away": null,
@@ -6855,8 +6855,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 60.7,
-      "home": 39.3
+      "away": 61.0,
+      "home": 39.0
     },
     "expected_score": {
       "away": 2.7,
@@ -6898,12 +6898,12 @@
           "rest_days": 6,
           "rest_note": null
         },
-        "bp_score": 48.7,
+        "bp_score": 49.6,
         "bp_detail": {
           "bullpen_era": 3.8,
-          "recent_era": 3.71,
-          "recent_appearances": 26,
-          "recent_ip": 34.0,
+          "recent_era": 3.6,
+          "recent_appearances": 22,
+          "recent_ip": 30.0,
           "team_era": 3.64,
           "bp_ip": 298.3,
           "bp_count": 9
@@ -7004,7 +7004,7 @@
           }
         },
         "sit_score": 61.4,
-        "total": 44.2
+        "total": 44.5
       },
       "home": {
         "sp_score": 25.0,
@@ -7027,12 +7027,12 @@
           "rest_days": 6,
           "rest_note": null
         },
-        "bp_score": 25.7,
+        "bp_score": 25.8,
         "bp_detail": {
           "bullpen_era": 5.24,
-          "recent_era": 4.43,
-          "recent_appearances": 18,
-          "recent_ip": 20.3,
+          "recent_era": 4.41,
+          "recent_appearances": 16,
+          "recent_ip": 16.3,
           "team_era": 5.48,
           "bp_ip": 245.7,
           "bp_count": 8
@@ -7138,7 +7138,7 @@
     },
     "scores": {
       "away_offense": 34.8,
-      "away_defense": 43.8,
+      "away_defense": 44.2,
       "home_offense": 47.5,
       "home_defense": 25.5
     },
@@ -7158,7 +7158,7 @@
     "model_correct": null,
     "notes": "Los Angeles Dodgers IL: Ben Casparius, Blake Treinen, Bobby Miller, Brock Stewart, Brusdar Graterol 외 다수 / Colorado Rockies IL: Chase Dollander, Jaden Hill, Jose Quintana, Kris Bryant, Kyle Karros 외 다수",
     "kalshi_prob": 36.0,
-    "edge": 3.3,
+    "edge": 3.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false

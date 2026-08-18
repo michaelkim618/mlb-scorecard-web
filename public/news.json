@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-18T06:06:35.844939+00:00",
+  "updated_at": "2026-08-18T07:30:28.979336+00:00",
   "news": [
+    {
+      "title": "PCA secures 2nd straight 30-30 season -- boosts MVP case -- in epic way",
+      "link": "https://www.mlb.com/news/pete-crow-armstrong-records-second-straight-30-30-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wcshhhwg9k9vdrofxwi8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-08-18T06:12:42+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Ohtani hits 878 feet of HRs ... and eyes possible bullpen session Tuesday",
       "link": "https://www.mlb.com/news/shohei-ohtani-homer-caught-by-dodgers-reliever",
@@ -12,7 +25,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-18T05:24:00+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Players who hit a leadoff and walk-off home run in the same game",
@@ -25,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-18T05:11:00+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Sommers shows off wheels and whiffs as Tigers' latest young standout",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T05:05:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Bello bouncing back in bulk-relief role with a vengeance",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T05:01:25+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Keaschall's first leadoff at-bat of the year couldn't have gone much better",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T04:26:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "McCullough's ejection punctuates frustrating Wild Card setback",
@@ -77,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-08-18T04:14:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "With 3 K's in return to Rays, McClanahan shows he's ready for stretch run",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-18T04:14:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "5 Trade Deadline sellers who are still playoff contenders",
-      "link": "https://www.mlb.com/news/mlb-trade-deadline-sellers-contending-for-2026-postseason",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/whjcwyw2cqpal0mzy5nt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-08-18T04:00:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
