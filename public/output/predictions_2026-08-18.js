@@ -4389,8 +4389,8 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Kansas City Royals",
     "model_correct": null,
     "notes": "Athletics IL: Brent Rooker, Brooks Kriske, Denzel Clarke, Gunnar Hoglund, Jeffrey Springs 외 다수 / Kansas City Royals IL: Alec Marsh, Beck Way, Carlos Estévez, Cole Ragans, Connor Seabold 외 다수",
-    "kalshi_prob": 54.0,
-    "edge": 3.7,
+    "kalshi_prob": 55.0,
+    "edge": 2.7,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -7158,8 +7158,8 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Los Angeles Dodgers",
     "model_correct": null,
     "notes": "Los Angeles Dodgers IL: Ben Casparius, Blake Treinen, Bobby Miller, Brock Stewart, Brusdar Graterol 외 다수 / Colorado Rockies IL: Chase Dollander, Jaden Hill, Jose Quintana, Kris Bryant, Kyle Karros 외 다수",
-    "kalshi_prob": 37.0,
-    "edge": 2.3,
+    "kalshi_prob": 36.0,
+    "edge": 3.3,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
