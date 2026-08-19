@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-19T15:14:21.379762+00:00",
+  "updated_at": "2026-08-19T15:17:42.629040+00:00",
   "news": [
+    {
+      "title": "Marte returning to Phoenix for MRI on knee; Lovullo focusing on series in Boston",
+      "link": "https://www.mlb.com/news/ketel-marte-heading-for-mri-on-knee-after-restricted-list-placement",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rdocmde1psfmqerqmucn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Steve Gilbert",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-19T15:10:00+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "How Matt Olson became a king of scoops at first base",
+      "link": "https://www.mlb.com/news/matt-olson-among-leaders-in-new-first-base-scoops-stat",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g2ln5gbaa5wtqwhdqai9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "David Adler",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-19T14:58:17+00:00",
+      "time_ago": "19m ago"
+    },
     {
       "title": "Mets' new top prospect has been crushing it since arriving at Deadline",
       "link": "https://www.mlb.com/news/mets-prospect-jefferson-rojas-hits-17th-homer",
@@ -77,32 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-19T05:25:00+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "Quantrill continues strong run in rotation with 7 scoreless innings",
-      "link": "https://www.mlb.com/news/cal-quantrill-leads-rangers-to-win-over-nationals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zhpyvogcli1qrrcnxefh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kennedi Landry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-19T05:22:00+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "Here's where Brewers' 22-0 romp ranks among largest blowouts",
-      "link": "https://www.mlb.com/news/largest-margins-of-victory-in-mlb-history",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xtgpypicidklha4uineq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-19T05:21:25+00:00",
       "time_ago": "9h ago"
     }
   ]
