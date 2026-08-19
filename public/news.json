@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-19T17:05:53.715619+00:00",
+  "updated_at": "2026-08-19T17:11:48.320912+00:00",
   "news": [
+    {
+      "title": "Crafty lefty Cortes agrees to Major League deal with Phillies (source)",
+      "link": "https://www.mlb.com/news/nestor-cortes-phillies-deal",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/btrr1biuhkgh0iv2ojwo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-08-19T16:59:49+00:00",
+      "time_ago": "11m ago"
+    },
     {
       "title": "5 big questions about Joshua Báez's future",
       "link": "https://www.mlb.com/news/how-joshua-baez-fits-in-cardinals-long-term-plans",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-19T16:11:12+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Antonacci takes painful path to White Sox history",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-19T15:10:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "How Matt Olson became a king of scoops at first base",
@@ -91,19 +104,6 @@
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-19T13:26:17+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "Major investor signs on with AUSL",
-      "link": "https://www.mlb.com/news/rule42-sports-group-major-investment-ausl",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1785110409/mlb/q274gdlcmxie3voegwwj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-08-19T11:58:27+00:00",
-      "time_ago": "5h ago"
     }
   ]
 }
