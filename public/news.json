@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-19T17:11:48.320912+00:00",
+  "updated_at": "2026-08-19T17:46:23.390563+00:00",
   "news": [
+    {
+      "title": "Romano revives career with help of old friend",
+      "link": "https://www.mlb.com/news/jordan-romano-finds-success-since-joining-rockies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hanhbfklmdxhasifgl77",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harding",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-19T17:11:43+00:00",
+      "time_ago": "34m ago"
+    },
     {
       "title": "Crafty lefty Cortes agrees to Major League deal with Phillies (source)",
       "link": "https://www.mlb.com/news/nestor-cortes-phillies-deal",
@@ -12,7 +25,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-19T16:59:49+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "46m ago"
     },
     {
       "title": "5 big questions about Joshua Báez's future",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-19T15:30:31+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "MLB Network documentary on baseball's role after 9/11 to premiere Sept. 10",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-19T15:27:55+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Marte returning to Phoenix for MRI on knee; Lovullo focusing on series in Boston",
@@ -91,19 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-08-19T14:58:17+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Mets' new top prospect has been crushing it since arriving at Deadline",
-      "link": "https://www.mlb.com/news/mets-prospect-jefferson-rojas-hits-17th-homer",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ayu6hvy9jyeg7tqein4w",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-08-19T13:26:17+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
