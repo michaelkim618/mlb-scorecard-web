@@ -216,8 +216,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 41.6,
-      "home": 58.4
+      "away": 60.6,
+      "home": 39.4
     },
     "expected_score": {
       "away": 0.9,
@@ -515,8 +515,8 @@
       "any": false
     },
     "actual_winner": "New York Yankees",
-    "model_winner": "Baltimore Orioles",
-    "model_correct": false,
+    "model_winner": "New York Yankees",
+    "model_correct": true,
     "notes": "New York Yankees IL: Aaron Judge, Clarke Schmidt, Cody Bellinger, Giancarlo Stanton, Kervin Castro 외 다수 / Baltimore Orioles IL: Blaze Alexander, Colin Selby, Félix Bautista, Jordan Westburg, Keegan Akin 외 다수",
     "kalshi_prob": 52.0,
     "edge": 6.4,
