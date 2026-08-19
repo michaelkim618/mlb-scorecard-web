@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-19T03:32:55.887097+00:00",
+  "updated_at": "2026-08-19T04:03:38.091409+00:00",
   "news": [
+    {
+      "title": "Ohtani secures 6th straight 30-HR season as NL MVP race remains close as ever",
+      "link": "https://www.mlb.com/news/shohei-ohtani-hits-30th-home-run-of-season-vs-rockies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787104197/mlb/hy4j5ru3njda2uo4ducu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Patrick Saunders",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-19T03:50:00+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Kirk, Blue Jays exorcise their Trop tribulations with 10-run performance",
+      "link": "https://www.mlb.com/news/alejandro-kirk-blue-jays-offense-outburst-defeats-rays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787105550/mlb/iqw5ibwenxhtls5nbcto",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-19T03:45:00+00:00",
+      "time_ago": "18m ago"
+    },
     {
       "title": "With 25th homer, Okamoto breaks Blue Jays' rookie home run record",
       "link": "https://www.mlb.com/news/kazuma-okamoto-all-time-blue-jays-rookie-home-run-leader",
@@ -12,7 +38,33 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-19T03:29:00+00:00",
-      "time_ago": "3m ago"
+      "time_ago": "34m ago"
+    },
+    {
+      "title": "LHP Tugboat Wilkinson and his 'Invisiball' to debut for Giants on Wednesday",
+      "link": "https://www.mlb.com/news/matt-tugboat-wilkinson-called-up-by-giants",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gco849ebo5iumv2lkht9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Maria Guardado",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-19T03:28:00+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "With father, Andy, on hand, Yankees prospect Luke Pettitte launches first pro homer",
+      "link": "https://www.mlb.com/news/yankees-luke-pettitte-hits-first-professional-homer",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wvaiw1qksxiphyy3bx4g",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com staff",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-19T03:27:04+00:00",
+      "time_ago": "36m ago"
     },
     {
       "title": "Dynamic duo of Bohm, Stott come to rescue as Phils win fifth straight",
@@ -25,7 +77,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-19T03:14:00+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "49m ago"
+    },
+    {
+      "title": "Bell giving the Twins stability with his bat and leadership",
+      "link": "https://www.mlb.com/news/josh-bell-homers-extends-on-base-streak-21-games",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gfwdrophmutptnn8xdpl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Patrick Donnelly",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-19T03:14:00+00:00",
+      "time_ago": "49m ago"
     },
     {
       "title": "'Big-time challenge' gets Rodón out of jam in strong return from IL",
@@ -38,72 +103,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-19T03:06:00+00:00",
-      "time_ago": "26m ago"
-    },
-    {
-      "title": "Adell kicks off career night with HR rolling in the deep LF bleachers",
-      "link": "https://www.mlb.com/news/jo-adell-career-high-six-rbis-guardians-win",
-      "summary": "Guardians OF tallies 6 RBIs before departing in 8th after fouling ball off left knee",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787104109/mlb/wdz2fwur9gqinkbossz2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-19T03:00:00+00:00",
-      "time_ago": "32m ago"
-    },
-    {
-      "title": "Wheeler loses zone in fifth but limits damage in ongoing search for ace form",
-      "link": "https://www.mlb.com/news/zack-wheeler-takes-on-marlins-on-tuesday-at-home",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787094642/mlb/wryq0u3k5gellc3tjz4p",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-19T02:56:00+00:00",
-      "time_ago": "36m ago"
-    },
-    {
-      "title": "Quantrill continues strong run in rotation with 7 scoreless innings",
-      "link": "https://www.mlb.com/news/cal-quantrill-leads-rangers-to-win-over-nationals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zhpyvogcli1qrrcnxefh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kennedi Landry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-19T02:53:21+00:00",
-      "time_ago": "39m ago"
-    },
-    {
-      "title": "22-0! Brewers tie franchise record run tally in rout of Mariners",
-      "link": "https://www.mlb.com/news/brewers-tie-franchise-record-22-runs-in-win-over-mariners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wwbdmr15moypc3cbh7ur",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-19T02:51:27+00:00",
-      "time_ago": "41m ago"
-    },
-    {
-      "title": "Keeping focus on 'process,' surging Grisham knocks in all 3 Yankees runs",
-      "link": "https://www.mlb.com/news/trent-grisham-drives-in-all-3-runs-as-yankees-beat-orioles",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787099602/mlb/z1igohiqzshithaxyaa8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-19T02:46:00+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "57m ago"
     }
   ]
 }
