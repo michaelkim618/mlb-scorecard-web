@@ -7813,9 +7813,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Los Angeles Dodgers",
     "model_winner": "Los Angeles Dodgers",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Los Angeles Dodgers IL: Ben Casparius, Blake Treinen, Bobby Miller, Brock Stewart, Brusdar Graterol 외 다수 / Colorado Rockies IL: Chase Dollander, Hunter Goodman, Jaden Hill, Jose Quintana, Kris Bryant 외 다수",
     "kalshi_prob": 35.0,
     "edge": 2.0,
