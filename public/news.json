@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-19T22:55:20.719867+00:00",
+  "updated_at": "2026-08-19T23:35:50.878485+00:00",
   "news": [
+    {
+      "title": "Pirates smack two HRs in 9th: one to tie it, one to walk off",
+      "link": "https://www.mlb.com/news/rafael-flores-jr-game-tying-homer-brandon-lowe-walk-off-homer",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/szct3mpucqprhztnidn6",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-19T23:03:00+00:00",
+      "time_ago": "32m ago"
+    },
+    {
+      "title": "Pratt returns to Brewers' lineup; Frelick needs a little more time",
+      "link": "https://www.mlb.com/news/cooper-pratt-reinstated-from-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ychtlz5idgfify85h5j5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-08-19T22:57:49+00:00",
+      "time_ago": "38m ago"
+    },
+    {
+      "title": "White Sox get taste of postseason pressure with Crosstown Classic win",
+      "link": "https://www.mlb.com/news/jose-urquidy-s-scoreless-relief-outing-leads-to-shutout-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787173905/mlb/dgixilkp6ocmmmnlpuz7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-19T22:55:00+00:00",
+      "time_ago": "40m ago"
+    },
     {
       "title": "Hoskins (back) placed on IL; Adell, DeLauter out of Wednesday's lineup",
       "link": "https://www.mlb.com/news/rhys-hoskins-placed-on-injured-list-with-back-injury",
@@ -12,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-08-19T22:42:34+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "Polanco set to undergo season-ending ankle surgery",
@@ -25,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-19T22:15:59+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Could Green manage Mets in '27? He'll be considered -- if he's interested",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-19T22:14:00+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Starting on 7 days' rest, Skenes (4 walks) still searching for command",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-19T22:10:00+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Vladdy (concussion) continues to progress, on track to return this weekend",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-19T21:36:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Bogaerts not expected to miss time after exiting game with hamstring cramp",
-      "link": "https://www.mlb.com/news/xander-bogaerts-exits-padres-game-with-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kuam4rdfl1himdnlvaqf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-19T21:12:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Urquidy's relief heroics punctuate South Siders' gritty Crosstown Classic win",
-      "link": "https://www.mlb.com/news/jose-urquidy-s-scoreless-relief-outing-leads-to-shutout-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787173905/mlb/dgixilkp6ocmmmnlpuz7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-19T21:00:31+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Dad catches son's 1st pro HR after predicting it was about to happen",
-      "link": "https://www.mlb.com/news/brewers-sawyer-strosnider-hits-first-pro-homer-to-dad",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/u9tcbmdcyqbbuovhpcux",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sam Dykstra and Ben Weinrib",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-19T21:00:00+00:00",
       "time_ago": "1h ago"
     }
   ]
