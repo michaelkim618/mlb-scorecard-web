@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-19T18:03:15.232729+00:00",
+  "updated_at": "2026-08-19T19:18:49.679926+00:00",
   "news": [
+    {
+      "title": "Could Green manage Mets in '27? He'll be considered -- if he's interested",
+      "link": "https://www.mlb.com/news/steve-cohen-andy-green-potential-2027-role-with-mets",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/o2okhmvxvex44ptcnl0l",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bill Ladson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-19T19:13:39+00:00",
+      "time_ago": "5m ago"
+    },
+    {
+      "title": "Pirates acquire veteran catcher Bethancourt from Yankees",
+      "link": "https://www.mlb.com/news/christian-bethancourt-traded-to-pirates-from-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/b9kgvhp6ynbkuuzyqs7y",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-08-19T18:59:00+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Starting on 7 days' rest, Skenes (4 walks) still searching for command",
+      "link": "https://www.mlb.com/news/paul-skenes-faces-tigers-in-pittsburgh",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/alwtvpenqjr4ahaipkj4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-19T18:33:00+00:00",
+      "time_ago": "45m ago"
+    },
+    {
+      "title": "Cohen: Mets took 'too much risk' with offseason overhaul",
+      "link": "https://www.mlb.com/news/steve-cohen-talks-david-stearns-mets-front-office-decisions",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tc7ofu3usk5ww9dwu41f",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bill Ladson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-19T18:06:36+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Romano revives career with help of old friend",
       "link": "https://www.mlb.com/news/jordan-romano-finds-success-since-joining-rockies",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-19T17:11:43+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Crafty lefty Cortes agrees to Major League deal with Phillies (source)",
@@ -25,7 +77,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-19T16:59:49+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "5 big questions about Joshua Báez's future",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-19T16:11:12+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Antonacci takes painful path to White Sox history",
@@ -51,58 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-19T15:54:46+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "MLB's biggest 'Survivor' fan? Q&A with Nats lefty Cosgrove",
-      "link": "https://www.mlb.com/news/tom-cosgrove-nationals-question-and-answer-session",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/olctda7rzzfmjjpnne9u",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-19T15:30:31+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "MLB Network documentary on baseball's role after 9/11 to premiere Sept. 10",
-      "link": "https://www.mlb.com/news/mlb-network-to-premiere-new-original-documentary-on-9-11",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ocbus3q9naiqszptvxls",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-19T15:27:55+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Marte returning to Phoenix for MRI on knee; Lovullo focusing on series in Boston",
-      "link": "https://www.mlb.com/news/ketel-marte-heading-for-mri-on-knee-after-restricted-list-placement",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rdocmde1psfmqerqmucn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-19T15:10:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "How Matt Olson became a king of scoops at first base",
-      "link": "https://www.mlb.com/news/matt-olson-among-leaders-in-new-first-base-scoops-stat",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g2ln5gbaa5wtqwhdqai9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "David Adler",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-19T14:58:17+00:00",
       "time_ago": "3h ago"
     }
   ]
