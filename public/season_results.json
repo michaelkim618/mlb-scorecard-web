@@ -8638,6 +8638,28 @@
       "away_bp_score": 48.7,
       "home_bp_score": 25.7,
       "bat_source": "prev_day"
+    },
+    {
+      "date": "2026-08-18",
+      "away": "Chicago White Sox",
+      "home": "Chicago Cubs",
+      "game_number": 1,
+      "pick": "Chicago White Sox",
+      "pick_prob": 60.0,
+      "actual_winner": "Chicago Cubs",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 8.64,
+      "home_sp_era": 6.4,
+      "away_bp_era": 2.88,
+      "home_bp_era": 3.34,
+      "away_sp_score": 42.0,
+      "home_sp_score": 30.0,
+      "away_bp_score": 75.2,
+      "home_bp_score": 40.7,
+      "bat_source": "lineup"
     }
   ]
 }
