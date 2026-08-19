@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-19T20:22:21.045052+00:00",
+  "updated_at": "2026-08-19T21:05:28.691420+00:00",
   "news": [
+    {
+      "title": "Urquidy's relief heroics punctuate South Siders' gritty Crosstown Classic win",
+      "link": "https://www.mlb.com/news/jose-urquidy-s-scoreless-relief-outing-leads-to-shutout-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dgixilkp6ocmmmnlpuz7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-19T21:00:31+00:00",
+      "time_ago": "4m ago"
+    },
+    {
+      "title": "Culpepper, Clemens lead Twins to sweep of 1st-place Braves",
+      "link": "https://www.mlb.com/news/twins-complete-sweep-of-braves",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ufsfurapscuvugj4zq3c",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Patrick Donnelly",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-19T20:55:41+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Basallo reinstated from IL, inserted into O's lineup vs. Yankees",
+      "link": "https://www.mlb.com/news/samuel-basallo-reinstated-by-orioles-shoulder-injury",
+      "summary": "Utility man Jackson optioned as Baltimore opts to carry 3 catchers on roster",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t7kqbrd5dgrgqtgm1ccl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-08-19T20:50:16+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "This Brewers prospect just hit his first pro home run ... to his dad!",
+      "link": "https://www.mlb.com/news/brewers-sawyer-strosnider-hits-first-pro-homer-to-dad",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/frwqfn87d4mkbosdds1s",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sam Dykstra",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-19T20:30:00+00:00",
+      "time_ago": "35m ago"
+    },
     {
       "title": "Pirates acquire veteran catcher Bethancourt from Yankees",
       "link": "https://www.mlb.com/news/christian-bethancourt-traded-to-pirates-from-yankees",
@@ -12,7 +64,20 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-19T20:08:00+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "57m ago"
+    },
+    {
+      "title": "Could Green manage Mets in '27? He'll be considered -- if he's interested",
+      "link": "https://www.mlb.com/news/steve-cohen-andy-green-potential-2027-role-with-mets",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/o2okhmvxvex44ptcnl0l",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bill Ladson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-19T20:06:00+00:00",
+      "time_ago": "59m ago"
     },
     {
       "title": "Pirates smack two HRs in 9th: one to tie it, one to walk off",
@@ -25,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-19T19:59:06+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Bogaerts exits with apparent injury in New York finale",
@@ -38,72 +103,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-19T19:50:30+00:00",
-      "time_ago": "31m ago"
-    },
-    {
-      "title": "MLB Together teaches mental wellness at RBI World Series",
-      "link": "https://www.mlb.com/news/rbi-world-series-mlb-together-mental-wellness-event-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qg2yclzaqknclmdlkylp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Perla Paredes",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-19T19:29:49+00:00",
-      "time_ago": "52m ago"
-    },
-    {
-      "title": "Could Green manage Mets in '27? He'll be considered -- if he's interested",
-      "link": "https://www.mlb.com/news/steve-cohen-andy-green-potential-2027-role-with-mets",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/o2okhmvxvex44ptcnl0l",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bill Ladson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-19T19:13:39+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Starting on 7 days' rest, Skenes (4 walks) still searching for command",
-      "link": "https://www.mlb.com/news/paul-skenes-faces-tigers-in-pittsburgh",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/alwtvpenqjr4ahaipkj4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-19T18:33:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Cohen: Mets took 'too much risk' with offseason overhaul",
-      "link": "https://www.mlb.com/news/steve-cohen-talks-david-stearns-mets-front-office-decisions",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tc7ofu3usk5ww9dwu41f",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bill Ladson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-19T18:06:36+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Romano revives career with help of old friend",
-      "link": "https://www.mlb.com/news/jordan-romano-finds-success-since-joining-rockies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hanhbfklmdxhasifgl77",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harding",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-19T17:11:43+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
