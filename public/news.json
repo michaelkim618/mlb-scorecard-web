@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-19T19:18:49.679926+00:00",
+  "updated_at": "2026-08-19T19:49:32.056709+00:00",
   "news": [
+    {
+      "title": "MLB Together teaches mental wellness at RBI World Series",
+      "link": "https://www.mlb.com/news/rbi-world-series-mlb-together-mental-wellness-event-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qg2yclzaqknclmdlkylp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Perla Paredes",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-19T19:29:49+00:00",
+      "time_ago": "19m ago"
+    },
     {
       "title": "Could Green manage Mets in '27? He'll be considered -- if he's interested",
       "link": "https://www.mlb.com/news/steve-cohen-andy-green-potential-2027-role-with-mets",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-19T19:13:39+00:00",
-      "time_ago": "5m ago"
+      "time_ago": "35m ago"
     },
     {
       "title": "Pirates acquire veteran catcher Bethancourt from Yankees",
@@ -25,7 +38,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-19T18:59:00+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Starting on 7 days' rest, Skenes (4 walks) still searching for command",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-19T18:33:00+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Cohen: Mets took 'too much risk' with offseason overhaul",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-19T16:11:12+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Antonacci takes painful path to White Sox history",
-      "link": "https://www.mlb.com/news/sam-antonacci-matches-white-sox-record-for-hit-by-pitches",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787107444/mlb/suy4qdtlbkggfy2rjq5s",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-19T15:54:46+00:00",
       "time_ago": "3h ago"
     }
   ]
