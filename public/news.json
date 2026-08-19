@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-19T04:10:48.585924+00:00",
+  "updated_at": "2026-08-19T04:22:44.776633+00:00",
   "news": [
+    {
+      "title": "Rodríguez's gaffe a microcosm of worst loss in Mariners history",
+      "link": "https://www.mlb.com/news/julio-rodriguez-throws-ball-into-stands-in-mariners-loss-to-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/esbyondw50ynf5iy4rtn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Sweet",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-19T04:17:29+00:00",
+      "time_ago": "5m ago"
+    },
     {
       "title": "Ohtani secures 6th straight 30-HR season as NL MVP race remains close as ever",
       "link": "https://www.mlb.com/news/shohei-ohtani-hits-30th-home-run-of-season-vs-rockies",
@@ -12,7 +25,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-19T03:50:00+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "32m ago"
     },
     {
       "title": "Kirk, Blue Jays exorcise their Trop tribulations with 10-run performance",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-19T03:45:00+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "With 25th homer, Okamoto breaks Blue Jays' rookie home run record",
@@ -38,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-19T03:29:00+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "LHP Tugboat Wilkinson and his 'Invisiball' to debut for Giants on Wednesday",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-19T03:28:00+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "With father, Andy, on hand, Yankees prospect Luke Pettitte launches first pro homer",
@@ -64,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-19T03:27:04+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "Dynamic duo of Bohm, Stott come to rescue as Phils win fifth straight",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-19T03:14:00+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Bell giving the Twins stability with his bat and leadership",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-19T03:14:00+00:00",
-      "time_ago": "56m ago"
-    },
-    {
-      "title": "'Big-time challenge' gets Rodón out of jam in strong return from IL",
-      "link": "https://www.mlb.com/news/carlos-rodon-activated-start-vs-orioles",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787096269/mlb/lasdhjomfrujlo3yskck",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-19T03:06:00+00:00",
       "time_ago": "1h ago"
     }
   ]
