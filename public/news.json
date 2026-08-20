@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-20T03:33:43.467366+00:00",
+  "updated_at": "2026-08-20T04:00:51.080338+00:00",
   "news": [
+    {
+      "title": "Twins sweep Braves, move into Wild Card position",
+      "link": "https://www.mlb.com/news/twins-complete-sweep-of-braves",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pljhvtv1ujdmyj9mvsdp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Patrick Donnelly",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-08-20T03:52:00+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Yanks push past Orioles after disputed foul call on Alonso blast",
+      "link": "https://www.mlb.com/news/yankees-capitalize-on-disputed-foul-call-on-pete-alonso",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787189979/mlb/czvmo4eqhyjt5vj5a2sw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-20T03:42:00+00:00",
+      "time_ago": "18m ago"
+    },
     {
       "title": "Nola continues resurgence with 7-inning gem to extend Phils' win streak to six",
       "link": "https://www.mlb.com/news/aaron-nola-tosses-seven-innings-in-sweep-of-marlins",
@@ -11,8 +37,47 @@
       "author": "Aaron Bracy",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-20T03:25:00+00:00",
-      "time_ago": "8m ago"
+      "pub_date": "2026-08-20T03:40:00+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "'He had first dibs': Marsh thanks fan for aiding with Superman-esque catch",
+      "link": "https://www.mlb.com/news/brandon-marsh-makes-spectacular-wall-climbing-catch",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ykfnzlqnjj9bqkiihv8z",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aaron Bracy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-20T03:35:53+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "'Tugboat' kicks off Giants' shutout win with stout showing vs. team that drafted him",
+      "link": "https://www.mlb.com/news/matt-wilkinson-delivers-scoreless-outing-in-mlb-debut",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tc4ng7kgloukpz1iu7wd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Maria Guardado",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-20T03:28:00+00:00",
+      "time_ago": "32m ago"
+    },
+    {
+      "title": "Reds' brightest stars shine in comeback win over Cardinals",
+      "link": "https://www.mlb.com/news/chase-burns-starts-vs-cardinals-august-19",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/k7hrt9cffz5za39dvo6q",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Sheldon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-20T03:17:00+00:00",
+      "time_ago": "43m ago"
     },
     {
       "title": "Vázquez's homer backs Pecko's debut as Astros stop losing skid",
@@ -25,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-20T03:16:12+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "44m ago"
     },
     {
       "title": "Glasnow racks up 9 K's in final tune-up before expected return",
@@ -38,72 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T03:07:03+00:00",
-      "time_ago": "26m ago"
-    },
-    {
-      "title": "Rays take 6-run lead, hang on for dear life: 'If we win, it doesn't matter'",
-      "link": "https://www.mlb.com/news/rays-capitalize-on-blue-jays-mistakes-hold-on-for-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787195157/mlb/vzzrlrzm5vtfiv7rd9re",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-20T02:56:00+00:00",
-      "time_ago": "37m ago"
-    },
-    {
-      "title": "Cavalli (11 K's) keeps on rolling as scoreless streak reaches 17 innings",
-      "link": "https://www.mlb.com/news/cade-cavalli-strikes-out-11-as-nationals-shut-out-rangers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787195880/mlb/drz5ord9c9uiirq6fg5x",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Dave Sessions",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-20T02:52:59+00:00",
-      "time_ago": "40m ago"
-    },
-    {
-      "title": "Dad catches son's 1st pro HR after predicting it was about to happen",
-      "link": "https://www.mlb.com/news/brewers-sawyer-strosnider-hits-first-pro-homer-to-dad",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/u9tcbmdcyqbbuovhpcux",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sam Dykstra and Ben Weinrib",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-20T02:52:00+00:00",
-      "time_ago": "41m ago"
-    },
-    {
-      "title": "Mariners turn the page, flip the script, hold off Brewers for rebound victory",
-      "link": "https://www.mlb.com/news/mariners-grab-early-lead-vs-brewers-in-comeback-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e5mb915qzwam0rxjmftq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-20T02:50:53+00:00",
-      "time_ago": "42m ago"
-    },
-    {
-      "title": "Crafty lefty Cortes agrees to Major League deal with Phillies",
-      "link": "https://www.mlb.com/news/nestor-cortes-phillies-deal",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/btrr1biuhkgh0iv2ojwo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-08-20T02:38:00+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "53m ago"
     }
   ]
 }
