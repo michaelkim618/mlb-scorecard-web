@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-20T15:15:06.202815+00:00",
+  "updated_at": "2026-08-20T15:52:36.791055+00:00",
   "news": [
+    {
+      "title": "1 big question facing every team down the stretch",
+      "link": "https://www.mlb.com/news/big-questions-facing-mlb-teams-down-the-stretch-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zt1cukkt1fu6mqt6tdqc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-20T15:30:00+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "250 for 250: Top 10 moments of baserunning brilliance",
+      "link": "https://www.mlb.com/news/top-baserunning-exploits-in-baseball-history",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wngcviyfku0xbfupmlph",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Foster",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-20T15:25:11+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "Reds rookie in position for feat not seen in 76 years",
+      "link": "https://www.mlb.com/news/most-rbis-by-a-rookie-in-a-single-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/dyb9bqekouthtcp3rsgc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harrigan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-20T15:00:00+00:00",
+      "time_ago": "52m ago"
+    },
+    {
+      "title": "Lombard showing that his bat can be as good as his defense in Majors",
+      "link": "https://www.mlb.com/news/george-lombard-jr-hitting-well-to-begin-mlb-career",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fhf9t3qrvc8ayfsz7ahr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-20T14:57:18+00:00",
+      "time_ago": "55m ago"
+    },
     {
       "title": "The 10 biggest breakouts on the new Top 100 Prospects list",
       "link": "https://www.mlb.com/news/biggest-breakouts-on-top-100-prospects-list-2026",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T14:45:00+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Chappell Roan Night is coming to her hometown team -- and Chappell Roan approves",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T14:21:03+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Don't look now, but the Mets are playing ... amazin'",
@@ -52,58 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T14:06:57+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "King homers for 3rd straight game in pro third-base debut",
-      "link": "https://www.mlb.com/news/king-homers-for-3rd-straight-game-in-pro-3rd-base-debut",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xfxmntc8tqwdqok72bkp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-20T14:02:24+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Cole looks to maintain vintage form in matchup with Orioles",
-      "link": "https://www.mlb.com/news/gerrit-cole-faces-orioles-for-first-time-this-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787182447/mlb/qwugzd7rkxizhzkzuwsp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-20T13:59:47+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "As LA's star-studded rotation nears full health, Sasaki shows why he belongs",
-      "link": "https://www.mlb.com/news/roki-sasaki-continues-2nd-half-dominance-in-dodgers-win-over-rockies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787198362/mlb/iurgvoz24gnluavlm15p",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Patrick Saunders",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-20T05:20:00+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "1 big question facing every team down the stretch",
-      "link": "https://www.mlb.com/news/big-questions-facing-mlb-teams-down-the-stretch-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zt1cukkt1fu6mqt6tdqc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-20T04:32:43+00:00",
-      "time_ago": "10h ago"
     }
   ]
 }
