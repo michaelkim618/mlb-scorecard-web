@@ -1,8 +1,47 @@
 {
-  "updated_at": "2026-08-20T16:05:11.862759+00:00",
+  "updated_at": "2026-08-20T17:05:34.866908+00:00",
   "news": [
     {
-      "title": "1 big question facing every team down the stretch",
+      "title": "Elite all season but especially in August, Yamamoto faces potent Bucs on Friday",
+      "link": "https://www.mlb.com/news/yamamoto-looks-to-continue-stellar-august-against-pirates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ot6xjln08hqw8uyxn0ij",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-20T16:06:03+00:00",
+      "time_ago": "59m ago"
+    },
+    {
+      "title": "D-backs' flight home from Boston diverted to Las Vegas due to weather",
+      "link": "https://www.mlb.com/news/d-backs-flight-home-from-boston-diverted-to-las-vegas",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ufs6jc5jodiwc1kyesjd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-20T15:53:09+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Kinley Rasmus, the 9th girl to ever pitch in LLWS, dominates on mound (and at SS)",
+      "link": "https://www.mlb.com/news/alabama-female-little-leaguer-kinley-rasmus-strikes-out-eight",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mgura6lgid1yhshuqkk7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matt Monagan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-20T15:51:38+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "30 big questions for stretch run -- 1 for each team",
       "link": "https://www.mlb.com/news/big-questions-facing-mlb-teams-down-the-stretch-2026",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zt1cukkt1fu6mqt6tdqc",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T15:30:00+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "250 for 250: Top 10 moments of baserunning brilliance",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T15:25:11+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Reds rookie in position for feat not seen in 76 years",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T15:00:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Lombard showing that his bat can be as good as his defense in Majors",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T14:57:18+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "The 10 biggest breakouts on the new Top 100 Prospects list",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T14:45:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Chappell Roan Night is coming to her hometown team -- and Chappell Roan approves",
-      "link": "https://www.mlb.com/news/chappell-roan-night-coming-to-springfield-cardinals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jg70mafbzq1xcvjadck8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Josh Jackson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-20T14:21:03+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Don't look now, but the Mets are playing ... amazin'",
-      "link": "https://www.mlb.com/news/mets-august-surge-has-been-fun-to-watch",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e8amtrjjsxagdcevtfxe",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-20T14:08:47+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "South Korean 2-way player debuts with 4 Ks in Single-A Hickory",
-      "link": "https://www.mlb.com/news/south-korean-2-way-player-debuts-with-4-ks-in-single-a-hickory",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yyibsa1uureahw8ex22f",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-20T14:06:57+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
