@@ -1,18 +1,83 @@
 {
-  "updated_at": "2026-08-20T09:53:14.330686+00:00",
+  "updated_at": "2026-08-20T15:10:23.037964+00:00",
   "news": [
     {
-      "title": "With Díaz sidelined, Dodgers see Scott as 'our best and most consistent reliever'",
-      "link": "https://www.mlb.com/news/tanner-scott-to-continue-serving-as-dodgers-closer-with-edwin-diaz-on-il",
-      "summary": "Díaz's MRI showed no structural damage",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787185592/mlb/p65snqnawpnfunmqpbfp",
+      "title": "The 10 biggest breakouts on the new Top 100 Prospects list",
+      "link": "https://www.mlb.com/news/biggest-breakouts-on-top-100-prospects-list-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xwaghjbasxro3c2y98nv",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Patrick Saunders",
+      "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-20T05:28:00+00:00",
-      "time_ago": "4h ago"
+      "pub_date": "2026-08-20T14:45:00+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "Chappell Roan Night is coming to her hometown team -- and Chappell Roan approves",
+      "link": "https://www.mlb.com/news/chappell-roan-night-coming-to-springfield-cardinals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jg70mafbzq1xcvjadck8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Josh Jackson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-20T14:21:03+00:00",
+      "time_ago": "49m ago"
+    },
+    {
+      "title": "Don't look now, but the Mets are playing ... amazin'",
+      "link": "https://www.mlb.com/news/mets-august-surge-has-been-fun-to-watch",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e8amtrjjsxagdcevtfxe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-20T14:08:47+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "South Korean 2-way player debuts with 4 Ks in Single-A Hickory",
+      "link": "https://www.mlb.com/news/south-korean-2-way-player-debuts-with-4-ks-in-single-a-hickory",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yyibsa1uureahw8ex22f",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-20T14:06:57+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "King homers for 3rd straight game in pro third-base debut",
+      "link": "https://www.mlb.com/news/king-homers-for-3rd-straight-game-in-pro-3rd-base-debut",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xfxmntc8tqwdqok72bkp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-20T14:02:24+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Cole looks to maintain vintage form in matchup with Orioles",
+      "link": "https://www.mlb.com/news/gerrit-cole-faces-orioles-for-first-time-this-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787182447/mlb/qwugzd7rkxizhzkzuwsp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-20T13:59:47+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "As LA's star-studded rotation nears full health, Sasaki shows why he belongs",
@@ -25,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T05:20:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Astros' bullpen remains lights-out to back Pecko's MLB debut",
-      "link": "https://www.mlb.com/news/astros-beat-angels-to-end-losing-streak",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787201058/mlb/w4sabupio2cyekt3vetw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-20T04:46:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "1 big question facing every team down the stretch",
@@ -51,59 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T04:32:43+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Cavalli (11 K's) keeps on rolling as scoreless streak reaches 17 innings",
-      "link": "https://www.mlb.com/news/cade-cavalli-strikes-out-11-as-nationals-shut-out-rangers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787195880/mlb/drz5ord9c9uiirq6fg5x",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Dave Sessions",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-20T04:28:00+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "After years of being told 'women can't play baseball,' WPBL star Denae Benites is smashing dingers and having fun",
-      "link": "https://www.mlb.com/news/denae-benites-wpbl-home-run-superstar-finally-belongs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mc62jdl5udflohmbadxu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Michael Clair",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-20T04:00:15+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Hitter Power Rankings: Fresh faces join familiar names at the top",
-      "link": "https://www.mlb.com/news/mlb-hitter-power-rankings-august-20-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/b9ahhxhc3qtxapc17e2w",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Andrew Simon",
-      "tag": "Rankings",
-      "tag_color": "#4F46E5",
-      "pub_date": "2026-08-20T04:00:10+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Alonso stunned over momentum-shifting foul call: 'I thought it was fair'",
-      "link": "https://www.mlb.com/news/orioles-lose-to-yankees-after-disputed-foul-call-on-pete-alonso",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787198771/mlb/zter6q2plsvt0ma5gyxl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-20T03:59:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "10h ago"
     }
   ]
 }
