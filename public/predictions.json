@@ -257,7 +257,68 @@
           "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 5,
-          "rest_note": null
+          "rest_note": null,
+          "age": 26,
+          "fb_velo": 91.8,
+          "pitch_arsenal": [
+            "FB",
+            "CH",
+            "SI",
+            "CB",
+            "CT",
+            "SW",
+            "SL"
+          ],
+          "secondary_pitches": [
+            "CH",
+            "CB",
+            "SW",
+            "SL"
+          ],
+          "pitches_detail": [
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 25.1,
+              "velo": 91.8
+            },
+            {
+              "code": "CH",
+              "abbr": "CH",
+              "pct": 19.7,
+              "velo": 86.8
+            },
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 16.7,
+              "velo": 90.7
+            },
+            {
+              "code": "CU",
+              "abbr": "CB",
+              "pct": 12.2,
+              "velo": 78.4
+            },
+            {
+              "code": "FC",
+              "abbr": "CT",
+              "pct": 11.8,
+              "velo": 87.4
+            },
+            {
+              "code": "ST",
+              "abbr": "SW",
+              "pct": 10.1,
+              "velo": 81.7
+            },
+            {
+              "code": "SL",
+              "abbr": "SL",
+              "pct": 4.5,
+              "velo": 83.6
+            }
+          ]
         },
         "bp_score": 59.7,
         "bp_detail": {
@@ -386,7 +447,45 @@
           "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 5,
-          "rest_note": null
+          "rest_note": null,
+          "age": 30,
+          "fb_velo": 91.4,
+          "pitch_arsenal": [
+            "SI",
+            "SL",
+            "SW",
+            "CT"
+          ],
+          "secondary_pitches": [
+            "SL",
+            "SW"
+          ],
+          "pitches_detail": [
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 48.7,
+              "velo": 91.4
+            },
+            {
+              "code": "SL",
+              "abbr": "SL",
+              "pct": 25.9,
+              "velo": 82.6
+            },
+            {
+              "code": "ST",
+              "abbr": "SW",
+              "pct": 15.7,
+              "velo": 82.0
+            },
+            {
+              "code": "FC",
+              "abbr": "CT",
+              "pct": 7.2,
+              "velo": 87.3
+            }
+          ]
         },
         "bp_score": 39.6,
         "bp_detail": {
@@ -782,7 +881,52 @@
           "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 6,
-          "rest_note": null
+          "rest_note": null,
+          "age": 27,
+          "fb_velo": 93.3,
+          "pitch_arsenal": [
+            "SI",
+            "CB",
+            "CH",
+            "CT",
+            "FB"
+          ],
+          "secondary_pitches": [
+            "CB",
+            "CH"
+          ],
+          "pitches_detail": [
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 34.3,
+              "velo": 93.3
+            },
+            {
+              "code": "CU",
+              "abbr": "CB",
+              "pct": 26.4,
+              "velo": 76.7
+            },
+            {
+              "code": "CH",
+              "abbr": "CH",
+              "pct": 21.0,
+              "velo": 87.1
+            },
+            {
+              "code": "FC",
+              "abbr": "CT",
+              "pct": 13.1,
+              "velo": 89.0
+            },
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 5.3,
+              "velo": 92.8
+            }
+          ]
         },
         "bp_score": 40.5,
         "bp_detail": {
@@ -911,7 +1055,52 @@
           "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 6,
-          "rest_note": null
+          "rest_note": null,
+          "age": 27,
+          "fb_velo": 95.9,
+          "pitch_arsenal": [
+            "SW",
+            "FB",
+            "CB",
+            "SI",
+            "CT"
+          ],
+          "secondary_pitches": [
+            "SW",
+            "CB"
+          ],
+          "pitches_detail": [
+            {
+              "code": "ST",
+              "abbr": "SW",
+              "pct": 28.7,
+              "velo": 86.5
+            },
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 25.8,
+              "velo": 95.3
+            },
+            {
+              "code": "CU",
+              "abbr": "CB",
+              "pct": 21.7,
+              "velo": 81.9
+            },
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 17.1,
+              "velo": 95.9
+            },
+            {
+              "code": "FC",
+              "abbr": "CT",
+              "pct": 6.8,
+              "velo": 91.7
+            }
+          ]
         },
         "bp_score": 68.9,
         "bp_detail": {
@@ -1043,8 +1232,8 @@
     "model_winner": "Cleveland Guardians",
     "model_correct": null,
     "notes": "San Francisco Giants IL: Casey Schmitt, Daniel Susac, Harrison Bader, Hayden Birdsong, Jesus Rodriguez 외 다수 / Cleveland Guardians IL: Rhys Hoskins, Shawn Armstrong, Slade Cecconi",
-    "kalshi_prob": 63.0,
-    "edge": -2.4,
+    "kalshi_prob": 64.0,
+    "edge": -3.4,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -1271,7 +1460,7 @@
     },
     "expected_score": {
       "away": 1.7,
-      "home": 4.1
+      "home": 4.2
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -1307,12 +1496,65 @@
           "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 6,
-          "rest_note": null
+          "rest_note": null,
+          "age": 31,
+          "fb_velo": 92.3,
+          "pitch_arsenal": [
+            "FB",
+            "CH",
+            "KC",
+            "CT",
+            "SL",
+            "SI"
+          ],
+          "secondary_pitches": [
+            "CH",
+            "KC",
+            "SL"
+          ],
+          "pitches_detail": [
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 35.6,
+              "velo": 92.3
+            },
+            {
+              "code": "CH",
+              "abbr": "CH",
+              "pct": 18.9,
+              "velo": 88.2
+            },
+            {
+              "code": "KC",
+              "abbr": "KC",
+              "pct": 18.8,
+              "velo": 82.7
+            },
+            {
+              "code": "FC",
+              "abbr": "CT",
+              "pct": 12.1,
+              "velo": 87.4
+            },
+            {
+              "code": "SL",
+              "abbr": "SL",
+              "pct": 10.4,
+              "velo": 85.2
+            },
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 4.2,
+              "velo": 92.3
+            }
+          ]
         },
-        "bp_score": 71.6,
+        "bp_score": 68.7,
         "bp_detail": {
           "bullpen_era": 3.22,
-          "recent_era": 0.0,
+          "recent_era": 2.0,
           "recent_appearances": 16,
           "recent_ip": 15.0,
           "team_era": 3.66,
@@ -1415,7 +1657,7 @@
           }
         },
         "sit_score": 43.8,
-        "total": 41.4
+        "total": 40.7
       },
       "home": {
         "sp_score": 72.0,
@@ -1436,7 +1678,53 @@
           "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 5,
-          "rest_note": null
+          "rest_note": null,
+          "age": 27,
+          "fb_velo": 91.4,
+          "pitch_arsenal": [
+            "CH",
+            "FB",
+            "SW",
+            "SI",
+            "SL"
+          ],
+          "secondary_pitches": [
+            "CH",
+            "SW",
+            "SL"
+          ],
+          "pitches_detail": [
+            {
+              "code": "CH",
+              "abbr": "CH",
+              "pct": 30.8,
+              "velo": 83.4
+            },
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 27.1,
+              "velo": 91.4
+            },
+            {
+              "code": "ST",
+              "abbr": "SW",
+              "pct": 22.7,
+              "velo": 81.2
+            },
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 13.4,
+              "velo": 89.9
+            },
+            {
+              "code": "SL",
+              "abbr": "SL",
+              "pct": 4.4,
+              "velo": 82.8
+            }
+          ]
         },
         "bp_score": 55.8,
         "bp_detail": {
@@ -1549,7 +1837,7 @@
     },
     "scores": {
       "away_offense": 27.4,
-      "away_defense": 50.5,
+      "away_defense": 49.1,
       "home_offense": 58.4,
       "home_defense": 63.9
     },
@@ -1568,8 +1856,8 @@
     "model_winner": "Tampa Bay Rays",
     "model_correct": null,
     "notes": "Toronto Blue Jays IL: Addison Barger, Anthony Santander, Bowden Francis, Cody Ponce, Jake Bloss 외 다수 / Tampa Bay Rays IL: Ben Williamson, Cole Sulser, Edwin Uceta, Gavin Lux, Griffin Jax 외 다수",
-    "kalshi_prob": 60.0,
-    "edge": 0.0,
+    "kalshi_prob": 61.0,
+    "edge": -1.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -1832,7 +2120,61 @@
           "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 6,
-          "rest_note": null
+          "rest_note": null,
+          "age": 23,
+          "fb_velo": 96.3,
+          "pitch_arsenal": [
+            "FB",
+            "SL",
+            "CB",
+            "CH",
+            "SW",
+            "SI"
+          ],
+          "secondary_pitches": [
+            "SL",
+            "CB",
+            "CH",
+            "SW"
+          ],
+          "pitches_detail": [
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 46.9,
+              "velo": 96.3
+            },
+            {
+              "code": "SL",
+              "abbr": "SL",
+              "pct": 23.1,
+              "velo": 87.3
+            },
+            {
+              "code": "CU",
+              "abbr": "CB",
+              "pct": 11.3,
+              "velo": 82.4
+            },
+            {
+              "code": "CH",
+              "abbr": "CH",
+              "pct": 8.6,
+              "velo": 87.5
+            },
+            {
+              "code": "ST",
+              "abbr": "SW",
+              "pct": 6.0,
+              "velo": 83.9
+            },
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 4.1,
+              "velo": 94.8
+            }
+          ]
         },
         "bp_score": 36.2,
         "bp_detail": {
@@ -1961,7 +2303,53 @@
           "n_games": 8,
           "sample_confidence": 1.0,
           "rest_days": 5,
-          "rest_note": null
+          "rest_note": null,
+          "age": 31,
+          "fb_velo": 92.2,
+          "pitch_arsenal": [
+            "SI",
+            "SW",
+            "CH",
+            "FB",
+            "SL"
+          ],
+          "secondary_pitches": [
+            "SW",
+            "CH",
+            "SL"
+          ],
+          "pitches_detail": [
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 38.5,
+              "velo": 91.6
+            },
+            {
+              "code": "ST",
+              "abbr": "SW",
+              "pct": 25.4,
+              "velo": 82.2
+            },
+            {
+              "code": "CH",
+              "abbr": "CH",
+              "pct": 22.3,
+              "velo": 84.8
+            },
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 9.3,
+              "velo": 92.2
+            },
+            {
+              "code": "SL",
+              "abbr": "SL",
+              "pct": 4.5,
+              "velo": 83.7
+            }
+          ]
         },
         "bp_score": 52.2,
         "bp_detail": {
@@ -2357,7 +2745,60 @@
           "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 5,
-          "rest_note": null
+          "rest_note": null,
+          "age": 30,
+          "fb_velo": 94.2,
+          "pitch_arsenal": [
+            "SL",
+            "FB",
+            "SI",
+            "CT",
+            "CB",
+            "CH"
+          ],
+          "secondary_pitches": [
+            "SL",
+            "CB",
+            "CH"
+          ],
+          "pitches_detail": [
+            {
+              "code": "SL",
+              "abbr": "SL",
+              "pct": 36.1,
+              "velo": 85.3
+            },
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 29.0,
+              "velo": 94.2
+            },
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 12.0,
+              "velo": 93.0
+            },
+            {
+              "code": "FC",
+              "abbr": "CT",
+              "pct": 9.1,
+              "velo": 92.1
+            },
+            {
+              "code": "CU",
+              "abbr": "CB",
+              "pct": 7.7,
+              "velo": 82.8
+            },
+            {
+              "code": "CH",
+              "abbr": "CH",
+              "pct": 6.2,
+              "velo": 89.3
+            }
+          ]
         },
         "bp_score": 52.9,
         "bp_detail": {
@@ -2486,12 +2927,65 @@
           "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 5,
-          "rest_note": null
+          "rest_note": null,
+          "age": 31,
+          "fb_velo": 95.8,
+          "pitch_arsenal": [
+            "FB",
+            "SW",
+            "SI",
+            "CT",
+            "CH",
+            "SL"
+          ],
+          "secondary_pitches": [
+            "SW",
+            "CH",
+            "SL"
+          ],
+          "pitches_detail": [
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 22.4,
+              "velo": 95.8
+            },
+            {
+              "code": "ST",
+              "abbr": "SW",
+              "pct": 22.4,
+              "velo": 82.8
+            },
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 17.4,
+              "velo": 95.2
+            },
+            {
+              "code": "FC",
+              "abbr": "CT",
+              "pct": 17.1,
+              "velo": 91.6
+            },
+            {
+              "code": "CH",
+              "abbr": "CH",
+              "pct": 14.5,
+              "velo": 86.1
+            },
+            {
+              "code": "SL",
+              "abbr": "SL",
+              "pct": 6.3,
+              "velo": 86.4
+            }
+          ]
         },
-        "bp_score": 78.1,
+        "bp_score": 75.9,
         "bp_detail": {
           "bullpen_era": 2.79,
-          "recent_era": 1.64,
+          "recent_era": 2.0,
           "recent_appearances": 18,
           "recent_ip": 33.0,
           "team_era": 3.56,
@@ -2594,14 +3088,14 @@
           }
         },
         "sit_score": 62.4,
-        "total": 57.9
+        "total": 57.3
       }
     },
     "scores": {
       "away_offense": 16.9,
       "away_defense": 42.9,
       "home_offense": 46.1,
-      "home_defense": 64.8
+      "home_defense": 63.7
     },
     "actual_score": {
       "away": null,
@@ -2845,7 +3339,7 @@
       "home": 60.0
     },
     "expected_score": {
-      "away": 2.0,
+      "away": 2.1,
       "home": 3.6
     },
     "blend_detail": null,
@@ -2882,7 +3376,60 @@
           "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 6,
-          "rest_note": null
+          "rest_note": null,
+          "age": 28,
+          "fb_velo": 96.8,
+          "pitch_arsenal": [
+            "SW",
+            "FB",
+            "SI",
+            "KC",
+            "CH",
+            "CT"
+          ],
+          "secondary_pitches": [
+            "SW",
+            "KC",
+            "CH"
+          ],
+          "pitches_detail": [
+            {
+              "code": "ST",
+              "abbr": "SW",
+              "pct": 29.7,
+              "velo": 87.3
+            },
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 28.7,
+              "velo": 96.6
+            },
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 21.3,
+              "velo": 96.8
+            },
+            {
+              "code": "KC",
+              "abbr": "KC",
+              "pct": 9.6,
+              "velo": 83.9
+            },
+            {
+              "code": "CH",
+              "abbr": "CH",
+              "pct": 6.6,
+              "velo": 88.8
+            },
+            {
+              "code": "FC",
+              "abbr": "CT",
+              "pct": 3.1,
+              "velo": 93.1
+            }
+          ]
         },
         "bp_score": 43.9,
         "bp_detail": {
@@ -3011,12 +3558,57 @@
           "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 6,
-          "rest_note": null
+          "rest_note": null,
+          "age": 27,
+          "fb_velo": 92.6,
+          "pitch_arsenal": [
+            "SW",
+            "FB",
+            "SI",
+            "CT",
+            "CH"
+          ],
+          "secondary_pitches": [
+            "SW",
+            "CH"
+          ],
+          "pitches_detail": [
+            {
+              "code": "ST",
+              "abbr": "SW",
+              "pct": 26.2,
+              "velo": 80.4
+            },
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 23.6,
+              "velo": 92.6
+            },
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 22.9,
+              "velo": 92.3
+            },
+            {
+              "code": "FC",
+              "abbr": "CT",
+              "pct": 18.2,
+              "velo": 88.2
+            },
+            {
+              "code": "CH",
+              "abbr": "CH",
+              "pct": 9.1,
+              "velo": 87.9
+            }
+          ]
         },
-        "bp_score": 73.0,
+        "bp_score": 70.0,
         "bp_detail": {
           "bullpen_era": 3.32,
-          "recent_era": 1.0,
+          "recent_era": 2.0,
           "recent_appearances": 14,
           "recent_ip": 18.0,
           "team_era": 3.32,
@@ -3119,14 +3711,14 @@
           }
         },
         "sit_score": 60.7,
-        "total": 57.7
+        "total": 57.0
       }
     },
     "scores": {
       "away_offense": 33.1,
       "away_defense": 41.5,
       "home_offense": 47.5,
-      "home_defense": 63.4
+      "home_defense": 61.9
     },
     "actual_score": {
       "away": null,
@@ -3143,8 +3735,8 @@
     "model_winner": "Milwaukee Brewers",
     "model_correct": null,
     "notes": "Seattle Mariners IL: Carlos Vargas, Cole Wilcox, Colt Emerson, Cooper Criswell, J.P. Crawford 외 다수 / Milwaukee Brewers IL: Abner Uribe, Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, JoJo Romero 외 다수",
-    "kalshi_prob": 54.0,
-    "edge": 6.0,
+    "kalshi_prob": 55.0,
+    "edge": 5.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -3407,7 +3999,53 @@
           "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 6,
-          "rest_note": null
+          "rest_note": null,
+          "age": 35,
+          "fb_velo": 95.3,
+          "pitch_arsenal": [
+            "FB",
+            "SL",
+            "CH",
+            "KC",
+            "SI"
+          ],
+          "secondary_pitches": [
+            "SL",
+            "CH",
+            "KC"
+          ],
+          "pitches_detail": [
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 48.9,
+              "velo": 95.3
+            },
+            {
+              "code": "SL",
+              "abbr": "SL",
+              "pct": 19.3,
+              "velo": 88.9
+            },
+            {
+              "code": "CH",
+              "abbr": "CH",
+              "pct": 14.6,
+              "velo": 84.9
+            },
+            {
+              "code": "KC",
+              "abbr": "KC",
+              "pct": 12.8,
+              "velo": 82.2
+            },
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 4.5,
+              "velo": 92.8
+            }
+          ]
         },
         "bp_score": 73.6,
         "bp_detail": {
@@ -3536,7 +4174,45 @@
           "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 5,
-          "rest_note": null
+          "rest_note": null,
+          "age": 29,
+          "fb_velo": 94.6,
+          "pitch_arsenal": [
+            "SI",
+            "SL",
+            "CB",
+            "FB"
+          ],
+          "secondary_pitches": [
+            "SL",
+            "CB"
+          ],
+          "pitches_detail": [
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 35.2,
+              "velo": 94.6
+            },
+            {
+              "code": "SL",
+              "abbr": "SL",
+              "pct": 25.5,
+              "velo": 87.3
+            },
+            {
+              "code": "CU",
+              "abbr": "CB",
+              "pct": 21.7,
+              "velo": 84.7
+            },
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 17.4,
+              "velo": 94.0
+            }
+          ]
         },
         "bp_score": 44.4,
         "bp_detail": {
@@ -3932,7 +4608,53 @@
           "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 6,
-          "rest_note": null
+          "rest_note": null,
+          "age": 27,
+          "fb_velo": 92.3,
+          "pitch_arsenal": [
+            "CB",
+            "FB",
+            "SL",
+            "SI",
+            "CH"
+          ],
+          "secondary_pitches": [
+            "CB",
+            "SL",
+            "CH"
+          ],
+          "pitches_detail": [
+            {
+              "code": "CU",
+              "abbr": "CB",
+              "pct": 30.3,
+              "velo": 82.8
+            },
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 28.3,
+              "velo": 92.3
+            },
+            {
+              "code": "SL",
+              "abbr": "SL",
+              "pct": 23.2,
+              "velo": 84.1
+            },
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 14.3,
+              "velo": 91.9
+            },
+            {
+              "code": "CH",
+              "abbr": "CH",
+              "pct": 3.9,
+              "velo": 86.1
+            }
+          ]
         },
         "bp_score": 48.6,
         "bp_detail": {
@@ -4061,7 +4783,46 @@
           "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 7,
-          "rest_note": "extra_rest"
+          "rest_note": "extra_rest",
+          "age": 38,
+          "fb_velo": 97.3,
+          "pitch_arsenal": [
+            "FB",
+            "SL",
+            "CH",
+            "CB"
+          ],
+          "secondary_pitches": [
+            "SL",
+            "CH",
+            "CB"
+          ],
+          "pitches_detail": [
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 42.3,
+              "velo": 97.3
+            },
+            {
+              "code": "SL",
+              "abbr": "SL",
+              "pct": 36.4,
+              "velo": 91.2
+            },
+            {
+              "code": "CH",
+              "abbr": "CH",
+              "pct": 12.7,
+              "velo": 89.8
+            },
+            {
+              "code": "CU",
+              "abbr": "CB",
+              "pct": 6.4,
+              "velo": 80.7
+            }
+          ]
         },
         "bp_score": 39.3,
         "bp_detail": {
@@ -4457,12 +5218,51 @@
           "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 6,
-          "rest_note": null
+          "rest_note": null,
+          "age": 26,
+          "fb_velo": 96.1,
+          "pitch_arsenal": [
+            "FB",
+            "CH",
+            "SL",
+            "CB"
+          ],
+          "secondary_pitches": [
+            "CH",
+            "SL",
+            "CB"
+          ],
+          "pitches_detail": [
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 53.1,
+              "velo": 96.1
+            },
+            {
+              "code": "CH",
+              "abbr": "CH",
+              "pct": 23.9,
+              "velo": 83.0
+            },
+            {
+              "code": "SL",
+              "abbr": "SL",
+              "pct": 11.7,
+              "velo": 84.7
+            },
+            {
+              "code": "CU",
+              "abbr": "CB",
+              "pct": 11.3,
+              "velo": 80.7
+            }
+          ]
         },
-        "bp_score": 62.9,
+        "bp_score": 62.2,
         "bp_detail": {
           "bullpen_era": 3.22,
-          "recent_era": 1.84,
+          "recent_era": 2.0,
           "recent_appearances": 15,
           "recent_ip": 14.7,
           "team_era": 4.06,
@@ -4565,7 +5365,7 @@
           }
         },
         "sit_score": 40.9,
-        "total": 32.7
+        "total": 32.5
       },
       "home": {
         "sp_score": 48.3,
@@ -4586,7 +5386,68 @@
           "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 6,
-          "rest_note": null
+          "rest_note": null,
+          "age": 29,
+          "fb_velo": 93.9,
+          "pitch_arsenal": [
+            "FB",
+            "CH",
+            "SL",
+            "CT",
+            "SI",
+            "SW",
+            "SV"
+          ],
+          "secondary_pitches": [
+            "CH",
+            "SL",
+            "SW",
+            "SV"
+          ],
+          "pitches_detail": [
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 31.2,
+              "velo": 93.9
+            },
+            {
+              "code": "CH",
+              "abbr": "CH",
+              "pct": 23.0,
+              "velo": 87.0
+            },
+            {
+              "code": "SL",
+              "abbr": "SL",
+              "pct": 12.8,
+              "velo": 85.6
+            },
+            {
+              "code": "FC",
+              "abbr": "CT",
+              "pct": 10.1,
+              "velo": 91.5
+            },
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 9.9,
+              "velo": 93.3
+            },
+            {
+              "code": "ST",
+              "abbr": "SW",
+              "pct": 8.2,
+              "velo": 82.7
+            },
+            {
+              "code": "SV",
+              "abbr": "SV",
+              "pct": 4.3,
+              "velo": 80.0
+            }
+          ]
         },
         "bp_score": 53.3,
         "bp_detail": {
@@ -4699,7 +5560,7 @@
     },
     "scores": {
       "away_offense": 10.2,
-      "away_defense": 50.0,
+      "away_defense": 49.5,
       "home_offense": 24.8,
       "home_defense": 50.8
     },

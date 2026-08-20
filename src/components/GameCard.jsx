@@ -260,9 +260,34 @@ function TeamPanel({ label, color, sc, pitcherName, pitcherStats, pitcherGamelog
         {label} · Starting Pitcher
       </div>
 
-      {/* Pitcher name */}
-      <div style={{ fontWeight: 700, fontSize: 14, color: "var(--color-ink)", marginBottom: 4 }}>
-        {pitcherName || "TBD"}
+      {/* Pitcher name + inline arsenal */}
+      <div style={{ marginBottom: 4 }}>
+        <div style={{ fontWeight: 700, fontSize: 14, color: "var(--color-ink)" }}>
+          {pitcherName || "TBD"}
+        </div>
+        {pitcherName && (spd.age || spd.fb_velo || spd.secondary_pitches?.length > 0) && (
+          <div style={{ display: "flex", flexWrap: "wrap", alignItems: "center", gap: "0 6px", marginTop: 3 }}>
+            {spd.age != null && (
+              <span style={{ fontSize: 11, color: "var(--color-muted)" }}>Age {spd.age}</span>
+            )}
+            {spd.fb_velo != null && (
+              <>
+                <span style={{ fontSize: 10, color: "var(--color-subtle)" }}>·</span>
+                <span style={{ fontSize: 11, fontWeight: 700, color: "#0EA5E9" }}>
+                  {spd.fb_velo} mph <span style={{ fontWeight: 500, color: "var(--color-muted)" }}>(FB)</span>
+                </span>
+              </>
+            )}
+            {spd.secondary_pitches?.length > 0 && (
+              <>
+                <span style={{ fontSize: 10, color: "var(--color-subtle)" }}>·</span>
+                <span style={{ fontSize: 11, color: "var(--color-muted)" }}>
+                  {spd.secondary_pitches.join(" / ")}
+                </span>
+              </>
+            )}
+          </div>
+        )}
       </div>
 
       {/* Pitcher stats row */}
