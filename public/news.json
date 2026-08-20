@@ -1,60 +1,21 @@
 {
-  "updated_at": "2026-08-20T21:58:26.650320+00:00",
+  "updated_at": "2026-08-20T22:50:48.488298+00:00",
   "news": [
     {
-      "title": "Reds rookie in position for feat not seen in 76 years",
-      "link": "https://www.mlb.com/news/most-rbis-by-a-rookie-in-a-single-season",
+      "title": "Mariners to call up top-ranked pitching prospect in baseball (source)",
+      "link": "https://www.mlb.com/news/kade-anderson-mariners-callup",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/dyb9bqekouthtcp3rsgc",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/enzvef7xepxt6miakfpo",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Thomas Harrigan",
+      "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-20T21:45:00+00:00",
-      "time_ago": "13m ago"
+      "pub_date": "2026-08-20T22:44:57+00:00",
+      "time_ago": "5m ago"
     },
     {
-      "title": "This lefty O's prospect could join Baltimore's bullpen for stretch run",
-      "link": "https://www.mlb.com/news/luis-de-leon-moving-to-bullpen-role-could-join-orioles",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787260541/mlb/qbdqjjnkwpotsq67wubu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-20T21:40:48+00:00",
-      "time_ago": "17m ago"
-    },
-    {
-      "title": "Adell makes quick return after powering through knee injury",
-      "link": "https://www.mlb.com/news/jo-adell-nearing-return-from-knee-injury",
-      "summary": "DeLauter (hamstring) also trending toward return",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bbgx1qgjfgnkih83bu79",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-20T21:30:00+00:00",
-      "time_ago": "28m ago"
-    },
-    {
-      "title": "Garcia exits Royals' series finale against A's with left hamstring injury",
-      "link": "https://www.mlb.com/news/maikel-garcia-exits-left-leg-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/txymdq9gyod5hyzmqvug",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anne Rogers",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-20T21:23:00+00:00",
-      "time_ago": "35m ago"
-    },
-    {
-      "title": "Holmes flirts with no-no in sharp bounceback outing",
+      "title": "Holmes flirts with no-no in bounceback outing to get Braves back on track",
       "link": "https://www.mlb.com/news/grant-holmes-takes-no-hit-bid-into-7th-inning-in-braves-win",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787262831/mlb/nqfe3mcmcturtw5n5qrx",
@@ -63,21 +24,21 @@
       "author": "Andy Martinez",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-20T20:51:09+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-08-20T22:44:00+00:00",
+      "time_ago": "6m ago"
     },
     {
-      "title": "Williams fans 11 to reach 200-K milestone for first time",
-      "link": "https://www.mlb.com/news/gavin-williams-strikes-out-11-against-giants",
+      "title": "A's expect Wilson (shoulder) to miss rest of season: 'Not great news'",
+      "link": "https://www.mlb.com/news/jacob-wilson-expected-to-miss-rest-of-season-with-shoulder-injury",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/i6qsvj9sah6quj64umj3",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/o3d5maj7c28km4shevl8",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Tim Stebbins",
+      "author": "Jackson Stone",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-20T20:34:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-08-20T22:21:00+00:00",
+      "time_ago": "29m ago"
     },
     {
       "title": "Dropped final out leads to chaotic ending, with 10 ninth-inning runs",
@@ -89,20 +50,59 @@
       "author": "Brenden Schaeffer",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-20T20:14:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-08-20T22:20:00+00:00",
+      "time_ago": "30m ago"
     },
     {
-      "title": "Bieber, Blue Jays persist through rash of injuries to steal another series win",
+      "title": "Blue Jays bats keep persisting despite the rash of injury scares",
       "link": "https://www.mlb.com/news/blue-jays-survive-injuries-to-secure-series-win-vs-tampa-bay",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tfwellvd33pje8ytuxal",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fg584ofh28gqyovytlgk",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Brian Murphy",
       "tag": "Injury",
       "tag_color": "#DC2626",
-      "pub_date": "2026-08-20T20:01:32+00:00",
+      "pub_date": "2026-08-20T22:03:00+00:00",
+      "time_ago": "47m ago"
+    },
+    {
+      "title": "Garcia likely headed back to IL after MRI reveals hamstring strain",
+      "link": "https://www.mlb.com/news/maikel-garcia-exits-left-leg-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/txymdq9gyod5hyzmqvug",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anne Rogers",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-20T21:59:00+00:00",
+      "time_ago": "51m ago"
+    },
+    {
+      "title": "Williams fans 11 to reach 200-K milestone for first time",
+      "link": "https://www.mlb.com/news/gavin-williams-strikes-out-11-against-giants",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/i6qsvj9sah6quj64umj3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-20T21:57:00+00:00",
+      "time_ago": "53m ago"
+    },
+    {
+      "title": "Reds rookie in position for feat not seen in 76 years",
+      "link": "https://www.mlb.com/news/most-rbis-by-a-rookie-in-a-single-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/dyb9bqekouthtcp3rsgc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harrigan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-20T21:45:00+00:00",
       "time_ago": "1h ago"
     }
   ]
