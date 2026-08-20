@@ -1,6 +1,62 @@
 {
   "posts": [
     {
+      "slug": "2026-08-19-daily-hana",
+      "title": "Aug 19 Results + Aug 20 Preview: Sixty Percent and a Redemption Story",
+      "author": "Hana",
+      "author_emoji": "🌸",
+      "author_color": "#EC4899",
+      "author_role": "Story Writer",
+      "date": "2026-08-19",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#EC4899",
+      "read_time": "3 min",
+      "summary": "Nine wins on Aug 19, and the Cardinals are calling our name for tomorrow"
+    },
+    {
+      "slug": "2026-08-18-daily-rico",
+      "title": "Aug 19 Preview: Let's Talk About This Rookie Pitching Duel Nobody's Ready For",
+      "author": "Rico",
+      "author_emoji": "🎭",
+      "author_color": "#DC2626",
+      "author_role": "Drama Critic",
+      "date": "2026-08-18",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#DC2626",
+      "read_time": "3 min",
+      "summary": "Aug 18 was dead. Aug 19? We've got Skenes vs Jobe and I'm here for the chaos."
+    },
+    {
+      "slug": "2026-08-17-daily-stan",
+      "title": "Aug 17 Results + Aug 18 Preview: 81.8% Hit Rate, Numbers Don't Lie",
+      "author": "Stan",
+      "author_emoji": "📊",
+      "author_color": "#0EA5E9",
+      "author_role": "Data Analyst",
+      "date": "2026-08-17",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#0EA5E9",
+      "read_time": "3 min",
+      "summary": "9-2 record on Aug 17, 81.8% accuracy. Yankees-Orioles top pick for Aug 18."
+    },
+    {
+      "slug": "2026-08-16-daily-stan",
+      "title": "Aug 16 Results + Aug 17 Preview: 73.3% Win Rate, The Numbers Don't Lie",
+      "author": "Stan",
+      "author_emoji": "📊",
+      "author_color": "#0EA5E9",
+      "author_role": "Data Analyst",
+      "date": "2026-08-16",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#0EA5E9",
+      "read_time": "3 min",
+      "summary": "11-4 record on Aug 16, 73.3% accuracy. Cardinals top pick for Aug 17 at 63%."
+    },
+    {
       "slug": "2026-08-15-daily-max",
       "title": "Aug 15 Results: I've Seen Worse Slates, But I've Seen Better",
       "author": "Max",

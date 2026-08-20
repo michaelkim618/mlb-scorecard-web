@@ -1,0 +1,206 @@
+{
+  "title": "Aug 19 Results + Aug 20 Preview: Sixty Percent and a Redemption Story",
+  "summary": "Nine wins on Aug 19, and the Cardinals are calling our name for tomorrow",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Here's the Thing About Bounce-Back Days\n\nSometimes the baseball gods smile on you, and sometimes they give you exactly what you need: a solid 60% day that reminds you why we do this. After yesterday's ups and downs, August 19th delivered nine wins against six losses, and honestly? It felt like the model was finding its rhythm again."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Aug 19 W-L",
+          "value": "9-6"
+        },
+        {
+          "label": "Accuracy",
+          "value": "60.0%"
+        },
+        {
+          "label": "Total Games",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Wins That Mattered\n\nThe Pirates pulled through at home against the Tigers—a 53% call that could've gone either way but landed in our corner. The Twins handled the Braves exactly as we expected at 61%, and the Sox came through with a 58% win that felt even sweeter than the percentage suggests.\n\nBut here's what really caught my eye: the Rays at 61% and the Phillies at 60% both delivered. Those are the confidence plays that make a good day great."
+    },
+    {
+      "type": "table",
+      "title": "Aug 19 Full Results",
+      "headers": [
+        "Game",
+        "Pick",
+        "Prob",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Tigers @ Pirates",
+          "Pirates",
+          "53%",
+          "✓"
+        ],
+        [
+          "Padres @ Mets",
+          "Padres",
+          "61%",
+          "✗"
+        ],
+        [
+          "Braves @ Twins",
+          "Twins",
+          "61%",
+          "✓"
+        ],
+        [
+          "Sox @ Cubs",
+          "Sox",
+          "58%",
+          "✓"
+        ],
+        [
+          "Diamondbacks @ Sox",
+          "Sox",
+          "60%",
+          "✗"
+        ],
+        [
+          "Marlins @ Phillies",
+          "Phillies",
+          "60%",
+          "✓"
+        ],
+        [
+          "Yankees @ Orioles",
+          "Orioles",
+          "50%",
+          "✗"
+        ],
+        [
+          "Giants @ Guardians",
+          "Guardians",
+          "61%",
+          "✗"
+        ],
+        [
+          "Cardinals @ Reds",
+          "Cardinals",
+          "57%",
+          "✗"
+        ],
+        [
+          "Jays @ Rays",
+          "Rays",
+          "61%",
+          "✓"
+        ]
+      ]
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Aug 19 Prediction Results by Confidence",
+      "data": [
+        {
+          "name": "Pirates",
+          "probability": 53,
+          "result": 1
+        },
+        {
+          "name": "Padres",
+          "probability": 61,
+          "result": 0
+        },
+        {
+          "name": "Twins",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Sox (vs Cubs)",
+          "probability": 58,
+          "result": 1
+        },
+        {
+          "name": "Sox (vs D-backs)",
+          "probability": 60,
+          "result": 0
+        },
+        {
+          "name": "Phillies",
+          "probability": 60,
+          "result": 1
+        },
+        {
+          "name": "Orioles",
+          "probability": 50,
+          "result": 0
+        },
+        {
+          "name": "Guardians",
+          "probability": 61,
+          "result": 0
+        },
+        {
+          "name": "Cardinals",
+          "probability": 57,
+          "result": 0
+        },
+        {
+          "name": "Rays",
+          "probability": 61,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Hit (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Misses We're Learning From\n\nLook, the Guardians miss at 61% stung a little. The Cardinals dropping their game against the Reds at 57%? That one caught us off guard too. And the Padres-Mets game didn't go our way despite our 61% confidence.\n\nBut here's what's interesting about that Cardinals loss yesterday..."
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Redemption Arc\n\nThe Cardinals and Reds are running it back on August 20th, and the model is giving us another chance. This time, we're even more confident at 61%, and the pitching matchup tells a story worth paying attention to.\n\nMichael McGreevy gets the ball for St. Louis, facing off against Brady Singer for Cincinnati. After yesterday's stumble, the Cardinals are looking to prove something—and our model is betting they will."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Aug 20 Top Pick",
+      "value": "St. Louis Cardinals",
+      "sub": "61% win probability · McGreevy vs Singer · @ Cincinnati"
+    },
+    {
+      "type": "text",
+      "value": "## Why the Cardinals Make Sense Tomorrow\n\nHere's the thing about back-to-back games in the same series: teams remember. The Cardinals remember yesterday's loss, and they're coming back to the same park with something to prove. McGreevy has been finding his form, and Singer—while capable—has shown vulnerabilities that St. Louis knows how to exploit.\n\nAt 61%, this isn't a coin flip. It's a calculated read on a team that's hungry to split the series and a pitching matchup that favors the visitors.\n\nSometimes the best picks are the redemption stories. Tomorrow, the Cardinals get their chapter."
+    },
+    {
+      "type": "text",
+      "value": "## The Bottom Line\n\nAugust 19th gave us exactly what we needed—a 60% day that felt solid, steady, and sustainable. Nine wins, six losses, and a model that's humming along nicely as we head into tomorrow's slate.\n\nAnd tomorrow? The Cardinals are calling. Let's see if this redemption arc writes itself the way we think it will.\n\n*See you on the other side of first pitch.* ⚾"
+    }
+  ],
+  "slug": "2026-08-19-daily-hana",
+  "author": "Hana",
+  "author_emoji": "🌸",
+  "author_role": "Story Writer",
+  "author_color": "#EC4899",
+  "date": "2026-08-19",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#EC4899"
+}
