@@ -2477,9 +2477,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Kansas City Royals",
     "model_winner": "Kansas City Royals",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Athletics IL: Brent Rooker, Brooks Kriske, Denzel Clarke, Gunnar Hoglund, José Suarez 외 다수 / Kansas City Royals IL: Alec Marsh, Beck Way, Carlos Estévez, Cole Ragans, Connor Seabold 외 다수",
     "kalshi_prob": 98.0,
     "edge": -37.3,
@@ -3731,9 +3731,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Milwaukee Brewers",
     "model_winner": "Milwaukee Brewers",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Seattle Mariners IL: Carlos Vargas, Cole Wilcox, Colt Emerson, Cooper Criswell, J.P. Crawford 외 다수 / Milwaukee Brewers IL: Abner Uribe, Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, JoJo Romero 외 다수",
     "kalshi_prob": 98.0,
     "edge": -38.0,
