@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-20T05:18:46.850840+00:00",
+  "updated_at": "2026-08-20T05:56:51.349446+00:00",
   "news": [
+    {
+      "title": "With Díaz sidelined, Dodgers see Scott as 'our best and most consistent reliever'",
+      "link": "https://www.mlb.com/news/tanner-scott-to-continue-serving-as-dodgers-closer-with-edwin-diaz-on-il",
+      "summary": "Díaz's MRI showed no structural damage",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787185592/mlb/p65snqnawpnfunmqpbfp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Patrick Saunders",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-20T05:28:00+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "As LA's star-studded rotation nears full health, Sasaki shows why he belongs",
+      "link": "https://www.mlb.com/news/roki-sasaki-continues-2nd-half-dominance-in-dodgers-win-over-rockies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787198362/mlb/iurgvoz24gnluavlm15p",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Patrick Saunders",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-20T05:20:00+00:00",
+      "time_ago": "36m ago"
+    },
     {
       "title": "Astros' bullpen remains lights-out to back Pecko's MLB debut",
       "link": "https://www.mlb.com/news/astros-beat-angels-to-end-losing-streak",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T04:46:00+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "1 big question facing every team down the stretch",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T04:32:43+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Cavalli (11 K's) keeps on rolling as scoreless streak reaches 17 innings",
@@ -38,19 +64,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T04:28:00+00:00",
-      "time_ago": "50m ago"
-    },
-    {
-      "title": "As LA's star-studded rotation nears full health, Sasaki shows why he belongs",
-      "link": "https://www.mlb.com/news/roki-sasaki-continues-2nd-half-dominance-in-dodgers-win-over-rockies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787198362/mlb/iurgvoz24gnluavlm15p",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Patrick Saunders",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-20T04:09:54+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T03:59:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Mariners turn the page, flip the script, hold off Brewers for rebound victory",
-      "link": "https://www.mlb.com/news/mariners-grab-early-lead-vs-brewers-in-comeback-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e5mb915qzwam0rxjmftq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-20T03:53:00+00:00",
       "time_ago": "1h ago"
     }
   ]
