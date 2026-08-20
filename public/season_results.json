@@ -9056,6 +9056,28 @@
       "away_bp_score": 72.9,
       "home_bp_score": 55.8,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-20",
+      "away": "Atlanta Braves",
+      "home": "Chicago White Sox",
+      "game_number": 1,
+      "pick": "Chicago White Sox",
+      "pick_prob": 60.0,
+      "actual_winner": "Atlanta Braves",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "stable",
+      "away_sp_era": 2.86,
+      "home_sp_era": 3.53,
+      "away_bp_era": 2.99,
+      "home_bp_era": 2.77,
+      "away_sp_score": 47.0,
+      "home_sp_score": 51.5,
+      "away_bp_score": 56.5,
+      "home_bp_score": 79.0,
+      "bat_source": "prev_day"
     }
   ],
   "summary": {
