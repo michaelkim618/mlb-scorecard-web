@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-20T17:14:53.547571+00:00",
+  "updated_at": "2026-08-20T17:58:10.703963+00:00",
   "news": [
+    {
+      "title": "Sánchez holds himself accountable for LF mistakes; Vladdy to begin rehab games",
+      "link": "https://www.mlb.com/news/jesus-sanchez-takes-responsibility-for-defensive-miscues-in-loss",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vf3uwlnb9ksypqb6ev3n",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-20T17:00:20+00:00",
+      "time_ago": "57m ago"
+    },
+    {
+      "title": "Adell eyeing quick return after powering through knee injury",
+      "link": "https://www.mlb.com/news/jo-adell-nearing-return-from-knee-injury",
+      "summary": "DeLauter (hamstring) also trending toward return",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bbgx1qgjfgnkih83bu79",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-20T16:48:42+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Elite all season but especially in August, Yamamoto faces potent Bucs on Friday",
       "link": "https://www.mlb.com/news/yamamoto-looks-to-continue-stellar-august-against-pirates",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T15:53:09+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Kinley Rasmus, the 9th girl to ever pitch in LLWS, dominates on mound (and at SS)",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T15:51:38+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "30 big questions for stretch run -- 1 for each team",
@@ -51,20 +77,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T15:30:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
-      "title": "250 for 250: Top 10 moments of baserunning brilliance",
+      "title": "Ranking the Top 10 moments of baserunning brilliance",
       "link": "https://www.mlb.com/news/top-baserunning-exploits-in-baseball-history",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wngcviyfku0xbfupmlph",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Jason Foster",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
+      "tag": "Rankings",
+      "tag_color": "#4F46E5",
       "pub_date": "2026-08-20T15:25:11+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Reds rookie in position for feat not seen in 76 years",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T15:00:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Lombard showing that his bat can be as good as his defense in Majors",
-      "link": "https://www.mlb.com/news/george-lombard-jr-hitting-well-to-begin-mlb-career",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fhf9t3qrvc8ayfsz7ahr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-20T14:57:18+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "The 10 biggest breakouts on the new Top 100 Prospects list",
-      "link": "https://www.mlb.com/news/biggest-breakouts-on-top-100-prospects-list-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xwaghjbasxro3c2y98nv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-20T14:45:00+00:00",
       "time_ago": "2h ago"
     }
   ]
