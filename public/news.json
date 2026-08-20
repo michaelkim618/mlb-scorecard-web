@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-20T04:11:10.572778+00:00",
+  "updated_at": "2026-08-20T04:22:29.718842+00:00",
   "news": [
+    {
+      "title": "As LA's star-studded rotation nears full health, Sasaki shows why he belongs",
+      "link": "https://www.mlb.com/news/roki-sasaki-continues-2nd-half-dominance-in-dodgers-win-over-rockies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787198362/mlb/iurgvoz24gnluavlm15p",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Patrick Saunders",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-20T04:09:54+00:00",
+      "time_ago": "12m ago"
+    },
     {
       "title": "Twins sweep Braves, move into Wild Card position",
       "link": "https://www.mlb.com/news/twins-complete-sweep-of-braves",
@@ -12,7 +25,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-08-20T03:52:00+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "30m ago"
     },
     {
       "title": "Yanks push past Orioles after disputed foul call on Alonso blast",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T03:42:00+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "40m ago"
     },
     {
       "title": "Nola continues resurgence with 7-inning gem to extend Phils' win streak to six",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T03:40:00+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "'He had first dibs': Marsh thanks fan for aiding with Superman-esque catch",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T03:35:53+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "46m ago"
     },
     {
       "title": "'Tugboat' kicks off Giants' shutout win with stout showing vs. team that drafted him",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T03:28:00+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "Reds' brightest stars shine in comeback win over Cardinals",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T03:17:00+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Vázquez's homer backs Pecko's debut as Astros stop losing skid",
@@ -90,19 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-20T03:16:12+00:00",
-      "time_ago": "54m ago"
-    },
-    {
-      "title": "Glasnow racks up 9 K's in final tune-up before expected return",
-      "link": "https://www.mlb.com/news/tyler-glasnow-strikes-out-nine-in-rehab-start-for-triple-a-oklahoma-city",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x7gnacmfggdpod4xsdhb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-20T03:07:03+00:00",
       "time_ago": "1h ago"
     }
   ]
