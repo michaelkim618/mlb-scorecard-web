@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T21:49:07.565471+00:00",
+  "updated_at": "2026-08-20T21:58:26.650320+00:00",
   "news": [
     {
       "title": "Reds rookie in position for feat not seen in 76 years",
@@ -12,7 +12,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T21:45:00+00:00",
-      "time_ago": "4m ago"
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "This lefty O's prospect could join Baltimore's bullpen for stretch run",
+      "link": "https://www.mlb.com/news/luis-de-leon-moving-to-bullpen-role-could-join-orioles",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787260541/mlb/qbdqjjnkwpotsq67wubu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-20T21:40:48+00:00",
+      "time_ago": "17m ago"
     },
     {
       "title": "Adell makes quick return after powering through knee injury",
@@ -25,7 +38,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-20T21:30:00+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "28m ago"
     },
     {
       "title": "Garcia exits Royals' series finale against A's with left hamstring injury",
@@ -38,20 +51,20 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-20T21:23:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "35m ago"
     },
     {
       "title": "Holmes flirts with no-no in sharp bounceback outing",
       "link": "https://www.mlb.com/news/grant-holmes-takes-no-hit-bid-into-7th-inning-in-braves-win",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nqfe3mcmcturtw5n5qrx",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787262831/mlb/nqfe3mcmcturtw5n5qrx",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Andy Martinez",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-20T20:51:09+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Williams fans 11 to reach 200-K milestone for first time",
@@ -91,19 +104,6 @@
       "tag_color": "#DC2626",
       "pub_date": "2026-08-20T20:01:32+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Misiorowski set to face childhood favorite Sale in matchup of NL Cy Young contenders",
-      "link": "https://www.mlb.com/news/jacob-misiorowski-faces-chris-sale-as-brewers-host-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vpyij4oylhuanomnxdun",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-08-20T19:40:44+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
