@@ -9188,6 +9188,28 @@
       "away_bp_score": 53.2,
       "home_bp_score": 53.9,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-21",
+      "away": "Atlanta Braves",
+      "home": "Milwaukee Brewers",
+      "game_number": 1,
+      "pick": "Milwaukee Brewers",
+      "pick_prob": 60.0,
+      "actual_winner": "Milwaukee Brewers",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "hot",
+      "away_sp_era": 2.06,
+      "home_sp_era": 2.17,
+      "away_bp_era": 2.98,
+      "home_bp_era": 3.27,
+      "away_sp_score": 66.1,
+      "home_sp_score": 72.0,
+      "away_bp_score": 56.5,
+      "home_bp_score": 73.7,
+      "bat_source": "lineup"
     }
   ],
   "summary": {
