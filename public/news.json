@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-21T04:22:29.511885+00:00",
+  "updated_at": "2026-08-21T04:25:36.330008+00:00",
   "news": [
+    {
+      "title": "deGrom reaches 2,000-K milestone in dominant performance, much-needed win",
+      "link": "https://www.mlb.com/news/jacob-degrom-reaches-2-000-career-strikeouts",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bsfcghkdbkyz8hll8cq5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kennedi Landry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-21T04:23:00+00:00",
+      "time_ago": "2m ago"
+    },
     {
       "title": "Julio's alter ego, 'DJ Pleno,' brings joy outside of baseball",
       "link": "https://www.mlb.com/news/julio-rodriguez-performs-as-dj-pleno",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-21T04:01:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "24m ago"
     },
     {
       "title": "Stats of the Week: Carroll's wheels, White Sox HR buddies, PCA's heroics and more",
@@ -25,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-21T03:40:11+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "At 35, Cole still making history -- for himself and Yanks",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-21T03:35:00+00:00",
-      "time_ago": "47m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Neto (5 hits, 7 RBIs) paces Angels' hot bats in rout of Astros",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-21T02:35:17+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "deGrom second-fastest pitcher in history to reach 2,000 strikeouts",
-      "link": "https://www.mlb.com/news/jacob-degrom-reaches-2-000-career-strikeouts",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bsfcghkdbkyz8hll8cq5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kennedi Landry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-21T02:31:00+00:00",
       "time_ago": "1h ago"
     }
   ]
