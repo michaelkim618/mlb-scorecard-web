@@ -209,34 +209,36 @@ function PitcherGamelog({ gamelog }) {
   return (
     <div style={{ marginTop: 8 }}>
       <div style={{ fontSize: 10, fontWeight: 700, color: "var(--color-muted)", textTransform: "uppercase", letterSpacing: "0.6px", marginBottom: 5 }}>
-        Last 5 Starts
+        Last {gamelog.length} Starts
       </div>
-      <table style={{ width: "100%", borderCollapse: "collapse", fontSize: 11 }}>
-        <thead>
-          <tr style={{ borderBottom: "1px solid var(--color-border)" }}>
-            {["Date", "Opp", "IP", "H", "ER", "BB", "K", "ERA"].map(h => (
-              <th key={h} style={{ padding: "2px 3px", textAlign: h === "Date" || h === "Opp" ? "left" : "center", color: "var(--color-muted)", fontWeight: 600, fontSize: 10 }}>{h}</th>
-            ))}
-          </tr>
-        </thead>
-        <tbody>
-          {gamelog.map((g, i) => {
-            const eraColor = g.era == null ? "" : g.era <= 2.0 ? "#16A34A" : g.era <= 3.5 ? "#2563EB" : g.era <= 5.5 ? "#64748B" : "#DC2626";
-            return (
-              <tr key={i} style={{ borderBottom: "1px solid var(--color-border)", background: g.era > 5.5 ? "rgba(220,38,38,0.04)" : "transparent" }}>
-                <td style={{ padding: "3px", color: "var(--color-muted)", fontSize: 10 }}>{(g.date || "").slice(5)}</td>
-                <td style={{ padding: "3px", color: "var(--color-muted)", fontSize: 10 }}>{g.opp || ""}</td>
-                <td style={{ padding: "3px", textAlign: "center" }}>{g.ip}</td>
-                <td style={{ padding: "3px", textAlign: "center" }}>{g.h}</td>
-                <td style={{ padding: "3px", textAlign: "center" }}>{g.er}</td>
-                <td style={{ padding: "3px", textAlign: "center" }}>{g.bb}</td>
-                <td style={{ padding: "3px", textAlign: "center" }}>{g.so}</td>
-                <td style={{ padding: "3px", textAlign: "center", fontWeight: 700, color: eraColor }}>{g.era?.toFixed(2) ?? "—"}</td>
-              </tr>
-            );
-          })}
-        </tbody>
-      </table>
+      <div style={{ maxHeight: 168, overflowY: "auto", borderRadius: 4, border: "1px solid var(--color-border)" }}>
+        <table style={{ width: "100%", borderCollapse: "collapse", fontSize: 11 }}>
+          <thead style={{ position: "sticky", top: 0, background: "var(--color-canvas-muted)", zIndex: 1 }}>
+            <tr style={{ borderBottom: "1px solid var(--color-border)" }}>
+              {["Date", "Opp", "IP", "H", "ER", "BB", "K", "ERA"].map(h => (
+                <th key={h} style={{ padding: "3px 4px", textAlign: h === "Date" || h === "Opp" ? "left" : "center", color: "var(--color-muted)", fontWeight: 600, fontSize: 10 }}>{h}</th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {[...gamelog].reverse().map((g, i) => {
+              const eraColor = g.era == null ? "" : g.era <= 2.0 ? "#16A34A" : g.era <= 3.5 ? "#2563EB" : g.era <= 5.5 ? "#64748B" : "#DC2626";
+              return (
+                <tr key={i} style={{ borderBottom: "1px solid var(--color-border)", background: g.era > 5.5 ? "rgba(220,38,38,0.04)" : "transparent" }}>
+                  <td style={{ padding: "3px 4px", color: "var(--color-muted)", fontSize: 10 }}>{(g.date || "").slice(5)}</td>
+                  <td style={{ padding: "3px 4px", color: "var(--color-muted)", fontSize: 10 }}>{g.opp || ""}</td>
+                  <td style={{ padding: "3px 4px", textAlign: "center" }}>{g.ip}</td>
+                  <td style={{ padding: "3px 4px", textAlign: "center" }}>{g.h}</td>
+                  <td style={{ padding: "3px 4px", textAlign: "center" }}>{g.er}</td>
+                  <td style={{ padding: "3px 4px", textAlign: "center" }}>{g.bb}</td>
+                  <td style={{ padding: "3px 4px", textAlign: "center" }}>{g.so}</td>
+                  <td style={{ padding: "3px 4px", textAlign: "center", fontWeight: 700, color: eraColor }}>{g.era?.toFixed(2) ?? "—"}</td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
     </div>
   );
 }
