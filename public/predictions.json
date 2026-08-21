@@ -220,14 +220,14 @@
       "home": 60.0
     },
     "expected_score": {
-      "away": 1.1,
-      "home": 3.4
+      "away": 1.2,
+      "home": 3.1
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "L",
       "home_handedness": "R",
       "bullpen_game": false,
@@ -239,7 +239,7 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 66.4,
+        "sp_score": 67.4,
         "sp_detail": {
           "era": 2.08,
           "whip": 0.99,
@@ -297,7 +297,7 @@
             }
           ]
         },
-        "bp_score": 57.1,
+        "bp_score": 58.0,
         "bp_detail": {
           "bullpen_era": 2.99,
           "recent_era": 4.13,
@@ -307,14 +307,14 @@
           "bp_ip": 304.0,
           "bp_count": 8
         },
-        "bat_score": 18.4,
+        "bat_score": 20.5,
         "bat_detail": {
-          "recent_avg": 0.215,
+          "recent_avg": 0.218,
           "runs_per_g": 3.2,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
-          "season_ops": 0.658,
-          "season_avg": 0.215,
+          "season_ops": 0.685,
+          "season_avg": 0.218,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -323,12 +323,12 @@
             "Ronald Acuña Jr.(0.661)",
             "Drake Baldwin(0.784)",
             "Matt Olson(0.776)",
-            "Ozzie Albies(0.614)",
-            "Lane Thomas(0.756)",
             "Michael Harris II(0.752)",
+            "Ozzie Albies(0.614)",
             "Mauricio Dubón(0.582)",
+            "Dominic Smith(0.540)",
             "Austin Riley(0.696)",
-            "Sean Murphy(0.302)"
+            "Mike Yastrzemski(0.756)"
           ],
           "lineup_players": [
             {
@@ -350,22 +350,16 @@
               "avg": 0.189
             },
             {
-              "id": 645277,
-              "name": "Ozzie Albies",
-              "ops": 0.614,
-              "avg": 0.147
-            },
-            {
-              "id": 657041,
-              "name": "Lane Thomas",
-              "ops": 0.756,
-              "avg": 0.211
-            },
-            {
               "id": 671739,
               "name": "Michael Harris II",
               "ops": 0.752,
               "avg": 0.289
+            },
+            {
+              "id": 645277,
+              "name": "Ozzie Albies",
+              "ops": 0.614,
+              "avg": 0.147
             },
             {
               "id": 643289,
@@ -374,16 +368,22 @@
               "avg": 0.206
             },
             {
+              "id": 642086,
+              "name": "Dominic Smith",
+              "ops": 0.54,
+              "avg": 0.167
+            },
+            {
               "id": 663586,
               "name": "Austin Riley",
               "ops": 0.696,
               "avg": 0.257
             },
             {
-              "id": 669221,
-              "name": "Sean Murphy",
-              "ops": 0.302,
-              "avg": 0.143
+              "id": 573262,
+              "name": "Mike Yastrzemski",
+              "ops": 0.756,
+              "avg": 0.217
             }
           ],
           "bat_trend": "stable",
@@ -403,7 +403,7 @@
           }
         },
         "sit_score": 61.3,
-        "total": 44.6
+        "total": 45.8
       },
       "home": {
         "sp_score": 72.0,
@@ -464,40 +464,46 @@
             }
           ]
         },
-        "bp_score": 70.6,
+        "bp_score": 73.6,
         "bp_detail": {
           "bullpen_era": 3.28,
-          "recent_era": 2.0,
+          "recent_era": 0.52,
           "recent_appearances": 13,
           "recent_ip": 17.3,
           "team_era": 3.33,
           "bp_ip": 298.7,
           "bp_count": 6
         },
-        "bat_score": 52.5,
+        "bat_score": 47.6,
         "bat_detail": {
-          "recent_avg": 0.279,
+          "recent_avg": 0.26,
           "runs_per_g": 5.7,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.777,
-          "season_avg": 0.279,
+          "season_ops": 0.753,
+          "season_avg": 0.26,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Brice Turang(0.704)",
             "Jackson Chourio(0.779)",
+            "Brice Turang(0.704)",
+            "William Contreras(0.636)",
+            "Andrew Vaughn(0.772)",
             "Jake Bauers(0.934)",
             "Gary Sánchez(0.870)",
-            "Christian Yelich(0.679)",
             "Joey Ortiz(0.854)",
-            "Garrett Mitchell(0.805)",
-            "David Hamilton(0.733)",
+            "Cooper Pratt(0.596)",
             "Luis Lara(0.633)"
           ],
           "lineup_players": [
+            {
+              "id": 694192,
+              "name": "Jackson Chourio",
+              "ops": 0.779,
+              "avg": 0.325
+            },
             {
               "id": 668930,
               "name": "Brice Turang",
@@ -505,10 +511,16 @@
               "avg": 0.22
             },
             {
-              "id": 694192,
-              "name": "Jackson Chourio",
-              "ops": 0.779,
-              "avg": 0.325
+              "id": 661388,
+              "name": "William Contreras",
+              "ops": 0.636,
+              "avg": 0.139
+            },
+            {
+              "id": 683734,
+              "name": "Andrew Vaughn",
+              "ops": 0.772,
+              "avg": 0.3
             },
             {
               "id": 641343,
@@ -523,28 +535,16 @@
               "avg": 0.259
             },
             {
-              "id": 592885,
-              "name": "Christian Yelich",
-              "ops": 0.679,
-              "avg": 0.212
-            },
-            {
               "id": 687401,
               "name": "Joey Ortiz",
               "ops": 0.854,
               "avg": 0.345
             },
             {
-              "id": 669003,
-              "name": "Garrett Mitchell",
-              "ops": 0.805,
-              "avg": 0.303
-            },
-            {
-              "id": 666152,
-              "name": "David Hamilton",
-              "ops": 0.733,
-              "avg": 0.29
+              "id": 806198,
+              "name": "Cooper Pratt",
+              "ops": 0.596,
+              "avg": 0.194
             },
             {
               "id": 800325,
@@ -570,20 +570,20 @@
           }
         },
         "sit_score": 64.8,
-        "total": 62.8
+        "total": 61.5
       }
     },
     "scores": {
-      "away_offense": 18.4,
-      "away_defense": 61.8,
-      "home_offense": 52.5,
-      "home_defense": 71.3
+      "away_offense": 20.5,
+      "away_defense": 62.7,
+      "home_offense": 47.6,
+      "home_defense": 72.8
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -1329,7 +1329,7 @@
     },
     "expected_score": {
       "away": 2.7,
-      "home": 1.5
+      "home": 1.4
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -1347,7 +1347,7 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 36.0,
+        "sp_score": 36.8,
         "sp_detail": {
           "era": 4.5,
           "whip": 0.13,
@@ -1398,10 +1398,10 @@
             }
           ]
         },
-        "bp_score": 70.2,
+        "bp_score": 73.2,
         "bp_detail": {
           "bullpen_era": 3.2,
-          "recent_era": 2.0,
+          "recent_era": 0.0,
           "recent_appearances": 17,
           "recent_ip": 16.0,
           "team_era": 3.63,
@@ -1504,7 +1504,7 @@
           }
         },
         "sit_score": 47.8,
-        "total": 50.0
+        "total": 51.0
       },
       "home": {
         "sp_score": 67.7,
@@ -1675,7 +1675,7 @@
     },
     "scores": {
       "away_offense": 46.6,
-      "away_defense": 53.1,
+      "away_defense": 55.0,
       "home_offense": 21.1,
       "home_defense": 71.2
     },
@@ -3569,11 +3569,11 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 45.1,
-      "home": 54.9
+      "away": 46.4,
+      "home": 53.6
     },
     "expected_score": {
-      "away": 2.5,
+      "away": 2.4,
       "home": 1.7
     },
     "blend_detail": null,
@@ -3592,7 +3592,7 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 55.0,
+        "sp_score": 58.0,
         "sp_detail": {
           "era": 3.81,
           "whip": 1.29,
@@ -3657,10 +3657,10 @@
             }
           ]
         },
-        "bp_score": 63.4,
+        "bp_score": 66.4,
         "bp_detail": {
           "bullpen_era": 3.79,
-          "recent_era": 2.0,
+          "recent_era": 0.69,
           "recent_appearances": 18,
           "recent_ip": 26.0,
           "team_era": 4.02,
@@ -3708,7 +3708,7 @@
           }
         },
         "sit_score": 47.3,
-        "total": 50.8
+        "total": 52.2
       },
       "home": {
         "sp_score": 69.8,
@@ -3776,10 +3776,10 @@
             }
           ]
         },
-        "bp_score": 73.9,
+        "bp_score": 75.6,
         "bp_detail": {
           "bullpen_era": 2.77,
-          "recent_era": 2.0,
+          "recent_era": 1.71,
           "recent_appearances": 18,
           "recent_ip": 31.7,
           "team_era": 3.54,
@@ -3827,14 +3827,14 @@
           }
         },
         "sit_score": 57.3,
-        "total": 51.9
+        "total": 52.2
       }
     },
     "scores": {
       "away_offense": 42.5,
-      "away_defense": 59.2,
+      "away_defense": 62.2,
       "home_offense": 25.4,
-      "home_defense": 71.8
+      "home_defense": 72.7
     },
     "actual_score": {
       "away": null,
@@ -5825,8 +5825,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 52.4,
-      "home": 47.6
+      "away": 52.5,
+      "home": 47.5
     },
     "expected_score": {
       "away": 2.2,
@@ -5914,10 +5914,10 @@
             }
           ]
         },
-        "bp_score": 69.6,
+        "bp_score": 69.8,
         "bp_detail": {
           "bullpen_era": 3.23,
-          "recent_era": 2.0,
+          "recent_era": 1.96,
           "recent_appearances": 21,
           "recent_ip": 18.3,
           "team_era": 3.38,
@@ -5965,7 +5965,7 @@
           }
         },
         "sit_score": 51.8,
-        "total": 46.3
+        "total": 46.4
       },
       "home": {
         "sp_score": 29.200000000000003,
@@ -6090,7 +6090,7 @@
     },
     "scores": {
       "away_offense": 29.6,
-      "away_defense": 55.8,
+      "away_defense": 56.0,
       "home_offense": 45.0,
       "home_defense": 35.6
     },
