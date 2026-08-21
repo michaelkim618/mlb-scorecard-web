@@ -1,7 +1,10 @@
 {
-  "predictions": [],
+  "predictions": [
+    "13:10"
+  ],
   "results": false,
   "lineup_refreshed": [
-    "13:10"
+    "13:10",
+    "15:40"
   ]
 }
