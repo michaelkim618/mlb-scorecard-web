@@ -9040,10 +9040,10 @@
       "away": "Toronto Blue Jays",
       "home": "Tampa Bay Rays",
       "game_number": 1,
-      "pick": "Tampa Bay Rays",
-      "pick_prob": 60.0,
+      "pick": "Toronto Blue Jays",
+      "pick_prob": 59.0,
       "actual_winner": "Toronto Blue Jays",
-      "correct": false,
+      "correct": true,
       "high_conf": false,
       "away_sp_trend": "cold",
       "home_sp_trend": "hot",
@@ -9063,7 +9063,7 @@
       "home": "Chicago White Sox",
       "game_number": 1,
       "pick": "Chicago White Sox",
-      "pick_prob": 60.0,
+      "pick_prob": 55.0,
       "actual_winner": "Atlanta Braves",
       "correct": false,
       "high_conf": false,
@@ -9191,9 +9191,11 @@
     }
   ],
   "summary": {
-    "wins": 429,
-    "losses": 302,
+    "wins": 435,
+    "losses": 305,
     "total": 731,
-    "accuracy_pct": 58.7
+    "accuracy_pct": 58.7,
+    "total_picks": 740,
+    "win_rate": 58.8
   }
 }
