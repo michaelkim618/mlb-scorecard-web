@@ -359,7 +359,7 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 66.3,
+        "sp_score": 66.1,
         "sp_detail": {
           "era": 2.06,
           "whip": 1.01,
@@ -417,24 +417,24 @@
             }
           ]
         },
-        "bp_score": 57.0,
+        "bp_score": 56.5,
         "bp_detail": {
-          "bullpen_era": 2.99,
-          "recent_era": 4.13,
-          "recent_appearances": 19,
-          "recent_ip": 24.0,
+          "bullpen_era": 2.98,
+          "recent_era": 3.96,
+          "recent_appearances": 20,
+          "recent_ip": 25.0,
           "team_era": 3.31,
-          "bp_ip": 304.0,
+          "bp_ip": 304.7,
           "bp_count": 8
         },
-        "bat_score": 18.1,
+        "bat_score": 17.8,
         "bat_detail": {
-          "recent_avg": 0.218,
+          "recent_avg": 0.217,
           "runs_per_g": 2.7,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
-          "season_ops": 0.68,
-          "season_avg": 0.218,
+          "season_ops": 0.677,
+          "season_avg": 0.217,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -445,9 +445,9 @@
             "Matt Olson(0.765)",
             "Michael Harris II(0.745)",
             "Ozzie Albies(0.584)",
-            "Mauricio Dubón(0.621)",
-            "Dominic Smith(0.584)",
-            "Austin Riley(0.665)",
+            "Mauricio Dubón(0.605)",
+            "Dominic Smith(0.583)",
+            "Austin Riley(0.655)",
             "Mike Yastrzemski(0.771)"
           ],
           "lineup_players": [
@@ -484,20 +484,20 @@
             {
               "id": 643289,
               "name": "Mauricio Dubón",
-              "ops": 0.621,
+              "ops": 0.605,
               "avg": 0.242
             },
             {
               "id": 642086,
               "name": "Dominic Smith",
-              "ops": 0.584,
+              "ops": 0.583,
               "avg": 0.211
             },
             {
               "id": 663586,
               "name": "Austin Riley",
-              "ops": 0.665,
-              "avg": 0.235
+              "ops": 0.655,
+              "avg": 0.229
             },
             {
               "id": 573262,
@@ -523,7 +523,7 @@
           }
         },
         "sit_score": 61.3,
-        "total": 44.4
+        "total": 44.1
       },
       "home": {
         "sp_score": 72.0,
@@ -594,13 +594,13 @@
           "bp_ip": 299.7,
           "bp_count": 6
         },
-        "bat_score": 46.1,
+        "bat_score": 46.0,
         "bat_detail": {
           "recent_avg": 0.258,
           "runs_per_g": 5.7,
           "hr_per_g": 0.9,
           "bb_per_g": 3.0,
-          "season_ops": 0.741,
+          "season_ops": 0.739,
           "season_avg": 0.258,
           "n_games": 9,
           "source": "prev_day",
@@ -614,8 +614,8 @@
             "Jake Bauers(0.903)",
             "Gary Sánchez(0.738)",
             "Joey Ortiz(0.805)",
-            "Cooper Pratt(0.536)",
-            "Luis Lara(0.684)"
+            "Cooper Pratt(0.528)",
+            "Luis Lara(0.681)"
           ],
           "lineup_players": [
             {
@@ -663,21 +663,21 @@
             {
               "id": 806198,
               "name": "Cooper Pratt",
-              "ops": 0.536,
-              "avg": 0.161
+              "ops": 0.528,
+              "avg": 0.156
             },
             {
               "id": 800325,
               "name": "Luis Lara",
-              "ops": 0.684,
+              "ops": 0.681,
               "avg": 0.273
             }
           ],
           "bat_trend": "hot",
           "last5_rpg": 8.4,
-          "last5_avg": 0.339,
+          "last5_avg": 0.333,
           "home_split": {
-            "recent_avg": 0.291,
+            "recent_avg": 0.288,
             "runs_per_g": 6.3,
             "hr_per_g": 1.4,
             "n_games": 10
@@ -694,9 +694,9 @@
       }
     },
     "scores": {
-      "away_offense": 18.1,
-      "away_defense": 61.6,
-      "home_offense": 46.1,
+      "away_offense": 17.8,
+      "away_defense": 61.3,
+      "home_offense": 46.0,
       "home_defense": 72.8
     },
     "actual_score": {
@@ -714,10 +714,10 @@
     "model_winner": "Milwaukee Brewers",
     "model_correct": null,
     "notes": "Atlanta Braves IL: Joe Jiménez, Joey Wentz, Reynaldo López, Robert Suarez, Spencer Schwellenbach 외 다수 / Milwaukee Brewers IL: Abner Uribe, Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, JoJo Romero 외 다수",
-    "kalshi_prob": 91.0,
-    "edge": -31.0,
-    "value_bet": "⚠️ 극단적 역edge -31.0%p — 마켓 데이터 이상 의심 (Milwaukee Brewers 시장 과대평가)",
-    "extreme_edge": true,
+    "kalshi_prob": 89.0,
+    "edge": -29.0,
+    "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Milwaukee Brewers)",
+    "extreme_edge": false,
     "consensus": false
   },
   {
