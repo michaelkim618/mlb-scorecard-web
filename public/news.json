@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-21T16:01:18.244759+00:00",
+  "updated_at": "2026-08-21T16:03:59.484895+00:00",
   "news": [
+    {
+      "title": "Misiorowski set to face childhood favorite Sale in matchup of NL Cy contenders",
+      "link": "https://www.mlb.com/news/jacob-misiorowski-faces-chris-sale-as-brewers-host-braves",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/capk4okobewg4q2pp3nq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-21T15:55:00+00:00",
+      "time_ago": "8m ago"
+    },
     {
       "title": "When not painting corners, Lowder brushes up on another talent",
       "link": "https://www.mlb.com/news/rhett-lowder-love-for-drawing-players-weekend",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-21T15:20:00+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "One potential prospect callup for each team",
@@ -25,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-08-21T15:13:00+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Red-hot Hoerner's luck is turning, adding another year to his robot-like consistency",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-21T04:44:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Everything you need to know about 2026 MLB Players' Weekend",
-      "link": "https://www.mlb.com/news/mlb-players-weekend-2026-date-themes-events-and-more",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gdvop8n45k5o2hu5gim0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-21T04:43:00+00:00",
       "time_ago": "11h ago"
     }
   ]
