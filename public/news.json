@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-08-21T16:03:59.484895+00:00",
+  "updated_at": "2026-08-21T17:04:06.674272+00:00",
   "news": [
     {
-      "title": "Misiorowski set to face childhood favorite Sale in matchup of NL Cy contenders",
+      "title": "As Paredes' career progresses, his abuela is always with him in spirit",
+      "link": "https://www.mlb.com/news/isaac-paredes-credits-baseball-career-to-grandmother",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hqolraryuguim58skfpl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-21T15:56:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Sale-Miz a clash of Cy contenders in matinee mound masterclass (4 ET)",
       "link": "https://www.mlb.com/news/jacob-misiorowski-faces-chris-sale-as-brewers-host-braves",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/capk4okobewg4q2pp3nq",
@@ -12,10 +25,49 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-21T15:55:00+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "1h ago"
     },
     {
-      "title": "When not painting corners, Lowder brushes up on another talent",
+      "title": "5 reasons why the Cardinals have gotten back to winning after the Deadline",
+      "link": "https://www.mlb.com/news/jordan-walker-alec-burleson-reasons-why-cardinals-are-winning",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cnu358fyt9rb4n024im6",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Josh Jacobs",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-08-21T15:53:51+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "AL-best Rays, clash of AL West rivals highlight 'Friday Night Baseball' slate on Apple TV",
+      "link": "https://www.mlb.com/news/friday-night-baseball-on-apple-tv-for-2026-mlb-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dk1ildpimck5roexbaly",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-21T15:46:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "This new ballpark was a decade and a half in the making -- and it was worth the wait",
+      "link": "https://www.mlb.com/news/richmond-carmax-park-baseball-traveler",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ygpnznfosiz2pwakpuwq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Benjamin Hill",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-21T15:41:03+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "When he's not painting corners, he's drawing big leaguers",
       "link": "https://www.mlb.com/news/rhett-lowder-love-for-drawing-players-weekend",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/auo8t3qbjshbms4wppi9",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-21T15:20:00+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "One potential prospect callup for each team",
@@ -38,72 +90,20 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-08-21T15:13:00+00:00",
-      "time_ago": "50m ago"
-    },
-    {
-      "title": "Red-hot Hoerner's luck is turning, adding another year to his robot-like consistency",
-      "link": "https://www.mlb.com/news/cubs-nico-hoerner-remarkable-year-by-year-consistency",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787318814/mlb/im6i6kn0pextdoetsm88",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-21T14:23:32+00:00",
       "time_ago": "1h ago"
     },
     {
-      "title": "Julio's alter ego, 'DJ Pleno,' brings joy outside of baseball",
-      "link": "https://www.mlb.com/news/julio-rodriguez-performs-as-dj-pleno",
+      "title": "Is there anybody in baseball that Holliday doesn't know? It doesn't seem like it",
+      "link": "https://www.mlb.com/news/jackson-holliday-forming-relationships-with-players-across-baseball",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gnfpdtaghro4pgowtzqu",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ykwulygwmvkrt1ypui69",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Daniel Kramer",
+      "author": "Jake Rill",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-21T14:14:00+00:00",
+      "pub_date": "2026-08-21T15:09:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "The new batting stance that turned Benge's rookie season around",
-      "link": "https://www.mlb.com/news/mets-carson-benge-batting-stance-change",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/miwwcxeseifewjiplh0e",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-21T12:50:06+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "The AL Cy Young favorite now has a curveball, and nobody throws it like him",
-      "link": "https://www.mlb.com/news/cam-schlittler-90-mph-curveball",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787285027/mlb/fjh3nlk3tyvwlzovjc8g",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "David Adler",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-21T04:48:54+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Neto (5 hits, 7 RBIs) paces Angels' hot bats in rout of Astros",
-      "link": "https://www.mlb.com/news/zach-neto-has-7-rbis-in-angels-rout-of-astros",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787282159/mlb/tb8togezsmdzkajoamf7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jeremy Rakes",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-21T04:44:00+00:00",
-      "time_ago": "11h ago"
     }
   ]
 }
