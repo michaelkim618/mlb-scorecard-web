@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-21T09:55:44.316577+00:00",
+  "updated_at": "2026-08-21T15:02:34.006434+00:00",
   "news": [
+    {
+      "title": "Julio's alter ego, 'DJ Pleno,' brings joy outside of baseball",
+      "link": "https://www.mlb.com/news/julio-rodriguez-performs-as-dj-pleno",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gnfpdtaghro4pgowtzqu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-21T14:14:00+00:00",
+      "time_ago": "48m ago"
+    },
+    {
+      "title": "The new batting stance that turned Benge's rookie season around",
+      "link": "https://www.mlb.com/news/mets-carson-benge-batting-stance-change",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/miwwcxeseifewjiplh0e",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-21T12:50:06+00:00",
+      "time_ago": "2h ago"
+    },
     {
       "title": "The AL Cy Young favorite now has a curveball, and nobody throws it like him",
       "link": "https://www.mlb.com/news/cam-schlittler-90-mph-curveball",
@@ -12,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-21T04:48:54+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "Neto (5 hits, 7 RBIs) paces Angels' hot bats in rout of Astros",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-21T04:44:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "Everything you need to know about 2026 MLB Players' Weekend",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-21T04:43:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "Meckler (pitch to head), Schanuel (right side) exit Angels game early",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-21T04:24:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "deGrom reaches 2,000-K milestone in dominant performance, much-needed win",
@@ -64,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-21T04:23:00+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Julio's alter ego, 'DJ Pleno,' brings joy outside of baseball",
-      "link": "https://www.mlb.com/news/julio-rodriguez-performs-as-dj-pleno",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gnfpdtaghro4pgowtzqu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-21T04:01:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "Stats of the Week: Carroll's wheels, White Sox HR buddies, PCA's heroics and more",
@@ -90,20 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-21T03:40:11+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "At 35, Cole still making history -- for himself and Yanks",
-      "link": "https://www.mlb.com/news/gerrit-cole-faces-orioles-for-first-time-this-season",
-      "summary": "Righty passes Clemens for 12th all-time on Yankees' strikeout list",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787279256/mlb/oe6ijvs6jbnu5omfkege",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-21T03:35:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "11h ago"
     }
   ]
 }
