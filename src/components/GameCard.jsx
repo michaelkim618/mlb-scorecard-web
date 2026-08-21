@@ -215,7 +215,7 @@ function PitcherGamelog({ gamelog }) {
         <table style={{ width: "100%", borderCollapse: "collapse", fontSize: 11 }}>
           <thead style={{ position: "sticky", top: 0, background: "var(--color-canvas-muted)", zIndex: 1 }}>
             <tr style={{ borderBottom: "1px solid var(--color-border)" }}>
-              {["Date", "Opp", "IP", "H", "ER", "BB", "K", "ERA"].map(h => (
+              {["Date", "Opp", "W/L", "IP", "H", "ER", "BB", "K", "ERA"].map(h => (
                 <th key={h} style={{ padding: "3px 4px", textAlign: h === "Date" || h === "Opp" ? "left" : "center", color: "var(--color-muted)", fontWeight: 600, fontSize: 10 }}>{h}</th>
               ))}
             </tr>
@@ -227,6 +227,7 @@ function PitcherGamelog({ gamelog }) {
                 <tr key={i} style={{ borderBottom: "1px solid var(--color-border)", background: g.era > 5.5 ? "rgba(220,38,38,0.04)" : "transparent" }}>
                   <td style={{ padding: "3px 4px", color: "var(--color-muted)", fontSize: 10 }}>{(g.date || "").slice(5)}</td>
                   <td style={{ padding: "3px 4px", color: "var(--color-muted)", fontSize: 10 }}>{g.opp || ""}</td>
+                  <td style={{ padding: "3px 4px", textAlign: "center", fontWeight: 700, color: g.decision === "W" ? "#16A34A" : g.decision === "L" ? "#DC2626" : "var(--color-muted)" }}>{g.decision ?? "—"}</td>
                   <td style={{ padding: "3px 4px", textAlign: "center" }}>{g.ip}</td>
                   <td style={{ padding: "3px 4px", textAlign: "center" }}>{g.h}</td>
                   <td style={{ padding: "3px 4px", textAlign: "center" }}>{g.er}</td>
