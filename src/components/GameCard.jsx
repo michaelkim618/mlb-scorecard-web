@@ -729,6 +729,11 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
             ) : (
               <>
                 <div style={{ fontSize: 10, color: "var(--color-muted)", textTransform: "uppercase", letterSpacing: "0.5px", marginBottom: 2 }}>@ Away</div>
+                {game.game_time && (
+                  <div style={{ fontSize: 11, fontWeight: 700, color: "var(--color-ink)", marginBottom: 3 }}>
+                    {game.game_time}
+                  </div>
+                )}
                 <div style={{ fontSize: 10, fontWeight: 600, color: "var(--color-subtle)", background: "var(--color-canvas-muted)", borderRadius: 99, padding: "2px 10px", display: "inline-block" }}>
                   {game.status || "Scheduled"}
                 </div>
