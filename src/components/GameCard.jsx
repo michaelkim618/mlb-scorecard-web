@@ -211,7 +211,7 @@ function PitcherGamelog({ gamelog }) {
       <div style={{ fontSize: 10, fontWeight: 700, color: "var(--color-muted)", textTransform: "uppercase", letterSpacing: "0.6px", marginBottom: 5 }}>
         Last {gamelog.length} Starts
       </div>
-      <div style={{ maxHeight: 168, overflowY: "auto", borderRadius: 4, border: "1px solid var(--color-border)" }}>
+      <div style={{ maxHeight: 220, overflowY: "scroll", borderRadius: 4, border: "1px solid var(--color-border)", display: "block" }}>
         <table style={{ width: "100%", borderCollapse: "collapse", fontSize: 11 }}>
           <thead style={{ position: "sticky", top: 0, background: "var(--color-canvas-muted)", zIndex: 1 }}>
             <tr style={{ borderBottom: "1px solid var(--color-border)" }}>

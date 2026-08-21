@@ -1,109 +1,41 @@
 {
-  "title": "Aug 19 Results + Aug 20 Preview: Sixty Percent and a Redemption Story",
-  "summary": "Nine wins on Aug 19, and the Cardinals are calling our name for tomorrow",
+  "title": "Aug 19 Results + Aug 20 Preview: Sixty Percent Never Felt So Good",
+  "summary": "9-6 on Aug 19 with solid pitching reads, plus tomorrow's Cardinals-Reds rematch",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Here's the Thing About Bounce-Back Days\n\nSometimes the baseball gods smile on you, and sometimes they give you exactly what you need: a solid 60% day that reminds you why we do this. After yesterday's ups and downs, August 19th delivered nine wins against six losses, and honestly? It felt like the model was finding its rhythm again."
+      "value": "## Here's the Thing About Winning Days\n\nSixty percent. That's the number that matters when you're playing the long game in baseball predictions. And on August 19th, our model delivered exactly that—a solid 9-6 performance that reminds us why we trust the process even when a few close calls don't go our way."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Aug 19 W-L",
+          "label": "Aug 19 Record",
           "value": "9-6"
         },
         {
-          "label": "Accuracy",
+          "label": "Win Rate",
           "value": "60.0%"
         },
         {
-          "label": "Total Games",
-          "value": "15"
+          "label": "Hits",
+          "value": "9"
+        },
+        {
+          "label": "Misses",
+          "value": "6"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Wins That Mattered\n\nThe Pirates pulled through at home against the Tigers—a 53% call that could've gone either way but landed in our corner. The Twins handled the Braves exactly as we expected at 61%, and the Sox came through with a 58% win that felt even sweeter than the percentage suggests.\n\nBut here's what really caught my eye: the Rays at 61% and the Phillies at 60% both delivered. Those are the confidence plays that make a good day great."
-    },
-    {
-      "type": "table",
-      "title": "Aug 19 Full Results",
-      "headers": [
-        "Game",
-        "Pick",
-        "Prob",
-        "Result"
-      ],
-      "rows": [
-        [
-          "Tigers @ Pirates",
-          "Pirates",
-          "53%",
-          "✓"
-        ],
-        [
-          "Padres @ Mets",
-          "Padres",
-          "61%",
-          "✗"
-        ],
-        [
-          "Braves @ Twins",
-          "Twins",
-          "61%",
-          "✓"
-        ],
-        [
-          "Sox @ Cubs",
-          "Sox",
-          "58%",
-          "✓"
-        ],
-        [
-          "Diamondbacks @ Sox",
-          "Sox",
-          "60%",
-          "✗"
-        ],
-        [
-          "Marlins @ Phillies",
-          "Phillies",
-          "60%",
-          "✓"
-        ],
-        [
-          "Yankees @ Orioles",
-          "Orioles",
-          "50%",
-          "✗"
-        ],
-        [
-          "Giants @ Guardians",
-          "Guardians",
-          "61%",
-          "✗"
-        ],
-        [
-          "Cardinals @ Reds",
-          "Cardinals",
-          "57%",
-          "✗"
-        ],
-        [
-          "Jays @ Rays",
-          "Rays",
-          "61%",
-          "✓"
-        ]
-      ]
+      "value": "## The Wins That Stood Out\n\nThe Rays continue to be one of those teams where our model just *gets* them. That 61% confidence pick? Money. Same story with the Twins hosting the Braves—another 61% call that landed perfectly. And let's talk about the White Sox-Cubs crosstown matchup, where we leaned Sox at 58% and watched them deliver.\n\nThe Phillies taking care of business against the Marlins at 60% confidence was the kind of steady pick that builds winning days. Even the Pirates squeaking past the Tigers at just 53% showed that sometimes the model sees something the rest of us don't."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Aug 19 Prediction Results by Confidence",
+      "title": "Aug 19 Prediction Performance",
       "data": [
         {
           "name": "Pirates",
@@ -121,12 +53,12 @@
           "result": 1
         },
         {
-          "name": "Sox (vs Cubs)",
+          "name": "Sox (CHW)",
           "probability": 58,
           "result": 1
         },
         {
-          "name": "Sox (vs D-backs)",
+          "name": "Sox (BOS)",
           "probability": 60,
           "result": 0
         },
@@ -166,32 +98,100 @@
         {
           "key": "result",
           "color": "#16A34A",
-          "label": "Hit (1=Yes, 0=No)"
+          "label": "Hit (1) / Miss (0)"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Misses We're Learning From\n\nLook, the Guardians miss at 61% stung a little. The Cardinals dropping their game against the Reds at 57%? That one caught us off guard too. And the Padres-Mets game didn't go our way despite our 61% confidence.\n\nBut here's what's interesting about that Cardinals loss yesterday..."
+      "value": "## The Ones That Got Away\n\nLook, nobody bats 1.000 in this game. The Padres-Mets miss at 61% stung a little—that's the kind of confidence level where you expect to cash. The Guardians falling to the Giants despite our 61% lean was another head-scratcher. And that Cardinals loss to the Reds? Well, here's where it gets interesting, because we're going right back to that well tomorrow.\n\nThe Orioles-Yankees toss-up at 50-50 went the other way, but that's why it was a coin flip. The Red Sox stumbling against the Diamondbacks rounded out our misses, but nothing here suggests the model was wildly off—just baseball being baseball."
+    },
+    {
+      "type": "table",
+      "title": "Complete Aug 19 Results Breakdown",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Tigers @ Pirates",
+          "Pirates",
+          "53%",
+          "✓ Hit"
+        ],
+        [
+          "Padres @ Mets",
+          "Padres",
+          "61%",
+          "✗ Miss"
+        ],
+        [
+          "Braves @ Twins",
+          "Twins",
+          "61%",
+          "✓ Hit"
+        ],
+        [
+          "White Sox @ Cubs",
+          "White Sox",
+          "58%",
+          "✓ Hit"
+        ],
+        [
+          "Diamondbacks @ Red Sox",
+          "Red Sox",
+          "60%",
+          "✗ Miss"
+        ],
+        [
+          "Marlins @ Phillies",
+          "Phillies",
+          "60%",
+          "✓ Hit"
+        ],
+        [
+          "Yankees @ Orioles",
+          "Orioles",
+          "50%",
+          "✗ Miss"
+        ],
+        [
+          "Giants @ Guardians",
+          "Guardians",
+          "61%",
+          "✗ Miss"
+        ],
+        [
+          "Cardinals @ Reds",
+          "Cardinals",
+          "57%",
+          "✗ Miss"
+        ],
+        [
+          "Blue Jays @ Rays",
+          "Rays",
+          "61%",
+          "✓ Hit"
+        ]
+      ]
     },
     {
       "type": "text",
-      "value": "## Tomorrow's Redemption Arc\n\nThe Cardinals and Reds are running it back on August 20th, and the model is giving us another chance. This time, we're even more confident at 61%, and the pitching matchup tells a story worth paying attention to.\n\nMichael McGreevy gets the ball for St. Louis, facing off against Brady Singer for Cincinnati. After yesterday's stumble, the Cardinals are looking to prove something—and our model is betting they will."
+      "value": "## Tomorrow's Redemption Story\n\nHere's what I love about baseball: you always get another chance. The Cardinals dropped that game to the Reds yesterday despite our 57% confidence, but tomorrow we're riding with St. Louis again—this time at 61%.\n\nMichael McGreevy gets the ball for the Cardinals against Brady Singer and the Reds. The model sees something in this pitching matchup that it likes even more than yesterday's setup. Maybe it's McGreevy's recent form, maybe it's how the Cardinals' lineup matches up against Singer's repertoire, or maybe it's just the baseball gods balancing the scales."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Aug 20 Top Pick",
       "value": "St. Louis Cardinals",
-      "sub": "61% win probability · McGreevy vs Singer · @ Cincinnati"
+      "sub": "61% win probability vs Cincinnati Reds | McGreevy vs Singer on the mound"
     },
     {
       "type": "text",
-      "value": "## Why the Cardinals Make Sense Tomorrow\n\nHere's the thing about back-to-back games in the same series: teams remember. The Cardinals remember yesterday's loss, and they're coming back to the same park with something to prove. McGreevy has been finding his form, and Singer—while capable—has shown vulnerabilities that St. Louis knows how to exploit.\n\nAt 61%, this isn't a coin flip. It's a calculated read on a team that's hungry to split the series and a pitching matchup that favors the visitors.\n\nSometimes the best picks are the redemption stories. Tomorrow, the Cardinals get their chapter."
-    },
-    {
-      "type": "text",
-      "value": "## The Bottom Line\n\nAugust 19th gave us exactly what we needed—a 60% day that felt solid, steady, and sustainable. Nine wins, six losses, and a model that's humming along nicely as we head into tomorrow's slate.\n\nAnd tomorrow? The Cardinals are calling. Let's see if this redemption arc writes itself the way we think it will.\n\n*See you on the other side of first pitch.* ⚾"
+      "value": "## The Bottom Line\n\nA 60% hit rate is exactly where we want to be—profitable, sustainable, and proof that the model's doing its job. We took our lumps on a few high-confidence misses, but we also cashed plenty of tickets when it mattered.\n\nTomorrow brings a fresh slate and a chance to run it back with the Cardinals. Sometimes the best picks are the ones where you get a second bite at the apple. Let's see if St. Louis can flip the script.\n\n*Trust the numbers. Ride the wave. See you tomorrow.*"
     }
   ],
   "slug": "2026-08-19-daily-hana",
