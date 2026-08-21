@@ -464,10 +464,10 @@
             }
           ]
         },
-        "bp_score": 73.6,
+        "bp_score": 70.6,
         "bp_detail": {
           "bullpen_era": 3.28,
-          "recent_era": 0.52,
+          "recent_era": 2.0,
           "recent_appearances": 13,
           "recent_ip": 17.3,
           "team_era": 3.33,
@@ -570,14 +570,14 @@
           }
         },
         "sit_score": 64.8,
-        "total": 63.4
+        "total": 62.8
       }
     },
     "scores": {
       "away_offense": 18.4,
       "away_defense": 61.8,
       "home_offense": 52.5,
-      "home_defense": 72.8
+      "home_defense": 71.3
     },
     "actual_score": {
       "away": null,
@@ -594,8 +594,8 @@
     "model_winner": "Milwaukee Brewers",
     "model_correct": null,
     "notes": "Atlanta Braves IL: Joe Jiménez, Joey Wentz, Reynaldo López, Robert Suarez, Spencer Schwellenbach 외 다수 / Milwaukee Brewers IL: Abner Uribe, Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, JoJo Romero 외 다수",
-    "kalshi_prob": 56.0,
-    "edge": 4.0,
+    "kalshi_prob": 57.0,
+    "edge": 3.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -1204,63 +1204,63 @@
       "losses": 1,
       "streak": 4
     },
-    "away_pitcher": "Dylan Cease (미정)",
-    "away_pitcher_id": 656302,
+    "away_pitcher": "Mason Fluharty",
+    "away_pitcher_id": 689254,
     "away_pitcher_stats": {
-      "wins": 7,
-      "losses": 5,
-      "era": "2.42"
+      "wins": 5,
+      "losses": 1,
+      "era": "3.71"
     },
     "away_pitcher_gamelog": [
       {
-        "date": "2026-07-25",
-        "opp": "@ BOS",
-        "ip": "9.0",
-        "er": 0,
-        "h": 1,
-        "bb": 3,
-        "so": 12,
-        "era": 0.0
-      },
-      {
-        "date": "2026-07-31",
-        "opp": "vs STL",
-        "ip": "6.0",
-        "er": 1,
-        "h": 3,
-        "bb": 3,
-        "so": 7,
-        "era": 1.5
-      },
-      {
-        "date": "2026-08-06",
-        "opp": "@ CHC",
-        "ip": "7.0",
-        "er": 0,
-        "h": 2,
-        "bb": 1,
-        "so": 10,
-        "era": 0.0
-      },
-      {
-        "date": "2026-08-11",
+        "date": "2026-08-12",
         "opp": "vs BOS",
-        "ip": "5.0",
-        "er": 3,
-        "h": 5,
-        "bb": 4,
-        "so": 7,
-        "era": 5.4
+        "ip": "1.0",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 0,
+        "era": 0.0
       },
       {
-        "date": "2026-08-16",
+        "date": "2026-08-14",
         "opp": "vs NYY",
-        "ip": "6.1",
-        "er": 2,
-        "h": 2,
-        "bb": 3,
-        "so": 10,
-        "era": 2.84
+        "ip": "0.2",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 0,
+        "era": 0.0
+      },
+      {
+        "date": "2026-08-15",
+        "opp": "vs NYY",
+        "ip": "1.0",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 0,
+        "era": 0.0
+      },
+      {
+        "date": "2026-08-18",
+        "opp": "@ TB",
+        "ip": "0.1",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 0,
+        "era": 0.0
+      },
+      {
+        "date": "2026-08-19",
+        "opp": "@ TB",
+        "ip": "1.0",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 1,
+        "era": 0.0
       }
     ],
     "home_pitcher": "Cam Schlittler",
@@ -1324,107 +1324,84 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 59.0,
-      "home": 41.0
+      "away": 50.0,
+      "home": 50.0
     },
     "expected_score": {
       "away": 2.7,
-      "home": 1.3
+      "home": 1.5
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
       "bat_source": "prev_day",
-      "away_handedness": "R",
+      "away_handedness": "L",
       "home_handedness": "R",
       "bullpen_game": false,
-      "any_cold_sp": false,
+      "any_cold_sp": true,
       "eff_weights": {
         "sp": 0.25,
-        "bp": 0.2,
-        "bat": 0.4,
+        "bp": 0.25,
+        "bat": 0.35,
         "sit": 0.15
       },
       "away": {
-        "sp_score": 72.0,
+        "sp_score": 36.0,
         "sp_detail": {
-          "era": 2.09,
-          "whip": 0.91,
-          "k9": 12.7,
-          "avg_ip": 6.5,
-          "qs_rate": 70.0,
-          "last3_era": 1.62,
-          "last_start_era": 2.84,
+          "era": 4.5,
+          "whip": 0.13,
+          "k9": 5.9,
+          "avg_ip": 0.8,
+          "qs_rate": 0.0,
+          "last3_era": 0.0,
+          "last_start_era": 0.0,
           "last2_eras": [
-            5.4,
-            2.84
+            0.0,
+            0.0
           ],
           "recent_bad_start": false,
-          "trend": "hot",
+          "trend": "cold",
           "n_games": 10,
           "sample_confidence": 1.0,
-          "rest_days": 5,
-          "rest_note": null,
-          "age": 30,
-          "fb_velo": 97.2,
+          "rest_days": 2,
+          "rest_note": "short_rest",
+          "age": 25,
+          "fb_velo": 90.8,
           "pitch_arsenal": [
-            "FB",
-            "SL",
-            "CH",
-            "KC",
-            "SI",
-            "SW"
+            "CT",
+            "SW",
+            "CH"
           ],
           "secondary_pitches": [
-            "SL",
-            "CH",
-            "KC",
-            "SW"
+            "SW",
+            "CH"
           ],
           "pitches_detail": [
             {
-              "code": "FF",
-              "abbr": "FB",
-              "pct": 36.9,
-              "velo": 97.2
-            },
-            {
-              "code": "SL",
-              "abbr": "SL",
-              "pct": 29.6,
-              "velo": 88.9
-            },
-            {
-              "code": "CH",
-              "abbr": "CH",
-              "pct": 11.5,
-              "velo": 82.2
-            },
-            {
-              "code": "KC",
-              "abbr": "KC",
-              "pct": 9.6,
-              "velo": 82.2
-            },
-            {
-              "code": "SI",
-              "abbr": "SI",
-              "pct": 8.4,
-              "velo": 96.0
+              "code": "FC",
+              "abbr": "CT",
+              "pct": 49.2,
+              "velo": 90.8
             },
             {
               "code": "ST",
               "abbr": "SW",
-              "pct": 4.0,
-              "velo": 83.6
+              "pct": 41.2,
+              "velo": 82.1
+            },
+            {
+              "code": "CH",
+              "abbr": "CH",
+              "pct": 9.6,
+              "velo": 87.2
             }
           ]
         },
-        "bp_score": 73.2,
+        "bp_score": 70.2,
         "bp_detail": {
           "bullpen_era": 3.2,
-          "recent_era": 0.0,
+          "recent_era": 2.0,
           "recent_appearances": 17,
           "recent_ip": 16.0,
           "team_era": 3.63,
@@ -1527,7 +1504,7 @@
           }
         },
         "sit_score": 47.8,
-        "total": 58.5
+        "total": 50.0
       },
       "home": {
         "sp_score": 67.7,
@@ -1607,7 +1584,7 @@
           "season_avg": 0.212,
           "n_games": 9,
           "source": "prev_day",
-          "handedness": "R",
+          "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
             "Trent Grisham(0.966)",
@@ -1693,12 +1670,12 @@
           }
         },
         "sit_score": 61.0,
-        "total": 49.5
+        "total": 52.1
       }
     },
     "scores": {
       "away_offense": 46.6,
-      "away_defense": 72.6,
+      "away_defense": 53.1,
       "home_offense": 21.1,
       "home_defense": 71.2
     },
@@ -1714,11 +1691,11 @@
       "any": false
     },
     "actual_winner": null,
-    "model_winner": "Toronto Blue Jays",
+    "model_winner": "New York Yankees",
     "model_correct": null,
     "notes": "Toronto Blue Jays IL: Addison Barger, Anthony Santander, Bowden Francis, Cody Ponce, Jake Bloss 외 다수 / New York Yankees IL: Aaron Judge, Clarke Schmidt, Cody Bellinger, Giancarlo Stanton, Kervin Castro 외 다수",
     "kalshi_prob": 67.0,
-    "edge": -26.0,
+    "edge": -17.0,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: New York Yankees)",
     "extreme_edge": false,
     "consensus": false
@@ -3592,11 +3569,11 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 46.4,
-      "home": 53.6
+      "away": 45.1,
+      "home": 54.9
     },
     "expected_score": {
-      "away": 2.4,
+      "away": 2.5,
       "home": 1.7
     },
     "blend_detail": null,
@@ -3615,7 +3592,7 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 58.0,
+        "sp_score": 55.0,
         "sp_detail": {
           "era": 3.81,
           "whip": 1.29,
@@ -3680,10 +3657,10 @@
             }
           ]
         },
-        "bp_score": 66.4,
+        "bp_score": 63.4,
         "bp_detail": {
           "bullpen_era": 3.79,
-          "recent_era": 0.69,
+          "recent_era": 2.0,
           "recent_appearances": 18,
           "recent_ip": 26.0,
           "team_era": 4.02,
@@ -3731,7 +3708,7 @@
           }
         },
         "sit_score": 47.3,
-        "total": 52.2
+        "total": 50.8
       },
       "home": {
         "sp_score": 69.8,
@@ -3799,10 +3776,10 @@
             }
           ]
         },
-        "bp_score": 75.6,
+        "bp_score": 73.9,
         "bp_detail": {
           "bullpen_era": 2.77,
-          "recent_era": 1.71,
+          "recent_era": 2.0,
           "recent_appearances": 18,
           "recent_ip": 31.7,
           "team_era": 3.54,
@@ -3850,14 +3827,14 @@
           }
         },
         "sit_score": 57.3,
-        "total": 52.2
+        "total": 51.9
       }
     },
     "scores": {
       "away_offense": 42.5,
-      "away_defense": 62.2,
+      "away_defense": 59.2,
       "home_offense": 25.4,
-      "home_defense": 72.7
+      "home_defense": 71.8
     },
     "actual_score": {
       "away": null,
@@ -5008,8 +4985,8 @@
     "model_winner": "Athletics",
     "model_correct": null,
     "notes": "Athletics IL: Brent Rooker, Brooks Kriske, Denzel Clarke, Gunnar Hoglund, José Suarez 외 다수 / Houston Astros IL: Brandon Walter, Brice Matthews, Carlos Correa, Mike Burrows",
-    "kalshi_prob": 63.0,
-    "edge": -17.7,
+    "kalshi_prob": 62.0,
+    "edge": -16.7,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Houston Astros)",
     "extreme_edge": false,
     "consensus": false
@@ -5625,8 +5602,8 @@
     "model_winner": "Los Angeles Angels",
     "model_correct": null,
     "notes": "Los Angeles Angels IL: Anthony Rendon, Jack Kochanowicz, Robert Stephenson, Sam Bachman, Samy Natera Jr. 외 다수 / Texas Rangers IL: Carter Baumler, Jack Leiter, Jalen Beeks, Jose Corniell, Josh Jung 외 다수",
-    "kalshi_prob": 57.0,
-    "edge": -13.1,
+    "kalshi_prob": 56.0,
+    "edge": -12.1,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Texas Rangers)",
     "extreme_edge": false,
     "consensus": false
@@ -5848,8 +5825,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 52.5,
-      "home": 47.5
+      "away": 52.4,
+      "home": 47.6
     },
     "expected_score": {
       "away": 2.2,
@@ -5937,10 +5914,10 @@
             }
           ]
         },
-        "bp_score": 69.8,
+        "bp_score": 69.6,
         "bp_detail": {
           "bullpen_era": 3.23,
-          "recent_era": 1.96,
+          "recent_era": 2.0,
           "recent_appearances": 21,
           "recent_ip": 18.3,
           "team_era": 3.38,
@@ -5988,7 +5965,7 @@
           }
         },
         "sit_score": 51.8,
-        "total": 46.4
+        "total": 46.3
       },
       "home": {
         "sp_score": 29.200000000000003,
@@ -6113,7 +6090,7 @@
     },
     "scores": {
       "away_offense": 29.6,
-      "away_defense": 56.0,
+      "away_defense": 55.8,
       "home_offense": 45.0,
       "home_defense": 35.6
     },
