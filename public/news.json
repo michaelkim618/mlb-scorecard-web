@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-21T03:40:03.135202+00:00",
+  "updated_at": "2026-08-21T04:06:10.185794+00:00",
   "news": [
+    {
+      "title": "Julio's alter ego, 'DJ Pleno,' brings joy outside of baseball",
+      "link": "https://www.mlb.com/news/julio-rodriguez-performs-as-dj-pleno",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gnfpdtaghro4pgowtzqu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-21T04:01:00+00:00",
+      "time_ago": "5m ago"
+    },
+    {
+      "title": "Stats of the Week: Carroll's wheels, White Sox HR buddies, PCA's heroics and more",
+      "link": "https://www.mlb.com/news/mlb-stats-of-the-week-ending-august-20-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mzlcinb686aijdfzwjx1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sarah Langs",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-21T03:40:11+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "At 35, Cole still making history -- for himself and Yanks",
+      "link": "https://www.mlb.com/news/gerrit-cole-faces-orioles-for-first-time-this-season",
+      "summary": "Righty passes Clemens for 12th all-time on Yankees' strikeout list",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787279256/mlb/oe6ijvs6jbnu5omfkege",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-21T03:35:00+00:00",
+      "time_ago": "31m ago"
+    },
     {
       "title": "Neto (5 hits, 7 RBIs) paces Angels' hot bats in rout of Astros",
       "link": "https://www.mlb.com/news/zach-neto-has-7-rbis-in-angels-rout-of-astros",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-21T03:16:30+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "Meckler (pitch to head), Schanuel (right side) exit Angels game early",
@@ -25,7 +64,33 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-21T02:42:00+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "This pitcher has a 10.35 ERA ... and a 0.85 ERA. Let's explain",
+      "link": "https://www.mlb.com/news/bryan-bello-unprecedented-2026-performance",
+      "summary": "Brayan Bello's down-and-up season is in unprecedented territory",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1778041843/mlb/e6t2vbsbjbtmfaal6l2k",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mike Petriello",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-21T02:40:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Meet the ex-pitcher changing the game one pair of custom cleats at a time",
+      "link": "https://www.mlb.com/news/jeremy-guthrie-custom-cleats-players-weekend",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vymu1o2hl9jzzgeqzhu6",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Horowitz",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-21T02:35:17+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "deGrom second-fastest pitcher in history to reach 2,000 strikeouts",
@@ -38,71 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-21T02:31:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "After overpowering Minor League hitters, Kade Anderson ready to take aim for the M's",
-      "link": "https://www.mlb.com/news/what-to-expect-mariners-prospect-kade-anderson-mlb",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lykswjkihnvuz9aivxkk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jonathan Mayo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-21T02:28:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Marte meets with manager, GM and is placed on injured list",
-      "link": "https://www.mlb.com/news/ketel-marte-off-restricted-list-placed-on-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yb6ookocpzz8bfxme2ls",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-21T02:17:57+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Injuries: Judge, Dodgers, Vladdy, Peña, K. Marte, Royals",
-      "link": "https://www.mlb.com/news/baseball-injury-updates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y2tdk5adkh9chlj5hoz5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-21T02:13:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "This lefty O's prospect could join Baltimore's bullpen for stretch run",
-      "link": "https://www.mlb.com/news/luis-de-leon-moving-to-bullpen-role-could-join-orioles",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787260541/mlb/qbdqjjnkwpotsq67wubu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-21T01:53:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Cole passes Clemens on Yanks' all-time K list, paving way to sweep of O's",
-      "link": "https://www.mlb.com/news/gerrit-cole-faces-orioles-for-first-time-this-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787279256/mlb/oe6ijvs6jbnu5omfkege",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-21T01:43:00+00:00",
       "time_ago": "1h ago"
     }
   ]
