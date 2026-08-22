@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-22T04:17:39.245779+00:00",
+  "updated_at": "2026-08-22T04:20:24.633366+00:00",
   "news": [
+    {
+      "title": "The Force remains strong with Cy Young hopeful Schlittler",
+      "link": "https://www.mlb.com/news/cam-schlittler-star-wars-cleats-players-weekend",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/egspgjuutv9q2lgb7ry8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-08-22T04:15:00+00:00",
+      "time_ago": "5m ago"
+    },
+    {
+      "title": "Andy Pages exits game with left hand contusion after hit by pitch in 3rd frame",
+      "link": "https://www.mlb.com/news/andy-pages-exits-game-after-hit-by-pitch",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wzomnccmkesjxlpzswox",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-22T04:13:00+00:00",
+      "time_ago": "7m ago"
+    },
     {
       "title": "Happy Birthday, you're outta here! Counsell tossed over balk call",
       "link": "https://www.mlb.com/news/craig-counsell-ejected-on-birthday-over-balk-call",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T04:04:48+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "15m ago"
     },
     {
       "title": "To infinity and GONE! Isbel blasts off with Buzz Lightyear Players' Weekend bat",
@@ -25,20 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T03:55:00+00:00",
-      "time_ago": "22m ago"
-    },
-    {
-      "title": "Andy Pages exits game in 5th inning after being hit by pitch in 3rd",
-      "link": "https://www.mlb.com/news/andy-pages-exits-game-after-hit-by-pitch",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wzomnccmkesjxlpzswox",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-22T03:50:58+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "25m ago"
     },
     {
       "title": "Bazzana's 4-hit game gets Guards back-to-back W's for 1st time in a month",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T03:49:00+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "31m ago"
     },
     {
       "title": "How far did Contreras' blast go? We'll let you know whenever it lands",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T03:32:00+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "Alonso's 30th homer -- for real this time -- is his latest big swing for O's",
@@ -77,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-22T03:20:00+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Wesneski, Alvarez get Astros back on track during rough homestand",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T03:19:59+00:00",
-      "time_ago": "57m ago"
-    },
-    {
-      "title": "Devers 'very happy to be back' at Fenway, proves it with massive HR",
-      "link": "https://www.mlb.com/news/rafael-devers-makes-his-return-to-fenway-park",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ibx2rr3tcn2zromsdm5q",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Greg Levinsky",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-22T03:03:00+00:00",
       "time_ago": "1h ago"
     }
   ]
