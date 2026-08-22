@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-22T21:52:24.356773+00:00",
+  "updated_at": "2026-08-22T21:58:41.924109+00:00",
   "news": [
+    {
+      "title": "It's nearly Kade O'Clock: Top prospect ready for highly anticipated debut",
+      "link": "https://www.mlb.com/news/kade-anderson-to-make-mlb-debut-bryan-woo-s-start-pushed",
+      "summary": "Woo pushed back but not expected to land on IL; Vargas activated",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fkwdtnbyw8crghxk9h4l",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-22T21:55:00+00:00",
+      "time_ago": "3m ago"
+    },
+    {
+      "title": "Dylan Cease boosts Cy Young case against Yankees",
+      "link": "https://www.mlb.com/news/dylan-cease-boosts-cy-young-case-against-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787434003/mlb/mjja1v2rxo3kbre74pmd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-08-22T21:46:00+00:00",
+      "time_ago": "12m ago"
+    },
     {
       "title": "Everything you need to know about 2026 Little League Classic (ESPN, Sunday, 7 p.m. ET)",
       "link": "https://www.mlb.com/news/little-league-classic-2026-date-matchup-location-and-more",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T21:44:00+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "14m ago"
     },
     {
       "title": "‘I’m ready to go’: Bellinger (hamstring) eyeing Sunday return to Yanks",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T21:44:00+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "14m ago"
     },
     {
       "title": "Cardinals place Dobbins (flexor strain) on IL, recall Mathews to start at Philly",
@@ -38,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-22T21:17:43+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "40m ago"
     },
     {
       "title": "Vlad Jr. returns from IL as Blue Jays continue pivotal series vs. Yanks",
@@ -51,20 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-22T21:08:00+00:00",
-      "time_ago": "44m ago"
-    },
-    {
-      "title": "Dylan Cease boosts Cy Young case against Yankees",
-      "link": "https://www.mlb.com/news/dylan-cease-boosts-cy-young-case-against-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787434003/mlb/mjja1v2rxo3kbre74pmd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-08-22T21:04:12+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Weathers exits start against Blue Jays with forearm discomfort",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T20:59:00+00:00",
-      "time_ago": "53m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "Bauers sees 11 pitches for a walk -- then goes one better for big HR",
@@ -90,20 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-22T20:55:19+00:00",
-      "time_ago": "57m ago"
-    },
-    {
-      "title": "Dodgers call up former D-backs OF Thomas as Pages heads to IL",
-      "link": "https://www.mlb.com/news/alek-thomas-dodgers-callup-andy-pages-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/icop8ylbyztd7mgt7eg7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-22T19:42:55+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "1h ago"
     }
   ]
 }
