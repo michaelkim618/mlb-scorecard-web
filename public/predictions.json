@@ -4448,118 +4448,7 @@
       "losses": 4,
       "era": "5.22"
     },
-    "away_pitcher_gamelog": [
-      {
-        "date": "2026-05-24",
-        "opp": "@ SD",
-        "decision": "W",
-        "ip": "4.2",
-        "er": 1,
-        "h": 6,
-        "bb": 1,
-        "so": 3,
-        "era": 1.93
-      },
-      {
-        "date": "2026-05-31",
-        "opp": "vs NYY",
-        "decision": "L",
-        "ip": "2.0",
-        "er": 7,
-        "h": 5,
-        "bb": 2,
-        "so": 3,
-        "era": 31.5
-      },
-      {
-        "date": "2026-07-07",
-        "opp": "@ DET",
-        "decision": null,
-        "ip": "3.0",
-        "er": 4,
-        "h": 5,
-        "bb": 1,
-        "so": 4,
-        "era": 12.0
-      },
-      {
-        "date": "2026-07-10",
-        "opp": "@ CWS",
-        "decision": null,
-        "ip": "1.2",
-        "er": 0,
-        "h": 0,
-        "bb": 0,
-        "so": 1,
-        "era": 0.0
-      },
-      {
-        "date": "2026-07-19",
-        "opp": "vs WSH",
-        "decision": "L",
-        "ip": "4.1",
-        "er": 2,
-        "h": 2,
-        "bb": 2,
-        "so": 6,
-        "era": 4.15
-      },
-      {
-        "date": "2026-07-24",
-        "opp": "@ MIN",
-        "decision": "W",
-        "ip": "5.0",
-        "er": 0,
-        "h": 1,
-        "bb": 4,
-        "so": 4,
-        "era": 0.0
-      },
-      {
-        "date": "2026-07-29",
-        "opp": "vs BOS",
-        "decision": null,
-        "ip": "5.1",
-        "er": 1,
-        "h": 7,
-        "bb": 2,
-        "so": 8,
-        "era": 1.69
-      },
-      {
-        "date": "2026-08-05",
-        "opp": "@ CIN",
-        "decision": null,
-        "ip": "5.0",
-        "er": 2,
-        "h": 4,
-        "bb": 1,
-        "so": 9,
-        "era": 3.6
-      },
-      {
-        "date": "2026-08-10",
-        "opp": "vs TB",
-        "decision": null,
-        "ip": "7.0",
-        "er": 2,
-        "h": 5,
-        "bb": 1,
-        "so": 5,
-        "era": 2.57
-      },
-      {
-        "date": "2026-08-16",
-        "opp": "vs TEX",
-        "decision": null,
-        "ip": "6.0",
-        "er": 2,
-        "h": 5,
-        "bb": 2,
-        "so": 6,
-        "era": 3.0
-      }
-    ],
+    "away_pitcher_gamelog": [],
     "home_pitcher": "Hunter Brown",
     "home_pitcher_id": 686613,
     "home_pitcher_stats": {
@@ -4686,7 +4575,7 @@
     },
     "expected_score": {
       "away": 2.0,
-      "home": 1.8
+      "home": 1.9
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -4704,24 +4593,18 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 50.0,
+        "sp_score": 40.6,
         "sp_detail": {
-          "era": 4.3,
-          "whip": 1.27,
-          "k9": 10.0,
-          "avg_ip": 4.4,
-          "qs_rate": 20.0,
-          "last3_era": 2.22,
-          "last_start_era": 3.0,
-          "last2_eras": [
-            2.57,
-            3.0
-          ],
-          "recent_bad_start": false,
-          "trend": "hot",
-          "n_games": 10,
+          "era": 4.5,
+          "whip": 1.35,
+          "k9": 7.0,
+          "avg_ip": 5.0,
+          "qs_rate": 30.0,
+          "last3_era": 4.5,
+          "trend": "stable",
+          "n_games": 0,
           "sample_confidence": 1.0,
-          "rest_days": 6,
+          "rest_days": null,
           "rest_note": null,
           "age": 28,
           "fb_velo": 90.5,
@@ -4769,15 +4652,15 @@
             }
           ]
         },
-        "bp_score": 33.0,
+        "bp_score": 18.6,
         "bp_detail": {
-          "bullpen_era": 4.5,
-          "recent_era": 5.16,
-          "recent_appearances": 21,
-          "recent_ip": 22.7,
-          "team_era": 4.99,
-          "bp_ip": 228.0,
-          "bp_count": 8
+          "bullpen_era": 4.96,
+          "recent_era": 6.75,
+          "recent_appearances": 15,
+          "recent_ip": 17.3,
+          "team_era": 5.16,
+          "bp_ip": 130.7,
+          "bp_count": 6
         },
         "bat_score": 31.3,
         "bat_detail": {
@@ -4875,7 +4758,7 @@
           }
         },
         "sit_score": 34.7,
-        "total": 37.8
+        "total": 32.1
       },
       "home": {
         "sp_score": 45.1,
@@ -4947,9 +4830,9 @@
         "bp_score": 72.9,
         "bp_detail": {
           "bullpen_era": 3.1,
-          "recent_era": 1.33,
-          "recent_appearances": 16,
-          "recent_ip": 20.3,
+          "recent_era": 1.5,
+          "recent_appearances": 14,
+          "recent_ip": 18.0,
           "team_era": 3.82,
           "bp_ip": 299.3,
           "bp_count": 7
@@ -5055,7 +4938,7 @@
     },
     "scores": {
       "away_offense": 31.3,
-      "away_defense": 41.5,
+      "away_defense": 29.6,
       "home_offense": 23.6,
       "home_defense": 59.0
     },
@@ -5676,10 +5559,10 @@
         "bp_score": 80.0,
         "bp_detail": {
           "bullpen_era": 2.75,
-          "recent_era": 1.0,
-          "recent_appearances": 17,
-          "recent_ip": 27.0,
-          "team_era": 3.54,
+          "recent_era": 0.78,
+          "recent_appearances": 14,
+          "recent_ip": 23.0,
+          "team_era": 3.59,
           "bp_ip": 281.7,
           "bp_count": 7
         },
@@ -6228,15 +6111,15 @@
             }
           ]
         },
-        "bp_score": 56.5,
+        "bp_score": 52.8,
         "bp_detail": {
-          "bullpen_era": 3.29,
-          "recent_era": 4.15,
-          "recent_appearances": 20,
-          "recent_ip": 26.0,
-          "team_era": 3.36,
-          "bp_ip": 295.3,
-          "bp_count": 9
+          "bullpen_era": 3.3,
+          "recent_era": 4.76,
+          "recent_appearances": 17,
+          "recent_ip": 22.7,
+          "team_era": 3.37,
+          "bp_ip": 243.0,
+          "bp_count": 8
         },
         "bat_score": 27.4,
         "bat_detail": {
@@ -6334,7 +6217,7 @@
           }
         },
         "sit_score": 40.6,
-        "total": 40.2
+        "total": 39.5
       },
       "home": {
         "sp_score": 49.8,
@@ -6521,7 +6404,7 @@
     },
     "scores": {
       "away_offense": 27.4,
-      "away_defense": 51.2,
+      "away_defense": 49.4,
       "home_offense": 46.4,
       "home_defense": 51.3
     },
@@ -8248,15 +8131,15 @@
             }
           ]
         },
-        "bp_score": 48.8,
+        "bp_score": 49.9,
         "bp_detail": {
-          "bullpen_era": 3.89,
-          "recent_era": 3.95,
-          "recent_appearances": 18,
-          "recent_ip": 27.3,
-          "team_era": 4.16,
-          "bp_ip": 187.3,
-          "bp_count": 9
+          "bullpen_era": 3.77,
+          "recent_era": 4.3,
+          "recent_appearances": 15,
+          "recent_ip": 23.0,
+          "team_era": 4.13,
+          "bp_ip": 181.3,
+          "bp_count": 8
         },
         "bat_score": 25.6,
         "bat_detail": {
@@ -8354,7 +8237,7 @@
           }
         },
         "sit_score": 41.1,
-        "total": 36.3
+        "total": 36.6
       },
       "home": {
         "sp_score": 30.0,
@@ -8423,15 +8306,15 @@
             }
           ]
         },
-        "bp_score": 80.0,
+        "bp_score": 76.1,
         "bp_detail": {
-          "bullpen_era": 2.74,
-          "recent_era": 1.5,
-          "recent_appearances": 17,
-          "recent_ip": 18.0,
-          "team_era": 3.26,
-          "bp_ip": 240.0,
-          "bp_count": 7
+          "bullpen_era": 2.85,
+          "recent_era": 1.93,
+          "recent_appearances": 13,
+          "recent_ip": 14.0,
+          "team_era": 3.31,
+          "bp_ip": 199.0,
+          "bp_count": 6
         },
         "bat_score": 53.2,
         "bat_detail": {
@@ -8529,14 +8412,14 @@
           }
         },
         "sit_score": 54.6,
-        "total": 55.6
+        "total": 54.5
       }
     },
     "scores": {
       "away_offense": 25.6,
-      "away_defense": 40.0,
+      "away_defense": 40.5,
       "home_offense": 53.2,
-      "home_defense": 55.0
+      "home_defense": 53.0
     },
     "actual_score": {
       "away": null,
@@ -8901,7 +8784,7 @@
     },
     "expected_score": {
       "away": 1.2,
-      "home": 3.5
+      "home": 3.4
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -8977,12 +8860,12 @@
             }
           ]
         },
-        "bp_score": 43.5,
+        "bp_score": 49.4,
         "bp_detail": {
           "bullpen_era": 3.85,
-          "recent_era": 4.43,
-          "recent_appearances": 21,
-          "recent_ip": 22.3,
+          "recent_era": 3.86,
+          "recent_appearances": 15,
+          "recent_ip": 16.3,
           "team_era": 4.06,
           "bp_ip": 301.3,
           "bp_count": 8
@@ -9083,7 +8966,7 @@
           }
         },
         "sit_score": 43.6,
-        "total": 30.3
+        "total": 31.5
       },
       "home": {
         "sp_score": 72.0,
@@ -9157,7 +9040,7 @@
           "recent_era": 3.52,
           "recent_appearances": 16,
           "recent_ip": 15.3,
-          "team_era": 3.68,
+          "team_era": 3.48,
           "bp_ip": 294.0,
           "bp_count": 7
         },
@@ -9262,7 +9145,7 @@
     },
     "scores": {
       "away_offense": 20.2,
-      "away_defense": 35.8,
+      "away_defense": 38.7,
       "home_offense": 45.2,
       "home_defense": 67.5
     },
