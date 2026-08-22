@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-22T16:59:24.406142+00:00",
+  "updated_at": "2026-08-22T17:08:55.736447+00:00",
   "news": [
+    {
+      "title": "Vlad Jr. returning from IL as Blue Jays continue pivotal series vs. Yanks",
+      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-concussion-il-blue-jays-return",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jdqv53m1imcktdj2t3jf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-22T16:53:00+00:00",
+      "time_ago": "15m ago"
+    },
     {
       "title": "Stanton strains left calf while running, might not return in 2026",
       "link": "https://www.mlb.com/news/giancarlo-stanton-left-calf-strain-could-end-2026-season",
@@ -12,7 +25,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-22T16:48:00+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "20m ago"
     },
     {
       "title": "Breaking down 7 bullpens that could be headed to postseason",
@@ -25,20 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T16:30:00+00:00",
-      "time_ago": "29m ago"
-    },
-    {
-      "title": "Vlad Jr. returning from IL as Blue Jays continue pivotal series vs. Yanks",
-      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-concussion-il-blue-jays-return",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jdqv53m1imcktdj2t3jf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-22T16:08:00+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "10 slow starters who have turned their seasons around",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T06:00:47+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     }
   ]
 }
