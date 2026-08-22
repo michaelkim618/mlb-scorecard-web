@@ -9562,6 +9562,28 @@
       "away_bp_score": 74.6,
       "home_bp_score": 71.5,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-22",
+      "away": "Washington Nationals",
+      "home": "Miami Marlins",
+      "game_number": 1,
+      "pick": "Miami Marlins",
+      "pick_prob": 67.5,
+      "actual_winner": "Miami Marlins",
+      "correct": true,
+      "high_conf": true,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "hot",
+      "away_sp_era": 6.7,
+      "home_sp_era": 1.79,
+      "away_bp_era": 4.12,
+      "home_bp_era": 4.32,
+      "away_sp_score": 27.2,
+      "home_sp_score": 72.0,
+      "away_bp_score": 46.7,
+      "home_bp_score": 31.2,
+      "bat_source": "lineup"
     }
   ],
   "summary": {

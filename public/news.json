@@ -1,31 +1,18 @@
 {
-  "updated_at": "2026-08-22T21:58:41.924109+00:00",
+  "updated_at": "2026-08-22T22:51:47.533062+00:00",
   "news": [
     {
-      "title": "It's nearly Kade O'Clock: Top prospect ready for highly anticipated debut",
-      "link": "https://www.mlb.com/news/kade-anderson-to-make-mlb-debut-bryan-woo-s-start-pushed",
-      "summary": "Woo pushed back but not expected to land on IL; Vargas activated",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fkwdtnbyw8crghxk9h4l",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-22T21:55:00+00:00",
-      "time_ago": "3m ago"
-    },
-    {
-      "title": "Dylan Cease boosts Cy Young case against Yankees",
-      "link": "https://www.mlb.com/news/dylan-cease-boosts-cy-young-case-against-yankees",
+      "title": "Dodgers call up former D-backs OF Thomas as Pages heads to IL",
+      "link": "https://www.mlb.com/news/alek-thomas-dodgers-callup-andy-pages-injured-list",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787434003/mlb/mjja1v2rxo3kbre74pmd",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/icop8ylbyztd7mgt7eg7",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-08-22T21:46:00+00:00",
-      "time_ago": "12m ago"
+      "author": "Sonja Chen",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-22T22:46:00+00:00",
+      "time_ago": "5m ago"
     },
     {
       "title": "Everything you need to know about 2026 Little League Classic (ESPN, Sunday, 7 p.m. ET)",
@@ -37,8 +24,73 @@
       "author": "Mark Bowman and Adam McCalvy",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-22T21:44:00+00:00",
-      "time_ago": "14m ago"
+      "pub_date": "2026-08-22T22:46:00+00:00",
+      "time_ago": "5m ago"
+    },
+    {
+      "title": "Bauers' 'best at-bat of my life' culminates in clutch HR on 12th pitch",
+      "link": "https://www.mlb.com/news/jake-bauers-homers-as-brewers-beat-braves",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787430595/mlb/hstrsnaioxtquwxola8x",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Casey Drottar",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-22T22:40:00+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Weathers exits start with forearm discomfort, will undergo imaging",
+      "link": "https://www.mlb.com/news/ryan-weathers-exits-yankees-game-with-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787427506/mlb/bvo5lfo1zzplbwicrkiv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-22T22:28:00+00:00",
+      "time_ago": "23m ago"
+    },
+    {
+      "title": "If it were up to Ohtani, he'd be pitching 'in a few days'",
+      "link": "https://www.mlb.com/news/shohei-ohtani-progress-toward-pitching-return",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f9h7lvsqecm31ak4f18s",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-22T22:26:41+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "Dylan Cease boosts Cy Young case against Yankees",
+      "link": "https://www.mlb.com/news/dylan-cease-boosts-cy-young-case-against-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787434003/mlb/mjja1v2rxo3kbre74pmd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-08-22T22:04:00+00:00",
+      "time_ago": "47m ago"
+    },
+    {
+      "title": "It's nearly Kade O'Clock: Top prospect ready for highly anticipated debut",
+      "link": "https://www.mlb.com/news/kade-anderson-to-make-mlb-debut-bryan-woo-s-start-pushed",
+      "summary": "Woo pushed back but not expected to land on IL; Vargas activated",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fkwdtnbyw8crghxk9h4l",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-22T21:55:00+00:00",
+      "time_ago": "56m ago"
     },
     {
       "title": "‘I’m ready to go’: Bellinger (hamstring) eyeing Sunday return to Yanks",
@@ -51,58 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T21:44:00+00:00",
-      "time_ago": "14m ago"
-    },
-    {
-      "title": "Cardinals place Dobbins (flexor strain) on IL, recall Mathews to start at Philly",
-      "link": "https://www.mlb.com/news/hunter-dobbins-cardinals-injured-list-right-flexor-strain",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787433125/mlb/f33kjiylsqbmn6wv9kzr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aaron Bracy",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-22T21:17:43+00:00",
-      "time_ago": "40m ago"
-    },
-    {
-      "title": "Vlad Jr. returns from IL as Blue Jays continue pivotal series vs. Yanks",
-      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-concussion-il-blue-jays-return",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787422303/mlb/ec2l9dbnixksriwwmrzv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-22T21:08:00+00:00",
-      "time_ago": "50m ago"
-    },
-    {
-      "title": "Weathers exits start against Blue Jays with forearm discomfort",
-      "link": "https://www.mlb.com/news/ryan-weathers-exits-yankees-game-with-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787427506/mlb/bvo5lfo1zzplbwicrkiv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-22T20:59:00+00:00",
-      "time_ago": "59m ago"
-    },
-    {
-      "title": "Bauers sees 11 pitches for a walk -- then goes one better for big HR",
-      "link": "https://www.mlb.com/news/jake-bauers-homers-as-brewers-beat-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787430595/mlb/hstrsnaioxtquwxola8x",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Casey Drottar",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-22T20:55:19+00:00",
       "time_ago": "1h ago"
     }
   ]

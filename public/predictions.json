@@ -2226,9 +2226,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Miami Marlins",
     "model_winner": "Miami Marlins",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Washington Nationals IL: Connelly Early, DJ Herz, Drew Millas, James Wood, Josiah Gray 외 다수 / Miami Marlins IL: Adam Mazur, Andrew Nardi, Anthony Bender, Kyle Stowers, Max Meyer 외 다수",
     "kalshi_prob": 88.0,
     "edge": -20.5,
