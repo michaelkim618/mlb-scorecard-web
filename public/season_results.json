@@ -9496,6 +9496,28 @@
       "away_bp_score": 47.8,
       "home_bp_score": 42.0,
       "bat_source": "team_stats"
+    },
+    {
+      "date": "2026-08-21",
+      "away": "Pittsburgh Pirates",
+      "home": "Los Angeles Dodgers",
+      "game_number": 1,
+      "pick": "Los Angeles Dodgers",
+      "pick_prob": 60.0,
+      "actual_winner": "Los Angeles Dodgers",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "hot",
+      "away_sp_era": 3.54,
+      "home_sp_era": 2.51,
+      "away_bp_era": 3.34,
+      "home_bp_era": 3.16,
+      "away_sp_score": 46.6,
+      "home_sp_score": 69.8,
+      "away_bp_score": 50.2,
+      "home_bp_score": 65.0,
+      "bat_source": "team_stats"
     }
   ],
   "summary": {
