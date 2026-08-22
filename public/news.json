@@ -1,18 +1,31 @@
 {
-  "updated_at": "2026-08-22T19:38:53.152388+00:00",
+  "updated_at": "2026-08-22T19:49:05.273672+00:00",
   "news": [
+    {
+      "title": "Dodgers call up former D-backs OF Thomas as Pages heads to IL",
+      "link": "https://www.mlb.com/news/alek-thomas-dodgers-callup-andy-pages-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/icop8ylbyztd7mgt7eg7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-22T19:42:55+00:00",
+      "time_ago": "6m ago"
+    },
     {
       "title": "Weathers exits start against Blue Jays with forearm discomfort",
       "link": "https://www.mlb.com/news/ryan-weathers-exits-yankees-game-with-injury",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787424393/mlb/mu1ic9nbxidbbmkixc8a",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787427506/mlb/bvo5lfo1zzplbwicrkiv",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Bryan Hoch",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-22T19:13:00+00:00",
-      "time_ago": "25m ago"
+      "pub_date": "2026-08-22T19:38:00+00:00",
+      "time_ago": "11m ago"
     },
     {
       "title": "Vlad Jr. returns from IL as Blue Jays continue pivotal series vs. Yanks",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T17:01:42+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "‘I’m ready to go’: Bellinger (hamstring) eyeing Sunday return to Yanks",
-      "link": "https://www.mlb.com/news/cody-bellinger-yankees-hamstring-injury-rehab",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a3ogjd8vuhmvxnm09o5b",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-22T17:00:00+00:00",
       "time_ago": "2h ago"
     }
   ]
