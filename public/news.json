@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-08-21T23:51:25.818797+00:00",
+  "updated_at": "2026-08-22T00:03:08.426713+00:00",
   "news": [
+    {
+      "title": "A's place Wilson (shoulder) on IL; Kurtz (thumb) also out for rest of season",
+      "link": "https://www.mlb.com/news/jacob-wilson-nick-kurtz-expected-to-miss-rest-of-2026-season",
+      "summary": "Soderstrom undergoes hip surgery; Rashi, Stefanic, Morris promoted from Triple-A",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786301631/mlb/h2qcxjjyvih5udhvrszf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jeremy Rakes and Jackson Stone",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-21T23:47:24+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "This Ray wearing Players' Weekend cleats from ... Lisa Simpson?",
+      "link": "https://www.mlb.com/news/richie-palacios-has-lisa-simpson-cleats-for-players-weekend",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/squav5jfpcjfujlonwqd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-21T23:45:53+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Pallante placed on 15-day IL with right elbow inflammation",
+      "link": "https://www.mlb.com/news/andre-pallante-placed-on-injured-list-with-elbow-inflammation",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/u1x4ixwawtnsg2xschlt",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aaron Bracy",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-21T23:44:45+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Robert returns to South Side for 1st time as visitor",
+      "link": "https://www.mlb.com/news/luis-robert-jr-miguel-vargas-reunite-mets-white-sox",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787355141/mlb/h1vhj9nzhl9bcpj7i9ju",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-21T23:42:44+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "Devers 'very happy to be back' at Fenway with Giants",
+      "link": "https://www.mlb.com/news/rafael-devers-makes-his-return-to-fenway-park",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ibx2rr3tcn2zromsdm5q",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Greg Levinsky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-21T23:42:00+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "Kade Anderson joins Skenes, Strasburg as college aces to enjoy meteoric rise",
+      "link": "https://www.mlb.com/news/kade-anderson-among-top-pitching-prospects-past-20-years",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j1hkgtkxiegv6nksljek",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jonathan Mayo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-21T23:40:00+00:00",
+      "time_ago": "23m ago"
+    },
     {
       "title": "Kade Anderson set to join list of biggest pitching debuts of the past 20+ years",
       "link": "https://www.mlb.com/news/biggest-pitching-prospect-debuts",
@@ -12,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-21T23:17:00+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "46m ago"
     },
     {
       "title": "Blue Jays expect Vlad back Saturday for pivotal Yankees series",
@@ -25,85 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-21T23:02:04+00:00",
-      "time_ago": "49m ago"
-    },
-    {
-      "title": "Devers 'very happy to be back' at Fenway with Giants",
-      "link": "https://www.mlb.com/news/rafael-devers-makes-his-return-to-fenway-park",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ibx2rr3tcn2zromsdm5q",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Greg Levinsky",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-21T22:58:50+00:00",
-      "time_ago": "52m ago"
-    },
-    {
-      "title": "WOW! Acuña denies Lara extra bases on 92.3 mph throw from right field",
-      "link": "https://www.mlb.com/news/ronald-acuna-jr-throws-out-luis-lara-at-second-base",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wqpwjs1wsiyh4s7ghpdw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-21T22:56:00+00:00",
-      "time_ago": "55m ago"
-    },
-    {
-      "title": "Sale not dominant, but still effective vs. Crew over 6 innings",
-      "link": "https://www.mlb.com/news/chris-sale-allows-two-runs-in-six-innings-against-brewers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jq0zoczlj8brr1mzfkbi",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-21T22:52:00+00:00",
-      "time_ago": "59m ago"
-    },
-    {
-      "title": "Peña (hand) out of Astros' lineup for second straight game on Friday",
-      "link": "https://www.mlb.com/news/jeremy-pena-exits-with-right-hand-contusion-vs-angels",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787189197/mlb/p2hrchuucakk6e7whjsn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-08-21T22:46:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Miz outduels Sale in battle of aces that lived up to the hype",
-      "link": "https://www.mlb.com/news/jacob-misiorowski-scoreless-start-vs-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tjs5ml5kjvtxzbvpb6js",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-21T22:34:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Winn (left thumb injury) not in starting lineup for 2nd straight game",
-      "link": "https://www.mlb.com/news/masyn-winn-out-of-cardinals-starting-lineup-with-left-thumb-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gvpecaphxxhxzvobkc2r",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aaron Bracy",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-21T21:37:13+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
