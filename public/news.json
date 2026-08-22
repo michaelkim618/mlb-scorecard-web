@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-22T05:57:57.367079+00:00",
+  "updated_at": "2026-08-22T07:24:13.358434+00:00",
   "news": [
+    {
+      "title": "'Just got to keep fighting': Mariners walk off in extras thanks to Rivas",
+      "link": "https://www.mlb.com/news/leo-rivas-hits-walk-off-single-as-mariners-win-vs-cubs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787375688/mlb/ctcrvorc0xzmcme8zooq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-22T06:43:00+00:00",
+      "time_ago": "41m ago"
+    },
+    {
+      "title": "Pages fractures hand on hit-by-pitch, expected to miss at least 4 weeks",
+      "link": "https://www.mlb.com/news/andy-pages-exits-game-after-hit-by-pitch",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kzmwy9xkhrvwlcvofgml",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-22T06:38:00+00:00",
+      "time_ago": "46m ago"
+    },
+    {
+      "title": "Happy Birthday, you're outta here! Counsell tossed over balk call",
+      "link": "https://www.mlb.com/news/craig-counsell-ejected-on-birthday-over-balk-call",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787371188/mlb/vnym1wvdky1rrshgqi6d",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-22T06:24:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "French connection! Ty goes deep with baguette bat",
+      "link": "https://www.mlb.com/news/ty-france-homers-with-baguette-bat-during-players-weekend",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ivis8prhogybnduvmkya",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-22T06:00:47+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Bazzana's 4-hit game gets Guards back-to-back W's for 1st time in a month",
       "link": "https://www.mlb.com/news/travis-bazzana-records-four-hits-in-win-vs-rockies",
@@ -12,20 +64,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T05:38:00+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "1h ago"
     },
     {
-      "title": "Yamamoto sets tone with another quality start, then Edman walks it off",
+      "title": "Edman's walk off the cherry on top after Yamamoto serves up another quality start",
       "link": "https://www.mlb.com/news/yoshinobu-yamamoto-has-quality-start-in-opener-vs-pirates",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ouuwlsz6dtxclezpynay",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nvsbvwfonm2hjtlxsyqa",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T05:35:00+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Which contenders’ bullpens are built to hold up for the stretch run?",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T05:31:34+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "10 slow starters who have turned their seasons around",
@@ -51,58 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T05:31:00+00:00",
-      "time_ago": "26m ago"
-    },
-    {
-      "title": "Wesneski powers through return from Tommy John surgery in win vs. A's",
-      "link": "https://www.mlb.com/news/hayden-wesneski-throws-five-scoreless-innings",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eisic4enk651rflxkwuz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-22T05:23:00+00:00",
-      "time_ago": "34m ago"
-    },
-    {
-      "title": "Rivas the extra-innings hero for Mariners in walk-off win",
-      "link": "https://www.mlb.com/news/leo-rivas-hits-walk-off-single-as-mariners-win-vs-cubs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787375688/mlb/ctcrvorc0xzmcme8zooq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-22T05:17:37+00:00",
-      "time_ago": "40m ago"
-    },
-    {
-      "title": "Marte, D-backs have 'very productive meeting,' hope to get back to baseball",
-      "link": "https://www.mlb.com/news/ketel-marte-productive-meeting-with-diamondbacks",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787357863/mlb/ndwgmtmgpwkwdvyzyywr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-22T04:33:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Waiver claim Rogers lifts White Sox with walk-off HR vs. Mets",
-      "link": "https://www.mlb.com/news/jake-rogers-walk-off-hr-white-sox-vs-mets",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787366118/mlb/ifywdemkmchvxkakkgbc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-22T04:20:00+00:00",
       "time_ago": "1h ago"
     }
   ]
