@@ -10011,8 +10011,8 @@
     "model_winner": "Cleveland Guardians",
     "model_correct": null,
     "notes": "Cleveland Guardians IL: Rhys Hoskins, Shawn Armstrong, Slade Cecconi / Colorado Rockies IL: Chase Dollander, Hunter Goodman, Jose Quintana, Kris Bryant, McCade Brown 외 다수",
-    "kalshi_prob": 43.0,
-    "edge": -3.0,
+    "kalshi_prob": 42.0,
+    "edge": -2.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
