@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-22T19:07:53.483338+00:00",
+  "updated_at": "2026-08-22T19:38:53.152388+00:00",
   "news": [
+    {
+      "title": "Weathers exits start against Blue Jays with forearm discomfort",
+      "link": "https://www.mlb.com/news/ryan-weathers-exits-yankees-game-with-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787424393/mlb/mu1ic9nbxidbbmkixc8a",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-22T19:13:00+00:00",
+      "time_ago": "25m ago"
+    },
     {
       "title": "Vlad Jr. returns from IL as Blue Jays continue pivotal series vs. Yanks",
       "link": "https://www.mlb.com/news/vladimir-guerrero-jr-concussion-il-blue-jays-return",
@@ -12,7 +25,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-22T18:11:00+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Woodruff won't need shoulder surgery, holds out faint hope for '26 return",
@@ -38,7 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-22T17:33:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "TWIB: Relive the iconic MLB at Field of Dreams Game",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T17:26:08+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Injuries: Yankees, Dodgers, Peña, Crochet, Abrams",
@@ -64,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-22T17:26:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Everything you need to know about 2026 Little League Classic (ESPN, Sunday, 7 p.m. ET)",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T17:00:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Breaking down 7 bullpens that could be headed to postseason",
-      "link": "https://www.mlb.com/news/mlb-bullpens-that-are-built-for-stretch-run",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ayitvspp85fentv9akr3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Travis Sawchik",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-22T16:30:00+00:00",
       "time_ago": "2h ago"
     }
   ]
