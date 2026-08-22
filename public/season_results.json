@@ -9474,6 +9474,28 @@
       "away_bp_score": 48.0,
       "home_bp_score": 60.9,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-21",
+      "away": "Chicago Cubs",
+      "home": "Seattle Mariners",
+      "game_number": 1,
+      "pick": "Chicago Cubs",
+      "pick_prob": 61.4,
+      "actual_winner": "Seattle Mariners",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "stable",
+      "away_sp_era": 3.25,
+      "home_sp_era": 4.13,
+      "away_bp_era": 3.36,
+      "home_bp_era": 3.84,
+      "away_sp_score": 48.4,
+      "home_sp_score": 45.2,
+      "away_bp_score": 47.8,
+      "home_bp_score": 42.0,
+      "bat_source": "team_stats"
     }
   ],
   "summary": {

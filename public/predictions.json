@@ -10778,9 +10778,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Seattle Mariners",
     "model_winner": "Chicago Cubs",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Chicago Cubs IL: Ben Brown, Cade Horton, Daniel Palencia, Dansby Swanson, Edward Cabrera 외 다수 / Seattle Mariners IL: Carlos Vargas, Cole Wilcox, Colt Emerson, Cooper Criswell, J.P. Crawford 외 다수",
     "kalshi_prob": null,
     "edge": null,
