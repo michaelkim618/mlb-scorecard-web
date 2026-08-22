@@ -517,6 +517,8 @@ function SummaryBadges({ game, pickProb, awayColor, homeColor, awayName, homeNam
   // 3. Win probability strength
   if (pickProb >= 65) {
     badges.push(<Chip key="conf" bg="#FEF3C7" color="#78350F" border="#FCD34D">⭐ Premium Pick · {pickProb}% Win Prob</Chip>);
+  } else if (pickProb >= 63) {
+    badges.push(<Chip key="conf" bg="#FEF9C3" color="#713F12" border="#FDE047">🔥 High Confidence · {pickProb}% Win Prob</Chip>);
   } else if (pickProb >= 60) {
     badges.push(<Chip key="conf" bg="#EFF6FF" color="#1D4ED8" border="#BFDBFE">📊 Lean {pickProb}%</Chip>);
   } else if (pickProb < 55) {
@@ -619,7 +621,7 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
   const awayStreak = awayForm?.streak ?? 0;
   const homeStreak = homeForm?.streak ?? 0;
 
-  const isHighConf = pickProb >= 65;
+  const isHighConf = pickProb >= 63;
   const isTossUp   = pickProb < 55;
   const isDone     = game.model_correct !== null && game.model_correct !== undefined;
   const isCorrect  = game.model_correct === true;
