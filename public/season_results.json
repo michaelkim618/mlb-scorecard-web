@@ -9452,6 +9452,28 @@
       "away_bp_score": 56.3,
       "home_bp_score": 77.2,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-21",
+      "away": "Cincinnati Reds",
+      "home": "Arizona Diamondbacks",
+      "game_number": 1,
+      "pick": "Arizona Diamondbacks",
+      "pick_prob": 60.0,
+      "actual_winner": "Arizona Diamondbacks",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "stable",
+      "away_sp_era": 4.09,
+      "home_sp_era": 3.1,
+      "away_bp_era": 3.82,
+      "home_bp_era": 3.22,
+      "away_sp_score": 43.7,
+      "home_sp_score": 60.1,
+      "away_bp_score": 48.0,
+      "home_bp_score": 60.9,
+      "bat_source": "lineup"
     }
   ],
   "summary": {
