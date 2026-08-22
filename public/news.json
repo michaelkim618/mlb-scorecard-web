@@ -1,31 +1,44 @@
 {
-  "updated_at": "2026-08-22T21:06:38.056806+00:00",
+  "updated_at": "2026-08-22T21:52:24.356773+00:00",
   "news": [
     {
-      "title": "Dodgers call up former D-backs OF Thomas as Pages heads to IL",
-      "link": "https://www.mlb.com/news/alek-thomas-dodgers-callup-andy-pages-injured-list",
+      "title": "Everything you need to know about 2026 Little League Classic (ESPN, Sunday, 7 p.m. ET)",
+      "link": "https://www.mlb.com/news/little-league-classic-2026-date-matchup-location-and-more",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/icop8ylbyztd7mgt7eg7",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/i1dtojdhbfevscqvrzsk",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-22T19:42:55+00:00",
-      "time_ago": "1h ago"
+      "author": "Mark Bowman and Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-22T21:44:00+00:00",
+      "time_ago": "8m ago"
     },
     {
-      "title": "Weathers exits start against Blue Jays with forearm discomfort",
-      "link": "https://www.mlb.com/news/ryan-weathers-exits-yankees-game-with-injury",
+      "title": "‘I’m ready to go’: Bellinger (hamstring) eyeing Sunday return to Yanks",
+      "link": "https://www.mlb.com/news/cody-bellinger-yankees-hamstring-injury-rehab",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787427506/mlb/bvo5lfo1zzplbwicrkiv",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a3ogjd8vuhmvxnm09o5b",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Bryan Hoch",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-22T19:38:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-08-22T21:44:00+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Cardinals place Dobbins (flexor strain) on IL, recall Mathews to start at Philly",
+      "link": "https://www.mlb.com/news/hunter-dobbins-cardinals-injured-list-right-flexor-strain",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787433125/mlb/f33kjiylsqbmn6wv9kzr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aaron Bracy",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-22T21:17:43+00:00",
+      "time_ago": "34m ago"
     },
     {
       "title": "Vlad Jr. returns from IL as Blue Jays continue pivotal series vs. Yanks",
@@ -37,73 +50,60 @@
       "author": "Keegan Matheson",
       "tag": "Injury",
       "tag_color": "#DC2626",
-      "pub_date": "2026-08-22T18:11:00+00:00",
-      "time_ago": "2h ago"
+      "pub_date": "2026-08-22T21:08:00+00:00",
+      "time_ago": "44m ago"
     },
     {
-      "title": "Woodruff won't need shoulder surgery, holds out faint hope for '26 return",
-      "link": "https://www.mlb.com/news/brandon-woodruff-says-he-won-t-need-shoulder-surgery",
+      "title": "Dylan Cease boosts Cy Young case against Yankees",
+      "link": "https://www.mlb.com/news/dylan-cease-boosts-cy-young-case-against-yankees",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787418388/mlb/y5yp29kvlmlzgbmvwt3w",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787434003/mlb/mjja1v2rxo3kbre74pmd",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Casey Drottar",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-22T17:57:59+00:00",
-      "time_ago": "3h ago"
+      "author": "Keegan Matheson",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-08-22T21:04:12+00:00",
+      "time_ago": "48m ago"
     },
     {
-      "title": "Stanton strains left calf while running, might not return in 2026",
-      "link": "https://www.mlb.com/news/giancarlo-stanton-left-calf-strain-could-end-2026-season",
+      "title": "Weathers exits start against Blue Jays with forearm discomfort",
+      "link": "https://www.mlb.com/news/ryan-weathers-exits-yankees-game-with-injury",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tj0zdi1fjudx2xh7cnco",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787427506/mlb/bvo5lfo1zzplbwicrkiv",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Bryan Hoch",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-22T17:33:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "TWIB: Relive the iconic MLB at Field of Dreams Game",
-      "link": "https://www.mlb.com/news/mlb-at-field-of-dreams-game-highlights-this-week-in-baseball",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dfcagqx90ytqiyrvoslo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-22T17:26:08+00:00",
-      "time_ago": "3h ago"
+      "pub_date": "2026-08-22T20:59:00+00:00",
+      "time_ago": "53m ago"
     },
     {
-      "title": "Injuries: Yankees, Dodgers, Peña, Crochet, Abrams",
-      "link": "https://www.mlb.com/news/baseball-injury-updates",
+      "title": "Bauers sees 11 pitches for a walk -- then goes one better for big HR",
+      "link": "https://www.mlb.com/news/jake-bauers-homers-as-brewers-beat-braves",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ckxdrr92h5atndn6rqvp",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787430595/mlb/hstrsnaioxtquwxola8x",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Casey Drottar",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-22T20:55:19+00:00",
+      "time_ago": "57m ago"
+    },
+    {
+      "title": "Dodgers call up former D-backs OF Thomas as Pages heads to IL",
+      "link": "https://www.mlb.com/news/alek-thomas-dodgers-callup-andy-pages-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/icop8ylbyztd7mgt7eg7",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "",
       "tag": "Injury",
       "tag_color": "#DC2626",
-      "pub_date": "2026-08-22T17:26:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Everything you need to know about 2026 Little League Classic (ESPN, Sunday, 7 p.m. ET)",
-      "link": "https://www.mlb.com/news/little-league-classic-2026-date-matchup-location-and-more",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dlufbogplvsjvoqyucqg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman and Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-22T17:01:42+00:00",
-      "time_ago": "4h ago"
+      "pub_date": "2026-08-22T19:42:55+00:00",
+      "time_ago": "2h ago"
     }
   ]
 }
