@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-08-21-daily-doc",
+      "title": "Aug 21 Results: Win Probability Validation at 80%",
+      "author": "Doc",
+      "author_emoji": "🧠",
+      "author_color": "#7C3AED",
+      "author_role": "Sabermetrician",
+      "date": "2026-08-21",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#7C3AED",
+      "read_time": "3 min",
+      "summary": "Aug 21 model validation: 12-3 performance with strong correlation to confidence levels"
+    },
+    {
       "slug": "2026-08-19-daily-hana",
       "title": "Aug 19 Results + Aug 20 Preview: Sixty Percent Never Felt So Good",
       "author": "Hana",
