@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-22T04:07:01.818887+00:00",
+  "updated_at": "2026-08-22T04:17:39.245779+00:00",
   "news": [
+    {
+      "title": "Happy Birthday, you're outta here! Counsell tossed over balk call",
+      "link": "https://www.mlb.com/news/craig-counsell-ejected-on-birthday-over-balk-call",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787371188/mlb/vnym1wvdky1rrshgqi6d",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-22T04:04:48+00:00",
+      "time_ago": "12m ago"
+    },
     {
       "title": "To infinity and GONE! Isbel blasts off with Buzz Lightyear Players' Weekend bat",
       "link": "https://www.mlb.com/news/kyle-isbel-homers-with-buzz-lightyear-bat-for-players-weekend",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T03:55:00+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "22m ago"
     },
     {
       "title": "Andy Pages exits game in 5th inning after being hit by pitch in 3rd",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T03:50:58+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "26m ago"
     },
     {
       "title": "Bazzana's 4-hit game gets Guards back-to-back W's for 1st time in a month",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T03:49:00+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "28m ago"
     },
     {
       "title": "How far did Contreras' blast go? We'll let you know whenever it lands",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T03:32:00+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "Alonso's 30th homer -- for real this time -- is his latest big swing for O's",
@@ -64,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-22T03:20:00+00:00",
-      "time_ago": "47m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "Wesneski, Alvarez get Astros back on track during rough homestand",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T03:19:59+00:00",
-      "time_ago": "47m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "Devers 'very happy to be back' at Fenway, proves it with massive HR",
@@ -90,19 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-22T03:03:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Big inning sinks Rays after Cash ejected arguing check-swing call",
-      "link": "https://www.mlb.com/news/kevin-cash-ejected-arguing-check-swing-call-vs-orioles",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/i9co0w8iibedgo08jpkz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-22T03:01:00+00:00",
       "time_ago": "1h ago"
     }
   ]
