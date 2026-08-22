@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T17:08:55.736447+00:00",
+  "updated_at": "2026-08-22T17:43:48.954217+00:00",
   "news": [
     {
       "title": "Vlad Jr. returning from IL as Blue Jays continue pivotal series vs. Yanks",
@@ -11,8 +11,8 @@
       "author": "Keegan Matheson",
       "tag": "Injury",
       "tag_color": "#DC2626",
-      "pub_date": "2026-08-22T16:53:00+00:00",
-      "time_ago": "15m ago"
+      "pub_date": "2026-08-22T17:34:00+00:00",
+      "time_ago": "9m ago"
     },
     {
       "title": "Stanton strains left calf while running, might not return in 2026",
@@ -24,8 +24,47 @@
       "author": "Bryan Hoch",
       "tag": "Injury",
       "tag_color": "#DC2626",
-      "pub_date": "2026-08-22T16:48:00+00:00",
-      "time_ago": "20m ago"
+      "pub_date": "2026-08-22T17:33:00+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "TWIB: Relive the iconic MLB at Field of Dreams Game",
+      "link": "https://www.mlb.com/news/mlb-at-field-of-dreams-game-highlights-this-week-in-baseball",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dfcagqx90ytqiyrvoslo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-22T17:26:08+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Injuries: Yankees, Dodgers, Peña, Crochet, Abrams",
+      "link": "https://www.mlb.com/news/baseball-injury-updates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ckxdrr92h5atndn6rqvp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-22T17:26:00+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "‘I’m ready to go’: Bellinger (hamstring) eyeing Sunday return to Yanks",
+      "link": "https://www.mlb.com/news/cody-bellinger-yankees-hamstring-injury-rehab",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a3ogjd8vuhmvxnm09o5b",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-22T17:00:00+00:00",
+      "time_ago": "43m ago"
     },
     {
       "title": "Breaking down 7 bullpens that could be headed to postseason",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T16:30:00+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "10 slow starters who have turned their seasons around",
@@ -51,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T15:35:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "'Just got to keep fighting': Mariners walk off in extras thanks to Rivas",
-      "link": "https://www.mlb.com/news/leo-rivas-hits-walk-off-single-as-mariners-win-vs-cubs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787375688/mlb/ctcrvorc0xzmcme8zooq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-22T06:43:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Pages fractures hand on hit-by-pitch, expected to miss at least 4 weeks",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T06:38:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Happy Birthday, you're outta here! Counsell tossed over balk call",
-      "link": "https://www.mlb.com/news/craig-counsell-ejected-on-birthday-over-balk-call",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787371188/mlb/vnym1wvdky1rrshgqi6d",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-22T06:24:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "French connection! Ty goes deep with baguette bat",
-      "link": "https://www.mlb.com/news/ty-france-homers-with-baguette-bat-during-players-weekend",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ivis8prhogybnduvmkya",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-22T06:00:47+00:00",
       "time_ago": "11h ago"
     }
   ]
