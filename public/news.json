@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-22T15:48:56.555487+00:00",
+  "updated_at": "2026-08-22T16:59:24.406142+00:00",
   "news": [
+    {
+      "title": "Stanton strains left calf while running, might not return in 2026",
+      "link": "https://www.mlb.com/news/giancarlo-stanton-left-calf-strain-could-end-2026-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tj0zdi1fjudx2xh7cnco",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-22T16:48:00+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Breaking down 7 bullpens that could be headed to postseason",
+      "link": "https://www.mlb.com/news/mlb-bullpens-that-are-built-for-stretch-run",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ayitvspp85fentv9akr3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Travis Sawchik",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-22T16:30:00+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "Vlad Jr. returning from IL as Blue Jays continue pivotal series vs. Yanks",
+      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-concussion-il-blue-jays-return",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jdqv53m1imcktdj2t3jf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-22T16:08:00+00:00",
+      "time_ago": "51m ago"
+    },
     {
       "title": "10 slow starters who have turned their seasons around",
       "link": "https://www.mlb.com/news/10-slow-starters-who-have-turned-their-2026-seasons-around",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T15:35:00+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'Just got to keep fighting': Mariners walk off in extras thanks to Rivas",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T06:43:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "Pages fractures hand on hit-by-pitch, expected to miss at least 4 weeks",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T06:38:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "Happy Birthday, you're outta here! Counsell tossed over balk call",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T06:24:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "French connection! Ty goes deep with baguette bat",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-22T06:00:47+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "Bazzana's 4-hit game gets Guards back-to-back W's for 1st time in a month",
-      "link": "https://www.mlb.com/news/travis-bazzana-records-four-hits-in-win-vs-rockies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vltqdzptlk8plwqq2qod",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-22T05:38:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Edman's walk off the cherry on top after Yamamoto serves up another quality start",
-      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-has-quality-start-in-opener-vs-pirates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nvsbvwfonm2hjtlxsyqa",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-22T05:35:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Which contenders’ bullpens are built to hold up for the stretch run?",
-      "link": "https://www.mlb.com/news/mlb-bullpens-that-are-built-for-stretch-run",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ayitvspp85fentv9akr3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Travis Sawchik",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-22T05:31:34+00:00",
       "time_ago": "10h ago"
     }
   ]
