@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-23T04:05:51.023002+00:00",
+  "updated_at": "2026-08-23T04:21:50.451113+00:00",
   "news": [
+    {
+      "title": "Everything you need to know about 2026 Little League Classic (7 p.m. ET on ESPN)",
+      "link": "https://www.mlb.com/news/little-league-classic-2026-date-matchup-location-and-more",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/i1dtojdhbfevscqvrzsk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman and Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-23T04:05:00+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "KC Buzzing over 7 in a row! Isbel quite the web slinger with Spider-Man bat",
+      "link": "https://www.mlb.com/news/kyle-isbel-homers-with-spider-man-bat-on-players-weekend",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787454595/mlb/wkotca9frospq1fw3s3a",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anne Rogers",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-23T04:05:00+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "‘That’s the guy that we needed’: Skubal (11 K's) shows Dodgers what he can do",
       "link": "https://www.mlb.com/news/tarik-skubal-11-strikeouts-seven-innings-dodgers-pirates",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-23T03:50:00+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "31m ago"
     },
     {
       "title": "It's gotta be the stirrups! O's walk it off after teamwide wardrobe change",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-23T03:39:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "Have a day, Bleday! Reds outfielder hits for 4th cycle in MLB this season",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-23T03:20:00+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Fenway frenzy! Sox walk off Giants with furious rally in 9th",
@@ -77,32 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-23T02:44:31+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Injuries: Yankees, Dodgers, Crochet, Woodruff, Soto, Abrams",
-      "link": "https://www.mlb.com/news/baseball-injury-updates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ckxdrr92h5atndn6rqvp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-23T02:30:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Is this the catch of 2026?! Minor League outfielder makes jaw-dropping robbery",
-      "link": "https://www.mlb.com/news/red-sox-prospect-will-turner-home-run-robbery",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/golxhhxlbmgnqg5z7kyc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Crowley",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-23T02:27:00+00:00",
       "time_ago": "1h ago"
     }
   ]
