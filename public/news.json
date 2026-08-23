@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-23T20:52:07.397164+00:00",
+  "updated_at": "2026-08-23T21:00:54.614091+00:00",
   "news": [
+    {
+      "title": "Martinez twirls six innings of one-hit ball in win over Orioles",
+      "link": "https://www.mlb.com/news/nick-martinez-rays-beat-orioles-in-series-finale",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787513348/mlb/ny97uvoed7wytdmdpa9n",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-23T20:51:00+00:00",
+      "time_ago": "9m ago"
+    },
     {
       "title": "Chisholm, Rice answer bell to help Yankees snap out of clutch futility",
       "link": "https://www.mlb.com/news/jazz-chisholm-jr-ben-rice-lead-yankees-over-blue-jays",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-23T20:41:34+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "19m ago"
     },
     {
       "title": "He went up the wall! Nationals' Young makes incredible catch for DP",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-23T20:38:00+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "22m ago"
     },
     {
       "title": "Marlins looking to improve playoff odds with sweep of Nationals",
@@ -38,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-08-23T20:37:34+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "23m ago"
     },
     {
       "title": "Phils' 6-run 9th capped by club's first walk-off HR in 3 YEARS for 9th straight victory",
@@ -51,20 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-23T20:36:24+00:00",
-      "time_ago": "15m ago"
-    },
-    {
-      "title": "Martinez twirls six innings of one-hit ball in win over Orioles",
-      "link": "https://www.mlb.com/news/nick-martinez-rays-beat-orioles-in-series-finale",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787513348/mlb/ny97uvoed7wytdmdpa9n",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-23T20:31:06+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "24m ago"
     },
     {
       "title": "Soroka lands on IL with shoulder inflammation",
@@ -77,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-23T20:24:06+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "36m ago"
     },
     {
       "title": "Walker statue unveiled at Coors Field: 'Guess that’s a way to slow me down'",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-23T20:07:13+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "That's what Salvy do: Perez steals first base since '21, sparking rally",
