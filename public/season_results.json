@@ -10024,6 +10024,28 @@
       "away_bp_score": 70.5,
       "home_bp_score": 54.1,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-23",
+      "away": "San Francisco Giants",
+      "home": "Boston Red Sox",
+      "game_number": 1,
+      "pick": "Boston Red Sox",
+      "pick_prob": 61.4,
+      "actual_winner": "Boston Red Sox",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 4.5,
+      "home_sp_era": 3.0,
+      "away_bp_era": 3.86,
+      "home_bp_era": 2.7,
+      "away_sp_score": 42.9,
+      "home_sp_score": 48.8,
+      "away_bp_score": 48.2,
+      "home_bp_score": 80.0,
+      "bat_source": "lineup"
     }
   ],
   "summary": {

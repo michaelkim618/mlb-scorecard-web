@@ -7194,9 +7194,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Boston Red Sox",
     "model_winner": "Boston Red Sox",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "San Francisco Giants IL: Casey Schmitt, Daniel Susac, Harrison Bader, Hayden Birdsong, Jesus Rodriguez 외 다수 / Boston Red Sox IL: Curtis Mead, Garrett Crochet, Garrett Whitlock, Isiah Kiner-Falefa, Johan Oviedo 외 다수",
     "kalshi_prob": 65.0,
     "edge": -3.6,
