@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-08-23T16:59:50.171350+00:00",
+  "updated_at": "2026-08-23T17:38:29.647712+00:00",
   "news": [
     {
-      "title": "Giants, Red Sox meet in Sunday afternoon action on NBC/Peacock (3:15 p.m. ET)",
-      "link": "https://www.mlb.com/news/sunday-night-baseball-on-peacock-nbc-for-2026-mlb-season",
+      "title": "Tigers call up No. 14 prospect LHP Sears for MLB debut",
+      "link": "https://www.mlb.com/news/tigers-andrew-sears-to-be-called-up-for-mlb-debut-vs-royals",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iyumq22pbgsx1woxna6m",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/r6ng1ng4bxhgcczut1xw",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "MLB.com",
+      "author": "Jackson Stone",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-23T16:42:00+00:00",
-      "time_ago": "17m ago"
+      "pub_date": "2026-08-23T17:09:00+00:00",
+      "time_ago": "29m ago"
     },
     {
       "title": "Rodríguez returns after elbow surgery to bolster Rays' bullpen",
@@ -24,34 +24,47 @@
       "author": "Adam Berry",
       "tag": "Injury",
       "tag_color": "#DC2626",
-      "pub_date": "2026-08-23T15:30:55+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-08-23T17:01:00+00:00",
+      "time_ago": "37m ago"
     },
     {
-      "title": "Yankees activate Bellinger, but lose LHP Weathers (flexor strain) to IL",
+      "title": "Arraez (cramping), Hill (stiff neck) out of Phils' lineup for finale vs. Cards",
+      "link": "https://www.mlb.com/news/luis-arraez-exits-with-lower-body-cramping-against-cardinals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rn18guzkqmmmlczgo0yl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella and Mark Feinsand",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-08-23T16:56:00+00:00",
+      "time_ago": "42m ago"
+    },
+    {
+      "title": "Double dose of good news: Belli back, Weathers likely to return in '26",
       "link": "https://www.mlb.com/news/cody-bellinger-yankees-hamstring-injury-rehab",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a3ogjd8vuhmvxnm09o5b",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Bryan Hoch",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-23T15:16:00+00:00",
-      "time_ago": "1h ago"
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-23T16:48:00+00:00",
+      "time_ago": "50m ago"
     },
     {
-      "title": "Weathers placed on IL with left forearm flexor strain day after early exit",
-      "link": "https://www.mlb.com/news/ryan-weathers-exits-yankees-game-with-injury",
+      "title": "Giants, Red Sox meet in Sunday afternoon action on NBC/Peacock (3:15 p.m. ET)",
+      "link": "https://www.mlb.com/news/sunday-night-baseball-on-peacock-nbc-for-2026-mlb-season",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787427506/mlb/bvo5lfo1zzplbwicrkiv",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iyumq22pbgsx1woxna6m",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-23T15:12:00+00:00",
-      "time_ago": "1h ago"
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-23T16:42:00+00:00",
+      "time_ago": "56m ago"
     },
     {
       "title": "Have a day, Bleday! 8th cycle in Reds history helps snap losing streak",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-23T05:12:00+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "12h ago"
     },
     {
       "title": "Adell gives Guards needed spark in 3rd straight win",
@@ -90,19 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-23T04:50:00+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "'Just a blast out there': Anderson shows upside in highly anticipated debut",
-      "link": "https://www.mlb.com/news/kade-anderson-makes-mlb-debut",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787443455/mlb/yvvrapsx9j3ittteffd2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-23T04:41:00+00:00",
       "time_ago": "12h ago"
     }
   ]
