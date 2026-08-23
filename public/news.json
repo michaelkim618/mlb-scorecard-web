@@ -1,18 +1,31 @@
 {
-  "updated_at": "2026-08-23T21:57:48.663905+00:00",
+  "updated_at": "2026-08-23T22:51:43.142496+00:00",
   "news": [
     {
-      "title": "Muncy's clutch homer seals series win after A's claw back from 6-0 hole",
-      "link": "https://www.mlb.com/news/athletics-rally-from-six-run-deficit-for-series-win-vs-astros",
+      "title": "Display of 'Jazz-ball' reminds Yanks what they've missed -- and what they need",
+      "link": "https://www.mlb.com/news/jazz-chisholm-jr-ben-rice-lead-yankees-over-blue-jays",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pgd0jfhjtlq5xynrpje0",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787516659/mlb/q8f72sfcs9tyefehlfvu",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Jeremy Rakes",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-23T21:40:38+00:00",
-      "time_ago": "17m ago"
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-23T22:43:00+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Marlins' aggressive bullpen usage seals sweep to start key stretch run",
+      "link": "https://www.mlb.com/news/marlins-sweep-series-against-nationals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ldos9qlxgv3snybluu7z",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Christina De Nicola",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-23T22:27:00+00:00",
+      "time_ago": "24m ago"
     },
     {
       "title": "Rangers end successful homestand on high note behind Quantrill's scoreless outing",
@@ -24,8 +37,60 @@
       "author": "Kennedi Landry",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-23T21:39:24+00:00",
-      "time_ago": "18m ago"
+      "pub_date": "2026-08-23T22:26:00+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "Martinez twirls six innings of one-hit ball, carrying Rays to much-needed win",
+      "link": "https://www.mlb.com/news/nick-martinez-rays-beat-orioles-in-series-finale",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787513348/mlb/ny97uvoed7wytdmdpa9n",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-23T22:15:00+00:00",
+      "time_ago": "36m ago"
+    },
+    {
+      "title": "Less is more? Simplified approach has Angels' rotation thriving",
+      "link": "https://www.mlb.com/news/angels-starting-rotation-simplified-pitching-approach",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x4tciaoe4hzaijx1iztn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "John Henry",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-23T22:09:00+00:00",
+      "time_ago": "42m ago"
+    },
+    {
+      "title": "Double dose of good news: Belli back, Weathers likely to return in '26",
+      "link": "https://www.mlb.com/news/cody-bellinger-yankees-hamstring-injury-rehab",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787510721/mlb/mbrptntg5ek5crwfzrgy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-23T22:06:00+00:00",
+      "time_ago": "45m ago"
+    },
+    {
+      "title": "Muncy's clutch homer seals series win after A's claw back from 6-0 hole",
+      "link": "https://www.mlb.com/news/athletics-rally-from-six-run-deficit-for-series-win-vs-astros",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pgd0jfhjtlq5xynrpje0",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jeremy Rakes",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-23T21:40:38+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Adames (elbow), Bericoto (knee) exit Giants' game with injuries",
@@ -38,72 +103,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-23T21:29:00+00:00",
-      "time_ago": "28m ago"
-    },
-    {
-      "title": "Everything you need to know about 2026 Little League Classic (7 p.m. ET on ESPN)",
-      "link": "https://www.mlb.com/news/little-league-classic-2026-date-matchup-location-and-more",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jaacihvwptcfqpdoyfy3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman and Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-23T21:26:00+00:00",
-      "time_ago": "31m ago"
-    },
-    {
-      "title": "Randy, again! On heels of legendary game, Arozarena leads off with another HR",
-      "link": "https://www.mlb.com/news/randy-arozarena-hits-leadoff-home-run-after-huge-game",
-      "summary": "Outfielder joins historic company with 6th consecutive 20-20 season",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787519263/mlb/diba1mj3q3z1gihfjau6",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-23T21:25:21+00:00",
-      "time_ago": "32m ago"
-    },
-    {
-      "title": "Miz vs. a Little Leaguer sounds like a mismatch, except when the sport is ping-pong",
-      "link": "https://www.mlb.com/news/jacob-misiorowski-plays-ping-pong-against-little-leaguers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/skubayfv4b4dyr0q2g1e",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-23T21:12:56+00:00",
-      "time_ago": "44m ago"
-    },
-    {
-      "title": "Salvy's 1st steal since 2021 sparks Royals to 8th straight win",
-      "link": "https://www.mlb.com/news/salvador-perez-steals-his-first-base-since-2021",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eb092hfk0m1e9kzb0kmh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anne Rogers",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-23T21:04:00+00:00",
-      "time_ago": "53m ago"
-    },
-    {
-      "title": "Phils can't lose! Down 4 with 2 outs in 9th, unbelievable rally ends in 9th straight W",
-      "link": "https://www.mlb.com/news/phillies-score-six-runs-in-ninth-inning-to-walk-off-cardinals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787519940/mlb/cef0ka4gwgltoujpjdr6",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-23T21:03:00+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
