@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-08-22-daily-max",
+      "title": "Aug 22 Results: Ten Wins and a Lesson in Coin Flips",
+      "author": "Max",
+      "author_emoji": "📰",
+      "author_color": "#16A34A",
+      "author_role": "Senior Reporter",
+      "date": "2026-08-22",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#16A34A",
+      "read_time": "3 min",
+      "summary": "Aug 22 delivered a solid 10-5 record with 66.7% accuracy across fifteen games"
+    },
+    {
       "slug": "2026-08-21-daily-doc",
       "title": "Aug 21 Results: Win Probability Validation at 80%",
       "author": "Doc",
