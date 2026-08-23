@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-23T19:46:17.170069+00:00",
+  "updated_at": "2026-08-23T19:56:36.960147+00:00",
   "news": [
+    {
+      "title": "That's what Salvy do: Perez steals first base since '21, sparking rally",
+      "link": "https://www.mlb.com/news/salvador-perez-steals-his-first-base-since-2021",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eb092hfk0m1e9kzb0kmh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anne Rogers",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-23T19:37:41+00:00",
+      "time_ago": "18m ago"
+    },
     {
       "title": "Marlins celebrate beloved broadcaster with emotional Tommy Hutton Day",
       "link": "https://www.mlb.com/news/marlins-celebrate-tommy-hutton-day",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-23T19:31:37+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "24m ago"
     },
     {
       "title": "Less is more? Simplified approach has Angels' rotation thriving",
@@ -25,7 +38,20 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-23T19:29:06+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "Pages has surgery on fractured hand, expected to miss at least 4 weeks",
+      "link": "https://www.mlb.com/news/andy-pages-exits-game-after-hit-by-pitch",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kzmwy9xkhrvwlcvofgml",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-23T19:23:00+00:00",
+      "time_ago": "33m ago"
     },
     {
       "title": "Ohtani likely to return to mound for start during next homestand",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-23T19:06:00+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Don't worry, she got everything back! White Sox fan catches walk-off, purse explodes",
@@ -51,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-23T19:06:00+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "He went up the wall! Nationals' Young makes incredible catch for DP",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-23T18:59:28+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "Espada away from Astros on Sunday due to family emergency",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-23T18:57:07+00:00",
-      "time_ago": "49m ago"
-    },
-    {
-      "title": "Double dose of good news: Belli back, Weathers likely to return in '26",
-      "link": "https://www.mlb.com/news/cody-bellinger-yankees-hamstring-injury-rehab",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787510721/mlb/mbrptntg5ek5crwfzrgy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-23T18:45:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Jax pitches 3 innings in rehab start; next turn might be in Rays' rotation",
-      "link": "https://www.mlb.com/news/griffin-jax-pitches-3-innings-in-minor-league-rehab-start",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787510676/mlb/gqlonnkxtaqcedjtd92h",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-23T18:40:46+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "59m ago"
     }
   ]
 }
