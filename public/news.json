@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-23T19:06:31.924860+00:00",
+  "updated_at": "2026-08-23T19:34:02.351195+00:00",
   "news": [
+    {
+      "title": "Don't worry, she got everything back! White Sox fan catches walk-off, purse explodes",
+      "link": "https://www.mlb.com/news/white-sox-fan-loses-items-from-purse-while-retrieving-home-run-ball",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/njezxn4hxkpzsjcwbhil",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-23T19:06:00+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "Ohtani likely to return to mound for start during next homestand",
+      "link": "https://www.mlb.com/news/shohei-ohtani-progress-toward-pitching-return",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f9h7lvsqecm31ak4f18s",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-23T19:06:00+00:00",
+      "time_ago": "28m ago"
+    },
     {
       "title": "He went up the wall! Nationals' Young makes incredible catch for DP",
       "link": "https://www.mlb.com/news/jacob-young-scales-wall-for-catch-at-loandepot-park",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-23T18:59:28+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "34m ago"
     },
     {
       "title": "Espada away from Astros on Sunday due to family emergency",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-23T18:57:07+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "36m ago"
     },
     {
       "title": "Double dose of good news: Belli back, Weathers likely to return in '26",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-23T18:45:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "Jax pitches 3 innings in rehab start; next turn might be in Rays' rotation",
@@ -51,13 +77,13 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-23T18:40:46+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "The Mountain on the horizon: O's Bautista starts rehab, 1st game in 13 months",
       "link": "https://www.mlb.com/news/felix-bautista-orioles-rehab-assignment-start",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787343616/mlb/siiftxpgclezdvhua7gz",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787510178/mlb/dm5trqx6153fb3hpw3gz",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Jake Rill",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-23T17:09:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Rodríguez returns after elbow surgery to bolster Rays' bullpen",
-      "link": "https://www.mlb.com/news/manuel-rodriguez-activated-from-60-day-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pslpa345qjtwcbwwbh8w",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-23T17:01:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Arraez (cramping), Hill (stiff neck) out of Phils' lineup for finale vs. Cards",
-      "link": "https://www.mlb.com/news/luis-arraez-exits-with-lower-body-cramping-against-cardinals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rn18guzkqmmmlczgo0yl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella and Mark Feinsand",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-08-23T16:56:00+00:00",
       "time_ago": "2h ago"
     }
   ]
