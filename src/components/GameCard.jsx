@@ -113,33 +113,37 @@ function fmtAvg(v) {
 function BatStats({ bd, isHome }) {
   if (!bd) return <div style={{ fontSize: 11, color: "var(--color-muted)" }}>No batting data</div>;
 
-  const avg  = fmtAvg(bd.recent_avg);
-  const ops  = bd.season_ops  != null ? bd.season_ops.toFixed(3) : "—";
-  const rpg  = bd.runs_per_g  != null ? bd.runs_per_g.toFixed(1) : "—";
-  const hrpg = bd.hr_per_g    != null ? bd.hr_per_g.toFixed(1)   : "—";
-  const exp  = bd.explosive_games ?? 0;
-  const stars = exp >= 3 ? "★★★" : exp === 2 ? "★★☆" : exp === 1 ? "★☆☆" : "☆☆☆";
+  const avg     = fmtAvg(bd.recent_avg);       // 최근 10경기 전체 타율
+  const ops     = bd.season_ops  != null ? bd.season_ops.toFixed(3) : "—";
+  const rpg     = bd.runs_per_g  != null ? bd.runs_per_g.toFixed(1) : "—";
+  const hrpg    = bd.hr_per_g    != null ? bd.hr_per_g.toFixed(1)   : "—";
+  const exp     = bd.explosive_games ?? 0;
+  const stars   = exp >= 3 ? "★★★" : exp === 2 ? "★★☆" : exp === 1 ? "★☆☆" : "☆☆☆";
 
   // 홈/원정 split 데이터
   const homeSplit = bd.home_split;
   const awaySplit = bd.away_split;
   const hasSplit  = homeSplit || awaySplit;
 
-  // 예측에 사용된 split (홈팀→홈경기, 원정팀→원정경기)
-  const usedSplit  = isHome ? homeSplit : awaySplit;
-  const otherSplit = isHome ? awaySplit : homeSplit;
+  // 예측에 사용된 split
+  const usedSplit = isHome ? homeSplit : awaySplit;
+  const usedAvg   = usedSplit ? fmtAvg(usedSplit.recent_avg) : null;
 
   return (
     <div>
+      {/* 전체 최근 타율 + OPS/R/G/HR/G */}
       <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "4px 12px", marginBottom: 6 }}>
         {[
-          { label: "AVG", value: avg },
-          { label: "OPS", value: ops },
+          { label: "AVG", value: avg, note: "recent 10G" },
+          { label: "OPS", value: ops, note: "season" },
           { label: "R/G", value: rpg },
           { label: "HR/G", value: hrpg },
-        ].map(({ label, value }) => (
-          <div key={label} style={{ display: "flex", justifyContent: "space-between", fontSize: 11 }}>
-            <span style={{ color: "var(--color-muted)" }}>{label}</span>
+        ].map(({ label, value, note }) => (
+          <div key={label} style={{ display: "flex", justifyContent: "space-between", fontSize: 11, alignItems: "baseline", gap: 4 }}>
+            <span style={{ color: "var(--color-muted)" }}>
+              {label}
+              {note && <span style={{ fontSize: 9, color: "var(--color-subtle)", marginLeft: 3 }}>({note})</span>}
+            </span>
             <span style={{ fontWeight: 700, color: "var(--color-ink)" }}>{value}</span>
           </div>
         ))}
@@ -154,21 +158,25 @@ function BatStats({ bd, isHome }) {
           borderRadius: 7,
           border: "1px solid var(--color-border)",
         }}>
-          <div style={{ fontSize: 9, fontWeight: 700, color: "var(--color-muted)", textTransform: "uppercase", letterSpacing: "0.5px", marginBottom: 5 }}>
-            Home / Away Split (last 10G each)
+          {/* 헤더: 제목 + 전체 avg vs 스플릿 avg 비교 안내 */}
+          <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 5 }}>
+            <div style={{ fontSize: 9, fontWeight: 700, color: "var(--color-muted)", textTransform: "uppercase", letterSpacing: "0.5px" }}>
+              Home / Away Split (last 10G each)
+            </div>
+            {usedAvg && (
+              <div style={{ fontSize: 9, color: "var(--color-muted)" }}>
+                Overall <span style={{ fontWeight: 700, color: "var(--color-ink)" }}>{avg}</span>
+                <span style={{ margin: "0 3px", color: "var(--color-subtle)" }}>→</span>
+                {isHome ? "Home" : "Away"} <span style={{ fontWeight: 700, color: "#0369A1" }}>{usedAvg}</span>
+                <span style={{ marginLeft: 3, fontSize: 8, background: "#0EA5E9", color: "#fff", borderRadius: 3, padding: "1px 4px" }}>Used</span>
+              </div>
+            )}
           </div>
+
           <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "4px 8px" }}>
             {[
-              {
-                label: "🏠 Home",
-                split: homeSplit,
-                highlight: !!isHome,
-              },
-              {
-                label: "✈️ Away",
-                split: awaySplit,
-                highlight: !isHome,
-              },
+              { label: "🏠 Home", split: homeSplit, highlight: !!isHome },
+              { label: "✈️ Away", split: awaySplit, highlight: !isHome },
             ].map(({ label, split, highlight }) => {
               if (!split) return null;
               const n    = split.n_games ?? 10;
@@ -192,6 +200,11 @@ function BatStats({ bd, isHome }) {
                 </div>
               );
             })}
+          </div>
+
+          {/* 점수 계산 기준 안내 */}
+          <div style={{ marginTop: 6, fontSize: 9, color: "var(--color-subtle)", borderTop: "1px solid var(--color-border)", paddingTop: 5 }}>
+            * Batting score calculated from overall recent stats (AVG · OPS · R/G). Split avg used as adjustment only.
           </div>
         </div>
       )}
