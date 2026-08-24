@@ -1074,7 +1074,7 @@
     },
     "expected_score": {
       "away": 3.8,
-      "home": 1.7
+      "home": 1.8
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -1276,7 +1276,7 @@
         "total": 59.3
       },
       "home": {
-        "sp_score": 67.6,
+        "sp_score": 68.3,
         "sp_detail": {
           "era": 2.56,
           "whip": 1.08,
@@ -1357,7 +1357,7 @@
             }
           ]
         },
-        "bp_score": 35.9,
+        "bp_score": 36.3,
         "bp_detail": {
           "bullpen_era": 4.29,
           "recent_era": 3.63,
@@ -1369,7 +1369,7 @@
           "closer_era": 5.8,
           "closer_name": "Pete Fairbanks"
         },
-        "bat_score": 25.9,
+        "bat_score": 27.4,
         "bat_detail": {
           "recent_avg": 0.232,
           "runs_per_g": 3.9,
@@ -1465,14 +1465,14 @@
           }
         },
         "sit_score": 58.2,
-        "total": 43.7
+        "total": 44.5
       }
     },
     "scores": {
       "away_offense": 56.6,
       "away_defense": 62.3,
-      "home_offense": 25.9,
-      "home_defense": 51.8
+      "home_offense": 27.4,
+      "home_defense": 52.3
     },
     "actual_score": {
       "away": null,
@@ -1488,7 +1488,7 @@
     "actual_winner": null,
     "model_winner": "Boston Red Sox",
     "model_correct": null,
-    "notes": "Boston Red Sox IL: Curtis Mead, Garrett Crochet, Garrett Whitlock, Isiah Kiner-Falefa, Johan Oviedo 외 다수 / Miami Marlins IL: Adam Mazur, Andrew Nardi, Anthony Bender, Kyle Stowers, Max Meyer 외 다수",
+    "notes": "Boston Red Sox IL: Curtis Mead, Garrett Crochet, Garrett Whitlock, Isiah Kiner-Falefa, Johan Oviedo 외 다수 / Miami Marlins IL: Adam Mazur, Andrew Nardi, Anthony Bender, Max Meyer, Robby Snelling 외 다수",
     "kalshi_prob": 46.0,
     "edge": -7.4,
     "value_bet": "➖ 시장과 유사",
@@ -1836,14 +1836,14 @@
       "home": 59.8
     },
     "expected_score": {
-      "away": 1.2,
+      "away": 1.9,
       "home": 2.0
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": false,
@@ -1855,7 +1855,7 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 27.6,
+        "sp_score": 30.0,
         "sp_detail": {
           "era": 6.71,
           "whip": 1.73,
@@ -1929,39 +1929,39 @@
             }
           ]
         },
-        "bp_score": 26.2,
+        "bp_score": 28.4,
         "bp_detail": {
           "bullpen_era": 5.02,
           "recent_era": 4.24,
           "recent_appearances": 20,
           "recent_ip": 23.3,
-          "team_era": 5.52,
+          "team_era": 5.35,
           "bp_ip": 281.3,
           "bp_count": 8,
           "closer_era": 5.16,
           "closer_name": "Jordan Romano"
         },
-        "bat_score": 18.2,
+        "bat_score": 30.0,
         "bat_detail": {
-          "recent_avg": 0.208,
+          "recent_avg": 0.232,
           "runs_per_g": 4.6,
           "hr_per_g": 0.9,
           "bb_per_g": 3.0,
-          "season_ops": 0.631,
-          "season_avg": 0.208,
+          "season_ops": 0.721,
+          "season_avg": 0.232,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
             "Jake McCarthy(0.673)",
-            "Cole Carrigg(0.647)",
-            "Willi Castro(0.772)",
             "Mickey Moniak(0.689)",
+            "Willi Castro(0.772)",
+            "TJ Rumfield(0.662)",
+            "Troy Johnston(0.766)",
             "Connor Norby(0.810)",
-            "Jordan Beck(0.554)",
             "Brett Sullivan(0.724)",
-            "Ryan Ritter(0.222)",
+            "Zac Veen(0.806)",
             "Ezequiel Tovar(0.587)"
           ],
           "lineup_players": [
@@ -1972,10 +1972,10 @@
               "avg": 0.205
             },
             {
-              "id": 694249,
-              "name": "Cole Carrigg",
-              "ops": 0.647,
-              "avg": 0.167
+              "id": 666160,
+              "name": "Mickey Moniak",
+              "ops": 0.689,
+              "avg": 0.158
             },
             {
               "id": 650489,
@@ -1984,10 +1984,16 @@
               "avg": 0.286
             },
             {
-              "id": 666160,
-              "name": "Mickey Moniak",
-              "ops": 0.689,
-              "avg": 0.158
+              "id": 681198,
+              "name": "TJ Rumfield",
+              "ops": 0.662,
+              "avg": 0.188
+            },
+            {
+              "id": 687859,
+              "name": "Troy Johnston",
+              "ops": 0.766,
+              "avg": 0.29
             },
             {
               "id": 681393,
@@ -1996,22 +2002,16 @@
               "avg": 0.31
             },
             {
-              "id": 687597,
-              "name": "Jordan Beck",
-              "ops": 0.554,
-              "avg": 0.207
-            },
-            {
               "id": 664954,
               "name": "Brett Sullivan",
               "ops": 0.724,
               "avg": 0.2
             },
             {
-              "id": 690022,
-              "name": "Ryan Ritter",
-              "ops": 0.222,
-              "avg": 0.111
+              "id": 691728,
+              "name": "Zac Veen",
+              "ops": 0.806,
+              "avg": 0.227
             },
             {
               "id": 678662,
@@ -2037,7 +2037,7 @@
           }
         },
         "sit_score": 34.8,
-        "total": 25.5
+        "total": 30.3
       },
       "home": {
         "sp_score": 69.6,
@@ -2127,32 +2127,32 @@
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.219,
+          "recent_avg": 0.216,
           "runs_per_g": 2.7,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
-          "season_ops": 0.663,
-          "season_avg": 0.219,
+          "season_ops": 0.636,
+          "season_avg": 0.216,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Daylen Lile(0.572)",
+            "CJ Abrams(0.746)",
             "Abimelec Ortiz(0.624)",
             "Dylan Crews(0.600)",
+            "Daylen Lile(0.572)",
+            "Brady House(0.652)",
             "Keibert Ruiz(0.855)",
-            "José Tena(0.750)",
+            "Jacob Young(0.706)",
             "Jorbit Vivas(0.540)",
-            "Andrés Chaparro(0.890)",
-            "Nasim Nuñez(0.429)",
-            "Jacob Young(0.706)"
+            "Nasim Nuñez(0.429)"
           ],
           "lineup_players": [
             {
-              "id": 695734,
-              "name": "Daylen Lile",
-              "ops": 0.572,
+              "id": 682928,
+              "name": "CJ Abrams",
+              "ops": 0.746,
               "avg": 0.195
             },
             {
@@ -2168,16 +2168,28 @@
               "avg": 0.219
             },
             {
+              "id": 695734,
+              "name": "Daylen Lile",
+              "ops": 0.572,
+              "avg": 0.195
+            },
+            {
+              "id": 691781,
+              "name": "Brady House",
+              "ops": 0.652,
+              "avg": 0.226
+            },
+            {
               "id": 660688,
               "name": "Keibert Ruiz",
               "ops": 0.855,
               "avg": 0.382
             },
             {
-              "id": 677588,
-              "name": "José Tena",
-              "ops": 0.75,
-              "avg": 0.19
+              "id": 696285,
+              "name": "Jacob Young",
+              "ops": 0.706,
+              "avg": 0.273
             },
             {
               "id": 678391,
@@ -2186,22 +2198,10 @@
               "avg": 0.179
             },
             {
-              "id": 665953,
-              "name": "Andrés Chaparro",
-              "ops": 0.89,
-              "avg": 0.259
-            },
-            {
               "id": 683083,
               "name": "Nasim Nuñez",
               "ops": 0.429,
               "avg": 0.139
-            },
-            {
-              "id": 696285,
-              "name": "Jacob Young",
-              "ops": 0.706,
-              "avg": 0.273
             }
           ],
           "bat_trend": "stable",
@@ -2225,16 +2225,16 @@
       }
     },
     "scores": {
-      "away_offense": 18.2,
-      "away_defense": 26.7,
+      "away_offense": 30.0,
+      "away_defense": 29.0,
       "home_offense": 25.0,
       "home_defense": 57.9
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -2244,9 +2244,9 @@
     "actual_winner": null,
     "model_winner": "Washington Nationals",
     "model_correct": null,
-    "notes": "Colorado Rockies IL: Chase Dollander, Hunter Goodman, Jose Quintana, Kris Bryant, Kyle Karros 외 다수 / Washington Nationals IL: Connelly Early, DJ Herz, Drew Millas, James Wood, Josiah Gray 외 다수",
-    "kalshi_prob": 64.0,
-    "edge": -4.2,
+    "notes": "Colorado Rockies IL: Chase Dollander, Hunter Goodman, Jose Quintana, Kris Bryant, Kyle Freeland 외 다수 / Washington Nationals IL: Connelly Early, DJ Herz, Drew Millas, James Wood, Josiah Gray 외 다수",
+    "kalshi_prob": 65.0,
+    "edge": -5.2,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
