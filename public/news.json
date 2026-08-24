@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-24T15:26:39.082881+00:00",
+  "updated_at": "2026-08-24T16:03:44.346356+00:00",
   "news": [
+    {
+      "title": "In top spot for 1st time this season, new No. 1 takes down Dodgers in Power Rankings",
+      "link": "https://www.mlb.com/news/mlb-power-rankings-for-the-week-of-august-23-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tsqwtzmisefuqcuijbdb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "Rankings",
+      "tag_color": "#4F46E5",
+      "pub_date": "2026-08-24T15:35:00+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "Top bigger than sports moments in baseball history",
+      "link": "https://www.mlb.com/news/top-bigger-than-sports-moments-in-baseball-history",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hs0yd1s1axsetot36vmk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-24T15:25:31+00:00",
+      "time_ago": "38m ago"
+    },
     {
       "title": "GM Dana Brown, Astros mutually agree to part ways",
       "link": "https://www.mlb.com/news/dana-brown-astros-part-ways",
@@ -12,19 +38,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-24T14:36:00+00:00",
-      "time_ago": "50m ago"
-    },
-    {
-      "title": "Benge emerging as NL Rookie of the Year contender",
-      "link": "https://www.mlb.com/news/carson-benge-building-case-for-2026-nl-rookie-of-the-year",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787529703/mlb/zpppdnzsufcitjyoxhmv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-24T13:55:31+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-24T13:46:07+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Cornfields, Schwarbombs and gems: 10 best moments from Phillies' remarkable run",
@@ -51,7 +64,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-24T13:36:49+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Size, 'self-belief' powering Jones' breakout -- and Judge-ian comp",
+      "link": "https://www.mlb.com/news/spencer-jones-coming-into-his-own-in-yankees-lineup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787544415/mlb/spbtphxtnst6tnin4tcj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-24T13:36:47+00:00",
+      "time_ago": "2h ago"
     },
     {
       "title": "How outstanding was Contreras' 452-foot, 116 mph homer?",
@@ -64,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-24T13:28:41+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "'More disciplined' Contreras getting hot at right time for Crew",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-08-24T13:11:29+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Wheeler goes for his first win since July 12 as he faces Mariners",
-      "link": "https://www.mlb.com/news/zack-wheeler-starts-vs-mariners-august-24",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g26elrtgiuym6kbuxcoe",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-24T12:46:18+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Little Leaguers begged for a HR from Harris, and he delivered at the perfect time",
-      "link": "https://www.mlb.com/news/mauricio-dubon-michael-harris-ii-braves-win-2026-little-league-classic",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fdpqvymhsmkw0qsjhw4k",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Courtney Hollmon",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-24T03:43:00+00:00",
-      "time_ago": "11h ago"
     }
   ]
 }
