@@ -3,11 +3,12 @@ import { usePredictions } from "../hooks/usePredictions";
 import useLiveScores from "../hooks/useLiveScores";
 import GameCard from "./GameCard";
 
-const TODAY = new Date().toLocaleDateString("en-CA"); // YYYY-MM-DD
-const TODAY_DISPLAY = new Date().toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
-
 export default function TodaysGames() {
-  const { games, seasonW, seasonL, loading, error } = usePredictions(TODAY);
+  // date 인자 없이 호출 → predictions.json 자체 날짜 기준으로 필터링 (타임존 문제 방지)
+  const { games, seasonW, seasonL, loading, error, dataDate } = usePredictions(null);
+  const TODAY_DISPLAY = dataDate
+    ? new Date(dataDate + "T12:00:00").toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })
+    : new Date().toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
   const { scores, lastUpdated } = useLiveScores(TODAY_DISPLAY);
 
   return (
