@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-25T19:59:51.497429+00:00",
+  "updated_at": "2026-08-25T20:57:59.065806+00:00",
   "news": [
+    {
+      "title": "Injuries: Bieber, Yankees, Dodgers, Red Sox, Winn, Woodruff, Soto",
+      "link": "https://www.mlb.com/news/baseball-injury-updates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786762475/mlb/fkch0qafmjiko39jz8ii",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-25T20:02:00+00:00",
+      "time_ago": "55m ago"
+    },
+    {
+      "title": "Brewers get sparkplug Frelick back from injured list",
+      "link": "https://www.mlb.com/news/brewers-sal-frelick-activated-off-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kiaoyydamwrpoqwbcc9q",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-25T19:47:27+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Winn (thumb fracture) goes on IL; Gorman recalled",
+      "link": "https://www.mlb.com/news/masyn-winn-placed-on-injured-list-nolan-gorman-recalled",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aqqevuvyhbujaqcylp6n",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-25T19:34:41+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Playoff seeding at stake as division leaders Dodgers, Braves set for key clash",
       "link": "https://www.mlb.com/news/dodgers-braves-series-preview-august-2026",
@@ -12,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-08-25T19:10:00+00:00",
-      "time_ago": "49m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yanks add veteran Topa to bullpen, move Stanton to 60-day IL",
@@ -25,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-25T19:05:06+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Bieber (shoulder) goes on IL, dealing another blow to Blue Jays",
@@ -38,7 +77,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-25T18:39:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Glasnow comes off IL for first start since early May",
@@ -51,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-25T18:24:45+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Tempers flare between D-backs, Cubs over sign-stealing",
@@ -64,46 +103,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-25T17:13:02+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "This extra-innings thriller ended on a ... hit-by-pitch K?",
-      "link": "https://www.mlb.com/news/pirates-win-over-padres-ends-in-wacky-hit-by-pitch-strikeout",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gu4qytgvd2jmrfv5qvpz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-25T15:28:56+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Ranking the Top 10 legendary walk-offs of all time",
-      "link": "https://www.mlb.com/news/top-legendary-walk-offs-in-baseball-history",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/clm7b1aweidv0kxopv8k",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brent Maguire",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-25T15:25:02+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "There's a seismic shift at the top of our latest MVP poll",
-      "link": "https://www.mlb.com/news/yordan-alvarez-pete-crow-armstrong-lead-fifth-2026-mvp-poll",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jcp1xjwd9bc5acsv62u1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-08-25T15:00:00+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
