@@ -10376,6 +10376,28 @@
       "away_bp_score": 44.6,
       "home_bp_score": 30.7,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-24",
+      "away": "Pittsburgh Pirates",
+      "home": "San Diego Padres",
+      "game_number": 1,
+      "pick": "San Diego Padres",
+      "pick_prob": 61.5,
+      "actual_winner": "Pittsburgh Pirates",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "hot",
+      "away_sp_era": 4.45,
+      "home_sp_era": 2.02,
+      "away_bp_era": 3.14,
+      "home_bp_era": 2.5,
+      "away_sp_score": 51.3,
+      "home_sp_score": 64.8,
+      "away_bp_score": 70.4,
+      "home_bp_score": 80.0,
+      "bat_source": "lineup"
     }
   ],
   "summary": {
