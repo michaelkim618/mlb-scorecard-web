@@ -7315,9 +7315,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "San Francisco Giants",
     "model_winner": "Cincinnati Reds",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Cincinnati Reds IL: Blake Dunn, Brandon Williamson, Graham Ashcraft, Hunter Greene, Michael Toglia 외 다수 / San Francisco Giants IL: Casey Schmitt, Daniel Susac, Harrison Bader, Hayden Birdsong, JT Brubaker 외 다수",
     "kalshi_prob": 38.0,
     "edge": 2.2,

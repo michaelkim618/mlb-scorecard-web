@@ -10266,6 +10266,28 @@
       "away_bp_score": 63.1,
       "home_bp_score": 71.2,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-24",
+      "away": "Cincinnati Reds",
+      "home": "San Francisco Giants",
+      "game_number": 1,
+      "pick": "Cincinnati Reds",
+      "pick_prob": 59.8,
+      "actual_winner": "San Francisco Giants",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "cold",
+      "away_sp_era": 3.25,
+      "home_sp_era": 7.03,
+      "away_bp_era": 3.85,
+      "home_bp_era": 4.58,
+      "away_sp_score": 51.2,
+      "home_sp_score": 27.0,
+      "away_bp_score": 49.5,
+      "home_bp_score": 37.0,
+      "bat_source": "lineup"
     }
   ],
   "summary": {
