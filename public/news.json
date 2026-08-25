@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-25T15:28:57.420162+00:00",
+  "updated_at": "2026-08-25T16:04:25.972035+00:00",
   "news": [
+    {
+      "title": "This extra-innings thriller ended on a ... hit-by-pitch?",
+      "link": "https://www.mlb.com/news/pirates-win-over-padres-ends-in-wacky-hit-by-pitch-strikeout",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gu4qytgvd2jmrfv5qvpz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-25T15:28:56+00:00",
+      "time_ago": "35m ago"
+    },
     {
       "title": "There's a seismic shift at the top of our latest MVP poll",
       "link": "https://www.mlb.com/news/yordan-alvarez-pete-crow-armstrong-lead-fifth-2026-mvp-poll",
@@ -12,7 +25,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-08-25T15:00:00+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Difficult closing stretch presents a challenge Reds embrace",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-25T14:53:28+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Doval is all about horsing around when he's not on the field",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-25T14:48:02+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yankees' offense owes a huge thanks to rocksteady rotation",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-25T14:45:00+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "With Series 3 of AUSL All-Star Cup complete, Team Klingler rising",
@@ -64,7 +77,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-08-25T14:42:35+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "With 30 games left, Blue Jays have no time to coast",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-25T13:46:50+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Marte cleared for batting practice, could return early next week",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-25T13:44:38+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Playoff seeding at stake as division leaders Dodgers, Braves set for key clash",
-      "link": "https://www.mlb.com/news/dodgers-braves-series-preview-august-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cg702lpabweng0dxzwom",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen and Jacob Gurvis",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-08-25T13:29:22+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
