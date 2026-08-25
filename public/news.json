@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T16:04:25.972035+00:00",
+  "updated_at": "2026-08-25T16:10:20.605349+00:00",
   "news": [
     {
       "title": "This extra-innings thriller ended on a ... hit-by-pitch?",
@@ -12,7 +12,20 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-25T15:28:56+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "41m ago"
+    },
+    {
+      "title": "Ranking the Top 10 legendary walk-offs of all time",
+      "link": "https://www.mlb.com/news/top-legendary-walk-offs-in-baseball-history",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/clm7b1aweidv0kxopv8k",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brent Maguire",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-25T15:25:02+00:00",
+      "time_ago": "45m ago"
     },
     {
       "title": "There's a seismic shift at the top of our latest MVP poll",
@@ -25,19 +38,6 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-08-25T15:00:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Difficult closing stretch presents a challenge Reds embrace",
-      "link": "https://www.mlb.com/news/reds-facing-difficult-remaining-schedule-in-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787634621/mlb/ovel6hmndn4xo1qhoa0l",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-25T14:53:28+00:00",
       "time_ago": "1h ago"
     },
     {
