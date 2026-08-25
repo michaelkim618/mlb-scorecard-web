@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-08-25T06:03:59.412270+00:00",
+  "updated_at": "2026-08-25T08:05:49.067266+00:00",
   "news": [
+    {
+      "title": "Gausman spins scoreless gem as Cubs thump D-backs",
+      "link": "https://www.mlb.com/news/kevin-gausman-throws-seven-scoreless-innings-vs-d-backs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xwrz5tuycewfpgmh5uqm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jesse Borek",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-25T07:14:00+00:00",
+      "time_ago": "51m ago"
+    },
+    {
+      "title": "Outstanding Zebby, vintage Buck lead Twins' postseason blueprint",
+      "link": "https://www.mlb.com/news/zebby-matthews-tosses-7-strong-innings-as-twins-top-athletics",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iev1srlwhudq4lmveknb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-25T07:14:00+00:00",
+      "time_ago": "51m ago"
+    },
+    {
+      "title": "Devers brings healing power to banged-up club with tape-measure tater",
+      "link": "https://www.mlb.com/news/rafael-devers-hits-3-run-homer-as-giants-beat-reds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787630908/mlb/uyh03rl9lmxpzyqcldgf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Maria Guardado",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-25T07:03:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Good company: Raleigh joins skipper as only Mariners catchers with 3-HR game",
+      "link": "https://www.mlb.com/news/cal-raleigh-first-career-three-homer-night-mariners-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zmyn2uphp6oh2gkuili8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-25T06:21:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Hi Mom! Hedges' HR in front of parents caps memorable night",
+      "link": "https://www.mlb.com/news/austin-hedges-2-run-home-run-leads-guardians-past-angels",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787629902/mlb/cvur8oppuybddx31xvgs",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-25T06:14:00+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Pederson ejected after ABS challenge denied, banging bat in Rangers' dugout",
       "link": "https://www.mlb.com/news/joc-pederson-ejected-from-game-vs-white-sox",
@@ -12,59 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-25T05:17:00+00:00",
-      "time_ago": "46m ago"
-    },
-    {
-      "title": "Zebby's dominant start powers Twins past A's",
-      "link": "https://www.mlb.com/news/zebby-matthews-tosses-7-strong-innings-as-twins-top-athletics",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787629481/mlb/ckqtsxho7btranptgr9d",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-25T04:47:29+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Gausman spins scoreless gem as Cubs thump D-backs",
-      "link": "https://www.mlb.com/news/kevin-gausman-throws-seven-scoreless-innings-vs-d-backs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xwrz5tuycewfpgmh5uqm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jesse Borek",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-25T04:40:17+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Raleigh goes supernova with 1st 3-HR night of his career",
-      "link": "https://www.mlb.com/news/cal-raleigh-first-career-three-homer-night-mariners-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zmyn2uphp6oh2gkuili8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-25T04:34:52+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Hedges' big blast backs Messick's gem as Guardians beat Angels",
-      "link": "https://www.mlb.com/news/austin-hedges-2-run-home-run-leads-guardians-past-angels",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787629902/mlb/cvur8oppuybddx31xvgs",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-25T04:31:30+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Rasmussen's 7th straight victory showcases Rays' many ways to win",
@@ -77,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-25T04:23:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Devers brings healing power to banged-up club with tape-measure tater",
-      "link": "https://www.mlb.com/news/rafael-devers-hits-3-run-homer-as-giants-beat-reds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787630908/mlb/uyh03rl9lmxpzyqcldgf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Maria Guardado",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-25T04:20:43+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "There's a tectonic shift at the top of our latest MVP poll",
@@ -103,7 +103,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-08-25T04:19:34+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
