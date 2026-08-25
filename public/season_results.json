@@ -10354,6 +10354,28 @@
       "away_bp_score": 73.7,
       "home_bp_score": 36.2,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-24",
+      "away": "Minnesota Twins",
+      "home": "Athletics",
+      "game_number": 1,
+      "pick": "Minnesota Twins",
+      "pick_prob": 53.0,
+      "actual_winner": "Minnesota Twins",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 5.4,
+      "home_sp_era": 8.66,
+      "away_bp_era": 3.81,
+      "home_bp_era": 4.56,
+      "away_sp_score": 29.5,
+      "home_sp_score": 30.0,
+      "away_bp_score": 44.6,
+      "home_bp_score": 30.7,
+      "bat_source": "lineup"
     }
   ],
   "summary": {
