@@ -8258,7 +8258,7 @@
             "Esmerlyn Valdez(0.851)",
             "Bryan Reynolds(0.711)",
             "Oneil Cruz(0.873)",
-            "Rafael Flores(0.960)",
+            "Rafael Flores Jr.(0.960)",
             "Brandon Lowe(0.766)",
             "Nick Yorke(0.474)",
             "Spencer Horwitz(0.540)",
@@ -8291,7 +8291,7 @@
             },
             {
               "id": 804668,
-              "name": "Rafael Flores",
+              "name": "Rafael Flores Jr.",
               "ops": 0.96,
               "avg": 0.294
             },
@@ -8431,7 +8431,7 @@
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis(1.005)",
+            "Fernando Tatis Jr.(1.005)",
             "Jake Cronenworth(0.706)",
             "Manny Machado(0.706)",
             "Ty France(0.813)",
@@ -8444,7 +8444,7 @@
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis",
+              "name": "Fernando Tatis Jr.",
               "ops": 1.005,
               "avg": 0.366
             },
