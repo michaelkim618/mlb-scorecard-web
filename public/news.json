@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-25T17:16:54.621264+00:00",
+  "updated_at": "2026-08-25T17:45:33.141461+00:00",
   "news": [
+    {
+      "title": "Tempers flare between D-backs, Cubs over sign-stealing",
+      "link": "https://www.mlb.com/news/d-backs-cubs-argue-over-sign-stealing",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rfcidagrfgjicy0swjy1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-08-25T17:13:02+00:00",
+      "time_ago": "32m ago"
+    },
     {
       "title": "This extra-innings thriller ended on a ... hit-by-pitch?",
       "link": "https://www.mlb.com/news/pirates-win-over-padres-ends-in-wacky-hit-by-pitch-strikeout",
@@ -12,7 +25,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-25T15:28:56+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Ranking the Top 10 legendary walk-offs of all time",
@@ -25,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-25T15:25:02+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "There's a seismic shift at the top of our latest MVP poll",
@@ -64,7 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-08-25T14:45:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "With Series 3 of AUSL All-Star Cup complete, Team Klingler rising",
@@ -77,7 +90,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-08-25T14:42:35+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "With 30 games left, Blue Jays have no time to coast",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-25T13:46:50+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Marte cleared for batting practice, could return early next week",
-      "link": "https://www.mlb.com/news/ketel-marte-could-return-from-injured-list-early-next-week",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w1vslunjct0zojggkujq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-25T13:44:38+00:00",
       "time_ago": "3h ago"
     }
   ]
