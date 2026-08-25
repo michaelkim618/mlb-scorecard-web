@@ -3384,8 +3384,8 @@
     "model_winner": "Toronto Blue Jays",
     "model_correct": null,
     "notes": "Kansas City Royals IL: Alec Marsh, Beck Way, Carlos Estévez, Cole Ragans, Connor Seabold 외 다수 / Toronto Blue Jays IL: Addison Barger, Anthony Santander, Bowden Francis, Cody Ponce, Jake Bloss 외 다수",
-    "kalshi_prob": 55.0,
-    "edge": -3.5,
+    "kalshi_prob": 54.0,
+    "edge": -2.5,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -5422,15 +5422,15 @@
             }
           ]
         },
-        "bp_score": 62.3,
+        "bp_score": 62.0,
         "bp_detail": {
-          "bullpen_era": 3.06,
+          "bullpen_era": 3.09,
           "recent_era": 4.5,
           "recent_appearances": 17,
           "recent_ip": 34.0,
-          "team_era": 3.66,
+          "team_era": 3.7,
           "bp_ip": 299.7,
-          "bp_count": 7,
+          "bp_count": 8,
           "closer_era": 2.12,
           "closer_name": "Grant Taylor"
         },
@@ -5537,7 +5537,7 @@
       "away_offense": 26.9,
       "away_defense": 57.9,
       "home_offense": 25.0,
-      "home_defense": 56.0
+      "home_defense": 55.9
     },
     "actual_score": {
       "away": 0,
@@ -5553,7 +5553,7 @@
     "actual_winner": null,
     "model_winner": "Chicago White Sox",
     "model_correct": null,
-    "notes": "Texas Rangers IL: Carter Baumler, Jack Leiter, Jalen Beeks, Jose Corniell, Josh Jung 외 다수 / Chicago White Sox IL: Brooks Baldwin, Chris Murphy, Davis Martin, Drew Thorpe, Joey Bart 외 다수",
+    "notes": "Texas Rangers IL: Carter Baumler, Jack Leiter, Jalen Beeks, Jose Corniell, Josh Jung 외 다수 / Chicago White Sox IL: Brooks Baldwin, Chris Murphy, Davis Martin, Drew Thorpe, Huascar Brazobán 외 다수",
     "kalshi_prob": 49.0,
     "edge": 1.0,
     "value_bet": "➖ 시장과 유사",
@@ -8538,8 +8538,8 @@
     "model_winner": "San Diego Padres",
     "model_correct": null,
     "notes": "Pittsburgh Pirates IL: Endy Rodríguez, Konnor Griffin, Mitch Keller, Ryan O'Hearn / San Diego Padres IL: Bryan Hoeing, Jason Adam, Joe Musgrove, Lucas Giolito, Miguel Andujar 외 다수",
-    "kalshi_prob": 53.0,
-    "edge": 7.7,
+    "kalshi_prob": 54.0,
+    "edge": 6.7,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
@@ -8885,14 +8885,14 @@
       "home": 39.3
     },
     "expected_score": {
-      "away": 2.5,
-      "home": 2.4
+      "away": 2.3,
+      "home": 2.9
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "L",
       "bullpen_game": true,
@@ -8974,14 +8974,14 @@
           "closer_era": 3.79,
           "closer_name": "Yoendrys Gómez"
         },
-        "bat_score": 33.1,
+        "bat_score": 30.0,
         "bat_detail": {
-          "recent_avg": 0.259,
+          "recent_avg": 0.249,
           "runs_per_g": 3.8,
           "hr_per_g": 0.9,
           "bb_per_g": 3.0,
-          "season_ops": 0.745,
-          "season_avg": 0.259,
+          "season_ops": 0.724,
+          "season_avg": 0.249,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
@@ -8990,11 +8990,11 @@
             "Luke Keaschall(0.895)",
             "Byron Buxton(0.698)",
             "Ryan Jeffers(0.826)",
-            "Josh Bell(0.725)",
-            "Kody Clemens(0.817)",
             "Royce Lewis(0.524)",
+            "Kody Clemens(0.817)",
             "Kaelen Culpepper(0.899)",
             "Brooks Lee(0.744)",
+            "Victor Caratini(0.538)",
             "Ryan Kreidler(0.575)"
           ],
           "lineup_players": [
@@ -9017,22 +9017,16 @@
               "avg": 0.273
             },
             {
-              "id": 605137,
-              "name": "Josh Bell",
-              "ops": 0.725,
-              "avg": 0.229
+              "id": 668904,
+              "name": "Royce Lewis",
+              "ops": 0.524,
+              "avg": 0.135
             },
             {
               "id": 665019,
               "name": "Kody Clemens",
               "ops": 0.817,
               "avg": 0.342
-            },
-            {
-              "id": 668904,
-              "name": "Royce Lewis",
-              "ops": 0.524,
-              "avg": 0.135
             },
             {
               "id": 701785,
@@ -9045,6 +9039,12 @@
               "name": "Brooks Lee",
               "ops": 0.744,
               "avg": 0.243
+            },
+            {
+              "id": 605170,
+              "name": "Victor Caratini",
+              "ops": 0.538,
+              "avg": 0.143
             },
             {
               "id": 668952,
@@ -9070,7 +9070,7 @@
           }
         },
         "sit_score": 51.8,
-        "total": 44.7
+        "total": 43.9
       },
       "home": {
         "sp_score": 30.0,
@@ -9159,14 +9159,14 @@
           "closer_era": 3.65,
           "closer_name": "Hogan Harris"
         },
-        "bat_score": 33.1,
+        "bat_score": 40.2,
         "bat_detail": {
-          "recent_avg": 0.266,
+          "recent_avg": 0.294,
           "runs_per_g": 4.2,
           "hr_per_g": 1.1,
           "bb_per_g": 3.0,
-          "season_ops": 0.73,
-          "season_avg": 0.266,
+          "season_ops": 0.763,
+          "season_avg": 0.294,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -9178,9 +9178,9 @@
             "Lawrence Butler(0.855)",
             "Tommy White(0.694)",
             "Donovan Walton(0.808)",
-            "Max Muncy(0.715)",
+            "Alika Williams(0.744)",
             "Carlos Cortes(0.678)",
-            "Jonah Heim(0.480)"
+            "Brian Serven(0.749)"
           ],
           "lineup_players": [
             {
@@ -9220,10 +9220,10 @@
               "avg": 0.259
             },
             {
-              "id": 691777,
-              "name": "Max Muncy",
-              "ops": 0.715,
-              "avg": 0.226
+              "id": 675961,
+              "name": "Alika Williams",
+              "ops": 0.744,
+              "avg": 0.316
             },
             {
               "id": 666126,
@@ -9232,10 +9232,10 @@
               "avg": 0.25
             },
             {
-              "id": 641680,
-              "name": "Jonah Heim",
-              "ops": 0.48,
-              "avg": 0.065
+              "id": 661531,
+              "name": "Brian Serven",
+              "ops": 0.749,
+              "avg": 0.229
             }
           ],
           "bat_trend": "stable",
@@ -9255,20 +9255,20 @@
           }
         },
         "sit_score": 42.3,
-        "total": 32.5
+        "total": 34.3
       }
     },
     "scores": {
-      "away_offense": 33.1,
+      "away_offense": 30.0,
       "away_defense": 47.7,
-      "home_offense": 33.1,
+      "home_offense": 40.2,
       "home_defense": 29.7
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
