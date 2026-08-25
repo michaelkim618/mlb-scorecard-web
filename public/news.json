@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-25T22:04:59.829577+00:00",
+  "updated_at": "2026-08-25T23:00:29.457953+00:00",
   "news": [
+    {
+      "title": "Judge takes indoor BP against overhand pitching for first time since going on IL",
+      "link": "https://www.mlb.com/news/aaron-judge-takes-batting-practice-in-indoor-cages",
+      "summary": "Schmidt close to starting rehab assignment with eye on joining bullpen",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vh7pycjdv6dn8vvnhggd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-25T22:33:45+00:00",
+      "time_ago": "26m ago"
+    },
     {
       "title": "Almost 40 years ago, Dolly Parton visited Yankee Stadium and showed off her swing",
       "link": "https://www.mlb.com/news/dolly-parton-visit-to-yankee-stadium",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-25T21:39:36+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yanks add veteran Topa to bullpen, move Stanton to 60-day IL",
@@ -25,7 +38,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-25T21:32:00+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Bieber (shoulder) goes on IL, dealing another blow to Blue Jays",
@@ -38,7 +51,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-25T21:26:00+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Injuries: Bieber, Yankees, Dodgers, Red Sox, Winn, Woodruff, Soto",
@@ -64,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-25T19:47:27+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Winn (thumb fracture) goes on IL; Gorman recalled",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-25T19:34:41+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Playoff seeding at stake as division leaders Dodgers, Braves set for key clash",
@@ -90,19 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-08-25T19:10:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Glasnow comes off IL for first start since early May",
-      "link": "https://www.mlb.com/news/tyler-glasnow-activated-from-injured-list-vs-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/h0wog30qugpe0ry1kql9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-25T18:24:45+00:00",
       "time_ago": "3h ago"
     }
   ]
