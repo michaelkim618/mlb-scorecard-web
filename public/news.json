@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T16:43:45.021284+00:00",
+  "updated_at": "2026-08-26T16:51:54.028853+00:00",
   "news": [
     {
       "title": "Cubs set franchise record for consecutive runs scored during West Coast trip",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-26T16:36:15+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "15m ago"
     },
     {
       "title": "Understanding how the Brewers' brand of baseball works, and whether it can last",
@@ -25,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-26T15:51:00+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Top 10 nastiest pitches: Ryan's heater, Mo's cutter & more",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-26T14:49:29+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Cease's painting gets new home in gallery display, charity merchandise collection",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-26T12:51:33+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     }
   ]
 }

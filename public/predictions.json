@@ -1841,7 +1841,7 @@
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "L",
       "home_handedness": "R",
       "bullpen_game": true,
@@ -1926,28 +1926,34 @@
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.206,
+          "recent_avg": 0.226,
           "runs_per_g": 3.6,
           "hr_per_g": 0.9,
           "bb_per_g": 3.0,
-          "season_ops": 0.637,
-          "season_avg": 0.206,
+          "season_ops": 0.67,
+          "season_avg": 0.226,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
+            "Héctor Rodríguez(0.562)",
             "Elly De La Cruz(0.776)",
             "Sal Stewart(0.814)",
             "JJ Bleday(0.746)",
-            "Tyler Stephenson(0.668)",
             "Eugenio Suárez(0.649)",
+            "Dane Myers(0.738)",
             "Matt McLain(0.643)",
-            "Héctor Rodríguez(0.562)",
-            "Ke'Bryan Hayes(0.573)",
-            "TJ Friedl(0.300)"
+            "Jose Trevino(0.533)",
+            "Ke'Bryan Hayes(0.573)"
           ],
           "lineup_players": [
+            {
+              "id": 699302,
+              "name": "Héctor Rodríguez",
+              "ops": 0.562,
+              "avg": 0.194
+            },
             {
               "id": 682829,
               "name": "Elly De La Cruz",
@@ -1967,16 +1973,16 @@
               "avg": 0.25
             },
             {
-              "id": 663886,
-              "name": "Tyler Stephenson",
-              "ops": 0.668,
-              "avg": 0.194
-            },
-            {
               "id": 553993,
               "name": "Eugenio Suárez",
               "ops": 0.649,
               "avg": 0.207
+            },
+            {
+              "id": 667472,
+              "name": "Dane Myers",
+              "ops": 0.738,
+              "avg": 0.257
             },
             {
               "id": 680574,
@@ -1985,22 +1991,16 @@
               "avg": 0.176
             },
             {
-              "id": 699302,
-              "name": "Héctor Rodríguez",
-              "ops": 0.562,
-              "avg": 0.194
+              "id": 624431,
+              "name": "Jose Trevino",
+              "ops": 0.533,
+              "avg": 0.179
             },
             {
               "id": 663647,
               "name": "Ke'Bryan Hayes",
               "ops": 0.573,
               "avg": 0.2
-            },
-            {
-              "id": 670770,
-              "name": "TJ Friedl",
-              "ops": 0.3,
-              "avg": 0.062
             }
           ],
           "bat_trend": "stable",
@@ -2103,33 +2103,33 @@
         },
         "bat_score": 15.0,
         "bat_detail": {
-          "recent_avg": 0.198,
+          "recent_avg": 0.212,
           "runs_per_g": 3.6,
           "hr_per_g": 1.1,
           "bb_per_g": 3.0,
-          "season_ops": 0.599,
-          "season_avg": 0.198,
+          "season_ops": 0.624,
+          "season_avg": 0.212,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Drew Gilbert(0.764)",
+            "Jonah Cox(0.691)",
             "Rafael Devers(0.887)",
             "Jung Hoo Lee(0.643)",
+            "Buddy Kennedy(0.514)",
+            "Osleivis Basabe(0.498)",
             "Turner Hill(0.714)",
-            "Drew Cavanaugh(0.611)",
-            "Nate Furman(0.322)",
+            "Andrew Knizner(0.694)",
             "Shay Whitcomb(0.409)",
-            "Grant McCray(0.476)",
             "Christian Koss(0.568)"
           ],
           "lineup_players": [
             {
-              "id": 687551,
-              "name": "Drew Gilbert",
-              "ops": 0.764,
-              "avg": 0.273
+              "id": 813841,
+              "name": "Jonah Cox",
+              "ops": 0.691,
+              "avg": 0.217
             },
             {
               "id": 646240,
@@ -2144,34 +2144,34 @@
               "avg": 0.237
             },
             {
+              "id": 671083,
+              "name": "Buddy Kennedy",
+              "ops": 0.514,
+              "avg": 0.267
+            },
+            {
+              "id": 678545,
+              "name": "Osleivis Basabe",
+              "ops": 0.498,
+              "avg": 0.171
+            },
+            {
               "id": 806367,
               "name": "Turner Hill",
               "ops": 0.714,
               "avg": 0.222
             },
             {
-              "id": 701852,
-              "name": "Drew Cavanaugh",
-              "ops": 0.611,
-              "avg": 0.273
-            },
-            {
-              "id": 801501,
-              "name": "Nate Furman",
-              "ops": 0.322,
-              "avg": 0.091
+              "id": 668800,
+              "name": "Andrew Knizner",
+              "ops": 0.694,
+              "avg": 0.2
             },
             {
               "id": 694376,
               "name": "Shay Whitcomb",
               "ops": 0.409,
               "avg": 0.111
-            },
-            {
-              "id": 687529,
-              "name": "Grant McCray",
-              "ops": 0.476,
-              "avg": 0.087
             },
             {
               "id": 683766,
@@ -2207,10 +2207,10 @@
       "home_defense": 31.8
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -2221,8 +2221,8 @@
     "model_winner": "San Francisco Giants",
     "model_correct": null,
     "notes": "Cincinnati Reds IL: Blake Dunn, Brandon Williamson, Graham Ashcraft, Hunter Greene, Michael Toglia 외 다수 / San Francisco Giants IL: Carson Whisenhunt, Casey Schmitt, Daniel Susac, Harrison Bader, Hayden Birdsong 외 다수",
-    "kalshi_prob": 51.0,
-    "edge": -1.0,
+    "kalshi_prob": 52.0,
+    "edge": -2.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false
