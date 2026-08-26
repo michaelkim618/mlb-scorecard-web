@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-26T04:07:27.201054+00:00",
+  "updated_at": "2026-08-26T04:23:36.412129+00:00",
   "news": [
+    {
+      "title": "The best player at (almost) every age this season, from 20 to 43",
+      "link": "https://www.mlb.com/news/best-mlb-players-by-age-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/whkq7lm7u4vln9qdzaaw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-26T04:19:02+00:00",
+      "time_ago": "4m ago"
+    },
+    {
+      "title": "Ranking the top 10 free agents this offseason",
+      "link": "https://www.mlb.com/news/top-2027-mlb-free-agents",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bff0ozc1axd2njqmtkm3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Feinsand",
+      "tag": "Rankings",
+      "tag_color": "#4F46E5",
+      "pub_date": "2026-08-26T04:13:00+00:00",
+      "time_ago": "10m ago"
+    },
     {
       "title": "Albies' clutch single gives Braves big win over NL rival Dodgers",
       "link": "https://www.mlb.com/news/braves-rally-late-to-beat-dodgers-in-battle-for-top-2-nl-seeds",
@@ -12,7 +38,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-26T04:00:00+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "23m ago"
+    },
+    {
+      "title": "Alonso's four hits in five innings fuels O's offensive outburst in St. Louis",
+      "link": "https://www.mlb.com/news/pete-alonso-goes-4-for-4-against-cardinals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ccr38etscacbkcxyrh3q",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jeff Jones",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-26T04:00:00+00:00",
+      "time_ago": "23m ago"
     },
     {
       "title": "Buxton exits vs. Athletics after reaching to field ground ball in OF",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-26T03:58:03+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "25m ago"
     },
     {
       "title": "Glasnow makes shakes off early trouble in 1st start since May",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-26T03:45:00+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Skenes puts recent struggles behind him against one of MLB's hottest lineups",
@@ -51,7 +90,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-08-26T03:42:00+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "41m ago"
     },
     {
       "title": "Brewers' 2026 first-rounder Trey Ebel steps in for brother Brady ... a month later",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-26T03:36:00+00:00",
-      "time_ago": "31m ago"
-    },
-    {
-      "title": "Royals take winning formula on road, hang on for 9th in a row",
-      "link": "https://www.mlb.com/news/seth-lugo-bullpen-help-royals-win-ninth-straight",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qllzxndqyk55gmi5i3c8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anne Rogers",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-26T03:26:00+00:00",
-      "time_ago": "41m ago"
-    },
-    {
-      "title": "Bradley fires first immaculate inning on record in Twins history",
-      "link": "https://www.mlb.com/news/taj-bradley-has-first-immaculate-inning-on-record-in-twins-history",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787713138/mlb/iy0lwtblyufignb7lntk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-26T03:16:17+00:00",
-      "time_ago": "51m ago"
-    },
-    {
-      "title": "Goodman homers in return from IL as Rockies snap losing streak",
-      "link": "https://www.mlb.com/news/hunter-goodman-returns-from-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/or1kvbrii9y5qrmunrfh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harding",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-26T03:13:00+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "47m ago"
     }
   ]
 }

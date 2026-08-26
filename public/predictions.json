@@ -7895,9 +7895,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Arizona Diamondbacks",
     "model_winner": "Chicago Cubs",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Chicago Cubs IL: Ben Brown, Cade Horton, Dansby Swanson, Edward Cabrera, Gavin Hollowell 외 다수 / Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Blake Walston, Corbin Burnes, Cristian Mena 외 다수",
     "kalshi_prob": 49.0,
     "edge": 1.0,
@@ -10132,9 +10132,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Seattle Mariners",
     "model_winner": "Philadelphia Phillies",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Felix Reyes, Johan Rojas 외 다수 / Seattle Mariners IL: Brendan Donovan, Cole Wilcox, Colt Emerson, Cooper Criswell, Logan Evans 외 다수",
     "kalshi_prob": 51.0,
     "edge": -14.0,
