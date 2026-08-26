@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-08-26T04:26:49.805115+00:00",
+  "updated_at": "2026-08-26T05:03:31.767717+00:00",
   "news": [
+    {
+      "title": "GRAND DURAN! 11th-inning slam lifts Sox over Marlins",
+      "link": "https://www.mlb.com/news/jarren-duran-hits-grand-slam-in-11th-inning-as-red-sox-beat-marlins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jh4f5vi1a5stfakgcltk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Perla Paredes",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-26T04:47:00+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Peters homers in 4th straight game, flirts with cycle in big night at plate",
+      "link": "https://www.mlb.com/news/tristan-peters-homers-in-fourth-straight-game-white-sox-beat-rangers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qhffo2aq89iti2uxuckx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-26T04:46:00+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Flip tag! This player went above and beyond on his rehab assignment",
+      "link": "https://www.mlb.com/news/blaze-alexander-flip-tag",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jtpi9flnoxfab3hg763i",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brent Maguire",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-08-26T04:37:38+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "Waldschmidt completes D-backs' 5-run comeback over Cubs with pinch-homer",
+      "link": "https://www.mlb.com/news/ryan-waldschmidt-hits-walk-off-pinch-hit-homer-in-5-run-comeback",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vqn7u9spkziht4xzkcdj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-26T04:36:54+00:00",
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "Kirby spins 9-K gem to power Mariners to crucial series win over Phillies",
+      "link": "https://www.mlb.com/news/george-kirby-has-9-strikeouts-as-mariners-win-vs-phillies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kkrek6tefrrppcyisfnt",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-26T04:31:23+00:00",
+      "time_ago": "32m ago"
+    },
     {
       "title": "The best player at (almost) every age this season, from 20 to 43",
       "link": "https://www.mlb.com/news/best-mlb-players-by-age-2026",
@@ -12,7 +77,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-26T04:19:02+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "44m ago"
+    },
+    {
+      "title": "After disheartening stretch, Astros do what they need to in morale-lifting win",
+      "link": "https://www.mlb.com/news/alvarez-diaz-help-astros-complete-comeback-over-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ua6n5ggsepa7cegneodh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-26T04:14:00+00:00",
+      "time_ago": "49m ago"
     },
     {
       "title": "Ranking the top 10 free agents this offseason",
@@ -25,85 +103,7 @@
       "tag": "Rankings",
       "tag_color": "#4F46E5",
       "pub_date": "2026-08-26T04:13:00+00:00",
-      "time_ago": "13m ago"
-    },
-    {
-      "title": "Lindor's best shows out on field, at plate in walk-off win",
-      "link": "https://www.mlb.com/news/francisco-lindor-leads-mets-walk-off-win-vs-brewers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gycp7moncld3nla31pex",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-26T04:09:00+00:00",
-      "time_ago": "17m ago"
-    },
-    {
-      "title": "Albies' clutch single gives Braves big win over NL rival Dodgers",
-      "link": "https://www.mlb.com/news/braves-rally-late-to-beat-dodgers-in-battle-for-top-2-nl-seeds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787711944/mlb/teql9blscoupcn93pedf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-26T04:00:00+00:00",
-      "time_ago": "26m ago"
-    },
-    {
-      "title": "Alonso's four hits in five innings fuels O's offensive outburst in St. Louis",
-      "link": "https://www.mlb.com/news/pete-alonso-goes-4-for-4-against-cardinals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ccr38etscacbkcxyrh3q",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jeff Jones",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-26T04:00:00+00:00",
-      "time_ago": "26m ago"
-    },
-    {
-      "title": "Buxton exits vs. Athletics after reaching to field ground ball in OF",
-      "link": "https://www.mlb.com/news/byron-buxton-exits-game-vs-athletics-with-apparent-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787715611/mlb/dj7affkj4zzit6jxigdj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-26T03:58:03+00:00",
-      "time_ago": "28m ago"
-    },
-    {
-      "title": "Glasnow makes shakes off early trouble in 1st start since May",
-      "link": "https://www.mlb.com/news/tyler-glasnow-activated-from-injured-list-vs-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787710770/mlb/qorzfrawo7wjfixyi9ku",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Courtney Hollmon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-26T03:45:00+00:00",
-      "time_ago": "41m ago"
-    },
-    {
-      "title": "Skenes puts recent struggles behind him against one of MLB's hottest lineups",
-      "link": "https://www.mlb.com/news/paul-skenes-starts-against-padres-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hftaoarrpmku7l2xbinp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-08-26T03:42:00+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "50m ago"
     }
   ]
 }
