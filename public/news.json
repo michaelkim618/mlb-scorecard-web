@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-26T03:40:41.866758+00:00",
+  "updated_at": "2026-08-26T04:01:06.661066+00:00",
   "news": [
+    {
+      "title": "Albies' clutch single gives Braves big win over NL rival Dodgers",
+      "link": "https://www.mlb.com/news/braves-rally-late-to-beat-dodgers-in-battle-for-top-2-nl-seeds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787711944/mlb/teql9blscoupcn93pedf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-26T04:01:00+00:00",
+      "time_ago": "0m ago"
+    },
+    {
+      "title": "Glasnow makes shakes off early trouble in 1st start since May",
+      "link": "https://www.mlb.com/news/tyler-glasnow-activated-from-injured-list-vs-braves",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787710770/mlb/qorzfrawo7wjfixyi9ku",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Courtney Hollmon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-26T03:45:00+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Skenes puts recent struggles behind him against one of MLB's hottest lineups",
+      "link": "https://www.mlb.com/news/paul-skenes-starts-against-padres-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hftaoarrpmku7l2xbinp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-08-26T03:42:00+00:00",
+      "time_ago": "19m ago"
+    },
     {
       "title": "Brewers' 2026 first-rounder Trey Ebel steps in for brother Brady ... a month later",
       "link": "https://www.mlb.com/news/brewers-trey-ebel-pinch-hits-for-brother-brady-ebel-at-single-a",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-26T03:36:00+00:00",
-      "time_ago": "4m ago"
+      "time_ago": "25m ago"
     },
     {
       "title": "Royals take winning formula on road, hang on for 9th in a row",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-26T03:26:00+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "35m ago"
     },
     {
       "title": "Bradley fires first immaculate inning on record in Twins history",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-26T03:16:17+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "44m ago"
     },
     {
       "title": "Goodman homers in return from IL as Rockies snap losing streak",
@@ -51,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-26T03:13:00+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "'Geeked' Clark makes up for miscue with 1st Comerica home run",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-26T03:12:00+00:00",
-      "time_ago": "28m ago"
-    },
-    {
-      "title": "Peters homers in 4th straight game, flirts with cycle in big night at plate",
-      "link": "https://www.mlb.com/news/tristan-peters-homers-in-fourth-straight-game-white-sox-beat-rangers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qhffo2aq89iti2uxuckx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-26T03:05:53+00:00",
-      "time_ago": "34m ago"
-    },
-    {
-      "title": "Immaculate innings: 3 strikeouts on 9 pitches",
-      "link": "https://www.mlb.com/news/immaculate-innings-c265720420",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qr1qxph8wdoerch7i4sk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ed Eagle",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-26T03:04:00+00:00",
-      "time_ago": "36m ago"
-    },
-    {
-      "title": "Alonso's four hits in five innings fuels O's offensive outburst in St. Louis",
-      "link": "https://www.mlb.com/news/pete-alonso-goes-4-for-4-against-cardinals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ccr38etscacbkcxyrh3q",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jeff Jones",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-26T02:58:00+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "49m ago"
     }
   ]
 }
