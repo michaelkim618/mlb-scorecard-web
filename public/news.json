@@ -1,57 +1,44 @@
 {
-  "updated_at": "2026-08-26T10:05:30.863579+00:00",
+  "updated_at": "2026-08-26T16:43:45.021284+00:00",
   "news": [
     {
-      "title": "Vintage J-Ram steals show in Guards' 'heart-pumper' of a comeback",
-      "link": "https://www.mlb.com/news/jose-ramirez-has-5-rbis-as-guardians-beat-angels",
+      "title": "Cubs set franchise record for consecutive runs scored during West Coast trip",
+      "link": "https://www.mlb.com/news/cubs-score-franchise-record-30-consecutive-runs",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787726649/mlb/li9i2mbudns9hnu7ehoq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-26T07:50:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Walk-off Waldschmidt! Rookie's pinch-hit HR caps D-backs' comeback vs. Cubs",
-      "link": "https://www.mlb.com/news/ryan-waldschmidt-hits-walk-off-pinch-hit-homer-in-5-run-comeback",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vqn7u9spkziht4xzkcdj",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pl3qkck7pvihoik2kx5v",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-26T06:28:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "After early exit, Buxton (right hip discomfort) to be reevaluated Wednesday",
-      "link": "https://www.mlb.com/news/byron-buxton-exits-game-vs-athletics-with-apparent-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787722992/mlb/ppe4dldt7nfkxebxkvmu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-26T05:57:00+00:00",
-      "time_ago": "4h ago"
+      "pub_date": "2026-08-26T16:36:15+00:00",
+      "time_ago": "7m ago"
     },
     {
-      "title": "Bradley fires first immaculate inning on record in Twins history",
-      "link": "https://www.mlb.com/news/taj-bradley-has-first-immaculate-inning-on-record-in-twins-history",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787713138/mlb/iy0lwtblyufignb7lntk",
+      "title": "Understanding how the Brewers' brand of baseball works, and whether it can last",
+      "link": "https://www.mlb.com/news/2026-brewers-offense-what-is-working",
+      "summary": "Milwaukee is the only team in baseball with an opposite-field attack direction",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aoj8pcp1mcb9bb9b5ro0",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Matthew Leach",
+      "author": "Mike Petriello",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-26T05:54:00+00:00",
-      "time_ago": "4h ago"
+      "pub_date": "2026-08-26T15:51:00+00:00",
+      "time_ago": "52m ago"
+    },
+    {
+      "title": "Top 10 nastiest pitches: Ryan's heater, Mo's cutter & more",
+      "link": "https://www.mlb.com/news/top-nastiest-pitches-in-baseball-history",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/newfcxlsecte8x35bmes",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-26T15:25:09+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Furious George punches out 9 in gem -- and wants more",
@@ -63,47 +50,60 @@
       "author": "Daniel Kramer",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-26T05:47:00+00:00",
-      "time_ago": "4h ago"
+      "pub_date": "2026-08-26T15:13:00+00:00",
+      "time_ago": "1h ago"
     },
     {
-      "title": "GRAND DURAN! 11th-inning slam lifts Sox over Marlins",
-      "link": "https://www.mlb.com/news/jarren-duran-hits-grand-slam-in-11th-inning-as-red-sox-beat-marlins",
+      "title": "Emotional Alcantara takes his place on leaders wall in Marlins Museum",
+      "link": "https://www.mlb.com/news/sandy-alcantara-honored-by-marlins-museum-at-loandepot-park",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jh4f5vi1a5stfakgcltk",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787700116/mlb/bfpjggguxowwflj5eumo",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Perla Paredes",
+      "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-26T04:47:00+00:00",
-      "time_ago": "5h ago"
+      "pub_date": "2026-08-26T14:55:57+00:00",
+      "time_ago": "1h ago"
     },
     {
-      "title": "Peters homers in 4th straight game, flirts with cycle in big night at plate",
-      "link": "https://www.mlb.com/news/tristan-peters-homers-in-fourth-straight-game-white-sox-beat-rangers",
+      "title": "Big Dumper homers in 4th straight AB to continue surge",
+      "link": "https://www.mlb.com/news/cal-raleigh-homers-for-second-straight-game-vs-phillies",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qhffo2aq89iti2uxuckx",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787633040/mlb/kqnz29snhbjxhpzskl7m",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Scott Merkin",
+      "author": "Brian Murphy",
       "tag": "Highlight",
       "tag_color": "#D97706",
-      "pub_date": "2026-08-26T04:46:00+00:00",
-      "time_ago": "5h ago"
+      "pub_date": "2026-08-26T14:54:20+00:00",
+      "time_ago": "1h ago"
     },
     {
-      "title": "Flip tag! This player went above and beyond on his rehab assignment",
-      "link": "https://www.mlb.com/news/blaze-alexander-flip-tag",
+      "title": "This Tigers prospect has jaw-dropping -- and parking lot! -- power",
+      "link": "https://www.mlb.com/news/tigers-prospect-zyhir-hope-known-for-his-powerful-bat",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jtpi9flnoxfab3hg763i",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qvt5cv0sj8xs1blq2fm2",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Brent Maguire",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-08-26T04:37:38+00:00",
-      "time_ago": "5h ago"
+      "author": "Jason Beck",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-26T14:49:29+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Cease's painting gets new home in gallery display, charity merchandise collection",
+      "link": "https://www.mlb.com/news/dylan-cease-painting-at-art-gallery-of-toronto-event",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mut21vuxo3ijv1f1krlg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-26T12:51:33+00:00",
+      "time_ago": "3h ago"
     }
   ]
 }
