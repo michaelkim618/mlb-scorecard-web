@@ -1,0 +1,202 @@
+{
+  "title": "Aug 25 Results + Aug 26 Preview: Let's Call It What It Was—A Disaster",
+  "summary": "4-11 on Aug 25. No sugarcoating. Let me be honest about what went wrong.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Let Me Be Honest: That Was Brutal\n\nLook, I'm not here to spin this into something it wasn't. August 25th was an absolute train wreck. 4-11. Twenty-six percent accuracy. The kind of day that makes you question everything. But here's the thing—I'd rather give you the raw truth than some polished corporate nonsense about 'variance' and 'regression to the mean.' We got smoked. Period."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Today W-L",
+          "value": "4-11"
+        },
+        {
+          "label": "Accuracy",
+          "value": "26.7%"
+        },
+        {
+          "label": "Hit Rate",
+          "value": "Ugly"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Damage Report\n\nSeven losses. SEVEN. The Rays at 61% confidence? Wrong. The Yankees at home against Houston? Wrong. The Dodgers-Braves pick that seemed like free money? Wrong again. Even our 'safe' plays with 50-53% confidence cratered. The only bright spots were the Red Sox doing what they were supposed to do twice, the Orioles taking care of business in St. Louis, and the Guardians squeaking one out.\n\nBut let's not pretend four wins make up for eleven losses. They don't."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Aug 25 Prediction Results - The Ugly Truth",
+      "data": [
+        {
+          "name": "Rays",
+          "probability": 61,
+          "result": 0
+        },
+        {
+          "name": "Red Sox",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Nationals",
+          "probability": 52,
+          "result": 0
+        },
+        {
+          "name": "Yankees",
+          "probability": 50,
+          "result": 0
+        },
+        {
+          "name": "Blue Jays",
+          "probability": 51,
+          "result": 0
+        },
+        {
+          "name": "Brewers",
+          "probability": 53,
+          "result": 0
+        },
+        {
+          "name": "Dodgers",
+          "probability": 61,
+          "result": 0
+        },
+        {
+          "name": "Red Sox",
+          "probability": 55,
+          "result": 1
+        },
+        {
+          "name": "Orioles",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Guardians",
+          "probability": 51,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Full Aug 25 Results Breakdown",
+      "headers": [
+        "Game",
+        "Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Rays @ Tigers",
+          "Rays",
+          "61%",
+          "✗"
+        ],
+        [
+          "Red Sox @ Marlins",
+          "Red Sox",
+          "61%",
+          "✓"
+        ],
+        [
+          "Rockies @ Nationals",
+          "Nationals",
+          "52%",
+          "✗"
+        ],
+        [
+          "Astros @ Yankees",
+          "Yankees",
+          "50%",
+          "✗"
+        ],
+        [
+          "Royals @ Blue Jays",
+          "Blue Jays",
+          "51%",
+          "✗"
+        ],
+        [
+          "Brewers @ Mets",
+          "Brewers",
+          "53%",
+          "✗"
+        ],
+        [
+          "Dodgers @ Braves",
+          "Dodgers",
+          "61%",
+          "✗"
+        ],
+        [
+          "Rangers @ Red Sox",
+          "Red Sox",
+          "55%",
+          "✓"
+        ],
+        [
+          "Orioles @ Cardinals",
+          "Orioles",
+          "61%",
+          "✓"
+        ],
+        [
+          "Guardians @ Angels",
+          "Guardians",
+          "51%",
+          "✓"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Controversial Take Nobody Wants to Hear\n\nHere's what separates me from the rest of the baseball prediction crowd: I'm not going to tell you that yesterday's disaster means you should ignore today's picks. That's coward talk. Every day is a new slate. The model doesn't have feelings. It doesn't carry baggage from bad days.\n\nYes, we face-planted. Yes, it hurts. But running away after one terrible day is exactly how casual bettors stay casual. The real question is: do you trust the process or just the results?"
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Top Pick Preview: Back to the Scene of the Crime\n\nYou want provocative? Here it is: We're going RIGHT BACK to the Rays-Tigers well. Same matchup. Different day. The model likes Detroit at 51%—barely, but it likes them. Freddy Peralta for Tampa Bay against Troy Melton for Detroit.\n\nIs this the model being stubborn? Maybe. Or maybe it's recognizing something the box score doesn't show. After getting burned by Tampa Bay yesterday, I'm honestly intrigued by the audacity of pivoting to Detroit. It's the kind of contrarian move that either looks genius or doubles down on disaster."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Tomorrow's Top Pick - Aug 26",
+      "value": "Detroit Tigers over Tampa Bay Rays",
+      "sub": "51% win probability · Peralta vs Melton · Same teams, different outcome?"
+    },
+    {
+      "type": "text",
+      "value": "## The Bottom Line\n\nI'm not going to lie to you and say yesterday was 'part of the process' or feed you some motivational garbage. It was bad. Really bad. But if you're looking for someone to panic and abandon ship after one awful day, you're reading the wrong blog.\n\nAugust 26 is a new day. The Tigers are the pick. I'm not even that confident about it, but that's what the numbers say. Take it or leave it.\n\nLet's see if we can actually get back above 50% tomorrow. The bar is literally on the ground right now."
+    }
+  ],
+  "slug": "2026-08-25-daily-rico",
+  "author": "Rico",
+  "author_emoji": "🎭",
+  "author_role": "Drama Critic",
+  "author_color": "#DC2626",
+  "date": "2026-08-25",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#DC2626"
+}

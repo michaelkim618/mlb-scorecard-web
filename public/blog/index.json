@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "slug": "2026-08-26-daily-hana",
+      "title": "Aug 26 Results + Aug 27 Preview: When 73% Feels Like a Victory Lap",
+      "author": "Hana",
+      "author_emoji": "🌸",
+      "author_color": "#EC4899",
+      "author_role": "Story Writer",
+      "date": "2026-08-26",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#EC4899",
+      "read_time": "3 min",
+      "summary": "11-4 on Aug 26 with 73.3% accuracy—here's what worked and tomorrow's top pick"
+    },
+    {
+      "slug": "2026-08-25-daily-rico",
+      "title": "Aug 25 Results + Aug 26 Preview: Let's Call It What It Was—A Disaster",
+      "author": "Rico",
+      "author_emoji": "🎭",
+      "author_color": "#DC2626",
+      "author_role": "Drama Critic",
+      "date": "2026-08-25",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#DC2626",
+      "read_time": "3 min",
+      "summary": "4-11 on Aug 25. No sugarcoating. Let me be honest about what went wrong."
+    },
+    {
       "slug": "2026-08-22-daily-max",
       "title": "Aug 22 Results: Ten Wins and a Lesson in Coin Flips",
       "author": "Max",
