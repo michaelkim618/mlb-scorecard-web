@@ -220,7 +220,7 @@
     "home_pitcher_stats": {
       "wins": 2,
       "losses": 8,
-      "era": "5.74"
+      "era": "5.72"
     },
     "home_pitcher_gamelog": [
       {
@@ -448,12 +448,12 @@
         },
         "bat_score": 33.0,
         "bat_detail": {
-          "recent_avg": 0.248,
+          "recent_avg": 0.247,
           "runs_per_g": 4.0,
           "hr_per_g": 1.1,
           "bb_per_g": 3.0,
-          "season_ops": 0.75,
-          "season_avg": 0.248,
+          "season_ops": 0.752,
+          "season_avg": 0.247,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -465,8 +465,8 @@
             "TJ Rumfield(0.773)",
             "Connor Norby(0.920)",
             "Troy Johnston(0.858)",
-            "Brett Sullivan(0.644)",
-            "Zac Veen(0.579)",
+            "Brett Sullivan(0.633)",
+            "Zac Veen(0.615)",
             "Ezequiel Tovar(0.742)"
           ],
           "lineup_players": [
@@ -509,13 +509,13 @@
             {
               "id": 664954,
               "name": "Brett Sullivan",
-              "ops": 0.644,
-              "avg": 0.172
+              "ops": 0.633,
+              "avg": 0.167
             },
             {
               "id": 691728,
               "name": "Zac Veen",
-              "ops": 0.579,
+              "ops": 0.615,
               "avg": 0.167
             },
             {
@@ -527,7 +527,7 @@
           ],
           "bat_trend": "stable",
           "last5_rpg": 4.2,
-          "last5_avg": 0.25,
+          "last5_avg": 0.248,
           "home_split": {
             "recent_avg": 0.246,
             "runs_per_g": 4.5,

@@ -1,11 +1,11 @@
 {
-  "title": "Aug 26 Results + Aug 27 Preview: Eleven Wins and We're Just Getting Started",
-  "summary": "Our model crushed it with 11-4 on Aug 26. Tomorrow's pick? Nationals again.",
+  "title": "Aug 26 Results + Aug 27 Preview: When the Model Gets Hot",
+  "summary": "11-4 on Aug 26 with 73% accuracy—here's what worked and tomorrow's top pick",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Here's the Thing About Momentum\n\nSome days you just feel it clicking, you know? August 26th was one of those days where our model found its groove and didn't let go. We went 11-4 across the slate, hitting 73.3% of our picks. And honestly? The three misses tell just as good a story as the wins."
+      "value": "## When Everything Clicks\n\nHere's the thing about August 26th—it was one of those nights where you could feel the momentum building with each result that came in. An 11-4 record with 73.3% accuracy isn't just good; it's the kind of performance that reminds you why we trust the numbers, even when they whisper instead of shout."
     },
     {
       "type": "stat_row",
@@ -19,19 +19,23 @@
           "value": "73.3%"
         },
         {
-          "label": "Total Picks",
-          "value": "15"
+          "label": "Hits",
+          "value": "11"
+        },
+        {
+          "label": "Misses",
+          "value": "4"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Story of August 26\n\nLet's talk about what happened. The Diamondbacks took care of business against the Cubs just like we expected at 62% confidence. The Guardians, Pirates, and Phillies all delivered on the road—those are the kinds of wins that build your bankroll and your confidence.\n\nBut here's what I love: even our misses were close calls. The Tigers pick at 51%? The Nationals at 51%? Those were essentially coin flips, and that's exactly how we treated them. We're not pretending to have crystal balls here."
+      "value": "## The Standouts\n\nThe Padres pick at 68% confidence was our strongest call of the night, and it delivered. There's something satisfying about watching a high-confidence pick play out exactly as predicted—Pittsburgh never really had a chance in that one.\n\nThe Phillies-Mariners matchup was another beauty. At 61% confidence, we leaned into Philadelphia's road prowess, and they showed up when it mattered. Sometimes the model sees things before they become obvious."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Aug 26 Prediction Performance by Confidence",
+      "title": "Aug 26 Prediction Results by Confidence",
       "data": [
         {
           "name": "Tigers",
@@ -100,9 +104,9 @@
     },
     {
       "type": "table",
-      "title": "Complete Aug 26 Results Breakdown",
+      "title": "Complete Aug 26 Results",
       "headers": [
-        "Matchup",
+        "Game",
         "Our Pick",
         "Confidence",
         "Result"
@@ -172,26 +176,22 @@
     },
     {
       "type": "text",
-      "value": "## The Human Element\n\nYou know what's wild? That Yankees pick at exactly 50% that somehow hit. Sometimes baseball is just baseball, and the most uncertain games break your way. Meanwhile, our highest-confidence pick—the Padres at 68%—sailed through without drama. That's the kind of variety that keeps this game interesting."
+      "value": "## The Misses Tell a Story Too\n\nLet's talk about what didn't work. The Tigers upset at 51% confidence? That's basically a coin flip, and the coin landed the other way. The Sox-Marlins miss at 61% stings a bit more, but that's baseball—sometimes the underdog finds their moment.\n\nThe Nationals loss is particularly interesting because we're going right back to that well tomorrow. The model doesn't hold grudges, and neither should we."
     },
     {
       "type": "text",
-      "value": "## Looking Ahead to August 27\n\nAnd here's where things get interesting for tomorrow. We're going back to the well with the Nationals, who let us down yesterday in that nail-biter against the Rockies. Sometimes the best revenge is immediate.\n\nGabriel Hughes takes the mound for Colorado against Washington's Jake Irvin. Our model sees this as another tight one—50% confidence on the Nationals—but there's value in understanding the matchup dynamics here."
+      "value": "## Looking Ahead to August 27\n\nTomorrow's top pick takes us back to Washington, where the Nationals host the Rockies in a rematch situation. Jake Irvin gets the ball for Washington against Colorado's Gabriel Hughes, and here's where it gets interesting—the model is giving us a 50% edge, which is essentially saying these teams are dead even on paper.\n\nBut we're still leaning Nationals, and there's a reason for that."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Tomorrow's Top Pick - Aug 27",
-      "value": "Washington Nationals",
-      "sub": "50% Win Probability · Jake Irvin vs Gabriel Hughes · Rockies @ Nationals"
+      "value": "Washington Nationals over Colorado Rockies",
+      "sub": "50% confidence · Jake Irvin vs Gabriel Hughes · Home advantage matters"
     },
     {
       "type": "text",
-      "value": "## Why We're Riding With Washington\n\nHere's the thing about the Nationals right now—they're playing at home against a Rockies team that historically struggles away from Coors Field. Yes, it's a 50-50 call on paper, but sometimes the context matters as much as the numbers.\n\nJake Irvin has been steady for Washington, and while Gabriel Hughes has shown flashes for Colorado, the road environment is a different beast entirely for Rockies pitchers who are used to that thin Denver air.\n\nIs this our highest conviction play ever? No. But after going 11-4 yesterday, we're trusting the process and staying disciplined. That's how you build long-term success in this game."
-    },
-    {
-      "type": "text",
-      "value": "## The Bottom Line\n\nAugust 26 reminded us why we do this. An 11-4 record isn't just luck—it's the model working, the analysis holding up, and the process proving itself. Tomorrow brings a fresh challenge with the Nationals, and we're ready for it.\n\nStay sharp, trust your research, and remember: in baseball, there's always another game tomorrow. And we'll be here breaking it all down.\n\n*- Hana*"
+      "value": "## The Pitcher Matchup\n\nJake Irvin has been steady at home this season, and Gabriel Hughes is still finding his footing at the big league level. When you've got two teams this evenly matched, the starting pitching becomes the tiebreaker, and Washington holds that edge.\n\nThe Rockies away from Coors Field are a different animal—in the worst way possible. Their offense loses its altitude-assisted pop, and suddenly those hitters who look dangerous in Denver become very hittable everywhere else.\n\n50% confidence might not scream \"lock of the century,\" but it's an honest assessment of a game that could genuinely go either way. We're trusting the home field, the pitching matchup, and the fact that Colorado hasn't figured out how to win on the road.\n\nLet's see if Washington can deliver the second time around."
     }
   ],
   "slug": "2026-08-26-daily-hana",
