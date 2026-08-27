@@ -748,7 +748,14 @@
     "edge": null,
     "value_bet": "마켓 없음",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "sp_bat_conflict": true,
+    "sp_bat_conflict_detail": {
+      "sp_favors": "Detroit Tigers",
+      "bat_favors": "Tampa Bay Rays",
+      "sp_gap": -39.6,
+      "bat_gap": 10.0
+    }
   },
   {
     "date": "2026-08-26",
@@ -1483,7 +1490,14 @@
     "edge": null,
     "value_bet": "마켓 없음",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "sp_bat_conflict": true,
+    "sp_bat_conflict_detail": {
+      "sp_favors": "Arizona Diamondbacks",
+      "bat_favors": "Chicago Cubs",
+      "sp_gap": -17.8,
+      "bat_gap": 12.0
+    }
   },
   {
     "date": "2026-08-26",
@@ -2199,7 +2213,7 @@
       "home_defense": 39.0
     },
     "actual_score": {
-      "away": 9,
+      "away": 10,
       "home": 9
     },
     "lineup_confirmed": true,
@@ -2209,15 +2223,22 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Cincinnati Reds",
     "model_winner": "Cincinnati Reds",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Cincinnati Reds IL: Blake Dunn, Brandon Williamson, Graham Ashcraft, Hunter Greene, Michael Toglia 외 다수 / San Francisco Giants IL: Adrian Houser, Carson Whisenhunt, Casey Schmitt, Daniel Susac, Harrison Bader 외 다수",
     "kalshi_prob": 12.0,
     "edge": 32.8,
     "value_bet": "⚠️ 극단적 edge +32.8%p — 마켓 데이터 이상 의심, VB 신중 검토 (San Francisco Giants)",
     "extreme_edge": true,
-    "consensus": false
+    "consensus": false,
+    "sp_bat_conflict": true,
+    "sp_bat_conflict_detail": {
+      "sp_favors": "San Francisco Giants",
+      "bat_favors": "Cincinnati Reds",
+      "sp_gap": -20.0,
+      "bat_gap": 9.5
+    }
   },
   {
     "date": "2026-08-26",
@@ -2945,15 +2966,17 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Cleveland Guardians",
     "model_winner": "Cleveland Guardians",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Cleveland Guardians IL: Rhys Hoskins, Shawn Armstrong, Slade Cecconi / Los Angeles Angels IL: Anthony Rendon, Gustavo Campero, Jack Kochanowicz, Nolan Schanuel, Robert Stephenson 외 다수",
     "kalshi_prob": 25.0,
     "edge": 14.3,
     "value_bet": "✅ Value Bet 후보 (Los Angeles Angels)",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "sp_bat_conflict": false,
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-08-26",
@@ -3711,15 +3734,17 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "San Diego Padres",
     "model_winner": "San Diego Padres",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Pittsburgh Pirates IL: Endy Rodríguez, Konnor Griffin, Mitch Keller, Ryan O'Hearn / San Diego Padres IL: Bryan Hoeing, Jason Adam, Jeremiah Estrada, Joe Musgrove, Lucas Giolito 외 다수",
     "kalshi_prob": 97.0,
     "edge": -28.8,
     "value_bet": "🚨 극단 Edge (마켓 이상 의심) — San Diego Padres edge -28.8%p",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "sp_bat_conflict": false,
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-08-26",
@@ -4454,7 +4479,9 @@
     "edge": null,
     "value_bet": "마켓 없음",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "sp_bat_conflict": false,
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-08-26",
@@ -5201,7 +5228,7 @@
     },
     "actual_score": {
       "away": 0,
-      "home": 0
+      "home": 4
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -5210,15 +5237,17 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Miami Marlins",
     "model_winner": "Boston Red Sox",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Boston Red Sox IL: Curtis Mead, Garrett Crochet, Garrett Whitlock, Isiah Kiner-Falefa, Johan Oviedo 외 다수 / Miami Marlins IL: Adam Mazur, Andrew Nardi, Anthony Bender, Max Meyer, Pete Fairbanks 외 다수",
     "kalshi_prob": 47.0,
     "edge": -8.4,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Miami Marlins)",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "sp_bat_conflict": false,
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-08-26",
@@ -5942,8 +5971,8 @@
       "home_defense": 37.8
     },
     "actual_score": {
-      "away": 0,
-      "home": 0
+      "away": 13,
+      "home": 1
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -5952,15 +5981,17 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Colorado Rockies",
     "model_winner": "Washington Nationals",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Colorado Rockies IL: Chase Dollander, Jose Quintana, Kris Bryant, Kyle Freeland, Kyle Karros 외 다수 / Washington Nationals IL: Connelly Early, DJ Herz, Drew Millas, James Wood, Josiah Gray 외 다수",
     "kalshi_prob": 57.0,
     "edge": -5.7,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "sp_bat_conflict": false,
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-08-26",
@@ -6634,8 +6665,8 @@
       "home_defense": 50.8
     },
     "actual_score": {
-      "away": 0,
-      "home": 0
+      "away": 3,
+      "home": 9
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -6644,15 +6675,17 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "New York Yankees",
     "model_winner": "New York Yankees",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Houston Astros IL: Brandon Walter, Brice Matthews, Carlos Correa, Mike Burrows / New York Yankees IL: Aaron Judge, Clarke Schmidt, Fernando Cruz, Giancarlo Stanton, Kervin Castro 외 다수",
     "kalshi_prob": 53.0,
     "edge": -3.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "sp_bat_conflict": false,
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-08-26",
@@ -7359,7 +7392,7 @@
     },
     "actual_score": {
       "away": 0,
-      "home": 0
+      "home": 3
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -7368,15 +7401,17 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Toronto Blue Jays",
     "model_winner": "Toronto Blue Jays",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Kansas City Royals IL: Alec Marsh, Beck Way, Carlos Estévez, Cole Ragans, Connor Seabold 외 다수 / Toronto Blue Jays IL: Addison Barger, Anthony Santander, Bowden Francis, Cody Ponce, Jake Bloss 외 다수",
     "kalshi_prob": 59.0,
     "edge": -2.6,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "sp_bat_conflict": false,
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-08-26",
@@ -8041,8 +8076,8 @@
       "home_defense": 46.2
     },
     "actual_score": {
-      "away": 0,
-      "home": 0
+      "away": 8,
+      "home": 1
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -8051,15 +8086,17 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Milwaukee Brewers",
     "model_winner": "Milwaukee Brewers",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Milwaukee Brewers IL: Abner Uribe, Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, JoJo Romero 외 다수 / New York Mets IL: Cionel Pérez, Devin Williams, Jorge Polanco, Juan Soto, Justin Hagenman 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "⏭️ 패스 (양팀 ERA 5.0+ — 불확실성 과다, SP격차 0.0p 참고)",
     "extreme_edge": false,
-    "consensus": null
+    "consensus": null,
+    "sp_bat_conflict": false,
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-08-26",
@@ -8689,8 +8726,8 @@
       "home_defense": 54.1
     },
     "actual_score": {
-      "away": 0,
-      "home": 0
+      "away": 5,
+      "home": 6
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -8699,15 +8736,17 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Atlanta Braves",
     "model_winner": "Los Angeles Dodgers",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Los Angeles Dodgers IL: Andy Pages, Ben Casparius, Blake Treinen, Bobby Miller, Brusdar Graterol 외 다수 / Atlanta Braves IL: Joe Jiménez, Joey Wentz, Reynaldo López, Robert Suarez, Spencer Schwellenbach 외 다수",
     "kalshi_prob": 46.0,
     "edge": -2.9,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "sp_bat_conflict": false,
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-08-26",
@@ -9438,8 +9477,8 @@
       "home_defense": 64.1
     },
     "actual_score": {
-      "away": 0,
-      "home": 0
+      "away": 4,
+      "home": 10
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -9448,15 +9487,17 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Chicago White Sox",
     "model_winner": "Chicago White Sox",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Texas Rangers IL: Carter Baumler, Jack Leiter, Jalen Beeks, Jose Corniell, Josh Jung 외 다수 / Chicago White Sox IL: Brooks Baldwin, Chris Murphy, Davis Martin, Drew Thorpe, Huascar Brazobán 외 다수",
     "kalshi_prob": 53.0,
     "edge": 7.9,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "sp_bat_conflict": false,
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-08-26",
@@ -10188,8 +10229,8 @@
       "home_defense": 34.4
     },
     "actual_score": {
-      "away": 0,
-      "home": 0
+      "away": 8,
+      "home": 7
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -10198,15 +10239,17 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Baltimore Orioles",
     "model_winner": "Baltimore Orioles",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Baltimore Orioles IL: Blaze Alexander, Colin Selby, Félix Bautista, Jordan Westburg, Keegan Akin 외 다수 / St. Louis Cardinals IL: Andre Pallante, Everson Pereira, Hunter Dobbins, Masyn Winn, Max Rajcic",
     "kalshi_prob": 49.0,
     "edge": -9.0,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: St. Louis Cardinals)",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "sp_bat_conflict": false,
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-08-26",
@@ -10930,8 +10973,8 @@
       "home_defense": 39.8
     },
     "actual_score": {
-      "away": 0,
-      "home": 0
+      "away": 4,
+      "home": 7
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -10940,14 +10983,16 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Athletics",
     "model_winner": "Athletics",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Minnesota Twins IL: Anthony Banda, Austin Martin, Cole Sands, David Festa, Joe Ryan 외 다수 / Athletics IL: Brent Rooker, Brooks Kriske, Denzel Clarke, Gunnar Hoglund, Jacob Wilson 외 다수",
     "kalshi_prob": 44.0,
     "edge": 12.6,
     "value_bet": "✅ Value Bet 후보 (Athletics)",
     "extreme_edge": false,
-    "consensus": false
+    "consensus": false,
+    "sp_bat_conflict": false,
+    "sp_bat_conflict_detail": null
   }
 ]

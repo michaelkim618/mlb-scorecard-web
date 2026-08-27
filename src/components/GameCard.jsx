@@ -504,6 +504,22 @@ function SummaryBadges({ game, pickProb, awayColor, homeColor, awayName, homeNam
     );
   }
 
+  // 0.5 SP vs BAT 충돌 경고
+  if (game.sp_bat_conflict && game.sp_bat_conflict_detail) {
+    const { sp_favors, bat_favors, sp_gap, bat_gap } = game.sp_bat_conflict_detail;
+    badges.push(
+      <Chip
+        key="spbat"
+        bg="#FFF7ED"
+        color="#C2410C"
+        border="#FED7AA"
+        title={`SP score favors ${sp_favors} (${sp_gap > 0 ? '+' : ''}${sp_gap}pt) but Batting score favors ${bat_favors} (${bat_gap > 0 ? '+' : ''}${bat_gap}pt). Conflicting signals — prediction confidence reduced.`}
+      >
+        ⚡ SP↔BAT Conflict — Lower Confidence
+      </Chip>
+    );
+  }
+
   // 1. Market comparison (edge vs Kalshi)
   if (game.edge != null) {
     const edgeVal = parseFloat(game.edge);
