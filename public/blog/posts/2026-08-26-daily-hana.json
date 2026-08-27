@@ -1,17 +1,17 @@
 {
-  "title": "Aug 26 Results + Aug 27 Preview: When The Model Finds Its Groove",
-  "summary": "73.3% accuracy on Aug 26 with 11 wins—here's what clicked and tomorrow's top pick",
+  "title": "Aug 26 Results + Aug 27 Preview: Eleven Wins and We're Just Getting Started",
+  "summary": "Our model crushed it with 11-4 on Aug 26. Tomorrow's pick? Nationals again.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Here's The Thing About Momentum\n\nSome days, the model just *gets it*. August 26th was one of those days where everything seemed to click into place—11 wins out of 15 picks, a 73.3% accuracy rate, and the kind of performance that reminds you why we trust the numbers in the first place.\n\nBut here's what I love most: it wasn't about perfect confidence scores or slam-dunk favorites. It was about reading the margins, finding value in the mid-range probabilities, and letting the data tell its story."
+      "value": "## Here's the Thing About Momentum\n\nSome days you just feel it clicking, you know? August 26th was one of those days where our model found its groove and didn't let go. We went 11-4 across the slate, hitting 73.3% of our picks. And honestly? The three misses tell just as good a story as the wins."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Aug 26 Record",
+          "label": "Aug 26 W-L",
           "value": "11-4"
         },
         {
@@ -19,18 +19,88 @@
           "value": "73.3%"
         },
         {
-          "label": "Best Pick",
-          "value": "Padres 68%"
+          "label": "Total Picks",
+          "value": "15"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Wins That Built The Day\n\nThe Padres pick at 68% was our most confident call, and they delivered exactly as expected against the Pirates. But the real beauty was in those mid-60s picks—the Diamondbacks (62%), the Guardians (61%), the Phillies (61%)—all hitting when it mattered.\n\nThe Yankees squeaked by at just 50% confidence, which honestly felt like a coin flip going in. But that's baseball. Sometimes the narrowest margins produce the sweetest victories."
+      "value": "## The Story of August 26\n\nLet's talk about what happened. The Diamondbacks took care of business against the Cubs just like we expected at 62% confidence. The Guardians, Pirates, and Phillies all delivered on the road—those are the kinds of wins that build your bankroll and your confidence.\n\nBut here's what I love: even our misses were close calls. The Tigers pick at 51%? The Nationals at 51%? Those were essentially coin flips, and that's exactly how we treated them. We're not pretending to have crystal balls here."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Aug 26 Prediction Performance by Confidence",
+      "data": [
+        {
+          "name": "Tigers",
+          "probability": 51,
+          "result": 0
+        },
+        {
+          "name": "Diamondbacks",
+          "probability": 62,
+          "result": 1
+        },
+        {
+          "name": "Reds",
+          "probability": 55,
+          "result": 1
+        },
+        {
+          "name": "Guardians",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Padres",
+          "probability": 68,
+          "result": 1
+        },
+        {
+          "name": "Phillies",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Sox",
+          "probability": 61,
+          "result": 0
+        },
+        {
+          "name": "Nationals",
+          "probability": 51,
+          "result": 0
+        },
+        {
+          "name": "Yankees",
+          "probability": 50,
+          "result": 1
+        },
+        {
+          "name": "Jays",
+          "probability": 56,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
     },
     {
       "type": "table",
-      "title": "Aug 26 Full Game Results",
+      "title": "Complete Aug 26 Results Breakdown",
       "headers": [
         "Matchup",
         "Our Pick",
@@ -101,93 +171,27 @@
       ]
     },
     {
-      "type": "chart",
-      "chart_type": "bar",
-      "title": "Aug 26 Predictions by Confidence Level",
-      "data": [
-        {
-          "name": "Tigers",
-          "probability": 51,
-          "result": 0
-        },
-        {
-          "name": "D-backs",
-          "probability": 62,
-          "result": 1
-        },
-        {
-          "name": "Reds",
-          "probability": 55,
-          "result": 1
-        },
-        {
-          "name": "Guardians",
-          "probability": 61,
-          "result": 1
-        },
-        {
-          "name": "Padres",
-          "probability": 68,
-          "result": 1
-        },
-        {
-          "name": "Phillies",
-          "probability": 61,
-          "result": 1
-        },
-        {
-          "name": "Sox",
-          "probability": 61,
-          "result": 0
-        },
-        {
-          "name": "Nationals",
-          "probability": 51,
-          "result": 0
-        },
-        {
-          "name": "Yankees",
-          "probability": 50,
-          "result": 1
-        },
-        {
-          "name": "Jays",
-          "probability": 56,
-          "result": 1
-        }
-      ],
-      "x_key": "name",
-      "bars": [
-        {
-          "key": "probability",
-          "color": "#0EA5E9",
-          "label": "Win Probability (%)"
-        },
-        {
-          "key": "result",
-          "color": "#16A34A",
-          "label": "Correct (1=Yes, 0=No)"
-        }
-      ]
+      "type": "text",
+      "value": "## The Human Element\n\nYou know what's wild? That Yankees pick at exactly 50% that somehow hit. Sometimes baseball is just baseball, and the most uncertain games break your way. Meanwhile, our highest-confidence pick—the Padres at 68%—sailed through without drama. That's the kind of variety that keeps this game interesting."
     },
     {
       "type": "text",
-      "value": "## The Misses—And What They Tell Us\n\nThree losses, all in that 51-61% range. The Tigers, the Sox, and the Nationals all went the other way. And honestly? That's exactly the variance you'd expect when you're working with probabilities in this range.\n\nThe Sox miss at 61% stung a little more than the others, but when you're calling 15 games in a day, a few going sideways is part of the deal. The key is that our highest-confidence picks held strong."
-    },
-    {
-      "type": "text",
-      "value": "## Tomorrow's Top Pick: Back to the Well\n\nHere's where it gets interesting. After the Nationals let us down at 51% yesterday, they're our top pick again for August 27th—at the exact same 50% confidence level.\n\nIt's a rematch: Rockies at Nationals, with Gabriel Hughes taking the mound for Colorado and Jake Irvin for Washington. The model sees something in this matchup, even if it's not screaming certainty."
+      "value": "## Looking Ahead to August 27\n\nAnd here's where things get interesting for tomorrow. We're going back to the well with the Nationals, who let us down yesterday in that nail-biter against the Rockies. Sometimes the best revenge is immediate.\n\nGabriel Hughes takes the mound for Colorado against Washington's Jake Irvin. Our model sees this as another tight one—50% confidence on the Nationals—but there's value in understanding the matchup dynamics here."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Aug 27 Top Pick",
+      "title": "⭐ Tomorrow's Top Pick - Aug 27",
       "value": "Washington Nationals",
-      "sub": "50% win probability vs Rockies · Jake Irvin on the mound"
+      "sub": "50% Win Probability · Jake Irvin vs Gabriel Hughes · Rockies @ Nationals"
     },
     {
       "type": "text",
-      "value": "## The Human Element\n\nYou know what I love about a 50% pick? It's honest. The model isn't pretending to see something that isn't there. It's saying: based on everything we know—the pitching matchup, the recent form, the contextual data—this is a slight lean toward Washington.\n\nIt's not sexy. It's not a lock. But it's real.\n\nSometimes the best picks aren't about overwhelming confidence. They're about finding the smallest edge and trusting the process. After an 11-4 day, we've earned the right to trust it.\n\n**See you tomorrow for the results. Let's ride this momentum.**"
+      "value": "## Why We're Riding With Washington\n\nHere's the thing about the Nationals right now—they're playing at home against a Rockies team that historically struggles away from Coors Field. Yes, it's a 50-50 call on paper, but sometimes the context matters as much as the numbers.\n\nJake Irvin has been steady for Washington, and while Gabriel Hughes has shown flashes for Colorado, the road environment is a different beast entirely for Rockies pitchers who are used to that thin Denver air.\n\nIs this our highest conviction play ever? No. But after going 11-4 yesterday, we're trusting the process and staying disciplined. That's how you build long-term success in this game."
+    },
+    {
+      "type": "text",
+      "value": "## The Bottom Line\n\nAugust 26 reminded us why we do this. An 11-4 record isn't just luck—it's the model working, the analysis holding up, and the process proving itself. Tomorrow brings a fresh challenge with the Nationals, and we're ready for it.\n\nStay sharp, trust your research, and remember: in baseball, there's always another game tomorrow. And we'll be here breaking it all down.\n\n*- Hana*"
     }
   ],
   "slug": "2026-08-26-daily-hana",
