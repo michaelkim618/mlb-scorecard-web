@@ -1,0 +1,165 @@
+{
+  "title": "Aug 27 Results + Aug 28 Preview: Solid 4-3 Day, Cubs Looking Sharp Tomorrow",
+  "summary": "4-3 record on Aug 27, eyeing Cubs as tomorrow's top value play at Wrigley",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Aug 27 Recap: The Arm Stayed Live\n\nFrom a pitcher's perspective, yesterday was a solid outing—4-3 record, 57.1% accuracy. Not a complete game shutout, but you'll take quality starts like this all season long. We battled through seven games and came out ahead, which is what matters in the long haul."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Aug 27 W-L",
+          "value": "4-3"
+        },
+        {
+          "label": "Win Rate",
+          "value": "57.1%"
+        },
+        {
+          "label": "Games Analyzed",
+          "value": "7"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Aug 27 Full Results Breakdown",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Rockies @ Nationals",
+          "Nationals",
+          "50%",
+          "✓ Hit"
+        ],
+        [
+          "Orioles @ Cardinals",
+          "Orioles",
+          "63%",
+          "✗ Miss"
+        ],
+        [
+          "Astros @ Yankees",
+          "Yankees",
+          "61%",
+          "✗ Miss"
+        ],
+        [
+          "Royals @ Jays",
+          "Royals",
+          "55%",
+          "✓ Hit"
+        ],
+        [
+          "Brewers @ Mets",
+          "Brewers",
+          "63%",
+          "✓ Hit"
+        ],
+        [
+          "Dodgers @ Braves",
+          "Braves",
+          "54%",
+          "✓ Hit"
+        ],
+        [
+          "Diamondbacks @ Giants",
+          "Diamondbacks",
+          "58%",
+          "✗ Miss"
+        ]
+      ]
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Aug 27 Pick Confidence vs Results",
+      "data": [
+        {
+          "name": "Nationals",
+          "probability": 50,
+          "result": 1
+        },
+        {
+          "name": "Orioles",
+          "probability": 63,
+          "result": 0
+        },
+        {
+          "name": "Yankees",
+          "probability": 61,
+          "result": 0
+        },
+        {
+          "name": "Royals",
+          "probability": 55,
+          "result": 1
+        },
+        {
+          "name": "Brewers",
+          "probability": 63,
+          "result": 1
+        },
+        {
+          "name": "Braves",
+          "probability": 54,
+          "result": 1
+        },
+        {
+          "name": "Diamondbacks",
+          "probability": 58,
+          "result": 0
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Hit (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## What Worked, What Didn't\n\nOur higher-confidence plays split 2-2, which stings a bit. The Orioles and Yankees misses at 63% and 61% respectively hurt the overall numbers. But here's the thing—when you're on the mound, you can't dwell on the hanging slider that got crushed. You focus on the next pitch.\n\nThe wins came from reading the matchups right. Nationals squeaked by at 50% confidence, while the Royals, Brewers, and Braves all delivered. That Braves pick at 54% was textbook—sometimes the lower-confidence plays based on pitching matchups are the sharpest."
+    },
+    {
+      "type": "text",
+      "value": "## Aug 28 Preview: Cubs vs Reds Stands Out\n\nLooking at tomorrow's slate, one matchup jumps off the card from a pitcher's standpoint: **Cubs hosting the Reds at Wrigley**. We're giving Chicago a 61% edge, and the starting pitcher matchup tells you why."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Tomorrow's Top Pick - Aug 28",
+      "value": "Chicago Cubs over Cincinnati Reds",
+      "sub": "61% Win Probability • Peterson vs Lowder • Wrigley Field"
+    },
+    {
+      "type": "text",
+      "value": "## The Pitching Matchup Edge\n\n**David Peterson** takes the ball for the Cubs. Lefty, works the zone, keeps hitters off-balance. He's the kind of pitcher who doesn't beat himself—limits walks, induces weak contact when he's on.\n\n**Rhett Lowder** counters for Cincinnati. He's got stuff, no question, but this is a tough spot. Young arm, road environment, facing a Cubs lineup that's been grinding out at-bats.\n\nFrom my time on the mound, I can tell you—Wrigley plays different. Wind, atmosphere, crowd energy. Peterson has the home advantage and the experience edge. That 61% confidence isn't just numbers; it's reading between the lines of the matchup.\n\nLock this one in for tomorrow. The model likes it, and so does my gut from years of living these pitcher duels."
+    }
+  ],
+  "slug": "2026-08-27-daily-ace",
+  "author": "Ace",
+  "author_emoji": "🎙️",
+  "author_role": "Former Pitcher",
+  "author_color": "#D97706",
+  "date": "2026-08-27",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#D97706"
+}
