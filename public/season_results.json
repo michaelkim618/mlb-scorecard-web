@@ -11124,6 +11124,28 @@
       "away_bp_score": 73.5,
       "home_bp_score": 72.2,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-27",
+      "away": "Kansas City Royals",
+      "home": "Toronto Blue Jays",
+      "game_number": 1,
+      "pick": "Kansas City Royals",
+      "pick_prob": 60.7,
+      "actual_winner": "Kansas City Royals",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "cold",
+      "away_sp_era": 2.74,
+      "home_sp_era": 8.12,
+      "away_bp_era": 4.19,
+      "home_bp_era": 3.25,
+      "away_sp_score": 71.6,
+      "home_sp_score": 30.0,
+      "away_bp_score": 41.2,
+      "home_bp_score": 68.2,
+      "bat_source": "lineup"
     }
   ],
   "summary": {
