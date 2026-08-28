@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-28T22:37:22.767268+00:00",
+  "updated_at": "2026-08-28T23:02:54.542411+00:00",
   "news": [
+    {
+      "title": "Waldrep, Schwellenbach to undergo season-ending elbow surgery",
+      "link": "https://www.mlb.com/news/hurston-waldrep-spencer-schwellenbach-to-undergo-season-ending-elbow-surgery",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/h9hcxdkyfq6pohn0ghxl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-28T22:41:59+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "LIVE: Top 100 prospects Rojas (NYM), Wood (PHI) square off at Double-A",
+      "link": "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dbde1twgiwpafxb4vidl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brendan Samson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-28T22:36:00+00:00",
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "Cubs' bullpen problems persist as furious rally falls short",
+      "link": "https://www.mlb.com/news/cubs-bullpen-falters-again-in-loss-to-reds-in-series-opener",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/de4g1cnr1yp3tuktfuio",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-28T22:34:00+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "Ohtani pitches light bullpen session; next start still uncertain",
+      "link": "https://www.mlb.com/news/shohei-ohtani-pitches-bullpen-session-ahead-of-potential-return-to-mound",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tgcyjd2mthrr0evh6qfs",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-28T22:31:22+00:00",
+      "time_ago": "31m ago"
+    },
     {
       "title": "Reds erupt for 10 runs to hold on in high-powered win at Wrigley",
       "link": "https://www.mlb.com/news/reds-rally-again-to-take-series-opener-against-cubs-at-wrigley",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-28T21:45:45+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Verlander eyeing return to big league mound before retirement",
@@ -52,58 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-08-28T20:15:00+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Shaw returns from lengthy stay on IL; Alcántara optioned",
-      "link": "https://www.mlb.com/news/matt-shaw-returns-from-injured-list-kevin-alcantara-optioned",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jbvfk8anrplsnhhuxyft",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-08-28T19:37:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Twins call up No. 15 overall prospect Walker Jenkins",
-      "link": "https://www.mlb.com/news/walker-jenkins-twins-callup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rm9w1uak9b4tjydoz06q",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-28T19:33:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Inbox: Who could leap onto the Top 100 in 2027?",
-      "link": "https://www.mlb.com/news/pipeline-inbox-andrew-fischer-zyhir-hope-and-more",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fvikcuiclkdnlkhhafsu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jonathan Mayo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-28T18:50:09+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Hayes (groin strain) placed on 10-day IL; Arroyo recalled",
-      "link": "https://www.mlb.com/news/ke-bryan-hayes-placed-on-injured-list-with-groin-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hzafzxvnyyig4mk6vbax",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-28T18:42:57+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
