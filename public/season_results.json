@@ -11190,6 +11190,28 @@
       "away_bp_score": 74.7,
       "home_bp_score": 71.5,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-27",
+      "away": "Arizona Diamondbacks",
+      "home": "San Francisco Giants",
+      "game_number": 1,
+      "pick": "Arizona Diamondbacks",
+      "pick_prob": 51.2,
+      "actual_winner": "San Francisco Giants",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "neutral",
+      "home_sp_trend": "cold",
+      "away_sp_era": 5.6,
+      "home_sp_era": 4.64,
+      "away_bp_era": 3.16,
+      "home_bp_era": 4.51,
+      "away_sp_score": 29.5,
+      "home_sp_score": 32.0,
+      "away_bp_score": 74.2,
+      "home_bp_score": 48.8,
+      "bat_source": "lineup"
     }
   ],
   "summary": {
