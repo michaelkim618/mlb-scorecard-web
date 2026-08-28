@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-28T21:51:37.218503+00:00",
+  "updated_at": "2026-08-28T21:54:19.397494+00:00",
   "news": [
+    {
+      "title": "Reds erupt for 10 runs to hold on in high-powered win at Wrigley",
+      "link": "https://www.mlb.com/news/reds-rally-again-to-take-series-opener-against-cubs-at-wrigley",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qeb0exlnvrf48tvl9snc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Sheldon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-28T21:45:45+00:00",
+      "time_ago": "8m ago"
+    },
     {
       "title": "Verlander eyeing return to big league mound before retirement",
       "link": "https://www.mlb.com/news/justin-verlander-targeting-tigers-return-before-retirement",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-28T21:03:36+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "The wait is over: Walker Jenkins is ready to conquer the Twin Cities",
@@ -90,19 +103,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-28T18:42:57+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Leahy's breakout gives Cardinals a rotation building block",
-      "link": "https://www.mlb.com/news/kyle-leahy-breakout-cardinals-rotation-future",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sx1b6rzkdwatx5lgwq0t",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Josh Jacobs",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-28T18:22:43+00:00",
       "time_ago": "3h ago"
     }
   ]
