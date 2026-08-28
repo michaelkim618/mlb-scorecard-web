@@ -11542,6 +11542,28 @@
       "away_bp_score": 37.3,
       "home_bp_score": 38.8,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-28",
+      "away": "Cincinnati Reds",
+      "home": "Chicago Cubs",
+      "game_number": 1,
+      "pick": "Cincinnati Reds",
+      "pick_prob": 51.7,
+      "actual_winner": "Cincinnati Reds",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "stable",
+      "away_sp_era": 5.24,
+      "home_sp_era": 3.99,
+      "away_bp_era": 3.95,
+      "home_bp_era": 3.63,
+      "away_sp_score": 30.0,
+      "home_sp_score": 47.3,
+      "away_bp_score": 40.6,
+      "home_bp_score": 49.9,
+      "bat_source": "lineup"
     }
   ],
   "summary": {

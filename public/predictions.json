@@ -336,8 +336,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 49.7,
-      "home": 50.3
+      "away": 51.7,
+      "home": 48.3
     },
     "expected_score": {
       "away": 2.2,
@@ -353,9 +353,9 @@
       "bullpen_game": false,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.33,
+        "sp": 0.35,
         "bp": 0.25,
-        "bat": 0.35,
+        "bat": 0.33,
         "sit": 0.15
       },
       "away": {
@@ -418,26 +418,26 @@
             }
           ]
         },
-        "bp_score": 40.2,
+        "bp_score": 40.6,
         "bp_detail": {
-          "bullpen_era": 3.96,
-          "recent_era": 5.62,
+          "bullpen_era": 3.95,
+          "recent_era": 5.55,
           "recent_appearances": 21,
-          "recent_ip": 24.0,
+          "recent_ip": 24.3,
           "team_era": 4.17,
-          "bp_ip": 320.7,
+          "bp_ip": 321.0,
           "bp_count": 8,
           "closer_era": 4.02,
           "closer_name": "Emilio Pagán"
         },
-        "bat_score": 31.700000000000003,
+        "bat_score": 32.2,
         "bat_detail": {
-          "recent_avg": 0.242,
-          "runs_per_g": 4.8,
-          "hr_per_g": 1.3,
+          "recent_avg": 0.241,
+          "runs_per_g": 4.9,
+          "hr_per_g": 1.4,
           "bb_per_g": 3.0,
-          "season_ops": 0.724,
-          "season_avg": 0.242,
+          "season_ops": 0.722,
+          "season_avg": 0.241,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
@@ -449,8 +449,8 @@
             "Tyler Stephenson(0.706)",
             "Eugenio Suárez(0.645)",
             "JJ Bleday(0.693)",
-            "Matt McLain(0.623)",
-            "Jose Trevino(0.569)",
+            "Matt McLain(0.613)",
+            "Jose Trevino(0.558)",
             "Héctor Rodríguez(0.863)"
           ],
           "lineup_players": [
@@ -493,14 +493,14 @@
             {
               "id": 680574,
               "name": "Matt McLain",
-              "ops": 0.623,
-              "avg": 0.171
+              "ops": 0.613,
+              "avg": 0.167
             },
             {
               "id": 624431,
               "name": "Jose Trevino",
-              "ops": 0.569,
-              "avg": 0.2
+              "ops": 0.558,
+              "avg": 0.194
             },
             {
               "id": 699302,
@@ -510,7 +510,7 @@
             }
           ],
           "bat_trend": "stable",
-          "last5_rpg": 4.6,
+          "last5_rpg": 4.8,
           "last5_avg": 0.256,
           "home_split": {
             "recent_avg": 0.208,
@@ -520,13 +520,13 @@
           },
           "away_split": {
             "recent_avg": 0.238,
-            "runs_per_g": 4.8,
-            "hr_per_g": 1.5,
+            "runs_per_g": 4.9,
+            "hr_per_g": 1.6,
             "n_games": 10
           }
         },
         "sit_score": 47.6,
-        "total": 38.2
+        "total": 38.4
       },
       "home": {
         "sp_score": 47.3,
@@ -596,14 +596,14 @@
             }
           ]
         },
-        "bp_score": 50.2,
+        "bp_score": 49.9,
         "bp_detail": {
-          "bullpen_era": 3.61,
-          "recent_era": 9.22,
-          "recent_appearances": 15,
-          "recent_ip": 13.7,
+          "bullpen_era": 3.63,
+          "recent_era": 9.2,
+          "recent_appearances": 16,
+          "recent_ip": 14.7,
           "team_era": 4.04,
-          "bp_ip": 271.7,
+          "bp_ip": 272.7,
           "bp_count": 6,
           "closer_era": 2.91,
           "closer_name": "Jacob Webb"
@@ -704,17 +704,17 @@
           }
         },
         "sit_score": 54.0,
-        "total": 54.4
+        "total": 54.3
       }
     },
     "scores": {
-      "away_offense": 31.700000000000003,
-      "away_defense": 35.1,
+      "away_offense": 32.2,
+      "away_defense": 35.3,
       "home_offense": 51.9,
-      "home_defense": 48.8
+      "home_defense": 48.6
     },
     "actual_score": {
-      "away": 9,
+      "away": 10,
       "home": 8
     },
     "lineup_confirmed": true,
@@ -724,12 +724,12 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
-    "model_winner": "Chicago Cubs",
-    "model_correct": null,
+    "actual_winner": "Cincinnati Reds",
+    "model_winner": "Cincinnati Reds",
+    "model_correct": true,
     "notes": "Cincinnati Reds IL: Blake Dunn, Brandon Williamson, Graham Ashcraft, Hunter Greene, Ke'Bryan Hayes 외 다수 / Chicago Cubs IL: Ben Brown, Cade Horton, Dansby Swanson, Edward Cabrera, Gavin Hollowell 외 다수",
-    "kalshi_prob": 19.0,
-    "edge": 31.3,
+    "kalshi_prob": 11.0,
+    "edge": 37.3,
     "value_bet": "⏭️ 패스 (박빙 경기 — 예측 신뢰도 낮음)",
     "extreme_edge": true,
     "consensus": false,
