@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-28T04:32:29.328416+00:00",
+  "updated_at": "2026-08-28T06:04:47.073083+00:00",
   "news": [
+    {
+      "title": "Chourio returns from rare off-day, promptly puts up 2-HR, 4-RBI night",
+      "link": "https://www.mlb.com/news/jackson-chourio-two-homers-four-rbis-brewers-win-over-mets",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ffenzoxrczz2j2d17iuc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-28T04:43:01+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "One day after debacle, Giants bullpen shines vs. D-backs",
+      "link": "https://www.mlb.com/news/giants-bullpen-bounces-back-in-win-over-diamondbacks",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787891129/mlb/hroc6zuqudr3cm0t6n6m",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Henry Schulman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-28T04:36:13+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Sale K's 11 to record his first shutout since 2019, wrap up sweep of Dodgers",
+      "link": "https://www.mlb.com/news/chris-sale-throws-complete-game-shutout-to-sweep-dodgers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/poib5c45raq4gz04aogq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-28T04:34:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Stats of the Week: Walk-offs, Cal, Schwarbs make HR history",
+      "link": "https://www.mlb.com/news/mlb-stats-of-the-week-ending-august-27-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mzlcinb686aijdfzwjx1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sarah Langs",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-28T04:03:49+00:00",
+      "time_ago": "2h ago"
+    },
     {
       "title": "Statement made: Astros win series in Bronx, take 1-game lead in AL West",
       "link": "https://www.mlb.com/news/christian-walker-jeremy-pena-homer-in-astros-win-over-yankees",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-28T04:01:00+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Lombard makes some dubious history after 6th straight game with error",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-28T03:55:41+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Dodgers slowed by vintage Sale in Yamamoto's strong 8-K start",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-28T03:55:00+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "No fireballs? No problem as Miz shuts down Mets even without best stuff",
@@ -51,59 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-28T03:51:00+00:00",
-      "time_ago": "41m ago"
-    },
-    {
-      "title": "From inspired White Sox to MVPCA, the most shocking developments of 2026",
-      "link": "https://www.mlb.com/news/biggest-surprises-of-2026-mlb-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w6d8vlpmhravwfxgfvss",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-08-28T03:44:31+00:00",
-      "time_ago": "47m ago"
-    },
-    {
-      "title": "Baldwin's leadoff home run is one-of-a-kind",
-      "link": "https://www.mlb.com/news/drake-baldwin-leadoff-home-run-makes-history",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jdzyh4ndxt50o5istvko",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-28T03:44:00+00:00",
-      "time_ago": "48m ago"
-    },
-    {
-      "title": "Yankees' 2026 fourth-rounder doesn't have to look further than Bellinger for inspiration",
-      "link": "https://www.mlb.com/news/yankees-prospect-paul-gutierrez-contreras-hits-first-career-home-run",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w9zgmrbuqqlrpxiwuhwj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Crowley",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-28T03:23:50+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Jensen (leadoff HR), Caglianone (6 RBIs) fuel huge night for KC's offense",
-      "link": "https://www.mlb.com/news/carter-jensen-jac-caglianone-lead-royals-to-series-win-vs-blue-jays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787886637/mlb/gsjqjwdzgepttlufhjgd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anne Rogers",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-28T03:02:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
