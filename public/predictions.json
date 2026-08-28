@@ -99,7 +99,7 @@
     "away_pitcher": "Rhett Lowder",
     "away_pitcher_id": 695076,
     "away_pitcher_stats": {
-      "wins": 5,
+      "wins": 6,
       "losses": 8,
       "era": "5.14"
     },
@@ -608,14 +608,14 @@
           "closer_era": 2.91,
           "closer_name": "Jacob Webb"
         },
-        "bat_score": 51.6,
+        "bat_score": 51.1,
         "bat_detail": {
-          "recent_avg": 0.255,
+          "recent_avg": 0.253,
           "runs_per_g": 5.8,
           "hr_per_g": 2.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.806,
-          "season_avg": 0.255,
+          "season_ops": 0.803,
+          "season_avg": 0.253,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -624,9 +624,9 @@
             "Pete Crow-Armstrong(1.018)",
             "Seiya Suzuki(0.858)",
             "Michael Busch(0.837)",
-            "Alex Bregman(0.802)",
-            "Ian Happ(0.859)",
-            "Nico Hoerner(0.633)",
+            "Alex Bregman(0.801)",
+            "Ian Happ(0.845)",
+            "Nico Hoerner(0.625)",
             "Pedro Ramírez(0.762)",
             "Michael Conforto(0.838)",
             "Carson Kelly(0.643)"
@@ -653,20 +653,20 @@
             {
               "id": 608324,
               "name": "Alex Bregman",
-              "ops": 0.802,
+              "ops": 0.801,
               "avg": 0.262
             },
             {
               "id": 664023,
               "name": "Ian Happ",
-              "ops": 0.859,
-              "avg": 0.294
+              "ops": 0.845,
+              "avg": 0.286
             },
             {
               "id": 663538,
               "name": "Nico Hoerner",
-              "ops": 0.633,
-              "avg": 0.282
+              "ops": 0.625,
+              "avg": 0.275
             },
             {
               "id": 699393,
@@ -704,13 +704,13 @@
           }
         },
         "sit_score": 50.9,
-        "total": 53.7
+        "total": 53.5
       }
     },
     "scores": {
       "away_offense": 31.9,
       "away_defense": 36.1,
-      "home_offense": 51.6,
+      "home_offense": 51.1,
       "home_defense": 48.6
     },
     "actual_score": {
