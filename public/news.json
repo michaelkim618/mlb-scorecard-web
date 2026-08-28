@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-28T21:33:14.971251+00:00",
+  "updated_at": "2026-08-28T21:48:24.046130+00:00",
   "news": [
+    {
+      "title": "Verlander eyeing return to big league mound before retirement",
+      "link": "https://www.mlb.com/news/justin-verlander-targeting-tigers-return-before-retirement",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cypfw67eoiqyx8fxchnp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-28T21:03:36+00:00",
+      "time_ago": "44m ago"
+    },
     {
       "title": "The wait is over: Walker Jenkins is ready to conquer the Twin Cities",
       "link": "https://www.mlb.com/news/what-to-expect-twins-prospect-walker-jenkins-mlb",
@@ -38,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-08-28T19:37:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Twins call up No. 15 overall prospect Walker Jenkins",
@@ -77,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-28T18:42:57+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Leahy's breakout gives Cardinals a rotation building block",
@@ -91,19 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-08-28T18:22:43+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "'Forever starts now': Rays' new ballpark approved in county vote",
-      "link": "https://www.mlb.com/news/hillsborough-county-board-of-county-approves-rays-forever-home-in-vote",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mjjtnaqjdqfncakvaab9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-28T17:02:12+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }
