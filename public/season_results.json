@@ -11102,6 +11102,28 @@
       "away_bp_score": 61.8,
       "home_bp_score": 37.4,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-27",
+      "away": "Los Angeles Dodgers",
+      "home": "Atlanta Braves",
+      "game_number": 1,
+      "pick": "Atlanta Braves",
+      "pick_prob": 65.2,
+      "actual_winner": "Atlanta Braves",
+      "correct": true,
+      "high_conf": true,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "hot",
+      "away_sp_era": 2.44,
+      "home_sp_era": 1.96,
+      "away_bp_era": 3.15,
+      "home_bp_era": 2.95,
+      "away_sp_score": 71.6,
+      "home_sp_score": 72.0,
+      "away_bp_score": 73.5,
+      "home_bp_score": 72.2,
+      "bat_source": "lineup"
     }
   ],
   "summary": {
