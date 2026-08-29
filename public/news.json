@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-29T19:34:25.297945+00:00",
+  "updated_at": "2026-08-29T20:03:50.257745+00:00",
   "news": [
+    {
+      "title": "Stewart joins Frank Robinson as only Reds rookies to hit 30 HRs",
+      "link": "https://www.mlb.com/news/sal-stewart-hits-30th-homer-in-reds-game-vs-cubs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j94shc34slskc84q5fol",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Sheldon",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-29T19:32:33+00:00",
+      "time_ago": "31m ago"
+    },
     {
       "title": "'Brats' summer? These lederhosen unis might be the craziest you'll ever see",
       "link": "https://www.mlb.com/news/timber-rattlers-weekend-rebrand-as-wisconsin-brats",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T19:16:37+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "Blue Jays honor icons with Hall of Excellence",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T18:45:12+00:00",
-      "time_ago": "49m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Ex-Mets prospect Kelenic joins Yanks on Minor League deal",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T16:56:17+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Red Sox activate Whitlock ahead of doubleheader vs. Yanks",
-      "link": "https://www.mlb.com/news/garrett-whitlock-activated-from-injured-list-by-red-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/utb5uewwpujlbq7mzpmi",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T16:55:51+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }

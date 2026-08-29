@@ -745,9 +745,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Boston Red Sox",
     "model_winner": "New York Yankees",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Boston Red Sox IL: Curtis Mead, Garrett Crochet, Isiah Kiner-Falefa, Johan Oviedo, Justin Slaten 외 다수 / New York Yankees IL: Aaron Judge, Clarke Schmidt, Fernando Cruz, Giancarlo Stanton, Kervin Castro 외 다수",
     "kalshi_prob": 55.0,
     "edge": -4.1,
@@ -2187,9 +2187,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Detroit Tigers",
     "model_winner": "Los Angeles Dodgers",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Los Angeles Dodgers IL: Andy Pages, Ben Casparius, Blake Treinen, Bobby Miller, Brusdar Graterol 외 다수 / Detroit Tigers IL: Bailey Horn, Brant Hurter, Burch Smith, Jack Flaherty, Justin Verlander 외 다수",
     "kalshi_prob": 59.0,
     "edge": -16.5,
