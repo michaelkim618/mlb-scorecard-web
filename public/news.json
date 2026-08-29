@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-29T06:33:11.831311+00:00",
+  "updated_at": "2026-08-29T07:06:23.799569+00:00",
   "news": [
+    {
+      "title": "What the heck, Meck!? Angels OF leaps into stands to rob go-ahead HR",
+      "link": "https://www.mlb.com/news/wade-meckler-robs-home-run-in-angels-loss-to-phillies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mjffu8qjucrikltswaap",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rhett Bollinger",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-29T06:29:40+00:00",
+      "time_ago": "36m ago"
+    },
     {
       "title": "Montgomery's early blast highlights game-changing power",
       "link": "https://www.mlb.com/news/colson-montgomery-s-three-run-homer-powers-white-sox-over-twins",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T05:36:00+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Nootbaar's leadoff blast sets tone for D-backs' big offensive night",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T05:33:34+00:00",
-      "time_ago": "59m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "First hit, standing ovations highlight Jenkins' MLB debut",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T04:59:46+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Down to final out, Sosa's pinch-hit grand slam rescues Phillies",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T04:57:24+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "5 postseason dark horses -- if they make the field",
@@ -64,20 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T04:48:38+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Orioles bounce back from blowing lead with 10th-inning rally",
-      "link": "https://www.mlb.com/news/coby-mayo-christian-encarnacion-strand-hit-rbis-in-10th-inning",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pzeaplthrcijg89iiqie",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T04:46:18+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Kid in Tatis jersey catches home run ball, gets fist bump from his favorite player",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T04:35:25+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Schlittler notches 200th K before Belli saves game with clutch throw",
@@ -103,7 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-29T04:03:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
