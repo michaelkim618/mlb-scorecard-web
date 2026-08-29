@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-29T00:33:46.507720+00:00",
+  "updated_at": "2026-08-29T01:06:26.317751+00:00",
   "news": [
+    {
+      "title": "Skubal has emotional return to Detroit -- but dominates Tigers anyway",
+      "link": "https://www.mlb.com/news/tarik-skubal-returns-to-detroit-to-face-tigers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rbu9uuisqpve6pamegc2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T00:49:25+00:00",
+      "time_ago": "17m ago"
+    },
     {
       "title": "Mariners move struggling Miller to bullpen: 'This is not a permanent thing'",
       "link": "https://www.mlb.com/news/mariners-move-bryce-miller-to-bullpen",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-28T23:42:07+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'Forever starts now': Rays' new ballpark approved in county vote",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-28T23:40:00+00:00",
-      "time_ago": "53m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Twins call up No. 15 overall prospect Walker Jenkins",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-28T22:57:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Waldrep, Schwellenbach to undergo season-ending elbow surgery",
@@ -64,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-28T22:41:59+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "LIVE: Top 100 prospects Rojas (NYM), Wood (PHI) square off at Double-A",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-28T22:36:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Cubs' bullpen problems persist as furious rally falls short",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-28T22:34:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Ohtani pitches light bullpen session; next start still uncertain",
-      "link": "https://www.mlb.com/news/shohei-ohtani-pitches-bullpen-session-ahead-of-potential-return-to-mound",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tgcyjd2mthrr0evh6qfs",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-28T22:31:22+00:00",
       "time_ago": "2h ago"
     }
   ]
