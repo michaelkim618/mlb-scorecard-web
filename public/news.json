@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-29T16:42:06.092589+00:00",
+  "updated_at": "2026-08-29T17:05:13.013362+00:00",
   "news": [
+    {
+      "title": "Red Sox activate Whitlock ahead of doubleheader vs. Yanks",
+      "link": "https://www.mlb.com/news/garrett-whitlock-activated-from-injured-list-by-red-sox",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/utb5uewwpujlbq7mzpmi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T16:55:51+00:00",
+      "time_ago": "9m ago"
+    },
     {
       "title": "Griffin (left ring finger) to begin rehab assignment in Double-A Sunday",
       "link": "https://www.mlb.com/news/konnor-griffin-begins-rehab-assignment",
@@ -12,7 +25,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-29T16:30:19+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "34m ago"
     },
     {
       "title": "Mets get big boost as Soto is activated off injured list",
@@ -25,7 +38,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-29T16:29:48+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "35m ago"
     },
     {
       "title": "Webb gets 1st career ejection, Vitello gets 2nd in 3 days over fair-ball call",
@@ -51,19 +64,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T06:47:00+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "What the heck, Meck!? Angels OF leaps into stands to rob go-ahead HR",
-      "link": "https://www.mlb.com/news/wade-meckler-robs-home-run-in-angels-loss-to-phillies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mjffu8qjucrikltswaap",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Rhett Bollinger",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-29T06:29:40+00:00",
       "time_ago": "10h ago"
     },
     {
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T04:59:46+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "12h ago"
     },
     {
       "title": "5 postseason dark horses -- if they make the field",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T04:48:38+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "12h ago"
     }
   ]
 }
