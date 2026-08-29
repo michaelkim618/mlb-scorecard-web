@@ -61,12 +61,15 @@ export default function TodaysGames() {
               </div>
             ) : (
               games.map((game, i) => {
-                // Match live score by team name
-                const liveKey = `${game.away}|${game.home}`;
-                const liveGame = scores[liveKey] || null;
+                // ① game_pk 기준 매칭 (더블헤더 정확히 구분)
+                // ② fallback: 팀 이름 기준 (game_pk 없는 구 데이터 호환)
+                const liveGame =
+                  scores[game.game_pk] ||
+                  scores[`${game.away}|${game.home}`] ||
+                  null;
                 return (
                   <GameCard
-                    key={i}
+                    key={game.game_pk || i}
                     game={game}
                     liveGame={liveGame}
                     defaultOpen={false}
