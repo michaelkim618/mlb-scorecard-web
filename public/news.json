@@ -1,18 +1,96 @@
 {
-  "updated_at": "2026-08-29T23:02:59.185766+00:00",
+  "updated_at": "2026-08-29T23:38:29.246586+00:00",
   "news": [
+    {
+      "title": "Pérez keeps good vibes going for Braves' rotation in sixth straight win",
+      "link": "https://www.mlb.com/news/martin-perez-delivers-strong-start-in-braves-comeback-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/n6h3h4pp2idgaivf67h9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T23:34:17+00:00",
+      "time_ago": "4m ago"
+    },
+    {
+      "title": "Hiss, catch, double: El Mago works his magic in wild 9th",
+      "link": "https://www.mlb.com/news/javier-baez-kevin-mcgonigle-lead-tigers-to-walk-off-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rqz5zpb1mj5wbolrvywk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T23:22:00+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "With retirement 'the worst job I ever had,' Strom returns to Astros",
+      "link": "https://www.mlb.com/news/former-pitching-coach-brent-strom-returns-to-astros",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/llxq87zpgsxle67awpqr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T23:09:00+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "Cavalli's hitless outing cut short after being hit on right leg by comebacker",
+      "link": "https://www.mlb.com/news/cade-cavalli-exits-after-being-hit-on-right-leg-by-comebacker",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kl2ftzwkgg38hg2zhbyf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jessica Camerato",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T23:09:00+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "Bottom of Rays' order sparks game-shifting 7th in win over Padres",
+      "link": "https://www.mlb.com/news/rays-pull-off-comeback-victory-over-padres-to-win-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/twbmtaauz0paf75odoky",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T23:03:39+00:00",
+      "time_ago": "34m ago"
+    },
     {
       "title": "Rojas tallies 2nd career 4-RBI day ... after entering game in the 6th",
       "link": "https://www.mlb.com/news/josh-rojas-four-rbis-royals-win-guardians",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/glka6xf4cktmwsmyofvs",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ffmhz3wobzxt0ufrmqzr",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Henry Palattella",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T22:55:29+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "43m ago"
+    },
+    {
+      "title": "Mets get big boost as Soto is activated off injured list",
+      "link": "https://www.mlb.com/news/juan-soto-activated-off-injured-list-by-mets",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qwk5hnkigu6hbzdurw30",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-29T22:55:00+00:00",
+      "time_ago": "43m ago"
     },
     {
       "title": "Twins know time is running short to turn season around",
@@ -25,85 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T22:52:58+00:00",
-      "time_ago": "10m ago"
-    },
-    {
-      "title": "Nootbaar comes through again for D-backs with pinch-hit grand slam",
-      "link": "https://www.mlb.com/news/lars-nootbaar-hits-pinch-hit-grand-slam-in-win-over-giants",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/m14oo1lg6a2cz4ujn8uc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-29T22:52:27+00:00",
-      "time_ago": "10m ago"
-    },
-    {
-      "title": "One-run games continue to haunt Dodgers in walk-off loss",
-      "link": "https://www.mlb.com/news/dodgers-one-run-loss-tigers-walk-off",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uyjl69ffyd5twzszjc0b",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-29T22:39:00+00:00",
-      "time_ago": "23m ago"
-    },
-    {
-      "title": "Blue Jays turn Mariners' miscues into comeback victory",
-      "link": "https://www.mlb.com/news/blue-jays-rally-from-3-run-deficit-to-beat-mariners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788041965/mlb/ngtdz2pc6jj2er7swrwb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T22:32:02+00:00",
-      "time_ago": "30m ago"
-    },
-    {
-      "title": "Mets place Robert on outright waivers (source)",
-      "link": "https://www.mlb.com/news/mets-luis-robert-jr-waivers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/h0bolfhqojnwmi6iuwlf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T22:21:25+00:00",
-      "time_ago": "41m ago"
-    },
-    {
-      "title": "Stewart in rare Reds company with 30-homer, 100-RBI rookie campaign",
-      "link": "https://www.mlb.com/news/sal-stewart-hits-30th-homer-in-reds-game-vs-cubs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j94shc34slskc84q5fol",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-29T22:20:00+00:00",
-      "time_ago": "42m ago"
-    },
-    {
-      "title": "Cavalli's hitless outing cut short after being hit on right leg by comebacker",
-      "link": "https://www.mlb.com/news/cade-cavalli-exits-after-being-hit-on-right-leg-by-comebacker",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kl2ftzwkgg38hg2zhbyf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jessica Camerato",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T22:15:12+00:00",
-      "time_ago": "47m ago"
+      "time_ago": "45m ago"
     }
   ]
 }
