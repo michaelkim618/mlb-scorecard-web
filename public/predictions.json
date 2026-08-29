@@ -10226,9 +10226,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Baltimore Orioles",
     "model_winner": "Baltimore Orioles",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Baltimore Orioles IL: Colin Selby, Félix Bautista, Jordan Westburg, Keegan Akin, Ryan Helsley 외 다수 / Athletics IL: Brent Rooker, Brooks Kriske, Denzel Clarke, Gunnar Hoglund, Jacob Wilson 외 다수",
     "kalshi_prob": 48.0,
     "edge": 2.0,
