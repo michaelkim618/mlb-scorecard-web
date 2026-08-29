@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-08-28-daily-doc",
+      "title": "Aug 28 Results: A 73.3% Hit Rate Validates the Model",
+      "author": "Doc",
+      "author_emoji": "🧠",
+      "author_color": "#7C3AED",
+      "author_role": "Sabermetrician",
+      "date": "2026-08-28",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#7C3AED",
+      "read_time": "3 min",
+      "summary": "Aug 28 delivered 11-4 performance with strong fundamentals across all picks"
+    },
+    {
       "slug": "2026-08-27-daily-ace",
       "title": "Aug 27 Results + Aug 28 Preview: Solid 4-3 Day, Cubs Looking Sharp Tomorrow",
       "author": "Ace",
