@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-29T05:02:26.952951+00:00",
+  "updated_at": "2026-08-29T05:36:19.921925+00:00",
   "news": [
+    {
+      "title": "First hit, standing ovations highlight Jenkins' MLB debut",
+      "link": "https://www.mlb.com/news/walker-jenkins-gets-first-mlb-hit-in-twins-debut",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787975720/mlb/wrll4nyrnbzjoyignkfw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theodore Tollefson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T04:59:46+00:00",
+      "time_ago": "36m ago"
+    },
+    {
+      "title": "Down to final out, Sosa's pinch-hit grand slam rescues Phillies",
+      "link": "https://www.mlb.com/news/edmundo-sosa-s-pinch-hit-grand-slam-leads-phillies-past-angel",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787978593/mlb/plttlmlkj4vzchl02why",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T04:57:24+00:00",
+      "time_ago": "38m ago"
+    },
+    {
+      "title": "5 postseason dark horses -- if they make the field",
+      "link": "https://www.mlb.com/news/underachieving-teams-playoff-dark-horses",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787978797/mlb/bl7dfvkifgzpwzseag1q",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Travis Sawchik",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T04:48:38+00:00",
+      "time_ago": "47m ago"
+    },
+    {
+      "title": "Orioles bounce back from blowing lead with 10th-inning rally",
+      "link": "https://www.mlb.com/news/coby-mayo-christian-encarnacion-strand-hit-rbis-in-10th-inning",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pzeaplthrcijg89iiqie",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T04:46:18+00:00",
+      "time_ago": "50m ago"
+    },
     {
       "title": "Kid in Tatis jersey catches home run ball, gets fist bump from his favorite player",
       "link": "https://www.mlb.com/news/fernando-tatis-jr-fist-bumps-12-year-old-fan-who-caught-home-run-ball",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T04:35:25+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Schlittler notches 200th K before Belli saves game with clutch throw",
@@ -25,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-29T04:03:00+00:00",
-      "time_ago": "59m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Vintage Brown (10 K's) could provide huge boost in Astros' title chase",
@@ -41,19 +93,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Nats' No. 9 prospect Kent tosses 7-inning gem en route to first Major League win",
-      "link": "https://www.mlb.com/news/jackson-kent-earns-first-major-league-win-vs-marlins",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787967989/mlb/h1yc2gljsy1ltz4d9pgz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jessica Camerato",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T03:56:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Where did Nolan McLean's sweeper go?",
       "link": "https://www.mlb.com/news/mets-rookie-nolan-mclean-succeeding-without-sweeper",
       "summary": "Mets rookie is succeeding without his signature pitch",
@@ -64,45 +103,6 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-29T03:52:15+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Will these players return to their current clubs in '27?",
-      "link": "https://www.mlb.com/news/mlb-players-with-opt-out-clauses-player-options-club-options-for-2027",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fuevp5yyjx9zm9cr91tv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T03:50:10+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Acuña responds to off-day with 1st 3-hit game of the year",
-      "link": "https://www.mlb.com/news/ronald-acuna-jr-three-hit-braves-win-rockies",
-      "summary": "Murphy, Harris provide clutch hits to push Braves' win streak to 5",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/an0ygskj2vjp50w6rlys",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T03:46:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "DeLuca slips 'n slides his way through bullpen for 'incredible' catch",
-      "link": "https://www.mlb.com/news/jonny-deluca-impresses-teammates-with-crazy-sliding-catch-into-bullpen",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dw2vlhouf1mdkkjswwus",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-29T03:43:13+00:00",
       "time_ago": "1h ago"
     }
   ]
