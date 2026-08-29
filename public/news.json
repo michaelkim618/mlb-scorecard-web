@@ -1,18 +1,57 @@
 {
-  "updated_at": "2026-08-29T21:06:11.852920+00:00",
+  "updated_at": "2026-08-29T21:31:38.249801+00:00",
   "news": [
     {
-      "title": "Benintendi lets fly at Target Field again, finishing triple shy of cycle",
-      "link": "https://www.mlb.com/news/andrew-benintendi-beats-up-on-twins-again-to-lead-white-sox",
+      "title": "Red Sox activate Whitlock ahead of doubleheader vs. Yanks",
+      "link": "https://www.mlb.com/news/garrett-whitlock-activated-from-injured-list-by-red-sox",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t2uoh259rts1kgxms7lf",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788035477/mlb/rgc4sbwmi1sx5prbitcu",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Patrick Donnelly",
+      "author": "Ian Browne",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-29T20:56:38+00:00",
-      "time_ago": "9m ago"
+      "pub_date": "2026-08-29T21:18:00+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Bazzana gives Australian Little Leaguers up-close look at path from Down Under to the bigs",
+      "link": "https://www.mlb.com/news/travis-bazzana-hosts-australian-little-leaguers-progressive-field",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yfnk8oi9bejzfrv2nvjl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T21:13:35+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Mlodzinski",
+      "link": "https://www.mlb.com/news/carmen-mlodzinski-delivers-in-bullpen-game-as-pirates-beat-cardinals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ofemx6yebusv38meeup3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T21:11:43+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "With retirement 'the worst job I ever had,' Strom returns to Astros",
+      "link": "https://www.mlb.com/news/former-pitching-coach-brent-strom-returns-to-astros",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/llxq87zpgsxle67awpqr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T21:05:15+00:00",
+      "time_ago": "26m ago"
     },
     {
       "title": "3CA! Cubs superstar adds 1st career 3-HR game to MVP resume",
@@ -24,20 +63,20 @@
       "author": "Jordan Bastian",
       "tag": "Highlight",
       "tag_color": "#D97706",
-      "pub_date": "2026-08-29T20:39:00+00:00",
-      "time_ago": "27m ago"
+      "pub_date": "2026-08-29T21:02:00+00:00",
+      "time_ago": "29m ago"
     },
     {
-      "title": "Red Sox activate Whitlock ahead of doubleheader vs. Yanks",
-      "link": "https://www.mlb.com/news/garrett-whitlock-activated-from-injured-list-by-red-sox",
+      "title": "Benintendi lets fly at Target Field again, finishing triple shy of cycle",
+      "link": "https://www.mlb.com/news/andrew-benintendi-beats-up-on-twins-again-to-lead-white-sox",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788035477/mlb/rgc4sbwmi1sx5prbitcu",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t2uoh259rts1kgxms7lf",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Ian Browne",
+      "author": "Patrick Donnelly",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-29T20:31:00+00:00",
+      "pub_date": "2026-08-29T20:56:38+00:00",
       "time_ago": "35m ago"
     },
     {
@@ -51,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-29T20:30:00+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rookie Bennett delivers scoreless gem as Sox take DH opener in Bronx",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T20:28:00+00:00",
-      "time_ago": "38m ago"
-    },
-    {
-      "title": "Báez saves a run, sparks walk-off rally in wild 9th",
-      "link": "https://www.mlb.com/news/javier-baez-kevin-mcgonigle-lead-tigers-to-walk-off-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788035878/mlb/vj8lluj7eudpfajudixn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Beck",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-29T20:23:41+00:00",
-      "time_ago": "42m ago"
-    },
-    {
-      "title": "Schwellenbach frustrated by need for elbow surgery after setbacks in rehab",
-      "link": "https://www.mlb.com/news/spencer-schwellenbach-on-setbacks-that-led-to-another-elbow-surgery",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wjdtxfngjakdu5mkprdd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-29T20:04:58+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Mets get big boost as Soto is activated off injured list",
-      "link": "https://www.mlb.com/news/juan-soto-activated-off-injured-list-by-mets",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lwflwham0fn8dm1uc3wi",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-29T19:38:00+00:00",
       "time_ago": "1h ago"
     }
   ]
