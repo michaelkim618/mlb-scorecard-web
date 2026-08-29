@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-29T17:05:13.013362+00:00",
+  "updated_at": "2026-08-29T17:37:37.976392+00:00",
   "news": [
+    {
+      "title": "Dodgers adjust Ohtani pitching plans as season winds down",
+      "link": "https://www.mlb.com/news/shohei-ohtani-pitching-return-dodgers-plan",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f9h7lvsqecm31ak4f18s",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T17:23:02+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "Schmidt, McMahon head to Double-A for rehab assignments",
+      "link": "https://www.mlb.com/news/clarke-schmidt-ryan-mcmahon-on-minor-league-rehab",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ycikrpvs1ylhcbszhpai",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-08-29T17:22:06+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "Little League Classic steps into the spotlight on This Week in Baseball",
+      "link": "https://www.mlb.com/news/this-week-in-baseball-revisits-2026-little-league-classic",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ytyd6bo5fi7od41dqz27",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T17:10:36+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "Secret to Norby's hot start with Rox? A simple mantra: 'Don't think'",
+      "link": "https://www.mlb.com/news/connor-norby-s-hot-start-with-rockies-powered-by-simple-mindset",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ewihvj3ijdooohcl76o1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harding",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T16:56:17+00:00",
+      "time_ago": "41m ago"
+    },
     {
       "title": "Red Sox activate Whitlock ahead of doubleheader vs. Yanks",
       "link": "https://www.mlb.com/news/garrett-whitlock-activated-from-injured-list-by-red-sox",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T16:55:51+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "41m ago"
     },
     {
       "title": "Griffin (left ring finger) to begin rehab assignment in Double-A Sunday",
@@ -25,7 +77,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-29T16:30:19+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Mets get big boost as Soto is activated off injured list",
@@ -38,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-29T16:29:48+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Webb gets 1st career ejection, Vitello gets 2nd in 3 days over fair-ball call",
@@ -51,59 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T07:16:00+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "Down to final out, Sosa's pinch-hit grand slam rescues Phillies",
-      "link": "https://www.mlb.com/news/edmundo-sosa-s-pinch-hit-grand-slam-leads-phillies-past-angel",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787978593/mlb/plttlmlkj4vzchl02why",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T06:47:00+00:00",
       "time_ago": "10h ago"
-    },
-    {
-      "title": "Montgomery's early blast highlights game-changing power",
-      "link": "https://www.mlb.com/news/colson-montgomery-s-three-run-homer-powers-white-sox-over-twins",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787973078/mlb/oddjg6kodga0lzvnet1l",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Patrick Donnelly",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T05:36:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "First hit, standing ovations highlight Jenkins' MLB debut",
-      "link": "https://www.mlb.com/news/walker-jenkins-gets-first-mlb-hit-in-twins-debut",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787981670/mlb/wrll4nyrnbzjoyignkfw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theodore Tollefson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T04:59:46+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "5 postseason dark horses -- if they make the field",
-      "link": "https://www.mlb.com/news/underachieving-teams-playoff-dark-horses",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787978797/mlb/bl7dfvkifgzpwzseag1q",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Travis Sawchik",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T04:48:38+00:00",
-      "time_ago": "12h ago"
     }
   ]
 }
