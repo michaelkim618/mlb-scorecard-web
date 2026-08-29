@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-28T23:38:05.394471+00:00",
+  "updated_at": "2026-08-29T00:12:36.715564+00:00",
   "news": [
+    {
+      "title": "Mariners move struggling Miller to bullpen: 'This is not a permanent thing'",
+      "link": "https://www.mlb.com/news/mariners-move-bryce-miller-to-bullpen",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ruxpu1p879qoa15wpetd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-28T23:42:07+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "'Forever starts now': Rays' new ballpark approved in county vote",
+      "link": "https://www.mlb.com/news/hillsborough-county-board-of-county-commissioners-approves-rays-forever-home-in-vote",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mjjtnaqjdqfncakvaab9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-28T23:40:00+00:00",
+      "time_ago": "32m ago"
+    },
     {
       "title": "Twins call up No. 15 overall prospect Walker Jenkins",
       "link": "https://www.mlb.com/news/walker-jenkins-twins-callup",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-28T23:32:00+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "40m ago"
     },
     {
       "title": "Stewart makes latest case for Rookie of the Year in Reds' win at Wrigley",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-28T22:57:00+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Waldrep, Schwellenbach to undergo season-ending elbow surgery",
@@ -38,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-28T22:41:59+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "LIVE: Top 100 prospects Rojas (NYM), Wood (PHI) square off at Double-A",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-08-28T22:31:22+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Verlander eyeing return to big league mound before retirement",
-      "link": "https://www.mlb.com/news/justin-verlander-targeting-tigers-return-before-retirement",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cypfw67eoiqyx8fxchnp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Beck",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-28T21:03:36+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "The wait is over: Walker Jenkins is ready to conquer the Twin Cities",
-      "link": "https://www.mlb.com/news/what-to-expect-twins-prospect-walker-jenkins-mlb",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zt9czhxmm60easqbpctc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jonathan Mayo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-28T20:30:00+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
