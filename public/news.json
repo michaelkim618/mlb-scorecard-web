@@ -1,18 +1,44 @@
 {
-  "updated_at": "2026-08-29T20:31:15.023230+00:00",
+  "updated_at": "2026-08-29T21:06:11.852920+00:00",
   "news": [
     {
-      "title": "Báez saves a run, sparks walk-off rally in wild 9th",
-      "link": "https://www.mlb.com/news/javier-baez-kevin-mcgonigle-lead-tigers-to-walk-off-win",
+      "title": "Benintendi lets fly at Target Field again, finishing triple shy of cycle",
+      "link": "https://www.mlb.com/news/andrew-benintendi-beats-up-on-twins-again-to-lead-white-sox",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vj8lluj7eudpfajudixn",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t2uoh259rts1kgxms7lf",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Jason Beck",
+      "author": "Patrick Donnelly",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T20:56:38+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "3CA! Cubs superstar adds 1st career 3-HR game to MVP resume",
+      "link": "https://www.mlb.com/news/pete-crow-armstrong-homers-vs-reds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sawjnxuhvjgbnqh5njnf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
       "tag": "Highlight",
       "tag_color": "#D97706",
-      "pub_date": "2026-08-29T20:23:41+00:00",
-      "time_ago": "7m ago"
+      "pub_date": "2026-08-29T20:39:00+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "Red Sox activate Whitlock ahead of doubleheader vs. Yanks",
+      "link": "https://www.mlb.com/news/garrett-whitlock-activated-from-injured-list-by-red-sox",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788035477/mlb/rgc4sbwmi1sx5prbitcu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T20:31:00+00:00",
+      "time_ago": "35m ago"
     },
     {
       "title": "One-run games continue to haunt Dodgers in walk-off loss",
@@ -24,8 +50,8 @@
       "author": "Sonja Chen",
       "tag": "Highlight",
       "tag_color": "#D97706",
-      "pub_date": "2026-08-29T20:16:30+00:00",
-      "time_ago": "14m ago"
+      "pub_date": "2026-08-29T20:30:00+00:00",
+      "time_ago": "36m ago"
     },
     {
       "title": "Rookie Bennett delivers scoreless gem as Sox take DH opener in Bronx",
@@ -37,8 +63,21 @@
       "author": "Ian Browne",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-29T20:12:14+00:00",
-      "time_ago": "19m ago"
+      "pub_date": "2026-08-29T20:28:00+00:00",
+      "time_ago": "38m ago"
+    },
+    {
+      "title": "Báez saves a run, sparks walk-off rally in wild 9th",
+      "link": "https://www.mlb.com/news/javier-baez-kevin-mcgonigle-lead-tigers-to-walk-off-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788035878/mlb/vj8lluj7eudpfajudixn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-29T20:23:41+00:00",
+      "time_ago": "42m ago"
     },
     {
       "title": "Schwellenbach frustrated by need for elbow surgery after setbacks in rehab",
@@ -51,20 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-29T20:04:58+00:00",
-      "time_ago": "26m ago"
-    },
-    {
-      "title": "PCA for MVP? Slugger crushes two homers in first two innings vs. Reds",
-      "link": "https://www.mlb.com/news/pete-crow-armstrong-homers-vs-reds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/scoprpym3idwfumopffx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-29T19:56:14+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Mets get big boost as Soto is activated off injured list",
@@ -77,32 +103,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-29T19:38:00+00:00",
-      "time_ago": "53m ago"
-    },
-    {
-      "title": "Stewart joins Frank Robinson as only Reds rookies to hit 30 HRs",
-      "link": "https://www.mlb.com/news/sal-stewart-hits-30th-homer-in-reds-game-vs-cubs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j94shc34slskc84q5fol",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-29T19:32:33+00:00",
-      "time_ago": "58m ago"
-    },
-    {
-      "title": "'Brats' summer? These lederhosen unis might be the craziest you'll ever see",
-      "link": "https://www.mlb.com/news/timber-rattlers-weekend-rebrand-as-wisconsin-brats",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ssv1beqtyicynt9fyb0y",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T19:16:37+00:00",
       "time_ago": "1h ago"
     }
   ]
