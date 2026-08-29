@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-29T02:33:36.260659+00:00",
+  "updated_at": "2026-08-29T03:04:34.991709+00:00",
   "news": [
+    {
+      "title": "Waldrep, Schwellenbach to undergo season-ending elbow surgery",
+      "link": "https://www.mlb.com/news/hurston-waldrep-spencer-schwellenbach-to-undergo-season-ending-elbow-surgery",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/h9hcxdkyfq6pohn0ghxl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-29T02:45:00+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Despite increasingly commanding lead, Murphy wants Crew to stay hungry",
+      "link": "https://www.mlb.com/news/logan-henderson-deals-again-as-brewers-beat-rangers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/skgws7roc49xg6v3cmao",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T02:32:11+00:00",
+      "time_ago": "32m ago"
+    },
+    {
+      "title": "Acuña responds to off-day with 1st 3-hit game of the year",
+      "link": "https://www.mlb.com/news/ronald-acuna-jr-three-hit-braves-win-rockies",
+      "summary": "Murphy, Harris provide clutch hits to push Braves' win streak to 5",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/an0ygskj2vjp50w6rlys",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T02:29:52+00:00",
+      "time_ago": "34m ago"
+    },
+    {
+      "title": "Brown (10 K's) sets tone with quality start against Mets",
+      "link": "https://www.mlb.com/news/hunter-brown-10-strikeouts-astros-beat-mets",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y9hrib2xe59t1heiyssy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T02:14:28+00:00",
+      "time_ago": "50m ago"
+    },
     {
       "title": "Schlittler notches 200th K before Belli saves game with clutch throw",
       "link": "https://www.mlb.com/news/cam-schlittler-reaches-200-strikeouts-in-red-sox-yankees-opener",
@@ -12,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-29T02:13:00+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "51m ago"
     },
     {
       "title": "Díaz, Rays bring offensive chaos to become 1st AL team to reach 80 wins",
@@ -25,20 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T02:01:25+00:00",
-      "time_ago": "32m ago"
-    },
-    {
-      "title": "Twins top prospect Jenkins notches first big league hit in debut",
-      "link": "https://www.mlb.com/news/walker-jenkins-twins-callup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787958763/mlb/oz3etaslh83k0bnbqzyc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T01:47:00+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Wacha continues to torment Guardians in season-high 10-K gem",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T01:45:33+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Nats' No. 9 prospect Kent tosses 7-inning gem en route to first Major League win",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T01:37:32+00:00",
-      "time_ago": "56m ago"
-    },
-    {
-      "title": "Skubal has emotional return to Detroit -- but dominates Tigers anyway",
-      "link": "https://www.mlb.com/news/tarik-skubal-returns-to-detroit-to-face-tigers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rbu9uuisqpve6pamegc2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T01:24:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Watch FREE on Sat. as MLB's No. 8 prospect takes the hill in SEA/MIN Double-A tilt",
-      "link": "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dbde1twgiwpafxb4vidl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brendan Samson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T01:24:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Mariners move struggling Miller to bullpen: 'This is not a permanent thing'",
-      "link": "https://www.mlb.com/news/mariners-move-bryce-miller-to-bullpen",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ruxpu1p879qoa15wpetd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-28T23:42:07+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }

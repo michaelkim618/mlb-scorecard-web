@@ -11762,6 +11762,28 @@
       "away_bp_score": 64.2,
       "home_bp_score": 74.8,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-28",
+      "away": "Pittsburgh Pirates",
+      "home": "St. Louis Cardinals",
+      "game_number": 1,
+      "pick": "Pittsburgh Pirates",
+      "pick_prob": 59.8,
+      "actual_winner": "St. Louis Cardinals",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 4.34,
+      "home_sp_era": 6.43,
+      "away_bp_era": 3.15,
+      "home_bp_era": 4.05,
+      "away_sp_score": 44.3,
+      "home_sp_score": 29.3,
+      "away_bp_score": 62.8,
+      "home_bp_score": 37.7,
+      "bat_source": "lineup"
     }
   ],
   "summary": {

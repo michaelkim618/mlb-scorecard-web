@@ -8723,9 +8723,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "St. Louis Cardinals",
     "model_winner": "Pittsburgh Pirates",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Pittsburgh Pirates IL: Endy Rodríguez, Konnor Griffin, Mitch Keller, Ryan O'Hearn / St. Louis Cardinals IL: Andre Pallante, Blaze Jordan, Everson Pereira, Hunter Dobbins, Masyn Winn 외 다수",
     "kalshi_prob": 48.0,
     "edge": -7.8,
