@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-29T01:32:10.944501+00:00",
+  "updated_at": "2026-08-29T02:07:43.316589+00:00",
   "news": [
+    {
+      "title": "Schlittler notches 200th K of season, stifling Red Sox once again",
+      "link": "https://www.mlb.com/news/cam-schlittler-reaches-200-strikeouts-in-red-sox-yankees-opener",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c79pitiwri3sj9b2nuyu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T01:53:43+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "Twins top prospect Jenkins notches first big league hit in debut",
+      "link": "https://www.mlb.com/news/walker-jenkins-twins-callup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787958763/mlb/oz3etaslh83k0bnbqzyc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T01:47:00+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "Wacha continues to torment Guardians in season-high 10-K gem",
+      "link": "https://www.mlb.com/news/michael-wacha-eight-scoreless-innings-royals-shut-out-guardians",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tbwdjpbjf4v4ndt8wn5z",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Henry Palattella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T01:45:33+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "Nats' No. 9 prospect Kent tosses 7-inning gem en route to first Major League win",
+      "link": "https://www.mlb.com/news/jackson-kent-earns-first-major-league-win-vs-marlins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787967989/mlb/h1yc2gljsy1ltz4d9pgz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jessica Camerato",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T01:37:32+00:00",
+      "time_ago": "30m ago"
+    },
     {
       "title": "Skubal has emotional return to Detroit -- but dominates Tigers anyway",
       "link": "https://www.mlb.com/news/tarik-skubal-returns-to-detroit-to-face-tigers",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T01:24:00+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Watch FREE on Sat. as MLB's No. 8 prospect takes the hill in SEA/MIN Double-A tilt",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T01:24:00+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Mariners move struggling Miller to bullpen: 'This is not a permanent thing'",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-28T23:42:07+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "'Forever starts now': Rays' new ballpark approved in county vote",
@@ -51,58 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-28T23:40:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Twins call up No. 15 overall prospect Walker Jenkins",
-      "link": "https://www.mlb.com/news/walker-jenkins-twins-callup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787958763/mlb/oz3etaslh83k0bnbqzyc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-28T23:32:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Stewart makes latest case for Rookie of the Year in Reds' win at Wrigley",
-      "link": "https://www.mlb.com/news/reds-rally-again-to-take-series-opener-against-cubs-at-wrigley",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/axome9eiztagoomvtvcb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-28T22:57:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Waldrep, Schwellenbach to undergo season-ending elbow surgery",
-      "link": "https://www.mlb.com/news/hurston-waldrep-spencer-schwellenbach-to-undergo-season-ending-elbow-surgery",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/h9hcxdkyfq6pohn0ghxl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-28T22:41:59+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Cubs' bullpen problems persist as furious rally falls short",
-      "link": "https://www.mlb.com/news/cubs-bullpen-falters-again-in-loss-to-reds-in-series-opener",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/de4g1cnr1yp3tuktfuio",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-28T22:34:00+00:00",
       "time_ago": "2h ago"
     }
   ]
