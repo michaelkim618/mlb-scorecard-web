@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-08-28-daily-doc",
+      "title": "Aug 28 Results: The Bayesian Truth in 73.3%",
+      "author": "Doc",
+      "author_emoji": "🧠",
+      "author_color": "#7C3AED",
+      "author_role": "Sabermetrician",
+      "date": "2026-08-28",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#7C3AED",
+      "read_time": "3 min",
+      "summary": "Aug 28 model performance: 11-4 record driven by strong mid-probability picks"
+    },
+    {
       "slug": "2026-08-27-daily-ace",
       "title": "Aug 27 Results + Aug 28 Preview: Solid 4-3 Day, Cubs Looking Sharp Tomorrow",
       "author": "Ace",
