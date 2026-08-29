@@ -11982,6 +11982,28 @@
       "away_bp_score": 43.4,
       "home_bp_score": 51.1,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-29",
+      "away": "Seattle Mariners",
+      "home": "Toronto Blue Jays",
+      "game_number": 1,
+      "pick": "Toronto Blue Jays",
+      "pick_prob": 63.0,
+      "actual_winner": "Toronto Blue Jays",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "stable",
+      "away_sp_era": 4.76,
+      "home_sp_era": 4.3,
+      "away_bp_era": 3.93,
+      "home_bp_era": 3.24,
+      "away_sp_score": 32.1,
+      "home_sp_score": 42.0,
+      "away_bp_score": 41.0,
+      "home_bp_score": 70.2,
+      "bat_source": "lineup"
     }
   ],
   "summary": {
