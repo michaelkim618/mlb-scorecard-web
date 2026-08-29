@@ -603,15 +603,15 @@
             }
           ]
         },
-        "bp_score": 76.6,
+        "bp_score": 75.3,
         "bp_detail": {
-          "bullpen_era": 2.76,
+          "bullpen_era": 2.88,
           "recent_era": 2.75,
           "recent_appearances": 15,
           "recent_ip": 19.7,
-          "team_era": 3.01,
-          "bp_ip": 346.0,
-          "bp_count": 8,
+          "team_era": 3.06,
+          "bp_ip": 352.7,
+          "bp_count": 9,
           "closer_era": 2.31,
           "closer_name": "David Bednar"
         },
@@ -711,14 +711,14 @@
           }
         },
         "sit_score": 59.0,
-        "total": 58.1
+        "total": 57.7
       }
     },
     "scores": {
       "away_offense": 41.7,
       "away_defense": 65.5,
       "home_offense": 35.0,
-      "home_defense": 64.0
+      "home_defense": 63.4
     },
     "actual_score": {
       "away": null,
@@ -1362,15 +1362,15 @@
             }
           ]
         },
-        "bp_score": 76.6,
+        "bp_score": 75.3,
         "bp_detail": {
-          "bullpen_era": 2.76,
+          "bullpen_era": 2.88,
           "recent_era": 2.75,
           "recent_appearances": 15,
           "recent_ip": 19.7,
-          "team_era": 3.01,
-          "bp_ip": 346.0,
-          "bp_count": 8,
+          "team_era": 3.06,
+          "bp_ip": 352.7,
+          "bp_count": 9,
           "closer_era": 2.31,
           "closer_name": "David Bednar"
         },
@@ -1470,14 +1470,14 @@
           }
         },
         "sit_score": 59.0,
-        "total": 57.5
+        "total": 57.2
       }
     },
     "scores": {
       "away_offense": 41.7,
       "away_defense": 62.9,
       "home_offense": 35.0,
-      "home_defense": 63.3
+      "home_defense": 62.6
     },
     "actual_score": {
       "away": null,
@@ -1784,7 +1784,7 @@
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "L",
       "home_handedness": "R",
       "bullpen_game": false,
@@ -1887,9 +1887,9 @@
             "Max Muncy(0.924)",
             "Tommy Edman(0.742)",
             "Kyle Tucker(0.584)",
-            "Alek Thomas(0.457)",
             "Teoscar Hernández(0.654)",
-            "Hunter Feduccia(0.741)"
+            "Hunter Feduccia(0.741)",
+            "Alek Thomas(0.457)"
           ],
           "lineup_players": [
             {
@@ -1929,12 +1929,6 @@
               "avg": 0.189
             },
             {
-              "id": 677950,
-              "name": "Alek Thomas",
-              "ops": 0.457,
-              "avg": 0.154
-            },
-            {
               "id": 606192,
               "name": "Teoscar Hernández",
               "ops": 0.654,
@@ -1945,6 +1939,12 @@
               "name": "Hunter Feduccia",
               "ops": 0.741,
               "avg": 0.318
+            },
+            {
+              "id": 677950,
+              "name": "Alek Thomas",
+              "ops": 0.457,
+              "avg": 0.154
             }
           ],
           "bat_trend": "stable",
@@ -2064,10 +2064,10 @@
             "Kevin McGonigle(0.746)",
             "Dillon Dingler(0.599)",
             "Eduardo Valencia(0.903)",
-            "Ben Malgeri(0.705)",
             "Spencer Torkelson(0.565)",
-            "Max Clark(0.704)",
-            "Javier Báez(0.570)"
+            "Ben Malgeri(0.705)",
+            "Javier Báez(0.570)",
+            "Max Clark(0.704)"
           ],
           "lineup_players": [
             {
@@ -2101,28 +2101,28 @@
               "avg": 0.258
             },
             {
-              "id": 701162,
-              "name": "Ben Malgeri",
-              "ops": 0.705,
-              "avg": 0.143
-            },
-            {
               "id": 679529,
               "name": "Spencer Torkelson",
               "ops": 0.565,
               "avg": 0.111
             },
             {
-              "id": 703601,
-              "name": "Max Clark",
-              "ops": 0.704,
-              "avg": 0.219
+              "id": 701162,
+              "name": "Ben Malgeri",
+              "ops": 0.705,
+              "avg": 0.143
             },
             {
               "id": 595879,
               "name": "Javier Báez",
               "ops": 0.57,
               "avg": 0.161
+            },
+            {
+              "id": 703601,
+              "name": "Max Clark",
+              "ops": 0.704,
+              "avg": 0.219
             }
           ],
           "bat_trend": "stable",
@@ -2152,10 +2152,10 @@
       "home_defense": 51.6
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -2168,9 +2168,9 @@
     "notes": "Los Angeles Dodgers IL: Andy Pages, Ben Casparius, Blake Treinen, Bobby Miller, Brusdar Graterol 외 다수 / Detroit Tigers IL: Bailey Horn, Brant Hurter, Burch Smith, Jack Flaherty, Justin Verlander 외 다수",
     "kalshi_prob": 37.0,
     "edge": 0.0,
-    "value_bet": "➖ 시장과 유사",
+    "value_bet": "⭐ 고신뢰 예측 — 모델·시장 동의 (Los Angeles Dodgers 63%)",
     "extreme_edge": false,
-    "consensus": false,
+    "consensus": true,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null
   },
@@ -5748,8 +5748,8 @@
     "model_winner": "Arizona Diamondbacks",
     "model_correct": null,
     "notes": "Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Blake Walston, Corbin Burnes, Cristian Mena 외 다수 / San Francisco Giants IL: Adrian Houser, Carson Whisenhunt, Casey Schmitt, Daniel Susac, Harrison Bader 외 다수",
-    "kalshi_prob": 45.0,
-    "edge": -3.8,
+    "kalshi_prob": 46.0,
+    "edge": -4.8,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -6468,8 +6468,8 @@
     "model_winner": "Arizona Diamondbacks",
     "model_correct": null,
     "notes": "Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Blake Walston, Corbin Burnes, Cristian Mena 외 다수 / San Francisco Giants IL: Adrian Houser, Carson Whisenhunt, Casey Schmitt, Daniel Susac, Harrison Bader 외 다수",
-    "kalshi_prob": 45.0,
-    "edge": -3.2,
+    "kalshi_prob": 46.0,
+    "edge": -4.2,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -7235,8 +7235,8 @@
     "model_winner": "Washington Nationals",
     "model_correct": null,
     "notes": "Miami Marlins IL: Adam Mazur, Andrew Nardi, Anthony Bender, Max Meyer, Pete Fairbanks 외 다수 / Washington Nationals IL: Connelly Early, DJ Herz, Drew Millas, James Wood, Josiah Gray 외 다수",
-    "kalshi_prob": 50.0,
-    "edge": 0.1,
+    "kalshi_prob": 49.0,
+    "edge": 1.1,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -10250,8 +10250,8 @@
     "model_winner": "Atlanta Braves",
     "model_correct": null,
     "notes": "Colorado Rockies IL: Chase Dollander, Jose Quintana, Kris Bryant, Kyle Freeland, Kyle Karros 외 다수 / Atlanta Braves IL: Joe Jiménez, Joey Wentz, Reynaldo López, Robert Suarez, Spencer Schwellenbach 외 다수",
-    "kalshi_prob": 66.0,
-    "edge": -5.3,
+    "kalshi_prob": 67.0,
+    "edge": -6.3,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -12471,8 +12471,8 @@
     "model_winner": "Philadelphia Phillies",
     "model_correct": null,
     "notes": "Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Felix Reyes, Johan Rojas 외 다수 / Los Angeles Angels IL: Anthony Rendon, Gustavo Campero, Jack Kochanowicz, Nolan Schanuel, Robert Stephenson 외 다수",
-    "kalshi_prob": 32.0,
-    "edge": 5.0,
+    "kalshi_prob": 31.0,
+    "edge": 6.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
