@@ -113,33 +113,37 @@ function fmtAvg(v) {
 function BatStats({ bd, isHome }) {
   if (!bd) return <div style={{ fontSize: 11, color: "var(--color-muted)" }}>No batting data</div>;
 
-  const avg  = fmtAvg(bd.recent_avg);
-  const ops  = bd.season_ops  != null ? bd.season_ops.toFixed(3) : "—";
-  const rpg  = bd.runs_per_g  != null ? bd.runs_per_g.toFixed(1) : "—";
-  const hrpg = bd.hr_per_g    != null ? bd.hr_per_g.toFixed(1)   : "—";
-  const exp  = bd.explosive_games ?? 0;
-  const stars = exp >= 3 ? "★★★" : exp === 2 ? "★★☆" : exp === 1 ? "★☆☆" : "☆☆☆";
+  const avg     = fmtAvg(bd.recent_avg);       // 최근 10경기 전체 타율
+  const ops     = bd.season_ops  != null ? bd.season_ops.toFixed(3) : "—";
+  const rpg     = bd.runs_per_g  != null ? bd.runs_per_g.toFixed(1) : "—";
+  const hrpg    = bd.hr_per_g    != null ? bd.hr_per_g.toFixed(1)   : "—";
+  const exp     = bd.explosive_games ?? 0;
+  const stars   = exp >= 3 ? "★★★" : exp === 2 ? "★★☆" : exp === 1 ? "★☆☆" : "☆☆☆";
 
   // 홈/원정 split 데이터
   const homeSplit = bd.home_split;
   const awaySplit = bd.away_split;
   const hasSplit  = homeSplit || awaySplit;
 
-  // 예측에 사용된 split (홈팀→홈경기, 원정팀→원정경기)
-  const usedSplit  = isHome ? homeSplit : awaySplit;
-  const otherSplit = isHome ? awaySplit : homeSplit;
+  // 예측에 사용된 split
+  const usedSplit = isHome ? homeSplit : awaySplit;
+  const usedAvg   = usedSplit ? fmtAvg(usedSplit.recent_avg) : null;
 
   return (
     <div>
+      {/* 전체 최근 타율 + OPS/R/G/HR/G */}
       <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "4px 12px", marginBottom: 6 }}>
         {[
-          { label: "AVG", value: avg },
-          { label: "OPS", value: ops },
+          { label: "AVG", value: avg, note: "recent 10G" },
+          { label: "OPS", value: ops, note: "season" },
           { label: "R/G", value: rpg },
           { label: "HR/G", value: hrpg },
-        ].map(({ label, value }) => (
-          <div key={label} style={{ display: "flex", justifyContent: "space-between", fontSize: 11 }}>
-            <span style={{ color: "var(--color-muted)" }}>{label}</span>
+        ].map(({ label, value, note }) => (
+          <div key={label} style={{ display: "flex", justifyContent: "space-between", fontSize: 11, alignItems: "baseline", gap: 4 }}>
+            <span style={{ color: "var(--color-muted)" }}>
+              {label}
+              {note && <span style={{ fontSize: 9, color: "var(--color-subtle)", marginLeft: 3 }}>({note})</span>}
+            </span>
             <span style={{ fontWeight: 700, color: "var(--color-ink)" }}>{value}</span>
           </div>
         ))}
@@ -154,21 +158,25 @@ function BatStats({ bd, isHome }) {
           borderRadius: 7,
           border: "1px solid var(--color-border)",
         }}>
-          <div style={{ fontSize: 9, fontWeight: 700, color: "var(--color-muted)", textTransform: "uppercase", letterSpacing: "0.5px", marginBottom: 5 }}>
-            Home / Away Split (last 10G each)
+          {/* 헤더: 제목 + 전체 avg vs 스플릿 avg 비교 안내 */}
+          <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 5 }}>
+            <div style={{ fontSize: 9, fontWeight: 700, color: "var(--color-muted)", textTransform: "uppercase", letterSpacing: "0.5px" }}>
+              Home / Away Split (last 10G each)
+            </div>
+            {usedAvg && (
+              <div style={{ fontSize: 9, color: "var(--color-muted)" }}>
+                Overall <span style={{ fontWeight: 700, color: "var(--color-ink)" }}>{avg}</span>
+                <span style={{ margin: "0 3px", color: "var(--color-subtle)" }}>→</span>
+                {isHome ? "Home" : "Away"} <span style={{ fontWeight: 700, color: "#0369A1" }}>{usedAvg}</span>
+                <span style={{ marginLeft: 3, fontSize: 8, background: "#0EA5E9", color: "#fff", borderRadius: 3, padding: "1px 4px" }}>Used</span>
+              </div>
+            )}
           </div>
+
           <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "4px 8px" }}>
             {[
-              {
-                label: "🏠 Home",
-                split: homeSplit,
-                highlight: !!isHome,
-              },
-              {
-                label: "✈️ Away",
-                split: awaySplit,
-                highlight: !isHome,
-              },
+              { label: "🏠 Home", split: homeSplit, highlight: !!isHome },
+              { label: "✈️ Away", split: awaySplit, highlight: !isHome },
             ].map(({ label, split, highlight }) => {
               if (!split) return null;
               const n    = split.n_games ?? 10;
@@ -193,6 +201,11 @@ function BatStats({ bd, isHome }) {
               );
             })}
           </div>
+
+          {/* 점수 계산 기준 안내 */}
+          <div style={{ marginTop: 6, fontSize: 9, color: "var(--color-subtle)", borderTop: "1px solid var(--color-border)", paddingTop: 5 }}>
+            * Batting score calculated from overall recent stats (AVG · OPS · R/G). Split avg used as adjustment only.
+          </div>
         </div>
       )}
 
@@ -209,34 +222,37 @@ function PitcherGamelog({ gamelog }) {
   return (
     <div style={{ marginTop: 8 }}>
       <div style={{ fontSize: 10, fontWeight: 700, color: "var(--color-muted)", textTransform: "uppercase", letterSpacing: "0.6px", marginBottom: 5 }}>
-        Last 5 Starts
+        Last {gamelog.length} Starts
       </div>
-      <table style={{ width: "100%", borderCollapse: "collapse", fontSize: 11 }}>
-        <thead>
-          <tr style={{ borderBottom: "1px solid var(--color-border)" }}>
-            {["Date", "Opp", "IP", "H", "ER", "BB", "K", "ERA"].map(h => (
-              <th key={h} style={{ padding: "2px 3px", textAlign: h === "Date" || h === "Opp" ? "left" : "center", color: "var(--color-muted)", fontWeight: 600, fontSize: 10 }}>{h}</th>
-            ))}
-          </tr>
-        </thead>
-        <tbody>
-          {gamelog.map((g, i) => {
-            const eraColor = g.era == null ? "" : g.era <= 2.0 ? "#16A34A" : g.era <= 3.5 ? "#2563EB" : g.era <= 5.5 ? "#64748B" : "#DC2626";
-            return (
-              <tr key={i} style={{ borderBottom: "1px solid var(--color-border)", background: g.era > 5.5 ? "rgba(220,38,38,0.04)" : "transparent" }}>
-                <td style={{ padding: "3px", color: "var(--color-muted)", fontSize: 10 }}>{(g.date || "").slice(5)}</td>
-                <td style={{ padding: "3px", color: "var(--color-muted)", fontSize: 10 }}>{g.opp || ""}</td>
-                <td style={{ padding: "3px", textAlign: "center" }}>{g.ip}</td>
-                <td style={{ padding: "3px", textAlign: "center" }}>{g.h}</td>
-                <td style={{ padding: "3px", textAlign: "center" }}>{g.er}</td>
-                <td style={{ padding: "3px", textAlign: "center" }}>{g.bb}</td>
-                <td style={{ padding: "3px", textAlign: "center" }}>{g.so}</td>
-                <td style={{ padding: "3px", textAlign: "center", fontWeight: 700, color: eraColor }}>{g.era?.toFixed(2) ?? "—"}</td>
-              </tr>
-            );
-          })}
-        </tbody>
-      </table>
+      <div style={{ maxHeight: 220, overflowY: "scroll", borderRadius: 4, border: "1px solid var(--color-border)", display: "block" }}>
+        <table style={{ width: "100%", borderCollapse: "collapse", fontSize: 11 }}>
+          <thead style={{ position: "sticky", top: 0, background: "var(--color-canvas-muted)", zIndex: 1 }}>
+            <tr style={{ borderBottom: "1px solid var(--color-border)" }}>
+              {["Date", "Opp", "W/L", "IP", "H", "ER", "BB", "K", "ERA"].map(h => (
+                <th key={h} style={{ padding: "3px 4px", textAlign: h === "Date" || h === "Opp" ? "left" : "center", color: "var(--color-muted)", fontWeight: 600, fontSize: 10 }}>{h}</th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {[...gamelog].reverse().map((g, i) => {
+              const eraColor = g.era == null ? "" : g.era <= 2.0 ? "#16A34A" : g.era <= 3.5 ? "#2563EB" : g.era <= 5.5 ? "#64748B" : "#DC2626";
+              return (
+                <tr key={i} style={{ borderBottom: "1px solid var(--color-border)", background: g.era > 5.5 ? "rgba(220,38,38,0.04)" : "transparent" }}>
+                  <td style={{ padding: "3px 4px", color: "var(--color-muted)", fontSize: 10 }}>{(g.date || "").slice(5)}</td>
+                  <td style={{ padding: "3px 4px", color: "var(--color-muted)", fontSize: 10 }}>{g.opp || ""}</td>
+                  <td style={{ padding: "3px 4px", textAlign: "center", fontWeight: 700, color: g.decision === "W" ? "#16A34A" : g.decision === "L" ? "#DC2626" : "var(--color-muted)" }}>{g.decision ?? "—"}</td>
+                  <td style={{ padding: "3px 4px", textAlign: "center" }}>{g.ip}</td>
+                  <td style={{ padding: "3px 4px", textAlign: "center" }}>{g.h}</td>
+                  <td style={{ padding: "3px 4px", textAlign: "center" }}>{g.er}</td>
+                  <td style={{ padding: "3px 4px", textAlign: "center" }}>{g.bb}</td>
+                  <td style={{ padding: "3px 4px", textAlign: "center" }}>{g.so}</td>
+                  <td style={{ padding: "3px 4px", textAlign: "center", fontWeight: 700, color: eraColor }}>{g.era?.toFixed(2) ?? "—"}</td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
     </div>
   );
 }
@@ -260,9 +276,34 @@ function TeamPanel({ label, color, sc, pitcherName, pitcherStats, pitcherGamelog
         {label} · Starting Pitcher
       </div>
 
-      {/* Pitcher name */}
-      <div style={{ fontWeight: 700, fontSize: 14, color: "var(--color-ink)", marginBottom: 4 }}>
-        {pitcherName || "TBD"}
+      {/* Pitcher name + inline arsenal */}
+      <div style={{ marginBottom: 4 }}>
+        <div style={{ fontWeight: 700, fontSize: 14, color: "var(--color-ink)" }}>
+          {pitcherName || "TBD"}
+        </div>
+        {pitcherName && (spd.age || spd.fb_velo || spd.secondary_pitches?.length > 0) && (
+          <div style={{ display: "flex", flexWrap: "wrap", alignItems: "center", gap: "0 6px", marginTop: 3 }}>
+            {spd.age != null && (
+              <span style={{ fontSize: 11, color: "var(--color-muted)" }}>Age {spd.age}</span>
+            )}
+            {spd.fb_velo != null && (
+              <>
+                <span style={{ fontSize: 10, color: "var(--color-subtle)" }}>·</span>
+                <span style={{ fontSize: 11, fontWeight: 700, color: "#0EA5E9" }}>
+                  {spd.fb_velo} mph <span style={{ fontWeight: 500, color: "var(--color-muted)" }}>(FB)</span>
+                </span>
+              </>
+            )}
+            {spd.secondary_pitches?.length > 0 && (
+              <>
+                <span style={{ fontSize: 10, color: "var(--color-subtle)" }}>·</span>
+                <span style={{ fontSize: 11, color: "var(--color-muted)" }}>
+                  {spd.secondary_pitches.join(" / ")}
+                </span>
+              </>
+            )}
+          </div>
+        )}
       </div>
 
       {/* Pitcher stats row */}
@@ -463,6 +504,22 @@ function SummaryBadges({ game, pickProb, awayColor, homeColor, awayName, homeNam
     );
   }
 
+  // 0.5 SP vs BAT 충돌 경고
+  if (game.sp_bat_conflict && game.sp_bat_conflict_detail) {
+    const { sp_favors, bat_favors, sp_gap, bat_gap } = game.sp_bat_conflict_detail;
+    badges.push(
+      <Chip
+        key="spbat"
+        bg="#FFF7ED"
+        color="#C2410C"
+        border="#FED7AA"
+        title={`SP score favors ${sp_favors} (${sp_gap > 0 ? '+' : ''}${sp_gap}pt) but Batting score favors ${bat_favors} (${bat_gap > 0 ? '+' : ''}${bat_gap}pt). Conflicting signals — prediction confidence reduced.`}
+      >
+        ⚡ SP↔BAT Conflict — Lower Confidence
+      </Chip>
+    );
+  }
+
   // 1. Market comparison (edge vs Kalshi)
   if (game.edge != null) {
     const edgeVal = parseFloat(game.edge);
@@ -489,6 +546,8 @@ function SummaryBadges({ game, pickProb, awayColor, homeColor, awayName, homeNam
   // 3. Win probability strength
   if (pickProb >= 65) {
     badges.push(<Chip key="conf" bg="#FEF3C7" color="#78350F" border="#FCD34D">⭐ Premium Pick · {pickProb}% Win Prob</Chip>);
+  } else if (pickProb >= 63) {
+    badges.push(<Chip key="conf" bg="#FEF9C3" color="#713F12" border="#FDE047">🔥 High Confidence · {pickProb}% Win Prob</Chip>);
   } else if (pickProb >= 60) {
     badges.push(<Chip key="conf" bg="#EFF6FF" color="#1D4ED8" border="#BFDBFE">📊 Lean {pickProb}%</Chip>);
   } else if (pickProb < 55) {
@@ -591,7 +650,7 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
   const awayStreak = awayForm?.streak ?? 0;
   const homeStreak = homeForm?.streak ?? 0;
 
-  const isHighConf = pickProb >= 65;
+  const isHighConf = pickProb >= 63;
   const isTossUp   = pickProb < 55;
   const isDone     = game.model_correct !== null && game.model_correct !== undefined;
   const isCorrect  = game.model_correct === true;
@@ -704,6 +763,11 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
             ) : (
               <>
                 <div style={{ fontSize: 10, color: "var(--color-muted)", textTransform: "uppercase", letterSpacing: "0.5px", marginBottom: 2 }}>@ Away</div>
+                {game.game_time && (
+                  <div style={{ fontSize: 11, fontWeight: 700, color: "var(--color-ink)", marginBottom: 3 }}>
+                    {game.game_time}
+                  </div>
+                )}
                 <div style={{ fontSize: 10, fontWeight: 600, color: "var(--color-subtle)", background: "var(--color-canvas-muted)", borderRadius: 99, padding: "2px 10px", display: "inline-block" }}>
                   {game.status || "Scheduled"}
                 </div>

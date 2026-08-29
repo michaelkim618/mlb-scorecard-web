@@ -1,0 +1,206 @@
+{
+  "title": "Aug 19 Results + Aug 20 Preview: Sixty Percent Never Felt So Good",
+  "summary": "9-6 on Aug 19 with solid pitching reads, plus tomorrow's Cardinals-Reds rematch",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Here's the Thing About Winning Days\n\nSixty percent. That's the number that matters when you're playing the long game in baseball predictions. And on August 19th, our model delivered exactly that—a solid 9-6 performance that reminds us why we trust the process even when a few close calls don't go our way."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Aug 19 Record",
+          "value": "9-6"
+        },
+        {
+          "label": "Win Rate",
+          "value": "60.0%"
+        },
+        {
+          "label": "Hits",
+          "value": "9"
+        },
+        {
+          "label": "Misses",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Wins That Stood Out\n\nThe Rays continue to be one of those teams where our model just *gets* them. That 61% confidence pick? Money. Same story with the Twins hosting the Braves—another 61% call that landed perfectly. And let's talk about the White Sox-Cubs crosstown matchup, where we leaned Sox at 58% and watched them deliver.\n\nThe Phillies taking care of business against the Marlins at 60% confidence was the kind of steady pick that builds winning days. Even the Pirates squeaking past the Tigers at just 53% showed that sometimes the model sees something the rest of us don't."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Aug 19 Prediction Performance",
+      "data": [
+        {
+          "name": "Pirates",
+          "probability": 53,
+          "result": 1
+        },
+        {
+          "name": "Padres",
+          "probability": 61,
+          "result": 0
+        },
+        {
+          "name": "Twins",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Sox (CHW)",
+          "probability": 58,
+          "result": 1
+        },
+        {
+          "name": "Sox (BOS)",
+          "probability": 60,
+          "result": 0
+        },
+        {
+          "name": "Phillies",
+          "probability": 60,
+          "result": 1
+        },
+        {
+          "name": "Orioles",
+          "probability": 50,
+          "result": 0
+        },
+        {
+          "name": "Guardians",
+          "probability": 61,
+          "result": 0
+        },
+        {
+          "name": "Cardinals",
+          "probability": 57,
+          "result": 0
+        },
+        {
+          "name": "Rays",
+          "probability": 61,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Hit (1) / Miss (0)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Ones That Got Away\n\nLook, nobody bats 1.000 in this game. The Padres-Mets miss at 61% stung a little—that's the kind of confidence level where you expect to cash. The Guardians falling to the Giants despite our 61% lean was another head-scratcher. And that Cardinals loss to the Reds? Well, here's where it gets interesting, because we're going right back to that well tomorrow.\n\nThe Orioles-Yankees toss-up at 50-50 went the other way, but that's why it was a coin flip. The Red Sox stumbling against the Diamondbacks rounded out our misses, but nothing here suggests the model was wildly off—just baseball being baseball."
+    },
+    {
+      "type": "table",
+      "title": "Complete Aug 19 Results Breakdown",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Tigers @ Pirates",
+          "Pirates",
+          "53%",
+          "✓ Hit"
+        ],
+        [
+          "Padres @ Mets",
+          "Padres",
+          "61%",
+          "✗ Miss"
+        ],
+        [
+          "Braves @ Twins",
+          "Twins",
+          "61%",
+          "✓ Hit"
+        ],
+        [
+          "White Sox @ Cubs",
+          "White Sox",
+          "58%",
+          "✓ Hit"
+        ],
+        [
+          "Diamondbacks @ Red Sox",
+          "Red Sox",
+          "60%",
+          "✗ Miss"
+        ],
+        [
+          "Marlins @ Phillies",
+          "Phillies",
+          "60%",
+          "✓ Hit"
+        ],
+        [
+          "Yankees @ Orioles",
+          "Orioles",
+          "50%",
+          "✗ Miss"
+        ],
+        [
+          "Giants @ Guardians",
+          "Guardians",
+          "61%",
+          "✗ Miss"
+        ],
+        [
+          "Cardinals @ Reds",
+          "Cardinals",
+          "57%",
+          "✗ Miss"
+        ],
+        [
+          "Blue Jays @ Rays",
+          "Rays",
+          "61%",
+          "✓ Hit"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Redemption Story\n\nHere's what I love about baseball: you always get another chance. The Cardinals dropped that game to the Reds yesterday despite our 57% confidence, but tomorrow we're riding with St. Louis again—this time at 61%.\n\nMichael McGreevy gets the ball for the Cardinals against Brady Singer and the Reds. The model sees something in this pitching matchup that it likes even more than yesterday's setup. Maybe it's McGreevy's recent form, maybe it's how the Cardinals' lineup matches up against Singer's repertoire, or maybe it's just the baseball gods balancing the scales."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Aug 20 Top Pick",
+      "value": "St. Louis Cardinals",
+      "sub": "61% win probability vs Cincinnati Reds | McGreevy vs Singer on the mound"
+    },
+    {
+      "type": "text",
+      "value": "## The Bottom Line\n\nA 60% hit rate is exactly where we want to be—profitable, sustainable, and proof that the model's doing its job. We took our lumps on a few high-confidence misses, but we also cashed plenty of tickets when it mattered.\n\nTomorrow brings a fresh slate and a chance to run it back with the Cardinals. Sometimes the best picks are the ones where you get a second bite at the apple. Let's see if St. Louis can flip the script.\n\n*Trust the numbers. Ride the wave. See you tomorrow.*"
+    }
+  ],
+  "slug": "2026-08-19-daily-hana",
+  "author": "Hana",
+  "author_emoji": "🌸",
+  "author_role": "Story Writer",
+  "author_color": "#EC4899",
+  "date": "2026-08-19",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#EC4899"
+}
