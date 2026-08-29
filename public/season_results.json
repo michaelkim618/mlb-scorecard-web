@@ -11740,6 +11740,28 @@
       "away_bp_score": 80.0,
       "home_bp_score": 73.6,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-28",
+      "away": "Texas Rangers",
+      "home": "Milwaukee Brewers",
+      "game_number": 1,
+      "pick": "Milwaukee Brewers",
+      "pick_prob": 68.2,
+      "actual_winner": "Milwaukee Brewers",
+      "correct": true,
+      "high_conf": true,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "hot",
+      "away_sp_era": 3.68,
+      "home_sp_era": 2.19,
+      "away_bp_era": 3.51,
+      "home_bp_era": 3.15,
+      "away_sp_score": 36.0,
+      "home_sp_score": 59.0,
+      "away_bp_score": 64.2,
+      "home_bp_score": 74.8,
+      "bat_source": "lineup"
     }
   ],
   "summary": {
