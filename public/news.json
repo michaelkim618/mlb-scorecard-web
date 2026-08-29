@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-29T21:31:38.249801+00:00",
+  "updated_at": "2026-08-29T22:05:10.349341+00:00",
   "news": [
+    {
+      "title": "Giants coach ejected during lineup card exchange",
+      "link": "https://www.mlb.com/news/ron-wotus-ejected-before-game-1-of-doubleheader-vs-d-backs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/olr7zl4sei4zykmhuetr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Maria Guardado",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-08-29T21:50:53+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "Rookie Bennett delivers scoreless gem as Sox take DH opener in Bronx",
+      "link": "https://www.mlb.com/news/jake-bennett-pitches-6-scoreless-innings-in-doubleheader-opener-vs-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788040525/mlb/fp4xfvrftnnuiujtpf01",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T21:45:00+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "Ohtani won't pitch Sunday as return timeline becomes unclear",
+      "link": "https://www.mlb.com/news/shohei-ohtani-pitching-return-dodgers-plan",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f9h7lvsqecm31ak4f18s",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T21:42:00+00:00",
+      "time_ago": "23m ago"
+    },
     {
       "title": "Red Sox activate Whitlock ahead of doubleheader vs. Yanks",
       "link": "https://www.mlb.com/news/garrett-whitlock-activated-from-injured-list-by-red-sox",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T21:18:00+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "Bazzana gives Australian Little Leaguers up-close look at path from Down Under to the bigs",
@@ -25,10 +64,10 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T21:13:35+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "51m ago"
     },
     {
-      "title": "Mlodzinski",
+      "title": "Mlodzinski delivers bounce-back relief outing in Pirates win",
       "link": "https://www.mlb.com/news/carmen-mlodzinski-delivers-in-bullpen-game-as-pirates-beat-cardinals",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ofemx6yebusv38meeup3",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T21:11:43+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "With retirement 'the worst job I ever had,' Strom returns to Astros",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T21:05:15+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "3CA! Cubs superstar adds 1st career 3-HR game to MVP resume",
@@ -64,45 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-29T21:02:00+00:00",
-      "time_ago": "29m ago"
-    },
-    {
-      "title": "Benintendi lets fly at Target Field again, finishing triple shy of cycle",
-      "link": "https://www.mlb.com/news/andrew-benintendi-beats-up-on-twins-again-to-lead-white-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t2uoh259rts1kgxms7lf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Patrick Donnelly",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T20:56:38+00:00",
-      "time_ago": "35m ago"
-    },
-    {
-      "title": "One-run games continue to haunt Dodgers in walk-off loss",
-      "link": "https://www.mlb.com/news/dodgers-one-run-loss-tigers-walk-off",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uyjl69ffyd5twzszjc0b",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-29T20:30:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Rookie Bennett delivers scoreless gem as Sox take DH opener in Bronx",
-      "link": "https://www.mlb.com/news/jake-bennett-pitches-6-scoreless-innings-in-doubleheader-opener-vs-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fp4xfvrftnnuiujtpf01",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T20:28:00+00:00",
       "time_ago": "1h ago"
     }
   ]
