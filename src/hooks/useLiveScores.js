@@ -54,7 +54,7 @@ function parseGame(g) {
 }
 
 export default function useLiveScores(dateStr) {
-  const [scores, setScores] = useState({});   // { "Away|Home": gameInfo }
+  const [scores, setScores] = useState({});   // { gamePk: gameInfo } + { "Away|Home": gameInfo (non-DH fallback) }
   const [lastUpdated, setLastUpdated] = useState(null);
   const intervalRef = useRef(null);
 
@@ -68,8 +68,11 @@ export default function useLiveScores(dateStr) {
       const games = (data.dates?.[0]?.games || []).map(parseGame);
       const map = {};
       games.forEach(g => {
-        const key = `${g.awayTeam}|${g.homeTeam}`;
-        map[key] = g;
+        // ① game_pk 기준 (더블헤더 구분 — 가장 신뢰도 높음)
+        if (g.gamePk) map[g.gamePk] = g;
+        // ② 팀 이름 기준 fallback (단일 경기 호환, 더블헤더 두 번째가 첫 번째 덮어쓸 수 있음)
+        const nameKey = `${g.awayTeam}|${g.homeTeam}`;
+        if (!map[nameKey]) map[nameKey] = g;  // 먼저 들어온 게 우선 (Game 1 보호)
       });
       setScores(map);
       setLastUpdated(new Date());
