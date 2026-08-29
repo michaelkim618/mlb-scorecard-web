@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-29T03:04:34.991709+00:00",
+  "updated_at": "2026-08-29T03:33:42.419521+00:00",
   "news": [
+    {
+      "title": "Díaz, Rays bring offensive chaos to become 1st AL team to reach 80 wins",
+      "link": "https://www.mlb.com/news/rays-become-first-american-league-team-to-reach-80-wins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787967155/mlb/jjssfkvmcygjaw7au6ne",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T03:23:00+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "Ohtani pitches light bullpen session; next start still uncertain",
+      "link": "https://www.mlb.com/news/shohei-ohtani-pitches-bullpen-session-ahead-of-potential-return-to-mound",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/krkuxenvgusvnvbwself",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T03:11:00+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "Skubal has emotional return to Detroit -- but dominates Tigers anyway",
+      "link": "https://www.mlb.com/news/tarik-skubal-returns-to-detroit-to-face-tigers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yxwrbutzzn2qtwdcglp0",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T03:07:00+00:00",
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "Mathews dazzles in home debut for first MLB win",
+      "link": "https://www.mlb.com/news/quinn-mathews-earns-first-mlb-win-as-cardinals-beat-pirates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787970731/mlb/xmfuj3hy00tvecvgcg6k",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T03:04:15+00:00",
+      "time_ago": "29m ago"
+    },
     {
       "title": "Waldrep, Schwellenbach to undergo season-ending elbow surgery",
       "link": "https://www.mlb.com/news/hurston-waldrep-spencer-schwellenbach-to-undergo-season-ending-elbow-surgery",
@@ -12,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-29T02:45:00+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "Despite increasingly commanding lead, Murphy wants Crew to stay hungry",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T02:32:11+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Acuña responds to off-day with 1st 3-hit game of the year",
@@ -38,71 +90,19 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T02:29:52+00:00",
-      "time_ago": "34m ago"
-    },
-    {
-      "title": "Brown (10 K's) sets tone with quality start against Mets",
-      "link": "https://www.mlb.com/news/hunter-brown-10-strikeouts-astros-beat-mets",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y9hrib2xe59t1heiyssy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T02:14:28+00:00",
-      "time_ago": "50m ago"
-    },
-    {
-      "title": "Schlittler notches 200th K before Belli saves game with clutch throw",
-      "link": "https://www.mlb.com/news/cam-schlittler-reaches-200-strikeouts-in-red-sox-yankees-opener",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c79pitiwri3sj9b2nuyu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-29T02:13:00+00:00",
-      "time_ago": "51m ago"
-    },
-    {
-      "title": "Díaz, Rays bring offensive chaos to become 1st AL team to reach 80 wins",
-      "link": "https://www.mlb.com/news/rays-become-first-american-league-team-to-reach-80-wins",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787967155/mlb/jjssfkvmcygjaw7au6ne",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T02:01:25+00:00",
       "time_ago": "1h ago"
     },
     {
-      "title": "Wacha continues to torment Guardians in season-high 10-K gem",
-      "link": "https://www.mlb.com/news/michael-wacha-eight-scoreless-innings-royals-shut-out-guardians",
+      "title": "Cease pads Cy case with yet another gem to right Blue Jays' ship",
+      "link": "https://www.mlb.com/news/dylan-cease-leads-blue-jays-past-mariners",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tbwdjpbjf4v4ndt8wn5z",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ei8f5biwqapa7iqoj3us",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Henry Palattella",
+      "author": "Keegan Matheson",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-29T01:45:33+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Nats' No. 9 prospect Kent tosses 7-inning gem en route to first Major League win",
-      "link": "https://www.mlb.com/news/jackson-kent-earns-first-major-league-win-vs-marlins",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787967989/mlb/h1yc2gljsy1ltz4d9pgz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jessica Camerato",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T01:37:32+00:00",
+      "pub_date": "2026-08-29T02:25:00+00:00",
       "time_ago": "1h ago"
     }
   ]

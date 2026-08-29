@@ -11784,6 +11784,28 @@
       "away_bp_score": 62.8,
       "home_bp_score": 37.7,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-28",
+      "away": "Chicago White Sox",
+      "home": "Minnesota Twins",
+      "game_number": 1,
+      "pick": "Minnesota Twins",
+      "pick_prob": 50.0,
+      "actual_winner": "Chicago White Sox",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 5.44,
+      "home_sp_era": 5.37,
+      "away_bp_era": 3.29,
+      "home_bp_era": 3.96,
+      "away_sp_score": 30.0,
+      "home_sp_score": 35.9,
+      "away_bp_score": 59.3,
+      "home_bp_score": 43.5,
+      "bat_source": "lineup"
     }
   ],
   "summary": {
