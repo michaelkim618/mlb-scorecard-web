@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T01:06:26.317751+00:00",
+  "updated_at": "2026-08-29T01:32:10.944501+00:00",
   "news": [
     {
       "title": "Skubal has emotional return to Detroit -- but dominates Tigers anyway",
@@ -11,8 +11,21 @@
       "author": "Sonja Chen",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-29T00:49:25+00:00",
-      "time_ago": "17m ago"
+      "pub_date": "2026-08-29T01:24:00+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Watch FREE on Sat. as MLB's No. 8 prospect takes the hill in SEA/MIN Double-A tilt",
+      "link": "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dbde1twgiwpafxb4vidl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brendan Samson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T01:24:00+00:00",
+      "time_ago": "8m ago"
     },
     {
       "title": "Mariners move struggling Miller to bullpen: 'This is not a permanent thing'",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-28T23:32:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Stewart makes latest case for Rookie of the Year in Reds' win at Wrigley",
@@ -77,19 +90,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-28T22:41:59+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "LIVE: Top 100 prospects Rojas (NYM), Wood (PHI) square off at Double-A",
-      "link": "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dbde1twgiwpafxb4vidl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brendan Samson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-28T22:36:00+00:00",
       "time_ago": "2h ago"
     },
     {
