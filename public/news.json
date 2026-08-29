@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-29T04:02:42.444189+00:00",
+  "updated_at": "2026-08-29T04:33:00.391122+00:00",
   "news": [
+    {
+      "title": "Vintage Brown (10 K's) could provide huge boost in Astros' title chase",
+      "link": "https://www.mlb.com/news/hunter-brown-10-strikeouts-astros-beat-mets",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y9hrib2xe59t1heiyssy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-29T03:59:00+00:00",
+      "time_ago": "34m ago"
+    },
     {
       "title": "Nats' No. 9 prospect Kent tosses 7-inning gem en route to first Major League win",
       "link": "https://www.mlb.com/news/jackson-kent-earns-first-major-league-win-vs-marlins",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T03:56:00+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "Where did Nolan McLean's sweeper go?",
@@ -25,7 +38,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-29T03:52:15+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "40m ago"
     },
     {
       "title": "Will these players return to their current clubs in '27?",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T03:50:10+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "DeLuca slips 'n slides his way through bullpen for 'incredible' catch",
@@ -51,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-29T03:43:13+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "Despite increasingly commanding lead, Murphy wants Crew to stay hungry",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T03:35:00+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Wacha continues to break out his best stuff against Guardians in 10-K gem",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T03:34:00+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "Vitello, Webb ejected after arguing fair-ball call",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T03:31:58+00:00",
-      "time_ago": "30m ago"
-    },
-    {
-      "title": "Montgomery's early blast sets tone for White Sox",
-      "link": "https://www.mlb.com/news/colson-montgomery-s-three-run-homer-powers-white-sox-over-twins",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787973078/mlb/oddjg6kodga0lzvnet1l",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Patrick Donnelly",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T03:31:33+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
