@@ -2674,6 +2674,12 @@
               "avg": 0.086
             },
             {
+              "id": 702284,
+              "name": "Cole Young",
+              "ops": 0.528,
+              "avg": 0.081
+            },
+            {
               "id": 641487,
               "name": "J.P. Crawford",
               "ops": 0.493,
@@ -2828,6 +2834,12 @@
               "avg": 0.27
             },
             {
+              "id": 672386,
+              "name": "Alejandro Kirk",
+              "ops": 0.782,
+              "avg": 0.282
+            },
+            {
               "id": 543807,
               "name": "George Springer",
               "ops": 1.008,
@@ -2838,6 +2850,12 @@
               "name": "Nathan Lukes",
               "ops": 0.843,
               "avg": 0.281
+            },
+            {
+              "id": 664770,
+              "name": "Nathan Lukes",
+              "ops": 0.824,
+              "avg": 0.265
             },
             {
               "id": 672960,
@@ -3437,6 +3455,12 @@
               "name": "John Rave",
               "ops": 0.676,
               "avg": 0.226
+            },
+            {
+              "id": 670231,
+              "name": "John Rave",
+              "ops": 0.68,
+              "avg": 0.233
             },
             {
               "id": 686475,
@@ -5826,6 +5850,12 @@
               "avg": 0.219
             },
             {
+              "id": 680777,
+              "name": "Ryan Jeffers",
+              "ops": 0.681,
+              "avg": 0.176
+            },
+            {
               "id": 605137,
               "name": "Josh Bell",
               "ops": 0.718,
@@ -5842,6 +5872,12 @@
               "name": "Royce Lewis",
               "ops": 0.509,
               "avg": 0.162
+            },
+            {
+              "id": 668904,
+              "name": "Royce Lewis",
+              "ops": 0.508,
+              "avg": 0.158
             },
             {
               "id": 701785,
@@ -7765,7 +7801,7 @@
             }
           ]
         },
-        "bp_score": 56.6,
+        "bp_score": 57.3,
         "bp_detail": {
           "bullpen_era": 3.46,
           "recent_era": 7.01,
@@ -8835,8 +8871,8 @@
     "model_winner": "Baltimore Orioles",
     "model_correct": null,
     "notes": "Baltimore Orioles IL: Colin Selby, Félix Bautista, Jordan Westburg, Keegan Akin, Ryan Helsley 외 다수 / Athletics IL: Brent Rooker, Brooks Kriske, Denzel Clarke, Gunnar Hoglund, Jacob Wilson 외 다수",
-    "kalshi_prob": 41.0,
-    "edge": -1.7,
+    "kalshi_prob": 42.0,
+    "edge": -2.7,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,

@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-08-29-daily-max",
+      "title": "Aug 29 Results: Thirteen Wins Never Gets Old",
+      "author": "Max",
+      "author_emoji": "📰",
+      "author_color": "#16A34A",
+      "author_role": "Senior Reporter",
+      "date": "2026-08-29",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#16A34A",
+      "read_time": "3 min",
+      "summary": "Aug 29 delivers 13-4 performance with 76.5% accuracy across Saturday's slate"
+    },
+    {
       "slug": "2026-08-28-daily-doc",
       "title": "Aug 28 Results: A 73.3% Hit Rate Validates the Model",
       "author": "Doc",
