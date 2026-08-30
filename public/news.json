@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-30T02:33:32.015267+00:00",
+  "updated_at": "2026-08-30T03:04:44.523520+00:00",
   "news": [
+    {
+      "title": "'Brats' summer? These lederhosen unis might be the craziest you'll ever see",
+      "link": "https://www.mlb.com/news/timber-rattlers-weekend-rebrand-as-wisconsin-brats",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ssv1beqtyicynt9fyb0y",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T02:38:00+00:00",
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "Lombard exits with right knee discomfort after awkward check swing",
+      "link": "https://www.mlb.com/news/george-lombard-jr-exits-red-sox-yankees-game-with-knee-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jfqqhtmqb5veos9jcek9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T02:35:00+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "Yanks back Fried's solid return with 13 singles to split DH vs. Red Sox",
+      "link": "https://www.mlb.com/news/max-fried-returns-in-yankees-win-over-red-sox",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j4m7szop5fvosxuorbns",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T02:33:41+00:00",
+      "time_ago": "31m ago"
+    },
     {
       "title": "Chourio logs third 20-homer season, joining elite list of youngsters",
       "link": "https://www.mlb.com/news/jackson-chourio-records-third-20-homer-season",
@@ -12,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-30T01:58:00+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Injuries: Ohtani, Yankees, Braves, Anthony, Griffin, Buxton",
@@ -51,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T01:02:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Lombard exits with right knee discomfort after awkward check swing",
-      "link": "https://www.mlb.com/news/george-lombard-jr-exits-red-sox-yankees-game-with-knee-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jfqqhtmqb5veos9jcek9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T00:59:09+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Tong dominates, comes within 1 out of no-hitter in what could be final Triple-A outing",
@@ -77,32 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-30T00:46:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "With franchise legends in crowd, Blue Jays deliver gritty comeback win",
-      "link": "https://www.mlb.com/news/blue-jays-rally-from-3-run-deficit-to-beat-mariners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788041965/mlb/ngtdz2pc6jj2er7swrwb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T00:22:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "An IL return. An injury scare. A go-ahead RBI. All in a day's work for Soto",
-      "link": "https://www.mlb.com/news/juan-soto-activated-off-injured-list-by-mets",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788053749/mlb/qwk5hnkigu6hbzdurw30",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-29T23:58:00+00:00",
       "time_ago": "2h ago"
     }
   ]
