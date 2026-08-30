@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-08-30T23:03:00.484916+00:00",
+  "updated_at": "2026-08-30T23:38:07.266535+00:00",
   "news": [
+    {
+      "title": "No catch? Bronx finale goes sideways after Sox lose challenge",
+      "link": "https://www.mlb.com/news/red-sox-lose-crucial-series-finale-against-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bqc47jjybzaj8vnkcqpk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T23:15:00+00:00",
+      "time_ago": "23m ago"
+    },
+    {
+      "title": "Wheeler looks more like old self in first win since July",
+      "link": "https://www.mlb.com/news/zack-wheeler-strikes-out-6-in-phillies-win-over-angels",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788129788/mlb/valwcmdxnml8uul6czvu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T23:13:16+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "Fluky HR off Mason Miller rescues Rays, who walk off in 11th",
+      "link": "https://www.mlb.com/news/jonny-deluca-hits-game-tying-home-run-in-bottom-of-ninth-before-rays-walk-it-off-in-11th",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kn2urzxkn92lpovjfoeh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-30T23:13:00+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "Teoscar brings the thunder, Glasnow deals as Dodgers take series in Detroit",
+      "link": "https://www.mlb.com/news/teoscar-hernandez-tyler-glasnow-dodgers-tigers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/arsdw93ndzildfnqubkd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-08-30T23:10:00+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "Gunnar blasts off with two homers, triple as Orioles sweep A's",
+      "link": "https://www.mlb.com/news/gunnar-henderson-homers-twice-goes-4-for-4-orioles-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788132076/mlb/ntyboaaaaehfs8w8tmod",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-30T23:10:00+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "Rockies sit Carrigg after inappropriate gesture toward fans in Atlanta",
+      "link": "https://www.mlb.com/news/cole-carrigg-benched-for-inappropriate-gesture-toward-fans",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ifikpuxtjrwynv9y3hwg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harding",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T23:08:00+00:00",
+      "time_ago": "30m ago"
+    },
     {
       "title": "Anthony, Story get right back into swing of things in return to Sox",
       "link": "https://www.mlb.com/news/roman-anthony-trevor-story-activated-off-injured-list",
@@ -12,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T22:52:00+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "46m ago"
     },
     {
       "title": "Ramírez at center of Guardians offense firing on all cylinders",
@@ -25,85 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T22:44:00+00:00",
-      "time_ago": "19m ago"
-    },
-    {
-      "title": "Alonso leaves game after being hit on brim of helmet",
-      "link": "https://www.mlb.com/news/pete-alonso-hit-by-pitch-on-helmet-orioles",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rxtfiog6wew5hngveyqb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T22:42:14+00:00",
-      "time_ago": "20m ago"
-    },
-    {
-      "title": "Curaçao takes home 2nd LLWS title behind offensive breakout",
-      "link": "https://www.mlb.com/news/curacao-wins-2026-little-league-world-series-championship",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ay36bk3ydbzflwdwlkcg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Shanthi Sepe-Chepuru",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T22:38:10+00:00",
-      "time_ago": "24m ago"
-    },
-    {
-      "title": "Bombers bombard Boston with 16 runs to claim season series vs. Sox",
-      "link": "https://www.mlb.com/news/heliot-ramos-hits-first-homer-as-yankee",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nq8tz4jbsbozs939myw5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T22:26:00+00:00",
-      "time_ago": "37m ago"
-    },
-    {
-      "title": "Matthews takes perfecto into 6th to cap exceptional August",
-      "link": "https://www.mlb.com/news/zebby-matthews-breakout-august-twins",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hvmsxms8jnwt6npuazhc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T22:21:00+00:00",
-      "time_ago": "42m ago"
-    },
-    {
-      "title": "Wade plays Houston hero off the bench with pinch-hit go-ahead blast",
-      "link": "https://www.mlb.com/news/lamonte-wade-jr-astros-win-mets-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pnfthq3y253lhox7pnyb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T22:20:58+00:00",
-      "time_ago": "42m ago"
-    },
-    {
-      "title": "Mad Max makes more history, strikes out 10 to pass Perry for 9th all-time",
-      "link": "https://www.mlb.com/news/max-scherzer-passes-gaylord-perry-on-all-time-strikeout-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788121540/mlb/heejhvejzoivivy45azh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matt Betts",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T22:05:00+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "54m ago"
     }
   ]
 }
