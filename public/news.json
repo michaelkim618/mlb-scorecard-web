@@ -1,31 +1,70 @@
 {
-  "updated_at": "2026-08-30T21:06:06.210628+00:00",
+  "updated_at": "2026-08-30T21:31:51.820897+00:00",
   "news": [
+    {
+      "title": "Nothing but good news again as Braves walk off Rockies for 7th straight win",
+      "link": "https://www.mlb.com/news/braves-walk-off-rockies-for-seventh-straight-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788124448/mlb/lbemkizmeubv1jul2amz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T21:27:00+00:00",
+      "time_ago": "4m ago"
+    },
+    {
+      "title": "Teoscar brings the thunder, Glasnow deals as Dodgers take series",
+      "link": "https://www.mlb.com/news/teoscar-hernandez-tyler-glasnow-dodgers-tigers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/arsdw93ndzildfnqubkd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-08-30T21:25:11+00:00",
+      "time_ago": "6m ago"
+    },
+    {
+      "title": "Fluky HR off Mason Miller rescues Rays, who walk off in 11th",
+      "link": "https://www.mlb.com/news/jonny-deluca-hits-game-tying-home-run-in-bottom-of-ninth-before-rays-walk-it-off-in-11th",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jfas4ub1tla0b89arnbe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-30T21:22:53+00:00",
+      "time_ago": "8m ago"
+    },
     {
       "title": "Ramírez at center of Guardians offense firing on all cylinders",
       "link": "https://www.mlb.com/news/jose-ramirez-homers-for-first-time-since-june-6",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p2mq6lhawk7j6lclxvie",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788123645/mlb/p2mq6lhawk7j6lclxvie",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Tim Stebbins",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T20:53:34+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "38m ago"
     },
     {
-      "title": "Nothing but good news again as Braves walk off Rockies for 7th straight win",
-      "link": "https://www.mlb.com/news/braves-walk-off-rockies-for-seventh-straight-win",
+      "title": "\"All I do is mock draft': Commissioner Pallante's new obsession is fantasy football",
+      "link": "https://www.mlb.com/news/andre-pallante-is-commissioner-of-cardinals-fantasy-football-league",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lbemkizmeubv1jul2amz",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vnij0gzvksxbwlmgxc8o",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Mark Bowman",
+      "author": "Brenden Schaeffer",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-30T20:48:38+00:00",
-      "time_ago": "17m ago"
+      "pub_date": "2026-08-30T20:48:14+00:00",
+      "time_ago": "43m ago"
     },
     {
       "title": "Rehabbing Vientos hits 3 HRs in Mets' Triple-A no-hitter",
@@ -38,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-30T20:47:15+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "44m ago"
     },
     {
       "title": "Bombers bombard Boston with 16 runs to claim season series vs. Sox",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T20:35:54+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "Matthews takes perfecto into 6th to cap exceptional August",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T20:34:28+00:00",
-      "time_ago": "31m ago"
-    },
-    {
-      "title": "Edwards could have left thumb sprain after tag play at second",
-      "link": "https://www.mlb.com/news/xavier-edwards-exits-with-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ratagfanvemsmhtdpwdd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Nicholas Quillen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T20:12:00+00:00",
-      "time_ago": "54m ago"
-    },
-    {
-      "title": "Mad Max makes more history, strikes out 10 to pass Perry for 9th all-time",
-      "link": "https://www.mlb.com/news/max-scherzer-passes-gaylord-perry-on-all-time-strikeout-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788121540/mlb/heejhvejzoivivy45azh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matt Betts",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T20:05:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Tatis, Stammen ejected after right fielder is called out for running inside 1st-base line",
-      "link": "https://www.mlb.com/news/fernando-tatis-jr-craig-stammen-ejected-vs-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uw0bs1qdsumn12eqldg1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Joey Johnston",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T19:59:45+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "57m ago"
     }
   ]
 }
