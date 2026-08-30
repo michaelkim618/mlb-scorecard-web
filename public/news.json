@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-30T03:04:44.523520+00:00",
+  "updated_at": "2026-08-30T03:33:36.679123+00:00",
   "news": [
+    {
+      "title": "Lombard (right knee discomfort) expected to be day to day",
+      "link": "https://www.mlb.com/news/george-lombard-jr-exits-red-sox-yankees-game-with-knee-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jfqqhtmqb5veos9jcek9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T03:20:00+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Chourio logs third 20-homer season, joining elite list of youngsters",
+      "link": "https://www.mlb.com/news/jackson-chourio-records-third-20-homer-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gq6hw02pf4mppjjthnt7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-30T03:13:00+00:00",
+      "time_ago": "20m ago"
+    },
     {
       "title": "'Brats' summer? These lederhosen unis might be the craziest you'll ever see",
       "link": "https://www.mlb.com/news/timber-rattlers-weekend-rebrand-as-wisconsin-brats",
@@ -12,20 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T02:38:00+00:00",
-      "time_ago": "26m ago"
-    },
-    {
-      "title": "Lombard exits with right knee discomfort after awkward check swing",
-      "link": "https://www.mlb.com/news/george-lombard-jr-exits-red-sox-yankees-game-with-knee-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jfqqhtmqb5veos9jcek9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T02:35:00+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "Yanks back Fried's solid return with 13 singles to split DH vs. Red Sox",
@@ -38,20 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T02:33:41+00:00",
-      "time_ago": "31m ago"
-    },
-    {
-      "title": "Chourio logs third 20-homer season, joining elite list of youngsters",
-      "link": "https://www.mlb.com/news/jackson-chourio-records-third-20-homer-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gq6hw02pf4mppjjthnt7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-30T01:58:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "Injuries: Ohtani, Yankees, Braves, Anthony, Griffin, Buxton",
@@ -64,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-30T01:24:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Pérez keeps good vibes going for Braves' rotation in sixth straight win",
@@ -77,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T01:21:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Fired-up Simpson delivers game-shifting blow for Rays in 'gutsy comeback'",
