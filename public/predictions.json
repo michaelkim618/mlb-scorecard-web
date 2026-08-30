@@ -3313,12 +3313,12 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 47.4,
-      "home": 52.6
+      "away": 51.1,
+      "home": 48.9
     },
     "expected_score": {
       "away": 1.7,
-      "home": 1.8
+      "home": 1.7
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -3336,7 +3336,7 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 30.8,
+        "sp_score": 44.1,
         "sp_detail": {
           "era": 2.61,
           "whip": 0.92,
@@ -3519,7 +3519,7 @@
           }
         },
         "sit_score": 46.2,
-        "total": 42.9
+        "total": 48.0
       },
       "home": {
         "sp_score": 49.8,
@@ -3710,7 +3710,7 @@
     },
     "scores": {
       "away_offense": 25.0,
-      "away_defense": 48.9,
+      "away_defense": 55.6,
       "home_offense": 25.0,
       "home_defense": 44.6
     },
@@ -3726,8 +3726,8 @@
       "any": false
     },
     "actual_winner": "Pittsburgh Pirates",
-    "model_winner": "St. Louis Cardinals",
-    "model_correct": false,
+    "model_winner": "Pittsburgh Pirates",
+    "model_correct": true,
     "notes": "Pittsburgh Pirates IL: Endy Rodríguez, Konnor Griffin, Mitch Keller, Ryan O'Hearn / St. Louis Cardinals IL: Andre Pallante, Blaze Jordan, Everson Pereira, Hunter Dobbins, Masyn Winn 외 다수",
     "kalshi_prob": null,
     "edge": null,
@@ -7519,12 +7519,12 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 48.5,
-      "home": 51.5
+      "away": 50.0,
+      "home": 50.0
     },
     "expected_score": {
       "away": 3.1,
-      "home": 2.0
+      "home": 1.9
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -7542,7 +7542,7 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 29.4,
+        "sp_score": 42.0,
         "sp_detail": {
           "era": 4.87,
           "whip": 1.28,
@@ -7717,7 +7717,7 @@
           }
         },
         "sit_score": 48.8,
-        "total": 45.1
+        "total": 49.0
       },
       "home": {
         "sp_score": 48.8,
@@ -7915,7 +7915,7 @@
     },
     "scores": {
       "away_offense": 47.9,
-      "away_defense": 36.6,
+      "away_defense": 42.9,
       "home_offense": 26.0,
       "home_defense": 56.3
     },
@@ -7939,13 +7939,8 @@
     "value_bet": "마켓 없음",
     "extreme_edge": false,
     "consensus": false,
-    "sp_bat_conflict": true,
-    "sp_bat_conflict_detail": {
-      "sp_favors": "Cleveland Guardians",
-      "bat_favors": "Kansas City Royals",
-      "sp_gap": -19.4,
-      "bat_gap": 21.9
-    }
+    "sp_bat_conflict": false,
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-08-29",
@@ -9787,8 +9782,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 37.0,
-      "home": 63.0
+      "away": 40.9,
+      "home": 59.1
     },
     "expected_score": {
       "away": 2.0,
@@ -9810,7 +9805,7 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 28.9,
+        "sp_score": 41.3,
         "sp_detail": {
           "era": 2.66,
           "whip": 1.08,
@@ -9992,7 +9987,7 @@
           }
         },
         "sit_score": 39.2,
-        "total": 35.9
+        "total": 40.6
       },
       "home": {
         "sp_score": 42.2,
@@ -10174,7 +10169,7 @@
     },
     "scores": {
       "away_offense": 31.1,
-      "away_defense": 33.8,
+      "away_defense": 40.0,
       "home_offense": 28.5,
       "home_defense": 56.9
     },
