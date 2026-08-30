@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-08-30T00:34:01.940751+00:00",
+  "updated_at": "2026-08-30T01:06:13.791903+00:00",
   "news": [
+    {
+      "title": "Fired-up Simpson delivers game-shifting blow for Rays in 'gutsy comeback'",
+      "link": "https://www.mlb.com/news/rays-pull-off-comeback-victory-over-padres-to-win-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/twbmtaauz0paf75odoky",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T01:02:00+00:00",
+      "time_ago": "4m ago"
+    },
+    {
+      "title": "Lombard exits with right knee discomfort after awkward check swing",
+      "link": "https://www.mlb.com/news/george-lombard-jr-exits-red-sox-yankees-game-with-knee-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jfqqhtmqb5veos9jcek9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T00:59:09+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Tong dominates, comes within 1 out of no-hitter in what could be final Triple-A outing",
+      "link": "https://www.mlb.com/news/mets-prospect-jonah-tong-one-hit-shutout-triple-a",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gtckj9rjl4yn4im5ehku",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Clark E. Fahrenthold ",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-30T00:46:00+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "Chourio logs third 20-homer season, joining elite list of youngsters",
+      "link": "https://www.mlb.com/news/jackson-chourio-records-third-20-homer-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gq6hw02pf4mppjjthnt7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-30T00:30:42+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "Rojas tallies 2nd career 4-RBI day ... after entering game in the 6th",
+      "link": "https://www.mlb.com/news/josh-rojas-four-rbis-royals-win-guardians",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ffmhz3wobzxt0ufrmqzr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Henry Palattella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T00:27:00+00:00",
+      "time_ago": "39m ago"
+    },
     {
       "title": "Blue Jays honor franchise legends with gritty comeback win",
       "link": "https://www.mlb.com/news/blue-jays-rally-from-3-run-deficit-to-beat-mariners",
@@ -12,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T00:22:00+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "44m ago"
     },
     {
       "title": "An IL return. An injury scare. A go-ahead RBI. All in a day's work for Soto",
@@ -25,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-29T23:58:00+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Giants coach ejected during lineup card exchange",
@@ -38,71 +103,6 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-08-29T23:56:00+00:00",
-      "time_ago": "38m ago"
-    },
-    {
-      "title": "Mlodzinski delivers bounce-back relief outing in Pirates win",
-      "link": "https://www.mlb.com/news/carmen-mlodzinski-delivers-in-bullpen-game-as-pirates-beat-cardinals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ofemx6yebusv38meeup3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T23:43:00+00:00",
-      "time_ago": "51m ago"
-    },
-    {
-      "title": "Pérez keeps good vibes going for Braves' rotation in sixth straight win",
-      "link": "https://www.mlb.com/news/martin-perez-delivers-strong-start-in-braves-comeback-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788047566/mlb/n6h3h4pp2idgaivf67h9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T23:34:17+00:00",
-      "time_ago": "59m ago"
-    },
-    {
-      "title": "Nootbaar comes through again for D-backs with pinch-hit grand slam",
-      "link": "https://www.mlb.com/news/lars-nootbaar-hits-pinch-hit-grand-slam-in-win-over-giants",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/m14oo1lg6a2cz4ujn8uc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-29T23:34:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Hiss, catch, double: El Mago works his magic in wild 9th",
-      "link": "https://www.mlb.com/news/javier-baez-kevin-mcgonigle-lead-tigers-to-walk-off-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rqz5zpb1mj5wbolrvywk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Beck",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T23:22:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "With retirement 'the worst job I ever had,' Strom returns to Astros",
-      "link": "https://www.mlb.com/news/former-pitching-coach-brent-strom-returns-to-astros",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/llxq87zpgsxle67awpqr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T23:09:00+00:00",
       "time_ago": "1h ago"
     }
   ]
