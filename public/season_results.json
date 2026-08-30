@@ -7382,6 +7382,28 @@
       "actual_winner": "San Francisco Giants",
       "correct": false,
       "high_conf": false
+    },
+    {
+      "date": "2026-08-30",
+      "away": "Miami Marlins",
+      "home": "Washington Nationals",
+      "game_number": 1,
+      "pick": "Washington Nationals",
+      "pick_prob": 55.2,
+      "actual_winner": "Miami Marlins",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "hot",
+      "away_sp_era": 3.14,
+      "home_sp_era": 3.91,
+      "away_bp_era": 3.7,
+      "home_bp_era": 4.63,
+      "away_sp_score": 45.9,
+      "home_sp_score": 45.7,
+      "away_bp_score": 53.9,
+      "home_bp_score": 35.6,
+      "bat_source": "lineup"
     }
   ]
 }
