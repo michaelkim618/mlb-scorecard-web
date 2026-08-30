@@ -12158,6 +12158,28 @@
       "away_bp_score": 57.8,
       "home_bp_score": 73.8,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-29",
+      "away": "Boston Red Sox",
+      "home": "New York Yankees",
+      "game_number": 2,
+      "pick": "Boston Red Sox",
+      "pick_prob": 51.5,
+      "actual_winner": "New York Yankees",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "hot",
+      "away_sp_era": 1.42,
+      "home_sp_era": 2.72,
+      "away_bp_era": 2.5,
+      "home_bp_era": 2.69,
+      "away_sp_score": 49.8,
+      "home_sp_score": 49.8,
+      "away_bp_score": 79.7,
+      "home_bp_score": 68.5,
+      "bat_source": "lineup"
     }
   ],
   "summary": {
