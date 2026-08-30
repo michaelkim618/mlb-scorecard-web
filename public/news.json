@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-30T15:10:05.136025+00:00",
+  "updated_at": "2026-08-30T15:39:04.695815+00:00",
   "news": [
+    {
+      "title": "ROY candidate Wetherholt placed on IL with right wrist tendinitis",
+      "link": "https://www.mlb.com/news/jj-wetherholt-placed-on-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cxajricsxksk0cmzzn4y",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-30T15:22:48+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "Anthony, Story activated from IL ahead of series finale vs. Yankees",
       "link": "https://www.mlb.com/news/roman-anthony-trevor-story-activated-off-injured-list",
@@ -12,7 +25,20 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-30T15:00:00+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "39m ago"
+    },
+    {
+      "title": "NL East rivals joust on MLB Sunday Leadoff season finale (12:15 ET on Peacock)",
+      "link": "https://www.mlb.com/news/mlb-sunday-leadoff-on-nbc-peacock-for-2026-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ybyszmgorqrjbaf86tug",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T14:40:00+00:00",
+      "time_ago": "59m ago"
     },
     {
       "title": "Harper caught stealing home, but Phils find way around baserunning miscues",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T07:19:36+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "8h ago"
     },
     {
       "title": "Sánchez reaches 200 K's for second straight season",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T04:16:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "How a pitching machine is revolutionizing baseball",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T04:03:04+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Lombard (right knee discomfort) expected to be day to day",
-      "link": "https://www.mlb.com/news/george-lombard-jr-exits-red-sox-yankees-game-with-knee-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jfqqhtmqb5veos9jcek9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T03:20:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Chourio logs third 20-homer season, joining elite list of youngsters",
-      "link": "https://www.mlb.com/news/jackson-chourio-records-third-20-homer-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gq6hw02pf4mppjjthnt7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-30T03:13:00+00:00",
       "time_ago": "11h ago"
     }
   ]
