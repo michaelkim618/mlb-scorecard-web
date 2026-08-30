@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T17:37:45.661054+00:00",
+  "updated_at": "2026-08-30T18:04:58.848451+00:00",
   "news": [
     {
       "title": "Anthony, Story pumped to be back with Sox ahead of stretch run",
@@ -11,8 +11,47 @@
       "author": "Ian Browne",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-30T17:33:00+00:00",
-      "time_ago": "4m ago"
+      "pub_date": "2026-08-30T17:55:00+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Rengifo (knee), Sheets (foot) land on IL as Padres make flurry of moves",
+      "link": "https://www.mlb.com/news/luis-rengifo-gavin-sheets-placed-on-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bt1d06wxuegu5k77jg9i",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Joey Johnston",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-30T17:54:16+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "Miller likely to return to rotation after Hancock lands on IL; Davila recalled",
+      "link": "https://www.mlb.com/news/emerson-hancock-placed-on-15-day-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hsit0oiljyl8cz1tbxhy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T17:46:24+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Rockies sit Carrigg after inappropriate gesture toward fans in Atlanta",
+      "link": "https://www.mlb.com/news/cole-carrigg-benched-for-inappropriate-gesture-toward-fans",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ifikpuxtjrwynv9y3hwg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harding",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T17:45:16+00:00",
+      "time_ago": "19m ago"
     },
     {
       "title": "Smith set to return Tuesday, bringing boost to scuffling Dodgers",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T17:19:15+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "ROY candidate Wetherholt placed on IL with right wrist tendinitis",
@@ -38,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-30T17:19:00+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "Judge to travel with Yanks on West Coast trip, plans to ramp up activities",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T17:10:05+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "Yanks, Lombard relieved that right knee injury isn't too serious",
@@ -65,45 +104,6 @@
       "tag_color": "#DC2626",
       "pub_date": "2026-08-30T16:37:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Buxton (hip impingement) placed on injured list",
-      "link": "https://www.mlb.com/news/byron-buxton-placed-on-injured-list-with-hip-impingement",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uk79eckokyvht2u2ra8t",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-30T16:10:59+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "LIVE on Peacock: NL East rivals joust on MLB Sunday Leadoff season finale",
-      "link": "https://www.mlb.com/news/mlb-sunday-leadoff-on-nbc-peacock-for-2026-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ybyszmgorqrjbaf86tug",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T16:00:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Harper caught stealing home, but Phils find way around baserunning miscues",
-      "link": "https://www.mlb.com/news/bryce-harper-caught-stealing-home-vs-angels",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788073749/mlb/esemdip3ny4avj0pxrfi",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T07:19:36+00:00",
-      "time_ago": "10h ago"
     }
   ]
 }
