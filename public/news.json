@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-08-30T20:31:14.112579+00:00",
+  "updated_at": "2026-08-30T21:06:06.210628+00:00",
   "news": [
+    {
+      "title": "Ramírez at center of Guardians offense firing on all cylinders",
+      "link": "https://www.mlb.com/news/jose-ramirez-homers-for-first-time-since-june-6",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p2mq6lhawk7j6lclxvie",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T20:53:34+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Nothing but good news again as Braves walk off Rockies for 7th straight win",
+      "link": "https://www.mlb.com/news/braves-walk-off-rockies-for-seventh-straight-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lbemkizmeubv1jul2amz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T20:48:38+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Rehabbing Vientos hits 3 HRs in Mets' Triple-A no-hitter",
+      "link": "https://www.mlb.com/news/mark-vientos-hits-3-home-runs-in-triple-a-rehab-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788122259/mlb/nhnurnd2v8gdpuomgggn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-30T20:47:15+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Bombers bombard Boston with 16 runs to claim season series vs. Sox",
+      "link": "https://www.mlb.com/news/heliot-ramos-hits-first-homer-as-yankee",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nq8tz4jbsbozs939myw5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T20:35:54+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "Matthews takes perfecto into 6th to cap exceptional August",
+      "link": "https://www.mlb.com/news/zebby-matthews-breakout-august-twins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hvmsxms8jnwt6npuazhc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T20:34:28+00:00",
+      "time_ago": "31m ago"
+    },
     {
       "title": "Edwards could have left thumb sprain after tag play at second",
       "link": "https://www.mlb.com/news/xavier-edwards-exits-with-injury",
@@ -12,20 +77,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T20:12:00+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "Mad Max makes more history, strikes out 10 to pass Perry for 9th all-time",
       "link": "https://www.mlb.com/news/max-scherzer-passes-gaylord-perry-on-all-time-strikeout-list",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/heejhvejzoivivy45azh",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788121540/mlb/heejhvejzoivivy45azh",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Matt Betts",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T20:05:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Tatis, Stammen ejected after right fielder is called out for running inside 1st-base line",
@@ -38,71 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T19:59:45+00:00",
-      "time_ago": "31m ago"
-    },
-    {
-      "title": "Wood asked to see live pitching ... and promptly homered in 1st rehab game",
-      "link": "https://www.mlb.com/news/james-wood-homers-in-first-double-a-rehab-game",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788115965/mlb/zlugaxdevv4pp57cjyto",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jessica Camerato",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-30T19:57:00+00:00",
-      "time_ago": "34m ago"
-    },
-    {
-      "title": "Rockies sit Carrigg after inappropriate gesture toward fans in Atlanta",
-      "link": "https://www.mlb.com/news/cole-carrigg-benched-for-inappropriate-gesture-toward-fans",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ifikpuxtjrwynv9y3hwg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harding",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T19:34:00+00:00",
-      "time_ago": "57m ago"
-    },
-    {
-      "title": "Lopez's homer caps wild six-run ninth as Marlins rally past Nats",
-      "link": "https://www.mlb.com/news/marlins-rally-past-nationals-with-six-run-ninth-inning",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t8plgpcot0wbdp3hfwvq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Nicholas Quillen",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-30T19:30:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Every member of the 3,000-strikeout club",
-      "link": "https://www.mlb.com/news/3-000-strikeout-club-c303580736",
-      "summary": "20 pitchers have reached 3,000 K's",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kcpnb7ratcqzhnhv9jkr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "David Adler",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T19:30:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Injuries: Buxton, Yankees, Cardinals, Mariners, Dodgers, Padres",
-      "link": "https://www.mlb.com/news/baseball-injury-updates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gc07ycrn25cas4ywtnqk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-30T18:57:00+00:00",
       "time_ago": "1h ago"
     }
   ]
