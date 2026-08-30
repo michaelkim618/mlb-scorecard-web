@@ -1349,7 +1349,7 @@
         "total": 47.6
       },
       "home": {
-        "sp_score": 50.0,
+        "sp_score": 49.8,
         "sp_detail": {
           "era": 3.14,
           "whip": 1.19,
@@ -2990,7 +2990,7 @@
       "div_name": "NL Central",
       "wins": 66,
       "losses": 71,
-      "games_back": "19.5"
+      "games_back": "19.0"
     },
     "home_standing": {
       "div_rank": 3,
@@ -3758,7 +3758,7 @@
       "div_name": "NL Central",
       "wins": 77,
       "losses": 59,
-      "games_back": "8.0"
+      "games_back": "7.5"
     },
     "away_recent_form": {
       "games": [
@@ -4477,11 +4477,11 @@
       "games_back": "4.0"
     },
     "home_standing": {
-      "div_rank": 5,
+      "div_rank": 4,
       "div_name": "AL East",
       "wins": 67,
       "losses": 70,
-      "games_back": "15.0"
+      "games_back": "14.5"
     },
     "away_recent_form": {
       "games": [
@@ -6834,7 +6834,7 @@
             {
               "code": "FC",
               "abbr": "CT",
-              "pct": 14.8,
+              "pct": 14.9,
               "velo": 90.0
             },
             {
@@ -7968,7 +7968,7 @@
       "div_name": "NL East",
       "wins": 61,
       "losses": 75,
-      "games_back": "20.0"
+      "games_back": "19.5"
     },
     "away_recent_form": {
       "games": [
@@ -8284,8 +8284,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 40.2,
-      "home": 59.8
+      "away": 30.4,
+      "home": 69.6
     },
     "expected_score": {
       "away": 1.6,
@@ -10032,7 +10032,7 @@
             {
               "code": "SI",
               "abbr": "SI",
-              "pct": 35.1,
+              "pct": 35.2,
               "velo": 89.3
             },
             {
@@ -10967,7 +10967,7 @@
     "away": "Baltimore Orioles",
     "home": "Athletics",
     "away_standing": {
-      "div_rank": 4,
+      "div_rank": 5,
       "div_name": "AL East",
       "wins": 67,
       "losses": 69,
@@ -11631,6 +11631,12 @@
               "name": "Donovan Walton",
               "ops": 0.825,
               "avg": 0.296
+            },
+            {
+              "id": 622268,
+              "name": "Donovan Walton",
+              "ops": 0.824,
+              "avg": 0.286
             },
             {
               "id": 691777,
