@@ -6485,9 +6485,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "San Francisco Giants",
     "model_winner": "Arizona Diamondbacks",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Blake Walston, Corbin Burnes, Cristian Mena 외 다수 / San Francisco Giants IL: Adrian Houser, Carson Whisenhunt, Casey Schmitt, Daniel Susac, Harrison Bader 외 다수",
     "kalshi_prob": 45.0,
     "edge": -4.7,
@@ -11765,9 +11765,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Baltimore Orioles",
     "model_winner": "Baltimore Orioles",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Baltimore Orioles IL: Colin Selby, Félix Bautista, Jordan Westburg, Keegan Akin, Ryan Helsley 외 다수 / Athletics IL: Brent Rooker, Brooks Kriske, Denzel Clarke, Gunnar Hoglund, Jacob Wilson 외 다수",
     "kalshi_prob": 42.0,
     "edge": -2.7,

@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-30T04:32:43.376897+00:00",
+  "updated_at": "2026-08-30T05:02:32.588043+00:00",
   "news": [
+    {
+      "title": "Kent joins Giants royalty with number retirement, and has more than just a hug for Bonds",
+      "link": "https://www.mlb.com/news/jeff-kent-has-number-retired-by-giants",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788057292/mlb/dtayk6eykdt1oe8an5g6",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Maria Guardado",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T04:57:00+00:00",
+      "time_ago": "5m ago"
+    },
+    {
+      "title": "Yanks back Fried's solid return with 13 singles to split DH vs. Red Sox",
+      "link": "https://www.mlb.com/news/max-fried-returns-in-yankees-win-over-red-sox",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j4m7szop5fvosxuorbns",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T04:16:00+00:00",
+      "time_ago": "46m ago"
+    },
+    {
+      "title": "How a pitching machine is revolutionizing baseball",
+      "link": "https://www.mlb.com/news/inside-the-rise-of-trajekt-machines",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ydo0c5pfk22twgoxgliv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T04:03:04+00:00",
+      "time_ago": "59m ago"
+    },
     {
       "title": "Sánchez reaches 200 K's for second straight season",
       "link": "https://www.mlb.com/news/cristopher-sanchez-starts-vs-angels",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T03:52:00+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Lombard (right knee discomfort) expected to be day to day",
@@ -51,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T02:38:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Yanks back Fried's solid return with 13 singles to split DH vs. Red Sox",
-      "link": "https://www.mlb.com/news/max-fried-returns-in-yankees-win-over-red-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j4m7szop5fvosxuorbns",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T02:33:41+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Injuries: Ohtani, Yankees, Braves, Anthony, Griffin, Buxton",
@@ -77,32 +103,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-30T01:24:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Pérez keeps good vibes going for Braves' rotation in sixth straight win",
-      "link": "https://www.mlb.com/news/martin-perez-delivers-strong-start-in-braves-comeback-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788047566/mlb/n6h3h4pp2idgaivf67h9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T01:21:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Fired-up Simpson delivers game-shifting blow for Rays in 'gutsy comeback'",
-      "link": "https://www.mlb.com/news/rays-pull-off-comeback-victory-over-padres-to-win-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/twbmtaauz0paf75odoky",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T01:02:00+00:00",
       "time_ago": "3h ago"
     }
   ]
