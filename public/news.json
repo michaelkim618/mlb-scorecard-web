@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-30T21:31:51.820897+00:00",
+  "updated_at": "2026-08-30T22:04:57.249456+00:00",
   "news": [
+    {
+      "title": "Duran homers, drives in 3 as Rangers' offense comes up clutch",
+      "link": "https://www.mlb.com/news/ezequiel-duran-s-3-rbis-lead-rangers-past-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788123985/mlb/cljt6becetygtgsv6hrl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Sweet",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-30T21:54:11+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "\"All I do is mock draft': Commissioner Pallante's new obsession is fantasy football",
+      "link": "https://www.mlb.com/news/andre-pallante-is-commissioner-of-cardinals-fantasy-football-league",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vnij0gzvksxbwlmgxc8o",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brenden Schaeffer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T21:46:00+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Miller to return to rotation after Hancock lands on IL; Davila recalled",
+      "link": "https://www.mlb.com/news/emerson-hancock-placed-on-15-day-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hsit0oiljyl8cz1tbxhy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T21:43:00+00:00",
+      "time_ago": "21m ago"
+    },
     {
       "title": "Nothing but good news again as Braves walk off Rockies for 7th straight win",
       "link": "https://www.mlb.com/news/braves-walk-off-rockies-for-seventh-straight-win",
@@ -11,11 +50,24 @@
       "author": "Mark Bowman",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-30T21:27:00+00:00",
-      "time_ago": "4m ago"
+      "pub_date": "2026-08-30T21:34:00+00:00",
+      "time_ago": "30m ago"
     },
     {
-      "title": "Teoscar brings the thunder, Glasnow deals as Dodgers take series",
+      "title": "Ashcraft leads Bucs to another series win to conclude his stellar August",
+      "link": "https://www.mlb.com/news/braxton-ashcraft-throws-5-innings-in-pirates-win-over-cardinals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mld9amrgvxrajhg7nhez",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T21:31:24+00:00",
+      "time_ago": "33m ago"
+    },
+    {
+      "title": "Teoscar brings the thunder, Glasnow deals as Dodgers take series in Detroit",
       "link": "https://www.mlb.com/news/teoscar-hernandez-tyler-glasnow-dodgers-tigers",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/arsdw93ndzildfnqubkd",
@@ -25,7 +77,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-30T21:25:11+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "39m ago"
     },
     {
       "title": "Fluky HR off Mason Miller rescues Rays, who walk off in 11th",
@@ -38,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-30T21:22:53+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "Ramírez at center of Guardians offense firing on all cylinders",
@@ -51,59 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T20:53:34+00:00",
-      "time_ago": "38m ago"
-    },
-    {
-      "title": "\"All I do is mock draft': Commissioner Pallante's new obsession is fantasy football",
-      "link": "https://www.mlb.com/news/andre-pallante-is-commissioner-of-cardinals-fantasy-football-league",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vnij0gzvksxbwlmgxc8o",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brenden Schaeffer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T20:48:14+00:00",
-      "time_ago": "43m ago"
-    },
-    {
-      "title": "Rehabbing Vientos hits 3 HRs in Mets' Triple-A no-hitter",
-      "link": "https://www.mlb.com/news/mark-vientos-hits-3-home-runs-in-triple-a-rehab-game",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788122259/mlb/nhnurnd2v8gdpuomgggn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-30T20:47:15+00:00",
-      "time_ago": "44m ago"
-    },
-    {
-      "title": "Bombers bombard Boston with 16 runs to claim season series vs. Sox",
-      "link": "https://www.mlb.com/news/heliot-ramos-hits-first-homer-as-yankee",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nq8tz4jbsbozs939myw5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T20:35:54+00:00",
-      "time_ago": "55m ago"
-    },
-    {
-      "title": "Matthews takes perfecto into 6th to cap exceptional August",
-      "link": "https://www.mlb.com/news/zebby-matthews-breakout-august-twins",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hvmsxms8jnwt6npuazhc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T20:34:28+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
