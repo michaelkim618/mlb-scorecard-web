@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-30T16:09:41.193953+00:00",
+  "updated_at": "2026-08-30T16:38:11.755329+00:00",
   "news": [
+    {
+      "title": "Buxton (hip impingement) placed on injured list",
+      "link": "https://www.mlb.com/news/byron-buxton-placed-on-injured-list-with-hip-impingement",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uk79eckokyvht2u2ra8t",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-30T16:10:59+00:00",
+      "time_ago": "27m ago"
+    },
     {
       "title": "LIVE on Peacock: NL East rivals joust on MLB Sunday Leadoff season finale",
       "link": "https://www.mlb.com/news/mlb-sunday-leadoff-on-nbc-peacock-for-2026-season",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T16:00:00+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "ROY candidate Wetherholt placed on IL with right wrist tendinitis",
@@ -25,7 +38,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-30T15:38:00+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Anthony, Story activated from IL ahead of series finale vs. Yankees",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T07:19:36+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "Sánchez reaches 200 K's for second straight season",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T04:16:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "How a pitching machine is revolutionizing baseball",
-      "link": "https://www.mlb.com/news/inside-the-rise-of-trajekt-machines",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ydo0c5pfk22twgoxgliv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T04:03:04+00:00",
       "time_ago": "12h ago"
     }
   ]
