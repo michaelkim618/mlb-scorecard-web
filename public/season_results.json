@@ -12224,6 +12224,28 @@
       "away_bp_score": 61.0,
       "home_bp_score": 45.5,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-29",
+      "away": "Philadelphia Phillies",
+      "home": "Los Angeles Angels",
+      "game_number": 1,
+      "pick": "Philadelphia Phillies",
+      "pick_prob": 63.0,
+      "actual_winner": "Philadelphia Phillies",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "stable",
+      "away_sp_era": 3.55,
+      "home_sp_era": 4.5,
+      "away_bp_era": 3.41,
+      "home_bp_era": 3.9,
+      "away_sp_score": 61.4,
+      "home_sp_score": 35.8,
+      "away_bp_score": 70.9,
+      "home_bp_score": 43.3,
+      "bat_source": "prev_day"
     }
   ],
   "summary": {
