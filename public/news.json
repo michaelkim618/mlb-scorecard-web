@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-08-30T20:04:08.733370+00:00",
+  "updated_at": "2026-08-30T20:31:14.112579+00:00",
   "news": [
     {
-      "title": "Wood asked to see live pitching ... and promptly homered in 1st rehab game",
-      "link": "https://www.mlb.com/news/james-wood-homers-in-first-double-a-rehab-game",
+      "title": "Edwards could have left thumb sprain after tag play at second",
+      "link": "https://www.mlb.com/news/xavier-edwards-exits-with-injury",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788115965/mlb/zlugaxdevv4pp57cjyto",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ratagfanvemsmhtdpwdd",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Jessica Camerato",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-30T19:57:00+00:00",
-      "time_ago": "7m ago"
+      "author": "Ian Nicholas Quillen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T20:12:00+00:00",
+      "time_ago": "19m ago"
     },
     {
       "title": "Mad Max makes more history, strikes out 10 to pass Perry for 9th all-time",
@@ -24,8 +24,34 @@
       "author": "Matt Betts",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-30T19:52:31+00:00",
-      "time_ago": "11m ago"
+      "pub_date": "2026-08-30T20:05:00+00:00",
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "Tatis, Stammen ejected after right fielder is called out for running inside 1st-base line",
+      "link": "https://www.mlb.com/news/fernando-tatis-jr-craig-stammen-ejected-vs-rays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uw0bs1qdsumn12eqldg1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Joey Johnston",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T19:59:45+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "Wood asked to see live pitching ... and promptly homered in 1st rehab game",
+      "link": "https://www.mlb.com/news/james-wood-homers-in-first-double-a-rehab-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788115965/mlb/zlugaxdevv4pp57cjyto",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jessica Camerato",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-30T19:57:00+00:00",
+      "time_ago": "34m ago"
     },
     {
       "title": "Rockies sit Carrigg after inappropriate gesture toward fans in Atlanta",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T19:34:00+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "Lopez's homer caps wild six-run ninth as Marlins rally past Nats",
@@ -51,20 +77,20 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-30T19:30:00+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "1h ago"
     },
     {
-      "title": "Edwards exits with left elbow, thumb discomfort after tag play at second",
-      "link": "https://www.mlb.com/news/xavier-edwards-exits-with-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ratagfanvemsmhtdpwdd",
+      "title": "Every member of the 3,000-strikeout club",
+      "link": "https://www.mlb.com/news/3-000-strikeout-club-c303580736",
+      "summary": "20 pitchers have reached 3,000 K's",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kcpnb7ratcqzhnhv9jkr",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Ian Nicholas Quillen",
+      "author": "David Adler",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-30T19:27:00+00:00",
-      "time_ago": "37m ago"
+      "pub_date": "2026-08-30T19:30:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Injuries: Buxton, Yankees, Cardinals, Mariners, Dodgers, Padres",
@@ -78,32 +104,6 @@
       "tag_color": "#DC2626",
       "pub_date": "2026-08-30T18:57:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Buxton (hip) back on IL, but Twins hopeful he'll return this season",
-      "link": "https://www.mlb.com/news/byron-buxton-placed-on-injured-list-with-hip-impingement",
-      "summary": "Ryan set for Triple-A rehab start Tuesday",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uk79eckokyvht2u2ra8t",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T18:12:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Anthony, Story pumped to be back with Sox ahead of stretch run",
-      "link": "https://www.mlb.com/news/roman-anthony-trevor-story-activated-off-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rzqr8gutznvkgy1dtnyj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T17:55:00+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
