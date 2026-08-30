@@ -1,18 +1,31 @@
 {
-  "updated_at": "2026-08-30T19:34:19.425474+00:00",
+  "updated_at": "2026-08-30T20:04:08.733370+00:00",
   "news": [
     {
-      "title": "Edwards exits with left elbow, thumb discomfort after tag play at second",
-      "link": "https://www.mlb.com/news/xavier-edwards-exits-with-injury",
+      "title": "Wood asked to see live pitching ... and promptly homered in 1st rehab game",
+      "link": "https://www.mlb.com/news/james-wood-homers-in-first-double-a-rehab-game",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zseganzfsbdzscdpgumg",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788115965/mlb/zlugaxdevv4pp57cjyto",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Ian Nicholas Quillen",
+      "author": "Jessica Camerato",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-30T19:57:00+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Mad Max makes more history, strikes out 10 to pass Perry for 9th all-time",
+      "link": "https://www.mlb.com/news/max-scherzer-passes-gaylord-perry-on-all-time-strikeout-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/heejhvejzoivivy45azh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matt Betts",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-30T19:27:00+00:00",
-      "time_ago": "7m ago"
+      "pub_date": "2026-08-30T19:52:31+00:00",
+      "time_ago": "11m ago"
     },
     {
       "title": "Rockies sit Carrigg after inappropriate gesture toward fans in Atlanta",
@@ -24,8 +37,47 @@
       "author": "Thomas Harding",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-08-30T18:36:00+00:00",
-      "time_ago": "58m ago"
+      "pub_date": "2026-08-30T19:34:00+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "Lopez's homer caps wild six-run ninth as Marlins rally past Nats",
+      "link": "https://www.mlb.com/news/marlins-rally-past-nationals-with-six-run-ninth-inning",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t8plgpcot0wbdp3hfwvq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Nicholas Quillen",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-30T19:30:00+00:00",
+      "time_ago": "34m ago"
+    },
+    {
+      "title": "Edwards exits with left elbow, thumb discomfort after tag play at second",
+      "link": "https://www.mlb.com/news/xavier-edwards-exits-with-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ratagfanvemsmhtdpwdd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Nicholas Quillen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T19:27:00+00:00",
+      "time_ago": "37m ago"
+    },
+    {
+      "title": "Injuries: Buxton, Yankees, Cardinals, Mariners, Dodgers, Padres",
+      "link": "https://www.mlb.com/news/baseball-injury-updates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gc07ycrn25cas4ywtnqk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-30T18:57:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Buxton (hip) back on IL, but Twins hopeful he'll return this season",
@@ -51,58 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T17:55:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Rengifo (knee), Sheets (foot) land on IL as Padres make flurry of moves",
-      "link": "https://www.mlb.com/news/luis-rengifo-gavin-sheets-placed-on-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bt1d06wxuegu5k77jg9i",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Joey Johnston",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-30T17:54:16+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Miller likely to return to rotation after Hancock lands on IL; Davila recalled",
-      "link": "https://www.mlb.com/news/emerson-hancock-placed-on-15-day-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hsit0oiljyl8cz1tbxhy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T17:46:24+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Smith set to return Tuesday, bringing boost to scuffling Dodgers",
-      "link": "https://www.mlb.com/news/will-smith-dodgers-return-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sczrzykp3rfzf8ftzk5x",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T17:19:15+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "ROY candidate Wetherholt placed on IL with right wrist tendinitis",
-      "link": "https://www.mlb.com/news/jj-wetherholt-placed-on-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cxajricsxksk0cmzzn4y",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brenden Schaeffer and Jared Greenspan",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-30T17:19:00+00:00",
       "time_ago": "2h ago"
     }
   ]
