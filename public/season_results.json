@@ -7646,6 +7646,28 @@
       "away_bp_score": 57.0,
       "home_bp_score": 74.2,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-30",
+      "away": "Houston Astros",
+      "home": "New York Mets",
+      "game_number": 1,
+      "pick": "New York Mets",
+      "pick_prob": 60.7,
+      "actual_winner": "Houston Astros",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "stable",
+      "away_sp_era": 7.36,
+      "home_sp_era": 2.59,
+      "away_bp_era": 3.45,
+      "home_bp_era": 3.34,
+      "away_sp_score": 30.0,
+      "home_sp_score": 56.4,
+      "away_bp_score": 56.7,
+      "home_bp_score": 75.1,
+      "bat_source": "lineup"
     }
   ]
 }
