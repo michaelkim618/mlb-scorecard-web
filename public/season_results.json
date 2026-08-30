@@ -7448,6 +7448,28 @@
       "away_bp_score": 36.3,
       "home_bp_score": 75.0,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-30",
+      "away": "Cincinnati Reds",
+      "home": "Chicago Cubs",
+      "game_number": 1,
+      "pick": "Chicago Cubs",
+      "pick_prob": 61.4,
+      "actual_winner": "무승부",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 4.0,
+      "home_sp_era": 2.7,
+      "away_bp_era": 4.09,
+      "home_bp_era": 3.6,
+      "away_sp_score": 48.0,
+      "home_sp_score": 49.8,
+      "away_bp_score": 37.0,
+      "home_bp_score": 51.6,
+      "bat_source": "lineup"
     }
   ]
 }
