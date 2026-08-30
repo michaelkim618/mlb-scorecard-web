@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-30T00:10:41.886192+00:00",
+  "updated_at": "2026-08-30T00:34:01.940751+00:00",
   "news": [
+    {
+      "title": "Blue Jays honor franchise legends with gritty comeback win",
+      "link": "https://www.mlb.com/news/blue-jays-rally-from-3-run-deficit-to-beat-mariners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788041965/mlb/ngtdz2pc6jj2er7swrwb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T00:22:00+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "An IL return. An injury scare. A go-ahead RBI. All in a day's work for Soto",
+      "link": "https://www.mlb.com/news/juan-soto-activated-off-injured-list-by-mets",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qwk5hnkigu6hbzdurw30",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-29T23:58:00+00:00",
+      "time_ago": "36m ago"
+    },
     {
       "title": "Giants coach ejected during lineup card exchange",
       "link": "https://www.mlb.com/news/ron-wotus-ejected-before-game-1-of-doubleheader-vs-d-backs",
@@ -12,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-08-29T23:56:00+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Mlodzinski delivers bounce-back relief outing in Pirates win",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T23:43:00+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "51m ago"
     },
     {
       "title": "Pérez keeps good vibes going for Braves' rotation in sixth straight win",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T23:34:17+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "Nootbaar comes through again for D-backs with pinch-hit grand slam",
@@ -51,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-29T23:34:00+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Hiss, catch, double: El Mago works his magic in wild 9th",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T23:22:00+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "With retirement 'the worst job I ever had,' Strom returns to Astros",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-29T23:09:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Cavalli's hitless outing cut short after being hit on right leg by comebacker",
-      "link": "https://www.mlb.com/news/cade-cavalli-exits-after-being-hit-on-right-leg-by-comebacker",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kl2ftzwkgg38hg2zhbyf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jessica Camerato",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T23:09:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Bottom of Rays' order sparks game-shifting 7th in win over Padres",
-      "link": "https://www.mlb.com/news/rays-pull-off-comeback-victory-over-padres-to-win-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/twbmtaauz0paf75odoky",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-29T23:03:39+00:00",
       "time_ago": "1h ago"
     }
   ]
