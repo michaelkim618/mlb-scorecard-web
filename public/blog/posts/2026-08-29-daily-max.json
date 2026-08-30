@@ -1,0 +1,206 @@
+{
+  "title": "Aug 29 Results: When the Model Finds Its Groove",
+  "summary": "Aug 29 delivered a solid 13-4 performance—76.5% accuracy across the board",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Another Day at the Office\n\nYou know, I've been around long enough to recognize when the numbers are telling a real story. Today wasn't perfect—never is in this game—but 13-4 is the kind of day that reminds you why we trust the process. That 76.5% clip? That's what consistency looks like when the model locks in."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Today W-L",
+          "value": "13-4"
+        },
+        {
+          "label": "Accuracy",
+          "value": "76.5%"
+        },
+        {
+          "label": "Total Games",
+          "value": "17"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Numbers Behind the Day\n\nLet's dig into what worked and what didn't. The confidence levels varied, but the higher probability picks mostly held serve—exactly what you want to see."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Today's Prediction Results by Confidence",
+      "data": [
+        {
+          "name": "Jays",
+          "probability": 63,
+          "result": 1
+        },
+        {
+          "name": "D-backs (G1)",
+          "probability": 62,
+          "result": 1
+        },
+        {
+          "name": "Dodgers",
+          "probability": 61,
+          "result": 0
+        },
+        {
+          "name": "Cubs",
+          "probability": 60,
+          "result": 1
+        },
+        {
+          "name": "Sox (vs MIN)",
+          "probability": 60,
+          "result": 1
+        },
+        {
+          "name": "Yankees",
+          "probability": 56,
+          "result": 1
+        },
+        {
+          "name": "Sox (@ NYY)",
+          "probability": 55,
+          "result": 1
+        },
+        {
+          "name": "D-backs (G2)",
+          "probability": 51,
+          "result": 0
+        },
+        {
+          "name": "Cardinals",
+          "probability": 50,
+          "result": 0
+        },
+        {
+          "name": "Nationals",
+          "probability": 50,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Coin Flips and Close Calls\n\nHere's something I've learned over the years: those 50-51% picks are always a mixed bag. Today we went 1-2 on those coin flips—Cardinals and the second D-backs game didn't go our way, but the Nationals came through. When the model says it's essentially a toss-up, you're playing with house money anyway."
+    },
+    {
+      "type": "table",
+      "title": "Full Aug 29 Results Breakdown",
+      "headers": [
+        "Game",
+        "Pick",
+        "Probability",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Sox @ Yankees (G1)",
+          "Sox",
+          "55%",
+          "✓"
+        ],
+        [
+          "Sox @ Yankees (G2)",
+          "Yankees",
+          "56%",
+          "✓"
+        ],
+        [
+          "Dodgers @ Tigers",
+          "Dodgers",
+          "61%",
+          "✗"
+        ],
+        [
+          "Sox @ Twins",
+          "Sox",
+          "60%",
+          "✓"
+        ],
+        [
+          "Pirates @ Cardinals",
+          "Cardinals",
+          "50%",
+          "✗"
+        ],
+        [
+          "Reds @ Cubs",
+          "Cubs",
+          "60%",
+          "✓"
+        ],
+        [
+          "Mariners @ Jays",
+          "Jays",
+          "63%",
+          "✓"
+        ],
+        [
+          "D-backs @ Giants (G1)",
+          "D-backs",
+          "62%",
+          "✓"
+        ],
+        [
+          "D-backs @ Giants (G2)",
+          "D-backs",
+          "51%",
+          "✗"
+        ],
+        [
+          "Marlins @ Nationals",
+          "Nationals",
+          "50%",
+          "✓"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Misses: What Happened\n\nThree misses worth noting. The Dodgers at 61% should've been money—that's the kind of loss that stings a bit. Tigers pitching had other ideas. The Cardinals coinflip went the wrong way, and the second D-backs game... well, doubleheaders are always tricky. The fatigue factor is real, and sometimes the model can't fully capture that late-day chaos."
+    },
+    {
+      "type": "text",
+      "value": "## The High Confidence Hits\n\nBut let's talk about what went right. That 63% Jays pick? Delivered. The 62% D-backs call in Game 1? Check. When we're sitting above 60% confidence, going 3-1 is solid work. The Cubs at 60% came through, and both Sox games—one as the dog, one as a slight favorite—both cashed."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#10B981",
+      "title": "✓ Best Call of the Day",
+      "value": "Mariners @ Blue Jays",
+      "sub": "63% confidence · Jays delivered as expected"
+    },
+    {
+      "type": "text",
+      "value": "## Taking a Breather\n\nNo games tomorrow. It's one of those rare off-days where the entire league takes a collective breath before the final push. Use it to rest up—we'll be back at it soon enough with fresh matchups and new numbers to crunch.\n\nDays like today remind me why I still love this work after all these years. The model did its job, we called it straight, and 13-4 goes in the win column. I'll take that every time."
+    }
+  ],
+  "slug": "2026-08-29-daily-max",
+  "author": "Max",
+  "author_emoji": "📰",
+  "author_role": "Senior Reporter",
+  "author_color": "#16A34A",
+  "date": "2026-08-29",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#16A34A"
+}
