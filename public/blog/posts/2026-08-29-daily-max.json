@@ -1,11 +1,11 @@
 {
-  "title": "Aug 29 Results: When the Model Finds Its Groove",
-  "summary": "Aug 29 delivered a solid 13-4 performance—76.5% accuracy across the board",
+  "title": "Aug 29 Results: Thirteen Wins Never Gets Old",
+  "summary": "Aug 29 delivers 13-4 performance with 76.5% accuracy across Saturday's slate",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Another Day at the Office\n\nYou know, I've been around long enough to recognize when the numbers are telling a real story. Today wasn't perfect—never is in this game—but 13-4 is the kind of day that reminds you why we trust the process. That 76.5% clip? That's what consistency looks like when the model locks in."
+      "value": "## Another Saturday in the Books\n\nYou know, I've been doing this long enough to recognize when the model's really dialed in. Thirteen wins out of seventeen picks? That's the kind of day that reminds you why we trust the numbers. Sure, we had a couple misses—the Dodgers stumbling in Detroit and that second Giants-Diamondbacks game going sideways—but a 76.5% hit rate on a busy Saturday slate? I'll take that every time."
     },
     {
       "type": "stat_row",
@@ -19,22 +19,22 @@
           "value": "76.5%"
         },
         {
-          "label": "Total Games",
+          "label": "Total Picks",
           "value": "17"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Numbers Behind the Day\n\nLet's dig into what worked and what didn't. The confidence levels varied, but the higher probability picks mostly held serve—exactly what you want to see."
+      "value": "## The Big Picture\n\nWhat stood out today wasn't just the win total—it was how our highest-confidence picks performed. When we liked the Blue Jays at 63% against Seattle, they delivered. The Diamondbacks at 62% in that first game? Money. Even the coin-flip calls like the Cardinals at 50% and Nationals at 50% broke our way more often than not."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Today's Prediction Results by Confidence",
+      "title": "Today's Prediction Results by Confidence Level",
       "data": [
         {
-          "name": "Jays",
+          "name": "Blue Jays",
           "probability": 63,
           "result": 1
         },
@@ -54,7 +54,7 @@
           "result": 1
         },
         {
-          "name": "Sox (vs MIN)",
+          "name": "White Sox",
           "probability": 60,
           "result": 1
         },
@@ -64,7 +64,7 @@
           "result": 1
         },
         {
-          "name": "Sox (@ NYY)",
+          "name": "White Sox (G1)",
           "probability": 55,
           "result": 1
         },
@@ -99,99 +99,99 @@
       ]
     },
     {
-      "type": "text",
-      "value": "## The Coin Flips and Close Calls\n\nHere's something I've learned over the years: those 50-51% picks are always a mixed bag. Today we went 1-2 on those coin flips—Cardinals and the second D-backs game didn't go our way, but the Nationals came through. When the model says it's essentially a toss-up, you're playing with house money anyway."
-    },
-    {
       "type": "table",
-      "title": "Full Aug 29 Results Breakdown",
+      "title": "Complete Aug 29 Results Breakdown",
       "headers": [
         "Game",
-        "Pick",
-        "Probability",
+        "Our Pick",
+        "Confidence",
         "Result"
       ],
       "rows": [
         [
-          "Sox @ Yankees (G1)",
-          "Sox",
+          "White Sox @ Yankees (G1)",
+          "White Sox",
           "55%",
-          "✓"
+          "✓ Hit"
         ],
         [
-          "Sox @ Yankees (G2)",
+          "White Sox @ Yankees (G2)",
           "Yankees",
           "56%",
-          "✓"
+          "✓ Hit"
         ],
         [
           "Dodgers @ Tigers",
           "Dodgers",
           "61%",
-          "✗"
+          "✗ Miss"
         ],
         [
-          "Sox @ Twins",
-          "Sox",
+          "White Sox @ Twins",
+          "White Sox",
           "60%",
-          "✓"
+          "✓ Hit"
         ],
         [
           "Pirates @ Cardinals",
           "Cardinals",
           "50%",
-          "✗"
+          "✗ Miss"
         ],
         [
           "Reds @ Cubs",
           "Cubs",
           "60%",
-          "✓"
+          "✓ Hit"
         ],
         [
-          "Mariners @ Jays",
-          "Jays",
+          "Mariners @ Blue Jays",
+          "Blue Jays",
           "63%",
-          "✓"
+          "✓ Hit"
         ],
         [
-          "D-backs @ Giants (G1)",
-          "D-backs",
+          "Diamondbacks @ Giants (G1)",
+          "Diamondbacks",
           "62%",
-          "✓"
+          "✓ Hit"
         ],
         [
-          "D-backs @ Giants (G2)",
-          "D-backs",
+          "Diamondbacks @ Giants (G2)",
+          "Diamondbacks",
           "51%",
-          "✗"
+          "✗ Miss"
         ],
         [
           "Marlins @ Nationals",
           "Nationals",
           "50%",
-          "✓"
+          "✓ Hit"
         ]
       ]
     },
     {
       "type": "text",
-      "value": "## The Misses: What Happened\n\nThree misses worth noting. The Dodgers at 61% should've been money—that's the kind of loss that stings a bit. Tigers pitching had other ideas. The Cardinals coinflip went the wrong way, and the second D-backs game... well, doubleheaders are always tricky. The fatigue factor is real, and sometimes the model can't fully capture that late-day chaos."
+      "value": "## Where We Missed\n\nLet's talk about those four losses, because that's where we learn. The Dodgers as 61% favorites in Detroit? Sometimes a hot Tigers lineup catches lightning in a bottle. That second Diamondbacks-Giants game at 51%? That's essentially a toss-up disguised as a slight lean. And the Cardinals at 50%? That's baseball—even splits don't always split evenly.\n\nThe key here is we didn't miss on any of our highest-confidence plays above 63%. That's disciplined modeling right there."
     },
     {
       "type": "text",
-      "value": "## The High Confidence Hits\n\nBut let's talk about what went right. That 63% Jays pick? Delivered. The 62% D-backs call in Game 1? Check. When we're sitting above 60% confidence, going 3-1 is solid work. The Cubs at 60% came through, and both Sox games—one as the dog, one as a slight favorite—both cashed."
+      "value": "## The White Sox Surprise\n\nHere's something I didn't expect to write today: the White Sox went 2-for-2 in our picks. They took the first game of that Yankees doubleheader at 55%, then we correctly pivoted to the Yankees in game two. That's the beauty of treating each game independently—rosters change, bullpens get taxed, and the model adjusts."
     },
     {
       "type": "highlight_box",
       "color": "#10B981",
-      "title": "✓ Best Call of the Day",
-      "value": "Mariners @ Blue Jays",
-      "sub": "63% confidence · Jays delivered as expected"
+      "title": "📊 Day's Best Call",
+      "value": "Blue Jays over Mariners (63%)",
+      "sub": "Our highest confidence pick delivered as Toronto's bats came alive"
     },
     {
       "type": "text",
-      "value": "## Taking a Breather\n\nNo games tomorrow. It's one of those rare off-days where the entire league takes a collective breath before the final push. Use it to rest up—we'll be back at it soon enough with fresh matchups and new numbers to crunch.\n\nDays like today remind me why I still love this work after all these years. The model did its job, we called it straight, and 13-4 goes in the win column. I'll take that every time."
+      "value": "## No Games Tomorrow\n\nHere's the thing about the baseball calendar—sometimes you get a Saturday with ten games on the slate, and sometimes you get a Sunday with absolutely nothing. No games scheduled for August 30th means we take a breath, review what worked today, and get ready for Monday's action.\n\nI've been around long enough to appreciate these quiet moments. They don't happen often during the summer stretch, so when they do, you use them to sharpen the pencil and prepare for what's coming."
+    },
+    {
+      "type": "text",
+      "value": "## Final Thoughts\n\nA 13-4 day doesn't happen by accident. It happens when the model identifies true edges, when the data tells a clear story, and when we trust the process even on those 50-51% picks that could go either way. \n\nWe'll be back when the games resume. Until then, enjoy this 76.5% winner of a Saturday.\n\n— Max"
     }
   ],
   "slug": "2026-08-29-daily-max",
