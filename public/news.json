@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-31T17:34:55.123971+00:00",
+  "updated_at": "2026-08-31T18:05:17.752549+00:00",
   "news": [
+    {
+      "title": "O's add pop to lineup, claim Robert Jr. off waivers from Mets (source)",
+      "link": "https://www.mlb.com/news/luis-robert-jr-claimed-by-orioles-off-waivers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bsaksuz7egahzan5clpj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-08-31T17:44:03+00:00",
+      "time_ago": "21m ago"
+    },
     {
       "title": "Which franchise legend could be next to join Blue Jays' Hall of Excellence?",
       "link": "https://www.mlb.com/news/blue-jays-legends-who-could-join-hall-of-excellence",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T17:10:23+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "How Bubba Chandler produced his best month yet",
@@ -38,7 +51,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-08-31T15:49:05+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Apple Immersive makes futuristic debut during Red Sox-Yanks broadcast",
@@ -90,20 +103,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-08-31T15:05:07+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "What do the Dodgers need to do to prep for October?",
-      "link": "https://www.mlb.com/news/dodgers-key-questions-for-the-last-month-of-regular-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x6kb9ezcqh4fk9fvj6iy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-31T15:01:30+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
