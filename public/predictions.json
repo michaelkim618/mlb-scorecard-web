@@ -1993,9 +1993,7 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
-    "low_confidence": false,
-    "low_confidence_reason": null
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-08-31",
@@ -4180,9 +4178,7 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
-    "low_confidence": false,
-    "low_confidence_reason": null
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-08-31",
@@ -4912,9 +4908,7 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
-    "low_confidence": false,
-    "low_confidence_reason": null
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-08-31",
