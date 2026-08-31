@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T18:05:17.752549+00:00",
+  "updated_at": "2026-08-31T18:38:17.618494+00:00",
   "news": [
     {
       "title": "O's add pop to lineup, claim Robert Jr. off waivers from Mets (source)",
@@ -8,11 +8,37 @@
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bsaksuz7egahzan5clpj",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "",
+      "author": "Jake Rill",
       "tag": "Roster",
       "tag_color": "#0284C7",
-      "pub_date": "2026-08-31T17:44:03+00:00",
-      "time_ago": "21m ago"
+      "pub_date": "2026-08-31T18:23:00+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "What to expect from slugging Mariners prospect Montes in bigs",
+      "link": "https://www.mlb.com/news/what-to-expect-from-mariners-prospect-lazaro-montes-in-mlb",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xmovccewgyf0qxixek0r",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sam Dykstra",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-31T18:21:53+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Yankees add more depth to 'pen with waiver claim of Schreiber (source)",
+      "link": "https://www.mlb.com/news/yankees-claim-john-schreiber-off-waivers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bo7e1uw6agqyukmsfurf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-31T18:05:35+00:00",
+      "time_ago": "32m ago"
     },
     {
       "title": "Which franchise legend could be next to join Blue Jays' Hall of Excellence?",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T17:10:23+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "How Bubba Chandler produced his best month yet",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T16:29:10+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Bandits' Lexi Kilfoyl crowned 2026 AUSL All-Star Cup champion",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T15:25:03+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "What are the 10 most iconic records in baseball history?",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T15:25:01+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Chris Sale has had a superb season. Might it be his best ever?",
-      "link": "https://www.mlb.com/news/chris-sale-2026-season-comparison",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qbfccpfpo9u8nl3pdk3o",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-31T15:15:41+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "With rosters expanding, is it time for Padres to call up Salas?",
-      "link": "https://www.mlb.com/news/examining-the-possibility-of-an-ethan-salas-callup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787897257/mlb/ypl8cbu0rbvciv1mxwq1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-08-31T15:05:07+00:00",
       "time_ago": "3h ago"
     }
   ]
