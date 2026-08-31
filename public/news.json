@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-31T03:04:40.819912+00:00",
+  "updated_at": "2026-08-31T03:33:29.265639+00:00",
   "news": [
+    {
+      "title": "Scorching-hot PCA leads Cubs in showdown with Brewers, plus NL East clash among top series of week",
+      "link": "https://www.mlb.com/news/mlb-series-to-watch-week-of-aug-31-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kxqmhxkwdgbw9sy9pneh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Shanthi Sepe-Chepuru",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-31T02:57:17+00:00",
+      "time_ago": "36m ago"
+    },
     {
       "title": "Can't stop PCA! Cubs superstar hits 5th homer in 2-game span",
       "link": "https://www.mlb.com/news/pete-crow-armstrong-hits-leadoff-homer-vs-reds",
@@ -12,7 +25,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-31T02:43:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Who tops Power Rankings heading into stretch run?",
@@ -25,7 +38,7 @@
       "tag": "Rankings",
       "tag_color": "#4F46E5",
       "pub_date": "2026-08-31T02:30:12+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Injuries: Elly, Buxton, Alonso, Yankees, Cardinals, Mariners",
@@ -38,7 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-31T02:28:00+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Burns overcomes PCA's homer for solid outing in 1st start at Wrigley",
@@ -51,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-31T02:08:00+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Gunnar blasts off with two homers, triple as Orioles sweep A's",
@@ -67,7 +80,7 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "This 2-inch tweak helped Wheeler earn first win since July",
+      "title": "2-inch tweak helps Wheeler earn first win since July",
       "link": "https://www.mlb.com/news/zack-wheeler-strikes-out-6-in-phillies-win-over-angels",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788129788/mlb/valwcmdxnml8uul6czvu",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T01:25:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Alonso avoids serious injury after being hit on brim of helmet",
@@ -90,19 +103,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-31T01:01:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Marte set to return to D-backs on Monday",
-      "link": "https://www.mlb.com/news/ketel-marte-return-to-diamondbacks",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xu71uhtwnwcrntvtuukf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-31T00:45:41+00:00",
       "time_ago": "2h ago"
     }
   ]
