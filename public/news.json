@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-31T23:04:22.950782+00:00",
+  "updated_at": "2026-08-31T23:38:23.357244+00:00",
   "news": [
+    {
+      "title": "O's add pop to lineup, claim Robert Jr. off waivers from Mets",
+      "link": "https://www.mlb.com/news/luis-robert-jr-claimed-by-orioles-off-waivers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bsaksuz7egahzan5clpj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-08-31T23:25:00+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Fiery setup man Uribe returns to Brewers for key rivalry set",
+      "link": "https://www.mlb.com/news/abner-uribe-activated-off-injured-list-by-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vs4cckj1z8lzxr8xbmfx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-31T23:20:12+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Mariners welcome back Criswell, with Montes set to join club Tuesday",
+      "link": "https://www.mlb.com/news/cooper-criswell-returns-lazaro-montes-prepares-to-join-mariners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ahchnsbdjenkpcvxh86w",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-31T23:08:05+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "Cubs to call up No. 19 prospect BJ Murray Jr. Tuesday",
+      "link": "https://www.mlb.com/news/bj-murray-jr-cubs-callup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/i5kcfupsoybl4aqptcla",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-31T22:59:59+00:00",
+      "time_ago": "38m ago"
+    },
     {
       "title": "Rengifo (torn ACL) to have surgery, miss remainder of 2026 season",
       "link": "https://www.mlb.com/news/luis-rengifo-has-torn-acl-will-miss-remainder-of-2026-season",
@@ -12,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-31T22:43:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "Robert claimed by O's as Vientos returns from IL; Morabito to be called up",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T22:41:00+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "Abrams scratched Monday vs. Marlins with back tightness",
@@ -38,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-31T22:34:34+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'Crossed a line': Red Sox broadcaster apologizes for Yankees comments",
@@ -51,58 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T22:30:05+00:00",
-      "time_ago": "34m ago"
-    },
-    {
-      "title": "Reds unveil new approach to Burns' starts for the rest of '26",
-      "link": "https://www.mlb.com/news/chase-burns-brandon-williamson-piggyback-reds-in-september",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nueljsikbdgeumirx1rr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-31T22:19:27+00:00",
-      "time_ago": "44m ago"
-    },
-    {
-      "title": "Edwards goes on IL with sprained left thumb; INF Serna recalled",
-      "link": "https://www.mlb.com/news/xavier-edwards-exits-with-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ratagfanvemsmhtdpwdd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Nicholas Quillen",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-31T22:13:00+00:00",
-      "time_ago": "51m ago"
-    },
-    {
-      "title": "Red Sox give Gray extra rest to recharge for stretch run",
-      "link": "https://www.mlb.com/news/sonny-gray-extra-rest-red-sox-rotation",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/v3b03su5zedup95gqpri",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-31T22:05:44+00:00",
-      "time_ago": "58m ago"
-    },
-    {
-      "title": "Peralta ready to show ex-Mets teammates his progress as a Ray",
-      "link": "https://www.mlb.com/news/freddy-peralta-facing-mets-for-first-time-since-trade-to-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bslqiit4zktv6gfwcjul",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-31T22:04:07+00:00",
       "time_ago": "1h ago"
     }
   ]
