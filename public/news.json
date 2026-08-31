@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-31T00:11:23.607398+00:00",
+  "updated_at": "2026-08-31T00:33:55.620618+00:00",
   "news": [
+    {
+      "title": "Can't stop PCA! Cubs' superstar crushes another leadoff homer",
+      "link": "https://www.mlb.com/news/pete-crow-armstrong-hits-leadoff-homer-vs-reds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vdwsxa9we8dnd9rhylfc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-31T00:27:04+00:00",
+      "time_ago": "6m ago"
+    },
     {
       "title": "Bombers bombard Boston with 16 runs to claim season series vs. Sox",
       "link": "https://www.mlb.com/news/heliot-ramos-hits-first-homer-as-yankee",
@@ -12,7 +25,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T00:09:00+00:00",
-      "time_ago": "2m ago"
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "Astros gain big momentum in Big Apple with two crucial series wins",
+      "link": "https://www.mlb.com/news/lamonte-wade-jr-astros-win-mets-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788131309/mlb/pnfthq3y253lhox7pnyb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T23:55:00+00:00",
+      "time_ago": "38m ago"
     },
     {
       "title": "Duran's energetic spark ignites Rangers' offensive identity",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T23:37:00+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "56m ago"
     },
     {
       "title": "No catch? Bronx finale goes sideways after Sox lose challenge",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T23:15:00+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Wheeler looks more like old self in first win since July",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T23:13:16+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Fluky HR off Mason Miller rescues Rays, who walk off in 11th",
@@ -64,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-30T23:13:00+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Teoscar brings the thunder, Glasnow deals as Dodgers take series in Detroit",
@@ -77,32 +103,6 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-30T23:10:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Gunnar blasts off with two homers, triple as Orioles sweep A's",
-      "link": "https://www.mlb.com/news/gunnar-henderson-homers-twice-goes-4-for-4-orioles-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788132076/mlb/ntyboaaaaehfs8w8tmod",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-30T23:10:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Rockies sit Carrigg after inappropriate gesture toward fans in Atlanta",
-      "link": "https://www.mlb.com/news/cole-carrigg-benched-for-inappropriate-gesture-toward-fans",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ifikpuxtjrwynv9y3hwg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harding",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T23:08:00+00:00",
       "time_ago": "1h ago"
     }
   ]
