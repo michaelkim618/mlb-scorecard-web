@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-31T02:07:33.994714+00:00",
+  "updated_at": "2026-08-31T02:33:23.287123+00:00",
   "news": [
+    {
+      "title": "Burns overcomes PCA's homer for solid outing in 1st start at Wrigley",
+      "link": "https://www.mlb.com/news/chase-burns-starts-vs-cubs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ldub0ow2oh8fi6zyecve",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-31T02:08:00+00:00",
+      "time_ago": "25m ago"
+    },
     {
       "title": "Injuries: Buxton, Alonso, Yankees, Cardinals, Mariners, Dodgers",
       "link": "https://www.mlb.com/news/baseball-injury-updates",
@@ -12,20 +25,20 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-31T01:46:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "Gunnar blasts off with two homers, triple as Orioles sweep A's",
       "link": "https://www.mlb.com/news/gunnar-henderson-homers-twice-goes-4-for-4-orioles-win",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788132076/mlb/ntyboaaaaehfs8w8tmod",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788141219/mlb/ntyboaaaaehfs8w8tmod",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Theo DeRosa",
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-31T01:44:00+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "Final out? Actually, an OF-assisted game-tying homer into the buffet!",
@@ -38,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-31T01:41:01+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "This 2-inch tweak helped Wheeler earn first win since July",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T01:25:00+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Can't stop PCA! Cubs superstar crushes another leadoff homer",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T00:45:41+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Tatis, Stammen ejected after right fielder is called out for running inside 1st-base line",
-      "link": "https://www.mlb.com/news/fernando-tatis-jr-craig-stammen-ejected-vs-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uw0bs1qdsumn12eqldg1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Joey Johnston",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-31T00:39:00+00:00",
       "time_ago": "1h ago"
     }
   ]
