@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-31T15:40:32.348237+00:00",
+  "updated_at": "2026-08-31T16:06:32.357278+00:00",
   "news": [
+    {
+      "title": "Bandits' Lexi Kilfoyl crowned 2026 AUSL All-Star Cup champion",
+      "link": "https://www.mlb.com/news/bandits-lexi-kilfoyl-crowned-2026-ausl-all-star-cup-champion",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/royotovmn8vblansae5p",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Savanna Collins",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-08-31T15:49:05+00:00",
+      "time_ago": "17m ago"
+    },
     {
       "title": "Apple Immersive makes futuristic debut during Red Sox-Yanks broadcast",
       "link": "https://www.mlb.com/news/red-sox-yankees-get-first-apple-vision-pro-broadcast",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T15:25:03+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "41m ago"
     },
     {
       "title": "Chris Sale has had a superb season. Might it be his best ever?",
@@ -25,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-31T15:15:41+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "With rosters expanding, is it time for Padres to call up Salas?",
@@ -38,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-08-31T15:05:07+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "What do the Dodgers need to do to prep for October?",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T15:01:30+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'I'd never been on this side': Skubal's return brings a new perspective",
@@ -77,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-31T04:43:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Elly (quadriceps tightness) exits early, to be evaluated Monday",
@@ -90,19 +103,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-31T04:26:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Burns overcomes PCA's homer and much more in electric night at Wrigley",
-      "link": "https://www.mlb.com/news/chase-burns-starts-vs-cubs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ldub0ow2oh8fi6zyecve",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-31T04:06:00+00:00",
       "time_ago": "11h ago"
     }
   ]
