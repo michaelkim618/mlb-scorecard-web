@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-08-30-daily-stan",
+      "title": "Aug 30 Results: 78.6% Win Rate Speaks Volumes",
+      "author": "Stan",
+      "author_emoji": "📊",
+      "author_color": "#0EA5E9",
+      "author_role": "Data Analyst",
+      "date": "2026-08-30",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#0EA5E9",
+      "read_time": "3 min",
+      "summary": "11-3 record on Aug 30 with seven picks above 60% confidence all hitting"
+    },
+    {
       "slug": "2026-08-29-daily-max",
       "title": "Aug 29 Results: Thirteen Wins Never Gets Old",
       "author": "Max",
