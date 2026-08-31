@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-31T01:06:23.811098+00:00",
+  "updated_at": "2026-08-31T01:32:17.016954+00:00",
   "news": [
+    {
+      "title": "This 2-inch tweak helped Wheeler earn first win since July",
+      "link": "https://www.mlb.com/news/zack-wheeler-strikes-out-6-in-phillies-win-over-angels",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788129788/mlb/valwcmdxnml8uul6czvu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-31T01:25:00+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Can't stop PCA! Cubs superstar crushes another leadoff homer",
+      "link": "https://www.mlb.com/news/pete-crow-armstrong-hits-leadoff-homer-vs-reds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vdwsxa9we8dnd9rhylfc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-31T01:04:00+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "Alonso avoids serious injury after being hit on brim of helmet",
+      "link": "https://www.mlb.com/news/pete-alonso-hit-by-pitch-on-helmet-orioles",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rxtfiog6wew5hngveyqb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-31T01:01:00+00:00",
+      "time_ago": "31m ago"
+    },
     {
       "title": "Marte set to return to D-backs on Monday",
       "link": "https://www.mlb.com/news/ketel-marte-return-to-diamondbacks",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T00:45:41+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "46m ago"
     },
     {
       "title": "Tatis, Stammen ejected after right fielder is called out for running inside 1st-base line",
@@ -25,20 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T00:39:00+00:00",
-      "time_ago": "27m ago"
-    },
-    {
-      "title": "Can't stop PCA! Cubs superstar crushes another leadoff homer",
-      "link": "https://www.mlb.com/news/pete-crow-armstrong-hits-leadoff-homer-vs-reds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vdwsxa9we8dnd9rhylfc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-31T00:35:00+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "Bombers bombard Boston with 16 runs to claim season series vs. Sox",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T00:09:00+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Astros gain big momentum in Big Apple with two crucial series wins",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T23:37:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "No catch? Bronx finale goes sideways after Sox lose challenge",
-      "link": "https://www.mlb.com/news/red-sox-lose-crucial-series-finale-against-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bqc47jjybzaj8vnkcqpk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T23:15:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Wheeler looks more like old self in first win since July",
-      "link": "https://www.mlb.com/news/zack-wheeler-strikes-out-6-in-phillies-win-over-angels",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788129788/mlb/valwcmdxnml8uul6czvu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T23:13:16+00:00",
       "time_ago": "1h ago"
     }
   ]
