@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-31T15:06:10.906502+00:00",
+  "updated_at": "2026-08-31T15:40:32.348237+00:00",
   "news": [
+    {
+      "title": "Apple Immersive makes futuristic debut during Red Sox-Yanks broadcast",
+      "link": "https://www.mlb.com/news/red-sox-yankees-get-first-apple-vision-pro-broadcast",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tcee0f9kljhmsbor8iv6",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-31T15:25:03+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "Chris Sale has had a superb season. Might it be his best ever?",
+      "link": "https://www.mlb.com/news/chris-sale-2026-season-comparison",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qbfccpfpo9u8nl3pdk3o",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-31T15:15:41+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "With rosters expanding, is it time for Padres to call up Salas?",
+      "link": "https://www.mlb.com/news/examining-the-possibility-of-an-ethan-salas-callup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787897257/mlb/ypl8cbu0rbvciv1mxwq1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-08-31T15:05:07+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "What do the Dodgers need to do to prep for October?",
+      "link": "https://www.mlb.com/news/dodgers-key-questions-for-the-last-month-of-regular-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x6kb9ezcqh4fk9fvj6iy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-31T15:01:30+00:00",
+      "time_ago": "39m ago"
+    },
     {
       "title": "'I'd never been on this side': Skubal's return brings a new perspective",
       "link": "https://www.mlb.com/news/tarik-skubal-returns-to-comerica-park-as-visiting-player-with-dodgers",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T14:38:54+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Can't stop PCA! Cubs superstar hits 5th homer in 2-game span",
@@ -38,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-31T04:26:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Burns overcomes PCA's homer and much more in electric night at Wrigley",
@@ -52,58 +104,6 @@
       "tag_color": "#D97706",
       "pub_date": "2026-08-31T04:06:00+00:00",
       "time_ago": "11h ago"
-    },
-    {
-      "title": "Scorching-hot PCA leads Cubs in showdown with Brewers, plus NL East clash among top series of week",
-      "link": "https://www.mlb.com/news/mlb-series-to-watch-week-of-aug-31-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kxqmhxkwdgbw9sy9pneh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Shanthi Sepe-Chepuru",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-31T02:57:17+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "Who tops Power Rankings heading into stretch run?",
-      "link": "https://www.mlb.com/news/mlb-power-rankings-for-the-week-of-august-30-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/juv4sq0mbjdtyv19nbvc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Rankings",
-      "tag_color": "#4F46E5",
-      "pub_date": "2026-08-31T02:30:12+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "Injuries: Elly, Buxton, Alonso, Yankees, Cardinals, Mariners",
-      "link": "https://www.mlb.com/news/baseball-injury-updates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/axwmmfyhw2fli4dcqphv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-31T02:28:00+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "Gunnar blasts off with two homers, triple as Orioles sweep A's",
-      "link": "https://www.mlb.com/news/gunnar-henderson-homers-twice-goes-4-for-4-orioles-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788141219/mlb/ntyboaaaaehfs8w8tmod",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-31T01:44:00+00:00",
-      "time_ago": "13h ago"
     }
   ]
 }
