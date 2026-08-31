@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-31T01:32:17.016954+00:00",
+  "updated_at": "2026-08-31T02:07:33.994714+00:00",
   "news": [
+    {
+      "title": "Injuries: Buxton, Alonso, Yankees, Cardinals, Mariners, Dodgers",
+      "link": "https://www.mlb.com/news/baseball-injury-updates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gc07ycrn25cas4ywtnqk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-31T01:46:00+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "Gunnar blasts off with two homers, triple as Orioles sweep A's",
+      "link": "https://www.mlb.com/news/gunnar-henderson-homers-twice-goes-4-for-4-orioles-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788132076/mlb/ntyboaaaaehfs8w8tmod",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-31T01:44:00+00:00",
+      "time_ago": "23m ago"
+    },
+    {
+      "title": "Final out? Actually, an OF-assisted game-tying homer into the buffet!",
+      "link": "https://www.mlb.com/news/padres-left-fielder-samad-taylor-helps-home-run-over-the-wall",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wlsraap45hidepasvcdi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brent Maguire",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-31T01:41:01+00:00",
+      "time_ago": "26m ago"
+    },
     {
       "title": "This 2-inch tweak helped Wheeler earn first win since July",
       "link": "https://www.mlb.com/news/zack-wheeler-strikes-out-6-in-phillies-win-over-angels",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T01:25:00+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "Can't stop PCA! Cubs superstar crushes another leadoff homer",
@@ -25,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-31T01:04:00+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Alonso avoids serious injury after being hit on brim of helmet",
@@ -38,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-31T01:01:00+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Marte set to return to D-backs on Monday",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T00:45:41+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Tatis, Stammen ejected after right fielder is called out for running inside 1st-base line",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T00:39:00+00:00",
-      "time_ago": "53m ago"
-    },
-    {
-      "title": "Bombers bombard Boston with 16 runs to claim season series vs. Sox",
-      "link": "https://www.mlb.com/news/heliot-ramos-hits-first-homer-as-yankee",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gwggmaa5ymx9fx1cnrpg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-31T00:09:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Astros gain big momentum in Big Apple with two crucial series wins",
-      "link": "https://www.mlb.com/news/lamonte-wade-jr-astros-win-mets-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788131309/mlb/pnfthq3y253lhox7pnyb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T23:55:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Duran's energetic spark ignites Rangers' offensive identity",
-      "link": "https://www.mlb.com/news/ezequiel-duran-s-3-rbis-lead-rangers-past-brewers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788123985/mlb/cljt6becetygtgsv6hrl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T23:37:00+00:00",
       "time_ago": "1h ago"
     }
   ]
