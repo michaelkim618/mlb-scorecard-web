@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-08-31",
-    "status": "Preview",
+    "status": "Live",
     "game_time": "3:05 PM PT",
     "game_number": 1,
     "doubleheader": false,
@@ -270,18 +270,18 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 42.1,
-      "home": 57.9
+      "away": 43.5,
+      "home": 56.5
     },
     "expected_score": {
-      "away": 1.5,
-      "home": 2.4
+      "away": 1.7,
+      "home": 2.5
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "team_stats",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": false,
@@ -293,7 +293,7 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 45.7,
+        "sp_score": 46.8,
         "sp_detail": {
           "era": 2.89,
           "whip": 0.96,
@@ -353,7 +353,7 @@
             }
           ]
         },
-        "bp_score": 48.5,
+        "bp_score": 49.7,
         "bp_detail": {
           "bullpen_era": 4.6,
           "recent_era": 2.45,
@@ -365,48 +365,110 @@
           "closer_era": 3.34,
           "closer_name": "Dylan Smith"
         },
-        "bat_score": 22.7,
+        "bat_score": 26.3,
         "bat_detail": {
-          "recent_avg": 0.207,
-          "runs_per_g": 2.7,
-          "hr_per_g": 1.2,
-          "bb_per_g": 3.2,
-          "season_ops": 0.72,
-          "season_avg": 0.25,
-          "season_slg": 0.4,
+          "recent_avg": 0.23,
+          "runs_per_g": 4.7,
+          "hr_per_g": 1.3,
+          "bb_per_g": 3.0,
+          "season_ops": 0.677,
+          "season_avg": 0.23,
           "n_games": 10,
-          "last5_rpg": 2.6,
-          "last5_avg": 0.207,
+          "source": "prev_day",
+          "handedness": "R",
+          "splits_used": false,
+          "lineup_ops": [
+            "Drew Gilbert(0.849)",
+            "Rafael Devers(0.958)",
+            "Bryce Eldridge(0.912)",
+            "Jonah Cox(0.848)",
+            "Jung Hoo Lee(0.678)",
+            "Osleivis Basabe(0.395)",
+            "Andrew Knizner(0.603)",
+            "Nate Furman(0.274)",
+            "Christian Koss(0.558)",
+            "Anthony Molina(0.700)"
+          ],
+          "lineup_players": [
+            {
+              "id": 687551,
+              "name": "Drew Gilbert",
+              "ops": 0.849,
+              "avg": 0.269
+            },
+            {
+              "id": 646240,
+              "name": "Rafael Devers",
+              "ops": 0.958,
+              "avg": 0.342
+            },
+            {
+              "id": 805811,
+              "name": "Bryce Eldridge",
+              "ops": 0.912,
+              "avg": 0.368
+            },
+            {
+              "id": 813841,
+              "name": "Jonah Cox",
+              "ops": 0.848,
+              "avg": 0.261
+            },
+            {
+              "id": 808982,
+              "name": "Jung Hoo Lee",
+              "ops": 0.678,
+              "avg": 0.25
+            },
+            {
+              "id": 678545,
+              "name": "Osleivis Basabe",
+              "ops": 0.395,
+              "avg": 0.094
+            },
+            {
+              "id": 668800,
+              "name": "Andrew Knizner",
+              "ops": 0.603,
+              "avg": 0.174
+            },
+            {
+              "id": 801501,
+              "name": "Nate Furman",
+              "ops": 0.274,
+              "avg": 0.062
+            },
+            {
+              "id": 683766,
+              "name": "Christian Koss",
+              "ops": 0.558,
+              "avg": 0.226
+            },
+            {
+              "id": 683627,
+              "name": "Anthony Molina",
+              "ops": 0.7,
+              "avg": 0.25
+            }
+          ],
           "bat_trend": "stable",
+          "last5_rpg": 5.8,
+          "last5_avg": 0.233,
           "home_split": {
             "recent_avg": 0.257,
             "runs_per_g": 5.3,
             "hr_per_g": 1.1,
-            "bb_per_g": 3.3,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 5.8,
-            "last5_avg": 0.233,
-            "bat_trend": "stable"
+            "n_games": 10
           },
           "away_split": {
             "recent_avg": 0.207,
             "runs_per_g": 2.7,
             "hr_per_g": 1.2,
-            "bb_per_g": 3.2,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 2.6,
-            "last5_avg": 0.207,
-            "bat_trend": "stable"
+            "n_games": 10
           }
         },
         "sit_score": 45.1,
-        "total": 43.1
+        "total": 44.9
       },
       "home": {
         "sp_score": 41.2,
@@ -487,61 +549,123 @@
           "closer_era": 2.82,
           "closer_name": "Raisel Iglesias"
         },
-        "bat_score": 33.9,
+        "bat_score": 35.5,
         "bat_detail": {
-          "recent_avg": 0.265,
-          "runs_per_g": 3.6,
-          "hr_per_g": 1.0,
-          "bb_per_g": 2.1,
-          "season_ops": 0.72,
-          "season_avg": 0.25,
-          "season_slg": 0.4,
+          "recent_avg": 0.274,
+          "runs_per_g": 3.0,
+          "hr_per_g": 0.6,
+          "bb_per_g": 3.0,
+          "season_ops": 0.724,
+          "season_avg": 0.274,
           "n_games": 10,
+          "source": "prev_day",
+          "handedness": "R",
+          "splits_used": false,
+          "lineup_ops": [
+            "Drake Baldwin(0.804)",
+            "Ronald Acuña Jr.(0.688)",
+            "Matt Olson(0.709)",
+            "Mauricio Dubón(0.775)",
+            "Michael Harris II(0.904)",
+            "Ozzie Albies(0.685)",
+            "Sean Murphy(0.774)",
+            "Austin Riley(0.601)",
+            "Mike Yastrzemski(0.602)",
+            "Bryce Elder(0.700)"
+          ],
+          "lineup_players": [
+            {
+              "id": 686948,
+              "name": "Drake Baldwin",
+              "ops": 0.804,
+              "avg": 0.3
+            },
+            {
+              "id": 660670,
+              "name": "Ronald Acuña Jr.",
+              "ops": 0.688,
+              "avg": 0.237
+            },
+            {
+              "id": 621566,
+              "name": "Matt Olson",
+              "ops": 0.709,
+              "avg": 0.2
+            },
+            {
+              "id": 643289,
+              "name": "Mauricio Dubón",
+              "ops": 0.775,
+              "avg": 0.395
+            },
+            {
+              "id": 671739,
+              "name": "Michael Harris II",
+              "ops": 0.904,
+              "avg": 0.342
+            },
+            {
+              "id": 645277,
+              "name": "Ozzie Albies",
+              "ops": 0.685,
+              "avg": 0.297
+            },
+            {
+              "id": 669221,
+              "name": "Sean Murphy",
+              "ops": 0.774,
+              "avg": 0.303
+            },
+            {
+              "id": 663586,
+              "name": "Austin Riley",
+              "ops": 0.601,
+              "avg": 0.188
+            },
+            {
+              "id": 573262,
+              "name": "Mike Yastrzemski",
+              "ops": 0.602,
+              "avg": 0.227
+            },
+            {
+              "id": 693821,
+              "name": "Bryce Elder",
+              "ops": 0.7,
+              "avg": 0.25
+            }
+          ],
+          "bat_trend": "hot",
           "last5_rpg": 3.6,
           "last5_avg": 0.293,
-          "bat_trend": "stable",
           "home_split": {
             "recent_avg": 0.265,
             "runs_per_g": 3.6,
             "hr_per_g": 1.0,
-            "bb_per_g": 2.1,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 3.6,
-            "last5_avg": 0.293,
-            "bat_trend": "stable"
+            "n_games": 10
           },
           "away_split": {
             "recent_avg": 0.218,
             "runs_per_g": 2.3,
             "hr_per_g": 0.6,
-            "bb_per_g": 2.3,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 2.4,
-            "last5_avg": 0.243,
-            "bat_trend": "stable"
+            "n_games": 10
           }
         },
         "sit_score": 74.5,
-        "total": 54.9
+        "total": 55.4
       }
     },
     "scores": {
-      "away_offense": 22.7,
-      "away_defense": 47.1,
-      "home_offense": 33.9,
+      "away_offense": 26.3,
+      "away_defense": 48.2,
+      "home_offense": 35.5,
       "home_defense": 56.4
     },
     "actual_score": {
       "away": 0,
       "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -552,13 +676,15 @@
     "model_winner": "Atlanta Braves",
     "model_correct": null,
     "notes": "San Francisco Giants IL: Adrian Houser, Carson Whisenhunt, Casey Schmitt, Daniel Susac, Harrison Bader 외 다수 / Atlanta Braves IL: Joe Jiménez, Joey Wentz, Reynaldo López, Robert Suarez, Spencer Schwellenbach 외 다수",
-    "kalshi_prob": null,
-    "edge": null,
-    "value_bet": "⏭️ 패스 (라인업 미확정)",
+    "kalshi_prob": 65.0,
+    "edge": -8.5,
+    "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Atlanta Braves)",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null
+    "sp_bat_conflict_detail": null,
+    "low_confidence": false,
+    "low_confidence_reason": null
   },
   {
     "date": "2026-08-31",
@@ -1300,7 +1426,9 @@
       "bat_favors": "Cincinnati Reds",
       "sp_gap": 33.2,
       "bat_gap": -17.8
-    }
+    },
+    "low_confidence": false,
+    "low_confidence_reason": null
   },
   {
     "date": "2026-08-31",
@@ -1989,7 +2117,9 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null
+    "sp_bat_conflict_detail": null,
+    "low_confidence": false,
+    "low_confidence_reason": null
   },
   {
     "date": "2026-08-31",
@@ -2740,7 +2870,9 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null
+    "sp_bat_conflict_detail": null,
+    "low_confidence": false,
+    "low_confidence_reason": null
   },
   {
     "date": "2026-08-31",
@@ -3499,7 +3631,9 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null
+    "sp_bat_conflict_detail": null,
+    "low_confidence": true,
+    "low_confidence_reason": "SP 점수 차이 0.5pt (≤5.0pt)"
   },
   {
     "date": "2026-08-31",
@@ -4170,7 +4304,9 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null
+    "sp_bat_conflict_detail": null,
+    "low_confidence": false,
+    "low_confidence_reason": null
   },
   {
     "date": "2026-08-31",
@@ -4900,7 +5036,9 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null
+    "sp_bat_conflict_detail": null,
+    "low_confidence": false,
+    "low_confidence_reason": null
   },
   {
     "date": "2026-08-31",
@@ -5646,7 +5784,9 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null
+    "sp_bat_conflict_detail": null,
+    "low_confidence": true,
+    "low_confidence_reason": "SP 점수 차이 3.0pt (≤5.0pt)"
   },
   {
     "date": "2026-08-31",
@@ -6413,7 +6553,9 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null
+    "sp_bat_conflict_detail": null,
+    "low_confidence": true,
+    "low_confidence_reason": "SP 점수 차이 1.5pt (≤5.0pt)"
   },
   {
     "date": "2026-08-31",
@@ -7107,7 +7249,9 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null
+    "sp_bat_conflict_detail": null,
+    "low_confidence": true,
+    "low_confidence_reason": "SP 점수 차이 2.0pt (≤5.0pt)"
   },
   {
     "date": "2026-08-31",
@@ -7794,7 +7938,9 @@
       "bat_favors": "New York Yankees",
       "sp_gap": -13.2,
       "bat_gap": 24.0
-    }
+    },
+    "low_confidence": false,
+    "low_confidence_reason": null
   },
   {
     "date": "2026-08-31",
@@ -8435,6 +8581,8 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null
+    "sp_bat_conflict_detail": null,
+    "low_confidence": false,
+    "low_confidence_reason": null
   }
 ]
