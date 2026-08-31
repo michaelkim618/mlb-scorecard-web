@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-31T18:38:17.618494+00:00",
+  "updated_at": "2026-08-31T19:10:42.737312+00:00",
   "news": [
+    {
+      "title": "Willson Contreras placed on injured list with hamstring strain",
+      "link": "https://www.mlb.com/news/willson-contreras-placed-on-injured-list-by-red-sox",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bhdv3klebawiqgparqa8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-31T19:00:59+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "White Sox bring back Tommy Pham in trade with Phils (source)",
+      "link": "https://www.mlb.com/news/tommy-pham-traded-to-white-sox-from-phillies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zp4lwb8jpw88c7hwx1w5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-08-31T18:57:00+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Beloved 'Voice of the Expos' Doucet dies at 86",
+      "link": "https://www.mlb.com/news/beloved-voice-of-the-expos-jacques-doucet-dies-at-86",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788201397/mlb/jwmlvormrdevgjxoww8t",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-31T18:53:50+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Yankees add more depth to 'pen with waiver claim of Schreiber",
+      "link": "https://www.mlb.com/news/yankees-claim-john-schreiber-off-waivers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bo7e1uw6agqyukmsfurf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-08-31T18:50:00+00:00",
+      "time_ago": "20m ago"
+    },
     {
       "title": "O's add pop to lineup, claim Robert Jr. off waivers from Mets (source)",
       "link": "https://www.mlb.com/news/luis-robert-jr-claimed-by-orioles-off-waivers",
@@ -12,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-08-31T18:23:00+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "What to expect from slugging Mariners prospect Montes in bigs",
@@ -25,20 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T18:21:53+00:00",
-      "time_ago": "16m ago"
-    },
-    {
-      "title": "Yankees add more depth to 'pen with waiver claim of Schreiber (source)",
-      "link": "https://www.mlb.com/news/yankees-claim-john-schreiber-off-waivers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bo7e1uw6agqyukmsfurf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-31T18:05:35+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "Which franchise legend could be next to join Blue Jays' Hall of Excellence?",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T17:10:23+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "How Bubba Chandler produced his best month yet",
@@ -65,45 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T16:29:10+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Bandits' Lexi Kilfoyl crowned 2026 AUSL All-Star Cup champion",
-      "link": "https://www.mlb.com/news/bandits-lexi-kilfoyl-crowned-2026-ausl-all-star-cup-champion",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/royotovmn8vblansae5p",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Savanna Collins",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-08-31T15:49:05+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Apple Immersive makes futuristic debut during Red Sox-Yanks broadcast",
-      "link": "https://www.mlb.com/news/red-sox-yankees-get-first-apple-vision-pro-broadcast",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tcee0f9kljhmsbor8iv6",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-31T15:25:03+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "What are the 10 most iconic records in baseball history?",
-      "link": "https://www.mlb.com/news/top-records-that-define-baseball",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/omkdiafzsjcygek2m7rx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-31T15:25:01+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
