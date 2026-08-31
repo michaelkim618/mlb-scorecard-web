@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-31T22:06:26.914106+00:00",
+  "updated_at": "2026-08-31T22:33:38.121263+00:00",
   "news": [
+    {
+      "title": "Reds unveil new approach to Burns' starts for the rest of '26",
+      "link": "https://www.mlb.com/news/chase-burns-brandon-williamson-piggyback-reds-in-september",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nueljsikbdgeumirx1rr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Sheldon",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-31T22:19:27+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "Edwards goes on IL with sprained left thumb; INF Serna recalled",
+      "link": "https://www.mlb.com/news/xavier-edwards-exits-with-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ratagfanvemsmhtdpwdd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Nicholas Quillen",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-08-31T22:13:00+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "Red Sox give Gray extra rest to recharge for stretch run",
+      "link": "https://www.mlb.com/news/sonny-gray-extra-rest-red-sox-rotation",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/v3b03su5zedup95gqpri",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-31T22:05:44+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "Peralta ready to show ex-Mets teammates his progress as a Ray",
+      "link": "https://www.mlb.com/news/freddy-peralta-facing-mets-for-first-time-since-trade-to-rays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bslqiit4zktv6gfwcjul",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-31T22:04:07+00:00",
+      "time_ago": "29m ago"
+    },
     {
       "title": "Marte returns to D-backs for opener against Phillies, batting cleanup",
       "link": "https://www.mlb.com/news/ketel-marte-return-to-diamondbacks",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T21:59:00+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "34m ago"
     },
     {
       "title": "Willson Contreras (hamstring) lands on IL; Sox recall hot-hitting Gasper",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T21:55:00+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Rengifo (torn ACL) to have surgery, miss remainder of 2026 season",
@@ -52,58 +104,6 @@
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-31T20:35:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Raleigh, Lile earn Player of the Week honors",
-      "link": "https://www.mlb.com/news/cal-raleigh-daylen-lile-named-players-of-the-week",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kn8fa9einkn6jecmfmfw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-31T20:27:51+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "O's add pop to lineup, claim Robert Jr. off waivers from Mets",
-      "link": "https://www.mlb.com/news/luis-robert-jr-claimed-by-orioles-off-waivers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bsaksuz7egahzan5clpj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-08-31T19:38:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Beloved 'Voice of the Expos' Doucet dies at 86",
-      "link": "https://www.mlb.com/news/beloved-voice-of-the-expos-jacques-doucet-dies-at-86",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788201397/mlb/jwmlvormrdevgjxoww8t",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-31T18:53:50+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Yankees add more depth to 'pen with waiver claim of Schreiber",
-      "link": "https://www.mlb.com/news/yankees-claim-john-schreiber-off-waivers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bo7e1uw6agqyukmsfurf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-08-31T18:50:00+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
