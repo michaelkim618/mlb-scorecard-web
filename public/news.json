@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-30T23:38:07.266535+00:00",
+  "updated_at": "2026-08-31T00:11:23.607398+00:00",
   "news": [
+    {
+      "title": "Bombers bombard Boston with 16 runs to claim season series vs. Sox",
+      "link": "https://www.mlb.com/news/heliot-ramos-hits-first-homer-as-yankee",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gwggmaa5ymx9fx1cnrpg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-31T00:09:00+00:00",
+      "time_ago": "2m ago"
+    },
+    {
+      "title": "Duran's energetic spark ignites Rangers' offensive identity",
+      "link": "https://www.mlb.com/news/ezequiel-duran-s-3-rbis-lead-rangers-past-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788123985/mlb/cljt6becetygtgsv6hrl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Sweet",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-30T23:37:00+00:00",
+      "time_ago": "34m ago"
+    },
     {
       "title": "No catch? Bronx finale goes sideways after Sox lose challenge",
       "link": "https://www.mlb.com/news/red-sox-lose-crucial-series-finale-against-yankees",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T23:15:00+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "56m ago"
     },
     {
       "title": "Wheeler looks more like old self in first win since July",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T23:13:16+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Fluky HR off Mason Miller rescues Rays, who walk off in 11th",
@@ -38,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-30T23:13:00+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Teoscar brings the thunder, Glasnow deals as Dodgers take series in Detroit",
@@ -51,7 +77,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-08-30T23:10:00+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Gunnar blasts off with two homers, triple as Orioles sweep A's",
@@ -64,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-30T23:10:00+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rockies sit Carrigg after inappropriate gesture toward fans in Atlanta",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-30T23:08:00+00:00",
-      "time_ago": "30m ago"
-    },
-    {
-      "title": "Anthony, Story get right back into swing of things in return to Sox",
-      "link": "https://www.mlb.com/news/roman-anthony-trevor-story-activated-off-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uc75wczpdl4s6nozdn9n",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T22:52:00+00:00",
-      "time_ago": "46m ago"
-    },
-    {
-      "title": "Ramírez at center of Guardians offense firing on all cylinders",
-      "link": "https://www.mlb.com/news/jose-ramirez-homers-for-first-time-since-june-6",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788123645/mlb/p2mq6lhawk7j6lclxvie",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-30T22:44:00+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
