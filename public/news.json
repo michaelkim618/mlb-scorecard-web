@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-31T14:36:00.368751+00:00",
+  "updated_at": "2026-08-31T15:06:10.906502+00:00",
   "news": [
+    {
+      "title": "'I'd never been on this side': Skubal's return brings a new perspective",
+      "link": "https://www.mlb.com/news/tarik-skubal-returns-to-comerica-park-as-visiting-player-with-dodgers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eucr6hwjliqpldcymjoa",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-08-31T14:38:54+00:00",
+      "time_ago": "27m ago"
+    },
     {
       "title": "Can't stop PCA! Cubs superstar hits 5th homer in 2-game span",
       "link": "https://www.mlb.com/news/pete-crow-armstrong-hits-leadoff-homer-vs-reds",
@@ -12,7 +25,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-31T04:43:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "Elly (quadriceps tightness) exits early, to be evaluated Monday",
@@ -38,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-31T04:06:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Scorching-hot PCA leads Cubs in showdown with Brewers, plus NL East clash among top series of week",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T02:57:17+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "12h ago"
     },
     {
       "title": "Who tops Power Rankings heading into stretch run?",
@@ -90,19 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-08-31T01:44:00+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "2-inch tweak helps Wheeler earn first win since July",
-      "link": "https://www.mlb.com/news/zack-wheeler-strikes-out-6-in-phillies-win-over-angels",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788129788/mlb/valwcmdxnml8uul6czvu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-31T01:25:00+00:00",
       "time_ago": "13h ago"
     }
   ]
