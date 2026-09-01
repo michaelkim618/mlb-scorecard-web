@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-01T04:03:54.667745+00:00",
+  "updated_at": "2026-09-01T04:36:49.295882+00:00",
   "news": [
+    {
+      "title": "deGrom dominates, allowing 1 hit in 7 IP, in bounce-back gem",
+      "link": "https://www.mlb.com/news/jacob-degrom-throws-seven-scoreless-innings-as-rangers-beat-athletics",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788235246/mlb/hflifo3bxut8jmhwvxmf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kennedi Landry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T04:26:00+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "Why just make an out when you can make a friend, too?",
+      "link": "https://www.mlb.com/news/payton-tolle-hugs-dominic-canzone-on-play-at-first-base",
+      "summary": "Tolle fields routine grounder, hugs Mariners slugger Canzone while tagging him out",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qkquiw3ty5ee8n7bdbxq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T04:13:00+00:00",
+      "time_ago": "23m ago"
+    },
+    {
+      "title": "Cubs join exclusive list of teams with 9+ homers in game",
+      "link": "https://www.mlb.com/news/mlb-teams-to-hit-most-home-runs-in-single-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/czetbxzlgyiuwaa11ilx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Shanthi Sepe-Chepuru and Brent Maguire",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-01T04:09:00+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "Padres to call up top prospect Salas (source)",
+      "link": "https://www.mlb.com/news/ethan-salas-promotion-to-padres",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y69dtgovdllj4xzeusbc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T04:05:48+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "King's 6 scoreless innings help Padres turn the page for key win",
+      "link": "https://www.mlb.com/news/michael-king-pitches-six-scoreless-innings-in-padres-win-vs-reds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788231166/mlb/mudvzgzhjnrmp7mfiot2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T04:04:00+00:00",
+      "time_ago": "32m ago"
+    },
     {
       "title": "Lile defends Player of the Week Award with 2 HRs",
       "link": "https://www.mlb.com/news/daylen-lile-hits-two-homers-as-nationals-beat-marlins",
@@ -12,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-01T04:00:00+00:00",
-      "time_ago": "3m ago"
+      "time_ago": "36m ago"
     },
     {
       "title": "Velázquez, Smith provide outfield spark for Astros",
@@ -25,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T03:24:55+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Veteran umpire Gonzalez exits Padres-Reds game due to heat exhaustion",
@@ -38,71 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T03:16:00+00:00",
-      "time_ago": "47m ago"
-    },
-    {
-      "title": "Jenkins notches 1st MLB HR in big day for Twins' bats",
-      "link": "https://www.mlb.com/news/walker-jenkins-hits-first-major-league-home-run",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aqvmrlm12y3ulmgrynaj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-01T03:10:43+00:00",
-      "time_ago": "53m ago"
-    },
-    {
-      "title": "Vientos returns with a bang to back career-best outing from Stock",
-      "link": "https://www.mlb.com/news/mark-vientos-homers-in-return-as-mets-beat-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788226940/mlb/whzcc4txiug8zntkjmy7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T03:02:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Jeffers, Clemens spark Twins' offense in rout of Tigers",
-      "link": "https://www.mlb.com/news/ryan-jeffers-kody-clemens-lift-twins-over-tigers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/phnzpbwtdtj8whffg5eh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T02:53:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "deGrom dominates, allowing 1 hit in 7 IP, in bounce-back gem",
-      "link": "https://www.mlb.com/news/jacob-degrom-throws-seven-scoreless-innings-as-rangers-beat-athletics",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788228373/mlb/hflifo3bxut8jmhwvxmf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kennedi Landry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T02:46:46+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Cubs set franchise record with 9 HRs in rout of Brewers",
-      "link": "https://www.mlb.com/news/cubs-set-franchise-record-with-nine-homers-in-one-game",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c3axo06vctcjhvjvhrsl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-01T02:43:43+00:00",
       "time_ago": "1h ago"
     }
   ]
