@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-01T06:41:39.677716+00:00",
+  "updated_at": "2026-09-01T07:07:40.321178+00:00",
   "news": [
+    {
+      "title": "Cowser Wowser! CF's game-ending HR robbery gets O's to .500 for 1st time since April",
+      "link": "https://www.mlb.com/news/colton-cowser-s-game-ending-home-run-robbery-secures-orioles-win-vs-rockies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eghxly8y9uj4paywswy6",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-01T06:51:00+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "Phillies, Stott end blazing August with an all-around win vs. D-backs",
       "link": "https://www.mlb.com/news/phillies-finish-a-strong-august-with-an-important-win",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T06:20:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "Padres to call up top prospect Salas (source)",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T05:46:00+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Here is what the playoff picture looks like entering September",
@@ -38,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-01T05:45:06+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Velázquez, Smith provide much-needed outfield spark for Astros",
@@ -67,19 +80,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Cowser Wowser! CF's game-ending HR robbery gets O's to .500 for 1st time since April",
-      "link": "https://www.mlb.com/news/colton-cowser-s-game-ending-home-run-robbery-secures-orioles-win-vs-rockies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eghxly8y9uj4paywswy6",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-01T05:12:13+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "What it means to be in first place on Sept. 1",
       "link": "https://www.mlb.com/news/mlb-division-leaders-entering-september-postseason-chances",
       "summary": "",
@@ -103,7 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-01T04:54:53+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
