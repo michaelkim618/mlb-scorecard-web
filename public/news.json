@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-31T23:38:23.357244+00:00",
+  "updated_at": "2026-09-01T00:26:18.973783+00:00",
   "news": [
+    {
+      "title": "Why just make an out when you can make a friend, too?",
+      "link": "https://www.mlb.com/news/payton-tolle-hugs-dominic-canzone-on-play-at-first-base",
+      "summary": "Tolle fields routine grounder, hugs Canzone on his way to first",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qkquiw3ty5ee8n7bdbxq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T00:01:29+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "White Sox add Pham, Cave in trades to bolster OF depth",
+      "link": "https://www.mlb.com/news/tommy-pham-traded-to-white-sox-from-phillies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zp4lwb8jpw88c7hwx1w5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-08-31T23:49:00+00:00",
+      "time_ago": "37m ago"
+    },
     {
       "title": "O's add pop to lineup, claim Robert Jr. off waivers from Mets",
       "link": "https://www.mlb.com/news/luis-robert-jr-claimed-by-orioles-off-waivers",
@@ -12,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-08-31T23:25:00+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Fiery setup man Uribe returns to Brewers for key rivalry set",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T23:20:12+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Mariners welcome back Criswell, with Montes set to join club Tuesday",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T23:08:05+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Cubs to call up No. 19 prospect BJ Murray Jr. Tuesday",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T22:59:59+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rengifo (torn ACL) to have surgery, miss remainder of 2026 season",
@@ -64,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-08-31T22:43:00+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Robert claimed by O's as Vientos returns from IL; Morabito to be called up",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-08-31T22:41:00+00:00",
-      "time_ago": "57m ago"
-    },
-    {
-      "title": "Abrams scratched Monday vs. Marlins with back tightness",
-      "link": "https://www.mlb.com/news/cj-abrams-scratched-from-monday-s-game-with-back-tightness",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vm66h7yvxvyjlhinbmr9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bobby Blanco",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-08-31T22:34:34+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "'Crossed a line': Red Sox broadcaster apologizes for Yankees comments",
-      "link": "https://www.mlb.com/news/red-sox-broadcaster-will-flemming-apologizes-for-yankees-comments",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gtfou0gb94bh12eyaj8g",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-31T22:30:05+00:00",
       "time_ago": "1h ago"
     }
   ]
