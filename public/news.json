@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-01T16:15:01.162331+00:00",
+  "updated_at": "2026-09-01T16:37:21.387899+00:00",
   "news": [
+    {
+      "title": "Padres call up 20-year-old catcher Ethan Salas, their No. 1 prospect",
+      "link": "https://www.mlb.com/news/ethan-salas-promotion-to-padres",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y69dtgovdllj4xzeusbc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T16:12:00+00:00",
+      "time_ago": "25m ago"
+    },
     {
       "title": "Nothing gets this MLB player going like college football season",
       "link": "https://www.mlb.com/news/justin-foscue-hits-better-during-college-football-season",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T16:04:26+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "32m ago"
     },
     {
       "title": "What to expect from Padres top prospect Salas in the bigs",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T15:53:39+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Red Sox activate IKF, call up Jedixson Paez as rosters expand",
@@ -38,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-01T15:44:13+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "Rangers sign veteran pitcher Trevor Williams",
@@ -51,7 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-09-01T15:42:51+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "Catching up with broadcaster, world traveler Joey Votto",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T14:34:27+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "10-Cent Beer Night? Dolly Parton tribute? 10 can't-miss Minors promos",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T14:22:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Blue Jays have golden opportunity to tighten Wild Card race with Guardians",
-      "link": "https://www.mlb.com/news/blue-jays-continue-postseason-chase-against-guardians",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dmkxjb8wptubaybrvprg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-01T14:19:10+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
