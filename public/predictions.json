@@ -754,9 +754,7 @@
       "bat_favors": "Cincinnati Reds",
       "sp_gap": 19.9,
       "bat_gap": -13.9
-    },
-    "low_confidence": false,
-    "low_confidence_reason": null
+    }
   },
   {
     "date": "2026-09-01",
@@ -1398,9 +1396,7 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
-    "low_confidence": false,
-    "low_confidence_reason": null
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-09-01",
@@ -2145,9 +2141,7 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
-    "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 0.6pt (≤5.0pt)"
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-09-01",
@@ -2788,9 +2782,7 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
-    "low_confidence": false,
-    "low_confidence_reason": null
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-09-01",
@@ -3532,9 +3524,7 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
-    "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 4.1pt (≤5.0pt)"
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-09-01",
@@ -4209,9 +4199,7 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
-    "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 0.0pt (≤5.0pt)"
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-09-01",
@@ -4967,9 +4955,7 @@
       "bat_favors": "Minnesota Twins",
       "sp_gap": 44.4,
       "bat_gap": -10.2
-    },
-    "low_confidence": false,
-    "low_confidence_reason": null
+    }
   },
   {
     "date": "2026-09-01",
@@ -5604,9 +5590,7 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
-    "low_confidence": false,
-    "low_confidence_reason": null
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-09-01",
@@ -6343,9 +6327,7 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
-    "low_confidence": false,
-    "low_confidence_reason": null
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-09-01",
@@ -7096,9 +7078,7 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
-    "low_confidence": false,
-    "low_confidence_reason": null
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-09-01",
@@ -7780,9 +7760,7 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
-    "low_confidence": false,
-    "low_confidence_reason": null
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-09-01",
@@ -8521,15 +8499,13 @@
     "model_winner": "Baltimore Orioles",
     "model_correct": null,
     "notes": "Baltimore Orioles IL: Colin Selby, Félix Bautista, Jordan Westburg, Keegan Akin, Ryan Helsley 외 다수 / Colorado Rockies IL: Chase Dollander, Jose Quintana, Kris Bryant, Kyle Freeland, Kyle Karros 외 다수",
-    "kalshi_prob": 42.0,
-    "edge": -3.2,
+    "kalshi_prob": 43.0,
+    "edge": -4.2,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
-    "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 2.0pt (≤5.0pt)"
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-09-01",
@@ -9267,9 +9243,7 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
-    "low_confidence": false,
-    "low_confidence_reason": null
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-09-01",
@@ -10005,9 +9979,7 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
-    "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 0.7pt (≤5.0pt)"
+    "sp_bat_conflict_detail": null
   },
   {
     "date": "2026-09-01",
@@ -10657,8 +10629,6 @@
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
-    "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 0.9pt (≤5.0pt)"
+    "sp_bat_conflict_detail": null
   }
 ]
