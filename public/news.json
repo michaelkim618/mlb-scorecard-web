@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-01T14:42:27.466869+00:00",
+  "updated_at": "2026-09-01T15:10:18.902323+00:00",
   "news": [
+    {
+      "title": "Catching up with broadcaster, world traveler Joey Votto",
+      "link": "https://www.mlb.com/news/joey-votto-q-a-reds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a29a7s93vltfopgg162x",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Sheldon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T14:58:38+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "How Tyler Glasnow uses his sinker to neutralize lefties",
+      "link": "https://www.mlb.com/news/tyler-glasnow-dominating-left-handed-hitters-with-sinker",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/choen0qkj8tszomzzmry",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T14:34:27+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "The return of 10-Cent Beer Night? A tribute to Dolly Parton? Don't miss these MiLB promos",
+      "link": "https://www.mlb.com/news/minor-league-promotions-september-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ctyi2twlgc8q9egpaloo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Benjamin Hill",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T14:22:00+00:00",
+      "time_ago": "48m ago"
+    },
+    {
+      "title": "Blue Jays have golden opportunity to tighten Wild Card race with Guardians",
+      "link": "https://www.mlb.com/news/blue-jays-continue-postseason-chase-against-guardians",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dmkxjb8wptubaybrvprg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-01T14:19:10+00:00",
+      "time_ago": "51m ago"
+    },
     {
       "title": "Save big on MLB.TV for the stretch run",
       "link": "https://www.mlb.com/news/mlb-tv-on-espn-september-2026-price-drop",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T13:06:10+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Cowser Wowser! CF's game-ending HR robbery gets O's to .500 for 1st time since April",
@@ -25,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-01T06:51:00+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "8h ago"
     },
     {
       "title": "Phillies, Stott end blazing August with an all-around win vs. D-backs",
@@ -51,58 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T05:46:00+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "Here is what the playoff picture looks like entering September",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788262658/mlb/nitdjuq3cy4anerw4nkm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-01T05:45:06+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "Velázquez, Smith provide much-needed outfield spark for Astros",
-      "link": "https://www.mlb.com/news/nelson-velazquez-cam-smith-fuels-astros-win-over-white-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kvd4eja0qmxb6nngpgs2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T05:26:00+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "Back with a bang: Anthony, Story fuel wild walk-off win in extras",
-      "link": "https://www.mlb.com/news/trevor-story-roman-anthony-red-sox-walk-off-mariners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788231936/mlb/ae2bav6fz5iiv1c8jend",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-01T05:13:00+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "What it means to be in first place on Sept. 1",
-      "link": "https://www.mlb.com/news/mlb-division-leaders-entering-september-postseason-chances",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/z1yrfz3vbt63nateo99w",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sarah Langs",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T05:10:34+00:00",
       "time_ago": "9h ago"
     }
   ]
