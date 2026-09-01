@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-01T03:38:42.406239+00:00",
+  "updated_at": "2026-09-01T04:03:54.667745+00:00",
   "news": [
+    {
+      "title": "Lile defends Player of the Week Award with 2 HRs",
+      "link": "https://www.mlb.com/news/daylen-lile-hits-two-homers-as-nationals-beat-marlins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788231414/mlb/ls6vuya5jp3utbb42oze",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bobby Blanco",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-01T04:00:00+00:00",
+      "time_ago": "3m ago"
+    },
     {
       "title": "Velázquez, Smith provide outfield spark for Astros",
       "link": "https://www.mlb.com/news/nelson-velazquez-cam-smith-fuels-astros-win-over-white-sox",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T03:24:55+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Veteran umpire Gonzalez exits Padres-Reds game due to heat exhaustion",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T03:16:00+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "Jenkins notches 1st MLB HR in big day for Twins' bats",
@@ -38,7 +51,20 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-01T03:10:43+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "53m ago"
+    },
+    {
+      "title": "Vientos returns with a bang to back career-best outing from Stock",
+      "link": "https://www.mlb.com/news/mark-vientos-homers-in-return-as-mets-beat-rays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788226940/mlb/whzcc4txiug8zntkjmy7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T03:02:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Jeffers, Clemens spark Twins' offense in rout of Tigers",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T02:53:00+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "deGrom dominates, allowing 1 hit in 7 IP, in bounce-back gem",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T02:46:46+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Cubs set franchise record with 9 HRs in rout of Brewers",
@@ -77,32 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-01T02:43:43+00:00",
-      "time_ago": "54m ago"
-    },
-    {
-      "title": "Could Judge return next homestand? Boone says 'I think it's possible'",
-      "link": "https://www.mlb.com/news/aaron-judge-injury-return-update-aaron-boone",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ooz3oqfdnn4wovyh8cxe",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Courtney Hollmon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T02:39:00+00:00",
-      "time_ago": "59m ago"
-    },
-    {
-      "title": "Mozeliak announces Angels promotions, scouting department restructure",
-      "link": "https://www.mlb.com/news/john-mozeliak-announces-series-of-angels-front-office-changes",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/teinx4b4oncatzfeub0s",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Rhett Bollinger",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T02:27:30+00:00",
       "time_ago": "1h ago"
     }
   ]
