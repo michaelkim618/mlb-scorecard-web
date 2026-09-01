@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T17:04:28.600033+00:00",
+  "updated_at": "2026-09-01T17:36:47.637143+00:00",
   "news": [
     {
       "title": "O's to recall OF Kjerstad as rosters expand (source)",
@@ -12,7 +12,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-01T16:57:28+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "39m ago"
     },
     {
       "title": "Padres call up 20-year-old catcher Ethan Salas, their No. 1 prospect",
@@ -25,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T16:12:00+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Nothing gets this MLB player going like college football season",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T14:34:27+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
