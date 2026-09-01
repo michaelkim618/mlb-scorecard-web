@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-01T17:36:47.637143+00:00",
+  "updated_at": "2026-09-01T18:09:57.688017+00:00",
   "news": [
+    {
+      "title": "Fueled by energy drinks and Italian sausage, this fan completed the NYC 'tripleheader'",
+      "link": "https://www.mlb.com/news/red-sox-fan-chris-chao-completes-tripleheader-of-mlb-games-in-new-york",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sahtj0jo1namvfxrzbph",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T17:28:38+00:00",
+      "time_ago": "41m ago"
+    },
     {
       "title": "O's to recall OF Kjerstad as rosters expand (source)",
       "link": "https://www.mlb.com/news/heston-kjerstad-orioles-callup-rosters-expanding",
@@ -12,7 +25,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-01T16:57:28+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Padres call up 20-year-old catcher Ethan Salas, their No. 1 prospect",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T16:04:26+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "What to expect from Padres top prospect Salas in the bigs",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T15:53:39+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Red Sox activate IKF, call up Jedixson Paez as rosters expand",
@@ -64,7 +77,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-01T15:44:13+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Rangers sign veteran pitcher Trevor Williams",
@@ -77,7 +90,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-09-01T15:42:51+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Catching up with broadcaster, world traveler Joey Votto",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T14:58:38+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "How Tyler Glasnow uses his sinker to neutralize lefties",
-      "link": "https://www.mlb.com/news/tyler-glasnow-dominating-left-handed-hitters-with-sinker",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/choen0qkj8tszomzzmry",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T14:34:27+00:00",
       "time_ago": "3h ago"
     }
   ]
