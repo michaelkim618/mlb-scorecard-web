@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-01T15:10:18.902323+00:00",
+  "updated_at": "2026-09-01T16:15:01.162331+00:00",
   "news": [
+    {
+      "title": "Nothing gets this MLB player going like college football season",
+      "link": "https://www.mlb.com/news/justin-foscue-hits-better-during-college-football-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cshkdhraywspgv1k8igp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Sweet",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T16:04:26+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "What to expect from Padres top prospect Salas in the bigs",
+      "link": "https://www.mlb.com/news/what-to-expect-from-padres-prospect-ethan-salas-in-mlb",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w4wftcvje9locixgvryh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sam Dykstra",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T15:53:39+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "Red Sox activate IKF, call up Jedixson Paez as rosters expand",
+      "link": "https://www.mlb.com/news/isiah-kiner-falefa-red-sox-jedixson-paez",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788277282/mlb/tf4hrm5wf8edtxobfemh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-01T15:44:13+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "Rangers sign veteran pitcher Trevor Williams",
+      "link": "https://www.mlb.com/news/trevor-williams-signed-by-rangers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c9orzejnda5oopv379qf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-09-01T15:42:51+00:00",
+      "time_ago": "32m ago"
+    },
     {
       "title": "Catching up with broadcaster, world traveler Joey Votto",
       "link": "https://www.mlb.com/news/joey-votto-q-a-reds",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T14:58:38+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "How Tyler Glasnow uses his sinker to neutralize lefties",
@@ -25,10 +77,10 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T14:34:27+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "1h ago"
     },
     {
-      "title": "The return of 10-Cent Beer Night? A tribute to Dolly Parton? Don't miss these MiLB promos",
+      "title": "10-Cent Beer Night? Dolly Parton tribute? 10 can't-miss Minors promos",
       "link": "https://www.mlb.com/news/minor-league-promotions-september-2026",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ctyi2twlgc8q9egpaloo",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T14:22:00+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Blue Jays have golden opportunity to tighten Wild Card race with Guardians",
@@ -51,59 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-01T14:19:10+00:00",
-      "time_ago": "51m ago"
-    },
-    {
-      "title": "Save big on MLB.TV for the stretch run",
-      "link": "https://www.mlb.com/news/mlb-tv-on-espn-september-2026-price-drop",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dx0e9u8s9qwoioiwddjg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T13:06:10+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Cowser Wowser! CF's game-ending HR robbery gets O's to .500 for 1st time since April",
-      "link": "https://www.mlb.com/news/colton-cowser-s-game-ending-home-run-robbery-secures-orioles-win-vs-rockies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eghxly8y9uj4paywswy6",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-01T06:51:00+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "Phillies, Stott end blazing August with an all-around win vs. D-backs",
-      "link": "https://www.mlb.com/news/phillies-finish-a-strong-august-with-an-important-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gcirfjmcs8heobbghstj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Michael Reynolds",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T06:20:00+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "Padres to call up top prospect Salas (source)",
-      "link": "https://www.mlb.com/news/ethan-salas-promotion-to-padres",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y69dtgovdllj4xzeusbc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T05:46:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "1h ago"
     }
   ]
 }
