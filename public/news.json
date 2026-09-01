@@ -1,18 +1,44 @@
 {
-  "updated_at": "2026-09-01T02:13:25.373508+00:00",
+  "updated_at": "2026-09-01T02:36:51.740711+00:00",
   "news": [
+    {
+      "title": "Mozeliak announces Angels promotions, scouting department restructure",
+      "link": "https://www.mlb.com/news/john-mozeliak-announces-series-of-angels-front-office-changes",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/teinx4b4oncatzfeub0s",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rhett Bollinger",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T02:27:30+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Lile defends Player of the Week Award with 2 HRs",
+      "link": "https://www.mlb.com/news/daylen-lile-hits-two-homers-as-nationals-beat-marlins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ls6vuya5jp3utbb42oze",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bobby Blanco",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-01T02:21:00+00:00",
+      "time_ago": "15m ago"
+    },
     {
       "title": "Back with a bang: Anthony, Story fuel wild walk-off win in extras",
       "link": "https://www.mlb.com/news/trevor-story-roman-anthony-red-sox-walk-off-mariners",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e6d5co7kvwzjtx3yyryv",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ae2bav6fz5iiv1c8jend",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Ian Browne",
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-01T02:02:27+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "34m ago"
     },
     {
       "title": "Could Judge return next homestand? Boone says 'I think it's possible'",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T01:51:09+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "King pitches like an ace to get Padres a key win",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T01:45:20+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "51m ago"
     },
     {
       "title": "'Crossed a line': Red Sox broadcaster apologizes for Yankees comments",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T01:42:00+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "Vientos returns with a bang to back career-best outing from Stock",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T01:33:41+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Giants' young bats -- and Devers' 30th HR -- help down Braves in makeup game",
@@ -77,32 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-01T00:53:51+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Veteran umpire Gonzalez exits Padres-Reds game due to heat exhaustion",
-      "link": "https://www.mlb.com/news/umpire-manny-gonzalez-exits-padres-reds-game-due-to-heat-exhaustion",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tyzhtsqymcfwsycvmbzl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T00:46:53+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Greene to return Tuesday, and Tigers' lineup badly needs him",
-      "link": "https://www.mlb.com/news/riley-greene-tigers-injury-return-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/r3vkzk24uoueif2camgn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Beck, Patrick Donnelly",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-01T00:41:00+00:00",
       "time_ago": "1h ago"
     }
   ]
