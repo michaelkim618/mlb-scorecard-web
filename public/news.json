@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-01T19:36:49.954481+00:00",
+  "updated_at": "2026-09-01T20:12:28.032452+00:00",
   "news": [
+    {
+      "title": "Catching prospect Leo Bernal promoted to Majors amid flurry of Cards moves",
+      "link": "https://www.mlb.com/news/cardinals-prospect-leo-bernal-promoted-to-majors",
+      "summary": "Scott II, Rincon recalled from Triple-A Memphis; Crooks optioned",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jnvebb5fs6qyfkgxlps4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-01T19:54:14+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "O's call up OF Kjerstad, LHP De León (No. 7 prospect) as rosters expand",
+      "link": "https://www.mlb.com/news/heston-kjerstad-orioles-callup-rosters-expanding",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/glw93hkf8pytusl5z4wc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-01T19:45:00+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "Cubs call up their No. 19 prospect BJ Murray Jr. for MLB debut vs. Brewers",
+      "link": "https://www.mlb.com/news/bj-murray-jr-cubs-callup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/i5kcfupsoybl4aqptcla",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T19:42:00+00:00",
+      "time_ago": "30m ago"
+    },
     {
       "title": "Smith returns from IL; Rushing, Wrobleski also activated",
       "link": "https://www.mlb.com/news/will-smith-dodgers-return-injured-list",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T19:32:00+00:00",
-      "time_ago": "4m ago"
+      "time_ago": "40m ago"
     },
     {
       "title": "LA Rams owner Kroenke reaches agreement to buy Angels",
@@ -25,20 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T19:30:00+00:00",
-      "time_ago": "6m ago"
-    },
-    {
-      "title": "O's to call up OF Kjerstad, LHP De León (No. 7 prospect) as rosters expand (sources)",
-      "link": "https://www.mlb.com/news/heston-kjerstad-orioles-callup-rosters-expanding",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/glw93hkf8pytusl5z4wc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-01T18:23:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "Fueled by energy drinks and Italian sausage, this fan completed the NYC 'tripleheader'",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T16:12:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Nothing gets this MLB player going like college football season",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T16:04:26+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "What to expect from Padres top prospect Salas in the bigs",
-      "link": "https://www.mlb.com/news/what-to-expect-from-padres-prospect-ethan-salas-in-mlb",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f3somhyo7kefu8q5kptt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sam Dykstra",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T15:53:39+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Rangers sign veteran pitcher Trevor Williams",
-      "link": "https://www.mlb.com/news/trevor-williams-signed-by-rangers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c9orzejnda5oopv379qf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-09-01T15:42:51+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
