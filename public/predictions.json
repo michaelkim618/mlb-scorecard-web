@@ -1088,11 +1088,11 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 45.8,
-      "home": 54.2
+      "away": 49.9,
+      "home": 50.1
     },
     "expected_score": {
-      "away": 1.4,
+      "away": 1.9,
       "home": 1.8
     },
     "blend_detail": null,
@@ -1111,7 +1111,7 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 49.9,
+        "sp_score": 52.4,
         "sp_detail": {
           "era": 4.71,
           "whip": 1.17,
@@ -1177,7 +1177,7 @@
             }
           ]
         },
-        "bp_score": 48.1,
+        "bp_score": 50.4,
         "bp_detail": {
           "bullpen_era": 4.51,
           "recent_era": 2.97,
@@ -1189,23 +1189,23 @@
           "closer_era": 3.23,
           "closer_name": "Dylan Smith"
         },
-        "bat_score": 21.1,
+        "bat_score": 28.0,
         "bat_detail": {
-          "recent_avg": 0.213,
+          "recent_avg": 0.229,
           "runs_per_g": 5.0,
           "hr_per_g": 1.4,
           "bb_per_g": 3.0,
-          "season_ops": 0.649,
-          "season_avg": 0.213,
+          "season_ops": 0.68,
+          "season_avg": 0.229,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Drew Gilbert(0.716)",
+            "Turner Hill(0.800)",
             "Rafael Devers(0.968)",
             "Bryce Eldridge(0.862)",
-            "Turner Hill(0.800)",
+            "Jonah Cox(0.995)",
             "Jung Hoo Lee(0.655)",
             "Osleivis Basabe(0.487)",
             "Drew Cavanaugh(0.464)",
@@ -1214,10 +1214,10 @@
           ],
           "lineup_players": [
             {
-              "id": 687551,
-              "name": "Drew Gilbert",
-              "ops": 0.716,
-              "avg": 0.192
+              "id": 806367,
+              "name": "Turner Hill",
+              "ops": 0.8,
+              "avg": 0.269
             },
             {
               "id": 646240,
@@ -1232,10 +1232,10 @@
               "avg": 0.359
             },
             {
-              "id": 806367,
-              "name": "Turner Hill",
-              "ops": 0.8,
-              "avg": 0.269
+              "id": 813841,
+              "name": "Jonah Cox",
+              "ops": 0.995,
+              "avg": 0.333
             },
             {
               "id": 808982,
@@ -1285,7 +1285,7 @@
           }
         },
         "sit_score": 45.2,
-        "total": 44.1
+        "total": 47.7
       },
       "home": {
         "sp_score": 40.9,
@@ -1475,8 +1475,8 @@
       }
     },
     "scores": {
-      "away_offense": 21.1,
-      "away_defense": 49.0,
+      "away_offense": 28.0,
+      "away_defense": 51.4,
       "home_offense": 25.0,
       "home_defense": 52.6
     },
@@ -1496,8 +1496,8 @@
     "model_correct": null,
     "notes": "San Francisco Giants IL: Adrian Houser, Carson Whisenhunt, Casey Schmitt, Daniel Susac, Harrison Bader 외 다수 / Pittsburgh Pirates IL: Endy Rodríguez, Konnor Griffin, Mitch Keller, Ryan O'Hearn",
     "kalshi_prob": 60.0,
-    "edge": -5.8,
-    "value_bet": "➖ 시장과 유사",
+    "edge": -9.9,
+    "value_bet": "⏭️ 패스 (박빙 경기 — 예측 신뢰도 낮음)",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
@@ -4318,8 +4318,8 @@
     "model_winner": "Atlanta Braves",
     "model_correct": null,
     "notes": "Atlanta Braves IL: Joe Jiménez, Joey Wentz, Reynaldo López, Robert Suarez, Spencer Schwellenbach 외 다수 / Washington Nationals IL: Connelly Early, DJ Herz, Drew Millas, James Wood, Josiah Gray 외 다수",
-    "kalshi_prob": 41.0,
-    "edge": 0.7,
+    "kalshi_prob": 42.0,
+    "edge": -0.3,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -5069,8 +5069,8 @@
     "model_winner": "Detroit Tigers",
     "model_correct": null,
     "notes": "Detroit Tigers IL: Bailey Horn, Brant Hurter, Burch Smith, Jack Flaherty, Justin Verlander 외 다수 / Minnesota Twins IL: Anthony Banda, Austin Martin, Byron Buxton, Cole Sands, David Festa 외 다수",
-    "kalshi_prob": 51.0,
-    "edge": -10.8,
+    "kalshi_prob": 50.0,
+    "edge": -9.8,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Minnesota Twins)",
     "extreme_edge": false,
     "consensus": false,
@@ -9817,12 +9817,12 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 53.0,
-      "home": 47.0
+      "away": 52.6,
+      "home": 47.4
     },
     "expected_score": {
       "away": 1.5,
-      "home": 1.8
+      "home": 1.9
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -10010,7 +10010,7 @@
         "total": 58.3
       },
       "home": {
-        "sp_score": 69.0,
+        "sp_score": 69.4,
         "sp_detail": {
           "era": 3.0,
           "whip": 1.2,
@@ -10076,7 +10076,7 @@
             }
           ]
         },
-        "bp_score": 70.6,
+        "bp_score": 71.0,
         "bp_detail": {
           "bullpen_era": 3.07,
           "recent_era": 3.0,
@@ -10088,7 +10088,7 @@
           "closer_era": 2.25,
           "closer_name": "Brandyn Garcia"
         },
-        "bat_score": 29.200000000000003,
+        "bat_score": 30.700000000000003,
         "bat_detail": {
           "recent_avg": 0.247,
           "runs_per_g": 3.8,
@@ -10184,14 +10184,14 @@
           }
         },
         "sit_score": 49.4,
-        "total": 56.5
+        "total": 57.1
       }
     },
     "scores": {
       "away_offense": 25.2,
       "away_defense": 70.8,
-      "home_offense": 29.200000000000003,
-      "home_defense": 69.8
+      "home_offense": 30.700000000000003,
+      "home_defense": 70.2
     },
     "actual_score": {
       "away": null,
@@ -10207,9 +10207,9 @@
     "actual_winner": null,
     "model_winner": "Philadelphia Phillies",
     "model_correct": null,
-    "notes": "Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Felix Reyes, Johan Rojas 외 다수 / Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Blake Walston, Corbin Burnes, Cristian Mena 외 다수",
+    "notes": "Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Felix Reyes, Johan Rojas 외 다수 / Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Corbin Burnes, Cristian Mena, Michael Soroka 외 다수",
     "kalshi_prob": 45.0,
-    "edge": 5.0,
+    "edge": 5.4,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -10553,30 +10553,30 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 40.8,
-      "home": 59.2
+      "away": 38.5,
+      "home": 61.5
     },
     "expected_score": {
-      "away": 2.5,
+      "away": 1.9,
       "home": 2.5
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "team_stats",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "L",
       "bullpen_game": true,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.31,
-        "bp": 0.32,
-        "bat": 0.3,
+        "sp": 0.38,
+        "bp": 0.3,
+        "bat": 0.25,
         "sit": 0.15
       },
       "away": {
-        "sp_score": 36.0,
+        "sp_score": 35.8,
         "sp_detail": {
           "era": 5.09,
           "whip": 1.43,
@@ -10658,7 +10658,7 @@
             }
           ]
         },
-        "bp_score": 56.6,
+        "bp_score": 56.3,
         "bp_detail": {
           "bullpen_era": 3.94,
           "recent_era": 2.81,
@@ -10670,48 +10670,103 @@
           "closer_era": 3.95,
           "closer_name": "Riley O'Brien"
         },
-        "bat_score": 37.6,
+        "bat_score": 29.1,
         "bat_detail": {
-          "recent_avg": 0.252,
-          "runs_per_g": 5.6,
-          "hr_per_g": 1.5,
-          "bb_per_g": 3.2,
-          "season_ops": 0.72,
-          "season_avg": 0.25,
-          "season_slg": 0.4,
-          "n_games": 10,
-          "last5_rpg": 5.4,
-          "last5_avg": 0.25,
+          "recent_avg": 0.243,
+          "runs_per_g": 4.8,
+          "hr_per_g": 1.1,
+          "bb_per_g": 3.0,
+          "season_ops": 0.692,
+          "season_avg": 0.243,
+          "n_games": 9,
+          "source": "prev_day",
+          "handedness": "L",
+          "splits_used": false,
+          "lineup_ops": [
+            "José Fermín(0.613)",
+            "Iván Herrera(0.668)",
+            "Jordan Walker(0.775)",
+            "Alec Burleson(0.712)",
+            "Joshua Báez(0.656)",
+            "Leo Bernal(0.700)",
+            "Ramón Urías(0.496)",
+            "Thomas Saggese(0.870)",
+            "Nathan Church(0.741)"
+          ],
+          "lineup_players": [
+            {
+              "id": 665877,
+              "name": "José Fermín",
+              "ops": 0.613,
+              "avg": 0.231
+            },
+            {
+              "id": 671056,
+              "name": "Iván Herrera",
+              "ops": 0.668,
+              "avg": 0.237
+            },
+            {
+              "id": 691023,
+              "name": "Jordan Walker",
+              "ops": 0.775,
+              "avg": 0.25
+            },
+            {
+              "id": 676475,
+              "name": "Alec Burleson",
+              "ops": 0.712,
+              "avg": 0.278
+            },
+            {
+              "id": 695491,
+              "name": "Joshua Báez",
+              "ops": 0.656,
+              "avg": 0.156
+            },
+            {
+              "id": 699024,
+              "name": "Leo Bernal",
+              "ops": 0.7,
+              "avg": 0.25
+            },
+            {
+              "id": 602104,
+              "name": "Ramón Urías",
+              "ops": 0.496,
+              "avg": 0.087
+            },
+            {
+              "id": 695336,
+              "name": "Thomas Saggese",
+              "ops": 0.87,
+              "avg": 0.412
+            },
+            {
+              "id": 701675,
+              "name": "Nathan Church",
+              "ops": 0.741,
+              "avg": 0.286
+            }
+          ],
           "bat_trend": "stable",
+          "last5_rpg": 4.8,
+          "last5_avg": 0.234,
           "home_split": {
             "recent_avg": 0.25,
             "runs_per_g": 4.6,
             "hr_per_g": 0.8,
-            "bb_per_g": 2.6,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 4.8,
-            "last5_avg": 0.234,
-            "bat_trend": "stable"
+            "n_games": 10
           },
           "away_split": {
             "recent_avg": 0.252,
             "runs_per_g": 5.6,
             "hr_per_g": 1.5,
-            "bb_per_g": 3.2,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 5.4,
-            "last5_avg": 0.25,
-            "bat_trend": "stable"
+            "n_games": 10
           }
         },
         "sit_score": 47.9,
-        "total": 47.7
+        "total": 45.0
       },
       "home": {
         "sp_score": 36.9,
@@ -10795,59 +10850,114 @@
         },
         "bat_score": 35.0,
         "bat_detail": {
-          "recent_avg": 0.216,
-          "runs_per_g": 3.8,
-          "hr_per_g": 1.0,
-          "bb_per_g": 3.4,
-          "season_ops": 0.72,
-          "season_avg": 0.25,
-          "season_slg": 0.4,
-          "n_games": 10,
-          "last5_rpg": 3.2,
-          "last5_avg": 0.189,
+          "recent_avg": 0.233,
+          "runs_per_g": 3.6,
+          "hr_per_g": 0.5,
+          "bb_per_g": 3.0,
+          "season_ops": 0.711,
+          "season_avg": 0.233,
+          "n_games": 9,
+          "source": "prev_day",
+          "handedness": "R",
+          "splits_used": false,
+          "lineup_ops": [
+            "Shohei Ohtani(0.681)",
+            "Freddie Freeman(0.805)",
+            "Mookie Betts(0.752)",
+            "Max Muncy(0.809)",
+            "Will Smith(0.823)",
+            "Kyle Tucker(0.622)",
+            "Tommy Edman(0.713)",
+            "Enrique Hernández(0.655)",
+            "Alex Freeland(0.538)"
+          ],
+          "lineup_players": [
+            {
+              "id": 660271,
+              "name": "Shohei Ohtani",
+              "ops": 0.681,
+              "avg": 0.125
+            },
+            {
+              "id": 518692,
+              "name": "Freddie Freeman",
+              "ops": 0.805,
+              "avg": 0.308
+            },
+            {
+              "id": 605141,
+              "name": "Mookie Betts",
+              "ops": 0.752,
+              "avg": 0.3
+            },
+            {
+              "id": 571970,
+              "name": "Max Muncy",
+              "ops": 0.809,
+              "avg": 0.233
+            },
+            {
+              "id": 669257,
+              "name": "Will Smith",
+              "ops": 0.823,
+              "avg": 0.258
+            },
+            {
+              "id": 663656,
+              "name": "Kyle Tucker",
+              "ops": 0.622,
+              "avg": 0.206
+            },
+            {
+              "id": 669242,
+              "name": "Tommy Edman",
+              "ops": 0.713,
+              "avg": 0.237
+            },
+            {
+              "id": 571771,
+              "name": "Enrique Hernández",
+              "ops": 0.655,
+              "avg": 0.2
+            },
+            {
+              "id": 690976,
+              "name": "Alex Freeland",
+              "ops": 0.538,
+              "avg": 0.227
+            }
+          ],
           "bat_trend": "stable",
+          "last5_rpg": 2.8,
+          "last5_avg": 0.235,
           "home_split": {
             "recent_avg": 0.216,
             "runs_per_g": 3.8,
             "hr_per_g": 1.0,
-            "bb_per_g": 3.4,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 3.2,
-            "last5_avg": 0.189,
-            "bat_trend": "stable"
+            "n_games": 10
           },
           "away_split": {
             "recent_avg": 0.255,
             "runs_per_g": 4.3,
             "hr_per_g": 0.8,
-            "bb_per_g": 3.4,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 2.8,
-            "last5_avg": 0.235,
-            "bat_trend": "cold"
+            "n_games": 10
           }
         },
         "sit_score": 63.5,
-        "total": 54.9
+        "total": 54.2
       }
     },
     "scores": {
-      "away_offense": 37.6,
-      "away_defense": 46.3,
+      "away_offense": 29.1,
+      "away_defense": 46.0,
       "home_offense": 35.0,
       "home_defense": 55.0
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -10858,9 +10968,9 @@
     "model_winner": "Los Angeles Dodgers",
     "model_correct": null,
     "notes": "St. Louis Cardinals IL: Andre Pallante, Blaze Jordan, Everson Pereira, Hunter Dobbins, JJ Wetherholt 외 다수 / Los Angeles Dodgers IL: Andy Pages, Ben Casparius, Blake Treinen, Bobby Miller, Brusdar Graterol 외 다수",
-    "kalshi_prob": null,
-    "edge": null,
-    "value_bet": "⏭️ 패스 (라인업 미확정)",
+    "kalshi_prob": 64.0,
+    "edge": -2.5,
+    "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
