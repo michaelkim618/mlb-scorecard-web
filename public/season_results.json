@@ -7888,6 +7888,28 @@
       "away_bp_score": 49.3,
       "home_bp_score": 58.7,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-31",
+      "away": "Chicago White Sox",
+      "home": "Houston Astros",
+      "game_number": 1,
+      "pick": "Houston Astros",
+      "pick_prob": 50.0,
+      "actual_winner": "Houston Astros",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "cold",
+      "away_sp_era": 3.63,
+      "home_sp_era": 3.86,
+      "away_bp_era": 3.16,
+      "home_bp_era": 3.39,
+      "away_sp_score": 47.5,
+      "home_sp_score": 46.0,
+      "away_bp_score": 61.7,
+      "home_bp_score": 58.1,
+      "bat_source": "lineup"
     }
   ]
 }

@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-01T03:08:44.394064+00:00",
+  "updated_at": "2026-09-01T03:38:42.406239+00:00",
   "news": [
+    {
+      "title": "Velázquez, Smith provide outfield spark for Astros",
+      "link": "https://www.mlb.com/news/nelson-velazquez-cam-smith-fuels-astros-win-over-white-sox",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kvd4eja0qmxb6nngpgs2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T03:24:55+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Veteran umpire Gonzalez exits Padres-Reds game due to heat exhaustion",
+      "link": "https://www.mlb.com/news/umpire-manny-gonzalez-exits-padres-reds-game-due-to-heat-exhaustion",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tyzhtsqymcfwsycvmbzl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T03:16:00+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "Jenkins notches 1st MLB HR in big day for Twins' bats",
+      "link": "https://www.mlb.com/news/walker-jenkins-hits-first-major-league-home-run",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aqvmrlm12y3ulmgrynaj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-01T03:10:43+00:00",
+      "time_ago": "27m ago"
+    },
     {
       "title": "Jeffers, Clemens spark Twins' offense in rout of Tigers",
       "link": "https://www.mlb.com/news/ryan-jeffers-kody-clemens-lift-twins-over-tigers",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T02:53:00+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "deGrom dominates, allowing 1 hit in 7 IP, in bounce-back gem",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T02:46:46+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "51m ago"
     },
     {
       "title": "Cubs set franchise record with 9 HRs in rout of Brewers",
@@ -38,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-01T02:43:43+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "Could Judge return next homestand? Boone says 'I think it's possible'",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T02:39:00+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "Mozeliak announces Angels promotions, scouting department restructure",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T02:27:30+00:00",
-      "time_ago": "41m ago"
-    },
-    {
-      "title": "Lile defends Player of the Week Award with 2 HRs",
-      "link": "https://www.mlb.com/news/daylen-lile-hits-two-homers-as-nationals-beat-marlins",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788231414/mlb/ls6vuya5jp3utbb42oze",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bobby Blanco",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-01T02:21:00+00:00",
-      "time_ago": "47m ago"
-    },
-    {
-      "title": "Devers, young bats feeding off each other to provide Giants' offensive spark",
-      "link": "https://www.mlb.com/news/turner-hill-rafael-devers-power-giants-to-win-vs-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788224291/mlb/h0j26ebbsia04pyjfqkg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Rick Farlow",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T02:18:00+00:00",
-      "time_ago": "50m ago"
-    },
-    {
-      "title": "Back with a bang: Anthony, Story fuel wild walk-off win in extras",
-      "link": "https://www.mlb.com/news/trevor-story-roman-anthony-red-sox-walk-off-mariners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ae2bav6fz5iiv1c8jend",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-01T02:02:27+00:00",
       "time_ago": "1h ago"
     }
   ]
