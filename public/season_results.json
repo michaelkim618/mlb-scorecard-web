@@ -7712,6 +7712,28 @@
       "away_bp_score": 72.9,
       "home_bp_score": 36.6,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-08-31",
+      "away": "San Francisco Giants",
+      "home": "Atlanta Braves",
+      "game_number": 1,
+      "pick": "Atlanta Braves",
+      "pick_prob": 60.0,
+      "actual_winner": "San Francisco Giants",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 3.38,
+      "home_sp_era": 4.19,
+      "away_bp_era": 4.6,
+      "home_bp_era": 2.91,
+      "away_sp_score": 41.9,
+      "home_sp_score": 42.0,
+      "away_bp_score": 47.1,
+      "home_bp_score": 70.9,
+      "bat_source": "team_stats"
     }
   ]
 }
