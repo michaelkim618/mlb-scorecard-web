@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-01T22:35:49.632252+00:00",
+  "updated_at": "2026-09-01T23:10:50.395736+00:00",
   "news": [
+    {
+      "title": "'Way bigger than baseball': Hernández back in Majors after offseason car accident",
+      "link": "https://www.mlb.com/news/carlos-hernandez-daniel-schneemann-join-guardians",
+      "summary": "Schneemann also recalled as rosters expand",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x8bbxj975y4oroq2alwt",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-01T23:00:20+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "Abrams (back tightness) starting at SS in return to Nats' lineup",
+      "link": "https://www.mlb.com/news/cj-abrams-returns-to-nationals-lineup-vs-braves",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wzvvwucsygimxu5xw9nl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jessica Camerato",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-01T22:42:44+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "Greene activated off IL, and Tigers' lineup badly needs him",
+      "link": "https://www.mlb.com/news/riley-greene-tigers-injury-return-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/r3vkzk24uoueif2camgn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck, Patrick Donnelly",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-01T22:40:00+00:00",
+      "time_ago": "30m ago"
+    },
     {
       "title": "Williamson activated, Brito recalled to fill expanded roster",
       "link": "https://www.mlb.com/news/brandon-williamson-returns-from-shoulder-injury-with-expanded-rosters",
@@ -12,20 +51,20 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-01T22:31:48+00:00",
-      "time_ago": "4m ago"
+      "time_ago": "39m ago"
     },
     {
-      "title": "Blue Jays recall Tiedemann, Keys as September reinforcements",
-      "link": "https://www.mlb.com/news/ricky-tiedemann-sean-keys-recalled-by-blue-jays",
-      "summary": "Lefty reliever Mantiply, utility man Smith also activated",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/i2pikl29iievoczsejcp",
+      "title": "Red Sox activate IKF, call up Paez, but Guerrero (right shoulder) placed on IL",
+      "link": "https://www.mlb.com/news/isiah-kiner-falefa-red-sox-jedixson-paez",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788277282/mlb/tf4hrm5wf8edtxobfemh",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T22:25:00+00:00",
-      "time_ago": "10m ago"
+      "author": "Ian Browne",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-01T22:18:00+00:00",
+      "time_ago": "52m ago"
     },
     {
       "title": "Rays get Mesa back from IL; Jax set to return Wednesday",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T21:56:00+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rutschman out of lineup again with elbow issue that could linger for rest of season",
@@ -51,7 +90,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-01T21:53:00+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Mariners call up slugging prospect Lazaro Montes",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T20:28:12+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "PCA for MVP? Former Cub-turned-artist has an answer in his unique painting",
-      "link": "https://www.mlb.com/news/matt-szczur-picks-pete-crow-armstrong-for-mvp-with-handmade-painting",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cgulhgingkzvpqgxexik",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-09-01T20:17:42+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Catching prospect Leo Bernal promoted to Majors amid flurry of Cards moves",
-      "link": "https://www.mlb.com/news/cardinals-prospect-leo-bernal-promoted-to-majors",
-      "summary": "Scott II, Rincon recalled from Triple-A Memphis; Crooks optioned",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jnvebb5fs6qyfkgxlps4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-01T19:54:14+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Cubs call up their No. 19 prospect BJ Murray Jr. for MLB debut vs. Brewers",
-      "link": "https://www.mlb.com/news/bj-murray-jr-cubs-callup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/i5kcfupsoybl4aqptcla",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T19:42:00+00:00",
       "time_ago": "2h ago"
     }
   ]
