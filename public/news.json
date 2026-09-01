@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-01T18:44:03.265639+00:00",
+  "updated_at": "2026-09-01T19:12:17.288723+00:00",
   "news": [
+    {
+      "title": "LA Rams owner Kroenke reaches agreement to buy Angels",
+      "link": "https://www.mlb.com/news/stan-kroenke-purchases-angels-from-arte-moreno",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/skpdtfn0huulhmvmv4yw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T18:46:12+00:00",
+      "time_ago": "26m ago"
+    },
     {
       "title": "O's to call up OF Kjerstad, LHP De León (No. 7 prospect) as rosters expand (sources)",
       "link": "https://www.mlb.com/news/heston-kjerstad-orioles-callup-rosters-expanding",
@@ -12,7 +25,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-01T18:23:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "Fueled by energy drinks and Italian sausage, this fan completed the NYC 'tripleheader'",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T16:12:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Nothing gets this MLB player going like college football season",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T16:04:26+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "What to expect from Padres top prospect Salas in the bigs",
@@ -64,20 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T15:53:39+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Red Sox activate IKF, call up Jedixson Paez as rosters expand",
-      "link": "https://www.mlb.com/news/isiah-kiner-falefa-red-sox-jedixson-paez",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788277282/mlb/tf4hrm5wf8edtxobfemh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-01T15:44:13+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Rangers sign veteran pitcher Trevor Williams",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T14:58:38+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
