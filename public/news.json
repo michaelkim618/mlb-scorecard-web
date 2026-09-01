@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-01T04:36:49.295882+00:00",
+  "updated_at": "2026-09-01T05:03:30.570452+00:00",
   "news": [
+    {
+      "title": "Suárez to miss next two Reds games for US naturalization test",
+      "link": "https://www.mlb.com/news/eugenio-suarez-will-miss-next-two-reds-games-for-us-citizenship-test",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tkxeug0oqu6cthi4hk9f",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T04:47:55+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "'Dude. Don't strike out': Jenkins hits 1st big league HR off a fellow outfielder",
+      "link": "https://www.mlb.com/news/walker-jenkins-hits-first-major-league-home-run",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aqvmrlm12y3ulmgrynaj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-01T04:45:00+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "King's 6 scoreless innings help Padres turn the page for key win",
+      "link": "https://www.mlb.com/news/michael-king-pitches-six-scoreless-innings-in-padres-win-vs-reds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788231166/mlb/mudvzgzhjnrmp7mfiot2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T04:39:00+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "Ureña's stellar start helps Angels end skid with win vs. Yankees",
+      "link": "https://www.mlb.com/news/walbert-urena-angels-beat-yankees-in-series-opener",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/itdbp4x75n9ocwfm3utg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rhett Bollinger",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T04:33:49+00:00",
+      "time_ago": "29m ago"
+    },
     {
       "title": "deGrom dominates, allowing 1 hit in 7 IP, in bounce-back gem",
       "link": "https://www.mlb.com/news/jacob-degrom-throws-seven-scoreless-innings-as-rangers-beat-athletics",
@@ -12,10 +64,23 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T04:26:00+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "37m ago"
     },
     {
-      "title": "Why just make an out when you can make a friend, too?",
+      "title": "He once starred in 'High School Musical.' Now he stars for the Red Sox",
+      "link": "https://www.mlb.com/news/sonny-gray-acted-in-high-school-musical",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/n7qcqjpaq3uuusvlixtm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matt Monagan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T04:25:32+00:00",
+      "time_ago": "37m ago"
+    },
+    {
+      "title": "You're out! (But can we still be friends?)",
       "link": "https://www.mlb.com/news/payton-tolle-hugs-dominic-canzone-on-play-at-first-base",
       "summary": "Tolle fields routine grounder, hugs Mariners slugger Canzone while tagging him out",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qkquiw3ty5ee8n7bdbxq",
@@ -25,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T04:13:00+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Cubs join exclusive list of teams with 9+ homers in game",
@@ -38,72 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-01T04:09:00+00:00",
-      "time_ago": "27m ago"
-    },
-    {
-      "title": "Padres to call up top prospect Salas (source)",
-      "link": "https://www.mlb.com/news/ethan-salas-promotion-to-padres",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y69dtgovdllj4xzeusbc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T04:05:48+00:00",
-      "time_ago": "31m ago"
-    },
-    {
-      "title": "King's 6 scoreless innings help Padres turn the page for key win",
-      "link": "https://www.mlb.com/news/michael-king-pitches-six-scoreless-innings-in-padres-win-vs-reds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788231166/mlb/mudvzgzhjnrmp7mfiot2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T04:04:00+00:00",
-      "time_ago": "32m ago"
-    },
-    {
-      "title": "Lile defends Player of the Week Award with 2 HRs",
-      "link": "https://www.mlb.com/news/daylen-lile-hits-two-homers-as-nationals-beat-marlins",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788231414/mlb/ls6vuya5jp3utbb42oze",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bobby Blanco",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-01T04:00:00+00:00",
-      "time_ago": "36m ago"
-    },
-    {
-      "title": "Velázquez, Smith provide outfield spark for Astros",
-      "link": "https://www.mlb.com/news/nelson-velazquez-cam-smith-fuels-astros-win-over-white-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kvd4eja0qmxb6nngpgs2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T03:24:55+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Veteran umpire Gonzalez exits Padres-Reds game due to heat exhaustion",
-      "link": "https://www.mlb.com/news/umpire-manny-gonzalez-exits-padres-reds-game-due-to-heat-exhaustion",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tyzhtsqymcfwsycvmbzl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T03:16:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "54m ago"
     }
   ]
 }
