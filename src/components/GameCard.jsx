@@ -852,6 +852,22 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
 
         {/* ── Summary badge row ── */}
         <SummaryBadges game={game} pickProb={pickProb} awayColor={awayColor} homeColor={homeColor} awayName={awayName} homeName={homeName} />
+
+        {/* ── Pick reason (analyst note) ── */}
+        {game.pick_reason && (
+          <div style={{
+            marginTop: 8,
+            padding: "6px 10px",
+            background: `${pickColor}10`,
+            borderLeft: `3px solid ${pickColor}`,
+            borderRadius: "0 6px 6px 0",
+            fontSize: 12,
+            color: "var(--color-muted)",
+            fontStyle: "italic",
+          }}>
+            💡 {game.pick_reason}
+          </div>
+        )}
       </div>
 
       {/* ── Expanded detail ── */}
