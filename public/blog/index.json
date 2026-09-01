@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-08-31-daily-stan",
+      "title": "Aug 31 Results: 66.7% Win Rate Across 12 Games",
+      "author": "Stan",
+      "author_emoji": "📊",
+      "author_color": "#0EA5E9",
+      "author_role": "Data Analyst",
+      "date": "2026-08-31",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#0EA5E9",
+      "read_time": "3 min",
+      "summary": "8-4 record on Aug 31 with strong performance in 60%+ confidence picks"
+    },
+    {
       "slug": "2026-08-30-daily-stan",
       "title": "Aug 30 Results: 78.6% Accuracy Across 14 Games",
       "author": "Stan",

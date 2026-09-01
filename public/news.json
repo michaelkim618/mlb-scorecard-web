@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-01T08:10:44.776976+00:00",
+  "updated_at": "2026-09-01T13:17:18.062014+00:00",
   "news": [
+    {
+      "title": "Save big on MLB.TV for the stretch run",
+      "link": "https://www.mlb.com/news/mlb-tv-on-espn-september-2026-price-drop",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dx0e9u8s9qwoioiwddjg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T13:06:10+00:00",
+      "time_ago": "11m ago"
+    },
     {
       "title": "Cowser Wowser! CF's game-ending HR robbery gets O's to .500 for 1st time since April",
       "link": "https://www.mlb.com/news/colton-cowser-s-game-ending-home-run-robbery-secures-orioles-win-vs-rockies",
@@ -12,7 +25,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-01T06:51:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "Phillies, Stott end blazing August with an all-around win vs. D-backs",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T06:20:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "Padres to call up top prospect Salas (source)",
@@ -38,20 +51,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T05:46:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "Here is what the playoff picture looks like entering September",
       "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nitdjuq3cy4anerw4nkm",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788262658/mlb/nitdjuq3cy4anerw4nkm",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "",
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-01T05:45:06+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "Velázquez, Smith provide much-needed outfield spark for Astros",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T05:26:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "Back with a bang: Anthony, Story fuel wild walk-off win in extras",
@@ -77,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-01T05:13:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "8h ago"
     },
     {
       "title": "What it means to be in first place on Sept. 1",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T05:10:34+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Historic NINE homers at Wrigley cap off Cubs' record-setting (62) August",
-      "link": "https://www.mlb.com/news/cubs-set-nl-monthly-home-run-record-in-win-over-brewers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788239433/mlb/y4wbztrm5wox1yzggth0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-01T04:54:53+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "8h ago"
     }
   ]
 }

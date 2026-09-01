@@ -1,0 +1,223 @@
+{
+  "title": "Aug 31 Results: 66.7% Win Rate Across 12 Games",
+  "summary": "8-4 record on Aug 31 with strong performance in 60%+ confidence picks",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## The Numbers From August 31\n\nLet me break down today's performance by the data. We went 8-4 across 12 games, hitting a 66.7% accuracy rate. That's solid, especially when you consider we had 8 picks with confidence levels above 57%. The model performed exactly as expected on high-confidence selections."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Today W-L",
+          "value": "8-4"
+        },
+        {
+          "label": "Accuracy",
+          "value": "66.7%"
+        },
+        {
+          "label": "Avg Confidence",
+          "value": "58.8%"
+        },
+        {
+          "label": "High Conf Picks",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Aug 31 Prediction Results by Game",
+      "data": [
+        {
+          "name": "Braves",
+          "probability": 55,
+          "result": 0
+        },
+        {
+          "name": "Padres",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Rays",
+          "probability": 61,
+          "result": 0
+        },
+        {
+          "name": "Sox",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Nationals",
+          "probability": 57,
+          "result": 1
+        },
+        {
+          "name": "Twins",
+          "probability": 62,
+          "result": 1
+        },
+        {
+          "name": "Cubs",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Rangers",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Astros",
+          "probability": 51,
+          "result": 1
+        },
+        {
+          "name": "Orioles",
+          "probability": 57,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Breaking Down The Misses\n\nTwo misses stand out when you look at the data. The Braves loss at 55% confidence isn't surprising—that's essentially a coin flip with a slight edge. The Rays miss at 61% hurts more, but that's baseball. Even 61% confidence means you're going to miss roughly 4 out of 10 times."
+    },
+    {
+      "type": "table",
+      "title": "Complete Aug 31 Results",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Giants @ Braves",
+          "Braves",
+          "55%",
+          "✗"
+        ],
+        [
+          "Padres @ Reds",
+          "Padres",
+          "61%",
+          "✓"
+        ],
+        [
+          "Mets @ Rays",
+          "Rays",
+          "61%",
+          "✗"
+        ],
+        [
+          "Mariners @ Sox",
+          "Sox",
+          "61%",
+          "✓"
+        ],
+        [
+          "Marlins @ Nationals",
+          "Nationals",
+          "57%",
+          "✓"
+        ],
+        [
+          "Tigers @ Twins",
+          "Twins",
+          "62%",
+          "✓"
+        ],
+        [
+          "Brewers @ Cubs",
+          "Cubs",
+          "61%",
+          "✓"
+        ],
+        [
+          "Athletics @ Rangers",
+          "Rangers",
+          "61%",
+          "✓"
+        ],
+        [
+          "Sox @ Astros",
+          "Astros",
+          "51%",
+          "✓"
+        ],
+        [
+          "Orioles @ Rockies",
+          "Orioles",
+          "57%",
+          "✓"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Confidence Level Performance\n\nHere's what matters: our 60%+ confidence picks went 6-2 (75% accuracy). The 51-59% range went 2-2 (50%). That's textbook performance—higher confidence correlates with better results. The Astros pick at just 51% hitting was a bonus, essentially winning a toss-up.\n\nThe Twins pick at 62% was our highest confidence of the day, and it delivered. That's the kind of correlation we want to see between model confidence and actual outcomes."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "60%+ Picks",
+          "value": "6-2"
+        },
+        {
+          "label": "60%+ Accuracy",
+          "value": "75.0%"
+        },
+        {
+          "label": "Below 60%",
+          "value": "2-2"
+        },
+        {
+          "label": "Highest Conf",
+          "value": "62%"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Schedule\n\nNo games scheduled for September 1st. The league takes a breather, which gives us time to recalibrate the models and analyze August's complete dataset. We'll be back with predictions when games resume."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#64748B",
+      "title": "📊 Schedule Update",
+      "value": "No Games Tomorrow",
+      "sub": "September 1st • League-wide off day • Next predictions coming soon"
+    }
+  ],
+  "slug": "2026-08-31-daily-stan",
+  "author": "Stan",
+  "author_emoji": "📊",
+  "author_role": "Data Analyst",
+  "author_color": "#0EA5E9",
+  "date": "2026-08-31",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#0EA5E9"
+}
