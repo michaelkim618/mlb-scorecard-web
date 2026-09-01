@@ -1,18 +1,83 @@
 {
-  "updated_at": "2026-09-01T01:34:02.415708+00:00",
+  "updated_at": "2026-09-01T02:13:25.373508+00:00",
   "news": [
+    {
+      "title": "Back with a bang: Anthony, Story fuel wild walk-off win in extras",
+      "link": "https://www.mlb.com/news/trevor-story-roman-anthony-red-sox-walk-off-mariners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e6d5co7kvwzjtx3yyryv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-01T02:02:27+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "Could Judge return next homestand? Boone says 'I think it's possible'",
+      "link": "https://www.mlb.com/news/aaron-judge-injury-return-update-aaron-boone",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ooz3oqfdnn4wovyh8cxe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T01:51:09+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "King pitches like an ace to get Padres a key win",
+      "link": "https://www.mlb.com/news/michael-king-pitches-six-scoreless-innings-in-padres-win-vs-reds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mudvzgzhjnrmp7mfiot2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T01:45:20+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "'Crossed a line': Red Sox broadcaster apologizes for Yankees comments",
+      "link": "https://www.mlb.com/news/red-sox-broadcaster-will-flemming-apologizes-for-yankees-comments",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gtfou0gb94bh12eyaj8g",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T01:42:00+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "Vientos returns with a bang to back career-best outing from Stock",
+      "link": "https://www.mlb.com/news/mark-vientos-homers-in-return-as-mets-beat-rays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788226940/mlb/whzcc4txiug8zntkjmy7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-01T01:33:41+00:00",
+      "time_ago": "39m ago"
+    },
     {
       "title": "Giants' young bats -- and Devers' 30th HR -- help down Braves in makeup game",
       "link": "https://www.mlb.com/news/turner-hill-rafael-devers-power-giants-to-win-vs-braves",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/h0j26ebbsia04pyjfqkg",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788224291/mlb/h0j26ebbsia04pyjfqkg",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Rick Farlow",
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-01T00:53:51+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Veteran umpire Gonzalez exits Padres-Reds game due to heat exhaustion",
@@ -25,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T00:46:53+00:00",
-      "time_ago": "47m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Greene to return Tuesday, and Tigers' lineup badly needs him",
@@ -38,72 +103,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-01T00:41:00+00:00",
-      "time_ago": "53m ago"
-    },
-    {
-      "title": "Marte opens up about absence, planned to address teammates",
-      "link": "https://www.mlb.com/news/ketel-marte-explains-absence-to-media-planned-to-talk-to-teammates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ncwaghhhzyxdvmgryeii",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T00:31:14+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Why just make an out when you can make a friend, too?",
-      "link": "https://www.mlb.com/news/payton-tolle-hugs-dominic-canzone-on-play-at-first-base",
-      "summary": "Tolle fields routine grounder, hugs Canzone on his way to first",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qkquiw3ty5ee8n7bdbxq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T00:01:29+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "White Sox add Pham, Cave in trades to bolster OF depth",
-      "link": "https://www.mlb.com/news/tommy-pham-traded-to-white-sox-from-phillies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zp4lwb8jpw88c7hwx1w5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-08-31T23:49:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "O's add pop to lineup, claim Robert Jr. off waivers from Mets",
-      "link": "https://www.mlb.com/news/luis-robert-jr-claimed-by-orioles-off-waivers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bsaksuz7egahzan5clpj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-08-31T23:25:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Fiery setup man Uribe returns to Brewers for key rivalry set",
-      "link": "https://www.mlb.com/news/abner-uribe-activated-off-injured-list-by-brewers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vs4cckj1z8lzxr8xbmfx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-08-31T23:20:12+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
