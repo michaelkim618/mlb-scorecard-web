@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-09-01-daily-rico",
+      "title": "Sep 1 Results: Let Me Be Honest About These Misses",
+      "author": "Rico",
+      "author_emoji": "🎭",
+      "author_color": "#DC2626",
+      "author_role": "Drama Critic",
+      "date": "2026-09-01",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#DC2626",
+      "read_time": "3 min",
+      "summary": "10-5 looks good on paper, but those three losses? Absolutely inexcusable."
+    },
+    {
       "slug": "2026-08-31-daily-stan",
       "title": "Aug 31 Results: 66.7% Hit Rate Across 12 Games",
       "author": "Stan",

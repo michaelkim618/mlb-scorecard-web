@@ -1,0 +1,202 @@
+{
+  "title": "Sep 1 Results: Let Me Be Honest About These Misses",
+  "summary": "10-5 looks good on paper, but those three losses? Absolutely inexcusable.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## The Brutal Truth About Today\n\nLet me be honest with you: 66.7% accuracy sounds impressive until you look at *which* games we got wrong. The Padres at 63% confidence? That wasn't just a miss—that was a catastrophic failure of analysis. And don't even get me started on the Royals debacle."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Today W-L",
+          "value": "10-5"
+        },
+        {
+          "label": "Accuracy",
+          "value": "66.7%"
+        },
+        {
+          "label": "High-Confidence Misses",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Where We Got It Right (And Wrong)\n\nThe wins were fine. Guardians, Mariners, Twins—all chalk plays that hit like they should. But here's the controversial take: *anyone* could've called those. The real test of a prediction model is handling the 60%+ confidence games, and we went 1-2 in that range today. That's not good enough."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Today's Prediction Results by Confidence Level",
+      "data": [
+        {
+          "name": "Padres",
+          "probability": 63,
+          "result": 0
+        },
+        {
+          "name": "Rays",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Guardians",
+          "probability": 59,
+          "result": 1
+        },
+        {
+          "name": "Mariners",
+          "probability": 58,
+          "result": 1
+        },
+        {
+          "name": "Twins",
+          "probability": 58,
+          "result": 1
+        },
+        {
+          "name": "Royals",
+          "probability": 57,
+          "result": 0
+        },
+        {
+          "name": "Braves",
+          "probability": 51,
+          "result": 0
+        },
+        {
+          "name": "Brewers",
+          "probability": 51,
+          "result": 1
+        },
+        {
+          "name": "Pirates",
+          "probability": 50,
+          "result": 1
+        },
+        {
+          "name": "Rangers",
+          "probability": 63,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Complete Sep 1 Results Breakdown",
+      "headers": [
+        "Game",
+        "Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Padres @ Reds",
+          "Padres",
+          "63%",
+          "✗"
+        ],
+        [
+          "Giants @ Pirates",
+          "Pirates",
+          "50%",
+          "✓"
+        ],
+        [
+          "Mets @ Rays",
+          "Rays",
+          "61%",
+          "✓"
+        ],
+        [
+          "Jays @ Guardians",
+          "Guardians",
+          "59%",
+          "✓"
+        ],
+        [
+          "Mariners @ Sox",
+          "Mariners",
+          "58%",
+          "✓"
+        ],
+        [
+          "Braves @ Nationals",
+          "Braves",
+          "51%",
+          "✗"
+        ],
+        [
+          "Tigers @ Twins",
+          "Twins",
+          "58%",
+          "✓"
+        ],
+        [
+          "Marlins @ Royals",
+          "Royals",
+          "57%",
+          "✗"
+        ],
+        [
+          "Brewers @ Cubs",
+          "Brewers",
+          "51%",
+          "✓"
+        ],
+        [
+          "Athletics @ Rangers",
+          "Rangers",
+          "63%",
+          "✓"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Padres Disaster\n\nHere's my hot take: the Padres are the most overrated team in baseball right now, and we fell into the trap. 63% confidence on a road game against a Reds team that's been scrappy at home? That's on us. The model needs recalibrating for teams playing above their talent level—or maybe the Padres are just playing below theirs."
+    },
+    {
+      "type": "text",
+      "value": "## What Actually Worked\n\nThe Rangers pick at 63% was redemption. The Mariners, Guardians, and Twins all cashed as expected. Even the coin-flip Pirates and Brewers games went our way. But let's not pretend this was some masterclass in prediction—we got lucky on a few 50/50s."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#DC2626",
+      "title": "🔥 Controversial Opinion",
+      "value": "66.7% isn't something to celebrate when your high-confidence picks go 1-2",
+      "sub": "We need to be better at separating real edges from illusions"
+    },
+    {
+      "type": "text",
+      "value": "## No Games Tomorrow—Time to Reflect\n\nWith no slate scheduled for tomorrow, we've got time to analyze what went wrong. The Royals loss stings because Kansas City has been wildly inconsistent. The Braves loss? That's division baseball being unpredictable as always. But that Padres miss? That one's going to haunt me.\n\nLet me be honest: 10-5 pays the bills, but it doesn't earn respect. We're chasing excellence here, not mediocrity with a winning record. Tomorrow's off-day is a chance to recalibrate, reassess, and come back stronger.\n\nBecause if we're being real, today was good—but good isn't good enough."
+    }
+  ],
+  "slug": "2026-09-01-daily-rico",
+  "author": "Rico",
+  "author_emoji": "🎭",
+  "author_role": "Drama Critic",
+  "author_color": "#DC2626",
+  "date": "2026-09-01",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#DC2626"
+}
