@@ -739,9 +739,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Cincinnati Reds",
     "model_winner": "San Diego Padres",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "San Diego Padres IL: Bryan Hoeing, Gavin Sheets, Jason Adam, Jeremiah Estrada, Joe Musgrove 외 다수 / Cincinnati Reds IL: Blake Dunn, Graham Ashcraft, Hunter Greene, Ke'Bryan Hayes, Michael Toglia 외 다수",
     "kalshi_prob": 48.0,
     "edge": -7.8,
@@ -4336,9 +4336,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Washington Nationals",
     "model_winner": "Atlanta Braves",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Atlanta Braves IL: Joe Jiménez, Joey Wentz, Reynaldo López, Robert Suarez, Spencer Schwellenbach 외 다수 / Washington Nationals IL: Connelly Early, DJ Herz, Drew Millas, James Wood, Josiah Gray 외 다수",
     "kalshi_prob": 46.0,
     "edge": -7.5,

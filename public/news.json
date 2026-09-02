@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-02T01:09:50.767124+00:00",
+  "updated_at": "2026-09-02T01:34:18.752881+00:00",
   "news": [
+    {
+      "title": "Olds faces off with Young in generational baseball battle",
+      "link": "https://www.mlb.com/news/wyatt-olds-faces-cole-young",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/okyfdi9hv4yg8oewmiur",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Manny Randhawa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T01:28:17+00:00",
+      "time_ago": "6m ago"
+    },
+    {
+      "title": "Williams records career-high 13 K's in key series opener vs. Jays",
+      "link": "https://www.mlb.com/news/gavin-williams-sets-career-high-in-strikeouts-vs-blue-jays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788312025/mlb/ljs8uvriodtb4lsrtbd7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T01:23:28+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "Peralta feels different -- and looks it in dazzler against former club",
+      "link": "https://www.mlb.com/news/freddy-peralta-shines-in-first-start-against-mets-since-trade",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788311463/mlb/xsrpksbq2ogi8w0tf4qj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T01:15:36+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "'His energy already is felt': Montes debuts with first career hit and home run",
+      "link": "https://www.mlb.com/news/mariners-call-up-lazaro-montes",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mlnfsjhtkdz2k8la2n4i",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T00:59:00+00:00",
+      "time_ago": "35m ago"
+    },
     {
       "title": "Robert excited to join O's, eager to contribute to postseason push",
       "link": "https://www.mlb.com/news/luis-robert-jr-excited-to-join-orioles",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T00:40:37+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "Smith returns from IL; Rushing, Wrobleski also activated",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T00:26:00+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Correa ramps up rehab, eyes return to Astros this season",
@@ -51,58 +103,6 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-01T23:40:33+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "'His energy is already felt': Montes debuts with first career hit, RBI",
-      "link": "https://www.mlb.com/news/mariners-call-up-lazaro-montes",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mlnfsjhtkdz2k8la2n4i",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T23:37:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "LA Rams owner Kroenke reaches agreement to buy Angels",
-      "link": "https://www.mlb.com/news/stan-kroenke-purchases-angels-from-arte-moreno",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/skpdtfn0huulhmvmv4yw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Rhett Bolliger",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T23:27:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Cubs call up their No. 19 prospect BJ Murray Jr. for MLB debut vs. Brewers",
-      "link": "https://www.mlb.com/news/bj-murray-jr-cubs-callup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/i5kcfupsoybl4aqptcla",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T23:26:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Naylor, Romero added with roster expansion: What Naylor's addition could mean",
-      "link": "https://www.mlb.com/news/brewers-add-bo-naylor-jojo-romero-to-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rq1ajua6kijbjpg8z326",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-01T23:23:22+00:00",
       "time_ago": "1h ago"
     }
   ]
