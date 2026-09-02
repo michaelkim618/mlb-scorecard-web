@@ -1461,9 +1461,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Atlanta Braves",
     "model_winner": "Atlanta Braves",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Atlanta Braves IL: Joe Jiménez, Joey Wentz, Reynaldo López, Robert Suarez, Spencer Schwellenbach 외 다수 / Washington Nationals IL: Connelly Early, DJ Herz, Drew Millas, Josiah Gray, Ken Waldichuk 외 다수",
     "kalshi_prob": 30.0,
     "edge": 21.3,

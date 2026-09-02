@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-02T20:34:49.497165+00:00",
+  "updated_at": "2026-09-02T21:10:09.216389+00:00",
   "news": [
+    {
+      "title": "Acuña Jr. fastest in MLB history to reach 200 HRs and 200 SBs",
+      "link": "https://www.mlb.com/news/ronald-acuna-jr-fastest-to-200-homers-and-200-stolen-bases",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cfa1lvw0fd0qry6aocgw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Nicholas Quillen",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-02T21:04:00+00:00",
+      "time_ago": "6m ago"
+    },
     {
       "title": "Williamson tosses name back into rotation hat with solid return start",
       "link": "https://www.mlb.com/news/brandon-williamson-earns-win-in-return-from-injury",
@@ -11,19 +24,19 @@
       "author": "Mark Sheldon",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-02T19:54:29+00:00",
-      "time_ago": "40m ago"
+      "pub_date": "2026-09-02T21:04:00+00:00",
+      "time_ago": "6m ago"
     },
     {
-      "title": "Rutschman (elbow) out of Wed. lineup for third straight game, eyes return in Baltimore",
+      "title": "Rutschman misses third straight game, eyes return in next series",
       "link": "https://www.mlb.com/news/adley-rutschman-out-of-red-sox-lineup-against-mariners",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yre7js1532nmejdd22de",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Ian Browne",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
       "pub_date": "2026-09-02T19:33:00+00:00",
       "time_ago": "1h ago"
     },
@@ -51,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-02T18:53:49+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Nationals catcher Ruiz exits after taking foul ball off mask",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T18:41:53+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Another Bonds is kicking off his career with the Giants",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T18:04:49+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "MLB to honor Childhood Cancer Awareness Day on Sunday",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T18:03:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "It's only Sept. 2 and rookies have already broken this all-time record",
-      "link": "https://www.mlb.com/news/record-number-of-rookies-hitting-home-runs-in-debuts",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y1gfrukfkrtcx6rmlino",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T16:47:00+00:00",
       "time_ago": "3h ago"
     }
   ]
