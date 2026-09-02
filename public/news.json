@@ -1,44 +1,96 @@
 {
-  "updated_at": "2026-09-02T04:04:18.625819+00:00",
+  "updated_at": "2026-09-02T04:37:19.377941+00:00",
   "news": [
     {
-      "title": "'YoYo' lets it spin in Major League debut with 407-foot HR in front of family",
-      "link": "https://www.mlb.com/news/yohandy-morales-records-three-hits-in-mlb-debut",
+      "title": "Walk-off winners after bonkers night, Bucs remain hopeful of WC run",
+      "link": "https://www.mlb.com/news/pirates-walk-off-giants-on-throwing-error-in-ninth",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fiwzpz7d08kp0ruz5lpd",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qt1ki4btweckjukbvhiy",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Jessica Camerato",
+      "author": "Aiden Stepansky",
       "tag": "Highlight",
       "tag_color": "#D97706",
-      "pub_date": "2026-09-02T03:59:00+00:00",
-      "time_ago": "5m ago"
+      "pub_date": "2026-09-02T04:31:00+00:00",
+      "time_ago": "6m ago"
     },
     {
-      "title": "Quatraro ejected after shouting match as balk call reversal takes run off board",
-      "link": "https://www.mlb.com/news/matt-quatraro-ejected-after-balk-call-reversal-in-royals-loss",
+      "title": "In 6th stint with Marlins this year, Pauley returns for career night at plate",
+      "link": "https://www.mlb.com/news/graham-pauley-hits-homer-and-triple-in-marlins-win-vs-royals",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bjwya2ixnhalw5u8ytvg",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/suqcvgwzl5ybmzftwzpj",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Anne Rogers",
+      "author": "Christina De Nicola",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-02T03:56:13+00:00",
-      "time_ago": "8m ago"
+      "pub_date": "2026-09-02T04:30:00+00:00",
+      "time_ago": "7m ago"
     },
     {
-      "title": "Rumfield ends homerless drought to help Rockies snap home losing skid",
-      "link": "https://www.mlb.com/news/tj-rumfield-s-home-run-leads-rockies-to-win-over-orioles",
+      "title": "'I'm up here just to be me': Salas embracing his role amid Padres' playoff push",
+      "link": "https://www.mlb.com/news/ethan-salas-joins-padres-in-cincinnati-looks-forward-to-debut",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tfnmbeta3nn91csi8emz",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wuovucc2mpsuhpfffro8",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Thomas Harding",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-02T03:56:13+00:00",
-      "time_ago": "8m ago"
+      "author": "AJ Cassavell",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-02T04:20:34+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Cole battles, but night ends abruptly vs. Angels",
+      "link": "https://www.mlb.com/news/gerrit-cole-starts-against-angels-in-anaheim",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788226393/mlb/jorknecnbgc1ipoiuou4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Courtney Hollmon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T04:07:00+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "Rookies are starting with a bang like never before",
+      "link": "https://www.mlb.com/news/record-number-of-rookies-hitting-home-runs-in-debuts",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y1gfrukfkrtcx6rmlino",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T04:03:59+00:00",
+      "time_ago": "33m ago"
+    },
+    {
+      "title": "Rookie of the Year races in AL, NL coming to conclusion as favorites pull away",
+      "link": "https://www.mlb.com/news/kevin-mcgonigle-sal-stewart-lead-september-rookie-of-the-year-poll",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hpq2obr2ecbrvgmocjnb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Foster",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T04:00:55+00:00",
+      "time_ago": "36m ago"
+    },
+    {
+      "title": "Twins begin final Wild Card push as bats bury Tigers with 10-run sixth",
+      "link": "https://www.mlb.com/news/twins-score-10-runs-in-sixth-inning-against-tigers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788318058/mlb/eiwirrxenrqbjboa5m2v",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-02T03:56:00+00:00",
+      "time_ago": "41m ago"
     },
     {
       "title": "Home cooking keeps fueling Rangers' postseason push",
@@ -51,59 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T03:47:57+00:00",
-      "time_ago": "16m ago"
-    },
-    {
-      "title": "After recent struggles, will Smith-Shawver factor into Braves' postseason plans?",
-      "link": "https://www.mlb.com/news/aj-smith-shawver-struggles-in-start-vs-nationals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bcz7oljqqgokxiyc2lqv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bobby Blanco",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T03:44:19+00:00",
-      "time_ago": "19m ago"
-    },
-    {
-      "title": "Williams records career-high 13 K's in key series opener vs. Jays",
-      "link": "https://www.mlb.com/news/gavin-williams-sets-career-high-in-strikeouts-vs-blue-jays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788312025/mlb/ljs8uvriodtb4lsrtbd7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T03:43:00+00:00",
-      "time_ago": "21m ago"
-    },
-    {
-      "title": "Burke recovers from wobbly opening inning to post scoreless start",
-      "link": "https://www.mlb.com/news/sean-burke-s-scoreless-start-leads-white-sox-past-astros",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788321082/mlb/yozvp38xdez9pdfd9e1d",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T03:36:07+00:00",
-      "time_ago": "28m ago"
-    },
-    {
-      "title": "In 6th stint with Marlins this year, Pauley returns for career night at plate",
-      "link": "https://www.mlb.com/news/graham-pauley-hits-homer-and-triple-in-marlins-win-vs-royals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/suqcvgwzl5ybmzftwzpj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Christina De Nicola",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T03:30:00+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "49m ago"
     }
   ]
 }
