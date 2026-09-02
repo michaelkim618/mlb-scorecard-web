@@ -5087,9 +5087,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Minnesota Twins",
     "model_winner": "Detroit Tigers",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Detroit Tigers IL: Bailey Horn, Brant Hurter, Burch Smith, Jack Flaherty, Justin Verlander 외 다수 / Minnesota Twins IL: Anthony Banda, Austin Martin, Byron Buxton, Cole Sands, David Festa 외 다수",
     "kalshi_prob": 51.0,
     "edge": -10.8,

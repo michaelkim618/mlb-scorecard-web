@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-02T02:22:10.413204+00:00",
+  "updated_at": "2026-09-02T02:45:01.349460+00:00",
   "news": [
+    {
+      "title": "What a ride: Pirates score 9 in 3rd, surrender 6-run lead ... then win on walk-off error",
+      "link": "https://www.mlb.com/news/pirates-walk-off-giants-on-throwing-error-in-ninth",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qt1ki4btweckjukbvhiy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-02T02:36:37+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "MLB Central crew to call Brewers-Cubs Showcase Game Wednesday",
+      "link": "https://www.mlb.com/news/mlb-central-crew-to-call-brewers-cubs-showdown-on-mlb-network",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/n6keibetjxto1rb87aoh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Manny Randhawa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T02:19:41+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "Pauley greets latest MLB stint with homer, triple in Marlins' win",
+      "link": "https://www.mlb.com/news/graham-pauley-hits-homer-and-triple-in-marlins-win-vs-royals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/suqcvgwzl5ybmzftwzpj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Christina De Nicola",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-02T02:15:28+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "'His energy already is felt': Montes debuts with first career hit and home run",
+      "link": "https://www.mlb.com/news/mariners-call-up-lazaro-montes",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788316434/mlb/mlnfsjhtkdz2k8la2n4i",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T02:13:00+00:00",
+      "time_ago": "32m ago"
+    },
+    {
+      "title": "Rutschman out of lineup again with elbow issue that could linger for rest of season",
+      "link": "https://www.mlb.com/news/adley-rutschman-out-of-red-sox-lineup-against-mariners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yre7js1532nmejdd22de",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-02T02:11:00+00:00",
+      "time_ago": "34m ago"
+    },
     {
       "title": "'YoYo' lets it spin in Major League debut with 407-foot HR in front of family",
       "link": "https://www.mlb.com/news/yohandy-morales-records-three-hits-in-mlb-debut",
@@ -12,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-02T02:10:39+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "34m ago"
     },
     {
       "title": "Reds continue strong push against playoff teams with comeback win",
@@ -25,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-02T01:56:40+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "Grounds crew member fine after being struck in head by batting-practice homer",
@@ -38,71 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-02T01:40:21+00:00",
-      "time_ago": "41m ago"
-    },
-    {
-      "title": "LA Rams owner Kroenke reaches agreement to buy Angels",
-      "link": "https://www.mlb.com/news/stan-kroenke-purchases-angels-from-arte-moreno",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/skpdtfn0huulhmvmv4yw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Rhett Bolliger",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T01:31:00+00:00",
-      "time_ago": "51m ago"
-    },
-    {
-      "title": "Olds faces off with Young in generational baseball battle",
-      "link": "https://www.mlb.com/news/wyatt-olds-faces-cole-young",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/okyfdi9hv4yg8oewmiur",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T01:28:17+00:00",
-      "time_ago": "53m ago"
-    },
-    {
-      "title": "Williams records career-high 13 K's in key series opener vs. Jays",
-      "link": "https://www.mlb.com/news/gavin-williams-sets-career-high-in-strikeouts-vs-blue-jays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788312025/mlb/ljs8uvriodtb4lsrtbd7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T01:23:28+00:00",
-      "time_ago": "58m ago"
-    },
-    {
-      "title": "Peralta feels different -- and looks it in dazzler against former club",
-      "link": "https://www.mlb.com/news/freddy-peralta-shines-in-first-start-against-mets-since-trade",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788311463/mlb/xsrpksbq2ogi8w0tf4qj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T01:15:36+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "'His energy already is felt': Montes debuts with first career hit and home run",
-      "link": "https://www.mlb.com/news/mariners-call-up-lazaro-montes",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mlnfsjhtkdz2k8la2n4i",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T00:59:00+00:00",
       "time_ago": "1h ago"
     }
   ]
