@@ -2908,9 +2908,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Colorado Rockies",
     "model_winner": "Baltimore Orioles",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Baltimore Orioles IL: Christian Franklin, Colin Selby, Félix Bautista, Jordan Westburg, Keegan Akin 외 다수 / Colorado Rockies IL: Chase Dollander, Jose Quintana, Kris Bryant, Kyle Freeland, Kyle Karros 외 다수",
     "kalshi_prob": 38.0,
     "edge": 1.3,
@@ -4424,9 +4424,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Seattle Mariners",
     "model_winner": "Boston Red Sox",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Seattle Mariners IL: Brendan Donovan, Cole Wilcox, Colt Emerson, Emerson Hancock, Logan Evans 외 다수 / Boston Red Sox IL: Curtis Mead, Eduardo Rivera, Garrett Crochet, Johan Oviedo, Justin Slaten 외 다수",
     "kalshi_prob": 56.0,
     "edge": 4.7,

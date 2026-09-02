@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-02T22:37:38.955239+00:00",
+  "updated_at": "2026-09-02T23:04:46.554386+00:00",
   "news": [
+    {
+      "title": "Rockies prevail in a game of inches (literally) to walk-off Orioles in extras",
+      "link": "https://www.mlb.com/news/brett-sullivan-walk-off-11th-inning-rockies-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/twv9utwafujyqz1bedl6",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harding",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-02T22:55:55+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Acuña Jr. fastest in MLB history to reach 200 HRs and 200 SBs",
+      "link": "https://www.mlb.com/news/ronald-acuna-jr-fastest-to-200-homers-and-200-stolen-bases",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/k61a1wxfttawad96t9fn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Nicholas Quillen",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-02T22:54:00+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "Ryan (glute strain) could return to Twins during road trip",
+      "link": "https://www.mlb.com/news/joe-ryan-close-to-rejoining-twins-after-glute-strain",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cwskvuprk0oroi7mtx53",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-02T22:36:06+00:00",
+      "time_ago": "28m ago"
+    },
     {
       "title": "O'Hearn, Pirates celebrate special fan's birthday with gameday experience",
       "link": "https://www.mlb.com/news/ryan-o-hearn-pirates-headstrong-give-young-fan-birthday-to-remember",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T22:28:47+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "35m ago"
     },
     {
       "title": "Watch LIVE: Rehabbing Pirates SS Griffin faces Tigers' Anderson in Triple-A action",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T22:26:00+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Musgrove's return pushed back again due to right arm soreness",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T22:07:11+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "Painter twirls 7 scoreless frames before bullpen allows winning run",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T22:06:52+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "Nationals lift Ruiz as precaution after catcher takes foul ball off mask",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T22:03:00+00:00",
-      "time_ago": "34m ago"
-    },
-    {
-      "title": "McCann's first-pitch go-ahead HR in 8th snaps D-backs' 3-game slide",
-      "link": "https://www.mlb.com/news/james-mccann-hits-go-ahead-homer-in-diamondbacks-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788386913/mlb/c6vpervswhbqaiay03ig",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-02T21:58:21+00:00",
-      "time_ago": "39m ago"
-    },
-    {
-      "title": "Bolte bops pair of homers in coming-out party as A's thump Rangers",
-      "link": "https://www.mlb.com/news/henry-bolte-hits-two-home-runs-as-athletics-beat-rangers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788384290/mlb/ngyxiqcq8xromulcqyex",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Martin Gallegos",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-02T21:50:29+00:00",
-      "time_ago": "47m ago"
-    },
-    {
-      "title": "Padres eager to lock in for home stretch after disappointing road trip",
-      "link": "https://www.mlb.com/news/ethan-salas-held-hitless-in-mlb-debut",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788378763/mlb/qnnd7vtyykdhaz3y7nif",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T21:27:00+00:00",
       "time_ago": "1h ago"
     }
   ]
