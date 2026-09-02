@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-02T06:42:26.440008+00:00",
+  "updated_at": "2026-09-02T07:05:47.363643+00:00",
   "news": [
+    {
+      "title": "'Like I was dreaming about': Bernal sparks Cards in MLB debut",
+      "link": "https://www.mlb.com/news/cardinals-prospect-leo-bernal-promoted-to-majors",
+      "summary": "Scott II, Rincon also recalled from Triple-A Memphis; Crooks optioned",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w1o29fxpuwdpyjs64qz1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jacob Gurvis",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-02T06:52:00+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Yanks add on, hold on after Cole battles into 6th",
+      "link": "https://www.mlb.com/news/gerrit-cole-starts-against-angels-in-anaheim",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788226393/mlb/jorknecnbgc1ipoiuou4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Courtney Hollmon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T06:40:00+00:00",
+      "time_ago": "25m ago"
+    },
     {
       "title": "Luzardo's gem propels Phils to 6th straight win, sole possession of top NL Wild Card spot",
       "link": "https://www.mlb.com/news/jesus-luzardo-continues-hot-stretch-with-win-over-d-backs",
@@ -12,7 +38,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-02T06:18:00+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "Home cooking keeps fueling Rangers' postseason push",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T05:55:00+00:00",
-      "time_ago": "47m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -67,19 +93,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Bernal a spark in MLB debut as Cards outlast Dodgers",
-      "link": "https://www.mlb.com/news/cardinals-prospect-leo-bernal-promoted-to-majors",
-      "summary": "Scott II, Rincon also recalled from Triple-A Memphis; Crooks optioned",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w1o29fxpuwdpyjs64qz1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jacob Gurvis",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-02T05:05:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "LA Rams owner Kroenke reaches agreement to buy Angels",
       "link": "https://www.mlb.com/news/stan-kroenke-purchases-angels-from-arte-moreno",
       "summary": "",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T04:51:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Montes magic! Mariners get glimpse into trident-filled potential in prospect's debut",
-      "link": "https://www.mlb.com/news/lazaro-montes-hits-home-run-in-mlb-debut-with-mariners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lnnvdetvtfrxqrgkjbii",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T04:47:10+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
