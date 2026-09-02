@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-02T19:34:57.922216+00:00",
+  "updated_at": "2026-09-02T20:06:47.807065+00:00",
   "news": [
+    {
+      "title": "Williamson tosses name back into rotation hat with solid return start",
+      "link": "https://www.mlb.com/news/brandon-williamson-earns-win-in-return-from-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xok8r4gcmpv2ur4ktyct",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Sheldon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T19:54:29+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Rutschman (elbow) out of Wed. lineup for third straight game, eyes return in Baltimore",
+      "link": "https://www.mlb.com/news/adley-rutschman-out-of-red-sox-lineup-against-mariners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yre7js1532nmejdd22de",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-02T19:33:00+00:00",
+      "time_ago": "33m ago"
+    },
+    {
+      "title": "Three Cy Young contenders pitch tonight. All of them bring unique heat",
+      "link": "https://www.mlb.com/news/jacob-misiorowski-cam-schlittler-yoshinobu-yamamoto-fastball-analysis",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yk3v1ul5qhqxljuzvmds",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "David Adler",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-02T19:30:19+00:00",
+      "time_ago": "36m ago"
+    },
     {
       "title": "1st hit, 1st homer and 1st ... rock-paper-scissors win? Montes does it ALL in debut",
       "link": "https://www.mlb.com/news/lazaro-montes-rock-paper-scissors-with-randy-arozarena",
@@ -12,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-02T18:53:49+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Nationals catcher Ruiz exits after taking foul ball off mask",
@@ -25,19 +64,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T18:41:53+00:00",
-      "time_ago": "53m ago"
-    },
-    {
-      "title": "Rutschman (elbow) out of Wed. lineup for third straight game, eyes return in Baltimore",
-      "link": "https://www.mlb.com/news/adley-rutschman-out-of-red-sox-lineup-against-mariners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yre7js1532nmejdd22de",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-02T18:33:00+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T18:04:49+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "MLB to honor Childhood Cancer Awareness Day on Sunday",
@@ -64,19 +90,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T18:03:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Watch LIVE: Top 100 prospects De Paula (LAD), Houston (MIN) meet in Double-A action",
-      "link": "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f7kqxh4mlwxmdefvqdl2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brendan Samson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T16:50:00+00:00",
       "time_ago": "2h ago"
     },
     {
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T16:47:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "This Brewers prospect is having Minors' best power-hitting season in 12 years",
-      "link": "https://www.mlb.com/news/andrew-fischer-43rd-home-run-of-historic-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iltsxinzsq2jkyy4golj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T16:22:16+00:00",
       "time_ago": "3h ago"
     }
   ]
