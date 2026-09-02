@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-02T18:43:30.259431+00:00",
+  "updated_at": "2026-09-02T19:12:16.675442+00:00",
   "news": [
+    {
+      "title": "1st hit, 1st homer and 1st ... rock-paper-scissors win? Montes does it ALL in debut",
+      "link": "https://www.mlb.com/news/lazaro-montes-rock-paper-scissors-with-randy-arozarena",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uy4kijgmzbz2rc8ua0pz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-02T18:53:49+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Nationals catcher Ruiz exits after taking foul ball off mask",
+      "link": "https://www.mlb.com/news/keibert-ruiz-exits-after-foul-ball-off-mask-vs-braves",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/stmfg6r3quphh5rsduzi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jessica Camerato",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T18:41:53+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "Rutschman (elbow) out of lineup for third straight game, eyes return in Baltimore",
+      "link": "https://www.mlb.com/news/adley-rutschman-out-of-red-sox-lineup-against-mariners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yre7js1532nmejdd22de",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-02T18:33:00+00:00",
+      "time_ago": "39m ago"
+    },
     {
       "title": "Another Bonds is kicking off his career with the Giants",
       "link": "https://www.mlb.com/news/peyton-bonds-beginning-career-with-giants-organization",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T18:04:49+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "MLB to honor Childhood Cancer Awareness Day on Sunday",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T18:03:00+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Watch LIVE: Top 100 prospects De Paula (LAD), Houston (MIN) meet in Double-A action",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T16:50:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "It's only Sept. 2 and rookies have already broken this all-time record",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T16:47:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "This Brewers prospect is having Minors' best power-hitting season in 12 years",
@@ -65,45 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T16:22:16+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Here are 5 questions that matter for Cards' stretch run",
-      "link": "https://www.mlb.com/news/top-questions-cardinals-september-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ki8zrbwa2mprlhcwgo7s",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T15:50:47+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Top 10 bat flips: You already know No. 1, but what are the other 9?",
-      "link": "https://www.mlb.com/news/top-bat-flips-in-baseball-history",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rnglij7njd6ylk7juttu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Shanthi Sepe-Chepuru",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T15:25:04+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "'Like I was dreaming about': Bernal sparks Cards in MLB debut",
-      "link": "https://www.mlb.com/news/cardinals-prospect-leo-bernal-promoted-to-majors",
-      "summary": "Scott II, Rincon also recalled from Triple-A Memphis; Crooks optioned",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w1o29fxpuwdpyjs64qz1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jacob Gurvis",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-02T06:52:00+00:00",
-      "time_ago": "11h ago"
     }
   ]
 }
