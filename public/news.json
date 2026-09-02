@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-02T05:41:29.162259+00:00",
+  "updated_at": "2026-09-02T06:24:13.605931+00:00",
   "news": [
+    {
+      "title": "Home cooking keeps fueling Rangers' postseason push",
+      "link": "https://www.mlb.com/news/rangers-beat-a-s-to-continue-home-success-in-postseason-chase",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/koxcevy5hkzjghld9jse",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kennedi Landry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T05:55:00+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bdvra0uonc0vstegywkr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-02T05:32:00+00:00",
+      "time_ago": "52m ago"
+    },
     {
       "title": "6 September storylines you should be following",
       "link": "https://www.mlb.com/news/top-mlb-storylines-for-september-2026",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T05:21:39+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "With facial hair and golf carts, White Sox keep having fun -- and winning",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T05:13:00+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Bernal a spark in MLB debut as Cards outlast Dodgers",
@@ -38,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-02T05:05:00+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "LA Rams owner Kroenke reaches agreement to buy Angels",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T04:51:00+00:00",
-      "time_ago": "50m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Montes magic! Mariners get glimpse into trident-filled potential in prospect's debut",
@@ -64,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T04:47:10+00:00",
-      "time_ago": "54m ago"
-    },
-    {
-      "title": "Correa ramps up rehab, eyes return to Astros this season",
-      "link": "https://www.mlb.com/news/carlos-correa-takes-major-rehab-step-as-astros-eye-2026-return",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788305273/mlb/zpojvc2b1uqoahrqxvlt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T04:44:00+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Pratt, Chourio and Ortiz survive scary outfield collision in Brewers' win",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T04:38:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Yanks hold on vs. Angels despite Cole's abrupt exit",
-      "link": "https://www.mlb.com/news/gerrit-cole-starts-against-angels-in-anaheim",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788226393/mlb/jorknecnbgc1ipoiuou4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Courtney Hollmon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T04:36:00+00:00",
       "time_ago": "1h ago"
     }
   ]
