@@ -407,7 +407,7 @@
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis Jr.(0.812)",
+            "Fernando Tatis(0.812)",
             "Samad Taylor(0.863)",
             "Manny Machado(0.678)",
             "Ty France(0.789)",
@@ -420,7 +420,7 @@
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis Jr.",
+              "name": "Fernando Tatis",
               "ops": 0.812,
               "avg": 0.261
             },
@@ -6231,7 +6231,7 @@
           "lineup_ops": [
             "Brett Bateman(0.827)",
             "Alejandro Kirk(0.714)",
-            "Vladimir Guerrero Jr.(0.589)",
+            "Vladimir Guerrero(0.589)",
             "George Springer(0.964)",
             "Nathan Lukes(0.839)",
             "Kazuma Okamoto(0.795)",
@@ -6254,7 +6254,7 @@
             },
             {
               "id": 665489,
-              "name": "Vladimir Guerrero Jr.",
+              "name": "Vladimir Guerrero",
               "ops": 0.589,
               "avg": 0.205
             },
@@ -7884,7 +7884,7 @@
             {
               "code": "SL",
               "abbr": "SL",
-              "pct": 12.4,
+              "pct": 12.3,
               "velo": 85.1
             },
             {
