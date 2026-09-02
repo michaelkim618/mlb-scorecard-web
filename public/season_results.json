@@ -8306,6 +8306,28 @@
       "away_bp_score": 54.4,
       "home_bp_score": 68.7,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-02",
+      "away": "San Diego Padres",
+      "home": "Cincinnati Reds",
+      "game_number": 1,
+      "pick": "San Diego Padres",
+      "pick_prob": 55.2,
+      "actual_winner": "Cincinnati Reds",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "neutral",
+      "away_sp_era": 4.99,
+      "home_sp_era": 6.0,
+      "away_bp_era": 2.58,
+      "home_bp_era": 4.06,
+      "away_sp_score": 34.8,
+      "home_sp_score": 30.0,
+      "away_bp_score": 67.6,
+      "home_bp_score": 31.299999999999997,
+      "bat_source": "lineup"
     }
   ]
 }

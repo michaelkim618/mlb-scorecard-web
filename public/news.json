@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T19:12:16.675442+00:00",
+  "updated_at": "2026-09-02T19:34:57.922216+00:00",
   "news": [
     {
       "title": "1st hit, 1st homer and 1st ... rock-paper-scissors win? Montes does it ALL in debut",
@@ -12,7 +12,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-02T18:53:49+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "41m ago"
     },
     {
       "title": "Nationals catcher Ruiz exits after taking foul ball off mask",
@@ -25,10 +25,10 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T18:41:53+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "53m ago"
     },
     {
-      "title": "Rutschman (elbow) out of lineup for third straight game, eyes return in Baltimore",
+      "title": "Rutschman (elbow) out of Wed. lineup for third straight game, eyes return in Baltimore",
       "link": "https://www.mlb.com/news/adley-rutschman-out-of-red-sox-lineup-against-mariners",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yre7js1532nmejdd22de",
@@ -38,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-02T18:33:00+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Another Bonds is kicking off his career with the Giants",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T16:22:16+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
