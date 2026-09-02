@@ -7612,8 +7612,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 38.0,
-      "home": 62.0
+      "away": 39.1,
+      "home": 60.9
     },
     "expected_score": {
       "away": 1.9,
@@ -8028,8 +8028,8 @@
     "model_correct": null,
     "notes": "Miami Marlins IL: Adam Mazur, Andrew Nardi, Anthony Bender, Max Meyer, Pete Fairbanks 외 다수 / Kansas City Royals IL: Alec Marsh, Beck Way, Carlos Estévez, Cole Ragans, Connor Seabold 외 다수",
     "kalshi_prob": 50.0,
-    "edge": 12.0,
-    "value_bet": "⚠️ VB주의(선발Hot·edge부족 12.0%p<14.0%p)",
+    "edge": 10.9,
+    "value_bet": "⚠️ VB주의(선발Hot·edge부족 10.9%p<14.0%p)",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
