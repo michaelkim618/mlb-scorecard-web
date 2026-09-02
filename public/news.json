@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-02T05:03:29.301411+00:00",
+  "updated_at": "2026-09-02T05:41:29.162259+00:00",
   "news": [
+    {
+      "title": "6 September storylines you should be following",
+      "link": "https://www.mlb.com/news/top-mlb-storylines-for-september-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gu3shchiexibb23r2hx6",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T05:21:39+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "With facial hair and golf carts, White Sox keep having fun -- and winning",
+      "link": "https://www.mlb.com/news/sean-burke-s-scoreless-start-leads-white-sox-past-astros",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pxemfkd5kv7ce39wthn6",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T05:13:00+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "Bernal a spark in MLB debut as Cards outlast Dodgers",
+      "link": "https://www.mlb.com/news/cardinals-prospect-leo-bernal-promoted-to-majors",
+      "summary": "Scott II, Rincon also recalled from Triple-A Memphis; Crooks optioned",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w1o29fxpuwdpyjs64qz1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jacob Gurvis",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-02T05:05:00+00:00",
+      "time_ago": "36m ago"
+    },
     {
       "title": "LA Rams owner Kroenke reaches agreement to buy Angels",
       "link": "https://www.mlb.com/news/stan-kroenke-purchases-angels-from-arte-moreno",
@@ -12,7 +51,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T04:51:00+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "50m ago"
+    },
+    {
+      "title": "Montes magic! Mariners get glimpse into trident-filled potential in prospect's debut",
+      "link": "https://www.mlb.com/news/lazaro-montes-hits-home-run-in-mlb-debut-with-mariners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lnnvdetvtfrxqrgkjbii",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T04:47:10+00:00",
+      "time_ago": "54m ago"
     },
     {
       "title": "Correa ramps up rehab, eyes return to Astros this season",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T04:44:00+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "Pratt, Chourio and Ortiz survive scary outfield collision in Brewers' win",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T04:38:00+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yanks hold on vs. Angels despite Cole's abrupt exit",
@@ -51,59 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T04:36:00+00:00",
-      "time_ago": "27m ago"
-    },
-    {
-      "title": "Luzardo's gem, hot bats propel Phillies to sole possession of top NL Wild Card spot",
-      "link": "https://www.mlb.com/news/jesus-luzardo-continues-hot-stretch-with-win-over-d-backs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rnymo43ojzg09lyrf2rt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Michael Reynolds",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-02T04:35:50+00:00",
-      "time_ago": "27m ago"
-    },
-    {
-      "title": "Walk-off winners after bonkers night, Bucs remain hopeful of WC run",
-      "link": "https://www.mlb.com/news/pirates-walk-off-giants-on-throwing-error-in-ninth",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qt1ki4btweckjukbvhiy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-02T04:31:00+00:00",
-      "time_ago": "32m ago"
-    },
-    {
-      "title": "In 6th stint with Marlins this year, Pauley returns for career night at plate",
-      "link": "https://www.mlb.com/news/graham-pauley-hits-homer-and-triple-in-marlins-win-vs-royals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/suqcvgwzl5ybmzftwzpj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Christina De Nicola",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T04:30:00+00:00",
-      "time_ago": "33m ago"
-    },
-    {
-      "title": "'I'm up here just to be me': Salas embracing his role amid Padres' playoff push",
-      "link": "https://www.mlb.com/news/ethan-salas-joins-padres-in-cincinnati-looks-forward-to-debut",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wuovucc2mpsuhpfffro8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-02T04:20:34+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "1h ago"
     }
   ]
 }

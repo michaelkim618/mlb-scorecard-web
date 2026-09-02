@@ -8284,6 +8284,28 @@
       "away_bp_score": 74.4,
       "home_bp_score": 70.1,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-01",
+      "away": "St. Louis Cardinals",
+      "home": "Los Angeles Dodgers",
+      "game_number": 1,
+      "pick": "Los Angeles Dodgers",
+      "pick_prob": 61.5,
+      "actual_winner": "St. Louis Cardinals",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 5.09,
+      "home_sp_era": 4.1,
+      "away_bp_era": 3.94,
+      "home_bp_era": 3.13,
+      "away_sp_score": 35.8,
+      "home_sp_score": 36.9,
+      "away_bp_score": 56.3,
+      "home_bp_score": 73.1,
+      "bat_source": "lineup"
     }
   ]
 }
