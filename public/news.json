@@ -1,18 +1,83 @@
 {
-  "updated_at": "2026-09-02T22:08:51.550097+00:00",
+  "updated_at": "2026-09-02T22:37:38.955239+00:00",
   "news": [
+    {
+      "title": "O'Hearn, Pirates celebrate special fan's birthday with gameday experience",
+      "link": "https://www.mlb.com/news/ryan-o-hearn-pirates-headstrong-give-young-fan-birthday-to-remember",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ef9kjvqfxxqwg7638gll",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T22:28:47+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Watch LIVE: Rehabbing Pirates SS Griffin faces Tigers' Anderson in Triple-A action",
+      "link": "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f7kqxh4mlwxmdefvqdl2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brendan Samson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T22:26:00+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Musgrove's return pushed back again due to right arm soreness",
+      "link": "https://www.mlb.com/news/joe-musgrove-experiences-setback-in-return",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/owmrajznkeqapy4smeiq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T22:07:11+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "Painter twirls 7 scoreless frames before bullpen allows winning run",
+      "link": "https://www.mlb.com/news/andrew-painter-tosses-seven-scoreless-innings-in-phillies-loss-to-d-backs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ar36ud8lilbu9mfyxoct",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Michael Reynolds",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T22:06:52+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "Nationals lift Ruiz as precaution after catcher takes foul ball off mask",
+      "link": "https://www.mlb.com/news/keibert-ruiz-exits-after-foul-ball-off-mask-vs-braves",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bsbptaabhlcd9ydz1ge1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jessica Camerato",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T22:03:00+00:00",
+      "time_ago": "34m ago"
+    },
     {
       "title": "McCann's first-pitch go-ahead HR in 8th snaps D-backs' 3-game slide",
       "link": "https://www.mlb.com/news/james-mccann-hits-go-ahead-homer-in-diamondbacks-win",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c6vpervswhbqaiay03ig",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788386913/mlb/c6vpervswhbqaiay03ig",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Steve Gilbert",
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-02T21:58:21+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "39m ago"
     },
     {
       "title": "Bolte bops pair of homers in coming-out party as A's thump Rangers",
@@ -25,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-02T21:50:29+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "Padres eager to lock in for home stretch after disappointing road trip",
@@ -38,72 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T21:27:00+00:00",
-      "time_ago": "41m ago"
-    },
-    {
-      "title": "Acuña Jr. fastest in MLB history to reach 200 HRs and 200 SBs",
-      "link": "https://www.mlb.com/news/ronald-acuna-jr-fastest-to-200-homers-and-200-stolen-bases",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cfa1lvw0fd0qry6aocgw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Nicholas Quillen",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-02T21:12:00+00:00",
-      "time_ago": "56m ago"
-    },
-    {
-      "title": "Williamson tosses name back into rotation hat with solid return start",
-      "link": "https://www.mlb.com/news/brandon-williamson-earns-win-in-return-from-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xok8r4gcmpv2ur4ktyct",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T21:04:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Rutschman misses third straight game, eyes return in next series",
-      "link": "https://www.mlb.com/news/adley-rutschman-out-of-red-sox-lineup-against-mariners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yre7js1532nmejdd22de",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T19:33:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Three Cy Young contenders pitch tonight. All of them bring unique heat",
-      "link": "https://www.mlb.com/news/jacob-misiorowski-cam-schlittler-yoshinobu-yamamoto-fastball-analysis",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yk3v1ul5qhqxljuzvmds",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "David Adler",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-02T19:30:19+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "The high school baseball field in Kentucky that looks straight out of 'Lord of the Rings'",
-      "link": "https://www.mlb.com/news/floyd-central-high-school-baseball-rock-mountain",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qewznotebszc4egctuod",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Chiusano",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T19:29:14+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
