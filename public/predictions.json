@@ -699,8 +699,8 @@
     "model_winner": "San Diego Padres",
     "model_correct": null,
     "notes": "San Diego Padres IL: Bryan Hoeing, Gavin Sheets, Jason Adam, Jeremiah Estrada, Joe Musgrove 외 다수 / Cincinnati Reds IL: Blake Dunn, Graham Ashcraft, Hunter Greene, Ke'Bryan Hayes, Michael Toglia 외 다수",
-    "kalshi_prob": 41.0,
-    "edge": -0.3,
+    "kalshi_prob": 39.0,
+    "edge": 1.7,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -1757,30 +1757,30 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 38.0,
-      "home": 62.0
+      "away": 40.1,
+      "home": 59.9
     },
     "expected_score": {
-      "away": 1.7,
-      "home": 3.3
+      "away": 2.0,
+      "home": 3.1
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "L",
       "home_handedness": "L",
       "bullpen_game": false,
       "any_cold_sp": false,
       "eff_weights": {
-        "sp": 0.31,
+        "sp": 0.38,
         "bp": 0.22,
-        "bat": 0.32,
+        "bat": 0.25,
         "sit": 0.15
       },
       "away": {
-        "sp_score": 48.2,
+        "sp_score": 49.6,
         "sp_detail": {
           "era": 2.79,
           "whip": 1.08,
@@ -1846,26 +1846,26 @@
             }
           ]
         },
-        "bp_score": 31.4,
+        "bp_score": 42.9,
         "bp_detail": {
-          "bullpen_era": 5.09,
-          "recent_era": 4.18,
-          "recent_appearances": 20,
-          "recent_ip": 28.0,
-          "team_era": 5.17,
-          "bp_ip": 330.7,
+          "bullpen_era": 4.97,
+          "recent_era": 2.49,
+          "recent_appearances": 17,
+          "recent_ip": 25.3,
+          "team_era": 5.13,
+          "bp_ip": 282.7,
           "bp_count": 9,
           "closer_era": 3.55,
           "closer_name": "Hogan Harris"
         },
-        "bat_score": 24.7,
+        "bat_score": 28.799999999999997,
         "bat_detail": {
-          "recent_avg": 0.246,
+          "recent_avg": 0.269,
           "runs_per_g": 4.5,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
-          "season_ops": 0.652,
-          "season_avg": 0.246,
+          "season_ops": 0.717,
+          "season_avg": 0.269,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
@@ -1875,10 +1875,10 @@
             "Zack Gelof(0.621)",
             "Lawrence Butler(0.884)",
             "Jonah Heim(0.639)",
-            "Tommy White(0.621)",
             "Jeff McNeil(0.731)",
-            "Max Muncy(0.606)",
+            "Michael Stefanic(1.083)",
             "Alika Williams(0.659)",
+            "Brian Serven(0.729)",
             "Denzel Clarke(0.396)"
           ],
           "lineup_players": [
@@ -1907,22 +1907,16 @@
               "avg": 0.229
             },
             {
-              "id": 695720,
-              "name": "Tommy White",
-              "ops": 0.621,
-              "avg": 0.278
-            },
-            {
               "id": 643446,
               "name": "Jeff McNeil",
               "ops": 0.731,
               "avg": 0.31
             },
             {
-              "id": 691777,
-              "name": "Max Muncy",
-              "ops": 0.606,
-              "avg": 0.188
+              "id": 683021,
+              "name": "Michael Stefanic",
+              "ops": 1.083,
+              "avg": 0.455
             },
             {
               "id": 675961,
@@ -1931,13 +1925,19 @@
               "avg": 0.231
             },
             {
+              "id": 661531,
+              "name": "Brian Serven",
+              "ops": 0.729,
+              "avg": 0.222
+            },
+            {
               "id": 672016,
               "name": "Denzel Clarke",
               "ops": 0.396,
               "avg": 0.15
             }
           ],
-          "bat_trend": "stable",
+          "bat_trend": "cold",
           "last5_rpg": 3.4,
           "last5_avg": 0.247,
           "home_split": {
@@ -1954,7 +1954,7 @@
           }
         },
         "sit_score": 34.7,
-        "total": 35.0
+        "total": 40.7
       },
       "home": {
         "sp_score": 42.0,
@@ -2029,35 +2029,35 @@
           "closer_era": 1.63,
           "closer_name": "Jacob Latz"
         },
-        "bat_score": 43.5,
+        "bat_score": 42.2,
         "bat_detail": {
-          "recent_avg": 0.266,
+          "recent_avg": 0.258,
           "runs_per_g": 5.4,
           "hr_per_g": 1.4,
           "bb_per_g": 3.0,
-          "season_ops": 0.774,
-          "season_avg": 0.266,
+          "season_ops": 0.778,
+          "season_avg": 0.258,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Justin Foscue(0.846)",
+            "Ezequiel Duran(0.830)",
             "Corey Seager(0.752)",
             "Wyatt Langford(0.829)",
             "Brandon Nimmo(0.790)",
-            "Ezequiel Duran(0.830)",
             "Jake Burger(0.808)",
+            "Justin Foscue(0.846)",
+            "Elias Díaz(0.774)",
             "Cody Freeman(0.797)",
-            "Evan Carter(0.540)",
-            "Elias Díaz(0.774)"
+            "Danny Jansen(0.577)"
           ],
           "lineup_players": [
             {
-              "id": 679822,
-              "name": "Justin Foscue",
-              "ops": 0.846,
-              "avg": 0.267
+              "id": 677649,
+              "name": "Ezequiel Duran",
+              "ops": 0.83,
+              "avg": 0.278
             },
             {
               "id": 608369,
@@ -2078,16 +2078,22 @@
               "avg": 0.308
             },
             {
-              "id": 677649,
-              "name": "Ezequiel Duran",
-              "ops": 0.83,
-              "avg": 0.278
-            },
-            {
               "id": 669394,
               "name": "Jake Burger",
               "ops": 0.808,
               "avg": 0.258
+            },
+            {
+              "id": 679822,
+              "name": "Justin Foscue",
+              "ops": 0.846,
+              "avg": 0.267
+            },
+            {
+              "id": 553869,
+              "name": "Elias Díaz",
+              "ops": 0.774,
+              "avg": 0.238
             },
             {
               "id": 683227,
@@ -2096,16 +2102,10 @@
               "avg": 0.314
             },
             {
-              "id": 694497,
-              "name": "Evan Carter",
-              "ops": 0.54,
-              "avg": 0.185
-            },
-            {
-              "id": 553869,
-              "name": "Elias Díaz",
-              "ops": 0.774,
-              "avg": 0.238
+              "id": 643376,
+              "name": "Danny Jansen",
+              "ops": 0.577,
+              "avg": 0.115
             }
           ],
           "bat_trend": "stable",
@@ -2125,20 +2125,20 @@
           }
         },
         "sit_score": 61.9,
-        "total": 47.9
+        "total": 47.5
       }
     },
     "scores": {
-      "away_offense": 24.7,
-      "away_defense": 39.8,
-      "home_offense": 43.5,
+      "away_offense": 28.799999999999997,
+      "away_defense": 46.2,
+      "home_offense": 42.2,
       "home_defense": 47.5
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -2150,7 +2150,7 @@
     "model_correct": null,
     "notes": "Athletics IL: Brent Rooker, Brooks Kriske, Gunnar Hoglund, Jacob Wilson, Joshua Kuroda-Grauer 외 다수 / Texas Rangers IL: Carter Baumler, Cole Winn, Jack Leiter, Jalen Beeks, Jose Corniell 외 다수",
     "kalshi_prob": 60.0,
-    "edge": 2.0,
+    "edge": -0.1,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -6539,9 +6539,9 @@
     "model_winner": "Cleveland Guardians",
     "model_correct": null,
     "notes": "Toronto Blue Jays IL: Addison Barger, Anthony Santander, Bowden Francis, Cody Ponce, Jake Bloss 외 다수 / Cleveland Guardians IL: Rhys Hoskins, Shawn Armstrong, Slade Cecconi",
-    "kalshi_prob": 45.0,
-    "edge": 5.0,
-    "value_bet": "⏭️ 패스 (SP↔BAT충돌+시장역방향 edge +5.0%p — 신뢰불가)",
+    "kalshi_prob": 46.0,
+    "edge": 4.0,
+    "value_bet": "⏭️ 패스 (SP↔BAT충돌+시장역방향 edge +4.0%p — 신뢰불가)",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": true,
