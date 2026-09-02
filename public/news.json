@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-02T02:45:01.349460+00:00",
+  "updated_at": "2026-09-02T03:07:56.188697+00:00",
   "news": [
+    {
+      "title": "Yankees to piggyback Fried with Warren vs. Padres on Friday",
+      "link": "https://www.mlb.com/news/max-fried-will-warren-friday-s-yankees-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qpjx0hoae8if4xmxuoly",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Shanthi Sepe-Chepuru",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T02:48:00+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Twins begin final Wild Card push as bats bury Tigers with 10-run sixth",
+      "link": "https://www.mlb.com/news/twins-score-10-runs-in-sixth-inning-against-tigers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788318058/mlb/eiwirrxenrqbjboa5m2v",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-02T02:41:50+00:00",
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "Confidence restored, Peralta delivers dazzler against former club",
+      "link": "https://www.mlb.com/news/freddy-peralta-shines-in-first-start-against-mets-since-trade",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788311463/mlb/xsrpksbq2ogi8w0tf4qj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T02:40:00+00:00",
+      "time_ago": "27m ago"
+    },
     {
       "title": "What a ride: Pirates score 9 in 3rd, surrender 6-run lead ... then win on walk-off error",
       "link": "https://www.mlb.com/news/pirates-walk-off-giants-on-throwing-error-in-ninth",
@@ -12,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-02T02:36:37+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "31m ago"
     },
     {
       "title": "MLB Central crew to call Brewers-Cubs Showcase Game Wednesday",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T02:19:41+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "Pauley greets latest MLB stint with homer, triple in Marlins' win",
@@ -38,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-02T02:15:28+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "'His energy already is felt': Montes debuts with first career hit and home run",
@@ -51,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T02:13:00+00:00",
-      "time_ago": "32m ago"
-    },
-    {
-      "title": "Rutschman out of lineup again with elbow issue that could linger for rest of season",
-      "link": "https://www.mlb.com/news/adley-rutschman-out-of-red-sox-lineup-against-mariners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yre7js1532nmejdd22de",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-02T02:11:00+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "'YoYo' lets it spin in Major League debut with 407-foot HR in front of family",
@@ -77,33 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-02T02:10:39+00:00",
-      "time_ago": "34m ago"
-    },
-    {
-      "title": "Reds continue strong push against playoff teams with comeback win",
-      "link": "https://www.mlb.com/news/jose-trevino-hits-go-ahead-single-in-8th-inning",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/psn237uxenvyy16ppdvj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-02T01:56:40+00:00",
-      "time_ago": "48m ago"
-    },
-    {
-      "title": "Grounds crew member fine after being struck in head by batting-practice homer",
-      "link": "https://www.mlb.com/news/diamondbacks-grounds-crew-member-hit-by-home-run-ball",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p5ecke8kkq6oz8mlci0w",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Michael Reynolds",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-02T01:40:21+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "57m ago"
     }
   ]
 }
