@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-02T01:34:18.752881+00:00",
+  "updated_at": "2026-09-02T02:22:10.413204+00:00",
   "news": [
+    {
+      "title": "'YoYo' lets it spin in Major League debut with 407-foot HR in front of family",
+      "link": "https://www.mlb.com/news/yohandy-morales-records-three-hits-in-mlb-debut",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fiwzpz7d08kp0ruz5lpd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jessica Camerato",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-02T02:10:39+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Reds continue strong push against playoff teams with comeback win",
+      "link": "https://www.mlb.com/news/jose-trevino-hits-go-ahead-single-in-8th-inning",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/psn237uxenvyy16ppdvj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Sheldon",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-02T01:56:40+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "Grounds crew member fine after being struck in head by batting-practice homer",
+      "link": "https://www.mlb.com/news/diamondbacks-grounds-crew-member-hit-by-home-run-ball",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p5ecke8kkq6oz8mlci0w",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Michael Reynolds",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-02T01:40:21+00:00",
+      "time_ago": "41m ago"
+    },
+    {
+      "title": "LA Rams owner Kroenke reaches agreement to buy Angels",
+      "link": "https://www.mlb.com/news/stan-kroenke-purchases-angels-from-arte-moreno",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/skpdtfn0huulhmvmv4yw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rhett Bolliger",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T01:31:00+00:00",
+      "time_ago": "51m ago"
+    },
     {
       "title": "Olds faces off with Young in generational baseball battle",
       "link": "https://www.mlb.com/news/wyatt-olds-faces-cole-young",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T01:28:17+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "Williams records career-high 13 K's in key series opener vs. Jays",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T01:23:28+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Peralta feels different -- and looks it in dazzler against former club",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T01:15:36+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'His energy already is felt': Montes debuts with first career hit and home run",
@@ -51,58 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T00:59:00+00:00",
-      "time_ago": "35m ago"
-    },
-    {
-      "title": "Robert excited to join O's, eager to contribute to postseason push",
-      "link": "https://www.mlb.com/news/luis-robert-jr-excited-to-join-orioles",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ewyhhlfqkpzvyjy88ohz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T00:40:37+00:00",
-      "time_ago": "53m ago"
-    },
-    {
-      "title": "Smith returns from IL; Rushing, Wrobleski also activated",
-      "link": "https://www.mlb.com/news/will-smith-dodgers-return-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sczrzykp3rfzf8ftzk5x",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T00:26:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Correa ramps up rehab, eyes return to Astros this season",
-      "link": "https://www.mlb.com/news/carlos-correa-takes-major-rehab-step-as-astros-eye-2026-return",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788305273/mlb/zpojvc2b1uqoahrqxvlt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T23:51:38+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Everything you need to know about MLB's postseason roster rules",
-      "link": "https://www.mlb.com/news/mlb-postseason-roster-rules-explained",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pvqowtrhvzz4bjsmucf0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-01T23:40:33+00:00",
       "time_ago": "1h ago"
     }
   ]
