@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-02T00:42:07.442560+00:00",
+  "updated_at": "2026-09-02T01:09:50.767124+00:00",
   "news": [
+    {
+      "title": "Robert excited to join O's, eager to contribute to postseason push",
+      "link": "https://www.mlb.com/news/luis-robert-jr-excited-to-join-orioles",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ewyhhlfqkpzvyjy88ohz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T00:40:37+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "Smith returns from IL; Rushing, Wrobleski also activated",
+      "link": "https://www.mlb.com/news/will-smith-dodgers-return-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sczrzykp3rfzf8ftzk5x",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T00:26:00+00:00",
+      "time_ago": "43m ago"
+    },
     {
       "title": "Correa ramps up rehab, eyes return to Astros this season",
       "link": "https://www.mlb.com/news/carlos-correa-takes-major-rehab-step-as-astros-eye-2026-return",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T23:51:38+00:00",
-      "time_ago": "50m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Everything you need to know about MLB's postseason roster rules",
@@ -38,19 +64,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-01T23:37:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Blalock, Pauley recalled from Triple-A Jacksonville as rosters expand",
-      "link": "https://www.mlb.com/news/bradley-blalock-recalled-by-marlins-from-triple-a-jacksonville",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jwkzhy3aa4nee9smxcjp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Christina De Nicola",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-01T23:32:42+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -90,19 +103,6 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-01T23:23:22+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Here's the '26 All-Breakout Prospect Team",
-      "link": "https://www.mlb.com/news/breakout-prospects-in-mlb-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cb1fko2aiy266dppnx0d",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jim Callis",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-01T23:15:00+00:00",
       "time_ago": "1h ago"
     }
   ]
