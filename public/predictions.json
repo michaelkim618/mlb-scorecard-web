@@ -2146,9 +2146,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Athletics",
     "model_winner": "Texas Rangers",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Athletics IL: Brent Rooker, Brooks Kriske, Gunnar Hoglund, Jacob Wilson, Joshua Kuroda-Grauer 외 다수 / Texas Rangers IL: Carter Baumler, Cole Winn, Jack Leiter, Jalen Beeks, Jose Corniell 외 다수",
     "kalshi_prob": 60.0,
     "edge": -0.1,

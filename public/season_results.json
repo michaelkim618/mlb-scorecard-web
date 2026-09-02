@@ -8350,6 +8350,28 @@
       "away_bp_score": 54.4,
       "home_bp_score": 27.9,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-02",
+      "away": "Athletics",
+      "home": "Texas Rangers",
+      "game_number": 1,
+      "pick": "Texas Rangers",
+      "pick_prob": 59.9,
+      "actual_winner": "Athletics",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "stable",
+      "away_sp_era": 2.79,
+      "home_sp_era": 3.42,
+      "away_bp_era": 4.97,
+      "home_bp_era": 3.41,
+      "away_sp_score": 49.6,
+      "home_sp_score": 42.0,
+      "away_bp_score": 42.9,
+      "home_bp_score": 53.1,
+      "bat_source": "lineup"
     }
   ]
 }
