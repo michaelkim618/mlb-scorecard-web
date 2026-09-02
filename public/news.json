@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-02T03:07:56.188697+00:00",
+  "updated_at": "2026-09-02T03:37:27.498993+00:00",
   "news": [
+    {
+      "title": "Reds continue push against playoff teams with all-around comeback win",
+      "link": "https://www.mlb.com/news/jose-trevino-hits-go-ahead-single-in-8th-inning",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/psn237uxenvyy16ppdvj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Sheldon",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-02T03:28:00+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Instant impact as Bernal laces 2-run single after callup",
+      "link": "https://www.mlb.com/news/cardinals-prospect-leo-bernal-promoted-to-majors",
+      "summary": "Scott II, Rincon also recalled from Triple-A Memphis; Crooks optioned",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w1o29fxpuwdpyjs64qz1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jacob Gurvis",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-02T03:18:00+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Pratt, Chourio and Ortiz survive scary outfield collision in Brewers' win",
+      "link": "https://www.mlb.com/news/brewers-survive-outfield-collision-extend-nl-central-lead",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ntdur9kj9tfwsl9hw61j",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T03:17:16+00:00",
+      "time_ago": "20m ago"
+    },
     {
       "title": "Yankees to piggyback Fried with Warren vs. Padres on Friday",
       "link": "https://www.mlb.com/news/max-fried-will-warren-friday-s-yankees-game",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T02:48:00+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "Twins begin final Wild Card push as bats bury Tigers with 10-run sixth",
@@ -25,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-02T02:41:50+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "Confidence restored, Peralta delivers dazzler against former club",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T02:40:00+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "What a ride: Pirates score 9 in 3rd, surrender 6-run lead ... then win on walk-off error",
@@ -51,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-02T02:36:37+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "MLB Central crew to call Brewers-Cubs Showcase Game Wednesday",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T02:19:41+00:00",
-      "time_ago": "48m ago"
-    },
-    {
-      "title": "Pauley greets latest MLB stint with homer, triple in Marlins' win",
-      "link": "https://www.mlb.com/news/graham-pauley-hits-homer-and-triple-in-marlins-win-vs-royals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/suqcvgwzl5ybmzftwzpj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Christina De Nicola",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-02T02:15:28+00:00",
-      "time_ago": "52m ago"
-    },
-    {
-      "title": "'His energy already is felt': Montes debuts with first career hit and home run",
-      "link": "https://www.mlb.com/news/mariners-call-up-lazaro-montes",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788316434/mlb/mlnfsjhtkdz2k8la2n4i",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T02:13:00+00:00",
-      "time_ago": "54m ago"
-    },
-    {
-      "title": "'YoYo' lets it spin in Major League debut with 407-foot HR in front of family",
-      "link": "https://www.mlb.com/news/yohandy-morales-records-three-hits-in-mlb-debut",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fiwzpz7d08kp0ruz5lpd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jessica Camerato",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-02T02:10:39+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
