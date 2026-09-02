@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-02T21:34:01.916316+00:00",
+  "updated_at": "2026-09-02T22:08:51.550097+00:00",
   "news": [
+    {
+      "title": "McCann's first-pitch go-ahead HR in 8th snaps D-backs' 3-game slide",
+      "link": "https://www.mlb.com/news/james-mccann-hits-go-ahead-homer-in-diamondbacks-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c6vpervswhbqaiay03ig",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Steve Gilbert",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-02T21:58:21+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "Bolte bops pair of homers in coming-out party as A's thump Rangers",
+      "link": "https://www.mlb.com/news/henry-bolte-hits-two-home-runs-as-athletics-beat-rangers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788384290/mlb/ngyxiqcq8xromulcqyex",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Martin Gallegos",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-02T21:50:29+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Padres eager to lock in for home stretch after disappointing road trip",
+      "link": "https://www.mlb.com/news/ethan-salas-held-hitless-in-mlb-debut",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788378763/mlb/qnnd7vtyykdhaz3y7nif",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T21:27:00+00:00",
+      "time_ago": "41m ago"
+    },
     {
       "title": "Acuña Jr. fastest in MLB history to reach 200 HRs and 200 SBs",
       "link": "https://www.mlb.com/news/ronald-acuna-jr-fastest-to-200-homers-and-200-stolen-bases",
@@ -12,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-02T21:12:00+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "56m ago"
     },
     {
       "title": "Williamson tosses name back into rotation hat with solid return start",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T21:04:00+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rutschman misses third straight game, eyes return in next series",
@@ -54,56 +93,17 @@
       "time_ago": "2h ago"
     },
     {
-      "title": "1st hit, 1st homer and 1st ... rock-paper-scissors win? Montes does it ALL in debut",
-      "link": "https://www.mlb.com/news/lazaro-montes-rock-paper-scissors-with-randy-arozarena",
+      "title": "The high school baseball field in Kentucky that looks straight out of 'Lord of the Rings'",
+      "link": "https://www.mlb.com/news/floyd-central-high-school-baseball-rock-mountain",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uy4kijgmzbz2rc8ua0pz",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qewznotebszc4egctuod",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-02T18:53:49+00:00",
+      "author": "Scott Chiusano",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T19:29:14+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Nationals catcher Ruiz exits after taking foul ball off mask",
-      "link": "https://www.mlb.com/news/keibert-ruiz-exits-after-foul-ball-off-mask-vs-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bsbptaabhlcd9ydz1ge1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jessica Camerato",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T18:41:53+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Another Bonds is kicking off his career with the Giants",
-      "link": "https://www.mlb.com/news/peyton-bonds-beginning-career-with-giants-organization",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bhbcyz4mkfpno58kcby7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Maria Guardado",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T18:04:49+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "MLB to honor Childhood Cancer Awareness Day on Sunday",
-      "link": "https://www.mlb.com/news/major-league-baseball-honors-childhood-cancer-awareness-day-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/kh8jhi3byo6gui9tapv7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T18:03:00+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }

@@ -8372,6 +8372,28 @@
       "away_bp_score": 42.9,
       "home_bp_score": 53.1,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-02",
+      "away": "Philadelphia Phillies",
+      "home": "Arizona Diamondbacks",
+      "game_number": 1,
+      "pick": "Philadelphia Phillies",
+      "pick_prob": 51.9,
+      "actual_winner": "Arizona Diamondbacks",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "cold",
+      "away_sp_era": 6.52,
+      "home_sp_era": 4.5,
+      "away_bp_era": 3.35,
+      "home_bp_era": 3.14,
+      "away_sp_score": 30.0,
+      "home_sp_score": 33.2,
+      "away_bp_score": 70.2,
+      "home_bp_score": 56.7,
+      "bat_source": "lineup"
     }
   ]
 }
