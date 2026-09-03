@@ -748,9 +748,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Pittsburgh Pirates",
     "model_winner": "Pittsburgh Pirates",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "San Francisco Giants IL: Adrian Houser, Carson Whisenhunt, Casey Schmitt, Daniel Susac, Harrison Bader 외 다수 / Pittsburgh Pirates IL: Endy Rodríguez, Kirby Yates, Konnor Griffin, Mitch Keller, Ryan O'Hearn",
     "kalshi_prob": 63.0,
     "edge": -11.2,

@@ -8636,6 +8636,28 @@
       "away_bp_score": 44.4,
       "home_bp_score": 58.1,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-03",
+      "away": "San Francisco Giants",
+      "home": "Pittsburgh Pirates",
+      "game_number": 1,
+      "pick": "Pittsburgh Pirates",
+      "pick_prob": 51.8,
+      "actual_winner": "Pittsburgh Pirates",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 5.23,
+      "home_sp_era": 2.66,
+      "away_bp_era": 4.46,
+      "home_bp_era": 3.67,
+      "away_sp_score": 30.0,
+      "home_sp_score": 48.4,
+      "away_bp_score": 52.2,
+      "home_bp_score": 49.0,
+      "bat_source": "lineup"
     }
   ]
 }
