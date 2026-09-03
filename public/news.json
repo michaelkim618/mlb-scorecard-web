@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-02T23:40:31.927899+00:00",
+  "updated_at": "2026-09-03T00:27:04.497879+00:00",
   "news": [
+    {
+      "title": "Painter twirls 7 scoreless frames before bullpen allows winning run",
+      "link": "https://www.mlb.com/news/andrew-painter-tosses-seven-scoreless-innings-in-phillies-loss-to-d-backs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ar36ud8lilbu9mfyxoct",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Michael Reynolds",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-03T00:04:00+00:00",
+      "time_ago": "23m ago"
+    },
+    {
+      "title": "Acuña Jr. fastest in MLB history to reach 200 HRs and 200 SBs",
+      "link": "https://www.mlb.com/news/ronald-acuna-jr-fastest-to-200-homers-and-200-stolen-bases",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/k61a1wxfttawad96t9fn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Nicholas Quillen",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-02T23:58:00+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "Young fan immediately hands ball to a kid, who thanks him with a hug",
+      "link": "https://www.mlb.com/news/young-fan-catches-foul-ball-gives-it-to-younger-kid-beside-him",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iunsj5cduyfs3tzsvwyc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mandy Randhawa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T23:54:29+00:00",
+      "time_ago": "32m ago"
+    },
+    {
+      "title": "Could this swing mark the return of vintage Vladdy?",
+      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-hits-3-run-homer-against-guardians",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788393083/mlb/k1i7svb5fwpo9weefjs8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T23:53:12+00:00",
+      "time_ago": "33m ago"
+    },
+    {
+      "title": "McCann's first-pitch go-ahead HR in 8th snaps D-backs' 3-game slide",
+      "link": "https://www.mlb.com/news/james-mccann-hits-go-ahead-homer-in-diamondbacks-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788386913/mlb/c6vpervswhbqaiay03ig",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Steve Gilbert",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-02T23:49:00+00:00",
+      "time_ago": "38m ago"
+    },
     {
       "title": "Mariners collect 12 hits to back Wilson's bold new approach to bullpen",
       "link": "https://www.mlb.com/news/mariners-collect-12-hits-in-series-win-over-red-sox",
@@ -12,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T23:22:22+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rockies prevail in a game of inches (literally) to walk-off Orioles in extras",
@@ -25,20 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-02T22:55:55+00:00",
-      "time_ago": "44m ago"
-    },
-    {
-      "title": "Acuña Jr. fastest in MLB history to reach 200 HRs and 200 SBs",
-      "link": "https://www.mlb.com/news/ronald-acuna-jr-fastest-to-200-homers-and-200-stolen-bases",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/k61a1wxfttawad96t9fn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Nicholas Quillen",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-02T22:54:00+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Each team's hottest pitching prospect right now",
@@ -51,58 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T22:45:00+00:00",
-      "time_ago": "55m ago"
-    },
-    {
-      "title": "Ryan (glute strain) could return to Twins during road trip",
-      "link": "https://www.mlb.com/news/joe-ryan-close-to-rejoining-twins-after-glute-strain",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cwskvuprk0oroi7mtx53",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-02T22:36:06+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "O'Hearn, Pirates celebrate special fan's birthday with gameday experience",
-      "link": "https://www.mlb.com/news/ryan-o-hearn-pirates-headstrong-give-young-fan-birthday-to-remember",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ef9kjvqfxxqwg7638gll",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T22:28:47+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Watch LIVE: Rehabbing Pirates SS Griffin faces Tigers' Anderson in Triple-A action",
-      "link": "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f7kqxh4mlwxmdefvqdl2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brendan Samson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T22:26:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Musgrove's return pushed back again due to right arm soreness",
-      "link": "https://www.mlb.com/news/joe-musgrove-experiences-setback-in-return",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/owmrajznkeqapy4smeiq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T22:07:11+00:00",
       "time_ago": "1h ago"
     }
   ]
