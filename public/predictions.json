@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-09-03",
-    "status": "Preview",
+    "status": "Live",
     "game_time": "9:35 AM PT",
     "game_number": 1,
     "doubleheader": false,
@@ -220,20 +220,9 @@
     "home_pitcher_stats": {
       "wins": 1,
       "losses": 3,
-      "era": "3.70"
+      "era": "3.69"
     },
     "home_pitcher_gamelog": [
-      {
-        "date": "2026-07-30",
-        "opp": "@ NYM",
-        "decision": null,
-        "ip": "1.0",
-        "er": 0,
-        "h": 0,
-        "bb": 0,
-        "so": 0,
-        "era": 0.0
-      },
       {
         "date": "2026-08-01",
         "opp": "@ NYM",
@@ -332,16 +321,27 @@
         "bb": 0,
         "so": 2,
         "era": 3.86
+      },
+      {
+        "date": "2026-09-03",
+        "opp": "vs SF",
+        "decision": null,
+        "ip": "0.2",
+        "er": 0,
+        "h": 0,
+        "bb": 1,
+        "so": 2,
+        "era": 0.0
       }
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 48.5,
-      "home": 51.5
+      "away": 48.2,
+      "home": 51.8
     },
     "expected_score": {
-      "away": 3.3,
-      "home": 2.0
+      "away": 3.1,
+      "home": 1.9
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -446,21 +446,21 @@
           "closer_era": 3.13,
           "closer_name": "Dylan Smith"
         },
-        "bat_score": 47.9,
+        "bat_score": 44.9,
         "bat_detail": {
-          "recent_avg": 0.287,
-          "runs_per_g": 6.1,
-          "hr_per_g": 1.3,
+          "recent_avg": 0.285,
+          "runs_per_g": 5.6,
+          "hr_per_g": 1.2,
           "bb_per_g": 3.0,
-          "season_ops": 0.766,
-          "season_avg": 0.287,
+          "season_ops": 0.764,
+          "season_avg": 0.285,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Drew Gilbert(0.738)",
-            "Rafael Devers(1.140)",
+            "Drew Gilbert(0.752)",
+            "Rafael Devers(1.103)",
             "Bryce Eldridge(0.911)",
             "Jonah Cox(1.058)",
             "Turner Hill(0.890)",
@@ -473,14 +473,14 @@
             {
               "id": 687551,
               "name": "Drew Gilbert",
-              "ops": 0.738,
-              "avg": 0.2
+              "ops": 0.752,
+              "avg": 0.208
             },
             {
               "id": 646240,
               "name": "Rafael Devers",
-              "ops": 1.14,
-              "avg": 0.421
+              "ops": 1.103,
+              "avg": 0.4
             },
             {
               "id": 805811,
@@ -526,8 +526,8 @@
             }
           ],
           "bat_trend": "stable",
-          "last5_rpg": 6.4,
-          "last5_avg": 0.272,
+          "last5_rpg": 6.2,
+          "last5_avg": 0.297,
           "home_split": {
             "recent_avg": 0.257,
             "runs_per_g": 5.3,
@@ -542,23 +542,23 @@
           }
         },
         "sit_score": 45.2,
-        "total": 47.1
+        "total": 46.1
       },
       "home": {
-        "sp_score": 48.8,
+        "sp_score": 48.4,
         "sp_detail": {
-          "era": 2.61,
-          "whip": 0.92,
-          "k9": 7.8,
-          "avg_ip": 2.1,
+          "era": 2.66,
+          "whip": 0.98,
+          "k9": 8.9,
+          "avg_ip": 2.0,
           "qs_rate": 0.0,
-          "last3_era": 1.86,
-          "last_start_era": 3.86,
+          "last3_era": 2.45,
+          "last_start_era": 0.0,
           "last2_eras": [
-            0.0,
-            3.86
+            3.86,
+            0.0
           ],
-          "recent_avg_era": 3.86,
+          "recent_avg_era": 0.0,
           "recent_bad_start": false,
           "trend": "cold",
           "n_games": 10,
@@ -585,25 +585,25 @@
             {
               "code": "FF",
               "abbr": "FB",
-              "pct": 29.0,
+              "pct": 29.2,
               "velo": 94.5
             },
             {
               "code": "SL",
               "abbr": "SL",
-              "pct": 24.0,
+              "pct": 23.9,
               "velo": 89.8
             },
             {
               "code": "CU",
               "abbr": "CB",
-              "pct": 18.1,
+              "pct": 18.0,
               "velo": 86.3
             },
             {
               "code": "ST",
               "abbr": "SW",
-              "pct": 16.0,
+              "pct": 16.1,
               "velo": 86.5
             },
             {
@@ -615,31 +615,31 @@
             {
               "code": "SI",
               "abbr": "SI",
-              "pct": 4.7,
+              "pct": 4.6,
               "velo": 93.2
             }
           ]
         },
-        "bp_score": 49.3,
+        "bp_score": 49.0,
         "bp_detail": {
-          "bullpen_era": 3.72,
-          "recent_era": 5.25,
-          "recent_appearances": 14,
-          "recent_ip": 12.0,
-          "team_era": 3.87,
-          "bp_ip": 343.3,
+          "bullpen_era": 3.67,
+          "recent_era": 5.73,
+          "recent_appearances": 13,
+          "recent_ip": 11.0,
+          "team_era": 3.85,
+          "bp_ip": 311.7,
           "bp_count": 7,
           "closer_era": 3.17,
           "closer_name": "Gregory Soto"
         },
-        "bat_score": 26.3,
+        "bat_score": 25.3,
         "bat_detail": {
-          "recent_avg": 0.237,
-          "runs_per_g": 3.6,
+          "recent_avg": 0.238,
+          "runs_per_g": 3.3,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
-          "season_ops": 0.685,
-          "season_avg": 0.237,
+          "season_ops": 0.687,
+          "season_avg": 0.238,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -651,7 +651,7 @@
             "Nick Gonzales(0.736)",
             "Oneil Cruz(0.828)",
             "Jake Mangum(0.540)",
-            "Rafael Flores Jr.(0.578)",
+            "Rafael Flores Jr.(0.601)",
             "Jacob Gonzalez(0.604)",
             "Jared Triolo(0.719)"
           ],
@@ -695,8 +695,8 @@
             {
               "id": 804668,
               "name": "Rafael Flores Jr.",
-              "ops": 0.578,
-              "avg": 0.088
+              "ops": 0.601,
+              "avg": 0.1
             },
             {
               "id": 694378,
@@ -712,12 +712,12 @@
             }
           ],
           "bat_trend": "hot",
-          "last5_rpg": 5.8,
-          "last5_avg": 0.281,
+          "last5_rpg": 5.6,
+          "last5_avg": 0.299,
           "home_split": {
-            "recent_avg": 0.263,
-            "runs_per_g": 5.6,
-            "hr_per_g": 0.9,
+            "recent_avg": 0.254,
+            "runs_per_g": 4.7,
+            "hr_per_g": 0.8,
             "n_games": 10
           },
           "away_split": {
@@ -727,15 +727,15 @@
             "n_games": 10
           }
         },
-        "sit_score": 44.8,
-        "total": 45.1
+        "sit_score": 43.8,
+        "total": 44.4
       }
     },
     "scores": {
-      "away_offense": 47.9,
+      "away_offense": 44.9,
       "away_defense": 41.1,
-      "home_offense": 26.3,
-      "home_defense": 49.0
+      "home_offense": 25.3,
+      "home_defense": 48.7
     },
     "actual_score": {
       "away": 0,
@@ -751,9 +751,9 @@
     "actual_winner": null,
     "model_winner": "Pittsburgh Pirates",
     "model_correct": null,
-    "notes": "San Francisco Giants IL: Adrian Houser, Carson Whisenhunt, Casey Schmitt, Daniel Susac, Harrison Bader 외 다수 / Pittsburgh Pirates IL: Endy Rodríguez, Konnor Griffin, Mitch Keller, Ryan O'Hearn",
-    "kalshi_prob": 60.0,
-    "edge": -8.5,
+    "notes": "San Francisco Giants IL: Adrian Houser, Carson Whisenhunt, Casey Schmitt, Daniel Susac, Harrison Bader 외 다수 / Pittsburgh Pirates IL: Endy Rodríguez, Kirby Yates, Konnor Griffin, Mitch Keller, Ryan O'Hearn",
+    "kalshi_prob": 63.0,
+    "edge": -11.2,
     "value_bet": "⏭️ 패스 (박빙 경기 — 예측 신뢰도 낮음)",
     "extreme_edge": false,
     "consensus": false,
@@ -761,8 +761,8 @@
     "sp_bat_conflict_detail": {
       "sp_favors": "Pittsburgh Pirates",
       "bat_favors": "San Francisco Giants",
-      "sp_gap": -18.8,
-      "bat_gap": 21.6
+      "sp_gap": -18.4,
+      "bat_gap": 19.6
     },
     "low_confidence": false,
     "low_confidence_reason": null,
@@ -2153,7 +2153,7 @@
             "Christian Walker(0.558)",
             "Taylor Trammell(0.565)",
             "Yainer Diaz(0.795)",
-            "LaMonte Wade Jr.(0.581)"
+            "LaMonte Wade(0.581)"
           ],
           "lineup_players": [
             {
@@ -2206,7 +2206,7 @@
             },
             {
               "id": 664774,
-              "name": "LaMonte Wade Jr.",
+              "name": "LaMonte Wade",
               "ops": 0.581,
               "avg": 0.13
             }
@@ -2903,7 +2903,7 @@
             "Jackson Holliday(0.658)",
             "Pete Alonso(0.794)",
             "Gunnar Henderson(0.712)",
-            "Luis Robert Jr.(0.810)",
+            "Luis Robert(0.810)",
             "Samuel Basallo(0.621)",
             "Coby Mayo(0.781)",
             "Dylan Beavers(0.738)",
@@ -2931,7 +2931,7 @@
             },
             {
               "id": 673357,
-              "name": "Luis Robert Jr.",
+              "name": "Luis Robert",
               "ops": 0.81,
               "avg": 0.257
             },
@@ -5247,9 +5247,9 @@
     "model_winner": "Texas Rangers",
     "model_correct": null,
     "notes": "Tampa Bay Rays IL: Ben Williamson, Cole Sulser, Edwin Uceta, Gavin Lux, Jake Fraley 외 다수 / Texas Rangers IL: Carter Baumler, Cole Winn, Jack Leiter, Jalen Beeks, Jose Corniell 외 다수",
-    "kalshi_prob": 46.0,
-    "edge": 9.7,
-    "value_bet": "⚠️ VB주의(선발Hot·edge부족 9.7%p<14.0%p)",
+    "kalshi_prob": 45.0,
+    "edge": 10.7,
+    "value_bet": "⚠️ VB주의(선발Hot·edge부족 10.7%p<14.0%p)",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
@@ -6581,8 +6581,8 @@
     "model_winner": "Los Angeles Dodgers",
     "model_correct": null,
     "notes": "St. Louis Cardinals IL: Andre Pallante, Blaze Jordan, Everson Pereira, Hunter Dobbins, JJ Wetherholt 외 다수 / Los Angeles Dodgers IL: Andy Pages, Ben Casparius, Bobby Miller, Brusdar Graterol, Edwin Díaz 외 다수",
-    "kalshi_prob": 72.0,
-    "edge": -12.2,
+    "kalshi_prob": 73.0,
+    "edge": -13.2,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Los Angeles Dodgers)",
     "extreme_edge": false,
     "consensus": false,
