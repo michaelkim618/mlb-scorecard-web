@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-09-03T22:13:06.093274+00:00",
+  "updated_at": "2026-09-03T22:34:51.432208+00:00",
   "news": [
     {
       "title": "Blue Jays secure tiebreaker with Guardians in tight AL Wild Card chase",
       "link": "https://www.mlb.com/news/blue-jays-gain-on-guardians-in-al-wild-card-race",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wzl85wzbytm6f2omfmql",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788471751/mlb/wzl85wzbytm6f2omfmql",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Keegan Matheson",
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-03T21:38:00+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "56m ago"
     },
     {
       "title": "Pirates keep rolling in home stretch with pivotal reinforcement on the horizon",
@@ -25,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T21:16:00+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "First-place Astros secure 3rd straight series win behind Brown's 7-K gem",
@@ -51,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-03T20:17:40+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "They still got it! These big leaguers-turned-coaches show their teams how it's done",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T17:14:57+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     }
   ]
 }
