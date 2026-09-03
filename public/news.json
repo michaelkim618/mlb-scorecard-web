@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-03T18:45:35.798928+00:00",
+  "updated_at": "2026-09-03T19:11:30.744563+00:00",
   "news": [
+    {
+      "title": "They still got it! These big leaguers-turned-coaches show their teams how it's done",
+      "link": "https://www.mlb.com/news/don-mattingly-mitch-stetter-make-barehanded-plays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ecxczbcpnhj4ev5dgdic",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-03T18:08:06+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Rushing ready to embrace limited role for Dodgers down the stretch",
+      "link": "https://www.mlb.com/news/dalton-rushing-activated-from-injured-list-placed-in-bench-role",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mt1jcj1rn5umuuti0nhj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-03T18:00:08+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Watch LIVE: Top 100 prospects Arroyo (SEA), Condon (COL) clash in Triple-A matinee",
+      "link": "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f7kqxh4mlwxmdefvqdl2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brendan Samson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-03T17:58:00+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "He beat cancer, told his inspirational story at Nike RBI World Series",
       "link": "https://www.mlb.com/news/anthony-onnembo-beat-cancer-played-at-nike-rbi-world-series",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T16:06:34+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Griffin (finger) expected to return from 60-day IL on Friday",
@@ -38,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-03T15:58:15+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Clark and Jenkins have shared fields for a while. Now they're division rivals",
@@ -51,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-03T15:51:44+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "250 for 250: Top 10 individual seasons",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T15:34:06+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "These are the MLB monthly award winners for August",
-      "link": "https://www.mlb.com/news/mlb-monthly-awards-for-august-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a7yiqxx3umbenbf2krtk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-09-03T15:16:34+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "How Yankees are prepping for a pivotal stretch run",
-      "link": "https://www.mlb.com/news/yankees-gearing-up-for-stretch-run-playoffs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dy0nyqyvfagsizjzic82",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Courtney Hollmon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-03T15:07:36+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Montes and Arozarena's budding bromance has been brewing for a year",
-      "link": "https://www.mlb.com/news/randy-arozarena-takes-lazaro-montes-under-his-wing-in-debut-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tmhjzkcezinly0qult3u",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-03T15:01:35+00:00",
       "time_ago": "3h ago"
     }
   ]
