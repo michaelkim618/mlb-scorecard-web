@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-09-02-daily-hana",
+      "title": "Sep 2 Results: When the Underdogs Have Their Day",
+      "author": "Hana",
+      "author_emoji": "🌸",
+      "author_color": "#EC4899",
+      "author_role": "Story Writer",
+      "date": "2026-09-02",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#EC4899",
+      "read_time": "3 min",
+      "summary": "A humbling 6-9 day as favorites stumbled across the board—here's what happened"
+    },
+    {
       "slug": "2026-09-01-daily-rico",
       "title": "Sep 1 Results: Let Me Be Honest, That Padres Pick Was Embarrassing",
       "author": "Rico",
