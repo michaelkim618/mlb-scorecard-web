@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-03T17:03:50.553672+00:00",
+  "updated_at": "2026-09-03T17:38:54.609515+00:00",
   "news": [
+    {
+      "title": "He beat cancer, told his inspirational story at Nike RBI World Series",
+      "link": "https://www.mlb.com/news/anthony-onnembo-beat-cancer-played-at-nike-rbi-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qmn7unj4wimhb9fnjq1h",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Perla Paredes",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-03T17:14:57+00:00",
+      "time_ago": "23m ago"
+    },
     {
       "title": "Kendrick shares stories of Negro Leagues, NLBM expansion on 6-1-1 Podcast",
       "link": "https://www.mlb.com/news/ryan-howard-jimmy-rollins-host-bob-kendrick-on-6-1-1-podcast",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T16:06:34+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Griffin (finger) expected to return from 60-day IL on Friday",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T15:34:06+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "These are the MLB monthly award winners for August",
@@ -64,7 +77,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-09-03T15:16:34+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "How Yankees are prepping for a pivotal stretch run",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T15:07:36+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Montes and Arozarena's budding bromance has been brewing for a year",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T15:01:35+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Tong could be called up as early as next week in Miami",
-      "link": "https://www.mlb.com/news/jonah-tong-call-up-to-mets-is-under-discussion",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oun2dvuko0moj36tkijp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-03T15:00:07+00:00",
       "time_ago": "2h ago"
     }
   ]
