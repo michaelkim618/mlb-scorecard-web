@@ -1,11 +1,11 @@
 {
-  "title": "Sep 2 Results: When the Underdogs Have Their Day",
-  "summary": "A humbling 6-9 day as favorites stumbled across the board—here's what happened",
+  "title": "Sep 2 Results: When the Favorites Don't Show Up",
+  "summary": "A tough 6-9 day as heavy favorites stumbled across the board",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Here's the Thing About September Baseball\n\nSometimes the numbers tell you one story, and the game tells you another. Today was one of those days where our model's confidence ran headfirst into baseball's beautiful unpredictability. We went 6-9 on September 2nd, and honestly? It stings a little. But let's dig into what happened out there."
+      "value": "## Here's the Thing About Baseball\n\nSometimes the game just doesn't care about your confidence levels. September 2nd was one of those humbling days where our strongest picks—the ones we felt really good about—decided to teach us a lesson in baseball unpredictability. We finished 6-9, hitting just 40% of our predictions. Ouch."
     },
     {
       "type": "stat_row",
@@ -19,41 +19,37 @@
           "value": "40.0%"
         },
         {
-          "label": "Avg Confidence",
-          "value": "57.8%"
-        },
-        {
-          "label": "Games Analyzed",
-          "value": "15"
+          "label": "Correct Picks",
+          "value": "6 of 15"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Favorites That Fell\n\nHere's where it hurt: we had seven picks with 56% confidence or higher, and only three of them came through. The Orioles at 61%? Lost in Colorado. The White Sox at 61%? Couldn't hold serve at home against Seattle. The Rays at 61%? The Mets had other plans. When your high-confidence picks go 3-4, that's the kind of day that keeps you humble in this business."
+      "value": "## The High-Confidence Heartbreaks\n\nThe really tough part? Our highest confidence picks were the ones that hurt most. The Blue Jays at 62% delivered, thankfully. But the Mariners pick at 61%? The Orioles at 61%? The Rays at 61%? All three went down. When you're betting on the favorites and they don't show up, that's when a day goes sideways fast."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Today's Prediction Confidence vs Results",
+      "title": "Today's Prediction Results by Confidence Level",
       "data": [
         {
-          "name": "Padres",
-          "probability": 56,
-          "result": 0
-        },
-        {
-          "name": "Braves",
-          "probability": 52,
+          "name": "Blue Jays",
+          "probability": 62,
           "result": 1
         },
         {
-          "name": "Rangers",
-          "probability": 50,
+          "name": "Orioles",
+          "probability": 61,
           "result": 0
         },
         {
-          "name": "Orioles",
+          "name": "White Sox",
+          "probability": 61,
+          "result": 0
+        },
+        {
+          "name": "Rays",
           "probability": 61,
           "result": 0
         },
@@ -63,8 +59,8 @@
           "result": 0
         },
         {
-          "name": "White Sox",
-          "probability": 61,
+          "name": "Padres",
+          "probability": 56,
           "result": 0
         },
         {
@@ -73,18 +69,18 @@
           "result": 1
         },
         {
-          "name": "Rays",
-          "probability": 61,
-          "result": 0
-        },
-        {
-          "name": "Blue Jays",
-          "probability": 62,
+          "name": "Braves",
+          "probability": 52,
           "result": 1
         },
         {
           "name": "Twins",
           "probability": 52,
+          "result": 0
+        },
+        {
+          "name": "Rangers",
+          "probability": 50,
           "result": 0
         }
       ],
@@ -103,8 +99,12 @@
       ]
     },
     {
+      "type": "text",
+      "value": "## The Bright Spots\n\nLet's not bury the wins completely. The Blue Jays came through as our top pick, justifying that 62% confidence. The Giants squeaked out a win in Pittsburgh at 56%, and the Braves handled business against the Nationals at 52%. These weren't coin flips—they were solid reads that held up when it mattered."
+    },
+    {
       "type": "table",
-      "title": "Complete September 2nd Results",
+      "title": "Complete Game-by-Game Breakdown",
       "headers": [
         "Matchup",
         "Our Pick",
@@ -113,85 +113,81 @@
       ],
       "rows": [
         [
-          "Padres @ Reds",
-          "Padres",
-          "56%",
-          "✗"
-        ],
-        [
-          "Braves @ Nationals",
-          "Braves",
-          "52%",
-          "✓"
-        ],
-        [
-          "Athletics @ Rangers",
-          "Rangers",
-          "50%",
-          "✗"
+          "Blue Jays @ Guardians",
+          "Blue Jays",
+          "62%",
+          "✓ Hit"
         ],
         [
           "Orioles @ Rockies",
           "Orioles",
           "61%",
-          "✗"
-        ],
-        [
-          "Phillies @ Diamondbacks",
-          "Phillies",
-          "57%",
-          "✗"
+          "✗ Miss"
         ],
         [
           "Mariners @ White Sox",
           "White Sox",
           "61%",
-          "✗"
-        ],
-        [
-          "Giants @ Pirates",
-          "Giants",
-          "56%",
-          "✓"
+          "✗ Miss"
         ],
         [
           "Mets @ Rays",
           "Rays",
           "61%",
-          "✗"
+          "✗ Miss"
         ],
         [
-          "Blue Jays @ Guardians",
-          "Blue Jays",
-          "62%",
-          "✓"
+          "Phillies @ Diamondbacks",
+          "Phillies",
+          "57%",
+          "✗ Miss"
+        ],
+        [
+          "Padres @ Reds",
+          "Padres",
+          "56%",
+          "✗ Miss"
+        ],
+        [
+          "Giants @ Pirates",
+          "Giants",
+          "56%",
+          "✓ Hit"
+        ],
+        [
+          "Braves @ Nationals",
+          "Braves",
+          "52%",
+          "✓ Hit"
         ],
         [
           "Tigers @ Twins",
           "Twins",
           "52%",
-          "✗"
+          "✗ Miss"
+        ],
+        [
+          "Athletics @ Rangers",
+          "Rangers",
+          "50%",
+          "✗ Miss"
         ]
       ]
     },
     {
       "type": "text",
-      "value": "## The Bright Spots\n\nNot everything went sideways. The Blue Jays came through as our most confident pick at 62%, taking care of business against Cleveland. The Braves did what road favorites do against Washington. And the Giants? They showed up in Pittsburgh exactly like we thought they would. Those three wins keep us honest and remind us that the model isn't broken—baseball is just baseball."
-    },
-    {
-      "type": "text",
-      "value": "## What We're Learning\n\nDays like this are actually valuable. When high-confidence picks miss, it tells us something about what our model might be underweighting—maybe late-season fatigue, maybe momentum shifts we can't quite capture in the numbers. The Rangers-Athletics game was essentially a coin flip at 50%, and we got it wrong. The Twins-Tigers matchup at 52%? Same story. When you're barely leaning one way and the other team wins, that's not a miss—that's just variance doing its thing."
+      "value": "## What Went Wrong\n\nThe story of the day was favorites failing to live up to expectations. The Orioles losing to the Rockies in Colorado? That's baseball in the thin air. The Rays falling to the Mets? New York's been scrappy. The White Sox beating the Mariners? Well, even a struggling team wins sometimes.\n\nBut here's what these misses tell us: September baseball is different. Teams are fighting for playoff position or playing spoiler. The urgency changes everything, and sometimes the numbers from August don't translate to September reality."
     },
     {
       "type": "highlight_box",
       "color": "#EF4444",
-      "title": "📊 Reality Check",
-      "value": "40% accuracy on 15 games",
-      "sub": "Our high-confidence picks (60%+) went 3-4 today—a reminder that confidence isn't certainty"
+      "title": "💭 Lesson Learned",
+      "value": "High confidence doesn't guarantee wins—it just means we liked the matchup.",
+      "sub": "Baseball always gets the last word"
     },
     {
       "type": "text",
-      "value": "## No Games Tomorrow\n\nHere's the silver lining: the schedule gods have given us a day off. No games tomorrow means no picks to stress over, no results to check compulsively. It's a chance to reset, recalibrate, and come back stronger. In this marathon of a season, sometimes an off-day is exactly what you need.\n\nWe'll be back soon with fresh analysis and hopefully sharper predictions. Until then, remember: in baseball, even the best teams lose 60 games a year. We're all just trying to beat the odds a little more often than not."
+      "value": "## Looking Ahead\n\nNo games tomorrow means we get a rare day to step back, review what happened, and recalibrate. Days like September 2nd sting, but they're also the best teachers. We'll dig into why those heavy favorites stumbled, adjust our models where needed, and come back ready for the next slate.\n\nBecause here's the thing about baseball—there's always another game, another chance to get it right. That's what September is all about."
     }
   ],
   "slug": "2026-09-02-daily-hana",
