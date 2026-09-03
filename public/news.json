@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-03T15:13:58.085737+00:00",
+  "updated_at": "2026-09-03T15:45:11.554435+00:00",
   "news": [
+    {
+      "title": "These are the MLB monthly award winners for August",
+      "link": "https://www.mlb.com/news/mlb-monthly-awards-for-august-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a7yiqxx3umbenbf2krtk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-09-03T15:16:34+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "How Yankees are prepping for a pivotal stretch run",
+      "link": "https://www.mlb.com/news/yankees-gearing-up-for-stretch-run-playoffs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dy0nyqyvfagsizjzic82",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Courtney Hollmon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-03T15:07:36+00:00",
+      "time_ago": "37m ago"
+    },
+    {
+      "title": "Montes and Arozarena's budding bromance has been brewing for a year",
+      "link": "https://www.mlb.com/news/randy-arozarena-takes-lazaro-montes-under-his-wing-in-debut-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tmhjzkcezinly0qult3u",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-03T15:01:35+00:00",
+      "time_ago": "43m ago"
+    },
+    {
+      "title": "Tong could be called up as early as next week in Miami",
+      "link": "https://www.mlb.com/news/jonah-tong-call-up-to-mets-is-under-discussion",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oun2dvuko0moj36tkijp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-03T15:00:07+00:00",
+      "time_ago": "45m ago"
+    },
+    {
+      "title": "Cease's durability continues to define his dominant year",
+      "link": "https://www.mlb.com/news/dylan-cease-continues-stay-in-cy-young-competition",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/r1ictlsoecnww8qwzxnw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-03T14:51:54+00:00",
+      "time_ago": "53m ago"
+    },
     {
       "title": "They may have lost 39 straight to set a record, but this team is still proud to play the game",
       "link": "https://www.mlb.com/news/redpocket-mobiles-minor-league-record-39th-straight-loss",
@@ -39,71 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T11:58:29+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "Stewart a lock for NL Rookie of the Year? The numbers back it up",
-      "link": "https://www.mlb.com/news/sal-stewart-legendary-rookie-season-reds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nmndbydklvuj68ntjhh3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jackson Stone",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-03T11:45:32+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "McFarlane's big strikeout has Phillies' clubhouse talking",
-      "link": "https://www.mlb.com/news/rookie-alex-mcfarlane-pitching-key-innings-for-phillies-down-stretch",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tn8gpzjaiirfo4texxwm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Michael Reynolds",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-03T11:36:46+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "One key goal for Braves before October? Improve ABS acumen",
-      "link": "https://www.mlb.com/news/braves-look-to-improve-on-abs-challenges",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788397504/mlb/fcwwgnavt5ujqt22pmus",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Foster",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-03T11:30:16+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Suit up! Simpson gets call to The Show while being fitted, wins MLB debut",
-      "link": "https://www.mlb.com/news/jared-simpson-earns-first-career-win-in-mlb-debut",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/feizcbkbmlu9zjklwtoj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jessica Camerato",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-03T11:22:29+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Yamamoto, Dodgers dominate through 6, but falter in late innings",
-      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-strikes-out-8-in-7-innings-vs-cardinals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rgdqiixmpwqwwxtd8zk8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-03T07:31:00+00:00",
-      "time_ago": "7h ago"
     }
   ]
 }
