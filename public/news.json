@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-03T01:10:24.993253+00:00",
+  "updated_at": "2026-09-03T01:36:17.437642+00:00",
   "news": [
+    {
+      "title": "Watch FREE: Top 100 prospects Arroyo (SEA), Condon (COL) clash at Triple-A on Thurs.",
+      "link": "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f7kqxh4mlwxmdefvqdl2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brendan Samson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-03T01:19:00+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Schmidt moves closer to Yankees return with 2nd rehab start",
+      "link": "https://www.mlb.com/news/clarke-schmidt-second-rehab-start-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/m6lu2rogpusn1dmkhfrk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-03T01:15:00+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "Amador's long journey culminates as winning run as Rox walk it off in extras",
+      "link": "https://www.mlb.com/news/brett-sullivan-walk-off-11th-inning-rockies-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x93gdk60qe1xflxb98j2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harding",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-03T01:14:00+00:00",
+      "time_ago": "22m ago"
+    },
     {
       "title": "Mariners collect 12 hits to back Wilson's bold new approach to bullpen",
       "link": "https://www.mlb.com/news/mariners-collect-12-hits-in-series-win-over-red-sox",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T00:49:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "Painter twirls 7 scoreless frames before bullpen allows winning run",
@@ -65,45 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T23:53:12+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "McCann's first-pitch go-ahead HR in 8th snaps D-backs' 3-game slide",
-      "link": "https://www.mlb.com/news/james-mccann-hits-go-ahead-homer-in-diamondbacks-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788386913/mlb/c6vpervswhbqaiay03ig",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-02T23:49:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Cabrera takes first step toward returning as reliever with rehab outing",
-      "link": "https://www.mlb.com/news/edward-cabrera-makes-minor-league-rehab-relief-appearance",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jm09ihvwvyryxg3zylnd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T23:09:59+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Rockies prevail in a game of inches (literally) to walk-off Orioles in extras",
-      "link": "https://www.mlb.com/news/brett-sullivan-walk-off-11th-inning-rockies-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/twv9utwafujyqz1bedl6",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harding",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-02T22:55:55+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
