@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-03T22:34:51.432208+00:00",
+  "updated_at": "2026-09-03T23:04:08.642188+00:00",
   "news": [
+    {
+      "title": "Ohtani not in lineup day after going 0-for-4 with 4 strikeouts",
+      "link": "https://www.mlb.com/news/shohei-ohtani-out-of-dodgers-starting-lineup-september-3-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vhn0muywpcqciaqabhpa",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-03T22:48:00+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Brown bears down for 6 strong frames as Astros eye AL's No. 2 seed",
+      "link": "https://www.mlb.com/news/hunter-brown-six-strong-innings-astros-beat-white-sox",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ixe8ni3xwu2mzbqmgksr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-03T22:35:00+00:00",
+      "time_ago": "29m ago"
+    },
     {
       "title": "Blue Jays secure tiebreaker with Guardians in tight AL Wild Card chase",
       "link": "https://www.mlb.com/news/blue-jays-gain-on-guardians-in-al-wild-card-race",
@@ -12,7 +38,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-03T21:38:00+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Pirates keep rolling in home stretch with pivotal reinforcement on the horizon",
@@ -25,19 +51,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T21:16:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "First-place Astros secure 3rd straight series win behind Brown's 7-K gem",
-      "link": "https://www.mlb.com/news/hunter-brown-six-strong-innings-astros-beat-white-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ixe8ni3xwu2mzbqmgksr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-03T20:49:07+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T18:00:08+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Watch Top 100 prospects Quintero (LAD), Caceres (CLE) in High-A action for FREE tonight",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T17:58:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "He beat cancer, told his inspirational story at Nike RBI World Series",
-      "link": "https://www.mlb.com/news/anthony-onnembo-beat-cancer-played-at-nike-rbi-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qmn7unj4wimhb9fnjq1h",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Perla Paredes",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-03T17:14:57+00:00",
       "time_ago": "5h ago"
     }
   ]
