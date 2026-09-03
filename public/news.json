@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T07:07:30.642533+00:00",
+  "updated_at": "2026-09-03T07:14:44.128215+00:00",
   "news": [
     {
       "title": "Schlittler's 'beyond special' season continues with 9 K's in 8 strong innings",
@@ -12,7 +12,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T06:51:00+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "23m ago"
+    },
+    {
+      "title": "Relentless Cards outlast Yamamoto, claim extra-innings win to get back to .500",
+      "link": "https://www.mlb.com/news/thomas-saggese-leads-cardinals-in-extra-innings-win-over-dodgers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qshiukvowsemkqmsczxp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jacob Gurvis",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-03T06:51:00+00:00",
+      "time_ago": "23m ago"
     },
     {
       "title": "Yankees finally conjure some extra-inning magic with 5-run 10th",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T06:35:00+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "39m ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -38,19 +51,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-03T05:35:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Cards outlast Yamamoto, defeat Dodgers in extras to get back to .500",
-      "link": "https://www.mlb.com/news/thomas-saggese-leads-cardinals-in-extra-innings-win-over-dodgers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qshiukvowsemkqmsczxp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jacob Gurvis",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-03T05:23:16+00:00",
       "time_ago": "1h ago"
     },
     {
