@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-03T01:36:17.437642+00:00",
+  "updated_at": "2026-09-03T02:17:53.962924+00:00",
   "news": [
+    {
+      "title": "Miz's streak of 3 ER or less ends at 25 in hard-fought night at Wrigley",
+      "link": "https://www.mlb.com/news/jacob-misiorowski-five-earned-runs-brewers-cubs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ctwrnwp8tr0eqrm3zk20",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-03T02:05:56+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Morabito's timely breakout: 3-run double for 1st hit, diving catch in win",
+      "link": "https://www.mlb.com/news/nick-morabito-s-first-big-league-hit-helps-mets-beat-rays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tzf634n7zz0rqsesin87",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-03T01:42:32+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "Everything you need to know about Angels' sale",
+      "link": "https://www.mlb.com/news/angels-team-sale-ownership-change-faq",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788397728/mlb/slgx8q8wkap82ue0szyf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rhett Bollinger",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-03T01:27:17+00:00",
+      "time_ago": "50m ago"
+    },
     {
       "title": "Watch FREE: Top 100 prospects Arroyo (SEA), Condon (COL) clash at Triple-A on Thurs.",
       "link": "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T01:19:00+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Schmidt moves closer to Yankees return with 2nd rehab start",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T01:15:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Amador's long journey culminates as winning run as Rox walk it off in extras",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T01:14:00+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Mariners collect 12 hits to back Wilson's bold new approach to bullpen",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T00:49:00+00:00",
-      "time_ago": "47m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Painter twirls 7 scoreless frames before bullpen allows winning run",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T00:04:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Acuña Jr. fastest in MLB history to reach 200 HRs and 200 SBs",
-      "link": "https://www.mlb.com/news/ronald-acuna-jr-fastest-to-200-homers-and-200-stolen-bases",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/k61a1wxfttawad96t9fn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Nicholas Quillen",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-02T23:58:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Young fan immediately hands ball to a kid, who thanks him with a hug",
-      "link": "https://www.mlb.com/news/young-fan-catches-foul-ball-gives-it-to-younger-kid-beside-him",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iunsj5cduyfs3tzsvwyc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mandy Randhawa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T23:54:29+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Could this swing mark the return of vintage Vladdy?",
-      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-hits-3-run-homer-against-guardians",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788393083/mlb/k1i7svb5fwpo9weefjs8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T23:53:12+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
