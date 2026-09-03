@@ -8680,6 +8680,28 @@
       "away_bp_score": 70.8,
       "home_bp_score": 72.0,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-03",
+      "away": "Toronto Blue Jays",
+      "home": "Cleveland Guardians",
+      "game_number": 1,
+      "pick": "Toronto Blue Jays",
+      "pick_prob": 50.8,
+      "actual_winner": "Toronto Blue Jays",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 3.7,
+      "home_sp_era": 4.05,
+      "away_bp_era": 3.12,
+      "home_bp_era": 3.13,
+      "away_sp_score": 40.5,
+      "home_sp_score": 32.0,
+      "away_bp_score": 73.0,
+      "home_bp_score": 63.9,
+      "bat_source": "lineup"
     }
   ]
 }
