@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-03T05:24:47.316761+00:00",
+  "updated_at": "2026-09-03T05:30:54.521599+00:00",
   "news": [
+    {
+      "title": "Yamamoto, Dodgers dominate through 6, but falter in late innings",
+      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-strikes-out-8-in-7-innings-vs-cardinals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rgdqiixmpwqwwxtd8zk8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-03T05:15:00+00:00",
+      "time_ago": "15m ago"
+    },
     {
       "title": "Wesneski, Velázquez deliver as Astros take 2-game AL West lead",
       "link": "https://www.mlb.com/news/nelson-velazquez-hayden-wesneski-help-astros-beat-white-sox",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T04:58:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "32m ago"
     },
     {
       "title": "Schlittler tallies another 9 K's in 8 strong innings before Yanks win in extras",
@@ -25,20 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T04:49:00+00:00",
-      "time_ago": "35m ago"
-    },
-    {
-      "title": "Yamamoto takes no-no into 6th, allows pair of 2-run homers",
-      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-strikes-out-8-in-7-innings-vs-cardinals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rgdqiixmpwqwwxtd8zk8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-03T04:34:10+00:00",
-      "time_ago": "50m ago"
+      "time_ago": "41m ago"
     },
     {
       "title": "Crew bats back up Miz after streak of 3 ER or less ends at 25",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T04:29:00+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Morabito's long-awaited breakout: 3-run double for 1st hit, diving catch in win",
