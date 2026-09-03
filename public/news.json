@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-03T21:14:02.430766+00:00",
+  "updated_at": "2026-09-03T21:33:40.056597+00:00",
   "news": [
+    {
+      "title": "Pirates keep rolling in home stretch with pivotal reinforcement on the horizon",
+      "link": "https://www.mlb.com/news/pirates-pitching-giants-series-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wriy3tux3a1xr2xi6a9d",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-03T21:16:00+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Key takeaways: Blue Jays 6, Guardians 3",
+      "link": "https://www.mlb.com/news/blue-jays-gain-on-guardians-in-al-wild-card-race",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wzl85wzbytm6f2omfmql",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-03T20:57:59+00:00",
+      "time_ago": "35m ago"
+    },
     {
       "title": "First-place Astros secure 3rd straight series win behind Brown's 7-K gem",
       "link": "https://www.mlb.com/news/hunter-brown-six-strong-innings-astros-beat-white-sox",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T20:49:07+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "44m ago"
     },
     {
       "title": "Rutschman (elbow) back in Red Sox lineup -- to face Orioles",
@@ -25,19 +51,6 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-03T20:17:40+00:00",
-      "time_ago": "56m ago"
-    },
-    {
-      "title": "Curtis and Co. help Bucs stack up another needed series victory",
-      "link": "https://www.mlb.com/news/pirates-pitching-giants-series-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788466072/mlb/mb07abs8wbxy679hopc1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-03T19:30:15+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T17:14:57+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Kendrick shares stories of Negro Leagues, NLBM expansion on 6-1-1 Podcast",
-      "link": "https://www.mlb.com/news/ryan-howard-jimmy-rollins-host-bob-kendrick-on-6-1-1-podcast",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fjd5tv3evag5igjisi1y",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-03T16:06:34+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
