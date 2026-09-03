@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T05:43:07.017477+00:00",
+  "updated_at": "2026-09-03T05:53:09.761096+00:00",
   "news": [
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -12,7 +12,20 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-03T05:35:00+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Yankees finally conjure some extra-inning magic with 5-run 10th",
+      "link": "https://www.mlb.com/news/yankees-rally-in-10th-inning-to-beat-angels",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lmiz1rh38yx0bzdczccc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Courtney Hollmon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-03T05:27:46+00:00",
+      "time_ago": "25m ago"
     },
     {
       "title": "Cards outlast Yamamoto, defeat Dodgers in extras to get back to .500",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T05:23:16+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "29m ago"
     },
     {
       "title": "Yamamoto, Dodgers dominate through 6, but falter in late innings",
@@ -38,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-03T05:15:00+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Wesneski, Velázquez deliver as Astros take 2-game AL West lead",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T04:58:00+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "Schlittler tallies another 9 K's in 8 strong innings before Yanks win in extras",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T04:49:00+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Crew bats back up Miz after streak of 3 ER or less ends at 25",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T04:04:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Yordan's Hitter Power Rankings reign has ended. Who took him down?",
-      "link": "https://www.mlb.com/news/mlb-hitter-power-rankings-for-september-3-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/z1zkqivhkiikk1b906vb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Andrew Simon",
-      "tag": "Rankings",
-      "tag_color": "#4F46E5",
-      "pub_date": "2026-09-03T03:44:56+00:00",
       "time_ago": "1h ago"
     }
   ]
