@@ -2248,9 +2248,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Houston Astros",
     "model_winner": "Houston Astros",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Chicago White Sox IL: Brooks Baldwin, Chris Murphy, Drew Thorpe, Huascar Brazobán, Joey Bart 외 다수 / Houston Astros IL: Brandon Walter, Brice Matthews, Carlos Correa, Mike Burrows",
     "kalshi_prob": 95.0,
     "edge": -26.4,

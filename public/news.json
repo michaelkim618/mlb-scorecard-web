@@ -1,18 +1,31 @@
 {
-  "updated_at": "2026-09-03T20:09:21.695293+00:00",
+  "updated_at": "2026-09-03T20:34:39.294109+00:00",
   "news": [
+    {
+      "title": "Rutschman (elbow) back in Red Sox lineup -- to face Orioles",
+      "link": "https://www.mlb.com/news/adley-rutschman-returns-for-red-sox-vs-orioles",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yre7js1532nmejdd22de",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-03T20:17:40+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "Curtis and Co. help Bucs stack up another needed series victory",
       "link": "https://www.mlb.com/news/pirates-pitching-giants-series-win",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mb07abs8wbxy679hopc1",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788466072/mlb/mb07abs8wbxy679hopc1",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Aiden Stepansky",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T19:30:15+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "They still got it! These big leaguers-turned-coaches show their teams how it's done",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T17:14:57+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Kendrick shares stories of Negro Leagues, NLBM expansion on 6-1-1 Podcast",
@@ -90,19 +103,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-03T15:58:15+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Clark and Jenkins have shared fields for a while. Now they're division rivals",
-      "link": "https://www.mlb.com/news/max-clark-walker-jenkins-share-longtime-bond",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/m3llwozjokrkbvxilgsi",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Patrick Donnelly",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-03T15:51:44+00:00",
       "time_ago": "4h ago"
     }
   ]
