@@ -5233,8 +5233,8 @@
       "home_defense": 60.1
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -5512,21 +5512,21 @@
     },
     "expected_score": {
       "away": 3.1,
-      "home": 1.9
+      "home": 2.7
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "L",
       "bullpen_game": true,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.35,
-        "bp": 0.3,
-        "bat": 0.28,
+        "sp": 0.31,
+        "bp": 0.32,
+        "bat": 0.3,
         "sit": 0.15
       },
       "away": {
@@ -5608,13 +5608,13 @@
           "closer_era": 3.49,
           "closer_name": "Hogan Harris"
         },
-        "bat_score": 41.4,
+        "bat_score": 42.3,
         "bat_detail": {
           "recent_avg": 0.283,
           "runs_per_g": 5.0,
           "hr_per_g": 1.2,
           "bb_per_g": 3.0,
-          "season_ops": 0.753,
+          "season_ops": 0.769,
           "season_avg": 0.283,
           "n_games": 9,
           "source": "prev_day",
@@ -5627,9 +5627,9 @@
             "Jonah Heim(0.702)",
             "Jeff McNeil(0.746)",
             "Michael Stefanic(0.882)",
-            "Alika Williams(0.806)",
             "Brian Serven(0.777)",
-            "Denzel Clarke(0.460)"
+            "Alika Williams(0.806)",
+            "Max Muncy(0.606)"
           ],
           "lineup_players": [
             {
@@ -5669,22 +5669,22 @@
               "avg": 0.375
             },
             {
-              "id": 675961,
-              "name": "Alika Williams",
-              "ops": 0.806,
-              "avg": 0.269
-            },
-            {
               "id": 661531,
               "name": "Brian Serven",
               "ops": 0.777,
               "avg": 0.243
             },
             {
-              "id": 672016,
-              "name": "Denzel Clarke",
-              "ops": 0.46,
-              "avg": 0.19
+              "id": 675961,
+              "name": "Alika Williams",
+              "ops": 0.806,
+              "avg": 0.269
+            },
+            {
+              "id": 691777,
+              "name": "Max Muncy",
+              "ops": 0.606,
+              "avg": 0.188
             }
           ],
           "bat_trend": "stable",
@@ -5704,10 +5704,10 @@
           }
         },
         "sit_score": 44.8,
-        "total": 43.5
+        "total": 44.4
       },
       "home": {
-        "sp_score": 35.2,
+        "sp_score": 36.4,
         "sp_detail": {
           "era": 4.5,
           "whip": 1.3,
@@ -5767,7 +5767,7 @@
             }
           ]
         },
-        "bp_score": 37.2,
+        "bp_score": 38.5,
         "bp_detail": {
           "bullpen_era": 3.97,
           "recent_era": 6.2,
@@ -5779,14 +5779,14 @@
           "closer_era": 4.29,
           "closer_name": "Andrés Muñoz"
         },
-        "bat_score": 25.0,
+        "bat_score": 36.6,
         "bat_detail": {
-          "recent_avg": 0.211,
+          "recent_avg": 0.246,
           "runs_per_g": 4.4,
           "hr_per_g": 1.4,
           "bb_per_g": 3.0,
-          "season_ops": 0.653,
-          "season_avg": 0.211,
+          "season_ops": 0.818,
+          "season_avg": 0.246,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -5795,12 +5795,12 @@
             "Randy Arozarena(0.845)",
             "Dominic Canzone(0.785)",
             "Julio Rodríguez(0.607)",
+            "Cal Raleigh(0.973)",
             "Josh Naylor(0.634)",
-            "Taylor Ward(0.471)",
             "Cole Young(0.540)",
-            "Weston Wilson(0.611)",
+            "Lazaro Montes(1.850)",
             "J.P. Crawford(0.691)",
-            "Jhonny Pereda(0.690)"
+            "Brock Rodden(0.441)"
           ],
           "lineup_players": [
             {
@@ -5822,16 +5822,16 @@
               "avg": 0.186
             },
             {
+              "id": 663728,
+              "name": "Cal Raleigh",
+              "ops": 0.973,
+              "avg": 0.314
+            },
+            {
               "id": 647304,
               "name": "Josh Naylor",
               "ops": 0.634,
               "avg": 0.268
-            },
-            {
-              "id": 621493,
-              "name": "Taylor Ward",
-              "ops": 0.471,
-              "avg": 0.061
             },
             {
               "id": 702284,
@@ -5840,10 +5840,10 @@
               "avg": 0.108
             },
             {
-              "id": 642215,
-              "name": "Weston Wilson",
-              "ops": 0.611,
-              "avg": 0.222
+              "id": 703155,
+              "name": "Lazaro Montes",
+              "ops": 1.85,
+              "avg": 0.5
             },
             {
               "id": 641487,
@@ -5852,13 +5852,13 @@
               "avg": 0.286
             },
             {
-              "id": 640902,
-              "name": "Jhonny Pereda",
-              "ops": 0.69,
-              "avg": 0.304
+              "id": 801126,
+              "name": "Brock Rodden",
+              "ops": 0.441,
+              "avg": 0.087
             }
           ],
-          "bat_trend": "hot",
+          "bat_trend": "stable",
           "last5_rpg": 5.6,
           "last5_avg": 0.251,
           "home_split": {
@@ -5875,20 +5875,20 @@
           }
         },
         "sit_score": 52.6,
-        "total": 38.4
+        "total": 42.5
       }
     },
     "scores": {
-      "away_offense": 41.4,
+      "away_offense": 42.3,
       "away_defense": 42.4,
-      "home_offense": 25.0,
-      "home_defense": 36.2
+      "home_offense": 36.6,
+      "home_defense": 37.5
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -6581,8 +6581,8 @@
     "model_winner": "Los Angeles Dodgers",
     "model_correct": null,
     "notes": "St. Louis Cardinals IL: Andre Pallante, Blaze Jordan, Everson Pereira, Hunter Dobbins, JJ Wetherholt 외 다수 / Los Angeles Dodgers IL: Andy Pages, Ben Casparius, Bobby Miller, Brusdar Graterol, Edwin Díaz 외 다수",
-    "kalshi_prob": 73.0,
-    "edge": -13.2,
+    "kalshi_prob": 72.0,
+    "edge": -12.2,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Los Angeles Dodgers)",
     "extreme_edge": false,
     "consensus": false,
