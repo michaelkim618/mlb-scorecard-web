@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T00:27:04.497879+00:00",
+  "updated_at": "2026-09-03T00:43:37.356607+00:00",
   "news": [
     {
       "title": "Painter twirls 7 scoreless frames before bullpen allows winning run",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T00:04:00+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "39m ago"
     },
     {
       "title": "Acuña Jr. fastest in MLB history to reach 200 HRs and 200 SBs",
@@ -25,7 +25,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-02T23:58:00+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "Young fan immediately hands ball to a kid, who thanks him with a hug",
@@ -38,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T23:54:29+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "Could this swing mark the return of vintage Vladdy?",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-02T23:53:12+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "McCann's first-pitch go-ahead HR in 8th snaps D-backs' 3-game slide",
@@ -64,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-02T23:49:00+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "Mariners collect 12 hits to back Wilson's bold new approach to bullpen",
@@ -80,6 +80,19 @@
       "time_ago": "1h ago"
     },
     {
+      "title": "Cabrera takes first step toward returning as reliever with rehab outing",
+      "link": "https://www.mlb.com/news/edward-cabrera-makes-minor-league-rehab-relief-appearance",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jm09ihvwvyryxg3zylnd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Sweet",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-02T23:09:59+00:00",
+      "time_ago": "1h ago"
+    },
+    {
       "title": "Rockies prevail in a game of inches (literally) to walk-off Orioles in extras",
       "link": "https://www.mlb.com/news/brett-sullivan-walk-off-11th-inning-rockies-win",
       "summary": "",
@@ -90,19 +103,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-02T22:55:55+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Each team's hottest pitching prospect right now",
-      "link": "https://www.mlb.com/news/each-club-s-hottest-pitching-prospect-august-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hx1ltmerdhwkxd6g749j",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jim Callis and Sam Dykstra",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-02T22:45:00+00:00",
       "time_ago": "1h ago"
     }
   ]
