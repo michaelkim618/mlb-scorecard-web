@@ -1,0 +1,202 @@
+{
+  "title": "Sep 1 Results: Let Me Be Honest, That Padres Pick Was Embarrassing",
+  "summary": "Sep 1 went 10-5, but those three losses? Yeah, we need to talk about that.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Let's Cut Through the Noise\n\nLook, I'm not here to sugarcoat this. Yeah, we went 10-5 on September 1st. Yeah, 66.7% accuracy is solid. But if you think I'm popping champagne over these numbers, you haven't been paying attention. Those three losses—especially that Padres disaster—tell a bigger story than the ten wins combined."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Today W-L",
+          "value": "10-5"
+        },
+        {
+          "label": "Accuracy",
+          "value": "66.7%"
+        },
+        {
+          "label": "High Confidence Misses",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Embarrassing Truth About Our High-Confidence Picks\n\nHere's what nobody wants to admit: we whiffed on our TWO highest confidence picks of the day. The Padres at 63%? Complete disaster. The Rangers at 63%? Actually hit, so I'll give credit where it's due. But that Padres-Reds game? San Diego was supposed to cruise, and instead they faceplanted. That's the kind of loss that keeps you up at night.\n\nAnd don't even get me started on the Braves-Nationals pick. Atlanta at 51% was basically a coin flip, and we picked the wrong side. The Royals letdown at 57%? Another gut punch."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Sep 1 Prediction Confidence vs Results",
+      "data": [
+        {
+          "name": "Padres",
+          "probability": 63,
+          "result": 0
+        },
+        {
+          "name": "Rangers",
+          "probability": 63,
+          "result": 1
+        },
+        {
+          "name": "Rays",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Guardians",
+          "probability": 59,
+          "result": 1
+        },
+        {
+          "name": "Mariners",
+          "probability": 58,
+          "result": 1
+        },
+        {
+          "name": "Twins",
+          "probability": 58,
+          "result": 1
+        },
+        {
+          "name": "Royals",
+          "probability": 57,
+          "result": 0
+        },
+        {
+          "name": "Braves",
+          "probability": 51,
+          "result": 0
+        },
+        {
+          "name": "Brewers",
+          "probability": 51,
+          "result": 1
+        },
+        {
+          "name": "Pirates",
+          "probability": 50,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Picks That Actually Worked\n\nFine, let's give credit where it's due. The Guardians pick at 59%? Money. The Mariners-Sox call? Nailed it. The Twins over the Tigers? Yeah, that one felt good. Even that Pirates pick at literally 50-50 odds hit—which is basically pure luck, but I'll take it.\n\nThe Rangers salvaged our high-confidence record, and honestly, that 63% pick hitting is the only reason we're not having a complete meltdown session right now."
+    },
+    {
+      "type": "table",
+      "title": "Complete Sep 1 Results Breakdown",
+      "headers": [
+        "Game",
+        "Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Padres @ Reds",
+          "Padres",
+          "63%",
+          "✗"
+        ],
+        [
+          "Giants @ Pirates",
+          "Pirates",
+          "50%",
+          "✓"
+        ],
+        [
+          "Mets @ Rays",
+          "Rays",
+          "61%",
+          "✓"
+        ],
+        [
+          "Jays @ Guardians",
+          "Guardians",
+          "59%",
+          "✓"
+        ],
+        [
+          "Mariners @ Sox",
+          "Mariners",
+          "58%",
+          "✓"
+        ],
+        [
+          "Braves @ Nationals",
+          "Braves",
+          "51%",
+          "✗"
+        ],
+        [
+          "Tigers @ Twins",
+          "Twins",
+          "58%",
+          "✓"
+        ],
+        [
+          "Marlins @ Royals",
+          "Royals",
+          "57%",
+          "✗"
+        ],
+        [
+          "Brewers @ Cubs",
+          "Brewers",
+          "51%",
+          "✓"
+        ],
+        [
+          "Athletics @ Rangers",
+          "Rangers",
+          "63%",
+          "✓"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Uncomfortable Reality Check\n\nYou want my hot take? 10-5 is good, not great. In a 15-game slate, we should be hitting 11 or 12 minimum. The fact that our highest confidence pick of the day turned into our most embarrassing loss is a problem. It's a model issue, it's a reading-the-matchups issue, or it's just bad luck—but whatever it is, it stings.\n\nThe mid-confidence picks (58-61%) went 4-1. That's actually elite. But when you're wrong at 63% confidence, people remember that more than all the 58% winners combined. That's just the brutal truth of this business."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#DC2626",
+      "title": "🔥 Biggest Miss of the Day",
+      "value": "Padres @ Reds (63% confidence)",
+      "sub": "High confidence failure—this one hurts the most"
+    },
+    {
+      "type": "text",
+      "value": "## No Games Tomorrow: Time to Regroup\n\nHere's the silver lining: no games scheduled for September 2nd. That means we get a day to recalibrate, analyze what went wrong with that Padres pick, and come back sharper. Use this off-day wisely, because when the games resume, we need to be better on those high-confidence calls.\n\n66.7% is acceptable. But acceptable isn't good enough when you're leaving wins on the table with bad reads on premium picks. Let's be better."
+    }
+  ],
+  "slug": "2026-09-01-daily-rico",
+  "author": "Rico",
+  "author_emoji": "🎭",
+  "author_role": "Drama Critic",
+  "author_color": "#DC2626",
+  "date": "2026-09-01",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#DC2626"
+}
