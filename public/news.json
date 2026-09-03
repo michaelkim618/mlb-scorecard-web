@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T17:38:54.609515+00:00",
+  "updated_at": "2026-09-03T18:10:17.198851+00:00",
   "news": [
     {
       "title": "He beat cancer, told his inspirational story at Nike RBI World Series",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T17:14:57+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "Kendrick shares stories of Negro Leagues, NLBM expansion on 6-1-1 Podcast",
@@ -25,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T16:06:34+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Griffin (finger) expected to return from 60-day IL on Friday",
@@ -38,7 +38,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-03T15:58:15+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Clark and Jenkins have shared fields for a while. Now they're division rivals",
@@ -51,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-03T15:51:44+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "250 for 250: Top 10 individual seasons",
@@ -64,6 +64,19 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T15:34:06+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "LIVE: Chat with former All-Star Vernon Wells on Chatting Practice",
+      "link": "https://www.mlb.com/chattingpractice",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ggrncadbypysr9qez9vh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-09-03T15:30:18+00:00",
       "time_ago": "2h ago"
     },
     {
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T15:07:36+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Montes and Arozarena's budding bromance has been brewing for a year",
-      "link": "https://www.mlb.com/news/randy-arozarena-takes-lazaro-montes-under-his-wing-in-debut-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tmhjzkcezinly0qult3u",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-03T15:01:35+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
