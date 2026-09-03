@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-03T07:14:44.128215+00:00",
+  "updated_at": "2026-09-03T07:39:58.391797+00:00",
   "news": [
+    {
+      "title": "Yamamoto, Dodgers dominate through 6, but falter in late innings",
+      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-strikes-out-8-in-7-innings-vs-cardinals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rgdqiixmpwqwwxtd8zk8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-03T07:31:00+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Dodgers mull resting Ohtani to get him to 100% before postseason",
+      "link": "https://www.mlb.com/news/shohei-ohtani-may-get-days-off-to-help-him-recover",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kza0gkwdpqx8tzxgvq3h",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-03T07:20:26+00:00",
+      "time_ago": "19m ago"
+    },
     {
       "title": "Schlittler's 'beyond special' season continues with 9 K's in 8 strong innings",
       "link": "https://www.mlb.com/news/cam-schlittler-pitches-against-angels-in-anaheim",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T06:51:00+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "Relentless Cards outlast Yamamoto, claim extra-innings win to get back to .500",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T06:51:00+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "Yankees finally conjure some extra-inning magic with 5-run 10th",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T06:35:00+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -51,20 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-03T05:35:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Yamamoto, Dodgers dominate through 6, but falter in late innings",
-      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-strikes-out-8-in-7-innings-vs-cardinals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rgdqiixmpwqwwxtd8zk8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-03T05:15:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Wesneski, Velázquez deliver as Astros take 2-game AL West lead",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T04:29:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Morabito's long-awaited breakout: 3-run double for 1st hit, diving catch in win",
-      "link": "https://www.mlb.com/news/nick-morabito-s-first-big-league-hit-helps-mets-beat-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tzf634n7zz0rqsesin87",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-03T04:04:00+00:00",
       "time_ago": "3h ago"
     }
   ]
