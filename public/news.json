@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-03T06:20:38.598279+00:00",
+  "updated_at": "2026-09-03T06:40:23.465269+00:00",
   "news": [
+    {
+      "title": "Yankees finally conjure some extra-inning magic with 5-run 10th",
+      "link": "https://www.mlb.com/news/yankees-rally-in-10th-inning-to-beat-angels",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lmiz1rh38yx0bzdczccc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Courtney Hollmon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-03T06:35:00+00:00",
+      "time_ago": "5m ago"
+    },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
       "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
@@ -12,20 +25,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-03T05:35:00+00:00",
-      "time_ago": "45m ago"
-    },
-    {
-      "title": "Yankees finally conjure some extra-inning magic with 5-run 10th",
-      "link": "https://www.mlb.com/news/yankees-rally-in-10th-inning-to-beat-angels",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lmiz1rh38yx0bzdczccc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Courtney Hollmon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-03T05:27:46+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Cards outlast Yamamoto, defeat Dodgers in extras to get back to .500",
@@ -38,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T05:23:16+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yamamoto, Dodgers dominate through 6, but falter in late innings",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T04:29:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Morabito's long-awaited breakout: 3-run double for 1st hit, diving catch in win",
