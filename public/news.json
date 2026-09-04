@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-09-04T19:48:15.723164+00:00",
+  "updated_at": "2026-09-04T22:49:03.355971+00:00",
   "news": [
+    {
+      "title": "Weaver trying to shake struggles on mound ... and a tough case of poison ivy",
+      "link": "https://www.mlb.com/news/luke-weaver-dealing-with-poison-ivy",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pf6tk2fmyhvkt88gextp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-04T22:30:33+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Watch LIVE as Top 100 prospect Neyens (HOU) takes on Bucs' Sanford in High-A clash",
+      "link": "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f7kqxh4mlwxmdefvqdl2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brendan Samson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-04T22:25:00+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "Ohtani out of lineup for 2nd straight game amid nagging physical concerns",
+      "link": "https://www.mlb.com/news/shohei-ohtani-out-of-september-4-lineup-against-nationals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rup3nnldn5ln8wktlgmc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-04T22:21:06+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "Stott scratched due to personal matter; Sosa gets start at 3B",
+      "link": "https://www.mlb.com/news/bryson-stott-scratched-due-to-personal-matter",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/s5fyk37senjb8nfscpux",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-04T22:20:29+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "Rocctember! Rocchio's 2-HR heroics fuel 6-run comeback",
+      "link": "https://www.mlb.com/news/brayan-rocchio-hits-grand-slam-walk-off-guardians-tigers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j6mg6ici0ccv14xrlrc3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-04T22:11:58+00:00",
+      "time_ago": "37m ago"
+    },
+    {
+      "title": "Rays lose McClanahan to IL again due to left forearm tightness",
+      "link": "https://www.mlb.com/news/shane-mcclanahan-injured-list-forearm",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/humaauslh32yixmzbteq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-04T21:47:57+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Inbox: Looking at two-way prospects on Top 30 lists",
       "link": "https://www.mlb.com/news/pipeline-inbox-two-way-prospects-the-cubs-owen-ayers-the-angels-system-and-more",
@@ -12,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-04T18:55:00+00:00",
-      "time_ago": "53m ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "'I'm not giving up': Verlander races clock for one last start",
@@ -25,85 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-04T18:53:23+00:00",
-      "time_ago": "54m ago"
-    },
-    {
-      "title": "Nationals rookies make statement with 'revolutionary' outfits at start of West Coast trip",
-      "link": "https://www.mlb.com/news/nationals-rookies-dress-like-founding-fathers-for-road-trip",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eu3dweyljs9jsyd6biut",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-04T18:39:03+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Guardians' bullpen takes a hit as postseason push enters stretch run",
-      "link": "https://www.mlb.com/news/colin-holderman-right-wrist-injury-guardians",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/zvp6ntj3xd7bdiecjusw.jpg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-04T18:13:09+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "All 30 teams set to open Spring Training 2027 on same day",
-      "link": "https://www.mlb.com/news/mlb-spring-training-2026-schedule-released",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/le9xccjd4l1ijt8xyo5o",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brent Maguire",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-04T18:04:39+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Yankees announce commemoration plans for 25th anniversary of 9/11",
-      "link": "https://www.mlb.com/news/yankees-announce-25th-anniversary-of-9-11-plans",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/x6qfahrr6dcwy8mevrdu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-04T17:27:50+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Astros fan shows off his own 'Pope Hat' as Houston faces Pope Leo XIV's favorite White Sox",
-      "link": "https://www.mlb.com/news/astros-fan-shows-off-his-own-pope-hat",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hxphpcvqvqjauc8rqjip",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-04T16:02:57+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "AL Central battle, Wild Card chases highlight 'Friday Night Baseball' slate on Apple TV",
-      "link": "https://www.mlb.com/news/friday-night-baseball-on-apple-tv-for-2026-mlb-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dk1ildpimck5roexbaly",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-04T15:48:00+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }
