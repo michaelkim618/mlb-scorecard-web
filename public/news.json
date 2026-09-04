@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-04T18:50:05.976047+00:00",
+  "updated_at": "2026-09-04T19:06:01.246468+00:00",
   "news": [
+    {
+      "title": "Inbox: Looking at two-way prospects on Top 30 lists",
+      "link": "https://www.mlb.com/news/pipeline-inbox-two-way-prospects-the-cubs-owen-ayers-the-angels-system-and-more",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ogueojdx0e1gecudkbyi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jim Callis",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-04T18:55:00+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "'I'm not giving up': Verlander races clock for one last start",
+      "link": "https://www.mlb.com/news/justin-verlander-hopes-to-pitch-again-before-retirement",
+      "summary": "Tigers plan two-day celebration for final weekend of regular season",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/na24pmuoxu7ke544ranz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-04T18:53:23+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Nationals rookies make statement with 'revolutionary' outfits at start of West Coast trip",
+      "link": "https://www.mlb.com/news/nationals-rookies-dress-like-founding-fathers-for-road-trip",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eu3dweyljs9jsyd6biut",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-04T18:39:03+00:00",
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "Guardians' bullpen takes a hit as postseason push enters stretch run",
+      "link": "https://www.mlb.com/news/colin-holderman-right-wrist-injury-guardians",
+      "summary": "",
+      "image": "https://images.ctfassets.net/iiozhi00a8lc/7rLiL2FzRtYvRA6WljKhNY/359c3d0e14e8deced16d006ecb2f4218/mlb_fallback_2.jpg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-04T18:13:09+00:00",
+      "time_ago": "52m ago"
+    },
     {
       "title": "All 30 teams set to open Spring Training 2027 on same day",
       "link": "https://www.mlb.com/news/mlb-spring-training-2026-schedule-released",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-04T18:04:39+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yankees announce commemoration plans for 25th anniversary of 9/11",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-04T16:02:57+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "AL Central battle, Wild Card chases highlight 'Friday Night Baseball' slate on Apple TV",
@@ -52,58 +104,6 @@
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-04T15:48:00+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "Another crucial series for Blue Jays' Wild Card chase on deck",
-      "link": "https://www.mlb.com/news/blue-jays-royals-series-has-al-wild-card-implications",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/izrguzzdepqjsy6pwgbh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-04T15:04:52+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Rodriguez, Matsui deepen Padres' elite bullpen",
-      "link": "https://www.mlb.com/news/bradgley-rodriguez-yuki-matsui-vital-pieces-of-padres-bullpen",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tmzcffpghruqydp29w5e",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Miles Schachner",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-04T15:00:24+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "A Minor League team in New Jersey put together the perfect Sopranos Night at the ballpark",
-      "link": "https://www.mlb.com/news/somerset-sopranos-night-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lzutnu8fcofifzyrqimk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Benjamin Hill",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-04T14:59:39+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "This Yankees prospect plays like it’s 1899 -- and he’s acing Double-A",
-      "link": "https://www.mlb.com/news/yankees-luis-durango-breakout-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mdqiosea6df4wuikotja",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Benjamin Hill",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-04T14:26:09+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }
