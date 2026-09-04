@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T22:49:03.355971+00:00",
+  "updated_at": "2026-09-04T22:54:43.411919+00:00",
   "news": [
     {
       "title": "Weaver trying to shake struggles on mound ... and a tough case of poison ivy",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-04T22:30:33+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "24m ago"
     },
     {
       "title": "Watch LIVE as Top 100 prospect Neyens (HOU) takes on Bucs' Sanford in High-A clash",
@@ -25,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-04T22:25:00+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "29m ago"
     },
     {
       "title": "Ohtani out of lineup for 2nd straight game amid nagging physical concerns",
@@ -38,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-04T22:21:06+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "33m ago"
     },
     {
       "title": "Stott scratched due to personal matter; Sosa gets start at 3B",
@@ -51,20 +51,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-04T22:20:29+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "34m ago"
     },
     {
       "title": "Rocctember! Rocchio's 2-HR heroics fuel 6-run comeback",
       "link": "https://www.mlb.com/news/brayan-rocchio-hits-grand-slam-walk-off-guardians-tigers",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j6mg6ici0ccv14xrlrc3",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788561572/mlb/j6mg6ici0ccv14xrlrc3",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Tim Stebbins",
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-04T22:11:58+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "Rays lose McClanahan to IL again due to left forearm tightness",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-04T18:53:23+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
