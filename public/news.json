@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T18:08:39.795929+00:00",
+  "updated_at": "2026-09-04T18:32:40.917924+00:00",
   "news": [
     {
       "title": "All 30 teams set to open Spring Training 2027 on same day",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-04T18:04:39+00:00",
-      "time_ago": "4m ago"
+      "time_ago": "28m ago"
     },
     {
       "title": "Yankees announce commemoration plans for 25th anniversary of 9/11",
@@ -25,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-04T17:27:50+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Astros fan shows off his own 'Pope Hat' as Houston faces Pope Leo XIV's favorite White Sox",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-04T14:26:09+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
