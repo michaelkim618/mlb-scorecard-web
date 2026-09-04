@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-04T22:54:43.411919+00:00",
+  "updated_at": "2026-09-04T23:06:56.087197+00:00",
   "news": [
+    {
+      "title": "Crochet throws off mound for 1st time since injury; Houck, Oviedo progressing well",
+      "link": "https://www.mlb.com/news/garrett-crochet-tanner-houck-working-toward-returning-to-red-sox",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jh6tzulpgqxx1gpqj0vs",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-04T22:55:10+00:00",
+      "time_ago": "11m ago"
+    },
     {
       "title": "Weaver trying to shake struggles on mound ... and a tough case of poison ivy",
       "link": "https://www.mlb.com/news/luke-weaver-dealing-with-poison-ivy",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-04T22:30:33+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "36m ago"
     },
     {
       "title": "Watch LIVE as Top 100 prospect Neyens (HOU) takes on Bucs' Sanford in High-A clash",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-04T22:25:00+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "41m ago"
     },
     {
       "title": "Ohtani out of lineup for 2nd straight game amid nagging physical concerns",
@@ -38,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-04T22:21:06+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "Stott scratched due to personal matter; Sosa gets start at 3B",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-04T22:20:29+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "46m ago"
     },
     {
       "title": "Rocctember! Rocchio's 2-HR heroics fuel 6-run comeback",
@@ -64,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-04T22:11:58+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "Rays lose McClanahan to IL again due to left forearm tightness",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-04T18:55:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "'I'm not giving up': Verlander races clock for one last start",
-      "link": "https://www.mlb.com/news/justin-verlander-hopes-to-pitch-again-before-retirement",
-      "summary": "Tigers plan two-day celebration for final weekend of regular season",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/na24pmuoxu7ke544ranz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Beck",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-04T18:53:23+00:00",
       "time_ago": "4h ago"
     }
   ]
