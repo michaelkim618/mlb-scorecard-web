@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-04T17:28:54.282459+00:00",
+  "updated_at": "2026-09-04T17:43:00.406968+00:00",
   "news": [
+    {
+      "title": "Yankees announce commemoration plans for 25th anniversary of 9/11",
+      "link": "https://www.mlb.com/news/yankees-announce-25th-anniversary-of-9-11-plans",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/x6qfahrr6dcwy8mevrdu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-04T17:27:50+00:00",
+      "time_ago": "15m ago"
+    },
     {
       "title": "Astros fan shows off his own 'Pope Hat' as Houston faces Pope Leo XIV's favorite White Sox",
       "link": "https://www.mlb.com/news/astros-fan-shows-off-his-own-pope-hat",
@@ -78,19 +91,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-04T14:26:09+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "DeLauter, Messick worthy contenders in AL Rookie of the Year race",
-      "link": "https://www.mlb.com/news/parker-messick-chase-delauter-al-roy-award-candidates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wvmfcid8kghagy4ho8ek",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-04T13:26:16+00:00",
-      "time_ago": "4h ago"
     },
     {
       "title": "Huge postseason implications at stake in Braves-Phillies series",
