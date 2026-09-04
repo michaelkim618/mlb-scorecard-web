@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-04T07:05:56.497753+00:00",
+  "updated_at": "2026-09-04T07:23:50.125951+00:00",
   "news": [
+    {
+      "title": "Skubal allows 10 hits -- all singles -- but limits damage to keep LA in the game",
+      "link": "https://www.mlb.com/news/tarik-skubal-starts-against-cardinals-in-finale",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788494618/mlb/deyvdv9wxfifejfxqmwa",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-04T07:16:00+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Teoscar, getting hot at just the right time, walks off Cardinals",
+      "link": "https://www.mlb.com/news/teoscar-hernandez-hits-walk-off-double-to-beat-cardinals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788500156/mlb/vcxajzmfcmrfrq6kezc2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-04T07:03:19+00:00",
+      "time_ago": "20m ago"
+    },
     {
       "title": "Brown bears down for 6 strong frames as Astros eye AL's No. 2 seed",
       "link": "https://www.mlb.com/news/hunter-brown-six-strong-innings-astros-beat-white-sox",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-04T06:15:00+00:00",
-      "time_ago": "50m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Ohtani not in lineup day after going 0-for-4 with 4 K's, questionable for Fri.",
@@ -25,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-04T06:12:00+00:00",
-      "time_ago": "53m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Wilson gets quick hook after A's-Mariners benches warned",
@@ -38,19 +64,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-04T05:55:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Dodgers get big walk-off win after strange night for Skubal (10 hits, all singles)",
-      "link": "https://www.mlb.com/news/tarik-skubal-starts-against-cardinals-in-finale",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788500156/mlb/vcxajzmfcmrfrq6kezc2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-04T05:20:00+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-04T04:44:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Cheers, then TWO homers! Rutschman makes memorable Camden return",
-      "link": "https://www.mlb.com/news/adley-rutschman-returns-for-red-sox-vs-orioles",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788497864/mlb/xlosiiawd4jrjmztl1wr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-04T04:35:00+00:00",
       "time_ago": "2h ago"
     }
   ]
