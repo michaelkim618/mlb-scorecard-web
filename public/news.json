@@ -1,18 +1,96 @@
 {
-  "updated_at": "2026-09-04T01:13:33.013218+00:00",
+  "updated_at": "2026-09-04T04:06:13.455599+00:00",
   "news": [
+    {
+      "title": "Gausman's gem backed by PCA's 39th HR as Cubs edge Brewers",
+      "link": "https://www.mlb.com/news/kevin-gausman-strikes-out-9-in-7-innings-as-cubs-beat-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oiev76fss1l56kcfvc19",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-04T03:16:00+00:00",
+      "time_ago": "50m ago"
+    },
+    {
+      "title": "Jensen (3 extra-base hits), Caglianone lead way for Royals' offense",
+      "link": "https://www.mlb.com/news/carter-jensen-has-3-extra-base-hits-in-royals-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788487551/mlb/xcasrkyt8kmhreoksopj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anne Rogers",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-04T02:28:26+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Quantrill keep delivering for Rangers with scoreless gem vs. Rays",
+      "link": "https://www.mlb.com/news/cal-quantrill-pitches-seven-scoreless-innings-in-rangers-win-over-rays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788492881/mlb/b2xozo5nhn7rb0bouxjr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kennedi Landry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-04T02:27:02+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Secret to Phils top prospect Wood's career high in K's? He used the hammer",
+      "link": "https://www.mlb.com/news/phillies-prospect-gage-wood-career-high-10-strikeouts",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qipr5yc8xsvsg5c2j2qy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jesse Borek",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-04T02:23:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Ohtani not in lineup day after going 0-for-4 with 4 strikeouts",
+      "link": "https://www.mlb.com/news/shohei-ohtani-out-of-dodgers-starting-lineup-september-3-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vhn0muywpcqciaqabhpa",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-04T01:53:00+00:00",
+      "time_ago": "2h ago"
+    },
     {
       "title": "Cheers, then TWO homers! Rutschman makes memorable Camden return",
       "link": "https://www.mlb.com/news/adley-rutschman-returns-for-red-sox-vs-orioles",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yre7js1532nmejdd22de",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xlosiiawd4jrjmztl1wr",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Ian Browne",
       "tag": "Highlight",
       "tag_color": "#D97706",
-      "pub_date": "2026-09-04T01:03:00+00:00",
-      "time_ago": "10m ago"
+      "pub_date": "2026-09-04T01:51:00+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "King of the hill: Blue Jays' 20-year-old overpowering hitters as youngest pitcher on Double-A circuit",
+      "link": "https://www.mlb.com/news/blue-jays-prospect-johnny-king-overpowering-double-a-hitters",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yapbk2rznibkosobcipj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Michael Avallone",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-04T00:45:20+00:00",
+      "time_ago": "3h ago"
     },
     {
       "title": "Brown bears down for 6 strong frames as Astros eye AL's No. 2 seed",
@@ -25,85 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-03T23:54:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Watch Top 100 prospects Florentino (PIT), Neyens (HOU) in High-A clash for FREE on Friday",
-      "link": "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f7kqxh4mlwxmdefvqdl2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brendan Samson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-03T23:34:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Ohtani not in lineup day after going 0-for-4 with 4 strikeouts",
-      "link": "https://www.mlb.com/news/shohei-ohtani-out-of-dodgers-starting-lineup-september-3-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vhn0muywpcqciaqabhpa",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-03T22:48:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Blue Jays secure tiebreaker with Guardians in tight AL Wild Card chase",
-      "link": "https://www.mlb.com/news/blue-jays-gain-on-guardians-in-al-wild-card-race",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788471751/mlb/wzl85wzbytm6f2omfmql",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-03T21:38:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Pirates keep rolling in home stretch with pivotal reinforcement on the horizon",
-      "link": "https://www.mlb.com/news/pirates-pitching-giants-series-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wriy3tux3a1xr2xi6a9d",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-03T21:16:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "They still got it! These big leaguers-turned-coaches show their teams how it's done",
-      "link": "https://www.mlb.com/news/don-mattingly-mitch-stetter-make-barehanded-plays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ecxczbcpnhj4ev5dgdic",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-03T18:08:06+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "Rushing ready to embrace limited role for Dodgers down the stretch",
-      "link": "https://www.mlb.com/news/dalton-rushing-activated-from-injured-list-placed-in-bench-role",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mt1jcj1rn5umuuti0nhj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-03T18:00:08+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
