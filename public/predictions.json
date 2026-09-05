@@ -281,18 +281,18 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 41.6,
-      "home": 58.4
+      "away": 41.3,
+      "home": 58.7
     },
     "expected_score": {
-      "away": 2.6,
-      "home": 2.1
+      "away": 2.8,
+      "home": 2.3
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "L",
       "bullpen_game": false,
@@ -384,35 +384,35 @@
           "closer_era": 4.84,
           "closer_name": "Joel Kuhnel"
         },
-        "bat_score": 39.1,
+        "bat_score": 42.7,
         "bat_detail": {
-          "recent_avg": 0.261,
+          "recent_avg": 0.269,
           "runs_per_g": 6.1,
           "hr_per_g": 1.2,
           "bb_per_g": 3.0,
-          "season_ops": 0.704,
-          "season_avg": 0.261,
+          "season_ops": 0.741,
+          "season_avg": 0.269,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Drew Gilbert(0.685)",
+            "Jonah Cox(1.010)",
             "Rafael Devers(1.114)",
             "Bryce Eldridge(0.918)",
-            "Turner Hill(0.868)",
-            "Jung Hoo Lee(0.619)",
-            "Drew Cavanaugh(0.658)",
             "Osleivis Basabe(0.609)",
-            "Nate Furman(0.372)",
+            "Turner Hill(0.868)",
+            "Andrew Knizner(0.664)",
+            "Shay Whitcomb(0.512)",
+            "Grant McCray(0.479)",
             "Christian Koss(0.493)"
           ],
           "lineup_players": [
             {
-              "id": 687551,
-              "name": "Drew Gilbert",
-              "ops": 0.685,
-              "avg": 0.192
+              "id": 813841,
+              "name": "Jonah Cox",
+              "ops": 1.01,
+              "avg": 0.385
             },
             {
               "id": 646240,
@@ -427,34 +427,34 @@
               "avg": 0.368
             },
             {
-              "id": 806367,
-              "name": "Turner Hill",
-              "ops": 0.868,
-              "avg": 0.364
-            },
-            {
-              "id": 808982,
-              "name": "Jung Hoo Lee",
-              "ops": 0.619,
-              "avg": 0.176
-            },
-            {
-              "id": 701852,
-              "name": "Drew Cavanaugh",
-              "ops": 0.658,
-              "avg": 0.296
-            },
-            {
               "id": 678545,
               "name": "Osleivis Basabe",
               "ops": 0.609,
               "avg": 0.182
             },
             {
-              "id": 801501,
-              "name": "Nate Furman",
-              "ops": 0.372,
-              "avg": 0.182
+              "id": 806367,
+              "name": "Turner Hill",
+              "ops": 0.868,
+              "avg": 0.364
+            },
+            {
+              "id": 668800,
+              "name": "Andrew Knizner",
+              "ops": 0.664,
+              "avg": 0.25
+            },
+            {
+              "id": 694376,
+              "name": "Shay Whitcomb",
+              "ops": 0.512,
+              "avg": 0.148
+            },
+            {
+              "id": 687529,
+              "name": "Grant McCray",
+              "ops": 0.479,
+              "avg": 0.136
             },
             {
               "id": 683766,
@@ -480,10 +480,10 @@
           }
         },
         "sit_score": 41.1,
-        "total": 42.0
+        "total": 43.1
       },
       "home": {
-        "sp_score": 58.8,
+        "sp_score": 59.9,
         "sp_detail": {
           "era": 2.53,
           "whip": 1.14,
@@ -565,7 +565,7 @@
             }
           ]
         },
-        "bp_score": 48.9,
+        "bp_score": 49.8,
         "bp_detail": {
           "bullpen_era": 3.81,
           "recent_era": 6.86,
@@ -577,14 +577,14 @@
           "closer_era": 2.08,
           "closer_name": "Daniel Duarte"
         },
-        "bat_score": 27.1,
+        "bat_score": 29.7,
         "bat_detail": {
-          "recent_avg": 0.211,
+          "recent_avg": 0.233,
           "runs_per_g": 4.1,
           "hr_per_g": 1.2,
           "bb_per_g": 3.0,
-          "season_ops": 0.656,
-          "season_avg": 0.211,
+          "season_ops": 0.699,
+          "season_avg": 0.233,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -593,12 +593,12 @@
             "Francisco Lindor(0.780)",
             "Juan Soto(0.811)",
             "Bo Bichette(0.728)",
-            "Mark Vientos(0.768)",
             "Carson Benge(0.699)",
+            "Jared Young(0.658)",
             "Marcus Semien(0.629)",
-            "Christopher Morel(0.432)",
+            "A.J. Ewing(0.540)",
             "Francisco Alvarez(0.675)",
-            "Nick Morabito(0.385)"
+            "Brett Baty(0.771)"
           ],
           "lineup_players": [
             {
@@ -620,16 +620,16 @@
               "avg": 0.25
             },
             {
-              "id": 668901,
-              "name": "Mark Vientos",
-              "ops": 0.768,
-              "avg": 0.231
-            },
-            {
               "id": 701807,
               "name": "Carson Benge",
               "ops": 0.699,
               "avg": 0.282
+            },
+            {
+              "id": 676724,
+              "name": "Jared Young",
+              "ops": 0.658,
+              "avg": 0.2
             },
             {
               "id": 543760,
@@ -638,10 +638,10 @@
               "avg": 0.25
             },
             {
-              "id": 666624,
-              "name": "Christopher Morel",
-              "ops": 0.432,
-              "avg": 0.182
+              "id": 805999,
+              "name": "A.J. Ewing",
+              "ops": 0.54,
+              "avg": 0.179
             },
             {
               "id": 682626,
@@ -650,13 +650,13 @@
               "avg": 0.188
             },
             {
-              "id": 703492,
-              "name": "Nick Morabito",
-              "ops": 0.385,
-              "avg": 0.118
+              "id": 683146,
+              "name": "Brett Baty",
+              "ops": 0.771,
+              "avg": 0.35
             }
           ],
-          "bat_trend": "hot",
+          "bat_trend": "stable",
           "last5_rpg": 5.6,
           "last5_avg": 0.238,
           "home_split": {
@@ -673,20 +673,20 @@
           }
         },
         "sit_score": 47.3,
-        "total": 49.8
+        "total": 51.2
       }
     },
     "scores": {
-      "away_offense": 39.1,
+      "away_offense": 42.7,
       "away_defense": 38.9,
-      "home_offense": 27.1,
-      "home_defense": 53.8
+      "home_offense": 29.7,
+      "home_defense": 54.8
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -698,7 +698,7 @@
     "model_correct": null,
     "notes": "San Francisco Giants IL: Adrian Houser, Carson Whisenhunt, Casey Schmitt, Daniel Susac, Harrison Bader 외 다수 / New York Mets IL: Cionel Pérez, Devin Williams, Jorge Polanco, Reed Garrett, Tylor Megill",
     "kalshi_prob": 60.0,
-    "edge": -1.6,
+    "edge": -1.3,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -706,8 +706,8 @@
     "sp_bat_conflict_detail": {
       "sp_favors": "New York Mets",
       "bat_favors": "San Francisco Giants",
-      "sp_gap": -22.8,
-      "bat_gap": 12.0
+      "sp_gap": -23.9,
+      "bat_gap": 13.0
     },
     "low_confidence": false,
     "low_confidence_reason": null,
@@ -5969,8 +5969,8 @@
     "model_winner": "Tampa Bay Rays",
     "model_correct": null,
     "notes": "Tampa Bay Rays IL: Ben Williamson, Edwin Uceta, Gavin Lux, Jake Fraley, Jonathan Heasley 외 다수 / Texas Rangers IL: Carter Baumler, Cole Winn, Jack Leiter, Jalen Beeks, Jose Corniell 외 다수",
-    "kalshi_prob": 49.0,
-    "edge": -8.1,
+    "kalshi_prob": 50.0,
+    "edge": -9.1,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Texas Rangers)",
     "extreme_edge": false,
     "consensus": false,
