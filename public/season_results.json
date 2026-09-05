@@ -8878,6 +8878,28 @@
       "away_bp_score": 46.5,
       "home_bp_score": 63.8,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-04",
+      "away": "Atlanta Braves",
+      "home": "Philadelphia Phillies",
+      "game_number": 1,
+      "pick": "Atlanta Braves",
+      "pick_prob": 51.5,
+      "actual_winner": "Atlanta Braves",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "hot",
+      "away_sp_era": 2.15,
+      "home_sp_era": 2.55,
+      "away_bp_era": 2.98,
+      "home_bp_era": 3.36,
+      "away_sp_score": 72.0,
+      "home_sp_score": 70.9,
+      "away_bp_score": 66.8,
+      "home_bp_score": 75.0,
+      "bat_source": "lineup"
     }
   ]
 }
