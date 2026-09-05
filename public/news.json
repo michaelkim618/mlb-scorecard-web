@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T07:03:45.502283+00:00",
+  "updated_at": "2026-09-05T07:26:32.636341+00:00",
   "news": [
     {
       "title": "Campusano's walk-off HR vs. Yanks caps feat not seen since 1961",
@@ -12,7 +12,20 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-05T06:54:42+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "Tucker homers at home for first time since June in Dodgers' win",
+      "link": "https://www.mlb.com/news/kyle-tucker-hits-home-run-in-dodgers-win-vs-nationals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/i7xj9cvbtnfe4nylg5rk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-05T06:51:00+00:00",
+      "time_ago": "35m ago"
     },
     {
       "title": "Injuries: Ohtani, McClanahan, Crochet, Judge, Buxton, Musgrove",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-05T05:24:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "'I'm a hoarder': For Hader, 250 saves means another baseball added to collection",
@@ -51,19 +64,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-05T05:24:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Tucker homers at home for first time since June in Dodgers' win",
-      "link": "https://www.mlb.com/news/kyle-tucker-hits-home-run-in-dodgers-win-vs-nationals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/i7xj9cvbtnfe4nylg5rk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-05T05:03:10+00:00",
       "time_ago": "2h ago"
     },
     {
