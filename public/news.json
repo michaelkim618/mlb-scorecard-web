@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-05T22:06:54.298819+00:00",
+  "updated_at": "2026-09-05T22:39:40.477025+00:00",
   "news": [
+    {
+      "title": "Taillon (right elbow inflammation) back on injured list",
+      "link": "https://www.mlb.com/news/jameson-taillon-exits-game-with-elbow-discomfort",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wxgefir3payxvrznb213",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-05T22:25:00+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "Murphy says Crew 'built to win' in postseason despite lack of home run power",
+      "link": "https://www.mlb.com/news/pat-murphy-discusses-brewers-offensive-style",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/urj5xgdb36gekjjh7rva",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-05T22:20:08+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Ohtani out for 3rd straight day as Dodgers weigh potential IL stint",
+      "link": "https://www.mlb.com/news/shohei-ohtani-out-third-straight-game-dodgers-injured-list-decision",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t5ytdhg6cwjauvfaoq5l",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-05T22:00:57+00:00",
+      "time_ago": "38m ago"
+    },
     {
       "title": "Vitello ejected after arguing challenged foul ball call",
       "link": "https://www.mlb.com/news/tony-vitello-ejected-vs-mets-after-foul-ball-challenge",
@@ -12,20 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-05T21:14:13+00:00",
-      "time_ago": "52m ago"
-    },
-    {
-      "title": "Taillon (right elbow inflammation) back on injured list",
-      "link": "https://www.mlb.com/news/jameson-taillon-exits-game-with-elbow-discomfort",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wxgefir3payxvrznb213",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-05T19:50:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Right hamstring strain sends Grisham back to IL; Yanks recall Domínguez",
@@ -51,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-05T14:32:03+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "8h ago"
     },
     {
       "title": "Campusano's walk-off HR vs. Yanks caps feat not seen since 1961",
@@ -78,32 +104,6 @@
       "tag_color": "#D97706",
       "pub_date": "2026-09-05T06:51:00+00:00",
       "time_ago": "15h ago"
-    },
-    {
-      "title": "In 2026, debuting hitters have slugged ... like Ruth?",
-      "link": "https://www.mlb.com/news/mlb-rookies-record-production-2026-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wfgxqmhbwq7hdbcpwoxq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sarah Langs",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-05T05:24:00+00:00",
-      "time_ago": "16h ago"
-    },
-    {
-      "title": "Sale bolsters NL Cy Young case with strong 7-K start to extend NL East lead",
-      "link": "https://www.mlb.com/news/chris-sale-six-strong-innings-vs-phillies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tm1jspty1hhepelqiylc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-09-05T04:57:00+00:00",
-      "time_ago": "17h ago"
     }
   ]
 }
