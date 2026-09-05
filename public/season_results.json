@@ -8856,6 +8856,28 @@
       "away_bp_score": 37.9,
       "home_bp_score": 75.0,
       "bat_source": "team_stats"
+    },
+    {
+      "date": "2026-09-04",
+      "away": "Washington Nationals",
+      "home": "Los Angeles Dodgers",
+      "game_number": 1,
+      "pick": "Los Angeles Dodgers",
+      "pick_prob": 59.8,
+      "actual_winner": "무승부",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "hot",
+      "away_sp_era": 5.59,
+      "home_sp_era": 2.42,
+      "away_bp_era": 4.72,
+      "home_bp_era": 3.23,
+      "away_sp_score": 30.0,
+      "home_sp_score": 70.4,
+      "away_bp_score": 46.5,
+      "home_bp_score": 63.8,
+      "bat_source": "lineup"
     }
   ]
 }
