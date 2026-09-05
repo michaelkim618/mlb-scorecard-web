@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-05T16:39:47.376813+00:00",
+  "updated_at": "2026-09-05T16:54:28.725900+00:00",
   "news": [
+    {
+      "title": "Cleveland org nets four walk-off wins -- three within minutes of each other -- in one day",
+      "link": "https://www.mlb.com/news/guardians-day-of-walk-offs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mxgc2sfa9a8glud18qiy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Foster",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-05T14:32:03+00:00",
+      "time_ago": "2h ago"
+    },
     {
       "title": "Campusano's walk-off HR vs. Yanks caps feat not seen since 1961",
       "link": "https://www.mlb.com/news/luis-campusano-walk-off-home-run-beats-yankees",
@@ -25,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-05T06:51:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "Injuries: Ohtani, McClanahan, Crochet, Judge, Buxton, Musgrove",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-05T04:54:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Bazzana blasts off to tie it ... then calls game in Guardians' 2nd walk-off of the day",
-      "link": "https://www.mlb.com/news/travis-bazzana-homers-walk-off-single-guardians-doubleheader-sweep",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/piwmjirruivj9oivcr22",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-05T04:41:00+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "12h ago"
     }
   ]
 }
