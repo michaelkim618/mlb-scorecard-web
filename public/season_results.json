@@ -9142,6 +9142,28 @@
       "away_bp_score": 41.6,
       "home_bp_score": 47.6,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-04",
+      "away": "New York Yankees",
+      "home": "San Diego Padres",
+      "game_number": 1,
+      "pick": "New York Yankees",
+      "pick_prob": 57.0,
+      "actual_winner": "San Diego Padres",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "hot",
+      "away_sp_era": 3.14,
+      "home_sp_era": 4.74,
+      "away_bp_era": 2.97,
+      "home_bp_era": 2.61,
+      "away_sp_score": 50.0,
+      "home_sp_score": 38.3,
+      "away_bp_score": 62.1,
+      "home_bp_score": 69.0,
+      "bat_source": "lineup"
     }
   ]
 }
