@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-05T22:39:40.477025+00:00",
+  "updated_at": "2026-09-05T23:02:31.715750+00:00",
   "news": [
+    {
+      "title": "Right hamstring strain sends Grisham back to IL; Yanks recall Domínguez",
+      "link": "https://www.mlb.com/news/trent-grisham-exits-yankees-game-with-right-hamstring-discomfort",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788648229/mlb/fascvahsqzcnl2xp4r09",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-05T22:49:00+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "DeLauter out of Saturday's lineup, day to day with ailing wrist",
+      "link": "https://www.mlb.com/news/chase-delauter-out-of-starting-lineup-with-wrist-sprain",
+      "summary": "Holderman hopes to return from own wrist issue down the stretch",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/othcklie3bto0cfj8chg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-05T22:27:26+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "Ryan appears set to rejoin Twins' rotation after weekend series",
+      "link": "https://www.mlb.com/news/joe-ryan-nearing-return-to-twins-rotation",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kjdqzw8phy0pa1uwujus",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-05T22:26:52+00:00",
+      "time_ago": "35m ago"
+    },
     {
       "title": "Taillon (right elbow inflammation) back on injured list",
       "link": "https://www.mlb.com/news/jameson-taillon-exits-game-with-elbow-discomfort",
@@ -12,7 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-05T22:25:00+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "Murphy says Crew 'built to win' in postseason despite lack of home run power",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-05T22:20:08+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "Ohtani out for 3rd straight day as Dodgers weigh potential IL stint",
@@ -38,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-05T22:00:57+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Vitello ejected after arguing challenged foul ball call",
@@ -54,19 +93,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Right hamstring strain sends Grisham back to IL; Yanks recall Domínguez",
-      "link": "https://www.mlb.com/news/trent-grisham-exits-yankees-game-with-right-hamstring-discomfort",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xaccte0nfzzw6pgrauad",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-05T19:05:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
       "title": "Cleveland org nets four walk-off wins -- three within minutes of each other -- in one day",
       "link": "https://www.mlb.com/news/guardians-day-of-walk-offs",
       "summary": "",
@@ -78,32 +104,6 @@
       "tag_color": "#D97706",
       "pub_date": "2026-09-05T14:32:03+00:00",
       "time_ago": "8h ago"
-    },
-    {
-      "title": "Campusano's walk-off HR vs. Yanks caps feat not seen since 1961",
-      "link": "https://www.mlb.com/news/luis-campusano-walk-off-home-run-beats-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788583470/mlb/rkb5dlirva724qhgbhng",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-05T06:54:42+00:00",
-      "time_ago": "15h ago"
-    },
-    {
-      "title": "Tucker homers at home for first time since June in Dodgers' win",
-      "link": "https://www.mlb.com/news/kyle-tucker-hits-home-run-in-dodgers-win-vs-nationals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/i7xj9cvbtnfe4nylg5rk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-05T06:51:00+00:00",
-      "time_ago": "15h ago"
     }
   ]
 }

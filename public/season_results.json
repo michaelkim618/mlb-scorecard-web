@@ -9186,6 +9186,28 @@
       "away_bp_score": 49.9,
       "home_bp_score": 40.0,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-05",
+      "away": "San Francisco Giants",
+      "home": "New York Mets",
+      "game_number": 1,
+      "pick": "San Francisco Giants",
+      "pick_prob": 62.4,
+      "actual_winner": "San Francisco Giants",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "cold",
+      "away_sp_era": 2.95,
+      "home_sp_era": 3.38,
+      "away_bp_era": 4.14,
+      "home_bp_era": 3.81,
+      "away_sp_score": 50.0,
+      "home_sp_score": 35.9,
+      "away_bp_score": 44.3,
+      "home_bp_score": 49.8,
+      "bat_source": "lineup"
     }
   ]
 }
