@@ -10813,9 +10813,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": "무승부",
+    "actual_winner": "Los Angeles Dodgers",
     "model_winner": "Los Angeles Dodgers",
-    "model_correct": false,
+    "model_correct": true,
     "notes": "Washington Nationals IL: Connelly Early, DJ Herz, Drew Millas, Josiah Gray, Ken Waldichuk 외 다수 / Los Angeles Dodgers IL: Andy Pages, Ben Casparius, Bobby Miller, Brusdar Graterol, Edwin Díaz 외 다수",
     "kalshi_prob": 71.0,
     "edge": -11.2,
@@ -11527,9 +11527,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Athletics",
     "model_winner": "Seattle Mariners",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Athletics IL: Brent Rooker, Brooks Kriske, Gunnar Hoglund, Jacob Wilson, Joshua Kuroda-Grauer 외 다수 / Seattle Mariners IL: Brendan Donovan, Brennen Davis, Cole Wilcox, Colt Emerson, Emerson Hancock 외 다수",
     "kalshi_prob": 67.0,
     "edge": -10.1,
