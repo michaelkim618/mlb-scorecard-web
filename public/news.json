@@ -1,17 +1,30 @@
 {
-  "updated_at": "2026-09-05T21:00:29.984951+00:00",
+  "updated_at": "2026-09-05T21:31:50.307612+00:00",
   "news": [
     {
-      "title": "Injuries: Ohtani, McClanahan, Crochet, Judge, Buxton, Musgrove",
-      "link": "https://www.mlb.com/news/baseball-injury-updates",
+      "title": "Vitello ejected after arguing challenged foul ball call",
+      "link": "https://www.mlb.com/news/tony-vitello-ejected-vs-mets-after-foul-ball-challenge",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rarlolj8tyylohkejsdg",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/q6q8vfcbbliqiei8okgb",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "",
+      "author": "Bill Ladson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-05T21:14:13+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Taillon (right elbow inflammation) back on injured list",
+      "link": "https://www.mlb.com/news/jameson-taillon-exits-game-with-elbow-discomfort",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wxgefir3payxvrznb213",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
       "tag": "Injury",
       "tag_color": "#DC2626",
-      "pub_date": "2026-09-05T19:38:00+00:00",
+      "pub_date": "2026-09-05T19:50:00+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -25,7 +38,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-05T19:05:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Cleveland org nets four walk-off wins -- three within minutes of each other -- in one day",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-05T05:24:00+00:00",
-      "time_ago": "15h ago"
+      "time_ago": "16h ago"
     },
     {
       "title": "Sale bolsters NL Cy Young case with strong 7-K start to extend NL East lead",
@@ -90,19 +103,6 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-09-05T04:57:00+00:00",
-      "time_ago": "16h ago"
-    },
-    {
-      "title": "First-place Crew picks up Drohan with 5-run frame to thwart Reds",
-      "link": "https://www.mlb.com/news/brewers-rally-with-five-run-fifth-inning-to-beat-reds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xvtjkw7bqsjy2igicj4q",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jeff Wallner",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-05T04:54:00+00:00",
       "time_ago": "16h ago"
     }
   ]
