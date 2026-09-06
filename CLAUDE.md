@@ -111,9 +111,10 @@ always reflow after a CSS hot-update; reload before trusting what you see.
 
 ---
 
-## Enabling the pre-commit hook
+## The pre-commit hook
 
-One-time, per clone:
+`npm install` enables it automatically (the `prepare` script points
+`core.hooksPath` at `.githooks`). To enable it by hand in an existing clone:
 
 ```bash
 git config core.hooksPath .githooks
@@ -121,3 +122,8 @@ git config core.hooksPath .githooks
 
 The hook runs `npm test` and blocks the commit on failure. `--no-verify`
 bypasses it; do not use it to get past a red suite.
+
+Verify it is active with `git config core.hooksPath` — it should print
+`.githooks`. Hook config is local to each clone and is never committed, so an
+agent working in a fresh checkout that has not run `npm install` is not
+protected by it. Run `npm test` before committing regardless.
