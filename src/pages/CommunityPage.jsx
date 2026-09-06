@@ -222,7 +222,7 @@ export default function CommunityPage() {
                 <p className="t-caption" style={{ color: "var(--color-muted)" }}>Be the first to share your take!</p>
               </div>
             ) : comments.map((c) => (
-              <div key={c.id} style={{
+              <div key={c.id} className="comment-card" style={{
                 background: "var(--color-canvas)", borderRadius: "var(--radius-lg)",
                 padding: "16px 20px", border: "1px solid var(--color-border)",
                 boxShadow: "var(--shadow-sm)",
@@ -238,7 +238,7 @@ export default function CommunityPage() {
                       ? <img src={c.profiles.avatar_url} alt="" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
                       : getInitial(c.profiles?.username)}
                   </div>
-                  <div style={{ flex: 1 }}>
+                  <div className="comment-author" style={{ flex: 1 }}>
                     <span className="t-caption-strong" style={{ color: "var(--color-ink)" }}>
                       {c.profiles?.username || "Fan"}
                     </span>

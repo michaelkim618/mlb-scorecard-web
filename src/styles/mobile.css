@@ -108,4 +108,16 @@
     flex-wrap: wrap !important;
     gap: 6px !important;
   }
+
+  /* ── 사용자 입력 텍스트: 긴 토큰 가로 오버플로 방지 ── */
+  .community-layout > div {
+    min-width: 0 !important;
+  }
+  .comment-card p,
+  .comment-author {
+    overflow-wrap: anywhere !important;
+  }
+  .comment-author {
+    min-width: 0 !important;
+  }
 }
