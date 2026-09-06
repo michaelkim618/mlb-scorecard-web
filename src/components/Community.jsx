@@ -107,21 +107,22 @@ export default function Community() {
         </div>
 
         {/* CTA */}
-        <div style={{
+        <div className="community-cta" style={{
           background: "var(--color-canvas)", borderRadius: "var(--radius-lg)",
           padding: "28px 32px", border: "1px solid var(--color-border)",
           display: "flex", alignItems: "center", justifyContent: "space-between",
           boxShadow: "var(--shadow-sm)",
+          gap: 16,
         }}>
           <div>
             <p className="t-body-strong" style={{ color: "var(--color-ink)", marginBottom: 4 }}>
               {user ? "Join the discussion →" : "Share your take on today's games"}
             </p>
-            <p className="t-caption" style={{ color: "var(--color-muted)" }}>
+            <p className="t-caption" style={{ color: "var(--color-muted)", overflowWrap: "anywhere" }}>
               {user ? `Logged in as ${user.email}` : "Sign in with Google to post comments and likes"}
             </p>
           </div>
-          <div style={{ display: "flex", gap: 10 }}>
+          <div style={{ display: "flex", gap: 10, flexWrap: "wrap" }}>
             {!user && (
               <button
                 onClick={signInWithGoogle}

@@ -132,7 +132,7 @@ export default function CommunityPage() {
           </div>
         </div>
 
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 340px", gap: 28, alignItems: "start" }}>
+        <div className="community-layout" style={{ display: "grid", gridTemplateColumns: "1fr 340px", gap: 28, alignItems: "start" }}>
 
           {/* Main: Compose + Comments */}
           <div style={{ display: "flex", flexDirection: "column", gap: 14 }}>
@@ -263,7 +263,7 @@ export default function CommunityPage() {
           </div>
 
           {/* Sidebar */}
-          <div style={{ display: "flex", flexDirection: "column", gap: 16, position: "sticky", top: "calc(var(--nav-height) + 24px)" }}>
+          <div className="community-sidebar" style={{ display: "flex", flexDirection: "column", gap: 16, position: "sticky", top: "calc(var(--nav-height) + 24px)" }}>
 
             {/* User card or sign in */}
             {!loading && (
@@ -287,7 +287,7 @@ export default function CommunityPage() {
                       </div>
                       <div>
                         <div className="t-caption-strong" style={{ color: "var(--color-ink)" }}>{profile?.username || "Fan"}</div>
-                        <div className="t-micro" style={{ color: "var(--color-muted)" }}>{user.email}</div>
+                        <div className="t-micro" style={{ color: "var(--color-muted)", overflowWrap: "anywhere" }}>{user.email}</div>
                       </div>
                     </div>
                     <button onClick={signOut} style={{

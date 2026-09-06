@@ -39,6 +39,7 @@ export default function Blog() {
             <div
               key={post.slug}
               onClick={() => navigate(`/blog/${post.slug}`)}
+              className="blog-row"
               style={{
                 display: "grid", gridTemplateColumns: "80px 1fr auto",
                 alignItems: "center", gap: 20,
@@ -58,7 +59,7 @@ export default function Blog() {
 
               {/* Content */}
               <div>
-                <div style={{ display: "flex", alignItems: "center", gap: 8, marginBottom: 5 }}>
+                <div className="blog-row-meta" style={{ display: "flex", alignItems: "center", gap: 8, marginBottom: 5 }}>
                   <span style={{
                     fontSize: 10, fontWeight: 700, textTransform: "uppercase", letterSpacing: "0.5px",
                     color: post.tag_color || "var(--color-muted)",
