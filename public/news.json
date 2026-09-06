@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-06T21:54:06.846261+00:00",
+  "updated_at": "2026-09-06T22:10:45.808875+00:00",
   "news": [
+    {
+      "title": "Skenes turns in 5 1/3 scoreless frames in 1st career start vs. childhood team",
+      "link": "https://www.mlb.com/news/paul-skenes-tosses-5-1-3-scoreless-innings-against-angels",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qe9bu4jnhi4wcv75aowe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-06T21:59:00+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "The power of the goatee? Burger goes yard twice after making change",
+      "link": "https://www.mlb.com/news/jake-burger-hits-two-home-runs-in-win-over-rays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pdpg5ox03nh99fkj6hpq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kennedi Landry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-06T21:58:04+00:00",
+      "time_ago": "12m ago"
+    },
     {
       "title": "O's place OF Robert on IL with left hamstring discomfort",
       "link": "https://www.mlb.com/news/luis-robert-jr-injured-list-left-hamstring",
@@ -12,7 +38,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-06T21:38:00+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "32m ago"
     },
     {
       "title": "Perdomo exits with head contusion after being hit on helmet by line drive",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-06T21:29:00+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "41m ago"
     },
     {
       "title": "Chapman uses signature heat to become 9th pitcher in 400-saves club",
@@ -38,7 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-09-06T21:26:40+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "44m ago"
     },
     {
       "title": "Rodriguez's solid start keeps D-backs in thick of NL Wild Card race",
@@ -51,10 +77,10 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-06T21:22:44+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "48m ago"
     },
     {
-      "title": "Padres hit back-to-back-to-back HRs to start game for 2nd time in franchise history",
+      "title": "Padres hit 3 straight HRs to start game vs. only pitcher to allow that twice",
       "link": "https://www.mlb.com/news/padres-hit-three-consecutive-home-runs-to-open-game-vs-yankees",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uhjeoibumcxvdqwf27rp",
@@ -64,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-06T21:15:32+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "Sweet redemption: Vinnie comes through with HR in clutch spot to power win",
@@ -77,32 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-06T21:10:00+00:00",
-      "time_ago": "44m ago"
-    },
-    {
-      "title": "Revamped and refreshed, Myers earns win in long-awaited Mets return",
-      "link": "https://www.mlb.com/news/mets-recall-tobias-myers-triple-a-syracuse",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/n31m6gofmq3ma1uhnaug",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-06T21:05:00+00:00",
-      "time_ago": "49m ago"
-    },
-    {
-      "title": "Schneemann becomes latest late-inning hero in Guardians' weekend of walk-offs",
-      "link": "https://www.mlb.com/news/daniel-schneemann-hits-walk-off-single-in-guardians-win-over-tigers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c7bbgki6bsrrzvadj91u",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-06T20:51:57+00:00",
       "time_ago": "1h ago"
     }
   ]
