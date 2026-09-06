@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-09-06T04:14:53.628602+00:00",
+  "updated_at": "2026-09-06T04:57:26.845340+00:00",
   "news": [
+    {
+      "title": "D-backs' 'pen blanks Astros to propel them back into Wild Card spot",
+      "link": "https://www.mlb.com/news/d-backs-defeat-astros-in-10-innings",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ikeensxwpbikzwvj6jbg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Joshua Koch",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-06T04:46:00+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Ohtani out for 3rd straight day as Dodgers weigh potential IL stint",
+      "link": "https://www.mlb.com/news/shohei-ohtani-out-third-straight-game-dodgers-injured-list-decision",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t5ytdhg6cwjauvfaoq5l",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-06T04:43:00+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "Rockies All-Star denies complaint led to cap flap between umpire, rookie",
+      "link": "https://www.mlb.com/news/hunter-goodman-denies-complaining-about-hancel-rincons-hat",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rylejum9zsuuby6bzfa0",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harding",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-09-06T04:31:00+00:00",
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "No Ohtani, no problem, as Edman's 3-run blast lifts Dodgers over Nats",
+      "link": "https://www.mlb.com/news/tommy-edman-hits-go-ahead-home-run-in-dodgers-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788667950/mlb/a0kpvvk2byn9qqm4ffuk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-06T04:24:05+00:00",
+      "time_ago": "33m ago"
+    },
+    {
+      "title": "'I took it personally': Aranda makes Rangers pay with extra-inning blast",
+      "link": "https://www.mlb.com/news/jonathan-aranda-hits-go-ahead-three-run-hr-in-rays-extra-innings-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lzyzt84cbznubshhnim4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "John Henry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-06T04:16:00+00:00",
+      "time_ago": "41m ago"
+    },
+    {
+      "title": "Rice's heater giving Tony Gwynn vibes to Boone in San Diego",
+      "link": "https://www.mlb.com/news/ben-rice-tony-gwynn-comparisons-yankees-win-san-diego",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788667276/mlb/oozsemaulfhenep1ogcc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-06T04:06:00+00:00",
+      "time_ago": "51m ago"
+    },
     {
       "title": "Bobblehead day home run? Elly does it for second straight season",
       "link": "https://www.mlb.com/news/elly-de-la-cruz-homers-bobblehead-second-straight-season",
@@ -12,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-06T04:00:00+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "Mune gives Sox 3 30-HR players, becomes 4th from Japan to reach milestone",
@@ -25,84 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-06T03:50:00+00:00",
-      "time_ago": "24m ago"
-    },
-    {
-      "title": "Injuries: Ohtani, Trout, Red Sox, Yankees, Guardians, Blue Jays",
-      "link": "https://www.mlb.com/news/baseball-injury-updates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rarlolj8tyylohkejsdg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-06T03:39:00+00:00",
-      "time_ago": "35m ago"
-    },
-    {
-      "title": "Ready and rested: Gray delivers 7 scoreless in return for stretch run",
-      "link": "https://www.mlb.com/news/sonny-gray-pitches-seven-scoreless-innings-in-red-sox-s-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vwb1ihk0iycwbrvysvns",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-06T03:37:00+00:00",
-      "time_ago": "37m ago"
-    },
-    {
-      "title": "Greene Day! All-Star lifts Tigers with 2 HRs off Messick, 4-hit showing",
-      "link": "https://www.mlb.com/news/riley-greene-hits-two-home-runs-as-tigers-beat-guardians",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tyylziyx0elrukwfy6ve",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Beck",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-06T03:29:00+00:00",
-      "time_ago": "45m ago"
-    },
-    {
-      "title": "Rockies All-Star denies complaint led to cap flap between umpire, rookie",
-      "link": "https://www.mlb.com/news/hunter-goodman-denies-complaining-about-hancel-rincons-hat",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rylejum9zsuuby6bzfa0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harding",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-09-06T03:19:00+00:00",
-      "time_ago": "55m ago"
-    },
-    {
-      "title": "Okamoto's career-high 4-hit night fuels Blue Jays' burst above .500",
-      "link": "https://www.mlb.com/news/kazuma-okamoto-first-career-4-hit-game-blue-jays-move-above-500",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788658750/mlb/g3mjuseqabimvqd6rsom",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-06T03:18:00+00:00",
-      "time_ago": "56m ago"
-    },
-    {
-      "title": "What's next for Tigers? Young core, payroll flexibility offer options",
-      "link": "https://www.mlb.com/news/tigers-offseason-needs-free-agent-targets-2026-27",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mf5alsrhhr0a3gpurr3a",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-06T02:59:24+00:00",
       "time_ago": "1h ago"
     }
   ]
