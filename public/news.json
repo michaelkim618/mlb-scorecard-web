@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T06:15:12.903261+00:00",
+  "updated_at": "2026-09-06T06:59:06.551883+00:00",
   "news": [
     {
       "title": "No Ohtani, no problem, as Edman's 3-run blast lifts Dodgers over Nats",
@@ -8,7 +8,7 @@
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788667950/mlb/a0kpvvk2byn9qqm4ffuk",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "",
+      "author": "Sonja Chen",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-06T05:12:00+00:00",
@@ -25,7 +25,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-06T04:46:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Ohtani out for 3rd straight day as Dodgers weigh potential IL stint",
@@ -38,20 +38,20 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-06T04:43:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Rockies All-Star denies complaint led to cap flap between umpire, rookie",
       "link": "https://www.mlb.com/news/hunter-goodman-denies-complaining-about-hancel-rincons-hat",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rylejum9zsuuby6bzfa0",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788675749/mlb/lfvmjgxlsvtwcxz8tjjs",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Thomas Harding",
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-09-06T04:31:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "'I took it personally': Aranda makes Rangers pay with extra-inning blast",
@@ -64,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-06T04:16:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Rice's heater giving Tony Gwynn vibes to Boone in San Diego",
@@ -103,7 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-06T03:50:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
