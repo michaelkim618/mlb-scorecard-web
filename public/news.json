@@ -1,18 +1,31 @@
 {
-  "updated_at": "2026-09-06T17:39:50.316340+00:00",
+  "updated_at": "2026-09-06T18:02:31.164254+00:00",
   "news": [
     {
-      "title": "O's place OF Robert on IL with left hamstring discomfort",
-      "link": "https://www.mlb.com/news/luis-robert-jr-injured-list-left-hamstring",
+      "title": "Elly saves injured bird, then takes flight with 2-run homer",
+      "link": "https://www.mlb.com/news/elly-de-la-cruz-homers-after-saving-injured-bird-on-field",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tme6bb7vih84brdrqmgq",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/srr5zhvuxvjoanctwlfx",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Jake Rill",
+      "author": "Mark Sheldon",
       "tag": "Injury",
       "tag_color": "#DC2626",
-      "pub_date": "2026-09-06T17:11:23+00:00",
-      "time_ago": "28m ago"
+      "pub_date": "2026-09-06T17:52:14+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "Injuries: Ohtani, Trout, Rafaela, Correa, Judge, Caglianone",
+      "link": "https://www.mlb.com/news/baseball-injury-updates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rarlolj8tyylohkejsdg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-06T17:50:00+00:00",
+      "time_ago": "12m ago"
     },
     {
       "title": "Red Sox place All-Star Rafaela (right quad) on 10-day IL",
@@ -24,8 +37,34 @@
       "author": "Ian Browne",
       "tag": "Injury",
       "tag_color": "#DC2626",
-      "pub_date": "2026-09-06T17:11:00+00:00",
-      "time_ago": "28m ago"
+      "pub_date": "2026-09-06T17:43:00+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Caglianone has Grade 1 flexor strain in elbow, but hopeful to avoid IL",
+      "link": "https://www.mlb.com/news/jac-caglianone-has-flexor-strain-in-left-elbow",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fwwxozj75pk29pbq6mnb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anne Rogers",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-06T17:31:20+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "O's place OF Robert on IL with left hamstring discomfort",
+      "link": "https://www.mlb.com/news/luis-robert-jr-injured-list-left-hamstring",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tme6bb7vih84brdrqmgq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-06T17:11:23+00:00",
+      "time_ago": "51m ago"
     },
     {
       "title": "Mets option high-leaping lefty Yan, recall Myers",
@@ -38,7 +77,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-06T16:58:24+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Trout in lineup after HBP on hand forced exit in 9th inning on Saturday",
@@ -54,19 +93,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Injuries: Ohtani, Trout, Red Sox, Yankees, Guardians, Blue Jays",
-      "link": "https://www.mlb.com/news/baseball-injury-updates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rarlolj8tyylohkejsdg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-06T15:19:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
       "title": "Cards rookie receives apology from umpire after cap flap",
       "link": "https://www.mlb.com/news/cardinals-unify-behind-rookie-hancel-rincon-after-hat-controvery",
       "summary": "",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-06T06:55:39+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "No Ohtani, no problem, as Edman's 3-run blast lifts Dodgers over Nats",
-      "link": "https://www.mlb.com/news/tommy-edman-hits-go-ahead-home-run-in-dodgers-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788667950/mlb/a0kpvvk2byn9qqm4ffuk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-06T05:12:00+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "D-backs' 'pen blanks Astros to propel them back into Wild Card spot",
-      "link": "https://www.mlb.com/news/d-backs-defeat-astros-in-10-innings",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ikeensxwpbikzwvj6jbg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Joshua Koch",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-06T04:46:00+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "11h ago"
     }
   ]
 }
