@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-06T00:04:58.866207+00:00",
+  "updated_at": "2026-09-06T00:24:41.002145+00:00",
   "news": [
+    {
+      "title": "Bobblehead day home run? Elly does it for second straight season",
+      "link": "https://www.mlb.com/news/elly-de-la-cruz-homers-bobblehead-second-straight-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bj4gyktwd6fqxk6ubp6n",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mike Petraglia",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-06T00:15:57+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Injuries: Ohtani, Red Sox, Yankees, Guardians, Blue Jays, Burnes",
+      "link": "https://www.mlb.com/news/baseball-injury-updates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rarlolj8tyylohkejsdg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-06T00:15:00+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Mune gives Sox 3 30-HR players, becomes 4th from Japan to reach milestone",
+      "link": "https://www.mlb.com/news/munetaka-murakami-reaches-30-homers-in-rookie-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/abodprc8egd3f0k9owts",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-06T00:13:19+00:00",
+      "time_ago": "11m ago"
+    },
     {
       "title": "Cleavinger (left forearm tightness) lands on IL; Johnson called up to make debut",
       "link": "https://www.mlb.com/news/garrett-cleavinger-placed-on-il-ty-johnson-called-up-to-make-mlb-debut",
@@ -12,7 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-05T23:48:53+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "35m ago"
     },
     {
       "title": "Conforto clubs Cubs' 200th HR in close win over Marlins",
@@ -25,20 +64,20 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-05T23:48:11+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "36m ago"
     },
     {
       "title": "Devers' outrageous hot streak puts him in company of Bonds, Mays",
       "link": "https://www.mlb.com/news/rafael-devers-christian-koss-lead-giants-six-homers-vs-mets",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dbknrgjtais9bqkcvndv",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788653708/mlb/dbknrgjtais9bqkcvndv",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Bill Ladson",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-05T23:23:25+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rockies All-Star denies complaint led to cap flap between umpire, rookie",
@@ -51,7 +90,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-09-05T23:22:56+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Acuña saves multiple runs with phenomenal running catch before going deep vs. Phils",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-05T23:20:46+00:00",
-      "time_ago": "44m ago"
-    },
-    {
-      "title": "Marmol ejected after rookie Rincon told to straighten hat out",
-      "link": "https://www.mlb.com/news/oliver-marmol-ejected-in-cardinals-series-opener-vs-rockies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bnwzfdbdfnof3x7yu5sn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Owen Perkins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-05T23:14:00+00:00",
-      "time_ago": "50m ago"
-    },
-    {
-      "title": "Right hamstring strain sends Grisham back to IL; Yanks recall Domínguez",
-      "link": "https://www.mlb.com/news/trent-grisham-exits-yankees-game-with-right-hamstring-discomfort",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788648229/mlb/fascvahsqzcnl2xp4r09",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-05T22:49:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "DeLauter out of Saturday's lineup, day to day with ailing wrist",
-      "link": "https://www.mlb.com/news/chase-delauter-out-of-starting-lineup-with-wrist-sprain",
-      "summary": "Holderman hopes to return from own wrist issue down the stretch",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/othcklie3bto0cfj8chg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-05T22:27:26+00:00",
       "time_ago": "1h ago"
     }
   ]
