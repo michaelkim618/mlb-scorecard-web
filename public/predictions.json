@@ -4258,7 +4258,7 @@
       "away": 0,
       "home": 0
     },
-    "lineup_confirmed": true,
+    "lineup_confirmed": false,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -4628,7 +4628,7 @@
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "lineup",
+      "bat_source": "prev_day",
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": false,
@@ -5768,7 +5768,7 @@
       "away": 0,
       "home": 0
     },
-    "lineup_confirmed": true,
+    "lineup_confirmed": false,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -6898,10 +6898,10 @@
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "lineup",
-      "away_handedness": "L",
-      "home_handedness": "L",
-      "bullpen_game": false,
+      "bat_source": "prev_day",
+      "away_handedness": "R",
+      "home_handedness": "R",
+      "bullpen_game": true,
       "any_cold_sp": true,
       "eff_weights": {
         "sp": 0.33,
@@ -6928,7 +6928,7 @@
           "trend": "cold",
           "n_games": 10,
           "sample_confidence": 1.0,
-          "rest_days": 6,
+          "rest_days": 5,
           "rest_note": null,
           "age": 27,
           "fb_velo": 91.4,
@@ -6999,7 +6999,7 @@
           "season_avg": 0.246,
           "n_games": 9,
           "source": "prev_day",
-          "handedness": "L",
+          "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
             "Yandy Díaz(0.867)",
@@ -7283,7 +7283,7 @@
       "away": 0,
       "home": 0
     },
-    "lineup_confirmed": true,
+    "lineup_confirmed": false,
     "sp_tbd": {
       "away": false,
       "home": false,
