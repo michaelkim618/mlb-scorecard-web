@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-06T04:57:26.845340+00:00",
+  "updated_at": "2026-09-06T05:37:44.397162+00:00",
   "news": [
+    {
+      "title": "No Ohtani, no problem, as Edman's 3-run blast lifts Dodgers over Nats",
+      "link": "https://www.mlb.com/news/tommy-edman-hits-go-ahead-home-run-in-dodgers-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788667950/mlb/a0kpvvk2byn9qqm4ffuk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-06T05:12:00+00:00",
+      "time_ago": "25m ago"
+    },
     {
       "title": "D-backs' 'pen blanks Astros to propel them back into Wild Card spot",
       "link": "https://www.mlb.com/news/d-backs-defeat-astros-in-10-innings",
@@ -12,7 +25,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-06T04:46:00+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "51m ago"
     },
     {
       "title": "Ohtani out for 3rd straight day as Dodgers weigh potential IL stint",
@@ -25,7 +38,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-06T04:43:00+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "Rockies All-Star denies complaint led to cap flap between umpire, rookie",
@@ -38,20 +51,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-09-06T04:31:00+00:00",
-      "time_ago": "26m ago"
-    },
-    {
-      "title": "No Ohtani, no problem, as Edman's 3-run blast lifts Dodgers over Nats",
-      "link": "https://www.mlb.com/news/tommy-edman-hits-go-ahead-home-run-in-dodgers-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788667950/mlb/a0kpvvk2byn9qqm4ffuk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-06T04:24:05+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'I took it personally': Aranda makes Rangers pay with extra-inning blast",
@@ -64,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-06T04:16:00+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rice's heater giving Tony Gwynn vibes to Boone in San Diego",
@@ -77,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-06T04:06:00+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Bobblehead day home run? Elly does it for second straight season",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-06T04:00:00+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Mune gives Sox 3 30-HR players, becomes 4th from Japan to reach milestone",
