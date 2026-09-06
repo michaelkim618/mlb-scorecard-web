@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-09-06T22:10:45.808875+00:00",
+  "updated_at": "2026-09-06T22:43:36.744827+00:00",
   "news": [
+    {
+      "title": "Chapman uses signature heat to become 9th pitcher in 400-saves club",
+      "link": "https://www.mlb.com/news/aroldis-chapman-earns-400th-save",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/julymp3xbcmsgrakhepe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-09-06T22:33:00+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "After long road to MLB, Hjerpe begins career with 4 perfect innings",
+      "link": "https://www.mlb.com/news/cooper-hjerpe-cardinals-no-18-prospect-called-up-for-mlb-debut",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/q7nckjvni2trqrcel4zk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Owen Perkins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-06T22:21:00+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "Injuries: Ohtani, Rafaela, Correa, Judge, Happ, Caglianone",
+      "link": "https://www.mlb.com/news/baseball-injury-updates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rarlolj8tyylohkejsdg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-06T22:16:00+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "D-backs monitoring Perdomo, who appears to be OK after taking liner off helmet",
+      "link": "https://www.mlb.com/news/geraldo-perdomo-exits-after-being-hit-on-helmet-by-line-drive",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ytqvvppcfxmafusp0m15",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Joshua Koch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-06T22:13:00+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "Ohtani out of starting lineup for 4th straight game; no IL decision yet",
+      "link": "https://www.mlb.com/news/shohei-ohtani-out-of-lineup-for-4th-straight-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iipjhr35sjviias6nlk1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-06T22:11:08+00:00",
+      "time_ago": "32m ago"
+    },
+    {
+      "title": "Schneemann becomes latest late-inning hero in Guardians' weekend of walk-offs",
+      "link": "https://www.mlb.com/news/daniel-schneemann-hits-walk-off-single-in-guardians-win-over-tigers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c7bbgki6bsrrzvadj91u",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-06T22:00:00+00:00",
+      "time_ago": "43m ago"
+    },
     {
       "title": "Skenes turns in 5 1/3 scoreless frames in 1st career start vs. childhood team",
       "link": "https://www.mlb.com/news/paul-skenes-tosses-5-1-3-scoreless-innings-against-angels",
@@ -12,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-06T21:59:00+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "44m ago"
     },
     {
       "title": "The power of the goatee? Burger goes yard twice after making change",
@@ -25,85 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-06T21:58:04+00:00",
-      "time_ago": "12m ago"
-    },
-    {
-      "title": "O's place OF Robert on IL with left hamstring discomfort",
-      "link": "https://www.mlb.com/news/luis-robert-jr-injured-list-left-hamstring",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tme6bb7vih84brdrqmgq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-06T21:38:00+00:00",
-      "time_ago": "32m ago"
-    },
-    {
-      "title": "Perdomo exits with head contusion after being hit on helmet by line drive",
-      "link": "https://www.mlb.com/news/geraldo-perdomo-exits-after-being-hit-on-helmet-by-line-drive",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ytqvvppcfxmafusp0m15",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Joshua Koch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-06T21:29:00+00:00",
-      "time_ago": "41m ago"
-    },
-    {
-      "title": "Chapman uses signature heat to become 9th pitcher in 400-saves club",
-      "link": "https://www.mlb.com/news/aroldis-chapman-earns-400th-save",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/julymp3xbcmsgrakhepe",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-09-06T21:26:40+00:00",
-      "time_ago": "44m ago"
-    },
-    {
-      "title": "Rodriguez's solid start keeps D-backs in thick of NL Wild Card race",
-      "link": "https://www.mlb.com/news/eduardo-rodriguez-has-strong-start-against-astros",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pdpfk7s8m668u5grk58h",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Joshua Koch",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-06T21:22:44+00:00",
-      "time_ago": "48m ago"
-    },
-    {
-      "title": "Padres hit 3 straight HRs to start game vs. only pitcher to allow that twice",
-      "link": "https://www.mlb.com/news/padres-hit-three-consecutive-home-runs-to-open-game-vs-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uhjeoibumcxvdqwf27rp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-06T21:15:32+00:00",
-      "time_ago": "55m ago"
-    },
-    {
-      "title": "Sweet redemption: Vinnie comes through with HR in clutch spot to power win",
-      "link": "https://www.mlb.com/news/vinnie-pasquantino-salvador-perez-homer-in-royals-win-vs-blue-jays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dqls9nbbpmkcqzyndr7s",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anne Rogers",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-06T21:10:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "45m ago"
     }
   ]
 }
