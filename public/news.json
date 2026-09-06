@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T08:45:25.280133+00:00",
+  "updated_at": "2026-09-06T09:02:24.702222+00:00",
   "news": [
     {
       "title": "Cards rookie receives apology from umpire after cap flap",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-06T06:55:39+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "No Ohtani, no problem, as Edman's 3-run blast lifts Dodgers over Nats",
@@ -38,7 +38,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-06T04:46:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Ohtani out for 3rd straight day as Dodgers weigh potential IL stint",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-06T04:00:00+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     }
   ]
 }
