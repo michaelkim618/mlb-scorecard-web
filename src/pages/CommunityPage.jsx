@@ -286,7 +286,7 @@ export default function CommunityPage() {
                           : getInitial(profile?.username)}
                       </div>
                       <div>
-                        <div className="t-caption-strong" style={{ color: "var(--color-ink)" }}>{profile?.username || "Fan"}</div>
+                        <div className="t-caption-strong" style={{ color: "var(--color-ink)", overflowWrap: "anywhere" }}>{profile?.username || "Fan"}</div>
                         <div className="t-micro" style={{ color: "var(--color-muted)", overflowWrap: "anywhere" }}>{user.email}</div>
                       </div>
                     </div>
