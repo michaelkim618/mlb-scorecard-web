@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-09-05T23:31:49.418852+00:00",
+  "updated_at": "2026-09-06T00:04:58.866207+00:00",
   "news": [
+    {
+      "title": "Cleavinger (left forearm tightness) lands on IL; Johnson called up to make debut",
+      "link": "https://www.mlb.com/news/garrett-cleavinger-placed-on-il-ty-johnson-called-up-to-make-mlb-debut",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wn5mulshhzqc45b1xoct",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "John Henry",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-05T23:48:53+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Conforto clubs Cubs' 200th HR in close win over Marlins",
+      "link": "https://www.mlb.com/news/cubs-hit-200th-home-run-of-season-in-win-vs-marlins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/b6qjiw5gvbl7om3wthl7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Perla Paredes",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-05T23:48:11+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Devers' outrageous hot streak puts him in company of Bonds, Mays",
+      "link": "https://www.mlb.com/news/rafael-devers-christian-koss-lead-giants-six-homers-vs-mets",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dbknrgjtais9bqkcvndv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bill Ladson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-05T23:23:25+00:00",
+      "time_ago": "41m ago"
+    },
+    {
+      "title": "Rockies All-Star denies complaint led to cap flap between umpire, rookie",
+      "link": "https://www.mlb.com/news/hunter-goodman-denies-complaining-about-hancel-rincons-hat",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rylejum9zsuuby6bzfa0",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harding",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-09-05T23:22:56+00:00",
+      "time_ago": "42m ago"
+    },
+    {
+      "title": "Acuña saves multiple runs with phenomenal running catch before going deep vs. Phils",
+      "link": "https://www.mlb.com/news/ronald-acuna-jr-makes-great-leaping-catch-hits-home-run-vs-phillies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/r9id4nmivtmybkv2wtbi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-05T23:20:46+00:00",
+      "time_ago": "44m ago"
+    },
+    {
+      "title": "Marmol ejected after rookie Rincon told to straighten hat out",
+      "link": "https://www.mlb.com/news/oliver-marmol-ejected-in-cardinals-series-opener-vs-rockies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bnwzfdbdfnof3x7yu5sn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Owen Perkins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-05T23:14:00+00:00",
+      "time_ago": "50m ago"
+    },
     {
       "title": "Right hamstring strain sends Grisham back to IL; Yanks recall Domínguez",
       "link": "https://www.mlb.com/news/trent-grisham-exits-yankees-game-with-right-hamstring-discomfort",
@@ -12,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-05T22:49:00+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "DeLauter out of Saturday's lineup, day to day with ailing wrist",
@@ -26,84 +104,6 @@
       "tag_color": "#0284C7",
       "pub_date": "2026-09-05T22:27:26+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Ryan appears set to rejoin Twins' rotation after weekend series",
-      "link": "https://www.mlb.com/news/joe-ryan-nearing-return-to-twins-rotation",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kjdqzw8phy0pa1uwujus",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-05T22:26:52+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Taillon (right elbow inflammation) back on injured list",
-      "link": "https://www.mlb.com/news/jameson-taillon-exits-game-with-elbow-discomfort",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wxgefir3payxvrznb213",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-05T22:25:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Murphy says Crew 'built to win' in postseason despite lack of home run power",
-      "link": "https://www.mlb.com/news/pat-murphy-discusses-brewers-offensive-style",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/urj5xgdb36gekjjh7rva",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-05T22:20:08+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Ohtani out for 3rd straight day as Dodgers weigh potential IL stint",
-      "link": "https://www.mlb.com/news/shohei-ohtani-out-third-straight-game-dodgers-injured-list-decision",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t5ytdhg6cwjauvfaoq5l",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-05T22:00:57+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Vitello ejected after arguing challenged foul ball call",
-      "link": "https://www.mlb.com/news/tony-vitello-ejected-vs-mets-after-foul-ball-challenge",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/q6q8vfcbbliqiei8okgb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bill Ladson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-05T21:14:13+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Cleveland org nets four walk-off wins -- three within minutes of each other -- in one day",
-      "link": "https://www.mlb.com/news/guardians-day-of-walk-offs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mxgc2sfa9a8glud18qiy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Foster",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-05T14:32:03+00:00",
-      "time_ago": "8h ago"
     }
   ]
 }
