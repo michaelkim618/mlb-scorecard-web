@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-06T16:49:20.806200+00:00",
+  "updated_at": "2026-09-06T17:19:42.106884+00:00",
   "news": [
+    {
+      "title": "O's place OF Robert on IL with left hamstring discomfort",
+      "link": "https://www.mlb.com/news/luis-robert-jr-injured-list-left-hamstring",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tme6bb7vih84brdrqmgq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-06T17:11:23+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Red Sox place All-Star Rafaela (right quad) on 10-day IL",
+      "link": "https://www.mlb.com/news/ceddanne-rafaela-injured-list-with-quad-strain",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/riqb8m3uhvgmjoo9qz8u",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-06T17:11:00+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Mets option high-leaping lefty Yan, recall Myers",
+      "link": "https://www.mlb.com/news/mets-recall-tobias-myers-triple-a-syracuse",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jgyip54x4aqqhsl101aw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-06T16:58:24+00:00",
+      "time_ago": "21m ago"
+    },
     {
       "title": "Trout in lineup after HBP on hand forced exit in 9th inning on Saturday",
       "link": "https://www.mlb.com/news/mike-trout-exits-after-hit-by-pitch-on-hand-vs-pirates",
@@ -12,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-06T16:37:00+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "Injuries: Ohtani, Trout, Red Sox, Yankees, Guardians, Blue Jays",
@@ -25,19 +64,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-06T15:19:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Red Sox place All-Star Rafaela (right quad) on 10-day IL",
-      "link": "https://www.mlb.com/news/ceddanne-rafaela-injured-list-with-quad-strain",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/riqb8m3uhvgmjoo9qz8u",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-06T14:38:29+00:00",
       "time_ago": "2h ago"
     },
     {
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-06T06:55:39+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "No Ohtani, no problem, as Edman's 3-run blast lifts Dodgers over Nats",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-06T05:12:00+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "12h ago"
     },
     {
       "title": "D-backs' 'pen blanks Astros to propel them back into Wild Card spot",
@@ -77,32 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-06T04:46:00+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "Ohtani out for 3rd straight day as Dodgers weigh potential IL stint",
-      "link": "https://www.mlb.com/news/shohei-ohtani-out-third-straight-game-dodgers-injured-list-decision",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t5ytdhg6cwjauvfaoq5l",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-06T04:43:00+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "Rockies All-Star denies complaint led to cap flap between umpire, rookie",
-      "link": "https://www.mlb.com/news/hunter-goodman-denies-complaining-about-hancel-rincons-hat",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788675749/mlb/lfvmjgxlsvtwcxz8tjjs",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harding",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-09-06T04:31:00+00:00",
       "time_ago": "12h ago"
     }
   ]
