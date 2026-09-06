@@ -8,6 +8,7 @@ import App from './App.jsx'
 import BlogListPage from './pages/BlogListPage.jsx'
 import BlogPostPage from './pages/BlogPostPage.jsx'
 import CommunityPage from './pages/CommunityPage.jsx'
+import DevAuthSwitcher from './components/DevAuthSwitcher.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -18,6 +19,7 @@ createRoot(document.getElementById('root')).render(
         <Route path="/blog/:slug" element={<BlogPostPage />} />
         <Route path="/community" element={<CommunityPage />} />
       </Routes>
+      <DevAuthSwitcher />
     </BrowserRouter>
   </StrictMode>,
 )
