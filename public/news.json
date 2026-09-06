@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-06T19:23:10.010585+00:00",
+  "updated_at": "2026-09-06T19:57:03.177917+00:00",
   "news": [
+    {
+      "title": "Elly saves injured bird, then soars with 2-run homer, 4-RBI game",
+      "link": "https://www.mlb.com/news/elly-de-la-cruz-homers-after-saving-injured-bird-on-field",
+      "summary": "Reds' first home series win over Brewers since 2022",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ctsbvc5yvmc9040dfxsl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Sheldon",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-06T19:31:00+00:00",
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "Skenes turns in 5 1/3 scoreless frames in 1st career start vs. childhood team",
+      "link": "https://www.mlb.com/news/paul-skenes-tosses-5-1-3-scoreless-innings-against-angels",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qe9bu4jnhi4wcv75aowe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-06T19:22:15+00:00",
+      "time_ago": "34m ago"
+    },
+    {
+      "title": "Perdomo exits after being hit on helmet by line drive",
+      "link": "https://www.mlb.com/news/geraldo-perdomo-exits-after-being-hit-on-helmet-by-line-drive",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ytqvvppcfxmafusp0m15",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Joshua Koch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-06T19:21:36+00:00",
+      "time_ago": "35m ago"
+    },
     {
       "title": "PCA belts 40th homer, joining list of Cubs greats",
       "link": "https://www.mlb.com/news/pete-crow-armstrong-hits-40th-home-run-2026",
@@ -12,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-06T19:17:56+00:00",
-      "time_ago": "5m ago"
+      "time_ago": "39m ago"
     },
     {
       "title": "Happ scratched from lineup due to left knee discomfort",
@@ -41,19 +80,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Elly saves injured bird, then takes flight with 2-run homer",
-      "link": "https://www.mlb.com/news/elly-de-la-cruz-homers-after-saving-injured-bird-on-field",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ctsbvc5yvmc9040dfxsl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-06T17:52:14+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Injuries: Ohtani, Trout, Rafaela, Correa, Judge, Caglianone",
       "link": "https://www.mlb.com/news/baseball-injury-updates",
       "summary": "",
@@ -64,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-06T17:50:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Red Sox place All-Star Rafaela (right quad) on 10-day IL",
@@ -77,32 +103,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-06T17:43:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Caglianone has Grade 1 flexor strain in elbow, but hopeful to avoid IL",
-      "link": "https://www.mlb.com/news/jac-caglianone-has-flexor-strain-in-left-elbow",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fwwxozj75pk29pbq6mnb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anne Rogers",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-06T17:31:20+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "O's place OF Robert on IL with left hamstring discomfort",
-      "link": "https://www.mlb.com/news/luis-robert-jr-injured-list-left-hamstring",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tme6bb7vih84brdrqmgq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-06T17:11:23+00:00",
       "time_ago": "2h ago"
     }
   ]
