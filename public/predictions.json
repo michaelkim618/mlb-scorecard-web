@@ -7290,9 +7290,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Texas Rangers",
     "model_winner": "Tampa Bay Rays",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Tampa Bay Rays IL: Ben Williamson, Edwin Uceta, Garrett Cleavinger, Gavin Lux, Jake Fraley 외 다수 / Texas Rangers IL: Carter Baumler, Cole Winn, Jack Leiter, Jalen Beeks, Jose Corniell 외 다수",
     "kalshi_prob": 50.0,
     "edge": -7.3,

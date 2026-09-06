@@ -9714,6 +9714,28 @@
       "away_bp_score": 75.0,
       "home_bp_score": 30.0,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-06",
+      "away": "Tampa Bay Rays",
+      "home": "Texas Rangers",
+      "game_number": 1,
+      "pick": "Tampa Bay Rays",
+      "pick_prob": 57.3,
+      "actual_winner": "Texas Rangers",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "stable",
+      "away_sp_era": 4.33,
+      "home_sp_era": 3.52,
+      "away_bp_era": 2.68,
+      "home_bp_era": 3.47,
+      "away_sp_score": 51.0,
+      "home_sp_score": 49.0,
+      "away_bp_score": 75.0,
+      "home_bp_score": 56.9,
+      "bat_source": "lineup"
     }
   ]
 }
