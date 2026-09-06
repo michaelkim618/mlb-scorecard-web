@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-06T06:59:06.551883+00:00",
+  "updated_at": "2026-09-06T07:18:17.623590+00:00",
   "news": [
+    {
+      "title": "Cards rookie receives apology from umpire after cap flap",
+      "link": "https://www.mlb.com/news/cardinals-unify-behind-rookie-hancel-rincon-after-hat-controvery",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788675798/mlb/x8nmjifcuktddcg0anei",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Owen Perkins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-06T06:55:39+00:00",
+      "time_ago": "22m ago"
+    },
     {
       "title": "No Ohtani, no problem, as Edman's 3-run blast lifts Dodgers over Nats",
       "link": "https://www.mlb.com/news/tommy-edman-hits-go-ahead-home-run-in-dodgers-win",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-06T05:12:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "D-backs' 'pen blanks Astros to propel them back into Wild Card spot",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-06T04:16:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Rice's heater giving Tony Gwynn vibes to Boone in San Diego",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-06T04:06:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Bobblehead day home run? Elly does it for second straight season",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-06T04:00:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Mune gives Sox 3 30-HR players, becomes 4th from Japan to reach milestone",
-      "link": "https://www.mlb.com/news/munetaka-murakami-reaches-30-homers-in-rookie-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/abodprc8egd3f0k9owts",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-06T03:50:00+00:00",
       "time_ago": "3h ago"
     }
   ]
