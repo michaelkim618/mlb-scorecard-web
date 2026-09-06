@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-06T11:56:20.440848+00:00",
+  "updated_at": "2026-09-06T16:13:17.775647+00:00",
   "news": [
+    {
+      "title": "Injuries: Ohtani, Trout, Red Sox, Yankees, Guardians, Blue Jays",
+      "link": "https://www.mlb.com/news/baseball-injury-updates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rarlolj8tyylohkejsdg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-06T15:19:00+00:00",
+      "time_ago": "54m ago"
+    },
+    {
+      "title": "Red Sox place All-Star Rafaela (right quad) on 10-day IL",
+      "link": "https://www.mlb.com/news/ceddanne-rafaela-injured-list-with-quad-strain",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/riqb8m3uhvgmjoo9qz8u",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-06T14:38:29+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Cards rookie receives apology from umpire after cap flap",
       "link": "https://www.mlb.com/news/cardinals-unify-behind-rookie-hancel-rincon-after-hat-controvery",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-06T06:55:39+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "No Ohtani, no problem, as Edman's 3-run blast lifts Dodgers over Nats",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-06T05:12:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "D-backs' 'pen blanks Astros to propel them back into Wild Card spot",
@@ -38,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-06T04:46:00+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Ohtani out for 3rd straight day as Dodgers weigh potential IL stint",
@@ -51,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-06T04:43:00+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Rockies All-Star denies complaint led to cap flap between umpire, rookie",
@@ -64,7 +90,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-09-06T04:31:00+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "'I took it personally': Aranda makes Rangers pay with extra-inning blast",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-06T04:16:00+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "Rice's heater giving Tony Gwynn vibes to Boone in San Diego",
-      "link": "https://www.mlb.com/news/ben-rice-tony-gwynn-comparisons-yankees-win-san-diego",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788667276/mlb/oozsemaulfhenep1ogcc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-06T04:06:00+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "Bobblehead day home run? Elly does it for second straight season",
-      "link": "https://www.mlb.com/news/elly-de-la-cruz-homers-bobblehead-second-straight-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bj4gyktwd6fqxk6ubp6n",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mike Petraglia",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-06T04:00:00+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "11h ago"
     }
   ]
 }
