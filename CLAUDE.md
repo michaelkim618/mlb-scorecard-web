@@ -111,6 +111,15 @@ always reflow after a CSS hot-update; reload before trusting what you see.
 
 ---
 
+## CI
+
+`.github/workflows/ci.yml` runs `npm test`, `npm run lint` and `npm run build`
+on every pull request and every push to `main`, across Node 22 and 24. Local
+dev runs a newer Node, which is what the matrix is there to catch.
+
+CI is the enforcement that cannot be bypassed — the pre-commit hook below is
+clone-local and `--no-verify` skips it. Do not merge a PR with CI red.
+
 ## The pre-commit hook
 
 `npm install` enables it automatically (the `prepare` script points

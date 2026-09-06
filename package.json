@@ -9,7 +9,7 @@
     "lint": "oxlint",
     "preview": "vite preview",
     "dev:mock": "VITE_USE_MOCK=1 vite",
-    "test": "node --test",
+    "test": "node --test test/*.test.js",
     "prepare": "git config core.hooksPath .githooks || true"
   },
   "dependencies": {

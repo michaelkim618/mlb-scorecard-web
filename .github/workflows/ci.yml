@@ -1,0 +1,40 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+# A newer push to the same branch cancels the older run.
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        # Local dev runs a newer Node than CI; the matrix catches anything
+        # that depends on a version-specific detail.
+        node: ["22", "24"]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node }}
+          cache: npm
+
+      - run: npm ci
+
+      # Runs the mock behaviour suite and the production-bundle guard, which
+      # builds twice — including once with VITE_USE_MOCK=1 — to prove the dev
+      # mock cannot reach a production bundle. See CLAUDE.md.
+      - run: npm test
+
+      - run: npm run lint
+
+      - run: npm run build
