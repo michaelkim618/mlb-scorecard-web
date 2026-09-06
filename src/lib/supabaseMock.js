@@ -2,8 +2,7 @@
 // Implements just the surface the app actually calls — see src/lib/supabase.js.
 // State lives in module scope, so a page reload resets everything to the seed.
 
-const now = Date.now();
-const iso = (minsAgo) => new Date(now - minsAgo * 60000).toISOString();
+const iso = (minsAgo) => new Date(Date.now() - minsAgo * 60000).toISOString();
 
 // ── Seed ────────────────────────────────────────────────────────────
 // Deliberately includes the adversarial content that broke mobile layout:
@@ -32,7 +31,11 @@ const seed = () => ({
   likes: [{ user_id: "u1", comment_id: "c3" }],
 });
 
-let db = seed();
+// Built lazily on first use. Nothing runs at import time, so a production
+// build can prove this module is side-effect free and drop it entirely
+// once USE_MOCK folds to false (see supabase.js).
+let _db = null;
+const db = () => (_db ??= seed());
 let seq = 100;
 
 // ── Realtime (postgres_changes + presence) ──────────────────────────
@@ -59,7 +62,7 @@ export function mockCurrentUserId() {
 }
 
 export function mockReset() {
-  db = seed();
+  _db = seed();
   notify("comments");
 }
 
@@ -86,7 +89,7 @@ class Query {
   }
 
   run() {
-    const rows = db[this.table] || [];
+    const rows = db()[this.table] || [];
 
     if (this.op === "insert") {
       const list = Array.isArray(this.payload) ? this.payload : [this.payload];
@@ -107,7 +110,7 @@ class Query {
     }
 
     if (this.op === "delete") {
-      db[this.table] = rows.filter((r) => !this.match(r));
+      db()[this.table] = rows.filter((r) => !this.match(r));
       notify(this.table);
       return { data: null, error: null };
     }
@@ -124,7 +127,7 @@ class Query {
     if (this.cols.includes("profiles(")) {
       out = out.map((r) => ({
         ...r,
-        profiles: db.profiles.find((p) => p.id === r.user_id) ?? null,
+        profiles: db().profiles.find((p) => p.id === r.user_id) ?? null,
       }));
     }
 
