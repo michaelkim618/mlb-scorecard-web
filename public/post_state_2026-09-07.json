@@ -7,13 +7,15 @@
   "lineup_refreshed": [
     "10:05",
     "11:10",
-    "14:10"
+    "14:10",
+    "17:10"
   ],
   "predictions_frozen": [
     "10:05",
     "12:10",
     "11:10",
-    "14:10"
+    "14:10",
+    "17:10"
   ],
   "frozen_predictions": {
     "10:05": [
@@ -151,6 +153,23 @@
         },
         "low_confidence": false,
         "low_confidence_reason": null,
+        "extreme_edge": false
+      }
+    ],
+    "17:10": [
+      {
+        "game_pk": "823175",
+        "win_prob": {
+          "away": 59.2,
+          "home": 40.8
+        },
+        "model_winner": "St. Louis Cardinals",
+        "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: San Francisco Giants)",
+        "edge": -14.2,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "SP 점수 차이 4.0pt (≤5.0pt)",
         "extreme_edge": false
       }
     ]
