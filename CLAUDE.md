@@ -106,11 +106,13 @@ and a leaking build to prove the assertions are live.
   the triggering content in the mock so the failure is reproducible; for logic
   bugs, a case in the relevant suite.
 - **Do not add a test framework.** `node:test` is deliberate — this project has
-  no test dependencies and should stay that way. The one exception is
-  `rolldown/parseAst`, already present via Vite: the import-time-work check
-  parses the mock rather than pattern-matching it, after three review rounds
-  found holes in a line-based regex. If that import ever fails, fix it — do
-  not let the test skip, or it stops guarding silently.
+  one runtime test dependency and should stay that way. The one exception is
+  `rolldown` (declared in devDependencies, and already present via Vite): the
+  import-time-work check parses the mock rather than pattern-matching it, after
+  three review rounds found holes in a line-based regex. It is declared rather
+  than borrowed from Vite's tree so the test does not break silently if Vite
+  changes bundler. If that import ever fails, fix it — do not let the test
+  skip, or it stops guarding silently.
 - Failing tests stop the run. Do not commit, push, or open a PR on red.
 
 ## Verification standards

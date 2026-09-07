@@ -178,16 +178,16 @@ describe("realtime", () => {
 
 describe("module hygiene", () => {
   test("importing the module does no work until it is used", () => {
-    // Parsed, not pattern-matched. Three review rounds found holes in a
-    // line-based regex — multi-line declarations, `export`, arrows in
-    // parameter defaults — because text scanning cannot see structure.
+    // Parsed, not pattern-matched: three review rounds found holes in a
+    // line-based regex because text scanning cannot see structure.
+    // Fail-closed by design — an unrecognised node is reported, not ignored.
     const src = readFileSync(new URL("../src/lib/supabaseMock.js", import.meta.url), "utf8");
     const ast = parseAst(src, { filename: "supabaseMock.js" });
 
     const PURE_CTORS = new Set(["Set", "Map", "WeakSet", "WeakMap"]);
 
-    /** Does evaluating this expression at module scope do observable work? */
-    function impure(node) {
+    /** Why evaluating this expression at module scope does observable work. */
+    function impureExpr(node) {
       if (!node) return null;
       switch (node.type) {
         case "Literal":
@@ -196,41 +196,71 @@ describe("module hygiene", () => {
         case "FunctionExpression":
         case "ClassExpression":
           return null;
+        case "SpreadElement":
+          return impureExpr(node.argument);
         case "ArrayExpression":
-          return node.elements.map(impure).find(Boolean) ?? null;
+          return node.elements.map(impureExpr).find(Boolean) ?? null;
         case "ObjectExpression":
-          return node.properties.map((p) => impure(p.value)).find(Boolean) ?? null;
+          return node.properties
+            .flatMap((prop) =>
+              prop.type === "SpreadElement"
+                ? [impureExpr(prop.argument)]
+                : [prop.computed ? impureExpr(prop.key) : null, impureExpr(prop.value)])
+            .find(Boolean) ?? null;
         case "TemplateLiteral":
-          return node.expressions.map(impure).find(Boolean) ?? null;
+          return node.expressions.map(impureExpr).find(Boolean) ?? null;
         case "UnaryExpression":
-          return impure(node.argument);
+          return impureExpr(node.argument);
         case "BinaryExpression":
         case "LogicalExpression":
-          return impure(node.left) ?? impure(node.right);
+          return impureExpr(node.left) ?? impureExpr(node.right);
+        case "ConditionalExpression":
+          return impureExpr(node.test) ?? impureExpr(node.consequent) ?? impureExpr(node.alternate);
         case "NewExpression":
-          // `new Set()` is pure; `new Thing(work())` is not.
           return PURE_CTORS.has(node.callee.name) && node.arguments.length === 0
             ? null
-            : "new " + (node.callee.name ?? "?") + "()";
+            : `new ${node.callee.name ?? "?"}()`;
         case "CallExpression":
           return "a call";
         case "MemberExpression":
-          // A property read can invoke a getter.
-          return "member access";
+          return "member access"; // a property read can invoke a getter
         default:
-          return node.type;
+          return `${node.type} (unclassified — extend this walker)`;
       }
     }
 
+    // Statements that cannot run anything when the module is imported.
+    const INERT = new Set([
+      "ImportDeclaration", "FunctionDeclaration", "ClassDeclaration",
+      "EmptyStatement", "ExportAllDeclaration",
+    ]);
+
     const offenders = [];
-    for (const node of ast.body) {
-      const decl = node.type === "ExportNamedDeclaration" ? node.declaration : node;
-      if (decl?.type !== "VariableDeclaration") continue;
-      for (const d of decl.declarations) {
-        const why = impure(d.init);
-        if (why) offenders.push(`${d.id.name}: ${why}`);
+    function checkStatement(node, label = "") {
+      if (!node || INERT.has(node.type)) return;
+      switch (node.type) {
+        case "VariableDeclaration":
+          for (const d of node.declarations) {
+            const why = impureExpr(d.init);
+            if (why) offenders.push(`${label}${d.id.name ?? "<pattern>"}: ${why}`);
+          }
+          return;
+        case "ExportNamedDeclaration":
+          return checkStatement(node.declaration, label);
+        case "ExportDefaultDeclaration": {
+          const d = node.declaration;
+          if (d && (d.type === "FunctionDeclaration" || d.type === "ClassDeclaration")) return;
+          const why = impureExpr(d);
+          if (why) offenders.push(`export default: ${why}`);
+          return;
+        }
+        default:
+          // Assignments, bare calls, IIFEs, top-level if/for/try — all run on import.
+          offenders.push(`${node.type} at module scope`);
       }
     }
+
+    for (const node of ast.body) checkStatement(node);
 
     assert.deepEqual(offenders, [], `work runs at import time:\n${offenders.join("\n")}`);
   });
