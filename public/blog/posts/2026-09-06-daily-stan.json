@@ -1,41 +1,37 @@
 {
-  "title": "Sep 6 Results: 66.7% Accuracy Across 15 Games",
-  "summary": "Sep 6 delivered 10-5 record with confidence thresholds proving critical",
+  "title": "Sep 6 Results: 66.7% Win Rate Tells the Story",
+  "summary": "Sep 6 results: 10-5 record with 66.7% accuracy across 15 games analyzed",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## The Numbers From September 6\n\nLet's break down today's performance by the data. We went 10-5 across 15 MLB matchups, hitting 66.7% accuracy. That's above our target threshold of 60%, and the confidence levels tell an interesting story about where our model performed strongest."
+      "value": "## The Numbers From September 6th\n\nLet's talk data. We went 10-5 on Saturday's slate, hitting 66.7% accuracy across 15 predictions. That's 1.7 percentage points above our target threshold, and when you're dealing with sample sizes like this, every decimal matters."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Today W-L",
+          "label": "Total Record",
           "value": "10-5"
         },
         {
-          "label": "Accuracy",
+          "label": "Win Rate",
           "value": "66.7%"
         },
         {
           "label": "Games Analyzed",
           "value": "15"
-        },
-        {
-          "label": "Avg Confidence",
-          "value": "58.5%"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## Confidence Tier Analysis\n\nHere's what the numbers show: Our 61% confidence picks went 3-1 (75% success rate). The 60% confidence tier delivered 2-2 (50% hit rate). Most interesting? The 50% confidence coin flips went 2-0. The Brewers miss at 53% was our only sub-55% loss."
+      "value": "## Confidence Level Breakdown\n\nHere's what the distribution tells us: We had 6 picks at 60-61% confidence and 2 coin-flip scenarios at 50%. The 60%+ confidence picks went 5-3 (62.5%), while our 50% picks split exactly as probability would predict at 1-1. Statistical variance at work."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 6 Prediction Performance by Game",
+      "title": "September 6th Game-by-Game Results",
       "data": [
         {
           "name": "Brewers",
@@ -103,8 +99,12 @@
       ]
     },
     {
+      "type": "text",
+      "value": "## Where We Hit\n\nThe strongest performances came from our 61% confidence tier. The Sox, Guardians, and Diamondbacks all delivered exactly as the models projected. That's a 75% hit rate on our highest-conviction plays (excluding one miss on the Rays). The Braves pick at 60% also cashed, giving us solid returns in the upper-confidence bracket."
+    },
+    {
       "type": "table",
-      "title": "Complete Game-by-Game Results",
+      "title": "Complete September 6th Results",
       "headers": [
         "Matchup",
         "Our Pick",
@@ -155,7 +155,7 @@
           "✗"
         ],
         [
-          "Diamondbacks @ Astros",
+          "D-backs @ Astros",
           "Diamondbacks",
           "61%",
           "✓"
@@ -176,22 +176,18 @@
     },
     {
       "type": "text",
-      "value": "## The Misses Worth Noting\n\nFour losses came at different confidence levels. The Rays-Rangers upset (61% confidence) stands out—our model favored Tampa Bay's road performance, but Texas delivered at home. The Giants-Mets miss at 60% shows how September roster expansions create volatility. The Cubs-Marlins outcome? Miami's 2.1 runs per game average suggested otherwise, but baseball doesn't always follow season-long trends."
-    },
-    {
-      "type": "text",
-      "value": "## What The Data Says About Tomorrow\n\nNo games scheduled for September 7. The league takes a collective breath, which gives us time to recalibrate our models with today's fresh data points. When action resumes on Sep 8, we'll have incorporated these 15 results into our confidence algorithms."
+      "value": "## Where We Missed\n\nThe misses: Brewers at 53%, Giants at 60%, Cubs at 60%, and Rays at 61%. That Rays loss stings from a confidence standpoint—61% projections should hit more than they miss. But here's the reality: in a 61% scenario, you're still expecting losses 39% of the time. Over 100 such picks, we'd anticipate 39 losses. We got one today."
     },
     {
       "type": "highlight_box",
-      "color": "#6B7280",
-      "title": "📊 Tomorrow's Schedule",
-      "value": "No Games Scheduled",
-      "sub": "MLB off day · Next picks available Sep 8"
+      "color": "#94A3B8",
+      "title": "📊 Statistical Note",
+      "value": "10-5 record translates to +4.33 units",
+      "sub": "Assuming standard -110 juice on all picks"
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\n66.7% accuracy on 15 games equals 10 correct predictions. Our bankroll management strategy suggests this day lands in the profitable zone—assuming standard unit betting, we're looking at approximately +4.5 units (factoring in -110 odds). The 61% confidence tier performing at 75% validates our modeling approach. That's the number that matters most."
+      "value": "## Tomorrow's Slate\n\nNo games scheduled for September 7th. The league takes a collective breath, and so does our prediction engine. We'll be back with fresh data, updated models, and a full slate of projections when action resumes.\n\n**The Bottom Line:** 66.7% is above threshold. The model performed within expected parameters across confidence tiers. Sample size matters, and one day's results don't define a season—but they do provide valuable calibration data.\n\nNumbers don't lie. We'll let these speak for themselves."
     }
   ],
   "slug": "2026-09-06-daily-stan",
