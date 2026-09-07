@@ -2,7 +2,7 @@
   "posts": [
     {
       "slug": "2026-09-06-daily-stan",
-      "title": "Sep 6 Results: 66.7% Win Rate - The Data Speaks Volumes",
+      "title": "Sep 6 Results: 66.7% Accuracy Across 15 Games",
       "author": "Stan",
       "author_emoji": "📊",
       "author_color": "#0EA5E9",
@@ -12,7 +12,7 @@
       "tag": "Daily Review",
       "tag_color": "#0EA5E9",
       "read_time": "3 min",
-      "summary": "Sep 6 analysis: 10-5 record with 66.7% accuracy across 15 games"
+      "summary": "Sep 6 delivered 10-5 record with confidence thresholds proving critical"
     },
     {
       "slug": "2026-09-02-daily-hana",
