@@ -5,12 +5,14 @@
   "results": false,
   "lineup_refreshed": [
     "10:05",
-    "11:10"
+    "11:10",
+    "14:10"
   ],
   "predictions_frozen": [
     "10:05",
     "12:10",
-    "11:10"
+    "11:10",
+    "14:10"
   ],
   "frozen_predictions": {
     "10:05": [
@@ -124,6 +126,28 @@
         "edge": -0.9,
         "sp_bat_conflict": false,
         "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      }
+    ],
+    "14:10": [
+      {
+        "game_pk": "823254",
+        "win_prob": {
+          "away": 40.2,
+          "home": 59.8
+        },
+        "model_winner": "San Diego Padres",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -4.2,
+        "sp_bat_conflict": true,
+        "sp_bat_conflict_detail": {
+          "sp_favors": "San Diego Padres",
+          "bat_favors": "Washington Nationals",
+          "sp_gap": -18.3,
+          "bat_gap": 13.2
+        },
         "low_confidence": false,
         "low_confidence_reason": null,
         "extreme_edge": false
