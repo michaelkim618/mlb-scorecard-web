@@ -3,6 +3,8 @@
 
 import { test, describe, beforeEach } from "node:test";
 import assert from "node:assert/strict";
+import { readFileSync } from "node:fs";
+import { parseAst } from "rolldown/parseAst";
 import {
   mockSupabase as sb, mockSignInAs, mockReset, MOCK_USERS,
 } from "../src/lib/supabaseMock.js";
@@ -175,31 +177,62 @@ describe("realtime", () => {
 });
 
 describe("module hygiene", () => {
-  test("importing the module does no work until it is used", async () => {
-    // This is what lets production drop the module entirely. If someone
-    // reintroduces top-level state, the bundle guard will fail too — but this
-    // fails faster and says why.
-    const source = await import("node:fs").then(({ readFileSync }) =>
-      readFileSync(new URL("../src/lib/supabaseMock.js", import.meta.url), "utf8"));
-    // `new Set()` and friends are pure and get dropped fine. What must not come
-    // back is work the bundler cannot prove is safe to skip: building the seed,
-    // or reading the clock, at module scope.
-    const topLevel = source
-      .split("\n")
-      // `export` included: the seed-like data in this file is exported, so
-      // exempting it would leave the likeliest regression unguarded.
-      .filter((l) => /^(export\s+)?(const|let|var)\s+\w+\s*=/.test(l))
-      .filter((l) => {
-        const init = l.slice(l.indexOf("=") + 1);
-        // Exempt a line whose initialiser *is* an arrow function — not any line
-        // that merely contains "=>", which would excuse `const x = f(a => a)`.
-        if (/^\s*(async\s+)?(\([^)]*\)|\w+)\s*=>/.test(init)) return false;
-        // Pure constructors are fine; calls and index access are not — a
-        // property read can invoke a getter, so bundlers keep the module.
-        if (/^\s*new (Set|Map|WeakMap|WeakSet)\(\)\s*;?\s*$/.test(init)) return false;
-        return /\w\s*\(/.test(init) || /\[\s*\d/.test(init);
-      });
-    assert.deepEqual(topLevel, [], `impure work at import time:\n${topLevel.join("\n")}`);
+  test("importing the module does no work until it is used", () => {
+    // Parsed, not pattern-matched. Three review rounds found holes in a
+    // line-based regex — multi-line declarations, `export`, arrows in
+    // parameter defaults — because text scanning cannot see structure.
+    const src = readFileSync(new URL("../src/lib/supabaseMock.js", import.meta.url), "utf8");
+    const ast = parseAst(src, { filename: "supabaseMock.js" });
+
+    const PURE_CTORS = new Set(["Set", "Map", "WeakSet", "WeakMap"]);
+
+    /** Does evaluating this expression at module scope do observable work? */
+    function impure(node) {
+      if (!node) return null;
+      switch (node.type) {
+        case "Literal":
+        case "Identifier":
+        case "ArrowFunctionExpression":
+        case "FunctionExpression":
+        case "ClassExpression":
+          return null;
+        case "ArrayExpression":
+          return node.elements.map(impure).find(Boolean) ?? null;
+        case "ObjectExpression":
+          return node.properties.map((p) => impure(p.value)).find(Boolean) ?? null;
+        case "TemplateLiteral":
+          return node.expressions.map(impure).find(Boolean) ?? null;
+        case "UnaryExpression":
+          return impure(node.argument);
+        case "BinaryExpression":
+        case "LogicalExpression":
+          return impure(node.left) ?? impure(node.right);
+        case "NewExpression":
+          // `new Set()` is pure; `new Thing(work())` is not.
+          return PURE_CTORS.has(node.callee.name) && node.arguments.length === 0
+            ? null
+            : "new " + (node.callee.name ?? "?") + "()";
+        case "CallExpression":
+          return "a call";
+        case "MemberExpression":
+          // A property read can invoke a getter.
+          return "member access";
+        default:
+          return node.type;
+      }
+    }
+
+    const offenders = [];
+    for (const node of ast.body) {
+      const decl = node.type === "ExportNamedDeclaration" ? node.declaration : node;
+      if (decl?.type !== "VariableDeclaration") continue;
+      for (const d of decl.declarations) {
+        const why = impure(d.init);
+        if (why) offenders.push(`${d.id.name}: ${why}`);
+      }
+    }
+
+    assert.deepEqual(offenders, [], `work runs at import time:\n${offenders.join("\n")}`);
   });
 
   test("mockReset restores the seed and signs out", async () => {

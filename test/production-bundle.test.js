@@ -138,8 +138,10 @@ describe("production bundle excludes the dev mock", () => {
     const forced = readBuild();
     // Identifier checks are meaningless in a minified bundle (see above); the
     // string literals are what actually survive and what actually catch a leak.
-    for (const s of mockOnlyStrings(MOCK_FILES[0])) {
-      assert.ok(!forced.text.includes(s), `"${s.slice(0, 48)}" shipped when the flag was set`);
+    for (const file of MOCK_FILES) {
+      for (const s of mockOnlyStrings(file)) {
+        assert.ok(!forced.text.includes(s), `${file}: "${s.slice(0, 48)}" shipped when the flag was set`);
+      }
     }
     assert.ok(forced.text.includes("supabase.co"), "real client should still be wired in");
   });

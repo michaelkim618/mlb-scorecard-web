@@ -59,9 +59,9 @@ real Supabase and cannot be verified here.
 | `test/production-bundle.test.js` | the mock cannot reach a production build |
 
 **Run `npm test` before every commit.** The bundle suite runs three real
-production builds — minified, unminified, and one with `VITE_USE_MOCK=1` —
-so the whole run takes a couple of seconds — cheap enough
-that there is no reason to skip it. A `.githooks/pre-commit` hook enforces this
+production builds (minified, unminified, and one with `VITE_USE_MOCK=1`), so the
+whole run takes a couple of seconds — cheap enough that there is no reason to
+skip it. A `.githooks/pre-commit` hook enforces this
 once configured (see below).
 
 ### The production-bundle suite is a safety guard, not a formality
@@ -106,7 +106,11 @@ and a leaking build to prove the assertions are live.
   the triggering content in the mock so the failure is reproducible; for logic
   bugs, a case in the relevant suite.
 - **Do not add a test framework.** `node:test` is deliberate — this project has
-  no test dependencies and should stay that way.
+  no test dependencies and should stay that way. The one exception is
+  `rolldown/parseAst`, already present via Vite: the import-time-work check
+  parses the mock rather than pattern-matching it, after three review rounds
+  found holes in a line-based regex. If that import ever fails, fix it — do
+  not let the test skip, or it stops guarding silently.
 - Failing tests stop the run. Do not commit, push, or open a PR on red.
 
 ## Verification standards
