@@ -1,18 +1,57 @@
 {
-  "updated_at": "2026-09-07T00:31:14.177406+00:00",
+  "updated_at": "2026-09-07T01:15:21.394970+00:00",
   "news": [
     {
-      "title": "Happ (left knee discomfort) scratched from Sunday lineup",
-      "link": "https://www.mlb.com/news/ian-happ-scratched-from-lineup-due-to-left-knee-injury",
+      "title": "Injuries: Ohtani, Rafaela, Correa, Judge, Happ, Caglianone",
+      "link": "https://www.mlb.com/news/baseball-injury-updates",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/awimohcuch3xg3tukbti",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rarlolj8tyylohkejsdg",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Perla Paredes",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-07T00:40:00+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "4 perfect innings and a 'W': Hjerpe's MLB debut could not have gone better",
+      "link": "https://www.mlb.com/news/cooper-hjerpe-cardinals-no-18-prospect-called-up-for-mlb-debut",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788735386/mlb/q7nckjvni2trqrcel4zk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Owen Perkins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-07T00:34:00+00:00",
+      "time_ago": "41m ago"
+    },
+    {
+      "title": "Ohtani out of starting lineup for 4th straight game; Roberts 'hopeful' for Monday return",
+      "link": "https://www.mlb.com/news/shohei-ohtani-out-of-lineup-for-4th-straight-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iipjhr35sjviias6nlk1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
       "tag": "Roster",
       "tag_color": "#0284C7",
-      "pub_date": "2026-09-06T23:42:00+00:00",
-      "time_ago": "49m ago"
+      "pub_date": "2026-09-07T00:33:00+00:00",
+      "time_ago": "42m ago"
+    },
+    {
+      "title": "Woo rewards Wilson's trust with 8-inning, skid-snapping gem",
+      "link": "https://www.mlb.com/news/bryan-woo-throws-8-scoreless-innings-as-mariners-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788733172/mlb/nnjhudexvsaxrw8mnyek",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-07T00:31:00+00:00",
+      "time_ago": "44m ago"
     },
     {
       "title": "Rare slip during 12-K start leads to push-up on the mound",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-06T23:15:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "PCA becomes 10th Cub to hit 40 HRs. Is 40-40 club next?",
@@ -64,46 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-06T23:10:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Could Sandy close down stretch? He was prepared before Marlins ran away from Cubs",
-      "link": "https://www.mlb.com/news/heriberto-hernandez-javier-sanoja-homer-in-marlins-win-vs-cubs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/b1qksyrcp5n7sqymqxny",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Christina De Nicola",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-06T22:57:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Padres hit 3 straight HRs to start game vs. only pitcher to allow that twice",
-      "link": "https://www.mlb.com/news/padres-hit-three-consecutive-home-runs-to-open-game-vs-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uhjeoibumcxvdqwf27rp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-06T22:55:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "After long road to MLB, Hjerpe begins career with 4 perfect innings",
-      "link": "https://www.mlb.com/news/cooper-hjerpe-cardinals-no-18-prospect-called-up-for-mlb-debut",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788735386/mlb/q7nckjvni2trqrcel4zk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Owen Perkins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-06T22:53:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
