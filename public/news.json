@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-07T21:45:01.219606+00:00",
+  "updated_at": "2026-09-07T21:56:45.765384+00:00",
   "news": [
+    {
+      "title": "D-backs' bullpen shines as offense erupts in 10th in victory over Royals",
+      "link": "https://www.mlb.com/news/diamondbacks-bullpen-shines-in-victory-over-royals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788815673/mlb/dmkeqjwhy2qdc7ttyex7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Robert Falkoff",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-07T21:29:46+00:00",
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "Ryan K's 7, flashes shades of vintage self in return from rehab",
+      "link": "https://www.mlb.com/news/joe-ryan-solid-vs-tigers-in-first-game-since-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fheyriubjejidely3ngg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-07T21:26:14+00:00",
+      "time_ago": "30m ago"
+    },
     {
       "title": "Amazing robberies rescue Crew from Cubs' last stand in rivalry thriller",
       "link": "https://www.mlb.com/news/jackson-chourio-two-run-single-brewers-win-cubs",
@@ -12,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-07T21:00:38+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "56m ago"
     },
     {
       "title": "Mayo's 2-HR outburst helps O's gain ground on Guardians",
@@ -25,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-07T20:56:00+00:00",
-      "time_ago": "49m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Ryan activated from IL, tosses four innings vs. Tigers",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T20:50:00+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "In 1st start since June 4, Bello blanks Angels for Red Sox's 5th straight win",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T19:16:13+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Miz set to battle rival Cubs for 4th and final time of '26 season",
-      "link": "https://www.mlb.com/news/jacob-misiorowski-fourth-start-cubs-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fb3ddyvupzty2zs26bjf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-07T17:55:37+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "'Totally different' Blue Jays ready for final push toward playoffs",
-      "link": "https://www.mlb.com/news/laying-out-blue-jays-path-to-american-league-wild-card-spot",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/k1qmywby4voglt6j5d1b",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-07T17:50:50+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }

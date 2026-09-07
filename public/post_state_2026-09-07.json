@@ -9,7 +9,8 @@
     "11:10",
     "14:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:05"
   ],
   "predictions_frozen": [
     "10:05",
@@ -17,7 +18,8 @@
     "11:10",
     "14:10",
     "17:10",
-    "18:10"
+    "18:10",
+    "19:05"
   ],
   "frozen_predictions": {
     "10:05": [
@@ -192,6 +194,23 @@
           "sp_gap": -20.1,
           "bat_gap": 29.3
         },
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      }
+    ],
+    "19:05": [
+      {
+        "game_pk": "824958",
+        "win_prob": {
+          "away": 60.0,
+          "home": 40.0
+        },
+        "model_winner": "Toronto Blue Jays",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 6.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
         "low_confidence": false,
         "low_confidence_reason": null,
         "extreme_edge": false
