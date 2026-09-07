@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-07T22:11:01.532152+00:00",
+  "updated_at": "2026-09-07T22:26:45.803157+00:00",
   "news": [
+    {
+      "title": "Merrill hits wall hard on outstanding first-inning catch",
+      "link": "https://www.mlb.com/news/jackson-merrill-outstanding-catch-at-wall",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bwzrsglbgz214skqmwrr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Cole Bradley",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-07T22:19:14+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Ohtani returns to Dodgers lineup after missing four games",
+      "link": "https://www.mlb.com/news/shohei-ohtani-returns-to-dodgers-lineup-after-missing-four-games",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xxmu4ab2oo9nj9byedbq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-07T22:09:34+00:00",
+      "time_ago": "17m ago"
+    },
     {
       "title": "D-backs' bullpen shines as offense erupts in 10th in victory over Royals",
       "link": "https://www.mlb.com/news/diamondbacks-bullpen-shines-in-victory-over-royals",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T21:29:46+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "56m ago"
     },
     {
       "title": "Fischer leads Prospect Team of the Week for fifth time in final 2026 edition",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T21:27:54+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Ryan K's 7, flashes shades of vintage self in return from rehab",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T21:26:14+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Amazing robberies rescue Crew from Cubs' last stand in rivalry thriller",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T20:50:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "In 1st start since June 4, Bello blanks Angels for Red Sox's 5th straight win",
-      "link": "https://www.mlb.com/news/brayan-bello-scoreless-start-red-sox-beat-angels",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788816587/mlb/t4ujotegv2ftpkqxh3m5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-07T20:31:02+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Tong rejoins Mets' rotation with 7 K's in 5 innings",
-      "link": "https://www.mlb.com/news/jonah-tong-rejoins-mets-5-innings-vs-marlins",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788805179/mlb/wvat61w1ea4qxl8kngcu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Perla Paredes",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-07T20:22:00+00:00",
       "time_ago": "1h ago"
     }
   ]
