@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-07T05:43:58.556112+00:00",
+  "updated_at": "2026-09-07T06:16:12.090285+00:00",
   "news": [
+    {
+      "title": "Ohtani out of starting lineup for 4th straight game, expected to return Monday",
+      "link": "https://www.mlb.com/news/shohei-ohtani-out-of-lineup-for-4th-straight-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iipjhr35sjviias6nlk1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-07T05:57:00+00:00",
+      "time_ago": "19m ago"
+    },
     {
       "title": "Betts' late blast propels Dodgers to sweep of Nats",
       "link": "https://www.mlb.com/news/mookie-betts-go-ahead-home-run-lifts-dodgers-over-nationals",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T05:29:32+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "46m ago"
     },
     {
       "title": "These 5 series have massive postseason implications",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T05:06:51+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "New club joins Power Rankings Top 5 for stretch run",
@@ -38,7 +51,7 @@
       "tag": "Rankings",
       "tag_color": "#4F46E5",
       "pub_date": "2026-09-07T05:04:00+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Everything comes up White Sox in rout to seal series win",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T02:53:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Mariners call up Arroyo for MLB debut -- and reunion with his best friend",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T01:49:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Charlie Condon mashes not one, but TWO GRAND SLAMS in Triple-A outburst",
@@ -90,19 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-07T01:13:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Injuries: Ohtani, Rafaela, Correa, Judge, Happ, Caglianone",
-      "link": "https://www.mlb.com/news/baseball-injury-updates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rarlolj8tyylohkejsdg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-07T00:40:00+00:00",
       "time_ago": "5h ago"
     }
   ]
