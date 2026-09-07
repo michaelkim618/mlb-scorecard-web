@@ -8,14 +8,16 @@
     "10:05",
     "11:10",
     "14:10",
-    "17:10"
+    "17:10",
+    "18:10"
   ],
   "predictions_frozen": [
     "10:05",
     "12:10",
     "11:10",
     "14:10",
-    "17:10"
+    "17:10",
+    "18:10"
   ],
   "frozen_predictions": {
     "10:05": [
@@ -170,6 +172,28 @@
         "sp_bat_conflict_detail": null,
         "low_confidence": true,
         "low_confidence_reason": "SP 점수 차이 4.0pt (≤5.0pt)",
+        "extreme_edge": false
+      }
+    ],
+    "18:10": [
+      {
+        "game_pk": "823902",
+        "win_prob": {
+          "away": 50.0,
+          "home": 50.0
+        },
+        "model_winner": "Los Angeles Dodgers",
+        "value_bet": "⏭️ 패스 (박빙 경기 — 예측 신뢰도 낮음)",
+        "edge": -12.0,
+        "sp_bat_conflict": true,
+        "sp_bat_conflict_detail": {
+          "sp_favors": "Los Angeles Dodgers",
+          "bat_favors": "Cincinnati Reds",
+          "sp_gap": -20.1,
+          "bat_gap": 29.3
+        },
+        "low_confidence": false,
+        "low_confidence_reason": null,
         "extreme_edge": false
       }
     ]

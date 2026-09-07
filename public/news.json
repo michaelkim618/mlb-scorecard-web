@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-07T21:03:49.988032+00:00",
+  "updated_at": "2026-09-07T21:45:01.219606+00:00",
   "news": [
+    {
+      "title": "Amazing robberies rescue Crew from Cubs' last stand in rivalry thriller",
+      "link": "https://www.mlb.com/news/jackson-chourio-two-run-single-brewers-win-cubs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w9yagxjfmiuyqg1b2urv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-07T21:00:38+00:00",
+      "time_ago": "44m ago"
+    },
+    {
+      "title": "Mayo's 2-HR outburst helps O's gain ground on Guardians",
+      "link": "https://www.mlb.com/news/coby-mayo-homers-twice-as-orioles-beat-guardians",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788809232/mlb/tt5dpmqjuinlfoau1i4y",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-07T20:56:00+00:00",
+      "time_ago": "49m ago"
+    },
     {
       "title": "Ryan activated from IL, tosses four innings vs. Tigers",
       "link": "https://www.mlb.com/news/joe-ryan-set-to-return-from-injured-list",
@@ -12,20 +38,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T20:50:00+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "In 1st start since June 4, Bello blanks Angels for Red Sox's 5th straight win",
       "link": "https://www.mlb.com/news/brayan-bello-scoreless-start-red-sox-beat-angels",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t4ujotegv2ftpkqxh3m5",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788816587/mlb/t4ujotegv2ftpkqxh3m5",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Ian Browne",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T20:31:02+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Tong rejoins Mets' rotation with 7 K's in 5 innings",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T20:22:00+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Luzardo K's 12 in 1st career shutout as Phils earn pivotal split with Braves",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T19:16:13+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Miz set to battle rival Cubs for 4th and final time of '26 season",
@@ -77,32 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-07T17:50:50+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Houck (Tommy John surgery) nears return while vying to help Red Sox's playoff push",
-      "link": "https://www.mlb.com/news/tanner-houck-recovery-tommy-john-surgery",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vitswjmhdeefyndaumqd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-07T17:46:07+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Perdomo returns to D-backs' lineup after being hit on helmet by line drive",
-      "link": "https://www.mlb.com/news/geraldo-perdomo-exits-after-being-hit-on-helmet-by-line-drive",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788802406/mlb/qo3ulucbamhsjpo7i5f4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Robert Falkoff",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-07T17:42:00+00:00",
       "time_ago": "3h ago"
     }
   ]

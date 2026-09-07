@@ -2898,7 +2898,7 @@
       "home_defense": 62.1
     },
     "actual_score": {
-      "away": 1,
+      "away": 4,
       "home": 6
     },
     "lineup_confirmed": true,
@@ -3597,8 +3597,8 @@
       "home_defense": 54.0
     },
     "actual_score": {
-      "away": 0,
-      "home": 0
+      "away": 5,
+      "home": 4
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -3607,9 +3607,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Arizona Diamondbacks",
     "model_winner": "Kansas City Royals",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Corbin Burnes, Cristian Mena, Michael Soroka 외 다수 / Kansas City Royals IL: Alec Marsh, Beck Way, Carlos Estévez, Cole Ragans, Connor Seabold 외 다수",
     "kalshi_prob": 60.0,
     "edge": 4.6,
@@ -4337,8 +4337,8 @@
       "home_defense": 49.8
     },
     "actual_score": {
-      "away": 2,
-      "home": 1
+      "away": 3,
+      "home": 4
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -5100,8 +5100,8 @@
       "home_defense": 46.8
     },
     "actual_score": {
-      "away": 1,
-      "home": 3
+      "away": 4,
+      "home": 5
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -5110,9 +5110,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Detroit Tigers",
     "model_winner": "Detroit Tigers",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Minnesota Twins IL: Anthony Banda, Austin Martin, Byron Buxton, Cole Sands, David Festa 외 다수 / Detroit Tigers IL: Bailey Horn, Burch Smith, Jack Flaherty, Justin Verlander, Kerry Carpenter 외 다수",
     "kalshi_prob": 76.0,
     "edge": -2.0,
@@ -5787,7 +5787,7 @@
     },
     "actual_score": {
       "away": 0,
-      "home": 0
+      "home": 1
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -5796,9 +5796,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "San Diego Padres",
     "model_winner": "San Diego Padres",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Washington Nationals IL: Connelly Early, DJ Herz, Drew Millas, Josiah Gray, Ken Waldichuk 외 다수 / San Diego Padres IL: Bryan Hoeing, Gavin Sheets, Jason Adam, Jeremiah Estrada, Joe Musgrove 외 다수",
     "kalshi_prob": 64.0,
     "edge": -4.2,
@@ -5830,7 +5830,7 @@
       "div_name": "NL Central",
       "wins": 72,
       "losses": 72,
-      "games_back": "16.0"
+      "games_back": "16.5"
     },
     "home_standing": {
       "div_rank": 4,
@@ -6158,13 +6158,13 @@
     },
     "expected_score": {
       "away": 4.2,
-      "home": 2.8
+      "home": 2.7
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": true,
@@ -6288,8 +6288,8 @@
             "Alec Burleson(0.631)",
             "Jordan Walker(0.774)",
             "Leo Bernal(0.907)",
-            "Joshua Báez(1.036)",
             "Nolan Gorman(0.599)",
+            "Joshua Báez(1.036)",
             "Thomas Saggese(1.210)",
             "Nathan Church(0.585)"
           ],
@@ -6325,16 +6325,16 @@
               "avg": 0.333
             },
             {
-              "id": 695491,
-              "name": "Joshua Báez",
-              "ops": 1.036,
-              "avg": 0.375
-            },
-            {
               "id": 669357,
               "name": "Nolan Gorman",
               "ops": 0.599,
               "avg": 0.161
+            },
+            {
+              "id": 695491,
+              "name": "Joshua Báez",
+              "ops": 1.036,
+              "avg": 0.375
             },
             {
               "id": 695336,
@@ -6435,47 +6435,47 @@
             }
           ]
         },
-        "bp_score": 41.1,
+        "bp_score": 41.5,
         "bp_detail": {
-          "bullpen_era": 4.18,
-          "recent_era": 4.21,
-          "recent_appearances": 25,
-          "recent_ip": 47.0,
-          "team_era": 4.21,
-          "bp_ip": 198.0,
+          "bullpen_era": 4.28,
+          "recent_era": 3.91,
+          "recent_appearances": 24,
+          "recent_ip": 46.0,
+          "team_era": 4.24,
+          "bp_ip": 210.3,
           "bp_count": 11,
           "closer_era": 4.66,
           "closer_name": "Joel Kuhnel"
         },
-        "bat_score": 36.8,
+        "bat_score": 35.8,
         "bat_detail": {
           "recent_avg": 0.243,
           "runs_per_g": 5.7,
           "hr_per_g": 1.4,
           "bb_per_g": 3.0,
-          "season_ops": 0.736,
+          "season_ops": 0.719,
           "season_avg": 0.243,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Drew Gilbert(0.645)",
+            "Turner Hill(0.826)",
             "Rafael Devers(1.128)",
             "Bryce Eldridge(0.912)",
             "Jonah Cox(0.829)",
             "Jung Hoo Lee(0.611)",
             "Osleivis Basabe(0.636)",
-            "Grant McCray(0.665)",
-            "Drew Cavanaugh(0.574)",
+            "Andrew Knizner(0.485)",
+            "Shay Whitcomb(0.421)",
             "Christian Koss(0.625)"
           ],
           "lineup_players": [
             {
-              "id": 687551,
-              "name": "Drew Gilbert",
-              "ops": 0.645,
-              "avg": 0.154
+              "id": 806367,
+              "name": "Turner Hill",
+              "ops": 0.826,
+              "avg": 0.353
             },
             {
               "id": 646240,
@@ -6508,16 +6508,16 @@
               "avg": 0.16
             },
             {
-              "id": 687529,
-              "name": "Grant McCray",
-              "ops": 0.665,
-              "avg": 0.227
+              "id": 668800,
+              "name": "Andrew Knizner",
+              "ops": 0.485,
+              "avg": 0.13
             },
             {
-              "id": 701852,
-              "name": "Drew Cavanaugh",
-              "ops": 0.574,
-              "avg": 0.222
+              "id": 694376,
+              "name": "Shay Whitcomb",
+              "ops": 0.421,
+              "avg": 0.125
             },
             {
               "id": 683766,
@@ -6543,20 +6543,20 @@
           }
         },
         "sit_score": 42.6,
-        "total": 40.8
+        "total": 40.6
       }
     },
     "scores": {
       "away_offense": 57.4,
       "away_defense": 40.7,
-      "home_offense": 36.8,
-      "home_defense": 36.5
+      "home_offense": 35.8,
+      "home_defense": 36.8
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -6592,7 +6592,7 @@
       "div_name": "NL Central",
       "wins": 69,
       "losses": 74,
-      "games_back": "18.5"
+      "games_back": "19.0"
     },
     "home_standing": {
       "div_rank": 1,
@@ -7306,7 +7306,7 @@
     "actual_winner": null,
     "model_winner": "Los Angeles Dodgers",
     "model_correct": null,
-    "notes": "Cincinnati Reds IL: Blake Dunn, Hunter Greene, Ke'Bryan Hayes, Michael Toglia, Spencer Steer / Los Angeles Dodgers IL: Andy Pages, Ben Casparius, Brusdar Graterol, Dalton Rushing, Edwin Díaz 외 다수",
+    "notes": "Cincinnati Reds IL: Blake Dunn, Hunter Greene, Michael Toglia, Spencer Steer / Los Angeles Dodgers IL: Andy Pages, Ben Casparius, Brusdar Graterol, Dalton Rushing, Edwin Díaz 외 다수",
     "kalshi_prob": 62.0,
     "edge": -12.0,
     "value_bet": "⏭️ 패스 (박빙 경기 — 예측 신뢰도 낮음)",
