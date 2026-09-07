@@ -9912,6 +9912,28 @@
       "away_bp_score": 72.5,
       "home_bp_score": 57.2,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-07",
+      "away": "Chicago Cubs",
+      "home": "Milwaukee Brewers",
+      "game_number": 1,
+      "pick": "Milwaukee Brewers",
+      "pick_prob": 56.1,
+      "actual_winner": "Milwaukee Brewers",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 3.41,
+      "home_sp_era": 4.69,
+      "away_bp_era": 3.78,
+      "home_bp_era": 2.95,
+      "away_sp_score": 50.6,
+      "home_sp_score": 36.0,
+      "away_bp_score": 44.9,
+      "home_bp_score": 63.5,
+      "bat_source": "lineup"
     }
   ]
 }

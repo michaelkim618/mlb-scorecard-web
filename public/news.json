@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-07T20:42:03.896435+00:00",
+  "updated_at": "2026-09-07T21:03:49.988032+00:00",
   "news": [
+    {
+      "title": "Ryan activated from IL, tosses four innings vs. Tigers",
+      "link": "https://www.mlb.com/news/joe-ryan-set-to-return-from-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788731309/mlb/pxkfhgjra6qmb6liesfa",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-07T20:50:00+00:00",
+      "time_ago": "13m ago"
+    },
     {
       "title": "In 1st start since June 4, Bello blanks Angels for Red Sox's 5th straight win",
       "link": "https://www.mlb.com/news/brayan-bello-scoreless-start-red-sox-beat-angels",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T20:31:02+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "32m ago"
     },
     {
       "title": "Tong rejoins Mets' rotation with 7 K's in 5 innings",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T20:22:00+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "41m ago"
     },
     {
       "title": "Luzardo K's 12 in 1st career shutout as Phils earn pivotal split with Braves",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T17:55:37+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "'Totally different' Blue Jays ready for final push toward playoffs",
@@ -64,7 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-07T17:50:50+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Houck (Tommy John surgery) nears return while vying to help Red Sox's playoff push",
@@ -77,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-07T17:46:07+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Perdomo returns to D-backs' lineup after being hit on helmet by line drive",
@@ -90,19 +103,6 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-07T17:42:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Anderson (biceps) to IL, Sproat recalled as Crew navigates pitching staff's tough stretch",
-      "link": "https://www.mlb.com/news/grant-anderson-injured-list-brewers-recall-brandon-sproat",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bkv880culofrv1pvp6sd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-07T17:32:38+00:00",
       "time_ago": "3h ago"
     }
   ]
