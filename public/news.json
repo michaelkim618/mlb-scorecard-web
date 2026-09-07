@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T21:56:45.765384+00:00",
+  "updated_at": "2026-09-07T22:11:01.532152+00:00",
   "news": [
     {
       "title": "D-backs' bullpen shines as offense erupts in 10th in victory over Royals",
@@ -12,7 +12,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T21:29:46+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "41m ago"
+    },
+    {
+      "title": "Fischer leads Prospect Team of the Week for fifth time in final 2026 edition",
+      "link": "https://www.mlb.com/news/prospect-team-of-the-week-september-7-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xxsg04df8mfiisv9knx1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ben Weinrib",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-07T21:27:54+00:00",
+      "time_ago": "43m ago"
     },
     {
       "title": "Ryan K's 7, flashes shades of vintage self in return from rehab",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T21:26:14+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "44m ago"
     },
     {
       "title": "Amazing robberies rescue Crew from Cubs' last stand in rivalry thriller",
@@ -38,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-07T21:00:38+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Mayo's 2-HR outburst helps O's gain ground on Guardians",
@@ -91,19 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T20:22:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Luzardo K's 12 in 1st career shutout as Phils earn pivotal split with Braves",
-      "link": "https://www.mlb.com/news/jesus-luzardo-throws-complete-game-shutout-vs-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bkai6o9rpl7vudbyo38b",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-07T19:16:13+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
