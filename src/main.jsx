@@ -19,7 +19,7 @@ createRoot(document.getElementById('root')).render(
         <Route path="/blog/:slug" element={<BlogPostPage />} />
         <Route path="/community" element={<CommunityPage />} />
       </Routes>
-      <DevAuthSwitcher />
+      {import.meta.env.DEV && <DevAuthSwitcher />}
     </BrowserRouter>
   </StrictMode>,
 )

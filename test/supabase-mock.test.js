@@ -70,6 +70,21 @@ describe("auth", () => {
     subscription.unsubscribe();
   });
 
+  test("signInWithOAuth returns to the last picked user, not always the first", async () => {
+    // The app's own "Sign in with Google" button routes here. signOut nulls the
+    // session, so the last identity has to be tracked separately or the button
+    // always lands on MOCK_USERS[0] and the long-username seed is unreachable.
+    mockSignInAs("u2");
+    await sb.auth.signOut();
+    await sb.auth.signInWithOAuth({ provider: "google" });
+    assert.equal((await sb.auth.getSession()).data.session.user.id, "u2");
+  });
+
+  test("signInWithOAuth defaults to the first user before any pick", async () => {
+    await sb.auth.signInWithOAuth({ provider: "google" });
+    assert.equal((await sb.auth.getSession()).data.session.user.id, MOCK_USERS[0].id);
+  });
+
   test("unsubscribe stops events", async () => {
     let n = 0;
     const { data: { subscription } } = sb.auth.onAuthStateChange(() => n++);
@@ -104,6 +119,20 @@ describe("writes", () => {
     assert.equal(after.length, 0);
   });
 
+  test("a write to an unmodelled table fails loudly", async () => {
+    // Silently succeeding here is the worst thing a mock can do: the dev sees a
+    // green write and an empty read, and debugs the wrong layer.
+    // The query builder is a thenable, not a Promise, so await it inside async fns.
+    await assert.rejects(
+      async () => { await sb.from("bookmarks").insert({ user_id: "u1", game_id: "g1" }); },
+      /unmodelled table "bookmarks"/,
+    );
+    await assert.rejects(
+      async () => { await sb.from("commnets").select("*"); },
+      /unmodelled table "commnets"/,
+    );
+  });
+
   test("fetchMyLikes: filters by user", async () => {
     const { data } = await sb.from("likes").select("comment_id").eq("user_id", "u1");
     assert.deepEqual(data.map((l) => l.comment_id), ["c3"]);
@@ -126,15 +155,22 @@ describe("realtime", () => {
     assert.equal(hits, before, "removeChannel should stop notifications");
   });
 
-  test("presence sync fires and presenceState is keyed", async () => {
+  test("presence is keyed by the configured presence key, not the channel name", async () => {
+    // Both call sites pass config.presence.key; the real client keys state by it.
+    // Asserting only Object.keys(...).length hid the wrong shape here.
     let synced = false;
-    const ch = sb.channel("online-home");
+    const ch = sb.channel("online-home", { config: { presence: { key: "u2" } } });
     ch.on("presence", { event: "sync" }, () => { synced = true; })
-      .subscribe(async (status) => { if (status === "SUBSCRIBED") await ch.track({}); });
+      .subscribe(async (status) => {
+        if (status === "SUBSCRIBED") await ch.track({ online_at: "2026-09-06T00:00:00Z" });
+      });
 
     await new Promise((r) => setTimeout(r, 10));
     assert.ok(synced, "presence sync never fired");
-    assert.equal(Object.keys(ch.presenceState()).length, 1);
+
+    const state = ch.presenceState();
+    assert.deepEqual(Object.keys(state), ["u2"], "should key by presence key");
+    assert.equal(state.u2[0].online_at, "2026-09-06T00:00:00Z", "track payload should be retained");
     sb.removeChannel(ch);
   });
 });
@@ -153,7 +189,13 @@ describe("module hygiene", () => {
       .split("\n")
       .filter((l) => /^(const|let|var)\s+\w+\s*=/.test(l))
       .filter((l) => !/=>/.test(l))
-      .filter((l) => /\b(seed|Date\.now)\s*\(/.test(l));
+      .filter((l) => {
+        const init = l.slice(l.indexOf("=") + 1);
+        // Pure constructors are fine; calls and index/member access are not —
+        // a property read can invoke a getter, so bundlers keep the module.
+        if (/^\s*new (Set|Map|WeakMap|WeakSet)\(\)\s*;?\s*$/.test(init)) return false;
+        return /\w\s*\(/.test(init) || /\[\s*\d/.test(init);
+      });
     assert.deepEqual(topLevel, [], `impure work at import time:\n${topLevel.join("\n")}`);
   });
 

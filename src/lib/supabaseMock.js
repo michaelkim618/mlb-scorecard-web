@@ -44,6 +44,10 @@ const notify = (table) => tableSubs.forEach((s) => s.table === table && s.cb({ t
 
 // ── Auth ────────────────────────────────────────────────────────────
 let session = null;
+// Kept separately from `session`, which signOut nulls — the app's own
+// "Sign in with Google" button must return to whoever was last picked.
+// Left null (not MOCK_USERS[0].id) so module scope stays free of member access.
+let lastUserId = null;
 const authSubs = new Set();
 const emitAuth = (event) => authSubs.forEach((cb) => cb(event, session));
 
@@ -53,6 +57,7 @@ function toAuthUser(u) {
 
 export function mockSignInAs(userId) {
   const u = MOCK_USERS.find((x) => x.id === userId) || MOCK_USERS[0];
+  lastUserId = u.id;
   session = { user: toAuthUser(u) };
   emitAuth("SIGNED_IN");
 }
@@ -63,6 +68,7 @@ export function mockCurrentUserId() {
 
 export function mockReset() {
   _db = seed();
+  lastUserId = null;
   notify("comments");
 }
 
@@ -89,7 +95,16 @@ class Query {
   }
 
   run() {
-    const rows = db()[this.table] || [];
+    const store = db();
+    if (!(this.table in store)) {
+      // Real PostgREST errors here. Reporting success for a write that goes
+      // nowhere is the one failure a mock must never have.
+      throw new Error(
+        `supabaseMock: unmodelled table "${this.table}". Add it to seed() in ` +
+        `src/lib/supabaseMock.js and cover it in test/supabase-mock.test.js.`,
+      );
+    }
+    const rows = store[this.table];
 
     if (this.op === "insert") {
       const list = Array.isArray(this.payload) ? this.payload : [this.payload];
@@ -110,7 +125,7 @@ class Query {
     }
 
     if (this.op === "delete") {
-      db()[this.table] = rows.filter((r) => !this.match(r));
+      store[this.table] = rows.filter((r) => !this.match(r));
       notify(this.table);
       return { data: null, error: null };
     }
@@ -127,7 +142,7 @@ class Query {
     if (this.cols.includes("profiles(")) {
       out = out.map((r) => ({
         ...r,
-        profiles: db().profiles.find((p) => p.id === r.user_id) ?? null,
+        profiles: store.profiles.find((p) => p.id === r.user_id) ?? null,
       }));
     }
 
@@ -140,8 +155,10 @@ class Query {
 }
 
 // ── Channel ─────────────────────────────────────────────────────────
-function makeChannel(name) {
-  const presence = { [name]: [{}] };
+function makeChannel(name, opts) {
+  // Both call sites configure a presence key; the real client keys state by it.
+  const key = opts?.config?.presence?.key ?? name;
+  const presence = {};
   const ch = {
     on(kind, opts, cb) {
       if (kind === "postgres_changes") tableSubs.add({ table: opts.table, cb, ch });
@@ -155,7 +172,10 @@ function makeChannel(name) {
       });
       return ch;
     },
-    track: async () => {},
+    track: async (payload = {}) => {
+      presence[key] = [{ ...payload }];
+      ch._presenceCb?.();
+    },
     presenceState: () => presence,
   };
   return ch;
@@ -164,7 +184,7 @@ function makeChannel(name) {
 // ── Client ──────────────────────────────────────────────────────────
 export const mockSupabase = {
   from: (table) => new Query(table),
-  channel: (name) => makeChannel(name),
+  channel: (name, opts) => makeChannel(name, opts),
   removeChannel: (ch) => {
     [...tableSubs].forEach((s) => s.ch === ch && tableSubs.delete(s));
   },
@@ -176,7 +196,7 @@ export const mockSupabase = {
     },
     // The app calls signInWithOAuth({ provider: "google" }); there is no OAuth
     // here, so sign in as whoever the dev switcher last picked, else the first user.
-    signInWithOAuth: async () => mockSignInAs(session?.user?.id ?? MOCK_USERS[0].id),
+    signInWithOAuth: async () => mockSignInAs(lastUserId ?? MOCK_USERS[0].id),
     signOut: async () => { session = null; emitAuth("SIGNED_OUT"); },
   },
 };

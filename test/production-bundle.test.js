@@ -10,16 +10,20 @@ import assert from "node:assert/strict";
 import { execFileSync } from "node:child_process";
 import { readFileSync, readdirSync, rmSync, statSync } from "node:fs";
 import { join, extname } from "node:path";
+import { fileURLToPath } from "node:url";
 
-const ROOT = new URL("..", import.meta.url).pathname;
+// pathname percent-encodes spaces; fileURLToPath does not.
+const ROOT = fileURLToPath(new URL("..", import.meta.url));
 const OUT = "dist-test";
 const MOCK_FILES = ["src/lib/supabaseMock.js", "src/components/DevAuthSwitcher.jsx"];
 const TEXT = new Set([".js", ".css", ".html", ".json", ".svg", ".map", ".txt"]);
 
-function build(env) {
-  execFileSync("npx", ["vite", "build", "--outDir", OUT, "--emptyOutDir", "--logLevel", "error"], {
-    cwd: ROOT, env: { ...process.env, ...env }, stdio: "pipe",
-  });
+function build(env, extraArgs = []) {
+  execFileSync(
+    "npx",
+    ["vite", "build", "--outDir", OUT, "--emptyOutDir", "--logLevel", "error", ...extraArgs],
+    { cwd: ROOT, env: { ...process.env, ...env }, stdio: "pipe" },
+  );
 }
 
 function walk(dir) {
@@ -41,26 +45,31 @@ function readBuild() {
 
 const src = (f) => readFileSync(join(ROOT, f), "utf8");
 
-/** String literals in `file` that appear nowhere else under src/. */
-function mockOnlyStrings(file) {
-  const otherSrc = walk(join(ROOT, "src"))
+// Read once — @supabase alone is ~8.6 MB and this is called several times.
+const memo = (fn) => { let v; return () => (v ??= fn()); };
+
+const otherSrc = memo(() =>
+  walk(join(ROOT, "src"))
     .filter((f) => !MOCK_FILES.some((m) => f.endsWith(m.replace("src/", ""))))
     .map((f) => readFileSync(f, "utf8"))
-    .join("\n");
+    .join("\n"));
 
-  // Dependencies ship their own strings (supabase-js has "SIGNED_OUT",
-  // "postgres_changes", ...). A literal only counts as mock-only if no
-  // dependency contains it either, or the test reports its own false positives.
-  const deps = walk(join(ROOT, "node_modules/@supabase"))
+// Dependencies ship their own strings (supabase-js has "SIGNED_OUT",
+// "postgres_changes", ...). A literal only counts as mock-only if no
+// dependency contains it either, or the test reports its own false positives.
+const deps = memo(() =>
+  walk(join(ROOT, "node_modules/@supabase"))
     .filter((f) => f.endsWith(".js"))
     .map((f) => readFileSync(f, "utf8"))
-    .join("\n");
+    .join("\n"));
 
+/** String literals in `file` that appear nowhere else under src/ or in deps. */
+function mockOnlyStrings(file) {
   const literals = [...src(file).matchAll(/["'`]([^"'`\n]{10,})["'`]/g)].map((m) => m[1]);
   return [...new Set(literals)].filter(
     (s) =>
-      !otherSrc.includes(s) &&
-      !deps.includes(s) &&
+      !otherSrc().includes(s) &&
+      !deps().includes(s) &&
       !/^[\s\W]+$/.test(s) &&
       !s.startsWith("./") &&
       !s.startsWith("../"),
@@ -80,9 +89,20 @@ describe("production bundle excludes the dev mock", () => {
     assert.ok(plain.files.some((f) => f.endsWith(".js")), "expected a JS bundle");
   });
 
-  test("no mock module identifiers ship", () => {
+  // Minification renames every module-level identifier, so asserting their
+  // absence in a minified bundle passes even on a real leak. Build once with
+  // minification off, where the names survive if the module ships at all.
+  test("no mock module identifiers ship (unminified build)", () => {
+    build({ VITE_USE_MOCK: "" }, ["--minify", "false"]);
+    const readable = readBuild();
+
+    assert.ok(
+      readable.text.includes("createClient"),
+      "unminified build should preserve identifiers — if this fails the assertions below prove nothing",
+    );
+
     for (const id of ["mockSupabase", "supabaseMock", "MOCK_USERS", "mockSignInAs", "mockReset", "DevAuthSwitcher"]) {
-      assert.ok(!plain.text.includes(id), `"${id}" leaked into the build`);
+      assert.ok(!readable.text.includes(id), `"${id}" leaked into the build`);
     }
   });
 
@@ -110,9 +130,8 @@ describe("production bundle excludes the dev mock", () => {
   test("setting VITE_USE_MOCK=1 cannot enable the mock in a build", () => {
     build({ VITE_USE_MOCK: "1" });
     const forced = readBuild();
-    for (const id of ["mockSupabase", "supabaseMock", "MOCK_USERS"]) {
-      assert.ok(!forced.text.includes(id), `"${id}" shipped when the flag was set`);
-    }
+    // Identifier checks are meaningless in a minified bundle (see above); the
+    // string literals are what actually survive and what actually catch a leak.
     for (const s of mockOnlyStrings(MOCK_FILES[0])) {
       assert.ok(!forced.text.includes(s), `"${s.slice(0, 48)}" shipped when the flag was set`);
     }

@@ -81,6 +81,11 @@ ship the fake backend.
 The suite derives its forbidden strings from the mock source at run time, so
 seed data added later is covered automatically — no test edit needed.
 
+String literals are the guard that actually bites. Minification renames every
+identifier, so asserting `mockSupabase` is absent from a minified bundle passes
+even on a real leak — the identifier assertions run against a separate
+`--minify false` build, where the names survive if the module ships at all.
+
 ---
 
 ## Rules for changes
@@ -89,7 +94,9 @@ seed data added later is covered automatically — no test edit needed.
 - **Extend the mock when you add a Supabase call.** `supabaseMock.js` implements
   only the surface the app uses. A new `.from(...)` chain, auth method, or
   channel event needs a matching branch there, plus a test in
-  `test/supabase-mock.test.js` — otherwise `dev:mock` silently breaks.
+  `test/supabase-mock.test.js`. A query against a table missing from `seed()`
+  throws rather than reporting a phantom success — if you see
+  `unmodelled table "x"`, add it to the seed.
 - **Add a regression test with a bug fix.** For layout bugs that means seeding
   the triggering content in the mock so the failure is reproducible; for logic
   bugs, a case in the relevant suite.
