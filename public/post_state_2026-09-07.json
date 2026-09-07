@@ -4,11 +4,13 @@
   ],
   "results": false,
   "lineup_refreshed": [
-    "10:05"
+    "10:05",
+    "11:10"
   ],
   "predictions_frozen": [
     "10:05",
-    "12:10"
+    "12:10",
+    "11:10"
   ],
   "frozen_predictions": {
     "10:05": [
@@ -90,6 +92,38 @@
           "sp_gap": -11.2,
           "bat_gap": 15.3
         },
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      }
+    ],
+    "11:10": [
+      {
+        "game_pk": "824062",
+        "win_prob": {
+          "away": 42.4,
+          "home": 57.6
+        },
+        "model_winner": "Kansas City Royals",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 4.6,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823742",
+        "win_prob": {
+          "away": 43.9,
+          "home": 56.1
+        },
+        "model_winner": "Milwaukee Brewers",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -0.9,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
         "low_confidence": false,
         "low_confidence_reason": null,
         "extreme_edge": false

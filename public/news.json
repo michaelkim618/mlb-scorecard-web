@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-07T18:20:59.003440+00:00",
+  "updated_at": "2026-09-07T18:30:44.922345+00:00",
   "news": [
+    {
+      "title": "Miz set to battle rival Cubs for 4th and final time of '26 season",
+      "link": "https://www.mlb.com/news/jacob-misiorowski-fourth-start-cubs-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fb3ddyvupzty2zs26bjf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-07T17:55:37+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "'Totally different' Blue Jays ready for final push toward playoffs",
+      "link": "https://www.mlb.com/news/laying-out-blue-jays-path-to-american-league-wild-card-spot",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/k1qmywby4voglt6j5d1b",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-07T17:50:50+00:00",
+      "time_ago": "39m ago"
+    },
+    {
+      "title": "Houck (Tommy John surgery) nears return while vying to help Red Sox's playoff push",
+      "link": "https://www.mlb.com/news/tanner-houck-recovery-tommy-john-surgery",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vitswjmhdeefyndaumqd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-07T17:46:07+00:00",
+      "time_ago": "44m ago"
+    },
     {
       "title": "Perdomo returns to D-backs' lineup after being hit on helmet by line drive",
       "link": "https://www.mlb.com/news/geraldo-perdomo-exits-after-being-hit-on-helmet-by-line-drive",
@@ -12,7 +51,20 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-07T17:42:00+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "48m ago"
+    },
+    {
+      "title": "Anderson (biceps) to IL, Sproat recalled as Crew navigates pitching staff's tough stretch",
+      "link": "https://www.mlb.com/news/grant-anderson-injured-list-brewers-recall-brandon-sproat",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bkv880culofrv1pvp6sd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-07T17:32:38+00:00",
+      "time_ago": "58m ago"
     },
     {
       "title": "An extra postseason round? Padres-D-backs series could decide final Wild Card spot",
@@ -52,58 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T14:54:00+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "Tong returns to big league rotation, to start Monday in Miami",
-      "link": "https://www.mlb.com/news/jonah-tong-being-called-up-to-majors",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/soaa7gfepx2nksardno2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Ritchie",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-07T14:19:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Deadline acquisitions coming up big for Rays in stretch run",
-      "link": "https://www.mlb.com/news/rays-trade-deadline-additions-paying-off-in-stretch-run",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/of5ghbsfxa8tddqff8h0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-09-07T13:17:38+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Judge to face live pitching Monday, setting up long-awaited return",
-      "link": "https://www.mlb.com/news/aaron-judge-to-face-live-pitching-at-yankee-stadium",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788749133/mlb/zm3zzpcislvdhcn1ez06",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-07T13:13:18+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Betts' homer, Tucker's robbery highlight key 8th inning to seal Dodgers' sweep",
-      "link": "https://www.mlb.com/news/mookie-betts-go-ahead-home-run-lifts-dodgers-over-nationals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788758574/mlb/uaybpwaebbcuiuu6qshi",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-07T06:50:00+00:00",
-      "time_ago": "11h ago"
     }
   ]
 }
