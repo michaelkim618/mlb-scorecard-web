@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-07T22:26:45.803157+00:00",
+  "updated_at": "2026-09-07T22:54:17.710601+00:00",
   "news": [
+    {
+      "title": "Chourio shows he's 'born for those moments' with game-saving performance vs. rival Cubs",
+      "link": "https://www.mlb.com/news/jackson-chourio-two-run-single-brewers-win-cubs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fohieodfcwwolicklosn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-07T22:40:00+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "Tong victorious in return to Mets' rotation with whiff-heavy start",
+      "link": "https://www.mlb.com/news/jonah-tong-rejoins-mets-5-innings-vs-marlins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788805179/mlb/wvat61w1ea4qxl8kngcu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Perla Paredes",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-07T22:30:00+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "Luzardo's shutout, Schwarber's moonshot earn Phils pivotal split with Braves",
+      "link": "https://www.mlb.com/news/jesus-luzardo-throws-complete-game-shutout-vs-braves",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/roxppqwul7ihsiep8scd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-07T22:25:00+00:00",
+      "time_ago": "29m ago"
+    },
     {
       "title": "Merrill hits wall hard on outstanding first-inning catch",
       "link": "https://www.mlb.com/news/jackson-merrill-outstanding-catch-at-wall",
@@ -12,7 +51,33 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T22:19:14+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "In 1st start since June 4, Bello blanks Angels for Red Sox's 5th straight win",
+      "link": "https://www.mlb.com/news/brayan-bello-scoreless-start-red-sox-beat-angels",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788816587/mlb/t4ujotegv2ftpkqxh3m5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-07T22:19:00+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "Mayo's 2-HR outburst helps O's gain ground on Guardians",
+      "link": "https://www.mlb.com/news/coby-mayo-homers-twice-as-orioles-beat-guardians",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788820942/mlb/f88sfqswubr5ldz5fhqw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-07T22:11:00+00:00",
+      "time_ago": "43m ago"
     },
     {
       "title": "Ohtani returns to Dodgers lineup after missing four games",
@@ -25,85 +90,20 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-07T22:09:34+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "44m ago"
     },
     {
-      "title": "D-backs' bullpen shines as offense erupts in 10th in victory over Royals",
-      "link": "https://www.mlb.com/news/diamondbacks-bullpen-shines-in-victory-over-royals",
+      "title": "PCA slides closer to 40-40, but Cubs drop season set to Brewers",
+      "link": "https://www.mlb.com/news/pete-crow-armstrong-41st-homer-cubs-loss-brewers",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788815673/mlb/dmkeqjwhy2qdc7ttyex7",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788817013/mlb/tcltniyjfqdaartce6zi",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Robert Falkoff",
+      "author": "Jordan Bastian",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-07T21:29:46+00:00",
-      "time_ago": "56m ago"
-    },
-    {
-      "title": "Fischer leads Prospect Team of the Week for fifth time in final 2026 edition",
-      "link": "https://www.mlb.com/news/prospect-team-of-the-week-september-7-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xxsg04df8mfiisv9knx1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ben Weinrib",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-07T21:27:54+00:00",
-      "time_ago": "58m ago"
-    },
-    {
-      "title": "Ryan K's 7, flashes shades of vintage self in return from rehab",
-      "link": "https://www.mlb.com/news/joe-ryan-solid-vs-tigers-in-first-game-since-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fheyriubjejidely3ngg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-07T21:26:14+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Amazing robberies rescue Crew from Cubs' last stand in rivalry thriller",
-      "link": "https://www.mlb.com/news/jackson-chourio-two-run-single-brewers-win-cubs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w9yagxjfmiuyqg1b2urv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-07T21:00:38+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Mayo's 2-HR outburst helps O's gain ground on Guardians",
-      "link": "https://www.mlb.com/news/coby-mayo-homers-twice-as-orioles-beat-guardians",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788809232/mlb/tt5dpmqjuinlfoau1i4y",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-07T20:56:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Ryan activated from IL, tosses four innings vs. Tigers",
-      "link": "https://www.mlb.com/news/joe-ryan-set-to-return-from-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788731309/mlb/pxkfhgjra6qmb6liesfa",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-07T20:50:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-09-07T22:06:00+00:00",
+      "time_ago": "48m ago"
     }
   ]
 }
