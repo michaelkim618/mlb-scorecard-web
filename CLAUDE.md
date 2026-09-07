@@ -38,7 +38,8 @@ automatic minimum is its min-content width, so one unbreakable string widens
 the track and scrolls the whole page sideways. `overflow-wrap: anywhere` plus
 `min-width: 0` is the fix; see the rules at the end of `src/styles/mobile.css`.
 
-State is in-memory and resets on reload. The 🧪 panel also has **reset data**.
+State is in-memory and resets on reload. The 🧪 panel's **reset** restores the
+seed and signs you out.
 
 ### What the mock does not cover
 
@@ -57,8 +58,9 @@ real Supabase and cannot be verified here.
 | `test/supabase-mock.test.js` | the mock answers the same shapes the real client does |
 | `test/production-bundle.test.js` | the mock cannot reach a production build |
 
-**Run `npm test` before every commit.** The bundle suite runs two real
-production builds, so the whole run takes a couple of seconds — cheap enough
+**Run `npm test` before every commit.** The bundle suite runs three real
+production builds — minified, unminified, and one with `VITE_USE_MOCK=1` —
+so the whole run takes a couple of seconds — cheap enough
 that there is no reason to skip it. A `.githooks/pre-commit` hook enforces this
 once configured (see below).
 
@@ -84,7 +86,10 @@ seed data added later is covered automatically — no test edit needed.
 String literals are the guard that actually bites. Minification renames every
 identifier, so asserting `mockSupabase` is absent from a minified bundle passes
 even on a real leak — the identifier assertions run against a separate
-`--minify false` build, where the names survive if the module ships at all.
+`--minify false` build. Even there only `supabaseMock`, `MOCK_USERS` and
+`mockSignInAs` survive a real leak — scope-hoisting renames or elides the rest —
+so the list is trimmed to those three, with a sentinel present in both a clean
+and a leaking build to prove the assertions are live.
 
 ---
 

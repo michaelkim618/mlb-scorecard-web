@@ -96,12 +96,18 @@ describe("production bundle excludes the dev mock", () => {
     build({ VITE_USE_MOCK: "" }, ["--minify", "false"]);
     const readable = readBuild();
 
+    // Sentinel must be present in BOTH a clean and a leaking build. `createClient`
+    // is not: it lives on the real-client path, which a leak makes dead code, so
+    // it vanishes exactly when a leak should be reported.
     assert.ok(
-      readable.text.includes("createClient"),
-      "unminified build should preserve identifiers — if this fails the assertions below prove nothing",
+      readable.text.includes("createRoot"),
+      "unminified build should preserve identifiers — if this fails, check the build, not the mock",
     );
 
-    for (const id of ["mockSupabase", "supabaseMock", "MOCK_USERS", "mockSignInAs", "mockReset", "DevAuthSwitcher"]) {
+    // Only these three survive scope-hoisting in a real leak; the other exported
+    // names are renamed or elided even unminified, so asserting them proves
+    // nothing. Verified by building with USE_MOCK forced true.
+    for (const id of ["supabaseMock", "MOCK_USERS", "mockSignInAs"]) {
       assert.ok(!readable.text.includes(id), `"${id}" leaked into the build`);
     }
   });

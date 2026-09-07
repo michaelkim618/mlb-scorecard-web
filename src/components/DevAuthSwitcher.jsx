@@ -52,7 +52,7 @@ export default function DevAuthSwitcher() {
           ))}
           <div style={{ borderTop: "1px solid #333", marginTop: 6, paddingTop: 6 }}>
             <button onClick={() => supabase.auth.signOut()} style={btn}>↩ sign out</button>
-            <button onClick={mockReset} style={btn}>⟲ reset data</button>
+            <button onClick={mockReset} style={btn}>⟲ reset (data + auth)</button>
           </div>
         </div>
       )}

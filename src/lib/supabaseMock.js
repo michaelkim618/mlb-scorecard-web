@@ -66,9 +66,12 @@ export function mockCurrentUserId() {
   return session?.user?.id ?? null;
 }
 
+/** Full reset: seeded data *and* auth, so the panel and the tests agree. */
 export function mockReset() {
   _db = seed();
   lastUserId = null;
+  session = null;
+  emitAuth("SIGNED_OUT");
   notify("comments");
 }
 
@@ -160,8 +163,9 @@ function makeChannel(name, opts) {
   const key = opts?.config?.presence?.key ?? name;
   const presence = {};
   const ch = {
-    on(kind, opts, cb) {
-      if (kind === "postgres_changes") tableSubs.add({ table: opts.table, cb, ch });
+    // Named `filter`, not `opts`: an inner `opts` would shadow the channel's.
+    on(kind, filter, cb) {
+      if (kind === "postgres_changes") tableSubs.add({ table: filter.table, cb, ch });
       else if (kind === "presence") ch._presenceCb = cb;
       return ch;
     },

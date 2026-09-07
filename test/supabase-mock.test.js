@@ -11,9 +11,8 @@ const EMBED = "*, profiles(username, avatar_url)";
 const newestFirst = (limit) =>
   sb.from("comments").select(EMBED).order("created_at", { ascending: false }).limit(limit);
 
-beforeEach(async () => {
-  mockReset();
-  await sb.auth.signOut();
+beforeEach(() => {
+  mockReset(); // resets seeded data and auth together
 });
 
 describe("reads", () => {
@@ -187,22 +186,31 @@ describe("module hygiene", () => {
     // or reading the clock, at module scope.
     const topLevel = source
       .split("\n")
-      .filter((l) => /^(const|let|var)\s+\w+\s*=/.test(l))
-      .filter((l) => !/=>/.test(l))
+      // `export` included: the seed-like data in this file is exported, so
+      // exempting it would leave the likeliest regression unguarded.
+      .filter((l) => /^(export\s+)?(const|let|var)\s+\w+\s*=/.test(l))
       .filter((l) => {
         const init = l.slice(l.indexOf("=") + 1);
-        // Pure constructors are fine; calls and index/member access are not —
-        // a property read can invoke a getter, so bundlers keep the module.
+        // Exempt a line whose initialiser *is* an arrow function — not any line
+        // that merely contains "=>", which would excuse `const x = f(a => a)`.
+        if (/^\s*(async\s+)?(\([^)]*\)|\w+)\s*=>/.test(init)) return false;
+        // Pure constructors are fine; calls and index access are not — a
+        // property read can invoke a getter, so bundlers keep the module.
         if (/^\s*new (Set|Map|WeakMap|WeakSet)\(\)\s*;?\s*$/.test(init)) return false;
         return /\w\s*\(/.test(init) || /\[\s*\d/.test(init);
       });
     assert.deepEqual(topLevel, [], `impure work at import time:\n${topLevel.join("\n")}`);
   });
 
-  test("mockReset restores the seed", async () => {
+  test("mockReset restores the seed and signs out", async () => {
+    // Data and auth reset together — clearing one and not the other left the
+    // panel showing a user the mock had already forgotten.
+    mockSignInAs("u2");
     await sb.from("comments").insert({ user_id: "u1", content: "scratch" });
     mockReset();
+
     const { data } = await sb.from("comments").select("*");
     assert.equal(data.length, 4);
+    assert.equal((await sb.auth.getSession()).data.session, null, "reset should sign out");
   });
 });
