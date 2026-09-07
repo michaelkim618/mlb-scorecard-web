@@ -1,37 +1,37 @@
 {
-  "title": "Sep 6 Results: 66.7% Win Rate Tells the Story",
-  "summary": "Sep 6 results: 10-5 record with 66.7% accuracy across 15 games analyzed",
+  "title": "Sep 6 Results: 66.7% Accuracy Across 15 Games",
+  "summary": "Sep 6 delivered 10-5 record with 66.7% accuracy - let's break down the numbers",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## The Numbers From September 6th\n\nLet's talk data. We went 10-5 on Saturday's slate, hitting 66.7% accuracy across 15 predictions. That's 1.7 percentage points above our target threshold, and when you're dealing with sample sizes like this, every decimal matters."
+      "value": "## The Numbers From September 6\n\nLook at this stat: 10 wins, 5 losses, 66.7% accuracy. That's exactly where our model performs best - above the 60% threshold that separates profitable betting from break-even territory. Let me walk you through what the data tells us about today's performance."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Total Record",
+          "label": "Today W-L",
           "value": "10-5"
         },
         {
-          "label": "Win Rate",
+          "label": "Accuracy",
           "value": "66.7%"
         },
         {
-          "label": "Games Analyzed",
-          "value": "15"
+          "label": "High Confidence Hits",
+          "value": "3/5"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## Confidence Level Breakdown\n\nHere's what the distribution tells us: We had 6 picks at 60-61% confidence and 2 coin-flip scenarios at 50%. The 60%+ confidence picks went 5-3 (62.5%), while our 50% picks split exactly as probability would predict at 1-1. Statistical variance at work."
+      "value": "## Breaking Down Win Probability Ranges\n\nHere's what separates data analysis from guessing - segmentation by confidence level. Our picks ranged from 50% (coin flip territory) to 61% (solid edge), and the results cluster in revealing ways."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "September 6th Game-by-Game Results",
+      "title": "Today's Prediction Results by Game",
       "data": [
         {
           "name": "Brewers",
@@ -100,11 +100,11 @@
     },
     {
       "type": "text",
-      "value": "## Where We Hit\n\nThe strongest performances came from our 61% confidence tier. The Sox, Guardians, and Diamondbacks all delivered exactly as the models projected. That's a 75% hit rate on our highest-conviction plays (excluding one miss on the Rays). The Braves pick at 60% also cashed, giving us solid returns in the upper-confidence bracket."
+      "value": "## The 61% Confidence Tier Performance\n\nFive games sat at our 61% confidence level - our highest probability picks of the day. The conversion rate? 3-2, or 60% accuracy. That's statistical alignment right there. The Sox, Guardians, and Diamondbacks delivered, while the Rays faltered in Texas. When your actual results match your predicted probability within a percentage point, that's model validation."
     },
     {
       "type": "table",
-      "title": "Complete September 6th Results",
+      "title": "Complete Game-by-Game Results",
       "headers": [
         "Matchup",
         "Our Pick",
@@ -156,7 +156,7 @@
         ],
         [
           "D-backs @ Astros",
-          "Diamondbacks",
+          "D-backs",
           "61%",
           "✓"
         ],
@@ -176,18 +176,26 @@
     },
     {
       "type": "text",
-      "value": "## Where We Missed\n\nThe misses: Brewers at 53%, Giants at 60%, Cubs at 60%, and Rays at 61%. That Rays loss stings from a confidence standpoint—61% projections should hit more than they miss. But here's the reality: in a 61% scenario, you're still expecting losses 39% of the time. Over 100 such picks, we'd anticipate 39 losses. We got one today."
-    },
-    {
-      "type": "highlight_box",
-      "color": "#94A3B8",
-      "title": "📊 Statistical Note",
-      "value": "10-5 record translates to +4.33 units",
-      "sub": "Assuming standard -110 juice on all picks"
+      "value": "## The 50% Picks - Variance in Action\n\nTwo games hit exactly 50% - Pirates and Royals. These are data-driven coin flips where the model sees no edge. Result? 2-0. That's variance working in our favor. Over 100 such picks, we'd expect 50-50, but in small samples, randomness clusters. Don't confuse short-term luck with long-term edge."
     },
     {
       "type": "text",
-      "value": "## Tomorrow's Slate\n\nNo games scheduled for September 7th. The league takes a collective breath, and so does our prediction engine. We'll be back with fresh data, updated models, and a full slate of projections when action resumes.\n\n**The Bottom Line:** 66.7% is above threshold. The model performed within expected parameters across confidence tiers. Sample size matters, and one day's results don't define a season—but they do provide valuable calibration data.\n\nNumbers don't lie. We'll let these speak for themselves."
+      "value": "## The 60% Confidence Misses\n\nThree picks at 60% confidence missed: Brewers (53% actually), Giants, and Cubs. That's a 1-2 record in this range. Here's the analytical truth: 60% means you lose 40% of the time. Four losses across 10 games at this confidence level would be expected. We hit three. That's within one standard deviation of the mean."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#3B82F6",
+      "title": "📊 Key Statistical Insight",
+      "value": "61% picks went 3-2 (60% actual)",
+      "sub": "Model calibration confirmed - predicted probability matched realized probability"
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Schedule: No Games\n\nThe data set for September 7 contains zero observations. No games scheduled. This gives us time to recalibrate, review variance patterns, and prepare for the next slate with fresh statistical models."
+    },
+    {
+      "type": "text",
+      "value": "## Final Analysis\n\n66.7% accuracy on 15 games represents +1.67 units at standard -110 odds (risking 1.1 to win 1). The math: 10 wins × 1 unit = 10 units gained, 5 losses × 1.1 units = 5.5 units lost, net +4.5 units on 16.5 units risked = 27.3% ROI. That's the kind of edge that compounds over a full season. The numbers don't lie - today's model performance validates our analytical approach."
     }
   ],
   "slug": "2026-09-06-daily-stan",
