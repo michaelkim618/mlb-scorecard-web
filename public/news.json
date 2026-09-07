@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-07T23:17:53.547584+00:00",
+  "updated_at": "2026-09-07T23:37:04.196478+00:00",
   "news": [
+    {
+      "title": "D-backs throw 9 scoreless innings before offense erupts in 10th",
+      "link": "https://www.mlb.com/news/diamondbacks-bullpen-shines-in-victory-over-royals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788815673/mlb/dmkeqjwhy2qdc7ttyex7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Robert Falkoff",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-07T23:14:00+00:00",
+      "time_ago": "23m ago"
+    },
     {
       "title": "Miz set to battle rival Cubs for 4th and final time of '26 season",
       "link": "https://www.mlb.com/news/jacob-misiorowski-fourth-start-cubs-2026",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T22:53:00+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "44m ago"
     },
     {
       "title": "Chourio shows he's 'born for those moments' with game-saving performance vs. rival Cubs",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T22:40:00+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "Tong victorious in return to Mets' rotation with whiff-heavy start",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T22:30:00+00:00",
-      "time_ago": "47m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Luzardo's shutout, Schwarber's moonshot earn Phils pivotal split with Braves",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T22:25:00+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Merrill hits wall hard on outstanding first-inning catch",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T22:19:14+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "In 1st start since June 4, Bello blanks Angels for Red Sox's 5th straight win",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T22:19:00+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Mayo's 2-HR outburst helps O's gain ground on Guardians",
@@ -90,19 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-07T22:11:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Ohtani returns to Dodgers lineup after missing four games",
-      "link": "https://www.mlb.com/news/shohei-ohtani-returns-to-dodgers-lineup-after-missing-four-games",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xxmu4ab2oo9nj9byedbq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-07T22:09:34+00:00",
       "time_ago": "1h ago"
     }
   ]
