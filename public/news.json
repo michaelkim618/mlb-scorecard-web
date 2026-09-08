@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T17:50:22.256591+00:00",
+  "updated_at": "2026-09-08T18:00:22.840882+00:00",
   "news": [
     {
       "title": "Smith's K's milestone quantifies continued dominance for Guards",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-08T17:07:37+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "How Judge's return may turn the tide in Yankees' favor",
@@ -90,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-08T05:52:00+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "12h ago"
     },
     {
       "title": "Injuries: Ohtani, Rafaela, Correa, Judge, Happ, Caglianone",
@@ -103,7 +103,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-08T05:51:00+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "12h ago"
     }
   ]
 }
