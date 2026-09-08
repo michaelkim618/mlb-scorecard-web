@@ -743,8 +743,8 @@
     "model_winner": "Baltimore Orioles",
     "model_correct": null,
     "notes": "Cleveland Guardians IL: Colin Holderman, Rhys Hoskins, Shawn Armstrong / Baltimore Orioles IL: Christian Franklin, Colin Selby, Félix Bautista, Jordan Westburg, Keegan Akin 외 다수",
-    "kalshi_prob": 53.0,
-    "edge": 1.4,
+    "kalshi_prob": 52.0,
+    "edge": 2.4,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -1483,8 +1483,8 @@
     "model_winner": "Detroit Tigers",
     "model_correct": null,
     "notes": "Minnesota Twins IL: Anthony Banda, Austin Martin, Byron Buxton, Cole Sands, David Festa 외 다수 / Detroit Tigers IL: Bailey Horn, Burch Smith, Jack Flaherty, Justin Verlander, Kerry Carpenter 외 다수",
-    "kalshi_prob": 56.0,
-    "edge": 2.3,
+    "kalshi_prob": 55.0,
+    "edge": 3.3,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -2764,7 +2764,7 @@
           "splits_used": false,
           "lineup_ops": [
             "Kyle Stowers(0.897)",
-            "Heriberto Hernández(0.740)",
+            "Heriberto Hernandez(0.740)",
             "Griffin Conine(0.786)",
             "Otto Lopez(0.707)",
             "Jakob Marsee(0.721)",
@@ -2782,7 +2782,7 @@
             },
             {
               "id": 681715,
-              "name": "Heriberto Hernández",
+              "name": "Heriberto Hernandez",
               "ops": 0.74,
               "avg": 0.158
             },
@@ -2870,9 +2870,9 @@
     "model_winner": "Miami Marlins",
     "model_correct": null,
     "notes": "New York Mets IL: Cionel Pérez, Devin Williams, Jorge Polanco, Reed Garrett, Tylor Megill / Miami Marlins IL: Adam Mazur, Andrew Nardi, Anthony Bender, Max Meyer, Pete Fairbanks 외 다수",
-    "kalshi_prob": 54.0,
-    "edge": 7.5,
-    "value_bet": "➖ 시장과 유사",
+    "kalshi_prob": 53.0,
+    "edge": 8.5,
+    "value_bet": "⏭️ 패스 (상대선발Cold — 반등위험, 예측신뢰 낮음)",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
@@ -6545,7 +6545,7 @@
             "Nico Hoerner(0.703)",
             "Matt Shaw(0.844)",
             "Carson Kelly(0.748)",
-            "BJ Murray Jr.(0.222)",
+            "BJ Murray(0.222)",
             "Pedro Ramírez(0.633)"
           ],
           "lineup_players": [
@@ -6593,7 +6593,7 @@
             },
             {
               "id": 681230,
-              "name": "BJ Murray Jr.",
+              "name": "BJ Murray",
               "ops": 0.222,
               "avg": 0.111
             },
@@ -6815,8 +6815,8 @@
     "model_winner": "Milwaukee Brewers",
     "model_correct": null,
     "notes": "Chicago Cubs IL: Ben Brown, Cade Horton, Dansby Swanson, Edward Cabrera, Gavin Hollowell 외 다수 / Milwaukee Brewers IL: Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Bryse Wilson, Grant Anderson 외 다수",
-    "kalshi_prob": 65.0,
-    "edge": -2.0,
+    "kalshi_prob": 66.0,
+    "edge": -3.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -7440,7 +7440,7 @@
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis Jr.(0.789)",
+            "Fernando Tatis(0.789)",
             "Jake Cronenworth(0.450)",
             "Manny Machado(0.882)",
             "Ty France(0.885)",
@@ -7453,7 +7453,7 @@
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis Jr.",
+              "name": "Fernando Tatis",
               "ops": 0.789,
               "avg": 0.262
             },
@@ -7547,8 +7547,8 @@
     "model_winner": "San Diego Padres",
     "model_correct": null,
     "notes": "Washington Nationals IL: Connelly Early, DJ Herz, Drew Millas, Josiah Gray, Ken Waldichuk 외 다수 / San Diego Padres IL: Bryan Hoeing, Gavin Sheets, Jason Adam, Jeremiah Estrada, Joe Musgrove 외 다수",
-    "kalshi_prob": 62.0,
-    "edge": -2.2,
+    "kalshi_prob": 63.0,
+    "edge": -3.2,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -8573,7 +8573,7 @@
           "lineup_ops": [
             "Brett Bateman(0.813)",
             "George Springer(0.863)",
-            "Vladimir Guerrero Jr.(0.671)",
+            "Vladimir Guerrero(0.671)",
             "Alejandro Kirk(0.713)",
             "Kazuma Okamoto(0.879)",
             "Nathan Lukes(0.762)",
@@ -8596,7 +8596,7 @@
             },
             {
               "id": 665489,
-              "name": "Vladimir Guerrero Jr.",
+              "name": "Vladimir Guerrero",
               "ops": 0.671,
               "avg": 0.25
             },
@@ -9547,8 +9547,8 @@
     "model_winner": "St. Louis Cardinals",
     "model_correct": null,
     "notes": "St. Louis Cardinals IL: Blaze Jordan, Everson Pereira, Hunter Dobbins, JJ Wetherholt, Masyn Winn 외 다수 / San Francisco Giants IL: Adrian Houser, Carson Whisenhunt, Casey Schmitt, Daniel Susac, Harrison Bader 외 다수",
-    "kalshi_prob": 50.0,
-    "edge": 0.2,
+    "kalshi_prob": 49.0,
+    "edge": 1.2,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -9900,8 +9900,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 36.3,
-      "home": 63.7
+      "away": 40.1,
+      "home": 59.9
     },
     "expected_score": {
       "away": 2.8,
@@ -10292,8 +10292,8 @@
     "model_winner": "Los Angeles Dodgers",
     "model_correct": null,
     "notes": "Cincinnati Reds IL: Blake Dunn, Hunter Greene, Michael Toglia, Spencer Steer / Los Angeles Dodgers IL: Andy Pages, Ben Casparius, Brusdar Graterol, Dalton Rushing, Edwin Díaz 외 다수",
-    "kalshi_prob": 75.0,
-    "edge": -11.3,
+    "kalshi_prob": 73.0,
+    "edge": -13.1,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Los Angeles Dodgers)",
     "extreme_edge": false,
     "consensus": false,
