@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-08T01:20:52.340677+00:00",
+  "updated_at": "2026-09-08T04:10:44.936808+00:00",
   "news": [
+    {
+      "title": "Sick 1st-inning catch at wall just the start of 'great Jackson Merrill game'",
+      "link": "https://www.mlb.com/news/jackson-merrill-outstanding-catch-at-wall",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bwzrsglbgz214skqmwrr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Cole Bradley",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-08T01:52:00+00:00",
+      "time_ago": "2h ago"
+    },
     {
       "title": "32-year-old journeyman throws first individual perfect game in Minors since 2017",
       "link": "https://www.mlb.com/news/thomas-pannone-throws-perfect-game-in-minor-leagues",
@@ -12,7 +25,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-08T01:10:58+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Judge is back! Yanks activate captain after 3 months on IL",
@@ -25,20 +38,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-08T00:52:00+00:00",
-      "time_ago": "28m ago"
-    },
-    {
-      "title": "Here's what to watch for as Ohtani returns from 4-game injury absence",
-      "link": "https://www.mlb.com/news/shohei-ohtani-returns-to-dodgers-lineup-after-missing-four-games",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xxmu4ab2oo9nj9byedbq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-08T00:17:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Ryan K's 7, flashes shades of vintage self in return from strained glute",
@@ -51,20 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-07T23:44:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Merrill hits wall hard on outstanding first-inning catch",
-      "link": "https://www.mlb.com/news/jackson-merrill-outstanding-catch-at-wall",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bwzrsglbgz214skqmwrr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Cole Bradley",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-07T23:41:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "D-backs throw 9 scoreless innings before offense erupts in 10th",
@@ -77,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-07T23:14:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Miz set to battle rival Cubs for 4th and final time of '26 season",
@@ -90,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T22:53:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Chourio shows he's 'born for those moments' with game-saving performance vs. rival Cubs",
@@ -103,7 +90,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T22:40:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "5h ago"
+    },
+    {
+      "title": "Tong victorious in return to Mets' rotation with whiff-heavy start",
+      "link": "https://www.mlb.com/news/jonah-tong-rejoins-mets-5-innings-vs-marlins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788805179/mlb/wvat61w1ea4qxl8kngcu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Perla Paredes",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-07T22:30:00+00:00",
+      "time_ago": "5h ago"
     }
   ]
 }

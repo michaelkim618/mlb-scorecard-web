@@ -10008,7 +10008,7 @@
       "game_number": 1,
       "pick": "St. Louis Cardinals",
       "pick_prob": 59.2,
-      "actual_winner": "무승부",
+      "actual_winner": "San Francisco Giants",
       "correct": false,
       "high_conf": false,
       "away_sp_trend": "cold",
@@ -10021,6 +10021,28 @@
       "home_sp_score": 32.0,
       "away_bp_score": 43.2,
       "home_bp_score": 41.5,
+      "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-07",
+      "away": "Cincinnati Reds",
+      "home": "Los Angeles Dodgers",
+      "game_number": 1,
+      "pick": "Los Angeles Dodgers",
+      "pick_prob": 56.2,
+      "actual_winner": "Los Angeles Dodgers",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "neutral",
+      "away_sp_era": 3.38,
+      "home_sp_era": 5.86,
+      "away_bp_era": 3.82,
+      "home_bp_era": 3.1,
+      "away_sp_score": 53.0,
+      "home_sp_score": 41.5,
+      "away_bp_score": 56.8,
+      "home_bp_score": 58.9,
       "bat_source": "lineup"
     }
   ]
