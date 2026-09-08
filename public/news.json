@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-08T20:40:07.574930+00:00",
+  "updated_at": "2026-09-08T21:27:54.551756+00:00",
   "news": [
+    {
+      "title": "Jensen, Devers slug way to Player of the Week honors",
+      "link": "https://www.mlb.com/news/carter-jensen-rafael-devers-named-players-of-the-week",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sm7lculretkpb9o5wits",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ed Eagle",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-08T20:36:38+00:00",
+      "time_ago": "51m ago"
+    },
     {
       "title": "Rays place Walls (hip) on IL, call up veteran Madrigal",
       "link": "https://www.mlb.com/news/taylor-walls-placed-on-injured-list-with-hip-injury",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-08T20:23:41+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Former Cy winner Burnes making '26 debut tonight following TJ surgery",
@@ -25,7 +38,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-08T19:51:14+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Judge is back! Yanks' captain playing RF tonight after 3 months on IL",
@@ -38,7 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-08T19:23:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Is Judge the greatest hitter ever? This former MVP says yes",
@@ -51,7 +64,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-09-08T19:19:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Smith's K's milestone quantifies continued dominance for Guards",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-08T17:07:37+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "How Judge's return may turn the tide in Yankees' favor",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-08T13:47:57+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Is this the best rotation in the Minor Leagues?",
-      "link": "https://www.mlb.com/news/orioles-double-a-rotation-among-best-in-minor-leagues",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788806458/mlb/d4natrioxx5pjtpkif6p",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-08T13:41:48+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     }
   ]
 }
