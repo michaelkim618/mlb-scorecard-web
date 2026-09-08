@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-08T20:02:28.612428+00:00",
+  "updated_at": "2026-09-08T20:40:07.574930+00:00",
   "news": [
+    {
+      "title": "Rays place Walls (hip) on IL, call up veteran Madrigal",
+      "link": "https://www.mlb.com/news/taylor-walls-placed-on-injured-list-with-hip-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wwca0qsfa9bhvcqioejk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-08T20:23:41+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Former Cy winner Burnes making '26 debut tonight following TJ surgery",
+      "link": "https://www.mlb.com/news/corbin-burnes-2026-debut-against-royals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qk6fhfo5nbel5ogccja9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-08T19:51:14+00:00",
+      "time_ago": "48m ago"
+    },
     {
       "title": "Judge is back! Yanks' captain playing RF tonight after 3 months on IL",
       "link": "https://www.mlb.com/news/aaron-judge-returns-from-injured-list",
@@ -12,10 +38,10 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-08T19:23:00+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
-      "title": "Is Judge the greatest hitter ... ever? This former MVP says yes",
+      "title": "Is Judge the greatest hitter ever? This former MVP says yes",
       "link": "https://www.mlb.com/news/joey-votto-calls-aaron-judge-the-greatest-hitter-ever",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788890863/mlb/k9mveydfuphopipjhoen",
@@ -25,7 +51,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-09-08T19:19:00+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Smith's K's milestone quantifies continued dominance for Guards",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-08T17:07:37+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "How Judge's return may turn the tide in Yankees' favor",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-08T14:40:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "Sharing a special bond, Griffin, Trout face off for first time",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-08T13:41:48+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "PCA, Javy Báez and a trade ... where have we heard this before?",
-      "link": "https://www.mlb.com/news/pete-crow-armstrong-trades-a-signed-bat-for-a-young-fan-s-card",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uvepemk19rrrrli1rscn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Perla Paredes",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-09-08T13:11:39+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "'Pen roles shifting for Phils as Kerkering struggles, McFarlane soars",
-      "link": "https://www.mlb.com/news/alex-mcfarlane-orion-kerkering-phillies-bullpen",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gkjscuv6xgax5pf7uu6m",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-08T13:09:15+00:00",
       "time_ago": "6h ago"
     }
   ]

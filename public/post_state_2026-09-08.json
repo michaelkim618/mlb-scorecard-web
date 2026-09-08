@@ -6,7 +6,8 @@
     "16:40"
   ],
   "predictions_frozen": [
-    "15:35"
+    "15:35",
+    "16:40"
   ],
   "frozen_predictions": {
     "15:35": [
@@ -119,6 +120,53 @@
         "model_winner": "Tampa Bay Rays",
         "value_bet": "⏭️ 패스 (라인업 미확정)",
         "edge": null,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      }
+    ],
+    "16:40": [
+      {
+        "game_pk": "824063",
+        "win_prob": {
+          "away": 51.4,
+          "home": 48.6
+        },
+        "model_winner": "Arizona Diamondbacks",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 3.6,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "824551",
+        "win_prob": {
+          "away": 38.6,
+          "home": 61.4
+        },
+        "model_winner": "Chicago White Sox",
+        "value_bet": "⏭️ 패스 (라인업 미확정)",
+        "edge": null,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823738",
+        "win_prob": {
+          "away": 37.0,
+          "home": 63.0
+        },
+        "model_winner": "Milwaukee Brewers",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -3.0,
         "sp_bat_conflict": false,
         "sp_bat_conflict_detail": null,
         "low_confidence": false,
