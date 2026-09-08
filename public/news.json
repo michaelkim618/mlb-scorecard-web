@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-08T17:13:15.211599+00:00",
+  "updated_at": "2026-09-08T17:20:56.419581+00:00",
   "news": [
+    {
+      "title": "Smith's K's milestone quantifies continued dominance for Guards",
+      "link": "https://www.mlb.com/news/cade-smith-reaches-300-career-strikeouts",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/k5ppamlmvwsusoglisrn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-08T17:07:37+00:00",
+      "time_ago": "13m ago"
+    },
     {
       "title": "How Judge's return may turn the tide in Yankees' favor",
       "link": "https://www.mlb.com/news/aaron-judge-s-return-a-factor-in-al-east-wild-card-races",
@@ -90,19 +103,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-08T05:51:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Ohtani returns to lineup, but is unlikely to pitch again in 2026",
-      "link": "https://www.mlb.com/news/shohei-ohtani-unlikely-to-pitch-in-2026-will-focus-on-hitting",
-      "summary": "LA's two-way star hopes to use 2026 as a 'learning experience' in order to return to pitching next year",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788844852/mlb/cgtrfw9uqkvpfhrx6vxa",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-08T05:28:54+00:00",
       "time_ago": "11h ago"
     }
   ]
