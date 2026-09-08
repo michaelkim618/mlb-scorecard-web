@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-07T23:37:04.196478+00:00",
+  "updated_at": "2026-09-07T23:57:07.751303+00:00",
   "news": [
+    {
+      "title": "Ryan K's 7, flashes shades of vintage self in return from strained glute",
+      "link": "https://www.mlb.com/news/joe-ryan-solid-vs-tigers-in-first-game-since-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fheyriubjejidely3ngg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-07T23:44:00+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Merrill hits wall hard on outstanding first-inning catch",
+      "link": "https://www.mlb.com/news/jackson-merrill-outstanding-catch-at-wall",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bwzrsglbgz214skqmwrr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Cole Bradley",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-07T23:41:00+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "D-backs throw 9 scoreless innings before offense erupts in 10th",
       "link": "https://www.mlb.com/news/diamondbacks-bullpen-shines-in-victory-over-royals",
@@ -12,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-07T23:14:00+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Miz set to battle rival Cubs for 4th and final time of '26 season",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T22:53:00+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Chourio shows he's 'born for those moments' with game-saving performance vs. rival Cubs",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T22:40:00+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Tong victorious in return to Mets' rotation with whiff-heavy start",
@@ -67,19 +93,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Merrill hits wall hard on outstanding first-inning catch",
-      "link": "https://www.mlb.com/news/jackson-merrill-outstanding-catch-at-wall",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bwzrsglbgz214skqmwrr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Cole Bradley",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-07T22:19:14+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "In 1st start since June 4, Bello blanks Angels for Red Sox's 5th straight win",
       "link": "https://www.mlb.com/news/brayan-bello-scoreless-start-red-sox-beat-angels",
       "summary": "",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T22:19:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Mayo's 2-HR outburst helps O's gain ground on Guardians",
-      "link": "https://www.mlb.com/news/coby-mayo-homers-twice-as-orioles-beat-guardians",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788820942/mlb/f88sfqswubr5ldz5fhqw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-07T22:11:00+00:00",
       "time_ago": "1h ago"
     }
   ]
