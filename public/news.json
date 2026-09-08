@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-08T12:36:32.177845+00:00",
+  "updated_at": "2026-09-08T17:13:15.211599+00:00",
   "news": [
+    {
+      "title": "How Judge's return may turn the tide in Yankees' favor",
+      "link": "https://www.mlb.com/news/aaron-judge-s-return-a-factor-in-al-east-wild-card-races",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lwzcrzmv38clxme5jdwl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mike Lupica",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-08T14:40:00+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Sharing a special bond, Griffin, Trout face off for first time",
+      "link": "https://www.mlb.com/news/konnor-griffin-mike-trout-meet-for-first-time-on-field",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788803570/mlb/qnxl0ogzafgn4ztrzopj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-08T13:47:57+00:00",
+      "time_ago": "3h ago"
+    },
+    {
+      "title": "Is this the best rotation in the Minor Leagues?",
+      "link": "https://www.mlb.com/news/orioles-double-a-rotation-among-best-in-minor-leagues",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788806458/mlb/d4natrioxx5pjtpkif6p",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-08T13:41:48+00:00",
+      "time_ago": "3h ago"
+    },
+    {
+      "title": "'Pen roles shifting for Phils as Kerkering struggles, McFarlane soars",
+      "link": "https://www.mlb.com/news/alex-mcfarlane-orion-kerkering-phillies-bullpen",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gkjscuv6xgax5pf7uu6m",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-08T13:09:15+00:00",
+      "time_ago": "4h ago"
+    },
+    {
+      "title": "Mets' farm teams receive late-season boost from influx of prospects",
+      "link": "https://www.mlb.com/news/mets-minor-league-affiliates-benefiting-from-trade-deadline-deals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p3p3ubvlar1ef9mthw7m",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-08T13:01:53+00:00",
+      "time_ago": "4h ago"
+    },
     {
       "title": "'Rafi gives me more confidence': Devers, Eldridge blossoming into 1-2 punch for Giants",
       "link": "https://www.mlb.com/news/rafael-devers-giants-win-series-opener-vs-cardinals",
@@ -12,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-08T05:52:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Injuries: Ohtani, Rafaela, Correa, Judge, Happ, Caglianone",
@@ -25,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-08T05:51:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Ohtani returns to lineup, but is unlikely to pitch again in 2026",
@@ -38,71 +103,6 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-08T05:28:54+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "Sheehan (10 K's) earns spot in Dodgers' rotation as LA wins 5th straight",
-      "link": "https://www.mlb.com/news/emmet-sheehan-strikes-out-10-as-dodgers-win-5th-straight",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788837383/mlb/dz4c7kbjl3fkcjfwpxyq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-08T05:25:00+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "One of the offseason's best additions was one nobody saw coming",
-      "link": "https://www.mlb.com/news/tristan-peters-exceeding-expectations-for-white-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788477863/mlb/rk15gnsewnzwipwkccqp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-08T04:30:19+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "Predicting the 2026 Gold Glove Award winners",
-      "link": "https://www.mlb.com/news/2026-mlb-gold-glove-award-predictions",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wflrqrzehm61zwrbnc7d",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Foster, Jared Greenspan and Brian Murphy",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-09-08T03:55:10+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "Sick 1st-inning catch at wall just the start of 'great Jackson Merrill game'",
-      "link": "https://www.mlb.com/news/jackson-merrill-outstanding-catch-at-wall",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bwzrsglbgz214skqmwrr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Cole Bradley",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-08T01:52:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Pivetta tosses 5 scoreless in return to mound, giving Padres another weapon",
-      "link": "https://www.mlb.com/news/nick-pivetta-goes-5-scoreless-in-return-from-il",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788827375/mlb/c8pjc9hzjjy6dp6kovfp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Cole Bradley",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-08T01:34:00+00:00",
       "time_ago": "11h ago"
     }
   ]
