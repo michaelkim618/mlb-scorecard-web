@@ -10044,6 +10044,28 @@
       "away_bp_score": 56.8,
       "home_bp_score": 58.9,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-07",
+      "away": "Toronto Blue Jays",
+      "home": "Athletics",
+      "game_number": 1,
+      "pick": "Toronto Blue Jays",
+      "pick_prob": 61.4,
+      "actual_winner": "Athletics",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "hot",
+      "away_sp_era": 1.83,
+      "home_sp_era": 2.47,
+      "away_bp_era": 3.01,
+      "home_bp_era": 4.72,
+      "away_sp_score": 72.0,
+      "home_sp_score": 57.5,
+      "away_bp_score": 75.0,
+      "home_bp_score": 50.0,
+      "bat_source": "lineup"
     }
   ]
 }
