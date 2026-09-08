@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-08T05:39:16.361658+00:00",
+  "updated_at": "2026-09-08T06:05:54.226609+00:00",
   "news": [
+    {
+      "title": "'Rafi gives me more confidence': Devers, Eldridge blossoming into 1-2 punch for Giants",
+      "link": "https://www.mlb.com/news/rafael-devers-giants-win-series-opener-vs-cardinals",
+      "summary": "Devers becomes the first Giant with 35 doubles and 35 homers in a single season since Hall of Famer Jeff Kent in 2002",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bxu3bt0aqtg8whumbyu5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Maria Guardado",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-08T05:52:00+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Injuries: Ohtani, Rafaela, Correa, Judge, Happ, Caglianone",
+      "link": "https://www.mlb.com/news/baseball-injury-updates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xxmu4ab2oo9nj9byedbq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-08T05:51:00+00:00",
+      "time_ago": "14m ago"
+    },
     {
       "title": "Ohtani returns to lineup, but is unlikely to pitch again in 2026",
       "link": "https://www.mlb.com/news/shohei-ohtani-unlikely-to-pitch-in-2026-will-focus-on-hitting",
@@ -12,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-08T05:28:54+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "Sheehan (10 K's) earns spot in Dodgers' rotation as LA wins 5th straight",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-08T05:25:00+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "40m ago"
     },
     {
       "title": "One of the offseason's best additions was one nobody saw coming",
@@ -41,19 +67,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Devers stays hot to reach rare feat before Whitcomb walks it off in 11th",
-      "link": "https://www.mlb.com/news/rafael-devers-giants-win-series-opener-vs-cardinals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bxu3bt0aqtg8whumbyu5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Maria Guardado",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-08T04:19:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Predicting the 2026 Gold Glove Award winners",
       "link": "https://www.mlb.com/news/2026-mlb-gold-glove-award-predictions",
       "summary": "",
@@ -64,20 +77,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-09-08T03:55:10+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Injuries: Rafaela, Correa, Judge, Happ, Caglianone",
-      "link": "https://www.mlb.com/news/baseball-injury-updates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/riqb8m3uhvgmjoo9qz8u",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-08T01:53:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Sick 1st-inning catch at wall just the start of 'great Jackson Merrill game'",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-08T01:52:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Pivetta tosses 5 scoreless in return to mound, giving Padres another weapon",
