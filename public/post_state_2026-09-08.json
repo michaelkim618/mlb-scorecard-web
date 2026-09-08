@@ -1,6 +1,7 @@
 {
   "predictions": [
-    "15:35"
+    "15:35",
+    "16:40"
   ],
   "results": false,
   "lineup_refreshed": [
@@ -10,7 +11,8 @@
   ],
   "predictions_frozen": [
     "15:35",
-    "16:40"
+    "16:40",
+    "18:40"
   ],
   "frozen_predictions": {
     "15:35": [
@@ -172,6 +174,93 @@
         "edge": -3.0,
         "sp_bat_conflict": false,
         "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      }
+    ],
+    "18:40": [
+      {
+        "game_pk": "823250",
+        "win_prob": {
+          "away": 40.2,
+          "home": 59.8
+        },
+        "model_winner": "San Diego Padres",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -3.2,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823092",
+        "win_prob": {
+          "away": 60.7,
+          "home": 39.3
+        },
+        "model_winner": "Texas Rangers",
+        "value_bet": "⏭️ 패스 (라인업 미확정)",
+        "edge": null,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "824957",
+        "win_prob": {
+          "away": 61.5,
+          "home": 38.5
+        },
+        "model_winner": "Toronto Blue Jays",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 1.5,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823174",
+        "win_prob": {
+          "away": 52.8,
+          "home": 47.2
+        },
+        "model_winner": "St. Louis Cardinals",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 1.2,
+        "sp_bat_conflict": true,
+        "sp_bat_conflict_detail": {
+          "sp_favors": "San Francisco Giants",
+          "bat_favors": "St. Louis Cardinals",
+          "sp_gap": -15.5,
+          "bat_gap": 14.9
+        },
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823901",
+        "win_prob": {
+          "away": 40.1,
+          "home": 59.9
+        },
+        "model_winner": "Los Angeles Dodgers",
+        "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Los Angeles Dodgers)",
+        "edge": -13.1,
+        "sp_bat_conflict": true,
+        "sp_bat_conflict_detail": {
+          "sp_favors": "Los Angeles Dodgers",
+          "bat_favors": "Cincinnati Reds",
+          "sp_gap": -40.5,
+          "bat_gap": 18.5
+        },
         "low_confidence": false,
         "low_confidence_reason": null,
         "extreme_edge": false
