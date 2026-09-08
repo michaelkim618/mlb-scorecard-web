@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-08T23:28:48.389611+00:00",
+  "updated_at": "2026-09-08T23:48:31.257049+00:00",
   "news": [
+    {
+      "title": "'Everyone's excited' as Judge brings MVP presence back to Yanks",
+      "link": "https://www.mlb.com/news/aaron-judge-first-game-off-injured-list-vs-rockies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zeepfoxowuhw1nhxvpju",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Ritchie",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-09-08T23:36:00+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Rays place Walls (hip) on IL, call up veteran Madrigal",
+      "link": "https://www.mlb.com/news/taylor-walls-placed-on-injured-list-with-hip-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wwca0qsfa9bhvcqioejk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-08T23:26:00+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "Here's every ranked prospect on MiLB playoff rosters",
+      "link": "https://www.mlb.com/news/prospects-in-milb-playoffs-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ixgwmcsdnkea6cpnxfh3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jim Callis, Jonathan Mayo, Michael Avallone & Rob Terranova",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-08T23:00:00+00:00",
+      "time_ago": "48m ago"
+    },
     {
       "title": "'When America Took the Field' documentary to premiere Thursday on MLB Network (10 ET)",
       "link": "https://www.mlb.com/news/when-america-took-the-field-mlb-network-documentary",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-08T22:46:07+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "1 day after return, Ohtani out of lineup again",
@@ -38,19 +77,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-08T20:36:38+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Rays place Walls (hip) on IL, call up veteran Madrigal",
-      "link": "https://www.mlb.com/news/taylor-walls-placed-on-injured-list-with-hip-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wwca0qsfa9bhvcqioejk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-08T20:23:41+00:00",
       "time_ago": "3h ago"
     },
     {
@@ -67,19 +93,6 @@
       "time_ago": "3h ago"
     },
     {
-      "title": "Judge is back! Yanks' captain playing RF tonight after 3 months on IL",
-      "link": "https://www.mlb.com/news/aaron-judge-returns-from-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wdvwfrx8vzutqkxve2no",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-08T19:23:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
       "title": "Is Judge the greatest hitter ever? This former MVP says yes",
       "link": "https://www.mlb.com/news/joey-votto-calls-aaron-judge-the-greatest-hitter-ever",
       "summary": "",
@@ -91,19 +104,6 @@
       "tag_color": "#16A34A",
       "pub_date": "2026-09-08T19:19:00+00:00",
       "time_ago": "4h ago"
-    },
-    {
-      "title": "Smith's K's milestone quantifies continued dominance for Guards",
-      "link": "https://www.mlb.com/news/cade-smith-reaches-300-career-strikeouts",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/k5ppamlmvwsusoglisrn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-08T17:07:37+00:00",
-      "time_ago": "6h ago"
     }
   ]
 }
