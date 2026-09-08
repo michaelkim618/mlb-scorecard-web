@@ -5142,7 +5142,7 @@
             "Ketel Marte(0.844)",
             "Gabriel Moreno(0.855)",
             "Nolan Arenado(0.643)",
-            "Lourdes Gurriel(0.435)",
+            "Lourdes Gurriel Jr.(0.435)",
             "Ildemaro Vargas(0.554)",
             "Tim Tawa(0.659)",
             "Jordan Lawlar(0.706)",
@@ -5175,7 +5175,7 @@
             },
             {
               "id": 666971,
-              "name": "Lourdes Gurriel",
+              "name": "Lourdes Gurriel Jr.",
               "ops": 0.435,
               "avg": 0.156
             },
@@ -5324,7 +5324,7 @@
           "splits_used": false,
           "lineup_ops": [
             "Carter Jensen(1.023)",
-            "Bobby Witt(0.725)",
+            "Bobby Witt Jr.(0.725)",
             "Vinnie Pasquantino(0.780)",
             "Salvador Perez(0.802)",
             "Michael Massey(0.758)",
@@ -5342,7 +5342,7 @@
             },
             {
               "id": 677951,
-              "name": "Bobby Witt",
+              "name": "Bobby Witt Jr.",
               "ops": 0.725,
               "avg": 0.205
             },
@@ -6545,7 +6545,7 @@
             "Nico Hoerner(0.703)",
             "Matt Shaw(0.844)",
             "Carson Kelly(0.748)",
-            "BJ Murray(0.222)",
+            "BJ Murray Jr.(0.222)",
             "Pedro Ramírez(0.633)"
           ],
           "lineup_players": [
@@ -6593,7 +6593,7 @@
             },
             {
               "id": 681230,
-              "name": "BJ Murray",
+              "name": "BJ Murray Jr.",
               "ops": 0.222,
               "avg": 0.111
             },
@@ -7440,7 +7440,7 @@
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis(0.789)",
+            "Fernando Tatis Jr.(0.789)",
             "Jake Cronenworth(0.450)",
             "Manny Machado(0.882)",
             "Ty France(0.885)",
@@ -7453,7 +7453,7 @@
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis",
+              "name": "Fernando Tatis Jr.",
               "ops": 0.789,
               "avg": 0.262
             },
@@ -8573,7 +8573,7 @@
           "lineup_ops": [
             "Brett Bateman(0.813)",
             "George Springer(0.863)",
-            "Vladimir Guerrero(0.671)",
+            "Vladimir Guerrero Jr.(0.671)",
             "Alejandro Kirk(0.713)",
             "Kazuma Okamoto(0.879)",
             "Nathan Lukes(0.762)",
@@ -8596,7 +8596,7 @@
             },
             {
               "id": 665489,
-              "name": "Vladimir Guerrero",
+              "name": "Vladimir Guerrero Jr.",
               "ops": 0.671,
               "avg": 0.25
             },
