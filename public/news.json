@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-08T22:16:08.127786+00:00",
+  "updated_at": "2026-09-08T22:47:03.182510+00:00",
   "news": [
+    {
+      "title": "1 day after return, Ohtani out of lineup again",
+      "link": "https://www.mlb.com/news/shohei-ohtani-out-of-september-8-lineup-vs-reds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/d24xlpkpfyh5zqsngslq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-08T22:18:04+00:00",
+      "time_ago": "28m ago"
+    },
     {
       "title": "Jensen, Devers slug way to Player of the Week honors",
       "link": "https://www.mlb.com/news/carter-jensen-rafael-devers-named-players-of-the-week",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-08T20:36:38+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Rays place Walls (hip) on IL, call up veteran Madrigal",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-08T20:23:41+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Former Cy winner Burnes making '26 debut tonight following TJ surgery",
@@ -51,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-08T19:23:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Is Judge the greatest hitter ever? This former MVP says yes",
@@ -64,7 +77,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-09-08T19:19:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Smith's K's milestone quantifies continued dominance for Guards",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-08T14:40:00+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "Sharing a special bond, Griffin, Trout face off for first time",
-      "link": "https://www.mlb.com/news/konnor-griffin-mike-trout-meet-for-first-time-on-field",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788803570/mlb/qnxl0ogzafgn4ztrzopj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-08T13:47:57+00:00",
       "time_ago": "8h ago"
     }
   ]
