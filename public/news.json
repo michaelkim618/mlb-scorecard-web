@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-07T23:57:07.751303+00:00",
+  "updated_at": "2026-09-08T00:35:03.249252+00:00",
   "news": [
+    {
+      "title": "Here's what to watch for as Ohtani returns from 4-game injury absence",
+      "link": "https://www.mlb.com/news/shohei-ohtani-returns-to-dodgers-lineup-after-missing-four-games",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xxmu4ab2oo9nj9byedbq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-08T00:17:00+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Judge is back! Yanks activate captain after 3 months on IL",
+      "link": "https://www.mlb.com/news/aaron-judge-returns-from-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qhomrbx3cejw3d3xbndx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-08T00:12:41+00:00",
+      "time_ago": "22m ago"
+    },
     {
       "title": "Ryan K's 7, flashes shades of vintage self in return from strained glute",
       "link": "https://www.mlb.com/news/joe-ryan-solid-vs-tigers-in-first-game-since-injury",
@@ -12,7 +38,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-07T23:44:00+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "51m ago"
     },
     {
       "title": "Merrill hits wall hard on outstanding first-inning catch",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T23:41:00+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "D-backs throw 9 scoreless innings before offense erupts in 10th",
@@ -38,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-07T23:14:00+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Miz set to battle rival Cubs for 4th and final time of '26 season",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-07T22:30:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Luzardo's shutout, Schwarber's moonshot earn Phils pivotal split with Braves",
-      "link": "https://www.mlb.com/news/jesus-luzardo-throws-complete-game-shutout-vs-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/roxppqwul7ihsiep8scd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-07T22:25:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "In 1st start since June 4, Bello blanks Angels for Red Sox's 5th straight win",
-      "link": "https://www.mlb.com/news/brayan-bello-scoreless-start-red-sox-beat-angels",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788816587/mlb/t4ujotegv2ftpkqxh3m5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-07T22:19:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
