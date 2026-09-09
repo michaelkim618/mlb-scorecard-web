@@ -2209,7 +2209,7 @@
       "home_defense": 34.0
     },
     "actual_score": {
-      "away": 1,
+      "away": 4,
       "home": 1
     },
     "lineup_confirmed": true,
@@ -2219,9 +2219,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": "무승부",
+    "actual_winner": "St. Louis Cardinals",
     "model_winner": "St. Louis Cardinals",
-    "model_correct": false,
+    "model_correct": true,
     "notes": "St. Louis Cardinals IL: Blaze Jordan, Everson Pereira, Hunter Dobbins, JJ Wetherholt, Max Rajcic 외 다수 / San Francisco Giants IL: Adrian Houser, Carson Whisenhunt, Casey Schmitt, Daniel Susac, Harrison Bader 외 다수",
     "kalshi_prob": 48.0,
     "edge": -9.6,
@@ -2917,7 +2917,7 @@
       "home_defense": 59.8
     },
     "actual_score": {
-      "away": 0,
+      "away": 2,
       "home": 0
     },
     "lineup_confirmed": true,
@@ -2927,7 +2927,7 @@
       "both": false,
       "any": false
     },
-    "actual_winner": "무승부",
+    "actual_winner": "Washington Nationals",
     "model_winner": "San Diego Padres",
     "model_correct": false,
     "notes": "Washington Nationals IL: Connelly Early, DJ Herz, Drew Millas, Josiah Gray, Ken Waldichuk 외 다수 / San Diego Padres IL: Bryan Hoeing, Gavin Sheets, Jason Adam, Jeremiah Estrada, Joe Musgrove 외 다수",
@@ -3530,8 +3530,8 @@
       "home_defense": 30.8
     },
     "actual_score": {
-      "away": 0,
-      "home": 0
+      "away": 1,
+      "home": 1
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -4305,7 +4305,7 @@
     "actual_winner": null,
     "model_winner": "Cleveland Guardians",
     "model_correct": null,
-    "notes": "Cleveland Guardians IL: Colin Holderman, Rhys Hoskins, Shawn Armstrong / Baltimore Orioles IL: Christian Franklin, Colin Selby, Félix Bautista, Jordan Westburg, Keegan Akin 외 다수",
+    "notes": "Cleveland Guardians IL: Colin Holderman, Rhys Hoskins, Shawn Armstrong / Baltimore Orioles IL: Blaze Alexander, Christian Franklin, Colin Selby, Félix Bautista, Jordan Westburg 외 다수",
     "kalshi_prob": 48.0,
     "edge": -0.5,
     "value_bet": "➖ 시장과 유사",
@@ -5757,9 +5757,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "무승부",
     "model_winner": "Miami Marlins",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "New York Mets IL: Cionel Pérez, Devin Williams, Jorge Polanco, Reed Garrett, Tylor Megill / Miami Marlins IL: Adam Mazur, Andrew Nardi, Anthony Bender, Max Meyer, Robby Snelling 외 다수",
     "kalshi_prob": 53.0,
     "edge": 2.8,
@@ -9527,9 +9527,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "무승부",
     "model_winner": "Pittsburgh Pirates",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Pittsburgh Pirates IL: Endy Rodríguez, Isaac Mattson, Kirby Yates, Mitch Keller, Ryan O'Hearn / Chicago White Sox IL: Brooks Baldwin, Drew Thorpe, Huascar Brazobán, Joey Bart, Jordan Leasure 외 다수",
     "kalshi_prob": 55.0,
     "edge": -12.1,
@@ -9884,13 +9884,13 @@
     },
     "expected_score": {
       "away": 2.5,
-      "home": 3.2
+      "home": 3.0
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": false,
@@ -9968,12 +9968,12 @@
         },
         "bat_score": 41.1,
         "bat_detail": {
-          "recent_avg": 0.252,
+          "recent_avg": 0.246,
           "runs_per_g": 5.4,
           "hr_per_g": 1.8,
           "bb_per_g": 3.0,
-          "season_ops": 0.778,
-          "season_avg": 0.252,
+          "season_ops": 0.783,
+          "season_avg": 0.246,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -9981,13 +9981,13 @@
           "lineup_ops": [
             "Pete Crow-Armstrong(0.970)",
             "Seiya Suzuki(0.741)",
-            "Alex Bregman(0.926)",
             "Michael Busch(0.659)",
-            "Nico Hoerner(0.729)",
+            "Alex Bregman(0.926)",
             "Ian Happ(0.640)",
-            "Matt Shaw(0.744)",
-            "Tyrone Taylor(1.002)",
-            "Miguel Amaya(0.595)"
+            "Nico Hoerner(0.729)",
+            "Pedro Ramírez(0.641)",
+            "Michael Conforto(1.004)",
+            "Carson Kelly(0.736)"
           ],
           "lineup_players": [
             {
@@ -10003,22 +10003,16 @@
               "avg": 0.162
             },
             {
-              "id": 608324,
-              "name": "Alex Bregman",
-              "ops": 0.926,
-              "avg": 0.316
-            },
-            {
               "id": 683737,
               "name": "Michael Busch",
               "ops": 0.659,
               "avg": 0.167
             },
             {
-              "id": 663538,
-              "name": "Nico Hoerner",
-              "ops": 0.729,
-              "avg": 0.342
+              "id": 608324,
+              "name": "Alex Bregman",
+              "ops": 0.926,
+              "avg": 0.316
             },
             {
               "id": 664023,
@@ -10027,22 +10021,28 @@
               "avg": 0.226
             },
             {
-              "id": 807713,
-              "name": "Matt Shaw",
-              "ops": 0.744,
-              "avg": 0.143
+              "id": 663538,
+              "name": "Nico Hoerner",
+              "ops": 0.729,
+              "avg": 0.342
             },
             {
-              "id": 621438,
-              "name": "Tyrone Taylor",
-              "ops": 1.002,
-              "avg": 0.469
+              "id": 699393,
+              "name": "Pedro Ramírez",
+              "ops": 0.641,
+              "avg": 0.147
             },
             {
-              "id": 665804,
-              "name": "Miguel Amaya",
-              "ops": 0.595,
-              "avg": 0.174
+              "id": 624424,
+              "name": "Michael Conforto",
+              "ops": 1.004,
+              "avg": 0.353
+            },
+            {
+              "id": 608348,
+              "name": "Carson Kelly",
+              "ops": 0.736,
+              "avg": 0.229
             }
           ],
           "bat_trend": "cold",
@@ -10136,14 +10136,14 @@
           "closer_era": 2.59,
           "closer_name": "Trevor Megill"
         },
-        "bat_score": 43.2,
+        "bat_score": 41.4,
         "bat_detail": {
-          "recent_avg": 0.274,
+          "recent_avg": 0.283,
           "runs_per_g": 5.5,
           "hr_per_g": 0.9,
           "bb_per_g": 3.0,
-          "season_ops": 0.768,
-          "season_avg": 0.274,
+          "season_ops": 0.763,
+          "season_avg": 0.283,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -10151,10 +10151,10 @@
           "lineup_ops": [
             "Jackson Chourio(0.861)",
             "Brice Turang(0.820)",
-            "Andrew Vaughn(0.844)",
             "William Contreras(0.827)",
-            "Gary Sánchez(0.742)",
-            "Luis Lara(0.617)",
+            "Andrew Vaughn(0.844)",
+            "Christian Yelich(0.688)",
+            "Sal Frelick(0.625)",
             "Joey Ortiz(0.766)",
             "Garrett Mitchell(0.680)",
             "Cooper Pratt(0.756)"
@@ -10173,28 +10173,28 @@
               "avg": 0.314
             },
             {
-              "id": 683734,
-              "name": "Andrew Vaughn",
-              "ops": 0.844,
-              "avg": 0.304
-            },
-            {
               "id": 661388,
               "name": "William Contreras",
               "ops": 0.827,
               "avg": 0.3
             },
             {
-              "id": 596142,
-              "name": "Gary Sánchez",
-              "ops": 0.742,
-              "avg": 0.15
+              "id": 683734,
+              "name": "Andrew Vaughn",
+              "ops": 0.844,
+              "avg": 0.304
             },
             {
-              "id": 800325,
-              "name": "Luis Lara",
-              "ops": 0.617,
-              "avg": 0.233
+              "id": 592885,
+              "name": "Christian Yelich",
+              "ops": 0.688,
+              "avg": 0.226
+            },
+            {
+              "id": 686217,
+              "name": "Sal Frelick",
+              "ops": 0.625,
+              "avg": 0.235
             },
             {
               "id": 687401,
@@ -10215,7 +10215,7 @@
               "avg": 0.29
             }
           ],
-          "bat_trend": "stable",
+          "bat_trend": "cold",
           "last5_rpg": 5.8,
           "last5_avg": 0.263,
           "home_split": {
@@ -10232,20 +10232,20 @@
           }
         },
         "sit_score": 64.7,
-        "total": 61.7
+        "total": 61.0
       }
     },
     "scores": {
       "away_offense": 41.1,
       "away_defense": 44.5,
-      "home_offense": 43.2,
+      "home_offense": 41.4,
       "home_defense": 62.9
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
