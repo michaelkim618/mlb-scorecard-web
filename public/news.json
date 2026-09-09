@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-09T21:48:28.608634+00:00",
+  "updated_at": "2026-09-09T22:09:28.829869+00:00",
   "news": [
+    {
+      "title": "Injuries: Ohtani, Henderson, Crochet, Carroll, Chisholm Jr., DeLauter",
+      "link": "https://www.mlb.com/news/baseball-injury-updates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xxmu4ab2oo9nj9byedbq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-09T21:53:00+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Frustrating trends continue for Matthews in loss to Tigers",
+      "link": "https://www.mlb.com/news/zebby-matthews-twins-lose-to-tigers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aukhjschzn3oxaiuj8kw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T21:50:50+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Blue Jays blanked by A's in crucial opportunity to gain AL Wild Card ground",
+      "link": "https://www.mlb.com/news/blue-jays-shut-out-by-depleted-athletics",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gbfedzenlfqsmz24jqxm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-09T21:38:52+00:00",
+      "time_ago": "30m ago"
+    },
     {
       "title": "One option in Jazz's absence is Volpe, who 'became Barry Bonds all of a sudden'",
       "link": "https://www.mlb.com/news/jazz-chisholm-jr-placed-on-injured-list",
@@ -12,7 +51,20 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-09T21:25:00+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "44m ago"
+    },
+    {
+      "title": "Marlins reinstate Fairbanks from injured list",
+      "link": "https://www.mlb.com/news/pete-fairbanks-reinstated-from-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787096109/mlb/jfleod7eb6eylk6hrfma",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Christina De Nicola",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-09T21:24:00+00:00",
+      "time_ago": "45m ago"
     },
     {
       "title": "Gunnar (knee) out of O's lineup; Blaze (back discomfort) to 10-day IL",
@@ -25,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-09T21:02:02+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "105.7 mph throw? 122.9 mph HR? This is the Statcast speed Hall of Fame",
@@ -38,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-09T20:53:00+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "The race is on for first-round byes -- who's got the edge?",
@@ -52,58 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-09T20:15:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Winn late scratch with left thumb pain day after returning from IL",
-      "link": "https://www.mlb.com/news/masyn-winn-scratched-for-series-finale-vs-giants",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xef9r9ms0izmkpjvgfzn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adrian Garro",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-09T20:12:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Elly breaks his own record for fastest INF throw 4 times over",
-      "link": "https://www.mlb.com/news/elly-de-la-cruz-sets-record-with-102-mph-throw",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bibcffy7yzuad2yui8mn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "David Adler",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-09T19:50:31+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Ryan impresses in organizational debut, could pitch for Tigers this month",
-      "link": "https://www.mlb.com/news/river-ryan-makes-tigers-triple-a-debut",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zz4ewih8eo6zprzzghta",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Beck",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-09T18:47:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Could this Brewers prospect make Minor League home run history this weekend?",
-      "link": "https://www.mlb.com/news/brewers-andrew-fischer-recording-historic-home-run-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dfdcjbm1gizcrj8uoc1g",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sam Dykstra",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-09T17:30:00+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }
