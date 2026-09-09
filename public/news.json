@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-09T05:45:09.845057+00:00",
+  "updated_at": "2026-09-09T06:10:17.779922+00:00",
   "news": [
+    {
+      "title": "Okamoto hits 30th HR to propel Blue Jays in hunt for Wild Card spot",
+      "link": "https://www.mlb.com/news/kazuma-okamoto-hits-30th-homer-of-mlb-rookie-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788921044/mlb/ae1b2x6ebsce5e1drfez",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-09T05:59:00+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Rangers chalk offensive outburst up to ... fantasy football?",
+      "link": "https://www.mlb.com/news/rangers-score-early-to-win-vs-mariners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788929496/mlb/p7cyn55nu6ctczzosq9a",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kennedi Landry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T05:52:00+00:00",
+      "time_ago": "18m ago"
+    },
     {
       "title": "Carroll (low back discomfort) a late scratch from D-backs' Tues. lineup",
       "link": "https://www.mlb.com/news/corbin-carroll-scratched-from-diamondbacks-lineup-with-back-discomfort",
@@ -12,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-09T05:19:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "51m ago"
     },
     {
       "title": "Burnes pitches three scoreless innings in return from Tommy John surgery",
@@ -25,20 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-09T05:18:00+00:00",
-      "time_ago": "27m ago"
-    },
-    {
-      "title": "Rangers start fast and don't look back to down Mariners",
-      "link": "https://www.mlb.com/news/rangers-score-early-to-win-vs-mariners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788929496/mlb/p7cyn55nu6ctczzosq9a",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kennedi Landry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-09T05:07:36+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "Varsho leads charge as bottom of the order propels Astros to crucial win",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-09T05:04:00+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Skubal reaches 8th for 1st time as Dodger in LA's season-best 6th straight win",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-09T04:50:00+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "With more 100+ mph gas, Miz reminds everyone 'that’s what I do. I throw hard'",
@@ -90,19 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-09T04:40:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Schlittler's latest dominant start clinches Yanks' 34th straight winning season",
-      "link": "https://www.mlb.com/news/cam-schlittler-strikes-out-10-in-7-innings-against-rockies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ql13efc7xuyvyhal9aj6",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Ritchie",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-09T04:24:00+00:00",
       "time_ago": "1h ago"
     }
   ]
