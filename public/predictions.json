@@ -9116,8 +9116,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 56.9,
-      "home": 43.1
+      "away": 57.1,
+      "home": 42.9
     },
     "expected_score": {
       "away": 2.0,
@@ -9399,14 +9399,14 @@
             }
           ]
         },
-        "bp_score": 68.2,
+        "bp_score": 67.4,
         "bp_detail": {
-          "bullpen_era": 3.06,
-          "recent_era": 2.17,
-          "recent_appearances": 18,
-          "recent_ip": 29.0,
-          "team_era": 3.82,
-          "bp_ip": 379.0,
+          "bullpen_era": 3.12,
+          "recent_era": 2.45,
+          "recent_appearances": 14,
+          "recent_ip": 25.7,
+          "team_era": 3.84,
+          "bp_ip": 378.3,
           "bp_count": 8,
           "closer_era": 2.16,
           "closer_name": "Grant Taylor"
@@ -9507,14 +9507,14 @@
           }
         },
         "sit_score": 58.3,
-        "total": 47.2
+        "total": 47.0
       }
     },
     "scores": {
       "away_offense": 30.9,
       "away_defense": 55.9,
       "home_offense": 25.0,
-      "home_defense": 55.1
+      "home_defense": 54.6
     },
     "actual_score": {
       "away": null,
@@ -9532,7 +9532,7 @@
     "model_correct": null,
     "notes": "Pittsburgh Pirates IL: Endy Rodríguez, Isaac Mattson, Kirby Yates, Mitch Keller, Ryan O'Hearn / Chicago White Sox IL: Brooks Baldwin, Drew Thorpe, Huascar Brazobán, Joey Bart, Jordan Leasure 외 다수",
     "kalshi_prob": 55.0,
-    "edge": -11.9,
+    "edge": -12.1,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Chicago White Sox)",
     "extreme_edge": false,
     "consensus": false,
