@@ -1,0 +1,29 @@
+{
+  "predictions": [],
+  "results": false,
+  "lineup_refreshed": [
+    "10:10"
+  ],
+  "predictions_frozen": [
+    "10:10"
+  ],
+  "frozen_predictions": {
+    "10:10": [
+      {
+        "game_pk": "824226",
+        "win_prob": {
+          "away": 51.0,
+          "home": 49.0
+        },
+        "model_winner": "Minnesota Twins",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -1.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "SP 점수 차이 1.0pt (≤5.0pt)",
+        "extreme_edge": false
+      }
+    ]
+  }
+}

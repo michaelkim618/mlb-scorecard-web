@@ -10583,6 +10583,28 @@
       "away_bp_score": 58.5,
       "home_bp_score": 56.3,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-09",
+      "away": "Minnesota Twins",
+      "home": "Detroit Tigers",
+      "game_number": 1,
+      "pick": "Minnesota Twins",
+      "pick_prob": 51.0,
+      "actual_winner": "무승부",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "cold",
+      "away_sp_era": 4.98,
+      "home_sp_era": 4.25,
+      "away_bp_era": 3.92,
+      "home_bp_era": 3.69,
+      "away_sp_score": 35.8,
+      "home_sp_score": 34.8,
+      "away_bp_score": 43.3,
+      "home_bp_score": 55.3,
+      "bat_source": "lineup"
     }
   ]
 }
