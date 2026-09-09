@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-09T06:10:17.779922+00:00",
+  "updated_at": "2026-09-09T07:14:16.162628+00:00",
   "news": [
+    {
+      "title": "Nationals' bullpen game unravels in record-setting loss",
+      "link": "https://www.mlb.com/news/nationals-set-record-with-38th-blown-save-in-loss-to-padres",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788935244/mlb/bxadcqrqqk1otrd36fuz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T06:48:41+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "Skubal's longest Dodger start fuels LA's season-high-tying 6th straight win",
+      "link": "https://www.mlb.com/news/tarik-skubal-starts-for-dodgers-vs-reds-on-sept-8",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788932405/mlb/hfev3cjpndkr6ro6sg7q",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T06:42:00+00:00",
+      "time_ago": "32m ago"
+    },
+    {
+      "title": "MLB marks first season with 3 rookies each hitting 30 homers",
+      "link": "https://www.mlb.com/news/sal-stewart-munetaka-murakami-kazuma-okamoto-first-trio-of-rookies-to-hit-30-homers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wdyub83yelggybmjz5xh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Shanthi Sepe-Chepuru",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-09T06:35:51+00:00",
+      "time_ago": "38m ago"
+    },
+    {
+      "title": "Montes goes where no one's gone before in Seattle with MONSTER homer",
+      "link": "https://www.mlb.com/news/lazaro-montes-hits-longest-home-run-at-t-mobile-park",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788925392/mlb/bzcufcmep2ssxsjbsdff",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Luke Olson",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-09T06:31:00+00:00",
+      "time_ago": "43m ago"
+    },
+    {
+      "title": "Padres' 4-run 8th inning delivers crucial comeback",
+      "link": "https://www.mlb.com/news/padres-rally-late-in-win-over-nationals-to-stay-in-wild-card-chase",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/thklnl1ngmdbix3pefm1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T06:16:00+00:00",
+      "time_ago": "58m ago"
+    },
     {
       "title": "Okamoto hits 30th HR to propel Blue Jays in hunt for Wild Card spot",
       "link": "https://www.mlb.com/news/kazuma-okamoto-hits-30th-homer-of-mlb-rookie-season",
@@ -12,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-09T05:59:00+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rangers chalk offensive outburst up to ... fantasy football?",
@@ -25,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-09T05:52:00+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Carroll (low back discomfort) a late scratch from D-backs' Tues. lineup",
@@ -38,71 +103,6 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-09T05:19:00+00:00",
-      "time_ago": "51m ago"
-    },
-    {
-      "title": "Burnes pitches three scoreless innings in return from Tommy John surgery",
-      "link": "https://www.mlb.com/news/corbin-burnes-2026-debut-against-royals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788932253/mlb/wik0bamoazabklocxju8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Robert Falkoff",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-09T05:18:00+00:00",
-      "time_ago": "52m ago"
-    },
-    {
-      "title": "Varsho leads charge as bottom of the order propels Astros to crucial win",
-      "link": "https://www.mlb.com/news/daulton-varsho-leads-astros-to-tight-win-over-phillies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788919153/mlb/yxddimrtorh0qoqndczy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-09T05:04:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Skubal reaches 8th for 1st time as Dodger in LA's season-best 6th straight win",
-      "link": "https://www.mlb.com/news/tarik-skubal-starts-for-dodgers-vs-reds-on-sept-8",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788932405/mlb/hfev3cjpndkr6ro6sg7q",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-09T04:50:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "With more 100+ mph gas, Miz reminds everyone 'that’s what I do. I throw hard'",
-      "link": "https://www.mlb.com/news/jacob-misiorowski-fourth-start-cubs-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788927143/mlb/ygmsiyz9i1z3qgyylsts",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy  Zach Sweet",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-09T04:42:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/usdw7nhyojlfsduenzbg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-09T04:40:00+00:00",
       "time_ago": "1h ago"
     }
   ]
