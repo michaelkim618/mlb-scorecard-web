@@ -14,7 +14,8 @@
   "predictions_frozen": [
     "10:10",
     "12:05",
-    "13:10"
+    "13:10",
+    "15:35"
   ],
   "frozen_predictions": {
     "10:10": [
@@ -95,6 +96,108 @@
         "sp_bat_conflict_detail": null,
         "low_confidence": true,
         "low_confidence_reason": "SP 점수 차이 3.0pt (≤5.0pt)",
+        "extreme_edge": false
+      }
+    ],
+    "15:35": [
+      {
+        "game_pk": "824791",
+        "win_prob": {
+          "away": 52.5,
+          "home": 47.5
+        },
+        "model_winner": "Cleveland Guardians",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -0.5,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "SP 점수 차이 0.6pt (≤5.0pt)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823416",
+        "win_prob": {
+          "away": 49.6,
+          "home": 50.4
+        },
+        "model_winner": "Philadelphia Phillies",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -7.6,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823818",
+        "win_prob": {
+          "away": 44.2,
+          "home": 55.8
+        },
+        "model_winner": "Miami Marlins",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 2.8,
+        "sp_bat_conflict": true,
+        "sp_bat_conflict_detail": {
+          "sp_favors": "Miami Marlins",
+          "bat_favors": "New York Mets",
+          "sp_gap": -17.5,
+          "bat_gap": 11.4
+        },
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "824713",
+        "win_prob": {
+          "away": 39.4,
+          "home": 60.6
+        },
+        "model_winner": "Boston Red Sox",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -5.4,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823497",
+        "win_prob": {
+          "away": 39.3,
+          "home": 60.7
+        },
+        "model_winner": "New York Yankees",
+        "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: New York Yankees)",
+        "edge": -8.3,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "824871",
+        "win_prob": {
+          "away": 48.7,
+          "home": 51.3
+        },
+        "model_winner": "Atlanta Braves",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 6.3,
+        "sp_bat_conflict": true,
+        "sp_bat_conflict_detail": {
+          "sp_favors": "Atlanta Braves",
+          "bat_favors": "Tampa Bay Rays",
+          "sp_gap": -32.7,
+          "bat_gap": 10.2
+        },
+        "low_confidence": false,
+        "low_confidence_reason": null,
         "extreme_edge": false
       }
     ]

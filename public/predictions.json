@@ -6119,13 +6119,13 @@
     },
     "expected_score": {
       "away": 0.9,
-      "home": 2.0
+      "home": 1.8
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "L",
       "bullpen_game": false,
@@ -6210,12 +6210,12 @@
         },
         "bat_score": 15.0,
         "bat_detail": {
-          "recent_avg": 0.187,
+          "recent_avg": 0.165,
           "runs_per_g": 3.4,
           "hr_per_g": 0.6,
           "bb_per_g": 3.0,
-          "season_ops": 0.557,
-          "season_avg": 0.187,
+          "season_ops": 0.516,
+          "season_avg": 0.165,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
@@ -6225,11 +6225,11 @@
             "Mike Trout(0.714)",
             "Jose Siri(0.396)",
             "Vaughn Grissom(0.710)",
-            "Moisés Ballesteros(0.724)",
             "Christian Moore(0.512)",
             "Kyren Paris(0.143)",
+            "Oswald Peraza(0.524)",
             "Denzer Guzman(0.494)",
-            "Travis d'Arnaud(0.514)"
+            "Tyler Heineman(0.351)"
           ],
           "lineup_players": [
             {
@@ -6257,12 +6257,6 @@
               "avg": 0.256
             },
             {
-              "id": 694208,
-              "name": "Moisés Ballesteros",
-              "ops": 0.724,
-              "avg": 0.306
-            },
-            {
               "id": 695681,
               "name": "Christian Moore",
               "ops": 0.512,
@@ -6275,16 +6269,22 @@
               "avg": 0.0
             },
             {
+              "id": 672724,
+              "name": "Oswald Peraza",
+              "ops": 0.524,
+              "avg": 0.154
+            },
+            {
               "id": 694203,
               "name": "Denzer Guzman",
               "ops": 0.494,
               "avg": 0.148
             },
             {
-              "id": 518595,
-              "name": "Travis d'Arnaud",
-              "ops": 0.514,
-              "avg": 0.15
+              "id": 623168,
+              "name": "Tyler Heineman",
+              "ops": 0.351,
+              "avg": 0.105
             }
           ],
           "bat_trend": "hot",
@@ -6307,7 +6307,7 @@
         "total": 39.7
       },
       "home": {
-        "sp_score": 53.0,
+        "sp_score": 52.5,
         "sp_detail": {
           "era": 3.51,
           "whip": 1.05,
@@ -6373,7 +6373,7 @@
             }
           ]
         },
-        "bp_score": 70.4,
+        "bp_score": 69.6,
         "bp_detail": {
           "bullpen_era": 2.69,
           "recent_era": 2.84,
@@ -6385,28 +6385,28 @@
           "closer_era": 2.03,
           "closer_name": "Aroldis Chapman"
         },
-        "bat_score": 26.8,
+        "bat_score": 25.2,
         "bat_detail": {
-          "recent_avg": 0.246,
+          "recent_avg": 0.232,
           "runs_per_g": 4.0,
           "hr_per_g": 1.3,
           "bb_per_g": 3.0,
-          "season_ops": 0.701,
-          "season_avg": 0.246,
+          "season_ops": 0.721,
+          "season_avg": 0.232,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
             "Roman Anthony(0.769)",
-            "Jahmai Jones(0.909)",
+            "Mickey Gasper(0.958)",
             "Wilyer Abreu(0.766)",
             "Trevor Story(0.678)",
             "Nick Sogard(0.788)",
             "Caleb Durbin(0.586)",
-            "Andruw Monasterio(0.503)",
-            "Eli White(0.788)",
-            "Connor Wong(0.522)"
+            "Jarren Duran(0.564)",
+            "Isiah Kiner-Falefa(0.793)",
+            "Nate Eaton(0.588)"
           ],
           "lineup_players": [
             {
@@ -6416,10 +6416,10 @@
               "avg": 0.256
             },
             {
-              "id": 663330,
-              "name": "Jahmai Jones",
-              "ops": 0.909,
-              "avg": 0.333
+              "id": 681508,
+              "name": "Mickey Gasper",
+              "ops": 0.958,
+              "avg": 0.25
             },
             {
               "id": 677800,
@@ -6446,22 +6446,22 @@
               "avg": 0.133
             },
             {
-              "id": 655316,
-              "name": "Andruw Monasterio",
-              "ops": 0.503,
-              "avg": 0.129
+              "id": 680776,
+              "name": "Jarren Duran",
+              "ops": 0.564,
+              "avg": 0.135
             },
             {
-              "id": 642201,
-              "name": "Eli White",
-              "ops": 0.788,
-              "avg": 0.333
+              "id": 643396,
+              "name": "Isiah Kiner-Falefa",
+              "ops": 0.793,
+              "avg": 0.292
             },
             {
-              "id": 657136,
-              "name": "Connor Wong",
-              "ops": 0.522,
-              "avg": 0.167
+              "id": 681987,
+              "name": "Nate Eaton",
+              "ops": 0.588,
+              "avg": 0.154
             }
           ],
           "bat_trend": "cold",
@@ -6481,20 +6481,20 @@
           }
         },
         "sit_score": 49.7,
-        "total": 53.2
+        "total": 52.4
       }
     },
     "scores": {
       "away_offense": 15.0,
       "away_defense": 45.6,
-      "home_offense": 26.8,
-      "home_defense": 61.7
+      "home_offense": 25.2,
+      "home_defense": 61.0
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -6857,22 +6857,22 @@
       "home": 60.7
     },
     "expected_score": {
-      "away": 2.8,
-      "home": 3.0
+      "away": 2.5,
+      "home": 2.9
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": true,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.31,
+        "sp": 0.33,
         "bp": 0.32,
-        "bat": 0.3,
+        "bat": 0.28,
         "sit": 0.15
       },
       "away": {
@@ -6970,14 +6970,14 @@
           "closer_era": 4.88,
           "closer_name": "Jordan Romano"
         },
-        "bat_score": 41.6,
+        "bat_score": 37.2,
         "bat_detail": {
-          "recent_avg": 0.271,
+          "recent_avg": 0.259,
           "runs_per_g": 4.5,
           "hr_per_g": 0.9,
           "bb_per_g": 3.0,
-          "season_ops": 0.795,
-          "season_avg": 0.271,
+          "season_ops": 0.754,
+          "season_avg": 0.259,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -6989,9 +6989,9 @@
             "Hunter Goodman(0.737)",
             "Mickey Moniak(0.649)",
             "Kyle Karros(0.625)",
-            "Adael Amador(1.121)",
-            "Zac Veen(0.889)",
-            "Ezequiel Tovar(0.479)"
+            "Brett Sullivan(0.645)",
+            "Connor Norby(0.583)",
+            "Zac Veen(0.889)"
           ],
           "lineup_players": [
             {
@@ -7031,22 +7031,22 @@
               "avg": 0.156
             },
             {
-              "id": 691182,
-              "name": "Adael Amador",
-              "ops": 1.121,
-              "avg": 0.355
+              "id": 664954,
+              "name": "Brett Sullivan",
+              "ops": 0.645,
+              "avg": 0.214
+            },
+            {
+              "id": 681393,
+              "name": "Connor Norby",
+              "ops": 0.583,
+              "avg": 0.212
             },
             {
               "id": 691728,
               "name": "Zac Veen",
               "ops": 0.889,
               "avg": 0.333
-            },
-            {
-              "id": 678662,
-              "name": "Ezequiel Tovar",
-              "ops": 0.479,
-              "avg": 0.185
             }
           ],
           "bat_trend": "hot",
@@ -7066,7 +7066,7 @@
           }
         },
         "sit_score": 40.7,
-        "total": 33.3
+        "total": 31.8
       },
       "home": {
         "sp_score": 41.2,
@@ -7148,14 +7148,14 @@
           "closer_era": 2.63,
           "closer_name": "David Bednar"
         },
-        "bat_score": 35.2,
+        "bat_score": 34.7,
         "bat_detail": {
-          "recent_avg": 0.263,
+          "recent_avg": 0.26,
           "runs_per_g": 5.4,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.724,
-          "season_avg": 0.263,
+          "season_ops": 0.721,
+          "season_avg": 0.26,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -7166,10 +7166,10 @@
             "Aaron Judge(0.752)",
             "Luis García Jr.(0.768)",
             "Spencer Jones(0.871)",
-            "Jazz Chisholm Jr.(0.748)",
             "George Lombard Jr.(0.545)",
             "Ryan McMahon(0.567)",
-            "Austin Wells(0.677)"
+            "Austin Wells(0.677)",
+            "José Caballero(0.719)"
           ],
           "lineup_players": [
             {
@@ -7203,12 +7203,6 @@
               "avg": 0.323
             },
             {
-              "id": 665862,
-              "name": "Jazz Chisholm Jr.",
-              "ops": 0.748,
-              "avg": 0.3
-            },
-            {
               "id": 806146,
               "name": "George Lombard Jr.",
               "ops": 0.545,
@@ -7225,6 +7219,12 @@
               "name": "Austin Wells",
               "ops": 0.677,
               "avg": 0.231
+            },
+            {
+              "id": 676609,
+              "name": "José Caballero",
+              "ops": 0.719,
+              "avg": 0.28
             }
           ],
           "bat_trend": "cold",
@@ -7248,16 +7248,16 @@
       }
     },
     "scores": {
-      "away_offense": 41.6,
+      "away_offense": 37.2,
       "away_defense": 21.5,
-      "home_offense": 35.2,
+      "home_offense": 34.7,
       "home_defense": 53.0
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
