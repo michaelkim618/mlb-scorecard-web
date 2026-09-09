@@ -15,7 +15,8 @@
     "10:10",
     "12:05",
     "13:10",
-    "15:35"
+    "15:35",
+    "16:40"
   ],
   "frozen_predictions": {
     "10:10": [
@@ -196,6 +197,53 @@
           "sp_gap": -32.7,
           "bat_gap": 10.2
         },
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      }
+    ],
+    "16:40": [
+      {
+        "game_pk": "824064",
+        "win_prob": {
+          "away": 58.1,
+          "home": 41.9
+        },
+        "model_winner": "Arizona Diamondbacks",
+        "value_bet": "⏭️ 패스 (양팀 ERA 5.0+ — 불확실성 과다, SP격차 6.4p 참고)",
+        "edge": null,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "824549",
+        "win_prob": {
+          "away": 57.1,
+          "home": 42.9
+        },
+        "model_winner": "Pittsburgh Pirates",
+        "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Chicago White Sox)",
+        "edge": -12.1,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823739",
+        "win_prob": {
+          "away": 39.4,
+          "home": 60.6
+        },
+        "model_winner": "Milwaukee Brewers",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 6.6,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
         "low_confidence": false,
         "low_confidence_reason": null,
         "extreme_edge": false
