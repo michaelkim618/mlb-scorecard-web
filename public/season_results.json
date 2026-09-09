@@ -10096,7 +10096,7 @@
       "game_number": 1,
       "pick": "Detroit Tigers",
       "pick_prob": 58.3,
-      "actual_winner": "무승부",
+      "actual_winner": "Minnesota Twins",
       "correct": false,
       "high_conf": false,
       "away_sp_trend": "cold",
@@ -10131,6 +10131,28 @@
       "home_sp_score": 32.0,
       "away_bp_score": 48.7,
       "home_bp_score": 75.0,
+      "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-08",
+      "away": "New York Mets",
+      "home": "Miami Marlins",
+      "game_number": 1,
+      "pick": "Miami Marlins",
+      "pick_prob": 61.5,
+      "actual_winner": "New York Mets",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "stable",
+      "away_sp_era": 4.62,
+      "home_sp_era": 2.63,
+      "away_bp_era": 4.26,
+      "home_bp_era": 4.14,
+      "away_sp_score": 30.0,
+      "home_sp_score": 57.3,
+      "away_bp_score": 34.6,
+      "home_bp_score": 43.5,
       "bat_source": "lineup"
     }
   ]

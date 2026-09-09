@@ -1479,7 +1479,7 @@
       "both": false,
       "any": false
     },
-    "actual_winner": "무승부",
+    "actual_winner": "Minnesota Twins",
     "model_winner": "Detroit Tigers",
     "model_correct": false,
     "notes": "Minnesota Twins IL: Anthony Banda, Austin Martin, Byron Buxton, Cole Sands, David Festa 외 다수 / Detroit Tigers IL: Bailey Horn, Burch Smith, Jack Flaherty, Justin Verlander, Kerry Carpenter 외 다수",
@@ -2976,9 +2976,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "New York Mets",
     "model_winner": "Miami Marlins",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "New York Mets IL: Cionel Pérez, Devin Williams, Jorge Polanco, Reed Garrett, Tylor Megill / Miami Marlins IL: Adam Mazur, Andrew Nardi, Anthony Bender, Max Meyer, Pete Fairbanks 외 다수",
     "kalshi_prob": 51.0,
     "edge": 8.5,

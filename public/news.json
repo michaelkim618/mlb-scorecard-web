@@ -1,18 +1,44 @@
 {
-  "updated_at": "2026-09-09T00:54:05.215167+00:00",
+  "updated_at": "2026-09-09T01:25:42.469906+00:00",
   "news": [
     {
-      "title": "'Everyone's excited' as Judge brings MVP presence back to Yanks",
+      "title": "Burnes pitches three scoreless innings in return from Tommy John surgery",
+      "link": "https://www.mlb.com/news/corbin-burnes-2026-debut-against-royals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wik0bamoazabklocxju8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Robert Falkoff",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-09T01:08:00+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "1 day after return, Ohtani out of lineup again; available to PH, expected back Weds.",
+      "link": "https://www.mlb.com/news/shohei-ohtani-out-of-september-8-lineup-vs-reds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/d24xlpkpfyh5zqsngslq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-09T01:04:00+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "Judge brings crowd to its feet but goes hitless in return from IL",
       "link": "https://www.mlb.com/news/aaron-judge-first-game-off-injured-list-vs-rockies",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uwjt8mbphoxfwbwtfghf",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Matthew Ritchie",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-09-08T23:55:00+00:00",
-      "time_ago": "59m ago"
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-09T00:54:00+00:00",
+      "time_ago": "31m ago"
     },
     {
       "title": "Perfect game! 32-year-old journeyman throws Minors' first perfecto in 9 years",
@@ -64,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-08T23:00:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "'When America Took the Field' documentary to premiere Thursday on MLB Network (10 ET)",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-08T22:46:07+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "1 day after return, Ohtani out of lineup again",
-      "link": "https://www.mlb.com/news/shohei-ohtani-out-of-september-8-lineup-vs-reds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/d24xlpkpfyh5zqsngslq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-08T22:18:04+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Jensen, Devers slug way to Player of the Week honors",
-      "link": "https://www.mlb.com/news/carter-jensen-rafael-devers-named-players-of-the-week",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sm7lculretkpb9o5wits",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ed Eagle",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-08T20:36:38+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }
