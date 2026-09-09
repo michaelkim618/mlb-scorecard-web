@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-09T22:09:28.829869+00:00",
+  "updated_at": "2026-09-09T22:19:23.296440+00:00",
   "news": [
+    {
+      "title": "Ohtani out of lineup for 6th time in last 7 games",
+      "link": "https://www.mlb.com/news/shohei-ohtani-out-of-lineup-again-vs-reds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qtguchshgjgstljfolii",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-09T22:09:52+00:00",
+      "time_ago": "9m ago"
+    },
     {
       "title": "Injuries: Ohtani, Henderson, Crochet, Carroll, Chisholm Jr., DeLauter",
       "link": "https://www.mlb.com/news/baseball-injury-updates",
@@ -12,7 +25,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-09T21:53:00+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "26m ago"
     },
     {
       "title": "Frustrating trends continue for Matthews in loss to Tigers",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-09T21:50:50+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "28m ago"
     },
     {
       "title": "Blue Jays blanked by A's in crucial opportunity to gain AL Wild Card ground",
@@ -38,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-09T21:38:52+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "40m ago"
     },
     {
       "title": "One option in Jazz's absence is Volpe, who 'became Barry Bonds all of a sudden'",
@@ -51,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-09T21:25:00+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "Marlins reinstate Fairbanks from injured list",
@@ -64,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-09T21:24:00+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "Gunnar (knee) out of O's lineup; Blaze (back discomfort) to 10-day IL",
@@ -90,19 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-09T20:53:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "The race is on for first-round byes -- who's got the edge?",
-      "link": "https://www.mlb.com/news/mlb-playoff-races-top-seeds-first-round-byes",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tqhogexjherwddnjymdn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-09T20:15:00+00:00",
       "time_ago": "1h ago"
     }
   ]
