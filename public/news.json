@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-09T22:19:23.296440+00:00",
+  "updated_at": "2026-09-09T22:38:35.609955+00:00",
   "news": [
+    {
+      "title": "Rutschman gets another planned day off after cortisone shot",
+      "link": "https://www.mlb.com/news/adley-rutschman-out-of-lineup-vs-angels",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788992623/mlb/ceyt0hkebrv0txqt2vj6",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T22:28:36+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Stammen ruffles Buehler's feathers with tough call on pitching change in third",
+      "link": "https://www.mlb.com/news/walker-buehler-removed-early-from-start-by-manager-craig-stammen",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a1ztqnrp7oxl5vhsj2bs",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T22:26:22+00:00",
+      "time_ago": "12m ago"
+    },
     {
       "title": "Ohtani out of lineup for 6th time in last 7 games",
       "link": "https://www.mlb.com/news/shohei-ohtani-out-of-lineup-again-vs-reds",
@@ -12,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-09T22:09:52+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "28m ago"
     },
     {
       "title": "Injuries: Ohtani, Henderson, Crochet, Carroll, Chisholm Jr., DeLauter",
@@ -25,7 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-09T21:53:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "Frustrating trends continue for Matthews in loss to Tigers",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-09T21:50:50+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "Blue Jays blanked by A's in crucial opportunity to gain AL Wild Card ground",
@@ -51,7 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-09T21:38:52+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "One option in Jazz's absence is Volpe, who 'became Barry Bonds all of a sudden'",
@@ -64,7 +90,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-09T21:25:00+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Marlins reinstate Fairbanks from injured list",
@@ -77,32 +103,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-09T21:24:00+00:00",
-      "time_ago": "55m ago"
-    },
-    {
-      "title": "Gunnar (knee) out of O's lineup; Blaze (back discomfort) to 10-day IL",
-      "link": "https://www.mlb.com/news/gunnar-henderson-blaze-alexander-injury-updates-orioles",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zc0xmydbv8cm8l9268ht",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-09T21:02:02+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "105.7 mph throw? 122.9 mph HR? This is the Statcast speed Hall of Fame",
-      "link": "https://www.mlb.com/news/speediest-plays-in-statcast-history",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/plp2xa3s94iwxmyiomws",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sarah Langs",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-09T20:53:00+00:00",
       "time_ago": "1h ago"
     }
   ]
