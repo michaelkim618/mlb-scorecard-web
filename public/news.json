@@ -1,18 +1,70 @@
 {
-  "updated_at": "2026-09-09T04:57:23.098686+00:00",
+  "updated_at": "2026-09-09T05:45:09.845057+00:00",
   "news": [
+    {
+      "title": "Carroll (low back discomfort) a late scratch from D-backs' Tues. lineup",
+      "link": "https://www.mlb.com/news/corbin-carroll-scratched-from-diamondbacks-lineup-with-back-discomfort",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pyxz1fz77fof3ds02xm7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Robert Falkoff",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-09T05:19:00+00:00",
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "Burnes pitches three scoreless innings in return from Tommy John surgery",
+      "link": "https://www.mlb.com/news/corbin-burnes-2026-debut-against-royals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788932253/mlb/wik0bamoazabklocxju8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Robert Falkoff",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-09T05:18:00+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "Rangers start fast and don't look back to down Mariners",
+      "link": "https://www.mlb.com/news/rangers-score-early-to-win-vs-mariners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788929496/mlb/p7cyn55nu6ctczzosq9a",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kennedi Landry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T05:07:36+00:00",
+      "time_ago": "37m ago"
+    },
+    {
+      "title": "Varsho leads charge as bottom of the order propels Astros to crucial win",
+      "link": "https://www.mlb.com/news/daulton-varsho-leads-astros-to-tight-win-over-phillies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788919153/mlb/yxddimrtorh0qoqndczy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T05:04:00+00:00",
+      "time_ago": "41m ago"
+    },
     {
       "title": "Skubal reaches 8th for 1st time as Dodger in LA's season-best 6th straight win",
       "link": "https://www.mlb.com/news/tarik-skubal-starts-for-dodgers-vs-reds-on-sept-8",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788926453/mlb/hfev3cjpndkr6ro6sg7q",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788932405/mlb/hfev3cjpndkr6ro6sg7q",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Sonja Chen",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-09T04:50:00+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "With more 100+ mph gas, Miz reminds everyone 'that’s what I do. I throw hard'",
@@ -25,7 +77,20 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-09T04:42:00+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/usdw7nhyojlfsduenzbg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-09T04:40:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Schlittler's latest dominant start clinches Yanks' 34th straight winning season",
@@ -38,71 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-09T04:24:00+00:00",
-      "time_ago": "33m ago"
-    },
-    {
-      "title": "Okamoto hits 30th HR to propel Blue Jays in hunt for Wild Card spot",
-      "link": "https://www.mlb.com/news/kazuma-okamoto-hits-30th-homer-of-mlb-rookie-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788921044/mlb/ae1b2x6ebsce5e1drfez",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-09T04:20:00+00:00",
-      "time_ago": "37m ago"
-    },
-    {
-      "title": "Bazzana's big blast, Guards' bullpen help secure key win in postseason push",
-      "link": "https://www.mlb.com/news/travis-bazzana-homers-in-guardians-win-over-orioles",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788921288/mlb/dvtdtsbinmlnv226ryc3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-09T04:20:00+00:00",
-      "time_ago": "37m ago"
-    },
-    {
-      "title": "Montes goes where no one's gone before in Seattle with MONSTER homer",
-      "link": "https://www.mlb.com/news/lazaro-montes-hits-longest-home-run-at-t-mobile-park",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788925392/mlb/bzcufcmep2ssxsjbsdff",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Luke Olson",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-09T03:53:29+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "'I felt great': Judge brings crowd to its feet in return to victorious Yanks",
-      "link": "https://www.mlb.com/news/aaron-judge-first-game-off-injured-list-vs-rockies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uwjt8mbphoxfwbwtfghf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Ritchie",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-09T03:51:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Twins' Trade Deadline acquisitions show their potential in win over Tigers",
-      "link": "https://www.mlb.com/news/dean-kremer-twins-bullpen-shine-in-win-over-tigers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788916886/mlb/o5ppukqcnwdo0p6iodur",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-09-09T03:34:00+00:00",
       "time_ago": "1h ago"
     }
   ]
