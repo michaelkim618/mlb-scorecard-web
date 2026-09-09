@@ -336,18 +336,18 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 52.6,
-      "home": 47.4
+      "away": 51.0,
+      "home": 49.0
     },
     "expected_score": {
-      "away": 2.4,
+      "away": 2.1,
       "home": 1.9
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": false,
@@ -359,7 +359,7 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 35.9,
+        "sp_score": 35.8,
         "sp_detail": {
           "era": 4.98,
           "whip": 1.34,
@@ -433,7 +433,7 @@
             }
           ]
         },
-        "bp_score": 43.4,
+        "bp_score": 43.3,
         "bp_detail": {
           "bullpen_era": 3.92,
           "recent_era": 4.43,
@@ -445,14 +445,14 @@
           "closer_era": 3.5,
           "closer_name": "Yoendrys Gómez"
         },
-        "bat_score": 34.2,
+        "bat_score": 29.700000000000003,
         "bat_detail": {
-          "recent_avg": 0.235,
+          "recent_avg": 0.226,
           "runs_per_g": 5.4,
           "hr_per_g": 1.3,
           "bb_per_g": 3.0,
-          "season_ops": 0.738,
-          "season_avg": 0.235,
+          "season_ops": 0.693,
+          "season_avg": 0.226,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -461,11 +461,11 @@
             "Luke Keaschall(0.839)",
             "Brooks Lee(0.707)",
             "Kody Clemens(0.801)",
-            "Ryan Jeffers(0.990)",
             "Josh Bell(0.738)",
-            "Royce Lewis(0.651)",
-            "Trevor Larnach(0.714)",
             "Kaelen Culpepper(0.688)",
+            "Trevor Larnach(0.714)",
+            "Royce Lewis(0.651)",
+            "Victor Caratini(0.580)",
             "Walker Jenkins(0.516)"
           ],
           "lineup_players": [
@@ -488,22 +488,16 @@
               "avg": 0.212
             },
             {
-              "id": 680777,
-              "name": "Ryan Jeffers",
-              "ops": 0.99,
-              "avg": 0.265
-            },
-            {
               "id": 605137,
               "name": "Josh Bell",
               "ops": 0.738,
               "avg": 0.278
             },
             {
-              "id": 668904,
-              "name": "Royce Lewis",
-              "ops": 0.651,
-              "avg": 0.211
+              "id": 701785,
+              "name": "Kaelen Culpepper",
+              "ops": 0.688,
+              "avg": 0.237
             },
             {
               "id": 663616,
@@ -512,10 +506,16 @@
               "avg": 0.214
             },
             {
-              "id": 701785,
-              "name": "Kaelen Culpepper",
-              "ops": 0.688,
-              "avg": 0.237
+              "id": 668904,
+              "name": "Royce Lewis",
+              "ops": 0.651,
+              "avg": 0.211
+            },
+            {
+              "id": 605170,
+              "name": "Victor Caratini",
+              "ops": 0.58,
+              "avg": 0.185
             },
             {
               "id": 805805,
@@ -541,7 +541,7 @@
           }
         },
         "sit_score": 50.1,
-        "total": 42.3
+        "total": 40.9
       },
       "home": {
         "sp_score": 34.8,
@@ -625,26 +625,26 @@
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.219,
+          "recent_avg": 0.217,
           "runs_per_g": 3.9,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
-          "season_ops": 0.666,
-          "season_avg": 0.219,
+          "season_ops": 0.656,
+          "season_avg": 0.217,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
             "Kevin McGonigle(0.768)",
-            "Gleyber Torres(0.774)",
+            "Hao-Yu Lee(0.661)",
             "Colt Keith(0.519)",
             "Riley Greene(0.896)",
-            "Eduardo Valencia(0.684)",
+            "Dillon Dingler(0.542)",
             "Brett Callahan(0.516)",
             "Max Clark(0.726)",
-            "Hao-Yu Lee(0.661)",
-            "Zach McKinstry(0.453)"
+            "Ben Malgeri(0.714)",
+            "John Peck(0.564)"
           ],
           "lineup_players": [
             {
@@ -654,10 +654,10 @@
               "avg": 0.231
             },
             {
-              "id": 650402,
-              "name": "Gleyber Torres",
-              "ops": 0.774,
-              "avg": 0.343
+              "id": 701678,
+              "name": "Hao-Yu Lee",
+              "ops": 0.661,
+              "avg": 0.182
             },
             {
               "id": 690993,
@@ -672,10 +672,10 @@
               "avg": 0.289
             },
             {
-              "id": 680664,
-              "name": "Eduardo Valencia",
-              "ops": 0.684,
-              "avg": 0.206
+              "id": 693307,
+              "name": "Dillon Dingler",
+              "ops": 0.542,
+              "avg": 0.135
             },
             {
               "id": 814430,
@@ -690,16 +690,16 @@
               "avg": 0.273
             },
             {
-              "id": 701678,
-              "name": "Hao-Yu Lee",
-              "ops": 0.661,
-              "avg": 0.182
+              "id": 701162,
+              "name": "Ben Malgeri",
+              "ops": 0.714,
+              "avg": 0.292
             },
             {
-              "id": 656716,
-              "name": "Zach McKinstry",
-              "ops": 0.453,
-              "avg": 0.121
+              "id": 807726,
+              "name": "John Peck",
+              "ops": 0.564,
+              "avg": 0.227
             }
           ],
           "bat_trend": "stable",
@@ -723,16 +723,16 @@
       }
     },
     "scores": {
-      "away_offense": 34.2,
-      "away_defense": 39.6,
+      "away_offense": 29.700000000000003,
+      "away_defense": 39.5,
       "home_offense": 25.0,
       "home_defense": 45.0
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -743,15 +743,15 @@
     "model_winner": "Minnesota Twins",
     "model_correct": null,
     "notes": "Minnesota Twins IL: Anthony Banda, Austin Martin, Byron Buxton, Cole Sands, David Festa 외 다수 / Detroit Tigers IL: Bailey Horn, Burch Smith, Jack Flaherty, Justin Verlander, Kerry Carpenter 외 다수",
-    "kalshi_prob": 54.0,
-    "edge": -3.6,
+    "kalshi_prob": 53.0,
+    "edge": -1.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 1.1pt (≤5.0pt)",
+    "low_confidence_reason": "SP 점수 차이 1.0pt (≤5.0pt)",
     "model_version": "v13"
   },
   {
@@ -1475,8 +1475,8 @@
     "model_winner": "Toronto Blue Jays",
     "model_correct": null,
     "notes": "Toronto Blue Jays IL: Addison Barger, Anthony Santander, Bowden Francis, Cody Ponce, Jake Bloss 외 다수 / Athletics IL: Brent Rooker, Brooks Kriske, Gunnar Hoglund, J.T. Ginn, Jacob Wilson 외 다수",
-    "kalshi_prob": 34.0,
-    "edge": 4.0,
+    "kalshi_prob": 37.0,
+    "edge": 1.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -2223,8 +2223,8 @@
     "model_winner": "St. Louis Cardinals",
     "model_correct": null,
     "notes": "St. Louis Cardinals IL: Blaze Jordan, Everson Pereira, Hunter Dobbins, JJ Wetherholt, Max Rajcic 외 다수 / San Francisco Giants IL: Adrian Houser, Carson Whisenhunt, Casey Schmitt, Daniel Susac, Harrison Bader 외 다수",
-    "kalshi_prob": 46.0,
-    "edge": -3.6,
+    "kalshi_prob": 48.0,
+    "edge": -5.6,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -2931,8 +2931,8 @@
     "model_winner": "San Diego Padres",
     "model_correct": null,
     "notes": "Washington Nationals IL: Connelly Early, DJ Herz, Drew Millas, Josiah Gray, Ken Waldichuk 외 다수 / San Diego Padres IL: Bryan Hoeing, Gavin Sheets, Jason Adam, Jeremiah Estrada, Joe Musgrove 외 다수",
-    "kalshi_prob": 63.0,
-    "edge": -3.2,
+    "kalshi_prob": 62.0,
+    "edge": -2.2,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -4306,8 +4306,8 @@
     "model_winner": "Cleveland Guardians",
     "model_correct": null,
     "notes": "Cleveland Guardians IL: Colin Holderman, Rhys Hoskins, Shawn Armstrong / Baltimore Orioles IL: Christian Franklin, Colin Selby, Félix Bautista, Jordan Westburg, Keegan Akin 외 다수",
-    "kalshi_prob": 49.0,
-    "edge": -1.5,
+    "kalshi_prob": 48.0,
+    "edge": -0.5,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -5039,9 +5039,9 @@
     "model_winner": "Philadelphia Phillies",
     "model_correct": null,
     "notes": "Houston Astros IL: Brandon Walter, Brice Matthews, Carlos Correa, Mike Burrows, Steven Okert / Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Felix Reyes, Johan Rojas 외 다수",
-    "kalshi_prob": 59.0,
-    "edge": -8.6,
-    "value_bet": "⏭️ 패스 (박빙 경기 — 예측 신뢰도 낮음)",
+    "kalshi_prob": 58.0,
+    "edge": -7.6,
+    "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
@@ -7164,10 +7164,10 @@
             "Ben Rice(0.844)",
             "Cody Bellinger(0.747)",
             "Aaron Judge(0.752)",
-            "Luis García(0.768)",
+            "Luis García Jr.(0.768)",
             "Spencer Jones(0.871)",
-            "Jazz Chisholm(0.748)",
-            "George Lombard(0.545)",
+            "Jazz Chisholm Jr.(0.748)",
+            "George Lombard Jr.(0.545)",
             "Ryan McMahon(0.567)",
             "Austin Wells(0.677)"
           ],
@@ -7192,7 +7192,7 @@
             },
             {
               "id": 671277,
-              "name": "Luis García",
+              "name": "Luis García Jr.",
               "ops": 0.768,
               "avg": 0.312
             },
@@ -7204,13 +7204,13 @@
             },
             {
               "id": 665862,
-              "name": "Jazz Chisholm",
+              "name": "Jazz Chisholm Jr.",
               "ops": 0.748,
               "avg": 0.3
             },
             {
               "id": 806146,
-              "name": "George Lombard",
+              "name": "George Lombard Jr.",
               "ops": 0.545,
               "avg": 0.152
             },
@@ -7268,9 +7268,9 @@
     "model_winner": "New York Yankees",
     "model_correct": null,
     "notes": "Colorado Rockies IL: Chase Dollander, Jose Quintana, Kris Bryant, Kyle Freeland, McCade Brown 외 다수 / New York Yankees IL: Clarke Schmidt, Fernando Cruz, Giancarlo Stanton, Kervin Castro, Ryan Weathers 외 다수",
-    "kalshi_prob": 68.0,
-    "edge": -7.3,
-    "value_bet": "➖ 시장과 유사",
+    "kalshi_prob": 69.0,
+    "edge": -8.3,
+    "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: New York Yankees)",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
@@ -7616,8 +7616,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 39.7,
-      "home": 60.3
+      "away": 40.7,
+      "home": 59.3
     },
     "expected_score": {
       "away": 2.1,
@@ -7883,14 +7883,14 @@
             }
           ]
         },
-        "bp_score": 71.7,
+        "bp_score": 68.3,
         "bp_detail": {
-          "bullpen_era": 2.75,
+          "bullpen_era": 3.06,
           "recent_era": 2.0,
-          "recent_appearances": 14,
-          "recent_ip": 24.0,
-          "team_era": 3.25,
-          "bp_ip": 359.7,
+          "recent_appearances": 12,
+          "recent_ip": 19.0,
+          "team_era": 3.27,
+          "bp_ip": 358.3,
           "bp_count": 8,
           "closer_era": 2.72,
           "closer_name": "Raisel Iglesias"
@@ -7991,14 +7991,14 @@
           }
         },
         "sit_score": 60.3,
-        "total": 61.3
+        "total": 60.5
       }
     },
     "scores": {
       "away_offense": 36.1,
       "away_defense": 53.4,
       "home_offense": 25.9,
-      "home_defense": 70.8
+      "home_defense": 69.2
     },
     "actual_score": {
       "away": null,
@@ -8014,10 +8014,10 @@
     "actual_winner": null,
     "model_winner": "Atlanta Braves",
     "model_correct": null,
-    "notes": "Tampa Bay Rays IL: Ben Williamson, Edwin Uceta, Garrett Cleavinger, Gavin Lux, Jake Fraley 외 다수 / Atlanta Braves IL: Joe Jiménez, Joey Wentz, Reynaldo López, Robert Suarez, Spencer Schwellenbach 외 다수",
-    "kalshi_prob": 52.0,
-    "edge": 8.3,
-    "value_bet": "⚠️ VB주의(선발Hot·edge부족 8.3%p<14.0%p)",
+    "notes": "Tampa Bay Rays IL: Ben Williamson, Edwin Uceta, Garrett Cleavinger, Gavin Lux, Jake Fraley 외 다수 / Atlanta Braves IL: Bryce Elder, Joe Jiménez, Joey Wentz, Robert Suarez, Spencer Schwellenbach 외 다수",
+    "kalshi_prob": 53.0,
+    "edge": 6.3,
+    "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": true,
@@ -9531,8 +9531,8 @@
     "model_winner": "Pittsburgh Pirates",
     "model_correct": null,
     "notes": "Pittsburgh Pirates IL: Endy Rodríguez, Isaac Mattson, Kirby Yates, Mitch Keller, Ryan O'Hearn / Chicago White Sox IL: Brooks Baldwin, Drew Thorpe, Huascar Brazobán, Joey Bart, Jordan Leasure 외 다수",
-    "kalshi_prob": 57.0,
-    "edge": -13.9,
+    "kalshi_prob": 55.0,
+    "edge": -11.9,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Chicago White Sox)",
     "extreme_edge": false,
     "consensus": false,
@@ -10256,8 +10256,8 @@
     "model_winner": "Milwaukee Brewers",
     "model_correct": null,
     "notes": "Chicago Cubs IL: Ben Brown, Cade Horton, Dansby Swanson, Edward Cabrera, Gavin Hollowell 외 다수 / Milwaukee Brewers IL: Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Bryse Wilson, Grant Anderson 외 다수",
-    "kalshi_prob": 54.0,
-    "edge": 6.6,
+    "kalshi_prob": 55.0,
+    "edge": 5.6,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
