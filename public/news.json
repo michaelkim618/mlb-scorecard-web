@@ -1,18 +1,44 @@
 {
-  "updated_at": "2026-09-08T23:48:31.257049+00:00",
+  "updated_at": "2026-09-09T00:24:57.109403+00:00",
   "news": [
     {
       "title": "'Everyone's excited' as Judge brings MVP presence back to Yanks",
       "link": "https://www.mlb.com/news/aaron-judge-first-game-off-injured-list-vs-rockies",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zeepfoxowuhw1nhxvpju",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uwjt8mbphoxfwbwtfghf",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Matthew Ritchie",
       "tag": "Award",
       "tag_color": "#16A34A",
-      "pub_date": "2026-09-08T23:36:00+00:00",
-      "time_ago": "12m ago"
+      "pub_date": "2026-09-08T23:55:00+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "Perfect game! 32-year-old journeyman throws Minors' first perfecto in 9 years",
+      "link": "https://www.mlb.com/news/thomas-pannone-throws-perfect-game-in-minor-leagues",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/upyf2y2nn3fzufniulyj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Manny Randhawa  Adam McCalvy",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-08T23:44:00+00:00",
+      "time_ago": "40m ago"
+    },
+    {
+      "title": "Carroll (low back discomfort) a late scratch from D-backs' Tues. lineup",
+      "link": "https://www.mlb.com/news/corbin-carroll-scratched-from-diamondbacks-lineup-with-back-discomfort",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pyxz1fz77fof3ds02xm7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Robert Falkoff",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-08T23:40:52+00:00",
+      "time_ago": "44m ago"
     },
     {
       "title": "Rays place Walls (hip) on IL, call up veteran Madrigal",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-08T23:26:00+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Here's every ranked prospect on MiLB playoff rosters",
@@ -38,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-08T23:00:00+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'When America Took the Field' documentary to premiere Thursday on MLB Network (10 ET)",
@@ -64,7 +90,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-08T22:18:04+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Jensen, Devers slug way to Player of the Week honors",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-08T20:36:38+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "Former Cy winner Burnes making '26 debut tonight following TJ surgery",
-      "link": "https://www.mlb.com/news/corbin-burnes-2026-debut-against-royals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qk6fhfo5nbel5ogccja9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-08T19:51:14+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Is Judge the greatest hitter ever? This former MVP says yes",
-      "link": "https://www.mlb.com/news/joey-votto-calls-aaron-judge-the-greatest-hitter-ever",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788890863/mlb/k9mveydfuphopipjhoen",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-09-08T19:19:00+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }
