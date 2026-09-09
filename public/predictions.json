@@ -1471,9 +1471,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "무승부",
     "model_winner": "Toronto Blue Jays",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Toronto Blue Jays IL: Addison Barger, Anthony Santander, Bowden Francis, Cody Ponce, Jake Bloss 외 다수 / Athletics IL: Brent Rooker, Brooks Kriske, Gunnar Hoglund, J.T. Ginn, Jacob Wilson 외 다수",
     "kalshi_prob": 39.0,
     "edge": -1.0,
@@ -2219,9 +2219,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "무승부",
     "model_winner": "St. Louis Cardinals",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "St. Louis Cardinals IL: Blaze Jordan, Everson Pereira, Hunter Dobbins, JJ Wetherholt, Max Rajcic 외 다수 / San Francisco Giants IL: Adrian Houser, Carson Whisenhunt, Casey Schmitt, Daniel Susac, Harrison Bader 외 다수",
     "kalshi_prob": 48.0,
     "edge": -9.6,
