@@ -7,7 +7,7 @@ export default function Footer() {
       padding: "40px 0 28px",
     }}>
       <div style={{ maxWidth: "var(--max-width)", margin: "0 auto", padding: "0 24px" }}>
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr 1fr", gap: 32, marginBottom: 36 }}>
+        <div className="footer-grid" style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr 1fr", gap: 32, marginBottom: 36 }}>
 
           {/* Brand */}
           <div>
@@ -87,7 +87,7 @@ export default function Footer() {
         </div>
 
         {/* Bottom bar */}
-        <div style={{
+        <div className="footer-bottom" style={{
           borderTop: "1px solid rgba(255,255,255,0.1)",
           paddingTop: 20,
           display: "flex", alignItems: "center", justifyContent: "space-between",

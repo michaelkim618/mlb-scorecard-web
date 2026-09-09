@@ -67,4 +67,57 @@
     align-items: flex-start !important;
     gap: 8px !important;
   }
+
+  /* ── Footer: 4열 → 2열 (가로 오버플로 원인) ── */
+  .footer-grid {
+    grid-template-columns: 1fr 1fr !important;
+    gap: 24px !important;
+  }
+  .footer-bottom {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 8px !important;
+  }
+
+  /* ── CommunityPage: 340px 고정 사이드바 → 1열 ── */
+  .community-layout {
+    grid-template-columns: 1fr !important;
+    gap: 16px !important;
+  }
+  .community-sidebar {
+    position: static !important;
+  }
+
+  /* ── Community CTA: 좌우 배치 → 세로 ── */
+  .community-cta {
+    flex-direction: column !important;
+    align-items: stretch !important;
+    padding: 20px !important;
+  }
+
+  /* ── Blog 목록 행: 80px/1fr/auto 축소 + 메타 줄바꿈 ── */
+  .blog-row {
+    grid-template-columns: 44px 1fr auto !important;
+    gap: 10px !important;
+    padding: 14px 12px !important;
+  }
+  .blog-row > div {
+    min-width: 0 !important;
+  }
+  .blog-row-meta {
+    flex-wrap: wrap !important;
+    gap: 6px !important;
+  }
+
+  /* ── 사용자 입력 텍스트: 긴 토큰 가로 오버플로 방지 ── */
+  .community-layout > div {
+    min-width: 0 !important;
+  }
+  .comment-card p,
+  .comment-author {
+    overflow-wrap: anywhere !important;
+  }
+  .comment-author {
+    min-width: 0 !important;
+  }
 }

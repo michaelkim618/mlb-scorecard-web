@@ -1,0 +1,20 @@
+#!/bin/sh
+# Blocks a commit on failing tests. Enable with:
+#   git config core.hooksPath .githooks
+#
+# Guards two things that are easy to break without noticing: the dev mock
+# staying faithful to the real Supabase client, and the mock staying out of
+# production builds. See CLAUDE.md.
+
+if ! command -v npm >/dev/null 2>&1; then
+  echo "pre-commit: npm not found, skipping tests" >&2
+  exit 0
+fi
+
+echo "pre-commit: npm test"
+if ! npm test --silent; then
+  echo >&2
+  echo "pre-commit: tests failed — commit blocked." >&2
+  echo "Fix the failures, or bypass deliberately with 'git commit --no-verify'." >&2
+  exit 1
+fi
