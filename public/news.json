@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-09T04:17:25.537026+00:00",
+  "updated_at": "2026-09-09T04:57:23.098686+00:00",
   "news": [
+    {
+      "title": "Skubal reaches 8th for 1st time as Dodger in LA's season-best 6th straight win",
+      "link": "https://www.mlb.com/news/tarik-skubal-starts-for-dodgers-vs-reds-on-sept-8",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788926453/mlb/hfev3cjpndkr6ro6sg7q",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T04:50:00+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "With more 100+ mph gas, Miz reminds everyone 'that’s what I do. I throw hard'",
+      "link": "https://www.mlb.com/news/jacob-misiorowski-fourth-start-cubs-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788927143/mlb/ygmsiyz9i1z3qgyylsts",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy  Zach Sweet",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-09T04:42:00+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "Schlittler's latest dominant start clinches Yanks' 34th straight winning season",
+      "link": "https://www.mlb.com/news/cam-schlittler-strikes-out-10-in-7-innings-against-rockies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ql13efc7xuyvyhal9aj6",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Ritchie",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T04:24:00+00:00",
+      "time_ago": "33m ago"
+    },
+    {
+      "title": "Okamoto hits 30th HR to propel Blue Jays in hunt for Wild Card spot",
+      "link": "https://www.mlb.com/news/kazuma-okamoto-hits-30th-homer-of-mlb-rookie-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788921044/mlb/ae1b2x6ebsce5e1drfez",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-09T04:20:00+00:00",
+      "time_ago": "37m ago"
+    },
+    {
+      "title": "Bazzana's big blast, Guards' bullpen help secure key win in postseason push",
+      "link": "https://www.mlb.com/news/travis-bazzana-homers-in-guardians-win-over-orioles",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788921288/mlb/dvtdtsbinmlnv226ryc3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T04:20:00+00:00",
+      "time_ago": "37m ago"
+    },
     {
       "title": "Montes goes where no one's gone before in Seattle with MONSTER homer",
       "link": "https://www.mlb.com/news/lazaro-montes-hits-longest-home-run-at-t-mobile-park",
@@ -12,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-09T03:53:29+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'I felt great': Judge brings crowd to its feet in return to victorious Yanks",
@@ -25,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-09T03:51:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Twins' Trade Deadline acquisitions show their potential in win over Tigers",
@@ -38,71 +103,6 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-09-09T03:34:00+00:00",
-      "time_ago": "43m ago"
-    },
-    {
-      "title": "Mets club 3 HRs to overcome Manaea's 6th-inning 'kryptonite' in win vs. Marlins",
-      "link": "https://www.mlb.com/news/sean-manaea-loses-perfect-game-in-6th-inning-as-mets-beat-marlins",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788917286/mlb/ku9omtz5t03qd1ovynsi",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Perla Paredes",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-09T03:33:00+00:00",
-      "time_ago": "44m ago"
-    },
-    {
-      "title": "Gunnar, Blaze day to day with injuries as banged-up O's drop crucial game to Guards",
-      "link": "https://www.mlb.com/news/gunnar-henderson-exits-orioles-game-with-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e0flleykgz0jp5oacfrn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-09T03:18:00+00:00",
-      "time_ago": "59m ago"
-    },
-    {
-      "title": "Burnes pitches three scoreless innings in return from Tommy John surgery",
-      "link": "https://www.mlb.com/news/corbin-burnes-2026-debut-against-royals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wik0bamoazabklocxju8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Robert Falkoff",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-09T03:12:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Miz gets back to his flamethrowing ways in 1-run outing vs. Cubs",
-      "link": "https://www.mlb.com/news/jacob-misiorowski-fourth-start-cubs-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ygmsiyz9i1z3qgyylsts",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-09T03:04:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Crew's latest dramatic rally seals 90th win and puts playoff clinch in sight",
-      "link": "https://www.mlb.com/news/brewers-rally-beat-cubs-walk-off-win-10th-inning",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kgbo59yx8rjqcsw3o1v0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-09T03:02:15+00:00",
       "time_ago": "1h ago"
     }
   ]
