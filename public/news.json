@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-09T18:27:49.656510+00:00",
+  "updated_at": "2026-09-09T18:50:58.734669+00:00",
   "news": [
+    {
+      "title": "Ryan impresses in organizational debut, could pitch for Tigers this month",
+      "link": "https://www.mlb.com/news/river-ryan-makes-tigers-triple-a-debut",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zz4ewih8eo6zprzzghta",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T18:47:00+00:00",
+      "time_ago": "3m ago"
+    },
+    {
+      "title": "Elly hits a homer at 109.4 mph, then nails a runner with record 102 mph cannon",
+      "link": "https://www.mlb.com/news/elly-de-la-cruz-hits-a-homer-throws-out-a-runner-at-home",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pbeosvxjupemx4wlmrkf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Courtney Hollmon",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-09T18:29:00+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "Could he make Minor League home run history this weekend?",
+      "link": "https://www.mlb.com/news/brewers-andrew-fischer-recording-historic-home-run-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dfdcjbm1gizcrj8uoc1g",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sam Dykstra",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T17:30:00+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
       "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
@@ -12,7 +51,46 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-09T16:30:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Record-setting heat lingered in KC: How did Royals players handle it?",
+      "link": "https://www.mlb.com/news/royals-players-manage-extreme-heat-at-kauffman-stadium",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aydrmsws8cwhcah7jevo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anne Rogers",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T16:04:42+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Smith, Taylor are major cogs in Sox postseason pitching plans",
+      "link": "https://www.mlb.com/news/grant-taylor-hagen-smith-key-for-white-sox-down-the-stretch",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/chl2zowjl6lp3lkfi2yd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T16:03:53+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Clark just scratching surface of his game-breaking speed",
+      "link": "https://www.mlb.com/news/max-clark-changing-tigers-games-with-his-speed",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788925532/mlb/n5hupbie9e1kkocs6glp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T14:49:59+00:00",
+      "time_ago": "4h ago"
     },
     {
       "title": "Revisiting the trade that helped build two of baseball's best teams",
@@ -25,85 +103,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-09-09T14:30:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Northeast Ohio native, Browns star Denzel Ward joins Guardians' ownership group",
-      "link": "https://www.mlb.com/news/denzel-ward-joins-guardians-ownership-group",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nzlqmaztcizsocgkp4ev",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-09T13:49:09+00:00",
       "time_ago": "4h ago"
-    },
-    {
-      "title": "After forgoing rehab stint, Judge disappointed by early removal in return",
-      "link": "https://www.mlb.com/news/aaron-judge-first-game-off-injured-list-vs-rockies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uwjt8mbphoxfwbwtfghf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Ritchie",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-09T13:31:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Nationals' bullpen game unravels in record-setting loss",
-      "link": "https://www.mlb.com/news/nationals-set-record-with-38th-blown-save-in-loss-to-padres",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788935244/mlb/bxadcqrqqk1otrd36fuz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-09T06:48:41+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Skubal's longest Dodger start fuels LA's season-high-tying 6th straight win",
-      "link": "https://www.mlb.com/news/tarik-skubal-starts-for-dodgers-vs-reds-on-sept-8",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788932405/mlb/hfev3cjpndkr6ro6sg7q",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-09T06:42:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "MLB marks first season with 3 rookies each hitting 30 homers",
-      "link": "https://www.mlb.com/news/sal-stewart-munetaka-murakami-kazuma-okamoto-first-trio-of-rookies-to-hit-30-homers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wdyub83yelggybmjz5xh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Shanthi Sepe-Chepuru",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-09T06:35:51+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Prospect hits longest HR in Seattle ballpark's history",
-      "link": "https://www.mlb.com/news/lazaro-montes-hits-longest-home-run-at-t-mobile-park",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788925392/mlb/bzcufcmep2ssxsjbsdff",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Luke Olson",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-09T06:31:00+00:00",
-      "time_ago": "11h ago"
     }
   ]
 }

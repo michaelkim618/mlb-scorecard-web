@@ -10671,6 +10671,28 @@
       "away_bp_score": 58.9,
       "home_bp_score": 32.5,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-09",
+      "away": "Washington Nationals",
+      "home": "San Diego Padres",
+      "game_number": 1,
+      "pick": "San Diego Padres",
+      "pick_prob": 59.8,
+      "actual_winner": "무승부",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "hot",
+      "away_sp_era": 5.55,
+      "home_sp_era": 3.65,
+      "away_bp_era": 4.54,
+      "home_bp_era": 2.6,
+      "away_sp_score": 30.0,
+      "home_sp_score": 49.1,
+      "away_bp_score": 22.6,
+      "home_bp_score": 70.4,
+      "bat_source": "lineup"
     }
   ]
 }
