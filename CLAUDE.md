@@ -57,6 +57,7 @@ real Supabase and cannot be verified here.
 |---|---|
 | `test/supabase-mock.test.js` | the mock answers the same shapes the real client does |
 | `test/production-bundle.test.js` | the mock cannot reach a production build |
+| `test/mobile-overflow.test.js` | the mobile overflow fixes stay wired to their CSS |
 
 **Run `npm test` before every commit.** The bundle suite runs three real
 production builds (minified, unminified, and one with `VITE_USE_MOCK=1`), so the
@@ -106,13 +107,13 @@ and a leaking build to prove the assertions are live.
   the triggering content in the mock so the failure is reproducible; for logic
   bugs, a case in the relevant suite.
 - **Do not add a test framework.** `node:test` is deliberate — this project has
-  one runtime test dependency and should stay that way. The one exception is
-  `rolldown` (declared in devDependencies, and already present via Vite): the
-  import-time-work check parses the mock rather than pattern-matching it, after
-  three review rounds found holes in a line-based regex. It is declared rather
-  than borrowed from Vite's tree so the test does not break silently if Vite
-  changes bundler. If that import ever fails, fix it — do not let the test
-  skip, or it stops guarding silently.
+  two test dependencies and should stay that way. The exceptions are the
+  parsers `rolldown` (JS and JSX) and `postcss` (CSS), both declared in
+  devDependencies and already present via Vite: the guards parse rather than
+  pattern-match, after three review rounds found holes in a line-based regex.
+  They are declared rather than borrowed from Vite's tree so the tests do not
+  break silently if Vite changes its toolchain. If either import ever fails,
+  fix it — do not let the test skip, or it stops guarding silently.
 - Failing tests stop the run. Do not commit, push, or open a PR on red.
 
 ## Verification standards
