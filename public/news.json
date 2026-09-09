@@ -1,18 +1,57 @@
 {
-  "updated_at": "2026-09-09T22:57:40.326045+00:00",
+  "updated_at": "2026-09-09T23:23:02.260300+00:00",
   "news": [
     {
-      "title": "One option in Jazz's absence is Volpe, who 'became Barry Bonds all of a sudden'",
+      "title": "Stammen ruffles Buehler's feathers with tough call on pitching change in third",
+      "link": "https://www.mlb.com/news/walker-buehler-removed-early-from-start-by-manager-craig-stammen",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a1ztqnrp7oxl5vhsj2bs",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T23:09:00+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "With Jazz headed to IL, Yanks will call on Volpe, who 'became Barry Bonds all of a sudden'",
       "link": "https://www.mlb.com/news/jazz-chisholm-jr-placed-on-injured-list",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bhjgnmx7lkjlvwjvbymx",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Bryan Hoch",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-09T22:47:00+00:00",
-      "time_ago": "10m ago"
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T23:04:00+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Butera ejected in third inning after arguing over check swing",
+      "link": "https://www.mlb.com/news/blake-butera-ejected-vs-padres-for-arguing-check-swing-in-third-inning",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/igh5w2olraqfs53skzs4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jessica Camerato",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T23:04:00+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Predicting each organization's top prospect in 2028",
+      "link": "https://www.mlb.com/news/predicting-each-team-s-top-prospect-in-2028",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/k3uyod2y9jfb3gxniseg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sam Dykstra, Jim Callis and Jonathan Mayo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T23:00:00+00:00",
+      "time_ago": "23m ago"
     },
     {
       "title": "Bradford's rough luck continues in short start in Seattle",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-09T22:46:03+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "36m ago"
     },
     {
       "title": "Giants erupt for 6 runs in 8th for comeback win, series sweep vs. Cardinals",
@@ -38,20 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-09T22:44:59+00:00",
-      "time_ago": "12m ago"
-    },
-    {
-      "title": "Butera ejected in third inning after arguing over check swing",
-      "link": "https://www.mlb.com/news/blake-butera-ejected-vs-padres-for-arguing-check-swing-in-third-inning",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/igh5w2olraqfs53skzs4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jessica Camerato",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-09T22:38:53+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Watch LIVE as Zyhir Hope (DET) stands in against Gage Wood (PHI) at Double-A",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-09T22:36:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "Rutschman gets another planned day off after cortisone shot",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-09T22:28:36+00:00",
-      "time_ago": "29m ago"
-    },
-    {
-      "title": "Stammen ruffles Buehler's feathers with tough call on pitching change in third",
-      "link": "https://www.mlb.com/news/walker-buehler-removed-early-from-start-by-manager-craig-stammen",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a1ztqnrp7oxl5vhsj2bs",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-09T22:26:22+00:00",
-      "time_ago": "31m ago"
-    },
-    {
-      "title": "Ohtani out of lineup for 6th time in last 7 games",
-      "link": "https://www.mlb.com/news/shohei-ohtani-out-of-lineup-again-vs-reds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qtguchshgjgstljfolii",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-09T22:09:52+00:00",
-      "time_ago": "47m ago"
+      "time_ago": "54m ago"
     }
   ]
 }
