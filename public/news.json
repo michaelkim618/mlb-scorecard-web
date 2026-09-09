@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T17:19:17.705978+00:00",
+  "updated_at": "2026-09-09T18:21:48.411974+00:00",
   "news": [
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -12,7 +12,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-09T16:30:00+00:00",
-      "time_ago": "49m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Revisiting the trade that helped build two of baseball's best teams",
@@ -25,7 +25,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-09-09T14:30:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Northeast Ohio native, Browns star Denzel Ward joins Guardians' ownership group",
@@ -38,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-09T13:49:09+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "After forgoing rehab stint, Judge disappointed by early removal in return",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-09T13:31:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Nationals' bullpen game unravels in record-setting loss",
@@ -64,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-09T06:48:41+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Skubal's longest Dodger start fuels LA's season-high-tying 6th straight win",
@@ -77,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-09T06:42:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "MLB marks first season with 3 rookies each hitting 30 homers",
@@ -90,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-09T06:35:51+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Prospect hits longest HR in Seattle ballpark's history",
@@ -103,7 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-09T06:31:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     }
   ]
 }

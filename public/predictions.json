@@ -3163,21 +3163,21 @@
     },
     "expected_score": {
       "away": 3.5,
-      "home": 2.1
+      "home": 1.8
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "L",
       "home_handedness": "L",
       "bullpen_game": true,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.35,
+        "sp": 0.31,
         "bp": 0.3,
-        "bat": 0.28,
+        "bat": 0.32,
         "sit": 0.15
       },
       "away": {
@@ -3253,35 +3253,35 @@
           "closer_era": 1.85,
           "closer_name": "Jacob Latz"
         },
-        "bat_score": 45.7,
+        "bat_score": 45.6,
         "bat_detail": {
-          "recent_avg": 0.263,
+          "recent_avg": 0.267,
           "runs_per_g": 6.1,
           "hr_per_g": 1.8,
           "bb_per_g": 3.0,
-          "season_ops": 0.765,
-          "season_avg": 0.263,
+          "season_ops": 0.76,
+          "season_avg": 0.267,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Joc Pederson(0.756)",
-            "Corey Seager(0.844)",
             "Ezequiel Duran(0.869)",
+            "Corey Seager(0.844)",
+            "Justin Foscue(0.979)",
             "Brandon Nimmo(0.754)",
             "Wyatt Langford(0.670)",
-            "Evan Carter(0.605)",
             "Jake Burger(0.779)",
-            "Nicky Lopez(0.839)",
-            "Danny Jansen(0.766)"
+            "Logan O'Hoppe(0.550)",
+            "Elias Díaz(0.758)",
+            "Cody Freeman(0.638)"
           ],
           "lineup_players": [
             {
-              "id": 592626,
-              "name": "Joc Pederson",
-              "ops": 0.756,
-              "avg": 0.19
+              "id": 677649,
+              "name": "Ezequiel Duran",
+              "ops": 0.869,
+              "avg": 0.308
             },
             {
               "id": 608369,
@@ -3290,10 +3290,10 @@
               "avg": 0.27
             },
             {
-              "id": 677649,
-              "name": "Ezequiel Duran",
-              "ops": 0.869,
-              "avg": 0.308
+              "id": 679822,
+              "name": "Justin Foscue",
+              "ops": 0.979,
+              "avg": 0.4
             },
             {
               "id": 607043,
@@ -3308,28 +3308,28 @@
               "avg": 0.118
             },
             {
-              "id": 694497,
-              "name": "Evan Carter",
-              "ops": 0.605,
-              "avg": 0.2
-            },
-            {
               "id": 669394,
               "name": "Jake Burger",
               "ops": 0.779,
               "avg": 0.257
             },
             {
-              "id": 670032,
-              "name": "Nicky Lopez",
-              "ops": 0.839,
-              "avg": 0.455
+              "id": 681351,
+              "name": "Logan O'Hoppe",
+              "ops": 0.55,
+              "avg": 0.238
             },
             {
-              "id": 643376,
-              "name": "Danny Jansen",
-              "ops": 0.766,
-              "avg": 0.259
+              "id": 553869,
+              "name": "Elias Díaz",
+              "ops": 0.758,
+              "avg": 0.269
+            },
+            {
+              "id": 683227,
+              "name": "Cody Freeman",
+              "ops": 0.638,
+              "avg": 0.233
             }
           ],
           "bat_trend": "stable",
@@ -3349,10 +3349,10 @@
           }
         },
         "sit_score": 54.4,
-        "total": 49.8
+        "total": 50.3
       },
       "home": {
-        "sp_score": 29.7,
+        "sp_score": 29.0,
         "sp_detail": {
           "era": 5.4,
           "whip": 1.47,
@@ -3412,7 +3412,7 @@
             }
           ]
         },
-        "bp_score": 33.3,
+        "bp_score": 32.5,
         "bp_detail": {
           "bullpen_era": 4.09,
           "recent_era": 5.81,
@@ -3424,30 +3424,36 @@
           "closer_era": 4.13,
           "closer_name": "Andrés Muñoz"
         },
-        "bat_score": 28.700000000000003,
+        "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.259,
+          "recent_avg": 0.233,
           "runs_per_g": 4.7,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
-          "season_ops": 0.731,
-          "season_avg": 0.259,
+          "season_ops": 0.673,
+          "season_avg": 0.233,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
+            "J.P. Crawford(0.801)",
             "Randy Arozarena(0.835)",
             "Dominic Canzone(0.754)",
-            "Julio Rodríguez(0.538)",
             "Cal Raleigh(0.917)",
-            "J.P. Crawford(0.801)",
+            "Julio Rodríguez(0.538)",
             "Josh Naylor(0.621)",
+            "Taylor Ward(0.431)",
             "Cole Young(0.625)",
-            "Lazaro Montes(0.819)",
-            "Brock Rodden(0.672)"
+            "Weston Wilson(0.537)"
           ],
           "lineup_players": [
+            {
+              "id": 641487,
+              "name": "J.P. Crawford",
+              "ops": 0.801,
+              "avg": 0.367
+            },
             {
               "id": 668227,
               "name": "Randy Arozarena",
@@ -3461,22 +3467,16 @@
               "avg": 0.233
             },
             {
-              "id": 677594,
-              "name": "Julio Rodríguez",
-              "ops": 0.538,
-              "avg": 0.14
-            },
-            {
               "id": 663728,
               "name": "Cal Raleigh",
               "ops": 0.917,
               "avg": 0.351
             },
             {
-              "id": 641487,
-              "name": "J.P. Crawford",
-              "ops": 0.801,
-              "avg": 0.367
+              "id": 677594,
+              "name": "Julio Rodríguez",
+              "ops": 0.538,
+              "avg": 0.14
             },
             {
               "id": 647304,
@@ -3485,25 +3485,25 @@
               "avg": 0.244
             },
             {
+              "id": 621493,
+              "name": "Taylor Ward",
+              "ops": 0.431,
+              "avg": 0.067
+            },
+            {
               "id": 702284,
               "name": "Cole Young",
               "ops": 0.625,
               "avg": 0.219
             },
             {
-              "id": 703155,
-              "name": "Lazaro Montes",
-              "ops": 0.819,
-              "avg": 0.222
-            },
-            {
-              "id": 801126,
-              "name": "Brock Rodden",
-              "ops": 0.672,
-              "avg": 0.273
+              "id": 642215,
+              "name": "Weston Wilson",
+              "ops": 0.537,
+              "avg": 0.194
             }
           ],
-          "bat_trend": "cold",
+          "bat_trend": "stable",
           "last5_rpg": 3.8,
           "last5_avg": 0.243,
           "home_split": {
@@ -3520,20 +3520,20 @@
           }
         },
         "sit_score": 47.4,
-        "total": 35.5
+        "total": 33.9
       }
     },
     "scores": {
-      "away_offense": 45.7,
+      "away_offense": 45.6,
       "away_defense": 45.5,
-      "home_offense": 28.700000000000003,
-      "home_defense": 31.5
+      "home_offense": 25.0,
+      "home_defense": 30.8
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -3552,7 +3552,7 @@
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 2.3pt (≤5.0pt)",
+    "low_confidence_reason": "SP 점수 차이 3.0pt (≤5.0pt)",
     "model_version": "v13"
   },
   {
@@ -6941,7 +6941,7 @@
             {
               "code": "ST",
               "abbr": "SW",
-              "pct": 10.5,
+              "pct": 10.6,
               "velo": 83.7
             },
             {
@@ -7164,10 +7164,10 @@
             "Ben Rice(0.844)",
             "Cody Bellinger(0.747)",
             "Aaron Judge(0.752)",
-            "Luis García Jr.(0.768)",
+            "Luis García(0.768)",
             "Spencer Jones(0.871)",
-            "Jazz Chisholm Jr.(0.748)",
-            "George Lombard Jr.(0.545)",
+            "Jazz Chisholm(0.748)",
+            "George Lombard(0.545)",
             "Ryan McMahon(0.567)",
             "Austin Wells(0.677)"
           ],
@@ -7192,7 +7192,7 @@
             },
             {
               "id": 671277,
-              "name": "Luis García Jr.",
+              "name": "Luis García",
               "ops": 0.768,
               "avg": 0.312
             },
@@ -7204,13 +7204,13 @@
             },
             {
               "id": 665862,
-              "name": "Jazz Chisholm Jr.",
+              "name": "Jazz Chisholm",
               "ops": 0.748,
               "avg": 0.3
             },
             {
               "id": 806146,
-              "name": "George Lombard Jr.",
+              "name": "George Lombard",
               "ops": 0.545,
               "avg": 0.152
             },
