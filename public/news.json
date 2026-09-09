@@ -1,18 +1,44 @@
 {
-  "updated_at": "2026-09-09T21:07:13.125770+00:00",
+  "updated_at": "2026-09-09T21:32:44.404545+00:00",
   "news": [
     {
-      "title": "Yanks place Jazz on injured list with sprained thumb",
+      "title": "One option in Jazz's absence is Volpe, who 'became Barry Bonds all of a sudden'",
       "link": "https://www.mlb.com/news/jazz-chisholm-jr-placed-on-injured-list",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bhjgnmx7lkjlvwjvbymx",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "",
+      "author": "Bryan Hoch",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-09T21:25:00+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Gunnar (knee) out of O's lineup; Blaze (back discomfort) to 10-day IL",
+      "link": "https://www.mlb.com/news/gunnar-henderson-blaze-alexander-injury-updates-orioles",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zc0xmydbv8cm8l9268ht",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
       "tag": "Injury",
       "tag_color": "#DC2626",
-      "pub_date": "2026-09-09T20:24:28+00:00",
-      "time_ago": "42m ago"
+      "pub_date": "2026-09-09T21:02:02+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "105.7 mph throw? 122.9 mph HR? This is the Statcast speed Hall of Fame",
+      "link": "https://www.mlb.com/news/speediest-plays-in-statcast-history",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/plp2xa3s94iwxmyiomws",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sarah Langs",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-09T20:53:00+00:00",
+      "time_ago": "39m ago"
     },
     {
       "title": "The race is on for first-round byes -- who's got the edge?",
@@ -25,10 +51,23 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-09T20:15:00+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     },
     {
-      "title": "Elly's Statcast-record 102 mph throw puts kibosh on inside-the-parker",
+      "title": "Winn late scratch with left thumb pain day after returning from IL",
+      "link": "https://www.mlb.com/news/masyn-winn-scratched-for-series-finale-vs-giants",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xef9r9ms0izmkpjvgfzn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adrian Garro",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-09T20:12:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Elly breaks his own record for fastest INF throw 4 times over",
       "link": "https://www.mlb.com/news/elly-de-la-cruz-sets-record-with-102-mph-throw",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bibcffy7yzuad2yui8mn",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-09T17:30:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/usdw7nhyojlfsduenzbg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-09T16:30:00+00:00",
       "time_ago": "4h ago"
-    },
-    {
-      "title": "Record-setting heat lingered in KC: How did Royals players handle it?",
-      "link": "https://www.mlb.com/news/royals-players-manage-extreme-heat-at-kauffman-stadium",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aydrmsws8cwhcah7jevo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anne Rogers",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-09T16:04:42+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Smith, Taylor are major cogs in Sox postseason pitching plans",
-      "link": "https://www.mlb.com/news/grant-taylor-hagen-smith-key-for-white-sox-down-the-stretch",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/chl2zowjl6lp3lkfi2yd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-09T16:03:53+00:00",
-      "time_ago": "5h ago"
     }
   ]
 }
