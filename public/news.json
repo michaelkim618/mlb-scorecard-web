@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-09T22:38:35.609955+00:00",
+  "updated_at": "2026-09-09T22:57:40.326045+00:00",
   "news": [
+    {
+      "title": "One option in Jazz's absence is Volpe, who 'became Barry Bonds all of a sudden'",
+      "link": "https://www.mlb.com/news/jazz-chisholm-jr-placed-on-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bhjgnmx7lkjlvwjvbymx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-09T22:47:00+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "Bradford's rough luck continues in short start in Seattle",
+      "link": "https://www.mlb.com/news/cody-bradford-has-short-outing-as-rangers-lose-to-mariners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788993953/mlb/oqbut76bickgxvkq27va",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kennedi Landry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T22:46:03+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Giants erupt for 6 runs in 8th for comeback win, series sweep vs. Cardinals",
+      "link": "https://www.mlb.com/news/giants-earn-comeback-win-to-sweep-cardinals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lss53uovvmhpgxl81g4p",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Maria Guardado",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T22:44:59+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Butera ejected in third inning after arguing over check swing",
+      "link": "https://www.mlb.com/news/blake-butera-ejected-vs-padres-for-arguing-check-swing-in-third-inning",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/igh5w2olraqfs53skzs4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jessica Camerato",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T22:38:53+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Watch LIVE as Zyhir Hope (DET) stands in against Gage Wood (PHI) at Double-A",
+      "link": "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788823303/mlb/f7kqxh4mlwxmdefvqdl2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brendan Samson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T22:36:00+00:00",
+      "time_ago": "21m ago"
+    },
     {
       "title": "Rutschman gets another planned day off after cortisone shot",
       "link": "https://www.mlb.com/news/adley-rutschman-out-of-lineup-vs-angels",
@@ -12,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-09T22:28:36+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "29m ago"
     },
     {
       "title": "Stammen ruffles Buehler's feathers with tough call on pitching change in third",
@@ -25,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-09T22:26:22+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "31m ago"
     },
     {
       "title": "Ohtani out of lineup for 6th time in last 7 games",
@@ -38,72 +103,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-09T22:09:52+00:00",
-      "time_ago": "28m ago"
-    },
-    {
-      "title": "Injuries: Ohtani, Henderson, Crochet, Carroll, Chisholm Jr., DeLauter",
-      "link": "https://www.mlb.com/news/baseball-injury-updates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xxmu4ab2oo9nj9byedbq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-09T21:53:00+00:00",
-      "time_ago": "45m ago"
-    },
-    {
-      "title": "Frustrating trends continue for Matthews in loss to Tigers",
-      "link": "https://www.mlb.com/news/zebby-matthews-twins-lose-to-tigers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aukhjschzn3oxaiuj8kw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-09T21:50:50+00:00",
       "time_ago": "47m ago"
-    },
-    {
-      "title": "Blue Jays blanked by A's in crucial opportunity to gain AL Wild Card ground",
-      "link": "https://www.mlb.com/news/blue-jays-shut-out-by-depleted-athletics",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gbfedzenlfqsmz24jqxm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-09T21:38:52+00:00",
-      "time_ago": "59m ago"
-    },
-    {
-      "title": "One option in Jazz's absence is Volpe, who 'became Barry Bonds all of a sudden'",
-      "link": "https://www.mlb.com/news/jazz-chisholm-jr-placed-on-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bhjgnmx7lkjlvwjvbymx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-09T21:25:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Marlins reinstate Fairbanks from injured list",
-      "link": "https://www.mlb.com/news/pete-fairbanks-reinstated-from-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1787096109/mlb/jfleod7eb6eylk6hrfma",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Christina De Nicola",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-09T21:24:00+00:00",
-      "time_ago": "1h ago"
     }
   ]
 }
