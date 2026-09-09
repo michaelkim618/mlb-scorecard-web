@@ -7495,8 +7495,8 @@
         "era": 10.12
       }
     ],
-    "home_pitcher": "Chris Sale (미정)",
-    "home_pitcher_id": 519242,
+    "home_pitcher": "Reynaldo López",
+    "home_pitcher_id": 625643,
     "home_pitcher_stats": {
       "wins": 14,
       "losses": 9,
@@ -7616,8 +7616,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 40.7,
-      "home": 59.3
+      "away": 48.7,
+      "home": 51.3
     },
     "expected_score": {
       "away": 2.1,
@@ -8004,7 +8004,7 @@
       "away": null,
       "home": null
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
