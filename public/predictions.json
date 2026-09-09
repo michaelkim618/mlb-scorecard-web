@@ -7164,10 +7164,10 @@
             "Ben Rice(0.844)",
             "Cody Bellinger(0.747)",
             "Aaron Judge(0.752)",
-            "Luis García Jr.(0.768)",
+            "Luis García(0.768)",
             "Spencer Jones(0.871)",
-            "Jazz Chisholm Jr.(0.748)",
-            "George Lombard Jr.(0.545)",
+            "Jazz Chisholm(0.748)",
+            "George Lombard(0.545)",
             "Ryan McMahon(0.567)",
             "Austin Wells(0.677)"
           ],
@@ -7192,7 +7192,7 @@
             },
             {
               "id": 671277,
-              "name": "Luis García Jr.",
+              "name": "Luis García",
               "ops": 0.768,
               "avg": 0.312
             },
@@ -7204,13 +7204,13 @@
             },
             {
               "id": 665862,
-              "name": "Jazz Chisholm Jr.",
+              "name": "Jazz Chisholm",
               "ops": 0.748,
               "avg": 0.3
             },
             {
               "id": 806146,
-              "name": "George Lombard Jr.",
+              "name": "George Lombard",
               "ops": 0.545,
               "avg": 0.152
             },
