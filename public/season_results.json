@@ -10957,6 +10957,28 @@
       "away_bp_score": 61.2,
       "home_bp_score": 57.6,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-10",
+      "away": "Texas Rangers",
+      "home": "Seattle Mariners",
+      "game_number": 1,
+      "pick": "Texas Rangers",
+      "pick_prob": 61.5,
+      "actual_winner": "Seattle Mariners",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 4.91,
+      "home_sp_era": 4.68,
+      "away_bp_era": 3.42,
+      "home_bp_era": 4.04,
+      "away_sp_score": 42.7,
+      "home_sp_score": 36.0,
+      "away_bp_score": 71.8,
+      "home_bp_score": 43.6,
+      "bat_source": "lineup"
     }
   ]
 }

@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-10T22:24:27.337538+00:00",
+  "updated_at": "2026-09-10T22:44:24.289924+00:00",
   "news": [
+    {
+      "title": "Offensive chase habits rear ugly head in Phils' untimely series loss",
+      "link": "https://www.mlb.com/news/phillies-lose-ground-in-nl-east-race-after-late-homer",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cvnvtlr5s2x5m6he2ldz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-10T22:26:00+00:00",
+      "time_ago": "18m ago"
+    },
     {
       "title": "Back with Yankees, Volpe playing second base for first time in bigs",
       "link": "https://www.mlb.com/news/anthony-volpe-playing-second-base-in-return-to-yankees",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T22:16:07+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "28m ago"
     },
     {
       "title": "Javier gives Phillies déjà vu of 2022 World Series with early no-hit stuff",
@@ -25,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-10T22:07:00+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "'When America Took the Field' documentary to premiere tonight on MLB Network (10 ET)",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T21:43:00+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -51,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-10T21:41:00+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Pérez pins down Rays as Braves rally late to extend NL East lead",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T20:23:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "What to expect from Dodgers top prospect De Paula in The Show",
-      "link": "https://www.mlb.com/news/what-to-expect-from-dodgers-prospect-josue-de-paula-in-mlb",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cd5itase87jeg93cqvwv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jim Callis",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-10T20:11:00+00:00",
       "time_ago": "2h ago"
     }
   ]
