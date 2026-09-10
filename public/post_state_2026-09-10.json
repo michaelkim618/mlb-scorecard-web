@@ -1,0 +1,29 @@
+{
+  "predictions": [],
+  "results": false,
+  "lineup_refreshed": [
+    "09:15"
+  ],
+  "predictions_frozen": [
+    "09:15"
+  ],
+  "frozen_predictions": {
+    "09:15": [
+      {
+        "game_pk": "824872",
+        "win_prob": {
+          "away": 55.0,
+          "home": 45.0
+        },
+        "model_winner": "Tampa Bay Rays",
+        "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Atlanta Braves)",
+        "edge": -12.7,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      }
+    ]
+  }
+}
