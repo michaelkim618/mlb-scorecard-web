@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-09-10T05:00:06.252001+00:00",
+  "updated_at": "2026-09-10T05:39:38.115327+00:00",
   "news": [
     {
-      "title": "White Sox magic number continues shrinking despite latest blunder",
-      "link": "https://www.mlb.com/news/white-sox-fall-to-pirates-despite-favorable-night-across-al",
+      "title": "Ohtani goes on IL; Dodgers to call up top prospect Josue De Paula",
+      "link": "https://www.mlb.com/news/josue-de-paula-top-prospect-called-up-dodgers",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/h4t3lrqqam4e2bt2ulbv",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a7tvspscwhrzjh7c6zwl",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-10T04:33:00+00:00",
-      "time_ago": "27m ago"
+      "author": "Manny Randhawa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-10T05:35:00+00:00",
+      "time_ago": "4m ago"
     },
     {
       "title": "As Central lead swells to 10, Crew continues to take nothing for granted",
@@ -24,8 +24,47 @@
       "author": "Adam McCalvy",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-10T04:29:00+00:00",
-      "time_ago": "31m ago"
+      "pub_date": "2026-09-10T05:06:00+00:00",
+      "time_ago": "33m ago"
+    },
+    {
+      "title": "Only Yankee younger than Lombard to hit grand slam: Mickey Mantle",
+      "link": "https://www.mlb.com/news/george-lombard-jr-hits-yankees-first-grand-slam-of-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789005102/mlb/na0uuikafwp8qklbyi99",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-10T05:05:00+00:00",
+      "time_ago": "34m ago"
+    },
+    {
+      "title": "Yamamoto (10 K's) dominates, Dodgers score 14 to run season-high win streak to 7",
+      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-starts-finale-against-reds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789013665/mlb/bzbid9rkw0xzcszhuvez",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-10T04:49:00+00:00",
+      "time_ago": "50m ago"
+    },
+    {
+      "title": "White Sox magic number continues shrinking despite latest blunder",
+      "link": "https://www.mlb.com/news/white-sox-fall-to-pirates-despite-favorable-night-across-al",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/h4t3lrqqam4e2bt2ulbv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-10T04:33:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "An early look at 11 intriguing offseason trade candidates",
@@ -38,7 +77,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-09-10T04:18:17+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Miz's challengers fighting for No. 2 in Starting Pitcher Power Rankings",
@@ -51,7 +90,7 @@
       "tag": "Rankings",
       "tag_color": "#4F46E5",
       "pub_date": "2026-09-10T04:18:07+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Benches clear in Pirates-White Sox after inning-ending double play; both sides warned",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T04:17:00+00:00",
-      "time_ago": "43m ago"
-    },
-    {
-      "title": "Anthony, Abreu hit homers, but Bennett struggles in rubber match vs. Halos",
-      "link": "https://www.mlb.com/news/roman-anthony-homers-but-red-sox-lose-to-angels",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789003074/mlb/lbdtwu1nptpzlfsslcn3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-10T04:00:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Elly takes Yamamoto deep for FIFTH straight game with a home run",
-      "link": "https://www.mlb.com/news/elly-de-la-cruz-homers-in-5th-straight-game",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789012539/mlb/ro78wamedzc9qnm6moqp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Courtney Hollmon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-10T03:50:33+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Cubs know 'we don’t have time to sulk' after sweep in Milwaukee",
-      "link": "https://www.mlb.com/news/cubs-late-rally-falls-short-brewers-sweep",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dph4oxuj1mbg0wbmgkbb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-10T03:50:00+00:00",
       "time_ago": "1h ago"
     }
   ]
