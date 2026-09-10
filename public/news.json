@@ -1,8 +1,34 @@
 {
-  "updated_at": "2026-09-10T05:39:38.115327+00:00",
+  "updated_at": "2026-09-10T06:09:22.744843+00:00",
   "news": [
     {
-      "title": "Ohtani goes on IL; Dodgers to call up top prospect Josue De Paula",
+      "title": "Elly takes Yamamoto deep for FIFTH straight game with a home run",
+      "link": "https://www.mlb.com/news/elly-de-la-cruz-homers-in-5th-straight-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789012539/mlb/ro78wamedzc9qnm6moqp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Courtney Hollmon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-10T05:45:00+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "Ohtani to go on injured list to rest leg, arm injuries",
+      "link": "https://www.mlb.com/news/shohei-ohtani-out-of-lineup-again-vs-reds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qtguchshgjgstljfolii",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-10T05:41:00+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "Dodgers calling up top prospect Josue De Paula with Ohtani out",
       "link": "https://www.mlb.com/news/josue-de-paula-top-prospect-called-up-dodgers",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a7tvspscwhrzjh7c6zwl",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T05:35:00+00:00",
-      "time_ago": "4m ago"
+      "time_ago": "34m ago"
     },
     {
       "title": "As Central lead swells to 10, Crew continues to take nothing for granted",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T05:06:00+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Only Yankee younger than Lombard to hit grand slam: Mickey Mantle",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T05:05:00+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yamamoto (10 K's) dominates, Dodgers score 14 to run season-high win streak to 7",
@@ -51,19 +77,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T04:49:00+00:00",
-      "time_ago": "50m ago"
-    },
-    {
-      "title": "White Sox magic number continues shrinking despite latest blunder",
-      "link": "https://www.mlb.com/news/white-sox-fall-to-pirates-despite-favorable-night-across-al",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/h4t3lrqqam4e2bt2ulbv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-10T04:33:00+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -90,19 +103,6 @@
       "tag": "Rankings",
       "tag_color": "#4F46E5",
       "pub_date": "2026-09-10T04:18:07+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Benches clear in Pirates-White Sox after inning-ending double play; both sides warned",
-      "link": "https://www.mlb.com/news/benches-clear-in-pirates-white-sox-after-inning-ending-double-play",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y7qergt5niojfkqlqrad",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-10T04:17:00+00:00",
       "time_ago": "1h ago"
     }
   ]
