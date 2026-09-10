@@ -728,8 +728,8 @@
       "home_defense": 58.5
     },
     "actual_score": {
-      "away": 0,
-      "home": 0
+      "away": 1,
+      "home": 3
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -738,9 +738,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Atlanta Braves",
     "model_winner": "Tampa Bay Rays",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Tampa Bay Rays IL: Ben Williamson, Edwin Uceta, Garrett Cleavinger, Gavin Lux, Jake Fraley 외 다수 / Atlanta Braves IL: Bryce Elder, Joe Jiménez, Joey Wentz, Robert Suarez, Spencer Schwellenbach 외 다수",
     "kalshi_prob": 54.0,
     "edge": -12.7,
@@ -1475,8 +1475,8 @@
       "home_defense": 52.8
     },
     "actual_score": {
-      "away": 0,
-      "home": 0
+      "away": 2,
+      "home": 1
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -1837,25 +1837,25 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 63.0,
-      "home": 37.0
+      "away": 61.5,
+      "home": 38.5
     },
     "expected_score": {
-      "away": 3.1,
-      "home": 1.7
+      "away": 3.2,
+      "home": 2.1
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": true,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.35,
-        "bp": 0.3,
+        "sp": 0.33,
+        "bp": 0.32,
         "bat": 0.28,
         "sit": 0.15
       },
@@ -1932,35 +1932,35 @@
           "closer_era": 1.85,
           "closer_name": "Jacob Latz"
         },
-        "bat_score": 42.1,
+        "bat_score": 43.8,
         "bat_detail": {
           "recent_avg": 0.262,
           "runs_per_g": 6.0,
           "hr_per_g": 1.8,
           "bb_per_g": 3.0,
-          "season_ops": 0.752,
+          "season_ops": 0.771,
           "season_avg": 0.262,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Ezequiel Duran(0.842)",
+            "Joc Pederson(0.811)",
             "Corey Seager(0.895)",
-            "Justin Foscue(0.949)",
+            "Ezequiel Duran(0.842)",
             "Brandon Nimmo(0.691)",
             "Wyatt Langford(0.644)",
+            "Evan Carter(0.604)",
             "Jake Burger(0.846)",
-            "Logan O'Hoppe(0.561)",
-            "Elias Díaz(0.741)",
-            "Cody Freeman(0.601)"
+            "Nicky Lopez(0.837)",
+            "Danny Jansen(0.766)"
           ],
           "lineup_players": [
             {
-              "id": 677649,
-              "name": "Ezequiel Duran",
-              "ops": 0.842,
-              "avg": 0.282
+              "id": 592626,
+              "name": "Joc Pederson",
+              "ops": 0.811,
+              "avg": 0.211
             },
             {
               "id": 608369,
@@ -1969,10 +1969,10 @@
               "avg": 0.289
             },
             {
-              "id": 679822,
-              "name": "Justin Foscue",
-              "ops": 0.949,
-              "avg": 0.37
+              "id": 677649,
+              "name": "Ezequiel Duran",
+              "ops": 0.842,
+              "avg": 0.282
             },
             {
               "id": 607043,
@@ -1987,28 +1987,28 @@
               "avg": 0.111
             },
             {
+              "id": 694497,
+              "name": "Evan Carter",
+              "ops": 0.604,
+              "avg": 0.2
+            },
+            {
               "id": 669394,
               "name": "Jake Burger",
               "ops": 0.846,
               "avg": 0.265
             },
             {
-              "id": 681351,
-              "name": "Logan O'Hoppe",
-              "ops": 0.561,
-              "avg": 0.25
+              "id": 670032,
+              "name": "Nicky Lopez",
+              "ops": 0.837,
+              "avg": 0.455
             },
             {
-              "id": 553869,
-              "name": "Elias Díaz",
-              "ops": 0.741,
-              "avg": 0.269
-            },
-            {
-              "id": 683227,
-              "name": "Cody Freeman",
-              "ops": 0.601,
-              "avg": 0.241
+              "id": 643376,
+              "name": "Danny Jansen",
+              "ops": 0.766,
+              "avg": 0.259
             }
           ],
           "bat_trend": "cold",
@@ -2028,10 +2028,10 @@
           }
         },
         "sit_score": 50.4,
-        "total": 55.8
+        "total": 56.9
       },
       "home": {
-        "sp_score": 34.8,
+        "sp_score": 36.0,
         "sp_detail": {
           "era": 4.68,
           "whip": 1.28,
@@ -2106,7 +2106,7 @@
             }
           ]
         },
-        "bp_score": 42.1,
+        "bp_score": 43.6,
         "bp_detail": {
           "bullpen_era": 4.04,
           "recent_era": 4.94,
@@ -2118,14 +2118,14 @@
           "closer_era": 4.05,
           "closer_name": "Andrés Muñoz"
         },
-        "bat_score": 25.0,
+        "bat_score": 31.1,
         "bat_detail": {
-          "recent_avg": 0.24,
+          "recent_avg": 0.272,
           "runs_per_g": 4.7,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
-          "season_ops": 0.682,
-          "season_avg": 0.24,
+          "season_ops": 0.754,
+          "season_avg": 0.272,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -2137,9 +2137,9 @@
             "Cal Raleigh(0.915)",
             "Julio Rodríguez(0.546)",
             "Josh Naylor(0.596)",
-            "Taylor Ward(0.482)",
             "Cole Young(0.661)",
-            "Weston Wilson(0.526)"
+            "Lazaro Montes(0.932)",
+            "Brock Rodden(0.722)"
           ],
           "lineup_players": [
             {
@@ -2179,22 +2179,22 @@
               "avg": 0.22
             },
             {
-              "id": 621493,
-              "name": "Taylor Ward",
-              "ops": 0.482,
-              "avg": 0.103
-            },
-            {
               "id": 702284,
               "name": "Cole Young",
               "ops": 0.661,
               "avg": 0.25
             },
             {
-              "id": 642215,
-              "name": "Weston Wilson",
-              "ops": 0.526,
-              "avg": 0.188
+              "id": 703155,
+              "name": "Lazaro Montes",
+              "ops": 0.932,
+              "avg": 0.263
+            },
+            {
+              "id": 801126,
+              "name": "Brock Rodden",
+              "ops": 0.722,
+              "avg": 0.316
             }
           ],
           "bat_trend": "cold",
@@ -2214,20 +2214,20 @@
           }
         },
         "sit_score": 51.5,
-        "total": 39.5
+        "total": 42.3
       }
     },
     "scores": {
-      "away_offense": 42.1,
+      "away_offense": 43.8,
       "away_defense": 57.2,
-      "home_offense": 25.0,
-      "home_defense": 38.5
+      "home_offense": 31.1,
+      "home_defense": 39.8
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -2238,8 +2238,8 @@
     "model_winner": "Texas Rangers",
     "model_correct": null,
     "notes": "Texas Rangers IL: Carter Baumler, Cole Winn, Jack Leiter, Jalen Beeks, Jose Corniell 외 다수 / Seattle Mariners IL: Brendan Donovan, Brennen Davis, Cole Wilcox, Colt Emerson, Emerson Hancock 외 다수",
-    "kalshi_prob": 53.0,
-    "edge": -16.0,
+    "kalshi_prob": 51.0,
+    "edge": -12.5,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Seattle Mariners)",
     "extreme_edge": false,
     "consensus": false,
@@ -2270,7 +2270,7 @@
       "div_name": "AL East",
       "wins": 83,
       "losses": 62,
-      "games_back": "4.0"
+      "games_back": "3.5"
     },
     "away_recent_form": {
       "games": [

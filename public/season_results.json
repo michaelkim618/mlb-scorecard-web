@@ -10913,6 +10913,28 @@
       "away_bp_score": 55.1,
       "home_bp_score": 57.5,
       "bat_source": "prev_day"
+    },
+    {
+      "date": "2026-09-10",
+      "away": "Tampa Bay Rays",
+      "home": "Atlanta Braves",
+      "game_number": 1,
+      "pick": "Tampa Bay Rays",
+      "pick_prob": 55.0,
+      "actual_winner": "Atlanta Braves",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 3.72,
+      "home_sp_era": 2.58,
+      "away_bp_era": 2.67,
+      "home_bp_era": 3.05,
+      "away_sp_score": 51.1,
+      "home_sp_score": 42.0,
+      "away_bp_score": 73.5,
+      "home_bp_score": 75.0,
+      "bat_source": "lineup"
     }
   ]
 }

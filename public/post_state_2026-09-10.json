@@ -1,11 +1,16 @@
 {
-  "predictions": [],
+  "predictions": [
+    "13:10"
+  ],
   "results": false,
   "lineup_refreshed": [
-    "09:15"
+    "09:15",
+    "10:05"
   ],
   "predictions_frozen": [
-    "09:15"
+    "09:15",
+    "10:05",
+    "13:10"
   ],
   "frozen_predictions": {
     "09:15": [
@@ -18,6 +23,40 @@
         "model_winner": "Tampa Bay Rays",
         "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Atlanta Braves)",
         "edge": -12.7,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      }
+    ],
+    "10:05": [
+      {
+        "game_pk": "823413",
+        "win_prob": {
+          "away": 40.0,
+          "home": 60.0
+        },
+        "model_winner": "Philadelphia Phillies",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -3.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      }
+    ],
+    "13:10": [
+      {
+        "game_pk": "823088",
+        "win_prob": {
+          "away": 61.5,
+          "home": 38.5
+        },
+        "model_winner": "Texas Rangers",
+        "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Seattle Mariners)",
+        "edge": -12.5,
         "sp_bat_conflict": false,
         "sp_bat_conflict_detail": null,
         "low_confidence": false,
