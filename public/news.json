@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-10T04:14:35.738188+00:00",
+  "updated_at": "2026-09-10T05:00:06.252001+00:00",
   "news": [
+    {
+      "title": "White Sox magic number continues shrinking despite latest blunder",
+      "link": "https://www.mlb.com/news/white-sox-fall-to-pirates-despite-favorable-night-across-al",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/h4t3lrqqam4e2bt2ulbv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-10T04:33:00+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "As Central lead swells to 10, Crew continues to take nothing for granted",
+      "link": "https://www.mlb.com/news/brewers-beat-cubs-move-closer-to-nl-central-title",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789014074/mlb/qacnshausfulct9uslel",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-10T04:29:00+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "An early look at 11 intriguing offseason trade candidates",
+      "link": "https://www.mlb.com/news/mlb-trade-candidates-for-2026-27-offseason",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t6glyyyi7adshmho1xiu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-09-10T04:18:17+00:00",
+      "time_ago": "41m ago"
+    },
+    {
+      "title": "Miz's challengers fighting for No. 2 in Starting Pitcher Power Rankings",
+      "link": "https://www.mlb.com/news/mlb-starting-pitcher-power-rankings-september-10-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ubsujsrlep3xyrubwwc1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Andrew Simon",
+      "tag": "Rankings",
+      "tag_color": "#4F46E5",
+      "pub_date": "2026-09-10T04:18:07+00:00",
+      "time_ago": "41m ago"
+    },
+    {
+      "title": "Benches clear in Pirates-White Sox after inning-ending double play; both sides warned",
+      "link": "https://www.mlb.com/news/benches-clear-in-pirates-white-sox-after-inning-ending-double-play",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y7qergt5niojfkqlqrad",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-10T04:17:00+00:00",
+      "time_ago": "43m ago"
+    },
     {
       "title": "Anthony, Abreu hit homers, but Bennett struggles in rubber match vs. Halos",
       "link": "https://www.mlb.com/news/roman-anthony-homers-but-red-sox-lose-to-angels",
@@ -12,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-10T04:00:00+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Elly takes Yamamoto deep for FIFTH straight game with a home run",
@@ -25,85 +90,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T03:50:33+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Cubs know 'we don’t have time to sulk' after sweep in Milwaukee",
       "link": "https://www.mlb.com/news/cubs-late-rally-falls-short-brewers-sweep",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eyc7zzykl5wbmrvgcp86",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dph4oxuj1mbg0wbmgkbb",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Jordan Bastian",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T03:50:00+00:00",
-      "time_ago": "24m ago"
-    },
-    {
-      "title": "Braves' offense drawing concerns as NL East race tightens",
-      "link": "https://www.mlb.com/news/braves-two-runs-loss-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mjyzlcvbhu3jogby9nf1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-10T03:49:00+00:00",
-      "time_ago": "25m ago"
-    },
-    {
-      "title": "DeLauter homers in return, but third inning unravels on Griffin, Guardians",
-      "link": "https://www.mlb.com/news/chase-delauter-s-homer-overshadowed-by-big-inning-in-guardians-loss",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/udwdlrfykpuzmeagljmg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-10T03:28:00+00:00",
-      "time_ago": "46m ago"
-    },
-    {
-      "title": "Phils gain ground in NL East after Schwarber's slam caps come-from-behind win",
-      "link": "https://www.mlb.com/news/kyle-schwarber-hits-grand-slam-in-phillies-win-over-astros",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789007116/mlb/v0vpvaq1slevrxujj6o0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-10T03:27:00+00:00",
-      "time_ago": "47m ago"
-    },
-    {
-      "title": "Rays' rout leaves them on doorstep of playoffs for 1st time since '23",
-      "link": "https://www.mlb.com/news/rays-score-seven-runs-win-braves-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789008500/mlb/rc8d7w8fw3gvmvhai01k",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-10T03:17:00+00:00",
-      "time_ago": "57m ago"
-    },
-    {
-      "title": "Gallen, Soroka return, but D-backs fall out of 3rd NL Wild Card spot",
-      "link": "https://www.mlb.com/news/zac-gallen-michael-soroka-return-in-d-backs-loss",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789009748/mlb/qusqkbawdavm57haoptc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Robert Falkoff",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-10T03:16:10+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
