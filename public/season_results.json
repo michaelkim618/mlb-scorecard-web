@@ -10847,6 +10847,28 @@
       "away_bp_score": 61.7,
       "home_bp_score": 67.4,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-09",
+      "away": "Cleveland Guardians",
+      "home": "Baltimore Orioles",
+      "game_number": 1,
+      "pick": "Cleveland Guardians",
+      "pick_prob": 52.5,
+      "actual_winner": "Baltimore Orioles",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "cold",
+      "away_sp_era": 3.95,
+      "home_sp_era": 3.36,
+      "away_bp_era": 3.07,
+      "home_bp_era": 3.8,
+      "away_sp_score": 48.0,
+      "home_sp_score": 48.6,
+      "away_bp_score": 69.7,
+      "home_bp_score": 46.1,
+      "bat_source": "prev_day"
     }
   ]
 }
