@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-10T12:18:23.600552+00:00",
+  "updated_at": "2026-09-10T12:41:32.109088+00:00",
   "news": [
+    {
+      "title": "Larnach navigating turbulent season with even-keeled attitude",
+      "link": "https://www.mlb.com/news/trevor-larnach-having-strong-year-after-nearly-being-traded",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xzwfeldimmgu4zkuyxen",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-10T12:10:55+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "Armed with new slider, Graceffo rounding into form in Cards' 'pen",
+      "link": "https://www.mlb.com/news/gordon-graceffo-emerging-in-cardinals-bullpen-thanks-to-new-slider",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788979662/mlb/sfla7l5qjar6745ifcix",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adrian Garro",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-10T11:28:06+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Miles was a Rule 5 long shot. Now, he's an indispensable Blue Jays arm",
+      "link": "https://www.mlb.com/news/spencer-miles-blue-jays-rookie-season-rule-5-draft",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/muvaxheoftjcuohsfstk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-10T11:22:52+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Yamamoto (10 K's) dominates, Dodgers score 14 to run season-high win streak to 7",
       "link": "https://www.mlb.com/news/yoshinobu-yamamoto-starts-finale-against-reds",
@@ -38,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-10T06:28:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "Stammen, Buehler's mound negotiation leads to awkward early exit in third",
@@ -65,45 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T05:45:00+00:00",
       "time_ago": "6h ago"
-    },
-    {
-      "title": "As Central lead swells to 10, Crew continues to take nothing for granted",
-      "link": "https://www.mlb.com/news/brewers-beat-cubs-move-closer-to-nl-central-title",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789014074/mlb/qacnshausfulct9uslel",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-10T05:06:00+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "Only Yankee younger than Lombard to hit grand slam: Mickey Mantle",
-      "link": "https://www.mlb.com/news/george-lombard-jr-hits-yankees-first-grand-slam-of-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789005102/mlb/na0uuikafwp8qklbyi99",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-10T05:05:00+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "White Sox magic number continues shrinking despite latest misstep",
-      "link": "https://www.mlb.com/news/white-sox-fall-to-pirates-despite-favorable-night-across-al",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/h4t3lrqqam4e2bt2ulbv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-10T04:33:00+00:00",
-      "time_ago": "7h ago"
     }
   ]
 }
