@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-10T23:16:25.244024+00:00",
+  "updated_at": "2026-09-10T23:33:05.694439+00:00",
   "news": [
+    {
+      "title": "Quintana, Freeland pitch scoreless ball in Double-A rehab outings",
+      "link": "https://www.mlb.com/news/jose-quintana-kyle-freeland-strong-in-rehab-outings",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sv8tkzd36tzjbrr04pzi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bill Ladson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-10T23:20:37+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Javier gives Phillies déjà vu of 2022 World Series with early no-hit stuff",
+      "link": "https://www.mlb.com/news/astros-beat-phillies-behind-cristian-javier-s-stellar-outing",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/deouun2xxe8rpch3hbv3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Feinsand",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-10T23:14:00+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "All-Star Ashcraft lands on IL with right arm discomfort; Kelly recalled",
+      "link": "https://www.mlb.com/news/braxton-ashcraft-right-arm-discomfort-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nob7cmasqbgwt80zamdi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-10T23:13:43+00:00",
+      "time_ago": "19m ago"
+    },
     {
       "title": "Yankees visit 9/11 Memorial & Museum ahead of 25-year commemoration",
       "link": "https://www.mlb.com/news/yankees-visit-national-september-11-memorial-museum",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T23:07:00+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "26m ago"
     },
     {
       "title": "Twins activate Martin from IL, option Gonzalez",
@@ -25,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-10T22:57:15+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "35m ago"
     },
     {
       "title": "Rays' clinch will have to wait after Martinez's gem goes for naught",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T22:56:00+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "Rangers squander deGrom's 12-K gem in bid for 1st road series win since break",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T22:54:59+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Offensive chase habits rear ugly head in Phils' untimely series loss",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T22:26:00+00:00",
-      "time_ago": "50m ago"
-    },
-    {
-      "title": "Back with Yankees, Volpe playing second base for first time in bigs",
-      "link": "https://www.mlb.com/news/anthony-volpe-playing-second-base-in-return-to-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ew0zxvptkb9s38kwttpb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-10T22:16:07+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Javier gives Phillies déjà vu of 2022 World Series with early no-hit stuff",
-      "link": "https://www.mlb.com/news/astros-beat-phillies-behind-cristian-javier-s-stellar-outing",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/deouun2xxe8rpch3hbv3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-10T22:07:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "'When America Took the Field' documentary to premiere tonight on MLB Network (10 ET)",
-      "link": "https://www.mlb.com/news/when-america-took-the-field-mlb-network-documentary",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qhudoi0kl2tffoxrucoy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Foster",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-10T21:43:00+00:00",
       "time_ago": "1h ago"
     }
   ]
