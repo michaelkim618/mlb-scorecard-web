@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-10T19:29:41.248174+00:00",
+  "updated_at": "2026-09-10T19:57:20.691447+00:00",
   "news": [
+    {
+      "title": "Braves hold off Rays, support spot atop NL East",
+      "link": "https://www.mlb.com/news/martin-perez-throws-seven-scoreless-innings-vs-rays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/b4vyduhvpcukl4au4lg7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-10T19:51:00+00:00",
+      "time_ago": "6m ago"
+    },
     {
       "title": "With Jazz placed on IL, Yanks call on Volpe, who 'became Barry Bonds all of a sudden'",
       "link": "https://www.mlb.com/news/jazz-chisholm-jr-placed-on-injured-list",
@@ -12,7 +25,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T19:21:00+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "36m ago"
+    },
+    {
+      "title": "Here's the sweet secret behind Montes' prodigious power",
+      "link": "https://www.mlb.com/news/lazaro-montes-says-nutella-is-the-pregame-snack-that-fuels-his-power",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gghkhgxwpdxocfrb3iz9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-10T19:04:10+00:00",
+      "time_ago": "53m ago"
     },
     {
       "title": "The Cubs are the best-hitting, best-fielding team in baseball. There's just one little problem ...",
@@ -25,20 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T19:00:00+00:00",
-      "time_ago": "29m ago"
-    },
-    {
-      "title": "Braves hold off Rays, support spot atop NL East",
-      "link": "https://www.mlb.com/news/martin-perez-throws-seven-scoreless-innings-vs-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/b4vyduhvpcukl4au4lg7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-10T18:46:25+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "Rays' clinch will have to wait after Martinez's gem goes for naught",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T18:38:00+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yankees visit 9/11 Memorial & Museum ahead of 25th anniversary",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T17:38:05+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "After limited catching duties in '26, Salvy has 2 main objectives in mind for '27",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T16:49:12+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -90,20 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-10T16:45:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "MLB to mark 25th anniversary of 9/11 with tributes, service",
-      "link": "https://www.mlb.com/news/mlb-25th-anniversary-september-11-tributes",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j67zzxrj1hfmi2ya59lw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Foster",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-10T16:38:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }

@@ -10935,6 +10935,28 @@
       "away_bp_score": 73.5,
       "home_bp_score": 75.0,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-10",
+      "away": "Houston Astros",
+      "home": "Philadelphia Phillies",
+      "game_number": 1,
+      "pick": "Philadelphia Phillies",
+      "pick_prob": 60.0,
+      "actual_winner": "Houston Astros",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 4.46,
+      "home_sp_era": 4.93,
+      "away_bp_era": 3.82,
+      "home_bp_era": 3.44,
+      "away_sp_score": 34.6,
+      "home_sp_score": 47.9,
+      "away_bp_score": 61.2,
+      "home_bp_score": 57.6,
+      "bat_source": "lineup"
     }
   ]
 }
