@@ -11,7 +11,8 @@
   "predictions_frozen": [
     "09:15",
     "10:05",
-    "13:10"
+    "13:10",
+    "16:05"
   ],
   "frozen_predictions": {
     "09:15": [
@@ -58,6 +59,38 @@
         "model_winner": "Texas Rangers",
         "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Seattle Mariners)",
         "edge": -12.5,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      }
+    ],
+    "16:05": [
+      {
+        "game_pk": "823499",
+        "win_prob": {
+          "away": 39.3,
+          "home": 60.7
+        },
+        "model_winner": "New York Yankees",
+        "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: New York Yankees)",
+        "edge": -11.3,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "824550",
+        "win_prob": {
+          "away": 53.7,
+          "home": 46.3
+        },
+        "model_winner": "Pittsburgh Pirates",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -2.7,
         "sp_bat_conflict": false,
         "sp_bat_conflict_detail": null,
         "low_confidence": false,
