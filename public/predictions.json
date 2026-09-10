@@ -2897,9 +2897,9 @@
             "Ben Rice(0.780)",
             "Cody Bellinger(0.776)",
             "Aaron Judge(0.804)",
-            "Luis García(0.859)",
+            "Luis García Jr.(0.859)",
             "Spencer Jones(0.925)",
-            "George Lombard(0.604)",
+            "George Lombard Jr.(0.604)",
             "Ryan McMahon(0.553)",
             "Austin Wells(0.674)",
             "José Caballero(0.645)"
@@ -2925,7 +2925,7 @@
             },
             {
               "id": 671277,
-              "name": "Luis García",
+              "name": "Luis García Jr.",
               "ops": 0.859,
               "avg": 0.343
             },
@@ -2937,7 +2937,7 @@
             },
             {
               "id": 806146,
-              "name": "George Lombard",
+              "name": "George Lombard Jr.",
               "ops": 0.604,
               "avg": 0.152
             },
@@ -3464,7 +3464,7 @@
             "Oneil Cruz(0.819)",
             "Esmerlyn Valdez(0.789)",
             "Spencer Horwitz(0.575)",
-            "Rafael Flores(0.738)",
+            "Rafael Flores Jr.(0.738)",
             "Jacob Gonzalez(0.651)"
           ],
           "lineup_players": [
@@ -3512,7 +3512,7 @@
             },
             {
               "id": 804668,
-              "name": "Rafael Flores",
+              "name": "Rafael Flores Jr.",
               "ops": 0.738,
               "avg": 0.211
             },
