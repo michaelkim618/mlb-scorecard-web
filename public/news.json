@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-10T21:43:06.727866+00:00",
+  "updated_at": "2026-09-10T22:24:27.337538+00:00",
   "news": [
+    {
+      "title": "Back with Yankees, Volpe playing second base for first time in bigs",
+      "link": "https://www.mlb.com/news/anthony-volpe-playing-second-base-in-return-to-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ew0zxvptkb9s38kwttpb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-10T22:16:07+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Javier gives Phillies déjà vu of 2022 World Series with early no-hit stuff",
+      "link": "https://www.mlb.com/news/astros-beat-phillies-behind-cristian-javier-s-stellar-outing",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/deouun2xxe8rpch3hbv3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Feinsand",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-10T22:07:00+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "'When America Took the Field' documentary to premiere tonight on MLB Network (10 ET)",
+      "link": "https://www.mlb.com/news/when-america-took-the-field-mlb-network-documentary",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qhudoi0kl2tffoxrucoy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Foster",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-10T21:43:00+00:00",
+      "time_ago": "41m ago"
+    },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
       "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
@@ -12,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-10T21:41:00+00:00",
-      "time_ago": "2m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Pérez pins down Rays as Braves rally late to extend NL East lead",
@@ -25,7 +64,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T21:05:00+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "With Hancock nearing return, could he settle back into the 'pen?",
+      "link": "https://www.mlb.com/news/emerson-hancock-may-return-soon-to-mariners-bullpen",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/umwbgelcfl9fhoprqab8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Josh Kirshenbaum",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-10T20:48:17+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Rays' clinch will have to wait after Martinez's gem goes for naught",
@@ -38,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T20:23:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Smith's late HR lifts Astros after Javier gives Phils déjà vu with early no-hit stuff",
-      "link": "https://www.mlb.com/news/astros-beat-phillies-behind-cristian-javier-s-stellar-outing",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/deouun2xxe8rpch3hbv3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-10T20:11:57+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "What to expect from Dodgers top prospect De Paula in The Show",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T20:11:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Phillies' penultimate homestand snowballs with crushing 9th-inning blast",
-      "link": "https://www.mlb.com/news/phillies-lose-ground-in-nl-east-race-after-late-homer",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rnvsgwluhsasqrwctx6o",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-10T19:54:48+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "With Jazz placed on IL, Yanks call on Volpe, who 'became Barry Bonds all of a sudden'",
-      "link": "https://www.mlb.com/news/jazz-chisholm-jr-placed-on-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bhjgnmx7lkjlvwjvbymx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-10T19:21:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Here's the sweet secret behind Montes' prodigious power",
-      "link": "https://www.mlb.com/news/lazaro-montes-says-nutella-is-the-pregame-snack-that-fuels-his-power",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gghkhgxwpdxocfrb3iz9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-10T19:04:10+00:00",
       "time_ago": "2h ago"
     }
   ]
