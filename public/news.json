@@ -1,45 +1,6 @@
 {
-  "updated_at": "2026-09-09T23:48:12.345607+00:00",
+  "updated_at": "2026-09-10T00:23:27.559564+00:00",
   "news": [
-    {
-      "title": "'We're right there': Urgency at its apex for Blue Jays after being blanked by A's",
-      "link": "https://www.mlb.com/news/blue-jays-shut-out-by-depleted-athletics",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gbfedzenlfqsmz24jqxm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-09T23:23:00+00:00",
-      "time_ago": "25m ago"
-    },
-    {
-      "title": "Stammen ruffles Buehler's feathers with tough call on pitching change in third",
-      "link": "https://www.mlb.com/news/walker-buehler-removed-early-from-start-by-manager-craig-stammen",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a1ztqnrp7oxl5vhsj2bs",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-09T23:09:00+00:00",
-      "time_ago": "39m ago"
-    },
-    {
-      "title": "With Jazz headed to IL, Yanks will call on Volpe, who 'became Barry Bonds all of a sudden'",
-      "link": "https://www.mlb.com/news/jazz-chisholm-jr-placed-on-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bhjgnmx7lkjlvwjvbymx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-09T23:04:00+00:00",
-      "time_ago": "44m ago"
-    },
     {
       "title": "Butera ejected in third inning after arguing over check swing",
       "link": "https://www.mlb.com/news/blake-butera-ejected-vs-padres-for-arguing-check-swing-in-third-inning",
@@ -50,21 +11,60 @@
       "author": "Jessica Camerato",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-09T23:04:00+00:00",
-      "time_ago": "44m ago"
+      "pub_date": "2026-09-10T00:07:00+00:00",
+      "time_ago": "16m ago"
     },
     {
-      "title": "Predicting each organization's top prospect in 2028",
-      "link": "https://www.mlb.com/news/predicting-each-team-s-top-prospect-in-2028",
+      "title": "Altuve notches 2,500th career hit, adding to illustrious resumé",
+      "link": "https://www.mlb.com/news/jose-altuve-collects-2500th-career-hit",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/k3uyod2y9jfb3gxniseg",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sjr5eefnm3ckbtmurgtg",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Sam Dykstra, Jim Callis and Jonathan Mayo",
+      "author": "Paul Casella",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-09T23:00:00+00:00",
-      "time_ago": "48m ago"
+      "pub_date": "2026-09-10T00:03:28+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Flying colors for Basso in rotation audition as he twirls four scoreless vs. Blue Jays",
+      "link": "https://www.mlb.com/news/brady-basso-pitches-four-scoreless-innings-vs-blue-jays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788996970/mlb/e9vrfubyswgvj2z7qhma",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T23:55:43+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "Carroll (low back discomfort) out of lineup for 2nd straight night",
+      "link": "https://www.mlb.com/news/corbin-carroll-scratched-from-diamondbacks-lineup-with-back-discomfort",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pyxz1fz77fof3ds02xm7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Robert Falkoff",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-09T23:55:00+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "Baty stays hot with RBI hit, exits with knee pain",
+      "link": "https://www.mlb.com/news/brett-baty-exits-mets-game-with-knee-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788997058/mlb/yldexcbnizaxshfddb5h",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "George Richards",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-09T23:53:08+00:00",
+      "time_ago": "30m ago"
     },
     {
       "title": "Bradford's rough luck continues in short start in Seattle",
@@ -76,33 +76,33 @@
       "author": "Kennedi Landry",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-09T22:46:03+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-09-09T23:48:00+00:00",
+      "time_ago": "35m ago"
     },
     {
-      "title": "Giants erupt for 6 runs in 8th for comeback win, series sweep vs. Cardinals",
-      "link": "https://www.mlb.com/news/giants-earn-comeback-win-to-sweep-cardinals",
+      "title": "Frustrating trends continue for Matthews, Twins in loss to Tigers",
+      "link": "https://www.mlb.com/news/zebby-matthews-twins-lose-to-tigers",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lss53uovvmhpgxl81g4p",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aukhjschzn3oxaiuj8kw",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Maria Guardado",
+      "author": "Matthew Leach",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-09T22:44:59+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-09-09T23:47:00+00:00",
+      "time_ago": "36m ago"
     },
     {
-      "title": "Watch LIVE as Zyhir Hope (DET) stands in against Gage Wood (PHI) at Double-A",
-      "link": "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
+      "title": "'We're right there': Urgency at its apex for Blue Jays after being blanked by A's",
+      "link": "https://www.mlb.com/news/blue-jays-shut-out-by-depleted-athletics",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788823303/mlb/f7kqxh4mlwxmdefvqdl2",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gbfedzenlfqsmz24jqxm",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Brendan Samson",
+      "author": "Theo DeRosa",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-09T22:36:00+00:00",
+      "pub_date": "2026-09-09T23:23:00+00:00",
       "time_ago": "1h ago"
     }
   ]
