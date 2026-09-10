@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-10T07:11:06.415566+00:00",
+  "updated_at": "2026-09-10T07:27:23.453609+00:00",
   "news": [
+    {
+      "title": "Yamamoto (10 K's) dominates, Dodgers score 14 to run season-high win streak to 7",
+      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-starts-finale-against-reds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789013665/mlb/bzbid9rkw0xzcszhuvez",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-10T07:05:00+00:00",
+      "time_ago": "22m ago"
+    },
     {
       "title": "Dodgers calling up top prospect Josue De Paula with Ohtani out",
       "link": "https://www.mlb.com/news/josue-de-paula-top-prospect-called-up-dodgers",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T06:52:00+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "35m ago"
     },
     {
       "title": "Ohtani placed on injured list to rest left knee, right biceps injuries",
@@ -25,7 +38,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-10T06:28:00+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "Stammen, Buehler's mound negotiation leads to awkward early exit in third",
@@ -77,19 +90,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-10T05:05:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Yamamoto (10 K's) dominates, Dodgers score 14 to run season-high win streak to 7",
-      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-starts-finale-against-reds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789013665/mlb/bzbid9rkw0xzcszhuvez",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-10T04:49:00+00:00",
       "time_ago": "2h ago"
     },
     {
