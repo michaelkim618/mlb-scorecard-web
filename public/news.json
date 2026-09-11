@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-11T21:08:12.864313+00:00",
+  "updated_at": "2026-09-11T21:38:18.645584+00:00",
   "news": [
+    {
+      "title": "After 12-year journey, OF Martin called up as Blue Jays designate Sánchez",
+      "link": "https://www.mlb.com/news/rudy-martin-jr-blue-jays-callup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uxbgqxkrgzj3xsoppmvm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-09-11T21:31:00+00:00",
+      "time_ago": "7m ago"
+    },
     {
       "title": "MLB to mark 25th anniversary of 9/11 with tributes, service",
       "link": "https://www.mlb.com/news/mlb-25th-anniversary-september-11-tributes",
@@ -15,19 +28,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "After 12-year journey, OF Martin called up as Blue Jays designate Sánchez",
-      "link": "https://www.mlb.com/news/rudy-martin-jr-blue-jays-callup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uxbgqxkrgzj3xsoppmvm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-09-11T19:26:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Cubs' bullpen could be bolstered with Cabrera nearing return, Miller, Steele rehabbing",
       "link": "https://www.mlb.com/news/edward-cabrera-shelby-miller-justin-steele-nearing-returns",
       "summary": "",
@@ -38,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T18:29:03+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "'So you're telling me there's a chance': How Dumb & Dumber could motivate the Pirates",
@@ -64,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-11T17:34:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T16:21:05+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     }
   ]
 }
