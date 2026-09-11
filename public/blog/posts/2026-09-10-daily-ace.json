@@ -1,11 +1,11 @@
 {
-  "title": "Sep 10 Results: When Your Command Deserts You",
-  "summary": "Tough outing on Sep 10 - 2W-3L (40%) proves even good setups don't always work",
+  "title": "Sep 10 Results: Tough Night on the Mound",
+  "summary": "Sep 10 predictions went 2-3 (40%) - breaking down what went wrong from the rubber",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## The Box Score Doesn't Lie\n\nLet me be straight with you - today was the kind of day that reminds me why pitching is called the most humbling job in baseball. We went 2-3, hitting just 40% of our picks. From the mound, you learn real quick that some days your stuff just doesn't play like you think it will. That's what happened here."
+      "value": "## The Reality Check\n\nLet me be straight with you - tonight was a grinder. Going 2-3 with a 40% hit rate isn't what we came here to do. As a former pitcher, I know what it's like when your command isn't there and batters are laying off your best stuff. That's essentially what happened with our model tonight. Three misses hurt, but let's break down the tape and see where we lost the zone."
     },
     {
       "type": "stat_row",
@@ -19,31 +19,20 @@
           "value": "40.0%"
         },
         {
-          "label": "Avg Confidence",
-          "value": "55.6%"
+          "label": "Hits",
+          "value": "2"
+        },
+        {
+          "label": "Misses",
+          "value": "3"
         }
       ]
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 10 Prediction Performance",
+      "title": "Sep 10 Prediction Results by Confidence",
       "data": [
-        {
-          "name": "Rays",
-          "probability": 54,
-          "result": 0
-        },
-        {
-          "name": "Phillies",
-          "probability": 50,
-          "result": 0
-        },
-        {
-          "name": "Rangers",
-          "probability": 54,
-          "result": 0
-        },
         {
           "name": "Yankees",
           "probability": 61,
@@ -53,6 +42,21 @@
           "name": "Pirates",
           "probability": 59,
           "result": 1
+        },
+        {
+          "name": "Rays",
+          "probability": 54,
+          "result": 0
+        },
+        {
+          "name": "Rangers",
+          "probability": 54,
+          "result": 0
+        },
+        {
+          "name": "Phillies",
+          "probability": 50,
+          "result": 0
         }
       ],
       "x_key": "name",
@@ -71,7 +75,7 @@
     },
     {
       "type": "text",
-      "value": "## Where We Missed Location\n\nThree misses in a row to start the slate - that's like walking the bases loaded in the first inning. The Rays, Phillies, and Rangers picks all looked solid on paper, with confidence levels in the low-to-mid 50s. But baseball doesn't care about your confidence. The Braves, Astros, and Mariners all made us pay for leaving pitches over the plate.\n\nThe Phillies pick at exactly 50% was essentially a coin flip - and we called it wrong. As a pitcher, I learned you can't live on the edges when you're not sharp. Same principle applies here."
+      "value": "## Game-by-Game Breakdown\n\nFrom a pitcher's perspective, let's dissect each matchup and understand what the numbers missed versus what happened on the field."
     },
     {
       "type": "table",
@@ -87,48 +91,48 @@
           "Rays @ Braves",
           "Rays",
           "54%",
-          "✗"
+          "✗ Miss"
         ],
         [
           "Astros @ Phillies",
           "Phillies",
           "50%",
-          "✗"
+          "✗ Miss"
         ],
         [
           "Rangers @ Mariners",
           "Rangers",
           "54%",
-          "✗"
+          "✗ Miss"
         ],
         [
           "Rockies @ Yankees",
           "Yankees",
           "61%",
-          "✓"
+          "✓ Hit"
         ],
         [
           "Pirates @ Sox",
           "Pirates",
           "59%",
-          "✓"
+          "✓ Hit"
         ]
       ]
     },
     {
       "type": "text",
-      "value": "## What Worked: High-Confidence Situations\n\nHere's the silver lining - our two highest confidence picks both came through. The Yankees at 61% and Pirates at 59% were games where we had stronger reads, and they delivered. That's like trusting your fastball when you know you've got your best stuff working.\n\nWhen you have conviction - real conviction backed by the numbers and matchups - you've got to attack the zone. We did that on these two, and it paid off."
+      "value": "## The Misses - Where We Lost Command\n\n**Rays @ Braves (54% Rays)** - The Braves lineup came through when it mattered. Sometimes the home team's bats wake up, and you can't predict which inning they'll strike.\n\n**Astros @ Phillies (50% Phillies)** - This was essentially a coin flip, and the coin didn't land our way. At 50%, we're talking about two evenly matched clubs, and the Astros proved why.\n\n**Rangers @ Mariners (54% Rangers)** - Seattle's pitching likely shut down the Rangers' attack. Close confidence means close game, and we ended up on the wrong side.\n\n## The Wins - What Worked\n\n**Yankees (61%)** - Our highest confidence play delivered. The Rockies at Yankee Stadium is usually a mismatch, and the numbers held.\n\n**Pirates (59%)** - Second-highest confidence, second win. When you trust your stuff and throw strikes, good things happen."
     },
     {
       "type": "highlight_box",
-      "color": "#DC2626",
-      "title": "⚠️ Tomorrow's Schedule",
-      "value": "NO GAMES SCHEDULED",
-      "sub": "Off day across MLB - time to review film and reset"
+      "color": "#EF4444",
+      "title": "⚠️ Tomorrow's Slate",
+      "value": "No Games Scheduled",
+      "sub": "Off-day across MLB - time to review the tape and reset"
     },
     {
       "type": "text",
-      "value": "## The Between-Starts Mentality\n\nNo games tomorrow means it's a bullpen day for us - time to analyze what went wrong and what went right. In my pitching days, these off days were crucial. You'd watch film, adjust your mechanics, and come back stronger.\n\nThat 40% accuracy stings, but you can't let one rough outing define you. The key numbers to watch: our high-confidence picks (59%+ probability) went 2-0, while everything below that went 0-3. That tells me our model knows something - we just need to trust it more selectively.\n\nSee you when the schedule resumes. Time to refine the approach."
+      "value": "## The Film Session\n\nHere's what I'm taking from tonight: our higher confidence picks (59%+) went 2-0. The three misses? All 54% or lower. That's the game telling us something. When you're working with marginal edges, variance catches up fast.\n\nIn the bullpen, we'd call this a session where your secondary pitches weren't fooling anyone. Your fastball worked (the high-confidence calls), but your changeup and slider got hammered (the close calls).\n\n## Looking Ahead\n\nWith no games tomorrow, it's a perfect time to recalibrate. Every pitcher needs a bullpen day to work on mechanics. We'll use this off-day to dive deeper into what separated our hits from our misses.\n\nThe beauty of baseball? You get another chance to toe the rubber soon. We'll be sharper next time.\n\n*- Ace*"
     }
   ],
   "slug": "2026-09-10-daily-ace",
