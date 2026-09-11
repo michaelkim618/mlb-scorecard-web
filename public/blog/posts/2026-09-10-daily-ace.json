@@ -1,0 +1,143 @@
+{
+  "title": "Sep 10 Results: When Your Command Deserts You",
+  "summary": "Tough outing on Sep 10 - 2W-3L (40%) proves even good setups don't always work",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## The Box Score Doesn't Lie\n\nLet me be straight with you - today was the kind of day that reminds me why pitching is called the most humbling job in baseball. We went 2-3, hitting just 40% of our picks. From the mound, you learn real quick that some days your stuff just doesn't play like you think it will. That's what happened here."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Today W-L",
+          "value": "2-3"
+        },
+        {
+          "label": "Accuracy",
+          "value": "40.0%"
+        },
+        {
+          "label": "Avg Confidence",
+          "value": "55.6%"
+        }
+      ]
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Sep 10 Prediction Performance",
+      "data": [
+        {
+          "name": "Rays",
+          "probability": 54,
+          "result": 0
+        },
+        {
+          "name": "Phillies",
+          "probability": 50,
+          "result": 0
+        },
+        {
+          "name": "Rangers",
+          "probability": 54,
+          "result": 0
+        },
+        {
+          "name": "Yankees",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Pirates",
+          "probability": 59,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Where We Missed Location\n\nThree misses in a row to start the slate - that's like walking the bases loaded in the first inning. The Rays, Phillies, and Rangers picks all looked solid on paper, with confidence levels in the low-to-mid 50s. But baseball doesn't care about your confidence. The Braves, Astros, and Mariners all made us pay for leaving pitches over the plate.\n\nThe Phillies pick at exactly 50% was essentially a coin flip - and we called it wrong. As a pitcher, I learned you can't live on the edges when you're not sharp. Same principle applies here."
+    },
+    {
+      "type": "table",
+      "title": "Complete Sep 10 Results",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Rays @ Braves",
+          "Rays",
+          "54%",
+          "✗"
+        ],
+        [
+          "Astros @ Phillies",
+          "Phillies",
+          "50%",
+          "✗"
+        ],
+        [
+          "Rangers @ Mariners",
+          "Rangers",
+          "54%",
+          "✗"
+        ],
+        [
+          "Rockies @ Yankees",
+          "Yankees",
+          "61%",
+          "✓"
+        ],
+        [
+          "Pirates @ Sox",
+          "Pirates",
+          "59%",
+          "✓"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## What Worked: High-Confidence Situations\n\nHere's the silver lining - our two highest confidence picks both came through. The Yankees at 61% and Pirates at 59% were games where we had stronger reads, and they delivered. That's like trusting your fastball when you know you've got your best stuff working.\n\nWhen you have conviction - real conviction backed by the numbers and matchups - you've got to attack the zone. We did that on these two, and it paid off."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#DC2626",
+      "title": "⚠️ Tomorrow's Schedule",
+      "value": "NO GAMES SCHEDULED",
+      "sub": "Off day across MLB - time to review film and reset"
+    },
+    {
+      "type": "text",
+      "value": "## The Between-Starts Mentality\n\nNo games tomorrow means it's a bullpen day for us - time to analyze what went wrong and what went right. In my pitching days, these off days were crucial. You'd watch film, adjust your mechanics, and come back stronger.\n\nThat 40% accuracy stings, but you can't let one rough outing define you. The key numbers to watch: our high-confidence picks (59%+ probability) went 2-0, while everything below that went 0-3. That tells me our model knows something - we just need to trust it more selectively.\n\nSee you when the schedule resumes. Time to refine the approach."
+    }
+  ],
+  "slug": "2026-09-10-daily-ace",
+  "author": "Ace",
+  "author_emoji": "🎙️",
+  "author_role": "Former Pitcher",
+  "author_color": "#D97706",
+  "date": "2026-09-10",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#D97706"
+}

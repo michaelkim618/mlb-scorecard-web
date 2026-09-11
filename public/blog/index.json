@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-09-10-daily-ace",
+      "title": "Sep 10 Results: When Your Command Deserts You",
+      "author": "Ace",
+      "author_emoji": "🎙️",
+      "author_color": "#D97706",
+      "author_role": "Former Pitcher",
+      "date": "2026-09-10",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#D97706",
+      "read_time": "3 min",
+      "summary": "Tough outing on Sep 10 - 2W-3L (40%) proves even good setups don't always work"
+    },
+    {
       "slug": "2026-09-06-daily-stan",
       "title": "Sep 6 Results: 66.7% Accuracy Across 15 Games",
       "author": "Stan",
