@@ -706,7 +706,7 @@
       "home_defense": 52.8
     },
     "actual_score": {
-      "away": 0,
+      "away": 1,
       "home": 0
     },
     "lineup_confirmed": true,
@@ -3575,26 +3575,26 @@
       "home": 60.7
     },
     "expected_score": {
-      "away": 1.7,
-      "home": 2.5
+      "away": 1.5,
+      "home": 2.3
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "team_stats",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": false,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.33,
-        "bp": 0.27,
-        "bat": 0.33,
+        "sp": 0.38,
+        "bp": 0.25,
+        "bat": 0.3,
         "sit": 0.15
       },
       "away": {
-        "sp_score": 30.0,
+        "sp_score": 29.2,
         "sp_detail": {
           "era": 5.96,
           "whip": 1.45,
@@ -3676,7 +3676,7 @@
             }
           ]
         },
-        "bp_score": 32.7,
+        "bp_score": 31.9,
         "bp_detail": {
           "bullpen_era": 4.55,
           "recent_era": 3.75,
@@ -3688,51 +3688,106 @@
           "closer_era": 5.98,
           "closer_name": "Alex Lange"
         },
-        "bat_score": 30.5,
+        "bat_score": 26.2,
         "bat_detail": {
-          "recent_avg": 0.244,
-          "runs_per_g": 4.2,
-          "hr_per_g": 0.9,
-          "bb_per_g": 3.2,
-          "season_ops": 0.72,
-          "season_avg": 0.25,
-          "season_slg": 0.4,
-          "n_games": 10,
-          "last5_rpg": 5.0,
-          "last5_avg": 0.273,
-          "bat_trend": "hot",
+          "recent_avg": 0.218,
+          "runs_per_g": 4.0,
+          "hr_per_g": 1.3,
+          "bb_per_g": 3.0,
+          "season_ops": 0.703,
+          "season_avg": 0.218,
+          "n_games": 9,
+          "source": "prev_day",
+          "handedness": "R",
+          "splits_used": false,
+          "lineup_ops": [
+            "Carter Jensen(0.977)",
+            "Bobby Witt Jr.(0.778)",
+            "Vinnie Pasquantino(0.694)",
+            "Salvador Perez(0.744)",
+            "Michael Massey(0.723)",
+            "John Rave(0.760)",
+            "Nick Loftin(0.673)",
+            "Kyle Isbel(0.492)",
+            "Isaac Collins(0.489)"
+          ],
+          "lineup_players": [
+            {
+              "id": 695600,
+              "name": "Carter Jensen",
+              "ops": 0.977,
+              "avg": 0.297
+            },
+            {
+              "id": 677951,
+              "name": "Bobby Witt Jr.",
+              "ops": 0.778,
+              "avg": 0.216
+            },
+            {
+              "id": 686469,
+              "name": "Vinnie Pasquantino",
+              "ops": 0.694,
+              "avg": 0.184
+            },
+            {
+              "id": 521692,
+              "name": "Salvador Perez",
+              "ops": 0.744,
+              "avg": 0.3
+            },
+            {
+              "id": 686681,
+              "name": "Michael Massey",
+              "ops": 0.723,
+              "avg": 0.278
+            },
+            {
+              "id": 670231,
+              "name": "John Rave",
+              "ops": 0.76,
+              "avg": 0.235
+            },
+            {
+              "id": 679845,
+              "name": "Nick Loftin",
+              "ops": 0.673,
+              "avg": 0.222
+            },
+            {
+              "id": 664728,
+              "name": "Kyle Isbel",
+              "ops": 0.492,
+              "avg": 0.161
+            },
+            {
+              "id": 686555,
+              "name": "Isaac Collins",
+              "ops": 0.489,
+              "avg": 0.071
+            }
+          ],
+          "bat_trend": "stable",
+          "last5_rpg": 4.2,
+          "last5_avg": 0.216,
           "home_split": {
             "recent_avg": 0.24,
             "runs_per_g": 5.0,
             "hr_per_g": 1.5,
-            "bb_per_g": 3.9,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 4.2,
-            "last5_avg": 0.216,
-            "bat_trend": "cold"
+            "n_games": 10
           },
           "away_split": {
             "recent_avg": 0.244,
             "runs_per_g": 4.2,
             "hr_per_g": 0.9,
-            "bb_per_g": 3.2,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 5.0,
-            "last5_avg": 0.273,
-            "bat_trend": "hot"
+            "n_games": 10
           }
         },
         "sit_score": 45.6,
-        "total": 35.6
+        "total": 33.8
       },
       "home": {
-        "sp_score": 70.2,
+        "sp_score": 69.5,
         "sp_detail": {
           "era": 2.8,
           "whip": 1.25,
@@ -3806,7 +3861,7 @@
             }
           ]
         },
-        "bp_score": 75.0,
+        "bp_score": 74.2,
         "bp_detail": {
           "bullpen_era": 2.66,
           "recent_era": 2.04,
@@ -3818,61 +3873,116 @@
           "closer_era": 2.03,
           "closer_name": "Aroldis Chapman"
         },
-        "bat_score": 31.9,
+        "bat_score": 28.4,
         "bat_detail": {
-          "recent_avg": 0.274,
-          "runs_per_g": 4.8,
-          "hr_per_g": 1.4,
-          "bb_per_g": 3.1,
-          "season_ops": 0.72,
-          "season_avg": 0.25,
-          "season_slg": 0.4,
-          "n_games": 10,
-          "last5_rpg": 3.8,
-          "last5_avg": 0.253,
+          "recent_avg": 0.236,
+          "runs_per_g": 4.3,
+          "hr_per_g": 1.5,
+          "bb_per_g": 3.0,
+          "season_ops": 0.729,
+          "season_avg": 0.236,
+          "n_games": 9,
+          "source": "prev_day",
+          "handedness": "R",
+          "splits_used": false,
+          "lineup_ops": [
+            "Roman Anthony(0.766)",
+            "Mickey Gasper(0.873)",
+            "Adley Rutschman(0.685)",
+            "Wilyer Abreu(0.804)",
+            "Trevor Story(0.702)",
+            "Nick Sogard(0.743)",
+            "Caleb Durbin(0.615)",
+            "Jarren Duran(0.629)",
+            "Isiah Kiner-Falefa(0.744)"
+          ],
+          "lineup_players": [
+            {
+              "id": 701350,
+              "name": "Roman Anthony",
+              "ops": 0.766,
+              "avg": 0.227
+            },
+            {
+              "id": 681508,
+              "name": "Mickey Gasper",
+              "ops": 0.873,
+              "avg": 0.219
+            },
+            {
+              "id": 668939,
+              "name": "Adley Rutschman",
+              "ops": 0.685,
+              "avg": 0.184
+            },
+            {
+              "id": 677800,
+              "name": "Wilyer Abreu",
+              "ops": 0.804,
+              "avg": 0.27
+            },
+            {
+              "id": 596115,
+              "name": "Trevor Story",
+              "ops": 0.702,
+              "avg": 0.341
+            },
+            {
+              "id": 686765,
+              "name": "Nick Sogard",
+              "ops": 0.743,
+              "avg": 0.278
+            },
+            {
+              "id": 702332,
+              "name": "Caleb Durbin",
+              "ops": 0.615,
+              "avg": 0.167
+            },
+            {
+              "id": 680776,
+              "name": "Jarren Duran",
+              "ops": 0.629,
+              "avg": 0.189
+            },
+            {
+              "id": 643396,
+              "name": "Isiah Kiner-Falefa",
+              "ops": 0.744,
+              "avg": 0.25
+            }
+          ],
           "bat_trend": "cold",
+          "last5_rpg": 3.6,
+          "last5_avg": 0.205,
           "home_split": {
             "recent_avg": 0.274,
             "runs_per_g": 4.8,
             "hr_per_g": 1.4,
-            "bb_per_g": 3.1,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 3.8,
-            "last5_avg": 0.253,
-            "bat_trend": "cold"
+            "n_games": 10
           },
           "away_split": {
             "recent_avg": 0.191,
             "runs_per_g": 3.1,
             "hr_per_g": 1.1,
-            "bb_per_g": 3.7,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 3.2,
-            "last5_avg": 0.193,
-            "bat_trend": "stable"
+            "n_games": 10
           }
         },
         "sit_score": 49.7,
-        "total": 61.4
+        "total": 60.9
       }
     },
     "scores": {
-      "away_offense": 30.5,
-      "away_defense": 31.8,
-      "home_offense": 31.9,
-      "home_defense": 72.6
+      "away_offense": 26.2,
+      "away_defense": 31.0,
+      "home_offense": 28.4,
+      "home_defense": 71.8
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -3883,9 +3993,9 @@
     "model_winner": "Boston Red Sox",
     "model_correct": null,
     "notes": "Kansas City Royals IL: Alec Marsh, Beck Way, Carlos Estévez, Cole Ragans, Connor Seabold 외 다수 / Boston Red Sox IL: Ceddanne Rafaela, Curtis Mead, Eduardo Rivera, Garrett Crochet, Johan Oviedo 외 다수",
-    "kalshi_prob": null,
-    "edge": null,
-    "value_bet": "⏭️ 패스 (라인업 미확정)",
+    "kalshi_prob": 64.0,
+    "edge": -3.3,
+    "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,

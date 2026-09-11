@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-11T18:07:46.893904+00:00",
+  "updated_at": "2026-09-11T18:45:06.024979+00:00",
   "news": [
+    {
+      "title": "After 12-year journey, Martin called up by Blue Jays for MLB debut",
+      "link": "https://www.mlb.com/news/rudy-martin-jr-blue-jays-callup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uxbgqxkrgzj3xsoppmvm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-11T18:09:00+00:00",
+      "time_ago": "36m ago"
+    },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
       "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
@@ -15,6 +28,19 @@
       "time_ago": "1h ago"
     },
     {
+      "title": "Cubs plan to activate SS Swanson next weekend for series vs. Reds",
+      "link": "https://www.mlb.com/news/dansby-swanson-nearing-return-as-defensive-upgrade-for-cubs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p91v8uwa16hz3zprtqsw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-11T16:49:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
       "title": "Walk-off balks? Dads catching sons' homers? MiLB's wildest plays from the past month",
       "link": "https://www.mlb.com/news/crooked-numbers-august-2026",
       "summary": "",
@@ -25,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-11T15:21:59+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "With NL Wild Card hanging in balance, Padres face big decisions with Miller's workload",
@@ -67,19 +93,6 @@
       "time_ago": "3h ago"
     },
     {
-      "title": "Braves OF Thomas suffers intercostal strain while taking BP",
-      "link": "https://www.mlb.com/news/lane-thomas-placed-on-braves-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bjdhcneq6dgjp8loo3f2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-11T14:38:03+00:00",
-      "time_ago": "3h ago"
-    },
-    {
       "title": "Sept. 11 doc on MLB Network tells story of 'When America Took the Field.' Watch it now",
       "link": "https://www.mlb.com/news/sept-11-documentary-when-america-took-the-field-premieres-in-new-york",
       "summary": "",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T14:38:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "MLB to mark 25th anniversary of 9/11 with tributes, service",
-      "link": "https://www.mlb.com/news/mlb-25th-anniversary-september-11-tributes",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j67zzxrj1hfmi2ya59lw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Foster",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-11T14:35:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     }
   ]
 }

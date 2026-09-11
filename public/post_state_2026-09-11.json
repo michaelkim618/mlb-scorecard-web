@@ -1,8 +1,11 @@
 {
-  "predictions": [],
+  "predictions": [
+    "15:40"
+  ],
   "results": false,
   "lineup_refreshed": [
-    "11:20"
+    "11:20",
+    "15:40"
   ],
   "predictions_frozen": [
     "11:20"
