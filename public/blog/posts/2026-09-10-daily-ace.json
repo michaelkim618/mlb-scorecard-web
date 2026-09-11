@@ -1,11 +1,11 @@
 {
-  "title": "Sep 10 Results: Tough Night on the Mound",
-  "summary": "Sep 10 predictions went 2-3 (40%) - breaking down what went wrong from the rubber",
+  "title": "Sep 10 Results: Tough Day on the Mound",
+  "summary": "Sep 10 brings a 2-3 record—breaking down what went wrong from the pitcher's view",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## The Reality Check\n\nLet me be straight with you - tonight was a grinder. Going 2-3 with a 40% hit rate isn't what we came here to do. As a former pitcher, I know what it's like when your command isn't there and batters are laying off your best stuff. That's essentially what happened with our model tonight. Three misses hurt, but let's break down the tape and see where we lost the zone."
+      "value": "## The Reality Check\n\nLook, I've had plenty of days on the mound where nothing seemed to work. Today was one of those days for our predictions. Going 2-3 with a 40% accuracy isn't what we're aiming for, but let me break down what happened from a pitcher's perspective—because that's where games are really won and lost."
     },
     {
       "type": "stat_row",
@@ -31,8 +31,23 @@
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 10 Prediction Results by Confidence",
+      "title": "Today's Prediction Performance",
       "data": [
+        {
+          "name": "Rays",
+          "probability": 54,
+          "result": 0
+        },
+        {
+          "name": "Phillies",
+          "probability": 50,
+          "result": 0
+        },
+        {
+          "name": "Rangers",
+          "probability": 54,
+          "result": 0
+        },
         {
           "name": "Yankees",
           "probability": 61,
@@ -42,21 +57,6 @@
           "name": "Pirates",
           "probability": 59,
           "result": 1
-        },
-        {
-          "name": "Rays",
-          "probability": 54,
-          "result": 0
-        },
-        {
-          "name": "Rangers",
-          "probability": 54,
-          "result": 0
-        },
-        {
-          "name": "Phillies",
-          "probability": 50,
-          "result": 0
         }
       ],
       "x_key": "name",
@@ -75,11 +75,11 @@
     },
     {
       "type": "text",
-      "value": "## Game-by-Game Breakdown\n\nFrom a pitcher's perspective, let's dissect each matchup and understand what the numbers missed versus what happened on the field."
+      "value": "## The Three That Got Away\n\nLet's be honest—three misses in one day stings. What's interesting is that all three were relatively close calls probability-wise. The Rays at 54%, Rangers at 54%, and even the Phillies at 50% were essentially coin flips. In baseball, tight margins like these can go either way, and today they went against us.\n\nFrom a pitcher's standpoint, I know that sometimes you execute your pitch perfectly and still get hit. That's baseball. The key is understanding *why* and adjusting."
     },
     {
       "type": "table",
-      "title": "Complete Sep 10 Results",
+      "title": "Complete Game-by-Game Breakdown",
       "headers": [
         "Matchup",
         "Our Pick",
@@ -121,18 +121,29 @@
     },
     {
       "type": "text",
-      "value": "## The Misses - Where We Lost Command\n\n**Rays @ Braves (54% Rays)** - The Braves lineup came through when it mattered. Sometimes the home team's bats wake up, and you can't predict which inning they'll strike.\n\n**Astros @ Phillies (50% Phillies)** - This was essentially a coin flip, and the coin didn't land our way. At 50%, we're talking about two evenly matched clubs, and the Astros proved why.\n\n**Rangers @ Mariners (54% Rangers)** - Seattle's pitching likely shut down the Rangers' attack. Close confidence means close game, and we ended up on the wrong side.\n\n## The Wins - What Worked\n\n**Yankees (61%)** - Our highest confidence play delivered. The Rockies at Yankee Stadium is usually a mismatch, and the numbers held.\n\n**Pirates (59%)** - Second-highest confidence, second win. When you trust your stuff and throw strikes, good things happen."
+      "value": "## What Worked: The Two Wins\n\nOur strongest calls came through. The Yankees at 61% and Pirates at 59% were our highest confidence picks, and they both delivered. When you have conviction based on matchup analysis and recent form, you trust your scouting report. These two wins show that when we have clearer edges, our process works."
     },
     {
       "type": "highlight_box",
-      "color": "#EF4444",
-      "title": "⚠️ Tomorrow's Slate",
-      "value": "No Games Scheduled",
-      "sub": "Off-day across MLB - time to review the tape and reset"
+      "color": "#DC2626",
+      "title": "⚠️ Learning Point",
+      "value": "Close probability picks (50-54%) are inherently volatile",
+      "sub": "Three of our five games were essentially toss-ups—variance caught us today"
     },
     {
       "type": "text",
-      "value": "## The Film Session\n\nHere's what I'm taking from tonight: our higher confidence picks (59%+) went 2-0. The three misses? All 54% or lower. That's the game telling us something. When you're working with marginal edges, variance catches up fast.\n\nIn the bullpen, we'd call this a session where your secondary pitches weren't fooling anyone. Your fastball worked (the high-confidence calls), but your changeup and slider got hammered (the close calls).\n\n## Looking Ahead\n\nWith no games tomorrow, it's a perfect time to recalibrate. Every pitcher needs a bullpen day to work on mechanics. We'll use this off-day to dive deeper into what separated our hits from our misses.\n\nThe beauty of baseball? You get another chance to toe the rubber soon. We'll be sharper next time.\n\n*- Ace*"
+      "value": "## Tomorrow's Outlook\n\nHere's the thing—there are no games scheduled for tomorrow. Sometimes the best pitch is the one you don't throw. Use this off-day to reset, review the film, and come back sharper. In my playing days, I learned that recovery days are just as important as game days.\n\nWe'll be back when the schedule resumes, with fresh analysis and the same commitment to breaking down matchups from a pitcher's perspective. A 2-3 day hurts, but it's one day in a long season."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#6B7280",
+      "title": "📅 Tomorrow's Schedule",
+      "value": "No Games Scheduled",
+      "sub": "League-wide off day—we'll return with fresh picks soon"
+    },
+    {
+      "type": "text",
+      "value": "## Final Thought\n\nEvery pitcher knows you can't win them all. What matters is how you respond. We trust our process, we'll learn from the close calls, and we'll be ready for the next pitch. That's the mentality that got me through 162-game seasons, and it's the mentality we bring to these predictions.\n\nStay locked in. We'll be back.\n\n—Ace"
     }
   ],
   "slug": "2026-09-10-daily-ace",
