@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T19:59:35.858459+00:00",
+  "updated_at": "2026-09-11T20:30:47.161086+00:00",
   "news": [
     {
       "title": "MLB to mark 25th anniversary of 9/11 with tributes, service",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T19:45:00+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "After 12-year journey, OF Martin called up as Blue Jays designate Sánchez",
@@ -25,7 +25,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-09-11T19:26:00+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Cubs' bullpen could be bolstered with Cabrera nearing return, Miller, Steele rehabbing",
@@ -38,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T18:29:03+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "'So you're telling me there's a chance': How Dumb & Dumber could motivate the Pirates",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T18:03:09+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Pirates get O'Hearn back from IL for home stretch",
@@ -77,7 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-11T17:02:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Cubs plan to activate SS Swanson next weekend for series vs. Reds",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T16:21:05+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
