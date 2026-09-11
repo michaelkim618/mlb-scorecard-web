@@ -9,7 +9,8 @@
     "16:45"
   ],
   "predictions_frozen": [
-    "11:20"
+    "11:20",
+    "15:40"
   ],
   "frozen_predictions": {
     "11:20": [
@@ -22,6 +23,133 @@
         "model_winner": "Chicago Cubs",
         "value_bet": "➖ 시장과 유사",
         "edge": -3.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      }
+    ],
+    "15:40": [
+      {
+        "game_pk": "824227",
+        "win_prob": {
+          "away": 39.4,
+          "home": 60.6
+        },
+        "model_winner": "Detroit Tigers",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -1.4,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "SP 점수 차이 1.0pt (≤5.0pt)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "822684",
+        "win_prob": {
+          "away": 44.5,
+          "home": 55.5
+        },
+        "model_winner": "Washington Nationals",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -2.5,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823498",
+        "win_prob": {
+          "away": 44.5,
+          "home": 55.5
+        },
+        "model_winner": "New York Yankees",
+        "value_bet": "⏭️ 패스 (라인업 미확정)",
+        "edge": null,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "822767",
+        "win_prob": {
+          "away": 47.5,
+          "home": 52.5
+        },
+        "model_winner": "Toronto Blue Jays",
+        "value_bet": "⏭️ 패스 (라인업 미확정)",
+        "edge": null,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "SP 점수 차이 4.0pt (≤5.0pt)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "824711",
+        "win_prob": {
+          "away": 39.3,
+          "home": 60.7
+        },
+        "model_winner": "Boston Red Sox",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -3.3,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "822930",
+        "win_prob": {
+          "away": 39.4,
+          "home": 60.6
+        },
+        "model_winner": "Tampa Bay Rays",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -0.4,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823817",
+        "win_prob": {
+          "away": 63.0,
+          "home": 37.0
+        },
+        "model_winner": "Los Angeles Dodgers",
+        "value_bet": "⏭️ 패스 (라인업 미확정)",
+        "edge": null,
+        "sp_bat_conflict": true,
+        "sp_bat_conflict_detail": {
+          "sp_favors": "Los Angeles Dodgers",
+          "bat_favors": "Miami Marlins",
+          "sp_gap": 39.4,
+          "bat_gap": -9.0
+        },
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "824873",
+        "win_prob": {
+          "away": 38.6,
+          "home": 61.4
+        },
+        "model_winner": "Atlanta Braves",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -0.6,
         "sp_bat_conflict": false,
         "sp_bat_conflict_detail": null,
         "low_confidence": false,
