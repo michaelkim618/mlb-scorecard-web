@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-11T21:49:28.426882+00:00",
+  "updated_at": "2026-09-11T22:24:16.862138+00:00",
   "news": [
+    {
+      "title": "LIVE: Watch Top 100 prospect Gonzales, rehabbing Contreras (BOS) dig in vs. NYM talent at Double-A",
+      "link": "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788823303/mlb/f7kqxh4mlwxmdefvqdl2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brendan Samson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-11T22:00:00+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "Buxton to undergo season-ending hip surgery next week",
+      "link": "https://www.mlb.com/news/byron-buxton-season-ending-hip-surgery",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sx8jcma1ihkiwik4x5vi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-11T21:40:58+00:00",
+      "time_ago": "43m ago"
+    },
     {
       "title": "After 12-year journey, OF Martin called up as Blue Jays designate Sánchez",
       "link": "https://www.mlb.com/news/rudy-martin-jr-blue-jays-callup",
@@ -12,7 +38,20 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-09-11T21:31:00+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "53m ago"
+    },
+    {
+      "title": "Bregman continues to show he's one of NL's best players with 3-hit game, 25th HR",
+      "link": "https://www.mlb.com/news/alex-bregman-hits-25th-home-run-3-hit-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/htoqu0yhh3tu6jhnclbr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-11T21:17:21+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "MLB to mark 25th anniversary of 9/11 with tributes, service",
@@ -51,19 +90,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T18:03:09+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Pirates get O'Hearn back from IL for home stretch",
-      "link": "https://www.mlb.com/news/ryan-o-hearn-returns-to-pirates-off-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/trguyvayzsis3kzpehvh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-11T17:34:00+00:00",
       "time_ago": "4h ago"
     },
     {
@@ -77,32 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-11T17:02:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Cubs plan to activate SS Swanson next weekend for series vs. Reds",
-      "link": "https://www.mlb.com/news/dansby-swanson-nearing-return-as-defensive-upgrade-for-cubs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p91v8uwa16hz3zprtqsw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-11T16:49:00+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Cubs No. 1 prospect Hartshorn moving on up to Double-A (reports)",
-      "link": "https://www.mlb.com/news/cubs-prospect-josiah-hartshorn-promoted-to-double-a",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/b3klbijummthfdnbtl8b",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-11T16:21:05+00:00",
       "time_ago": "5h ago"
     }
   ]
