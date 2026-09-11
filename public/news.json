@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-11T22:54:31.423177+00:00",
+  "updated_at": "2026-09-11T23:24:12.350436+00:00",
   "news": [
+    {
+      "title": "MVP front-runner Alvarez out of lineup after twisting right ankle",
+      "link": "https://www.mlb.com/news/yordan-alvarez-out-of-lineup-after-twisting-right-ankle",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jfa73qqzeqcyiiygeykw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-09-11T22:52:22+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "Steer (right wrist sprain) cleared to increase activities, but likely won't return in 2026",
+      "link": "https://www.mlb.com/news/spencer-steer-cleared-to-increase-activities-with-right-wrist-sprain",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tl2mdgzixb63skgmz1jn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Sheldon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-11T22:50:41+00:00",
+      "time_ago": "33m ago"
+    },
     {
       "title": "Jiménez's long journey back to mound takes crucial, emotional step with live BP",
       "link": "https://www.mlb.com/news/joe-jimenez-throws-bullpen-session-at-truist-park",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T22:43:15+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "40m ago"
     },
     {
       "title": "Crochet takes another crucial step toward return to Red Sox",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T22:37:47+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "46m ago"
     },
     {
       "title": "LIVE: Watch Top 100 prospect Gonzales, rehabbing Contreras (BOS) dig in vs. NYM talent at Double-A",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T22:00:00+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Buxton to undergo season-ending hip surgery next week",
@@ -77,33 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-11T21:17:21+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "MLB to mark 25th anniversary of 9/11 with tributes, service",
-      "link": "https://www.mlb.com/news/mlb-25th-anniversary-september-11-tributes",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j67zzxrj1hfmi2ya59lw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Foster",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-11T19:45:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Cubs' bullpen could be bolstered with Cabrera nearing return, Miller, Steele rehabbing",
-      "link": "https://www.mlb.com/news/edward-cabrera-shelby-miller-justin-steele-nearing-returns",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pnlkq2ofjrmjam56r0ac",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-11T18:29:03+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
