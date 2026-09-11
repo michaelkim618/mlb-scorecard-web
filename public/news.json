@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-11T22:44:06.677739+00:00",
+  "updated_at": "2026-09-11T22:54:31.423177+00:00",
   "news": [
+    {
+      "title": "Jiménez's long journey back to mound takes crucial, emotional step with live BP",
+      "link": "https://www.mlb.com/news/joe-jimenez-throws-bullpen-session-at-truist-park",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/meiozaxtmr8hb1mhqkeo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-11T22:43:15+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Crochet takes another crucial step toward return to Red Sox",
+      "link": "https://www.mlb.com/news/garrett-crochet-throws-off-pitchers-mound-at-fenway-park",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dylgqvuixcaug6parqca",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-11T22:37:47+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "LIVE: Watch Top 100 prospect Gonzales, rehabbing Contreras (BOS) dig in vs. NYM talent at Double-A",
       "link": "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T22:00:00+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "Buxton to undergo season-ending hip surgery next week",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T19:45:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Cubs' bullpen could be bolstered with Cabrera nearing return, Miller, Steele rehabbing",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T18:29:03+00:00",
       "time_ago": "4h ago"
-    },
-    {
-      "title": "'So you're telling me there's a chance': How Dumb & Dumber could motivate the Pirates",
-      "link": "https://www.mlb.com/news/so-you-re-telling-me-there-s-a-chance-how-dumb-dumber-could-motivate-the-pirates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ngsnhalbesg3oymp3izp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Mackey",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-11T18:03:09+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bgtip4siy3qk2yvgxwvw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-11T17:02:00+00:00",
-      "time_ago": "5h ago"
     }
   ]
 }
