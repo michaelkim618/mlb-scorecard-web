@@ -1,0 +1,29 @@
+{
+  "predictions": [],
+  "results": false,
+  "lineup_refreshed": [
+    "11:20"
+  ],
+  "predictions_frozen": [
+    "11:20"
+  ],
+  "frozen_predictions": {
+    "11:20": [
+      {
+        "game_pk": "824631",
+        "win_prob": {
+          "away": 40.0,
+          "home": 60.0
+        },
+        "model_winner": "Chicago Cubs",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -3.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      }
+    ]
+  }
+}
