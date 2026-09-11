@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-11T18:45:06.024979+00:00",
+  "updated_at": "2026-09-11T18:56:28.382792+00:00",
   "news": [
+    {
+      "title": "Cubs' bullpen could be bolstered with Cabrera nearing return, Miller, Steele rehabbing",
+      "link": "https://www.mlb.com/news/edward-cabrera-shelby-miller-justin-steele-nearing-returns",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pnlkq2ofjrmjam56r0ac",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-11T18:29:03+00:00",
+      "time_ago": "27m ago"
+    },
     {
       "title": "After 12-year journey, Martin called up by Blue Jays for MLB debut",
       "link": "https://www.mlb.com/news/rudy-martin-jr-blue-jays-callup",
@@ -12,7 +25,33 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T18:09:00+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "47m ago"
+    },
+    {
+      "title": "'So you're telling me there's a chance': How Dumb & Dumber could motivate the Pirates",
+      "link": "https://www.mlb.com/news/so-you-re-telling-me-there-s-a-chance-how-dumb-dumber-could-motivate-the-pirates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ngsnhalbesg3oymp3izp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Mackey",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-11T18:03:09+00:00",
+      "time_ago": "53m ago"
+    },
+    {
+      "title": "Pirates get O'Hearn back from IL for home stretch",
+      "link": "https://www.mlb.com/news/ryan-o-hearn-returns-to-pirates-off-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/trguyvayzsis3kzpehvh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-11T17:34:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -38,72 +77,33 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T16:49:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
-      "title": "Walk-off balks? Dads catching sons' homers? MiLB's wildest plays from the past month",
-      "link": "https://www.mlb.com/news/crooked-numbers-august-2026",
+      "title": "Cubs No. 1 prospect Hartshorn moving on up to Double-A (reports)",
+      "link": "https://www.mlb.com/news/cubs-prospect-josiah-hartshorn-promoted-to-double-a",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cige5uitakvxqzlj4c6c",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/b3klbijummthfdnbtl8b",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Benjamin Hill",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-11T15:21:59+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "With NL Wild Card hanging in balance, Padres face big decisions with Miller's workload",
-      "link": "https://www.mlb.com/news/padres-careful-with-mason-miller-s-workload-in-final-games",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rjbz0jyyt5m0djtsminh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Cole Bradley",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-11T15:05:13+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Dubbed an 'aircraft carrier,' Langford is crucial for Rangers' playoff push",
-      "link": "https://www.mlb.com/news/wyatt-langford-an-important-piece-of-2026-rangers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x0njcawnv7snvbgm16r3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kennedi Landry",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-11T14:49:45+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "How Red Sox young ace turns explosive energy into K's",
-      "link": "https://www.mlb.com/news/payton-tolle-s-delivery-creates-ugly-swings",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/se9tn2m2yqq46eso3mxa",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "David Adler",
+      "author": "Brian Murphy",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-11T14:45:45+00:00",
-      "time_ago": "3h ago"
+      "pub_date": "2026-09-11T16:21:05+00:00",
+      "time_ago": "2h ago"
     },
     {
-      "title": "Sept. 11 doc on MLB Network tells story of 'When America Took the Field.' Watch it now",
-      "link": "https://www.mlb.com/news/sept-11-documentary-when-america-took-the-field-premieres-in-new-york",
+      "title": "Miller has 1st Double-A hits, RBIs of season as Reading clinches postseason berth",
+      "link": "https://www.mlb.com/news/aidan-miller-posts-1st-double-a-hits-rbis-after-return-from-injury",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/i8tmracxxldgf6zl4nio",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t7hzgqgl0gbcy8xt7drs",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "James Schapiro",
+      "author": "Max Ralph",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-11T14:38:00+00:00",
-      "time_ago": "4h ago"
+      "pub_date": "2026-09-11T16:09:14+00:00",
+      "time_ago": "2h ago"
     }
   ]
 }

@@ -995,14 +995,14 @@
       "home": 60.6
     },
     "expected_score": {
-      "away": 1.7,
+      "away": 2.1,
       "home": 2.0
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "team_stats",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "L",
       "bullpen_game": false,
@@ -1014,7 +1014,7 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 41.6,
+        "sp_score": 43.0,
         "sp_detail": {
           "era": 3.95,
           "whip": 1.61,
@@ -1088,7 +1088,7 @@
             }
           ]
         },
-        "bp_score": 20.6,
+        "bp_score": 21.3,
         "bp_detail": {
           "bullpen_era": 4.89,
           "recent_era": 8.53,
@@ -1100,48 +1100,103 @@
           "closer_era": 4.88,
           "closer_name": "Jordan Romano"
         },
-        "bat_score": 25.0,
+        "bat_score": 31.5,
         "bat_detail": {
-          "recent_avg": 0.23,
-          "runs_per_g": 3.4,
-          "hr_per_g": 1.2,
-          "bb_per_g": 3.9,
-          "season_ops": 0.72,
-          "season_avg": 0.25,
-          "season_slg": 0.4,
-          "n_games": 10,
-          "last5_rpg": 2.0,
-          "last5_avg": 0.193,
-          "bat_trend": "cold",
+          "recent_avg": 0.239,
+          "runs_per_g": 4.4,
+          "hr_per_g": 1.1,
+          "bb_per_g": 3.0,
+          "season_ops": 0.721,
+          "season_avg": 0.239,
+          "n_games": 9,
+          "source": "prev_day",
+          "handedness": "L",
+          "splits_used": false,
+          "lineup_ops": [
+            "Jake McCarthy(0.904)",
+            "Connor Norby(0.659)",
+            "Cole Carrigg(0.759)",
+            "Hunter Goodman(0.635)",
+            "Kyle Karros(0.697)",
+            "Adael Amador(0.980)",
+            "Troy Johnston(0.785)",
+            "Jordan Beck(0.488)",
+            "Ezequiel Tovar(0.580)"
+          ],
+          "lineup_players": [
+            {
+              "id": 664983,
+              "name": "Jake McCarthy",
+              "ops": 0.904,
+              "avg": 0.326
+            },
+            {
+              "id": 681393,
+              "name": "Connor Norby",
+              "ops": 0.659,
+              "avg": 0.219
+            },
+            {
+              "id": 694249,
+              "name": "Cole Carrigg",
+              "ops": 0.759,
+              "avg": 0.257
+            },
+            {
+              "id": 696100,
+              "name": "Hunter Goodman",
+              "ops": 0.635,
+              "avg": 0.132
+            },
+            {
+              "id": 691720,
+              "name": "Kyle Karros",
+              "ops": 0.697,
+              "avg": 0.156
+            },
+            {
+              "id": 691182,
+              "name": "Adael Amador",
+              "ops": 0.98,
+              "avg": 0.324
+            },
+            {
+              "id": 687859,
+              "name": "Troy Johnston",
+              "ops": 0.785,
+              "avg": 0.286
+            },
+            {
+              "id": 687597,
+              "name": "Jordan Beck",
+              "ops": 0.488,
+              "avg": 0.182
+            },
+            {
+              "id": 678662,
+              "name": "Ezequiel Tovar",
+              "ops": 0.58,
+              "avg": 0.269
+            }
+          ],
+          "bat_trend": "stable",
+          "last5_rpg": 5.0,
+          "last5_avg": 0.226,
           "home_split": {
             "recent_avg": 0.257,
             "runs_per_g": 4.5,
             "hr_per_g": 0.9,
-            "bb_per_g": 3.1,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 6.8,
-            "last5_avg": 0.294,
-            "bat_trend": "hot"
+            "n_games": 10
           },
           "away_split": {
             "recent_avg": 0.23,
             "runs_per_g": 3.4,
             "hr_per_g": 1.2,
-            "bb_per_g": 3.9,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 2.0,
-            "last5_avg": 0.193,
-            "bat_trend": "cold"
+            "n_games": 10
           }
         },
         "sit_score": 37.7,
-        "total": 34.1
+        "total": 36.8
       },
       "home": {
         "sp_score": 42.0,
@@ -1225,42 +1280,97 @@
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.178,
-          "runs_per_g": 2.8,
-          "hr_per_g": 0.6,
-          "bb_per_g": 2.6,
-          "season_ops": 0.72,
-          "season_avg": 0.25,
-          "season_slg": 0.4,
-          "n_games": 10,
-          "last5_rpg": 3.4,
-          "last5_avg": 0.185,
-          "bat_trend": "hot",
+          "recent_avg": 0.216,
+          "runs_per_g": 4.5,
+          "hr_per_g": 0.9,
+          "bb_per_g": 3.0,
+          "season_ops": 0.661,
+          "season_avg": 0.216,
+          "n_games": 9,
+          "source": "prev_day",
+          "handedness": "R",
+          "splits_used": false,
+          "lineup_ops": [
+            "Kevin McGonigle(0.764)",
+            "Gleyber Torres(0.774)",
+            "Colt Keith(0.618)",
+            "Riley Greene(0.903)",
+            "Dillon Dingler(0.574)",
+            "Max Clark(0.712)",
+            "John Peck(0.601)",
+            "Zach McKinstry(0.453)",
+            "Javier Báez(0.548)"
+          ],
+          "lineup_players": [
+            {
+              "id": 805808,
+              "name": "Kevin McGonigle",
+              "ops": 0.764,
+              "avg": 0.225
+            },
+            {
+              "id": 650402,
+              "name": "Gleyber Torres",
+              "ops": 0.774,
+              "avg": 0.343
+            },
+            {
+              "id": 690993,
+              "name": "Colt Keith",
+              "ops": 0.618,
+              "avg": 0.174
+            },
+            {
+              "id": 682985,
+              "name": "Riley Greene",
+              "ops": 0.903,
+              "avg": 0.278
+            },
+            {
+              "id": 693307,
+              "name": "Dillon Dingler",
+              "ops": 0.574,
+              "avg": 0.167
+            },
+            {
+              "id": 703601,
+              "name": "Max Clark",
+              "ops": 0.712,
+              "avg": 0.265
+            },
+            {
+              "id": 807726,
+              "name": "John Peck",
+              "ops": 0.601,
+              "avg": 0.24
+            },
+            {
+              "id": 656716,
+              "name": "Zach McKinstry",
+              "ops": 0.453,
+              "avg": 0.121
+            },
+            {
+              "id": 595879,
+              "name": "Javier Báez",
+              "ops": 0.548,
+              "avg": 0.13
+            }
+          ],
+          "bat_trend": "stable",
+          "last5_rpg": 4.4,
+          "last5_avg": 0.216,
           "home_split": {
             "recent_avg": 0.178,
             "runs_per_g": 2.8,
             "hr_per_g": 0.6,
-            "bb_per_g": 2.6,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 3.4,
-            "last5_avg": 0.185,
-            "bat_trend": "hot"
+            "n_games": 10
           },
           "away_split": {
             "recent_avg": 0.227,
             "runs_per_g": 4.1,
             "hr_per_g": 0.7,
-            "bb_per_g": 3.4,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 5.6,
-            "last5_avg": 0.255,
-            "bat_trend": "hot"
+            "n_games": 10
           }
         },
         "sit_score": 47.4,
@@ -1268,16 +1378,16 @@
       }
     },
     "scores": {
-      "away_offense": 25.0,
-      "away_defense": 31.1,
+      "away_offense": 31.5,
+      "away_defense": 32.1,
       "home_offense": 25.0,
       "home_defense": 51.3
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -1288,15 +1398,15 @@
     "model_winner": "Detroit Tigers",
     "model_correct": null,
     "notes": "Colorado Rockies IL: Chase Dollander, Jose Quintana, Kris Bryant, Kyle Freeland, McCade Brown 외 다수 / Detroit Tigers IL: Bailey Horn, Burch Smith, Jack Flaherty, Justin Verlander, Kerry Carpenter 외 다수",
-    "kalshi_prob": null,
-    "edge": null,
-    "value_bet": "⏭️ 패스 (라인업 미확정)",
+    "kalshi_prob": 62.0,
+    "edge": -1.4,
+    "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 0.4pt (≤5.0pt)",
+    "low_confidence_reason": "SP 점수 차이 1.0pt (≤5.0pt)",
     "model_version": "v13"
   },
   {
