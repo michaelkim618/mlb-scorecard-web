@@ -2997,9 +2997,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "New York Yankees",
     "model_winner": "New York Yankees",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Colorado Rockies IL: Chase Dollander, Jose Quintana, Kris Bryant, Kyle Freeland, McCade Brown 외 다수 / New York Yankees IL: Clarke Schmidt, Fernando Cruz, Giancarlo Stanton, Jazz Chisholm Jr., Kervin Castro 외 다수",
     "kalshi_prob": 72.0,
     "edge": -11.3,
@@ -3730,9 +3730,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Pittsburgh Pirates",
     "model_winner": "Pittsburgh Pirates",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Pittsburgh Pirates IL: Endy Rodríguez, Isaac Mattson, Kirby Yates, Mitch Keller, Ryan O'Hearn / Chicago White Sox IL: Brooks Baldwin, Drew Thorpe, Huascar Brazobán, Joey Bart, Jordan Leasure 외 다수",
     "kalshi_prob": 50.0,
     "edge": -2.7,
