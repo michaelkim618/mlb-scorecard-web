@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T04:54:48.381325+00:00",
+  "updated_at": "2026-09-11T05:44:45.504877+00:00",
   "news": [
     {
       "title": "From the couch to a playoff push, Jones delivers when Bucs need him",
@@ -12,7 +12,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-11T04:44:00+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Struggles finishing off hitters cuts Fried's outing short after 3 1/3",
@@ -25,20 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T04:20:57+00:00",
-      "time_ago": "33m ago"
-    },
-    {
-      "title": "'When America Took the Field' doc re-airing on MLB Network: Friday, Saturday, Sunday",
-      "link": "https://www.mlb.com/news/when-america-took-the-field-mlb-network-documentary",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qhudoi0kl2tffoxrucoy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Foster",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-11T03:59:00+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "After 'punch in the face,' White Sox prepared to fight back",
@@ -51,10 +38,10 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T03:59:00+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
-      "title": "Sept. 11 doc tells story of 'When America Took the Field'",
+      "title": "Sept. 11 doc on MLB Network tells story of 'When America Took the Field'",
       "link": "https://www.mlb.com/news/sept-11-documentary-when-america-took-the-field-premieres-in-new-york",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/i8tmracxxldgf6zl4nio",
@@ -64,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T03:58:50+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Can anyone catch The Miz in NL Cy Young race?",
@@ -104,6 +91,19 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T03:50:00+00:00",
       "time_ago": "1h ago"
+    },
+    {
+      "title": "Rays' clinch will have to wait after Martinez's gem goes for naught",
+      "link": "https://www.mlb.com/news/nick-martinez-6-1-3-scoreless-innings-rays-lose-to-braves",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hijoh9p21spdqofptuu9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-11T02:44:00+00:00",
+      "time_ago": "3h ago"
     }
   ]
 }
