@@ -340,7 +340,7 @@
       "home": 60.7
     },
     "expected_score": {
-      "away": 2.2,
+      "away": 2.1,
       "home": 2.8
     },
     "blend_detail": null,
@@ -430,7 +430,7 @@
           "closer_era": 3.08,
           "closer_name": "Gregory Soto"
         },
-        "bat_score": 33.3,
+        "bat_score": 31.799999999999997,
         "bat_detail": {
           "recent_avg": 0.253,
           "runs_per_g": 4.2,
@@ -526,7 +526,7 @@
           }
         },
         "sit_score": 48.0,
-        "total": 38.3
+        "total": 37.9
       },
       "home": {
         "sp_score": 50.0,
@@ -588,15 +588,15 @@
             }
           ]
         },
-        "bp_score": 56.5,
+        "bp_score": 56.2,
         "bp_detail": {
-          "bullpen_era": 3.76,
-          "recent_era": 3.14,
-          "recent_appearances": 16,
-          "recent_ip": 14.3,
-          "team_era": 4.1,
-          "bp_ip": 301.7,
-          "bp_count": 6,
+          "bullpen_era": 3.84,
+          "recent_era": 3.27,
+          "recent_appearances": 12,
+          "recent_ip": 11.0,
+          "team_era": 4.22,
+          "bp_ip": 253.3,
+          "bp_count": 5,
           "closer_era": 3.36,
           "closer_name": "Jacob Webb"
         },
@@ -696,14 +696,14 @@
           }
         },
         "sit_score": 57.8,
-        "total": 53.6
+        "total": 53.5
       }
     },
     "scores": {
-      "away_offense": 33.3,
+      "away_offense": 31.799999999999997,
       "away_defense": 37.6,
       "home_offense": 36.9,
-      "home_defense": 53.2
+      "home_defense": 53.1
     },
     "actual_score": {
       "away": 2,
@@ -719,7 +719,7 @@
     "actual_winner": "Chicago Cubs",
     "model_winner": "Chicago Cubs",
     "model_correct": true,
-    "notes": "Pittsburgh Pirates IL: Braxton Ashcraft, Endy Rodríguez, Isaac Mattson, Kirby Yates, Mitch Keller / Chicago Cubs IL: Ben Brown, Cade Horton, Dansby Swanson, Edward Cabrera, Gavin Hollowell 외 다수",
+    "notes": "Pittsburgh Pirates IL: Braxton Ashcraft, Endy Rodríguez, Esmerlyn Valdez, Isaac Mattson, Kirby Yates 외 다수 / Chicago Cubs IL: Ben Brown, Cade Horton, Dansby Swanson, Gavin Hollowell, Hunter Harvey 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
@@ -1025,7 +1025,7 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 43.9,
+        "sp_score": 43.7,
         "sp_detail": {
           "era": 3.38,
           "whip": 1.45,
@@ -1099,7 +1099,7 @@
             }
           ]
         },
-        "bp_score": 20.6,
+        "bp_score": 20.5,
         "bp_detail": {
           "bullpen_era": 4.93,
           "recent_era": 8.59,
@@ -1111,65 +1111,65 @@
           "closer_era": 4.88,
           "closer_name": "Jordan Romano"
         },
-        "bat_score": 28.0,
+        "bat_score": 27.4,
         "bat_detail": {
-          "recent_avg": 0.24,
-          "runs_per_g": 4.4,
+          "recent_avg": 0.237,
+          "runs_per_g": 4.3,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
           "season_ops": 0.708,
-          "season_avg": 0.24,
+          "season_avg": 0.237,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Jake McCarthy(0.904)",
-            "Connor Norby(0.669)",
-            "Cole Carrigg(0.794)",
-            "Hunter Goodman(0.607)",
-            "Kyle Karros(0.675)",
-            "Adael Amador(0.972)",
+            "Jake McCarthy(0.927)",
+            "Connor Norby(0.668)",
+            "Cole Carrigg(0.792)",
+            "Hunter Goodman(0.581)",
+            "Kyle Karros(0.680)",
+            "Adael Amador(0.986)",
             "Troy Johnston(0.697)",
-            "Jordan Beck(0.508)",
-            "Ezequiel Tovar(0.550)"
+            "Jordan Beck(0.454)",
+            "Ezequiel Tovar(0.585)"
           ],
           "lineup_players": [
             {
               "id": 664983,
               "name": "Jake McCarthy",
-              "ops": 0.904,
-              "avg": 0.364
+              "ops": 0.927,
+              "avg": 0.375
             },
             {
               "id": 681393,
               "name": "Connor Norby",
-              "ops": 0.669,
-              "avg": 0.219
+              "ops": 0.668,
+              "avg": 0.207
             },
             {
               "id": 694249,
               "name": "Cole Carrigg",
-              "ops": 0.794,
+              "ops": 0.792,
               "avg": 0.297
             },
             {
               "id": 696100,
               "name": "Hunter Goodman",
-              "ops": 0.607,
-              "avg": 0.105
+              "ops": 0.581,
+              "avg": 0.086
             },
             {
               "id": 691720,
               "name": "Kyle Karros",
-              "ops": 0.675,
-              "avg": 0.147
+              "ops": 0.68,
+              "avg": 0.156
             },
             {
               "id": 691182,
               "name": "Adael Amador",
-              "ops": 0.972,
-              "avg": 0.324
+              "ops": 0.986,
+              "avg": 0.333
             },
             {
               "id": 687859,
@@ -1180,19 +1180,19 @@
             {
               "id": 687597,
               "name": "Jordan Beck",
-              "ops": 0.508,
-              "avg": 0.217
+              "ops": 0.454,
+              "avg": 0.158
             },
             {
               "id": 678662,
               "name": "Ezequiel Tovar",
-              "ops": 0.55,
-              "avg": 0.24
+              "ops": 0.585,
+              "avg": 0.273
             }
           ],
           "bat_trend": "cold",
-          "last5_rpg": 3.4,
-          "last5_avg": 0.216,
+          "last5_rpg": 1.8,
+          "last5_avg": 0.203,
           "home_split": {
             "recent_avg": 0.257,
             "runs_per_g": 4.5,
@@ -1200,17 +1200,17 @@
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.237,
-            "runs_per_g": 3.3,
-            "hr_per_g": 1.0,
+            "recent_avg": 0.24,
+            "runs_per_g": 3.0,
+            "hr_per_g": 0.9,
             "n_games": 10
           }
         },
         "sit_score": 33.4,
-        "total": 33.2
+        "total": 33.0
       },
       "home": {
-        "sp_score": 48.6,
+        "sp_score": 48.7,
         "sp_detail": {
           "era": 3.86,
           "whip": 1.45,
@@ -1277,37 +1277,37 @@
             }
           ]
         },
-        "bp_score": 61.7,
+        "bp_score": 61.9,
         "bp_detail": {
-          "bullpen_era": 3.66,
+          "bullpen_era": 3.65,
           "recent_era": 2.0,
-          "recent_appearances": 21,
-          "recent_ip": 21.0,
-          "team_era": 3.61,
-          "bp_ip": 349.3,
+          "recent_appearances": 22,
+          "recent_ip": 22.0,
+          "team_era": 3.6,
+          "bp_ip": 350.3,
           "bp_count": 10,
           "closer_era": 3.6,
           "closer_name": "Kenley Jansen"
         },
-        "bat_score": 25.0,
+        "bat_score": 25.3,
         "bat_detail": {
-          "recent_avg": 0.218,
-          "runs_per_g": 5.0,
+          "recent_avg": 0.23,
+          "runs_per_g": 4.8,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.677,
-          "season_avg": 0.218,
+          "season_ops": 0.693,
+          "season_avg": 0.23,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Kevin McGonigle(0.738)",
+            "Kevin McGonigle(0.792)",
             "Gleyber Torres(0.741)",
-            "Colt Keith(0.605)",
+            "Colt Keith(0.652)",
             "Riley Greene(1.031)",
             "Dillon Dingler(0.617)",
-            "Max Clark(0.823)",
+            "Max Clark(0.864)",
             "John Peck(0.603)",
             "Zach McKinstry(0.475)",
             "Javier Báez(0.458)"
@@ -1316,8 +1316,8 @@
             {
               "id": 805808,
               "name": "Kevin McGonigle",
-              "ops": 0.738,
-              "avg": 0.2
+              "ops": 0.792,
+              "avg": 0.243
             },
             {
               "id": 650402,
@@ -1328,8 +1328,8 @@
             {
               "id": 690993,
               "name": "Colt Keith",
-              "ops": 0.605,
-              "avg": 0.167
+              "ops": 0.652,
+              "avg": 0.2
             },
             {
               "id": 682985,
@@ -1346,8 +1346,8 @@
             {
               "id": 703601,
               "name": "Max Clark",
-              "ops": 0.823,
-              "avg": 0.303
+              "ops": 0.864,
+              "avg": 0.333
             },
             {
               "id": 807726,
@@ -1369,11 +1369,11 @@
             }
           ],
           "bat_trend": "cold",
-          "last5_rpg": 4.4,
-          "last5_avg": 0.191,
+          "last5_rpg": 4.0,
+          "last5_avg": 0.21,
           "home_split": {
-            "recent_avg": 0.175,
-            "runs_per_g": 2.9,
+            "recent_avg": 0.178,
+            "runs_per_g": 2.8,
             "hr_per_g": 0.7,
             "n_games": 10
           },
@@ -1385,14 +1385,14 @@
           }
         },
         "sit_score": 47.4,
-        "total": 45.4
+        "total": 45.6
       }
     },
     "scores": {
-      "away_offense": 28.0,
-      "away_defense": 32.2,
-      "home_offense": 25.0,
-      "home_defense": 55.2
+      "away_offense": 27.4,
+      "away_defense": 32.1,
+      "home_offense": 25.3,
+      "home_defense": 55.3
     },
     "actual_score": {
       "away": 2,
@@ -1417,7 +1417,7 @@
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 4.7pt (≤5.0pt)",
+    "low_confidence_reason": "SP 점수 차이 5.0pt (≤5.0pt)",
     "model_version": "v14"
   },
   {

@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-12T16:58:41.849680+00:00",
+  "updated_at": "2026-09-12T17:27:06.909357+00:00",
   "news": [
+    {
+      "title": "Rodón on a Yanks run more than 100 years in the making",
+      "link": "https://www.mlb.com/news/carlos-rodon-strong-results-in-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pkb2oq1ojfypnjtab41f",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-12T16:56:11+00:00",
+      "time_ago": "30m ago"
+    },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
       "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
@@ -12,7 +25,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-12T16:25:00+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "TWIB: Judge's return comes at perfect time for Yanks",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-12T16:01:11+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "200 K's, but that's not Montgomery's identity for White Sox",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-12T16:00:00+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Underselling? Overselling? Let's break down World Series odds",
@@ -64,7 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-12T07:05:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "D-backs keep pace -- and make history -- in rout of Rangers",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-12T06:25:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "With playoff-clinching blast, Caminero proves once again he's 'built for the moment'",
@@ -90,20 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-12T06:01:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Bats back Bassitt vs. Mad Max as O's climb AL Wild Card picture",
-      "link": "https://www.mlb.com/news/chris-bassitt-earns-key-orioles-win-over-blue-jays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/l4ong1bxqb9tm1dc6wae",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matt Betts",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-12T06:01:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     }
   ]
 }
