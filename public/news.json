@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-12T12:00:05.464878+00:00",
+  "updated_at": "2026-09-12T16:08:53.469274+00:00",
   "news": [
+    {
+      "title": "TWIB: Judge's return comes at perfect time for Yanks",
+      "link": "https://www.mlb.com/news/this-week-in-baseball-aaron-judge-returns-from-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nnnjujesfvntm1u3qsgs",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-12T16:01:11+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "200 K's, but that's not Montgomery's identity for White Sox",
+      "link": "https://www.mlb.com/news/colson-montgomery-not-defined-by-200-strikeouts-in-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cgtmunsaailcsksvw6up",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-12T16:00:00+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Underselling? Overselling? Let's break down World Series odds",
+      "link": "https://www.mlb.com/news/assessing-teams-odds-of-winning-world-series-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aqxbgqoehyadkitblhyu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-12T14:30:00+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "With 5th straight win, Padres making Wild Card race interesting",
       "link": "https://www.mlb.com/news/padres-beat-giants-for-5th-straight-win-to-keep-wild-card-lead",
@@ -12,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-12T07:05:00+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "D-backs keep pace -- and make history -- in rout of Rangers",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-12T06:25:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "With playoff-clinching blast, Caminero proves once again he's 'built for the moment'",
@@ -38,7 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-12T06:01:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "Bats back Bassitt vs. Mad Max as O's climb AL Wild Card picture",
@@ -51,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-12T06:01:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "After two-year absence, Rays first to punch ticket to postseason",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-12T06:00:00+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Belli -- whose dad, a Yankee in '01, became a firefighter -- does him proud on special day",
-      "link": "https://www.mlb.com/news/cody-bellinger-three-run-homer-helps-yankees-beat-mets",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789177952/mlb/pmfdlwmib4ajvffphnj6",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-12T05:59:00+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Braves rally in 9th, 10th and 11th(!) to bump lead over Phils to 5 games",
-      "link": "https://www.mlb.com/news/drake-baldwin-hits-walk-off-rbi-double-in-11th-inning-after-braves-rallies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789186054/mlb/uvwzuxqndpyhkqfxmdvr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-12T05:56:00+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "White Sox drop fourth straight as division lead is down to a half-game",
-      "link": "https://www.mlb.com/news/white-sox-see-al-central-lead-reduced-to-a-half-game-with-loss",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xbd2ondrlkgc7hep8brq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-12T05:56:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "10h ago"
     }
   ]
 }

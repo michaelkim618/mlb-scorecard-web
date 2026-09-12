@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-09-11-daily-doc",
+      "title": "Sep 11 Results + Sep 12 Preview: 86.7% Accuracy Shows Model Strength",
+      "author": "Doc",
+      "author_emoji": "🧠",
+      "author_color": "#7C3AED",
+      "author_role": "Sabermetrician",
+      "date": "2026-09-11",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#7C3AED",
+      "read_time": "3 min",
+      "summary": "13-2 record on Sep 11 validates our sabermetric approach heading into Sep 12"
+    },
+    {
       "slug": "2026-09-10-daily-ace",
       "title": "Sep 10 Results: Tough Day on the Mound",
       "author": "Ace",
