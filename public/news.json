@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-12T23:07:10.266138+00:00",
+  "updated_at": "2026-09-12T23:33:03.963457+00:00",
   "news": [
+    {
+      "title": "Blue Jays play with sense of urgency to gain in AL Wild Card chase",
+      "link": "https://www.mlb.com/news/brett-bateman-spencer-miles-help-blue-jays-beat-orioles",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/u9kuhxjzddsxhobkgwk0",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-12T23:12:00+00:00",
+      "time_ago": "21m ago"
+    },
     {
       "title": "Emmanuel Rodriguez's 'pretty hectic' day continues with homer in first AB",
       "link": "https://www.mlb.com/news/emmanuel-rodriguez-called-up-by-twins",
@@ -12,20 +25,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-12T22:57:00+00:00",
-      "time_ago": "10m ago"
-    },
-    {
-      "title": "Jays keep postseason hopes alive with critical win vs. O's",
-      "link": "https://www.mlb.com/news/brett-bateman-spencer-miles-help-blue-jays-beat-orioles",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/u9kuhxjzddsxhobkgwk0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-12T22:55:00+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "36m ago"
     },
     {
       "title": "Matthew Lugo reflects on time with Red Sox, opportunity with Royals",
@@ -38,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-12T22:46:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "Suarez turns in second straight 7-inning gem in Red Sox win",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-12T22:44:07+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "Thornton takes care of Judge, then takes charge to evade key jam in Mets' rout",
@@ -64,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-12T22:34:00+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "Injuries: Luzardo, Buxton, Yordan, McClanahan, Dodgers, Wetherholt",
@@ -77,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-12T22:33:00+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Correa could see time at 2B upon return from ankle injury",
@@ -90,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-12T22:23:32+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Betts hits Dodgers' 10,000th home run since moving to LA in 1958",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-12T22:15:00+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
