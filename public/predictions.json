@@ -2170,9 +2170,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Chicago Cubs",
     "model_winner": "Chicago Cubs",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Pittsburgh Pirates IL: Braxton Ashcraft, Endy Rodríguez, Esmerlyn Valdez, Isaac Mattson, Kirby Yates 외 다수 / Chicago Cubs IL: Ben Brown, Cade Horton, Dansby Swanson, Gavin Hollowell, Hunter Harvey 외 다수",
     "kalshi_prob": 63.0,
     "edge": -1.6,

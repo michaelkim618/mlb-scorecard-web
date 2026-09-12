@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-12T20:28:32.819899+00:00",
+  "updated_at": "2026-09-12T20:44:48.028340+00:00",
   "news": [
+    {
+      "title": "Cole bitten by homer bug for second straight start",
+      "link": "https://www.mlb.com/news/gerrit-cole-allows-three-home-runs-to-mets",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/euqmbb18winn0p76lato",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-12T20:31:51+00:00",
+      "time_ago": "12m ago"
+    },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
       "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
@@ -12,7 +25,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-12T20:20:00+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "24m ago"
     },
     {
       "title": "Cabrera returns from IL ready to step up in new role out of Cubs' 'pen",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-12T17:35:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Bucs' offense dealt blow as Valdez (left hamstring strain) heads to IL",
@@ -91,19 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-12T16:56:11+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "TWIB: Judge's return comes at perfect time for Yanks",
-      "link": "https://www.mlb.com/news/this-week-in-baseball-aaron-judge-returns-from-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nnnjujesfvntm1u3qsgs",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-12T16:01:11+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }
