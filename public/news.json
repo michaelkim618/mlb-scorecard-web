@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-11T23:40:58.311244+00:00",
+  "updated_at": "2026-09-12T00:25:30.592092+00:00",
   "news": [
+    {
+      "title": "Buxton to undergo season-ending hip surgery next week",
+      "link": "https://www.mlb.com/news/byron-buxton-season-ending-hip-surgery",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sx8jcma1ihkiwik4x5vi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-11T23:51:00+00:00",
+      "time_ago": "34m ago"
+    },
     {
       "title": "Thomas placed on IL after straining intercostal muscle while taking BP on Thursday",
       "link": "https://www.mlb.com/news/lane-thomas-placed-on-braves-injured-list",
@@ -12,7 +25,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-11T23:24:00+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Helsley, Bautista take next rehab steps toward return to O's bullpen",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T23:20:32+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Freeman misses 2nd consecutive game with right knee soreness",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T23:13:11+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Could Yesavage return to aid Blue Jays' playoff push?",
@@ -51,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-11T23:11:18+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "After slow start to '26, Bregman continues to be one of NL's best with bat and glove",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T23:02:00+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "MVP front-runner Alvarez out of lineup after twisting right ankle",
@@ -77,7 +90,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-09-11T22:52:22+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Steer (right wrist sprain) cleared to increase activities, but likely won't return in 2026",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T22:50:41+00:00",
-      "time_ago": "50m ago"
-    },
-    {
-      "title": "Jiménez's long journey back to mound takes crucial, emotional step with live BP",
-      "link": "https://www.mlb.com/news/joe-jimenez-throws-bullpen-session-at-truist-park",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/meiozaxtmr8hb1mhqkeo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-11T22:43:15+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
