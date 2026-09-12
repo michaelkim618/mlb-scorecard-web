@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-12T18:04:24.889038+00:00",
+  "updated_at": "2026-09-12T18:40:00.405352+00:00",
   "news": [
+    {
+      "title": "Cabrera returns from IL ready to step up in new role out of Cubs' 'pen",
+      "link": "https://www.mlb.com/news/edward-cabrera-cubs-bullpen-activated-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eg0docfiph4r0e4pj3zq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-12T18:25:24+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "Schmidt to make 5th rehab outing as Yanks return nears",
+      "link": "https://www.mlb.com/news/clarke-schmidt-fifth-outing-minor-league-rehab-assignment",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/o8bcq0ei8dodz63hbfpa",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-12T18:00:01+00:00",
+      "time_ago": "39m ago"
+    },
     {
       "title": "Are we witnessing the most unique batting title race in history?",
       "link": "https://www.mlb.com/news/yordan-alvarez-and-chandler-simpson-in-unique-al-batting-title-race",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-12T17:35:00+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Bucs' offense dealt blow as Valdez (left hamstring strain) heads to IL",
@@ -25,7 +51,20 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-12T17:25:55+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Injuries: Luzardo, Buxton, Yordan, McClanahan, Dodgers, Wetherholt",
+      "link": "https://www.mlb.com/news/baseball-injury-updates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788810307/mlb/qkutsikufjcttn5kpdre",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-12T17:16:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Rodón on a Yanks run more than 100 years in the making",
@@ -51,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-12T16:25:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "TWIB: Judge's return comes at perfect time for Yanks",
@@ -65,45 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-12T16:01:11+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "200 K's, but that's not Montgomery's identity for White Sox",
-      "link": "https://www.mlb.com/news/colson-montgomery-not-defined-by-200-strikeouts-in-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cgtmunsaailcsksvw6up",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-12T16:00:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Underselling? Overselling? Let's break down World Series odds",
-      "link": "https://www.mlb.com/news/assessing-teams-odds-of-winning-world-series-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aqxbgqoehyadkitblhyu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-12T14:30:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "With 5th straight win, Padres making Wild Card race interesting",
-      "link": "https://www.mlb.com/news/padres-beat-giants-for-5th-straight-win-to-keep-wild-card-lead",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y6u6q4s6s4yp9axvv7p8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-12T07:05:00+00:00",
-      "time_ago": "10h ago"
     }
   ]
 }

@@ -1,0 +1,129 @@
+{
+  "predictions": [
+    "13:05"
+  ],
+  "results": false,
+  "lineup_refreshed": [
+    "10:10"
+  ],
+  "predictions_frozen": [
+    "10:10",
+    "13:05"
+  ],
+  "frozen_predictions": {
+    "10:10": [
+      {
+        "game_pk": "824224",
+        "win_prob": {
+          "away": 37.0,
+          "home": 63.0
+        },
+        "model_winner": "Detroit Tigers",
+        "value_bet": "⏭️ 패스 (불펜전 — 양팀 선발 Cold, 예측 신뢰 낮음)",
+        "edge": 9.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "SP 점수 차이 0.0pt (≤5.0pt)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823496",
+        "win_prob": {
+          "away": 38.6,
+          "home": 61.4
+        },
+        "model_winner": "New York Yankees",
+        "value_bet": "⚠️ 극단적 edge +37.4%p — 마켓 데이터 이상 의심, VB 신중 검토 (New York Yankees)",
+        "edge": 37.4,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": true
+      }
+    ],
+    "13:05": [
+      {
+        "game_pk": "822685",
+        "win_prob": {
+          "away": 54.5,
+          "home": 45.5
+        },
+        "model_winner": "Los Angeles Angels",
+        "value_bet": "⏭️ 패스 (SP↔BAT충돌+시장역방향 edge -7.5%p — 신뢰불가)",
+        "edge": -7.5,
+        "sp_bat_conflict": true,
+        "sp_bat_conflict_detail": {
+          "sp_favors": "Los Angeles Angels",
+          "bat_favors": "Washington Nationals",
+          "sp_gap": 25.4,
+          "bat_gap": -12.3
+        },
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823170",
+        "win_prob": {
+          "away": 61.4,
+          "home": 38.6
+        },
+        "model_winner": "San Diego Padres",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 1.6,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "824712",
+        "win_prob": {
+          "away": 41.8,
+          "home": 58.2
+        },
+        "model_winner": "Boston Red Sox",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -7.8,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823657",
+        "win_prob": {
+          "away": 48.0,
+          "home": 52.0
+        },
+        "model_winner": "Minnesota Twins",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 2.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823819",
+        "win_prob": {
+          "away": 63.0,
+          "home": 37.0
+        },
+        "model_winner": "Los Angeles Dodgers",
+        "value_bet": "⭐ 고신뢰 예측 — 모델·시장 동의 (Los Angeles Dodgers 63%)",
+        "edge": -2.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "SP 점수 차이 3.4pt (≤5.0pt)",
+        "extreme_edge": false
+      }
+    ]
+  }
+}
