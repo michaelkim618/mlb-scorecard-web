@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-12T20:44:48.028340+00:00",
+  "updated_at": "2026-09-12T21:20:34.207981+00:00",
   "news": [
+    {
+      "title": "Thornton takes care of Judge, then takes charge to evade key jam in Mets' rout",
+      "link": "https://www.mlb.com/news/zac-thornton-francisco-lindor-help-mets-beat-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kni2zshz4anesy5aiezd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-12T20:52:14+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "Tigers go wild with 7-run 8th inning to steal victory from Rockies",
+      "link": "https://www.mlb.com/news/tigers-seven-run-eighth-beat-rockies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ehdn6pd2z6xzuykld5cq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-12T20:43:28+00:00",
+      "time_ago": "37m ago"
+    },
+    {
+      "title": "Matthew Lugo reflects on time with Red Sox, opportunity with Royals",
+      "link": "https://www.mlb.com/news/matthew-lugo-returns-to-fenway-park-with-royals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gv3wkicfcywwj50d0apm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Crowley",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-12T20:41:00+00:00",
+      "time_ago": "39m ago"
+    },
     {
       "title": "Cole bitten by homer bug for second straight start",
       "link": "https://www.mlb.com/news/gerrit-cole-allows-three-home-runs-to-mets",
@@ -12,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-12T20:31:51+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -25,7 +64,20 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-12T20:20:00+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Twins call up outfield prospect Emmanuel Rodriguez",
+      "link": "https://www.mlb.com/news/emmanuel-rodriguez-called-up-by-twins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rnqq0s6fuuep1ud5tn28",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theodore Tollefson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-12T19:38:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Cabrera returns from IL ready to step up in new role out of Cubs' 'pen",
@@ -51,58 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-12T18:00:01+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Are we witnessing the most unique batting title race in history?",
-      "link": "https://www.mlb.com/news/yordan-alvarez-and-chandler-simpson-in-unique-al-batting-title-race",
-      "summary": "Alvarez and Simpson chasing batting crown in very different ways",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a18wimfk0hlz3y3mj7is",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-12T17:35:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Bucs' offense dealt blow as Valdez (left hamstring strain) heads to IL",
-      "link": "https://www.mlb.com/news/esmerlyn-valdez-injured-list-left-hamstring",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789233939/mlb/vaajykqq8yt6rzkhfp12",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-12T17:25:55+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Injuries: Luzardo, Buxton, Yordan, McClanahan, Dodgers, Wetherholt",
-      "link": "https://www.mlb.com/news/baseball-injury-updates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788810307/mlb/qkutsikufjcttn5kpdre",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-12T17:16:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Rodón on a Yanks run more than 100 years in the making",
-      "link": "https://www.mlb.com/news/carlos-rodon-strong-results-in-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pkb2oq1ojfypnjtab41f",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-12T16:56:11+00:00",
       "time_ago": "3h ago"
     }
   ]
