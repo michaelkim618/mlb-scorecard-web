@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-09-12T04:46:40.291765+00:00",
+  "updated_at": "2026-09-12T05:31:31.948707+00:00",
   "news": [
+    {
+      "title": "After slow start to '26, Bregman continues to be one of NL's best with bat and glove",
+      "link": "https://www.mlb.com/news/alex-bregman-hits-25th-home-run-3-hit-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/htoqu0yhh3tu6jhnclbr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-12T05:26:00+00:00",
+      "time_ago": "5m ago"
+    },
+    {
+      "title": "With playoff-clinching blast, Caminero proves once again he's 'built for the moment'",
+      "link": "https://www.mlb.com/news/junior-caminero-hits-walk-off-homer-to-put-rays-in-2026-postseason",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789181147/mlb/vhw4xwxvvmtk6pqvyauo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-12T04:58:57+00:00",
+      "time_ago": "32m ago"
+    },
+    {
+      "title": "Underselling? Overselling? Let's break down World Series odds",
+      "link": "https://www.mlb.com/news/assessing-teams-odds-of-winning-world-series-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aqxbgqoehyadkitblhyu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-12T04:58:44+00:00",
+      "time_ago": "32m ago"
+    },
+    {
+      "title": "Rangers let things get out of control for 2nd straight night",
+      "link": "https://www.mlb.com/news/mackenzie-gore-rangers-can-t-stop-diamondbacks-rally-in-loss",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789187811/mlb/qbt2ybd5qtuiat5g4pbk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kennedi Landry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-12T04:53:50+00:00",
+      "time_ago": "37m ago"
+    },
+    {
+      "title": "Walks prove costly as Twins lose crucial game vs. Guardians amid Wild Card race",
+      "link": "https://www.mlb.com/news/twins-lose-series-opener-to-guardians",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dldlqciqtqd4ghll0rbx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-12T04:51:00+00:00",
+      "time_ago": "40m ago"
+    },
+    {
+      "title": "D-backs keep pace -- and make history -- in rout of Rangers",
+      "link": "https://www.mlb.com/news/dbacks-stay-in-wild-card-race-with-win-over-rangers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789186923/mlb/ooyawkwemw4sfsn1wuw8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Steve Gilbert",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-12T04:49:16+00:00",
+      "time_ago": "42m ago"
+    },
     {
       "title": "Bats back Bassitt vs. Mad Max as O's climb AL Wild Card picture",
       "link": "https://www.mlb.com/news/chris-bassitt-earns-key-orioles-win-over-blue-jays",
@@ -12,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-12T04:38:00+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "Bit of trust, adjustments fuel Tucker's grand show as postseason nears for LA",
@@ -25,85 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-12T04:35:00+00:00",
-      "time_ago": "11m ago"
-    },
-    {
-      "title": "White Sox drop fourth straight as division lead is down to a half-game",
-      "link": "https://www.mlb.com/news/white-sox-see-al-central-lead-reduced-to-a-half-game-with-loss",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xbd2ondrlkgc7hep8brq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-12T04:34:53+00:00",
-      "time_ago": "11m ago"
-    },
-    {
-      "title": "Brewers' Lara makes catch so good it fools everybody",
-      "link": "https://www.mlb.com/news/luis-lara-makes-incredible-home-run-robbery-for-brewers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/h9bwcc9zrywzha2bey9t",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-12T04:31:00+00:00",
-      "time_ago": "15m ago"
-    },
-    {
-      "title": "Martinez joins D-backs history with immaculate inning",
-      "link": "https://www.mlb.com/news/justin-martinez-throws-immaculate-innings-against-rangers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789185127/mlb/bmjyitedfhp57mvnixmd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-12T04:26:08+00:00",
-      "time_ago": "20m ago"
-    },
-    {
-      "title": "Luzardo scratched from Saturday start with left shoulder stiffness",
-      "link": "https://www.mlb.com/news/jesus-luzardo-scratched-from-start-vs-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qhfmmiwf0lt2sth8knh4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-12T04:18:14+00:00",
-      "time_ago": "28m ago"
-    },
-    {
-      "title": "Are we witnessing the most unique batting title race in history?",
-      "link": "https://www.mlb.com/news/yordan-alvarez-and-chandler-simpson-in-unique-al-batting-title-race",
-      "summary": "Alvarez and Simpson chasing batting crown in very different ways",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a18wimfk0hlz3y3mj7is",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-12T04:03:02+00:00",
-      "time_ago": "43m ago"
-    },
-    {
-      "title": "After two-year absence, Rays first to punch ticket to postseason",
-      "link": "https://www.mlb.com/news/rays-clinch-2026-playoff-berth",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yr2peh43yn3xcw5x5mxv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-12T03:47:00+00:00",
-      "time_ago": "59m ago"
+      "time_ago": "56m ago"
     }
   ]
 }

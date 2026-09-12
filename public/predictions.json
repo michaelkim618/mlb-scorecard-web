@@ -9339,9 +9339,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Athletics",
     "model_winner": "Seattle Mariners",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Seattle Mariners IL: Brendan Donovan, Brennen Davis, Cole Wilcox, Colt Emerson, Emerson Hancock 외 다수 / Athletics IL: Brent Rooker, Brooks Kriske, Gunnar Hoglund, J.T. Ginn, Jacob Wilson 외 다수",
     "kalshi_prob": null,
     "edge": null,
@@ -10578,9 +10578,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "San Diego Padres",
     "model_winner": "San Francisco Giants",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "San Diego Padres IL: Bryan Hoeing, Gavin Sheets, Jason Adam, Jeremiah Estrada, Joe Musgrove 외 다수 / San Francisco Giants IL: Adrian Houser, Carson Whisenhunt, Casey Schmitt, Daniel Susac, Harrison Bader 외 다수",
     "kalshi_prob": null,
     "edge": null,
