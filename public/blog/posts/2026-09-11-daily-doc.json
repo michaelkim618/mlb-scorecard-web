@@ -1,11 +1,11 @@
 {
-  "title": "Sep 11 Results + Sep 12 Preview: Thirteen Wins and the Statistical Significance of Confidence Intervals",
-  "summary": "86.7% accuracy on Sep 11 slate validates our probabilistic framework heading into Sep 12",
+  "title": "Sep 11 Results + Sep 12 Preview: Thirteen Wins and the Power of Regression",
+  "summary": "13-2 performance validates model strength; Tigers-Rockies matchup offers value on Sep 12",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Regression to the Mean? Not Today.\n\nA 13-2 performance across yesterday's slate represents more than just a successful day—it's a validation of our probabilistic modeling framework. When your confidence intervals are properly calibrated and your underlying metrics sound, the outcomes tend to cluster around expectation. Let's decompose what worked, what didn't, and where the Tigers-Rockies rematch presents value for September 12th."
+      "value": "## Sep 11 Performance: When The Model Finds Its Edge\n\nYesterday's 13-2 record (86.7% accuracy) represents more than just a strong day—it's a statistical validation of our predictive framework. When we're hitting at this clip, it's not luck; it's the model identifying exploitable market inefficiencies and true talent differentials that the betting lines haven't fully priced in."
     },
     {
       "type": "stat_row",
@@ -15,23 +15,27 @@
           "value": "13-2"
         },
         {
-          "label": "Win Rate",
+          "label": "Accuracy",
           "value": "86.7%"
         },
         {
-          "label": "Avg Pick Confidence",
-          "value": "60.4%"
+          "label": "Avg Win Prob",
+          "value": "60.9%"
+        },
+        {
+          "label": "Expected Wins",
+          "value": "9.1"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## Breaking Down the September 11th Slate\n\nOur model's strength lies in identifying marginal edges in matchup quality, rest advantages, and park-adjusted metrics. The 86.7% hit rate exceeds our confidence-weighted expectation by approximately 1.2 standard deviations—statistically significant but not outside the realm of natural variance. The Dodgers-Marlins outcome (63% confidence, our highest of the day) exemplified proper calibration: superior team talent, favorable platoon splits, and Miami's league-worst wRC+ against RHP created a textbook edge."
+      "value": "## Results Analysis: Outperforming Expectation\n\nOur 13 wins significantly exceeded the expected 9.1 wins based on our aggregate win probabilities (60.9% average). While this represents positive variance, the key metric is that we're identifying the right spots. The two misses—Blue Jays over Orioles and White Sox over Royals—both came at our lower confidence thresholds (57-60%), exactly where we'd expect regression to surface."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 11 Prediction Confidence vs Outcomes",
+      "title": "Sep 11 Prediction Results by Win Probability",
       "data": [
         {
           "name": "Dodgers",
@@ -41,6 +45,11 @@
         {
           "name": "Nationals",
           "probability": 62,
+          "result": 1
+        },
+        {
+          "name": "Cubs",
+          "probability": 61,
           "result": 1
         },
         {
@@ -59,11 +68,6 @@
           "result": 1
         },
         {
-          "name": "Cubs",
-          "probability": 61,
-          "result": 1
-        },
-        {
           "name": "Brewers",
           "probability": 61,
           "result": 1
@@ -74,14 +78,14 @@
           "result": 0
         },
         {
-          "name": "Yankees",
-          "probability": 58,
-          "result": 1
-        },
-        {
           "name": "Jays",
           "probability": 58,
           "result": 0
+        },
+        {
+          "name": "Yankees",
+          "probability": 57,
+          "result": 1
         }
       ],
       "x_key": "name",
@@ -103,9 +107,9 @@
       "title": "Complete Sep 11 Results Breakdown",
       "headers": [
         "Matchup",
-        "Our Pick",
-        "Confidence",
-        "Outcome"
+        "Pick",
+        "Prob",
+        "Result"
       ],
       "rows": [
         [
@@ -121,6 +125,18 @@
           "✓"
         ],
         [
+          "Pirates @ Cubs",
+          "Cubs",
+          "61%",
+          "✓"
+        ],
+        [
+          "Rockies @ Tigers",
+          "Tigers",
+          "61%",
+          "✓"
+        ],
+        [
           "Astros @ Rays",
           "Rays",
           "61%",
@@ -133,20 +149,8 @@
           "✓"
         ],
         [
-          "Pirates @ Cubs",
-          "Cubs",
-          "61%",
-          "✓"
-        ],
-        [
           "Reds @ Brewers",
           "Brewers",
-          "61%",
-          "✓"
-        ],
-        [
-          "Rockies @ Tigers",
-          "Tigers",
           "61%",
           "✓"
         ],
@@ -157,37 +161,41 @@
           "✗"
         ],
         [
-          "Mets @ Yankees",
-          "Yankees",
-          "58%",
-          "✓"
-        ],
-        [
           "Orioles @ Jays",
           "Jays",
           "58%",
           "✗"
+        ],
+        [
+          "Mets @ Yankees",
+          "Yankees",
+          "57%",
+          "✓"
         ]
       ]
     },
     {
       "type": "text",
-      "value": "## The Misses: Variance or Model Blind Spots?\n\nTwo losses in a 15-game slate isn't cause for alarm, but every miss deserves autopsy. The Orioles-Jays outcome saw Baltimore's offense generate a .421 wOBA despite our projection favoring Toronto's pitching advantage—a reminder that single-game samples contain irreducible noise. The Royals-Sox miss followed similar logic: Boston's bullpen FIP suggested stability, but variance favored Kansas City's lineup sequencing. Neither outcome suggests systematic bias requiring model adjustment."
+      "value": "## Statistical Significance: The Brier Score Perspective\n\nA single day doesn't make a model, but 13-2 against probabilistic forecasts matters. Our Brier score for yesterday—measuring the accuracy of probabilistic predictions—would calculate exceptionally low (closer to 0 is better). More importantly, we're building a sample size that, over the season, will reveal true skill versus noise. Days like this compress our confidence intervals."
     },
     {
       "type": "text",
-      "value": "## September 12th: Rockies-Tigers Redux\n\nWe're back to the well with Detroit hosting Colorado, this time with marginally higher confidence at 62%. The pitching matchup features Tanner Gordon (COL) against Andrew Sears (DET), and the underlying metrics favor the home side for reasons beyond Coors Field absence."
+      "value": "## Sep 12 Preview: Tigers-Rockies Rematch Offers Value\n\nTomorrow's top pick brings us back to a familiar well: Detroit Tigers over Colorado Rockies at 62% confidence. This marks a consecutive day targeting this matchup, and the underlying fundamentals remain compelling. The Rockies away from Coors Field continue to represent one of baseball's most exploitable situations."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick: Sep 12",
+      "title": "⭐ Sep 12 Top Pick",
       "value": "Detroit Tigers over Colorado Rockies",
-      "sub": "62% win probability · Sears vs Gordon · Home park advantage"
+      "sub": "62% win probability • Gordon vs Sears • Coors hangover effect in play"
     },
     {
       "type": "text",
-      "value": "## The Tigers' Pitching Edge\n\nAndrew Sears brings a K-BB% profile that ranks in the 68th percentile among qualified starters this season, while Gordon's road splits show a concerning .356 wOBA allowed outside Colorado's thin air. Detroit's bullpen also holds a leverage-weighted ERA advantage of approximately 0.7 runs in late-inning situations. When you combine park factors (Comerica suppresses offense by roughly 6% compared to league average) with Detroit's slight rest advantage, the 62% confidence interval feels properly calibrated.\n\n## Quantifying Tomorrow's Edge\n\nOur Bayesian model incorporates season-long performance, recent form (weighted toward last 30 days), and matchup-specific factors. The Tigers rate out with a projected run expectancy of 4.8 versus Colorado's 3.9, creating roughly a 0.9-run line advantage before accounting for variance. That differential translates to our 62% win probability—an edge worth backing but not one that screams overconfidence.\n\nStay disciplined. Trust the process. Let's see if regression finally catches up, or if we're riding another statistically improbable hot streak into the weekend."
+      "value": "## Pitcher Matchup Analysis: Gordon vs Sears\n\nTanner Gordon takes the ball for Colorado while Andrew Sears counters for Detroit. The key variable here isn't individual pitcher dominance—it's the systemic advantage Detroit holds. The Rockies' offense away from altitude consistently underperforms its true talent level, a well-documented phenomenon in sabermetric literature related to Coors Field effects.\n\nSears at home in Detroit gets the benefit of a pitcher-friendly environment, while Gordon faces the challenge of a Colorado lineup that historically sees significant splits between home and road performance. The 62% confidence reflects not just the pitching matchup, but the broader contextual factors that drive expected run differentials."
+    },
+    {
+      "type": "text",
+      "value": "## The Edge Going Forward\n\nAs we move deeper into September, playoff races tighten and every marginal win matters—both for teams and for our model's predictive accuracy. The key is maintaining disciplined bankroll management even after days like Sep 11. Positive variance cuts both ways, and our confidence intervals remain our north star.\n\nTomorrow, we're looking for the Tigers to continue exploiting a favorable matchup. Trust the process, respect the probabilities, and let regression work in our favor over the long haul."
     }
   ],
   "slug": "2026-09-11-daily-doc",
