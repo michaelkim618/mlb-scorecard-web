@@ -11419,6 +11419,28 @@
       "away_bp_score": 45.3,
       "home_bp_score": 56.2,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-12",
+      "away": "Baltimore Orioles",
+      "home": "Toronto Blue Jays",
+      "game_number": 1,
+      "pick": "Toronto Blue Jays",
+      "pick_prob": 59.8,
+      "actual_winner": "Toronto Blue Jays",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 4.21,
+      "home_sp_era": 4.5,
+      "away_bp_era": 3.77,
+      "home_bp_era": 2.93,
+      "away_sp_score": 34.8,
+      "home_sp_score": 33.7,
+      "away_bp_score": 58.6,
+      "home_bp_score": 75.0,
+      "bat_source": "lineup"
     }
   ]
 }

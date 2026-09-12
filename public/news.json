@@ -1,18 +1,70 @@
 {
-  "updated_at": "2026-09-12T21:30:25.123196+00:00",
+  "updated_at": "2026-09-12T22:07:33.567220+00:00",
   "news": [
+    {
+      "title": "Rangers' playoff plot thickens as they return pair of power punchers from IL",
+      "link": "https://www.mlb.com/news/rangers-activate-josh-jung-nathan-eovaldi-off-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w9zqipezq4k9o8rrqvz8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kennedi Landry",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-12T21:52:15+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "Emmanuel Rodriguez's 'pretty hectic' day continues with homer in first AB",
+      "link": "https://www.mlb.com/news/emmanuel-rodriguez-called-up-by-twins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mvoq2bc6ozkvjmyxxrxc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theodore Tollefson",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-12T21:43:00+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "Thornton takes care of Judge, then takes charge to evade key jam in Mets' rout",
+      "link": "https://www.mlb.com/news/zac-thornton-francisco-lindor-help-mets-beat-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kni2zshz4anesy5aiezd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-12T21:39:00+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "Rays call up RHP prospect Hopkins, who throws 102",
+      "link": "https://www.mlb.com/news/rays-brody-hopkins-callup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/s3bmmkhp25nj2rffdj2q",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-12T21:28:00+00:00",
+      "time_ago": "39m ago"
+    },
     {
       "title": "Betts hits Los Angeles Dodgers' 10,000th home run; Muncy goes back to back",
       "link": "https://www.mlb.com/news/mookie-betts-hits-10-000th-home-run-in-la-dodgers-history",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/utohup3xmr3fywlyjvdd",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789249088/mlb/utohup3xmr3fywlyjvdd",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Perla Paredes",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-12T21:19:28+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "Cubs keep pressure on atop NL Wild Card hunt with comeback win over Bucs",
@@ -25,7 +77,20 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-12T21:17:37+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "49m ago"
+    },
+    {
+      "title": "Alvarez (ankle) out of lineup for 2nd straight game; could return Sunday",
+      "link": "https://www.mlb.com/news/yordan-alvarez-out-of-lineup-after-twisting-right-ankle",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jfa73qqzeqcyiiygeykw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-12T21:14:00+00:00",
+      "time_ago": "53m ago"
     },
     {
       "title": "Comeback complete as A's reinstate Langeliers from injured list",
@@ -38,72 +103,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-12T21:13:32+00:00",
-      "time_ago": "16m ago"
-    },
-    {
-      "title": "Thornton takes care of Judge, then takes charge to evade key jam in Mets' rout",
-      "link": "https://www.mlb.com/news/zac-thornton-francisco-lindor-help-mets-beat-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kni2zshz4anesy5aiezd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-12T20:52:14+00:00",
-      "time_ago": "38m ago"
-    },
-    {
-      "title": "Tigers go wild with 7-run 8th inning to steal victory from Rockies",
-      "link": "https://www.mlb.com/news/tigers-seven-run-eighth-beat-rockies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ehdn6pd2z6xzuykld5cq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Beck",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-12T20:43:28+00:00",
-      "time_ago": "46m ago"
-    },
-    {
-      "title": "Matthew Lugo reflects on time with Red Sox, opportunity with Royals",
-      "link": "https://www.mlb.com/news/matthew-lugo-returns-to-fenway-park-with-royals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gv3wkicfcywwj50d0apm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Crowley",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-12T20:41:00+00:00",
-      "time_ago": "49m ago"
-    },
-    {
-      "title": "Cole bitten by homer bug for second straight start",
-      "link": "https://www.mlb.com/news/gerrit-cole-allows-three-home-runs-to-mets",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/euqmbb18winn0p76lato",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-12T20:31:51+00:00",
-      "time_ago": "58m ago"
-    },
-    {
-      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789190887/mlb/bgtip4siy3qk2yvgxwvw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-12T20:20:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "54m ago"
     }
   ]
 }
