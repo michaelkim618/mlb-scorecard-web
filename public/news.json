@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-12T22:43:51.109475+00:00",
+  "updated_at": "2026-09-12T23:07:10.266138+00:00",
   "news": [
+    {
+      "title": "Emmanuel Rodriguez's 'pretty hectic' day continues with homer in first AB",
+      "link": "https://www.mlb.com/news/emmanuel-rodriguez-called-up-by-twins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mvoq2bc6ozkvjmyxxrxc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theodore Tollefson",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-12T22:57:00+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "Jays keep postseason hopes alive with critical win vs. O's",
+      "link": "https://www.mlb.com/news/brett-bateman-spencer-miles-help-blue-jays-beat-orioles",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/u9kuhxjzddsxhobkgwk0",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-12T22:55:00+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Matthew Lugo reflects on time with Red Sox, opportunity with Royals",
+      "link": "https://www.mlb.com/news/matthew-lugo-returns-to-fenway-park-with-royals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789253019/mlb/mcaeshnpfqp6efewabsa",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Crowley",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-12T22:46:00+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "Suarez turns in second straight 7-inning gem in Red Sox win",
+      "link": "https://www.mlb.com/news/ranger-suarez-strikes-out-8-in-red-sox-win-over-royals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789250717/mlb/eiskuwsshrnqgec50oll",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Craig Forde",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-12T22:44:07+00:00",
+      "time_ago": "23m ago"
+    },
     {
       "title": "Thornton takes care of Judge, then takes charge to evade key jam in Mets' rout",
       "link": "https://www.mlb.com/news/zac-thornton-francisco-lindor-help-mets-beat-yankees",
@@ -12,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-12T22:34:00+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "33m ago"
     },
     {
       "title": "Injuries: Luzardo, Buxton, Yordan, McClanahan, Dodgers, Wetherholt",
@@ -25,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-12T22:33:00+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "34m ago"
     },
     {
       "title": "Correa could see time at 2B upon return from ankle injury",
@@ -38,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-12T22:23:32+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Betts hits Dodgers' 10,000th home run since moving to LA in 1958",
@@ -51,59 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-12T22:15:00+00:00",
-      "time_ago": "28m ago"
-    },
-    {
-      "title": "Jays keep postseason hopes alive with critical win vs. O's",
-      "link": "https://www.mlb.com/news/brett-bateman-spencer-miles-help-blue-jays-beat-orioles",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/u9kuhxjzddsxhobkgwk0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-12T22:13:30+00:00",
-      "time_ago": "30m ago"
-    },
-    {
-      "title": "Culpepper exits with shoulder contusion after hit-by-pitch",
-      "link": "https://www.mlb.com/news/kaelen-culpepper-exits-with-shoulder-contusion",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/m3l9uwoe9awzdb2twdql",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theodore Tollefson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-12T22:05:03+00:00",
-      "time_ago": "38m ago"
-    },
-    {
-      "title": "Cubs keep pressure on atop NL Wild Card hunt with comeback win over Bucs",
-      "link": "https://www.mlb.com/news/cubs-complete-comeback-over-pirates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/v6icmcqknmymbe2y3gi2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-12T22:02:00+00:00",
-      "time_ago": "41m ago"
-    },
-    {
-      "title": "Rangers' playoff plot thickens as they return pair of power punchers from IL",
-      "link": "https://www.mlb.com/news/rangers-activate-josh-jung-nathan-eovaldi-off-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w9zqipezq4k9o8rrqvz8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kennedi Landry",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-12T21:52:15+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "52m ago"
     }
   ]
 }
