@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-12T00:50:15.989964+00:00",
+  "updated_at": "2026-09-12T01:26:37.055902+00:00",
   "news": [
+    {
+      "title": "25 years later, Jeter's bond with daughter of 9/11 victim is rekindled",
+      "link": "https://www.mlb.com/news/yankees-hold-ceremony-25-years-after-9-11-tragedy",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789172702/mlb/wsc4cavluw17fpftkhkb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-12T01:00:03+00:00",
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "Watch FREE as Top 100 prospects Hartman (ATL), Gillen (TB) collide at Double-A on Sat.",
+      "link": "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788823303/mlb/f7kqxh4mlwxmdefvqdl2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brendan Samson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-12T00:55:00+00:00",
+      "time_ago": "31m ago"
+    },
     {
       "title": "Mets partner with 9/11 Day, host meal-packing event at Citi Field",
       "link": "https://www.mlb.com/news/mets-host-meal-packing-event-on-25th-anniversary-of-9-11",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-12T00:24:35+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Buxton to undergo season-ending hip surgery next week",
@@ -25,7 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-11T23:51:00+00:00",
-      "time_ago": "59m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Thomas placed on IL after straining intercostal muscle while taking BP on Thursday",
@@ -38,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-11T23:24:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Helsley, Bautista take next rehab steps toward return to O's bullpen",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T23:20:32+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Freeman misses 2nd consecutive game with right knee soreness",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-11T23:13:11+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Could Yesavage return to aid Blue Jays' playoff push?",
@@ -77,33 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-11T23:11:18+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "After slow start to '26, Bregman continues to be one of NL's best with bat and glove",
-      "link": "https://www.mlb.com/news/alex-bregman-hits-25th-home-run-3-hit-game",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/htoqu0yhh3tu6jhnclbr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-11T23:02:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "MVP front-runner Alvarez out of lineup after twisting right ankle",
-      "link": "https://www.mlb.com/news/yordan-alvarez-out-of-lineup-after-twisting-right-ankle",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jfa73qqzeqcyiiygeykw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-09-11T22:52:22+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }

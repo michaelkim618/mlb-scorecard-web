@@ -11045,6 +11045,28 @@
       "away_bp_score": 48.2,
       "home_bp_score": 55.4,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-11",
+      "away": "Colorado Rockies",
+      "home": "Detroit Tigers",
+      "game_number": 1,
+      "pick": "Detroit Tigers",
+      "pick_prob": 60.6,
+      "actual_winner": "Detroit Tigers",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "cold",
+      "away_sp_era": 3.95,
+      "home_sp_era": 3.95,
+      "away_bp_era": 4.89,
+      "home_bp_era": 3.64,
+      "away_sp_score": 43.0,
+      "home_sp_score": 42.0,
+      "away_bp_score": 21.3,
+      "home_bp_score": 60.6,
+      "bat_source": "lineup"
     }
   ]
 }
