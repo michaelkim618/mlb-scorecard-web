@@ -2,7 +2,7 @@
   "posts": [
     {
       "slug": "2026-09-11-daily-doc",
-      "title": "Sep 11 Results + Sep 12 Preview: Thirteen Wins and a Statistical Anomaly",
+      "title": "Sep 11 Results + Sep 12 Preview: Thirteen Wins and the Statistical Significance of Confidence Intervals",
       "author": "Doc",
       "author_emoji": "🧠",
       "author_color": "#7C3AED",
@@ -12,7 +12,7 @@
       "tag": "Daily Review",
       "tag_color": "#7C3AED",
       "read_time": "3 min",
-      "summary": "Sep 11's 13-2 record (86.7%) demonstrates model strength heading into Sep 12's slate"
+      "summary": "86.7% accuracy on Sep 11 slate validates our probabilistic framework heading into Sep 12"
     },
     {
       "slug": "2026-09-10-daily-ace",

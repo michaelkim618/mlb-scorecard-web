@@ -1007,7 +1007,7 @@
     },
     "expected_score": {
       "away": 1.7,
-      "home": 2.1
+      "home": 2.0
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -1025,7 +1025,7 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 43.6,
+        "sp_score": 43.5,
         "sp_detail": {
           "era": 3.38,
           "whip": 1.45,
@@ -1099,7 +1099,7 @@
             }
           ]
         },
-        "bp_score": 20.5,
+        "bp_score": 20.4,
         "bp_detail": {
           "bullpen_era": 4.93,
           "recent_era": 8.59,
@@ -1111,14 +1111,14 @@
           "closer_era": 4.88,
           "closer_name": "Jordan Romano"
         },
-        "bat_score": 26.8,
+        "bat_score": 26.5,
         "bat_detail": {
-          "recent_avg": 0.235,
+          "recent_avg": 0.234,
           "runs_per_g": 4.3,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.703,
-          "season_avg": 0.235,
+          "season_ops": 0.701,
+          "season_avg": 0.234,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
@@ -1132,7 +1132,7 @@
             "Adael Amador(0.960)",
             "Troy Johnston(0.697)",
             "Jordan Beck(0.443)",
-            "Ezequiel Tovar(0.585)"
+            "Ezequiel Tovar(0.572)"
           ],
           "lineup_players": [
             {
@@ -1186,13 +1186,13 @@
             {
               "id": 678662,
               "name": "Ezequiel Tovar",
-              "ops": 0.585,
-              "avg": 0.273
+              "ops": 0.572,
+              "avg": 0.261
             }
           ],
           "bat_trend": "cold",
           "last5_rpg": 1.8,
-          "last5_avg": 0.199,
+          "last5_avg": 0.203,
           "home_split": {
             "recent_avg": 0.257,
             "runs_per_g": 4.5,
@@ -1200,17 +1200,17 @@
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.237,
+            "recent_avg": 0.239,
             "runs_per_g": 3.0,
             "hr_per_g": 0.9,
             "n_games": 10
           }
         },
         "sit_score": 33.4,
-        "total": 32.8
+        "total": 32.7
       },
       "home": {
-        "sp_score": 49.0,
+        "sp_score": 48.8,
         "sp_detail": {
           "era": 3.86,
           "whip": 1.45,
@@ -1277,26 +1277,26 @@
             }
           ]
         },
-        "bp_score": 62.3,
+        "bp_score": 62.1,
         "bp_detail": {
           "bullpen_era": 3.64,
           "recent_era": 2.0,
           "recent_appearances": 22,
-          "recent_ip": 23.0,
+          "recent_ip": 23.3,
           "team_era": 3.6,
           "bp_ip": 351.3,
           "bp_count": 10,
           "closer_era": 3.6,
           "closer_name": "Kenley Jansen"
         },
-        "bat_score": 26.1,
+        "bat_score": 25.6,
         "bat_detail": {
-          "recent_avg": 0.227,
+          "recent_avg": 0.225,
           "runs_per_g": 4.8,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.689,
-          "season_avg": 0.227,
+          "season_ops": 0.685,
+          "season_avg": 0.225,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -1307,8 +1307,8 @@
             "Colt Keith(0.639)",
             "Riley Greene(1.014)",
             "Dillon Dingler(0.617)",
-            "Max Clark(0.864)",
-            "John Peck(0.603)",
+            "Max Clark(0.846)",
+            "John Peck(0.583)",
             "Zach McKinstry(0.475)",
             "Javier Báez(0.458)"
           ],
@@ -1346,14 +1346,14 @@
             {
               "id": 703601,
               "name": "Max Clark",
-              "ops": 0.864,
-              "avg": 0.333
+              "ops": 0.846,
+              "avg": 0.323
             },
             {
               "id": 807726,
               "name": "John Peck",
-              "ops": 0.603,
-              "avg": 0.222
+              "ops": 0.583,
+              "avg": 0.214
             },
             {
               "id": 656716,
@@ -1370,9 +1370,9 @@
           ],
           "bat_trend": "stable",
           "last5_rpg": 4.0,
-          "last5_avg": 0.216,
+          "last5_avg": 0.219,
           "home_split": {
-            "recent_avg": 0.181,
+            "recent_avg": 0.183,
             "runs_per_g": 2.8,
             "hr_per_g": 0.7,
             "n_games": 10
@@ -1385,14 +1385,14 @@
           }
         },
         "sit_score": 47.4,
-        "total": 46.0
+        "total": 45.7
       }
     },
     "scores": {
-      "away_offense": 26.8,
-      "away_defense": 32.0,
-      "home_offense": 26.1,
-      "home_defense": 55.6
+      "away_offense": 26.5,
+      "away_defense": 31.9,
+      "home_offense": 25.6,
+      "home_defense": 55.5
     },
     "actual_score": {
       "away": 2,
@@ -2512,12 +2512,12 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 41.9,
-      "home": 58.1
+      "away": 42.1,
+      "home": 57.9
     },
     "expected_score": {
       "away": 3.1,
-      "home": 3.0
+      "home": 2.9
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -2631,22 +2631,22 @@
         },
         "bat_score": 50.6,
         "bat_detail": {
-          "recent_avg": 0.252,
-          "runs_per_g": 6.9,
+          "recent_avg": 0.254,
+          "runs_per_g": 6.7,
           "hr_per_g": 1.7,
           "bb_per_g": 3.0,
-          "season_ops": 0.739,
-          "season_avg": 0.252,
+          "season_ops": 0.747,
+          "season_avg": 0.254,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Francisco Lindor(0.714)",
-            "Juan Soto(0.791)",
-            "Bo Bichette(0.802)",
+            "Francisco Lindor(0.800)",
+            "Juan Soto(0.790)",
+            "Bo Bichette(0.797)",
             "Mark Vientos(0.795)",
-            "Carson Benge(0.650)",
+            "Carson Benge(0.645)",
             "Marcus Semien(0.653)",
             "Christopher Morel(0.644)",
             "A.J. Ewing(0.932)",
@@ -2656,20 +2656,20 @@
             {
               "id": 596019,
               "name": "Francisco Lindor",
-              "ops": 0.714,
-              "avg": 0.196
+              "ops": 0.8,
+              "avg": 0.233
             },
             {
               "id": 665742,
               "name": "Juan Soto",
-              "ops": 0.791,
+              "ops": 0.79,
               "avg": 0.2
             },
             {
               "id": 666182,
               "name": "Bo Bichette",
-              "ops": 0.802,
-              "avg": 0.3
+              "ops": 0.797,
+              "avg": 0.297
             },
             {
               "id": 668901,
@@ -2680,8 +2680,8 @@
             {
               "id": 701807,
               "name": "Carson Benge",
-              "ops": 0.65,
-              "avg": 0.211
+              "ops": 0.645,
+              "avg": 0.2
             },
             {
               "id": 543760,
@@ -2709,8 +2709,8 @@
             }
           ],
           "bat_trend": "hot",
-          "last5_rpg": 7.8,
-          "last5_avg": 0.299,
+          "last5_rpg": 7.2,
+          "last5_avg": 0.307,
           "home_split": {
             "recent_avg": 0.222,
             "runs_per_g": 3.9,
@@ -2718,8 +2718,8 @@
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.284,
-            "runs_per_g": 6.5,
+            "recent_avg": 0.29,
+            "runs_per_g": 6.2,
             "hr_per_g": 1.5,
             "n_games": 10
           }
@@ -2799,14 +2799,14 @@
           "closer_era": 2.7,
           "closer_name": "David Bednar"
         },
-        "bat_score": 40.1,
+        "bat_score": 39.6,
         "bat_detail": {
-          "recent_avg": 0.27,
-          "runs_per_g": 5.1,
-          "hr_per_g": 1.2,
+          "recent_avg": 0.271,
+          "runs_per_g": 5.0,
+          "hr_per_g": 1.1,
           "bb_per_g": 3.0,
-          "season_ops": 0.751,
-          "season_avg": 0.27,
+          "season_ops": 0.754,
+          "season_avg": 0.271,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -2819,8 +2819,8 @@
             "Spencer Jones(0.956)",
             "George Lombard Jr.(0.535)",
             "Ryan McMahon(0.589)",
-            "Austin Wells(0.498)",
-            "Anthony Volpe(0.714)"
+            "Austin Wells(0.521)",
+            "Anthony Volpe(0.718)"
           ],
           "lineup_players": [
             {
@@ -2868,23 +2868,23 @@
             {
               "id": 669224,
               "name": "Austin Wells",
-              "ops": 0.498,
-              "avg": 0.115
+              "ops": 0.521,
+              "avg": 0.13
             },
             {
               "id": 683011,
               "name": "Anthony Volpe",
-              "ops": 0.714,
-              "avg": 0.273
+              "ops": 0.718,
+              "avg": 0.267
             }
           ],
           "bat_trend": "hot",
-          "last5_rpg": 6.0,
-          "last5_avg": 0.286,
+          "last5_rpg": 5.4,
+          "last5_avg": 0.295,
           "home_split": {
-            "recent_avg": 0.291,
-            "runs_per_g": 6.3,
-            "hr_per_g": 1.6,
+            "recent_avg": 0.28,
+            "runs_per_g": 5.4,
+            "hr_per_g": 1.4,
             "n_games": 10
           },
           "away_split": {
@@ -2895,13 +2895,13 @@
           }
         },
         "sit_score": 62.6,
-        "total": 54.8
+        "total": 54.7
       }
     },
     "scores": {
       "away_offense": 50.6,
       "away_defense": 44.2,
-      "home_offense": 40.1,
+      "home_offense": 39.6,
       "home_defense": 62.0
     },
     "actual_score": {
