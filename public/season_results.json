@@ -11441,6 +11441,28 @@
       "away_bp_score": 58.6,
       "home_bp_score": 75.0,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-12",
+      "away": "Kansas City Royals",
+      "home": "Boston Red Sox",
+      "game_number": 1,
+      "pick": "Boston Red Sox",
+      "pick_prob": 58.2,
+      "actual_winner": "Boston Red Sox",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "stable",
+      "away_sp_era": 2.67,
+      "home_sp_era": 4.5,
+      "away_bp_era": 4.48,
+      "home_bp_era": 2.63,
+      "away_sp_score": 50.0,
+      "home_sp_score": 40.8,
+      "away_bp_score": 40.7,
+      "home_bp_score": 72.8,
+      "bat_source": "lineup"
     }
   ]
 }
