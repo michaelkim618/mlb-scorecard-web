@@ -446,7 +446,7 @@
             "Konnor Griffin(0.679)",
             "Oneil Cruz(0.913)",
             "Bryan Reynolds(0.867)",
-            "Rafael Flores Jr.(0.776)",
+            "Rafael Flores(0.776)",
             "Esmerlyn Valdez(0.707)",
             "Nick Gonzales(0.752)",
             "Jake Mangum(0.668)",
@@ -474,7 +474,7 @@
             },
             {
               "id": 804668,
-              "name": "Rafael Flores Jr.",
+              "name": "Rafael Flores",
               "ops": 0.776,
               "avg": 0.263
             },
@@ -2815,9 +2815,9 @@
             "Ben Rice(0.869)",
             "Cody Bellinger(0.877)",
             "Aaron Judge(0.840)",
-            "Luis García Jr.(0.883)",
+            "Luis García(0.883)",
             "Spencer Jones(0.956)",
-            "George Lombard Jr.(0.535)",
+            "George Lombard(0.535)",
             "Ryan McMahon(0.589)",
             "Austin Wells(0.498)",
             "Anthony Volpe(0.714)"
@@ -2843,7 +2843,7 @@
             },
             {
               "id": 671277,
-              "name": "Luis García Jr.",
+              "name": "Luis García",
               "ops": 0.883,
               "avg": 0.333
             },
@@ -2855,7 +2855,7 @@
             },
             {
               "id": 806146,
-              "name": "George Lombard Jr.",
+              "name": "George Lombard",
               "ops": 0.535,
               "avg": 0.129
             },
@@ -3569,7 +3569,7 @@
           "lineup_ops": [
             "Brett Bateman(0.843)",
             "George Springer(0.662)",
-            "Vladimir Guerrero Jr.(0.700)",
+            "Vladimir Guerrero(0.700)",
             "Alejandro Kirk(0.758)",
             "Nathan Lukes(0.731)",
             "Kazuma Okamoto(0.921)",
@@ -3592,7 +3592,7 @@
             },
             {
               "id": 665489,
-              "name": "Vladimir Guerrero Jr.",
+              "name": "Vladimir Guerrero",
               "ops": 0.7,
               "avg": 0.282
             },
@@ -4153,7 +4153,7 @@
           "splits_used": false,
           "lineup_ops": [
             "Carter Jensen(1.033)",
-            "Bobby Witt Jr.(0.802)",
+            "Bobby Witt(0.802)",
             "Vinnie Pasquantino(0.684)",
             "Salvador Perez(0.770)",
             "Michael Massey(0.711)",
@@ -4171,7 +4171,7 @@
             },
             {
               "id": 677951,
-              "name": "Bobby Witt Jr.",
+              "name": "Bobby Witt",
               "ops": 0.802,
               "avg": 0.222
             },
@@ -5021,7 +5021,7 @@
             "Jonathan Aranda(0.797)",
             "Junior Caminero(0.859)",
             "Liam Hicks(0.733)",
-            "Victor Mesa Jr.(1.016)",
+            "Victor Mesa(1.016)",
             "Chandler Simpson(0.613)",
             "Cedric Mullins(0.536)",
             "Richie Palacios(0.905)",
@@ -5054,7 +5054,7 @@
             },
             {
               "id": 683748,
-              "name": "Victor Mesa Jr.",
+              "name": "Victor Mesa",
               "ops": 1.016,
               "avg": 0.424
             },
@@ -5740,7 +5740,7 @@
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Heriberto Hernández(0.696)",
+            "Heriberto Hernandez(0.696)",
             "Otto Lopez(0.827)",
             "Jakob Marsee(0.788)",
             "Javier Sanoja(0.951)",
@@ -5753,7 +5753,7 @@
           "lineup_players": [
             {
               "id": 681715,
-              "name": "Heriberto Hernández",
+              "name": "Heriberto Hernandez",
               "ops": 0.696,
               "avg": 0.175
             },
@@ -6480,9 +6480,9 @@
           "splits_used": false,
           "lineup_ops": [
             "Drake Baldwin(0.752)",
-            "Ronald Acuña Jr.(0.873)",
+            "Ronald Acuña(0.873)",
             "Matt Olson(0.642)",
-            "Michael Harris II(0.549)",
+            "Michael Harris(0.549)",
             "Mauricio Dubón(0.589)",
             "Ozzie Albies(0.607)",
             "Austin Riley(0.696)",
@@ -6498,7 +6498,7 @@
             },
             {
               "id": 660670,
-              "name": "Ronald Acuña Jr.",
+              "name": "Ronald Acuña",
               "ops": 0.873,
               "avg": 0.317
             },
@@ -6510,7 +6510,7 @@
             },
             {
               "id": 671739,
-              "name": "Michael Harris II",
+              "name": "Michael Harris",
               "ops": 0.549,
               "avg": 0.086
             },
@@ -10259,7 +10259,7 @@
             "Geraldo Perdomo(0.617)",
             "Corbin Carroll(0.621)",
             "Nolan Arenado(0.833)",
-            "Lourdes Gurriel Jr.(0.463)",
+            "Lourdes Gurriel(0.463)",
             "Jordan Lawlar(0.692)",
             "Ryan Waldschmidt(0.580)"
           ],
@@ -10302,7 +10302,7 @@
             },
             {
               "id": 666971,
-              "name": "Lourdes Gurriel Jr.",
+              "name": "Lourdes Gurriel",
               "ops": 0.463,
               "avg": 0.176
             },
@@ -10790,7 +10790,7 @@
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis Jr.(0.887)",
+            "Fernando Tatis(0.887)",
             "Jake Cronenworth(0.432)",
             "Manny Machado(0.859)",
             "Luis Campusano(0.852)",
@@ -10803,7 +10803,7 @@
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis Jr.",
+              "name": "Fernando Tatis",
               "ops": 0.887,
               "avg": 0.317
             },
