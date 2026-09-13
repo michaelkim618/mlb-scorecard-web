@@ -9252,8 +9252,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 49.2,
-      "home": 50.8
+      "away": 42.9,
+      "home": 57.1
     },
     "expected_score": {
       "away": 2.7,
@@ -9534,14 +9534,14 @@
             }
           ]
         },
-        "bp_score": 44.5,
+        "bp_score": 52.4,
         "bp_detail": {
-          "bullpen_era": 4.74,
-          "recent_era": 3.71,
-          "recent_appearances": 19,
-          "recent_ip": 26.7,
-          "team_era": 5.23,
-          "bp_ip": 304.0,
+          "bullpen_era": 4.65,
+          "recent_era": 2.28,
+          "recent_appearances": 18,
+          "recent_ip": 23.7,
+          "team_era": 5.2,
+          "bp_ip": 308.0,
           "bp_count": 9,
           "closer_era": 3.34,
           "closer_name": "Hogan Harris"
@@ -9642,14 +9642,14 @@
           }
         },
         "sit_score": 42.1,
-        "total": 47.4
+        "total": 49.5
       }
     },
     "scores": {
       "away_offense": 40.9,
       "away_defense": 44.7,
       "home_offense": 30.6,
-      "home_defense": 51.0
+      "home_defense": 55.0
     },
     "actual_score": {
       "away": null,
@@ -9666,9 +9666,9 @@
     "model_winner": "Athletics",
     "model_correct": null,
     "notes": "Seattle Mariners IL: Brendan Donovan, Brennen Davis, Cole Wilcox, Colt Emerson, Emerson Hancock 외 다수 / Athletics IL: Brent Rooker, Brooks Kriske, Gunnar Hoglund, J.T. Ginn, Jacob Wilson 외 다수",
-    "kalshi_prob": 45.0,
-    "edge": 9.8,
-    "value_bet": "⏭️ 패스 (SP↔BAT충돌+시장역방향 edge +9.8%p — 신뢰불가)",
+    "kalshi_prob": 44.0,
+    "edge": 13.1,
+    "value_bet": "⏭️ 패스 (SP↔BAT충돌+시장역방향 edge +13.1%p — 신뢰불가)",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": true,
@@ -9679,7 +9679,7 @@
       "bat_gap": 10.3
     },
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 54.8% (≤58.0%)",
+    "low_confidence_reason": "최고 확률 57.1% (≤58.0%)",
     "model_version": "v14"
   },
   {
