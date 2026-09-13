@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-13T16:56:11.167792+00:00",
+  "updated_at": "2026-09-13T17:03:21.001011+00:00",
   "news": [
+    {
+      "title": "Bradish lands on 15-day IL with lower abdominal discomfort",
+      "link": "https://www.mlb.com/news/kyle-bradish-placed-on-15-day-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dokcqc2dydfmcmzf1ntw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matt Betts",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-13T16:52:12+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Rays call up RHP prospect Hopkins, who throws 102",
+      "link": "https://www.mlb.com/news/rays-brody-hopkins-callup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/s3bmmkhp25nj2rffdj2q",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-13T16:44:00+00:00",
+      "time_ago": "19m ago"
+    },
     {
       "title": "D-backs designate veteran OF Gurriel Jr. for assignment",
       "link": "https://www.mlb.com/news/lourdes-gurriel-jr-designated-for-assignment",
@@ -12,7 +38,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-09-13T16:29:36+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "33m ago"
     },
     {
       "title": "Alvarez returns to Astros' lineup, resuming Triple Crown chase",
@@ -25,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-13T16:20:00+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Verlander, Tigers hoping legend can make one last start at Comerica",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-13T14:35:06+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Grichuk plays hero in ninth as White Sox increase AL Central lead",
-      "link": "https://www.mlb.com/news/randal-grichuk-s-late-homer-gives-white-sox-comeback-win-over-cardinals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789271680/mlb/c3ndtztusoqhl93xfepp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-13T05:24:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Something special brewing as Crew cruises to another double-digit win",
-      "link": "https://www.mlb.com/news/garrett-mitchell-william-contreras-fuel-brewers-win-over-reds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wim9aweyc1ftgkf6mdmk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-13T04:03:00+00:00",
-      "time_ago": "12h ago"
     }
   ]
 }

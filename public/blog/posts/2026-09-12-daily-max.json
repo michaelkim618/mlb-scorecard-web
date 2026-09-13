@@ -1,17 +1,17 @@
 {
-  "title": "Sep 12 Results + Sep 13 Preview: Eighty Percent Is Still Money",
-  "summary": "12-3 on Sep 12 with 80% accuracy. Tigers-Rockies rematch headlines tomorrow's slate.",
+  "title": "Sep 12 Results + Sep 13 Preview: Twelve Wins Later, We're Still Standing",
+  "summary": "80% accuracy on Sep 12 with 12-3 record. Tigers top pick again for Sep 13.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Another Day, Another Statement\n\nLook, I've been around this game long enough to know that 12-3 days don't grow on trees. Eighty percent accuracy on a fifteen-game slate? That's the kind of night that pays the bills and then some. The model caught fire yesterday, and frankly, I'm not surprised—September baseball has patterns if you know where to look."
+      "value": "## Another Day, Another Dominant Performance\n\nYou know, I've been around this game long enough to recognize when a model's got its rhythm, and folks, we're in one of those stretches. Twelve wins against three losses on September 12th—that's the kind of day that reminds me why I still love doing this after all these years.\n\nThe 80% hit rate isn't just a number on a spreadsheet. It's the result of seeing patterns others miss, understanding how September baseball operates differently, and respecting the fundamentals that never change."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Sep 12 W-L",
+          "label": "Sep 12 Record",
           "value": "12-3"
         },
         {
@@ -19,25 +19,21 @@
           "value": "80.0%"
         },
         {
-          "label": "Best Call",
-          "value": "Padres 63%"
-        },
-        {
-          "label": "Toughest Loss",
-          "value": "Dodgers 60%"
+          "label": "Picks Made",
+          "value": "15"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Hits That Mattered\n\nWe nailed the Tigers over the Rockies at 63%—file that one away because we're going back to that well tomorrow. The Jays took care of the Orioles exactly as projected, and the Rays handled Houston business at home. Even the coin-flip calls went our way: Nationals over the Angels and Twins over the Guardians, both at 50%, both cashed.\n\nThe two misses? Yankees couldn't get past the Mets despite 59% confidence, and the Marlins somehow found a way against the Dodgers. That's baseball in September—even the heavy favorites stumble when rosters get creative."
+      "value": "## Breaking Down Yesterday's Action\n\nThe Tigers delivered for us again—that makes it two days in a row we've liked Detroit, and two days in a row they've come through. When you see a team trending like that in September, you take notice.\n\nThe Rays pulled through in a tight one against Houston, the Sox handled Kansas City, and the Padres took care of business in San Francisco. These weren't flukes. These were calculated predictions based on matchup advantages and situational baseball."
     },
     {
       "type": "table",
-      "title": "Complete Sep 12 Results",
+      "title": "Sep 12 Complete Results",
       "headers": [
         "Matchup",
-        "Pick",
+        "Our Pick",
         "Confidence",
         "Result"
       ],
@@ -107,7 +103,7 @@
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 12 Prediction Performance by Confidence Level",
+      "title": "Sep 12 Win Probability vs Results",
       "data": [
         {
           "name": "Tigers",
@@ -176,18 +172,22 @@
     },
     {
       "type": "text",
-      "value": "## Tomorrow's Top Pick: Running It Back in Detroit\n\nHere's where experience matters. When something works, you don't overthink it—you ride it again. The Tigers handled Colorado yesterday at 63%, and tomorrow we're back on Detroit at an even stronger 66% confidence.\n\nGabriel Hughes gets the ball for the Rockies, while Jackson Jobe takes the mound for Detroit. I've seen this movie before: Colorado pitching on the road in September is not where you want to put your money. The Tigers are playing meaningful baseball, Jobe's been solid at home, and the fundamentals all point the same direction.\n\nThis isn't reinventing the wheel. It's reading the room and backing the team that's proven it can handle this exact opponent 24 hours earlier."
+      "value": "## The Misses: Yankees and Dodgers\n\nLet's talk about the two that got away. The Yankees couldn't handle the Mets in the Subway Series—that's baseball in September for you. Rivalry games have their own logic, and sometimes the underdog just wants it more.\n\nThe Dodgers falling to Miami? I've seen this movie before. Late-season games in Florida can be tricky, especially when a team's already thinking about October. No excuses, just reality."
+    },
+    {
+      "type": "text",
+      "value": "## Looking Ahead to September 13\n\nNow, about tomorrow. We're going back to the well with Detroit, and I'll tell you why I'm comfortable with that decision."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Sep 13 Top Pick",
+      "title": "⭐ Tomorrow's Top Pick - Sep 13",
       "value": "Detroit Tigers over Colorado Rockies",
-      "sub": "66% confidence • Jackson Jobe vs Gabriel Hughes • Motor City stays hot"
+      "sub": "69% win probability · Jackson Jobe vs Gabriel Hughes"
     },
     {
       "type": "text",
-      "value": "## The Veteran's Take\n\nEighty percent nights remind you why we trust the process. Not every day will hit like this, but when the model locks in and the fundamentals align, you cash tickets. Period.\n\nTomorrow we go right back to Detroit because the edge is still there. Hughes versus Jobe isn't a coin flip—it's a calculated advantage. And in this business, advantages compound.\n\nStay sharp out there."
+      "value": "## Why Detroit Again?\n\nJackson Jobe on the mound for Detroit, Gabriel Hughes for Colorado. When you've got the Rockies traveling—especially this late in the season—you're looking at a team that's ready for the offseason. The Tigers, meanwhile, are playing meaningful baseball.\n\nI've covered enough September games to know that momentum and motivation matter as much as talent. Detroit's got both right now. At 69% confidence, this is the kind of edge you don't pass up.\n\nThe model's been hot, Detroit's been reliable, and the matchup favors the home team. Sometimes it really is that straightforward.\n\n**See you after first pitch tomorrow.**\n\n— Max"
     }
   ],
   "slug": "2026-09-12-daily-max",
