@@ -1,6 +1,55 @@
 {
   "predictions": [
+    "09:10",
+    "12:05"
+  ],
+  "results": false,
+  "lineup_refreshed": [
     "09:10"
   ],
-  "results": false
+  "predictions_frozen": [
+    "09:10",
+    "12:05"
+  ],
+  "frozen_predictions": {
+    "09:10": [
+      {
+        "game_pk": "824225",
+        "win_prob": {
+          "away": 31.1,
+          "home": 68.9
+        },
+        "model_winner": "Detroit Tigers",
+        "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Detroit Tigers)",
+        "edge": -22.1,
+        "sp_bat_conflict": true,
+        "sp_bat_conflict_detail": {
+          "sp_favors": "Detroit Tigers",
+          "bat_favors": "Colorado Rockies",
+          "sp_gap": -10.8,
+          "bat_gap": 8.3
+        },
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      }
+    ],
+    "12:05": [
+      {
+        "game_pk": "824708",
+        "win_prob": {
+          "away": 40.0,
+          "home": 60.0
+        },
+        "model_winner": "Boston Red Sox",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -4.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      }
+    ]
+  }
 }
