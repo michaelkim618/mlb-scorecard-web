@@ -11551,6 +11551,28 @@
       "away_bp_score": 75.0,
       "home_bp_score": 25.9,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-12",
+      "away": "Houston Astros",
+      "home": "Tampa Bay Rays",
+      "game_number": 1,
+      "pick": "Tampa Bay Rays",
+      "pick_prob": 61.4,
+      "actual_winner": "Tampa Bay Rays",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 4.53,
+      "home_sp_era": 4.01,
+      "away_bp_era": 3.78,
+      "home_bp_era": 2.67,
+      "away_sp_score": 38.9,
+      "home_sp_score": 46.7,
+      "away_bp_score": 58.3,
+      "home_bp_score": 70.8,
+      "bat_source": "lineup"
     }
   ]
 }
