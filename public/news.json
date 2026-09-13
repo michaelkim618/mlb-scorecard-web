@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-13T03:56:40.537272+00:00",
+  "updated_at": "2026-09-13T05:01:43.906770+00:00",
   "news": [
+    {
+      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789190887/mlb/bgtip4siy3qk2yvgxwvw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-13T04:55:00+00:00",
+      "time_ago": "6m ago"
+    },
+    {
+      "title": "Eovaldi, Jung have instant impact in return from IL",
+      "link": "https://www.mlb.com/news/rangers-activate-josh-jung-nathan-eovaldi-off-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qxyqokuujyve1cv3hyck",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kennedi Landry",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-13T04:05:00+00:00",
+      "time_ago": "56m ago"
+    },
+    {
+      "title": "Something special brewing as Crew cruises to another double-digit win",
+      "link": "https://www.mlb.com/news/garrett-mitchell-william-contreras-fuel-brewers-win-over-reds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wim9aweyc1ftgkf6mdmk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Sweet",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-13T04:03:00+00:00",
+      "time_ago": "58m ago"
+    },
     {
       "title": "Acuña's dominance vs. Phillies conjuring up memories of Chipper-Mets rivalry",
       "link": "https://www.mlb.com/news/ronald-acuna-jr-helps-braves-pad-lead-over-phillies-in-nl-east",
@@ -12,33 +51,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-13T03:16:00+00:00",
-      "time_ago": "40m ago"
-    },
-    {
-      "title": "Evo, Jung have instant impact in return from IL",
-      "link": "https://www.mlb.com/news/rangers-activate-josh-jung-nathan-eovaldi-off-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qxyqokuujyve1cv3hyck",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kennedi Landry",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-13T03:07:00+00:00",
-      "time_ago": "49m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Grichuk plays hero in ninth as White Sox increase AL Central lead",
       "link": "https://www.mlb.com/news/randal-grichuk-s-late-homer-gives-white-sox-comeback-win-over-cardinals",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789267536/mlb/rip4ggkrkpqclco4aykx",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789271680/mlb/c3ndtztusoqhl93xfepp",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Scott Merkin",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-13T03:02:58+00:00",
-      "time_ago": "53m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rays relish playoff berth, but have sights set on AL East crown",
@@ -51,20 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-13T03:01:00+00:00",
-      "time_ago": "55m ago"
-    },
-    {
-      "title": "Something special is brewing as Crew earns another double-digit win",
-      "link": "https://www.mlb.com/news/garrett-mitchell-william-contreras-fuel-brewers-win-over-reds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wim9aweyc1ftgkf6mdmk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-13T02:31:15+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Betts hits Dodgers' 10,000th home run since moving to LA in 1958",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-13T02:09:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "They have elite fastballs. But the changeup may be their literal secret weapon",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-13T01:54:45+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Schlittler for AL MVP? It's not as crazy as you may think",
-      "link": "https://www.mlb.com/news/yankees-pitcher-cam-schlittler-2026-al-mvp-case",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788919141/mlb/hiimll9tppur5h1vfan9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-09-13T01:47:56+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
