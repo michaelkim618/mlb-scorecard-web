@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-13T19:11:44.909788+00:00",
+  "updated_at": "2026-09-13T19:39:02.933892+00:00",
   "news": [
+    {
+      "title": "Jobe deals in deepest start of career for sweep of Rockies",
+      "link": "https://www.mlb.com/news/jackson-jobe-shuts-down-rockies-for-tigers-sweep",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yo92rkvjkvymc4u3o7qx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-09-13T19:11:31+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "De Paula's 1st career hit? A 416-foot, 3-run BLAST!",
+      "link": "https://www.mlb.com/news/josue-de-paula-crushes-three-run-homer-for-first-career-hit",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789325407/mlb/zxpbppmla66hlmbp1rj4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Perla Paredes",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-13T19:09:52+00:00",
+      "time_ago": "29m ago"
+    },
     {
       "title": "Contreras activated from IL, returns to Red Sox lineup vs. KC",
       "link": "https://www.mlb.com/news/willson-contreras-activated-from-injured-list-for-red-sox",
@@ -12,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-13T18:46:17+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "White Sox see 'light at the end of the tunnel' after Grichuk's heroics",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-13T18:31:34+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Caissie (lumbar stress reaction) heads to IL, effectively ending rookie season",
@@ -64,7 +90,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-09-13T16:29:36+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Alvarez returns to Astros' lineup, resuming Triple Crown chase",
@@ -77,32 +103,6 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-13T16:20:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Verlander, Tigers hoping legend can make one last start at Comerica",
-      "link": "https://www.mlb.com/news/justin-verlander-hoping-to-make-last-start-at-comerica-park",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lbbqa6wqlcdydh2fskdi",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Beck",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-13T15:45:10+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789190887/mlb/bgtip4siy3qk2yvgxwvw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-13T15:14:00+00:00",
       "time_ago": "3h ago"
     }
   ]
