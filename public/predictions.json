@@ -8621,7 +8621,7 @@
           "splits_used": false,
           "lineup_ops": [
             "Carter Jensen(1.068)",
-            "Bobby Witt Jr.(0.791)",
+            "Bobby Witt(0.791)",
             "Salvador Perez(0.815)",
             "Vinnie Pasquantino(0.704)",
             "Nick Loftin(0.601)",
@@ -8639,7 +8639,7 @@
             },
             {
               "id": 677951,
-              "name": "Bobby Witt Jr.",
+              "name": "Bobby Witt",
               "ops": 0.791,
               "avg": 0.216
             },
@@ -8904,8 +8904,8 @@
     "model_winner": "Boston Red Sox",
     "model_correct": null,
     "notes": "Kansas City Royals IL: Alec Marsh, Beck Way, Carlos Estévez, Cole Ragans, Connor Seabold 외 다수 / Boston Red Sox IL: Ceddanne Rafaela, Curtis Mead, Eduardo Rivera, Eli White, Garrett Crochet 외 다수",
-    "kalshi_prob": 62.0,
-    "edge": -2.4,
+    "kalshi_prob": 63.0,
+    "edge": -3.4,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,

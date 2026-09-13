@@ -1,11 +1,11 @@
 {
-  "title": "Sep 12 Results + Sep 13 Preview: Twelve Wins Later, We're Still Standing",
-  "summary": "80% accuracy on Sep 12 with 12-3 record. Tigers top pick again for Sep 13.",
+  "title": "Sep 12 Results + Sep 13 Preview: Twelve Wins and That Old Tiger Feeling",
+  "summary": "80% accuracy on Sep 12 with 12 wins. Detroit's got our attention again tomorrow.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Another Day, Another Dominant Performance\n\nYou know, I've been around this game long enough to recognize when a model's got its rhythm, and folks, we're in one of those stretches. Twelve wins against three losses on September 12th—that's the kind of day that reminds me why I still love doing this after all these years.\n\nThe 80% hit rate isn't just a number on a spreadsheet. It's the result of seeing patterns others miss, understanding how September baseball operates differently, and respecting the fundamentals that never change."
+      "value": "## Another Strong Night in the Books\n\nYou know, I've been doing this long enough to recognize when the model's humming along nicely. Last night was one of those nights—12 wins against just 3 losses, an 80% clip that reminds me of those stretches in the '90s when certain teams just had your number, except now it's our algorithm having theirs.\n\nThe misses? Yankees couldn't hold serve against the Mets in the Subway Series, and the Dodgers stumbled down in Miami. Tale as old as time—sometimes the better team just doesn't show up. But let's focus on what went right, because there was plenty of it."
     },
     {
       "type": "stat_row",
@@ -19,14 +19,14 @@
           "value": "80.0%"
         },
         {
-          "label": "Picks Made",
-          "value": "15"
+          "label": "Top Confidence",
+          "value": "63%"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## Breaking Down Yesterday's Action\n\nThe Tigers delivered for us again—that makes it two days in a row we've liked Detroit, and two days in a row they've come through. When you see a team trending like that in September, you take notice.\n\nThe Rays pulled through in a tight one against Houston, the Sox handled Kansas City, and the Padres took care of business in San Francisco. These weren't flukes. These were calculated predictions based on matchup advantages and situational baseball."
+      "value": "## The Highlights Reel\n\nDetroit took care of business against the Rockies at 63% confidence—more on them in a minute. The Rays handled Houston at 61%, which never gets old if you remember those playoff battles. Toronto surprised Baltimore, the White Sox took down the Royals, and the Twins edged the Guardians in what's becoming a fascinating AL Central race.\n\nThe Cubs and Padres did what they were supposed to do, and even that coin-flip Nationals-Angels game fell our way. When the 50-50s go your direction, you know it's a good night."
     },
     {
       "type": "table",
@@ -103,7 +103,7 @@
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 12 Win Probability vs Results",
+      "title": "Sep 12 Prediction Confidence & Results",
       "data": [
         {
           "name": "Tigers",
@@ -172,22 +172,18 @@
     },
     {
       "type": "text",
-      "value": "## The Misses: Yankees and Dodgers\n\nLet's talk about the two that got away. The Yankees couldn't handle the Mets in the Subway Series—that's baseball in September for you. Rivalry games have their own logic, and sometimes the underdog just wants it more.\n\nThe Dodgers falling to Miami? I've seen this movie before. Late-season games in Florida can be tricky, especially when a team's already thinking about October. No excuses, just reality."
-    },
-    {
-      "type": "text",
-      "value": "## Looking Ahead to September 13\n\nNow, about tomorrow. We're going back to the well with Detroit, and I'll tell you why I'm comfortable with that decision."
+      "value": "## Looking Ahead to September 13\n\nHere's where it gets interesting. We're going back to the well with Detroit, and this time the model likes them even more—69% confidence against these same Rockies. It's a rematch, and if you've covered baseball as long as I have, you know these can go either way. But Jackson Jobe on the mound for the Tigers against Gabriel Hughes? The numbers like Detroit's chances.\n\nI've seen the Tigers go through their rebuilds, their competitive windows, their down years. Right now, they're in one of those phases where the young arms are starting to figure things out. Jobe's development has been something to watch, and Colorado's offense on the road... well, let's just say Coors Field is kinder to them than most visiting ballparks."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - Sep 13",
+      "title": "⭐ Tomorrow's Top Pick - September 13",
       "value": "Detroit Tigers over Colorado Rockies",
-      "sub": "69% win probability · Jackson Jobe vs Gabriel Hughes"
+      "sub": "69% win probability • Jackson Jobe vs Gabriel Hughes • Comerica Park"
     },
     {
       "type": "text",
-      "value": "## Why Detroit Again?\n\nJackson Jobe on the mound for Detroit, Gabriel Hughes for Colorado. When you've got the Rockies traveling—especially this late in the season—you're looking at a team that's ready for the offseason. The Tigers, meanwhile, are playing meaningful baseball.\n\nI've covered enough September games to know that momentum and motivation matter as much as talent. Detroit's got both right now. At 69% confidence, this is the kind of edge you don't pass up.\n\nThe model's been hot, Detroit's been reliable, and the matchup favors the home team. Sometimes it really is that straightforward.\n\n**See you after first pitch tomorrow.**\n\n— Max"
+      "value": "## The Bottom Line\n\nWhen you hit 80% on a Friday night slate, you take it and tip your cap. The model's working, the reads are sharp, and we're heading into the weekend with momentum. Detroit's gotten our attention two nights in a row now, and that's not something I take lightly.\n\nTune in tomorrow to see if the Tigers can make it two straight, and whether we can keep this accuracy rolling through the weekend. September baseball—it never gets old.\n\n*— Max*"
     }
   ],
   "slug": "2026-09-12-daily-max",
