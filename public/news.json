@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-13T00:05:21.413665+00:00",
+  "updated_at": "2026-09-13T00:31:58.585063+00:00",
   "news": [
+    {
+      "title": "Suarez credits mechanical tweak after consecutive 7-inning gems",
+      "link": "https://www.mlb.com/news/ranger-suarez-strikes-out-8-in-red-sox-win-over-royals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789250717/mlb/eiskuwsshrnqgec50oll",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Craig Forde",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-13T00:02:00+00:00",
+      "time_ago": "29m ago"
+    },
     {
       "title": "Rangers' playoff plot thickens as they return pair of power punchers from IL",
       "link": "https://www.mlb.com/news/rangers-activate-josh-jung-nathan-eovaldi-off-injured-list",
@@ -12,7 +25,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-12T23:58:00+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "33m ago"
     },
     {
       "title": "With Yanks on cusp of berth, Cole battling homer bug -- but what's the cure?",
@@ -25,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-12T23:34:00+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "King's quality start reigns supreme in Padres' win vs. Giants",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-12T23:32:08+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "Wood joins Abrams in elite 30-20 club in Nationals' walk-off win",
@@ -51,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-12T23:25:05+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Dodgers need to wait at least a day before punching postseason ticket",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-12T23:17:10+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Tigers put never-say-die attitude on display with 7-run 8th-inning outburst",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-12T23:13:00+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Blue Jays play with sense of urgency to gain in AL Wild Card chase",
@@ -90,19 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-12T23:12:00+00:00",
-      "time_ago": "53m ago"
-    },
-    {
-      "title": "Luzardo 'not concerned' after MRI on shoulder; next start TBD",
-      "link": "https://www.mlb.com/news/jesus-luzardo-scratched-from-start-vs-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qhfmmiwf0lt2sth8knh4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-12T23:05:00+00:00",
       "time_ago": "1h ago"
     }
   ]
