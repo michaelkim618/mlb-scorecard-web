@@ -1,17 +1,17 @@
 {
-  "title": "Sep 12 Results + Sep 13 Preview: Twelve Wins and a Whole Lotta Validation",
-  "summary": "80% accuracy on Sep 12 slate. Tigers look sharp again for tomorrow's rematch.",
+  "title": "Sep 12 Results + Sep 13 Preview: Twelve Wins Feels Like the Old Days",
+  "summary": "80% accuracy on Sep 12—the model clicked like a '98 Yankees lineup.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Another September Day, Another Solid Performance\n\nYou know, I've been around this game long enough to recognize when the model's humming along nicely. Yesterday was one of those days—12 wins out of 15 games will put a smile on anyone's face. At 80% accuracy, we're seeing the kind of consistency that reminds me of those late-season pushes when everything just clicks."
+      "value": "## Another September Night, Another Winning Record\n\nYou know what 12-3 reminds me of? Those late-season runs where everything just clicks. The rotation's dealing, the bats are alive, and suddenly you remember why you fell in love with this game in the first place. That's what our model did last night—80% accuracy across fifteen matchups. I've been covering baseball long enough to know that kind of hit rate doesn't come around every day."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Sep 12 W-L",
+          "label": "Sep 12 Record",
           "value": "12-3"
         },
         {
@@ -19,19 +19,91 @@
           "value": "80.0%"
         },
         {
-          "label": "Best Call",
-          "value": "Tigers 63%"
+          "label": "Misses",
+          "value": "2"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Misses Tell a Story Too\n\nLet's get the disappointments out of the way. The Yankees couldn't get it done against the Mets in the Bronx—always a tough cross-town matchup, and those never quite play by the book. The Dodgers falling to the Marlins in Miami? Well, that's baseball in September. Teams resting guys, looking ahead, trap games everywhere. I've seen enough Septembers to know that favorites stumble when you least expect it."
+      "value": "## The Hits That Landed\n\nThe Tigers took care of business against Colorado—again. I'll get to that rematch in a minute, but this is becoming a pattern. Toronto flipped the script on Baltimore, the Rays handled Houston's firepower, and San Diego's bats showed up in San Francisco. These weren't coin flips. These were reads based on matchups, momentum, and the kind of September baseball that separates contenders from pretenders."
+    },
+    {
+      "type": "table",
+      "title": "Sep 12 Full Game Results",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Rockies @ Tigers",
+          "Tigers",
+          "63%",
+          "✓"
+        ],
+        [
+          "Mets @ Yankees",
+          "Yankees",
+          "59%",
+          "✗"
+        ],
+        [
+          "Pirates @ Cubs",
+          "Cubs",
+          "60%",
+          "✓"
+        ],
+        [
+          "Orioles @ Jays",
+          "Jays",
+          "60%",
+          "✓"
+        ],
+        [
+          "Angels @ Nationals",
+          "Nationals",
+          "50%",
+          "✓"
+        ],
+        [
+          "Padres @ Giants",
+          "Padres",
+          "63%",
+          "✓"
+        ],
+        [
+          "Royals @ Sox",
+          "Sox",
+          "61%",
+          "✓"
+        ],
+        [
+          "Guardians @ Twins",
+          "Twins",
+          "50%",
+          "✓"
+        ],
+        [
+          "Dodgers @ Marlins",
+          "Dodgers",
+          "60%",
+          "✗"
+        ],
+        [
+          "Astros @ Rays",
+          "Rays",
+          "61%",
+          "✓"
+        ]
+      ]
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 12 Prediction Results by Confidence",
+      "title": "Sep 12 Win Probability vs Results",
       "data": [
         {
           "name": "Tigers",
@@ -50,7 +122,7 @@
         },
         {
           "name": "Jays",
-          "probability": 62,
+          "probability": 60,
           "result": 1
         },
         {
@@ -94,100 +166,28 @@
         {
           "key": "result",
           "color": "#16A34A",
-          "label": "Correct (1=Yes, 0=No)"
+          "label": "Hit (1=Yes, 0=No)"
         }
       ]
     },
     {
-      "type": "table",
-      "title": "Complete Sep 12 Results Breakdown",
-      "headers": [
-        "Matchup",
-        "Our Pick",
-        "Confidence",
-        "Result"
-      ],
-      "rows": [
-        [
-          "Rockies @ Tigers",
-          "Tigers",
-          "63%",
-          "✓ Hit"
-        ],
-        [
-          "Mets @ Yankees",
-          "Yankees",
-          "59%",
-          "✗ Miss"
-        ],
-        [
-          "Pirates @ Cubs",
-          "Cubs",
-          "60%",
-          "✓ Hit"
-        ],
-        [
-          "Orioles @ Jays",
-          "Jays",
-          "62%",
-          "✓ Hit"
-        ],
-        [
-          "Angels @ Nationals",
-          "Nationals",
-          "50%",
-          "✓ Hit"
-        ],
-        [
-          "Padres @ Giants",
-          "Padres",
-          "63%",
-          "✓ Hit"
-        ],
-        [
-          "Royals @ Sox",
-          "Sox",
-          "61%",
-          "✓ Hit"
-        ],
-        [
-          "Guardians @ Twins",
-          "Twins",
-          "50%",
-          "✓ Hit"
-        ],
-        [
-          "Dodgers @ Marlins",
-          "Dodgers",
-          "60%",
-          "✗ Miss"
-        ],
-        [
-          "Astros @ Rays",
-          "Rays",
-          "61%",
-          "✓ Hit"
-        ]
-      ]
+      "type": "text",
+      "value": "## The Two That Got Away\n\nThe Yankees couldn't handle the Mets in the Subway Series—sometimes October baseball starts early in New York, and the script gets thrown out. And Miami? Well, the Marlins playing spoiler against the Dodgers is about as classic as it gets. I've seen enough September baseball to know that even 60% confidence picks can go sideways when pride's on the line."
     },
     {
       "type": "text",
-      "value": "## What Worked Yesterday\n\nThe Tigers at 63% confidence? Money. They handled Colorado like we expected. The Rays took care of Houston, the Jays got past Baltimore, and even our coin-flip calls on the Nationals and Twins came through. When your 50-50 picks both hit, you tip your cap to Lady Luck and move on.\n\nThe real story is consistency across the board. We had solid reads on pitching matchups, and more importantly, we respected home field in spots where it mattered. That's old-school handicapping meeting modern analytics, and it's a beautiful thing when it works."
-    },
-    {
-      "type": "text",
-      "value": "## Looking Ahead to Sep 13: Rockies-Tigers, Round Two\n\nHere's where it gets interesting. We're going back to the well with Detroit. The Tigers are facing Colorado again, and our confidence has actually jumped to 69%. Gabriel Hughes takes the ball for the Rockies against Jackson Jobe for Detroit.\n\nI've seen enough Rockies road games to write a book about them—and it wouldn't be a happy read. When you take Colorado out of Coors Field, you're looking at a completely different team. Hughes has shown flashes, but Jobe's been steady at home, and that Tigers lineup has been grinding out quality at-bats all month."
+      "value": "## Tomorrow's Top Pick: Detroit's Got Another Date\n\nHere's where it gets interesting. Colorado and Detroit run it back on September 13th, and we're even more confident this time around. Jackson Jobe gets the ball for the Tigers at home, and if you've been paying attention, you know what that means. Gabriel Hughes will toe the rubber for the Rockies, and historically—well, let's just say the altitude advantage doesn't travel well to Comerica Park."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - Sep 13",
+      "title": "⭐ Sep 13 Top Pick",
       "value": "Detroit Tigers over Colorado Rockies",
-      "sub": "69% win probability • Jackson Jobe (DET) vs Gabriel Hughes (COL)"
+      "sub": "69% confidence • Jackson Jobe vs Gabriel Hughes • Comerica Park"
     },
     {
       "type": "text",
-      "value": "## The Veteran's Take\n\nWhen you hit 80% on a Friday slate, you don't overthink things for Saturday. The Tigers showed us yesterday they're the better team in this matchup. Sometimes the simplest read is the right one—back the home team with the better pitcher against a club that's already thinking about October tee times.\n\nI'll be watching Jobe's command early. If he's locating that fastball like he has been, this one could get out of hand by the sixth inning. Colorado's got nothing to play for, Detroit's still got pride and a home crowd that deserves a winner.\n\nSee you tomorrow with the results. Let's make it two straight days above 70%."
+      "value": "## The Veteran's Take\n\nSixty-nine percent confidence isn't just a number—it's a reflection of what we saw last night and what the matchup data is screaming. Jobe's been solid at home, the Tigers' lineup has found its rhythm, and Colorado's road woes are well-documented. I've covered enough rematches to know this: when a team wins convincingly once, they usually have the mental edge the second time around.\n\nSee you tomorrow when we break down how it all played out. Same time, same game, different results—or so we hope."
     }
   ],
   "slug": "2026-09-12-daily-max",
