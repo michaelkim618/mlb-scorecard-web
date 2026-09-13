@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-13T20:39:43.088821+00:00",
+  "updated_at": "2026-09-13T20:59:54.474537+00:00",
   "news": [
+    {
+      "title": "In test against AL's best team, Astros fall short",
+      "link": "https://www.mlb.com/news/astros-allow-14-runs-as-rays-complete-sweep",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zxarjspatqudqipcbcgb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-13T20:50:18+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Painter continues to boost rotation in Phils' pursuit of top NL Wild Card",
+      "link": "https://www.mlb.com/news/andrew-painter-s-strong-start-helps-phillies-beat-braves",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rcfqwcfqvkwezkviqs9w",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-13T20:46:02+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789190887/mlb/bgtip4siy3qk2yvgxwvw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-13T20:41:00+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "A challenging stretch? So far, Rays are rising to it",
+      "link": "https://www.mlb.com/news/jonathan-aranda-homers-twice-as-rays-complete-sweep-of-astros",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gn6sgmwoxq7xfaoqfb8s",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-13T20:40:37+00:00",
+      "time_ago": "19m ago"
+    },
     {
       "title": "Schlittler holds Mets to 1 hit in 6 innings, exits after being struck by liner",
       "link": "https://www.mlb.com/news/cam-schlittler-pitches-6-innings-of-1-hit-ball-against-mets",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-13T20:22:00+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "Cornelio continues to thrive in opener role as Nats sweep Halos",
@@ -25,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-13T20:21:12+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Lewis exits with left shoulder soreness against Guardians",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-13T20:12:56+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "46m ago"
     },
     {
       "title": "D-Train inducted into Marlins HOF: 'Surreal moment to see my plaque on the wall'",
@@ -51,59 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-13T20:11:04+00:00",
-      "time_ago": "28m ago"
-    },
-    {
-      "title": "Better late than never! Vladdy connects on 1st Rogers Centre HR of '26",
-      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-hits-first-home-run-at-rogers-centre-in-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iwl54cvwcxmh4majxv47",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-13T19:45:23+00:00",
-      "time_ago": "54m ago"
-    },
-    {
-      "title": "Jobe deals in deepest start of career for sweep of Rockies",
-      "link": "https://www.mlb.com/news/jackson-jobe-shuts-down-rockies-for-tigers-sweep",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yo92rkvjkvymc4u3o7qx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Beck",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-09-13T19:11:31+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Dodgers top prospect's first hit is an absolute moonshot",
-      "link": "https://www.mlb.com/news/josue-de-paula-crushes-three-run-homer-for-first-career-hit",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789325407/mlb/zxpbppmla66hlmbp1rj4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Perla Paredes",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-13T19:09:52+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Contreras activated from IL, returns to Red Sox lineup vs. KC",
-      "link": "https://www.mlb.com/news/willson-contreras-activated-from-injured-list-for-red-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ngyh92tqrn94bj52fzs8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Molly Burkhardt",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-13T18:46:17+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "48m ago"
     }
   ]
 }
