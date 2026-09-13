@@ -1,11 +1,11 @@
 {
-  "title": "Sep 12 Results + Sep 13 Preview: 80% Is a Beautiful Thing",
-  "summary": "12-3 on Sep 12 with 80% accuracy. Tomorrow we're back on the Tigers.",
+  "title": "Sep 12 Results + Sep 13 Preview: Eighty Percent Is Still Money",
+  "summary": "12-3 on Sep 12 with 80% accuracy. Tigers-Rockies rematch headlines tomorrow's slate.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Another Day, Another Dominant Performance\n\nYou know, I've been doing this long enough to appreciate a clean 12-3 day when I see one. That's 80% accuracy, folks, and in this business, that's the kind of number that makes you lean back in your chair and smile a little. We've seen hot streaks and cold snaps over the years, but when the model clicks like it did yesterday, it reminds you why we trust the process."
+      "value": "## Another Day, Another Statement\n\nLook, I've been around this game long enough to know that 12-3 days don't grow on trees. Eighty percent accuracy on a fifteen-game slate? That's the kind of night that pays the bills and then some. The model caught fire yesterday, and frankly, I'm not surprised—September baseball has patterns if you know where to look."
     },
     {
       "type": "stat_row",
@@ -19,25 +19,25 @@
           "value": "80.0%"
         },
         {
-          "label": "Hits",
-          "value": "12"
+          "label": "Best Call",
+          "value": "Padres 63%"
         },
         {
-          "label": "Misses",
-          "value": "3"
+          "label": "Toughest Loss",
+          "value": "Dodgers 60%"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Highlights and the Headaches\n\nThe Tigers took care of business against the Rockies, just like we thought at 63% confidence. The Jays handled the Orioles, the Padres got past the Giants, and even that coin-flip Guardians-Twins game fell our way. I've seen enough baseball to know that when your 50% picks start hitting, you're riding a good wave.\n\nNow, about those misses—the Yankees couldn't get it done against the Mets, and the Dodgers stumbled in Miami. It happens. That's why they play the games. The Mets have been scrappy all year, and Miami's always a tricky place to play in September when young guys are getting their shot."
+      "value": "## The Hits That Mattered\n\nWe nailed the Tigers over the Rockies at 63%—file that one away because we're going back to that well tomorrow. The Jays took care of the Orioles exactly as projected, and the Rays handled Houston business at home. Even the coin-flip calls went our way: Nationals over the Angels and Twins over the Guardians, both at 50%, both cashed.\n\nThe two misses? Yankees couldn't get past the Mets despite 59% confidence, and the Marlins somehow found a way against the Dodgers. That's baseball in September—even the heavy favorites stumble when rosters get creative."
     },
     {
       "type": "table",
-      "title": "Full Sep 12 Results",
+      "title": "Complete Sep 12 Results",
       "headers": [
         "Matchup",
-        "Our Pick",
+        "Pick",
         "Confidence",
         "Result"
       ],
@@ -107,7 +107,7 @@
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 12 Pick Confidence vs Results",
+      "title": "Sep 12 Prediction Performance by Confidence Level",
       "data": [
         {
           "name": "Tigers",
@@ -170,24 +170,24 @@
         {
           "key": "result",
           "color": "#16A34A",
-          "label": "Correct (1=Yes, 0=No)"
+          "label": "Hit (1=Yes, 0=No)"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## Tomorrow's Top Pick: Déjà Vu in Detroit\n\nHere's the thing—when something works, you stick with it. We're going right back to the well with the Tigers against Colorado. Same matchup, same 63% confidence, and honestly, I like it even more the second time around.\n\nGabriel Hughes takes the ball for the Rockies, and he'll be facing Jackson Jobe for Detroit. I've been watching Jobe develop, and the kid's got serious stuff. The Rockies are still the Rockies—they play better at Coors, and on the road, they're a different animal entirely. Detroit's been grinding all season, and at home, they're tough to crack."
+      "value": "## Tomorrow's Top Pick: Running It Back in Detroit\n\nHere's where experience matters. When something works, you don't overthink it—you ride it again. The Tigers handled Colorado yesterday at 63%, and tomorrow we're back on Detroit at an even stronger 66% confidence.\n\nGabriel Hughes gets the ball for the Rockies, while Jackson Jobe takes the mound for Detroit. I've seen this movie before: Colorado pitching on the road in September is not where you want to put your money. The Tigers are playing meaningful baseball, Jobe's been solid at home, and the fundamentals all point the same direction.\n\nThis isn't reinventing the wheel. It's reading the room and backing the team that's proven it can handle this exact opponent 24 hours earlier."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - Sep 13",
+      "title": "⭐ Sep 13 Top Pick",
       "value": "Detroit Tigers over Colorado Rockies",
-      "sub": "63% confidence · Jackson Jobe vs Gabriel Hughes · Tigers at home"
+      "sub": "66% confidence • Jackson Jobe vs Gabriel Hughes • Motor City stays hot"
     },
     {
       "type": "text",
-      "value": "## The Veteran's Take\n\nLook, I've been around long enough to know that back-to-back games between the same teams can get interesting. Adjustments get made, bullpens get taxed, and sometimes the underdog comes out swinging. But the fundamentals here haven't changed. Detroit has the pitching edge, the home-field advantage, and they just beat this same Rockies team yesterday.\n\nIn my experience, when you're riding an 80% day and the next day's top pick mirrors one of your winners, you don't overthink it. You take the Tigers, you feel good about it, and you watch Jackson Jobe do his thing.\n\nSee you back here tomorrow to see how it plays out."
+      "value": "## The Veteran's Take\n\nEighty percent nights remind you why we trust the process. Not every day will hit like this, but when the model locks in and the fundamentals align, you cash tickets. Period.\n\nTomorrow we go right back to Detroit because the edge is still there. Hughes versus Jobe isn't a coin flip—it's a calculated advantage. And in this business, advantages compound.\n\nStay sharp out there."
     }
   ],
   "slug": "2026-09-12-daily-max",

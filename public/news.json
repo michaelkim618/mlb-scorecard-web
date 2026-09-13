@@ -1,18 +1,44 @@
 {
-  "updated_at": "2026-09-13T13:12:22.510088+00:00",
+  "updated_at": "2026-09-13T16:56:11.167792+00:00",
   "news": [
     {
-      "title": "Grichuk plays hero in ninth as White Sox increase AL Central lead",
-      "link": "https://www.mlb.com/news/randal-grichuk-s-late-homer-gives-white-sox-comeback-win-over-cardinals",
+      "title": "D-backs designate veteran OF Gurriel Jr. for assignment",
+      "link": "https://www.mlb.com/news/lourdes-gurriel-jr-designated-for-assignment",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789271680/mlb/c3ndtztusoqhl93xfepp",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x89bben0htatcjx1f1nd",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Scott Merkin",
+      "author": "Max Ralph",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-09-13T16:29:36+00:00",
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "Alvarez returns to Astros' lineup, resuming Triple Crown chase",
+      "link": "https://www.mlb.com/news/yordan-alvarez-out-of-lineup-after-twisting-right-ankle",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jfa73qqzeqcyiiygeykw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-13T16:20:00+00:00",
+      "time_ago": "36m ago"
+    },
+    {
+      "title": "Verlander, Tigers hoping legend can make one last start at Comerica",
+      "link": "https://www.mlb.com/news/justin-verlander-hoping-to-make-last-start-at-comerica-park",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lbbqa6wqlcdydh2fskdi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-13T05:24:00+00:00",
-      "time_ago": "7h ago"
+      "pub_date": "2026-09-13T15:45:10+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -24,21 +50,47 @@
       "author": "",
       "tag": "Standings",
       "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-13T04:55:00+00:00",
-      "time_ago": "8h ago"
+      "pub_date": "2026-09-13T15:14:00+00:00",
+      "time_ago": "1h ago"
     },
     {
-      "title": "Eovaldi, Jung have instant impact in return from IL",
-      "link": "https://www.mlb.com/news/rangers-activate-josh-jung-nathan-eovaldi-off-injured-list",
+      "title": "Free-agent reliever Strahm reportedly has surgery, eyes '27 return",
+      "link": "https://www.mlb.com/news/matt-strahm-has-knee-surgery",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qxyqokuujyve1cv3hyck",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yd5otcvyvxf6y98vlulh",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Kennedi Landry",
+      "author": "Max Ralph",
       "tag": "Injury",
       "tag_color": "#DC2626",
-      "pub_date": "2026-09-13T04:05:00+00:00",
-      "time_ago": "9h ago"
+      "pub_date": "2026-09-13T15:05:50+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "You've never seen a hit-by-pitch like this before",
+      "link": "https://www.mlb.com/news/joey-cantillo-unusual-hit-by-pitch-to-brooks-lee",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vfefytnxwltvfwgwtki4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-13T14:35:06+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Grichuk plays hero in ninth as White Sox increase AL Central lead",
+      "link": "https://www.mlb.com/news/randal-grichuk-s-late-homer-gives-white-sox-comeback-win-over-cardinals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789271680/mlb/c3ndtztusoqhl93xfepp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-13T05:24:00+00:00",
+      "time_ago": "11h ago"
     },
     {
       "title": "Something special brewing as Crew cruises to another double-digit win",
@@ -51,59 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-13T04:03:00+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "Acuña's dominance vs. Phillies conjuring up memories of Chipper-Mets rivalry",
-      "link": "https://www.mlb.com/news/ronald-acuna-jr-helps-braves-pad-lead-over-phillies-in-nl-east",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789264833/mlb/piu3xdaugvoajvk9r20o",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-13T03:16:00+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "Rays relish playoff berth, but have sights set on AL East crown",
-      "link": "https://www.mlb.com/news/ian-seymour-strikes-out-10-in-rays-win-over-astros",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/clyyngt46zssc7yumuqe",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-13T03:01:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Betts hits Dodgers' 10,000th home run since moving to LA in 1958",
-      "link": "https://www.mlb.com/news/mookie-betts-hits-10-000th-home-run-in-la-dodgers-history",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789249088/mlb/utohup3xmr3fywlyjvdd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Perla Paredes",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-13T02:09:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "They have elite fastballs. But the changeup may be their literal secret weapon",
-      "link": "https://www.mlb.com/news/misiorowski-miller-and-hader-each-working-on-changeups-in-2026",
-      "summary": "Misiorowski, Miller and Hader are each fine-tuning an offspeed pitch",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qztvhwvehpz4my27znso",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-13T01:54:45+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "12h ago"
     }
   ]
 }
