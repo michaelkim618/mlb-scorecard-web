@@ -1,0 +1,202 @@
+{
+  "title": "Sep 12 Results + Sep 13 Preview: 80% Is a Beautiful Thing",
+  "summary": "12-3 on Sep 12 with 80% accuracy. Tomorrow we're back on the Tigers.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Another Day, Another Dominant Performance\n\nYou know, I've been doing this long enough to appreciate a clean 12-3 day when I see one. That's 80% accuracy, folks, and in this business, that's the kind of number that makes you lean back in your chair and smile a little. We've seen hot streaks and cold snaps over the years, but when the model clicks like it did yesterday, it reminds you why we trust the process."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Sep 12 W-L",
+          "value": "12-3"
+        },
+        {
+          "label": "Accuracy",
+          "value": "80.0%"
+        },
+        {
+          "label": "Hits",
+          "value": "12"
+        },
+        {
+          "label": "Misses",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Highlights and the Headaches\n\nThe Tigers took care of business against the Rockies, just like we thought at 63% confidence. The Jays handled the Orioles, the Padres got past the Giants, and even that coin-flip Guardians-Twins game fell our way. I've seen enough baseball to know that when your 50% picks start hitting, you're riding a good wave.\n\nNow, about those misses—the Yankees couldn't get it done against the Mets, and the Dodgers stumbled in Miami. It happens. That's why they play the games. The Mets have been scrappy all year, and Miami's always a tricky place to play in September when young guys are getting their shot."
+    },
+    {
+      "type": "table",
+      "title": "Full Sep 12 Results",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Rockies @ Tigers",
+          "Tigers",
+          "63%",
+          "✓"
+        ],
+        [
+          "Mets @ Yankees",
+          "Yankees",
+          "59%",
+          "✗"
+        ],
+        [
+          "Pirates @ Cubs",
+          "Cubs",
+          "60%",
+          "✓"
+        ],
+        [
+          "Orioles @ Jays",
+          "Jays",
+          "62%",
+          "✓"
+        ],
+        [
+          "Angels @ Nationals",
+          "Nationals",
+          "50%",
+          "✓"
+        ],
+        [
+          "Padres @ Giants",
+          "Padres",
+          "63%",
+          "✓"
+        ],
+        [
+          "Royals @ Sox",
+          "Sox",
+          "61%",
+          "✓"
+        ],
+        [
+          "Guardians @ Twins",
+          "Twins",
+          "50%",
+          "✓"
+        ],
+        [
+          "Dodgers @ Marlins",
+          "Dodgers",
+          "60%",
+          "✗"
+        ],
+        [
+          "Astros @ Rays",
+          "Rays",
+          "61%",
+          "✓"
+        ]
+      ]
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Sep 12 Pick Confidence vs Results",
+      "data": [
+        {
+          "name": "Tigers",
+          "probability": 63,
+          "result": 1
+        },
+        {
+          "name": "Yankees",
+          "probability": 59,
+          "result": 0
+        },
+        {
+          "name": "Cubs",
+          "probability": 60,
+          "result": 1
+        },
+        {
+          "name": "Jays",
+          "probability": 62,
+          "result": 1
+        },
+        {
+          "name": "Nationals",
+          "probability": 50,
+          "result": 1
+        },
+        {
+          "name": "Padres",
+          "probability": 63,
+          "result": 1
+        },
+        {
+          "name": "Sox",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Twins",
+          "probability": 50,
+          "result": 1
+        },
+        {
+          "name": "Dodgers",
+          "probability": 60,
+          "result": 0
+        },
+        {
+          "name": "Rays",
+          "probability": 61,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Top Pick: Déjà Vu in Detroit\n\nHere's the thing—when something works, you stick with it. We're going right back to the well with the Tigers against Colorado. Same matchup, same 63% confidence, and honestly, I like it even more the second time around.\n\nGabriel Hughes takes the ball for the Rockies, and he'll be facing Jackson Jobe for Detroit. I've been watching Jobe develop, and the kid's got serious stuff. The Rockies are still the Rockies—they play better at Coors, and on the road, they're a different animal entirely. Detroit's been grinding all season, and at home, they're tough to crack."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Tomorrow's Top Pick - Sep 13",
+      "value": "Detroit Tigers over Colorado Rockies",
+      "sub": "63% confidence · Jackson Jobe vs Gabriel Hughes · Tigers at home"
+    },
+    {
+      "type": "text",
+      "value": "## The Veteran's Take\n\nLook, I've been around long enough to know that back-to-back games between the same teams can get interesting. Adjustments get made, bullpens get taxed, and sometimes the underdog comes out swinging. But the fundamentals here haven't changed. Detroit has the pitching edge, the home-field advantage, and they just beat this same Rockies team yesterday.\n\nIn my experience, when you're riding an 80% day and the next day's top pick mirrors one of your winners, you don't overthink it. You take the Tigers, you feel good about it, and you watch Jackson Jobe do his thing.\n\nSee you back here tomorrow to see how it plays out."
+    }
+  ],
+  "slug": "2026-09-12-daily-max",
+  "author": "Max",
+  "author_emoji": "📰",
+  "author_role": "Senior Reporter",
+  "author_color": "#16A34A",
+  "date": "2026-09-12",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#16A34A"
+}
