@@ -11903,6 +11903,28 @@
       "away_bp_score": 36.0,
       "home_bp_score": 62.1,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-13",
+      "away": "Pittsburgh Pirates",
+      "home": "Chicago Cubs",
+      "game_number": 1,
+      "pick": "Chicago Cubs",
+      "pick_prob": 61.4,
+      "actual_winner": "Pittsburgh Pirates",
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 3.27,
+      "home_sp_era": 3.69,
+      "away_bp_era": 3.89,
+      "home_bp_era": 3.79,
+      "away_sp_score": 47.6,
+      "home_sp_score": 45.4,
+      "away_bp_score": 43.6,
+      "home_bp_score": 60.0,
+      "bat_source": "lineup"
     }
   ]
 }
