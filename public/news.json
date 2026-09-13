@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-13T23:16:01.759798+00:00",
+  "updated_at": "2026-09-13T23:45:46.138157+00:00",
   "news": [
+    {
+      "title": "Bucs holding out hope for playoff run as season hits final weeks",
+      "link": "https://www.mlb.com/news/pirates-rally-to-win-cubs-series-finale-in-chicago",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vazdeuui9vhbcow4just",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-13T23:08:12+00:00",
+      "time_ago": "37m ago"
+    },
     {
       "title": "'A really beautiful moment for me': Ramírez's pinch-hit walk-off HR caps Marlins' comeback",
       "link": "https://www.mlb.com/news/agustin-ramirez-hits-pinch-hit-walk-off-home-run-against-dodgers",
@@ -12,7 +25,20 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-13T23:06:42+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "39m ago"
+    },
+    {
+      "title": "Dodgers top prospect's first hit is an absolute moonshot",
+      "link": "https://www.mlb.com/news/josue-de-paula-crushes-three-run-homer-for-first-career-hit",
+      "summary": "With loss, LA cannot clinch playoff berth until at least Monday",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789335671/mlb/zxpbppmla66hlmbp1rj4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Perla Paredes",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-13T23:05:00+00:00",
+      "time_ago": "40m ago"
     },
     {
       "title": "Rangers snap lengthy road series drought with win over Diamondbacks",
@@ -25,7 +51,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-13T23:03:16+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "42m ago"
+    },
+    {
+      "title": "In test against AL's best team, Astros fall short",
+      "link": "https://www.mlb.com/news/astros-allow-14-runs-as-rays-complete-sweep",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gioaaoxesqmjaifdeqt7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-13T22:59:00+00:00",
+      "time_ago": "46m ago"
     },
     {
       "title": "Brewers building steam towards October despite finale stumble",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-13T22:51:00+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "Painter firmly in pitching plans as Phils pursue top NL Wild Card",
@@ -51,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-13T22:50:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "Offense, Bibee build momentum for Guardians' crucial homestand",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-13T22:42:00+00:00",
-      "time_ago": "34m ago"
-    },
-    {
-      "title": "Sandlin carries perfecto into 6th before Cardinals storm back",
-      "link": "https://www.mlb.com/news/david-sandlin-brings-perfect-game-into-sixth-inning-in-white-sox-loss",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789336714/mlb/hdffj0rbuwqrsvxn3ten",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-13T22:35:00+00:00",
-      "time_ago": "41m ago"
-    },
-    {
-      "title": "MVP chatter around Schlittler grows louder -- though not from Schlittler",
-      "link": "https://www.mlb.com/news/cam-schlittler-pitches-6-innings-of-1-hit-ball-against-mets",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789333305/mlb/jpo0fs6eaibyfmhwwhfg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-09-13T22:25:00+00:00",
-      "time_ago": "51m ago"
-    },
-    {
-      "title": "Verlander, Tigers hoping legend can make one last start at Comerica",
-      "link": "https://www.mlb.com/news/justin-verlander-hoping-to-make-last-start-at-comerica-park",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lbbqa6wqlcdydh2fskdi",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Beck",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-13T22:24:00+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
