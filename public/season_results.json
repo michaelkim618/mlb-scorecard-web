@@ -11925,6 +11925,28 @@
       "away_bp_score": 43.6,
       "home_bp_score": 60.0,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-13",
+      "away": "Texas Rangers",
+      "home": "Arizona Diamondbacks",
+      "game_number": 1,
+      "pick": "Texas Rangers",
+      "pick_prob": 51.8,
+      "actual_winner": "Texas Rangers",
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "hot",
+      "away_sp_era": 1.89,
+      "home_sp_era": 3.05,
+      "away_bp_era": 3.39,
+      "home_bp_era": 2.9,
+      "away_sp_score": 72.0,
+      "home_sp_score": 62.3,
+      "away_bp_score": 65.4,
+      "home_bp_score": 72.5,
+      "bat_source": "prev_day"
     }
   ]
 }
