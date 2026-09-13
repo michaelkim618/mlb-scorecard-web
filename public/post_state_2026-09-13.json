@@ -1,15 +1,19 @@
 {
   "predictions": [
     "09:10",
-    "12:05"
+    "12:05",
+    "13:05"
   ],
   "results": false,
   "lineup_refreshed": [
-    "09:10"
+    "09:10",
+    "10:35"
   ],
   "predictions_frozen": [
     "09:10",
-    "12:05"
+    "12:05",
+    "10:35",
+    "13:05"
   ],
   "frozen_predictions": {
     "09:10": [
@@ -48,6 +52,205 @@
         "sp_bat_conflict_detail": null,
         "low_confidence": false,
         "low_confidence_reason": null,
+        "extreme_edge": false
+      }
+    ],
+    "10:35": [
+      {
+        "game_pk": "822682",
+        "win_prob": {
+          "away": 50.4,
+          "home": 49.6
+        },
+        "model_winner": "Los Angeles Angels",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -5.4,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "SP 점수 차이 2.2pt (≤5.0pt) / 최고 확률 50.4% (≤58.0%)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "824869",
+        "win_prob": {
+          "away": 39.3,
+          "home": 60.7
+        },
+        "model_winner": "Atlanta Braves",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 6.7,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823495",
+        "win_prob": {
+          "away": 49.1,
+          "home": 50.9
+        },
+        "model_winner": "New York Yankees",
+        "value_bet": "⏭️ 패스 (박빙 경기 — 예측 신뢰도 낮음)",
+        "edge": -11.1,
+        "sp_bat_conflict": true,
+        "sp_bat_conflict_detail": {
+          "sp_favors": "New York Yankees",
+          "bat_favors": "New York Mets",
+          "sp_gap": -24.7,
+          "bat_gap": 23.1
+        },
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 50.9% (≤58.0%)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "822764",
+        "win_prob": {
+          "away": 45.6,
+          "home": 54.4
+        },
+        "model_winner": "Toronto Blue Jays",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -3.6,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 54.4% (≤58.0%)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "822928",
+        "win_prob": {
+          "away": 42.3,
+          "home": 57.7
+        },
+        "model_winner": "Tampa Bay Rays",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 3.7,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 57.7% (≤58.0%)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823815",
+        "win_prob": {
+          "away": 61.5,
+          "home": 38.5
+        },
+        "model_winner": "Los Angeles Dodgers",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -5.5,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "SP 점수 차이 2.2pt (≤5.0pt)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823658",
+        "win_prob": {
+          "away": 50.3,
+          "home": 49.7
+        },
+        "model_winner": "Cleveland Guardians",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -3.3,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 50.3% (≤58.0%)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823734",
+        "win_prob": {
+          "away": 37.0,
+          "home": 63.0
+        },
+        "model_winner": "Milwaukee Brewers",
+        "value_bet": "⭐ 고신뢰 예측 — 모델·시장 동의 (Milwaukee Brewers 63%)",
+        "edge": 0.0,
+        "sp_bat_conflict": true,
+        "sp_bat_conflict_detail": {
+          "sp_favors": "Cincinnati Reds",
+          "bat_favors": "Milwaukee Brewers",
+          "sp_gap": 17.0,
+          "bat_gap": -25.1
+        },
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823008",
+        "win_prob": {
+          "away": 54.0,
+          "home": 46.0
+        },
+        "model_winner": "Chicago White Sox",
+        "value_bet": "⏭️ 패스 (양팀 ERA 5.0+ — 불확실성 과다, SP격차 7.0p 참고)",
+        "edge": null,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 50.0% (≤58.0%)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "824628",
+        "win_prob": {
+          "away": 38.6,
+          "home": 61.4
+        },
+        "model_winner": "Chicago Cubs",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 1.4,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "SP 점수 차이 2.2pt (≤5.0pt)",
+        "extreme_edge": false
+      }
+    ],
+    "13:05": [
+      {
+        "game_pk": "824952",
+        "win_prob": {
+          "away": 42.2,
+          "home": 57.8
+        },
+        "model_winner": "Athletics",
+        "value_bet": "⏭️ 패스 (SP↔BAT충돌+시장역방향 edge +13.8%p — 신뢰불가)",
+        "edge": 13.8,
+        "sp_bat_conflict": true,
+        "sp_bat_conflict_detail": {
+          "sp_favors": "Athletics",
+          "bat_favors": "Seattle Mariners",
+          "sp_gap": -25.5,
+          "bat_gap": 8.6
+        },
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 57.8% (≤58.0%)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "825033",
+        "win_prob": {
+          "away": 51.8,
+          "home": 48.2
+        },
+        "model_winner": "Texas Rangers",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -5.8,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 51.8% (≤58.0%)",
         "extreme_edge": false
       }
     ]
