@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-13T22:44:08.472814+00:00",
+  "updated_at": "2026-09-13T23:16:01.759798+00:00",
   "news": [
+    {
+      "title": "'A really beautiful moment for me': Ramírez's pinch-hit walk-off HR caps Marlins' comeback",
+      "link": "https://www.mlb.com/news/agustin-ramirez-hits-pinch-hit-walk-off-home-run-against-dodgers",
+      "summary": "Ramírez becomes sixth Marlin to hit a pinch-hit walk-off homer, first since 2010",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789334529/mlb/u8mh6gp46xjfpxuaigc8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Christina De Nicola",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-13T23:06:42+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Rangers snap lengthy road series drought with win over Diamondbacks",
+      "link": "https://www.mlb.com/news/corey-seager-homers-in-rangers-win-over-diamondbacks",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789340842/mlb/qsbjv2ra5pwuak5zwpgm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kennedi Landry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-13T23:03:16+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Brewers building steam towards October despite finale stumble",
+      "link": "https://www.mlb.com/news/jake-bauers-homers-but-brewers-can-t-complete-comeback-in-finale",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789334659/mlb/itpske3gzd0h421mld5v",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Sweet",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-13T22:51:00+00:00",
+      "time_ago": "25m ago"
+    },
     {
       "title": "Painter firmly in pitching plans as Phils pursue top NL Wild Card",
       "link": "https://www.mlb.com/news/andrew-painter-s-strong-start-helps-phillies-beat-braves",
@@ -11,86 +50,21 @@
       "author": "Todd Zolecki",
       "tag": "Standings",
       "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-13T22:14:00+00:00",
-      "time_ago": "30m ago"
+      "pub_date": "2026-09-13T22:50:00+00:00",
+      "time_ago": "26m ago"
     },
     {
-      "title": "Krall assumes responsibility for disappointing season, discusses future with Reds",
-      "link": "https://www.mlb.com/news/nick-krall-discusses-reds-disappointing-2026-results",
+      "title": "Offense, Bibee build momentum for Guardians' crucial homestand",
+      "link": "https://www.mlb.com/news/tanner-bibee-strikes-out-7-in-bounce-back-start-against-twins",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/apn1laqaxbjagt94l7h2",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oodwdbqewqzc3ehtingh",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Mark Sheldon",
+      "author": "Patrick Donnelly",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-13T22:09:16+00:00",
+      "pub_date": "2026-09-13T22:42:00+00:00",
       "time_ago": "34m ago"
-    },
-    {
-      "title": "Home(r) at last! Vladdy goes deep in Toronto for first time in 2026",
-      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-hits-first-home-run-at-rogers-centre-in-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iwl54cvwcxmh4majxv47",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-13T22:06:00+00:00",
-      "time_ago": "38m ago"
-    },
-    {
-      "title": "Streaking Padres fight for postseason spot against Giants (7:20 ET on Peacock)",
-      "link": "https://www.mlb.com/news/sunday-night-baseball-on-peacock-nbc-for-2026-mlb-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iyumq22pbgsx1woxna6m",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-13T21:57:00+00:00",
-      "time_ago": "47m ago"
-    },
-    {
-      "title": "A challenging stretch? So far, Rays are rising to it",
-      "link": "https://www.mlb.com/news/jonathan-aranda-homers-twice-as-rays-complete-sweep-of-astros",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789333242/mlb/gn6sgmwoxq7xfaoqfb8s",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-13T21:51:00+00:00",
-      "time_ago": "53m ago"
-    },
-    {
-      "title": "Immaculate! Tolle sets tone in first inning against Royals",
-      "link": "https://www.mlb.com/news/payton-tolle-pitches-immaculate-first-inning-against-royals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/voaw5nu49aa0clgrayes",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Molly Burkhardt",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-13T21:46:23+00:00",
-      "time_ago": "57m ago"
-    },
-    {
-      "title": "Scott belongs in '27 rotation. How does the rest fall into place?",
-      "link": "https://www.mlb.com/news/christian-scott-continues-bid-for-2027-rotation-in-loss-to-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789338651/mlb/zupnprorywuoejj3cfof",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-13T21:40:00+00:00",
-      "time_ago": "1h ago"
     },
     {
       "title": "Sandlin carries perfecto into 6th before Cardinals storm back",
@@ -102,8 +76,34 @@
       "author": "Scott Merkin",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-13T21:15:48+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-09-13T22:35:00+00:00",
+      "time_ago": "41m ago"
+    },
+    {
+      "title": "MVP chatter around Schlittler grows louder -- though not from Schlittler",
+      "link": "https://www.mlb.com/news/cam-schlittler-pitches-6-innings-of-1-hit-ball-against-mets",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789333305/mlb/jpo0fs6eaibyfmhwwhfg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-09-13T22:25:00+00:00",
+      "time_ago": "51m ago"
+    },
+    {
+      "title": "Verlander, Tigers hoping legend can make one last start at Comerica",
+      "link": "https://www.mlb.com/news/justin-verlander-hoping-to-make-last-start-at-comerica-park",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lbbqa6wqlcdydh2fskdi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-13T22:24:00+00:00",
+      "time_ago": "52m ago"
     }
   ]
 }
