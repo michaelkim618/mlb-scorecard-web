@@ -1,113 +1,37 @@
 {
-  "title": "Sep 12 Results + Sep 13 Preview: Twelve Wins and a Whole Lot of Validation",
-  "summary": "80% accuracy on Sep 12 with 12-3 record. Detroit tops tomorrow's card at 69%.",
+  "title": "Sep 12 Results + Sep 13 Preview: Twelve Wins and a Whole Lotta Validation",
+  "summary": "80% accuracy on Sep 12 slate. Tigers look sharp again for tomorrow's rematch.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Another Night, Another Reminder\n\nYou know what I've learned after covering this game for more years than I care to admit? When you hit 80% on a 15-game slate, you don't overthink it. You tip your cap, take the win, and get ready for tomorrow.\n\nSeptember 12th was one of those nights where the model hummed like a well-oiled machine. Twelve winners out of fifteen attempts. The kind of night that reminds you why we trust the numbers when the gut wants to get fancy."
+      "value": "## Another September Day, Another Solid Performance\n\nYou know, I've been around this game long enough to recognize when the model's humming along nicely. Yesterday was one of those days—12 wins out of 15 games will put a smile on anyone's face. At 80% accuracy, we're seeing the kind of consistency that reminds me of those late-season pushes when everything just clicks."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Overall Record",
+          "label": "Sep 12 W-L",
           "value": "12-3"
         },
         {
-          "label": "Win Rate",
+          "label": "Accuracy",
           "value": "80.0%"
         },
         {
           "label": "Best Call",
           "value": "Tigers 63%"
-        },
-        {
-          "label": "Toughest Loss",
-          "value": "Dodgers"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Breakdown: What Worked and What Didn't\n\nLet's start with the good stuff. The Tigers took care of business against Colorado—exactly what we expected with that 63% confidence. The Rays handled Houston at home, the Padres got it done in San Francisco, and even those coin-flip calls on the Nationals and Twins came through.\n\nThe misses? Look, the Yankees dropping one to the Mets in the Subway Series—that's baseball in September. And the Dodgers falling to Miami? I've seen stranger things in Florida. These weren't bad reads, just bad breaks."
-    },
-    {
-      "type": "table",
-      "title": "Sep 12 Complete Results",
-      "headers": [
-        "Matchup",
-        "Our Pick",
-        "Confidence",
-        "Result"
-      ],
-      "rows": [
-        [
-          "Rockies @ Tigers",
-          "Tigers",
-          "63%",
-          "✓"
-        ],
-        [
-          "Mets @ Yankees",
-          "Yankees",
-          "59%",
-          "✗"
-        ],
-        [
-          "Pirates @ Cubs",
-          "Cubs",
-          "60%",
-          "✓"
-        ],
-        [
-          "Orioles @ Jays",
-          "Jays",
-          "62%",
-          "✓"
-        ],
-        [
-          "Angels @ Nationals",
-          "Nationals",
-          "50%",
-          "✓"
-        ],
-        [
-          "Padres @ Giants",
-          "Padres",
-          "63%",
-          "✓"
-        ],
-        [
-          "Royals @ Sox",
-          "Sox",
-          "61%",
-          "✓"
-        ],
-        [
-          "Guardians @ Twins",
-          "Twins",
-          "50%",
-          "✓"
-        ],
-        [
-          "Dodgers @ Marlins",
-          "Dodgers",
-          "60%",
-          "✗"
-        ],
-        [
-          "Astros @ Rays",
-          "Rays",
-          "61%",
-          "✓"
-        ]
-      ]
+      "value": "## The Misses Tell a Story Too\n\nLet's get the disappointments out of the way. The Yankees couldn't get it done against the Mets in the Bronx—always a tough cross-town matchup, and those never quite play by the book. The Dodgers falling to the Marlins in Miami? Well, that's baseball in September. Teams resting guys, looking ahead, trap games everywhere. I've seen enough Septembers to know that favorites stumble when you least expect it."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 12 Prediction Confidence vs Results",
+      "title": "Sep 12 Prediction Results by Confidence",
       "data": [
         {
           "name": "Tigers",
@@ -170,24 +94,100 @@
         {
           "key": "result",
           "color": "#16A34A",
-          "label": "Hit (1=Yes, 0=No)"
+          "label": "Correct (1=Yes, 0=No)"
         }
       ]
     },
     {
+      "type": "table",
+      "title": "Complete Sep 12 Results Breakdown",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Rockies @ Tigers",
+          "Tigers",
+          "63%",
+          "✓ Hit"
+        ],
+        [
+          "Mets @ Yankees",
+          "Yankees",
+          "59%",
+          "✗ Miss"
+        ],
+        [
+          "Pirates @ Cubs",
+          "Cubs",
+          "60%",
+          "✓ Hit"
+        ],
+        [
+          "Orioles @ Jays",
+          "Jays",
+          "62%",
+          "✓ Hit"
+        ],
+        [
+          "Angels @ Nationals",
+          "Nationals",
+          "50%",
+          "✓ Hit"
+        ],
+        [
+          "Padres @ Giants",
+          "Padres",
+          "63%",
+          "✓ Hit"
+        ],
+        [
+          "Royals @ Sox",
+          "Sox",
+          "61%",
+          "✓ Hit"
+        ],
+        [
+          "Guardians @ Twins",
+          "Twins",
+          "50%",
+          "✓ Hit"
+        ],
+        [
+          "Dodgers @ Marlins",
+          "Dodgers",
+          "60%",
+          "✗ Miss"
+        ],
+        [
+          "Astros @ Rays",
+          "Rays",
+          "61%",
+          "✓ Hit"
+        ]
+      ]
+    },
+    {
       "type": "text",
-      "value": "## Looking Ahead: September 13th\n\nHere's the thing about back-to-back nights—momentum matters, but so does staying humble. We're riding high off an 80% night, but tomorrow's a new slate.\n\nThe model's most confident play for Saturday? We're going right back to the well with Detroit. The Tigers host Colorado again, and we're bumping our confidence up to 69%. Jackson Jobe gets the ball for Detroit against Gabriel Hughes, and the matchup metrics love what they see."
+      "value": "## What Worked Yesterday\n\nThe Tigers at 63% confidence? Money. They handled Colorado like we expected. The Rays took care of Houston, the Jays got past Baltimore, and even our coin-flip calls on the Nationals and Twins came through. When your 50-50 picks both hit, you tip your cap to Lady Luck and move on.\n\nThe real story is consistency across the board. We had solid reads on pitching matchups, and more importantly, we respected home field in spots where it mattered. That's old-school handicapping meeting modern analytics, and it's a beautiful thing when it works."
+    },
+    {
+      "type": "text",
+      "value": "## Looking Ahead to Sep 13: Rockies-Tigers, Round Two\n\nHere's where it gets interesting. We're going back to the well with Detroit. The Tigers are facing Colorado again, and our confidence has actually jumped to 69%. Gabriel Hughes takes the ball for the Rockies against Jackson Jobe for Detroit.\n\nI've seen enough Rockies road games to write a book about them—and it wouldn't be a happy read. When you take Colorado out of Coors Field, you're looking at a completely different team. Hughes has shown flashes, but Jobe's been steady at home, and that Tigers lineup has been grinding out quality at-bats all month."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Top Pick for September 13",
+      "title": "⭐ Tomorrow's Top Pick - Sep 13",
       "value": "Detroit Tigers over Colorado Rockies",
-      "sub": "69% win probability • Jobe vs Hughes • Home advantage"
+      "sub": "69% win probability • Jackson Jobe (DET) vs Gabriel Hughes (COL)"
     },
     {
       "type": "text",
-      "value": "## The Veteran's Take\n\nI've been doing this long enough to know that 80% nights don't come around every day. But I've also been around long enough to know that one good night doesn't make a season, and one bad night doesn't break a model.\n\nWhat matters is consistency. Process over results. Trust over trends.\n\nThe Tigers have been a reliable play at home, and when the model gives you a near-70% confidence level in mid-September, you listen. We'll ride with Detroit again and see where the chips fall.\n\nSame time tomorrow, folks. Let's make it two strong nights in a row."
+      "value": "## The Veteran's Take\n\nWhen you hit 80% on a Friday slate, you don't overthink things for Saturday. The Tigers showed us yesterday they're the better team in this matchup. Sometimes the simplest read is the right one—back the home team with the better pitcher against a club that's already thinking about October tee times.\n\nI'll be watching Jobe's command early. If he's locating that fastball like he has been, this one could get out of hand by the sixth inning. Colorado's got nothing to play for, Detroit's still got pride and a home crowd that deserves a winner.\n\nSee you tomorrow with the results. Let's make it two straight days above 70%."
     }
   ],
   "slug": "2026-09-12-daily-max",
