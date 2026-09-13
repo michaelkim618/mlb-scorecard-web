@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-13T19:39:02.933892+00:00",
+  "updated_at": "2026-09-13T20:39:43.088821+00:00",
   "news": [
+    {
+      "title": "Schlittler holds Mets to 1 hit in 6 innings, exits after being struck by liner",
+      "link": "https://www.mlb.com/news/cam-schlittler-pitches-6-innings-of-1-hit-ball-against-mets",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jpo0fs6eaibyfmhwwhfg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-13T20:22:00+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Cornelio continues to thrive in opener role as Nats sweep Halos",
+      "link": "https://www.mlb.com/news/riley-cornelio-two-scoreless-innings-as-opener-nationals-sweep-angels",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cgxybr7he4sa8s5w88br",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jessica Camerato",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-13T20:21:12+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Lewis exits with left shoulder soreness against Guardians",
+      "link": "https://www.mlb.com/news/royce-lewis-exits-with-left-shoulder-injury-against-guardians",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xfhdwh7vat8kzbz7h2zy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theodore Tollefson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-13T20:12:56+00:00",
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "D-Train inducted into Marlins HOF: 'Surreal moment to see my plaque on the wall'",
+      "link": "https://www.mlb.com/news/dontrelle-willis-inducted-into-marlins-legends-hall-of-fame",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789321854/mlb/pxoimee5pv92zmquk421",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Christina De Nicola",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-13T20:11:04+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "Better late than never! Vladdy connects on 1st Rogers Centre HR of '26",
+      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-hits-first-home-run-at-rogers-centre-in-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iwl54cvwcxmh4majxv47",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-13T19:45:23+00:00",
+      "time_ago": "54m ago"
+    },
     {
       "title": "Jobe deals in deepest start of career for sweep of Rockies",
       "link": "https://www.mlb.com/news/jackson-jobe-shuts-down-rockies-for-tigers-sweep",
@@ -12,10 +77,10 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-09-13T19:11:31+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "1h ago"
     },
     {
-      "title": "De Paula's 1st career hit? A 416-foot, 3-run BLAST!",
+      "title": "Dodgers top prospect's first hit is an absolute moonshot",
       "link": "https://www.mlb.com/news/josue-de-paula-crushes-three-run-homer-for-first-career-hit",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789325407/mlb/zxpbppmla66hlmbp1rj4",
@@ -25,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-13T19:09:52+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Contreras activated from IL, returns to Red Sox lineup vs. KC",
@@ -38,72 +103,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-13T18:46:17+00:00",
-      "time_ago": "52m ago"
-    },
-    {
-      "title": "White Sox see 'light at the end of the tunnel' after Grichuk's heroics",
-      "link": "https://www.mlb.com/news/white-sox-momentum-building-towards-postseason",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vq5hbqrqzgsnc0gtgrbl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-13T18:31:34+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Caissie (lumbar stress reaction) heads to IL, effectively ending rookie season",
-      "link": "https://www.mlb.com/news/owen-caissie-placed-on-injured-list-with-lumbar-stress-reaction",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789317682/mlb/k9lyzy8qoawzfnzrrsur",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Christina De Nicola",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-13T17:43:37+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Bradish lands on 15-day IL with lower abdominal discomfort",
-      "link": "https://www.mlb.com/news/kyle-bradish-placed-on-15-day-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dokcqc2dydfmcmzf1ntw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matt Betts",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-13T16:52:12+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "D-backs designate veteran OF Gurriel Jr. for assignment",
-      "link": "https://www.mlb.com/news/lourdes-gurriel-jr-designated-for-assignment",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x89bben0htatcjx1f1nd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-09-13T16:29:36+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Alvarez returns to Astros' lineup, resuming Triple Crown chase",
-      "link": "https://www.mlb.com/news/yordan-alvarez-out-of-lineup-after-twisting-right-ankle",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jfa73qqzeqcyiiygeykw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-13T16:20:00+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
