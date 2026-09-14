@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-14T04:04:10.250064+00:00",
+  "updated_at": "2026-09-14T05:11:01.537903+00:00",
   "news": [
     {
-      "title": "Padres cruise to 7th straight win, extend lead in race for 3rd NL Wild Card",
+      "title": "Padres cruise to 7th straight win to stretch lead in race for 3rd NL Wild Card",
       "link": "https://www.mlb.com/news/padres-secure-sweep-in-win-over-giants",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ll8sivvaauh5nbeq3chg",
@@ -11,8 +11,8 @@
       "author": "Adrian Garro",
       "tag": "Standings",
       "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-14T02:32:42+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-09-14T04:19:00+00:00",
+      "time_ago": "52m ago"
     },
     {
       "title": "Breaking down the remaining playoff races",
@@ -25,7 +25,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-14T02:26:32+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "AL Central, Wild Cards in both leagues on the line in top series this week",
@@ -38,7 +38,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-14T02:26:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -51,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-14T02:18:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Top 3 teams in latest Power Rankings jockeying for bye",
@@ -64,7 +64,7 @@
       "tag": "Rankings",
       "tag_color": "#4F46E5",
       "pub_date": "2026-09-14T02:13:10+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "One strike away from an immaculate inning, his wry smile said it all",
@@ -77,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T01:54:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Injuries: Luzardo, Devers, Correa, Yankees, Cubs, Dodgers",
@@ -90,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-14T01:51:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "20-year-old catching prospect Salas triples for first big league knock",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T01:42:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
