@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-14T18:50:49.904620+00:00",
+  "updated_at": "2026-09-14T19:13:32.905620+00:00",
   "news": [
+    {
+      "title": "Kim Ng reflects on groundbreaking MLB career, AUSL's growth",
+      "link": "https://www.mlb.com/news/kim-ng-talks-ausl-future-mlb-career-on-podcast",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eb8khpqlbxlijmla9nme",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Linus Lawrence",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-14T19:02:15+00:00",
+      "time_ago": "11m ago"
+    },
     {
       "title": "Padres' surge fueled by more than just stars",
       "link": "https://www.mlb.com/news/padres-getting-production-throughout-lineup-amid-playoff-push",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T18:13:41+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "MLB to kick off Hispanic Heritage Month with Roberto Clemente Day",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T18:03:01+00:00",
-      "time_ago": "47m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -38,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-14T17:55:00+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Tracking the 2026 postseason field",
@@ -90,19 +103,6 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-09-14T15:30:56+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "White Sox-Guardians series could clarify AL Central race",
-      "link": "https://www.mlb.com/news/white-sox-guardians-meet-for-crucial-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rb9bba7qeuljt2vsdncz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin and Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-14T15:00:29+00:00",
       "time_ago": "3h ago"
     }
   ]
