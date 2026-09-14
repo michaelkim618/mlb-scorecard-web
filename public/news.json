@@ -1,18 +1,31 @@
 {
-  "updated_at": "2026-09-14T21:44:41.007913+00:00",
+  "updated_at": "2026-09-14T21:56:25.563656+00:00",
   "news": [
+    {
+      "title": "No. 2 prospect in baseball De Vries undergoes successful shoulder surgery",
+      "link": "https://www.mlb.com/news/leo-de-vries-successful-shoulder-surgery",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y8br8fgmcovn8yhxgots",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-14T21:50:33+00:00",
+      "time_ago": "5m ago"
+    },
     {
       "title": "D-backs claim outfielder Sánchez off waivers from Blue Jays",
       "link": "https://www.mlb.com/news/jesus-sanchez-claimed-off-waivers-d-backs",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wzboofpqzureayat2uow",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789419225/mlb/wzboofpqzureayat2uow",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Jared Greenspan",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T20:50:40+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "White Sox-Guardians series could clarify AL Central race",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T18:54:06+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Padres' surge fueled by more than just stars",
-      "link": "https://www.mlb.com/news/padres-getting-production-throughout-lineup-amid-playoff-push",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kvfkoacthmwdfis3ofq4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adrian Garro",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-14T18:13:41+00:00",
       "time_ago": "3h ago"
     }
   ]
