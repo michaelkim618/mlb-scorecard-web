@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>MLB 예측 히스토리 | MLB Scorecard</title>
+<title>MLB Prediction History | MLB Scorecard</title>
 <style>
 :root {
   --bg:          #f0f4f8;
@@ -633,23 +633,23 @@ header .sub { color: var(--muted); font-size: 11px; margin-top: 1px; }
   <span class="logo">⚾</span>
   <div>
     <h1>MLB Scorecard</h1>
-    <div class="sub">시즌 전체 예측 기록 · 날짜별 경기 결과 아카이브</div>
+    <div class="sub">Full season prediction records · Game results archive by date</div>
   </div>
   <nav class="header-nav">
-    <a href="dashboard.html" class="nav-tab">🏠 오늘의 예측</a>
-    <a href="history.html" class="nav-tab active">📅 히스토리</a>
+    <a href="dashboard.html" class="nav-tab">🏠 Today's Picks</a>
+    <a href="history.html" class="nav-tab active">📅 History</a>
   </nav>
   <div style="margin-left:auto"></div>
 </header>
 
 <!-- ── 시즌 요약 ── -->
 <div class="season-summary" id="season-summary">
-  <div style="color:var(--muted);font-size:13px;">시즌 데이터 로딩 중…</div>
+  <div style="color:var(--muted);font-size:13px;">Loading season data…</div>
 </div>
 
 <!-- ── 정확도 트렌드 차트 ── -->
 <div class="trend-section">
-  <h2>📈 일자별 정확도 트렌드</h2>
+  <h2>📈 Daily Accuracy Trend</h2>
   <div class="trend-chart-wrap">
     <div class="trend-chart" id="trend-chart">
       <div class="loading-wrap" style="padding:20px;width:100%">
@@ -665,12 +665,12 @@ header .sub { color: var(--muted); font-size: 11px; margin-top: 1px; }
   <!-- 날짜 사이드바 -->
   <div class="date-sidebar" id="date-sidebar">
     <div class="sidebar-header">
-      <input type="text" id="date-search" placeholder="날짜 검색 (예: 08-15)" oninput="filterDates(this.value)">
+      <input type="text" id="date-search" placeholder="Search date (e.g. 08-15)" oninput="filterDates(this.value)">
     </div>
     <div id="date-list">
       <div class="loading-wrap" style="padding:30px 16px;">
         <div class="spinner"></div>
-        <div style="margin-top:8px;font-size:12px;">데이터 로딩 중…</div>
+        <div style="margin-top:8px;font-size:12px;">Loading data…</div>
       </div>
     </div>
   </div>
@@ -679,7 +679,7 @@ header .sub { color: var(--muted); font-size: 11px; margin-top: 1px; }
   <div class="games-panel" id="games-panel">
     <div class="empty-state" id="panel-empty">
       <div class="emo">📅</div>
-      <p>왼쪽에서 날짜를 선택하면<br>해당 날의 경기 기록을 볼 수 있어요.</p>
+      <p>Select a date on the left<br>to view game records for that day.</p>
     </div>
     <div id="panel-content" style="display:none">
       <div class="panel-header">
@@ -687,10 +687,10 @@ header .sub { color: var(--muted); font-size: 11px; margin-top: 1px; }
         <div class="panel-date-acc" id="panel-stats"></div>
       </div>
       <div class="filter-bar">
-        <button class="flt-btn active" onclick="setFilter('all',this)">전체</button>
-        <button class="flt-btn" onclick="setFilter('hit',this)">✅ 적중</button>
-        <button class="flt-btn" onclick="setFilter('miss',this)">❌ 미스</button>
-        <button class="flt-btn" onclick="setFilter('high',this)">⭐ 고신뢰</button>
+        <button class="flt-btn active" onclick="setFilter('all',this)">All</button>
+        <button class="flt-btn" onclick="setFilter('hit',this)">✅ Correct</button>
+        <button class="flt-btn" onclick="setFilter('miss',this)">❌ Miss</button>
+        <button class="flt-btn" onclick="setFilter('high',this)">⭐ High Conf</button>
       </div>
       <div id="games-list"></div>
     </div>
@@ -744,7 +744,7 @@ async function init() {
     else if (dateList.length) selectDate(dateList[dateList.length - 1]);
   } catch(e) {
     document.getElementById('season-summary').innerHTML =
-      `<div style="color:var(--red);font-size:13px;">❌ 데이터 로드 실패: ${e.message}</div>`;
+      `<div style="color:var(--red);font-size:13px;">❌ Failed to load data: ${e.message}</div>`;
   }
 }
 
@@ -786,23 +786,23 @@ function renderSeasonSummary() {
   document.getElementById('season-summary').innerHTML = `
     <div class="stat-pill pill-green">
       <div class="s-val">${s.pct ?? '—'}%</div>
-      <div class="s-lbl">시즌 정확도</div>
+      <div class="s-lbl">Season Accuracy</div>
     </div>
     <div class="stat-pill">
       <div class="s-val">${s.hits} / ${s.total}</div>
-      <div class="s-lbl">적중 / 총 경기</div>
+      <div class="s-lbl">Correct / Total</div>
     </div>
     <div class="stat-pill pill-blue">
-      <div class="s-val">${dateList.length}일</div>
-      <div class="s-lbl">트래킹 기간</div>
+      <div class="s-val">${dateList.length} days</div>
+      <div class="s-lbl">Tracking Period</div>
     </div>
     <div class="stat-pill pill-yellow">
       <div class="s-val">${bestDay.pct ?? '—'}%</div>
-      <div class="s-lbl">최고 일일 정확도 (${bestDay.date ? fmtDate(bestDay.date) : '—'})</div>
+      <div class="s-lbl">Best Day (${bestDay.date ? fmtDate(bestDay.date) : '—'})</div>
     </div>
     <div class="stat-pill">
       <div class="s-val">${streak.n}${streak.type === 'hit' ? '🔥' : streak.type === 'miss' ? '🧊' : ''}</div>
-      <div class="s-lbl">현재 ${streak.type === 'hit' ? '연속 50%+' : streak.type === 'miss' ? '연속 50%-' : '—'} 스트릭</div>
+      <div class="s-lbl">Current ${streak.type === 'hit' ? '50%+ Streak' : streak.type === 'miss' ? 'Sub-50% Streak' : '—'}</div>
     </div>
   `;
 }
@@ -829,7 +829,7 @@ function calcStreak() {
 // ════════════════════════════════════════
 function renderTrendChart() {
   const wrap = document.getElementById('trend-chart');
-  if (!dateList.length) { wrap.innerHTML = '<div style="color:var(--muted);padding:20px;">데이터 없음</div>'; return; }
+  if (!dateList.length) { wrap.innerHTML = '<div style="color:var(--muted);padding:20px;">No data</div>'; return; }
 
   const maxH = 80;
   wrap.innerHTML = dateList.map(d => {
@@ -864,7 +864,7 @@ function renderDateSidebar(filter = '') {
   const el = document.getElementById('date-list');
   const filtered = dateList.filter(d => !filter || d.includes(filter)).reverse();
   if (!filtered.length) {
-    el.innerHTML = '<div style="padding:20px 16px;color:var(--muted);font-size:12px;">결과 없음</div>';
+    el.innerHTML = '<div style="padding:20px 16px;color:var(--muted);font-size:12px;">No results</div>';
     return;
   }
 
@@ -879,7 +879,7 @@ function renderDateSidebar(filter = '') {
   el.innerHTML = Object.keys(byMonth).sort().reverse().map(m => {
     const monthLabel = (() => {
       const [y, mo] = m.split('-');
-      return `${y}년 ${parseInt(mo)}월`;
+      return `${['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][parseInt(mo)-1]} ${y}`;
     })();
     const items = byMonth[m].map(d => {
       const st = calcStats(byDate[d]);
@@ -890,12 +890,12 @@ function renderDateSidebar(filter = '') {
         <div class="date-item${selectedDate === d ? ' active' : ''}" id="ditem-${d}" onclick="selectDate('${d}')">
           <div>
             <div class="di-date">${fmtDate(d)}</div>
-            <div style="font-size:10px;color:var(--muted);margin-top:1px;">${st.total}경기${st.pending > 0 ? ` (${st.pending} 진행중)` : ''}</div>
+            <div style="font-size:10px;color:var(--muted);margin-top:1px;">${st.total} games${st.pending > 0 ? ` (${st.pending} pending)` : ''}</div>
           </div>
           <div class="di-right">
             <div class="di-acc ${cls}">${st.pct !== null ? st.pct + '%' : '—'}</div>
             <div class="di-bar"><div class="di-bar-fill" style="width:${pct}%;background:${barColor}"></div></div>
-            <div class="di-count">${st.hits}승 ${st.total - st.hits}패</div>
+            <div class="di-count">${st.hits}W ${st.total - st.hits}L</div>
           </div>
         </div>`;
     }).join('');
@@ -954,7 +954,7 @@ function renderGamesPanel(date) {
   const pctColor = st.pct >= 70 ? 'var(--green)' : st.pct >= 55 ? 'var(--yellow)' : st.pct !== null ? 'var(--red)' : 'var(--muted)';
   document.getElementById('panel-stats').innerHTML = `
     <div class="day-stat-pill">
-      <span>정확도</span>
+      <span>Accuracy</span>
       <span class="ds-val" style="color:${pctColor}">${st.pct !== null ? st.pct + '%' : '—'}</span>
     </div>
     <div class="day-stat-pill">
@@ -962,7 +962,7 @@ function renderGamesPanel(date) {
       <span>❌</span><span class="ds-val" style="color:var(--red)">${st.total - st.hits}</span>
     </div>
     ${st.highConf > 0 ? `<div class="day-stat-pill">⭐ HC <span class="ds-val">${st.hcHits}/${st.highConf}</span></div>` : ''}
-    ${st.pending > 0 ? `<div class="day-stat-pill" style="color:var(--muted)">⏳ 진행중 ${st.pending}</div>` : ''}
+    ${st.pending > 0 ? `<div class="day-stat-pill" style="color:var(--muted)">⏳ Pending ${st.pending}</div>` : ''}
   `;
 
   // 필터
@@ -973,7 +973,7 @@ function renderGamesPanel(date) {
 
   const list = document.getElementById('games-list');
   if (!filtered.length) {
-    list.innerHTML = `<div class="empty-state" style="padding:40px 0"><div class="emo">🔍</div><p>해당 조건의 경기가 없어요.</p></div>`;
+    list.innerHTML = `<div class="empty-state" style="padding:40px 0"><div class="emo">🔍</div><p>No games match this filter.</p></div>`;
     return;
   }
 
@@ -1014,19 +1014,19 @@ function renderGameRow(g) {
         </div>
         <div style="display:flex;align-items:center;gap:6px">
           ${dhBadge}
-          ${hasResult ? '<span class="gr-status gs-final">FINAL</span>' : '<span class="gr-status" style="background:rgba(255,255,255,.1);color:rgba(255,255,255,.6)">예정</span>'}
+          ${hasResult ? '<span class="gr-status gs-final">FINAL</span>' : '<span class="gr-status" style="background:rgba(255,255,255,.1);color:rgba(255,255,255,.6)">Scheduled</span>'}
         </div>
       </div>
       <div class="gr-body">
-        <!-- 예측 픽 -->
+        <!-- Pick -->
         <div>
-          <div class="gr-section-label">🎯 예측</div>
+          <div class="gr-section-label">🎯 Pick</div>
           <div class="gr-pick-team">${g.pick}</div>
           <div class="gr-pick-prob">${Math.round(g.pick_prob)}<sub>%</sub></div>
         </div>
-        <!-- 확률 바 -->
+        <!-- Win probability -->
         <div>
-          <div class="gr-section-label">승률 분포</div>
+          <div class="gr-section-label">Win Probability</div>
           <div class="gr-prob-bar">
             <div class="gr-prob-away" style="width:${Math.round(awayProb)}%">${awayProbShow}</div>
             <div class="gr-prob-home" style="width:${Math.round(homeProb)}%">${homeProbShow}</div>
@@ -1036,26 +1036,26 @@ function renderGameRow(g) {
             <span class="home-lbl">${homeShort}</span>
           </div>
         </div>
-        <!-- 실제 결과 -->
+        <!-- Actual Result -->
         <div>
-          <div class="gr-section-label">🏆 실제 결과</div>
+          <div class="gr-section-label">🏆 Result</div>
           ${hasResult
             ? `<div class="gr-result-winner">${g.actual_winner}</div>
                ${g.home_score !== undefined && g.away_score !== undefined
                  ? `<div class="gr-result-score">${g.away} ${g.away_score} - ${g.home_score} ${g.home}</div>`
-                 : `<div class="gr-result-score">결과 확정</div>`}`
-            : `<div class="gr-result-pending">결과 대기 중</div>`}
+                 : `<div class="gr-result-score">Result confirmed</div>`}`
+            : `<div class="gr-result-pending">Awaiting result</div>`}
         </div>
-        <!-- 판정 -->
+        <!-- Verdict -->
         <div class="gr-verdict">
           ${hasResult
-            ? `<span class="verdict-badge ${isHit ? 'vb-hit' : 'vb-miss'}">${isHit ? '✅ 적중' : '❌ 미스'}</span>`
-            : `<span class="verdict-badge vb-pend">⏳ 대기</span>`}
-          ${g.high_conf ? '<span class="high-conf-badge">⭐ 고신뢰</span>' : ''}
-          ${g.low_confidence ? '<span class="low-conf-badge">🔮 저신뢰</span>' : ''}
+            ? `<span class="verdict-badge ${isHit ? 'vb-hit' : 'vb-miss'}">${isHit ? '✅ Correct' : '❌ Miss'}</span>`
+            : `<span class="verdict-badge vb-pend">⏳ Pending</span>`}
+          ${g.high_conf ? '<span class="high-conf-badge">⭐ High Conf</span>' : ''}
+          ${g.low_confidence ? '<span class="low-conf-badge">🔮 Low Conf</span>' : ''}
         </div>
       </div>
-      <!-- 스코어카드 미니 바 (데이터 있을 때만) -->
+      <!-- Scorecard mini bars -->
       ${(aSp || hSp || aBp || hBp) ? `
       <div class="gr-scorecards">
         ${aSp || hSp ? `
@@ -1073,13 +1073,13 @@ function renderGameRow(g) {
         </div>` : ''}
         ${aBp || hBp ? `
         <div class="sc-mini-row">
-          <div class="sc-mini-label">불펜</div>
+          <div class="sc-mini-label">BP</div>
           <div class="sc-mini-team" style="color:#93c5fd">${awayShort}</div>
           <div class="sc-mini-track"><div class="sc-mini-fill scf-bp" style="width:${aBp}%"></div></div>
           <div class="sc-mini-val">${Math.round(aBp)}</div>
         </div>
         <div class="sc-mini-row">
-          <div class="sc-mini-label">불펜</div>
+          <div class="sc-mini-label">BP</div>
           <div class="sc-mini-team" style="color:#86efac">${homeShort}</div>
           <div class="sc-mini-track"><div class="sc-mini-fill scf-bp" style="width:${hBp}%"></div></div>
           <div class="sc-mini-val">${Math.round(hBp)}</div>
@@ -1092,16 +1092,16 @@ function renderGameRow(g) {
 //  유틸
 // ════════════════════════════════════════
 function fmtDate(d) {
-  // 2026-09-13 → 9/13 (일)
   const [y, m, day] = d.split('-').map(Number);
-  const dow = ['일','월','화','수','목','금','토'][new Date(y, m-1, day).getDay()];
+  const dow = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'][new Date(y, m-1, day).getDay()];
   return `${m}/${day} (${dow})`;
 }
 
 function fmtDateLong(d) {
   const [y, m, day] = d.split('-').map(Number);
-  const dow = ['일','월','화','수','목','금','토'][new Date(y, m-1, day).getDay()];
-  return `${y}년 ${m}월 ${day}일 (${dow})`;
+  const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  const dow = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'][new Date(y, m-1, day).getDay()];
+  return `${dow}, ${months[m-1]} ${day}, ${y}`;
 }
 
 function shortTeam(name) {
