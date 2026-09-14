@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-14T14:17:58.601590+00:00",
+  "updated_at": "2026-09-14T14:51:07.557876+00:00",
   "news": [
+    {
+      "title": "52-year-old Ichiro tossed 127-pitch shutout vs. All-Star girls team",
+      "link": "https://www.mlb.com/news/ichiro-tosses-shutout-against-all-star-girls-high-school-team-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zqqzlj9jqoz80udjfvem",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-09-14T14:30:27+00:00",
+      "time_ago": "20m ago"
+    },
     {
       "title": "Garcia gives Rangers key bullpen boost in playoff push",
       "link": "https://www.mlb.com/news/robert-garcia-returns-from-il-to-strengthen-rangers-bullpen",
@@ -12,7 +25,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-14T14:00:36+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "How is Philly's postseason outlook with 12 games to play?",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T13:48:31+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Is Sale having an all-time Braves campaign? Here's what the numbers say",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T13:42:22+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Tolle mimics Pedro in immaculate first inning ... with more smiles",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T13:35:34+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Don't expect the Yankees to take a postseason clinch in stride",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T13:27:03+00:00",
-      "time_ago": "50m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "20-year-old catching prospect Salas triples for first big league knock",
@@ -90,20 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-14T04:19:00+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "Breaking down the remaining playoff races",
-      "link": "https://www.mlb.com/news/breaking-down-mlb-playoff-races-september-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wxwzltmixamrchks3rn0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-14T02:26:32+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "10h ago"
     }
   ]
 }
