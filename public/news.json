@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-14T00:35:14.585602+00:00",
+  "updated_at": "2026-09-14T01:28:47.417706+00:00",
   "news": [
+    {
+      "title": "Seager's monster HR helps Rangers snap lengthy road series drought",
+      "link": "https://www.mlb.com/news/corey-seager-homers-in-rangers-win-over-diamondbacks",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789340842/mlb/qsbjv2ra5pwuak5zwpgm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kennedi Landry",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-14T01:06:00+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "Padres top prospect Salas triples for 1st big league knock",
+      "link": "https://www.mlb.com/news/ethan-salas-first-major-league-hit",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fqdg3s6segf5zkzs84se",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adrian Garro",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-14T01:01:16+00:00",
+      "time_ago": "27m ago"
+    },
     {
       "title": "Painter firmly in pitching plans as Phils pursue top NL Wild Card",
       "link": "https://www.mlb.com/news/andrew-painter-s-strong-start-helps-phillies-beat-braves",
@@ -12,7 +38,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-13T23:59:00+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Surging Devers has season cut short due to core muscle injury",
@@ -25,10 +51,10 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-13T23:54:03+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "1h ago"
     },
     {
-      "title": "Immaculate! Tolle sets tone in first inning against Royals",
+      "title": "He knew! Tolle cracks smile before he caps immaculate inning",
       "link": "https://www.mlb.com/news/payton-tolle-pitches-immaculate-first-inning-against-royals",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789343855/mlb/voaw5nu49aa0clgrayes",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-13T23:39:00+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Burleson's clutch gene growing stronger as season winds down",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-13T23:36:36+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Bucs holding out hope for playoff run as season hits final weeks",
@@ -64,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-13T23:08:12+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "'A really beautiful moment for me': Ramírez's pinch-hit walk-off HR caps Marlins' comeback",
@@ -77,33 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-13T23:06:42+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Dodgers top prospect's first hit is an absolute moonshot",
-      "link": "https://www.mlb.com/news/josue-de-paula-crushes-three-run-homer-for-first-career-hit",
-      "summary": "With loss, LA cannot clinch playoff berth until at least Monday",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789335671/mlb/zxpbppmla66hlmbp1rj4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Perla Paredes",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-13T23:05:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Rangers snap lengthy road series drought with win over Diamondbacks",
-      "link": "https://www.mlb.com/news/corey-seager-homers-in-rangers-win-over-diamondbacks",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789340842/mlb/qsbjv2ra5pwuak5zwpgm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kennedi Landry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-13T23:03:16+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
