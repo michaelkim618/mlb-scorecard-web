@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T19:34:17.487371+00:00",
+  "updated_at": "2026-09-14T19:43:14.381221+00:00",
   "news": [
     {
       "title": "Breaking down the remaining playoff races",
@@ -12,7 +12,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-14T19:30:00+00:00",
-      "time_ago": "4m ago"
+      "time_ago": "13m ago"
     },
     {
       "title": "Kim Ng reflects on groundbreaking MLB career, AUSL's growth",
@@ -25,7 +25,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T19:02:15+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "40m ago"
+    },
+    {
+      "title": "Woo welcomes young fan to Mariners' bullpen for wholesome game of catch",
+      "link": "https://www.mlb.com/news/bryan-woo-plays-catch-with-young-mariners-fan",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/d6hlvq1frhuvaqqjsqn3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-14T18:54:06+00:00",
+      "time_ago": "49m ago"
     },
     {
       "title": "Padres' surge fueled by more than just stars",
@@ -64,7 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-14T17:38:42+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "'Back on track': How Peralta found himself again with Rays",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T15:39:14+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "De Paula's family a central piece in shaping special baseball journey",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T15:31:25+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "VOTE NOW: Here are the 2026 Roberto Clemente Award nominees",
-      "link": "https://www.mlb.com/news/2026-roberto-clemente-award-nominees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mhygijrnfn2ivwbg1xl8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-09-14T15:30:56+00:00",
       "time_ago": "4h ago"
     }
   ]
