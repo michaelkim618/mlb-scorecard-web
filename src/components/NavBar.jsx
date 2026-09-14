@@ -42,6 +42,7 @@ export default function NavBar() {
   const navLinks = [
     { label: "Today's Picks", href: "#slate", page: false },
     { label: "Season Stats", href: "#stats", page: false },
+    { label: "History", href: "/history.html", page: true },
     { label: "News", href: "#news", page: false },
     { label: "Blog", href: "/blog", page: true },
     { label: "Community", href: "/community", page: true },
