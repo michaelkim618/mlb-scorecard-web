@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-14T20:22:10.592696+00:00",
+  "updated_at": "2026-09-14T20:46:39.192208+00:00",
   "news": [
+    {
+      "title": "White Sox-Guardians series could clarify AL Central race",
+      "link": "https://www.mlb.com/news/white-sox-guardians-meet-for-crucial-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rb9bba7qeuljt2vsdncz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin and Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-14T20:44:00+00:00",
+      "time_ago": "2m ago"
+    },
+    {
+      "title": "Mesa, Merrill earn Player of the Week honors during pivotal stretch",
+      "link": "https://www.mlb.com/news/victor-mesa-jr-jackson-merrill-named-players-of-the-week",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dsxwr0zm6efo1sp8tzsz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Linus Lawrence",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-14T20:38:36+00:00",
+      "time_ago": "8m ago"
+    },
     {
       "title": "Breaking down the remaining playoff races",
       "link": "https://www.mlb.com/news/breaking-down-mlb-playoff-races-september-2026",
@@ -12,7 +38,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-14T19:30:00+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Kim Ng reflects on groundbreaking MLB career, AUSL's growth",
@@ -77,33 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-14T17:38:42+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "'Back on track': How Peralta found himself again with Rays",
-      "link": "https://www.mlb.com/news/freddy-peralta-finding-success-with-rays-after-adjustments",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/o6ekhqxmf48zl36sa9wf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-14T15:39:14+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "De Paula's family a central piece in shaping special baseball journey",
-      "link": "https://www.mlb.com/news/josue-de-paula-bonds-with-father-grandma-over-baseball-career",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mainvavyjvf3j9w79yje",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Perla Paredes",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-14T15:31:25+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
