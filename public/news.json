@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-14T22:36:28.297601+00:00",
+  "updated_at": "2026-09-14T23:02:47.497212+00:00",
   "news": [
+    {
+      "title": "Alonso's return to Citi Field with O's 'a little weird,' but also 'really exciting'",
+      "link": "https://www.mlb.com/news/pete-alonso-returns-to-citi-field-in-search-of-300th-home-run",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789396568/mlb/z1ppb3p47lpt2a4lmcpn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-14T22:55:00+00:00",
+      "time_ago": "7m ago"
+    },
     {
       "title": "Freeman (knee soreness) out of lineup again, though likely to avoid IL",
       "link": "https://www.mlb.com/news/freddie-freeman-out-of-dodgers-lineup-reds",
@@ -12,7 +25,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-14T22:27:06+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "35m ago"
     },
     {
       "title": "No. 2 prospect in baseball De Vries undergoes successful shoulder surgery",
@@ -25,7 +38,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-14T21:50:33+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "D-backs claim outfielder Sánchez off waivers from Blue Jays",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T20:50:40+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "White Sox-Guardians series could clarify AL Central race",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T20:44:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "He's played 7 positions, hit 17 HRs and just might take home some hardware",
@@ -64,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-14T20:41:24+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Mesa, Merrill earn Player of the Week honors during pivotal stretch",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T20:38:36+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Breaking down the remaining playoff races",
@@ -90,19 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-14T19:30:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Kim Ng reflects on groundbreaking MLB career, AUSL's growth",
-      "link": "https://www.mlb.com/news/kim-ng-talks-ausl-future-mlb-career-on-podcast",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eb8khpqlbxlijmla9nme",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Linus Lawrence",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-14T19:02:15+00:00",
       "time_ago": "3h ago"
     }
   ]
