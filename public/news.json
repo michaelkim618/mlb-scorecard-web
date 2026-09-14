@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-13T23:45:46.138157+00:00",
+  "updated_at": "2026-09-14T00:18:34.619814+00:00",
   "news": [
+    {
+      "title": "Painter firmly in pitching plans as Phils pursue top NL Wild Card",
+      "link": "https://www.mlb.com/news/andrew-painter-s-strong-start-helps-phillies-beat-braves",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rcfqwcfqvkwezkviqs9w",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-13T23:59:00+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Surging Devers has season cut short due to core muscle injury",
+      "link": "https://www.mlb.com/news/rafael-devers-placed-on-60-day-injured-list-ending-2026-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vjatjevhhzcdlhyy9p7m",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Maria Guardado",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-13T23:54:03+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "Immaculate! Tolle sets tone in first inning against Royals",
+      "link": "https://www.mlb.com/news/payton-tolle-pitches-immaculate-first-inning-against-royals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789343855/mlb/voaw5nu49aa0clgrayes",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Molly Burkhardt",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-13T23:39:00+00:00",
+      "time_ago": "39m ago"
+    },
+    {
+      "title": "Burleson's clutch gene growing stronger as season winds down",
+      "link": "https://www.mlb.com/news/alec-burleson-delivers-bases-clearing-double-in-cardinals-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789335152/mlb/tbesedfgpq68wqsa0ui8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brenden Schaeffer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-13T23:36:36+00:00",
+      "time_ago": "41m ago"
+    },
     {
       "title": "Bucs holding out hope for playoff run as season hits final weeks",
       "link": "https://www.mlb.com/news/pirates-rally-to-win-cubs-series-finale-in-chicago",
@@ -12,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-13T23:08:12+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'A really beautiful moment for me': Ramírez's pinch-hit walk-off HR caps Marlins' comeback",
@@ -25,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-13T23:06:42+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Dodgers top prospect's first hit is an absolute moonshot",
@@ -38,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-13T23:05:00+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rangers snap lengthy road series drought with win over Diamondbacks",
@@ -51,58 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-13T23:03:16+00:00",
-      "time_ago": "42m ago"
-    },
-    {
-      "title": "In test against AL's best team, Astros fall short",
-      "link": "https://www.mlb.com/news/astros-allow-14-runs-as-rays-complete-sweep",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gioaaoxesqmjaifdeqt7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-13T22:59:00+00:00",
-      "time_ago": "46m ago"
-    },
-    {
-      "title": "Brewers building steam towards October despite finale stumble",
-      "link": "https://www.mlb.com/news/jake-bauers-homers-but-brewers-can-t-complete-comeback-in-finale",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789334659/mlb/itpske3gzd0h421mld5v",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-13T22:51:00+00:00",
-      "time_ago": "54m ago"
-    },
-    {
-      "title": "Painter firmly in pitching plans as Phils pursue top NL Wild Card",
-      "link": "https://www.mlb.com/news/andrew-painter-s-strong-start-helps-phillies-beat-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rcfqwcfqvkwezkviqs9w",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-13T22:50:00+00:00",
-      "time_ago": "55m ago"
-    },
-    {
-      "title": "Offense, Bibee build momentum for Guardians' crucial homestand",
-      "link": "https://www.mlb.com/news/tanner-bibee-strikes-out-7-in-bounce-back-start-against-twins",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oodwdbqewqzc3ehtingh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Patrick Donnelly",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-13T22:42:00+00:00",
       "time_ago": "1h ago"
     }
   ]
