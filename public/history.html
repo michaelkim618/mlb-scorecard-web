@@ -38,52 +38,83 @@ body {
   min-height: 100vh;
 }
 
-/* ── 헤더 ── */
-header {
-  background: var(--bg2);
-  border-bottom: var(--border-line);
-  padding: 14px 24px;
-  display: flex;
-  align-items: center;
-  gap: 14px;
+/* ── 메인 사이트 스타일 네비바 ── */
+.site-nav {
   position: sticky;
   top: 0;
   z-index: 100;
-  box-shadow: 0 2px 12px rgba(0,0,0,.08);
-}
-.logo { font-size: 28px; }
-header h1 { font-size: 18px; font-weight: 700; color: var(--text); }
-header .sub { color: var(--muted); font-size: 11px; margin-top: 1px; }
-.header-nav {
+  background: rgba(255,255,255,0.96);
+  backdrop-filter: saturate(180%) blur(20px);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  border-bottom: 1px solid #e2e8f0;
+  height: 56px;
   display: flex;
   align-items: center;
-  gap: 6px;
-  margin-left: 20px;
+  padding: 0 24px;
+  justify-content: space-between;
+  box-shadow: 0 1px 0 rgba(0,0,0,.04);
 }
-.nav-tab {
-  display: inline-flex;
+.site-nav-logo {
+  display: flex;
   align-items: center;
-  gap: 5px;
-  padding: 6px 14px;
+  gap: 10px;
+  text-decoration: none;
+  flex-shrink: 0;
+}
+.site-nav-icon {
+  width: 32px; height: 32px;
   border-radius: 8px;
+  background: linear-gradient(135deg, #0EA5E9, #0284C7);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 16px;
+  box-shadow: 0 2px 8px rgba(14,165,233,0.3);
+  flex-shrink: 0;
+}
+.site-nav-wordmark {
+  font-size: 17px;
+  font-weight: 800;
+  color: #1e293b;
+  letter-spacing: -0.4px;
+}
+.site-nav-wordmark span { color: #0EA5E9; }
+.site-nav-links {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+.site-nav-link {
+  font-size: 13px;
+  font-weight: 500;
+  color: #64748b;
+  text-decoration: none;
+  transition: color .15s;
+  white-space: nowrap;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+.site-nav-link:hover { color: #1e293b; }
+.site-nav-link.active {
+  color: #0EA5E9;
+  font-weight: 700;
+}
+.site-nav-follow {
+  background: #1e293b;
+  color: #fff;
+  border-radius: 999px;
+  padding: 7px 16px;
   font-size: 13px;
   font-weight: 600;
-  cursor: pointer;
   text-decoration: none;
+  transition: opacity .15s;
   white-space: nowrap;
-  transition: all .15s;
-  border: 1px solid transparent;
-  color: var(--text-sub);
-  background: transparent;
+  flex-shrink: 0;
 }
-.nav-tab:hover { background: var(--bg); border-color: var(--card-border); }
-.nav-tab.active {
-  background: var(--accent-dim);
-  color: var(--accent);
-  border-color: #93c5fd;
-}
-@media (max-width: 640px) {
-  .header-nav { display: none; }
+.site-nav-follow:hover { opacity: 0.85; }
+@media (max-width: 768px) {
+  .site-nav-links { display: none; }
+  .site-nav-follow { display: none; }
 }
 
 /* ── 시즌 요약 바 ── */
@@ -338,244 +369,185 @@ header .sub { color: var(--muted); font-size: 11px; margin-top: 1px; }
 .flt-btn:hover { border-color: var(--accent); color: var(--accent); }
 .flt-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
 
-/* ── 경기 카드 (히스토리용 compact) ── */
+/* ── 경기 카드 ── */
 .game-row {
   background: var(--card);
   border: 1px solid var(--card-border);
   border-radius: 14px;
-  margin-bottom: 10px;
+  margin-bottom: 12px;
   overflow: hidden;
   transition: transform .12s, box-shadow .12s;
 }
-.game-row:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 6px 24px rgba(0,0,0,.08);
-}
+.game-row:hover { transform: translateY(-1px); box-shadow: 0 6px 24px rgba(0,0,0,.08); }
 .game-row.is-hit  { border-left: 4px solid var(--green); }
 .game-row.is-miss { border-left: 4px solid var(--red); }
 .game-row.is-pending { border-left: 4px solid var(--muted); }
 
+/* header bar */
 .gr-header {
-  background: linear-gradient(135deg, #1e40af 0%, #2563eb 100%);
+  background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%);
   padding: 10px 16px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 12px;
+  gap: 8px;
 }
-.gr-teams {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-}
-.gr-team {
-  font-size: 15px;
-  font-weight: 700;
-  color: #fff;
-  white-space: nowrap;
-}
-.gr-vs {
-  font-size: 11px;
-  font-weight: 600;
-  color: rgba(255,255,255,.5);
-}
+.gr-teams { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.gr-team  { font-size: 14px; font-weight: 700; color: #fff; white-space: nowrap; }
+.gr-vs    { font-size: 10px; font-weight: 600; color: rgba(255,255,255,.4); }
+.gr-badges { display: flex; align-items: center; gap: 5px; flex-shrink: 0; }
 .gr-status {
-  font-size: 10px;
-  font-weight: 700;
-  padding: 2px 8px;
-  border-radius: 99px;
-  white-space: nowrap;
-  flex-shrink: 0;
+  font-size: 10px; font-weight: 700;
+  padding: 2px 8px; border-radius: 99px; white-space: nowrap;
 }
-.gs-final   { background: rgba(255,255,255,.15); color: #fff; }
-.gs-dh      { background: #7c3aed22; color: #c4b5fd; border: 1px solid #7c3aed55; }
+.gs-final   { background: rgba(255,255,255,.12); color: rgba(255,255,255,.85); }
+.gs-sched   { background: rgba(255,255,255,.06); color: rgba(255,255,255,.4); }
+.gs-dh      { background: rgba(124,58,237,.2); color: #c4b5fd; border: 1px solid rgba(124,58,237,.4); }
+.verdict-badge {
+  font-size: 10px; font-weight: 800;
+  padding: 2px 9px; border-radius: 6px; white-space: nowrap;
+}
+.vb-hit  { background: #dcfce7; color: #166534; }
+.vb-miss { background: #fee2e2; color: #991b1b; }
+.vb-pend { background: rgba(255,255,255,.1); color: rgba(255,255,255,.5); }
+.high-conf-badge {
+  font-size: 9px; font-weight: 700; padding: 2px 7px; border-radius: 5px;
+  background: #fef9c3; color: #92400e; border: 1px solid #fde68a;
+}
+.low-conf-badge {
+  font-size: 9px; font-weight: 700; padding: 2px 7px; border-radius: 5px;
+  background: #f5f3ff; color: #6d28d9; border: 1px solid #c4b5fd;
+}
 
-.gr-body {
-  padding: 12px 16px;
+/* two-column SP comparison */
+.gr-sp-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  gap: 12px;
-  align-items: center;
+  grid-template-columns: 1fr 1px 1fr;
+  gap: 0;
 }
-@media (max-width: 640px) {
-  .gr-body { grid-template-columns: 1fr 1fr; }
+.gr-sp-divider {
+  background: var(--card-border);
+  align-self: stretch;
+  margin: 12px 0;
 }
-
-.gr-section-label {
-  font-size: 9px;
-  font-weight: 700;
-  color: var(--muted);
-  text-transform: uppercase;
-  letter-spacing: .5px;
-  margin-bottom: 3px;
+.gr-sp-col {
+  padding: 14px 16px 12px;
 }
-
-/* 예측 픽 */
-.gr-pick-team {
-  font-size: 14px;
-  font-weight: 700;
-  color: var(--accent);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-.gr-pick-prob {
-  font-size: 20px;
-  font-weight: 900;
-  line-height: 1;
-  color: var(--text);
-}
-.gr-pick-prob sub {
-  font-size: 12px;
-  font-weight: 600;
-  color: var(--muted);
-}
-
-/* 확률 바 */
-.gr-prob-bar {
+.gr-sp-header {
   display: flex;
-  height: 20px;
-  border-radius: 5px;
-  overflow: hidden;
-  font-size: 11px;
-  font-weight: 700;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.gr-sp-team-label {
+  font-size: 9px; font-weight: 700; color: var(--muted);
+  text-transform: uppercase; letter-spacing: .5px;
+}
+.gr-sp-team-name {
+  font-size: 14px; font-weight: 800; color: var(--text);
+  margin-top: 1px;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.gr-sp-prob {
+  font-size: 22px; font-weight: 900; line-height: 1;
+  color: var(--accent); flex-shrink: 0;
+}
+.gr-sp-prob sub { font-size: 12px; font-weight: 600; color: var(--muted); }
+
+/* ERA + trend row */
+.gr-era-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+.gr-era-val {
+  font-size: 20px; font-weight: 800; color: var(--text); line-height: 1;
+}
+.gr-era-lbl {
+  font-size: 9px; font-weight: 700; color: var(--muted);
+  text-transform: uppercase; letter-spacing: .5px;
+}
+.trend-badge {
+  display: inline-flex; align-items: center; gap: 3px;
+  font-size: 10px; font-weight: 700;
+  padding: 2px 8px; border-radius: 6px;
+}
+.trend-hot  { background: #fff7ed; color: #c2410c; border: 1px solid #fed7aa; }
+.trend-cold { background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe; }
+.trend-neutral { background: var(--bg); color: var(--muted); border: var(--border-line); }
+
+/* scorecard bars inside sp col */
+.gr-sc-row {
+  display: flex; align-items: center; gap: 8px; margin-bottom: 5px;
+}
+.gr-sc-label {
+  font-size: 9px; font-weight: 700; color: var(--muted);
+  text-transform: uppercase; width: 28px; flex-shrink: 0;
+}
+.gr-sc-track {
+  flex: 1; height: 6px; background: #e2e8f0; border-radius: 3px; overflow: hidden;
+}
+.gr-sc-fill { height: 100%; border-radius: 3px; }
+.scf-sp  { background: linear-gradient(90deg, #7c3aed, #a78bfa); }
+.scf-bp  { background: linear-gradient(90deg, #0891b2, #22d3ee); }
+.gr-sc-val {
+  font-size: 11px; font-weight: 700; color: var(--text);
+  width: 24px; text-align: right; flex-shrink: 0;
+}
+
+/* BP ERA sub-label */
+.gr-bp-era {
+  font-size: 10px; color: var(--muted); margin-top: 2px;
+}
+.gr-bp-era span { color: var(--text-sub); font-weight: 600; }
+
+/* bottom: win prob bar + pick */
+.gr-bottom {
+  border-top: var(--border-line);
+  padding: 10px 16px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.gr-prob-wrap { flex: 1; }
+.gr-prob-lbl  { font-size: 9px; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: .5px; margin-bottom: 4px; }
+.gr-prob-bar  {
+  display: flex; height: 18px; border-radius: 5px; overflow: hidden;
+  font-size: 10px; font-weight: 700;
 }
 .gr-prob-away {
   background: linear-gradient(90deg, #1d4ed8, #3b82f6);
   display: flex; align-items: center; justify-content: center;
-  color: #fff;
-  transition: width .4s ease;
-  white-space: nowrap;
-  overflow: hidden;
+  color: #fff; white-space: nowrap; overflow: hidden;
 }
 .gr-prob-home {
-  background: linear-gradient(90deg, #16a34a, #22c55e);
+  background: linear-gradient(90deg, #15803d, #22c55e);
   display: flex; align-items: center; justify-content: center;
-  color: #fff;
-  transition: width .4s ease;
-  white-space: nowrap;
-  overflow: hidden;
+  color: #fff; white-space: nowrap; overflow: hidden;
 }
 .gr-prob-labels {
-  display: flex;
-  justify-content: space-between;
-  font-size: 10px;
-  color: var(--muted);
-  margin-top: 3px;
+  display: flex; justify-content: space-between;
+  font-size: 9px; color: var(--muted); margin-top: 2px;
 }
 .gr-prob-labels .away-lbl { color: #93c5fd; font-weight: 600; }
 .gr-prob-labels .home-lbl { color: #86efac; font-weight: 600; }
 
-/* 실제 결과 */
-.gr-result-winner {
-  font-size: 14px;
-  font-weight: 700;
-  color: var(--green);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+.gr-pick-box {
+  flex-shrink: 0; text-align: right;
 }
-.gr-result-score {
-  font-size: 12px;
-  color: var(--muted);
-  margin-top: 2px;
-}
-.gr-result-pending {
-  font-size: 13px;
-  color: var(--muted);
-  font-style: italic;
-}
+.gr-pick-lbl { font-size: 9px; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: .5px; }
+.gr-pick-team { font-size: 12px; font-weight: 700; color: var(--accent); white-space: nowrap; }
+.gr-result-line { font-size: 11px; color: var(--green); font-weight: 600; white-space: nowrap; }
+.gr-result-miss { color: var(--red); }
+.gr-result-pending { color: var(--muted); font-style: italic; }
 
-/* 판정 */
-.gr-verdict {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  gap: 5px;
-}
-.verdict-badge {
-  font-size: 13px;
-  font-weight: 800;
-  padding: 4px 14px;
-  border-radius: 8px;
-  white-space: nowrap;
-}
-.vb-hit  { background: var(--green-bg); color: var(--green); border: 1px solid var(--green-dim); }
-.vb-miss { background: var(--red-bg);   color: var(--red);   border: 1px solid var(--red-dim); }
-.vb-pend { background: var(--bg); color: var(--muted); border: var(--border-line); }
-.high-conf-badge {
-  font-size: 10px;
-  font-weight: 700;
-  padding: 2px 7px;
-  border-radius: 5px;
-  background: #fef9c3;
-  color: #92400e;
-  border: 1px solid #fde68a;
-  white-space: nowrap;
-}
-.low-conf-badge {
-  font-size: 10px;
-  font-weight: 700;
-  padding: 2px 7px;
-  border-radius: 5px;
-  background: #f5f3ff;
-  color: #6d28d9;
-  border: 1px solid #c4b5fd;
-  white-space: nowrap;
-}
-
-/* ── 스코어카드 미니 바 ── */
-.gr-scorecards {
-  padding: 0 16px 12px;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 6px 20px;
-  border-top: var(--border-line);
-  margin-top: 2px;
-  padding-top: 10px;
-}
-.sc-mini-row {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  font-size: 11px;
-}
-.sc-mini-label {
-  width: 28px;
-  color: var(--muted);
-  font-weight: 700;
-  font-size: 9px;
-  text-transform: uppercase;
-  flex-shrink: 0;
-}
-.sc-mini-track {
-  flex: 1;
-  height: 5px;
-  background: var(--bg);
-  border-radius: 3px;
-  overflow: hidden;
-}
-.sc-mini-fill {
-  height: 100%;
-  border-radius: 3px;
-}
-.scf-sp   { background: linear-gradient(90deg, #7c3aed, #a78bfa); }
-.scf-bp   { background: linear-gradient(90deg, #0891b2, #22d3ee); }
-.scf-bat  { background: linear-gradient(90deg, #d97706, #fbbf24); }
-.sc-mini-val {
-  width: 26px;
-  text-align: right;
-  font-weight: 700;
-  color: var(--text);
-  font-size: 10px;
-  flex-shrink: 0;
-}
-.sc-mini-team {
-  font-size: 9px;
-  color: var(--muted);
-  font-weight: 600;
-  flex-shrink: 0;
-  min-width: 26px;
+@media (max-width: 640px) {
+  .gr-sp-grid { grid-template-columns: 1fr; }
+  .gr-sp-divider { display: none; }
+  .gr-sp-col:first-child { border-bottom: var(--border-line); padding-bottom: 10px; }
+  .gr-bottom { flex-direction: column; align-items: stretch; }
+  .gr-pick-box { text-align: left; }
 }
 
 /* ── 빈 상태 ── */
@@ -628,19 +600,24 @@ header .sub { color: var(--muted); font-size: 11px; margin-top: 1px; }
 </head>
 <body>
 
-<!-- ── 헤더 ── -->
-<header>
-  <span class="logo">⚾</span>
-  <div>
-    <h1>MLB Scorecard</h1>
-    <div class="sub">Full season prediction records · Game results archive by date</div>
+<!-- ── 메인 사이트 스타일 네비바 ── -->
+<nav class="site-nav">
+  <a href="/" class="site-nav-logo">
+    <div class="site-nav-icon">⚾</div>
+    <span class="site-nav-wordmark">MLB<span>Scorecard</span></span>
+  </a>
+  <div class="site-nav-links">
+    <a href="/#slate"   class="site-nav-link">Today's Picks</a>
+    <a href="/#stats"   class="site-nav-link">Season Stats</a>
+    <a href="/history.html" class="site-nav-link active">History</a>
+    <a href="/#news"    class="site-nav-link">News</a>
+    <a href="/blog"     class="site-nav-link">Blog</a>
+    <a href="/community" class="site-nav-link">Community</a>
   </div>
-  <nav class="header-nav">
-    <a href="dashboard.html" class="nav-tab">🏠 Today's Picks</a>
-    <a href="history.html" class="nav-tab active">📅 History</a>
-  </nav>
-  <div style="margin-left:auto"></div>
-</header>
+  <a href="https://twitter.com/MLB_Scorecard" target="_blank" rel="noreferrer" class="site-nav-follow">
+    Follow @MLB_Scorecard
+  </a>
+</nav>
 
 <!-- ── 시즌 요약 ── -->
 <div class="season-summary" id="season-summary">
@@ -981,28 +958,74 @@ function renderGamesPanel(date) {
 }
 
 function renderGameRow(g) {
-  const hasResult   = !!g.actual_winner;
-  const isHit       = hasResult && g.correct;
-  const isMiss      = hasResult && !g.correct;
-  const rowClass    = isHit ? 'is-hit' : isMiss ? 'is-miss' : 'is-pending';
+  const hasResult = !!g.actual_winner;
+  const isHit     = hasResult && g.correct;
+  const isMiss    = hasResult && !g.correct;
+  const rowClass  = isHit ? 'is-hit' : isMiss ? 'is-miss' : 'is-pending';
 
   const awayProb = g.pick === g.away ? g.pick_prob : (100 - g.pick_prob);
   const homeProb = 100 - awayProb;
-  const awayProbShow = awayProb >= 5 ? Math.round(awayProb) + '%' : '';
-  const homeProbShow = homeProb >= 5 ? Math.round(homeProb) + '%' : '';
 
-  // 스코어카드 바
-  const aSp  = g.away_sp_score  || 0;
-  const hSp  = g.home_sp_score  || 0;
-  const aBp  = g.away_bp_score  || 0;
-  const hBp  = g.home_bp_score  || 0;
-  const aBat = g.away_bat_score || 0;
-  const hBat = g.home_bat_score || 0;
+  const aSp = g.away_sp_score || 0;
+  const hSp = g.home_sp_score || 0;
+  const aBp = g.away_bp_score || 0;
+  const hBp = g.home_bp_score || 0;
 
   const awayShort = shortTeam(g.away);
   const homeShort = shortTeam(g.home);
 
-  const dhBadge = g.game_number === 2 ? '<span class="gr-status gs-dh">DH-2</span>' : '';
+  const trendBadge = t => {
+    if (t === 'hot')  return '<span class="trend-badge trend-hot">🔥 Hot</span>';
+    if (t === 'cold') return '<span class="trend-badge trend-cold">❄️ Cold</span>';
+    return '<span class="trend-badge trend-neutral">— Stable</span>';
+  };
+
+  const eraColor = era => {
+    if (!era) return 'var(--text)';
+    if (era < 3.0) return 'var(--green)';
+    if (era < 4.5) return 'var(--text)';
+    return 'var(--red)';
+  };
+
+  const dhBadge  = g.game_number === 2 ? '<span class="gr-status gs-dh">DH-2</span>' : '';
+  const verdBadge = hasResult
+    ? `<span class="verdict-badge ${isHit ? 'vb-hit' : 'vb-miss'}">${isHit ? '✅ Correct' : '❌ Miss'}</span>`
+    : `<span class="verdict-badge vb-pend">⏳ Pending</span>`;
+  const hcBadge  = g.high_conf      ? '<span class="high-conf-badge">⭐ High Conf</span>' : '';
+  const lcBadge  = g.low_confidence ? '<span class="low-conf-badge">🔮 Low Conf</span>'  : '';
+
+  const spCol = (team, short, prob, era, trend, sp, bp, bpEra, isAway) => `
+    <div class="gr-sp-col">
+      <div class="gr-sp-header">
+        <div>
+          <div class="gr-sp-team-label">${isAway ? '✈️ Away' : '🏠 Home'} · Starting Pitcher</div>
+          <div class="gr-sp-team-name">${team}</div>
+        </div>
+        <div class="gr-sp-prob">${Math.round(prob)}<sub>%</sub></div>
+      </div>
+      <div class="gr-era-row">
+        ${era ? `<div>
+          <div class="gr-era-lbl">ERA</div>
+          <div class="gr-era-val" style="color:${eraColor(era)}">${era.toFixed(2)}</div>
+        </div>` : ''}
+        ${trendBadge(trend)}
+      </div>
+      <div class="gr-sc-row">
+        <div class="gr-sc-label">SP</div>
+        <div class="gr-sc-track"><div class="gr-sc-fill scf-sp" style="width:${sp}%"></div></div>
+        <div class="gr-sc-val">${Math.round(sp)}</div>
+      </div>
+      <div class="gr-sc-row">
+        <div class="gr-sc-label">BP</div>
+        <div class="gr-sc-track"><div class="gr-sc-fill scf-bp" style="width:${bp}%"></div></div>
+        <div class="gr-sc-val">${Math.round(bp)}</div>
+      </div>
+      ${bpEra ? `<div class="gr-bp-era">Bullpen ERA <span>${bpEra.toFixed(2)}</span></div>` : ''}
+    </div>`;
+
+  const resultLine = hasResult
+    ? `<span class="gr-result-line${isHit ? '' : ' gr-result-miss'}">🏆 ${g.actual_winner}</span>`
+    : `<span class="gr-result-pending">⏳ Awaiting result</span>`;
 
   return `
     <div class="game-row ${rowClass}">
@@ -1012,79 +1035,38 @@ function renderGameRow(g) {
           <span class="gr-vs">@</span>
           <span class="gr-team">${g.home}</span>
         </div>
-        <div style="display:flex;align-items:center;gap:6px">
+        <div class="gr-badges">
           ${dhBadge}
-          ${hasResult ? '<span class="gr-status gs-final">FINAL</span>' : '<span class="gr-status" style="background:rgba(255,255,255,.1);color:rgba(255,255,255,.6)">Scheduled</span>'}
+          ${hasResult ? '<span class="gr-status gs-final">FINAL</span>' : '<span class="gr-status gs-sched">Scheduled</span>'}
+          ${verdBadge}
+          ${hcBadge}${lcBadge}
         </div>
       </div>
-      <div class="gr-body">
-        <!-- Pick -->
-        <div>
-          <div class="gr-section-label">🎯 Pick</div>
-          <div class="gr-pick-team">${g.pick}</div>
-          <div class="gr-pick-prob">${Math.round(g.pick_prob)}<sub>%</sub></div>
-        </div>
-        <!-- Win probability -->
-        <div>
-          <div class="gr-section-label">Win Probability</div>
+
+      <div class="gr-sp-grid">
+        ${spCol(g.away, awayShort, awayProb, g.away_sp_era, g.away_sp_trend, aSp, aBp, g.away_bp_era, true)}
+        <div class="gr-sp-divider"></div>
+        ${spCol(g.home, homeShort, homeProb, g.home_sp_era, g.home_sp_trend, hSp, hBp, g.home_bp_era, false)}
+      </div>
+
+      <div class="gr-bottom">
+        <div class="gr-prob-wrap">
+          <div class="gr-prob-lbl">Win Probability</div>
           <div class="gr-prob-bar">
-            <div class="gr-prob-away" style="width:${Math.round(awayProb)}%">${awayProbShow}</div>
-            <div class="gr-prob-home" style="width:${Math.round(homeProb)}%">${homeProbShow}</div>
+            <div class="gr-prob-away" style="width:${Math.round(awayProb)}%">${awayProb >= 12 ? Math.round(awayProb)+'%' : ''}</div>
+            <div class="gr-prob-home" style="width:${Math.round(homeProb)}%">${homeProb >= 12 ? Math.round(homeProb)+'%' : ''}</div>
           </div>
           <div class="gr-prob-labels">
             <span class="away-lbl">${awayShort}</span>
             <span class="home-lbl">${homeShort}</span>
           </div>
         </div>
-        <!-- Actual Result -->
-        <div>
-          <div class="gr-section-label">🏆 Result</div>
-          ${hasResult
-            ? `<div class="gr-result-winner">${g.actual_winner}</div>
-               ${g.home_score !== undefined && g.away_score !== undefined
-                 ? `<div class="gr-result-score">${g.away} ${g.away_score} - ${g.home_score} ${g.home}</div>`
-                 : `<div class="gr-result-score">Result confirmed</div>`}`
-            : `<div class="gr-result-pending">Awaiting result</div>`}
-        </div>
-        <!-- Verdict -->
-        <div class="gr-verdict">
-          ${hasResult
-            ? `<span class="verdict-badge ${isHit ? 'vb-hit' : 'vb-miss'}">${isHit ? '✅ Correct' : '❌ Miss'}</span>`
-            : `<span class="verdict-badge vb-pend">⏳ Pending</span>`}
-          ${g.high_conf ? '<span class="high-conf-badge">⭐ High Conf</span>' : ''}
-          ${g.low_confidence ? '<span class="low-conf-badge">🔮 Low Conf</span>' : ''}
+        <div class="gr-pick-box">
+          <div class="gr-pick-lbl">🎯 Model Pick</div>
+          <div class="gr-pick-team">${shortTeam(g.pick)} ${Math.round(g.pick_prob)}%</div>
+          ${resultLine}
         </div>
       </div>
-      <!-- Scorecard mini bars -->
-      ${(aSp || hSp || aBp || hBp) ? `
-      <div class="gr-scorecards">
-        ${aSp || hSp ? `
-        <div class="sc-mini-row">
-          <div class="sc-mini-label">SP</div>
-          <div class="sc-mini-team" style="color:#93c5fd">${awayShort}</div>
-          <div class="sc-mini-track"><div class="sc-mini-fill scf-sp" style="width:${aSp}%"></div></div>
-          <div class="sc-mini-val">${Math.round(aSp)}</div>
-        </div>
-        <div class="sc-mini-row">
-          <div class="sc-mini-label">SP</div>
-          <div class="sc-mini-team" style="color:#86efac">${homeShort}</div>
-          <div class="sc-mini-track"><div class="sc-mini-fill scf-sp" style="width:${hSp}%"></div></div>
-          <div class="sc-mini-val">${Math.round(hSp)}</div>
-        </div>` : ''}
-        ${aBp || hBp ? `
-        <div class="sc-mini-row">
-          <div class="sc-mini-label">BP</div>
-          <div class="sc-mini-team" style="color:#93c5fd">${awayShort}</div>
-          <div class="sc-mini-track"><div class="sc-mini-fill scf-bp" style="width:${aBp}%"></div></div>
-          <div class="sc-mini-val">${Math.round(aBp)}</div>
-        </div>
-        <div class="sc-mini-row">
-          <div class="sc-mini-label">BP</div>
-          <div class="sc-mini-team" style="color:#86efac">${homeShort}</div>
-          <div class="sc-mini-track"><div class="sc-mini-fill scf-bp" style="width:${hBp}%"></div></div>
-          <div class="sc-mini-val">${Math.round(hBp)}</div>
-        </div>` : ''}
-      </div>` : ''}
     </div>`;
 }
 
