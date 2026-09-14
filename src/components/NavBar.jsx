@@ -42,7 +42,7 @@ export default function NavBar() {
   const navLinks = [
     { label: "Today's Picks", href: "#slate", page: false },
     { label: "Season Stats", href: "#stats", page: false },
-    { label: "History", href: "/history.html", page: true },
+    { label: "History", href: "/history.html", page: false, external: true },
     { label: "News", href: "#news", page: false },
     { label: "Blog", href: "/blog", page: true },
     { label: "Community", href: "/community", page: true },
@@ -83,8 +83,16 @@ export default function NavBar() {
           {/* Center Nav Links — desktop only */}
           {!isMobile && (
             <div style={{ display: "flex", alignItems: "center", gap: 28 }}>
-              {navLinks.map(({ label, href, page }) =>
-                page ? (
+              {navLinks.map(({ label, href, page, external }) =>
+                external ? (
+                  <a key={label} href={href} className="t-caption"
+                    style={{ color: "var(--color-muted)", textDecoration: "none", transition: "color 0.15s" }}
+                    onMouseEnter={e => e.target.style.color = "var(--color-ink)"}
+                    onMouseLeave={e => e.target.style.color = "var(--color-muted)"}
+                  >
+                    {label}
+                  </a>
+                ) : page ? (
                   <button
                     key={label}
                     onClick={() => navigate(href)}
@@ -188,8 +196,19 @@ export default function NavBar() {
           display: "flex", flexDirection: "column", gap: 0,
           boxShadow: "0 8px 32px rgba(0,0,0,0.1)",
         }}>
-          {navLinks.map(({ label, href, page }) => (
-            page ? (
+          {navLinks.map(({ label, href, page, external }) => (
+            external ? (
+              <a key={label} href={href}
+                style={{
+                  display: "block", padding: "14px 0",
+                  borderBottom: "1px solid var(--color-border)",
+                  fontSize: 16, fontWeight: 600, color: "var(--color-ink)",
+                  textDecoration: "none",
+                }}
+              >
+                {label}
+              </a>
+            ) : page ? (
               <button
                 key={label}
                 onClick={() => { navigate(href); setMenuOpen(false); }}
