@@ -54,29 +54,37 @@ header {
 .logo { font-size: 28px; }
 header h1 { font-size: 18px; font-weight: 700; color: var(--text); }
 header .sub { color: var(--muted); font-size: 11px; margin-top: 1px; }
-.header-right {
-  margin-left: auto;
+.header-nav {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 6px;
+  margin-left: 20px;
 }
-.back-btn {
+.nav-tab {
   display: inline-flex;
   align-items: center;
-  gap: 6px;
-  background: var(--bg);
-  border: var(--border-line);
-  color: var(--text-sub);
-  padding: 7px 14px;
-  border-radius: 7px;
+  gap: 5px;
+  padding: 6px 14px;
+  border-radius: 8px;
   font-size: 13px;
   font-weight: 600;
   cursor: pointer;
   text-decoration: none;
-  transition: all .15s;
   white-space: nowrap;
+  transition: all .15s;
+  border: 1px solid transparent;
+  color: var(--text-sub);
+  background: transparent;
 }
-.back-btn:hover { background: var(--card); border-color: var(--accent); color: var(--accent); }
+.nav-tab:hover { background: var(--bg); border-color: var(--card-border); }
+.nav-tab.active {
+  background: var(--accent-dim);
+  color: var(--accent);
+  border-color: #93c5fd;
+}
+@media (max-width: 640px) {
+  .header-nav { display: none; }
+}
 
 /* ── 시즌 요약 바 ── */
 .season-summary {
@@ -624,12 +632,14 @@ header .sub { color: var(--muted); font-size: 11px; margin-top: 1px; }
 <header>
   <span class="logo">⚾</span>
   <div>
-    <h1>MLB 예측 히스토리</h1>
+    <h1>MLB Scorecard</h1>
     <div class="sub">시즌 전체 예측 기록 · 날짜별 경기 결과 아카이브</div>
   </div>
-  <div class="header-right">
-    <a href="dashboard.html" class="back-btn">← 대시보드</a>
-  </div>
+  <nav class="header-nav">
+    <a href="dashboard.html" class="nav-tab">🏠 오늘의 예측</a>
+    <a href="history.html" class="nav-tab active">📅 히스토리</a>
+  </nav>
+  <div style="margin-left:auto"></div>
 </header>
 
 <!-- ── 시즌 요약 ── -->

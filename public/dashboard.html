@@ -59,12 +59,43 @@ header {
 .logo { font-size: 28px; }
 header h1 { font-size: 18px; font-weight: 700; color: var(--text); }
 header .sub { color: var(--muted); font-size: 11px; margin-top: 1px; }
+.header-nav {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-left: 20px;
+}
+.nav-tab {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 6px 14px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: all .15s;
+  border: 1px solid transparent;
+  color: var(--text-sub);
+  background: transparent;
+}
+.nav-tab:hover { background: var(--bg); border-color: var(--card-border); }
+.nav-tab.active {
+  background: var(--accent-dim);
+  color: var(--accent);
+  border-color: #93c5fd;
+}
 #header-stats {
   margin-left: auto;
   text-align: right;
   font-size: 12px;
   color: var(--text-sub);
   line-height: 1.7;
+}
+@media (max-width: 640px) {
+  .header-nav { display: none; }
 }
 
 /* ══════════════════════════════════════
@@ -811,9 +842,13 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 <header>
   <span class="logo">⚾</span>
   <div>
-    <h1>MLB 경기 예측 대시보드</h1>
-    <div class="sub">Monte Carlo 시뮬레이션 · Kalshi 마켓 · 실제 경기 결과 비교</div>
+    <h1>MLB Scorecard</h1>
+    <div class="sub">Monte Carlo 시뮬레이션 · 실제 경기 결과 비교</div>
   </div>
+  <nav class="header-nav">
+    <a href="dashboard.html" class="nav-tab active">🏠 오늘의 예측</a>
+    <a href="history.html" class="nav-tab">📅 히스토리</a>
+  </nav>
   <div id="header-stats">데이터 로딩 중…</div>
 </header>
 
