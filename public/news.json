@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-14T18:27:24.889769+00:00",
+  "updated_at": "2026-09-14T18:50:49.904620+00:00",
   "news": [
+    {
+      "title": "Padres' surge fueled by more than just stars",
+      "link": "https://www.mlb.com/news/padres-getting-production-throughout-lineup-amid-playoff-push",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kvfkoacthmwdfis3ofq4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adrian Garro",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-14T18:13:41+00:00",
+      "time_ago": "37m ago"
+    },
     {
       "title": "MLB to kick off Hispanic Heritage Month with Roberto Clemente Day",
       "link": "https://www.mlb.com/news/roberto-clemente-day-2026-around-mlb",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T18:03:01+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -25,7 +38,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-14T17:55:00+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "Tracking the 2026 postseason field",
@@ -38,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-14T17:38:42+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'Back on track': How Peralta found himself again with Rays",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T15:39:14+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "De Paula's family a central piece in shaping special baseball journey",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T15:31:25+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "VOTE NOW: Here are the 2026 Roberto Clemente Award nominees",
@@ -77,32 +90,19 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-09-14T15:30:56+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "White Sox-Guardians series could clarify AL Central race",
       "link": "https://www.mlb.com/news/white-sox-guardians-meet-for-crucial-series",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vwdvbwbtj2lqxbazrqfb",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rb9bba7qeuljt2vsdncz",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Scott Merkin and Tim Stebbins",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T15:00:29+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Chasing history, Alonso returns to Citi Field for 1st time",
-      "link": "https://www.mlb.com/news/pete-alonso-returns-to-citi-field-in-search-of-300th-home-run",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789396568/mlb/z1ppb3p47lpt2a4lmcpn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-14T14:51:57+00:00",
       "time_ago": "3h ago"
     }
   ]

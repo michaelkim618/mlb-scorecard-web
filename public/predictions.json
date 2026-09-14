@@ -1475,8 +1475,8 @@
     "model_winner": "Cleveland Guardians",
     "model_correct": null,
     "notes": "Chicago White Sox IL: Brooks Baldwin, Drew Thorpe, Huascar Brazobán, Joey Bart, Jordan Leasure 외 다수 / Cleveland Guardians IL: Colin Holderman, Rhys Hoskins, Shawn Armstrong",
-    "kalshi_prob": 58.0,
-    "edge": 3.4,
+    "kalshi_prob": 59.0,
+    "edge": 2.4,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -2230,8 +2230,8 @@
     "model_winner": "Toronto Blue Jays",
     "model_correct": null,
     "notes": "Detroit Tigers IL: Bailey Horn, Burch Smith, Jack Flaherty, Justin Verlander, Kerry Carpenter 외 다수 / Toronto Blue Jays IL: Addison Barger, Anthony Santander, Bowden Francis, Cody Ponce, Jake Bloss 외 다수",
-    "kalshi_prob": 55.0,
-    "edge": -0.4,
+    "kalshi_prob": 56.0,
+    "edge": -1.4,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -3335,14 +3335,14 @@
             }
           ]
         },
-        "bp_score": 61.6,
+        "bp_score": 62.6,
         "bp_detail": {
-          "bullpen_era": 3.16,
-          "recent_era": 4.3,
-          "recent_appearances": 16,
-          "recent_ip": 23.0,
-          "team_era": 3.31,
-          "bp_ip": 375.7,
+          "bullpen_era": 2.92,
+          "recent_era": 5.03,
+          "recent_appearances": 14,
+          "recent_ip": 19.7,
+          "team_era": 3.23,
+          "bp_ip": 369.3,
           "bp_count": 8,
           "closer_era": 2.78,
           "closer_name": "Raisel Iglesias"
@@ -3443,7 +3443,7 @@
           }
         },
         "sit_score": 57.7,
-        "total": 44.8
+        "total": 45.1
       },
       "home": {
         "sp_score": 41.4,
@@ -3626,7 +3626,7 @@
     },
     "scores": {
       "away_offense": 31.5,
-      "away_defense": 46.8,
+      "away_defense": 47.3,
       "home_offense": 35.9,
       "home_defense": 50.6
     },
@@ -4392,8 +4392,8 @@
     "model_winner": "New York Yankees",
     "model_correct": null,
     "notes": "New York Yankees IL: Clarke Schmidt, Fernando Cruz, Giancarlo Stanton, Jazz Chisholm Jr., Kervin Castro 외 다수 / Minnesota Twins IL: Anthony Banda, Byron Buxton, Cole Sands, David Festa, Mick Abel 외 다수",
-    "kalshi_prob": 45.0,
-    "edge": -5.7,
+    "kalshi_prob": 46.0,
+    "edge": -6.7,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -5095,8 +5095,8 @@
     "model_winner": "St. Louis Cardinals",
     "model_correct": null,
     "notes": "San Francisco Giants IL: Adrian Houser, Carson Whisenhunt, Casey Schmitt, Daniel Susac, Harrison Bader 외 다수 / St. Louis Cardinals IL: Blaze Jordan, Everson Pereira, Hunter Dobbins, JJ Wetherholt, Max Rajcic 외 다수",
-    "kalshi_prob": 56.0,
-    "edge": -1.6,
+    "kalshi_prob": 57.0,
+    "edge": -2.6,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
