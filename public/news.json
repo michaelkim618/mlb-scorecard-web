@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-14T20:46:39.192208+00:00",
+  "updated_at": "2026-09-14T21:01:28.180144+00:00",
   "news": [
+    {
+      "title": "D-backs claim outfielder Sánchez off waivers from Blue Jays",
+      "link": "https://www.mlb.com/news/jesus-sanchez-claimed-off-waivers-d-backs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wzboofpqzureayat2uow",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-14T20:50:40+00:00",
+      "time_ago": "10m ago"
+    },
     {
       "title": "White Sox-Guardians series could clarify AL Central race",
       "link": "https://www.mlb.com/news/white-sox-guardians-meet-for-crucial-series",
@@ -12,7 +25,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T20:44:00+00:00",
-      "time_ago": "2m ago"
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "He's played 7 positions, hit 17 HRs and just might take home some hardware",
+      "link": "https://www.mlb.com/news/ezequiel-duran-excelling-for-rangers-in-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/efzirm23pt099jwlob2v",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "David Venn",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-14T20:41:24+00:00",
+      "time_ago": "20m ago"
     },
     {
       "title": "Mesa, Merrill earn Player of the Week honors during pivotal stretch",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T20:38:36+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "22m ago"
     },
     {
       "title": "Breaking down the remaining playoff races",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T18:54:06+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Padres' surge fueled by more than just stars",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T18:13:41+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789190887/mlb/bgtip4siy3qk2yvgxwvw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-14T17:55:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Tracking the 2026 postseason field",
-      "link": "https://www.mlb.com/news/2026-postseason-teams",
-      "summary": "Two of the 12 playoff spots have been locked up so far",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ayy9xgrirhtod6tzine0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-14T17:38:42+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
