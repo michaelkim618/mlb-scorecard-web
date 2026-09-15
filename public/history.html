@@ -1222,11 +1222,18 @@ const predictionsCache = {};
 async function loadPredictions(date) {
   if (predictionsCache[date] !== undefined) return predictionsCache[date];
 
-  const today = new Date().toISOString().slice(0, 10);
+  // KST 기준 오늘 날짜 (UTC+9)
+  const now = new Date();
+  const kst = new Date(now.getTime() + 9 * 60 * 60 * 1000);
+  const today = kst.toISOString().slice(0, 10);
+
   const urls = [];
+  // predictions.json은 항상 시도 (오늘 날짜와 일치하는 게임이 있을 수 있음)
   if (date === today) urls.push('predictions.json');
   urls.push(`output/predictions_${date}.js`);
   urls.push(`predictions_${date}.js`);
+  // 혹시 predictions.json에 해당 날짜 데이터가 있을 수 있어 fallback으로 추가
+  if (date !== today) urls.push('predictions.json');
 
   for (const url of urls) {
     try {
@@ -1241,8 +1248,15 @@ async function loadPredictions(date) {
         if (!match) continue;
         data = JSON.parse(match[1]);
       }
-      predictionsCache[date] = Array.isArray(data) ? data : [];
-      return predictionsCache[date];
+      let arr = Array.isArray(data) ? data : [];
+      // predictions.json fallback: 해당 날짜 게임만 필터링
+      if (url.endsWith('.json') && arr.length > 0 && arr[0]?.date !== date) {
+        arr = arr.filter(g => g.date === date);
+      }
+      if (arr.length > 0) {
+        predictionsCache[date] = arr;
+        return predictionsCache[date];
+      }
     } catch {}
   }
 
