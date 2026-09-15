@@ -948,7 +948,7 @@ function renderTrendChart() {
     const short = d.slice(5);
     return `
       <div class="trend-bar-wrap" onclick="selectDate('${d}')" id="tbar-${d}" title="${d}: ${pct}% (${st.hits}/${st.total})">
-        <div class="trend-pct" style="opacity:0;font-size:8px">${pct}%</div>
+        <div class="trend-pct" style="opacity:1;font-size:8px">${pct}%</div>
         <div class="trend-bar ${cls}" style="height:${h}px"></div>
         <div class="trend-label">${short}</div>
       </div>`;
