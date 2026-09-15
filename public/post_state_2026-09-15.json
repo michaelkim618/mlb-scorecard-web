@@ -1,11 +1,124 @@
 {
   "predictions": [
     "15:40",
-    "16:40"
+    "16:40",
+    "17:40"
   ],
   "results": false,
   "lineup_refreshed": [
     "15:40",
     "16:40"
-  ]
+  ],
+  "predictions_frozen": [
+    "15:40"
+  ],
+  "frozen_predictions": {
+    "15:40": [
+      {
+        "game_pk": "824466",
+        "win_prob": {
+          "away": 60.7,
+          "home": 39.3
+        },
+        "model_winner": "Los Angeles Dodgers",
+        "value_bet": "⚠️ VB주의(선발Hot·edge부족 8.3%p<14.0%p)",
+        "edge": 8.3,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "822925",
+        "win_prob": {
+          "away": 39.3,
+          "home": 60.7
+        },
+        "model_winner": "Tampa Bay Rays",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -6.3,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "824384",
+        "win_prob": {
+          "away": 50.0,
+          "home": 50.0
+        },
+        "model_winner": "Cleveland Guardians",
+        "value_bet": "⏭️ 패스 (박빙 경기 — 예측 신뢰도 낮음)",
+        "edge": -8.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 50.0% (≤58.0%)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823333",
+        "win_prob": {
+          "away": 63.0,
+          "home": 37.0
+        },
+        "model_winner": "Milwaukee Brewers",
+        "value_bet": "⭐ 고신뢰 예측 — 모델·시장 동의 (Milwaukee Brewers 63%)",
+        "edge": 5.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "822683",
+        "win_prob": {
+          "away": 60.7,
+          "home": 39.3
+        },
+        "model_winner": "Philadelphia Phillies",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 7.3,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "822762",
+        "win_prob": {
+          "away": 49.4,
+          "home": 50.6
+        },
+        "model_winner": "Toronto Blue Jays",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -5.4,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 50.6% (≤58.0%)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823574",
+        "win_prob": {
+          "away": 54.0,
+          "home": 46.0
+        },
+        "model_winner": "Baltimore Orioles",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -5.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 50.0% (≤58.0%)",
+        "extreme_edge": false
+      }
+    ]
+  }
 }
