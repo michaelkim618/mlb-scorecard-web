@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-09-15T05:04:48.086509+00:00",
+  "updated_at": "2026-09-15T05:59:03.143343+00:00",
   "news": [
+    {
+      "title": "14 straight! Dodgers tie MLB record for most consecutive playoff clinches",
+      "link": "https://www.mlb.com/news/dodgers-beat-reds-clinch-2026-playoff-berth",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mjbpd7m0ixqfdtz7szt9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-15T05:42:00+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Padres stay scorching hot with 8th straight win",
+      "link": "https://www.mlb.com/news/padres-outlast-rockies-to-win-8th-straight-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a5zrjdhu6nodg8wgisth",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-15T05:40:00+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Heartbreak piles up for Toronto after Soriano's brilliant beginning",
+      "link": "https://www.mlb.com/news/jose-soriano-flirts-with-no-hitter-but-blue-jays-lose-in-late-innings",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ibewhwokogo5mqn7bzvj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-15T05:16:00+00:00",
+      "time_ago": "43m ago"
+    },
+    {
+      "title": "Detmers continues second-half surge with 7th straight quality start",
+      "link": "https://www.mlb.com/news/reid-detmers-tosses-7th-straight-quality-start",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vipayeohp5budulifgsp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rhett Bollinger",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-15T05:11:00+00:00",
+      "time_ago": "48m ago"
+    },
+    {
+      "title": "All rise! Judge hits moonshot for first HR since return from IL",
+      "link": "https://www.mlb.com/news/aaron-judge-hits-first-home-run-since-coming-off-il",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mzqcfeqxuo1wmigw9boe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Patrick Donnelly",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-15T05:08:00+00:00",
+      "time_ago": "51m ago"
+    },
+    {
+      "title": "Yankees check first box, head to postseason for third straight season",
+      "link": "https://www.mlb.com/news/yankees-clinch-spot-in-2026-postseason",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qjyljygwjmvevbit28kl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Patrick Donnelly",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-15T05:07:00+00:00",
+      "time_ago": "52m ago"
+    },
     {
       "title": "Carroll's walk-off homer helps D-backs keep pace in Wild Card race",
       "link": "https://www.mlb.com/news/corbin-carroll-hits-walk-off-home-run-as-diamondbacks-beat-marlins",
@@ -12,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-15T04:58:57+00:00",
-      "time_ago": "5m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'Felt like ... an hour': Peters' 18-pitch PA helps Sox claim season series over Guards",
@@ -25,85 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-15T04:55:00+00:00",
-      "time_ago": "9m ago"
-    },
-    {
-      "title": "Mathews twirls gem as encouraging early returns continue",
-      "link": "https://www.mlb.com/news/quinn-mathews-takes-no-hitter-into-6th-as-cardinals-beat-giants",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dpcvqxdyzh0yq4bvn6ry",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brenden Schaeffer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-15T04:54:00+00:00",
-      "time_ago": "10m ago"
-    },
-    {
-      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789190887/mlb/bgtip4siy3qk2yvgxwvw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-15T04:46:00+00:00",
-      "time_ago": "18m ago"
-    },
-    {
-      "title": "All rise! Judge hits moonshot for first HR since return from IL",
-      "link": "https://www.mlb.com/news/aaron-judge-hits-first-home-run-since-coming-off-il",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mzqcfeqxuo1wmigw9boe",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Patrick Donnelly",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-15T04:34:00+00:00",
-      "time_ago": "30m ago"
-    },
-    {
-      "title": "Clark gets taste of September heroics with clutch double",
-      "link": "https://www.mlb.com/news/max-clark-delivers-clutch-two-run-double-in-tigers-comeback-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789448238/mlb/akn601fwwcfmpsfxs0zw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Finlayson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-15T04:31:21+00:00",
-      "time_ago": "33m ago"
-    },
-    {
-      "title": "López (right shoulder) to go on IL as Smith-Shawver bails out 'pen",
-      "link": "https://www.mlb.com/news/aj-smith-shawver-tosses-five-innings-in-braves-loss",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wsmggwuugybv5u9vyi6e",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-15T04:31:00+00:00",
-      "time_ago": "33m ago"
-    },
-    {
-      "title": "Yankees check first box, head to postseason for third straight season",
-      "link": "https://www.mlb.com/news/yankees-clinch-spot-in-2026-postseason",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qjyljygwjmvevbit28kl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Patrick Donnelly",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-15T04:25:00+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
