@@ -163,8 +163,8 @@ body {
   align-items: flex-end;
   gap: 5px;
   min-width: 600px;
-  height: 100px;
-  padding: 0 4px;
+  height: 130px;
+  padding: 16px 4px 0;
 }
 .trend-bar-wrap {
   display: flex;
@@ -948,7 +948,7 @@ function renderTrendChart() {
     const short = d.slice(5);
     return `
       <div class="trend-bar-wrap" onclick="selectDate('${d}')" id="tbar-${d}" title="${d}: ${pct}% (${st.hits}/${st.total})">
-        <div class="trend-pct" style="opacity:1;font-size:8px">${pct}%</div>
+        <div class="trend-pct" style="opacity:1;font-size:9px">${pct}%</div>
         <div class="trend-bar ${cls}" style="height:${h}px"></div>
         <div class="trend-label">${short}</div>
       </div>`;
