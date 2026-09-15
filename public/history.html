@@ -715,6 +715,40 @@ body {
 .gc-edge-val-neg { font-weight: 700; color: var(--red); }
 
 .gc-detail-loading { text-align: center; padding: 30px; color: var(--muted); font-size: 13px; }
+
+/* ── Linescore box score ── */
+.ls-wrap {
+  margin: 14px 0 4px;
+  overflow-x: auto;
+  border-radius: 10px;
+  border: 1px solid var(--card-border);
+  background: #fff;
+}
+.ls-table {
+  width: 100%;
+  min-width: 520px;
+  border-collapse: collapse;
+  font-size: 12px;
+}
+.ls-table th, .ls-table td {
+  text-align: center;
+  padding: 6px 7px;
+  border-right: 1px solid #e8edf3;
+  white-space: nowrap;
+}
+.ls-table th:last-child, .ls-table td:last-child { border-right: none; }
+.ls-table thead tr { background: #f1f5f9; }
+.ls-table thead th { font-weight: 700; color: #64748b; font-size: 11px; letter-spacing: .03em; }
+.ls-table .ls-team-cell { text-align: left; padding-left: 12px; font-weight: 700; font-size: 12px; min-width: 100px; }
+.ls-table .ls-divider { background: #f8fafc; border-right: 2px solid #cbd5e1 !important; }
+.ls-table .ls-total { font-weight: 900; font-size: 13px; }
+.ls-table .ls-win  { color: #15803d; }
+.ls-table .ls-lose { color: #94a3b8; }
+.ls-table .ls-run  { font-weight: 700; }
+.ls-table .ls-run-scored { background: #fef9c3; }
+.ls-table tr:hover td { background: #f8fafc; }
+.ls-table .ls-away-row td { border-bottom: 1px solid #e8edf3; }
+.ls-loading { text-align:center; padding: 16px; color: var(--muted); font-size: 12px; }
 </style>
 </head>
 <body>
@@ -1465,6 +1499,79 @@ function renderTeamPanel(teamAbbr, color, sc, pitcherName, pitcherStats, gamelog
   </div>`;
 }
 
+// ════════════════════════════════════════
+//  Linescore (이닝별 점수)
+// ════════════════════════════════════════
+const linescoreCache = {};
+
+async function fetchLinescore(gamePk) {
+  if (linescoreCache[gamePk] !== undefined) return linescoreCache[gamePk];
+  try {
+    const r = await fetch(`https://statsapi.mlb.com/api/v1/game/${gamePk}/linescore`);
+    if (!r.ok) { linescoreCache[gamePk] = null; return null; }
+    const d = await r.json();
+    linescoreCache[gamePk] = d;
+    return d;
+  } catch { linescoreCache[gamePk] = null; return null; }
+}
+
+function renderLinescoreTable(ls, awayName, homeName, awayColor, homeColor) {
+  if (!ls?.innings?.length) return '';
+  const innings  = ls.innings;
+  const awayTot  = ls.teams?.away;
+  const homeTot  = ls.teams?.home;
+  const awayWin  = awayTot?.isWinner;
+  const homeWin  = homeTot?.isWinner;
+  const awayAbbr = shortTeam(awayName);
+  const homeAbbr = shortTeam(homeName);
+
+  const headers = innings.map(i => `<th>${i.num}</th>`).join('');
+  const awayRuns = innings.map(i => {
+    const r = i.away?.runs ?? '-';
+    const hi = typeof r === 'number' && r > 0 ? ' class="ls-run ls-run-scored"' : '';
+    return `<td${hi}>${r}</td>`;
+  }).join('');
+  const homeRuns = innings.map(i => {
+    const r = i.home?.runs ?? '-';
+    const hi = typeof r === 'number' && r > 0 ? ' class="ls-run ls-run-scored"' : '';
+    return `<td${hi}>${r}</td>`;
+  }).join('');
+
+  const awayWinCls = awayWin ? 'ls-win' : 'ls-lose';
+  const homeWinCls = homeWin ? 'ls-win' : 'ls-lose';
+
+  return `
+  <div class="ls-wrap">
+    <table class="ls-table">
+      <thead>
+        <tr>
+          <th class="ls-team-cell" style="text-align:left">Team</th>
+          ${headers}
+          <th class="ls-divider">R</th>
+          <th>H</th>
+          <th>E</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="ls-away-row">
+          <td class="ls-team-cell" style="color:${awayColor}">${awayAbbr}</td>
+          ${awayRuns}
+          <td class="ls-divider ls-total ${awayWinCls}">${awayTot?.runs ?? '-'}</td>
+          <td class="ls-total ${awayWinCls}">${awayTot?.hits ?? '-'}</td>
+          <td>${awayTot?.errors ?? '-'}</td>
+        </tr>
+        <tr>
+          <td class="ls-team-cell" style="color:${homeColor}">${homeAbbr}</td>
+          ${homeRuns}
+          <td class="ls-divider ls-total ${homeWinCls}">${homeTot?.runs ?? '-'}</td>
+          <td class="ls-total ${homeWinCls}">${homeTot?.hits ?? '-'}</td>
+          <td>${homeTot?.errors ?? '-'}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>`;
+}
+
 function renderFullDetail(game) {
   const awayName  = game.away || '';
   const homeName  = game.home || '';
@@ -1534,7 +1641,25 @@ function renderFullDetail(game) {
   // Notes
   const notesHtml = game.notes ? `<div style="margin-top:10px;padding:8px 10px;background:#FFF7ED;border-left:3px solid #F59E0B;border-radius:0 6px 6px 0;font-size:11px;color:var(--text-sub)">📋 ${game.notes}</div>` : '';
 
+  // Linescore placeholder — filled async
+  const lsId = `ls-${game.game_pk}`;
+  const hasResult = game.actual_score && (game.actual_score.away > 0 || game.actual_score.home > 0 || game.actual_winner);
+  const lsPlaceholder = game.game_pk && hasResult
+    ? `<div id="${lsId}" class="ls-loading">⏳ 이닝별 점수 로딩 중...</div>`
+    : '';
+
+  if (game.game_pk && hasResult) {
+    setTimeout(async () => {
+      const el = document.getElementById(lsId);
+      if (!el) return;
+      const ls = await fetchLinescore(game.game_pk);
+      if (!ls?.innings?.length) { el.innerHTML = ''; return; }
+      el.outerHTML = renderLinescoreTable(ls, awayName, homeName, awayColor, homeColor);
+    }, 0);
+  }
+
   return `${badgesHtml}${notesHtml}${edgeBar}
+    ${lsPlaceholder}
     <div style="height:12px"></div>
     <div class="gc-sp-grid">
       ${renderTeamPanel(awayAbbr, awayColor, scA, game.away_pitcher, game.away_pitcher_stats, game.away_pitcher_gamelog, false)}
