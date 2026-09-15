@@ -2149,8 +2149,8 @@
     "model_winner": "Cleveland Guardians",
     "model_correct": null,
     "notes": "Chicago White Sox IL: Brooks Baldwin, Drew Thorpe, Huascar Brazobán, Joey Bart, Jordan Leasure 외 다수 / Cleveland Guardians IL: Colin Holderman, Rhys Hoskins, Shawn Armstrong",
-    "kalshi_prob": 54.0,
-    "edge": -0.8,
+    "kalshi_prob": 56.0,
+    "edge": -2.8,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -4838,8 +4838,8 @@
     "model_winner": "Baltimore Orioles",
     "model_correct": null,
     "notes": "Baltimore Orioles IL: Blaze Alexander, Christian Franklin, Colin Selby, Félix Bautista, Jordan Westburg 외 다수 / New York Mets IL: Cionel Pérez, Devin Williams, Jorge Polanco, Reed Garrett, Tylor Megill",
-    "kalshi_prob": 54.0,
-    "edge": -4.0,
+    "kalshi_prob": 55.0,
+    "edge": -5.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -7599,8 +7599,7 @@
             "FB",
             "SL",
             "CH",
-            "CB",
-            "SI"
+            "CB"
           ],
           "secondary_pitches": [
             "SL",
@@ -7611,7 +7610,7 @@
             {
               "code": "FF",
               "abbr": "FB",
-              "pct": 41.8,
+              "pct": 41.9,
               "velo": 97.4
             },
             {
@@ -7623,7 +7622,7 @@
             {
               "code": "CH",
               "abbr": "CH",
-              "pct": 13.2,
+              "pct": 13.3,
               "velo": 89.7
             },
             {
@@ -7631,12 +7630,6 @@
               "abbr": "CB",
               "pct": 6.2,
               "velo": 80.7
-            },
-            {
-              "code": "SI",
-              "abbr": "SI",
-              "pct": 3.0,
-              "velo": 96.7
             }
           ]
         },
@@ -9880,8 +9873,8 @@
     "model_winner": "Seattle Mariners",
     "model_correct": null,
     "notes": "Seattle Mariners IL: Brendan Donovan, Brennen Davis, Cole Wilcox, Colt Emerson, Emerson Hancock 외 다수 / Los Angeles Angels IL: Anthony Rendon, George Klassen, Gustavo Campero, Jack Kochanowicz, Nolan Schanuel 외 다수",
-    "kalshi_prob": 39.0,
-    "edge": 1.0,
+    "kalshi_prob": 38.0,
+    "edge": 2.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,

@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-09-14-daily-stan",
+      "title": "Sep 14 Results + Sep 15 Preview: 70% Win Rate, The Numbers Don't Lie",
+      "author": "Stan",
+      "author_emoji": "📊",
+      "author_color": "#0EA5E9",
+      "author_role": "Data Analyst",
+      "date": "2026-09-14",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#0EA5E9",
+      "read_time": "3 min",
+      "summary": "7-3 record on Sep 14 with 70% accuracy. Dodgers lead tomorrow's slate at 61%."
+    },
+    {
       "slug": "2026-09-13-daily-stan",
       "title": "Sep 13 Results + Sep 14 Preview: 66.7% Win Rate Backed By The Numbers",
       "author": "Stan",
