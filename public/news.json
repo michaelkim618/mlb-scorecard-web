@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-14T23:55:17.878002+00:00",
+  "updated_at": "2026-09-15T00:04:30.169048+00:00",
   "news": [
+    {
+      "title": "Henriquez (back) hits IL, while Díaz's Triple-A struggles further complicate LA's bullpen woes",
+      "link": "https://www.mlb.com/news/edgardo-henriquez-placed-on-injured-list-with-back-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ollvi8bnlkctcujtev7a",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-14T23:47:01+00:00",
+      "time_ago": "17m ago"
+    },
     {
       "title": "Alonso's return to Citi Field with O's 'a little weird,' but also 'really exciting'",
       "link": "https://www.mlb.com/news/pete-alonso-returns-to-citi-field-in-search-of-300th-home-run",
@@ -64,19 +77,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-14T20:44:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "He's played 7 positions, hit 17 HRs and just might take home some hardware",
-      "link": "https://www.mlb.com/news/ezequiel-duran-excelling-for-rangers-in-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/efzirm23pt099jwlob2v",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "David Venn",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-14T20:41:24+00:00",
       "time_ago": "3h ago"
     },
     {
