@@ -1325,6 +1325,16 @@ async function toggleDetails(id, date, away, home) {
     const preds = await loadPredictions(date);
     const fullGame = preds ? preds.find(g => g.away === away && g.home === home) : null;
     if (fullGame) {
+      // Merge actual_winner from season_results if the prediction file lacks it
+      if (!fullGame.actual_winner) {
+        const srGame = (byDate[date] || []).find(g => g.away === away && g.home === home);
+        if (srGame?.actual_winner) {
+          fullGame.actual_winner = srGame.actual_winner;
+          if (srGame.away_score != null && srGame.home_score != null) {
+            fullGame.actual_score = { away: srGame.away_score, home: srGame.home_score };
+          }
+        }
+      }
       detailEl.innerHTML = renderFullDetail(fullGame);
     } else {
       detailEl.innerHTML = '<div class="gc-detail-loading" style="padding:20px;">📊 Detailed data not available for this date.<br><small style="color:var(--muted)">Available from 2026-06-23 onwards.</small></div>';
@@ -1643,7 +1653,7 @@ function renderFullDetail(game) {
 
   // Linescore placeholder — filled async
   const lsId = `ls-${game.game_pk}`;
-  const hasResult = game.actual_score && (game.actual_score.away > 0 || game.actual_score.home > 0 || game.actual_winner);
+  const hasResult = !!(game.actual_winner || (game.actual_score && (game.actual_score.away > 0 || game.actual_score.home > 0)));
   const lsPlaceholder = game.game_pk && hasResult
     ? `<div id="${lsId}" class="ls-loading">⏳ 이닝별 점수 로딩 중...</div>`
     : '';
