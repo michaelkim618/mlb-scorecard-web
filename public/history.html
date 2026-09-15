@@ -596,6 +596,119 @@ body {
   .stat-pill { min-width: 90px; padding: 10px 12px; }
   .gr-body { grid-template-columns: 1fr 1fr; gap: 8px; }
 }
+
+/* ── Full GameCard expansion ── */
+.gc-expand-btn {
+  width: 100%;
+  background: none;
+  border: none;
+  border-top: 1px solid var(--card-border);
+  padding: 8px 16px;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--muted);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  transition: background 0.15s, color 0.15s;
+}
+.gc-expand-btn:hover { background: #f1f5f9; color: var(--text); }
+
+.gc-detail {
+  border-top: 1px solid var(--card-border);
+  background: #f8fafc;
+  padding: 16px;
+  display: none;
+}
+.gc-detail.open { display: block; }
+
+.gc-sp-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+@media (max-width: 640px) { .gc-sp-grid { grid-template-columns: 1fr; } }
+
+.gc-team-panel {
+  background: #fff;
+  border-radius: 10px;
+  padding: 12px;
+  border: 1px solid var(--card-border);
+}
+.gc-panel-label { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.6px; margin-bottom: 6px; }
+.gc-pitcher-name { font-size: 14px; font-weight: 700; color: var(--text); margin-bottom: 2px; }
+.gc-pitcher-meta { font-size: 11px; color: var(--muted); margin-bottom: 6px; display: flex; flex-wrap: wrap; gap: 4px; align-items: center; }
+.gc-stats-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 4px 8px; margin-bottom: 4px; }
+.gc-stat-cell { display: flex; flex-direction: column; }
+.gc-stat-lbl { font-size: 9px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.4px; }
+.gc-stat-val { font-size: 12px; font-weight: 700; color: var(--text); }
+
+.gc-trend-row { display: flex; flex-wrap: wrap; gap: 4px; margin: 5px 0; }
+.gc-badge { font-size: 10px; font-weight: 700; padding: 2px 7px; border-radius: 99px; }
+.gc-badge-hot    { background: #FEF3C7; color: #92400E; }
+.gc-badge-cold   { background: #EFF6FF; color: #1E40AF; }
+.gc-badge-stable { background: #F1F5F9; color: #475569; }
+.gc-badge-rest   { background: #F1F5F9; color: #64748B; }
+.gc-badge-shortrest { background: #FFF1F2; color: #991B1B; border: 1px solid #FCA5A5; }
+.gc-badge-extrarest { background: #F0FDF4; color: #166534; border: 1px solid #86EFAC; }
+
+.gc-gamelog-wrap { margin-top: 8px; }
+.gc-gamelog-title { font-size: 10px; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.6px; margin-bottom: 5px; }
+.gc-gamelog-scroll { max-height: 200px; overflow-y: auto; border: 1px solid var(--card-border); border-radius: 4px; }
+.gc-gamelog-scroll table { width: 100%; border-collapse: collapse; font-size: 11px; }
+.gc-gamelog-scroll thead { position: sticky; top: 0; background: #f8fafc; z-index: 1; }
+.gc-gamelog-scroll th { padding: 3px 4px; font-size: 10px; font-weight: 600; color: var(--muted); border-bottom: 1px solid var(--card-border); }
+.gc-gamelog-scroll th:first-child, .gc-gamelog-scroll th:nth-child(2) { text-align: left; }
+.gc-gamelog-scroll th:not(:first-child):not(:nth-child(2)) { text-align: center; }
+.gc-gamelog-scroll td { padding: 3px 4px; border-bottom: 1px solid #f1f5f9; }
+.gc-gamelog-scroll td:first-child, .gc-gamelog-scroll td:nth-child(2) { color: var(--muted); font-size: 10px; }
+.gc-gamelog-scroll td:not(:first-child):not(:nth-child(2)) { text-align: center; }
+
+.gc-divider { height: 1px; background: var(--card-border); margin: 10px 0; }
+.gc-bat-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px; }
+.gc-bat-title { font-size: 10px; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.5px; }
+.gc-bat-score { font-size: 15px; font-weight: 800; }
+.gc-bat-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 3px 12px; margin-bottom: 8px; }
+.gc-bat-stat { display: flex; justify-content: space-between; font-size: 11px; align-items: baseline; }
+.gc-bat-stat-lbl { color: var(--muted); }
+.gc-bat-stat-val { font-weight: 700; color: var(--text); }
+
+.gc-split-box { background: #f8fafc; border: 1px solid var(--card-border); border-radius: 7px; padding: 7px 9px; margin-top: 6px; }
+.gc-split-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px; flex-wrap: wrap; gap: 4px; }
+.gc-split-title { font-size: 9px; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.5px; }
+.gc-split-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 4px; }
+.gc-split-col { padding: 5px 7px; border-radius: 6px; border: 1px solid transparent; }
+.gc-split-col.used { background: rgba(14,165,233,0.07); border-color: rgba(14,165,233,0.25); }
+.gc-split-col-lbl { font-size: 9px; font-weight: 700; color: var(--muted); margin-bottom: 3px; }
+.gc-split-col.used .gc-split-col-lbl { color: #0369A1; }
+.gc-split-avg { font-size: 13px; font-weight: 800; color: var(--text); }
+.gc-split-sub { font-size: 10px; color: var(--muted); margin-top: 1px; }
+.gc-split-note { font-size: 9px; color: var(--muted); border-top: 1px solid var(--card-border); padding-top: 5px; margin-top: 5px; }
+
+.gc-sc-title { font-size: 10px; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 8px; }
+.gc-sc-bar-row { display: flex; align-items: center; gap: 8px; margin-bottom: 5px; }
+.gc-sc-bar-lbl { width: 56px; font-size: 10px; color: var(--muted); flex-shrink: 0; }
+.gc-sc-bar-track { flex: 1; height: 5px; border-radius: 99px; background: #e2e8f0; overflow: hidden; }
+.gc-sc-bar-fill { height: 100%; border-radius: 99px; }
+.gc-sc-bar-val { width: 26px; font-size: 11px; font-weight: 700; color: var(--text); text-align: right; }
+.gc-total-row { display: flex; justify-content: space-between; margin-top: 8px; padding: 6px 8px; border-radius: 6px; }
+.gc-total-lbl { font-size: 11px; color: var(--muted); font-weight: 600; }
+.gc-total-val { font-size: 15px; font-weight: 800; }
+
+.gc-badges-row { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--card-border); }
+.gc-chip { font-size: 10px; font-weight: 600; padding: 2px 8px; border-radius: 99px; white-space: nowrap; border: 1px solid transparent; }
+
+.gc-edge-bar { margin-bottom: 12px; padding: 6px 12px; border-radius: 8px; font-size: 12px; display: flex; justify-content: space-between; align-items: center; }
+.gc-edge-bar.positive { background: #f0fdf4; border: 1px solid #86efac; }
+.gc-edge-bar.negative { background: #fff1f2; border: 1px solid #fca5a5; }
+.gc-edge-lbl { color: var(--muted); }
+.gc-edge-val-pos { font-weight: 700; color: var(--green); }
+.gc-edge-val-neg { font-weight: 700; color: var(--red); }
+
+.gc-detail-loading { text-align: center; padding: 30px; color: var(--muted); font-size: 13px; }
 </style>
 </head>
 <body>
@@ -677,6 +790,21 @@ body {
 
 <script>
 // ════════════════════════════════════════
+//  팀 컬러
+// ════════════════════════════════════════
+const TEAM_COLORS_MAP = {
+  'ARI':'#A71930','ATL':'#CE1141','BAL':'#DF4601','BOS':'#BD3039',
+  'CHC':'#0E3386','CWS':'#27251F','CIN':'#C6011F','CLE':'#00385D',
+  'COL':'#333366','DET':'#0C2340','HOU':'#002D62','KC':'#004687',
+  'LAA':'#BA0021','LAD':'#005A9C','MIA':'#00A3E0','MIL':'#12284B',
+  'MIN':'#002B5C','NYM':'#002D72','NYY':'#003087','OAK':'#003831',
+  'PHI':'#E81828','PIT':'#27251F','SD':'#2F241D','SF':'#FD5A1E',
+  'SEA':'#0C2C56','STL':'#C41E3A','TB':'#092C5C','TEX':'#003278',
+  'TOR':'#134A8E','WSH':'#AB0003',
+};
+function TEAM_COLOR(name) { return TEAM_COLORS_MAP[shortTeam(name)] || '#64748B'; }
+
+// ════════════════════════════════════════
 //  데이터 & 상태
 // ════════════════════════════════════════
 let allGames = [];
@@ -692,7 +820,6 @@ const DATA_URL_FALLBACK = 'https://raw.githubusercontent.com/michaelkim618/mlb-s
 //  초기 로드
 // ════════════════════════════════════════
 async function fetchData() {
-  // file:// 환경(프리뷰)이거나 상대경로 fetch가 불가능한 경우 GitHub Raw로 폴백
   if (location.protocol === 'file:') {
     const res = await fetch(DATA_URL_FALLBACK + '?t=' + Date.now());
     return res.json();
@@ -715,7 +842,6 @@ async function init() {
     renderSeasonSummary();
     renderTrendChart();
     renderDateSidebar();
-    // URL 파라미터로 날짜 지정 가능
     const urlDate = new URLSearchParams(location.search).get('date');
     if (urlDate && byDate[urlDate]) selectDate(urlDate);
     else if (dateList.length) selectDate(dateList[dateList.length - 1]);
@@ -814,7 +940,7 @@ function renderTrendChart() {
     const pct = st.pct ?? 0;
     const h   = Math.max(4, Math.round(pct / 100 * maxH));
     const cls = pct >= 70 ? 'bar-high' : pct >= 55 ? 'bar-mid' : 'bar-low';
-    const short = d.slice(5); // MM-DD
+    const short = d.slice(5);
     return `
       <div class="trend-bar-wrap" onclick="selectDate('${d}')" id="tbar-${d}" title="${d}: ${pct}% (${st.hits}/${st.total})">
         <div class="trend-pct" style="opacity:0;font-size:8px">${pct}%</div>
@@ -845,7 +971,6 @@ function renderDateSidebar(filter = '') {
     return;
   }
 
-  // 월별 그룹
   const byMonth = {};
   filtered.forEach(d => {
     const m = d.slice(0, 7);
@@ -890,7 +1015,6 @@ function filterDates(val) {
 function selectDate(date) {
   selectedDate = date;
 
-  // 사이드바 활성 표시
   document.querySelectorAll('.date-item').forEach(el => el.classList.remove('active'));
   const ditem = document.getElementById(`ditem-${date}`);
   if (ditem) {
@@ -898,10 +1022,8 @@ function selectDate(date) {
     ditem.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
   }
 
-  // 트렌드 차트 선택
   updateTrendSelection(date);
 
-  // URL 업데이트 (히스토리 push 없이)
   const url = new URL(location.href);
   url.searchParams.set('date', date);
   history.replaceState(null, '', url);
@@ -927,7 +1049,6 @@ function renderGamesPanel(date) {
   document.getElementById('panel-content').style.display = 'block';
   document.getElementById('panel-title').textContent     = fmtDateLong(date);
 
-  // 상단 스탯
   const pctColor = st.pct >= 70 ? 'var(--green)' : st.pct >= 55 ? 'var(--yellow)' : st.pct !== null ? 'var(--red)' : 'var(--muted)';
   document.getElementById('panel-stats').innerHTML = `
     <div class="day-stat-pill">
@@ -942,7 +1063,6 @@ function renderGamesPanel(date) {
     ${st.pending > 0 ? `<div class="day-stat-pill" style="color:var(--muted)">⏳ Pending ${st.pending}</div>` : ''}
   `;
 
-  // 필터
   let filtered = games;
   if (currentFilter === 'hit')  filtered = games.filter(g => g.correct === true);
   if (currentFilter === 'miss') filtered = games.filter(g => g.actual_winner && g.correct === false);
@@ -954,10 +1074,10 @@ function renderGamesPanel(date) {
     return;
   }
 
-  list.innerHTML = filtered.map(g => renderGameRow(g)).join('');
+  list.innerHTML = filtered.map((g, i) => renderGameRow(g, date, i)).join('');
 }
 
-function renderGameRow(g) {
+function renderGameRow(g, date, idx) {
   const hasResult = !!g.actual_winner;
   const isHit     = hasResult && g.correct;
   const isMiss    = hasResult && !g.correct;
@@ -973,6 +1093,8 @@ function renderGameRow(g) {
 
   const awayShort = shortTeam(g.away);
   const homeShort = shortTeam(g.home);
+  const awayColor = TEAM_COLOR(g.away);
+  const homeColor = TEAM_COLOR(g.home);
 
   const trendBadge = t => {
     if (t === 'hot')  return '<span class="trend-badge trend-hot">🔥 Hot</span>';
@@ -994,12 +1116,22 @@ function renderGameRow(g) {
   const hcBadge  = g.high_conf      ? '<span class="high-conf-badge">⭐ High Conf</span>' : '';
   const lcBadge  = g.low_confidence ? '<span class="low-conf-badge">🔮 Low Conf</span>'  : '';
 
-  const spCol = (team, short, prob, era, trend, sp, bp, bpEra, isAway) => `
+  // Premium/toss-up banner
+  const pickProb = Math.round(g.pick_prob);
+  let bannerHtml = '';
+  if (pickProb >= 63) {
+    bannerHtml = `<div style="background:linear-gradient(90deg,#F59E0B,#FBBF24);padding:5px 16px;display:flex;align-items:center;justify-content:space-between">
+      <span style="font-size:11px;font-weight:800;color:#78350F;letter-spacing:0.5px">⭐ PREMIUM PICK</span>
+      <span style="font-size:10px;font-weight:700;color:#92400E">${pickProb}% Confidence</span>
+    </div>`;
+  }
+
+  const spCol = (team, short, color, prob, era, trend, sp, bp, bpEra, isAway) => `
     <div class="gr-sp-col">
       <div class="gr-sp-header">
         <div>
           <div class="gr-sp-team-label">${isAway ? '✈️ Away' : '🏠 Home'} · Starting Pitcher</div>
-          <div class="gr-sp-team-name">${team}</div>
+          <div class="gr-sp-team-name" style="color:${color}">${team}</div>
         </div>
         <div class="gr-sp-prob">${Math.round(prob)}<sub>%</sub></div>
       </div>
@@ -1027,46 +1159,365 @@ function renderGameRow(g) {
     ? `<span class="gr-result-line${isHit ? '' : ' gr-result-miss'}">🏆 ${g.actual_winner}</span>`
     : `<span class="gr-result-pending">⏳ Awaiting result</span>`;
 
+  const gameId = `${date}-${idx}`;
+  const safeAway = g.away.replace(/'/g, "\\'");
+  const safeHome = g.home.replace(/'/g, "\\'");
+
   return `
-    <div class="game-row ${rowClass}">
-      <div class="gr-header">
-        <div class="gr-teams">
-          <span class="gr-team">${g.away}</span>
-          <span class="gr-vs">@</span>
-          <span class="gr-team">${g.home}</span>
+    <div class="game-row ${rowClass}" style="border-left: 4px solid ${pickProb >= 63 ? '#F59E0B' : pickProb < 55 ? '#94A3B8' : (g.pick === g.away ? awayColor : homeColor)}">
+      ${bannerHtml}
+      <div style="padding:12px 16px">
+        <div class="gr-header">
+          <div class="gr-teams">
+            <span class="gr-team" style="color:${awayColor}">${g.away}</span>
+            <span class="gr-vs">@</span>
+            <span class="gr-team" style="color:${homeColor}">${g.home}</span>
+          </div>
+          <div class="gr-badges">
+            ${dhBadge}
+            ${hasResult ? '<span class="gr-status gs-final">FINAL</span>' : '<span class="gr-status gs-sched">Scheduled</span>'}
+            ${verdBadge}
+            ${hcBadge}${lcBadge}
+          </div>
         </div>
-        <div class="gr-badges">
-          ${dhBadge}
-          ${hasResult ? '<span class="gr-status gs-final">FINAL</span>' : '<span class="gr-status gs-sched">Scheduled</span>'}
-          ${verdBadge}
-          ${hcBadge}${lcBadge}
+
+        <div class="gr-sp-grid">
+          ${spCol(g.away, awayShort, awayColor, awayProb, g.away_sp_era, g.away_sp_trend, aSp, aBp, g.away_bp_era, true)}
+          <div class="gr-sp-divider"></div>
+          ${spCol(g.home, homeShort, homeColor, homeProb, g.home_sp_era, g.home_sp_trend, hSp, hBp, g.home_bp_era, false)}
+        </div>
+
+        <div class="gr-bottom">
+          <div class="gr-prob-wrap">
+            <div class="gr-prob-lbl">Win Probability</div>
+            <div class="gr-prob-bar">
+              <div class="gr-prob-away" style="width:${Math.round(awayProb)}%">${awayProb >= 12 ? Math.round(awayProb)+'%' : ''}</div>
+              <div class="gr-prob-home" style="width:${Math.round(homeProb)}%">${homeProb >= 12 ? Math.round(homeProb)+'%' : ''}</div>
+            </div>
+            <div class="gr-prob-labels">
+              <span class="away-lbl">${awayShort}</span>
+              <span class="home-lbl">${homeShort}</span>
+            </div>
+          </div>
+          <div class="gr-pick-box">
+            <div class="gr-pick-lbl">🎯 Model Pick</div>
+            <div class="gr-pick-team">${shortTeam(g.pick)} ${Math.round(g.pick_prob)}%</div>
+            ${resultLine}
+          </div>
         </div>
       </div>
 
-      <div class="gr-sp-grid">
-        ${spCol(g.away, awayShort, awayProb, g.away_sp_era, g.away_sp_trend, aSp, aBp, g.away_bp_era, true)}
-        <div class="gr-sp-divider"></div>
-        ${spCol(g.home, homeShort, homeProb, g.home_sp_era, g.home_sp_trend, hSp, hBp, g.home_bp_era, false)}
-      </div>
+      <button class="gc-expand-btn" id="gc-btn-${gameId}" onclick="toggleDetails('${gameId}','${date}','${safeAway}','${safeHome}')">
+        ▼ View Full Pitcher & Scorecard Details
+      </button>
+      <div class="gc-detail" id="gc-detail-${gameId}"></div>
+    </div>`;
+}
 
-      <div class="gr-bottom">
-        <div class="gr-prob-wrap">
-          <div class="gr-prob-lbl">Win Probability</div>
-          <div class="gr-prob-bar">
-            <div class="gr-prob-away" style="width:${Math.round(awayProb)}%">${awayProb >= 12 ? Math.round(awayProb)+'%' : ''}</div>
-            <div class="gr-prob-home" style="width:${Math.round(homeProb)}%">${homeProb >= 12 ? Math.round(homeProb)+'%' : ''}</div>
-          </div>
-          <div class="gr-prob-labels">
-            <span class="away-lbl">${awayShort}</span>
-            <span class="home-lbl">${homeShort}</span>
-          </div>
-        </div>
-        <div class="gr-pick-box">
-          <div class="gr-pick-lbl">🎯 Model Pick</div>
-          <div class="gr-pick-team">${shortTeam(g.pick)} ${Math.round(g.pick_prob)}%</div>
-          ${resultLine}
-        </div>
-      </div>
+// ════════════════════════════════════════
+//  Predictions 캐시 & 로더
+// ════════════════════════════════════════
+const predictionsCache = {};
+
+async function loadPredictions(date) {
+  if (predictionsCache[date] !== undefined) return predictionsCache[date];
+
+  const today = new Date().toISOString().slice(0, 10);
+  const urls = [];
+  if (date === today) urls.push('predictions.json');
+  urls.push(`output/predictions_${date}.js`);
+  urls.push(`predictions_${date}.js`);
+
+  for (const url of urls) {
+    try {
+      const resp = await fetch(url + '?t=' + Date.now());
+      if (!resp.ok) continue;
+      let data;
+      if (url.endsWith('.json')) {
+        data = await resp.json();
+      } else {
+        const text = await resp.text();
+        const match = text.match(/window\.PREDICTIONS_DATA\s*=\s*([\s\S]+?);\s*$/m);
+        if (!match) continue;
+        data = JSON.parse(match[1]);
+      }
+      predictionsCache[date] = Array.isArray(data) ? data : [];
+      return predictionsCache[date];
+    } catch {}
+  }
+
+  predictionsCache[date] = null;
+  return null;
+}
+
+async function toggleDetails(id, date, away, home) {
+  const detailEl = document.getElementById(`gc-detail-${id}`);
+  const btnEl    = document.getElementById(`gc-btn-${id}`);
+  if (!detailEl) return;
+
+  const isOpen = detailEl.classList.contains('open');
+  if (isOpen) {
+    detailEl.classList.remove('open');
+    if (btnEl) btnEl.textContent = '▼ View Full Pitcher & Scorecard Details';
+    return;
+  }
+
+  detailEl.innerHTML = '<div class="gc-detail-loading"><div class="spinner"></div><div style="margin-top:8px;">Loading game details…</div></div>';
+  detailEl.classList.add('open');
+  if (btnEl) btnEl.textContent = '▲ Hide Details';
+
+  try {
+    const preds = await loadPredictions(date);
+    const fullGame = preds ? preds.find(g => g.away === away && g.home === home) : null;
+    if (fullGame) {
+      detailEl.innerHTML = renderFullDetail(fullGame);
+    } else {
+      detailEl.innerHTML = '<div class="gc-detail-loading" style="padding:20px;">📊 Detailed data not available for this date.<br><small style="color:var(--muted)">Available from 2026-06-23 onwards.</small></div>';
+    }
+  } catch(e) {
+    detailEl.innerHTML = `<div class="gc-detail-loading" style="color:var(--red);">Failed to load: ${e.message}</div>`;
+  }
+}
+
+// ════════════════════════════════════════
+//  Full GameCard detail renderer
+// ════════════════════════════════════════
+function fmtAvg(v) {
+  if (v == null) return '—';
+  return '.' + String(Math.round(v * 1000)).padStart(3, '0');
+}
+
+function renderTrendBadge(spd) {
+  if (!spd) return '';
+  const trend = (spd.trend || '').toLowerCase();
+  const rest  = spd.rest_days;
+  const note  = spd.rest_note;
+  const conf  = spd.sample_confidence;
+  const ng    = spd.n_games ?? 0;
+
+  let html = '<div class="gc-trend-row">';
+  if (trend === 'hot')       html += '<span class="gc-badge gc-badge-hot">🔥 Hot</span>';
+  else if (trend === 'cold') html += '<span class="gc-badge gc-badge-cold">🥶 Cold</span>';
+  else                       html += '<span class="gc-badge gc-badge-stable">➡️ Stable</span>';
+
+  if (note === 'short_rest')  html += `<span class="gc-badge gc-badge-shortrest">⚡ Short rest ${rest}d</span>`;
+  else if (note === 'extra_rest') html += `<span class="gc-badge gc-badge-extrarest">💤 Extra rest ${rest}d</span>`;
+  else if (rest != null)      html += `<span class="gc-badge gc-badge-rest">Rest ${rest}d</span>`;
+
+  if (conf != null && conf < 1.0) html += `<span class="gc-badge" style="background:#FEFCE8;color:#854D0E;border:1px solid #FDE047">📊 ${ng} games</span>`;
+  if (spd.recent_bad_start)   html += `<span class="gc-badge" style="background:#FFF7ED;color:#C2410C;border:1px solid #FDBA74">⚠️ Rough recent start</span>`;
+  html += '</div>';
+  return html;
+}
+
+function renderGamelog(gamelog) {
+  if (!gamelog || !gamelog.length) return '';
+  const rows = [...gamelog].reverse().map(g => {
+    const era = g.era;
+    const ec = era == null ? 'inherit' : era <= 2.0 ? '#16A34A' : era <= 3.5 ? '#2563EB' : era <= 5.5 ? '#64748B' : '#DC2626';
+    const dc = g.decision === 'W' ? '#16A34A' : g.decision === 'L' ? '#DC2626' : '#94A3B8';
+    const rb = era > 5.5 ? 'background:rgba(220,38,38,0.04)' : '';
+    return `<tr style="${rb}">
+      <td>${(g.date||'').slice(5)}</td><td>${g.opp||''}</td>
+      <td style="text-align:center;font-weight:700;color:${dc}">${g.decision??'—'}</td>
+      <td style="text-align:center">${g.ip??'—'}</td><td style="text-align:center">${g.h??'—'}</td>
+      <td style="text-align:center">${g.er??'—'}</td><td style="text-align:center">${g.bb??'—'}</td>
+      <td style="text-align:center">${g.so??'—'}</td>
+      <td style="text-align:center;font-weight:700;color:${ec}">${era!=null?era.toFixed(2):'—'}</td>
+    </tr>`;
+  }).join('');
+  return `<div class="gc-gamelog-wrap">
+    <div class="gc-gamelog-title">Last ${gamelog.length} Starts</div>
+    <div class="gc-gamelog-scroll">
+      <table>
+        <thead><tr><th>Date</th><th>Opp</th><th>W/L</th><th>IP</th><th>H</th><th>ER</th><th>BB</th><th>K</th><th>ERA</th></tr></thead>
+        <tbody>${rows}</tbody>
+      </table>
+    </div>
+  </div>`;
+}
+
+function renderBatStats(bd, isHome, color) {
+  if (!bd) return '<div style="font-size:11px;color:var(--muted)">No batting data</div>';
+  const avg  = fmtAvg(bd.recent_avg);
+  const ops  = bd.season_ops  != null ? bd.season_ops.toFixed(3)  : '—';
+  const rpg  = bd.runs_per_g  != null ? bd.runs_per_g.toFixed(1)  : '—';
+  const hrpg = bd.hr_per_g    != null ? bd.hr_per_g.toFixed(1)    : '—';
+  const exp  = bd.explosive_games ?? 0;
+  const stars = exp >= 3 ? '★★★' : exp === 2 ? '★★☆' : exp === 1 ? '★☆☆' : '☆☆☆';
+  const hS = bd.home_split, aS = bd.away_split;
+  const usedSplit = isHome ? hS : aS;
+  const usedAvg   = usedSplit ? fmtAvg(usedSplit.recent_avg) : null;
+
+  const buildSplit = (label, split, isUsed) => {
+    if (!split) return '';
+    const sAvg = fmtAvg(split.recent_avg);
+    const sRpg = split.runs_per_g != null ? split.runs_per_g.toFixed(1) : '—';
+    const sHr  = split.hr_per_g   != null ? split.hr_per_g.toFixed(1)  : '—';
+    const n = split.n_games ?? 10;
+    return `<div class="gc-split-col${isUsed?' used':''}">
+      <div class="gc-split-col-lbl">${label}${isUsed?' <span style="background:#0EA5E9;color:#fff;border-radius:3px;padding:1px 4px;font-size:8px">Used</span>':''}</div>
+      <div class="gc-split-avg">${sAvg}</div>
+      <div class="gc-split-sub">${sRpg} R/G · ${sHr} HR/G</div>
+      <div style="font-size:9px;color:var(--muted)">(${n}G)</div>
+    </div>`;
+  };
+
+  const splitHtml = (hS || aS) ? `<div class="gc-split-box">
+    <div class="gc-split-header">
+      <div class="gc-split-title">Home / Away Split (last 10G each)</div>
+      ${usedAvg ? `<div style="font-size:9px;color:var(--muted)">Overall <b style="color:var(--text)">${avg}</b> → ${isHome?'Home':'Away'} <b style="color:#0369A1">${usedAvg}</b></div>` : ''}
+    </div>
+    <div class="gc-split-grid">
+      ${buildSplit('🏠 Home', hS, isHome)}
+      ${buildSplit('✈️ Away', aS, !isHome)}
+    </div>
+    <div class="gc-split-note">* Batting score from overall recent stats. Split avg used as adjustment only.</div>
+  </div>` : '';
+
+  return `<div class="gc-bat-stats">
+    <div class="gc-bat-stat"><span class="gc-bat-stat-lbl">AVG <span style="font-size:9px">(recent 10G)</span></span><span class="gc-bat-stat-val">${avg}</span></div>
+    <div class="gc-bat-stat"><span class="gc-bat-stat-lbl">OPS <span style="font-size:9px">(season)</span></span><span class="gc-bat-stat-val">${ops}</span></div>
+    <div class="gc-bat-stat"><span class="gc-bat-stat-lbl">R/G</span><span class="gc-bat-stat-val">${rpg}</span></div>
+    <div class="gc-bat-stat"><span class="gc-bat-stat-lbl">HR/G</span><span class="gc-bat-stat-val">${hrpg}</span></div>
+  </div>
+  ${splitHtml}
+  <div style="font-size:10px;color:var(--muted);margin-top:6px">Explosive games <span style="color:#F59E0B;font-weight:700">${stars}</span></div>`;
+}
+
+function renderScoreBar(label, value, color) {
+  const pct = Math.min(100, Math.round(value || 0));
+  return `<div class="gc-sc-bar-row">
+    <div class="gc-sc-bar-lbl">${label}</div>
+    <div class="gc-sc-bar-track"><div class="gc-sc-bar-fill" style="width:${pct}%;background:${color}"></div></div>
+    <div class="gc-sc-bar-val">${pct}</div>
+  </div>`;
+}
+
+function renderTeamPanel(teamAbbr, color, sc, pitcherName, pitcherStats, gamelog, isHome) {
+  const spd  = sc?.sp_detail || {};
+  const eraRaw = pitcherStats?.era ?? spd.era;
+  const era  = eraRaw != null ? (typeof eraRaw === 'number' ? eraRaw.toFixed(2) : eraRaw) : '—';
+  const whip = spd.whip    != null ? spd.whip.toFixed(2)    : (pitcherStats?.whip ?? '—');
+  const k9   = spd.k9      != null ? spd.k9.toFixed(1)      : '—';
+  const ip   = spd.avg_ip  != null ? spd.avg_ip.toFixed(1)  : '—';
+  const l3   = spd.last3_era != null ? spd.last3_era.toFixed(2) : '—';
+  const wl   = pitcherStats?.wins != null ? `${pitcherStats.wins}W-${pitcherStats.losses}L` : '—';
+
+  const meta = [];
+  if (spd.age) meta.push(`Age ${spd.age}`);
+  if (spd.fb_velo) meta.push(`<b style="color:#0EA5E9">${spd.fb_velo} mph</b> (FB)`);
+  if (spd.secondary_pitches?.length) meta.push(spd.secondary_pitches.join(' / '));
+
+  const batScore = sc?.bat_score ?? 0;
+
+  return `<div class="gc-team-panel">
+    <div class="gc-panel-label" style="color:${color}">${teamAbbr} · Starting Pitcher</div>
+    <div class="gc-pitcher-name">${pitcherName || 'TBD'}</div>
+    ${meta.length ? `<div class="gc-pitcher-meta">${meta.join(' · ')}</div>` : ''}
+    <div class="gc-stats-grid">
+      <div class="gc-stat-cell"><span class="gc-stat-lbl">ERA</span><span class="gc-stat-val">${era}</span></div>
+      <div class="gc-stat-cell"><span class="gc-stat-lbl">WHIP</span><span class="gc-stat-val">${whip}</span></div>
+      <div class="gc-stat-cell"><span class="gc-stat-lbl">K/9</span><span class="gc-stat-val">${k9}</span></div>
+      <div class="gc-stat-cell"><span class="gc-stat-lbl">Avg IP</span><span class="gc-stat-val">${ip}</span></div>
+      <div class="gc-stat-cell"><span class="gc-stat-lbl">Last 3 ERA</span><span class="gc-stat-val">${l3}</span></div>
+      <div class="gc-stat-cell"><span class="gc-stat-lbl">Record</span><span class="gc-stat-val">${wl}</span></div>
+    </div>
+    ${renderTrendBadge(spd)}
+    ${renderGamelog(gamelog)}
+    <div class="gc-divider"></div>
+    <div class="gc-bat-header">
+      <span class="gc-bat-title">🏏 Recent Batting</span>
+      <span class="gc-bat-score" style="color:${color}">${batScore.toFixed(1)}<span style="font-size:10px;font-weight:600;color:var(--muted);margin-left:2px">pts</span></span>
+    </div>
+    ${renderBatStats(sc?.bat_detail, isHome, color)}
+    <div class="gc-divider"></div>
+    <div class="gc-sc-title">📊 Scorecard</div>
+    ${renderScoreBar('SP',      sc?.sp_score,  '#0EA5E9')}
+    ${renderScoreBar('Bullpen', sc?.bp_score,  '#8B5CF6')}
+    ${renderScoreBar('Batting', sc?.bat_score, '#D97706')}
+    ${renderScoreBar('Sit',     sc?.sit_score, '#F59E0B')}
+    <div class="gc-total-row" style="background:${color}10">
+      <span class="gc-total-lbl">Total Score</span>
+      <span class="gc-total-val" style="color:${color}">${(sc?.total ?? 0).toFixed(1)}</span>
+    </div>
+  </div>`;
+}
+
+function renderFullDetail(game) {
+  const awayName  = game.away || '';
+  const homeName  = game.home || '';
+  const awayAbbr  = shortTeam(awayName);
+  const homeAbbr  = shortTeam(homeName);
+  const awayColor = TEAM_COLOR(awayName);
+  const homeColor = TEAM_COLOR(homeName);
+  const sc  = game.scorecard || {};
+  const scA = sc.away || {};
+  const scH = sc.home || {};
+  const awayProb    = Math.round(game.win_prob?.away || 0);
+  const homeProb    = Math.round(game.win_prob?.home || 0);
+  const pickIsAway  = game.model_winner === awayName;
+  const pickProb    = pickIsAway ? awayProb : homeProb;
+
+  // Summary badges
+  const chip = (bg, color, border, text) =>
+    `<span class="gc-chip" style="background:${bg};color:${color};border-color:${border}">${text}</span>`;
+  const chips = [];
+  const batSrc = game.scorecard?.bat_source;
+  if (game.lineup_confirmed)       chips.push(chip('#F0FDF4','#15803D','#86EFAC','✅ Lineup Confirmed'));
+  else if (batSrc === 'team_stats') chips.push(chip('#FFF7ED','#C2410C','#FED7AA','⚠️ Lineup Pending'));
+  else if (batSrc === 'prev_day')   chips.push(chip('#FFFBEB','#92400E','#FDE68A','🕐 Awaiting Today\'s Lineup'));
+  if (game.sp_tbd?.any)             chips.push(chip('#F5F3FF','#6D28D9','#DDD6FE','🔄 SP TBD'));
+  if (game.sp_bat_conflict)         chips.push(chip('#FFF7ED','#C2410C','#FED7AA','⚡ SP↔BAT Conflict'));
+  if (game.edge != null) {
+    const ev = parseFloat(game.edge);
+    if (Math.abs(ev) <= 3) chips.push(chip('#F1F5F9','#475569','#CBD5E1','➖ Near Market'));
+    else if (ev > 3) chips.push(chip('#F0FDF4','#15803D','#86EFAC',`📈 Edge +${ev.toFixed(1)}%p`));
+    else chips.push(chip('#FFF1F2','#B91C1C','#FCA5A5',`📉 Edge ${ev.toFixed(1)}%p`));
+    if (game.kalshi_prob != null) chips.push(chip('#F8FAFC','#64748B','#E2E8F0',`Kalshi ${game.kalshi_prob}%`));
+  }
+  const exp = game.expected_score;
+  if (exp?.away || exp?.home) chips.push(chip('#F8FAFC','#475569','#E2E8F0',`🎯 Proj ${(exp.away||0).toFixed(1)}–${(exp.home||0).toFixed(1)}`));
+  if (pickProb >= 65) chips.push(chip('#FEF3C7','#78350F','#FCD34D',`⭐ Premium · ${pickProb}%`));
+  else if (pickProb >= 63) chips.push(chip('#FEF9C3','#713F12','#FDE047',`🔥 High Conf · ${pickProb}%`));
+  else if (pickProb < 55)  chips.push(chip('#F1F5F9','#475569','#CBD5E1',`⚠️ Toss-Up · ${pickProb}%`));
+  const awTrend = scA.sp_detail?.trend, hmTrend = scH.sp_detail?.trend;
+  const awLast = (game.away_pitcher||'Away SP').split(' ').pop();
+  const hmLast = (game.home_pitcher||'Home SP').split(' ').pop();
+  if (awTrend === 'hot')  chips.push(chip('#FEF3C7','#92400E','#FDE68A',`🔥 ${awLast} Hot`));
+  if (awTrend === 'cold') chips.push(chip('#EFF6FF','#1E40AF','#BFDBFE',`🥶 ${awLast} Cold`));
+  if (hmTrend === 'hot')  chips.push(chip('#FEF3C7','#92400E','#FDE68A',`🔥 ${hmLast} Hot`));
+  if (hmTrend === 'cold') chips.push(chip('#EFF6FF','#1E40AF','#BFDBFE',`🥶 ${hmLast} Cold`));
+  const awStreak = game.away_recent_form?.streak ?? 0;
+  const hmStreak = game.home_recent_form?.streak ?? 0;
+  const awT = awayName.split(' ').pop(), hmT = homeName.split(' ').pop();
+  if (awStreak >= 3)  chips.push(chip('#F0FDF4','#15803D','#86EFAC',`🔥 ${awT} ${awStreak}W streak`));
+  if (awStreak <= -3) chips.push(chip('#FFF1F2','#B91C1C','#FCA5A5',`📉 ${awT} ${Math.abs(awStreak)}L streak`));
+  if (hmStreak >= 3)  chips.push(chip('#F0FDF4','#15803D','#86EFAC',`🔥 ${hmT} ${hmStreak}W streak`));
+  if (hmStreak <= -3) chips.push(chip('#FFF1F2','#B91C1C','#FCA5A5',`📉 ${hmT} ${Math.abs(hmStreak)}L streak`));
+  if (game.away_standing?.games_back === '-') chips.push(`<span class="gc-chip" style="background:${awayColor}12;color:${awayColor};border-color:${awayColor}30">🏆 ${awT} Div Leader</span>`);
+  if (game.home_standing?.games_back === '-') chips.push(`<span class="gc-chip" style="background:${homeColor}12;color:${homeColor};border-color:${homeColor}30">🏆 ${hmT} Div Leader</span>`);
+  const badgesHtml = chips.length ? `<div class="gc-badges-row">${chips.join('')}</div>` : '';
+
+  // Edge bar
+  let edgeBar = '';
+  if (game.edge != null) {
+    const ev = parseFloat(game.edge);
+    const pickAbbr = pickIsAway ? awayAbbr : homeAbbr;
+    edgeBar = `<div class="gc-edge-bar ${ev > 0 ? 'positive' : 'negative'}" style="margin-top:12px">
+      <span class="gc-edge-lbl">vs Kalshi market</span>
+      <span class="${ev > 0 ? 'gc-edge-val-pos' : 'gc-edge-val-neg'}">${ev > 0 ? '+' : ''}${ev.toFixed(1)}%p edge · Pick ${pickAbbr}</span>
+    </div>`;
+  }
+
+  // Notes
+  const notesHtml = game.notes ? `<div style="margin-top:10px;padding:8px 10px;background:#FFF7ED;border-left:3px solid #F59E0B;border-radius:0 6px 6px 0;font-size:11px;color:var(--text-sub)">📋 ${game.notes}</div>` : '';
+
+  return `${badgesHtml}${notesHtml}${edgeBar}
+    <div style="height:12px"></div>
+    <div class="gc-sp-grid">
+      ${renderTeamPanel(awayAbbr, awayColor, scA, game.away_pitcher, game.away_pitcher_stats, game.away_pitcher_gamelog, false)}
+      ${renderTeamPanel(homeAbbr, homeColor, scH, game.home_pitcher, game.home_pitcher_stats, game.home_pitcher_gamelog, true)}
     </div>`;
 }
 
@@ -1098,7 +1549,7 @@ function shortTeam(name) {
     'Oakland Athletics':'OAK','Athletics':'OAK','Arizona Diamondbacks':'ARI',
     'Colorado Rockies':'COL','Miami Marlins':'MIA','Washington Nationals':'WSH',
     'Milwaukee Brewers':'MIL','St. Louis Cardinals':'STL','Pittsburgh Pirates':'PIT',
-    'Cincinnati Reds':'CIN','Chicago Cubs':'CHC',
+    'Cincinnati Reds':'CIN',
   };
   return map[name] || name.split(' ').pop().slice(0, 3).toUpperCase();
 }
