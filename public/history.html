@@ -395,6 +395,11 @@ body {
 .gr-teams { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
 .gr-team  { font-size: 14px; font-weight: 700; color: #fff; white-space: nowrap; }
 .gr-vs    { font-size: 10px; font-weight: 600; color: rgba(255,255,255,.4); }
+.gr-score-box { display:inline-flex; align-items:center; gap:3px; background:rgba(0,0,0,.35); border:1px solid rgba(255,255,255,.12); border-radius:6px; padding:2px 8px; margin:0 4px; }
+.gr-score     { font-size:15px; font-weight:800; color:#94A3B8; min-width:14px; text-align:center; }
+.gr-score-win { color:#fff; }
+.gr-score-lose{ color:#64748B; }
+.gr-score-sep { font-size:11px; color:rgba(255,255,255,.3); margin:0 1px; }
 .gr-badges { display: flex; align-items: center; gap: 5px; flex-shrink: 0; }
 .gr-status {
   font-size: 10px; font-weight: 700;
@@ -1170,6 +1175,7 @@ function renderGameRow(g, date, idx) {
         <div class="gr-header">
           <div class="gr-teams">
             <span class="gr-team" style="color:${awayColor}">${g.away}</span>
+            ${(g.away_score != null && g.home_score != null) ? `<span class="gr-score-box"><span class="gr-score ${g.away_score > g.home_score ? 'gr-score-win' : 'gr-score-lose'}">${g.away_score}</span><span class="gr-score-sep">–</span><span class="gr-score ${g.home_score > g.away_score ? 'gr-score-win' : 'gr-score-lose'}">${g.home_score}</span></span>` : ''}
             <span class="gr-vs">@</span>
             <span class="gr-team" style="color:${homeColor}">${g.home}</span>
           </div>
