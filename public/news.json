@@ -1,83 +1,57 @@
 {
-  "updated_at": "2026-09-15T04:03:22.676169+00:00",
+  "updated_at": "2026-09-15T05:04:48.086509+00:00",
   "news": [
     {
-      "title": "Yankees check first box, head to postseason for third straight season",
-      "link": "https://www.mlb.com/news/yankees-clinch-spot-in-2026-postseason",
+      "title": "Carroll's walk-off homer helps D-backs keep pace in Wild Card race",
+      "link": "https://www.mlb.com/news/corbin-carroll-hits-walk-off-home-run-as-diamondbacks-beat-marlins",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qjyljygwjmvevbit28kl",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789448523/mlb/wtl4u5asg87meor8q9kz",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Patrick Donnelly",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-15T03:55:00+00:00",
-      "time_ago": "8m ago"
-    },
-    {
-      "title": "Martínez (right flank inflammation) exits opener vs. White Sox",
-      "link": "https://www.mlb.com/news/angel-martinez-exits-game-vs-white-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qj1rbjd3bizhx5l4rsvs",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-15T03:52:00+00:00",
-      "time_ago": "11m ago"
-    },
-    {
-      "title": "PCA joins Hall of Famer Williams with 42nd homer on 4-hit, 4-RBI night",
-      "link": "https://www.mlb.com/news/pete-crow-armstrong-homers-has-4-hits-and-4-rbis-in-cubs-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789441176/mlb/siqbikmnecwz8eog6lww",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
+      "author": "Steve Gilbert",
       "tag": "Highlight",
       "tag_color": "#D97706",
-      "pub_date": "2026-09-15T03:51:00+00:00",
-      "time_ago": "12m ago"
+      "pub_date": "2026-09-15T04:58:57+00:00",
+      "time_ago": "5m ago"
     },
     {
-      "title": "Henderson's 8th-inning blast keeps O's October hopes alive",
-      "link": "https://www.mlb.com/news/gunnar-henderson-homers-in-pete-alonso-s-return-to-citi-field",
+      "title": "'Felt like ... an hour': Peters' 18-pitch PA helps Sox claim season series over Guards",
+      "link": "https://www.mlb.com/news/white-sox-six-run-sixth-helps-clinch-season-series-vs-guardians",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/myxberdnzlli1l9tly8t",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789446414/mlb/zcrj0vbvzdy5hasxbube",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Jake Rill",
+      "author": "Brian Dulik",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-15T03:51:00+00:00",
-      "time_ago": "12m ago"
+      "pub_date": "2026-09-15T04:55:00+00:00",
+      "time_ago": "9m ago"
     },
     {
-      "title": "Showered with cheers all night, Alonso's return to Citi Field with O's 'much appreciated'",
-      "link": "https://www.mlb.com/news/pete-alonso-returns-to-citi-field-in-search-of-300th-home-run",
+      "title": "Mathews twirls gem as encouraging early returns continue",
+      "link": "https://www.mlb.com/news/quinn-mathews-takes-no-hitter-into-6th-as-cardinals-beat-giants",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/di1il4swmdoll9uaohir",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dpcvqxdyzh0yq4bvn6ry",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Jake Rill",
+      "author": "Brenden Schaeffer",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-15T03:36:00+00:00",
-      "time_ago": "27m ago"
+      "pub_date": "2026-09-15T04:54:00+00:00",
+      "time_ago": "10m ago"
     },
     {
-      "title": "Heartbreak piles up for Toronto after Soriano's brilliant beginning",
-      "link": "https://www.mlb.com/news/jose-soriano-flirts-with-no-hitter-but-blue-jays-lose-in-late-innings",
+      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ibewhwokogo5mqn7bzvj",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789190887/mlb/bgtip4siy3qk2yvgxwvw",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-15T03:35:00+00:00",
-      "time_ago": "28m ago"
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-15T04:46:00+00:00",
+      "time_ago": "18m ago"
     },
     {
       "title": "All rise! Judge hits moonshot for first HR since return from IL",
@@ -89,21 +63,47 @@
       "author": "Patrick Donnelly",
       "tag": "Injury",
       "tag_color": "#DC2626",
-      "pub_date": "2026-09-15T03:22:00+00:00",
-      "time_ago": "41m ago"
+      "pub_date": "2026-09-15T04:34:00+00:00",
+      "time_ago": "30m ago"
     },
     {
-      "title": "Henriquez (back) hits IL, while Díaz's Triple-A struggles further complicate LA's bullpen woes",
-      "link": "https://www.mlb.com/news/edgardo-henriquez-placed-on-injured-list-with-back-injury",
+      "title": "Clark gets taste of September heroics with clutch double",
+      "link": "https://www.mlb.com/news/max-clark-delivers-clutch-two-run-double-in-tigers-comeback-win",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ollvi8bnlkctcujtev7a",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789448238/mlb/akn601fwwcfmpsfxs0zw",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Sonja Chen",
+      "author": "Ian Finlayson",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-15T03:18:00+00:00",
-      "time_ago": "45m ago"
+      "pub_date": "2026-09-15T04:31:21+00:00",
+      "time_ago": "33m ago"
+    },
+    {
+      "title": "López (right shoulder) to go on IL as Smith-Shawver bails out 'pen",
+      "link": "https://www.mlb.com/news/aj-smith-shawver-tosses-five-innings-in-braves-loss",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wsmggwuugybv5u9vyi6e",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-15T04:31:00+00:00",
+      "time_ago": "33m ago"
+    },
+    {
+      "title": "Yankees check first box, head to postseason for third straight season",
+      "link": "https://www.mlb.com/news/yankees-clinch-spot-in-2026-postseason",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qjyljygwjmvevbit28kl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Patrick Donnelly",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-15T04:25:00+00:00",
+      "time_ago": "39m ago"
     }
   ]
 }
