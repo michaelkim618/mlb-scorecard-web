@@ -4665,7 +4665,7 @@
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "L",
       "bullpen_game": true,
@@ -4757,33 +4757,33 @@
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.227,
+          "recent_avg": 0.24,
           "runs_per_g": 3.4,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
-          "season_ops": 0.662,
-          "season_avg": 0.227,
+          "season_ops": 0.68,
+          "season_avg": 0.24,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Dylan Beavers(0.643)",
+            "Rece Hinds(0.562)",
             "Pete Alonso(0.831)",
-            "Gunnar Henderson(0.756)",
             "Coby Mayo(0.857)",
-            "Jackson Holliday(0.487)",
             "Christian Encarnacion-Strand(0.693)",
-            "Heston Kjerstad(0.562)",
-            "Colton Cowser(0.723)",
-            "Carlos Narváez(0.407)"
+            "Gunnar Henderson(0.756)",
+            "Jeremiah Jackson(0.471)",
+            "Yohel Pozo(0.714)",
+            "Leody Taveras(0.514)",
+            "Colton Cowser(0.723)"
           ],
           "lineup_players": [
             {
-              "id": 687637,
-              "name": "Dylan Beavers",
-              "ops": 0.643,
-              "avg": 0.2
+              "id": 677956,
+              "name": "Rece Hinds",
+              "ops": 0.562,
+              "avg": 0.214
             },
             {
               "id": 624413,
@@ -4792,22 +4792,10 @@
               "avg": 0.25
             },
             {
-              "id": 683002,
-              "name": "Gunnar Henderson",
-              "ops": 0.756,
-              "avg": 0.265
-            },
-            {
               "id": 691723,
               "name": "Coby Mayo",
               "ops": 0.857,
               "avg": 0.257
-            },
-            {
-              "id": 702616,
-              "name": "Jackson Holliday",
-              "ops": 0.487,
-              "avg": 0.154
             },
             {
               "id": 687952,
@@ -4816,22 +4804,34 @@
               "avg": 0.235
             },
             {
-              "id": 677008,
-              "name": "Heston Kjerstad",
-              "ops": 0.562,
-              "avg": 0.25
+              "id": 683002,
+              "name": "Gunnar Henderson",
+              "ops": 0.756,
+              "avg": 0.265
+            },
+            {
+              "id": 669236,
+              "name": "Jeremiah Jackson",
+              "ops": 0.471,
+              "avg": 0.111
+            },
+            {
+              "id": 650968,
+              "name": "Yohel Pozo",
+              "ops": 0.714,
+              "avg": 0.375
+            },
+            {
+              "id": 665750,
+              "name": "Leody Taveras",
+              "ops": 0.514,
+              "avg": 0.174
             },
             {
               "id": 681297,
               "name": "Colton Cowser",
               "ops": 0.723,
               "avg": 0.278
-            },
-            {
-              "id": 665966,
-              "name": "Carlos Narváez",
-              "ops": 0.407,
-              "avg": 0.15
             }
           ],
           "bat_trend": "hot",
@@ -5038,10 +5038,10 @@
       "home_defense": 37.2
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -7271,8 +7271,8 @@
       "home_defense": 46.1
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -7813,8 +7813,7 @@
             "FB",
             "SL",
             "CH",
-            "CB",
-            "SI"
+            "CB"
           ],
           "secondary_pitches": [
             "SL",
@@ -7825,7 +7824,7 @@
             {
               "code": "FF",
               "abbr": "FB",
-              "pct": 41.8,
+              "pct": 41.9,
               "velo": 97.4
             },
             {
@@ -7837,7 +7836,7 @@
             {
               "code": "CH",
               "abbr": "CH",
-              "pct": 13.2,
+              "pct": 13.3,
               "velo": 89.7
             },
             {
@@ -7845,12 +7844,6 @@
               "abbr": "CB",
               "pct": 6.2,
               "velo": 80.7
-            },
-            {
-              "code": "SI",
-              "abbr": "SI",
-              "pct": 3.0,
-              "velo": 96.7
             }
           ]
         },
