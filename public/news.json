@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T22:21:51.845262+00:00",
+  "updated_at": "2026-09-15T22:49:12.974588+00:00",
   "news": [
     {
       "title": "Phillies place All-Star lefty Luzardo on IL",
@@ -12,7 +12,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-15T22:06:00+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Correa out for season as Astros shut down attempted comeback from ankle injury",
@@ -25,7 +25,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-15T21:51:52+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "Wells optimistic for postseason return after season-ending IL stint",
@@ -38,7 +38,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-15T21:36:00+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Judge held out of starting lineup day after Yanks clinch spot in playoff field",
@@ -51,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-15T21:30:05+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Here are the 2026 Single-A All-Stars and award winners",
@@ -90,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-15T16:42:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "Arizona Fall League rosters announced",
@@ -103,7 +103,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-15T15:38:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     }
   ]
 }
