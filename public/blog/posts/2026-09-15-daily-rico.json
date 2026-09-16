@@ -1,41 +1,41 @@
 {
-  "title": "Sep 15 Results + Sep 16 Preview: 60% Looks Pretty, But Let's Talk About Those Misses",
-  "summary": "9-6 on Sep 15 sounds good until you realize we left meat on the bone. Tomorrow's different.",
+  "title": "Sep 15 Results + Sep 16 Preview: 60% Ain't Sexy But It Pays The Bills",
+  "summary": "9-6 on Sep 15 keeps us profitable. Tomorrow we're riding the Guardians again.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Let Me Be Honest: 60% Isn't Celebration Territory\n\nLook, I know what you're thinking. *'Rico, 9-6 is a winning day, why are you complaining?'* Because we're not here to pat ourselves on the back for being slightly above average. We had some layups today that we absolutely crushed, and then we had some head-scratchers that make me want to flip a table."
+      "value": "## Let Me Be Honest: 60% Is Actually Good\n\nLook, I know 9-6 doesn't make your heart race. It's not going to get retweeted into oblivion. But you know what? This is exactly the kind of day that separates the pros from the gambling addicts refreshing their parlays at 2 AM. **60% accuracy is profitable, period.** And if you can't appreciate that, go chase your 15-leg same-game parlays somewhere else."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Sep 15 Record",
+          "label": "Sep 15 W-L",
           "value": "9-6"
         },
         {
-          "label": "Win Rate",
+          "label": "Accuracy",
           "value": "60.0%"
         },
         {
-          "label": "Strongest Pick",
-          "value": "63%"
+          "label": "Hits",
+          "value": "9"
         },
         {
-          "label": "Biggest Miss",
-          "value": "Cardinals"
+          "label": "Misses",
+          "value": "6"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Good, The Bad, and The Cardinals\n\nThe **Brewers at 63%**? Money in the bank. The **Rays and Yankees both at 61%**? Cashed like we knew they would. When we were confident, we were RIGHT.\n\nBut then there's the Cardinals. At home. 56% confidence. And they just... didn't show up. The Phillies losing to the Nationals? Fine, 54% picks are coin flips with better odds. The Cubs over the Braves? That one stings a little, but it's baseball.\n\nThe Cardinals though? That's the one that keeps me up at night. You can't trust St. Louis in September, and apparently, neither can we."
+      "value": "## The Good, The Bad, and The Cardinals\n\nWe crushed it where it mattered. The **Brewers at 63%** confidence? Money. **Dodgers and Rays both at 61%**? Cash those tickets. The Yankees doing Yankees things against the Twins? Chef's kiss.\n\nBut let's talk about the **Cardinals miss at 56%**. The Giants came in and did what they do best lately—absolutely nothing predictable. And yeah, the Cubs let us down at 53%, but that was basically a coin flip with attitude. I'm not losing sleep over close calls."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 15 Pick Confidence vs Results",
+      "title": "Sep 15 Prediction Results by Confidence Level",
       "data": [
         {
           "name": "Brewers",
@@ -73,17 +73,17 @@
           "result": 1
         },
         {
+          "name": "Guardians",
+          "probability": 53,
+          "result": 1
+        },
+        {
           "name": "Cubs",
           "probability": 53,
           "result": 0
         },
         {
           "name": "Tigers",
-          "probability": 53,
-          "result": 1
-        },
-        {
-          "name": "Guardians",
           "probability": 53,
           "result": 1
         }
@@ -176,18 +176,22 @@
     },
     {
       "type": "text",
-      "value": "## Tomorrow's Revenge Tour: White Sox @ Guardians\n\nHere's where it gets spicy. The White Sox are coming to Cleveland, and I'm supposed to sit here and tell you this is interesting? The White Sox are a dumpster fire wrapped in a train wreck, and the Guardians are fighting for playoff positioning.\n\n**Anthony Kay** for the White Sox against **Parker Messick** for Cleveland. Kay has been... well, he's been pitching for the White Sox, which tells you everything. Messick gets to feast here.\n\nAt **61% confidence**, this isn't our strongest pick ever, but let's be real: the White Sox are the gift that keeps on giving. Cleveland at home in September? This is practically free money."
+      "value": "## The Controversial Take Nobody Asked For\n\nHere's what drives me insane: people expecting 90% hit rates on 53% confidence picks. **That's not how probability works, genius.** When we say 53%, we're saying it's slightly better than a coin flip. If you bet your mortgage on that, you're the problem, not our model.\n\nThe beauty of today? Our high-confidence picks **went 4-1**. The 60%+ plays delivered. That's the whole game right there."
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Play: Guardians Over White Sox\n\nLet me be blunt—**the White Sox are a dumpster fire**, and I'm not interested in pretending otherwise for the sake of diplomacy. Cleveland at 61% confidence feels like stealing candy from a tanking franchise.\n\n**Anthony Kay** on the mound for Chicago? The guy who's spent more time between Triple-A and the injured list than actually dominating MLB lineups? Against **Parker Messick** at home in Cleveland? \n\nThis isn't rocket science. The Guardians are fighting for playoff positioning. The White Sox are fighting for draft positioning. I know which fight I'm betting on."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Sep 16 Top Pick",
-      "value": "Cleveland Guardians ML",
-      "sub": "61% win probability · Parker Messick vs Anthony Kay · White Sox continue to disappoint"
+      "title": "⭐ Tomorrow's Top Pick - Sep 16",
+      "value": "Cleveland Guardians over Chicago White Sox",
+      "sub": "61% Win Probability • Messick vs Kay • Guardians at home"
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nSep 15 was fine. FINE. We made money, we stayed above water, and we lived to fight another day. But 'fine' doesn't get you a banner. Tomorrow, we've got the Guardians gift-wrapped for us against a White Sox team that's already planning their offseason.\n\nTake Cleveland. Don't overthink it. And if the Cardinals cost you money today, well... I told you we couldn't trust them.\n\n**– Rico**"
+      "value": "## The Bottom Line\n\nSep 15 was solid. Not spectacular, not embarrassing—just **profitable**. And that's what we're here for. If you want drama and narratives, watch the postgame shows. If you want **consistent edges**, you're in the right place.\n\nTomorrow we're backing Cleveland to do what good teams do against bad teams. It's not sexy. It's just money.\n\n**Trust the process. Or don't. Your bankroll will tell the story either way.**"
     }
   ],
   "slug": "2026-09-15-daily-rico",
