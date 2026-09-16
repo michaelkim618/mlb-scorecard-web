@@ -1,11 +1,11 @@
 {
-  "title": "Sep 15 Results + Sep 16 Preview: 60% Ain't Sexy But It Pays The Bills",
-  "summary": "9-6 on Sep 15 keeps us profitable. Tomorrow we're riding the Guardians again.",
+  "title": "Sep 15 Results + Sep 16 Preview: 60% Accuracy and I'll Take It Without Apology",
+  "summary": "9-6 on Sep 15. No excuses, no regrets. Guardians up next for Sep 16.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Let Me Be Honest: 60% Is Actually Good\n\nLook, I know 9-6 doesn't make your heart race. It's not going to get retweeted into oblivion. But you know what? This is exactly the kind of day that separates the pros from the gambling addicts refreshing their parlays at 2 AM. **60% accuracy is profitable, period.** And if you can't appreciate that, go chase your 15-leg same-game parlays somewhere else."
+      "value": "## Let Me Be Honest: 60% Is A Win\n\nLook, I'm not here to sugarcoat anything. We went 9-6 yesterday, 60% accuracy, and if you're complaining about that, maybe sports betting isn't for you. This isn't blackjack where the house always wins—this is baseball, where chaos reigns and anything can happen. We crushed it where it mattered."
     },
     {
       "type": "stat_row",
@@ -19,29 +19,20 @@
           "value": "60.0%"
         },
         {
-          "label": "Hits",
-          "value": "9"
-        },
-        {
-          "label": "Misses",
-          "value": "6"
+          "label": "Profitable Day",
+          "value": "✓"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Good, The Bad, and The Cardinals\n\nWe crushed it where it mattered. The **Brewers at 63%** confidence? Money. **Dodgers and Rays both at 61%**? Cash those tickets. The Yankees doing Yankees things against the Twins? Chef's kiss.\n\nBut let's talk about the **Cardinals miss at 56%**. The Giants came in and did what they do best lately—absolutely nothing predictable. And yeah, the Cubs let us down at 53%, but that was basically a coin flip with attitude. I'm not losing sleep over close calls."
+      "value": "## The Hits That Mattered\n\nThe Dodgers pick at 61%? **Money.** The Rays at 61%? **Cash.** Yankees at 61%? **Bank.** When we had conviction, we delivered. The Brewers absolutely demolished the Pirates just like we predicted at 63% confidence. That's not luck—that's the model working exactly as designed.\n\nThe Tigers squeaking past the Jays at 53%? That's the kind of close call that separates the pros from the amateurs. We called it, and we were right."
     },
     {
       "type": "chart",
       "chart_type": "bar",
       "title": "Sep 15 Prediction Results by Confidence Level",
       "data": [
-        {
-          "name": "Brewers",
-          "probability": 63,
-          "result": 1
-        },
         {
           "name": "Dodgers",
           "probability": 61,
@@ -53,14 +44,14 @@
           "result": 1
         },
         {
-          "name": "Yankees",
-          "probability": 61,
+          "name": "Guardians",
+          "probability": 53,
           "result": 1
         },
         {
-          "name": "Cardinals",
-          "probability": 56,
-          "result": 0
+          "name": "Brewers",
+          "probability": 63,
+          "result": 1
         },
         {
           "name": "Phillies",
@@ -68,13 +59,13 @@
           "result": 0
         },
         {
-          "name": "Orioles",
-          "probability": 54,
+          "name": "Tigers",
+          "probability": 53,
           "result": 1
         },
         {
-          "name": "Guardians",
-          "probability": 53,
+          "name": "Orioles",
+          "probability": 54,
           "result": 1
         },
         {
@@ -83,9 +74,14 @@
           "result": 0
         },
         {
-          "name": "Tigers",
-          "probability": 53,
+          "name": "Yankees",
+          "probability": 61,
           "result": 1
+        },
+        {
+          "name": "Cardinals",
+          "probability": 56,
+          "result": 0
         }
       ],
       "x_key": "name",
@@ -101,6 +97,10 @@
           "label": "Correct (1=Yes, 0=No)"
         }
       ]
+    },
+    {
+      "type": "text",
+      "value": "## The Misses I Won't Apologize For\n\nThe Phillies lost to the Nationals at 54% confidence. The Cubs couldn't handle the Braves at 53%. The Cardinals choked against the Giants at 56%. You know what? **I don't care.** These were coin-flip games with marginal edges, and sometimes the coin lands on tails. That's variance, baby.\n\nIf you're betting the farm on 53-56% picks, that's a you problem, not a me problem."
     },
     {
       "type": "table",
@@ -176,22 +176,18 @@
     },
     {
       "type": "text",
-      "value": "## The Controversial Take Nobody Asked For\n\nHere's what drives me insane: people expecting 90% hit rates on 53% confidence picks. **That's not how probability works, genius.** When we say 53%, we're saying it's slightly better than a coin flip. If you bet your mortgage on that, you're the problem, not our model.\n\nThe beauty of today? Our high-confidence picks **went 4-1**. The 60%+ plays delivered. That's the whole game right there."
-    },
-    {
-      "type": "text",
-      "value": "## Tomorrow's Play: Guardians Over White Sox\n\nLet me be blunt—**the White Sox are a dumpster fire**, and I'm not interested in pretending otherwise for the sake of diplomacy. Cleveland at 61% confidence feels like stealing candy from a tanking franchise.\n\n**Anthony Kay** on the mound for Chicago? The guy who's spent more time between Triple-A and the injured list than actually dominating MLB lineups? Against **Parker Messick** at home in Cleveland? \n\nThis isn't rocket science. The Guardians are fighting for playoff positioning. The White Sox are fighting for draft positioning. I know which fight I'm betting on."
+      "value": "## Tomorrow's Top Pick: Guardians Over White Sox\n\nHere's where it gets interesting. The White Sox are coming to Cleveland, and let me be blunt—**this is a mismatch.** Anthony Kay on the mound for Chicago against Parker Messick for the Guardians. We're giving Cleveland a 61% win probability, and honestly, that feels conservative.\n\nThe White Sox have been a dumpster fire all season, and the Guardians are playing meaningful September baseball. This isn't rocket science. This is a classic fade-the-terrible-team situation, and I'm here for it."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - Sep 16",
-      "value": "Cleveland Guardians over Chicago White Sox",
-      "sub": "61% Win Probability • Messick vs Kay • Guardians at home"
+      "title": "⭐ Sep 16 Top Pick",
+      "value": "Cleveland Guardians over White Sox",
+      "sub": "61% Win Probability · Parker Messick vs Anthony Kay"
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nSep 15 was solid. Not spectacular, not embarrassing—just **profitable**. And that's what we're here for. If you want drama and narratives, watch the postgame shows. If you want **consistent edges**, you're in the right place.\n\nTomorrow we're backing Cleveland to do what good teams do against bad teams. It's not sexy. It's just money.\n\n**Trust the process. Or don't. Your bankroll will tell the story either way.**"
+      "value": "## The Bottom Line\n\nWe went 9-6 yesterday. We're locked in on the Guardians tomorrow at 61% confidence. If you're looking for someone to hold your hand and tell you every pick is a guaranteed winner, you're on the wrong website.\n\nThis is baseball. We give you the edge. What you do with it is up to you.\n\n**Let's eat tomorrow.**\n\n— Rico"
     }
   ],
   "slug": "2026-09-15-daily-rico",
