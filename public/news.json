@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-16T12:24:06.103697+00:00",
+  "updated_at": "2026-09-16T12:40:26.068708+00:00",
   "news": [
+    {
+      "title": "Playoff implications abound in ESPN doubleheader Wednesday",
+      "link": "https://www.mlb.com/news/mlb-preview-white-sox-guardians-orioles-mets-espn-sept-16",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dqiusuqgrqjnbyav43dp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-16T12:34:00+00:00",
+      "time_ago": "6m ago"
+    },
     {
       "title": "Streak snaps at 8 as Padres miss golden opportunity to climb Wild Card ladder",
       "link": "https://www.mlb.com/news/padres-winning-streak-snapped-in-loss-to-rockies",
@@ -25,7 +38,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-16T06:39:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "The Miz leads the way as Brewers clinch 4th straight NL Central crown",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T05:34:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "No letdown for Yanks, who cruise past Twins a night after clincher",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T05:33:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "Albies, Acuña go yard as Braves inch closer to NL East title",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T05:06:00+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789190887/mlb/bgtip4siy3qk2yvgxwvw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-16T05:05:00+00:00",
       "time_ago": "7h ago"
     }
   ]
