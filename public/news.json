@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-16T21:30:21.533761+00:00",
+  "updated_at": "2026-09-16T21:59:42.308757+00:00",
   "news": [
+    {
+      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789591455/mlb/bgtip4siy3qk2yvgxwvw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-16T21:55:00+00:00",
+      "time_ago": "4m ago"
+    },
+    {
+      "title": "Key takeaways: Blue Jays 5, Tigers 1",
+      "link": "https://www.mlb.com/news/blue-jays-wild-card-race-win-tigers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/irkoe6eu5oi9ykbrj5bx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-16T21:51:26+00:00",
+      "time_ago": "8m ago"
+    },
     {
       "title": "Pham made a literal elevator pitch to his GM, then went out and hit clutch homer",
       "link": "https://www.mlb.com/news/tommy-pham-activated-from-injured-list-by-white-sox",
@@ -11,8 +37,34 @@
       "author": "Brian Dulik",
       "tag": "Highlight",
       "tag_color": "#D97706",
-      "pub_date": "2026-09-16T20:38:00+00:00",
-      "time_ago": "52m ago"
+      "pub_date": "2026-09-16T21:43:00+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Judge exits with lower leg tightness in 13-inning loss to Twins",
+      "link": "https://www.mlb.com/news/aaron-judge-exits-yankees-twins-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zhxllqxmoyutwbitayfx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Patrick Donnelly",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-16T21:36:00+00:00",
+      "time_ago": "23m ago"
+    },
+    {
+      "title": "On day Eldridge notched career-long HR, game-ending leaping snag was the highlight",
+      "link": "https://www.mlb.com/news/bryce-eldridge-put-in-work-with-ron-washington-taken-advice-from-rafael-devers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/neazkgs8ztb990cxeqyh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Sweet",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-16T20:58:21+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Colson Montgomery exits after being hit on wrist; X-rays negative",
@@ -25,32 +77,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T20:35:00+00:00",
-      "time_ago": "55m ago"
-    },
-    {
-      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789591455/mlb/bgtip4siy3qk2yvgxwvw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-16T20:30:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Judge lifted for pinch-hitter with tightness in lower right leg",
-      "link": "https://www.mlb.com/news/aaron-judge-exits-yankees-twins-game",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zhxllqxmoyutwbitayfx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Patrick Donnelly",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-16T20:15:00+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -77,32 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-16T20:09:32+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Schmidt strikes out 2 in 1st Major League action in 14 1/2 months",
-      "link": "https://www.mlb.com/news/clarke-schmidt-activated-oswaldo-cabrera-designated-for-assignment",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p2gwl0qwqmkha9vuepk4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Patrick Donnelly",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-16T20:02:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Postseason chase takes center stage as O's fight for Wild Card spot on ESPN (7 ET)",
-      "link": "https://www.mlb.com/news/mlb-preview-white-sox-guardians-orioles-mets-espn-sept-16",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dqiusuqgrqjnbyav43dp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-16T20:00:00+00:00",
       "time_ago": "1h ago"
     }
   ]

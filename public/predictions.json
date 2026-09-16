@@ -2208,9 +2208,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Minnesota Twins",
     "model_winner": "New York Yankees",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "New York Yankees IL: Fernando Cruz, Giancarlo Stanton, Jazz Chisholm Jr., Kervin Castro, Ryan Weathers 외 다수 / Minnesota Twins IL: Anthony Banda, Byron Buxton, Cole Sands, David Festa, Kaelen Culpepper 외 다수",
     "kalshi_prob": 40.0,
     "edge": -0.7,
@@ -2956,9 +2956,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Toronto Blue Jays",
     "model_winner": "Detroit Tigers",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Detroit Tigers IL: Bailey Horn, Burch Smith, Jack Flaherty, Justin Verlander, Kerry Carpenter 외 다수 / Toronto Blue Jays IL: Addison Barger, Anthony Santander, Bowden Francis, Cody Ponce, Jake Bloss 외 다수",
     "kalshi_prob": 55.0,
     "edge": -15.7,
@@ -6539,7 +6539,7 @@
       "away": null,
       "home": null
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
