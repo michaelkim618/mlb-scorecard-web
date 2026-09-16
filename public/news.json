@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T19:13:38.541457+00:00",
+  "updated_at": "2026-09-16T19:39:23.851745+00:00",
   "news": [
     {
       "title": "Colson Montgomery exits after being hit on wrist; X-rays negative",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T19:07:18+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "32m ago"
     },
     {
       "title": "Justin Turner, 41, among several former MLB players to win Mexican League title",
@@ -25,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T18:48:25+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Pham made a literal elevator pitch to his GM, then went out and hit clutch homer",
@@ -38,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-16T18:35:00+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yankees activate Schmidt from 60-day IL, DFA Cabrera",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T18:29:48+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Paralyzed A's prospect Lasko released from rehab facility to ovation from staff",
@@ -64,10 +64,10 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T18:22:38+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
-      "title": "De La Cruz's latest highlight is a contortionist act on diving tag for 5-3-6 double play",
+      "title": "Ridiculous diving tag for rarely seen double play? He's a walking highlight reel",
       "link": "https://www.mlb.com/news/elly-de-la-cruz-makes-incredible-tag-for-5-3-6-double-play",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iltcuosgxabnjjhhdw96",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T17:31:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Playoff implications abound in ESPN doubleheader Wednesday",
@@ -103,7 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-16T17:15:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
