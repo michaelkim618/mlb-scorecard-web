@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-16T00:57:20.821165+00:00",
+  "updated_at": "2026-09-16T01:35:02.652661+00:00",
   "news": [
+    {
+      "title": "Yamamoto locks in after shaky 1st as Dodgers shut out Reds",
+      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-dominates-as-dodgers-shut-out-reds",
+      "summary": "LA moves one step closer to clinching the NL West, which could happen as soon as Wednesday",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789518808/mlb/tlotziiyzv8iu4cnw0sv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-16T01:22:02+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Will the Queens or Firebells emerge victorious in the first WPBL championship?",
+      "link": "https://www.mlb.com/news/wpbl-championship-preview-queens-vs-firebells",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mafkcuarwnvszcxgd0bh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-16T01:08:36+00:00",
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "Baz exits start after taking comebacker off elbow",
+      "link": "https://www.mlb.com/news/shane-baz-exits-vs-mets-comebacker-elbow",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cc5kxlegxxj1debbnzcq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-16T00:54:48+00:00",
+      "time_ago": "40m ago"
+    },
     {
       "title": "Devers undergoes successful surgery, on track for 2027 return",
       "link": "https://www.mlb.com/news/rafael-devers-has-successful-surgery-on-core-muscle",
@@ -12,7 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-16T00:49:36+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "Ryan takes another step toward Tigers debut with 2nd Triple-A start",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T00:45:08+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "Meet ChipPurr Jones, who delivers the cutest first pitch you’ve ever seen!",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T00:17:00+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Jenkins showing his maturity as he waits for hits to start dropping",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T00:00:00+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Swanson's rehab pushed back by rainout; Miller to return in 2027",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-15T23:23:11+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Yesavage struggles in Triple-A rehab start, but could still return next week",
-      "link": "https://www.mlb.com/news/trey-yesavage-struggles-in-triple-a-rehab-start",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789513339/mlb/qdigwhfqiurjuh4xo8qx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-15T23:22:33+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "'Give it forward': Mullins' passion for helping others earns Clemente nod",
-      "link": "https://www.mlb.com/news/cedric-mullins-rays-roberto-clemente-award-nominee-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tbod7e4zxh4zrmbwmf6e",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-15T23:13:38+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Jump heads to IL with shoulder impingement, won't return in '26",
-      "link": "https://www.mlb.com/news/gage-jump-shut-down-for-the-season-with-left-shoulder-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/skyodnes3to1qa8vwq2y",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Martín Gallegos",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-15T23:03:10+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
