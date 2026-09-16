@@ -13657,6 +13657,30 @@
       "away_bp_score": 66.7,
       "home_bp_score": 18.6,
       "bat_source": "prev_day"
+    },
+    {
+      "date": "2026-09-15",
+      "away": "Seattle Mariners",
+      "home": "Los Angeles Angels",
+      "game_number": 1,
+      "pick": "Seattle Mariners",
+      "pick_prob": 60.0,
+      "actual_winner": "Los Angeles Angels",
+      "away_score": null,
+      "home_score": null,
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "hot",
+      "away_sp_era": 4.5,
+      "home_sp_era": 4.06,
+      "away_bp_era": 4.06,
+      "home_bp_era": 3.89,
+      "away_sp_score": 51.2,
+      "home_sp_score": 43.1,
+      "away_bp_score": 37.0,
+      "home_bp_score": 42.8,
+      "bat_source": "prev_day"
     }
   ]
 }
