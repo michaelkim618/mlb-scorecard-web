@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-16T18:03:50.541910+00:00",
+  "updated_at": "2026-09-16T18:19:02.585820+00:00",
   "news": [
+    {
+      "title": "De La Cruz's latest highlight is a contortionist act on diving tag for 5-3-6 double play",
+      "link": "https://www.mlb.com/news/elly-de-la-cruz-makes-incredible-tag-for-5-3-6-double-play",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iltcuosgxabnjjhhdw96",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Chiusano",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-16T17:59:19+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Pham assured GM he was healthy in the elevator, was batting cleanup the next day",
+      "link": "https://www.mlb.com/news/tommy-pham-activated-from-injured-list-by-white-sox",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zhe49qur6sjzokkqzyoy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Dulik",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-16T17:58:03+00:00",
+      "time_ago": "20m ago"
+    },
     {
       "title": "Cards activate star rookie Wetherholt from IL, will manage his playing time",
       "link": "https://www.mlb.com/news/jj-wetherholt-activated-from-injured-list",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T17:31:00+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "Playoff implications abound in ESPN doubleheader Wednesday",
@@ -25,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-16T17:15:00+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Righty Armstrong progressing on way back from calf injury",
@@ -38,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-16T17:13:00+00:00",
-      "time_ago": "50m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Culpepper on IL with mild hamstring strain, could return for season's final weekend",
@@ -78,32 +104,6 @@
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-16T16:24:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Picking the best player at each position who wasn't a 2026 All-Star",
-      "link": "https://www.mlb.com/news/mlb-non-all-star-team-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e8b9wp6w0pwlwkfvqlvy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-09-16T14:45:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "'Absolute legend' Alonso makes awesome exchange with Mets fans for 300th HR ball",
-      "link": "https://www.mlb.com/news/pete-alonso-exchanges-gifts-for-300th-home-run-ball",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789569279/mlb/jatuldcagtsbqu4ilcfr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-16T14:42:49+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
