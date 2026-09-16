@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-16T18:19:02.585820+00:00",
+  "updated_at": "2026-09-16T18:35:13.924213+00:00",
   "news": [
+    {
+      "title": "Paralyzed A's prospect Lasko released from rehab facility to ovation from staff",
+      "link": "https://www.mlb.com/news/a-s-prospect-ryan-lasko-released-from-rehab-facility",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eagkmmxgg3f31xoyewlc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-16T18:22:38+00:00",
+      "time_ago": "12m ago"
+    },
     {
       "title": "De La Cruz's latest highlight is a contortionist act on diving tag for 5-3-6 double play",
       "link": "https://www.mlb.com/news/elly-de-la-cruz-makes-incredible-tag-for-5-3-6-double-play",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T17:59:19+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "35m ago"
     },
     {
       "title": "Pham assured GM he was healthy in the elevator, was batting cleanup the next day",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T17:58:03+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "Cards activate star rookie Wetherholt from IL, will manage his playing time",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T17:31:00+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Playoff implications abound in ESPN doubleheader Wednesday",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T16:45:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789190887/mlb/bgtip4siy3qk2yvgxwvw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-16T16:24:00+00:00",
       "time_ago": "1h ago"
     }
   ]
