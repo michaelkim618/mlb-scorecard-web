@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T21:59:42.308757+00:00",
+  "updated_at": "2026-09-16T22:14:54.738237+00:00",
   "news": [
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -12,20 +12,20 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-16T21:55:00+00:00",
-      "time_ago": "4m ago"
+      "time_ago": "19m ago"
     },
     {
-      "title": "Key takeaways: Blue Jays 5, Tigers 1",
+      "title": "Blue Jays beat Tigers but face tougher AL Wild Card path",
       "link": "https://www.mlb.com/news/blue-jays-wild-card-race-win-tigers",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/irkoe6eu5oi9ykbrj5bx",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
       "pub_date": "2026-09-16T21:51:26+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "23m ago"
     },
     {
       "title": "Pham made a literal elevator pitch to his GM, then went out and hit clutch homer",
@@ -38,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-16T21:43:00+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "31m ago"
     },
     {
       "title": "Judge exits with lower leg tightness in 13-inning loss to Twins",
@@ -51,7 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-16T21:36:00+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "On day Eldridge notched career-long HR, game-ending leaping snag was the highlight",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T20:14:38+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Halpin's massive HR puts Guardians atop AL Central for 1st time since July",
@@ -103,7 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-16T20:09:32+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
