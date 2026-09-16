@@ -13729,6 +13729,30 @@
       "away_bp_score": 56.8,
       "home_bp_score": 63.9,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-16",
+      "away": "San Francisco Giants",
+      "home": "St. Louis Cardinals",
+      "game_number": 1,
+      "pick": "St. Louis Cardinals",
+      "pick_prob": 50.5,
+      "actual_winner": "San Francisco Giants",
+      "away_score": 4,
+      "home_score": 2,
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 5.24,
+      "home_sp_era": 6.52,
+      "away_bp_era": 4.15,
+      "home_bp_era": 4.01,
+      "away_sp_score": 28.0,
+      "home_sp_score": 30.0,
+      "away_bp_score": 37.0,
+      "home_bp_score": 34.2,
+      "bat_source": "lineup"
     }
   ]
 }
