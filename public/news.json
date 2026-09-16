@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-16T06:28:41.495529+00:00",
+  "updated_at": "2026-09-16T07:27:35.450275+00:00",
   "news": [
+    {
+      "title": "Streak snaps at 8 as Padres miss golden opportunity to climb Wild Card ladder",
+      "link": "https://www.mlb.com/news/padres-winning-streak-snapped-in-loss-to-rockies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dnxlzfvfp7u1mnvweah8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-16T06:43:00+00:00",
+      "time_ago": "44m ago"
+    },
+    {
+      "title": "'It hurts': D-backs' brutal extras loss could haunt them in Wild Card race",
+      "link": "https://www.mlb.com/news/d-backs-lose-to-marlins-in-extras-can-t-move-up-in-wild-card-race",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qslp4utpkbbdzghghunf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Steve Gilbert",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-16T06:39:00+00:00",
+      "time_ago": "48m ago"
+    },
     {
       "title": "The Miz leads the way as Brewers clinch 4th straight NL Central crown",
       "link": "https://www.mlb.com/news/jacob-misiorowski-five-scoreless-innings-brewers-pirates-nl-central",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T05:55:00+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yelich, Woodruff relish standing as last ones left from 2018 division champs",
@@ -25,20 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-16T05:45:30+00:00",
-      "time_ago": "43m ago"
-    },
-    {
-      "title": "Streak snaps at 8 as Padres miss golden opportunity to climb Wild Card ladder",
-      "link": "https://www.mlb.com/news/padres-winning-streak-snapped-in-loss-to-rockies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dnxlzfvfp7u1mnvweah8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-16T05:34:00+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Sogard goes deep, then clutch bats go silent in test against Rangers ace",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T05:34:00+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "No letdown for Yanks, who cruise past Twins a night after clincher",
@@ -64,19 +77,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T05:33:00+00:00",
-      "time_ago": "55m ago"
-    },
-    {
-      "title": "D-backs squander chance to move up in WC race in brutal extras loss to Marlins",
-      "link": "https://www.mlb.com/news/d-backs-lose-to-marlins-in-extras-can-t-move-up-in-wild-card-race",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qslp4utpkbbdzghghunf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-16T05:27:49+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T05:06:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -103,7 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-16T05:05:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
