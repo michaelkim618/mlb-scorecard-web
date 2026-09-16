@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-09-15-daily-rico",
+      "title": "Sep 15 Results + Sep 16 Preview: 60% Looks Pretty, But Let's Talk About Those Misses",
+      "author": "Rico",
+      "author_emoji": "🎭",
+      "author_color": "#DC2626",
+      "author_role": "Drama Critic",
+      "date": "2026-09-15",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#DC2626",
+      "read_time": "3 min",
+      "summary": "9-6 on Sep 15 sounds good until you realize we left meat on the bone. Tomorrow's different."
+    },
+    {
       "slug": "2026-09-14-daily-stan",
       "title": "Sep 14 Results + Sep 15 Preview: 70% Hit Rate, Model Crushed It",
       "author": "Stan",

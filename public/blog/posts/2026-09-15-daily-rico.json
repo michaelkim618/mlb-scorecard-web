@@ -1,0 +1,202 @@
+{
+  "title": "Sep 15 Results + Sep 16 Preview: 60% Looks Pretty, But Let's Talk About Those Misses",
+  "summary": "9-6 on Sep 15 sounds good until you realize we left meat on the bone. Tomorrow's different.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Let Me Be Honest: 60% Isn't Celebration Territory\n\nLook, I know what you're thinking. *'Rico, 9-6 is a winning day, why are you complaining?'* Because we're not here to pat ourselves on the back for being slightly above average. We had some layups today that we absolutely crushed, and then we had some head-scratchers that make me want to flip a table."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Sep 15 Record",
+          "value": "9-6"
+        },
+        {
+          "label": "Win Rate",
+          "value": "60.0%"
+        },
+        {
+          "label": "Strongest Pick",
+          "value": "63%"
+        },
+        {
+          "label": "Biggest Miss",
+          "value": "Cardinals"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Good, The Bad, and The Cardinals\n\nThe **Brewers at 63%**? Money in the bank. The **Rays and Yankees both at 61%**? Cashed like we knew they would. When we were confident, we were RIGHT.\n\nBut then there's the Cardinals. At home. 56% confidence. And they just... didn't show up. The Phillies losing to the Nationals? Fine, 54% picks are coin flips with better odds. The Cubs over the Braves? That one stings a little, but it's baseball.\n\nThe Cardinals though? That's the one that keeps me up at night. You can't trust St. Louis in September, and apparently, neither can we."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Sep 15 Pick Confidence vs Results",
+      "data": [
+        {
+          "name": "Brewers",
+          "probability": 63,
+          "result": 1
+        },
+        {
+          "name": "Dodgers",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Rays",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Yankees",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Cardinals",
+          "probability": 56,
+          "result": 0
+        },
+        {
+          "name": "Phillies",
+          "probability": 54,
+          "result": 0
+        },
+        {
+          "name": "Orioles",
+          "probability": 54,
+          "result": 1
+        },
+        {
+          "name": "Cubs",
+          "probability": 53,
+          "result": 0
+        },
+        {
+          "name": "Tigers",
+          "probability": 53,
+          "result": 1
+        },
+        {
+          "name": "Guardians",
+          "probability": 53,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Complete Sep 15 Results Breakdown",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Dodgers @ Reds",
+          "Dodgers",
+          "61%",
+          "✓ Hit"
+        ],
+        [
+          "Athletics @ Rays",
+          "Rays",
+          "61%",
+          "✓ Hit"
+        ],
+        [
+          "Sox @ Guardians",
+          "Guardians",
+          "53%",
+          "✓ Hit"
+        ],
+        [
+          "Brewers @ Pirates",
+          "Brewers",
+          "63%",
+          "✓ Hit"
+        ],
+        [
+          "Phillies @ Nationals",
+          "Phillies",
+          "54%",
+          "✗ Miss"
+        ],
+        [
+          "Tigers @ Jays",
+          "Tigers",
+          "53%",
+          "✓ Hit"
+        ],
+        [
+          "Orioles @ Mets",
+          "Orioles",
+          "54%",
+          "✓ Hit"
+        ],
+        [
+          "Braves @ Cubs",
+          "Cubs",
+          "53%",
+          "✗ Miss"
+        ],
+        [
+          "Yankees @ Twins",
+          "Yankees",
+          "61%",
+          "✓ Hit"
+        ],
+        [
+          "Giants @ Cardinals",
+          "Cardinals",
+          "56%",
+          "✗ Miss"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Revenge Tour: White Sox @ Guardians\n\nHere's where it gets spicy. The White Sox are coming to Cleveland, and I'm supposed to sit here and tell you this is interesting? The White Sox are a dumpster fire wrapped in a train wreck, and the Guardians are fighting for playoff positioning.\n\n**Anthony Kay** for the White Sox against **Parker Messick** for Cleveland. Kay has been... well, he's been pitching for the White Sox, which tells you everything. Messick gets to feast here.\n\nAt **61% confidence**, this isn't our strongest pick ever, but let's be real: the White Sox are the gift that keeps on giving. Cleveland at home in September? This is practically free money."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Sep 16 Top Pick",
+      "value": "Cleveland Guardians ML",
+      "sub": "61% win probability · Parker Messick vs Anthony Kay · White Sox continue to disappoint"
+    },
+    {
+      "type": "text",
+      "value": "## The Bottom Line\n\nSep 15 was fine. FINE. We made money, we stayed above water, and we lived to fight another day. But 'fine' doesn't get you a banner. Tomorrow, we've got the Guardians gift-wrapped for us against a White Sox team that's already planning their offseason.\n\nTake Cleveland. Don't overthink it. And if the Cardinals cost you money today, well... I told you we couldn't trust them.\n\n**– Rico**"
+    }
+  ],
+  "slug": "2026-09-15-daily-rico",
+  "author": "Rico",
+  "author_emoji": "🎭",
+  "author_role": "Drama Critic",
+  "author_color": "#DC2626",
+  "date": "2026-09-15",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#DC2626"
+}

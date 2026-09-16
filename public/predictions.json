@@ -1895,15 +1895,15 @@
             }
           ]
         },
-        "bp_score": 59.099999999999994,
+        "bp_score": 65.5,
         "bp_detail": {
-          "bullpen_era": 3.08,
-          "recent_era": 4.07,
-          "recent_appearances": 21,
-          "recent_ip": 24.3,
-          "team_era": 3.0,
-          "bp_ip": 430.0,
-          "bp_count": 9,
+          "bullpen_era": 2.97,
+          "recent_era": 2.74,
+          "recent_appearances": 20,
+          "recent_ip": 23.0,
+          "team_era": 2.96,
+          "bp_ip": 424.7,
+          "bp_count": 8,
           "closer_era": 2.66,
           "closer_name": "David Bednar"
         },
@@ -2003,7 +2003,7 @@
           }
         },
         "sit_score": 62.2,
-        "total": 52.2
+        "total": 53.6
       },
       "home": {
         "sp_score": 29.0,
@@ -2193,7 +2193,7 @@
     },
     "scores": {
       "away_offense": 43.4,
-      "away_defense": 55.3,
+      "away_defense": 58.5,
       "home_offense": 25.0,
       "home_defense": 29.9
     },
@@ -2212,8 +2212,8 @@
     "model_winner": "New York Yankees",
     "model_correct": null,
     "notes": "New York Yankees IL: Clarke Schmidt, Fernando Cruz, Giancarlo Stanton, Jazz Chisholm Jr., Kervin Castro 외 다수 / Minnesota Twins IL: Anthony Banda, Byron Buxton, Cole Sands, David Festa, Mick Abel 외 다수",
-    "kalshi_prob": 42.0,
-    "edge": -2.7,
+    "kalshi_prob": 41.0,
+    "edge": -1.7,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -6549,8 +6549,8 @@
     "model_winner": "Baltimore Orioles",
     "model_correct": null,
     "notes": "Baltimore Orioles IL: Blaze Alexander, Christian Franklin, Colin Selby, Félix Bautista, Jordan Westburg 외 다수 / New York Mets IL: Cionel Pérez, Devin Williams, Jorge Polanco, Reed Garrett, Tylor Megill",
-    "kalshi_prob": 56.0,
-    "edge": -6.0,
+    "kalshi_prob": 55.0,
+    "edge": -5.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -7739,7 +7739,7 @@
           "recent_era": 2.0,
           "recent_appearances": 15,
           "recent_ip": 15.3,
-          "team_era": 3.24,
+          "team_era": 3.25,
           "bp_ip": 326.7,
           "bp_count": 8,
           "closer_era": 1.95,
