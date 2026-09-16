@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-16T23:12:02.235932+00:00",
+  "updated_at": "2026-09-16T23:25:36.023161+00:00",
   "news": [
+    {
+      "title": "Holliday placed on IL with wrist inflammation, to be out at least until Yankees series",
+      "link": "https://www.mlb.com/news/jackson-holliday-orioles-injured-list-with-wrist-inflammation",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789599675/mlb/cuvao5cwmlntheuykvic",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-16T23:18:45+00:00",
+      "time_ago": "6m ago"
+    },
+    {
+      "title": "Blue Jays beat Tigers but face tougher AL Wild Card path",
+      "link": "https://www.mlb.com/news/blue-jays-wild-card-race-win-tigers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/irkoe6eu5oi9ykbrj5bx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-16T23:07:00+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Yankees to see how Judge (lower leg tightness) recovers after early exit in 13-inning loss",
+      "link": "https://www.mlb.com/news/aaron-judge-exits-yankees-twins-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zhxllqxmoyutwbitayfx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Patrick Donnelly",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-16T22:47:00+00:00",
+      "time_ago": "38m ago"
+    },
     {
       "title": "Díaz pitches scoreless inning in 5th rehab outing; next step to be determined",
       "link": "https://www.mlb.com/news/edwin-diaz-goes-one-scoreless-inning-in-5th-rehab-outing",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T22:38:39+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "46m ago"
     },
     {
       "title": "Paralyzed A's prospect Lasko released from rehab facility to ovation from staff",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T22:26:00+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "Halpin's massive HR puts Guardians atop AL Central for 1st time since July",
@@ -54,19 +93,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Blue Jays beat Tigers but face tougher AL Wild Card path",
-      "link": "https://www.mlb.com/news/blue-jays-wild-card-race-win-tigers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/irkoe6eu5oi9ykbrj5bx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-16T21:51:26+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Pham made a literal elevator pitch to his GM, then went out and hit clutch homer",
       "link": "https://www.mlb.com/news/tommy-pham-activated-from-injured-list-by-white-sox",
       "summary": "",
@@ -78,32 +104,6 @@
       "tag_color": "#D97706",
       "pub_date": "2026-09-16T21:43:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Judge exits with lower leg tightness in 13-inning loss to Twins",
-      "link": "https://www.mlb.com/news/aaron-judge-exits-yankees-twins-game",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zhxllqxmoyutwbitayfx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Patrick Donnelly",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-16T21:36:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "On day Eldridge notched career-long HR, game-ending leaping snag was the highlight",
-      "link": "https://www.mlb.com/news/bryce-eldridge-put-in-work-with-ron-washington-taken-advice-from-rafael-devers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/neazkgs8ztb990cxeqyh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-16T20:58:21+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
