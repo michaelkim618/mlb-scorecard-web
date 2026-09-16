@@ -13345,6 +13345,30 @@
       "bat_source": "prev_day",
       "away_score": 7,
       "home_score": 8
+    },
+    {
+      "date": "2026-09-15",
+      "away": "Athletics",
+      "home": "Tampa Bay Rays",
+      "game_number": 1,
+      "pick": "Tampa Bay Rays",
+      "pick_prob": 60.7,
+      "actual_winner": "Tampa Bay Rays",
+      "away_score": 0,
+      "home_score": 0,
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "stable",
+      "away_sp_era": 6.11,
+      "home_sp_era": 4.29,
+      "away_bp_era": 4.59,
+      "home_bp_era": 2.75,
+      "away_sp_score": 29.8,
+      "home_sp_score": 49.0,
+      "away_bp_score": 50.8,
+      "home_bp_score": 74.2,
+      "bat_source": "lineup"
     }
   ]
 }

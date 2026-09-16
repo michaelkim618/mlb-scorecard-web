@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-16T00:35:13.437280+00:00",
+  "updated_at": "2026-09-16T00:57:20.821165+00:00",
   "news": [
+    {
+      "title": "Devers undergoes successful surgery, on track for 2027 return",
+      "link": "https://www.mlb.com/news/rafael-devers-has-successful-surgery-on-core-muscle",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jrczd9v804dxqsiyvpdf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Sweet",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-16T00:49:36+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Ryan takes another step toward Tigers debut with 2nd Triple-A start",
+      "link": "https://www.mlb.com/news/river-ryan-makes-second-triple-a-start-for-tigers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789519259/mlb/b3vhhhlt7zgu5ki12hps",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Finlayson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-16T00:45:08+00:00",
+      "time_ago": "12m ago"
+    },
     {
       "title": "Meet ChipPurr Jones, who delivers the cutest first pitch you’ve ever seen!",
       "link": "https://www.mlb.com/news/chippurr-jones-cat-first-pitch-braves-affiliate-minor-league-baseball",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T00:17:00+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "40m ago"
     },
     {
       "title": "Jenkins showing his maturity as he waits for hits to start dropping",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T00:00:00+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "Swanson's rehab pushed back by rainout; Miller to return in 2027",
@@ -77,32 +103,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-15T23:03:10+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Correa out for season as Astros shut down attempted comeback from ankle injury",
-      "link": "https://www.mlb.com/news/carlos-correa-not-returning-for-2026-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iwxz8x3cjyn2ctw64ypd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-15T22:53:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Luzardo (shoulder) lands on IL in big blow for Phillies; postseason status TBD",
-      "link": "https://www.mlb.com/news/phillies-jesus-luzardo-placed-on-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kbacp5rck9jqkqjd8lrv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bobby Blanco",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-15T22:42:00+00:00",
       "time_ago": "1h ago"
     }
   ]
