@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-16T18:35:13.924213+00:00",
+  "updated_at": "2026-09-16T19:06:46.350099+00:00",
   "news": [
+    {
+      "title": "Justin Turner, 41, among several former MLB players to win Mexican League title",
+      "link": "https://www.mlb.com/news/justin-turner-wins-mexican-league-title-with-toros-de-tijuana",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ablugjtxaxspecuxlovb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-16T18:48:25+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Pham made a literal elevator pitch to his GM, then went out and hit clutch homer",
+      "link": "https://www.mlb.com/news/tommy-pham-activated-from-injured-list-by-white-sox",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xoqxk4q3tcdpet2tyggd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Dulik",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-16T18:35:00+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "Yankees activate Schmidt from 60-day IL, DFA Cabrera",
+      "link": "https://www.mlb.com/news/clarke-schmidt-activated-oswaldo-cabrera-designated-for-assignment",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p2gwl0qwqmkha9vuepk4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Patrick Donnelly",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-16T18:29:48+00:00",
+      "time_ago": "36m ago"
+    },
     {
       "title": "Paralyzed A's prospect Lasko released from rehab facility to ovation from staff",
       "link": "https://www.mlb.com/news/a-s-prospect-ryan-lasko-released-from-rehab-facility",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T18:22:38+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "44m ago"
     },
     {
       "title": "De La Cruz's latest highlight is a contortionist act on diving tag for 5-3-6 double play",
@@ -25,20 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T17:59:19+00:00",
-      "time_ago": "35m ago"
-    },
-    {
-      "title": "Pham assured GM he was healthy in the elevator, was batting cleanup the next day",
-      "link": "https://www.mlb.com/news/tommy-pham-activated-from-injured-list-by-white-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zhe49qur6sjzokkqzyoy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Dulik",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-16T17:58:03+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Cards activate star rookie Wetherholt from IL, will manage his playing time",
@@ -77,32 +103,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-16T17:13:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Culpepper on IL with mild hamstring strain, could return for season's final weekend",
-      "link": "https://www.mlb.com/news/kaelen-culpepper-placed-on-injured-list-with-hamstring-strain",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lxtsrslosygmracogbwd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-16T16:59:59+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Will these 5 teams take the next step in 2027?",
-      "link": "https://www.mlb.com/news/possible-2027-contenders-improving-on-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/d4rhrxoe3mol2pqdbv2q",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-16T16:45:00+00:00",
       "time_ago": "1h ago"
     }
   ]
