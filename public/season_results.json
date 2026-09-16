@@ -13705,6 +13705,30 @@
       "away_bp_score": 20.5,
       "home_bp_score": 70.6,
       "bat_source": "prev_day"
+    },
+    {
+      "date": "2026-09-16",
+      "away": "Chicago White Sox",
+      "home": "Cleveland Guardians",
+      "game_number": 1,
+      "pick": "Cleveland Guardians",
+      "pick_prob": 60.7,
+      "actual_winner": "Cleveland Guardians",
+      "away_score": 3,
+      "home_score": 6,
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "hot",
+      "away_sp_era": 5.05,
+      "home_sp_era": 2.09,
+      "away_bp_era": 3.45,
+      "home_bp_era": 3.16,
+      "away_sp_score": 29.0,
+      "home_sp_score": 71.6,
+      "away_bp_score": 56.8,
+      "home_bp_score": 63.9,
+      "bat_source": "lineup"
     }
   ]
 }

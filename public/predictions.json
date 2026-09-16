@@ -746,9 +746,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Cleveland Guardians",
     "model_winner": "Cleveland Guardians",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Chicago White Sox IL: Brooks Baldwin, Huascar Brazobán, Joey Bart, Jordan Leasure, Ky Bush 외 다수 / Cleveland Guardians IL: Colin Holderman, Rhys Hoskins, Shawn Armstrong",
     "kalshi_prob": 58.0,
     "edge": 2.7,
@@ -5419,18 +5419,18 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 53.1,
-      "home": 46.9
+      "away": 52.5,
+      "home": 47.5
     },
     "expected_score": {
-      "away": 2.1,
-      "home": 2.2
+      "away": 2.0,
+      "home": 2.1
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "L",
       "bullpen_game": true,
@@ -5442,7 +5442,7 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 47.2,
+        "sp_score": 46.5,
         "sp_detail": {
           "era": 5.01,
           "whip": 1.41,
@@ -5516,7 +5516,7 @@
             }
           ]
         },
-        "bp_score": 46.3,
+        "bp_score": 45.6,
         "bp_detail": {
           "bullpen_era": 3.93,
           "recent_era": 5.4,
@@ -5528,14 +5528,14 @@
           "closer_era": 1.82,
           "closer_name": "Jhoan Duran"
         },
-        "bat_score": 29.0,
+        "bat_score": 26.8,
         "bat_detail": {
-          "recent_avg": 0.238,
+          "recent_avg": 0.225,
           "runs_per_g": 4.5,
           "hr_per_g": 1.1,
           "bb_per_g": 3.0,
-          "season_ops": 0.729,
-          "season_avg": 0.238,
+          "season_ops": 0.691,
+          "season_avg": 0.225,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
@@ -5546,10 +5546,10 @@
             "Bryce Harper(0.776)",
             "Luis Arraez(0.744)",
             "Alec Bohm(0.704)",
-            "Bryan De La Cruz(0.673)",
             "Bryson Stott(0.547)",
             "J.T. Realmuto(0.590)",
-            "Derek Hill(0.857)"
+            "Brandon Marsh(0.535)",
+            "Justin Crawford(0.656)"
           ],
           "lineup_players": [
             {
@@ -5583,12 +5583,6 @@
               "avg": 0.25
             },
             {
-              "id": 650559,
-              "name": "Bryan De La Cruz",
-              "ops": 0.673,
-              "avg": 0.231
-            },
-            {
               "id": 681082,
               "name": "Bryson Stott",
               "ops": 0.547,
@@ -5601,13 +5595,19 @@
               "avg": 0.182
             },
             {
-              "id": 656537,
-              "name": "Derek Hill",
-              "ops": 0.857,
-              "avg": 0.267
+              "id": 669016,
+              "name": "Brandon Marsh",
+              "ops": 0.535,
+              "avg": 0.15
+            },
+            {
+              "id": 702222,
+              "name": "Justin Crawford",
+              "ops": 0.656,
+              "avg": 0.231
             }
           ],
-          "bat_trend": "cold",
+          "bat_trend": "stable",
           "last5_rpg": 4.0,
           "last5_avg": 0.222,
           "home_split": {
@@ -5624,10 +5624,10 @@
           }
         },
         "sit_score": 52.7,
-        "total": 42.8
+        "total": 41.9
       },
       "home": {
-        "sp_score": 24.6,
+        "sp_score": 24.5,
         "sp_detail": {
           "era": 6.75,
           "whip": 0.75,
@@ -5685,7 +5685,7 @@
             }
           ]
         },
-        "bp_score": 45.5,
+        "bp_score": 45.2,
         "bp_detail": {
           "bullpen_era": 4.65,
           "recent_era": 3.55,
@@ -5697,59 +5697,59 @@
           "closer_era": 2.38,
           "closer_name": "Erik Tolman"
         },
-        "bat_score": 30.5,
+        "bat_score": 29.1,
         "bat_detail": {
-          "recent_avg": 0.239,
+          "recent_avg": 0.227,
           "runs_per_g": 4.3,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
-          "season_ops": 0.695,
-          "season_avg": 0.239,
+          "season_ops": 0.689,
+          "season_avg": 0.227,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Dylan Crews(0.717)",
-            "Andrés Chaparro(0.891)",
-            "Brady House(0.648)",
-            "Yohandy Morales(0.900)",
-            "Jacob Young(0.621)",
+            "James Wood(0.864)",
+            "Daylen Lile(0.684)",
+            "Abimelec Ortiz(0.584)",
+            "CJ Abrams(0.720)",
+            "José Tena(0.542)",
             "Jorbit Vivas(0.706)",
-            "Harry Ford(0.657)",
-            "Andrew Pinckney(0.661)",
+            "Dylan Crews(0.717)",
+            "Keibert Ruiz(0.927)",
             "Nasim Nuñez(0.454)"
           ],
           "lineup_players": [
             {
-              "id": 686611,
-              "name": "Dylan Crews",
-              "ops": 0.717,
-              "avg": 0.27
+              "id": 695578,
+              "name": "James Wood",
+              "ops": 0.864,
+              "avg": 0.294
             },
             {
-              "id": 665953,
-              "name": "Andrés Chaparro",
-              "ops": 0.891,
-              "avg": 0.3
+              "id": 695734,
+              "name": "Daylen Lile",
+              "ops": 0.684,
+              "avg": 0.182
             },
             {
-              "id": 691781,
-              "name": "Brady House",
-              "ops": 0.648,
-              "avg": 0.219
+              "id": 694673,
+              "name": "Abimelec Ortiz",
+              "ops": 0.584,
+              "avg": 0.208
             },
             {
-              "id": 691002,
-              "name": "Yohandy Morales",
-              "ops": 0.9,
-              "avg": 0.3
+              "id": 682928,
+              "name": "CJ Abrams",
+              "ops": 0.72,
+              "avg": 0.2
             },
             {
-              "id": 696285,
-              "name": "Jacob Young",
-              "ops": 0.621,
-              "avg": 0.217
+              "id": 677588,
+              "name": "José Tena",
+              "ops": 0.542,
+              "avg": 0.111
             },
             {
               "id": 678391,
@@ -5758,16 +5758,16 @@
               "avg": 0.259
             },
             {
-              "id": 695670,
-              "name": "Harry Ford",
-              "ops": 0.657,
-              "avg": 0.185
+              "id": 686611,
+              "name": "Dylan Crews",
+              "ops": 0.717,
+              "avg": 0.27
             },
             {
-              "id": 687605,
-              "name": "Andrew Pinckney",
-              "ops": 0.661,
-              "avg": 0.267
+              "id": 660688,
+              "name": "Keibert Ruiz",
+              "ops": 0.927,
+              "avg": 0.387
             },
             {
               "id": 683083,
@@ -5793,20 +5793,20 @@
           }
         },
         "sit_score": 52.5,
-        "total": 34.4
+        "total": 34.0
       }
     },
     "scores": {
-      "away_offense": 29.0,
-      "away_defense": 46.8,
-      "home_offense": 30.5,
-      "home_defense": 38.2
+      "away_offense": 26.8,
+      "away_defense": 46.0,
+      "home_offense": 29.1,
+      "home_defense": 38.0
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -5818,14 +5818,14 @@
     "model_correct": null,
     "notes": "Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Felix Reyes, Jesús Luzardo 외 다수 / Washington Nationals IL: Connelly Early, DJ Herz, Drew Millas, Josiah Gray, Ken Waldichuk 외 다수",
     "kalshi_prob": 35.0,
-    "edge": 11.9,
+    "edge": 12.5,
     "value_bet": "⏭️ 패스 (박빙 경기 — 예측 신뢰도 낮음)",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 53.1% (≤58.0%)",
+    "low_confidence_reason": "최고 확률 52.5% (≤58.0%)",
     "model_version": "v14"
   },
   {
