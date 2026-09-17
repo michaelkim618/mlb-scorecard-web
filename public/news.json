@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-17T21:14:11.141659+00:00",
+  "updated_at": "2026-09-17T21:34:34.239718+00:00",
   "news": [
+    {
+      "title": "Will Yankees' postseason first-timers prove to be ready for the moment?",
+      "link": "https://www.mlb.com/news/yankees-2026-postseason-rely-on-first-timers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pem61vchvnfo4wuzoeno",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Patrick Donnelly",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-17T20:51:40+00:00",
+      "time_ago": "42m ago"
+    },
     {
       "title": "6-run frame fuels 6th straight win as Rays drop magic number ... to 6",
       "link": "https://www.mlb.com/news/rays-sweep-athletics-inch-toward-al-east-title",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T20:23:05+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Postseason FAQ: What's next for Dodgers?",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T20:21:00+00:00",
-      "time_ago": "53m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Josiah Gray activated off IL, set for 1st MLB appearance since April 2024",
@@ -90,20 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-17T19:23:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Injuries: Judge, Snell, Crochet, DeLauter, C. Montgomery, Brewers",
-      "link": "https://www.mlb.com/news/baseball-injury-updates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mzqcfeqxuo1wmigw9boe",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-17T19:21:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
