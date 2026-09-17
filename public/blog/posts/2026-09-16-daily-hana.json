@@ -1,17 +1,17 @@
 {
-  "title": "Sep 16 Results + Sep 17 Preview: When 73% Feels Like Coming Home",
-  "summary": "11-4 on Sep 16 with 73.3% accuracy. Tomorrow we're riding the Brewers again.",
+  "title": "Sep 16 Results + Sep 17 Preview: Eleven Wins and That Championship Feeling",
+  "summary": "Our model crushed Sep 16 with an 11-4 record. Here's what clicked and tomorrow's top pick.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Here's the Thing About Consistency\n\nSome days the model whispers. Other days it shouts. Yesterday? It sang a pretty clear tune, going 11-4 with 73.3% accuracy across the slate. Not perfect—we never claim to be—but the kind of day that reminds you why we trust the numbers even when our hearts want something different."
+      "value": "## When the Model Gets Hot\n\nHere's the thing about days like September 16th—they remind you why we trust the numbers. An 11-4 record with 73.3% accuracy isn't just good; it's the kind of day that makes you lean back in your chair and smile at the spreadsheet."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Sep 16 W-L",
+          "label": "Sep 16 Record",
           "value": "11-4"
         },
         {
@@ -19,19 +19,19 @@
           "value": "73.3%"
         },
         {
-          "label": "Top Confidence",
-          "value": "61%"
+          "label": "Games Tracked",
+          "value": "15"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Day's Story in Numbers\n\nThe Guardians, Rays, Brewers, and Cubs all came through at 61% confidence—those were our most assured picks, and they delivered. The Giants squeaked by at just 51%, proving that sometimes the tightest calls are the sweetest wins.\n\nThe misses? The Yankees couldn't get it done in Minnesota, and the Dodgers stumbled in Cincinnati. Both were mid-range confidence picks, and that's exactly where variance lives. You take your 11-4 days and smile."
+      "value": "## The Hits That Connected\n\nThe Guardians pick at 61% confidence? Hit. The Giants squeaking by at just 51%? Still hit. That's seven straight correct calls before we even got to the night games. The Brewers delivered against Pittsburgh, the Phillies handled Washington, and the Orioles-Mets pick landed exactly where we thought it would.\n\nThe Cubs closing out the day with a win over the Braves was just the cherry on top."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 16 Prediction Confidence & Results",
+      "title": "Sep 16 Prediction Performance",
       "data": [
         {
           "name": "Guardians",
@@ -97,6 +97,10 @@
           "label": "Correct (1=Yes, 0=No)"
         }
       ]
+    },
+    {
+      "type": "text",
+      "value": "## The Misses We Own\n\nLet's talk about the Yankees and Dodgers picks. Both came in with solid confidence levels—54% and 61% respectively—and both missed. The Twins had other ideas in Minnesota, and the Reds played spoiler in Cincinnati.\n\nBut here's what matters: even our misses were reasonable calls. These weren't wild swings. They were calculated predictions that just didn't land. That's baseball."
     },
     {
       "type": "table",
@@ -172,18 +176,18 @@
     },
     {
       "type": "text",
-      "value": "## Looking Ahead to September 17\n\nHere's where it gets interesting. The Brewers showed up for us yesterday in Pittsburgh with that 61% confidence, and guess what? They're back at it again tomorrow in the same park. Kyle Harrison takes the mound for Milwaukee against Wilber Dotel for the Pirates.\n\nThe model likes Milwaukee again, though the confidence has cooled to 52%—essentially a coin flip with the slightest lean. These are the picks that test your faith in the process. Do you trust what worked yesterday? Do you believe in the incremental edge?"
+      "value": "## Tomorrow's Story: Back to Pittsburgh\n\nAnd just like that, we're back where we won yesterday. The Milwaukee Brewers return to Pittsburgh on September 17th, and our model likes them again—this time at 52% confidence.\n\nKyle Harrison takes the mound for Milwaukee against Pittsburgh's Wilber Dotel. It's a tighter call than yesterday's 61% confidence, but the fundamentals are there. The Brewers showed us what they can do in this matchup, and we're riding that momentum into tomorrow."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Tomorrow's Top Pick - Sep 17",
       "value": "Milwaukee Brewers @ Pittsburgh Pirates",
-      "sub": "Pick: Brewers (52%) · Kyle Harrison vs Wilber Dotel"
+      "sub": "Brewers 52% · Harrison vs Dotel · Game Time TBD"
     },
     {
       "type": "text",
-      "value": "## The Human Angle\n\nThere's something poetic about back-to-back games in the same stadium. The Brewers know the dimensions now, know how the ball carries, know where the shadows fall. Harrison gets another crack at a Pirates lineup he might've been studying all night.\n\nBut 52%? That's the model being honest with us. It's not shouting. It's suggesting. And sometimes those whispers are worth listening to, especially when they come off an 11-4 day.\n\nWe'll be watching. You should too."
+      "value": "## The Human Element\n\nDays like September 16th don't come around all the time, and that's exactly why they matter. They're proof that when the model sees edges in the data, those edges are real. They translate to real games, real wins, real patterns.\n\nBut we're not getting ahead of ourselves. Tomorrow is a new slate. The Brewers-Pirates pick sits at 52%—basically a coin flip with a slight lean. We trust it, but we're also humble enough to know that 52% means we could just as easily be writing about a miss tomorrow.\n\nThat's the beauty of this whole thing. We show up, we analyze, we make the call, and then we watch it play out on the field. And on days like yesterday? We get to celebrate when it all clicks.\n\nSee you tomorrow for Sep 17's results. Let's see if Milwaukee can make it two in a row in Pittsburgh."
     }
   ],
   "slug": "2026-09-16-daily-hana",
