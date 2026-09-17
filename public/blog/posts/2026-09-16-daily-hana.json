@@ -1,17 +1,17 @@
 {
-  "title": "Sep 16 Results + Sep 17 Preview: When 73% Feels Like Victory",
-  "summary": "11-4 on Sep 16, and here's why those two misses don't tell the whole story",
+  "title": "Sep 16 Results + Sep 17 Preview: When 73% Feels Like Pure Magic",
+  "summary": "11-4 on Sep 16 with standout performances. Tomorrow: Brewers return to Pittsburgh.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Here's the Thing About Tuesday Night\n\nSome days in baseball, the numbers just dance in your favor. September 16th was one of those nights where our model hit its stride—11 wins out of 15 games, a sparkling 73.3% accuracy rate that has us feeling pretty good heading into Wednesday's slate.\n\nBut here's what I love about this game: even when you're right most of the time, baseball finds a way to humble you. Let's break down what worked, what didn't, and why tomorrow's Brewers-Pirates matchup has our attention."
+      "value": "## Here's the Thing About Yesterday\n\nSometimes you wake up, check the scores, and just smile. September 16th was one of those days. An 11-4 record with 73.3% accuracy—the kind of performance that makes you believe in the process all over again.\n\nThe model had conviction yesterday, and more often than not, that conviction paid off. From Cleveland to Tampa Bay, we watched favorites hold serve and a few underdogs make their case. Let's break down what happened."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Sep 16 W-L",
+          "label": "Overall Record",
           "value": "11-4"
         },
         {
@@ -19,94 +19,24 @@
           "value": "73.3%"
         },
         {
-          "label": "Top Confidence",
-          "value": "61%"
+          "label": "Hits",
+          "value": "11"
+        },
+        {
+          "label": "Misses",
+          "value": "4"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Wins That Built Our Night\n\nThe Guardians delivered exactly what we expected at 61% confidence—a solid home win against the Sox that never really felt in doubt. Same story in Tampa Bay, where the Rays took care of the Athletics with that same 61% backing.\n\nThe Orioles-Mets game was particularly satisfying. At 59% confidence, we leaned Baltimore, and they showed up ready to play. Sometimes the road team just has that extra gear, you know?\n\nBut my favorite win? That Giants-Cardinals call at just 51%. Basically a coin flip, and we caught the right side of it. Those are the ones that feel like finding money in your jacket pocket."
-    },
-    {
-      "type": "chart",
-      "chart_type": "bar",
-      "title": "Sep 16 Prediction Results by Confidence",
-      "data": [
-        {
-          "name": "Guardians",
-          "probability": 61,
-          "result": 1
-        },
-        {
-          "name": "Giants",
-          "probability": 51,
-          "result": 1
-        },
-        {
-          "name": "Yankees",
-          "probability": 54,
-          "result": 0
-        },
-        {
-          "name": "Blue Jays",
-          "probability": 54,
-          "result": 1
-        },
-        {
-          "name": "Dodgers",
-          "probability": 61,
-          "result": 0
-        },
-        {
-          "name": "Rays",
-          "probability": 61,
-          "result": 1
-        },
-        {
-          "name": "Brewers",
-          "probability": 61,
-          "result": 1
-        },
-        {
-          "name": "Phillies",
-          "probability": 60,
-          "result": 1
-        },
-        {
-          "name": "Orioles",
-          "probability": 59,
-          "result": 1
-        },
-        {
-          "name": "Cubs",
-          "probability": 61,
-          "result": 1
-        }
-      ],
-      "x_key": "name",
-      "bars": [
-        {
-          "key": "probability",
-          "color": "#0EA5E9",
-          "label": "Win Probability (%)"
-        },
-        {
-          "key": "result",
-          "color": "#16A34A",
-          "label": "Correct (1=Yes, 0=No)"
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "value": "## The Two That Got Away\n\nLet's talk about the misses, because they matter too. The Yankees at 54% couldn't get it done in Minnesota—sometimes the Twins just play up at home. And the Dodgers, our 61% confidence pick, fell short against the Reds in Cincinnati.\n\nHere's the thing about that Dodgers loss: 61% isn't 100%. When you're giving the other team a 39% chance, you're basically saying 'this should happen more often than not, but not always.' That's baseball. The Reds had their say, and tonight, their say was louder."
+      "value": "## The Wins That Made Our Day\n\nThe Guardians came through at home with 61% confidence—one of our stronger plays that delivered. Same story in Milwaukee, where the Brewers took care of business in Pittsburgh at 61% probability.\n\nThe Phillies-Nationals game? That 60% pick on Philadelphia felt right from the start, and the Orioles did their thing against the Mets at 59%. Even the Giants managed to edge out the Cardinals in what was basically a coin flip at 51%.\n\nThe Cubs hosting the Braves was another 61% winner, and watching that one unfold reminded me why we trust the numbers even when the matchup feels tricky."
     },
     {
       "type": "table",
-      "title": "Complete Sep 16 Results",
+      "title": "Sep 16 Complete Results",
       "headers": [
-        "Game",
+        "Matchup",
         "Our Pick",
         "Confidence",
         "Result"
@@ -175,19 +105,97 @@
       ]
     },
     {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Sep 16 Win Probability vs Results",
+      "data": [
+        {
+          "name": "Guardians",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Giants",
+          "probability": 51,
+          "result": 1
+        },
+        {
+          "name": "Yankees",
+          "probability": 54,
+          "result": 0
+        },
+        {
+          "name": "Blue Jays",
+          "probability": 54,
+          "result": 1
+        },
+        {
+          "name": "Dodgers",
+          "probability": 61,
+          "result": 0
+        },
+        {
+          "name": "Rays",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Brewers",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Phillies",
+          "probability": 60,
+          "result": 1
+        },
+        {
+          "name": "Orioles",
+          "probability": 59,
+          "result": 1
+        },
+        {
+          "name": "Cubs",
+          "probability": 61,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Hit (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
       "type": "text",
-      "value": "## Looking Ahead to September 17\n\nNow, about tomorrow. We're back on that Brewers-Pirates matchup, and honestly? It feels different this time.\n\nMilwaukee showed us Tuesday night what they're capable of in Pittsburgh. Now they're sending Kyle Harrison to the mound against Wilber Dotel. The model likes the Brewers at 52%—closer than yesterday, but still leaning Milwaukee's way.\n\nWhat I love about this matchup is the pitching storyline. Harrison's been finding his rhythm lately, and while Dotel has had his moments, the Pirates' home struggles continue to be a theme. Sometimes the narrative and the numbers tell the same story, and when they do, you listen."
+      "value": "## The Misses We're Learning From\n\nNo sugarcoating it—the Yankees and Dodgers didn't come through. Both were 54% and 61% picks respectively, and both reminded us that baseball has a beautiful way of humbling even the best models.\n\nThe Yankees-Twins game was tight, the kind where 54% confidence means you're really picking the slightly better coin flip. The Dodgers miss stung a bit more at 61%, but that's September baseball. Teams are fighting for positioning, rotations are shuffling, and sometimes the underdog just has more to prove that day."
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Story: Back to Pittsburgh\n\nHere's what caught my eye for September 17th: the Brewers are heading back to Pittsburgh. Yes, we liked Milwaukee yesterday at 61%, and yes, we're back on them tomorrow—though this time with a more modest 52% confidence.\n\nKyle Harrison takes the ball for the Brewers against Wilber Dotel and the Pirates. This is one of those matchups where the model sees just enough edge to lean Milwaukee's way, but it's acknowledging this could go either way."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - Sep 17",
+      "title": "⭐ Sep 17 Top Pick",
       "value": "Milwaukee Brewers @ Pittsburgh Pirates",
-      "sub": "Pick: Brewers 52% • Kyle Harrison vs Wilber Dotel"
+      "sub": "Pick: Brewers 52% | Harrison vs Dotel"
     },
     {
       "type": "text",
-      "value": "## The Human Element\n\nYou know what I keep coming back to? That 73.3% accuracy rate isn't just a number—it represents 11 times our model understood something true about baseball on September 16th. Sure, we got two wrong, but getting 11 right means we're seeing the game clearly more often than not.\n\nAs we head into Wednesday, I'm not dwelling on the Dodgers loss or the Yankees miss. I'm thinking about how the Brewers looked in Pittsburgh, how Harrison's last few starts have shaped up, and what 52% confidence really means in a September pennant race.\n\nHere's to another night of baseball, another chance to see if the numbers dance our way. Because that's the beautiful thing about this game—there's always tomorrow, and tomorrow always brings another pitch.\n\nLet's get after it."
+      "value": "## Why Milwaukee Again?\n\nThe Brewers showed us yesterday they can handle PNC Park. Kyle Harrison has been steady enough to trust in this spot, and while 52% isn't screaming conviction, it's saying \"if we had to pick, this is the side we'd want.\"\n\nPittsburgh's fighting, they always do at home, but the Brewers have the pitching edge and just enough momentum from yesterday's win to make this interesting.\n\nIt's not the slam dunk some of yesterday's 61% picks were, but that's tomorrow for you—a clean slate where a narrow edge might be all you need."
+    },
+    {
+      "type": "text",
+      "value": "## The Bottom Line\n\n11-4 feels good. Really good. It's the kind of day that validates the late nights, the data checks, the model refinements. But here's the thing about September baseball—every day is its own story.\n\nTomorrow we're backing the Brewers with modest confidence, and we'll see if Kyle Harrison can author another chapter in Milwaukee's push toward October.\n\nLet's see what September 17th brings. ⚾"
     }
   ],
   "slug": "2026-09-16-daily-hana",
