@@ -1446,8 +1446,8 @@
       "home_defense": 34.4
     },
     "actual_score": {
-      "away": 4,
-      "home": 0
+      "away": 7,
+      "home": 1
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -3427,7 +3427,7 @@
           "splits_used": false,
           "lineup_ops": [
             "Carter Jensen(0.849)",
-            "Bobby Witt(0.739)",
+            "Bobby Witt Jr.(0.739)",
             "Vinnie Pasquantino(0.720)",
             "Salvador Perez(0.685)",
             "Michael Massey(0.765)",
@@ -3445,7 +3445,7 @@
             },
             {
               "id": 677951,
-              "name": "Bobby Witt",
+              "name": "Bobby Witt Jr.",
               "ops": 0.739,
               "avg": 0.211
             },

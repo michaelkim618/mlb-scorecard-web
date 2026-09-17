@@ -1,6 +1,80 @@
 {
   "predictions": [
+    "09:35",
+    "12:10"
+  ],
+  "results": false,
+  "lineup_refreshed": [
     "09:35"
   ],
-  "results": false
+  "predictions_frozen": [
+    "09:35",
+    "12:10"
+  ],
+  "frozen_predictions": {
+    "09:35": [
+      {
+        "game_pk": "823334",
+        "win_prob": {
+          "away": 52.0,
+          "home": 48.0
+        },
+        "model_winner": "Milwaukee Brewers",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 5.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 52.0% (≤58.0%)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "824464",
+        "win_prob": {
+          "away": 50.0,
+          "home": 50.0
+        },
+        "model_winner": "Cincinnati Reds",
+        "value_bet": "⏭️ 패스 (박빙 경기 — 예측 신뢰도 낮음)",
+        "edge": 11.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 50.0% (≤58.0%)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "822924",
+        "win_prob": {
+          "away": 39.3,
+          "home": 60.7
+        },
+        "model_winner": "Tampa Bay Rays",
+        "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Tampa Bay Rays)",
+        "edge": -10.3,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      }
+    ],
+    "12:10": [
+      {
+        "game_pk": "824305",
+        "win_prob": {
+          "away": 63.0,
+          "home": 37.0
+        },
+        "model_winner": "San Diego Padres",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 2.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      }
+    ]
+  }
 }
