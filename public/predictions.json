@@ -1064,22 +1064,22 @@
       "home": 50.0
     },
     "expected_score": {
-      "away": 2.3,
-      "home": 2.3
+      "away": 2.5,
+      "home": 1.9
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "L",
       "home_handedness": "R",
       "bullpen_game": true,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.33,
-        "bp": 0.32,
-        "bat": 0.28,
+        "sp": 0.38,
+        "bp": 0.3,
+        "bat": 0.25,
         "sit": 0.15
       },
       "away": {
@@ -1170,28 +1170,28 @@
           "closer_era": 2.87,
           "closer_name": "Tanner Scott"
         },
-        "bat_score": 31.200000000000003,
+        "bat_score": 34.1,
         "bat_detail": {
-          "recent_avg": 0.208,
+          "recent_avg": 0.213,
           "runs_per_g": 5.3,
           "hr_per_g": 1.5,
           "bb_per_g": 3.0,
-          "season_ops": 0.702,
-          "season_avg": 0.208,
+          "season_ops": 0.731,
+          "season_avg": 0.213,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
             "Tommy Edman(0.521)",
-            "Mookie Betts(0.855)",
-            "Will Smith(0.812)",
             "Freddie Freeman(0.644)",
-            "Teoscar Hernández(0.939)",
-            "Miguel Rojas(0.541)",
             "Kyle Tucker(0.824)",
-            "Enrique Hernández(0.675)",
-            "Alex Call(0.510)"
+            "Teoscar Hernández(0.939)",
+            "Max Muncy(0.875)",
+            "Josue De Paula(0.829)",
+            "Hunter Feduccia(0.588)",
+            "Alex Freeland(0.821)",
+            "Miguel Rojas(0.541)"
           ],
           "lineup_players": [
             {
@@ -1201,34 +1201,10 @@
               "avg": 0.091
             },
             {
-              "id": 605141,
-              "name": "Mookie Betts",
-              "ops": 0.855,
-              "avg": 0.308
-            },
-            {
-              "id": 669257,
-              "name": "Will Smith",
-              "ops": 0.812,
-              "avg": 0.269
-            },
-            {
               "id": 518692,
               "name": "Freddie Freeman",
               "ops": 0.644,
               "avg": 0.158
-            },
-            {
-              "id": 606192,
-              "name": "Teoscar Hernández",
-              "ops": 0.939,
-              "avg": 0.333
-            },
-            {
-              "id": 500743,
-              "name": "Miguel Rojas",
-              "ops": 0.541,
-              "avg": 0.15
             },
             {
               "id": 663656,
@@ -1237,16 +1213,40 @@
               "avg": 0.242
             },
             {
-              "id": 571771,
-              "name": "Enrique Hernández",
-              "ops": 0.675,
-              "avg": 0.222
+              "id": 606192,
+              "name": "Teoscar Hernández",
+              "ops": 0.939,
+              "avg": 0.333
             },
             {
-              "id": 669743,
-              "name": "Alex Call",
-              "ops": 0.51,
-              "avg": 0.1
+              "id": 571970,
+              "name": "Max Muncy",
+              "ops": 0.875,
+              "avg": 0.306
+            },
+            {
+              "id": 800543,
+              "name": "Josue De Paula",
+              "ops": 0.829,
+              "avg": 0.143
+            },
+            {
+              "id": 676439,
+              "name": "Hunter Feduccia",
+              "ops": 0.588,
+              "avg": 0.174
+            },
+            {
+              "id": 690976,
+              "name": "Alex Freeland",
+              "ops": 0.821,
+              "avg": 0.318
+            },
+            {
+              "id": 500743,
+              "name": "Miguel Rojas",
+              "ops": 0.541,
+              "avg": 0.15
             }
           ],
           "bat_trend": "cold",
@@ -1266,10 +1266,10 @@
           }
         },
         "sit_score": 58.6,
-        "total": 42.9
+        "total": 44.0
       },
       "home": {
-        "sp_score": 30.0,
+        "sp_score": 29.2,
         "sp_detail": {
           "era": 6.83,
           "whip": 1.7,
@@ -1328,7 +1328,7 @@
             }
           ]
         },
-        "bp_score": 38.2,
+        "bp_score": 37.2,
         "bp_detail": {
           "bullpen_era": 4.08,
           "recent_era": 7.08,
@@ -1340,14 +1340,14 @@
           "closer_era": 3.63,
           "closer_name": "Emilio Pagán"
         },
-        "bat_score": 32.0,
+        "bat_score": 26.0,
         "bat_detail": {
-          "recent_avg": 0.262,
+          "recent_avg": 0.248,
           "runs_per_g": 3.8,
           "hr_per_g": 1.1,
           "bb_per_g": 3.0,
-          "season_ops": 0.754,
-          "season_avg": 0.262,
+          "season_ops": 0.696,
+          "season_avg": 0.248,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
@@ -1357,11 +1357,11 @@
             "Elly De La Cruz(1.175)",
             "Sal Stewart(0.721)",
             "Tyler Stephenson(0.707)",
-            "Eugenio Suárez(0.819)",
             "Juan Brito(0.968)",
-            "JJ Bleday(0.535)",
-            "Jose Trevino(0.494)",
-            "Matt McLain(0.589)"
+            "Matt McLain(0.589)",
+            "Héctor Rodríguez(0.537)",
+            "Ke'Bryan Hayes(0.349)",
+            "TJ Friedl(0.442)"
           ],
           "lineup_players": [
             {
@@ -1389,34 +1389,34 @@
               "avg": 0.25
             },
             {
-              "id": 553993,
-              "name": "Eugenio Suárez",
-              "ops": 0.819,
-              "avg": 0.242
-            },
-            {
               "id": 682877,
               "name": "Juan Brito",
               "ops": 0.968,
               "avg": 0.448
             },
             {
-              "id": 668709,
-              "name": "JJ Bleday",
-              "ops": 0.535,
-              "avg": 0.118
-            },
-            {
-              "id": 624431,
-              "name": "Jose Trevino",
-              "ops": 0.494,
-              "avg": 0.171
-            },
-            {
               "id": 680574,
               "name": "Matt McLain",
               "ops": 0.589,
               "avg": 0.156
+            },
+            {
+              "id": 699302,
+              "name": "Héctor Rodríguez",
+              "ops": 0.537,
+              "avg": 0.211
+            },
+            {
+              "id": 663647,
+              "name": "Ke'Bryan Hayes",
+              "ops": 0.349,
+              "avg": 0.08
+            },
+            {
+              "id": 670770,
+              "name": "TJ Friedl",
+              "ops": 0.442,
+              "avg": 0.111
             }
           ],
           "bat_trend": "stable",
@@ -1436,20 +1436,20 @@
           }
         },
         "sit_score": 47.5,
-        "total": 34.5
+        "total": 32.5
       }
     },
     "scores": {
-      "away_offense": 31.200000000000003,
+      "away_offense": 34.1,
       "away_defense": 49.1,
-      "home_offense": 32.0,
-      "home_defense": 35.3
+      "home_offense": 26.0,
+      "home_defense": 34.4
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -1460,8 +1460,8 @@
     "model_winner": "Cincinnati Reds",
     "model_correct": null,
     "notes": "Los Angeles Dodgers IL: Andy Pages, Ben Casparius, Brusdar Graterol, Dalton Rushing, Edgardo Henriquez 외 다수 / Cincinnati Reds IL: Blake Dunn, Hunter Greene, Michael Toglia, Spencer Steer",
-    "kalshi_prob": 38.0,
-    "edge": 12.0,
+    "kalshi_prob": 39.0,
+    "edge": 11.0,
     "value_bet": "⏭️ 패스 (박빙 경기 — 예측 신뢰도 낮음)",
     "extreme_edge": false,
     "consensus": false,
@@ -1813,7 +1813,7 @@
     },
     "expected_score": {
       "away": 1.2,
-      "home": 2.9
+      "home": 3.0
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -1825,9 +1825,9 @@
       "bullpen_game": false,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.35,
+        "sp": 0.31,
         "bp": 0.25,
-        "bat": 0.33,
+        "bat": 0.37,
         "sit": 0.15
       },
       "away": {
@@ -2006,7 +2006,7 @@
           }
         },
         "sit_score": 42.0,
-        "total": 31.0
+        "total": 30.7
       },
       "home": {
         "sp_score": 72.0,
@@ -2087,7 +2087,7 @@
           "closer_era": 1.52,
           "closer_name": "Bryan Baker"
         },
-        "bat_score": 38.0,
+        "bat_score": 39.0,
         "bat_detail": {
           "recent_avg": 0.258,
           "runs_per_g": 5.3,
@@ -2183,13 +2183,13 @@
           }
         },
         "sit_score": 71.7,
-        "total": 66.1
+        "total": 65.1
       }
     },
     "scores": {
       "away_offense": 20.9,
       "away_defense": 39.4,
-      "home_offense": 38.0,
+      "home_offense": 39.0,
       "home_defense": 71.2
     },
     "actual_score": {
@@ -2670,7 +2670,7 @@
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis Jr.(0.979)",
+            "Fernando Tatis(0.979)",
             "Dustin Harris(0.791)",
             "Manny Machado(0.773)",
             "Ty France(0.925)",
@@ -2683,7 +2683,7 @@
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis Jr.",
+              "name": "Fernando Tatis",
               "ops": 0.979,
               "avg": 0.366
             },
@@ -2948,8 +2948,8 @@
     "model_winner": "San Diego Padres",
     "model_correct": null,
     "notes": "San Diego Padres IL: Bryan Hoeing, Gavin Sheets, Jason Adam, Jeremiah Estrada, Joe Musgrove 외 다수 / Colorado Rockies IL: Chase Dollander, Jose Quintana, Kris Bryant, McCade Brown, Pierson Ohl 외 다수",
-    "kalshi_prob": 38.0,
-    "edge": -1.0,
+    "kalshi_prob": 35.0,
+    "edge": 2.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -3427,7 +3427,7 @@
           "splits_used": false,
           "lineup_ops": [
             "Carter Jensen(0.849)",
-            "Bobby Witt Jr.(0.739)",
+            "Bobby Witt(0.739)",
             "Vinnie Pasquantino(0.720)",
             "Salvador Perez(0.685)",
             "Michael Massey(0.765)",
@@ -3445,7 +3445,7 @@
             },
             {
               "id": 677951,
-              "name": "Bobby Witt Jr.",
+              "name": "Bobby Witt",
               "ops": 0.739,
               "avg": 0.211
             },
@@ -5982,8 +5982,8 @@
     "model_winner": "Boston Red Sox",
     "model_correct": null,
     "notes": "Boston Red Sox IL: Anthony Seigler, Ceddanne Rafaela, Curtis Mead, Eduardo Rivera, Eli White 외 다수 / Texas Rangers IL: Carter Baumler, Cole Winn, Jack Leiter, Jalen Beeks, Jose Corniell 외 다수",
-    "kalshi_prob": 43.0,
-    "edge": -1.8,
+    "kalshi_prob": 46.0,
+    "edge": -4.8,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -6719,8 +6719,8 @@
     "model_winner": "Los Angeles Angels",
     "model_correct": null,
     "notes": "Minnesota Twins IL: Anthony Banda, Byron Buxton, Cole Sands, David Festa, Kaelen Culpepper 외 다수 / Los Angeles Angels IL: Anthony Rendon, George Klassen, Gustavo Campero, Jack Kochanowicz, Nolan Schanuel 외 다수",
-    "kalshi_prob": 48.0,
-    "edge": 6.6,
+    "kalshi_prob": 49.0,
+    "edge": 5.6,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,

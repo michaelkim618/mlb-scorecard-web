@@ -1,17 +1,17 @@
 {
-  "title": "Sep 16 Results + Sep 17 Preview: Eleven Wins and the Model's Rolling",
-  "summary": "The model crushed it with 11-4 yesterday—here's what happened and what's next for Sep 17.",
+  "title": "Sep 16 Results + Sep 17 Preview: When the Model Finds Its Groove",
+  "summary": "73.3% accuracy on Sep 16—11 wins, 4 losses. Tomorrow we're backing the Brewers again.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## When the Model Finds Its Rhythm\n\nHere's the thing about baseball prediction models—some days they're good, and some days they're *really* good. September 16th was one of those really good days. We went 11-4 across the slate, hitting 73.3% of our picks with the kind of confidence that makes you want to high-five a stranger.\n\nBut let me tell you the story behind the numbers, because that's where it gets interesting."
+      "value": "## Here's the Thing About Yesterday\n\nSometimes you can feel it when the model is locked in, and September 16th was one of those days. We went 11-4 across the slate, hitting 73.3% of our picks. That's the kind of performance that reminds you why we trust the numbers, even when the occasional miss humbles us."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Sep 16 Record",
+          "label": "Sep 16 W-L",
           "value": "11-4"
         },
         {
@@ -19,23 +19,23 @@
           "value": "73.3%"
         },
         {
-          "label": "Hits",
+          "label": "Wins",
           "value": "11"
         },
         {
-          "label": "Misses",
+          "label": "Losses",
           "value": "4"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Highlights That Made Our Day\n\nThe Guardians, Rays, Brewers, Phillies, and Cubs all came through with our higher-confidence picks (all 60%+ probability). These weren't just wins—they were validations of what the model saw in the matchups. The Guardians shutting down the Sox, the Brewers taking care of business in Pittsburgh, the Cubs handling the Braves at Wrigley... these were the picks where everything aligned.\n\nThe Giants squeaking by the Cardinals at just 51% confidence? That's the kind of nail-biter that reminds you why we love this game. Close calls that go our way are just as sweet as the confident victories."
+      "value": "## The Wins That Stood Out\n\nThe Guardians came through at 61% confidence against the White Sox—exactly the kind of solid favorite that delivers. The Orioles took care of business against the Mets at 59%, and the Cubs held serve against the Braves in a 61% pick that felt right from the start.\n\nBut here's what I love: even our tightest call of the day, the Giants at just 51% over the Cardinals, came through. Sometimes baseball rewards you for trusting the slimmest of edges."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 16 Pick Confidence vs Results",
+      "title": "Sep 16 Prediction Results by Confidence Level",
       "data": [
         {
           "name": "Guardians",
@@ -104,11 +104,11 @@
     },
     {
       "type": "text",
-      "value": "## The Two That Got Away\n\nLet's not pretend the misses didn't sting a little. The Yankees falling to the Twins and the Dodgers dropping one to the Reds—both at 54% and 61% confidence respectively—were reminders that baseball's beauty is in its unpredictability. Some days the underdog barks louder, and you've got to respect that.\n\nBut here's what matters: we went 11-4. That's the kind of day that builds momentum heading into tomorrow's slate."
+      "value": "## The Two That Got Away\n\nNo perfect days here—we're not afraid to talk about the misses. The Yankees fell to the Twins despite our 54% confidence, and the Dodgers couldn't get past the Reds at 61%. Both were reasonable picks that just didn't pan out. That's baseball, and that's why we track everything."
     },
     {
       "type": "table",
-      "title": "Complete Sep 16 Results Breakdown",
+      "title": "Full Sep 16 Game Results",
       "headers": [
         "Matchup",
         "Our Pick",
@@ -120,78 +120,78 @@
           "White Sox @ Guardians",
           "Guardians",
           "61%",
-          "✓ Hit"
+          "✓"
         ],
         [
           "Giants @ Cardinals",
           "Giants",
           "51%",
-          "✓ Hit"
+          "✓"
         ],
         [
           "Yankees @ Twins",
           "Yankees",
           "54%",
-          "✗ Miss"
+          "✗"
         ],
         [
           "Tigers @ Blue Jays",
           "Blue Jays",
           "54%",
-          "✓ Hit"
+          "✓"
         ],
         [
           "Dodgers @ Reds",
           "Dodgers",
           "61%",
-          "✗ Miss"
+          "✗"
         ],
         [
           "Athletics @ Rays",
           "Rays",
           "61%",
-          "✓ Hit"
+          "✓"
         ],
         [
           "Brewers @ Pirates",
           "Brewers",
           "61%",
-          "✓ Hit"
+          "✓"
         ],
         [
           "Phillies @ Nationals",
           "Phillies",
           "60%",
-          "✓ Hit"
+          "✓"
         ],
         [
           "Orioles @ Mets",
           "Orioles",
           "59%",
-          "✓ Hit"
+          "✓"
         ],
         [
           "Braves @ Cubs",
           "Cubs",
           "61%",
-          "✓ Hit"
+          "✓"
         ]
       ]
     },
     {
       "type": "text",
-      "value": "## Looking Ahead to September 17\n\nSo what does the model love for tomorrow? We're heading right back to Pittsburgh, where the Brewers looked so good yesterday. This time it's Kyle Harrison taking the mound for Milwaukee against Wilber Dotel for the Pirates.\n\nThe confidence sits at 52%—which means this is closer than yesterday's matchup, but the model still sees an edge. Sometimes the best picks aren't the slam dunks; they're the ones where you find value in a tight matchup that others might overlook."
+      "value": "## Looking Ahead to September 17\n\nNow let's talk about tomorrow. The model is pointing us right back to a matchup we liked yesterday: the Milwaukee Brewers visiting the Pittsburgh Pirates.\n\nKyle Harrison gets the ball for Milwaukee, facing off against Wilber Dotel for Pittsburgh. Our confidence sits at 52%—this is closer than yesterday's 61% Brewers pick, but the model still sees value here."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Tomorrow's Top Pick - Sep 17",
       "value": "Milwaukee Brewers @ Pittsburgh Pirates",
-      "sub": "Pick: Brewers (52%) • Kyle Harrison vs Wilber Dotel"
+      "sub": "Pick: Brewers · 52% confidence · Harrison vs Dotel"
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nDays like September 16th remind us why we trust the process. An 11-4 record isn't just luck—it's the model identifying edges, processing matchups, and giving us the information we need to make informed picks.\n\nAs we head into Sep 17, we're riding the momentum but staying grounded. Tomorrow's a new day, a new slate, and a fresh opportunity to see what the numbers reveal.\n\nLet's keep rolling. ⚾"
+      "value": "## Why the Brewers Again?\n\nHere's the thing: when a team delivers at 61% one day, and the model still likes them the next—even at a lower confidence—that continuity matters. Milwaukee proved they can handle Pittsburgh's ballpark. The pitching matchup favors them just enough to warrant our attention.\n\nIs 52% a slam dunk? No. But it's an edge, and over a full season, those edges are what separate the good models from the lucky guesses.\n\n---\n\n*We'll be tracking tomorrow's results with the same transparency we brought to today. That's the MLB Scorecard promise—every pick, every result, every day.*"
     }
   ],
   "slug": "2026-09-16-daily-hana",
