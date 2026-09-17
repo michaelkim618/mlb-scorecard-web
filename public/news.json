@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-16T23:57:56.836521+00:00",
+  "updated_at": "2026-09-17T00:42:57.697095+00:00",
   "news": [
+    {
+      "title": "Matthews shows what he looks like at his best, but can he do it more often?",
+      "link": "https://www.mlb.com/news/zebby-matthews-has-strong-start-in-twins-win-over-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cbhwre7o1sth9du85ojm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-17T00:11:25+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "Here are the breakout prospects of the year -- one for each team",
+      "link": "https://www.mlb.com/news/one-breakout-prospect-from-each-mlb-club-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cmxxesj7wfgumccomatx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jonathan Mayo, Jim Callis and Sam Dykstra",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-16T23:45:00+00:00",
+      "time_ago": "57m ago"
+    },
     {
       "title": "Snell exits start against Reds after one inning with groin tightness",
       "link": "https://www.mlb.com/news/blake-snell-exits-start-against-reds-after-one-inning",
@@ -12,7 +38,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-16T23:26:56+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Holliday placed on IL with wrist inflammation, to be out at least until Yankees series",
@@ -25,7 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-16T23:18:45+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "White Sox drop rubber game to Guardians, slip out of 1st place in AL Central",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T23:14:00+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Blue Jays beat Tigers but face tougher AL Wild Card path",
@@ -51,7 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-16T23:07:00+00:00",
-      "time_ago": "50m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yankees to see how Judge (lower leg tightness) recovers after early exit in 13-inning loss",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-16T22:38:39+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Paralyzed A's prospect Lasko released from rehab facility to ovation from staff",
-      "link": "https://www.mlb.com/news/a-s-prospect-ryan-lasko-released-from-rehab-facility",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eagkmmxgg3f31xoyewlc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-16T22:26:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Halpin's massive HR puts Guardians atop AL Central for 1st time since July",
-      "link": "https://www.mlb.com/news/petey-halpin-homers-guardians-take-al-central-lead-from-white-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fbm6vmg3mtfu1acjav9b",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-16T22:11:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
