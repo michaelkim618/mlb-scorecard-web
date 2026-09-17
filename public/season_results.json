@@ -14137,6 +14137,30 @@
       "away_bp_score": 43.6,
       "home_bp_score": 70.5,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-17",
+      "away": "San Diego Padres",
+      "home": "Colorado Rockies",
+      "game_number": 1,
+      "pick": "San Diego Padres",
+      "pick_prob": 63.0,
+      "actual_winner": "San Diego Padres",
+      "away_score": 0,
+      "home_score": 0,
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "cold",
+      "away_sp_era": 2.48,
+      "home_sp_era": 4.6,
+      "away_bp_era": 2.71,
+      "home_bp_era": 5.23,
+      "away_sp_score": 63.5,
+      "home_sp_score": 25.0,
+      "away_bp_score": 68.6,
+      "home_bp_score": 16.4,
+      "bat_source": "prev_day"
     }
   ]
 }
