@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-17T14:11:19.523523+00:00",
+  "updated_at": "2026-09-17T16:06:34.786532+00:00",
   "news": [
+    {
+      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789591455/mlb/bgtip4siy3qk2yvgxwvw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-17T15:54:00+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "There's another young slugger climbing the Hitter Power Rankings",
+      "link": "https://www.mlb.com/news/mlb-hitter-power-rankings-for-september-17-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dfoviwzw2bsndswth1bw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "Rankings",
+      "tag_color": "#4F46E5",
+      "pub_date": "2026-09-17T15:20:00+00:00",
+      "time_ago": "46m ago"
+    },
+    {
+      "title": "Cijntje spins scoreless start, continuing dominant September",
+      "link": "https://www.mlb.com/news/jurrangelo-cijntje-continues-dominant-month-with-scoreless-start",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/k3qhjzyln1x0pvdclglq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-17T15:12:06+00:00",
+      "time_ago": "54m ago"
+    },
+    {
+      "title": "How Mathews has turned his self-doubt into strong self-confidence in Majors",
+      "link": "https://www.mlb.com/news/quinn-mathews-working-on-self-confidence-cardinals-starting-rotation",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ukfrcvw0s2rlgbaxbzpw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brenden Schaeffer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-17T14:42:42+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Adell relishing, playing key role in first September postseason push",
       "link": "https://www.mlb.com/news/jo-adell-enjoying-september-postseason-push-with-guardians",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T12:19:29+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "3 takeaways from Bernal’s immediate impact for Cardinals",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T11:40:50+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "'The dude is an inspiration': Sandy's 1st career save has Marlins fired up",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T07:21:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "8h ago"
     },
     {
       "title": "Salas youngest catcher in MLB history to hit 2 HRs in a game -- and they were his 1st!",
@@ -51,59 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-17T05:28:00+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "Blue Jays beat Tigers but face tougher AL Wild Card path",
-      "link": "https://www.mlb.com/news/blue-jays-wild-card-race-win-tigers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/irkoe6eu5oi9ykbrj5bx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-17T05:00:00+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "'Glad it's not worse': Snell's early exit complicates Dodgers' plans",
-      "link": "https://www.mlb.com/news/blake-snell-exits-start-against-reds-after-one-inning",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/crlmqxoar75wpsv85hnq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-17T04:50:00+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "With 10 games left, here's what's at stake in a crucial final stretch for Astros",
-      "link": "https://www.mlb.com/news/astros-lose-to-royals-drop-into-tie-for-al-west-lead",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sz7otabyidkxrs0gy41g",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-17T04:35:00+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789591455/mlb/bgtip4siy3qk2yvgxwvw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-17T04:33:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "title": "Sep 16 Results + Sep 17 Preview: When the Model Finds Its Groove",
-  "summary": "73.3% accuracy on Sep 16—11 wins, 4 losses. Tomorrow we're backing the Brewers again.",
+  "title": "Sep 16 Results + Sep 17 Preview: When 73% Feels Like Victory",
+  "summary": "11-4 on Sep 16, and here's why those two misses don't tell the whole story",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Here's the Thing About Yesterday\n\nSometimes you can feel it when the model is locked in, and September 16th was one of those days. We went 11-4 across the slate, hitting 73.3% of our picks. That's the kind of performance that reminds you why we trust the numbers, even when the occasional miss humbles us."
+      "value": "## Here's the Thing About Tuesday Night\n\nSome days in baseball, the numbers just dance in your favor. September 16th was one of those nights where our model hit its stride—11 wins out of 15 games, a sparkling 73.3% accuracy rate that has us feeling pretty good heading into Wednesday's slate.\n\nBut here's what I love about this game: even when you're right most of the time, baseball finds a way to humble you. Let's break down what worked, what didn't, and why tomorrow's Brewers-Pirates matchup has our attention."
     },
     {
       "type": "stat_row",
@@ -19,23 +19,19 @@
           "value": "73.3%"
         },
         {
-          "label": "Wins",
-          "value": "11"
-        },
-        {
-          "label": "Losses",
-          "value": "4"
+          "label": "Top Confidence",
+          "value": "61%"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Wins That Stood Out\n\nThe Guardians came through at 61% confidence against the White Sox—exactly the kind of solid favorite that delivers. The Orioles took care of business against the Mets at 59%, and the Cubs held serve against the Braves in a 61% pick that felt right from the start.\n\nBut here's what I love: even our tightest call of the day, the Giants at just 51% over the Cardinals, came through. Sometimes baseball rewards you for trusting the slimmest of edges."
+      "value": "## The Wins That Built Our Night\n\nThe Guardians delivered exactly what we expected at 61% confidence—a solid home win against the Sox that never really felt in doubt. Same story in Tampa Bay, where the Rays took care of the Athletics with that same 61% backing.\n\nThe Orioles-Mets game was particularly satisfying. At 59% confidence, we leaned Baltimore, and they showed up ready to play. Sometimes the road team just has that extra gear, you know?\n\nBut my favorite win? That Giants-Cardinals call at just 51%. Basically a coin flip, and we caught the right side of it. Those are the ones that feel like finding money in your jacket pocket."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 16 Prediction Results by Confidence Level",
+      "title": "Sep 16 Prediction Results by Confidence",
       "data": [
         {
           "name": "Guardians",
@@ -98,19 +94,19 @@
         {
           "key": "result",
           "color": "#16A34A",
-          "label": "Hit (1=Yes, 0=No)"
+          "label": "Correct (1=Yes, 0=No)"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Two That Got Away\n\nNo perfect days here—we're not afraid to talk about the misses. The Yankees fell to the Twins despite our 54% confidence, and the Dodgers couldn't get past the Reds at 61%. Both were reasonable picks that just didn't pan out. That's baseball, and that's why we track everything."
+      "value": "## The Two That Got Away\n\nLet's talk about the misses, because they matter too. The Yankees at 54% couldn't get it done in Minnesota—sometimes the Twins just play up at home. And the Dodgers, our 61% confidence pick, fell short against the Reds in Cincinnati.\n\nHere's the thing about that Dodgers loss: 61% isn't 100%. When you're giving the other team a 39% chance, you're basically saying 'this should happen more often than not, but not always.' That's baseball. The Reds had their say, and tonight, their say was louder."
     },
     {
       "type": "table",
-      "title": "Full Sep 16 Game Results",
+      "title": "Complete Sep 16 Results",
       "headers": [
-        "Matchup",
+        "Game",
         "Our Pick",
         "Confidence",
         "Result"
@@ -180,18 +176,18 @@
     },
     {
       "type": "text",
-      "value": "## Looking Ahead to September 17\n\nNow let's talk about tomorrow. The model is pointing us right back to a matchup we liked yesterday: the Milwaukee Brewers visiting the Pittsburgh Pirates.\n\nKyle Harrison gets the ball for Milwaukee, facing off against Wilber Dotel for Pittsburgh. Our confidence sits at 52%—this is closer than yesterday's 61% Brewers pick, but the model still sees value here."
+      "value": "## Looking Ahead to September 17\n\nNow, about tomorrow. We're back on that Brewers-Pirates matchup, and honestly? It feels different this time.\n\nMilwaukee showed us Tuesday night what they're capable of in Pittsburgh. Now they're sending Kyle Harrison to the mound against Wilber Dotel. The model likes the Brewers at 52%—closer than yesterday, but still leaning Milwaukee's way.\n\nWhat I love about this matchup is the pitching storyline. Harrison's been finding his rhythm lately, and while Dotel has had his moments, the Pirates' home struggles continue to be a theme. Sometimes the narrative and the numbers tell the same story, and when they do, you listen."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Tomorrow's Top Pick - Sep 17",
       "value": "Milwaukee Brewers @ Pittsburgh Pirates",
-      "sub": "Pick: Brewers · 52% confidence · Harrison vs Dotel"
+      "sub": "Pick: Brewers 52% • Kyle Harrison vs Wilber Dotel"
     },
     {
       "type": "text",
-      "value": "## Why the Brewers Again?\n\nHere's the thing: when a team delivers at 61% one day, and the model still likes them the next—even at a lower confidence—that continuity matters. Milwaukee proved they can handle Pittsburgh's ballpark. The pitching matchup favors them just enough to warrant our attention.\n\nIs 52% a slam dunk? No. But it's an edge, and over a full season, those edges are what separate the good models from the lucky guesses.\n\n---\n\n*We'll be tracking tomorrow's results with the same transparency we brought to today. That's the MLB Scorecard promise—every pick, every result, every day.*"
+      "value": "## The Human Element\n\nYou know what I keep coming back to? That 73.3% accuracy rate isn't just a number—it represents 11 times our model understood something true about baseball on September 16th. Sure, we got two wrong, but getting 11 right means we're seeing the game clearly more often than not.\n\nAs we head into Wednesday, I'm not dwelling on the Dodgers loss or the Yankees miss. I'm thinking about how the Brewers looked in Pittsburgh, how Harrison's last few starts have shaped up, and what 52% confidence really means in a September pennant race.\n\nHere's to another night of baseball, another chance to see if the numbers dance our way. Because that's the beautiful thing about this game—there's always tomorrow, and tomorrow always brings another pitch.\n\nLet's get after it."
     }
   ],
   "slug": "2026-09-16-daily-hana",
