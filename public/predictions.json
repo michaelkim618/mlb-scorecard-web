@@ -2203,9 +2203,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Tampa Bay Rays",
     "model_winner": "Tampa Bay Rays",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Athletics IL: Brent Rooker, Brooks Kriske, Gage Jump, Gunnar Hoglund, J.T. Ginn 외 다수 / Tampa Bay Rays IL: Ben Williamson, Edwin Uceta, Garrett Cleavinger, Gavin Lux, Jonathan Heasley 외 다수",
     "kalshi_prob": 71.0,
     "edge": -10.3,
@@ -3633,7 +3633,7 @@
       "away": null,
       "home": null
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
