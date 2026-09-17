@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-17T20:28:57.115390+00:00",
+  "updated_at": "2026-09-17T21:14:11.141659+00:00",
   "news": [
+    {
+      "title": "6-run frame fuels 6th straight win as Rays drop magic number ... to 6",
+      "link": "https://www.mlb.com/news/rays-sweep-athletics-inch-toward-al-east-title",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yvt4qfdczbhdrsdy2g0u",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-17T20:23:05+00:00",
+      "time_ago": "51m ago"
+    },
+    {
+      "title": "Postseason FAQ: What's next for Dodgers?",
+      "link": "https://www.mlb.com/news/dodgers-2026-postseason-faq",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789434659/mlb/qsmw2q97utufgrxrri8u",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-17T20:21:00+00:00",
+      "time_ago": "53m ago"
+    },
+    {
+      "title": "Josiah Gray activated off IL, set for 1st MLB appearance since April 2024",
+      "link": "https://www.mlb.com/news/josiah-gray-activated-off-injured-list-nationals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/r6ln3v7tl5ucu0fdutdh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jessica Camerato",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-17T19:55:20+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Phils claim veteran pitcher Urquidy off waivers from White Sox",
+      "link": "https://www.mlb.com/news/jose-urquidy-claimed-by-phillies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vhy4g2warmjonnm8uiiv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-17T19:51:49+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Once a co-ace, Harrison running out of chances to earn October role",
       "link": "https://www.mlb.com/news/kyle-harrison-struggles-brewers-postseason-role",
@@ -12,10 +64,10 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T19:45:14+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "1h ago"
     },
     {
-      "title": "Tucker's near-cycle clinches LA's 5th straight NL West title, 13th in 14 years",
+      "title": "Dodgers claim NL West crown for 13th time in past 14 years",
       "link": "https://www.mlb.com/news/dodgers-clinch-2026-nl-west-title",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jenezayb2r5y0cjaejcr",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T19:36:00+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -52,58 +104,6 @@
       "tag_color": "#DC2626",
       "pub_date": "2026-09-17T19:21:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Giddy up! Blue Jays rookies dress the part for trip down south",
-      "link": "https://www.mlb.com/news/blue-jays-rookies-wear-cowboy-attire-for-texas-road-trip",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wlypbhmtnt578bxnosyr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-17T18:39:52+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "D-backs knew Pettitte was tipping pitches. But 25 years later, it's still unclear how",
-      "link": "https://www.mlb.com/news/d-backs-still-debating-source-of-andy-pettitte-tip-for-game-6-of-2001-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789624487/mlb/gnj92fg5zewdiedxnqoz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-17T18:14:18+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Hollywood superstar visits Kansas City's Negro Leagues Baseball Museum",
-      "link": "https://www.mlb.com/news/tom-cruise-visits-negro-leagues-baseball-museum",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789665771/mlb/jnjjk0zbkibpjtzffcga",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-17T17:33:48+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Here are the breakout prospects of the year -- one for each team",
-      "link": "https://www.mlb.com/news/one-breakout-prospect-from-each-mlb-club-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cmxxesj7wfgumccomatx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jonathan Mayo, Jim Callis and Sam Dykstra",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-17T17:25:00+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
