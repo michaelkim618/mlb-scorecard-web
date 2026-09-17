@@ -2572,8 +2572,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 46.0,
-      "home": 54.0
+      "away": 45.7,
+      "home": 54.3
     },
     "expected_score": {
       "away": 2.7,
@@ -2662,14 +2662,14 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 50.6,
+        "bp_score": 57.7,
         "bp_detail": {
-          "bullpen_era": 3.48,
-          "recent_era": 4.28,
-          "recent_appearances": 20,
-          "recent_ip": 27.3,
-          "team_era": 3.51,
-          "bp_ip": 369.3,
+          "bullpen_era": 3.34,
+          "recent_era": 3.12,
+          "recent_appearances": 18,
+          "recent_ip": 26.0,
+          "team_era": 3.45,
+          "bp_ip": 347.7,
           "bp_count": 9,
           "closer_era": 3.43,
           "closer_name": "Kenley Jansen"
@@ -2770,7 +2770,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 46.1,
-        "total": 43.6
+        "total": 45.1
       },
       "home": {
         "sp_score": 45.7,
@@ -2867,7 +2867,7 @@ window.PREDICTIONS_DATA = [
           "lineup_ops": [
             "Brett Bateman(0.881)",
             "Nathan Lukes(0.705)",
-            "Vladimir Guerrero Jr.(0.719)",
+            "Vladimir Guerrero(0.719)",
             "George Springer(0.760)",
             "Kazuma Okamoto(0.942)",
             "Josh Smith(0.769)",
@@ -2890,7 +2890,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 665489,
-              "name": "Vladimir Guerrero Jr.",
+              "name": "Vladimir Guerrero",
               "ops": 0.719,
               "avg": 0.263
             },
@@ -2953,7 +2953,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 40.8,
-      "away_defense": 43.3,
+      "away_defense": 46.9,
       "home_offense": 26.200000000000003,
       "home_defense": 54.9
     },
@@ -2980,7 +2980,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 54.0% (≤58.0%)",
+    "low_confidence_reason": "최고 확률 54.3% (≤58.0%)",
     "model_version": "v14"
   },
   {
@@ -8580,7 +8580,7 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Carter Jensen(0.849)",
-            "Bobby Witt(0.739)",
+            "Bobby Witt Jr.(0.739)",
             "Vinnie Pasquantino(0.720)",
             "Salvador Perez(0.685)",
             "Michael Massey(0.765)",
@@ -8598,7 +8598,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 677951,
-              "name": "Bobby Witt",
+              "name": "Bobby Witt Jr.",
               "ops": 0.739,
               "avg": 0.211
             },
@@ -9264,7 +9264,7 @@ window.PREDICTIONS_DATA = [
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis(0.961)",
+            "Fernando Tatis Jr.(0.961)",
             "Dustin Harris(0.828)",
             "Manny Machado(0.701)",
             "Ty France(0.910)",
@@ -9277,7 +9277,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis",
+              "name": "Fernando Tatis Jr.",
               "ops": 0.961,
               "avg": 0.366
             },
