@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-17T07:20:36.022904+00:00",
+  "updated_at": "2026-09-17T07:54:33.126870+00:00",
   "news": [
+    {
+      "title": "'The dude is an inspiration': Sandy's 1st career save has Marlins fired up",
+      "link": "https://www.mlb.com/news/sandy-alcantara-records-first-career-save-in-marlins-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hzberyes0mdcjpuezju1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Michael Reynolds",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-17T07:21:00+00:00",
+      "time_ago": "33m ago"
+    },
     {
       "title": "D-backs' postseason hopes narrowing after frustrating series loss to Marlins",
       "link": "https://www.mlb.com/news/d-backs-drop-in-wild-card-standings-in-loss-to-marlins",
@@ -25,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-17T05:28:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Contreras blasts off after early challenge, but Red Sox's 'pen falters late",
@@ -64,20 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T04:50:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Enter Sandman: Alcantara steps up in 9th for 1st career save",
-      "link": "https://www.mlb.com/news/sandy-alcantara-records-first-career-save-in-marlins-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789620093/mlb/ytbtwrwlgndsgvzpim9g",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-17T04:45:45+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "With 10 games left, here's what's at stake in a crucial final stretch for Astros",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T04:35:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -103,7 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-17T04:33:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }

@@ -609,7 +609,7 @@
             "Brandon Lowe(0.869)",
             "Bryan Reynolds(0.783)",
             "Oneil Cruz(0.875)",
-            "Rafael Flores(0.942)",
+            "Rafael Flores Jr.(0.942)",
             "Ryan O'Hearn(0.655)",
             "Ronny Simon(0.784)",
             "Jacob Gonzalez(0.534)",
@@ -642,7 +642,7 @@
             },
             {
               "id": 804668,
-              "name": "Rafael Flores",
+              "name": "Rafael Flores Jr.",
               "ops": 0.942,
               "avg": 0.421
             },
@@ -2106,7 +2106,7 @@
             "Jonny DeLuca(0.675)",
             "Chandler Simpson(0.692)",
             "Nick Madrigal(0.626)",
-            "Victor Mesa(1.077)",
+            "Victor Mesa Jr.(1.077)",
             "Jorge Mateo(0.439)",
             "Nick Fortes(0.726)"
           ],
@@ -2149,7 +2149,7 @@
             },
             {
               "id": 683748,
-              "name": "Victor Mesa",
+              "name": "Victor Mesa Jr.",
               "ops": 1.077,
               "avg": 0.424
             },
@@ -3427,7 +3427,7 @@
           "splits_used": false,
           "lineup_ops": [
             "Carter Jensen(0.849)",
-            "Bobby Witt(0.739)",
+            "Bobby Witt Jr.(0.739)",
             "Vinnie Pasquantino(0.720)",
             "Salvador Perez(0.685)",
             "Michael Massey(0.765)",
@@ -3445,7 +3445,7 @@
             },
             {
               "id": 677951,
-              "name": "Bobby Witt",
+              "name": "Bobby Witt Jr.",
               "ops": 0.739,
               "avg": 0.211
             },
@@ -3726,8 +3726,8 @@
     "model_winner": "Houston Astros",
     "model_correct": null,
     "notes": "Kansas City Royals IL: Alec Marsh, Beck Way, Carlos Estévez, Cole Ragans, Connor Seabold 외 다수 / Houston Astros IL: Brandon Walter, Brice Matthews, Carlos Correa, Mike Burrows, Steven Okert",
-    "kalshi_prob": 57.0,
-    "edge": 2.8,
+    "kalshi_prob": 56.0,
+    "edge": 3.8,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
