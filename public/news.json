@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-17T22:00:41.995832+00:00",
+  "updated_at": "2026-09-17T22:17:34.241524+00:00",
   "news": [
+    {
+      "title": "Bucs take season series from Brewers, see blueprint for future",
+      "link": "https://www.mlb.com/news/pirates-win-season-series-brewers-first-time-since-2018",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gdnuu5zbulng1cz3a2e3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-17T22:08:01+00:00",
+      "time_ago": "9m ago"
+    },
     {
       "title": "As Naylor gets his 1st Brewers HR, this young fan *almost* got the ball",
       "link": "https://www.mlb.com/news/bo-naylor-first-brewers-homer-fan-near-catch",
@@ -12,7 +25,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-17T21:15:25+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Will Yankees' postseason first-timers prove to be ready for the moment?",
@@ -83,26 +96,13 @@
       "title": "Once a co-ace, Harrison running out of chances to earn October role",
       "link": "https://www.mlb.com/news/kyle-harrison-struggles-brewers-postseason-role",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j3ptr58ztgxtviaohhid",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789682650/mlb/j3ptr58ztgxtviaohhid",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T19:45:14+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Dodgers claim NL West crown for 13th time in past 14 years",
-      "link": "https://www.mlb.com/news/dodgers-clinch-2026-nl-west-title",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jenezayb2r5y0cjaejcr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-17T19:36:00+00:00",
       "time_ago": "2h ago"
     }
   ]
