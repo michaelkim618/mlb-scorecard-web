@@ -1,8 +1,47 @@
 {
-  "updated_at": "2026-09-17T05:02:57.338941+00:00",
+  "updated_at": "2026-09-17T05:55:43.184372+00:00",
   "news": [
     {
-      "title": "'Glad it's not worse': Snell's early exit (groin) complicates Dodgers' plans",
+      "title": "Salas youngest catcher in MLB history to hit 2 HRs in a game -- and they were his 1st!",
+      "link": "https://www.mlb.com/news/ethan-salas-hits-first-career-home-run",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/d0outao04ao4wnz6b08d",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-17T05:28:00+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "Contreras blasts off after early challenge, but Red Sox's 'pen falters late",
+      "link": "https://www.mlb.com/news/red-sox-bullpen-loss-rangers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gfki3jjmb3shghwvjzg4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Perla Paredes",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-17T05:01:00+00:00",
+      "time_ago": "54m ago"
+    },
+    {
+      "title": "Blue Jays beat Tigers but face tougher AL Wild Card path",
+      "link": "https://www.mlb.com/news/blue-jays-wild-card-race-win-tigers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/irkoe6eu5oi9ykbrj5bx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-17T05:00:00+00:00",
+      "time_ago": "55m ago"
+    },
+    {
+      "title": "'Glad it's not worse': Snell's early exit complicates Dodgers' plans",
       "link": "https://www.mlb.com/news/blake-snell-exits-start-against-reds-after-one-inning",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/crlmqxoar75wpsv85hnq",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T04:50:00+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Enter Sandman: Alcantara steps up in 9th for 1st career save",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T04:45:45+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "D-backs drop crucial series vs. Marlins to fall further behind in WC race",
@@ -38,7 +77,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T04:42:11+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "With 10 games left, here's what's at stake in a crucial final stretch for Astros",
+      "link": "https://www.mlb.com/news/astros-lose-to-royals-drop-into-tie-for-al-west-lead",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sz7otabyidkxrs0gy41g",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-17T04:35:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -51,58 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-17T04:33:00+00:00",
-      "time_ago": "29m ago"
-    },
-    {
-      "title": "Eovaldi's relief outing results in win backed by seventh-inning rally",
-      "link": "https://www.mlb.com/news/nathan-eovaldi-pitches-four-relief-innings-in-rangers-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ahnpxdxtuvr2znnweobo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kennedi Landry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-17T04:13:00+00:00",
-      "time_ago": "49m ago"
-    },
-    {
-      "title": "Crew follows up clinch with MLB-best 95th win ... but there's 'work to do'",
-      "link": "https://www.mlb.com/news/christian-yelich-brewers-beat-pirates-for-95th-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789612264/mlb/dbmopmxrrtjjwudfoqr5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-17T04:05:00+00:00",
-      "time_ago": "57m ago"
-    },
-    {
-      "title": "PCA adds 2 more blasts to season Cubs fans will 'tell their grandkids about'",
-      "link": "https://www.mlb.com/news/pete-crow-armstrong-alex-bregman-lead-cubs-to-win-over-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wgidz1wlehctwywetusa",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-17T04:03:00+00:00",
-      "time_ago": "59m ago"
-    },
-    {
-      "title": "What they said couldn't be done: Nomo's Coors no-no 30 years later",
-      "link": "https://www.mlb.com/news/hideo-nomo-coors-field-no-hitter-30-years-later",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nvfwo7pr4kbduk7jfmdh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-17T04:02:17+00:00",
       "time_ago": "1h ago"
     }
   ]
