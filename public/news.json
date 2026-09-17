@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-17T01:39:02.232244+00:00",
+  "updated_at": "2026-09-17T02:29:24.660172+00:00",
   "news": [
+    {
+      "title": "Alonso uncorks another long ball to help complete sweep, heartfelt visit to Queens",
+      "link": "https://www.mlb.com/news/orioles-remain-in-wild-card-race-with-four-hr-game-vs-mets",
+      "summary": "Baltimore 2 1/2 games behind White Sox in AL Wild Card standings after 4-HR effort",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zqeakwfwashfecsyreau",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-17T02:13:24+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Crew follows up clinch with MLB-best 95th win",
+      "link": "https://www.mlb.com/news/christian-yelich-brewers-beat-pirates-for-95th-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dbmopmxrrtjjwudfoqr5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-17T02:00:19+00:00",
+      "time_ago": "29m ago"
+    },
     {
       "title": "Astros prospect becomes first MiLB catcher with 30-30 season in 45 years!",
       "link": "https://www.mlb.com/news/astros-prospect-jason-schiavone-achieves-30-30-season",
@@ -11,8 +37,60 @@
       "author": "MLB.com staff",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-17T01:35:00+00:00",
-      "time_ago": "4m ago"
+      "pub_date": "2026-09-17T01:58:00+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "Snell's early exit (groin) puts damper on Dodgers' plans",
+      "link": "https://www.mlb.com/news/blake-snell-exits-start-against-reds-after-one-inning",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/svihonzwj6gybfmvhfs8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-17T01:52:00+00:00",
+      "time_ago": "37m ago"
+    },
+    {
+      "title": "Wheeler carves up Nats as Phillies get needed rotation boost",
+      "link": "https://www.mlb.com/news/zack-wheeler-throws-7-scoreless-innings-in-phillies-shutout-of-nationals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789610827/mlb/cfvisldcxx8kpilemqbb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bobby Blanco",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-17T01:48:55+00:00",
+      "time_ago": "40m ago"
+    },
+    {
+      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789591455/mlb/bgtip4siy3qk2yvgxwvw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-17T01:47:00+00:00",
+      "time_ago": "42m ago"
+    },
+    {
+      "title": "With 1st career blast, Salas becomes youngest backstop in 35 years to go deep",
+      "link": "https://www.mlb.com/news/ethan-salas-hits-first-career-home-run",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789608735/mlb/qggxhjnsvhwtn4figyh4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-17T01:46:12+00:00",
+      "time_ago": "43m ago"
     },
     {
       "title": "Rays watch Yankees lose, then pad AL East lead with 5th straight win",
@@ -25,85 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T01:21:14+00:00",
-      "time_ago": "17m ago"
-    },
-    {
-      "title": "Matthews shows what he looks like at his best, but can he do it more often?",
-      "link": "https://www.mlb.com/news/zebby-matthews-has-strong-start-in-twins-win-over-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cbhwre7o1sth9du85ojm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-17T00:11:25+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Here are the breakout prospects of the year -- one for each team",
-      "link": "https://www.mlb.com/news/one-breakout-prospect-from-each-mlb-club-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cmxxesj7wfgumccomatx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jonathan Mayo, Jim Callis and Sam Dykstra",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-16T23:45:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Snell exits start against Reds after one inning with groin tightness",
-      "link": "https://www.mlb.com/news/blake-snell-exits-start-against-reds-after-one-inning",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/svihonzwj6gybfmvhfs8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-16T23:26:56+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Holliday placed on IL with wrist inflammation, to be out at least until Yankees series",
-      "link": "https://www.mlb.com/news/jackson-holliday-orioles-injured-list-with-wrist-inflammation",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789599675/mlb/cuvao5cwmlntheuykvic",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-16T23:18:45+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "White Sox drop rubber game to Guardians, slip out of 1st place in AL Central",
-      "link": "https://www.mlb.com/news/white-sox-fall-out-of-first-place-after-loss-to-guardians",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jepupp61il2lbx5gphi2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Dulik",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-16T23:14:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Blue Jays beat Tigers but face tougher AL Wild Card path",
-      "link": "https://www.mlb.com/news/blue-jays-wild-card-race-win-tigers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/irkoe6eu5oi9ykbrj5bx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-16T23:07:00+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
