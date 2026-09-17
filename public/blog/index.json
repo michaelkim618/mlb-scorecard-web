@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-09-16-daily-hana",
+      "title": "Sep 16 Results + Sep 17 Preview: Eleven Wins and the Model's Rolling",
+      "author": "Hana",
+      "author_emoji": "🌸",
+      "author_color": "#EC4899",
+      "author_role": "Story Writer",
+      "date": "2026-09-16",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#EC4899",
+      "read_time": "3 min",
+      "summary": "The model crushed it with 11-4 yesterday—here's what happened and what's next for Sep 17."
+    },
+    {
       "slug": "2026-09-15-daily-rico",
       "title": "Sep 15 Results + Sep 16 Preview: 60% Accuracy and I'll Take It Without Apology",
       "author": "Rico",

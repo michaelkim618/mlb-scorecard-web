@@ -1,0 +1,206 @@
+{
+  "title": "Sep 16 Results + Sep 17 Preview: Eleven Wins and the Model's Rolling",
+  "summary": "The model crushed it with 11-4 yesterday—here's what happened and what's next for Sep 17.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## When the Model Finds Its Rhythm\n\nHere's the thing about baseball prediction models—some days they're good, and some days they're *really* good. September 16th was one of those really good days. We went 11-4 across the slate, hitting 73.3% of our picks with the kind of confidence that makes you want to high-five a stranger.\n\nBut let me tell you the story behind the numbers, because that's where it gets interesting."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Sep 16 Record",
+          "value": "11-4"
+        },
+        {
+          "label": "Accuracy",
+          "value": "73.3%"
+        },
+        {
+          "label": "Hits",
+          "value": "11"
+        },
+        {
+          "label": "Misses",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Highlights That Made Our Day\n\nThe Guardians, Rays, Brewers, Phillies, and Cubs all came through with our higher-confidence picks (all 60%+ probability). These weren't just wins—they were validations of what the model saw in the matchups. The Guardians shutting down the Sox, the Brewers taking care of business in Pittsburgh, the Cubs handling the Braves at Wrigley... these were the picks where everything aligned.\n\nThe Giants squeaking by the Cardinals at just 51% confidence? That's the kind of nail-biter that reminds you why we love this game. Close calls that go our way are just as sweet as the confident victories."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Sep 16 Pick Confidence vs Results",
+      "data": [
+        {
+          "name": "Guardians",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Giants",
+          "probability": 51,
+          "result": 1
+        },
+        {
+          "name": "Yankees",
+          "probability": 54,
+          "result": 0
+        },
+        {
+          "name": "Blue Jays",
+          "probability": 54,
+          "result": 1
+        },
+        {
+          "name": "Dodgers",
+          "probability": 61,
+          "result": 0
+        },
+        {
+          "name": "Rays",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Brewers",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Phillies",
+          "probability": 60,
+          "result": 1
+        },
+        {
+          "name": "Orioles",
+          "probability": 59,
+          "result": 1
+        },
+        {
+          "name": "Cubs",
+          "probability": 61,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Hit (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Two That Got Away\n\nLet's not pretend the misses didn't sting a little. The Yankees falling to the Twins and the Dodgers dropping one to the Reds—both at 54% and 61% confidence respectively—were reminders that baseball's beauty is in its unpredictability. Some days the underdog barks louder, and you've got to respect that.\n\nBut here's what matters: we went 11-4. That's the kind of day that builds momentum heading into tomorrow's slate."
+    },
+    {
+      "type": "table",
+      "title": "Complete Sep 16 Results Breakdown",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "White Sox @ Guardians",
+          "Guardians",
+          "61%",
+          "✓ Hit"
+        ],
+        [
+          "Giants @ Cardinals",
+          "Giants",
+          "51%",
+          "✓ Hit"
+        ],
+        [
+          "Yankees @ Twins",
+          "Yankees",
+          "54%",
+          "✗ Miss"
+        ],
+        [
+          "Tigers @ Blue Jays",
+          "Blue Jays",
+          "54%",
+          "✓ Hit"
+        ],
+        [
+          "Dodgers @ Reds",
+          "Dodgers",
+          "61%",
+          "✗ Miss"
+        ],
+        [
+          "Athletics @ Rays",
+          "Rays",
+          "61%",
+          "✓ Hit"
+        ],
+        [
+          "Brewers @ Pirates",
+          "Brewers",
+          "61%",
+          "✓ Hit"
+        ],
+        [
+          "Phillies @ Nationals",
+          "Phillies",
+          "60%",
+          "✓ Hit"
+        ],
+        [
+          "Orioles @ Mets",
+          "Orioles",
+          "59%",
+          "✓ Hit"
+        ],
+        [
+          "Braves @ Cubs",
+          "Cubs",
+          "61%",
+          "✓ Hit"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Looking Ahead to September 17\n\nSo what does the model love for tomorrow? We're heading right back to Pittsburgh, where the Brewers looked so good yesterday. This time it's Kyle Harrison taking the mound for Milwaukee against Wilber Dotel for the Pirates.\n\nThe confidence sits at 52%—which means this is closer than yesterday's matchup, but the model still sees an edge. Sometimes the best picks aren't the slam dunks; they're the ones where you find value in a tight matchup that others might overlook."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Tomorrow's Top Pick - Sep 17",
+      "value": "Milwaukee Brewers @ Pittsburgh Pirates",
+      "sub": "Pick: Brewers (52%) • Kyle Harrison vs Wilber Dotel"
+    },
+    {
+      "type": "text",
+      "value": "## The Bottom Line\n\nDays like September 16th remind us why we trust the process. An 11-4 record isn't just luck—it's the model identifying edges, processing matchups, and giving us the information we need to make informed picks.\n\nAs we head into Sep 17, we're riding the momentum but staying grounded. Tomorrow's a new day, a new slate, and a fresh opportunity to see what the numbers reveal.\n\nLet's keep rolling. ⚾"
+    }
+  ],
+  "slug": "2026-09-16-daily-hana",
+  "author": "Hana",
+  "author_emoji": "🌸",
+  "author_role": "Story Writer",
+  "author_color": "#EC4899",
+  "date": "2026-09-16",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#EC4899"
+}

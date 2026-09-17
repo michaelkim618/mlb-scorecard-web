@@ -2670,7 +2670,7 @@
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis(0.979)",
+            "Fernando Tatis Jr.(0.979)",
             "Dustin Harris(0.791)",
             "Manny Machado(0.773)",
             "Ty France(0.925)",
@@ -2683,7 +2683,7 @@
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis",
+              "name": "Fernando Tatis Jr.",
               "ops": 0.979,
               "avg": 0.366
             },
@@ -3427,7 +3427,7 @@
           "splits_used": false,
           "lineup_ops": [
             "Carter Jensen(0.849)",
-            "Bobby Witt(0.739)",
+            "Bobby Witt Jr.(0.739)",
             "Vinnie Pasquantino(0.720)",
             "Salvador Perez(0.685)",
             "Michael Massey(0.765)",
@@ -3445,7 +3445,7 @@
             },
             {
               "id": 677951,
-              "name": "Bobby Witt",
+              "name": "Bobby Witt Jr.",
               "ops": 0.739,
               "avg": 0.211
             },
@@ -6719,9 +6719,9 @@
     "model_winner": "Los Angeles Angels",
     "model_correct": null,
     "notes": "Minnesota Twins IL: Anthony Banda, Byron Buxton, Cole Sands, David Festa, Kaelen Culpepper 외 다수 / Los Angeles Angels IL: Anthony Rendon, George Klassen, Gustavo Campero, Jack Kochanowicz, Nolan Schanuel 외 다수",
-    "kalshi_prob": 46.0,
-    "edge": 8.6,
-    "value_bet": "⏭️ 패스 (박빙 경기 — 예측 신뢰도 낮음)",
+    "kalshi_prob": 48.0,
+    "edge": 6.6,
+    "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
