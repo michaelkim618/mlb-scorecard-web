@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-17T23:06:46.657204+00:00",
+  "updated_at": "2026-09-17T23:16:12.469118+00:00",
   "news": [
+    {
+      "title": "Here are 7 storylines to follow in the Arizona Fall League",
+      "link": "https://www.mlb.com/news/arizona-fall-league-storylines-to-follow-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ik7gbayrvhvw6jsprxqn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jim Callis, Jonathan Mayo & Rob Terranova",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-17T23:00:00+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "Amid brutal stretch, Harrison vows to keep fighting for October role",
       "link": "https://www.mlb.com/news/kyle-harrison-struggles-brewers-postseason-role",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T22:49:00+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "27m ago"
     },
     {
       "title": "Dodgers claim NL West crown for 13th time in past 14 years",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T22:37:00+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "39m ago"
     },
     {
       "title": "HR and triple ... in the same inning?! Bogaerts narrowly misses cycle on historic day",
@@ -38,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-17T22:36:44+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "39m ago"
     },
     {
       "title": "Padres stay red-hot to pad Wild Card lead",
@@ -51,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-17T22:23:54+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "Bucs take season series from Brewers, see blueprint for future",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T22:08:01+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "As Naylor gets his 1st Brewers HR, this young fan *almost* got the ball",
@@ -77,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-17T21:15:25+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Will Yankees' postseason first-timers prove to be ready for the moment?",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T20:51:40+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "6-run frame fuels 6th straight win as Rays extend AL East lead",
-      "link": "https://www.mlb.com/news/rays-sweep-athletics-inch-toward-al-east-title",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yvt4qfdczbhdrsdy2g0u",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-17T20:23:05+00:00",
       "time_ago": "2h ago"
     }
   ]

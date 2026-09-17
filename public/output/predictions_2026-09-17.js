@@ -1,4 +1,5 @@
-[
+// Auto-generated (scorecard) — 2026-09-17
+window.PREDICTIONS_DATA = [
   {
     "date": "2026-09-17",
     "status": "Final",
@@ -6648,4 +6649,4 @@
     "low_confidence_reason": "SP 점수 차이 4.9pt (≤5.0pt) / 최고 확률 55.1% (≤58.0%)",
     "model_version": "v14"
   }
-]
+];
