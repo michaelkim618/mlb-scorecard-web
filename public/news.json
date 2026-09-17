@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-17T16:51:40.762628+00:00",
+  "updated_at": "2026-09-17T17:34:38.332083+00:00",
   "news": [
+    {
+      "title": "Here are the breakout prospects of the year -- one for each team",
+      "link": "https://www.mlb.com/news/one-breakout-prospect-from-each-mlb-club-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cmxxesj7wfgumccomatx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jonathan Mayo, Jim Callis and Sam Dykstra",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-17T17:25:00+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Which under-the-radar relief ace could rule October?",
+      "link": "https://www.mlb.com/news/relievers-to-watch-in-2026-playoffs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/irf3xzh7inlep5gxnti2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mike Petriello",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-17T16:45:00+00:00",
+      "time_ago": "49m ago"
+    },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
       "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
@@ -12,7 +38,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-17T15:54:00+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "There's another young slugger climbing the Hitter Power Rankings",
@@ -25,7 +51,7 @@
       "tag": "Rankings",
       "tag_color": "#4F46E5",
       "pub_date": "2026-09-17T15:20:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Cijntje spins scoreless start, continuing dominant September",
@@ -38,7 +64,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T15:12:06+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "As Rose prepares to bid Mets adieu, he leaves massive imprint in franchise annals",
+      "link": "https://www.mlb.com/news/howie-rose-calling-final-mets-games-before-retirement",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gj0wr0quymuamhfvvnax",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-17T14:47:18+00:00",
+      "time_ago": "2h ago"
     },
     {
       "title": "How Mathews has turned his self-doubt into strong self-confidence in Majors",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T12:19:29+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "3 takeaways from Bernal’s immediate impact for Cardinals",
-      "link": "https://www.mlb.com/news/how-leo-bernal-s-emergence-shapes-cardinals-plans",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qdkg2zuq5bwm65mhyqv4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-17T11:40:50+00:00",
       "time_ago": "5h ago"
-    },
-    {
-      "title": "'The dude is an inspiration': Sandy's 1st career save has Marlins fired up",
-      "link": "https://www.mlb.com/news/sandy-alcantara-records-first-career-save-in-marlins-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hzberyes0mdcjpuezju1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Michael Reynolds",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-17T07:21:00+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "Salas youngest catcher in MLB history to hit 2 HRs in a game -- and they were his 1st!",
-      "link": "https://www.mlb.com/news/ethan-salas-hits-first-career-home-run",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/d0outao04ao4wnz6b08d",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-17T05:28:00+00:00",
-      "time_ago": "11h ago"
     }
   ]
 }
