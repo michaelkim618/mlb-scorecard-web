@@ -1,70 +1,83 @@
 {
-  "updated_at": "2026-09-17T02:29:24.660172+00:00",
+  "updated_at": "2026-09-17T03:39:50.982311+00:00",
   "news": [
     {
-      "title": "Alonso uncorks another long ball to help complete sweep, heartfelt visit to Queens",
-      "link": "https://www.mlb.com/news/orioles-remain-in-wild-card-race-with-four-hr-game-vs-mets",
-      "summary": "Baltimore 2 1/2 games behind White Sox in AL Wild Card standings after 4-HR effort",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zqeakwfwashfecsyreau",
+      "title": "Holliday placed on IL with wrist inflammation, to be out at least until Yankees series",
+      "link": "https://www.mlb.com/news/jackson-holliday-orioles-injured-list-with-wrist-inflammation",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789599675/mlb/cuvao5cwmlntheuykvic",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Jake Rill",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-17T03:31:00+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "De La Cruz continues to own the Dodgers, inches closer to 30-30 season",
+      "link": "https://www.mlb.com/news/elly-de-la-cruz-eyes-first-30-30-season-of-career",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xp4lrgcxj5txsf0fjrkh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Sheldon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-17T03:26:41+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Salas' 1st 2 career HRs make him youngest backstop in MLB history to do so in a game",
+      "link": "https://www.mlb.com/news/ethan-salas-hits-first-career-home-run",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/d0outao04ao4wnz6b08d",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
       "tag": "Highlight",
       "tag_color": "#D97706",
-      "pub_date": "2026-09-17T02:13:24+00:00",
-      "time_ago": "16m ago"
+      "pub_date": "2026-09-17T03:26:00+00:00",
+      "time_ago": "13m ago"
     },
     {
-      "title": "Crew follows up clinch with MLB-best 95th win",
-      "link": "https://www.mlb.com/news/christian-yelich-brewers-beat-pirates-for-95th-win",
+      "title": "Rare bullpen lapse undoes Contreras' early blast in Red Sox's loss",
+      "link": "https://www.mlb.com/news/red-sox-bullpen-loss-rangers",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dbmopmxrrtjjwudfoqr5",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gfki3jjmb3shghwvjzg4",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Adam McCalvy",
+      "author": "Perla Paredes",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-17T02:00:19+00:00",
-      "time_ago": "29m ago"
+      "pub_date": "2026-09-17T03:07:39+00:00",
+      "time_ago": "32m ago"
     },
     {
-      "title": "Astros prospect becomes first MiLB catcher with 30-30 season in 45 years!",
-      "link": "https://www.mlb.com/news/astros-prospect-jason-schiavone-achieves-30-30-season",
+      "title": "Eovaldi's relief outing results in win backed by seventh-inning rally",
+      "link": "https://www.mlb.com/news/nathan-eovaldi-pitches-four-relief-innings-in-rangers-win",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789607411/mlb/sukmst5wfldawgjis5iv",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ahnpxdxtuvr2znnweobo",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "MLB.com staff",
+      "author": "Kennedi Landry",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-17T01:58:00+00:00",
-      "time_ago": "31m ago"
+      "pub_date": "2026-09-17T03:03:12+00:00",
+      "time_ago": "36m ago"
     },
     {
-      "title": "Snell's early exit (groin) puts damper on Dodgers' plans",
-      "link": "https://www.mlb.com/news/blake-snell-exits-start-against-reds-after-one-inning",
+      "title": "Los Angeles Queens take Game 1 of WPBL championship behind Jamie Mackay's relief work",
+      "link": "https://www.mlb.com/news/queens-win-game-1-wpbl-championship-series",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/svihonzwj6gybfmvhfs8",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fkc71jnvvbrkbtlv2piy",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Sonja Chen",
+      "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-17T01:52:00+00:00",
-      "time_ago": "37m ago"
-    },
-    {
-      "title": "Wheeler carves up Nats as Phillies get needed rotation boost",
-      "link": "https://www.mlb.com/news/zack-wheeler-throws-7-scoreless-innings-in-phillies-shutout-of-nationals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789610827/mlb/cfvisldcxx8kpilemqbb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bobby Blanco",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-17T01:48:55+00:00",
-      "time_ago": "40m ago"
+      "pub_date": "2026-09-17T03:01:00+00:00",
+      "time_ago": "38m ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -76,34 +89,21 @@
       "author": "",
       "tag": "Standings",
       "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-17T01:47:00+00:00",
-      "time_ago": "42m ago"
+      "pub_date": "2026-09-17T02:51:00+00:00",
+      "time_ago": "48m ago"
     },
     {
-      "title": "With 1st career blast, Salas becomes youngest backstop in 35 years to go deep",
-      "link": "https://www.mlb.com/news/ethan-salas-hits-first-career-home-run",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789608735/mlb/qggxhjnsvhwtn4figyh4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-17T01:46:12+00:00",
-      "time_ago": "43m ago"
-    },
-    {
-      "title": "Rays watch Yankees lose, then pad AL East lead with 5th straight win",
+      "title": "Rays watch Yankees lose ... then pad AL East lead with 5th straight win",
       "link": "https://www.mlb.com/news/rays-extend-al-east-lead-over-yankees-with-5th-straight-win",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/al0h229khmfvcnfdtzcn",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789615238/mlb/excrmhtvkznzbvy0pqi9",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Adam Berry",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-17T01:21:14+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-09-17T02:44:00+00:00",
+      "time_ago": "55m ago"
     }
   ]
 }
