@@ -14089,6 +14089,30 @@
       "away_bp_score": 53.8,
       "home_bp_score": 37.2,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-17",
+      "away": "Milwaukee Brewers",
+      "home": "Pittsburgh Pirates",
+      "game_number": 1,
+      "pick": "Milwaukee Brewers",
+      "pick_prob": 52.0,
+      "actual_winner": "Pittsburgh Pirates",
+      "away_score": 4,
+      "home_score": 7,
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 6.75,
+      "home_sp_era": 3.71,
+      "away_bp_era": 2.95,
+      "home_bp_era": 3.88,
+      "away_sp_score": 36.0,
+      "home_sp_score": 22.0,
+      "away_bp_score": 74.0,
+      "home_bp_score": 42.0,
+      "bat_source": "lineup"
     }
   ]
 }
