@@ -1021,7 +1021,7 @@ window.PREDICTIONS_DATA = [
             {
               "code": "SI",
               "abbr": "SI",
-              "pct": 39.1,
+              "pct": 39.0,
               "velo": 91.5
             },
             {
@@ -1039,7 +1039,7 @@ window.PREDICTIONS_DATA = [
             {
               "code": "FF",
               "abbr": "FB",
-              "pct": 9.7,
+              "pct": 9.8,
               "velo": 92.2
             },
             {
@@ -3396,8 +3396,8 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Tampa Bay Rays",
     "model_correct": null,
     "notes": "Boston Red Sox IL: Anthony Seigler, Ceddanne Rafaela, Curtis Mead, Eduardo Rivera, Eli White 외 다수 / Tampa Bay Rays IL: Ben Williamson, Edwin Uceta, Garrett Cleavinger, Gavin Lux, Jonathan Heasley 외 다수",
-    "kalshi_prob": 54.0,
-    "edge": 7.4,
+    "kalshi_prob": 55.0,
+    "edge": 6.4,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,

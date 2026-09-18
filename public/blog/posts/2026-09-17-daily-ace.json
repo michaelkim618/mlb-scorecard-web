@@ -1,28 +1,36 @@
 {
-  "title": "Sep 17 Results + Sep 18 Preview: Five Wins, Four Lessons",
-  "summary": "Sep 17 went 5-4 with 55.6% accuracy. Breaking down what worked and tomorrow's Reds pick.",
+  "title": "Sep 17 Results + Sep 18 Preview: Solid Night, But Those Coinflips Hurt",
+  "summary": "5-4 on Sep 17 with strong favorites hitting. Tomorrow we're backing Burns in Cincy.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Sep 17 Results: Middle of the Order Production\n\nFrom a pitcher's perspective, going 5-4 on the day is like getting through six innings with a quality start—not dominant, but you kept your team in the game. We hit on our higher-confidence plays and learned from the tight ones that didn't break our way."
+      "value": "## Sep 17 Results: The Strong Plays Delivered\n\nFrom a pitcher's perspective, yesterday was a tale of two confidence levels. We went 5-4 overall, but here's what really matters—our high-confidence picks (60%+) went 4-0. Perfect. The losses? All came on virtual coinflips at 50-52%. That's baseball, and I'll take that split every time when the strong plays cash."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Today W-L",
+          "label": "Overall Record",
           "value": "5-4"
         },
         {
-          "label": "Accuracy",
+          "label": "Win Rate",
           "value": "55.6%"
         },
         {
-          "label": "High Confidence Hits",
-          "value": "3-3"
+          "label": "High Confidence",
+          "value": "4-0"
+        },
+        {
+          "label": "Coinflips",
+          "value": "1-4"
         }
       ]
+    },
+    {
+      "type": "text",
+      "value": "## What Worked\n\nThe Astros at 63% was the cleanest call of the night. When you've got that kind of pitching edge and home field, good things happen. Same story with the Padres in Coors—we trusted the better arms, and they delivered. The Rays and Angels picks both hit at 61%, validating the model's read on those matchups.\n\nThe Sox over the Rangers at 61% was another validation of trusting starting pitching advantage in a hostile road environment."
     },
     {
       "type": "chart",
@@ -32,16 +40,6 @@
         {
           "name": "Astros",
           "probability": 63,
-          "result": 1
-        },
-        {
-          "name": "Sox",
-          "probability": 61,
-          "result": 1
-        },
-        {
-          "name": "Angels",
-          "probability": 61,
           "result": 1
         },
         {
@@ -55,13 +53,23 @@
           "result": 1
         },
         {
-          "name": "Tigers",
-          "probability": 51,
-          "result": 0
+          "name": "Sox",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Angels",
+          "probability": 61,
+          "result": 1
         },
         {
           "name": "Brewers",
           "probability": 52,
+          "result": 0
+        },
+        {
+          "name": "Tigers",
+          "probability": 51,
           "result": 0
         },
         {
@@ -91,11 +99,11 @@
     },
     {
       "type": "table",
-      "title": "Full Sep 17 Game Results",
+      "title": "Complete Sep 17 Results",
       "headers": [
-        "Game",
+        "Matchup",
         "Pick",
-        "Prob",
+        "Confidence",
         "Result"
       ],
       "rows": [
@@ -103,76 +111,76 @@
           "Royals @ Astros",
           "Astros",
           "63%",
-          "✓"
-        ],
-        [
-          "Athletics @ Rays",
-          "Rays",
-          "61%",
-          "✓"
+          "✓ Hit"
         ],
         [
           "Padres @ Rockies",
           "Padres",
           "61%",
-          "✓"
+          "✓ Hit"
+        ],
+        [
+          "Athletics @ Rays",
+          "Rays",
+          "61%",
+          "✓ Hit"
         ],
         [
           "Sox @ Rangers",
           "Sox",
           "61%",
-          "✓"
+          "✓ Hit"
         ],
         [
           "Twins @ Angels",
           "Angels",
           "61%",
-          "✓"
+          "✓ Hit"
         ],
         [
           "Brewers @ Pirates",
           "Brewers",
           "52%",
-          "✗"
+          "✗ Miss"
         ],
         [
           "Tigers @ Sox",
           "Tigers",
           "51%",
-          "✗"
+          "✗ Miss"
         ],
         [
           "Dodgers @ Reds",
           "Reds",
           "50%",
-          "✗"
+          "✗ Miss"
         ],
         [
           "Phillies @ Mets",
           "Mets",
           "50%",
-          "✗"
+          "✗ Miss"
         ]
       ]
     },
     {
       "type": "text",
-      "value": "## What Worked: Trusting the Strong Reads\n\nWhen we had conviction above 60%, we went perfect—3 for 3. The Astros, Rays, Padres, White Sox, and Angels all came through when the model saw clear edges. That's the difference between a coin flip and a calculated pitch selection. You don't throw your best stuff when you're unsure which corner to hit.\n\nThe four misses? All came on picks below 52% confidence. Those are the 50-50 games where one mistake changes everything. I've been on the mound in those situations—sometimes you execute perfectly and still give up a hit."
+      "value": "## The Misses: Coinflip Territory\n\nLook, I'm not losing sleep over going 1-4 on picks between 50-52%. These were essentially tosses where the model saw marginal edges. The Brewers-Pirates game at 52%? That's telling you it's a pick-em. Same with Tigers-Sox at 51%. The Reds and Mets picks both sat at exactly 50%—dead even.\n\nThis is where discipline matters. We report what the model sees, even when it's saying 'this one could go either way.' The bankroll damage comes from treating a 50% play like it's a lock. It's not."
     },
     {
       "type": "text",
-      "value": "## Tomorrow's Top Pick Preview: Reds vs Cubs\n\nSep 18 brings an interesting matchup at Great American Ball Park. The Cubs send Clay Holmes to the mound against the Reds' Chase Burns. This one's sitting at 50% confidence for Cincinnati, which tells me we're looking at another tight contest.\n\nFrom a pitcher's perspective, Holmes has made the transition from the bullpen, but there are always adjustment periods. Burns at home in a hitter-friendly park creates leverage opportunities. The Reds' lineup gets extra chances in that ballpark—every mistake gets amplified."
+      "value": "## Sep 18 Preview: Chase Burns Gets the Nod\n\nTomorrow's top pick is the Reds at home against the Cubs. Yeah, it's another 50% play—essentially a coinflip—but here's why I'm interested: Chase Burns on the bump for Cincinnati.\n\nClay Holmes goes for the Cubs, and while he's been serviceable as a starter after years in the bullpen, Burns has that electric stuff that can dominate when he's on. At Great American Ball Park, it becomes a question of which pitcher can limit damage, and I'm trusting the home arm with the higher upside."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Tomorrow's Top Pick - Sep 18",
       "value": "Cincinnati Reds vs Chicago Cubs",
-      "sub": "50% confidence · Holmes vs Burns · Home field advantage"
+      "sub": "50% confidence · Burns vs Holmes · Home field edge"
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nSep 17 showed us what we already know from years on the mound: trust your best stuff when you have high confidence, and stay disciplined on the 50-50 calls. Going 5-4 keeps you in the rotation. Tomorrow's Reds pick is another tight one, but we're calling our pitch and executing.\n\nStay locked in for Sep 18. Let's build on what worked."
+      "value": "## The Pitcher's Take\n\nBurns has the kind of arm that makes hitters uncomfortable. Holmes has reinvented himself as a starter, but there's always that question of how deep he can go and what happens the third time through the order. \n\nIn a ballpark that rewards contact and punishes mistakes, I'm leaning toward the guy with swing-and-miss stuff. It's not a strong lean—the 50% tells you that—but it's enough for me to back the Reds at home.\n\nThe September stretch is all about finding edges where you can. Yesterday we found them in the high-confidence plays. Tomorrow we're trusting a home starter with nasty stuff in what the model sees as a dead even game.\n\nThat's how you grind through a season. Trust the process, respect the percentages, and don't chase losses on coinflips.\n\n— Ace"
     }
   ],
   "slug": "2026-09-17-daily-ace",
