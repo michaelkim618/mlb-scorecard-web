@@ -5506,11 +5506,11 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 60.6,
-      "home": 39.4
+      "away": 60.4,
+      "home": 39.6
     },
     "expected_score": {
-      "away": 1.8,
+      "away": 1.7,
       "home": 2.4
     },
     "blend_detail": null,
@@ -5780,15 +5780,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 56.2,
+        "bp_score": 61.4,
         "bp_detail": {
-          "bullpen_era": 3.51,
-          "recent_era": 5.17,
-          "recent_appearances": 16,
-          "recent_ip": 15.7,
-          "team_era": 3.89,
-          "bp_ip": 266.3,
-          "bp_count": 7,
+          "bullpen_era": 3.1,
+          "recent_era": 4.8,
+          "recent_appearances": 15,
+          "recent_ip": 15.0,
+          "team_era": 3.81,
+          "bp_ip": 229.3,
+          "bp_count": 6,
           "closer_era": 2.11,
           "closer_name": "Jacob Latz"
         },
@@ -5888,14 +5888,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 54.0,
-        "total": 46.0
+        "total": 47.3
       }
     },
     "scores": {
       "away_offense": 25.0,
       "away_defense": 66.1,
       "home_offense": 38.3,
-      "home_defense": 44.3
+      "home_defense": 46.9
     },
     "actual_score": {
       "away": 4,
@@ -6265,12 +6265,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 39.4,
-      "home": 60.6
+      "away": 40.0,
+      "home": 60.0
     },
     "expected_score": {
       "away": 1.6,
-      "home": 1.9
+      "home": 1.8
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -6458,7 +6458,7 @@ window.PREDICTIONS_DATA = [
         "total": 41.4
       },
       "home": {
-        "sp_score": 70.1,
+        "sp_score": 69.6,
         "sp_detail": {
           "era": 2.68,
           "whip": 1.05,
@@ -6517,7 +6517,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 44.0,
+        "bp_score": 43.7,
         "bp_detail": {
           "bullpen_era": 4.02,
           "recent_era": 4.37,
@@ -6529,7 +6529,7 @@ window.PREDICTIONS_DATA = [
           "closer_era": 4.4,
           "closer_name": "Ben Joyce"
         },
-        "bat_score": 26.0,
+        "bat_score": 25.0,
         "bat_detail": {
           "recent_avg": 0.265,
           "runs_per_g": 4.2,
@@ -6625,14 +6625,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 45.1,
-        "total": 49.6
+        "total": 49.1
       }
     },
     "scores": {
       "away_offense": 25.0,
       "away_defense": 46.4,
-      "home_offense": 26.0,
-      "home_defense": 57.0
+      "home_offense": 25.0,
+      "home_defense": 56.6
     },
     "actual_score": {
       "away": 4,
@@ -6648,7 +6648,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "Los Angeles Angels",
     "model_winner": "Los Angeles Angels",
     "model_correct": true,
-    "notes": "Minnesota Twins IL: Anthony Banda, Byron Buxton, Cole Sands, David Festa, Kaelen Culpepper 외 다수 / Los Angeles Angels IL: Anthony Rendon, George Klassen, Gustavo Campero, Jack Kochanowicz, Nolan Schanuel 외 다수",
+    "notes": "Minnesota Twins IL: Anthony Banda, Byron Buxton, Cole Sands, David Festa, Kaelen Culpepper 외 다수 / Los Angeles Angels IL: Anthony Rendon, George Klassen, Gustavo Campero, Jack Kochanowicz, Kyren Paris 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
