@@ -1,18 +1,31 @@
 {
-  "updated_at": "2026-09-17T23:48:03.792819+00:00",
+  "updated_at": "2026-09-18T00:31:27.899567+00:00",
   "news": [
     {
-      "title": "Montgomery (wrist) out of White Sox lineup while recovering from HBP",
-      "link": "https://www.mlb.com/news/colson-montgomery-white-sox-lineup-tigers",
-      "summary": "Castillo makes move to bullpen for final stretch of regular season",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e1oikhgtiezpc9drdqpj",
+      "title": "Nats in extension talks with ace Cavalli (source)",
+      "link": "https://www.mlb.com/news/cade-cavalli-contract-extension-with-nationals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/r3jkqg9e0wn3kgj3lyfs",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-17T23:34:21+00:00",
-      "time_ago": "13m ago"
+      "author": "Jessica Camerato",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-18T00:11:24+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "'We took care of business': Padres head home sitting pretty in NL Wild Card race",
+      "link": "https://www.mlb.com/news/padres-beat-rockies-gain-in-nl-wild-card-chase",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ekpr8keyecvjzostjcgp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-17T23:29:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "6 numbers that define Rays' 6th straight win in bid for AL East title",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T23:12:00+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Here are 7 storylines to follow in the Arizona Fall League",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T23:00:00+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Amid brutal stretch, Harrison vows to keep fighting for October role",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T22:49:00+00:00",
-      "time_ago": "59m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Dodgers claim NL West crown for 13th time in past 14 years",
@@ -80,19 +93,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Padres stay red-hot to pad Wild Card lead",
-      "link": "https://www.mlb.com/news/padres-beat-rockies-gain-in-nl-wild-card-chase",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ekpr8keyecvjzostjcgp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-17T22:23:54+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Bucs take season series from Brewers, see blueprint for future",
       "link": "https://www.mlb.com/news/pirates-win-season-series-brewers-first-time-since-2018",
       "summary": "",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T22:08:01+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
