@@ -1,103 +1,37 @@
 {
-  "title": "Sep 17 Results + Sep 18 Preview: Model Found Its Rhythm in the Middle Innings",
-  "summary": "5-4 day with strong favorites hitting. Tomorrow we're backing Burns in Cincy.",
+  "title": "Sep 17 Results + Sep 18 Preview: Solid Ground-Ball Contact",
+  "summary": "5-4 on Wednesday with strong favorites hitting. Thursday's Top Pick breakdown inside.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Sep 17: Solid Contact, Mixed Results\n\nFrom a pitcher's perspective, yesterday was like working through a lineup the second time around—you figure some things out. We went 5-4 with a 55.6% hit rate, and honestly, that's the kind of day where the process matters more than perfection. The higher-confidence picks came through when we needed them."
+      "value": "## Sep 17: Executing the Game Plan\n\nFrom the mound, you learn quick—some days your best pitch gets crushed, other days a hanging curve finds the corner. Wednesday was a 5-4 performance, hitting 55.6% of our picks. Not dominant, but we got the high-leverage calls right when it mattered."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Record",
+          "label": "Wednesday W-L",
           "value": "5-4"
         },
         {
-          "label": "Win Rate",
+          "label": "Hit Rate",
           "value": "55.6%"
         },
         {
-          "label": "Best Pick",
+          "label": "Best Confidence",
           "value": "63%"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## What Worked on the Mound\n\nOur three 61%+ confidence plays all cashed. That's execution when it counts—like throwing your fastball in a hitter's count and getting the swing-and-miss. The Astros, Padres, and Rays picks showed why trusting your best stuff pays off. The Angels pick at 61% was the fifth winner, giving us solid depth beyond the top tier."
-    },
-    {
-      "type": "table",
-      "title": "Sep 17 Full Results",
-      "headers": [
-        "Matchup",
-        "Our Pick",
-        "Confidence",
-        "Result"
-      ],
-      "rows": [
-        [
-          "Royals @ Astros",
-          "Astros",
-          "63%",
-          "✓"
-        ],
-        [
-          "Sox @ Rangers",
-          "White Sox",
-          "61%",
-          "✓"
-        ],
-        [
-          "Padres @ Rockies",
-          "Padres",
-          "61%",
-          "✓"
-        ],
-        [
-          "Athletics @ Rays",
-          "Rays",
-          "61%",
-          "✓"
-        ],
-        [
-          "Twins @ Angels",
-          "Angels",
-          "61%",
-          "✓"
-        ],
-        [
-          "Brewers @ Pirates",
-          "Brewers",
-          "52%",
-          "✗"
-        ],
-        [
-          "Tigers @ Red Sox",
-          "Tigers",
-          "51%",
-          "✗"
-        ],
-        [
-          "Dodgers @ Reds",
-          "Reds",
-          "50%",
-          "✗"
-        ],
-        [
-          "Phillies @ Mets",
-          "Mets",
-          "50%",
-          "✗"
-        ]
-      ]
+      "value": "## The Breakdown: What Worked\n\nOur highest-confidence plays delivered. The Astros (63%), Padres (61%), Rays (61%), White Sox (61%), and Angels (61%) all came through. That's the kind of command you want—when you trust your fastball, you throw it with conviction. These weren't coin flips; they were calculated reads of the matchup, and the model saw what I see from experience: exploitable weaknesses in the opposing lineups and pitching edges."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 17 Picks by Confidence Level",
+      "title": "Sep 17 Prediction Results by Confidence",
       "data": [
         {
           "name": "Astros",
@@ -105,7 +39,12 @@
           "result": 1
         },
         {
-          "name": "White Sox",
+          "name": "Angels",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Sox",
           "probability": 61,
           "result": 1
         },
@@ -120,18 +59,13 @@
           "result": 1
         },
         {
-          "name": "Angels",
-          "probability": 61,
-          "result": 1
-        },
-        {
-          "name": "Brewers",
-          "probability": 52,
+          "name": "Tigers",
+          "probability": 51,
           "result": 0
         },
         {
-          "name": "Tigers",
-          "probability": 51,
+          "name": "Mets",
+          "probability": 50,
           "result": 0
         },
         {
@@ -140,8 +74,8 @@
           "result": 0
         },
         {
-          "name": "Mets",
-          "probability": 50,
+          "name": "Brewers",
+          "probability": 52,
           "result": 0
         }
       ],
@@ -155,28 +89,94 @@
         {
           "key": "result",
           "color": "#16A34A",
-          "label": "Hit (1=Yes, 0=No)"
+          "label": "Correct (1=Yes, 0=No)"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Misses: Coin Flips Don't Always Land Your Way\n\nAll four losses came on picks between 50-52% confidence. That's essentially pitcher's duel territory—could go either way. The Mets, Reds, Tigers, and Brewers didn't come through, but when you're picking games that tight, you expect some variance. No pitcher wins every 3-2 count."
+      "value": "## Where We Missed\n\nThe four misses? All close-call games—Brewers (52%), Tigers (51%), Mets (50%), Reds (50%). These were essentially toss-ups, the baseball equivalent of a 2-2 count with runners on. You make your pitch and live with the result. The Brewers and Tigers were barely above 50%, and the Mets-Reds picks were dead even. That's baseball. You can't strike out every batter."
+    },
+    {
+      "type": "table",
+      "title": "Complete Sep 17 Results",
+      "headers": [
+        "Game",
+        "Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Royals @ Astros",
+          "Astros",
+          "63%",
+          "✓ Hit"
+        ],
+        [
+          "Twins @ Angels",
+          "Angels",
+          "61%",
+          "✓ Hit"
+        ],
+        [
+          "Sox @ Rangers",
+          "Sox",
+          "61%",
+          "✓ Hit"
+        ],
+        [
+          "Padres @ Rockies",
+          "Padres",
+          "61%",
+          "✓ Hit"
+        ],
+        [
+          "Athletics @ Rays",
+          "Rays",
+          "61%",
+          "✓ Hit"
+        ],
+        [
+          "Brewers @ Pirates",
+          "Brewers",
+          "52%",
+          "✗ Miss"
+        ],
+        [
+          "Tigers @ Sox",
+          "Tigers",
+          "51%",
+          "✗ Miss"
+        ],
+        [
+          "Phillies @ Mets",
+          "Mets",
+          "50%",
+          "✗ Miss"
+        ],
+        [
+          "Dodgers @ Reds",
+          "Reds",
+          "50%",
+          "✗ Miss"
+        ]
+      ]
     },
     {
       "type": "text",
-      "value": "## Sep 18 Preview: Eyes on Great American Ball Park\n\nTomorrow's top pick brings us to Cincinnati where the Reds host the Cubs. From the mound, this matchup is interesting—Clay Holmes making the start for Chicago against Chase Burns for the home squad."
+      "value": "## Sep 18 Preview: Reds Host the Cubs\n\nThursday's top pick brings us to Cincinnati, where the Reds welcome the Cubs. The model likes Cincinnati at 50%—another tight one, but let me tell you what I'm seeing from a pitcher's perspective.\n\n**Clay Holmes** takes the ball for Chicago. Holmes made his name as a reliever with that sinker-slider combo, generating ground balls at an elite rate. But stretched out as a starter? That's a different animal. Command becomes critical over multiple innings, and even the best relievers can lose their edge the third time through a lineup.\n\n**Chase Burns** counters for Cincinnati. Burns has electric stuff when he's on—the kind of arm that can rack up swings and misses in bunches. The question is always consistency and how deep he can go. If he's locating early, the Cubs' lineup could be in for a long night."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - Sep 18",
+      "title": "⭐ Thursday's Top Pick",
       "value": "Cincinnati Reds over Chicago Cubs",
-      "sub": "50% confidence · Burns vs Holmes · Great American Ball Park"
+      "sub": "50% confidence · Clay Holmes vs Chase Burns · Home field edge"
     },
     {
       "type": "text",
-      "value": "## The Pitching Matchup\n\nHolmes transitioning to starter duty for the Cubs faces Burns, who's got home cooking at Great American. This is a 50% confidence call, which tells me it's another tight one. But there's value in backing the home arm who knows his ballpark. Burns has the advantage of familiarity—he knows how the ball carries in Cincinnati, where the wind's coming from, and how to work that short porch in right.\n\nHolmes has been solid, but starting versus relieving is a different animal. You're facing the lineup multiple times, can't just air it out for one inning. That adjustment factor gives me enough to lean Reds.\n\n## The Ace Take\n\nYesterday proved the model knows when to trust its convictions. Five wins on a nine-game card keeps you in the rotation. Tomorrow's a coin flip game, but I'll take the home pitcher with his regular routine over the reliever-turned-starter experiment.\n\nTrust your stuff, and we'll see you after first pitch."
+      "value": "## The Pitcher's Take\n\nThis matchup screams bullpen game potential. Holmes in a starting role is still an experiment, and Burns needs to prove he can give Cincinnati length. I'm leaning Reds because of the home environment and the fact that Burns' ceiling is higher in this spot. When you're facing a converted closer, you attack early and force him to execute in high-stress counts.\n\nIt's a 50-50 game on paper, but Great American Ball Park plays differently when you know how to use it. Give me the Reds on Thursday.\n\n**–Ace**"
     }
   ],
   "slug": "2026-09-17-daily-ace",
