@@ -10237,8 +10237,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 38.8,
-      "home": 61.2
+      "away": 40.6,
+      "home": 59.4
     },
     "expected_score": {
       "away": 2.3,
@@ -10435,14 +10435,14 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 53.5,
+        "bp_score": 47.2,
         "bp_detail": {
-          "bullpen_era": 3.39,
-          "recent_era": 5.59,
-          "recent_appearances": 19,
-          "recent_ip": 19.3,
-          "team_era": 3.13,
-          "bp_ip": 286.3,
+          "bullpen_era": 3.78,
+          "recent_era": 7.04,
+          "recent_appearances": 18,
+          "recent_ip": 15.3,
+          "team_era": 3.25,
+          "bp_ip": 288.3,
           "bp_count": 8,
           "closer_era": 2.87,
           "closer_name": "Tanner Scott"
@@ -10488,14 +10488,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 65.7,
-        "total": 53.9
+        "total": 52.2
       }
     },
     "scores": {
       "away_offense": 34.2,
       "away_defense": 39.1,
       "home_offense": 41.0,
-      "home_defense": 51.1
+      "home_defense": 48.0
     },
     "actual_score": {
       "away": null,
