@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-18T23:24:25.316047+00:00",
+  "updated_at": "2026-09-18T23:44:21.838642+00:00",
   "news": [
+    {
+      "title": "Injuries: Judge, Dodgers, Red Sox, McClanahan, Guardians",
+      "link": "https://www.mlb.com/news/baseball-injury-updates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mzqcfeqxuo1wmigw9boe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-18T23:34:00+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "Positive news on Contreras, Chapman tops list of injury updates",
+      "link": "https://www.mlb.com/news/willson-contreras-day-to-day-hit-by-pitch-on-hand",
+      "summary": "Rafaela, Crochet, Houck are all making progress toward returns",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/h4plagebdkmacbopgo7x",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-18T23:26:20+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Bowlan to avoid IL in order to boast Phils' bullpen in October",
+      "link": "https://www.mlb.com/news/jonathan-bowlan-has-mild-right-groin-strain",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c6cza12srfgxfwtsosyy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-18T23:05:41+00:00",
+      "time_ago": "38m ago"
+    },
+    {
+      "title": "Windy City Wizard works magic with milestone first throw in recovery process",
+      "link": "https://www.mlb.com/news/mike-vasil-throws-for-first-time-since-tommy-john-surgery",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789771644/mlb/d3kviufujwowbw3scwsh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-18T23:01:13+00:00",
+      "time_ago": "43m ago"
+    },
+    {
+      "title": "Holderman exits Triple-A rehab outing due to right wrist pain",
+      "link": "https://www.mlb.com/news/colin-holderman-exits-rehab-outing-with-triple-a-columbus",
+      "summary": "Armstrong nearing return, set for another appearance with Columbus",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zvp6ntj3xd7bdiecjusw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-18T22:35:35+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Swanson returns from left oblique strain for Cubs' final stretch",
       "link": "https://www.mlb.com/news/dansby-swanson-returns-from-injured-list-for-cubs",
@@ -12,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-18T22:29:12+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Watch LIVE: MLB's No. 3 prospect Arias (BOS) digs in vs. Isaac (TB) at Triple-A",
@@ -39,71 +104,6 @@
       "tag_color": "#DC2626",
       "pub_date": "2026-09-18T21:48:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Toboni makes statement move with extension of ace Cavalli",
-      "link": "https://www.mlb.com/news/cade-cavalli-contract-extension-with-nationals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/r3jkqg9e0wn3kgj3lyfs",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jessica Camerato",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-18T21:46:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Young out for season, but avoids serious injury after 'terrifying' collision with McLean",
-      "link": "https://www.mlb.com/news/jared-young-injured-in-collision-with-nolan-mclean",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/may2wihvni4cxs4vvmuk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-18T21:38:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Red Sox, Rays begin tough stretch run against each other in key series",
-      "link": "https://www.mlb.com/news/red-sox-rays-series-preview-september-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/knzlwrm0mfnkvswwyipw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry and Perla Paredes",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-18T21:06:23+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Reds claim versatile Cabrera off waivers, eye potential role for him in 2027",
-      "link": "https://www.mlb.com/news/oswaldo-cabrera-reds-waiver-claim-yankees",
-      "summary": "Garcia heads to IL for elbow surgery amid flurry of roster moves",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/orzd3njmackejythzme3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-18T21:01:42+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Phillies-Mets, Giants-Dodgers rivalries renewed on Apple TV amid playoff push",
-      "link": "https://www.mlb.com/news/friday-night-baseball-on-apple-tv-for-2026-mlb-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dk1ildpimck5roexbaly",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-18T20:07:00+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
