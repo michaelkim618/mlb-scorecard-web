@@ -1899,14 +1899,14 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 42.5,
+        "bp_score": 42.9,
         "bp_detail": {
-          "bullpen_era": 4.51,
-          "recent_era": 3.7,
-          "recent_appearances": 24,
+          "bullpen_era": 4.78,
+          "recent_era": 2.96,
+          "recent_appearances": 23,
           "recent_ip": 24.3,
-          "team_era": 5.15,
-          "bp_ip": 335.0,
+          "team_era": 5.25,
+          "bp_ip": 365.3,
           "bp_count": 10,
           "closer_era": 3.34,
           "closer_name": "Hogan Harris"
@@ -2189,7 +2189,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 15.0,
-      "away_defense": 37.1,
+      "away_defense": 37.3,
       "home_offense": 44.1,
       "home_defense": 73.5
     },
