@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-18T00:31:27.899567+00:00",
+  "updated_at": "2026-09-18T00:56:59.547451+00:00",
   "news": [
+    {
+      "title": "'Have a drink, Junior.' Even opponents recognize how hard Caminero is hustling",
+      "link": "https://www.mlb.com/news/junior-caminero-offered-cup-of-water-from-a-s-bullpen",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zouccjagz0ldlc4rhm0d",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brent Maguire",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-18T00:31:30+00:00",
+      "time_ago": "25m ago"
+    },
     {
       "title": "Nats in extension talks with ace Cavalli (source)",
       "link": "https://www.mlb.com/news/cade-cavalli-contract-extension-with-nationals",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-18T00:11:24+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "'We took care of business': Padres head home sitting pretty in NL Wild Card race",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T22:49:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Dodgers claim NL West crown for 13th time in past 14 years",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-17T22:37:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "HR and triple ... in the same inning?! Bogaerts narrowly misses cycle on historic day",
@@ -90,19 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-17T22:36:44+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Bucs take season series from Brewers, see blueprint for future",
-      "link": "https://www.mlb.com/news/pirates-win-season-series-brewers-first-time-since-2018",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gdnuu5zbulng1cz3a2e3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-17T22:08:01+00:00",
       "time_ago": "2h ago"
     }
   ]
