@@ -1594,132 +1594,99 @@
         "era": 0.0
       }
     ],
-    "home_pitcher": "Trevor Rogers (미정)",
-    "home_pitcher_id": 669432,
+    "home_pitcher": "Cade Povich",
+    "home_pitcher_id": 700249,
     "home_pitcher_stats": {
-      "wins": 10,
-      "losses": 10,
-      "era": "4.22"
+      "wins": 2,
+      "losses": 1,
+      "era": "4.05"
     },
     "home_pitcher_gamelog": [
       {
-        "date": "2026-07-24",
-        "opp": "vs ATL",
+        "date": "2026-04-05",
+        "opp": "@ PIT",
         "decision": null,
-        "ip": "7.0",
+        "ip": "5.2",
         "er": 2,
-        "h": 6,
-        "bb": 0,
-        "so": 6,
-        "era": 2.57
+        "h": 4,
+        "bb": 3,
+        "so": 2,
+        "era": 3.18
       },
       {
-        "date": "2026-07-29",
-        "opp": "@ DET",
+        "date": "2026-04-12",
+        "opp": "vs SF",
+        "decision": "W",
+        "ip": "6.2",
+        "er": 1,
+        "h": 5,
+        "bb": 0,
+        "so": 5,
+        "era": 1.35
+      },
+      {
+        "date": "2026-05-01",
+        "opp": "@ NYY",
+        "decision": "L",
+        "ip": "4.0",
+        "er": 5,
+        "h": 7,
+        "bb": 2,
+        "so": 4,
+        "era": 11.25
+      },
+      {
+        "date": "2026-05-07",
+        "opp": "@ MIA",
         "decision": null,
-        "ip": "6.0",
-        "er": 4,
-        "h": 8,
-        "bb": 0,
-        "so": 6,
-        "era": 6.0
+        "ip": "3.0",
+        "er": 3,
+        "h": 3,
+        "bb": 2,
+        "so": 1,
+        "era": 9.0
       },
       {
-        "date": "2026-08-05",
+        "date": "2026-08-04",
         "opp": "vs LAA",
         "decision": "W",
         "ip": "6.0",
-        "er": 2,
-        "h": 3,
-        "bb": 0,
-        "so": 9,
-        "era": 3.0
-      },
-      {
-        "date": "2026-08-10",
-        "opp": "@ MIN",
-        "decision": "L",
-        "ip": "4.0",
-        "er": 2,
-        "h": 4,
-        "bb": 2,
-        "so": 4,
-        "era": 4.5
-      },
-      {
-        "date": "2026-08-16",
-        "opp": "@ TB",
-        "decision": "W",
-        "ip": "6.0",
-        "er": 2,
-        "h": 7,
-        "bb": 1,
-        "so": 6,
-        "era": 3.0
-      },
-      {
-        "date": "2026-08-21",
-        "opp": "vs TB",
-        "decision": "W",
-        "ip": "7.0",
-        "er": 3,
-        "h": 6,
-        "bb": 1,
-        "so": 6,
-        "era": 3.86
-      },
-      {
-        "date": "2026-08-27",
-        "opp": "@ STL",
-        "decision": "L",
-        "ip": "5.0",
-        "er": 6,
+        "er": 0,
         "h": 7,
         "bb": 1,
         "so": 7,
-        "era": 10.8
+        "era": 0.0
       },
       {
-        "date": "2026-09-02",
+        "date": "2026-08-09",
+        "opp": "@ TEX",
+        "decision": null,
+        "ip": "3.0",
+        "er": 3,
+        "h": 4,
+        "bb": 2,
+        "so": 2,
+        "era": 9.0
+      },
+      {
+        "date": "2026-08-31",
         "opp": "@ COL",
         "decision": null,
-        "ip": "6.2",
-        "er": 2,
-        "h": 6,
-        "bb": 0,
-        "so": 11,
-        "era": 2.7
-      },
-      {
-        "date": "2026-09-07",
-        "opp": "vs CLE",
-        "decision": "W",
-        "ip": "7.1",
+        "ip": "5.0",
         "er": 1,
-        "h": 6,
-        "bb": 0,
-        "so": 6,
-        "era": 1.23
-      },
-      {
-        "date": "2026-09-13",
-        "opp": "@ TOR",
-        "decision": "L",
-        "ip": "6.0",
-        "er": 4,
-        "h": 7,
-        "bb": 1,
-        "so": 5,
-        "era": 6.0
+        "h": 5,
+        "bb": 3,
+        "so": 4,
+        "era": 1.8
       }
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 53.0,
-      "home": 47.0
+      "away": 50.0,
+      "home": 50.0
     },
     "expected_score": {
-      "away": 2.4,
+      "away": 2.6,
       "home": 1.8
     },
     "blend_detail": null,
@@ -1868,81 +1835,82 @@
         "total": 51.4
       },
       "home": {
-        "sp_score": 51.1,
+        "sp_score": 31.4,
         "sp_detail": {
-          "era": 4.13,
-          "whip": 1.08,
-          "k9": 9.7,
-          "avg_ip": 6.1,
-          "qs_rate": 60.0,
-          "last3_era": 4.5,
-          "last_start_era": 6.0,
+          "era": 4.05,
+          "whip": 1.44,
+          "k9": 6.8,
+          "avg_ip": 4.8,
+          "qs_rate": 28.6,
+          "last3_era": 5.14,
+          "last_start_era": 1.8,
           "last2_eras": [
-            1.23,
-            6.0
+            9.0,
+            1.8
           ],
-          "recent_avg_era": 6.0,
+          "recent_avg_era": 1.8,
           "recent_bad_start": false,
           "trend": "cold",
-          "n_games": 10,
+          "n_games": 7,
           "sample_confidence": 1.0,
-          "rest_days": 5,
-          "rest_note": null,
-          "age": 28,
-          "fb_velo": 93.8,
+          "rest_days": 18,
+          "rest_note": "extra_rest",
+          "age": 26,
+          "fb_velo": 91.8,
           "pitch_arsenal": [
             "FB",
+            "CB",
+            "SL",
             "CH",
-            "SW",
-            "SI",
-            "CT"
+            "SI"
           ],
           "secondary_pitches": [
-            "CH",
-            "SW"
+            "CB",
+            "SL",
+            "CH"
           ],
           "pitches_detail": [
             {
               "code": "FF",
               "abbr": "FB",
-              "pct": 46.8,
-              "velo": 93.8
+              "pct": 45.0,
+              "velo": 91.8
+            },
+            {
+              "code": "CU",
+              "abbr": "CB",
+              "pct": 23.0,
+              "velo": 76.3
+            },
+            {
+              "code": "SL",
+              "abbr": "SL",
+              "pct": 13.3,
+              "velo": 86.4
             },
             {
               "code": "CH",
               "abbr": "CH",
-              "pct": 20.4,
-              "velo": 87.0
-            },
-            {
-              "code": "ST",
-              "abbr": "SW",
-              "pct": 14.2,
-              "velo": 78.1
+              "pct": 10.2,
+              "velo": 85.0
             },
             {
               "code": "SI",
               "abbr": "SI",
-              "pct": 10.1,
-              "velo": 93.4
-            },
-            {
-              "code": "FC",
-              "abbr": "CT",
               "pct": 8.5,
-              "velo": 83.1
+              "velo": 91.2
             }
           ]
         },
-        "bp_score": 62.4,
+        "bp_score": 61.4,
         "bp_detail": {
-          "bullpen_era": 3.65,
+          "bullpen_era": 3.63,
           "recent_era": 2.0,
           "recent_appearances": 24,
           "recent_ip": 22.7,
           "team_era": 3.93,
-          "bp_ip": 377.0,
-          "bp_count": 10,
+          "bp_ip": 367.3,
+          "bp_count": 9,
           "closer_era": 3.66,
           "closer_name": "Andrew Kittredge"
         },
@@ -1987,14 +1955,14 @@
           }
         },
         "sit_score": 50.9,
-        "total": 49.7
+        "total": 42.0
       }
     },
     "scores": {
       "away_offense": 37.0,
       "away_defense": 55.6,
       "home_offense": 27.0,
-      "home_defense": 56.8
+      "home_defense": 46.4
     },
     "actual_score": {
       "away": null,
@@ -2008,7 +1976,7 @@
       "any": false
     },
     "actual_winner": null,
-    "model_winner": "Milwaukee Brewers",
+    "model_winner": "Baltimore Orioles",
     "model_correct": null,
     "notes": "Milwaukee Brewers IL: Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Bryse Wilson, Grant Anderson 외 다수 / Baltimore Orioles IL: Blaze Alexander, Christian Franklin, Colin Selby, Félix Bautista, Jackson Holliday 외 다수",
     "kalshi_prob": null,
@@ -2016,15 +1984,10 @@
     "value_bet": "⏭️ 패스 (라인업 미확정)",
     "extreme_edge": false,
     "consensus": false,
-    "sp_bat_conflict": true,
-    "sp_bat_conflict_detail": {
-      "sp_favors": "Baltimore Orioles",
-      "bat_favors": "Milwaukee Brewers",
-      "sp_gap": -11.4,
-      "bat_gap": 10.0
-    },
+    "sp_bat_conflict": false,
+    "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 51.0% (≤58.0%)",
+    "low_confidence_reason": "최고 확률 50.0% (≤58.0%)",
     "model_version": "v14"
   },
   {
