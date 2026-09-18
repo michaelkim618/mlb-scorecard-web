@@ -4004,8 +4004,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 50.0,
-      "home": 50.0
+      "away": 54.0,
+      "home": 46.0
     },
     "expected_score": {
       "away": 1.6,
@@ -4093,14 +4093,14 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 54.7,
+        "bp_score": 54.2,
         "bp_detail": {
-          "bullpen_era": 3.89,
+          "bullpen_era": 3.94,
           "recent_era": 4.76,
           "recent_appearances": 17,
           "recent_ip": 17.0,
-          "team_era": 3.81,
-          "bp_ip": 391.0,
+          "team_era": 3.83,
+          "bp_ip": 400.0,
           "bp_count": 9,
           "closer_era": 1.76,
           "closer_name": "Jhoan Duran"
@@ -4201,7 +4201,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 56.8,
-        "total": 53.3
+        "total": 53.2
       },
       "home": {
         "sp_score": 64.5,
@@ -4399,7 +4399,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 25.2,
-      "away_defense": 62.2,
+      "away_defense": 62.0,
       "home_offense": 38.5,
       "home_defense": 56.0
     },
@@ -4415,8 +4415,8 @@ window.PREDICTIONS_DATA = [
       "any": false
     },
     "actual_winner": "Philadelphia Phillies",
-    "model_winner": "New York Mets",
-    "model_correct": false,
+    "model_winner": "Philadelphia Phillies",
+    "model_correct": true,
     "notes": "Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Felix Reyes, Jesús Luzardo 외 다수 / New York Mets IL: Cionel Pérez, Daniel Duarte, Devin Williams, Jorge Polanco, Reed Garrett 외 다수",
     "kalshi_prob": null,
     "edge": null,

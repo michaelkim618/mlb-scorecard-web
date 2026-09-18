@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-18T19:54:46.805262+00:00",
+  "updated_at": "2026-09-18T20:36:50.550153+00:00",
   "news": [
+    {
+      "title": "Nats, ace Cavalli agree to 4-year extension",
+      "link": "https://www.mlb.com/news/cade-cavalli-contract-extension-with-nationals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/r3jkqg9e0wn3kgj3lyfs",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jessica Camerato",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-18T20:01:00+00:00",
+      "time_ago": "35m ago"
+    },
     {
       "title": "Injuries: Judge, Dodgers, Red Sox, Swanson, C. Montgomery",
       "link": "https://www.mlb.com/news/baseball-injury-updates",
@@ -12,20 +25,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-18T19:45:00+00:00",
-      "time_ago": "9m ago"
-    },
-    {
-      "title": "Nats, ace Cavalli agree to 4-year extension",
-      "link": "https://www.mlb.com/news/cade-cavalli-contract-extension-with-nationals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/r3jkqg9e0wn3kgj3lyfs",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jessica Camerato",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-18T19:39:00+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "51m ago"
     },
     {
       "title": "Walker rewrites his Cardinals future with storybook season",
@@ -38,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-18T17:33:13+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Could MLB's top 3 in RBIs come from the same division? This trio is going for it",
@@ -51,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-18T17:33:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -64,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-18T16:03:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Pederson (left hand fracture) progressing for Rangers' playoff push",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-18T15:32:01+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Schlittler, Rice more than just most valuable Yanks, they're indispensable",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-18T15:19:35+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     }
   ]
 }
