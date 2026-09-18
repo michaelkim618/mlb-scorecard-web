@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-18T04:55:47.435168+00:00",
+  "updated_at": "2026-09-18T05:43:03.238034+00:00",
   "news": [
+    {
+      "title": "Vargas' 2 clutch web gems prove crucial in tight win over Tigers",
+      "link": "https://www.mlb.com/news/miguel-vargas-defensive-plays-white-sox-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/emugvuldv5ulhzc3n2ot",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-18T05:32:00+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Injuries: Judge, Snell, Crochet, DeLauter, C. Montgomery, Young",
+      "link": "https://www.mlb.com/news/baseball-injury-updates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mzqcfeqxuo1wmigw9boe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-18T05:01:00+00:00",
+      "time_ago": "42m ago"
+    },
+    {
+      "title": "Chapman day to day as Red Sox monitor lat tightness",
+      "link": "https://www.mlb.com/news/aroldis-chapman-day-to-day-dealing-with-lat-tightness",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789706412/mlb/awl5y1zk9pgq1kl1mnld",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Perla Paredes",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-18T04:55:23+00:00",
+      "time_ago": "47m ago"
+    },
+    {
+      "title": "Ureña makes history with latest gem before Meckler walks it off",
+      "link": "https://www.mlb.com/news/walbert-urena-pitches-seven-scoreless-innings-in-angels-walk-off-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ma3va5oqc6vdwxrceaua",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rhett Bollinger",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-18T04:50:54+00:00",
+      "time_ago": "52m ago"
+    },
     {
       "title": "Tough break for Latz stings, but Rangers optimistic with 9 games left",
       "link": "https://www.mlb.com/news/rangers-lose-late-lead-to-red-sox-to-fall-back-in-al-west-race",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-18T04:33:00+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Mune's big night on both sides puts White Sox back in first",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-18T04:27:00+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Stats of the Week: Jo, Polar Bear, Salas and PCA power up",
@@ -38,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-18T04:15:22+00:00",
-      "time_ago": "40m ago"
-    },
-    {
-      "title": "Bowlan exits with groin injury in latest blow to Phillies' 'pen",
-      "link": "https://www.mlb.com/news/jonathan-bowlan-exits-with-right-groin-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789703167/mlb/wlbkizzd3mkzb0h0qsww",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-18T04:02:21+00:00",
-      "time_ago": "53m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Alvarez blasts 40th HR as 5 Astros go deep to move into 1st in AL West",
@@ -64,45 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-18T03:45:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "6 numbers that define Rays' 6th straight win in bid for AL East title",
-      "link": "https://www.mlb.com/news/rays-sweep-athletics-inch-toward-al-east-title",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yvt4qfdczbhdrsdy2g0u",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-18T03:40:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "'It's vintage Aaron Nola': Righty continues best stretch since 2018 with gem vs. Mets",
-      "link": "https://www.mlb.com/news/aaron-nola-tosses-seven-scoreless-innings-in-win-vs-mets",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jil0njkwas4mtbxypzge",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-18T03:37:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "The best of the best who made their MLB debuts this season",
-      "link": "https://www.mlb.com/news/mlb-2026-all-debut-team",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vjfw6xcndccbegswapup",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-18T03:32:18+00:00",
       "time_ago": "1h ago"
     }
   ]
