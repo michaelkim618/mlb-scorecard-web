@@ -1356,7 +1356,7 @@
       "away": null,
       "home": null
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -2956,13 +2956,13 @@
     },
     "expected_score": {
       "away": 1.5,
-      "home": 2.9
+      "home": 3.0
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "L",
       "home_handedness": "L",
       "bullpen_game": false,
@@ -3062,26 +3062,26 @@
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.22,
+          "recent_avg": 0.2,
           "runs_per_g": 3.3,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.693,
-          "season_avg": 0.22,
+          "season_ops": 0.625,
+          "season_avg": 0.2,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
             "Roman Anthony(0.583)",
+            "Nick Sogard(0.730)",
             "Jahmai Jones(0.645)",
             "Wilyer Abreu(0.718)",
-            "Willson Contreras(0.765)",
-            "Adley Rutschman(0.750)",
             "Trevor Story(0.695)",
-            "Jarren Duran(0.587)",
             "Caleb Durbin(0.762)",
-            "Nick Sogard(0.730)"
+            "Isiah Kiner-Falefa(0.631)",
+            "Nate Eaton(0.342)",
+            "Connor Wong(0.522)"
           ],
           "lineup_players": [
             {
@@ -3089,6 +3089,12 @@
               "name": "Roman Anthony",
               "ops": 0.583,
               "avg": 0.167
+            },
+            {
+              "id": 686765,
+              "name": "Nick Sogard",
+              "ops": 0.73,
+              "avg": 0.257
             },
             {
               "id": 663330,
@@ -3103,28 +3109,10 @@
               "avg": 0.216
             },
             {
-              "id": 575929,
-              "name": "Willson Contreras",
-              "ops": 0.765,
-              "avg": 0.2
-            },
-            {
-              "id": 668939,
-              "name": "Adley Rutschman",
-              "ops": 0.75,
-              "avg": 0.211
-            },
-            {
               "id": 596115,
               "name": "Trevor Story",
               "ops": 0.695,
               "avg": 0.289
-            },
-            {
-              "id": 680776,
-              "name": "Jarren Duran",
-              "ops": 0.587,
-              "avg": 0.179
             },
             {
               "id": 702332,
@@ -3133,13 +3121,25 @@
               "avg": 0.25
             },
             {
-              "id": 686765,
-              "name": "Nick Sogard",
-              "ops": 0.73,
-              "avg": 0.257
+              "id": 643396,
+              "name": "Isiah Kiner-Falefa",
+              "ops": 0.631,
+              "avg": 0.2
+            },
+            {
+              "id": 681987,
+              "name": "Nate Eaton",
+              "ops": 0.342,
+              "avg": 0.043
+            },
+            {
+              "id": 657136,
+              "name": "Connor Wong",
+              "ops": 0.522,
+              "avg": 0.167
             }
           ],
-          "bat_trend": "cold",
+          "bat_trend": "stable",
           "last5_rpg": 3.6,
           "last5_avg": 0.205,
           "home_split": {
@@ -3238,14 +3238,14 @@
           "closer_era": 1.52,
           "closer_name": "Bryan Baker"
         },
-        "bat_score": 44.1,
+        "bat_score": 44.8,
         "bat_detail": {
-          "recent_avg": 0.271,
+          "recent_avg": 0.277,
           "runs_per_g": 5.7,
           "hr_per_g": 1.3,
           "bb_per_g": 3.0,
-          "season_ops": 0.773,
-          "season_avg": 0.271,
+          "season_ops": 0.777,
+          "season_avg": 0.277,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
@@ -3254,11 +3254,11 @@
             "Yandy Díaz(0.634)",
             "Jonathan Aranda(0.893)",
             "Junior Caminero(0.878)",
-            "Liam Hicks(0.788)",
-            "Jonny DeLuca(0.660)",
-            "Chandler Simpson(0.741)",
             "Ryan Vilade(0.756)",
-            "Richie Palacios(0.978)",
+            "Chandler Simpson(0.741)",
+            "Jonny DeLuca(0.660)",
+            "Nick Fortes(0.726)",
+            "Victor Mesa Jr.(1.077)",
             "Taylor Walls(0.632)"
           ],
           "lineup_players": [
@@ -3281,16 +3281,10 @@
               "avg": 0.222
             },
             {
-              "id": 689414,
-              "name": "Liam Hicks",
-              "ops": 0.788,
-              "avg": 0.269
-            },
-            {
-              "id": 676356,
-              "name": "Jonny DeLuca",
-              "ops": 0.66,
-              "avg": 0.276
+              "id": 668723,
+              "name": "Ryan Vilade",
+              "ops": 0.756,
+              "avg": 0.238
             },
             {
               "id": 802415,
@@ -3299,16 +3293,22 @@
               "avg": 0.35
             },
             {
-              "id": 668723,
-              "name": "Ryan Vilade",
-              "ops": 0.756,
-              "avg": 0.238
+              "id": 676356,
+              "name": "Jonny DeLuca",
+              "ops": 0.66,
+              "avg": 0.276
             },
             {
-              "id": 680700,
-              "name": "Richie Palacios",
-              "ops": 0.978,
-              "avg": 0.348
+              "id": 663743,
+              "name": "Nick Fortes",
+              "ops": 0.726,
+              "avg": 0.25
+            },
+            {
+              "id": 683748,
+              "name": "Victor Mesa Jr.",
+              "ops": 1.077,
+              "avg": 0.424
             },
             {
               "id": 670764,
@@ -3334,20 +3334,20 @@
           }
         },
         "sit_score": 71.8,
-        "total": 64.5
+        "total": 64.8
       }
     },
     "scores": {
       "away_offense": 25.0,
       "away_defense": 58.5,
-      "home_offense": 44.1,
+      "home_offense": 44.8,
       "home_defense": 67.6
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -3358,8 +3358,8 @@
     "model_winner": "Tampa Bay Rays",
     "model_correct": null,
     "notes": "Boston Red Sox IL: Anthony Seigler, Ceddanne Rafaela, Curtis Mead, Eduardo Rivera, Eli White 외 다수 / Tampa Bay Rays IL: Ben Williamson, Edwin Uceta, Garrett Cleavinger, Gavin Lux, Jonathan Heasley 외 다수",
-    "kalshi_prob": 55.0,
-    "edge": 6.4,
+    "kalshi_prob": 56.0,
+    "edge": 5.4,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -5656,7 +5656,7 @@
         "era": 0.0
       }
     ],
-    "home_pitcher": "Gabriel Hughes (미정)",
+    "home_pitcher": "Gabriel Hughes",
     "home_pitcher_id": 687312,
     "home_pitcher_stats": {
       "wins": 0,
