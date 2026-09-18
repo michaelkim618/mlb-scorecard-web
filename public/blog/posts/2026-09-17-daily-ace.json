@@ -1,40 +1,40 @@
 {
-  "title": "Sep 17 Results + Sep 18 Preview: Five Wins, Solid Contact",
-  "summary": "5-4 on Sep 17 with strong favorites hitting. Tomorrow we're backing Burns in Cincinnati.",
+  "title": "Sep 17 Results + Sep 18 Preview: Solid Contact, Room to Improve",
+  "summary": "5-4 on Sep 17 with strong favorites hitting. Tomorrow we're backing Burns in Cincy.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Sep 17 Results: Taking What The Game Gives You\n\nFrom a pitcher's perspective, 5-4 is like getting through six innings with a lead intact. Not dominant, but you take the W and move on. We hit 55.6% on Wednesday's slate, and the pattern was clear—our higher-confidence plays delivered while the coin-flip games went sideways."
+      "value": "## Sep 17 Recap: The Favorites Delivered\n\nFrom a pitcher's perspective, yesterday was about respecting the arms with momentum. We went 5-4, hitting 55.6% on the day. Not dominant, but profitable. The model leaned into higher-probability plays, and three of our strongest picks—Astros, Padres, and Rays—all came through when it mattered."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Sep 17 W-L",
+          "label": "Sep 17 Record",
           "value": "5-4"
         },
         {
-          "label": "Accuracy",
+          "label": "Win Rate",
           "value": "55.6%"
         },
         {
-          "label": "High-Confidence Picks",
+          "label": "Strong Picks (60%+)",
           "value": "4-1"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## What Worked and What Didn't\n\nThe picks above 60% probability went 4-1. That's the sweet spot—when the model sees a clear edge in the pitching matchup or bullpen depth, trust it. The Astros, Rays, Padres, White Sox, and Angels all came through when we had stronger reads.\n\nThe misses? All four losses came on picks between 50-52%. Those are essentially toss-ups, games where one bullpen meltdown or one bad hop changes everything. As a former pitcher, I know those nights—you execute your pitches and still take the loss."
+      "value": "## What Worked, What Didn't\n\nThe picks above 60% confidence went 4-1. That's what you want to see—when the model identifies a clear edge, it's cashing. The Astros at 63% was the strongest lean, and they delivered. Same story with the Padres in Coors and the Rays at home.\n\nThe misses? All coin flips. Brewers-Pirates at 52%, Dodgers-Reds at 50%, Phillies-Mets at 50%, Tigers-Sox at 51%—these were essentially pick'em games. When you're playing margins that tight, you're going to take some lumps. That's baseball."
     },
     {
       "type": "table",
-      "title": "Full Sep 17 Results Breakdown",
+      "title": "Sep 17 Full Results Breakdown",
       "headers": [
-        "Game",
+        "Matchup",
         "Pick",
-        "Probability",
+        "Confidence",
         "Result"
       ],
       "rows": [
@@ -45,20 +45,20 @@
           "✓"
         ],
         [
-          "Athletics @ Rays",
-          "Rays",
-          "61%",
-          "✓"
-        ],
-        [
           "Padres @ Rockies",
           "Padres",
           "61%",
           "✓"
         ],
         [
-          "White Sox @ Rangers",
-          "White Sox",
+          "Athletics @ Rays",
+          "Rays",
+          "61%",
+          "✓"
+        ],
+        [
+          "Sox @ Rangers",
+          "Sox",
           "61%",
           "✓"
         ],
@@ -75,20 +75,20 @@
           "✗"
         ],
         [
-          "Tigers @ White Sox",
+          "Tigers @ Sox",
           "Tigers",
           "51%",
           "✗"
         ],
         [
-          "Phillies @ Mets",
-          "Mets",
+          "Dodgers @ Reds",
+          "Reds",
           "50%",
           "✗"
         ],
         [
-          "Dodgers @ Reds",
-          "Reds",
+          "Phillies @ Mets",
+          "Mets",
           "50%",
           "✗"
         ]
@@ -97,16 +97,11 @@
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 17 Win Probability vs Results",
+      "title": "Sep 17 Performance by Confidence Level",
       "data": [
         {
           "name": "Astros",
           "probability": 63,
-          "result": 1
-        },
-        {
-          "name": "Rays",
-          "probability": 61,
           "result": 1
         },
         {
@@ -115,7 +110,12 @@
           "result": 1
         },
         {
-          "name": "White Sox",
+          "name": "Rays",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Sox",
           "probability": 61,
           "result": 1
         },
@@ -135,12 +135,12 @@
           "result": 0
         },
         {
-          "name": "Mets",
+          "name": "Reds",
           "probability": 50,
           "result": 0
         },
         {
-          "name": "Reds",
+          "name": "Mets",
           "probability": 50,
           "result": 0
         }
@@ -155,24 +155,24 @@
         {
           "key": "result",
           "color": "#16A34A",
-          "label": "Correct (1=Yes, 0=No)"
+          "label": "Hit (1=Yes, 0=No)"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## Sep 18 Preview: Cubs at Reds\n\nTomorrow's top pick takes us back to Cincinnati, where we're backing the Reds at 50% against the Cubs. Yeah, it's another coin flip on paper, but here's what I'm seeing from the mound.\n\n**Chase Burns** gets the ball for Cincinnati at home. **Clay Holmes** counters for Chicago. Holmes has been transitioning roles, and anytime a pitcher is adjusting to new usage patterns, I'm looking for cracks in command and stamina. Burns has the home crowd and familiarity with Great American Ball Park's dimensions.\n\nThis is a pitching matchup where small edges matter—who gets ahead in counts, who can work efficiently through the order twice. The model sees a marginal edge for Cincinnati, and in a tight National League race, home field and bullpen management become the tiebreakers."
+      "value": "## Sep 18 Preview: Cubs @ Reds—Backing the Young Arm\n\nTomorrow's top pick is the **Cincinnati Reds** at home against the Cubs. This one's sitting at 50% confidence, so we're essentially calling a toss-up with a slight edge to the Reds.\n\nThe matchup: **Clay Holmes** for Chicago versus **Chase Burns** for Cincinnati. Holmes has been stretched out from the bullpen into a starter's role—it's a tough transition, and the command typically lags behind. Burns, on the other hand, is a young power arm with swing-and-miss stuff. At home in Great American Ball Park, he's got the platoon advantage and the fresher arm."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - Sep 18",
+      "title": "⭐ Sep 18 Top Pick",
       "value": "Cincinnati Reds",
-      "sub": "50% win probability vs Cubs • Chase Burns vs Clay Holmes • Home advantage"
+      "sub": "50% win probability vs Cubs · Chase Burns vs Clay Holmes"
     },
     {
       "type": "text",
-      "value": "## The Pitcher's Take\n\nWhen you're at 50% probability, you're betting on execution. Burns needs to attack the zone early and keep Chicago's lineup off-balance. Holmes needs to prove he can handle his workload without losing bite on his breaking stuff.\n\nI'm leaning Reds because Burns has shown better consistency in recent outings, and at home, he can lean on his defense. But this one's tight—manage your bankroll accordingly.\n\nLet's grab another winning day on Thursday. From the mound to the model, trust the process."
+      "value": "## Pitcher's Take: Trust the Starter with the Role\n\nHolmes is a reliever by trade. Asking him to give you 5+ innings with consistent stuff is a different animal. His velocity plays in short bursts, but over multiple times through the order, hitters adjust. Burns is built to start—he's got a deeper arsenal and the conditioning to maintain his fastball late.\n\nIn a 50-50 game, I'm leaning toward the guy who's been preparing all season to pitch deep into games. That's Burns. The Reds' bullpen has been shaky, so they need length from their starter. I think they get it.\n\nLet's keep building on yesterday's momentum. Ride the favorable matchups, and don't overthink the tight ones."
     }
   ],
   "slug": "2026-09-17-daily-ace",
