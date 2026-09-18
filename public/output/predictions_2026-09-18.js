@@ -4678,22 +4678,22 @@ window.PREDICTIONS_DATA = [
       "home": 50.0
     },
     "expected_score": {
-      "away": 2.2,
+      "away": 2.7,
       "home": 1.8
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "L",
       "home_handedness": "R",
       "bullpen_game": true,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.38,
+        "sp": 0.35,
         "bp": 0.3,
-        "bat": 0.25,
+        "bat": 0.28,
         "sit": 0.15
       },
       "away": {
@@ -4768,14 +4768,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 3.43,
           "closer_name": "Kenley Jansen"
         },
-        "bat_score": 33.6,
+        "bat_score": 40.4,
         "bat_detail": {
-          "recent_avg": 0.246,
+          "recent_avg": 0.274,
           "runs_per_g": 5.7,
           "hr_per_g": 1.1,
           "bb_per_g": 3.0,
-          "season_ops": 0.717,
-          "season_avg": 0.246,
+          "season_ops": 0.797,
+          "season_avg": 0.274,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -4783,13 +4783,13 @@ window.PREDICTIONS_DATA = [
           "lineup_ops": [
             "Kevin McGonigle(0.939)",
             "Gleyber Torres(0.697)",
-            "Dillon Dingler(0.600)",
+            "Colt Keith(0.752)",
             "Riley Greene(0.946)",
             "Spencer Torkelson(0.904)",
             "Zach McKinstry(0.492)",
             "Max Clark(0.882)",
-            "John Peck(0.545)",
-            "Javier Báez(0.446)"
+            "Eduardo Valencia(0.845)",
+            "Hao-Yu Lee(0.720)"
           ],
           "lineup_players": [
             {
@@ -4805,10 +4805,10 @@ window.PREDICTIONS_DATA = [
               "avg": 0.27
             },
             {
-              "id": 693307,
-              "name": "Dillon Dingler",
-              "ops": 0.6,
-              "avg": 0.158
+              "id": 690993,
+              "name": "Colt Keith",
+              "ops": 0.752,
+              "avg": 0.227
             },
             {
               "id": 682985,
@@ -4835,19 +4835,19 @@ window.PREDICTIONS_DATA = [
               "avg": 0.353
             },
             {
-              "id": 807726,
-              "name": "John Peck",
-              "ops": 0.545,
-              "avg": 0.2
+              "id": 680664,
+              "name": "Eduardo Valencia",
+              "ops": 0.845,
+              "avg": 0.294
             },
             {
-              "id": 595879,
-              "name": "Javier Báez",
-              "ops": 0.446,
-              "avg": 0.083
+              "id": 701678,
+              "name": "Hao-Yu Lee",
+              "ops": 0.72,
+              "avg": 0.176
             }
           ],
-          "bat_trend": "stable",
+          "bat_trend": "cold",
           "last5_rpg": 5.2,
           "last5_avg": 0.25,
           "home_split": {
@@ -4864,7 +4864,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 46.1,
-        "total": 40.3
+        "total": 42.3
       },
       "home": {
         "sp_score": 40.0,
@@ -4955,45 +4955,39 @@ window.PREDICTIONS_DATA = [
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.195,
+          "recent_avg": 0.202,
           "runs_per_g": 3.4,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
-          "season_ops": 0.642,
-          "season_avg": 0.195,
+          "season_ops": 0.689,
+          "season_avg": 0.202,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Chase Meidroth(0.798)",
-            "Tommy Pham(0.404)",
             "Miguel Vargas(0.676)",
+            "Tommy Pham(0.404)",
             "Randal Grichuk(1.035)",
             "Munetaka Murakami(0.727)",
+            "Chase Meidroth(0.798)",
+            "Kyle Teel(0.818)",
             "Brenton Doyle(0.707)",
-            "Jake Rogers(0.456)",
-            "Luisangel Acuña(0.483)",
-            "Braden Montgomery(0.496)"
+            "Colson Montgomery(0.474)",
+            "Tristan Peters(0.566)"
           ],
           "lineup_players": [
             {
-              "id": 805367,
-              "name": "Chase Meidroth",
-              "ops": 0.798,
-              "avg": 0.278
+              "id": 678246,
+              "name": "Miguel Vargas",
+              "ops": 0.676,
+              "avg": 0.184
             },
             {
               "id": 502054,
               "name": "Tommy Pham",
               "ops": 0.404,
               "avg": 0.071
-            },
-            {
-              "id": 678246,
-              "name": "Miguel Vargas",
-              "ops": 0.676,
-              "avg": 0.184
             },
             {
               "id": 545341,
@@ -5008,31 +5002,37 @@ window.PREDICTIONS_DATA = [
               "avg": 0.129
             },
             {
+              "id": 805367,
+              "name": "Chase Meidroth",
+              "ops": 0.798,
+              "avg": 0.278
+            },
+            {
+              "id": 691019,
+              "name": "Kyle Teel",
+              "ops": 0.818,
+              "avg": 0.24
+            },
+            {
               "id": 686668,
               "name": "Brenton Doyle",
               "ops": 0.707,
               "avg": 0.353
             },
             {
-              "id": 668670,
-              "name": "Jake Rogers",
-              "ops": 0.456,
-              "avg": 0.091
+              "id": 695657,
+              "name": "Colson Montgomery",
+              "ops": 0.474,
+              "avg": 0.033
             },
             {
-              "id": 682668,
-              "name": "Luisangel Acuña",
-              "ops": 0.483,
-              "avg": 0.154
-            },
-            {
-              "id": 695731,
-              "name": "Braden Montgomery",
-              "ops": 0.496,
-              "avg": 0.074
+              "id": 671976,
+              "name": "Tristan Peters",
+              "ops": 0.566,
+              "avg": 0.107
             }
           ],
-          "bat_trend": "hot",
+          "bat_trend": "stable",
           "last5_rpg": 4.0,
           "last5_avg": 0.211,
           "home_split": {
@@ -5049,20 +5049,20 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 61.1,
-        "total": 42.8
+        "total": 42.4
       }
     },
     "scores": {
-      "away_offense": 33.6,
+      "away_offense": 40.4,
       "away_defense": 47.3,
       "home_offense": 25.0,
       "home_defense": 51.8
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -5083,7 +5083,7 @@ window.PREDICTIONS_DATA = [
       "sp_favors": "Chicago White Sox",
       "bat_favors": "Detroit Tigers",
       "sp_gap": -10.0,
-      "bat_gap": 8.6
+      "bat_gap": 15.4
     },
     "low_confidence": true,
     "low_confidence_reason": "최고 확률 50.0% (≤58.0%)",
