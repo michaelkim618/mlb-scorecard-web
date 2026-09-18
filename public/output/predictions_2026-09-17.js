@@ -1159,14 +1159,14 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 53.5,
+        "bp_score": 47.2,
         "bp_detail": {
-          "bullpen_era": 3.39,
-          "recent_era": 5.59,
-          "recent_appearances": 19,
-          "recent_ip": 19.3,
-          "team_era": 3.13,
-          "bp_ip": 286.3,
+          "bullpen_era": 3.78,
+          "recent_era": 7.04,
+          "recent_appearances": 18,
+          "recent_ip": 15.3,
+          "team_era": 3.25,
+          "bp_ip": 288.3,
           "bp_count": 8,
           "closer_era": 2.87,
           "closer_name": "Tanner Scott"
@@ -1267,7 +1267,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 62.7,
-        "total": 45.6
+        "total": 44.2
       },
       "home": {
         "sp_score": 29.0,
@@ -1442,7 +1442,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 40.0,
-      "away_defense": 48.5,
+      "away_defense": 44.4,
       "home_offense": 25.0,
       "home_defense": 32.2
     },
@@ -4004,12 +4004,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 54.0,
-      "home": 46.0
+      "away": 50.0,
+      "home": 50.0
     },
     "expected_score": {
       "away": 1.6,
-      "home": 2.5
+      "home": 2.4
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -4298,7 +4298,7 @@ window.PREDICTIONS_DATA = [
           "closer_era": 5.75,
           "closer_name": "Tobias Myers"
         },
-        "bat_score": 38.5,
+        "bat_score": 37.5,
         "bat_detail": {
           "recent_avg": 0.251,
           "runs_per_g": 5.4,
@@ -4394,13 +4394,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 37.3,
-        "total": 50.2
+        "total": 49.9
       }
     },
     "scores": {
       "away_offense": 25.2,
       "away_defense": 62.0,
-      "home_offense": 38.5,
+      "home_offense": 37.5,
       "home_defense": 56.0
     },
     "actual_score": {
@@ -4415,9 +4415,9 @@ window.PREDICTIONS_DATA = [
       "any": false
     },
     "actual_winner": "Philadelphia Phillies",
-    "model_winner": "Philadelphia Phillies",
-    "model_correct": true,
-    "notes": "Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Felix Reyes, Jesús Luzardo 외 다수 / New York Mets IL: Cionel Pérez, Daniel Duarte, Devin Williams, Jorge Polanco, Reed Garrett 외 다수",
+    "model_winner": "New York Mets",
+    "model_correct": false,
+    "notes": "Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Felix Reyes, Jesús Luzardo 외 다수 / New York Mets IL: Cionel Pérez, Daniel Duarte, Devin Williams, Jared Young, Jorge Polanco 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
