@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T08:25:27.754929+00:00",
+  "updated_at": "2026-09-18T08:34:31.410332+00:00",
   "news": [
     {
       "title": "Plot twist! Story's late-game homer fuels comeback",
@@ -64,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-18T05:32:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Chapman day to day as Red Sox monitor lat tightness",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-18T04:33:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Mune's big night on both sides puts White Sox back in first",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-18T04:27:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
