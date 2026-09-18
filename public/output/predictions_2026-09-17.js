@@ -1329,15 +1329,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 36.2,
+        "bp_score": 34.0,
         "bp_detail": {
-          "bullpen_era": 4.03,
-          "recent_era": 6.0,
-          "recent_appearances": 25,
-          "recent_ip": 24.0,
-          "team_era": 4.55,
-          "bp_ip": 357.0,
-          "bp_count": 8,
+          "bullpen_era": 4.17,
+          "recent_era": 6.2,
+          "recent_appearances": 22,
+          "recent_ip": 20.3,
+          "team_era": 4.61,
+          "bp_ip": 311.0,
+          "bp_count": 7,
           "closer_era": 3.63,
           "closer_name": "Emilio Pagán"
         },
@@ -1437,14 +1437,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 43.5,
-        "total": 31.3
+        "total": 30.8
       }
     },
     "scores": {
       "away_offense": 40.0,
       "away_defense": 48.5,
       "home_offense": 25.0,
-      "home_defense": 33.7
+      "home_defense": 32.2
     },
     "actual_score": {
       "away": 8,
@@ -1460,7 +1460,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "Los Angeles Dodgers",
     "model_winner": "Cincinnati Reds",
     "model_correct": false,
-    "notes": "Los Angeles Dodgers IL: Andy Pages, Ben Casparius, Brusdar Graterol, Dalton Rushing, Edgardo Henriquez 외 다수 / Cincinnati Reds IL: Blake Dunn, Hunter Greene, Michael Toglia, Spencer Steer",
+    "notes": "Los Angeles Dodgers IL: Andy Pages, Ben Casparius, Brusdar Graterol, Dalton Rushing, Edgardo Henriquez 외 다수 / Cincinnati Reds IL: Blake Dunn, Hunter Greene, Julian Garcia, Michael Toglia, Spencer Steer",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",

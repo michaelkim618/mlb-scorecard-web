@@ -534,15 +534,15 @@
             }
           ]
         },
-        "bp_score": 37.5,
+        "bp_score": 35.2,
         "bp_detail": {
-          "bullpen_era": 4.03,
-          "recent_era": 6.0,
-          "recent_appearances": 25,
-          "recent_ip": 24.0,
-          "team_era": 4.55,
-          "bp_ip": 357.0,
-          "bp_count": 8,
+          "bullpen_era": 4.17,
+          "recent_era": 6.2,
+          "recent_appearances": 22,
+          "recent_ip": 20.3,
+          "team_era": 4.61,
+          "bp_ip": 311.0,
+          "bp_count": 7,
           "closer_era": 3.63,
           "closer_name": "Emilio Pagán"
         },
@@ -587,14 +587,14 @@
           }
         },
         "sit_score": 43.5,
-        "total": 44.9
+        "total": 44.2
       }
     },
     "scores": {
       "away_offense": 35.3,
       "away_defense": 53.7,
       "home_offense": 32.5,
-      "home_defense": 45.2
+      "home_defense": 44.1
     },
     "actual_score": {
       "away": null,
@@ -610,7 +610,7 @@
     "actual_winner": null,
     "model_winner": "Cincinnati Reds",
     "model_correct": null,
-    "notes": "Chicago Cubs IL: Ben Brown, Cade Horton, Dansby Swanson, Gavin Hollowell, Hunter Harvey 외 다수 / Cincinnati Reds IL: Blake Dunn, Hunter Greene, Michael Toglia, Spencer Steer",
+    "notes": "Chicago Cubs IL: Ben Brown, Cade Horton, Dansby Swanson, Gavin Hollowell, Hunter Harvey 외 다수 / Cincinnati Reds IL: Blake Dunn, Hunter Greene, Julian Garcia, Michael Toglia, Spencer Steer",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "⏭️ 패스 (라인업 미확정)",
@@ -2327,8 +2327,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 41.9,
-      "home": 58.1
+      "away": 44.8,
+      "home": 55.2
     },
     "expected_score": {
       "away": 1.8,
@@ -2418,14 +2418,14 @@
             }
           ]
         },
-        "bp_score": 46.0,
+        "bp_score": 46.5,
         "bp_detail": {
-          "bullpen_era": 4.51,
-          "recent_era": 3.7,
-          "recent_appearances": 24,
+          "bullpen_era": 4.78,
+          "recent_era": 2.96,
+          "recent_appearances": 23,
           "recent_ip": 24.3,
-          "team_era": 5.15,
-          "bp_ip": 335.0,
+          "team_era": 5.25,
+          "bp_ip": 365.3,
           "bp_count": 10,
           "closer_era": 3.34,
           "closer_name": "Hogan Harris"
@@ -2471,7 +2471,7 @@
           }
         },
         "sit_score": 38.5,
-        "total": 32.8
+        "total": 32.9
       },
       "home": {
         "sp_score": 21.9,
@@ -2584,7 +2584,7 @@
     },
     "scores": {
       "away_offense": 26.3,
-      "away_defense": 37.6,
+      "away_defense": 37.9,
       "home_offense": 26.6,
       "home_defense": 44.2
     },
@@ -2610,8 +2610,8 @@
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
-    "low_confidence": false,
-    "low_confidence_reason": null,
+    "low_confidence": true,
+    "low_confidence_reason": "최고 확률 55.2% (≤58.0%)",
     "model_version": "v14"
   },
   {
