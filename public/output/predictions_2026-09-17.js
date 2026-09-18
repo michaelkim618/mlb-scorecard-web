@@ -411,14 +411,14 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 71.5,
+        "bp_score": 64.8,
         "bp_detail": {
-          "bullpen_era": 2.96,
-          "recent_era": 2.7,
-          "recent_appearances": 19,
-          "recent_ip": 23.3,
-          "team_era": 3.33,
-          "bp_ip": 386.7,
+          "bullpen_era": 3.27,
+          "recent_era": 3.63,
+          "recent_appearances": 17,
+          "recent_ip": 17.3,
+          "team_era": 3.43,
+          "bp_ip": 382.0,
           "bp_count": 7,
           "closer_era": 2.5,
           "closer_name": "Trevor Megill"
@@ -519,7 +519,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 59.0,
-        "total": 51.4
+        "total": 49.9
       },
       "home": {
         "sp_score": 21.0,
@@ -694,7 +694,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 52.1,
-      "away_defense": 57.7,
+      "away_defense": 53.3,
       "home_offense": 31.000000000000004,
       "home_defense": 31.2
     },
