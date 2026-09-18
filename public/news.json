@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-18T17:40:10.625203+00:00",
+  "updated_at": "2026-09-18T17:50:18.896119+00:00",
   "news": [
+    {
+      "title": "Walker rewrites his Cardinals future with storybook season",
+      "link": "https://www.mlb.com/news/jordan-walker-incredible-turnaround-season-cardinals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mltw7zqxddabnn1lkv0w",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Josh Jacobs",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-18T17:33:13+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Could MLB's top 3 in RBIs come from the same division? This trio is going for it",
+      "link": "https://www.mlb.com/news/nl-central-group-aims-to-be-first-divisional-trio-to-lead-mlb-in-rbis",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fpzrnkfe40bvd6ff7ey7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-18T17:33:00+00:00",
+      "time_ago": "17m ago"
+    },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
       "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
@@ -25,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-18T15:44:12+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Braves enter Astros set seeking their latest big celebration in Houston",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-18T13:14:37+00:00",
       "time_ago": "4h ago"
-    },
-    {
-      "title": "Plot twist! Story's late-game homer fuels comeback",
-      "link": "https://www.mlb.com/news/trevor-story-s-late-homer-fuels-red-sox-s-comeback-win-over-rangers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xxgzwbr2jipyaatiemy3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-18T06:14:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Injuries: Judge, Snell, Red Sox, DeLauter, C. Montgomery, Young",
-      "link": "https://www.mlb.com/news/baseball-injury-updates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mzqcfeqxuo1wmigw9boe",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-18T05:54:00+00:00",
-      "time_ago": "11h ago"
     }
   ]
 }
