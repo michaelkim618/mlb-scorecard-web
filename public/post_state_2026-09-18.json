@@ -9,7 +9,8 @@
     "16:40"
   ],
   "predictions_frozen": [
-    "15:40"
+    "15:40",
+    "16:40"
   ],
   "frozen_predictions": {
     "15:40": [
@@ -101,6 +102,93 @@
         "sp_bat_conflict_detail": null,
         "low_confidence": true,
         "low_confidence_reason": "최고 확률 50.0% (≤58.0%)",
+        "extreme_edge": false
+      }
+    ],
+    "16:40": [
+      {
+        "game_pk": "824547",
+        "win_prob": {
+          "away": 50.0,
+          "home": 50.0
+        },
+        "model_winner": "Chicago White Sox",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -4.0,
+        "sp_bat_conflict": true,
+        "sp_bat_conflict_detail": {
+          "sp_favors": "Chicago White Sox",
+          "bat_favors": "Detroit Tigers",
+          "sp_gap": -10.0,
+          "bat_gap": 15.4
+        },
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 50.0% (≤58.0%)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "822847",
+        "win_prob": {
+          "away": 54.4,
+          "home": 45.6
+        },
+        "model_winner": "Toronto Blue Jays",
+        "value_bet": "⏭️ 패스 (라인업 미확정)",
+        "edge": null,
+        "sp_bat_conflict": true,
+        "sp_bat_conflict_detail": {
+          "sp_favors": "Toronto Blue Jays",
+          "bat_favors": "Texas Rangers",
+          "sp_gap": 39.2,
+          "bat_gap": -9.7
+        },
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 54.4% (≤58.0%)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "824303",
+        "win_prob": {
+          "away": 60.7,
+          "home": 39.3
+        },
+        "model_winner": "Seattle Mariners",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 3.3,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "824138",
+        "win_prob": {
+          "away": 63.0,
+          "home": 37.0
+        },
+        "model_winner": "Atlanta Braves",
+        "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Houston Astros)",
+        "edge": -10.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823005",
+        "win_prob": {
+          "away": 60.8,
+          "home": 39.2
+        },
+        "model_winner": "Washington Nationals",
+        "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: St. Louis Cardinals)",
+        "edge": -9.8,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
         "extreme_edge": false
       }
     ]
