@@ -1,0 +1,187 @@
+{
+  "title": "Sep 17 Results + Sep 18 Preview: Five Wins, Four Lessons",
+  "summary": "Sep 17 went 5-4 with 55.6% accuracy. Breaking down what worked and tomorrow's Reds pick.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Sep 17 Results: Middle of the Order Production\n\nFrom a pitcher's perspective, going 5-4 on the day is like getting through six innings with a quality start—not dominant, but you kept your team in the game. We hit on our higher-confidence plays and learned from the tight ones that didn't break our way."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Today W-L",
+          "value": "5-4"
+        },
+        {
+          "label": "Accuracy",
+          "value": "55.6%"
+        },
+        {
+          "label": "High Confidence Hits",
+          "value": "3-3"
+        }
+      ]
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Sep 17 Prediction Results by Confidence",
+      "data": [
+        {
+          "name": "Astros",
+          "probability": 63,
+          "result": 1
+        },
+        {
+          "name": "Sox",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Angels",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Padres",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Rays",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Tigers",
+          "probability": 51,
+          "result": 0
+        },
+        {
+          "name": "Brewers",
+          "probability": 52,
+          "result": 0
+        },
+        {
+          "name": "Reds",
+          "probability": 50,
+          "result": 0
+        },
+        {
+          "name": "Mets",
+          "probability": 50,
+          "result": 0
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Full Sep 17 Game Results",
+      "headers": [
+        "Game",
+        "Pick",
+        "Prob",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Royals @ Astros",
+          "Astros",
+          "63%",
+          "✓"
+        ],
+        [
+          "Athletics @ Rays",
+          "Rays",
+          "61%",
+          "✓"
+        ],
+        [
+          "Padres @ Rockies",
+          "Padres",
+          "61%",
+          "✓"
+        ],
+        [
+          "Sox @ Rangers",
+          "Sox",
+          "61%",
+          "✓"
+        ],
+        [
+          "Twins @ Angels",
+          "Angels",
+          "61%",
+          "✓"
+        ],
+        [
+          "Brewers @ Pirates",
+          "Brewers",
+          "52%",
+          "✗"
+        ],
+        [
+          "Tigers @ Sox",
+          "Tigers",
+          "51%",
+          "✗"
+        ],
+        [
+          "Dodgers @ Reds",
+          "Reds",
+          "50%",
+          "✗"
+        ],
+        [
+          "Phillies @ Mets",
+          "Mets",
+          "50%",
+          "✗"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## What Worked: Trusting the Strong Reads\n\nWhen we had conviction above 60%, we went perfect—3 for 3. The Astros, Rays, Padres, White Sox, and Angels all came through when the model saw clear edges. That's the difference between a coin flip and a calculated pitch selection. You don't throw your best stuff when you're unsure which corner to hit.\n\nThe four misses? All came on picks below 52% confidence. Those are the 50-50 games where one mistake changes everything. I've been on the mound in those situations—sometimes you execute perfectly and still give up a hit."
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Top Pick Preview: Reds vs Cubs\n\nSep 18 brings an interesting matchup at Great American Ball Park. The Cubs send Clay Holmes to the mound against the Reds' Chase Burns. This one's sitting at 50% confidence for Cincinnati, which tells me we're looking at another tight contest.\n\nFrom a pitcher's perspective, Holmes has made the transition from the bullpen, but there are always adjustment periods. Burns at home in a hitter-friendly park creates leverage opportunities. The Reds' lineup gets extra chances in that ballpark—every mistake gets amplified."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Tomorrow's Top Pick - Sep 18",
+      "value": "Cincinnati Reds vs Chicago Cubs",
+      "sub": "50% confidence · Holmes vs Burns · Home field advantage"
+    },
+    {
+      "type": "text",
+      "value": "## The Bottom Line\n\nSep 17 showed us what we already know from years on the mound: trust your best stuff when you have high confidence, and stay disciplined on the 50-50 calls. Going 5-4 keeps you in the rotation. Tomorrow's Reds pick is another tight one, but we're calling our pitch and executing.\n\nStay locked in for Sep 18. Let's build on what worked."
+    }
+  ],
+  "slug": "2026-09-17-daily-ace",
+  "author": "Ace",
+  "author_emoji": "🎙️",
+  "author_role": "Former Pitcher",
+  "author_color": "#D97706",
+  "date": "2026-09-17",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#D97706"
+}

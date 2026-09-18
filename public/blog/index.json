@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-09-17-daily-ace",
+      "title": "Sep 17 Results + Sep 18 Preview: Five Wins, Four Lessons",
+      "author": "Ace",
+      "author_emoji": "🎙️",
+      "author_color": "#D97706",
+      "author_role": "Former Pitcher",
+      "date": "2026-09-17",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#D97706",
+      "read_time": "3 min",
+      "summary": "Sep 17 went 5-4 with 55.6% accuracy. Breaking down what worked and tomorrow's Reds pick."
+    },
+    {
       "slug": "2026-09-16-daily-hana",
       "title": "Sep 16 Results + Sep 17 Preview: Eleven Wins and That Championship Feeling",
       "author": "Hana",
