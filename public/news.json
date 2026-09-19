@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-19T19:28:12.898219+00:00",
+  "updated_at": "2026-09-19T20:09:52.412484+00:00",
   "news": [
+    {
+      "title": "Big pitching questions loom for Crew in home stretch of regular season",
+      "link": "https://www.mlb.com/news/brewers-pitching-questions-regular-season-playoffs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/liylq0llj1viwuel940h",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-19T19:58:42+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Elias says Albernaz will return in '27, aims to add to O's front office",
+      "link": "https://www.mlb.com/news/mike-elias-discusses-craig-albernaz-orioles-front-office-state",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x7fugdrbdjnlukv6m8ak",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-19T19:49:31+00:00",
+      "time_ago": "20m ago"
+    },
     {
       "title": "This Italian-born reliever wants to throw 105 mph, 'play like my head is on fire'",
       "link": "https://www.mlb.com/news/italian-angels-prospect-nicolo-pinazzi-makes-history-at-double-a",
@@ -12,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-19T18:30:52+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Bautista activated, rejoins O's bullpen; Helsley, O'Neill done for '26",
@@ -28,19 +54,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "LIVE: Watch 2024 first-rounder King (WSH) dig in at Triple-A vs. Blue Jays prospects",
-      "link": "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789434480/mlb/f7kqxh4mlwxmdefvqdl2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brendan Samson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-19T17:00:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
       "title": "Judge heads back to IL with right calf strain; no timeline for his return",
       "link": "https://www.mlb.com/news/aaron-judge-placed-on-injured-list-with-right-calf-strain-september-2026",
       "summary": "",
@@ -51,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-19T16:57:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -64,7 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-19T15:43:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Dodgers celebrate 20th anniversary of '4+1' game with 4-HR inning in rout",
@@ -77,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-19T06:35:00+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "13h ago"
     },
     {
       "title": "Down Judge, Yanks blitz D-backs behind steady Cole, pick up a game on Rays",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T06:11:00+00:00",
-      "time_ago": "13h ago"
-    },
-    {
-      "title": "New face stars as Rangers' bullpen goes 'all hands on deck' to pull even atop AL West",
-      "link": "https://www.mlb.com/news/rangers-move-into-tie-atop-al-west-after-win-vs-blue-jays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789792785/mlb/o7z4u4dnfcckvvk6oggn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kennedi Landry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-19T05:57:00+00:00",
       "time_ago": "13h ago"
     }
   ]
