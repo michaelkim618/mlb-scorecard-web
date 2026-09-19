@@ -1186,7 +1186,7 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Carter Jensen(0.867)",
-            "Bobby Witt Jr.(0.669)",
+            "Bobby Witt(0.669)",
             "Vinnie Pasquantino(0.822)",
             "Maikel Garcia(0.660)",
             "Michael Massey(0.750)",
@@ -1204,7 +1204,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 677951,
-              "name": "Bobby Witt Jr.",
+              "name": "Bobby Witt",
               "ops": 0.669,
               "avg": 0.162
             },
@@ -1804,12 +1804,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 53.9,
-      "home": 46.1
+      "away": 53.5,
+      "home": 46.5
     },
     "expected_score": {
       "away": 3.9,
-      "home": 2.4
+      "home": 2.5
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -2085,13 +2085,13 @@ window.PREDICTIONS_DATA = [
           "recent_era": 2.0,
           "recent_appearances": 26,
           "recent_ip": 25.0,
-          "team_era": 3.93,
+          "team_era": 3.92,
           "bp_ip": 373.7,
           "bp_count": 9,
           "closer_era": 3.61,
           "closer_name": "Andrew Kittredge"
         },
-        "bat_score": 33.0,
+        "bat_score": 34.0,
         "bat_detail": {
           "recent_avg": 0.24,
           "runs_per_g": 5.2,
@@ -2187,13 +2187,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 43.8,
-        "total": 43.6
+        "total": 44.0
       }
     },
     "scores": {
       "away_offense": 57.2,
       "away_defense": 45.4,
-      "home_offense": 33.0,
+      "home_offense": 34.0,
       "home_defense": 47.5
     },
     "actual_score": {
@@ -2210,7 +2210,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "Milwaukee Brewers",
     "model_winner": "Milwaukee Brewers",
     "model_correct": true,
-    "notes": "Milwaukee Brewers IL: Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Bryse Wilson, Grant Anderson 외 다수 / Baltimore Orioles IL: Blaze Alexander, Christian Franklin, Colin Selby, Félix Bautista, Jackson Holliday 외 다수",
+    "notes": "Milwaukee Brewers IL: Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Bryse Wilson, Grant Anderson 외 다수 / Baltimore Orioles IL: Blaze Alexander, Colin Selby, Jackson Holliday, Jordan Westburg, Keegan Akin 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
@@ -2219,7 +2219,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 2.0pt (≤5.0pt) / 최고 확률 53.9% (≤58.0%)",
+    "low_confidence_reason": "SP 점수 차이 2.0pt (≤5.0pt) / 최고 확률 53.5% (≤58.0%)",
     "model_version": "v14"
   },
   {
@@ -3600,7 +3600,7 @@ window.PREDICTIONS_DATA = [
             "Chandler Simpson(0.689)",
             "Jonny DeLuca(0.634)",
             "Nick Fortes(0.843)",
-            "Victor Mesa Jr.(1.075)",
+            "Victor Mesa(1.075)",
             "Taylor Walls(0.643)"
           ],
           "lineup_players": [
@@ -3648,7 +3648,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 683748,
-              "name": "Victor Mesa Jr.",
+              "name": "Victor Mesa",
               "ops": 1.075,
               "avg": 0.406
             },
@@ -4315,14 +4315,14 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 47.6,
+        "bp_score": 46.1,
         "bp_detail": {
-          "bullpen_era": 4.27,
+          "bullpen_era": 4.4,
           "recent_era": 2.0,
           "recent_appearances": 15,
           "recent_ip": 27.7,
-          "team_era": 4.17,
-          "bp_ip": 210.7,
+          "team_era": 4.21,
+          "bp_ip": 251.3,
           "bp_count": 9,
           "closer_era": 5.75,
           "closer_name": "Tobias Myers"
@@ -4423,14 +4423,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 47.3,
-        "total": 45.6
+        "total": 45.2
       }
     },
     "scores": {
       "away_offense": 32.7,
       "away_defense": 41.5,
       "home_offense": 40.6,
-      "home_defense": 45.3
+      "home_defense": 44.5
     },
     "actual_score": {
       "away": 3,
@@ -4446,7 +4446,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "New York Mets",
     "model_winner": "Philadelphia Phillies",
     "model_correct": false,
-    "notes": "Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Felix Reyes, Jesús Luzardo 외 다수 / New York Mets IL: Cionel Pérez, Daniel Duarte, Devin Williams, Jared Young, Jorge Polanco 외 다수",
+    "notes": "Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Felix Reyes, Jesús Luzardo 외 다수 / New York Mets IL: Daniel Duarte, Devin Williams, Jared Young, Jorge Polanco, Reed Garrett 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
@@ -7078,9 +7078,9 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Drake Baldwin(0.855)",
-            "Ronald Acuña Jr.(0.835)",
+            "Ronald Acuña(0.835)",
             "Matt Olson(0.865)",
-            "Michael Harris II(0.794)",
+            "Michael Harris(0.794)",
             "Mauricio Dubón(0.812)",
             "Ozzie Albies(0.633)",
             "Mike Yastrzemski(0.676)",
@@ -7096,7 +7096,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 660670,
-              "name": "Ronald Acuña Jr.",
+              "name": "Ronald Acuña",
               "ops": 0.835,
               "avg": 0.279
             },
@@ -7108,7 +7108,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671739,
-              "name": "Michael Harris II",
+              "name": "Michael Harris",
               "ops": 0.794,
               "avg": 0.31
             },
@@ -7277,7 +7277,7 @@ window.PREDICTIONS_DATA = [
             "Daulton Varsho(0.597)",
             "Christian Walker(0.548)",
             "Taylor Trammell(0.615)",
-            "LaMonte Wade Jr.(0.709)",
+            "LaMonte Wade(0.709)",
             "Christian Vázquez(0.394)"
           ],
           "lineup_players": [
@@ -7325,7 +7325,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 664774,
-              "name": "LaMonte Wade Jr.",
+              "name": "LaMonte Wade",
               "ops": 0.709,
               "avg": 0.263
             },

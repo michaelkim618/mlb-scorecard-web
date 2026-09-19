@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-19T17:23:48.375177+00:00",
+  "updated_at": "2026-09-19T17:42:40.832669+00:00",
   "news": [
+    {
+      "title": "LIVE: Watch 2024 first-rounder King (WSH) dig in at Triple-A vs. Blue Jays prospects",
+      "link": "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789434480/mlb/f7kqxh4mlwxmdefvqdl2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brendan Samson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-19T17:00:00+00:00",
+      "time_ago": "42m ago"
+    },
     {
       "title": "Judge heads back to IL with right calf strain; no timeline for his return",
       "link": "https://www.mlb.com/news/aaron-judge-placed-on-injured-list-with-right-calf-strain-september-2026",
@@ -12,7 +25,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-19T16:57:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -38,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-19T06:35:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Down Judge, Yanks blitz D-backs behind steady Cole, pick up a game on Rays",
@@ -90,19 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-19T05:48:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Crew works late-inning magic to gain ground on regular-season crown",
-      "link": "https://www.mlb.com/news/brewers-beat-orioles-in-10-innings-extend-national-league-lead",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789786604/mlb/kcdkpcdra0yd4w57glur",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-19T05:37:00+00:00",
       "time_ago": "11h ago"
     }
   ]
