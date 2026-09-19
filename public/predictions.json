@@ -1564,123 +1564,123 @@
       "losses": 1,
       "streak": -1
     },
-    "away_pitcher": "Patrick Sandoval (미정)",
-    "away_pitcher_id": 663776,
+    "away_pitcher": "Brayan Bello",
+    "away_pitcher_id": 678394,
     "away_pitcher_stats": {
-      "wins": 1,
-      "losses": 6,
-      "era": "4.99"
+      "wins": 6,
+      "losses": 7,
+      "era": "4.74"
     },
     "away_pitcher_gamelog": [
       {
-        "date": "2026-07-24",
-        "opp": "vs TOR",
-        "decision": null,
-        "ip": "4.2",
+        "date": "2026-07-31",
+        "opp": "@ LAD",
+        "decision": "W",
+        "ip": "4.0",
         "er": 0,
-        "h": 5,
-        "bb": 2,
+        "h": 3,
+        "bb": 1,
         "so": 3,
         "era": 0.0
       },
       {
-        "date": "2026-07-29",
-        "opp": "@ OAK",
-        "decision": null,
-        "ip": "5.0",
-        "er": 2,
-        "h": 5,
-        "bb": 2,
-        "so": 7,
-        "era": 3.6
-      },
-      {
         "date": "2026-08-04",
         "opp": "vs CWS",
-        "decision": "W",
-        "ip": "5.0",
-        "er": 2,
-        "h": 6,
-        "bb": 4,
-        "so": 5,
-        "era": 3.6
-      },
-      {
-        "date": "2026-08-11",
-        "opp": "@ TOR",
-        "decision": "L",
-        "ip": "6.0",
-        "er": 2,
-        "h": 8,
-        "bb": 3,
-        "so": 4,
-        "era": 3.0
-      },
-      {
-        "date": "2026-08-16",
-        "opp": "@ PIT",
-        "decision": "L",
-        "ip": "4.0",
-        "er": 7,
-        "h": 9,
-        "bb": 3,
-        "so": 6,
-        "era": 15.75
-      },
-      {
-        "date": "2026-08-22",
-        "opp": "vs SF",
         "decision": null,
-        "ip": "5.2",
-        "er": 2,
-        "h": 5,
-        "bb": 2,
-        "so": 6,
-        "era": 3.18
+        "ip": "3.0",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 2,
+        "era": 0.0
       },
       {
-        "date": "2026-08-28",
-        "opp": "@ NYY",
-        "decision": "L",
-        "ip": "5.1",
+        "date": "2026-08-06",
+        "opp": "vs CWS",
+        "decision": "W",
+        "ip": "2.0",
+        "er": 0,
+        "h": 3,
+        "bb": 1,
+        "so": 1,
+        "era": 0.0
+      },
+      {
+        "date": "2026-08-09",
+        "opp": "vs OAK",
+        "decision": null,
+        "ip": "4.0",
         "er": 1,
         "h": 3,
-        "bb": 4,
-        "so": 7,
-        "era": 1.69
+        "bb": 0,
+        "so": 4,
+        "era": 2.25
+      },
+      {
+        "date": "2026-08-17",
+        "opp": "vs OAK",
+        "decision": "W",
+        "ip": "4.2",
+        "er": 1,
+        "h": 3,
+        "bb": 1,
+        "so": 3,
+        "era": 1.93
+      },
+      {
+        "date": "2026-08-24",
+        "opp": "@ MIA",
+        "decision": null,
+        "ip": "2.0",
+        "er": 1,
+        "h": 2,
+        "bb": 2,
+        "so": 1,
+        "era": 4.5
+      },
+      {
+        "date": "2026-08-29",
+        "opp": "@ NYY",
+        "decision": "L",
+        "ip": "4.1",
+        "er": 4,
+        "h": 5,
+        "bb": 1,
+        "so": 2,
+        "era": 8.31
       },
       {
         "date": "2026-09-02",
         "opp": "vs SEA",
-        "decision": "L",
-        "ip": "4.0",
-        "er": 3,
-        "h": 5,
-        "bb": 3,
-        "so": 2,
-        "era": 6.75
+        "decision": null,
+        "ip": "3.0",
+        "er": 4,
+        "h": 7,
+        "bb": 2,
+        "so": 0,
+        "era": 12.0
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-07",
         "opp": "vs LAA",
-        "decision": "L",
-        "ip": "6.0",
-        "er": 4,
-        "h": 10,
+        "decision": "W",
+        "ip": "5.0",
+        "er": 0,
+        "h": 4,
         "bb": 2,
         "so": 7,
-        "era": 6.0
+        "era": 0.0
       },
       {
         "date": "2026-09-15",
         "opp": "@ TEX",
-        "decision": "L",
-        "ip": "2.2",
-        "er": 4,
-        "h": 4,
-        "bb": 2,
-        "so": 5,
-        "era": 13.5
+        "decision": null,
+        "ip": "1.2",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 2,
+        "era": 0.0
       }
     ],
     "home_pitcher": "Freddy Peralta",
@@ -1804,19 +1804,19 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 39.3,
-      "home": 60.7
+      "away": 38.6,
+      "home": 61.4
     },
     "expected_score": {
       "away": 1.5,
-      "home": 3.3
+      "home": 3.1
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
       "bat_source": "prev_day",
-      "away_handedness": "L",
+      "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": false,
       "any_cold_sp": true,
@@ -1827,78 +1827,77 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 29.0,
+        "sp_score": 41.3,
         "sp_detail": {
-          "era": 5.03,
-          "whip": 1.8,
-          "k9": 9.7,
-          "avg_ip": 4.8,
-          "qs_rate": 10.0,
-          "last3_era": 5.32,
-          "last_start_era": 13.5,
+          "era": 2.94,
+          "whip": 1.19,
+          "k9": 6.7,
+          "avg_ip": 3.4,
+          "qs_rate": 0.0,
+          "last3_era": 5.06,
+          "last_start_era": 0.0,
           "last2_eras": [
-            6.0,
-            13.5
+            0.0,
+            0.0
           ],
-          "recent_avg_era": 13.5,
-          "recent_bad_start": true,
+          "recent_avg_era": 0.0,
+          "recent_bad_start": false,
           "trend": "cold",
           "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 4,
           "rest_note": null,
-          "age": 29,
-          "fb_velo": 93.9,
+          "age": 27,
+          "fb_velo": 95.4,
           "pitch_arsenal": [
-            "CH",
-            "FB",
-            "SL",
             "SI",
+            "CH",
+            "CT",
             "SW",
+            "FB",
             "CB"
           ],
           "secondary_pitches": [
             "CH",
-            "SL",
             "SW",
             "CB"
           ],
           "pitches_detail": [
             {
-              "code": "CH",
-              "abbr": "CH",
-              "pct": 26.2,
-              "velo": 83.5
-            },
-            {
-              "code": "FF",
-              "abbr": "FB",
-              "pct": 22.4,
-              "velo": 93.5
-            },
-            {
-              "code": "SL",
-              "abbr": "SL",
-              "pct": 22.4,
-              "velo": 86.8
-            },
-            {
               "code": "SI",
               "abbr": "SI",
-              "pct": 19.1,
-              "velo": 93.9
+              "pct": 39.7,
+              "velo": 95.3
+            },
+            {
+              "code": "CH",
+              "abbr": "CH",
+              "pct": 20.1,
+              "velo": 89.0
+            },
+            {
+              "code": "FC",
+              "abbr": "CT",
+              "pct": 15.4,
+              "velo": 87.5
             },
             {
               "code": "ST",
               "abbr": "SW",
-              "pct": 5.4,
-              "velo": 80.6
+              "pct": 13.5,
+              "velo": 85.9
+            },
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 7.6,
+              "velo": 95.4
             },
             {
               "code": "CU",
               "abbr": "CB",
-              "pct": 4.5,
-              "velo": 75.7
+              "pct": 3.6,
+              "velo": 83.4
             }
           ]
         },
@@ -2010,7 +2009,7 @@
           }
         },
         "sit_score": 52.7,
-        "total": 38.8
+        "total": 48.1
       },
       "home": {
         "sp_score": 54.5,
@@ -2103,7 +2102,7 @@
           "season_avg": 0.275,
           "n_games": 9,
           "source": "prev_day",
-          "handedness": "L",
+          "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
             "Yandy Díaz(0.615)",
@@ -2194,7 +2193,7 @@
     },
     "scores": {
       "away_offense": 25.0,
-      "away_defense": 50.8,
+      "away_defense": 56.9,
       "home_offense": 46.2,
       "home_defense": 64.8
     },
@@ -2214,7 +2213,7 @@
     "model_correct": null,
     "notes": "Boston Red Sox IL: Anthony Seigler, Ceddanne Rafaela, Curtis Mead, Eduardo Rivera, Eli White 외 다수 / Tampa Bay Rays IL: Ben Williamson, Edwin Uceta, Garrett Cleavinger, Gavin Lux, Jonathan Heasley 외 다수",
     "kalshi_prob": 58.0,
-    "edge": 2.7,
+    "edge": 3.4,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -8593,11 +8592,11 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 61.1,
-      "home": 38.9
+      "away": 60.0,
+      "home": 40.0
     },
     "expected_score": {
-      "away": 3.0,
+      "away": 2.8,
       "home": 2.3
     },
     "blend_detail": null,
@@ -8686,7 +8685,7 @@
           "closer_era": 2.58,
           "closer_name": "David Bednar"
         },
-        "bat_score": 46.2,
+        "bat_score": 43.2,
         "bat_detail": {
           "recent_avg": 0.272,
           "runs_per_g": 6.0,
@@ -8782,7 +8781,7 @@
           }
         },
         "sit_score": 59.1,
-        "total": 67.6
+        "total": 66.6
       },
       "home": {
         "sp_score": 43.6,
@@ -8971,7 +8970,7 @@
       }
     },
     "scores": {
-      "away_offense": 46.2,
+      "away_offense": 43.2,
       "away_defense": 73.5,
       "home_offense": 37.699999999999996,
       "home_defense": 55.5
@@ -8990,9 +8989,9 @@
     "actual_winner": null,
     "model_winner": "New York Yankees",
     "model_correct": null,
-    "notes": "New York Yankees IL: Fernando Cruz, Giancarlo Stanton, Jazz Chisholm Jr., Kervin Castro, Ryan Weathers 외 다수 / Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Cristian Mena, Ryan Thompson, Tyler Locklear",
-    "kalshi_prob": 40.0,
-    "edge": -1.1,
+    "notes": "New York Yankees IL: Aaron Judge, Fernando Cruz, Giancarlo Stanton, Jazz Chisholm Jr., Kervin Castro 외 다수 / Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Cristian Mena, Ryan Thompson, Tyler Locklear",
+    "kalshi_prob": 39.0,
+    "edge": 1.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,

@@ -9940,7 +9940,7 @@ window.PREDICTIONS_DATA = [
       "home": 50.0
     },
     "expected_score": {
-      "away": 3.0,
+      "away": 2.8,
       "home": 2.4
     },
     "blend_detail": null,
@@ -10038,7 +10038,7 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.58,
           "closer_name": "David Bednar"
         },
-        "bat_score": 46.2,
+        "bat_score": 43.2,
         "bat_detail": {
           "recent_avg": 0.272,
           "runs_per_g": 6.0,
@@ -10134,7 +10134,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 59.1,
-        "total": 64.1
+        "total": 63.2
       },
       "home": {
         "sp_score": 48.0,
@@ -10315,7 +10315,7 @@ window.PREDICTIONS_DATA = [
       }
     },
     "scores": {
-      "away_offense": 46.2,
+      "away_offense": 43.2,
       "away_defense": 65.5,
       "home_offense": 37.699999999999996,
       "home_defense": 57.7
@@ -10334,7 +10334,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "New York Yankees",
     "model_winner": "Arizona Diamondbacks",
     "model_correct": false,
-    "notes": "New York Yankees IL: Fernando Cruz, Giancarlo Stanton, Jazz Chisholm Jr., Kervin Castro, Ryan Weathers 외 다수 / Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Cristian Mena, Ryan Thompson, Tyler Locklear",
+    "notes": "New York Yankees IL: Aaron Judge, Fernando Cruz, Giancarlo Stanton, Jazz Chisholm Jr., Kervin Castro 외 다수 / Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Cristian Mena, Ryan Thompson, Tyler Locklear",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",

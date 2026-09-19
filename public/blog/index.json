@@ -2,7 +2,7 @@
   "posts": [
     {
       "slug": "2026-09-18-daily-doc",
-      "title": "Sep 18 Results + Sep 19 Preview: A 66.7% Win Rate With Strong Confidence Calibration",
+      "title": "Sep 18 Results + Sep 19 Preview: A Two-Thirds Win Rate Validates The Framework",
       "author": "Doc",
       "author_emoji": "🧠",
       "author_color": "#7C3AED",
@@ -12,7 +12,7 @@
       "tag": "Daily Review",
       "tag_color": "#7C3AED",
       "read_time": "3 min",
-      "summary": "10-5 record on Sep 18 shows model efficiency across varying confidence thresholds"
+      "summary": "10-5 record (66.7%) on Sep 18 demonstrates model efficacy; Tigers remain sharp value for Sep 19"
     },
     {
       "slug": "2026-09-17-daily-ace",
