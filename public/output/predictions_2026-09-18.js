@@ -4707,8 +4707,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 52.4,
-      "home": 47.6
+      "away": 52.7,
+      "home": 47.3
     },
     "expected_score": {
       "away": 3.0,
@@ -4801,14 +4801,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 3.35,
           "closer_name": "Kenley Jansen"
         },
-        "bat_score": 43.9,
+        "bat_score": 44.9,
         "bat_detail": {
-          "recent_avg": 0.283,
+          "recent_avg": 0.288,
           "runs_per_g": 6.1,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.816,
-          "season_avg": 0.283,
+          "season_ops": 0.823,
+          "season_avg": 0.288,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -4817,10 +4817,10 @@ window.PREDICTIONS_DATA = [
             "Kevin McGonigle(0.895)",
             "Gleyber Torres(0.671)",
             "Colt Keith(0.815)",
-            "Riley Greene(0.906)",
+            "Riley Greene(0.944)",
             "Spencer Torkelson(0.976)",
             "Zach McKinstry(0.469)",
-            "Max Clark(0.867)",
+            "Max Clark(0.891)",
             "Eduardo Valencia(0.898)",
             "Hao-Yu Lee(0.844)"
           ],
@@ -4846,8 +4846,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 682985,
               "name": "Riley Greene",
-              "ops": 0.906,
-              "avg": 0.333
+              "ops": 0.944,
+              "avg": 0.361
             },
             {
               "id": 679529,
@@ -4864,8 +4864,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 703601,
               "name": "Max Clark",
-              "ops": 0.867,
-              "avg": 0.343
+              "ops": 0.891,
+              "avg": 0.364
             },
             {
               "id": 680664,
@@ -4882,7 +4882,7 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "cold",
           "last5_rpg": 4.6,
-          "last5_avg": 0.287,
+          "last5_avg": 0.282,
           "home_split": {
             "recent_avg": 0.214,
             "runs_per_g": 4.3,
@@ -4890,14 +4890,14 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.263,
+            "recent_avg": 0.261,
             "runs_per_g": 4.6,
             "hr_per_g": 0.7,
             "n_games": 10
           }
         },
         "sit_score": 50.1,
-        "total": 46.1
+        "total": 46.5
       },
       "home": {
         "sp_score": 29.0,
@@ -4988,33 +4988,33 @@ window.PREDICTIONS_DATA = [
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.208,
-          "runs_per_g": 3.7,
+          "recent_avg": 0.211,
+          "runs_per_g": 3.8,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
-          "season_ops": 0.698,
-          "season_avg": 0.208,
+          "season_ops": 0.701,
+          "season_avg": 0.211,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Miguel Vargas(0.773)",
+            "Miguel Vargas(0.810)",
             "Tommy Pham(0.519)",
             "Randal Grichuk(0.965)",
-            "Munetaka Murakami(0.734)",
-            "Chase Meidroth(0.805)",
-            "Kyle Teel(0.634)",
+            "Munetaka Murakami(0.705)",
+            "Chase Meidroth(0.814)",
+            "Kyle Teel(0.622)",
             "Brenton Doyle(0.722)",
-            "Colson Montgomery(0.543)",
+            "Colson Montgomery(0.561)",
             "Tristan Peters(0.591)"
           ],
           "lineup_players": [
             {
               "id": 678246,
               "name": "Miguel Vargas",
-              "ops": 0.773,
-              "avg": 0.231
+              "ops": 0.81,
+              "avg": 0.25
             },
             {
               "id": 502054,
@@ -5031,20 +5031,20 @@ window.PREDICTIONS_DATA = [
             {
               "id": 808959,
               "name": "Munetaka Murakami",
-              "ops": 0.734,
-              "avg": 0.129
+              "ops": 0.705,
+              "avg": 0.138
             },
             {
               "id": 805367,
               "name": "Chase Meidroth",
-              "ops": 0.805,
-              "avg": 0.278
+              "ops": 0.814,
+              "avg": 0.273
             },
             {
               "id": 691019,
               "name": "Kyle Teel",
-              "ops": 0.634,
-              "avg": 0.15
+              "ops": 0.622,
+              "avg": 0.143
             },
             {
               "id": 686668,
@@ -5055,8 +5055,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 695657,
               "name": "Colson Montgomery",
-              "ops": 0.543,
-              "avg": 0.1
+              "ops": 0.561,
+              "avg": 0.111
             },
             {
               "id": 671976,
@@ -5066,11 +5066,11 @@ window.PREDICTIONS_DATA = [
             }
           ],
           "bat_trend": "stable",
-          "last5_rpg": 4.0,
+          "last5_rpg": 4.2,
           "last5_avg": 0.209,
           "home_split": {
             "recent_avg": 0.226,
-            "runs_per_g": 4.4,
+            "runs_per_g": 4.5,
             "hr_per_g": 1.3,
             "n_games": 10
           },
@@ -5086,7 +5086,7 @@ window.PREDICTIONS_DATA = [
       }
     },
     "scores": {
-      "away_offense": 43.9,
+      "away_offense": 44.9,
       "away_defense": 50.1,
       "home_offense": 25.0,
       "home_defense": 49.2
@@ -5114,7 +5114,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 52.4% (≤58.0%)",
+    "low_confidence_reason": "최고 확률 52.7% (≤58.0%)",
     "model_version": "v14"
   },
   {
