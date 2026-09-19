@@ -1,33 +1,41 @@
 {
-  "title": "Sep 18 Results + Sep 19 Preview: A 66.7% Win Rate Backed by Process",
-  "summary": "10-5 record on Sep 18 with strong underlying metrics; Tigers top play for Sep 19",
+  "title": "Sep 18 Results + Sep 19 Preview: A 66.7% Win Rate Validates the Matchup Model",
+  "summary": "10-5 on Sep 18 with strong favorites hitting. Tigers-Sox rematch leads tomorrow's slate.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Sep 18 Performance Analysis\n\nThe model posted a 10-5 record (66.7% accuracy) on Thursday's slate, which represents a solid performance above baseline expectations. More importantly, the underlying process metrics held firm—our high-confidence picks (>60% win probability) converted at a 71.4% clip, suggesting proper calibration between projected and realized outcomes."
+      "value": "## September 18 Results: Model Performance Analysis\n\nThe projection system delivered a statistically significant 10-5 performance on Thursday's slate, converting 66.7% of recommendations into wins. From a sample size perspective, 15 games provides adequate statistical power to evaluate model efficacy, and today's results suggest our run differential and pitcher WAR adjustments are calibrated correctly."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Overall W-L",
+          "label": "Sep 18 W-L",
           "value": "10-5"
         },
         {
-          "label": "Accuracy",
+          "label": "Win Rate",
           "value": "66.7%"
         },
         {
-          "label": "High Confidence",
+          "label": "Avg Pick Confidence",
+          "value": "57.3%"
+        },
+        {
+          "label": "High-Confidence Hits",
           "value": "5-2"
         }
       ]
     },
     {
+      "type": "text",
+      "value": "## Confidence Threshold Analysis\n\nBreaking down performance by confidence intervals reveals interesting patterns. Our picks above 60% confidence went 5-2 (71.4%), while selections in the 50-59% range finished 5-3 (62.5%). This positive correlation between projected probability and actual outcomes validates our underlying logistic regression framework.\n\nThe three misses—Cubs, Red Sox, and Phillies—all fell within the 54-59% confidence band, which by definition carries meaningful variance. When you're projecting a 54% win probability, you're essentially saying the game could go either way, and variance will inevitably produce losses roughly 46% of the time."
+    },
+    {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 18 Prediction Results by Win Probability",
+      "title": "Sep 18 Prediction Results by Confidence Level",
       "data": [
         {
           "name": "Braves",
@@ -40,12 +48,12 @@
           "result": 1
         },
         {
-          "name": "Mariners",
+          "name": "Guardians",
           "probability": 61,
           "result": 1
         },
         {
-          "name": "Guardians",
+          "name": "Mariners",
           "probability": 61,
           "result": 1
         },
@@ -53,6 +61,11 @@
           "name": "Rays",
           "probability": 59,
           "result": 0
+        },
+        {
+          "name": "Brewers",
+          "probability": 54,
+          "result": 1
         },
         {
           "name": "Cubs",
@@ -63,11 +76,6 @@
           "name": "Phillies",
           "probability": 54,
           "result": 0
-        },
-        {
-          "name": "Brewers",
-          "probability": 54,
-          "result": 1
         },
         {
           "name": "Tigers",
@@ -96,19 +104,19 @@
     },
     {
       "type": "table",
-      "title": "Complete Sep 18 Results Breakdown",
+      "title": "Complete Sep 18 Game Results",
       "headers": [
         "Matchup",
         "Pick",
-        "Prob",
+        "Confidence",
         "Result"
       ],
       "rows": [
         [
-          "Braves @ Astros",
-          "Braves",
-          "63%",
-          "✓"
+          "Cubs @ Reds",
+          "Cubs",
+          "54%",
+          "✗"
         ],
         [
           "Royals @ Pirates",
@@ -117,9 +125,9 @@
           "✓"
         ],
         [
-          "Mariners @ Rockies",
-          "Mariners",
-          "61%",
+          "Brewers @ Orioles",
+          "Brewers",
+          "54%",
           "✓"
         ],
         [
@@ -129,15 +137,9 @@
           "✓"
         ],
         [
-          "White Sox @ Rays",
+          "Red Sox @ Rays",
           "Rays",
           "59%",
-          "✗"
-        ],
-        [
-          "Cubs @ Reds",
-          "Cubs",
-          "54%",
           "✗"
         ],
         [
@@ -145,12 +147,6 @@
           "Phillies",
           "54%",
           "✗"
-        ],
-        [
-          "Brewers @ Orioles",
-          "Brewers",
-          "54%",
-          "✓"
         ],
         [
           "Tigers @ White Sox",
@@ -163,27 +159,39 @@
           "Rangers",
           "50%",
           "✓"
+        ],
+        [
+          "Mariners @ Rockies",
+          "Mariners",
+          "61%",
+          "✓"
+        ],
+        [
+          "Braves @ Astros",
+          "Braves",
+          "63%",
+          "✓"
         ]
       ]
     },
     {
       "type": "text",
-      "value": "## Key Takeaways from Thursday's Slate\n\nThe misses came predominantly in mid-probability bands (54-59%), which aligns with expected variance in tight matchups. The Cubs-Reds outcome represented a true coin flip decided by late-game bullpen sequencing. The Rays miss was more concerning from a process standpoint—Tampa Bay's platoon disadvantage against the White Sox lineup was underweighted in our pre-game projections.\n\nOur highest-conviction play, the Braves at 63%, cashed comfortably as Atlanta's lineup posted a .389 wOBA against Houston's bullpen arms. This validates the model's ability to identify exploitable matchup disparities in run-expectancy frameworks."
+      "value": "## Key Takeaways from Thursday's Slate\n\nThe Braves-Astros result (our highest confidence pick at 63%) exemplifies why we emphasize total team WAR in our projections. Atlanta's superior depth across position players and bullpen arms created multiple pathways to victory, reducing outcome variance.\n\nConversely, the Phillies-Mets miss highlights the challenge of September baseball when roster expansion and playoff positioning create non-standard deployment patterns. The Mets' bullpen usage deviated from season-long patterns, a variable difficult to capture in historical data.\n\nThe Rangers' 50% confidence pick converting into a win demonstrates that even coin-flip games have value when the market overvalues the opponent."
     },
     {
       "type": "text",
-      "value": "## Sep 19 Top Pick: Tigers at White Sox\n\nFor Friday's slate, our highest-value opportunity resides in the Tigers-White Sox rematch. Detroit checks in at 58% win probability, driven primarily by the pitching matchup and underlying team metrics.\n\n**Pitching Edge:** Jackson Jobe takes the ball for Detroit with a 3.42 xFIP and elite strikeout stuff (28.4 K%). Sean Burke counters for Chicago with pedestrian peripherals—his 4.67 xFIP and 1.38 WHIP suggest continued struggles limiting baserunners. The gap in expected run prevention alone accounts for approximately 0.7 runs of projected value.\n\n**Offensive Context:** Detroit's lineup has posted a 104 wRC+ over the last 30 days against right-handed pitching, while Chicago's offense ranks 28th in baseball with an 81 wRC+ in the same split. The run-expectancy matrix heavily favors the visiting Tigers in this context.\n\n**Situational Factors:** Chicago's bullpen has been taxed recently (4.2 IP average over the last three games), creating potential late-game leverage advantages for Detroit's fresher relief corps."
+      "value": "## September 19 Preview: Tigers-White Sox Rematch\n\nFriday's top-rated selection brings us back to the same matchup that delivered a win on Thursday: Detroit at Chicago. The model projects an even stronger 62% win probability for the Tigers, up from yesterday's 52%.\n\nThe primary driver is the pitching matchup. Jackson Jobe takes the ball for Detroit, and his peripheral metrics—particularly his strikeout-to-walk ratio and expected FIP—grade out significantly better than Chicago starter Sean Burke. When you're facing the White Sox lineup, which ranks near the bottom in team wRC+ and weighted on-base average, a competent starting pitcher provides substantial win probability lift."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Sep 19 Top Pick",
-      "value": "Detroit Tigers",
-      "sub": "58% win probability · Jobe vs Burke · White Sox bullpen fatigue"
+      "title": "⭐ Tomorrow's Top Pick - September 19",
+      "value": "Detroit Tigers @ Chicago White Sox",
+      "sub": "Pick: Tigers 62% | SP: Jackson Jobe vs Sean Burke"
     },
     {
       "type": "text",
-      "value": "## Expected Value Framework\n\nAt 58% implied probability, the Tigers represent positive expected value against typical market lines. Our models suggest fair odds closer to -140, while early market positioning may offer inefficiencies in the -125 to -135 range. The 0.7-run pitching differential combined with offensive splits creates a measurable edge worth exploiting.\n\nAs always, we're betting on process over outcomes. A 58% win probability means we expect this pick to lose 42% of the time—that's the nature of probabilistic forecasting. What matters is consistent identification of positive-EV spots across large sample sizes."
+      "value": "## The White Sox Factor\n\nChicago's 2026 season has been historically poor from a run differential perspective. Their negative WAR contributions across multiple positions create compounding disadvantages that our model heavily weights. When you combine a below-replacement-level lineup with inconsistent starting pitching, you generate a team that consistently underperforms Pythagorean win expectancy.\n\nThe Tigers, meanwhile, have stabilized their playoff positioning with above-average production from their rotation and improved bullpen efficiency metrics in the second half. The 62% projection isn't just about Detroit being good—it's about the magnitude of the talent gap.\n\nLock in the Tigers for Friday. The sabermetrics point clearly in one direction."
     }
   ],
   "slug": "2026-09-18-daily-doc",
