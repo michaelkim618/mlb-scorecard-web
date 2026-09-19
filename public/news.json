@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T03:50:26.132553+00:00",
+  "updated_at": "2026-09-19T04:39:27.106916+00:00",
   "news": [
     {
       "title": "Rays lament blown chances after rare oh-fer with RISP",
@@ -11,8 +11,73 @@
       "author": "Adam Berry",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-19T03:30:00+00:00",
-      "time_ago": "20m ago"
+      "pub_date": "2026-09-19T04:31:00+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Kerkering's struggles atop Phils' bullpen concerns in final postseason push",
+      "link": "https://www.mlb.com/news/orion-kerkering-struggles-continue-in-phillies-loss",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/obfodx7hz1lfnvobjlbb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-19T04:26:00+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "O's, Brewers celebrate Latin camaraderie in Hispanic Heritage Night ceremony",
+      "link": "https://www.mlb.com/news/orioles-host-hispanic-heritage-night-at-camden-yards",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hpdk6cnu2rp9fv9cbkcb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brent Maguire",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-19T04:04:17+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "Flip out! Minor Leaguer sends club to Finals, nails perfect backflip",
+      "link": "https://www.mlb.com/news/minor-leaguer-alfred-morillo-hits-backflip-game-ending-save",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/es7za03fzsrcxyjfhdqc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jesse Borek",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-19T04:04:00+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "Wheels fall off in 6th frame for Holmes, Cubs in missed opportunity",
+      "link": "https://www.mlb.com/news/clay-holmes-struggles-with-control-in-6th-inning-in-cubs-loss",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/atrs4vwbwhwi34uybkah",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bill Ladson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-19T03:50:00+00:00",
+      "time_ago": "49m ago"
+    },
+    {
+      "title": "Anthony's blast sets tone in return to home state as Sox close in on playoff berth",
+      "link": "https://www.mlb.com/news/roman-anthony-drives-in-three-as-red-sox-beat-rays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789791288/mlb/v9ximvrm0whixuppkrg8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-19T03:49:00+00:00",
+      "time_ago": "50m ago"
     },
     {
       "title": "Rocker solid as Rangers move back into tie atop AL West",
@@ -25,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T03:19:39+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "The Braves are back! In postseason for 8th time in 9 years!",
@@ -38,72 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T03:17:00+00:00",
-      "time_ago": "33m ago"
-    },
-    {
-      "title": "O's can't complete comeback in extras, remain 3 games out of Wild Card spot",
-      "link": "https://www.mlb.com/news/orioles-lose-in-10-innings-to-brewers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ehrqvypyhmy5nfnlepur",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-19T03:16:26+00:00",
-      "time_ago": "34m ago"
-    },
-    {
-      "title": "Crew works late-inning magic vs. O's to gain ground on regular-season crown",
-      "link": "https://www.mlb.com/news/brewers-beat-orioles-in-10-innings-extend-national-league-lead",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789786604/mlb/kcdkpcdra0yd4w57glur",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-19T03:13:57+00:00",
-      "time_ago": "36m ago"
-    },
-    {
-      "title": "White Sox lose grip on AL Central lead after Tigers score 9 unanswered",
-      "link": "https://www.mlb.com/news/white-sox-lose-al-central-lead-to-guardians-after-loss-to-tigers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lbjnno2ypcaltte9lmp4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-19T03:12:04+00:00",
-      "time_ago": "38m ago"
-    },
-    {
-      "title": "Astros on wrong side of celebration after 3 costly homers",
-      "link": "https://www.mlb.com/news/astros-allow-three-2-run-homers-in-loss-to-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w7enqxwkrhd5xuwfyekw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Schaeffer ",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-19T03:06:48+00:00",
-      "time_ago": "43m ago"
-    },
-    {
-      "title": "Peters exits after running full speed into outfield wall",
-      "link": "https://www.mlb.com/news/tristan-peters-exits-with-injury-after-running-into-outfield-wall",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vug2dlcd97ymkvq7nxtg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-19T02:53:00+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
