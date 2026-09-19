@@ -1,0 +1,79 @@
+{
+  "predictions": [
+    "13:05"
+  ],
+  "results": false,
+  "lineup_refreshed": [
+    "11:10"
+  ],
+  "predictions_frozen": [
+    "11:10",
+    "13:05"
+  ],
+  "frozen_predictions": {
+    "11:10": [
+      {
+        "game_pk": "824545",
+        "win_prob": {
+          "away": 61.5,
+          "home": 38.5
+        },
+        "model_winner": "Detroit Tigers",
+        "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Chicago White Sox)",
+        "edge": -14.5,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "SP 점수 차이 4.5pt (≤5.0pt)",
+        "extreme_edge": false
+      }
+    ],
+    "13:05": [
+      {
+        "game_pk": "824788",
+        "win_prob": {
+          "away": 58.4,
+          "home": 41.6
+        },
+        "model_winner": "Milwaukee Brewers",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -7.4,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "SP 점수 차이 3.1pt (≤5.0pt)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "822921",
+        "win_prob": {
+          "away": 38.6,
+          "home": 61.4
+        },
+        "model_winner": "Tampa Bay Rays",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 3.4,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823571",
+        "win_prob": {
+          "away": 54.0,
+          "home": 46.0
+        },
+        "model_winner": "Philadelphia Phillies",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -3.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "SP 점수 차이 0.3pt (≤5.0pt) / 최고 확률 50.0% (≤58.0%)",
+        "extreme_edge": false
+      }
+    ]
+  }
+}
