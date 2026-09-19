@@ -1065,7 +1065,7 @@ window.PREDICTIONS_DATA = [
       "home": 50.0
     },
     "expected_score": {
-      "away": 3.0,
+      "away": 3.2,
       "home": 1.8
     },
     "blend_detail": null,
@@ -1078,9 +1078,9 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": true,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.35,
+        "sp": 0.31,
         "bp": 0.3,
-        "bat": 0.28,
+        "bat": 0.32,
         "sit": 0.15
       },
       "away": {
@@ -1163,7 +1163,7 @@ window.PREDICTIONS_DATA = [
         "bp_detail": {
           "bullpen_era": 3.76,
           "recent_era": 7.07,
-          "recent_appearances": 16,
+          "recent_appearances": 17,
           "recent_ip": 14.0,
           "team_era": 3.24,
           "bp_ip": 289.3,
@@ -1171,14 +1171,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.82,
           "closer_name": "Tanner Scott"
         },
-        "bat_score": 42.7,
+        "bat_score": 44.8,
         "bat_detail": {
-          "recent_avg": 0.24,
-          "runs_per_g": 5.3,
-          "hr_per_g": 1.8,
+          "recent_avg": 0.239,
+          "runs_per_g": 5.6,
+          "hr_per_g": 2.0,
           "bb_per_g": 3.0,
           "season_ops": 0.77,
-          "season_avg": 0.24,
+          "season_avg": 0.239,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -1187,9 +1187,9 @@ window.PREDICTIONS_DATA = [
             "Tommy Edman(0.436)",
             "Freddie Freeman(0.580)",
             "Kyle Tucker(1.135)",
-            "Teoscar Hernández(0.951)",
+            "Teoscar Hernández(0.936)",
             "Max Muncy(0.864)",
-            "Josue De Paula(0.915)",
+            "Josue De Paula(0.924)",
             "Hunter Feduccia(0.579)",
             "Alex Freeland(0.788)",
             "Miguel Rojas(0.686)"
@@ -1216,8 +1216,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 606192,
               "name": "Teoscar Hernández",
-              "ops": 0.951,
-              "avg": 0.353
+              "ops": 0.936,
+              "avg": 0.343
             },
             {
               "id": 571970,
@@ -1228,7 +1228,7 @@ window.PREDICTIONS_DATA = [
             {
               "id": 800543,
               "name": "Josue De Paula",
-              "ops": 0.915,
+              "ops": 0.924,
               "avg": 0.238
             },
             {
@@ -1251,12 +1251,12 @@ window.PREDICTIONS_DATA = [
             }
           ],
           "bat_trend": "stable",
-          "last5_rpg": 4.6,
-          "last5_avg": 0.244,
+          "last5_rpg": 5.2,
+          "last5_avg": 0.252,
           "home_split": {
-            "recent_avg": 0.248,
-            "runs_per_g": 6.3,
-            "hr_per_g": 1.4,
+            "recent_avg": 0.252,
+            "runs_per_g": 6.6,
+            "hr_per_g": 1.6,
             "n_games": 10
           },
           "away_split": {
@@ -1267,7 +1267,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 62.7,
-        "total": 45.5
+        "total": 46.3
       },
       "home": {
         "sp_score": 29.0,
@@ -1437,11 +1437,11 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 48.5,
-        "total": 35.1
+        "total": 34.9
       }
     },
     "scores": {
-      "away_offense": 42.7,
+      "away_offense": 44.8,
       "away_defense": 45.8,
       "home_offense": 25.0,
       "home_defense": 43.2
