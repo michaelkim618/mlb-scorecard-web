@@ -303,8 +303,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 57.6,
-      "home": 42.4
+      "away": 57.4,
+      "home": 42.6
     },
     "expected_score": {
       "away": 3.1,
@@ -710,8 +710,8 @@
     "model_winner": "Detroit Tigers",
     "model_correct": null,
     "notes": "Detroit Tigers IL: Bailey Horn, Burch Smith, Jack Flaherty, Justin Verlander, Kerry Carpenter 외 다수 / Chicago White Sox IL: Brooks Baldwin, Huascar Brazobán, Joey Bart, Jordan Leasure, Ky Bush 외 다수",
-    "kalshi_prob": 54.0,
-    "edge": -11.6,
+    "kalshi_prob": 55.0,
+    "edge": -12.4,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Chicago White Sox)",
     "extreme_edge": false,
     "consensus": false,
@@ -4464,8 +4464,8 @@
     "model_winner": "Chicago Cubs",
     "model_correct": null,
     "notes": "Chicago Cubs IL: Ben Brown, Cade Horton, Gavin Hollowell, Hunter Harvey, Justin Steele 외 다수 / Cincinnati Reds IL: Blake Dunn, Hunter Greene, Julian Garcia, Michael Toglia, Spencer Steer",
-    "kalshi_prob": 44.0,
-    "edge": 1.1,
+    "kalshi_prob": 43.0,
+    "edge": 2.1,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
