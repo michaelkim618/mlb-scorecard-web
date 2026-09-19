@@ -736,7 +736,7 @@ window.PREDICTIONS_DATA = [
     "away_standing": {
       "div_rank": 1,
       "div_name": "NL West",
-      "wins": 93,
+      "wins": 94,
       "losses": 60,
       "games_back": "-"
     },
@@ -1159,14 +1159,14 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 49.4,
+        "bp_score": 47.9,
         "bp_detail": {
-          "bullpen_era": 3.76,
-          "recent_era": 7.07,
+          "bullpen_era": 3.75,
+          "recent_era": 6.6,
           "recent_appearances": 17,
-          "recent_ip": 14.0,
+          "recent_ip": 15.0,
           "team_era": 3.24,
-          "bp_ip": 289.3,
+          "bp_ip": 290.3,
           "bp_count": 8,
           "closer_era": 2.82,
           "closer_name": "Tanner Scott"
@@ -1187,7 +1187,7 @@ window.PREDICTIONS_DATA = [
             "Tommy Edman(0.436)",
             "Freddie Freeman(0.580)",
             "Kyle Tucker(1.135)",
-            "Teoscar Hernández(0.936)",
+            "Teoscar Hernández(0.935)",
             "Max Muncy(0.864)",
             "Josue De Paula(0.924)",
             "Hunter Feduccia(0.579)",
@@ -1216,7 +1216,7 @@ window.PREDICTIONS_DATA = [
             {
               "id": 606192,
               "name": "Teoscar Hernández",
-              "ops": 0.936,
+              "ops": 0.935,
               "avg": 0.343
             },
             {
@@ -1266,8 +1266,8 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           }
         },
-        "sit_score": 62.7,
-        "total": 46.3
+        "sit_score": 62.8,
+        "total": 46.0
       },
       "home": {
         "sp_score": 29.0,
@@ -1442,7 +1442,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 44.8,
-      "away_defense": 45.8,
+      "away_defense": 44.9,
       "home_offense": 25.0,
       "home_defense": 43.2
     },
@@ -2233,14 +2233,14 @@ window.PREDICTIONS_DATA = [
       "div_name": "NL West",
       "wins": 85,
       "losses": 69,
-      "games_back": "8.5"
+      "games_back": "9.0"
     },
     "home_standing": {
       "div_rank": 5,
       "div_name": "NL West",
       "wins": 56,
       "losses": 98,
-      "games_back": "37.5"
+      "games_back": "38.0"
     },
     "away_recent_form": {
       "games": [

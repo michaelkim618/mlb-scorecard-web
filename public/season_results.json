@@ -14617,6 +14617,30 @@
       "away_bp_score": 74.1,
       "home_bp_score": 68.8,
       "bat_source": "team_stats"
+    },
+    {
+      "date": "2026-09-18",
+      "away": "San Francisco Giants",
+      "home": "Los Angeles Dodgers",
+      "game_number": 1,
+      "pick": "Los Angeles Dodgers",
+      "pick_prob": 59.4,
+      "actual_winner": "Los Angeles Dodgers",
+      "away_score": null,
+      "home_score": null,
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "cold",
+      "away_sp_era": 3.68,
+      "home_sp_era": 3.56,
+      "away_bp_era": 4.06,
+      "home_bp_era": 3.78,
+      "away_sp_score": 33.3,
+      "home_sp_score": 48.7,
+      "away_bp_score": 45.0,
+      "home_bp_score": 47.2,
+      "bat_source": "team_stats"
     }
   ]
 }
