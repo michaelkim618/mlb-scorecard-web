@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-19T16:44:29.362199+00:00",
+  "updated_at": "2026-09-19T17:11:22.841103+00:00",
   "news": [
+    {
+      "title": "Judge heads back to IL with right calf strain; no timeline for his return",
+      "link": "https://www.mlb.com/news/aaron-judge-placed-on-injured-list-with-right-calf-strain-september-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wdxq3fgdy9oibss6mefq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-19T16:57:00+00:00",
+      "time_ago": "14m ago"
+    },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
       "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T06:11:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "New face stars as Rangers' bullpen goes 'all hands on deck' to pull even atop AL West",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T05:57:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Díaz returns from IL with sharp outing in new low-leverage role",
@@ -64,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-19T05:54:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Now even with Cubs, Phillies for top WC spot, Padres take aim at home playoff series",
@@ -77,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-19T05:48:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Crew works late-inning magic to gain ground on regular-season crown",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T05:37:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Astros on wrong side of another celebration, fall into tie atop AL West",
-      "link": "https://www.mlb.com/news/astros-allow-three-2-run-homers-in-loss-to-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w7enqxwkrhd5xuwfyekw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Schaeffer ",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-19T05:27:00+00:00",
       "time_ago": "11h ago"
     }
   ]
