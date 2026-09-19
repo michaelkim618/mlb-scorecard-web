@@ -304,8 +304,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 57.1,
-      "home": 42.9
+      "away": 57.6,
+      "home": 42.4
     },
     "expected_score": {
       "away": 3.1,
@@ -711,8 +711,8 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Detroit Tigers",
     "model_correct": null,
     "notes": "Detroit Tigers IL: Bailey Horn, Burch Smith, Jack Flaherty, Justin Verlander, Kerry Carpenter 외 다수 / Chicago White Sox IL: Brooks Baldwin, Huascar Brazobán, Joey Bart, Jordan Leasure, Ky Bush 외 다수",
-    "kalshi_prob": 56.0,
-    "edge": -13.1,
+    "kalshi_prob": 54.0,
+    "edge": -11.6,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Chicago White Sox)",
     "extreme_edge": false,
     "consensus": false,
@@ -1457,9 +1457,9 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Milwaukee Brewers",
     "model_correct": null,
     "notes": "Milwaukee Brewers IL: Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Bryse Wilson, Grant Anderson 외 다수 / Baltimore Orioles IL: Blaze Alexander, Christian Franklin, Colin Selby, Félix Bautista, Jackson Holliday 외 다수",
-    "kalshi_prob": 45.0,
-    "edge": -6.0,
-    "value_bet": "➖ 시장과 유사",
+    "kalshi_prob": 48.0,
+    "edge": -9.0,
+    "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Baltimore Orioles)",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
@@ -2114,7 +2114,7 @@ window.PREDICTIONS_DATA = [
             "Chandler Simpson(0.689)",
             "Jonny DeLuca(0.634)",
             "Nick Fortes(0.843)",
-            "Victor Mesa(1.075)",
+            "Victor Mesa Jr.(1.075)",
             "Taylor Walls(0.643)"
           ],
           "lineup_players": [
@@ -2162,7 +2162,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 683748,
-              "name": "Victor Mesa",
+              "name": "Victor Mesa Jr.",
               "ops": 1.075,
               "avg": 0.406
             },
@@ -4936,7 +4936,7 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Carter Jensen(0.867)",
-            "Bobby Witt(0.669)",
+            "Bobby Witt Jr.(0.669)",
             "Vinnie Pasquantino(0.822)",
             "Maikel Garcia(0.660)",
             "Michael Massey(0.750)",
@@ -4954,7 +4954,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 677951,
-              "name": "Bobby Witt",
+              "name": "Bobby Witt Jr.",
               "ops": 0.669,
               "avg": 0.162
             },
@@ -5581,8 +5581,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 41.2,
-      "home": 58.8
+      "away": 40.8,
+      "home": 59.2
     },
     "expected_score": {
       "away": 1.5,
@@ -5988,9 +5988,9 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Texas Rangers",
     "model_correct": null,
     "notes": "Toronto Blue Jays IL: Addison Barger, Anthony Santander, Bowden Francis, Cody Ponce, Jake Bloss 외 다수 / Texas Rangers IL: Carter Baumler, Cole Winn, Jack Leiter, Jalen Beeks, Jose Corniell 외 다수",
-    "kalshi_prob": 46.0,
-    "edge": 12.8,
-    "value_bet": "⚠️ VB주의(선발Hot·edge부족 12.8%p<14.0%p)",
+    "kalshi_prob": 48.0,
+    "edge": 11.2,
+    "value_bet": "⚠️ VB주의(선발Hot·edge부족 11.2%p<14.0%p)",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
@@ -6448,9 +6448,9 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Drake Baldwin(0.855)",
-            "Ronald Acuña(0.835)",
+            "Ronald Acuña Jr.(0.835)",
             "Matt Olson(0.865)",
-            "Michael Harris(0.794)",
+            "Michael Harris II(0.794)",
             "Mauricio Dubón(0.812)",
             "Ozzie Albies(0.633)",
             "Mike Yastrzemski(0.676)",
@@ -6466,7 +6466,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 660670,
-              "name": "Ronald Acuña",
+              "name": "Ronald Acuña Jr.",
               "ops": 0.835,
               "avg": 0.279
             },
@@ -6478,7 +6478,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671739,
-              "name": "Michael Harris",
+              "name": "Michael Harris II",
               "ops": 0.794,
               "avg": 0.31
             },
@@ -6631,7 +6631,7 @@ window.PREDICTIONS_DATA = [
             "Daulton Varsho(0.597)",
             "Christian Walker(0.548)",
             "Taylor Trammell(0.615)",
-            "LaMonte Wade(0.709)",
+            "LaMonte Wade Jr.(0.709)",
             "Christian Vázquez(0.394)"
           ],
           "lineup_players": [
@@ -6679,7 +6679,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 664774,
-              "name": "LaMonte Wade",
+              "name": "LaMonte Wade Jr.",
               "ops": 0.709,
               "avg": 0.263
             },
@@ -6731,8 +6731,8 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Houston Astros",
     "model_correct": null,
     "notes": "Atlanta Braves IL: Bryce Elder, Joe Jiménez, Joey Wentz, Lane Thomas, Reynaldo López 외 다수 / Houston Astros IL: Brandon Walter, Brice Matthews, Carlos Correa, Mike Burrows, Steven Okert",
-    "kalshi_prob": 52.0,
-    "edge": -1.3,
+    "kalshi_prob": 54.0,
+    "edge": -3.3,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -7494,8 +7494,8 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Washington Nationals",
     "model_correct": null,
     "notes": "Washington Nationals IL: Connelly Early, DJ Herz, Drew Millas, Ken Waldichuk, Matt Waldron 외 다수 / St. Louis Cardinals IL: Blaze Jordan, Everson Pereira, Hunter Dobbins, Joshua Báez, Max Rajcic",
-    "kalshi_prob": 54.0,
-    "edge": -14.7,
+    "kalshi_prob": 51.0,
+    "edge": -11.7,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: St. Louis Cardinals)",
     "extreme_edge": false,
     "consensus": false,
