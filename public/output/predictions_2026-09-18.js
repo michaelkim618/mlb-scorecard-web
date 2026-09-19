@@ -1186,7 +1186,7 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Carter Jensen(0.867)",
-            "Bobby Witt(0.669)",
+            "Bobby Witt Jr.(0.669)",
             "Vinnie Pasquantino(0.822)",
             "Maikel Garcia(0.660)",
             "Michael Massey(0.750)",
@@ -1204,7 +1204,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 677951,
-              "name": "Bobby Witt",
+              "name": "Bobby Witt Jr.",
               "ops": 0.669,
               "avg": 0.162
             },
@@ -3600,7 +3600,7 @@ window.PREDICTIONS_DATA = [
             "Chandler Simpson(0.689)",
             "Jonny DeLuca(0.634)",
             "Nick Fortes(0.843)",
-            "Victor Mesa(1.075)",
+            "Victor Mesa Jr.(1.075)",
             "Taylor Walls(0.643)"
           ],
           "lineup_players": [
@@ -3648,7 +3648,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 683748,
-              "name": "Victor Mesa",
+              "name": "Victor Mesa Jr.",
               "ops": 1.075,
               "avg": 0.406
             },
@@ -4707,11 +4707,11 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 52.7,
-      "home": 47.3
+      "away": 52.8,
+      "home": 47.2
     },
     "expected_score": {
-      "away": 3.0,
+      "away": 3.1,
       "home": 1.8
     },
     "blend_detail": null,
@@ -4801,14 +4801,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 3.35,
           "closer_name": "Kenley Jansen"
         },
-        "bat_score": 44.9,
+        "bat_score": 45.1,
         "bat_detail": {
-          "recent_avg": 0.29,
-          "runs_per_g": 6.1,
+          "recent_avg": 0.289,
+          "runs_per_g": 6.2,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.822,
-          "season_avg": 0.29,
+          "season_ops": 0.82,
+          "season_avg": 0.289,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -4820,7 +4820,7 @@ window.PREDICTIONS_DATA = [
             "Riley Greene(0.958)",
             "Spencer Torkelson(0.976)",
             "Zach McKinstry(0.469)",
-            "Max Clark(0.891)",
+            "Max Clark(0.875)",
             "Eduardo Valencia(0.898)",
             "Hao-Yu Lee(0.859)"
           ],
@@ -4864,8 +4864,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 703601,
               "name": "Max Clark",
-              "ops": 0.891,
-              "avg": 0.364
+              "ops": 0.875,
+              "avg": 0.353
             },
             {
               "id": 680664,
@@ -4881,8 +4881,8 @@ window.PREDICTIONS_DATA = [
             }
           ],
           "bat_trend": "cold",
-          "last5_rpg": 4.6,
-          "last5_avg": 0.286,
+          "last5_rpg": 4.8,
+          "last5_avg": 0.287,
           "home_split": {
             "recent_avg": 0.214,
             "runs_per_g": 4.3,
@@ -4890,8 +4890,8 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.263,
-            "runs_per_g": 4.6,
+            "recent_avg": 0.264,
+            "runs_per_g": 4.7,
             "hr_per_g": 0.7,
             "n_games": 10
           }
@@ -4980,7 +4980,7 @@ window.PREDICTIONS_DATA = [
           "recent_era": 3.92,
           "recent_appearances": 17,
           "recent_ip": 20.7,
-          "team_era": 4.01,
+          "team_era": 4.02,
           "bp_ip": 260.7,
           "bp_count": 5,
           "closer_era": 2.34,
@@ -5086,7 +5086,7 @@ window.PREDICTIONS_DATA = [
       }
     },
     "scores": {
-      "away_offense": 44.9,
+      "away_offense": 45.1,
       "away_defense": 50.1,
       "home_offense": 25.0,
       "home_defense": 49.2
@@ -5114,7 +5114,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 52.7% (≤58.0%)",
+    "low_confidence_reason": "최고 확률 52.8% (≤58.0%)",
     "model_version": "v14"
   },
   {
