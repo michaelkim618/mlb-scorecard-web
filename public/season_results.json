@@ -14689,6 +14689,30 @@
       "away_bp_score": 60.8,
       "home_bp_score": 63.1,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-19",
+      "away": "Boston Red Sox",
+      "home": "Tampa Bay Rays",
+      "game_number": 1,
+      "pick": "Tampa Bay Rays",
+      "pick_prob": 61.4,
+      "actual_winner": "Tampa Bay Rays",
+      "away_score": 0,
+      "home_score": 0,
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "hot",
+      "away_sp_era": 2.94,
+      "home_sp_era": 4.7,
+      "away_bp_era": 2.63,
+      "home_bp_era": 2.8,
+      "away_sp_score": 41.3,
+      "home_sp_score": 54.5,
+      "away_bp_score": 72.5,
+      "home_bp_score": 75.0,
+      "bat_source": "lineup"
     }
   ]
 }

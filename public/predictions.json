@@ -2208,9 +2208,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Tampa Bay Rays",
     "model_winner": "Tampa Bay Rays",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Boston Red Sox IL: Anthony Seigler, Ceddanne Rafaela, Curtis Mead, Eduardo Rivera, Eli White 외 다수 / Tampa Bay Rays IL: Ben Williamson, Edwin Uceta, Garrett Cleavinger, Gavin Lux, Jonathan Heasley 외 다수",
     "kalshi_prob": 58.0,
     "edge": 3.4,
@@ -11140,7 +11140,7 @@
       "away": null,
       "home": null
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
