@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-19T20:29:19.890732+00:00",
+  "updated_at": "2026-09-19T20:53:33.332602+00:00",
   "news": [
+    {
+      "title": "Contreras confident he avoided fracture, though slugger's hand 'still really sore'",
+      "link": "https://www.mlb.com/news/willson-contreras-update-on-hand-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jhf6pw9rv90avlic8baz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-19T20:34:56+00:00",
+      "time_ago": "18m ago"
+    },
     {
       "title": "Big pitching questions loom for Crew in home stretch of regular season",
       "link": "https://www.mlb.com/news/brewers-pitching-questions-regular-season-playoffs",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T19:58:42+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "Elias says Albernaz will return in '27, aims to add to O's front office",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T19:49:31+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "This Italian-born reliever wants to throw 105 mph, 'play like my head is on fire'",
@@ -38,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-19T18:30:52+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Bautista activated, rejoins O's bullpen; Helsley, O'Neill done for '26",
@@ -77,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-19T15:43:00+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Dodgers celebrate 20th anniversary of '4+1' game with 4-HR inning in rout",
@@ -90,19 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-19T06:35:00+00:00",
-      "time_ago": "13h ago"
-    },
-    {
-      "title": "Down Judge, Yanks blitz D-backs behind steady Cole, pick up a game on Rays",
-      "link": "https://www.mlb.com/news/gerrit-cole-steady-as-yankees-beat-diamondbacks",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/caqmwbyjgwxkjaphi6op",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-19T06:11:00+00:00",
       "time_ago": "14h ago"
     }
   ]
