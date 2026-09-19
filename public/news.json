@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-19T22:25:49.515907+00:00",
+  "updated_at": "2026-09-19T22:35:15.599615+00:00",
   "news": [
+    {
+      "title": "Vargas does it all as White Sox keep pace in postseason push",
+      "link": "https://www.mlb.com/news/sean-burke-s-strong-start-leads-white-sox-to-win-over-tigers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/symuedr2w0dxa99p4s1y",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-19T22:30:00+00:00",
+      "time_ago": "5m ago"
+    },
+    {
+      "title": "Elias says Albernaz will return in '27, aims to add to O's front office",
+      "link": "https://www.mlb.com/news/mike-elias-discusses-craig-albernaz-orioles-front-office-state",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x7fugdrbdjnlukv6m8ak",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-19T22:27:00+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Gasser turns in another strong start as other pitching questions loom for Crew",
+      "link": "https://www.mlb.com/news/brewers-pitching-questions-regular-season-playoffs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ayvmiiwx5lvapzq1au7s",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-19T22:23:00+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Caglianone apologizes for punching dugout wall, causing hand injury",
+      "link": "https://www.mlb.com/news/jac-caglianone-apologizes-for-actions-resulting-in-left-hand-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nxuybdlznnmqdazgbiq5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "John Perrotto",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-19T22:17:51+00:00",
+      "time_ago": "17m ago"
+    },
     {
       "title": "Beltrán feted with number retirement, Mets HOF -- but is another chapter possible?",
       "link": "https://www.mlb.com/news/carlos-beltran-has-number-retired-enters-mets-hall-of-fame",
@@ -12,20 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T22:02:27+00:00",
-      "time_ago": "23m ago"
-    },
-    {
-      "title": "Tie game? Not so fast! Challenge proves key in White Sox win",
-      "link": "https://www.mlb.com/news/sean-burke-s-strong-start-leads-white-sox-to-win-over-tigers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g7olj9yjuafsllmooon0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-19T21:01:36+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "32m ago"
     },
     {
       "title": "Contreras confident he avoided fracture, though slugger's hand 'still really sore'",
@@ -38,32 +77,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T20:34:56+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Big pitching questions loom for Crew in home stretch of regular season",
-      "link": "https://www.mlb.com/news/brewers-pitching-questions-regular-season-playoffs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/liylq0llj1viwuel940h",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-19T19:58:42+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Elias says Albernaz will return in '27, aims to add to O's front office",
-      "link": "https://www.mlb.com/news/mike-elias-discusses-craig-albernaz-orioles-front-office-state",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x7fugdrbdjnlukv6m8ak",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-19T19:49:31+00:00",
       "time_ago": "2h ago"
     },
     {
@@ -77,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-19T18:30:52+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Bautista activated, rejoins O's bullpen; Helsley, O'Neill done for '26",
@@ -91,19 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T18:15:15+00:00",
       "time_ago": "4h ago"
-    },
-    {
-      "title": "Judge heads back to IL with right calf strain; no timeline for his return",
-      "link": "https://www.mlb.com/news/aaron-judge-placed-on-injured-list-with-right-calf-strain-september-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wdxq3fgdy9oibss6mefq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-19T16:57:00+00:00",
-      "time_ago": "5h ago"
     }
   ]
 }
