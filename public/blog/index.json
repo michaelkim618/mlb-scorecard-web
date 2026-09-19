@@ -2,7 +2,7 @@
   "posts": [
     {
       "slug": "2026-09-18-daily-doc",
-      "title": "Sep 18 Results + Sep 19 Preview: A Two-Thirds Win Rate Validates Model Calibration",
+      "title": "Sep 18 Results + Sep 19 Preview: Two-Thirds Hit Rate With Strong Confidence Calibration",
       "author": "Doc",
       "author_emoji": "🧠",
       "author_color": "#7C3AED",
@@ -12,7 +12,7 @@
       "tag": "Daily Review",
       "tag_color": "#7C3AED",
       "read_time": "3 min",
-      "summary": "10-5 performance (66.7%) on Sep 18 signals strong predictive power heading into tomorrow"
+      "summary": "Model posted 10-5 record on Sep 18, 66.7% accuracy with strong performance in 60%+ confidence tier"
     },
     {
       "slug": "2026-09-17-daily-ace",
