@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T09:16:55.977378+00:00",
+  "updated_at": "2026-09-19T09:38:55.750605+00:00",
   "news": [
     {
       "title": "Dodgers celebrate 20th anniversary of '4+1' game with 4-HR inning in rout",
@@ -12,7 +12,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-19T06:35:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Down Judge, Yanks blitz D-backs behind steady Cole, pick up a game on Rays",
@@ -77,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T05:37:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Astros on wrong side of another celebration, fall into tie atop AL West",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T05:27:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Rays lament blown chances after rare oh-fer with RISP",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T05:20:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
