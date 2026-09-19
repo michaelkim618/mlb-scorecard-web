@@ -4795,7 +4795,7 @@ window.PREDICTIONS_DATA = [
           "recent_era": 2.57,
           "recent_appearances": 23,
           "recent_ip": 35.0,
-          "team_era": 3.44,
+          "team_era": 3.43,
           "bp_ip": 359.7,
           "bp_count": 9,
           "closer_era": 3.35,
@@ -4803,33 +4803,33 @@ window.PREDICTIONS_DATA = [
         },
         "bat_score": 44.9,
         "bat_detail": {
-          "recent_avg": 0.288,
+          "recent_avg": 0.29,
           "runs_per_g": 6.1,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.823,
-          "season_avg": 0.288,
+          "season_ops": 0.822,
+          "season_avg": 0.29,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Kevin McGonigle(0.895)",
+            "Kevin McGonigle(0.882)",
             "Gleyber Torres(0.671)",
-            "Colt Keith(0.815)",
-            "Riley Greene(0.944)",
+            "Colt Keith(0.793)",
+            "Riley Greene(0.958)",
             "Spencer Torkelson(0.976)",
             "Zach McKinstry(0.469)",
             "Max Clark(0.891)",
             "Eduardo Valencia(0.898)",
-            "Hao-Yu Lee(0.844)"
+            "Hao-Yu Lee(0.859)"
           ],
           "lineup_players": [
             {
               "id": 805808,
               "name": "Kevin McGonigle",
-              "ops": 0.895,
-              "avg": 0.324
+              "ops": 0.882,
+              "avg": 0.316
             },
             {
               "id": 650402,
@@ -4840,14 +4840,14 @@ window.PREDICTIONS_DATA = [
             {
               "id": 690993,
               "name": "Colt Keith",
-              "ops": 0.815,
-              "avg": 0.25
+              "ops": 0.793,
+              "avg": 0.238
             },
             {
               "id": 682985,
               "name": "Riley Greene",
-              "ops": 0.944,
-              "avg": 0.361
+              "ops": 0.958,
+              "avg": 0.378
             },
             {
               "id": 679529,
@@ -4876,13 +4876,13 @@ window.PREDICTIONS_DATA = [
             {
               "id": 701678,
               "name": "Hao-Yu Lee",
-              "ops": 0.844,
-              "avg": 0.257
+              "ops": 0.859,
+              "avg": 0.278
             }
           ],
           "bat_trend": "cold",
           "last5_rpg": 4.6,
-          "last5_avg": 0.282,
+          "last5_avg": 0.286,
           "home_split": {
             "recent_avg": 0.214,
             "runs_per_g": 4.3,
@@ -4890,7 +4890,7 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.261,
+            "recent_avg": 0.263,
             "runs_per_g": 4.6,
             "hr_per_g": 0.7,
             "n_games": 10
@@ -4980,7 +4980,7 @@ window.PREDICTIONS_DATA = [
           "recent_era": 3.92,
           "recent_appearances": 17,
           "recent_ip": 20.7,
-          "team_era": 4.02,
+          "team_era": 4.01,
           "bp_ip": 260.7,
           "bp_count": 5,
           "closer_era": 2.34,
@@ -4988,33 +4988,33 @@ window.PREDICTIONS_DATA = [
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.211,
+          "recent_avg": 0.206,
           "runs_per_g": 3.8,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
-          "season_ops": 0.701,
-          "season_avg": 0.211,
+          "season_ops": 0.694,
+          "season_avg": 0.206,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Miguel Vargas(0.810)",
+            "Miguel Vargas(0.799)",
             "Tommy Pham(0.519)",
             "Randal Grichuk(0.965)",
-            "Munetaka Murakami(0.705)",
+            "Munetaka Murakami(0.695)",
             "Chase Meidroth(0.814)",
-            "Kyle Teel(0.622)",
-            "Brenton Doyle(0.722)",
-            "Colson Montgomery(0.561)",
+            "Kyle Teel(0.608)",
+            "Brenton Doyle(0.700)",
+            "Colson Montgomery(0.554)",
             "Tristan Peters(0.591)"
           ],
           "lineup_players": [
             {
               "id": 678246,
               "name": "Miguel Vargas",
-              "ops": 0.81,
-              "avg": 0.25
+              "ops": 0.799,
+              "avg": 0.243
             },
             {
               "id": 502054,
@@ -5031,8 +5031,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 808959,
               "name": "Munetaka Murakami",
-              "ops": 0.705,
-              "avg": 0.138
+              "ops": 0.695,
+              "avg": 0.133
             },
             {
               "id": 805367,
@@ -5043,20 +5043,20 @@ window.PREDICTIONS_DATA = [
             {
               "id": 691019,
               "name": "Kyle Teel",
-              "ops": 0.622,
-              "avg": 0.143
+              "ops": 0.608,
+              "avg": 0.136
             },
             {
               "id": 686668,
               "name": "Brenton Doyle",
-              "ops": 0.722,
-              "avg": 0.35
+              "ops": 0.7,
+              "avg": 0.333
             },
             {
               "id": 695657,
               "name": "Colson Montgomery",
-              "ops": 0.561,
-              "avg": 0.111
+              "ops": 0.554,
+              "avg": 0.107
             },
             {
               "id": 671976,
@@ -5067,9 +5067,9 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "stable",
           "last5_rpg": 4.2,
-          "last5_avg": 0.209,
+          "last5_avg": 0.199,
           "home_split": {
-            "recent_avg": 0.226,
+            "recent_avg": 0.221,
             "runs_per_g": 4.5,
             "hr_per_g": 1.3,
             "n_games": 10
@@ -7078,9 +7078,9 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Drake Baldwin(0.855)",
-            "Ronald Acuña(0.835)",
+            "Ronald Acuña Jr.(0.835)",
             "Matt Olson(0.865)",
-            "Michael Harris(0.794)",
+            "Michael Harris II(0.794)",
             "Mauricio Dubón(0.812)",
             "Ozzie Albies(0.633)",
             "Mike Yastrzemski(0.676)",
@@ -7096,7 +7096,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 660670,
-              "name": "Ronald Acuña",
+              "name": "Ronald Acuña Jr.",
               "ops": 0.835,
               "avg": 0.279
             },
@@ -7108,7 +7108,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671739,
-              "name": "Michael Harris",
+              "name": "Michael Harris II",
               "ops": 0.794,
               "avg": 0.31
             },
@@ -7277,7 +7277,7 @@ window.PREDICTIONS_DATA = [
             "Daulton Varsho(0.597)",
             "Christian Walker(0.548)",
             "Taylor Trammell(0.615)",
-            "LaMonte Wade(0.709)",
+            "LaMonte Wade Jr.(0.709)",
             "Christian Vázquez(0.394)"
           ],
           "lineup_players": [
@@ -7325,7 +7325,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 664774,
-              "name": "LaMonte Wade",
+              "name": "LaMonte Wade Jr.",
               "ops": 0.709,
               "avg": 0.263
             },

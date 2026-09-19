@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-19T18:40:57.068864+00:00",
+  "updated_at": "2026-09-19T19:12:36.835448+00:00",
   "news": [
+    {
+      "title": "This Italian-born reliever wants to throw 105 mph, 'play like my head is on fire'",
+      "link": "https://www.mlb.com/news/italian-angels-prospect-nicolo-pinazzi-makes-history-at-double-a",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qukwlv2dzo0kqdkvh1c6",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rob Terranova",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-19T18:30:52+00:00",
+      "time_ago": "41m ago"
+    },
     {
       "title": "Bautista activated, rejoins O's bullpen; Helsley, O'Neill done for '26",
       "link": "https://www.mlb.com/news/felix-bautista-returns-to-orioles-bullpen-2026",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T18:15:15+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "LIVE: Watch 2024 first-rounder King (WSH) dig in at Triple-A vs. Blue Jays prospects",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T17:00:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Judge heads back to IL with right calf strain; no timeline for his return",
@@ -38,7 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-19T16:57:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -51,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-19T15:43:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Dodgers celebrate 20th anniversary of '4+1' game with 4-HR inning in rout",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T06:11:00+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "13h ago"
     },
     {
       "title": "New face stars as Rangers' bullpen goes 'all hands on deck' to pull even atop AL West",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T05:57:00+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "Díaz returns from IL with sharp outing in new low-leverage role",
-      "link": "https://www.mlb.com/news/edwin-diaz-returns-to-dodgers-in-lower-leverage-role-ahead-of-playoffs",
-      "summary": "The three-time All-Star will vie for a spot on LA's postseason roster",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789797059/mlb/rjlgofzileygnfg1tjcg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sarah Wexler",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-19T05:54:00+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "13h ago"
     }
   ]
 }
