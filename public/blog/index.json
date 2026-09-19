@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-09-18-daily-doc",
+      "title": "Sep 18 Results + Sep 19 Preview: Ten Wins, Five Losses, and the Value of Patient Process",
+      "author": "Doc",
+      "author_emoji": "🧠",
+      "author_color": "#7C3AED",
+      "author_role": "Sabermetrician",
+      "date": "2026-09-18",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#7C3AED",
+      "read_time": "3 min",
+      "summary": "A 66.7% hit rate on Sep 18 validates our approach—process over results"
+    },
+    {
       "slug": "2026-09-17-daily-ace",
       "title": "Sep 17 Results + Sep 18 Preview: Solid Contact, Room to Improve",
       "author": "Ace",
