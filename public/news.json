@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-19T21:31:31.993051+00:00",
+  "updated_at": "2026-09-19T22:16:47.620920+00:00",
   "news": [
+    {
+      "title": "Beltrán feted with number retirement, Mets HOF -- but is another chapter possible?",
+      "link": "https://www.mlb.com/news/carlos-beltran-has-number-retired-enters-mets-hall-of-fame",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jtkmowujhzyfjta9exlt",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-19T22:02:27+00:00",
+      "time_ago": "14m ago"
+    },
     {
       "title": "Tie game? Not so fast! Challenge proves key in White Sox win",
       "link": "https://www.mlb.com/news/sean-burke-s-strong-start-leads-white-sox-to-win-over-tigers",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T21:01:36+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Contreras confident he avoided fracture, though slugger's hand 'still really sore'",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T20:34:56+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Big pitching questions loom for Crew in home stretch of regular season",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T19:58:42+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Elias says Albernaz will return in '27, aims to add to O's front office",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T19:49:31+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "This Italian-born reliever wants to throw 105 mph, 'play like my head is on fire'",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T18:15:15+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Judge heads back to IL with right calf strain; no timeline for his return",
@@ -90,19 +103,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-19T16:57:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789790516/mlb/bgtip4siy3qk2yvgxwvw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-19T15:43:00+00:00",
       "time_ago": "5h ago"
     }
   ]
