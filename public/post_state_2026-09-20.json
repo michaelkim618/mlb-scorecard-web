@@ -1,0 +1,114 @@
+{
+  "predictions": [
+    "12:10"
+  ],
+  "results": false,
+  "lineup_refreshed": [
+    "10:10"
+  ],
+  "predictions_frozen": [
+    "10:10",
+    "12:10"
+  ],
+  "frozen_predictions": {
+    "10:10": [
+      {
+        "game_pk": "823570",
+        "win_prob": {
+          "away": 49.6,
+          "home": 50.4
+        },
+        "model_winner": "New York Mets",
+        "value_bet": "⏭️ 패스 (박빙 경기 — 예측 신뢰도 낮음)",
+        "edge": 12.4,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "SP 점수 차이 3.6pt (≤5.0pt) / 최고 확률 52.4% (≤58.0%)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823329",
+        "win_prob": {
+          "away": 38.5,
+          "home": 61.5
+        },
+        "model_winner": "Pittsburgh Pirates",
+        "value_bet": "⚠️ VB주의(상대선발Hot·edge부족 10.5%p<14.0%p)",
+        "edge": 10.5,
+        "sp_bat_conflict": true,
+        "sp_bat_conflict_detail": {
+          "sp_favors": "Kansas City Royals",
+          "bat_favors": "Pittsburgh Pirates",
+          "sp_gap": 22.5,
+          "bat_gap": -22.7
+        },
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "824462",
+        "win_prob": {
+          "away": 60.7,
+          "home": 39.3
+        },
+        "model_winner": "Chicago Cubs",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -0.7,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "824381",
+        "win_prob": {
+          "away": 39.3,
+          "home": 60.7
+        },
+        "model_winner": "Cleveland Guardians",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -7.3,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "822922",
+        "win_prob": {
+          "away": 39.3,
+          "home": 60.7
+        },
+        "model_winner": "Tampa Bay Rays",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 2.7,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      }
+    ],
+    "12:10": [
+      {
+        "game_pk": "824300",
+        "win_prob": {
+          "away": 54.0,
+          "home": 46.0
+        },
+        "model_winner": "Seattle Mariners",
+        "value_bet": "⏭️ 패스 (박빙 경기 — 예측 신뢰도 낮음)",
+        "edge": 10.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "SP 점수 차이 0.0pt (≤5.0pt) / 최고 확률 50.0% (≤58.0%)",
+        "extreme_edge": false
+      }
+    ]
+  }
+}
