@@ -15097,6 +15097,30 @@
       "away_bp_score": 72.5,
       "home_bp_score": 75.0,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-20",
+      "away": "Washington Nationals",
+      "home": "St. Louis Cardinals",
+      "game_number": 1,
+      "pick": "St. Louis Cardinals",
+      "pick_prob": 59.2,
+      "actual_winner": "St. Louis Cardinals",
+      "away_score": 1,
+      "home_score": 2,
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "stable",
+      "away_sp_era": 5.26,
+      "home_sp_era": 3.62,
+      "away_bp_era": 4.39,
+      "home_bp_era": 4.0,
+      "away_sp_score": 30.0,
+      "home_sp_score": 46.4,
+      "away_bp_score": 57.1,
+      "home_bp_score": 50.9,
+      "bat_source": "lineup"
     }
   ]
 }
