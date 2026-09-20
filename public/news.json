@@ -1,18 +1,70 @@
 {
-  "updated_at": "2026-09-20T02:40:02.278894+00:00",
+  "updated_at": "2026-09-20T03:40:05.486300+00:00",
   "news": [
+    {
+      "title": "'It's go time': Astros look to stack wins after losing AL West lead",
+      "link": "https://www.mlb.com/news/astros-fall-out-of-first-place-in-al-west-with-loss-to-braves",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789868727/mlb/amqxojdihjipp5nknlfz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T03:36:00+00:00",
+      "time_ago": "4m ago"
+    },
+    {
+      "title": "O'Hearn goes between the legs for ingenious out at first",
+      "link": "https://www.mlb.com/news/ryan-o-hearn-glove-flip-for-the-out-at-first-base",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vdr32illrohejzvi2ran",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T03:26:00+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "D-backs anthem trumpeter makes AMAZING recovery after horn malfunction",
+      "link": "https://www.mlb.com/news/d-backs-national-anthem-player-recovers-after-trumpet-malfunction",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789871846/mlb/mpp7zodjtogmgtpawzqp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Steve Gilbert",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T03:11:59+00:00",
+      "time_ago": "28m ago"
+    },
     {
       "title": "Langford hurdles catcher, Rangers land in first place",
       "link": "https://www.mlb.com/news/wyatt-langford-hurdles-catcher-to-score-rangers",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qmn5fhqmw5ubdexkfzkt",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/s2bcqqrclkjhyyx2v1nm",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Manny Randhawa",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-20T02:32:00+00:00",
-      "time_ago": "8m ago"
+      "pub_date": "2026-09-20T03:11:00+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "With backs against wall, Firebells break out for 10 runs in WPBL championship Game 3",
+      "link": "https://www.mlb.com/news/san-francisco-firebells-win-women-s-professional-baseball-league-championship-game-3",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cte9cwrkzccouiyzfibg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T02:44:07+00:00",
+      "time_ago": "55m ago"
     },
     {
       "title": "Martínez flirts with cycle in 2-HR game as Guards maintain AL Central lead",
@@ -25,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-20T02:22:00+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -38,20 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-20T02:18:00+00:00",
-      "time_ago": "22m ago"
-    },
-    {
-      "title": "Astros drop out of AL West lead as playoff push takes hit",
-      "link": "https://www.mlb.com/news/astros-fall-out-of-first-place-in-al-west-with-loss-to-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789868727/mlb/amqxojdihjipp5nknlfz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-20T02:11:31+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Gasser turns in another strong start in record-tying win as other pitching questions loom for Crew",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-20T02:11:00+00:00",
-      "time_ago": "29m ago"
-    },
-    {
-      "title": "Benge passes Alonso to become Mets' new rookie hit king",
-      "link": "https://www.mlb.com/news/carson-benge-passes-pete-alonso-for-mets-rookie-hits-record",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/v3dlu3i6oykkupxvowly",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T02:06:00+00:00",
-      "time_ago": "34m ago"
-    },
-    {
-      "title": "Acuña's scorching September rolls on with go-ahead slam",
-      "link": "https://www.mlb.com/news/ronald-acuna-jr-hits-go-ahead-grand-slam-in-braves-win-over-astros",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789871376/mlb/lmms3tncerlkpapnredt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T02:03:20+00:00",
-      "time_ago": "36m ago"
-    },
-    {
-      "title": "Palacios snaps Rays' RISP skid with walk-off bloop single vs. Red Sox",
-      "link": "https://www.mlb.com/news/richie-palacios-hits-walk-off-single-rays-beat-red-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xrkeupai6r0gyceymmyw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-20T01:44:00+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
