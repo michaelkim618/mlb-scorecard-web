@@ -645,7 +645,7 @@ window.PREDICTIONS_DATA = [
       "home_defense": 48.0
     },
     "actual_score": {
-      "away": 0,
+      "away": 1,
       "home": 0
     },
     "lineup_confirmed": true,
@@ -8776,10 +8776,10 @@ window.PREDICTIONS_DATA = [
       "home_defense": 60.4
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,

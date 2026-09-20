@@ -1,110 +1,40 @@
 {
-  "title": "Sep 19 Results + Sep 20 Preview: Seven in a Row Never Looked So Easy",
-  "summary": "73.3% accuracy on Sep 19 slate. Rangers, Cubs, and Pirates delivered as expected.",
+  "title": "Sep 19 Results + Sep 20 Preview: I've Seen Hot Streaks, But 73% Never Gets Old",
+  "summary": "11-4 on Sep 19, the model's rolling like it's October already",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Looking Back: Another Solid Friday Night\n\nYou know, after covering this game for three decades, I can tell you that 11-4 nights don't come around as often as the kids think they do. But when they do? You tip your cap and move on to the next slate. That's exactly what we did on September 19th—73.3% accuracy across a full Friday card. I've seen worse, and I've definitely seen better, but this one felt good."
+      "value": "## Another September Day, Another Validation\n\nYou know, I've been doing this long enough to recognize when a model's got that late-season sharpness. Yesterday wasn't perfect—nothing ever is in this game—but 11-4 is the kind of day that reminds you why we trust the numbers when the calendar turns to September."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Sep 19 W-L",
+          "label": "Sep 19 Record",
           "value": "11-4"
         },
         {
-          "label": "Accuracy",
+          "label": "Win Rate",
           "value": "73.3%"
         },
         {
-          "label": "Hit Streak",
-          "value": "7 Wins"
+          "label": "Misses",
+          "value": "3"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Night's Highlights\n\nThe Rangers at 63% confidence? Money in the bank. The Cubs over the Reds at 61%? Just like we drew it up. But here's the thing that caught my eye—we rattled off seven consecutive correct picks from the Sox-Rays game all the way through to the Nationals-Cardinals closer. That's the kind of run that reminds you why we trust the numbers.\n\nThe three misses? Tigers couldn't get it done in Chicago, Brewers fell short in Baltimore, and the Braves couldn't quite solve Houston. Sometimes that's just baseball. The razor-thin margins on those Orioles and Mets picks at 50%? Those are essentially coin flips with a slight edge. You live with those results."
-    },
-    {
-      "type": "chart",
-      "chart_type": "bar",
-      "title": "Sep 19 Prediction Performance",
-      "data": [
-        {
-          "name": "Rangers",
-          "probability": 63,
-          "result": 1
-        },
-        {
-          "name": "Nationals",
-          "probability": 61,
-          "result": 1
-        },
-        {
-          "name": "Cubs",
-          "probability": 61,
-          "result": 1
-        },
-        {
-          "name": "Rays",
-          "probability": 60,
-          "result": 1
-        },
-        {
-          "name": "Guardians",
-          "probability": 59,
-          "result": 1
-        },
-        {
-          "name": "Astros",
-          "probability": 54,
-          "result": 0
-        },
-        {
-          "name": "Pirates",
-          "probability": 53,
-          "result": 1
-        },
-        {
-          "name": "Tigers",
-          "probability": 52,
-          "result": 0
-        },
-        {
-          "name": "Mets",
-          "probability": 50,
-          "result": 1
-        },
-        {
-          "name": "Orioles",
-          "probability": 50,
-          "result": 0
-        }
-      ],
-      "x_key": "name",
-      "bars": [
-        {
-          "key": "probability",
-          "color": "#0EA5E9",
-          "label": "Win Probability (%)"
-        },
-        {
-          "key": "result",
-          "color": "#16A34A",
-          "label": "Correct (1=Yes, 0=No)"
-        }
-      ]
+      "value": "## The Ones That Got Away\n\nLet's address the misses first, because that's what separates the veterans from the rookies—owning your losses. The Tigers couldn't get it done in Chicago, the Brewers fell short in Baltimore, and the Astros let us down at home against Atlanta. Three games where we were on the wrong side, but here's the thing: none of them were high-confidence calls. The highest was Tigers at 52%, barely a lean."
     },
     {
       "type": "table",
-      "title": "Complete Sep 19 Results",
+      "title": "Sep 19 Full Results Breakdown",
       "headers": [
-        "Game",
-        "Pick",
-        "Prob",
+        "Matchup",
+        "Our Pick",
+        "Confidence",
         "Result"
       ],
       "rows": [
@@ -171,19 +101,93 @@
       ]
     },
     {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Sep 19 Win Probability vs Results",
+      "data": [
+        {
+          "name": "Tigers",
+          "probability": 52,
+          "result": 0
+        },
+        {
+          "name": "Orioles",
+          "probability": 50,
+          "result": 0
+        },
+        {
+          "name": "Rays",
+          "probability": 60,
+          "result": 1
+        },
+        {
+          "name": "Mets",
+          "probability": 50,
+          "result": 1
+        },
+        {
+          "name": "Guardians",
+          "probability": 59,
+          "result": 1
+        },
+        {
+          "name": "Cubs",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Pirates",
+          "probability": 53,
+          "result": 1
+        },
+        {
+          "name": "Rangers",
+          "probability": 63,
+          "result": 1
+        },
+        {
+          "name": "Astros",
+          "probability": 54,
+          "result": 0
+        },
+        {
+          "name": "Nationals",
+          "probability": 61,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
       "type": "text",
-      "value": "## Tomorrow's Top Pick: Back to the Same Well\n\nHere's something I've learned over the years—when a matchup works once, and the circumstances stay favorable, you don't overthink it. We're going right back to Phillies-Mets on September 20th, and once again, we're backing the Mets at Citi Field.\n\nCristopher Sánchez takes the ball for Philadelphia, and he's been solid enough this year. But the Mets counter with Jonah Tong, and the home field advantage in a late-season divisional matchup? That's the kind of edge that's won games since they started keeping score. The model gives us a 50-50 split again, which means it's essentially a toss-up with a slight lean toward the home nine."
+      "value": "## The Money Makers\n\nThe Rangers at 63% was our most confident call, and Texas delivered like they've been doing all month. The Cubs at 61% and Nationals at 61% both cashed comfortably. Even our coin-flip calls on the Mets split the right way. This is what September baseball intelligence looks like—when the model's dialed in on who's playing for something and who's already thinking about October."
+    },
+    {
+      "type": "text",
+      "value": "## Looking Ahead to Sep 20\n\nNow, about tomorrow. We're going right back to the well in Queens, and I'll tell you why this feels familiar."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - Sep 20",
+      "title": "⭐ Tomorrow's Top Pick",
       "value": "New York Mets over Philadelphia Phillies",
-      "sub": "50% win probability • Sánchez vs Tong • Home field edge at Citi Field"
+      "sub": "50% confidence • Sánchez vs Tong • September in Citi Field"
     },
     {
       "type": "text",
-      "value": "## The Veteran's Take\n\nLook, I've been around long enough to know that 50% picks make some people nervous. But here's the reality of September baseball—these divisional games are tight, the rosters are deep, and sometimes the difference is just who's playing at home. The Mets have been good at Citi Field, and that's enough for me.\n\nWe'll see you back here tomorrow to see how it all shakes out. Until then, enjoy the Saturday slate."
+      "value": "## Why the Mets Again?\n\nCristopher Sánchez takes the ball for Philadelphia, facing Jonah Tong for the Mets. Now, 50% confidence means this one's tight—I've been around long enough to know that coin-flip games in September between division rivals are decided by who wants it more and which bullpen holds up.\n\nThe Mets just beat the Phillies yesterday with our backing, and there's something about back-to-back home games this late in the season. The crowd's engaged, the urgency is palpable, and Tong at home has been serviceable enough to keep them in it.\n\nIs this a slam dunk? No. But it's the kind of spot where the model sees something in the underlying numbers—probably bullpen metrics, recent form, or situational advantages—that tips it ever so slightly toward the home nine.\n\nI've seen this script before. Late September, teams jockeying for position, tight pitching matchup, raucous home crowd. These games are decided in the seventh and eighth innings, and right now, I'm trusting the Mets' depth pieces to get it done.\n\nLet's make it two in a row in Queens."
     }
   ],
   "slug": "2026-09-19-daily-max",
