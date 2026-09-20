@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-09-20T19:39:31.150822+00:00",
+  "updated_at": "2026-09-20T20:40:27.840159+00:00",
   "news": [
+    {
+      "title": "Rays wrap regular-season home slate on precipice of AL East title with 55th win at Trop",
+      "link": "https://www.mlb.com/news/rays-nearing-al-east-title-after-win-in-final-regular-season-home-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kaohhl9faowcpxzu2u8y",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T20:32:20+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "PCA's latest offensive outburst puts Cubs on verge of playoff clinch",
+      "link": "https://www.mlb.com/news/pete-crow-armstrong-45th-homer-in-cubs-win-reds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ym9sg1srkkqnivzcq3uz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bill Ladson",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-20T20:27:00+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Red Sox on verge of punching ticket to postseason despite falling to Rays",
+      "link": "https://www.mlb.com/news/red-sox-playoff-spot-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cugpbjyj0vwujs3xxbxn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T20:18:07+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789869213/mlb/bgtip4siy3qk2yvgxwvw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-20T20:05:00+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "Kuiper shares throat cancer diagnosis; will return to booth for Krukow's sendoff",
+      "link": "https://www.mlb.com/news/duane-kuiper-diagnosed-with-throat-cancer",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789933607/mlb/cwijeckpiqatxhx1pu7q",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Maria Guardado",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-20T19:52:57+00:00",
+      "time_ago": "47m ago"
+    },
+    {
+      "title": "'Good chance' Ohtani will be activated Wed. after minimum IL stint",
+      "link": "https://www.mlb.com/news/shohei-ohtani-could-return-for-padres-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ursvmesr9tyydsysqrmj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-20T19:44:00+00:00",
+      "time_ago": "56m ago"
+    },
     {
       "title": "Skubal to bereavement list, Sheehan recalled among LA moves; Tucker out of lineup",
       "link": "https://www.mlb.com/news/emmet-sheehan-recalled-tarik-skubal-to-bereavement-list",
@@ -12,7 +90,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-20T19:37:00+00:00",
-      "time_ago": "2m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Suarez nears return to Braves' bullpen after scoreless Triple-A rehab outing",
@@ -25,85 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-20T19:06:58+00:00",
-      "time_ago": "32m ago"
-    },
-    {
-      "title": "Bregman exits after being hit in face by foul ball while in on-deck circle",
-      "link": "https://www.mlb.com/news/alex-bregman-exits-after-being-hit-in-the-face-in-on-deck-circle",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t2rrgeph63fdfbwskwo7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bill Ladson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T18:55:12+00:00",
-      "time_ago": "44m ago"
-    },
-    {
-      "title": "One of the game's hardest throwers delivers ... a 32.6 mph HBP?",
-      "link": "https://www.mlb.com/news/seth-halvorsen-delivers-slowest-recorded-hit-by-pitch",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pjhcwubuxukzodyflhmy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-20T18:21:27+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Cease (shoulder) undergoes MRI, scratched from next start",
-      "link": "https://www.mlb.com/news/dylan-cease-gets-an-mri-on-right-shoulder-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dfnkz00qmzxrpvyrrd9p",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Shanthi Sepe-Chepuru",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T17:50:33+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Rays reinstate versatile INF Williamson, DFA veteran Fraley",
-      "link": "https://www.mlb.com/news/ben-williamson-returns-for-rays-jake-fraley-designated-for-assignment",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rvroencyqiwuqsmlxu45",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T17:40:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Burns heads to IL with groin strain, ending his breakout season",
-      "link": "https://www.mlb.com/news/chase-burns-placed-on-injured-list-with-groin-strain",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wylaqralmvg7pr0vuuzn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-20T16:50:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Homegrown talent making history during Yanks' stretch drive",
-      "link": "https://www.mlb.com/news/yankees-first-round-draft-picks-in-lineup",
-      "summary": "Club penciled in 5 first-rounders as starters for first time ever against Mets during heat of pennant race",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789920792/mlb/l5woowo0jn1ok27rpmep",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sweeny Murti",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T16:15:00+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
