@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T17:35:22.480518+00:00",
+  "updated_at": "2026-09-20T17:50:57.121083+00:00",
   "news": [
     {
       "title": "Burns heads to IL with groin strain, ending his breakout season",
@@ -12,7 +12,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-20T16:50:00+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Homegrown talent making history during Yanks' stretch drive",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-20T05:43:17+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "12h ago"
     }
   ]
 }

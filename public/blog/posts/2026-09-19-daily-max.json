@@ -1,17 +1,17 @@
 {
-  "title": "Sep 19 Results + Sep 20 Preview: Seven Straight Winners to Close the Day",
-  "summary": "73.3% accuracy on Sep 19 with a strong finishing kick—Mets back up tomorrow",
+  "title": "Sep 19 Results + Sep 20 Preview: I've Seen Hotter Streaks, But 73% Will Do",
+  "summary": "11-4 on Sep 19 with 73.3% accuracy. Mets-Phillies rematch headlines Sep 20 slate.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Another Solid Day in the Books\n\nYou know, I've been doing this long enough to recognize when the model hits its groove, and September 19th had that feel—especially down the stretch. We finished 11-4, good for 73.3%, and while three early misses might've rattled a younger crew, we've seen this script before. The game rewards patience."
+      "value": "## Another Day, Another Winning Record\n\nYou know, after covering this game for as long as I have, a 73.3% night doesn't make me jump out of my chair anymore—but it sure beats the alternative. We went 11-4 on Friday's slate, and while three misses might sting the younger guys on the beat, I've seen enough September baseball to know that's a solid night's work."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Sep 19 Record",
+          "label": "Sep 19 W-L",
           "value": "11-4"
         },
         {
@@ -19,27 +19,27 @@
           "value": "73.3%"
         },
         {
-          "label": "Closing Streak",
-          "value": "7-0"
+          "label": "Best Pick",
+          "value": "Rangers 63%"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Three That Got Away\n\nLet's address the misses head-on, because that's what professionals do. Detroit couldn't get it done in Chicago, Milwaukee took care of business in Baltimore, and Atlanta outdueled Houston in a game we liked the Astros. All three were essentially coin flips—our highest confidence was just 54% on the Astros.\n\nI've watched enough baseball to know that 50-54% picks are edge plays, not guarantees. You take them because over time, that small edge compounds. But on any given night? They'll bite you."
+      "value": "## The Misses Tell a Story\n\nLet's talk about what went wrong before we celebrate what went right. Tigers couldn't get it done in Chicago despite our 52% lean—close calls like that are coin flips anyway. The Brewers-Orioles game flipped on us at 50%, which is basically the model shrugging its shoulders. And Houston? They were 54% favorites against Atlanta and came up short. I've seen the Braves play spoiler in September enough times to not be shocked."
     },
     {
       "type": "table",
-      "title": "Sep 19 Full Results",
+      "title": "Sep 19 Full Results Breakdown",
       "headers": [
-        "Game",
+        "Matchup",
         "Our Pick",
         "Confidence",
         "Result"
       ],
       "rows": [
         [
-          "Tigers @ White Sox",
+          "Tigers @ Sox",
           "Tigers",
           "52%",
           "✗"
@@ -51,7 +51,7 @@
           "✗"
         ],
         [
-          "Red Sox @ Rays",
+          "Sox @ Rays",
           "Rays",
           "60%",
           "✓"
@@ -77,11 +77,11 @@
         [
           "Royals @ Pirates",
           "Pirates",
-          "53%",
+          "52%",
           "✓"
         ],
         [
-          "Blue Jays @ Rangers",
+          "Jays @ Rangers",
           "Rangers",
           "63%",
           "✓"
@@ -106,28 +106,8 @@
       "title": "Sep 19 Pick Confidence vs Results",
       "data": [
         {
-          "name": "Tigers",
-          "probability": 52,
-          "result": 0
-        },
-        {
-          "name": "Orioles",
-          "probability": 50,
-          "result": 0
-        },
-        {
-          "name": "Rays",
-          "probability": 60,
-          "result": 1
-        },
-        {
-          "name": "Mets",
-          "probability": 50,
-          "result": 1
-        },
-        {
-          "name": "Guardians",
-          "probability": 59,
+          "name": "Rangers",
+          "probability": 63,
           "result": 1
         },
         {
@@ -136,13 +116,18 @@
           "result": 1
         },
         {
-          "name": "Pirates",
-          "probability": 53,
+          "name": "Nationals",
+          "probability": 61,
           "result": 1
         },
         {
-          "name": "Rangers",
-          "probability": 63,
+          "name": "Rays",
+          "probability": 60,
+          "result": 1
+        },
+        {
+          "name": "Guardians",
+          "probability": 59,
           "result": 1
         },
         {
@@ -151,9 +136,24 @@
           "result": 0
         },
         {
-          "name": "Nationals",
-          "probability": 61,
+          "name": "Pirates",
+          "probability": 52,
           "result": 1
+        },
+        {
+          "name": "Tigers",
+          "probability": 52,
+          "result": 0
+        },
+        {
+          "name": "Mets",
+          "probability": 50,
+          "result": 1
+        },
+        {
+          "name": "Orioles",
+          "probability": 50,
+          "result": 0
         }
       ],
       "x_key": "name",
@@ -166,28 +166,28 @@
         {
           "key": "result",
           "color": "#16A34A",
-          "label": "Correct (1=Yes, 0=No)"
+          "label": "Correct (1=Hit, 0=Miss)"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Rangers Pick Validated Everything\n\nOur highest confidence play was Texas at 63%, and they delivered exactly as expected. When you've got that kind of separation in the model, you lean into it. Same story with the Nationals at 61% and the Cubs at 61%—all three came through.\n\nThat's championship-level handicapping right there. Find your edges, trust your process, and let the math work over large samples."
+      "value": "## The Sweet Spot Performed\n\nOur mid-range confidence picks—those 59-63% selections—went 4-for-4. That's where the model earns its keep. Rangers at 63%, Cubs and Nationals both at 61%, Guardians at 59%. All winners. I've been doing this long enough to know that when your comfortable favorites deliver, you're having a good night."
     },
     {
       "type": "text",
-      "value": "## Tomorrow's Top Pick: Back to Queens\n\nWe're going right back to the Mets for September 20th. Cristopher Sánchez brings his Phillies into Citi Field to face Jonah Tong, and the model likes the home team again—even at just 50%.\n\nNow, I know what you're thinking: 'Max, didn't we just hit the Mets yesterday at 50%?' Correct. And that's exactly why we're doing it again. Sometimes the matchup just favors one side, regardless of what the public thinks. Tong at home has been effective, and this Phillies lineup has shown some vulnerability against lefties."
+      "value": "## Looking Ahead to Sep 20\n\nHere's something that caught my eye for Saturday: we're going back to the Phillies-Mets well. After the Mets squeaked out a win yesterday in what was essentially a toss-up, we're leaning their way again—though still at just 50% confidence. Cristopher Sánchez goes for Philadelphia against Jonah Tong for the Mets."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - Sep 20",
-      "value": "New York Mets vs Philadelphia Phillies",
-      "sub": "50% confidence · Sánchez vs Tong · Mets at home"
+      "title": "⭐ Sep 20 Top Pick",
+      "value": "New York Mets over Philadelphia Phillies",
+      "sub": "50% confidence · Sánchez vs Tong · Another tight NL East battle"
     },
     {
       "type": "text",
-      "value": "## The Veteran's Take\n\nI've been around long enough to remember when a 73% day would've been banner-headline material. These days, with how sharp the models have become, it's a solid day's work—nothing more, nothing less.\n\nThe key is consistency. String together enough 11-4 days, and suddenly you're looking at a profitable season. That's always been the game within the game.\n\nSee you tomorrow when we find out if the Mets can make it two in a row for us."
+      "value": "## The Veteran's Take\n\nLook, a 50% pick isn't exactly going out on a limb, and I've seen enough Phillies-Mets games to know these divisional matchups in September can go either way. But that's the honest assessment, and after three decades covering this sport, I'd rather give you the truth than pretend we've got some lock.\n\nThe Mets have been scrappy at home, and Tong's gotten better as the season's worn on. Sánchez is solid, no doubt, but in a near-even matchup, I've learned to trust the home team with momentum. We'll see if that wisdom holds up come Saturday night.\n\nStay sharp out there. Tomorrow's another day of baseball, and in September 2026, every game matters."
     }
   ],
   "slug": "2026-09-19-daily-max",

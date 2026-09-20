@@ -1407,7 +1407,7 @@
       "home_defense": 44.0
     },
     "actual_score": {
-      "away": 0,
+      "away": 1,
       "home": 0
     },
     "lineup_confirmed": true,
@@ -2152,7 +2152,7 @@
       "home_defense": 46.9
     },
     "actual_score": {
-      "away": 0,
+      "away": 1,
       "home": 0
     },
     "lineup_confirmed": true,
@@ -8072,8 +8072,8 @@
       "home_defense": 48.2
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -9556,7 +9556,7 @@
       "away": null,
       "home": null
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -9831,14 +9831,14 @@
       "home": 39.3
     },
     "expected_score": {
-      "away": 2.6,
-      "home": 2.4
+      "away": 2.7,
+      "home": 2.3
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": false,
@@ -9929,14 +9929,14 @@
           "closer_era": 2.58,
           "closer_name": "David Bednar"
         },
-        "bat_score": 39.8,
+        "bat_score": 41.1,
         "bat_detail": {
-          "recent_avg": 0.241,
+          "recent_avg": 0.256,
           "runs_per_g": 5.8,
           "hr_per_g": 1.9,
           "bb_per_g": 3.0,
-          "season_ops": 0.747,
-          "season_avg": 0.241,
+          "season_ops": 0.773,
+          "season_avg": 0.256,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -9944,12 +9944,12 @@
           "lineup_ops": [
             "Ben Rice(0.988)",
             "Cody Bellinger(0.918)",
-            "Luis García Jr.(0.760)",
             "Heliot Ramos(0.753)",
+            "Luis García Jr.(0.760)",
             "George Lombard Jr.(0.645)",
-            "Austin Wells(0.731)",
+            "Spencer Jones(0.710)",
             "Anthony Volpe(0.693)",
-            "Ryan McMahon(0.471)",
+            "Austin Wells(0.731)",
             "José Caballero(0.763)"
           ],
           "lineup_players": [
@@ -9966,16 +9966,16 @@
               "avg": 0.341
             },
             {
-              "id": 671277,
-              "name": "Luis García Jr.",
-              "ops": 0.76,
-              "avg": 0.25
-            },
-            {
               "id": 671218,
               "name": "Heliot Ramos",
               "ops": 0.753,
               "avg": 0.214
+            },
+            {
+              "id": 671277,
+              "name": "Luis García Jr.",
+              "ops": 0.76,
+              "avg": 0.25
             },
             {
               "id": 806146,
@@ -9984,10 +9984,10 @@
               "avg": 0.205
             },
             {
-              "id": 669224,
-              "name": "Austin Wells",
-              "ops": 0.731,
-              "avg": 0.185
+              "id": 682987,
+              "name": "Spencer Jones",
+              "ops": 0.71,
+              "avg": 0.256
             },
             {
               "id": 683011,
@@ -9996,10 +9996,10 @@
               "avg": 0.265
             },
             {
-              "id": 641857,
-              "name": "Ryan McMahon",
-              "ops": 0.471,
-              "avg": 0.121
+              "id": 669224,
+              "name": "Austin Wells",
+              "ops": 0.731,
+              "avg": 0.185
             },
             {
               "id": 676609,
@@ -10008,7 +10008,7 @@
               "avg": 0.278
             }
           ],
-          "bat_trend": "stable",
+          "bat_trend": "cold",
           "last5_rpg": 6.4,
           "last5_avg": 0.238,
           "home_split": {
@@ -10025,7 +10025,7 @@
           }
         },
         "sit_score": 55.1,
-        "total": 58.4
+        "total": 58.9
       },
       "home": {
         "sp_score": 32.0,
@@ -10107,14 +10107,14 @@
           "closer_era": 2.19,
           "closer_name": "Juan Morillo"
         },
-        "bat_score": 37.699999999999996,
+        "bat_score": 35.6,
         "bat_detail": {
-          "recent_avg": 0.27,
+          "recent_avg": 0.264,
           "runs_per_g": 4.4,
           "hr_per_g": 1.5,
           "bb_per_g": 3.0,
-          "season_ops": 0.771,
-          "season_avg": 0.27,
+          "season_ops": 0.751,
+          "season_avg": 0.264,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -10126,9 +10126,9 @@
             "Geraldo Perdomo(0.732)",
             "Corbin Carroll(0.823)",
             "Nolan Arenado(1.042)",
-            "Tim Tawa(0.678)",
             "Jesús Sánchez(0.562)",
-            "Jordan Lawlar(0.801)"
+            "Pavin Smith(0.622)",
+            "Tim Tawa(0.678)"
           ],
           "lineup_players": [
             {
@@ -10168,22 +10168,22 @@
               "avg": 0.412
             },
             {
-              "id": 694374,
-              "name": "Tim Tawa",
-              "ops": 0.678,
-              "avg": 0.219
-            },
-            {
               "id": 660821,
               "name": "Jesús Sánchez",
               "ops": 0.562,
               "avg": 0.2
             },
             {
-              "id": 691783,
-              "name": "Jordan Lawlar",
-              "ops": 0.801,
-              "avg": 0.276
+              "id": 656976,
+              "name": "Pavin Smith",
+              "ops": 0.622,
+              "avg": 0.222
+            },
+            {
+              "id": 694374,
+              "name": "Tim Tawa",
+              "ops": 0.678,
+              "avg": 0.219
             }
           ],
           "bat_trend": "cold",
@@ -10203,20 +10203,20 @@
           }
         },
         "sit_score": 53.3,
-        "total": 43.5
+        "total": 42.8
       }
     },
     "scores": {
-      "away_offense": 39.8,
+      "away_offense": 41.1,
       "away_defense": 63.2,
-      "home_offense": 37.699999999999996,
+      "home_offense": 35.6,
       "home_defense": 54.0
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
