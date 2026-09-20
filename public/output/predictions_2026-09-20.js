@@ -646,7 +646,7 @@ window.PREDICTIONS_DATA = [
     },
     "actual_score": {
       "away": 4,
-      "home": 0
+      "home": 2
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -1409,7 +1409,7 @@ window.PREDICTIONS_DATA = [
     },
     "actual_score": {
       "away": 1,
-      "home": 0
+      "home": 2
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -2153,8 +2153,8 @@ window.PREDICTIONS_DATA = [
       "home_defense": 46.9
     },
     "actual_score": {
-      "away": 1,
-      "home": 0
+      "away": 8,
+      "home": 1
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -3663,7 +3663,7 @@ window.PREDICTIONS_DATA = [
     },
     "actual_score": {
       "away": 0,
-      "home": 4
+      "home": 5
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -4410,7 +4410,7 @@ window.PREDICTIONS_DATA = [
     },
     "actual_score": {
       "away": 0,
-      "home": 0
+      "home": 1
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -5893,8 +5893,8 @@ window.PREDICTIONS_DATA = [
       "home_defense": 48.6
     },
     "actual_score": {
-      "away": 0,
-      "home": 0
+      "away": 1,
+      "home": 2
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -6633,7 +6633,7 @@ window.PREDICTIONS_DATA = [
       "home_defense": 63.2
     },
     "actual_score": {
-      "away": 0,
+      "away": 2,
       "home": 0
     },
     "lineup_confirmed": true,

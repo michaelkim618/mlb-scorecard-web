@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-20T19:16:06.786636+00:00",
+  "updated_at": "2026-09-20T19:39:31.150822+00:00",
   "news": [
+    {
+      "title": "Skubal to bereavement list, Sheehan recalled among LA moves; Tucker out of lineup",
+      "link": "https://www.mlb.com/news/emmet-sheehan-recalled-tarik-skubal-to-bereavement-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ydcx7n7eya34tvmcl3in",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-20T19:37:00+00:00",
+      "time_ago": "2m ago"
+    },
+    {
+      "title": "Suarez nears return to Braves' bullpen after scoreless Triple-A rehab outing",
+      "link": "https://www.mlb.com/news/robert-suarez-starts-rehab-assignment-at-triple-a",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789318898/mlb/dsouegfs0gwgwnbbnbjp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T19:06:58+00:00",
+      "time_ago": "32m ago"
+    },
     {
       "title": "Bregman exits after being hit in face by foul ball while in on-deck circle",
       "link": "https://www.mlb.com/news/alex-bregman-exits-after-being-hit-in-the-face-in-on-deck-circle",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-20T18:55:12+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "44m ago"
     },
     {
       "title": "One of the game's hardest throwers delivers ... a 32.6 mph HBP?",
@@ -25,19 +51,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-20T18:21:27+00:00",
-      "time_ago": "54m ago"
-    },
-    {
-      "title": "Skubal to bereavement list, Sheehan recalled among LA moves",
-      "link": "https://www.mlb.com/news/emmet-sheehan-recalled-tarik-skubal-to-bereavement-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ydcx7n7eya34tvmcl3in",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T18:14:20+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-20T16:15:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789869213/mlb/bgtip4siy3qk2yvgxwvw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-20T15:26:00+00:00",
       "time_ago": "3h ago"
     }
   ]
