@@ -315,11 +315,11 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 60.0,
-      "home": 40.0
+      "away": 54.0,
+      "home": 46.0
     },
     "expected_score": {
-      "away": 2.7,
+      "away": 2.6,
       "home": 1.7
     },
     "blend_detail": null,
@@ -590,15 +590,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 60.1,
+        "bp_score": 70.2,
         "bp_detail": {
-          "bullpen_era": 3.16,
-          "recent_era": 4.0,
-          "recent_appearances": 15,
-          "recent_ip": 18.0,
-          "team_era": 4.0,
-          "bp_ip": 262.0,
-          "bp_count": 5,
+          "bullpen_era": 2.92,
+          "recent_era": 2.4,
+          "recent_appearances": 12,
+          "recent_ip": 15.0,
+          "team_era": 3.94,
+          "bp_ip": 228.3,
+          "bp_count": 4,
           "closer_era": 2.3,
           "closer_name": "Grant Taylor"
         },
@@ -698,14 +698,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 57.1,
-        "total": 46.8
+        "total": 49.3
       }
     },
     "scores": {
       "away_offense": 39.7,
       "away_defense": 58.6,
       "home_offense": 25.0,
-      "home_defense": 50.8
+      "home_defense": 55.8
     },
     "actual_score": {
       "away": 1,
@@ -721,7 +721,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "Chicago White Sox",
     "model_winner": "Detroit Tigers",
     "model_correct": false,
-    "notes": "Detroit Tigers IL: Bailey Horn, Burch Smith, Jack Flaherty, Justin Verlander, Kerry Carpenter 외 다수 / Chicago White Sox IL: Brooks Baldwin, Huascar Brazobán, Joey Bart, Jordan Leasure, Ky Bush 외 다수",
+    "notes": "Detroit Tigers IL: Bailey Horn, Burch Smith, Jack Flaherty, Justin Verlander, Kerry Carpenter 외 다수 / Chicago White Sox IL: Brooks Baldwin, Joey Bart, Jordan Leasure, Ky Bush, Mike Vasil 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
@@ -729,8 +729,8 @@ window.PREDICTIONS_DATA = [
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
-    "low_confidence": false,
-    "low_confidence_reason": null,
+    "low_confidence": true,
+    "low_confidence_reason": "최고 확률 54.0% (≤58.0%)",
     "model_version": "v14"
   },
   {
@@ -1920,12 +1920,12 @@ window.PREDICTIONS_DATA = [
         },
         "bp_score": 72.5,
         "bp_detail": {
-          "bullpen_era": 2.62,
-          "recent_era": 2.7,
-          "recent_appearances": 17,
-          "recent_ip": 16.7,
-          "team_era": 3.23,
-          "bp_ip": 336.7,
+          "bullpen_era": 2.75,
+          "recent_era": 3.07,
+          "recent_appearances": 14,
+          "recent_ip": 14.7,
+          "team_era": 3.26,
+          "bp_ip": 360.3,
           "bp_count": 8,
           "closer_era": 1.95,
           "closer_name": "Aroldis Chapman"
@@ -2109,7 +2109,7 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.49,
           "closer_name": "Bryan Baker"
         },
-        "bat_score": 29.9,
+        "bat_score": 30.9,
         "bat_detail": {
           "recent_avg": 0.236,
           "runs_per_g": 4.8,
@@ -2205,13 +2205,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 65.8,
-        "total": 54.7
+        "total": 55.0
       }
     },
     "scores": {
       "away_offense": 25.0,
       "away_defense": 60.0,
-      "home_offense": 29.9,
+      "home_offense": 30.9,
       "home_defense": 65.0
     },
     "actual_score": {
@@ -2228,7 +2228,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "Tampa Bay Rays",
     "model_winner": "Tampa Bay Rays",
     "model_correct": true,
-    "notes": "Boston Red Sox IL: Anthony Seigler, Ceddanne Rafaela, Curtis Mead, Eduardo Rivera, Eli White 외 다수 / Tampa Bay Rays IL: Ben Williamson, Edwin Uceta, Garrett Cleavinger, Gavin Lux, Jonathan Heasley 외 다수",
+    "notes": "Boston Red Sox IL: Anthony Seigler, Ceddanne Rafaela, Curtis Mead, Eduardo Rivera, Eli White 외 다수 / Tampa Bay Rays IL: Edwin Uceta, Garrett Cleavinger, Gavin Lux, Jonathan Heasley, Manuel Rodríguez 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
@@ -2577,12 +2577,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 54.0,
-      "home": 46.0
+      "away": 50.0,
+      "home": 50.0
     },
     "expected_score": {
       "away": 1.8,
-      "home": 2.9
+      "home": 2.8
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -2683,14 +2683,14 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 47.6,
+        "bp_score": 62.3,
         "bp_detail": {
-          "bullpen_era": 4.04,
-          "recent_era": 5.95,
-          "recent_appearances": 16,
-          "recent_ip": 19.7,
-          "team_era": 3.91,
-          "bp_ip": 410.3,
+          "bullpen_era": 3.92,
+          "recent_era": 3.06,
+          "recent_appearances": 14,
+          "recent_ip": 17.7,
+          "team_era": 3.86,
+          "bp_ip": 360.3,
           "bp_count": 9,
           "closer_era": 1.76,
           "closer_name": "Jhoan Duran"
@@ -2791,7 +2791,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 52.7,
-        "total": 43.1
+        "total": 47.5
       },
       "home": {
         "sp_score": 40.7,
@@ -2974,7 +2974,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 25.0,
-      "away_defense": 43.1,
+      "away_defense": 50.5,
       "home_offense": 39.5,
       "home_defense": 43.4
     },
@@ -2990,8 +2990,8 @@ window.PREDICTIONS_DATA = [
       "any": false
     },
     "actual_winner": "New York Mets",
-    "model_winner": "Philadelphia Phillies",
-    "model_correct": false,
+    "model_winner": "New York Mets",
+    "model_correct": true,
     "notes": "Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Felix Reyes, Jesús Luzardo 외 다수 / New York Mets IL: Daniel Duarte, Devin Williams, Jared Young, Jorge Polanco, Reed Garrett 외 다수",
     "kalshi_prob": null,
     "edge": null,
@@ -4347,7 +4347,7 @@ window.PREDICTIONS_DATA = [
           "recent_era": 2.0,
           "recent_appearances": 19,
           "recent_ip": 19.0,
-          "team_era": 4.6,
+          "team_era": 4.9,
           "bp_ip": 324.7,
           "bp_count": 8,
           "closer_era": 3.54,
@@ -4472,7 +4472,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "Chicago Cubs",
     "model_winner": "Chicago Cubs",
     "model_correct": true,
-    "notes": "Chicago Cubs IL: Ben Brown, Cade Horton, Gavin Hollowell, Hunter Harvey, Justin Steele 외 다수 / Cincinnati Reds IL: Blake Dunn, Hunter Greene, Julian Garcia, Michael Toglia, Spencer Steer",
+    "notes": "Chicago Cubs IL: Ben Brown, Cade Horton, Gavin Hollowell, Hunter Harvey, Justin Steele 외 다수 / Cincinnati Reds IL: Blake Dunn, Chase Burns, Hunter Greene, Julian Garcia, Michael Toglia 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",

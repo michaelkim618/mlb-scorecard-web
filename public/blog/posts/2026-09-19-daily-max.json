@@ -1,0 +1,198 @@
+{
+  "title": "Sep 19 Results + Sep 20 Preview: Two Out of Three Ain't Bad",
+  "summary": "10-5 on Friday's slate (66.7%) as we head into another Mets-Phillies showdown.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Another Solid Day at the Office\n\nYou know, after covering this game for as long as I have, a 10-5 day feels just about right. We hit 66.7% on Friday's slate, and while I've seen better, I've certainly seen a whole lot worse. The model did what it's supposed to do—find the edges and capitalize on them more often than not."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Friday W-L",
+          "value": "10-5"
+        },
+        {
+          "label": "Win Rate",
+          "value": "66.7%"
+        },
+        {
+          "label": "Top Confidence",
+          "value": "63%"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Hits and Misses\n\nThe Rangers pick at 63% confidence was our strongest call of the day, and they delivered. Same story with the Nationals at 61%—Washington's been one of those teams that flies under the radar this time of year, but the numbers don't lie.\n\nWe stumbled on three games, including the Tigers-Sox matchup and the Astros at home. Houston's been inconsistent down the stretch, which is something I've seen before from playoff-bound teams resting guys and managing workloads. It happens."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Sep 19 Prediction Performance",
+      "data": [
+        {
+          "name": "Rangers",
+          "probability": 63,
+          "result": 1
+        },
+        {
+          "name": "Nationals",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Cubs",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Rays",
+          "probability": 60,
+          "result": 1
+        },
+        {
+          "name": "Guardians",
+          "probability": 59,
+          "result": 1
+        },
+        {
+          "name": "Tigers",
+          "probability": 54,
+          "result": 0
+        },
+        {
+          "name": "Astros",
+          "probability": 54,
+          "result": 0
+        },
+        {
+          "name": "Pirates",
+          "probability": 53,
+          "result": 1
+        },
+        {
+          "name": "Orioles",
+          "probability": 50,
+          "result": 0
+        },
+        {
+          "name": "Mets",
+          "probability": 50,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Complete Sep 19 Results",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Jays @ Rangers",
+          "Rangers",
+          "63%",
+          "✓ Hit"
+        ],
+        [
+          "Nationals @ Cardinals",
+          "Nationals",
+          "61%",
+          "✓ Hit"
+        ],
+        [
+          "Cubs @ Reds",
+          "Cubs",
+          "61%",
+          "✓ Hit"
+        ],
+        [
+          "Sox @ Rays",
+          "Rays",
+          "60%",
+          "✓ Hit"
+        ],
+        [
+          "Athletics @ Guardians",
+          "Guardians",
+          "59%",
+          "✓ Hit"
+        ],
+        [
+          "Tigers @ Sox",
+          "Tigers",
+          "54%",
+          "✗ Miss"
+        ],
+        [
+          "Braves @ Astros",
+          "Astros",
+          "54%",
+          "✗ Miss"
+        ],
+        [
+          "Royals @ Pirates",
+          "Pirates",
+          "53%",
+          "✓ Hit"
+        ],
+        [
+          "Brewers @ Orioles",
+          "Orioles",
+          "50%",
+          "✗ Miss"
+        ],
+        [
+          "Phillies @ Mets",
+          "Mets",
+          "50%",
+          "✓ Hit"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Looking Ahead to Saturday\n\nHere's the thing about September baseball—these division matchups start to feel like playoff games. And wouldn't you know it, we're right back to Phillies-Mets on Saturday.\n\nThe model's leaning Mets again, but just barely at 50%. When I see a number like that, it tells me we're looking at a true coin flip with maybe the slightest edge to the home team. Cristopher Sánchez goes for Philadelphia against Jonah Tong for New York."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Saturday's Top Pick",
+      "value": "New York Mets",
+      "sub": "50% confidence · Sánchez vs Tong · NL East showdown"
+    },
+    {
+      "type": "text",
+      "value": "## The Veteran's Take\n\nI've covered enough Mets-Phillies games to know that anything can happen when these two get together late in the season. A 50% pick isn't what you'd call a screaming edge, but sometimes that's all you get in September when two quality teams are battling it out.\n\nSánchez has been solid for Philly this year, but Citi Field can be tricky for lefties. Tong's a younger arm, which means there's some volatility baked into this one. The model sees a tight game, and I'm inclined to agree.\n\nWe'll be back tomorrow with a full breakdown of Saturday's slate. Until then, enjoy the games—this is what September baseball is all about."
+    }
+  ],
+  "slug": "2026-09-19-daily-max",
+  "author": "Max",
+  "author_emoji": "📰",
+  "author_role": "Senior Reporter",
+  "author_color": "#16A34A",
+  "date": "2026-09-19",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#16A34A"
+}

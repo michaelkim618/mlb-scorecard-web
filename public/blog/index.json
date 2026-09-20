@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-09-19-daily-max",
+      "title": "Sep 19 Results + Sep 20 Preview: Two Out of Three Ain't Bad",
+      "author": "Max",
+      "author_emoji": "📰",
+      "author_color": "#16A34A",
+      "author_role": "Senior Reporter",
+      "date": "2026-09-19",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#16A34A",
+      "read_time": "3 min",
+      "summary": "10-5 on Friday's slate (66.7%) as we head into another Mets-Phillies showdown."
+    },
+    {
       "slug": "2026-09-18-daily-doc",
       "title": "Sep 18 Results + Sep 19 Preview: Model Hits 66.7%, Tigers Return as Value Play",
       "author": "Doc",
