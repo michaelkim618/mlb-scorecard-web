@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-20T20:58:05.968329+00:00",
+  "updated_at": "2026-09-20T21:21:35.968820+00:00",
   "news": [
+    {
+      "title": "Yaz's clutch homer helps Braves clinch NL East title",
+      "link": "https://www.mlb.com/news/braves-clinch-2026-nl-east-title",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aoi2vzbejas6vms6mvhh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-20T21:09:13+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789869213/mlb/bgtip4siy3qk2yvgxwvw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-20T21:08:00+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Red Sox clinch postseason spot that once seemed improbable",
+      "link": "https://www.mlb.com/news/red-sox-playoff-spot-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rlqxfebiljbnxfppjrrb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T21:00:00+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "Burns heads to IL with groin strain, ending his breakout season",
+      "link": "https://www.mlb.com/news/chase-burns-placed-on-injured-list-with-groin-strain",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wylaqralmvg7pr0vuuzn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Sheldon",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-20T20:59:00+00:00",
+      "time_ago": "22m ago"
+    },
     {
       "title": "Rays wrap regular-season home slate on precipice of AL East title with 55th win at Trop",
       "link": "https://www.mlb.com/news/rays-nearing-al-east-title-after-win-in-final-regular-season-home-game",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-20T20:32:20+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "PCA's latest offensive outburst puts Cubs on verge of playoff clinch",
@@ -25,33 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-20T20:27:00+00:00",
-      "time_ago": "31m ago"
-    },
-    {
-      "title": "Red Sox on verge of punching ticket to postseason despite falling to Rays",
-      "link": "https://www.mlb.com/news/red-sox-playoff-spot-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cugpbjyj0vwujs3xxbxn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T20:18:07+00:00",
-      "time_ago": "39m ago"
-    },
-    {
-      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789869213/mlb/bgtip4siy3qk2yvgxwvw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-20T20:05:00+00:00",
-      "time_ago": "53m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "Kuiper shares throat cancer diagnosis; will return to booth for Krukow's sendoff",
@@ -77,32 +103,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-20T19:44:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Skubal to bereavement list, Sheehan recalled among LA moves; Tucker out of lineup",
-      "link": "https://www.mlb.com/news/emmet-sheehan-recalled-tarik-skubal-to-bereavement-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ydcx7n7eya34tvmcl3in",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-20T19:37:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Suarez nears return to Braves' bullpen after scoreless Triple-A rehab outing",
-      "link": "https://www.mlb.com/news/robert-suarez-starts-rehab-assignment-at-triple-a",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789318898/mlb/dsouegfs0gwgwnbbnbjp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T19:06:58+00:00",
       "time_ago": "1h ago"
     }
   ]
