@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-20T18:17:00.038741+00:00",
+  "updated_at": "2026-09-20T18:24:39.403407+00:00",
   "news": [
+    {
+      "title": "Skubal to bereavement list, Sheehan recalled among LA moves",
+      "link": "https://www.mlb.com/news/emmet-sheehan-recalled-tarik-skubal-to-bereavement-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ydcx7n7eya34tvmcl3in",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T18:14:20+00:00",
+      "time_ago": "10m ago"
+    },
     {
       "title": "Cease (shoulder) undergoes MRI, scratched from next start",
       "link": "https://www.mlb.com/news/dylan-cease-gets-an-mri-on-right-shoulder-injury",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-20T17:50:33+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "34m ago"
     },
     {
       "title": "Rays reinstate versatile INF Williamson, DFA veteran Fraley",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-20T17:40:00+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "44m ago"
     },
     {
       "title": "Burns heads to IL with groin strain, ending his breakout season",
@@ -77,7 +90,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-20T14:21:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "'Living the dream': Padres take hold of 2nd WC spot on Salas' walk-off hit",
@@ -91,19 +104,6 @@
       "tag_color": "#D97706",
       "pub_date": "2026-09-20T06:54:00+00:00",
       "time_ago": "11h ago"
-    },
-    {
-      "title": "Mookie's sizzling September continues with 4-hit game",
-      "link": "https://www.mlb.com/news/mookie-betts-has-4-hits-as-dodgers-beat-giants",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qfj2uvvgetmyhvau4zha",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T05:53:00+00:00",
-      "time_ago": "12h ago"
     }
   ]
 }
