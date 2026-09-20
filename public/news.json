@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-20T04:06:15.310571+00:00",
+  "updated_at": "2026-09-20T05:04:24.004900+00:00",
   "news": [
+    {
+      "title": "Cubs' bullpen bands together to deliver clutch scoreless showing",
+      "link": "https://www.mlb.com/news/michael-busch-hits-20th-home-run-cubs-nearing-postseason-clinch",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oosvnjbt2env6ojcjqie",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bill Ladson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T04:47:00+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Palacios snaps Rays' RISP skid with walk-off bloop single vs. Red Sox",
+      "link": "https://www.mlb.com/news/richie-palacios-hits-walk-off-single-rays-beat-red-sox",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xrkeupai6r0gyceymmyw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-20T04:38:00+00:00",
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "9 reasons why Misiorowski's season has been one of a kind",
+      "link": "https://www.mlb.com/news/stats-to-explain-jacob-misiorowski-special-2026-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ywbptihkogfoucqlevnp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sarah Langs",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T04:30:52+00:00",
+      "time_ago": "33m ago"
+    },
+    {
+      "title": "Caglianone apologizes for punching dugout wall, causing hand injury",
+      "link": "https://www.mlb.com/news/jac-caglianone-apologizes-for-actions-resulting-in-left-hand-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nxuybdlznnmqdazgbiq5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "John Perrotto",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-20T04:18:00+00:00",
+      "time_ago": "46m ago"
+    },
+    {
+      "title": "Mookie's 4-hit night powers Dodgers to series win over rivals",
+      "link": "https://www.mlb.com/news/mookie-betts-has-4-hits-as-dodgers-beat-giants",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qfj2uvvgetmyhvau4zha",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T04:16:31+00:00",
+      "time_ago": "47m ago"
+    },
     {
       "title": "Acuña's scorching September rolls on with go-ahead slam",
       "link": "https://www.mlb.com/news/ronald-acuna-jr-hits-go-ahead-grand-slam-in-braves-win-over-astros",
@@ -12,20 +77,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-20T04:01:00+00:00",
-      "time_ago": "5m ago"
+      "time_ago": "1h ago"
     },
     {
-      "title": "Move over Hammer! Jensen's 25th HR breaks Royals' 32-year-old rookie mark",
-      "link": "https://www.mlb.com/news/carter-jensen-sets-royals-rookie-record-for-homers",
+      "title": "Each contender's top player seeking 1st World Series ring",
+      "link": "https://www.mlb.com/news/mlb-stars-seeking-first-world-series-ring-in-2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lqxpnam0fkdyr2taqjyt",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bnwfqylh9krm8rijbqf5",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-20T04:01:00+00:00",
-      "time_ago": "5m ago"
+      "author": "Manny Randhawa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T03:56:09+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Practice pays off for 'pretty sick' between-the-legs play",
@@ -38,72 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-20T03:51:00+00:00",
-      "time_ago": "15m ago"
-    },
-    {
-      "title": "D-backs celebrate 2001 title team with walk-off win vs. Yankees",
-      "link": "https://www.mlb.com/news/pavin-smith-hits-walk-off-home-run-in-d-backs-win-vs-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fl9c0ovpv3zm3bdpbbrz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Michael Reynolds",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-20T03:46:37+00:00",
-      "time_ago": "19m ago"
-    },
-    {
-      "title": "D-backs anthem trumpeter makes AMAZING recovery after horn malfunction",
-      "link": "https://www.mlb.com/news/d-backs-national-anthem-player-recovers-after-trumpet-malfunction",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789871846/mlb/mpp7zodjtogmgtpawzqp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T03:46:00+00:00",
-      "time_ago": "20m ago"
-    },
-    {
-      "title": "'It's go time': Astros look to stack wins after losing AL West lead",
-      "link": "https://www.mlb.com/news/astros-fall-out-of-first-place-in-al-west-with-loss-to-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789868727/mlb/amqxojdihjipp5nknlfz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T03:36:00+00:00",
-      "time_ago": "30m ago"
-    },
-    {
-      "title": "With Cy, sub-2.00 ERA in sights, Schlittler delivers before Yanks get walked off",
-      "link": "https://www.mlb.com/news/cam-schlittler-pitches-6-strong-innings-against-diamondbacks",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789876451/mlb/hnpw2uvfozfujl1b6lwg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T03:33:00+00:00",
-      "time_ago": "33m ago"
-    },
-    {
-      "title": "Langford hurdles catcher, Rangers land in first place",
-      "link": "https://www.mlb.com/news/wyatt-langford-hurdles-catcher-to-score-rangers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/s2bcqqrclkjhyyx2v1nm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T03:11:00+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
