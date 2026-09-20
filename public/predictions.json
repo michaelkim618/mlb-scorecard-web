@@ -4418,9 +4418,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Atlanta Braves",
     "model_winner": "Houston Astros",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Atlanta Braves IL: Bryce Elder, Joe Jiménez, Joey Wentz, Lane Thomas, Reynaldo López 외 다수 / Houston Astros IL: Brandon Walter, Carlos Correa, Enyel De Los Santos, Mike Burrows, Steven Okert",
     "kalshi_prob": 58.0,
     "edge": -1.0,

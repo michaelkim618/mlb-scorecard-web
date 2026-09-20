@@ -15121,6 +15121,30 @@
       "away_bp_score": 57.1,
       "home_bp_score": 50.9,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-20",
+      "away": "Atlanta Braves",
+      "home": "Houston Astros",
+      "game_number": 1,
+      "pick": "Houston Astros",
+      "pick_prob": 55.0,
+      "actual_winner": "Atlanta Braves",
+      "away_score": 0,
+      "home_score": 1,
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "hot",
+      "away_sp_era": 2.58,
+      "home_sp_era": 3.0,
+      "away_bp_era": 2.92,
+      "home_bp_era": 3.66,
+      "away_sp_score": 52.1,
+      "home_sp_score": 57.5,
+      "away_bp_score": 63.1,
+      "home_bp_score": 59.8,
+      "bat_source": "lineup"
     }
   ]
 }
