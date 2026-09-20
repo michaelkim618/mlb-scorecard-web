@@ -15145,6 +15145,30 @@
       "away_bp_score": 63.1,
       "home_bp_score": 59.8,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-20",
+      "away": "Toronto Blue Jays",
+      "home": "Texas Rangers",
+      "game_number": 1,
+      "pick": "Texas Rangers",
+      "pick_prob": 61.5,
+      "actual_winner": "Toronto Blue Jays",
+      "away_score": 2,
+      "home_score": 0,
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "stable",
+      "away_sp_era": 4.5,
+      "home_sp_era": 3.86,
+      "away_bp_era": 2.97,
+      "home_bp_era": 3.28,
+      "away_sp_score": 35.2,
+      "home_sp_score": 56.0,
+      "away_bp_score": 72.5,
+      "home_bp_score": 70.5,
+      "bat_source": "lineup"
     }
   ]
 }
