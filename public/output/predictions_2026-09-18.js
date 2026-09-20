@@ -8164,15 +8164,15 @@ window.PREDICTIONS_DATA = [
       "div_rank": 4,
       "div_name": "AL Central",
       "wins": 72,
-      "losses": 82,
-      "games_back": "7.5"
+      "losses": 83,
+      "games_back": "8.0"
     },
     "home_standing": {
       "div_rank": 5,
       "div_name": "AL West",
-      "wins": 59,
+      "wins": 60,
       "losses": 95,
-      "games_back": "18.5"
+      "games_back": "18.0"
     },
     "away_recent_form": {
       "games": [
@@ -8493,7 +8493,7 @@ window.PREDICTIONS_DATA = [
     },
     "expected_score": {
       "away": 1.8,
-      "home": 1.3
+      "home": 1.4
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -8578,26 +8578,26 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 34.0,
+        "bp_score": 34.6,
         "bp_detail": {
           "bullpen_era": 4.06,
-          "recent_era": 5.72,
+          "recent_era": 5.59,
           "recent_appearances": 30,
-          "recent_ip": 28.3,
+          "recent_ip": 29.0,
           "team_era": 4.26,
-          "bp_ip": 463.0,
+          "bp_ip": 463.7,
           "bp_count": 8,
           "closer_era": 4.48,
           "closer_name": "Yoendrys Gómez"
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.211,
+          "recent_avg": 0.209,
           "runs_per_g": 3.1,
           "hr_per_g": 0.9,
           "bb_per_g": 3.0,
-          "season_ops": 0.637,
-          "season_avg": 0.211,
+          "season_ops": 0.63,
+          "season_avg": 0.209,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -8605,12 +8605,12 @@ window.PREDICTIONS_DATA = [
           "lineup_ops": [
             "Luke Keaschall(0.724)",
             "Brooks Lee(0.639)",
-            "Kody Clemens(0.774)",
+            "Kody Clemens(0.728)",
             "Ryan Jeffers(0.595)",
             "Josh Bell(0.694)",
             "Emmanuel Rodriguez(0.579)",
             "Royce Lewis(0.532)",
-            "Walker Jenkins(0.800)",
+            "Walker Jenkins(0.780)",
             "Ben Ross(0.400)"
           ],
           "lineup_players": [
@@ -8629,8 +8629,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 665019,
               "name": "Kody Clemens",
-              "ops": 0.774,
-              "avg": 0.237
+              "ops": 0.728,
+              "avg": 0.229
             },
             {
               "id": 680777,
@@ -8659,8 +8659,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 805805,
               "name": "Walker Jenkins",
-              "ops": 0.8,
-              "avg": 0.3
+              "ops": 0.78,
+              "avg": 0.29
             },
             {
               "id": 805346,
@@ -8671,7 +8671,7 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "hot",
           "last5_rpg": 3.6,
-          "last5_avg": 0.253,
+          "last5_avg": 0.251,
           "home_split": {
             "recent_avg": 0.24,
             "runs_per_g": 5.4,
@@ -8679,17 +8679,17 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.226,
+            "recent_avg": 0.225,
             "runs_per_g": 3.3,
             "hr_per_g": 1.3,
             "n_games": 10
           }
         },
-        "sit_score": 46.0,
-        "total": 39.6
+        "sit_score": 42.0,
+        "total": 39.2
       },
       "home": {
-        "sp_score": 36.1,
+        "sp_score": 36.2,
         "sp_detail": {
           "era": 4.12,
           "whip": 1.35,
@@ -8749,40 +8749,40 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 43.5,
+        "bp_score": 44.0,
         "bp_detail": {
           "bullpen_era": 3.94,
-          "recent_era": 4.07,
+          "recent_era": 4.01,
           "recent_appearances": 23,
-          "recent_ip": 24.3,
+          "recent_ip": 24.7,
           "team_era": 4.03,
-          "bp_ip": 308.3,
+          "bp_ip": 308.7,
           "bp_count": 9,
           "closer_era": 4.11,
           "closer_name": "Ben Joyce"
         },
-        "bat_score": 17.3,
+        "bat_score": 18.0,
         "bat_detail": {
-          "recent_avg": 0.211,
-          "runs_per_g": 3.9,
+          "recent_avg": 0.212,
+          "runs_per_g": 4.0,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.638,
-          "season_avg": 0.211,
+          "season_ops": 0.641,
+          "season_avg": 0.212,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
             "Zach Neto(0.750)",
-            "Mike Trout(0.779)",
+            "Mike Trout(0.786)",
             "Jose Siri(0.874)",
             "Vaughn Grissom(0.619)",
             "Denzer Guzman(0.656)",
             "Oswald Peraza(0.521)",
             "Travis d'Arnaud(0.434)",
-            "Christian Moore(0.420)",
-            "Wade Meckler(0.691)"
+            "Christian Moore(0.450)",
+            "Wade Meckler(0.680)"
           ],
           "lineup_players": [
             {
@@ -8794,7 +8794,7 @@ window.PREDICTIONS_DATA = [
             {
               "id": 545361,
               "name": "Mike Trout",
-              "ops": 0.779,
+              "ops": 0.786,
               "avg": 0.212
             },
             {
@@ -8830,22 +8830,22 @@ window.PREDICTIONS_DATA = [
             {
               "id": 695681,
               "name": "Christian Moore",
-              "ops": 0.42,
-              "avg": 0.152
+              "ops": 0.45,
+              "avg": 0.176
             },
             {
               "id": 685133,
               "name": "Wade Meckler",
-              "ops": 0.691,
-              "avg": 0.267
+              "ops": 0.68,
+              "avg": 0.258
             }
           ],
           "bat_trend": "hot",
-          "last5_rpg": 2.8,
-          "last5_avg": 0.227,
+          "last5_rpg": 3.0,
+          "last5_avg": 0.229,
           "home_split": {
             "recent_avg": 0.238,
-            "runs_per_g": 3.8,
+            "runs_per_g": 3.9,
             "hr_per_g": 0.5,
             "n_games": 10
           },
@@ -8856,15 +8856,15 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           }
         },
-        "sit_score": 41.1,
-        "total": 34.3
+        "sit_score": 45.2,
+        "total": 35.3
       }
     },
     "scores": {
       "away_offense": 25.0,
-      "away_defense": 40.7,
-      "home_offense": 17.3,
-      "home_defense": 39.8
+      "away_defense": 41.0,
+      "home_offense": 18.0,
+      "home_defense": 40.1
     },
     "actual_score": {
       "away": 3,

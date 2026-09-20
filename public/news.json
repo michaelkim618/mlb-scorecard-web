@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-09-20T05:04:24.004900+00:00",
+  "updated_at": "2026-09-20T05:56:04.071392+00:00",
   "news": [
+    {
+      "title": "No, not as painful as '01 -- but this walk-off loss could prove costly to Yanks",
+      "link": "https://www.mlb.com/news/cam-schlittler-pitches-6-strong-innings-against-diamondbacks",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rihf9rtiabf9fh5gzo7f",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-20T05:52:00+00:00",
+      "time_ago": "4m ago"
+    },
+    {
+      "title": "'Good chance' Ohtani will be activated for next series",
+      "link": "https://www.mlb.com/news/shohei-ohtani-could-return-for-padres-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ursvmesr9tyydsysqrmj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T05:43:17+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "These stars have turned their seasons around in the second half",
+      "link": "https://www.mlb.com/news/mlb-players-bouncing-back-during-2026-second-half",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/s3nuap44ubyfvhv9fshz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T05:26:24+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "X's, O's and MLB bros: Opposing shortstops play tic-tac-toe",
+      "link": "https://www.mlb.com/news/nasim-nunez-masyn-winn-tic-tac-toe-nationals-cardinals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/u1uk6a3u9hefc3vdihx3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T05:24:28+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "Padres take hold of 2nd Wild Card spot with Salas' walk-off hit",
+      "link": "https://www.mlb.com/news/padres-claim-sole-possession-of-2nd-wild-card-spot",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mb3mbublpmqs3umvfjmm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Cole Bradley",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-20T05:15:55+00:00",
+      "time_ago": "40m ago"
+    },
+    {
+      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789869213/mlb/bgtip4siy3qk2yvgxwvw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-20T05:13:00+00:00",
+      "time_ago": "43m ago"
+    },
     {
       "title": "Cubs' bullpen bands together to deliver clutch scoreless showing",
       "link": "https://www.mlb.com/news/michael-busch-hits-20th-home-run-cubs-nearing-postseason-clinch",
@@ -12,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-20T04:47:00+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Palacios snaps Rays' RISP skid with walk-off bloop single vs. Red Sox",
@@ -25,84 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-20T04:38:00+00:00",
-      "time_ago": "26m ago"
-    },
-    {
-      "title": "9 reasons why Misiorowski's season has been one of a kind",
-      "link": "https://www.mlb.com/news/stats-to-explain-jacob-misiorowski-special-2026-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ywbptihkogfoucqlevnp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sarah Langs",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T04:30:52+00:00",
-      "time_ago": "33m ago"
-    },
-    {
-      "title": "Caglianone apologizes for punching dugout wall, causing hand injury",
-      "link": "https://www.mlb.com/news/jac-caglianone-apologizes-for-actions-resulting-in-left-hand-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nxuybdlznnmqdazgbiq5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "John Perrotto",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-20T04:18:00+00:00",
-      "time_ago": "46m ago"
-    },
-    {
-      "title": "Mookie's 4-hit night powers Dodgers to series win over rivals",
-      "link": "https://www.mlb.com/news/mookie-betts-has-4-hits-as-dodgers-beat-giants",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qfj2uvvgetmyhvau4zha",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T04:16:31+00:00",
-      "time_ago": "47m ago"
-    },
-    {
-      "title": "Acuña's scorching September rolls on with go-ahead slam",
-      "link": "https://www.mlb.com/news/ronald-acuna-jr-hits-go-ahead-grand-slam-in-braves-win-over-astros",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789871376/mlb/lmms3tncerlkpapnredt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T04:01:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Each contender's top player seeking 1st World Series ring",
-      "link": "https://www.mlb.com/news/mlb-stars-seeking-first-world-series-ring-in-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bnwfqylh9krm8rijbqf5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T03:56:09+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Practice pays off for 'pretty sick' between-the-legs play",
-      "link": "https://www.mlb.com/news/ryan-o-hearn-glove-flip-for-the-out-at-first-base",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vdr32illrohejzvi2ran",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T03:51:00+00:00",
       "time_ago": "1h ago"
     }
   ]

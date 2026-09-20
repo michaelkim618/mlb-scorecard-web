@@ -14977,6 +14977,30 @@
       "away_bp_score": 45.5,
       "home_bp_score": 70.1,
       "bat_source": "prev_day"
+    },
+    {
+      "date": "2026-09-19",
+      "away": "Minnesota Twins",
+      "home": "Los Angeles Angels",
+      "game_number": 1,
+      "pick": "Los Angeles Angels",
+      "pick_prob": 60.6,
+      "actual_winner": "Los Angeles Angels",
+      "away_score": null,
+      "home_score": null,
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "hot",
+      "away_sp_era": 4.91,
+      "home_sp_era": 1.82,
+      "away_bp_era": 4.05,
+      "home_bp_era": 3.98,
+      "away_sp_score": 34.8,
+      "home_sp_score": 65.9,
+      "away_bp_score": 38.5,
+      "home_bp_score": 41.2,
+      "bat_source": "prev_day"
     }
   ]
 }
