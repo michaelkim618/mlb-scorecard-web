@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T00:11:56.933681+00:00",
+  "updated_at": "2026-09-20T00:32:42.613421+00:00",
   "news": [
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -12,7 +12,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-20T00:02:00+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "30m ago"
     },
     {
       "title": "Beltrán feted with number retirement, Mets HOF -- but is another chapter possible?",
@@ -25,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T23:58:00+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "34m ago"
     },
     {
       "title": "Gasser turns in another strong start in record-tying win as other pitching questions loom for Crew",
@@ -38,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T23:54:00+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Benge passes Alonso to become Mets' new rookie hit king",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T23:50:21+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "1 crucial pitch turns the tide as Phillies slip in NL Wild Card race",
@@ -64,20 +64,20 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-19T23:47:36+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "Jensen's 25th jack sets Royals' rookie mark for homers",
       "link": "https://www.mlb.com/news/carter-jensen-sets-royals-rookie-record-for-homers",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jbmyqcyd1straymm6krv",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lqxpnam0fkdyr2taqjyt",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "",
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-19T23:43:17+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "Judge frustrated but remains confident of return by postseason",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T23:42:23+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Yesavage (meniscus) set to return on Monday after Friday side session",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T23:16:00+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
