@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T00:32:42.613421+00:00",
+  "updated_at": "2026-09-20T01:30:16.021787+00:00",
   "news": [
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -11,8 +11,47 @@
       "author": "",
       "tag": "Standings",
       "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-20T00:02:00+00:00",
-      "time_ago": "30m ago"
+      "pub_date": "2026-09-20T01:20:00+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "O'Hearn goes between the legs for ingenious out at first",
+      "link": "https://www.mlb.com/news/ryan-o-hearn-glove-flip-for-the-out-at-first-base",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vdr32illrohejzvi2ran",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T01:15:16+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "Martínez flirts with cycle in 2-HR game as Guards maintain AL Central lead",
+      "link": "https://www.mlb.com/news/angel-martinez-two-homer-game-guardians-beat-athletics",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cumrht0xa6mijzlezd6i",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-20T01:10:47+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Boston's clinch will have to wait after Bello's 11-K gem is spoiled",
+      "link": "https://www.mlb.com/news/brayan-bello-strikes-out-11-red-sox-fall-rays-walk-off",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/muyilx8ogs674nzamtue",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T01:04:00+00:00",
+      "time_ago": "26m ago"
     },
     {
       "title": "Beltrán feted with number retirement, Mets HOF -- but is another chapter possible?",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T23:58:00+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Gasser turns in another strong start in record-tying win as other pitching questions loom for Crew",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T23:54:00+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Benge passes Alonso to become Mets' new rookie hit king",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-19T23:50:21+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "1 crucial pitch turns the tide as Phillies slip in NL Wild Card race",
@@ -64,45 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-19T23:47:36+00:00",
-      "time_ago": "45m ago"
-    },
-    {
-      "title": "Jensen's 25th jack sets Royals' rookie mark for homers",
-      "link": "https://www.mlb.com/news/carter-jensen-sets-royals-rookie-record-for-homers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lqxpnam0fkdyr2taqjyt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-19T23:43:17+00:00",
-      "time_ago": "49m ago"
-    },
-    {
-      "title": "Judge frustrated but remains confident of return by postseason",
-      "link": "https://www.mlb.com/news/aaron-judge-discusses-calf-injury-return-to-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rui6h5uygaw9ifjrljbd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-19T23:42:23+00:00",
-      "time_ago": "50m ago"
-    },
-    {
-      "title": "Yesavage (meniscus) set to return on Monday after Friday side session",
-      "link": "https://www.mlb.com/news/trey-yesavage-throws-side-session-ahead-of-return-for-blue-jays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/apm687yts1xpfnsrtlcg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Perla Paredes",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-19T23:16:00+00:00",
       "time_ago": "1h ago"
     }
   ]
