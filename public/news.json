@@ -1,18 +1,31 @@
 {
-  "updated_at": "2026-09-20T22:48:32.451841+00:00",
+  "updated_at": "2026-09-20T23:20:05.418142+00:00",
   "news": [
     {
-      "title": "Padres sweep Marlins for 13th win in 14 games",
-      "link": "https://www.mlb.com/news/jake-cronenworth-homers-twice-as-padres-beat-marlins",
+      "title": "Arenado's 2nd-chance slam breathes life into D-backs' postseason hopes",
+      "link": "https://www.mlb.com/news/nolan-arenado-hits-go-ahead-grand-slam-after-close-foul-ball",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gfzcrufdqzlmpvwaubco",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789943700/mlb/h6ypwgc8q8b3vgjtlkmx",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "AJ Cassavell",
+      "author": "Jesse Borek",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-20T22:36:48+00:00",
-      "time_ago": "11m ago"
+      "pub_date": "2026-09-20T23:06:38+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Yanks' task grows more difficult as loss drops them 6 back of Rays",
+      "link": "https://www.mlb.com/news/brent-headrick-allows-grand-slam-in-yankees-loss-to-d-backs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789944677/mlb/aftuis7ohecg9peei2xd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T23:00:01+00:00",
+      "time_ago": "20m ago"
     },
     {
       "title": "Rays on precipice of AL East title after setting single-season record for wins at Trop",
@@ -24,60 +37,21 @@
       "author": "Adam Berry",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-20T21:43:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-09-20T22:53:00+00:00",
+      "time_ago": "27m ago"
     },
     {
-      "title": "Bregman awaiting test results after being hit in face by foul ball while in on-deck circle",
-      "link": "https://www.mlb.com/news/alex-bregman-exits-after-being-hit-in-the-face-in-on-deck-circle",
+      "title": "Sheehan posts impressive audition for postseason 'pen spot as LA sweeps SF",
+      "link": "https://www.mlb.com/news/emmet-sheehan-strikes-out-9-giants-in-scoreless-long-relief",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t2rrgeph63fdfbwskwo7",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kpfwfvqfxpnn51ouzbvv",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Bill Ladson",
+      "author": "Sonja Chen",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-20T21:34:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Yaz's clutch homer helps Braves clinch NL East title",
-      "link": "https://www.mlb.com/news/braves-clinch-2026-nl-east-title",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aoi2vzbejas6vms6mvhh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-20T21:22:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Astros squander Brown's 10-K gem as playoff hopes take a hit",
-      "link": "https://www.mlb.com/news/hunter-brown-10-strikeouts-astros-lose-to-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pfsqljpbh99ypffs6mr8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-20T21:17:50+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Bernal's clutch blast wraps Cards' home slate with comeback win",
-      "link": "https://www.mlb.com/news/leo-bernal-hits-go-ahead-homer-as-cardinals-come-back-in-home-finale",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/azzm1zvhnrj0yugk44vg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T21:12:34+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-09-20T22:53:00+00:00",
+      "time_ago": "27m ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -89,21 +63,47 @@
       "author": "",
       "tag": "Standings",
       "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-20T21:08:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-09-20T22:53:00+00:00",
+      "time_ago": "27m ago"
     },
     {
-      "title": "Red Sox clinch postseason spot that once seemed improbable",
-      "link": "https://www.mlb.com/news/red-sox-playoff-spot-2026",
+      "title": "Cruz's latest mammoth blast puts him in elite Pirates company",
+      "link": "https://www.mlb.com/news/rafael-flores-jr-hits-clutch-homer-in-8th-inning-against-royals",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f0c98vqvbbdvicl12hyi",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ambkwk6lhraegkkzomwj",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Ian Browne",
+      "author": "Aiden Stepansky",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-20T21:00:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-09-20T22:48:00+00:00",
+      "time_ago": "32m ago"
+    },
+    {
+      "title": "Braves sweep Astros to clinch NL East title: 'And we're not done yet'",
+      "link": "https://www.mlb.com/news/braves-clinch-2026-nl-east-title",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/etw7cwg3javu8fszzvnl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T22:46:00+00:00",
+      "time_ago": "34m ago"
+    },
+    {
+      "title": "Padres sweep Marlins for 13th win in 14 games",
+      "link": "https://www.mlb.com/news/jake-cronenworth-homers-twice-as-padres-beat-marlins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gfzcrufdqzlmpvwaubco",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T22:36:48+00:00",
+      "time_ago": "43m ago"
     }
   ]
 }

@@ -15289,6 +15289,30 @@
       "away_bp_score": 37.4,
       "home_bp_score": 48.7,
       "bat_source": "prev_day"
+    },
+    {
+      "date": "2026-09-20",
+      "away": "New York Yankees",
+      "home": "Arizona Diamondbacks",
+      "game_number": 1,
+      "pick": "New York Yankees",
+      "pick_prob": 60.7,
+      "actual_winner": "Arizona Diamondbacks",
+      "away_score": 0,
+      "home_score": 0,
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "cold",
+      "away_sp_era": 3.67,
+      "home_sp_era": 5.87,
+      "away_bp_era": 2.93,
+      "home_bp_era": 3.02,
+      "away_sp_score": 51.5,
+      "home_sp_score": 32.0,
+      "away_bp_score": 75.0,
+      "home_bp_score": 65.8,
+      "bat_source": "lineup"
     }
   ]
 }
