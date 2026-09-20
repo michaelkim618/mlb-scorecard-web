@@ -1,14 +1,18 @@
 {
   "predictions": [
-    "12:10"
+    "12:10",
+    "13:07"
   ],
   "results": false,
   "lineup_refreshed": [
-    "10:10"
+    "10:10",
+    "11:10"
   ],
   "predictions_frozen": [
     "10:10",
-    "12:10"
+    "12:10",
+    "11:10",
+    "13:07"
   ],
   "frozen_predictions": {
     "10:10": [
@@ -107,6 +111,130 @@
         "sp_bat_conflict_detail": null,
         "low_confidence": true,
         "low_confidence_reason": "SP 점수 차이 0.0pt (≤5.0pt) / 최고 확률 50.0% (≤58.0%)",
+        "extreme_edge": false
+      }
+    ],
+    "11:10": [
+      {
+        "game_pk": "824139",
+        "win_prob": {
+          "away": 45.0,
+          "home": 55.0
+        },
+        "model_winner": "Houston Astros",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -1.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 57.0% (≤58.0%)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "824546",
+        "win_prob": {
+          "away": 58.3,
+          "home": 41.7
+        },
+        "model_winner": "Detroit Tigers",
+        "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Chicago White Sox)",
+        "edge": -9.3,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823001",
+        "win_prob": {
+          "away": 40.8,
+          "home": 59.2
+        },
+        "model_winner": "St. Louis Cardinals",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 5.2,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "822844",
+        "win_prob": {
+          "away": 38.5,
+          "home": 61.5
+        },
+        "model_winner": "Texas Rangers",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 0.5,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      }
+    ],
+    "13:07": [
+      {
+        "game_pk": "823975",
+        "win_prob": {
+          "away": 40.2,
+          "home": 59.8
+        },
+        "model_winner": "Los Angeles Angels",
+        "value_bet": "⚠️ VB주의(선발Hot·edge부족 11.8%p<14.0%p)",
+        "edge": 11.8,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823896",
+        "win_prob": {
+          "away": 37.0,
+          "home": 63.0
+        },
+        "model_winner": "Los Angeles Dodgers",
+        "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Los Angeles Dodgers)",
+        "edge": -8.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823247",
+        "win_prob": {
+          "away": 37.0,
+          "home": 63.0
+        },
+        "model_winner": "San Diego Padres",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 5.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "825028",
+        "win_prob": {
+          "away": 60.7,
+          "home": 39.3
+        },
+        "model_winner": "New York Yankees",
+        "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Arizona Diamondbacks)",
+        "edge": -12.7,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
         "extreme_edge": false
       }
     ]
