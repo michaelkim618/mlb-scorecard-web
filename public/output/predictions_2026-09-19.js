@@ -315,11 +315,11 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 54.0,
-      "home": 46.0
+      "away": 52.3,
+      "home": 47.7
     },
     "expected_score": {
-      "away": 2.6,
+      "away": 2.5,
       "home": 1.7
     },
     "blend_detail": null,
@@ -524,7 +524,7 @@ window.PREDICTIONS_DATA = [
         "total": 54.4
       },
       "home": {
-        "sp_score": 41.4,
+        "sp_score": 45.2,
         "sp_detail": {
           "era": 3.88,
           "whip": 1.42,
@@ -698,14 +698,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 57.1,
-        "total": 49.3
+        "total": 50.8
       }
     },
     "scores": {
       "away_offense": 39.7,
       "away_defense": 58.6,
       "home_offense": 25.0,
-      "home_defense": 55.8
+      "home_defense": 57.7
     },
     "actual_score": {
       "away": 1,
@@ -730,8 +730,8 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 54.0% (≤58.0%)",
-    "model_version": "v14"
+    "low_confidence_reason": "SP 점수 차이 2.8pt (≤5.0pt) / 최고 확률 52.3% (≤58.0%)",
+    "model_version": "v15"
   },
   {
     "date": "2026-09-19",
@@ -1266,8 +1266,8 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           }
         },
-        "sit_score": 63.1,
-        "total": 53.4
+        "sit_score": 63.8,
+        "total": 53.5
       },
       "home": {
         "sp_score": 66.3,
@@ -1482,7 +1482,7 @@ window.PREDICTIONS_DATA = [
     },
     "low_confidence": true,
     "low_confidence_reason": "최고 확률 50.0% (≤58.0%)",
-    "model_version": "v14"
+    "model_version": "v15"
   },
   {
     "date": "2026-09-19",
@@ -2238,7 +2238,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict_detail": null,
     "low_confidence": false,
     "low_confidence_reason": null,
-    "model_version": "v14"
+    "model_version": "v15"
   },
   {
     "date": "2026-09-19",
@@ -2794,7 +2794,7 @@ window.PREDICTIONS_DATA = [
         "total": 47.5
       },
       "home": {
-        "sp_score": 40.7,
+        "sp_score": 42.7,
         "sp_detail": {
           "era": 5.01,
           "whip": 1.33,
@@ -2969,14 +2969,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 47.4,
-        "total": 42.1
+        "total": 42.9
       }
     },
     "scores": {
       "away_offense": 25.0,
       "away_defense": 50.5,
       "home_offense": 39.5,
-      "home_defense": 43.4
+      "home_defense": 44.4
     },
     "actual_score": {
       "away": 3,
@@ -3001,8 +3001,8 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 2.1pt (≤5.0pt) / 최고 확률 50.0% (≤58.0%)",
-    "model_version": "v14"
+    "low_confidence_reason": "SP 점수 차이 4.1pt (≤5.0pt) / 최고 확률 50.0% (≤58.0%)",
+    "model_version": "v15"
   },
   {
     "date": "2026-09-19",
@@ -3749,7 +3749,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
     "low_confidence_reason": "SP 점수 차이 3.8pt (≤5.0pt)",
-    "model_version": "v14"
+    "model_version": "v15"
   },
   {
     "date": "2026-09-19",
@@ -4482,7 +4482,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict_detail": null,
     "low_confidence": false,
     "low_confidence_reason": null,
-    "model_version": "v14"
+    "model_version": "v15"
   },
   {
     "date": "2026-09-19",
@@ -5250,7 +5250,7 @@ window.PREDICTIONS_DATA = [
     },
     "low_confidence": true,
     "low_confidence_reason": "최고 확률 53.3% (≤58.0%)",
-    "model_version": "v14"
+    "model_version": "v15"
   },
   {
     "date": "2026-09-19",
@@ -6005,7 +6005,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict_detail": null,
     "low_confidence": false,
     "low_confidence_reason": null,
-    "model_version": "v14"
+    "model_version": "v15"
   },
   {
     "date": "2026-09-19",
@@ -6759,7 +6759,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
     "low_confidence_reason": "SP 점수 차이 2.1pt (≤5.0pt) / 최고 확률 53.8% (≤58.0%)",
-    "model_version": "v14"
+    "model_version": "v15"
   },
   {
     "date": "2026-09-19",
@@ -7522,7 +7522,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict_detail": null,
     "low_confidence": false,
     "low_confidence_reason": null,
-    "model_version": "v14"
+    "model_version": "v15"
   },
   {
     "date": "2026-09-19",
@@ -8251,8 +8251,8 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           }
         },
-        "sit_score": 44.7,
-        "total": 37.1
+        "sit_score": 44.0,
+        "total": 37.0
       }
     },
     "scores": {
@@ -8285,7 +8285,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
     "low_confidence_reason": "최고 확률 50.0% (≤58.0%)",
-    "model_version": "v14"
+    "model_version": "v15"
   },
   {
     "date": "2026-09-19",
@@ -8624,8 +8624,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 50.5,
-      "home": 49.5
+      "away": 50.0,
+      "home": 50.0
     },
     "expected_score": {
       "away": 2.5,
@@ -8816,7 +8816,7 @@ window.PREDICTIONS_DATA = [
         "total": 64.8
       },
       "home": {
-        "sp_score": 53.9,
+        "sp_score": 55.9,
         "sp_detail": {
           "era": 2.98,
           "whip": 1.01,
@@ -8998,14 +8998,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 53.3,
-        "total": 55.7
+        "total": 56.3
       }
     },
     "scores": {
       "away_offense": 39.8,
       "away_defense": 73.5,
       "home_offense": 37.699999999999996,
-      "home_defense": 59.8
+      "home_defense": 60.8
     },
     "actual_score": {
       "away": 3,
@@ -9019,8 +9019,8 @@ window.PREDICTIONS_DATA = [
       "any": false
     },
     "actual_winner": "Arizona Diamondbacks",
-    "model_winner": "New York Yankees",
-    "model_correct": false,
+    "model_winner": "Arizona Diamondbacks",
+    "model_correct": true,
     "notes": "New York Yankees IL: Aaron Judge, Fernando Cruz, Giancarlo Stanton, Jazz Chisholm Jr., Kervin Castro 외 다수 / Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Cristian Mena, Ryan Thompson, Tyler Locklear",
     "kalshi_prob": null,
     "edge": null,
@@ -9030,8 +9030,8 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 50.5% (≤58.0%)",
-    "model_version": "v14"
+    "low_confidence_reason": "최고 확률 50.0% (≤58.0%)",
+    "model_version": "v15"
   },
   {
     "date": "2026-09-19",
@@ -9787,7 +9787,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
     "low_confidence_reason": "SP 점수 차이 4.0pt (≤5.0pt) / 최고 확률 55.0% (≤58.0%)",
-    "model_version": "v14"
+    "model_version": "v15"
   },
   {
     "date": "2026-09-19",
@@ -10454,7 +10454,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict_detail": null,
     "low_confidence": false,
     "low_confidence_reason": null,
-    "model_version": "v14"
+    "model_version": "v15"
   },
   {
     "date": "2026-09-19",
@@ -11203,6 +11203,6 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict_detail": null,
     "low_confidence": false,
     "low_confidence_reason": null,
-    "model_version": "v14"
+    "model_version": "v15"
   }
 ];

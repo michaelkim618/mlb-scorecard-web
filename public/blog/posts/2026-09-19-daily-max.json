@@ -1,37 +1,41 @@
 {
-  "title": "Sep 19 Results + Sep 20 Preview: Two Out of Three Ain't Bad",
-  "summary": "10-5 on Friday's slate (66.7%) as we head into another Mets-Phillies showdown.",
+  "title": "Sep 19 Results + Sep 20 Preview: Seventy-Three Percent Gets You Into October",
+  "summary": "11-4 on Sep 19, another solid day from the model as we head down the stretch",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Another Solid Day at the Office\n\nYou know, after covering this game for as long as I have, a 10-5 day feels just about right. We hit 66.7% on Friday's slate, and while I've seen better, I've certainly seen a whole lot worse. The model did what it's supposed to do—find the edges and capitalize on them more often than not."
+      "value": "## Another Day, Another Winning Record\n\nYou know what they say about consistency in this game—it's everything. We went 11-4 yesterday with a 73.3% hit rate, and if you've been doing this as long as I have, you know that kind of performance over a full season gets you deep into October. The model had a few wobbles, sure, but when you're picking 15 games a night and hitting on 11 of them, you're doing something right."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Friday W-L",
-          "value": "10-5"
+          "label": "Sep 19 W-L",
+          "value": "11-4"
         },
         {
-          "label": "Win Rate",
-          "value": "66.7%"
+          "label": "Accuracy",
+          "value": "73.3%"
         },
         {
-          "label": "Top Confidence",
-          "value": "63%"
+          "label": "Hits",
+          "value": "11"
+        },
+        {
+          "label": "Misses",
+          "value": "4"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Hits and Misses\n\nThe Rangers pick at 63% confidence was our strongest call of the day, and they delivered. Same story with the Nationals at 61%—Washington's been one of those teams that flies under the radar this time of year, but the numbers don't lie.\n\nWe stumbled on three games, including the Tigers-Sox matchup and the Astros at home. Houston's been inconsistent down the stretch, which is something I've seen before from playoff-bound teams resting guys and managing workloads. It happens."
+      "value": "## The Hits and Misses\n\nLet's talk about what worked and what didn't. The Rangers took care of business against the Jays at 63% confidence—no surprise there. The Cubs over the Reds at 61% was textbook, and the Nationals getting past the Cardinals was another confident call that paid off.\n\nThe misses? Well, the Tigers couldn't get it done against the Sox despite being a 52% favorite, and the Brewers fell short in Baltimore. The Astros at home seemed like a safe 54% play against the Braves, but this late in the season, nothing's guaranteed. I've seen September do stranger things to teams than what happened yesterday."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 19 Prediction Performance",
+      "title": "Sep 19 Prediction Results by Confidence",
       "data": [
         {
           "name": "Rangers",
@@ -39,12 +43,12 @@
           "result": 1
         },
         {
-          "name": "Nationals",
+          "name": "Cubs",
           "probability": 61,
           "result": 1
         },
         {
-          "name": "Cubs",
+          "name": "Nationals",
           "probability": 61,
           "result": 1
         },
@@ -59,11 +63,6 @@
           "result": 1
         },
         {
-          "name": "Tigers",
-          "probability": 54,
-          "result": 0
-        },
-        {
           "name": "Astros",
           "probability": 54,
           "result": 0
@@ -74,14 +73,19 @@
           "result": 1
         },
         {
-          "name": "Orioles",
-          "probability": 50,
+          "name": "Tigers",
+          "probability": 52,
           "result": 0
         },
         {
           "name": "Mets",
           "probability": 50,
           "result": 1
+        },
+        {
+          "name": "Orioles",
+          "probability": 50,
+          "result": 0
         }
       ],
       "x_key": "name",
@@ -102,8 +106,8 @@
       "type": "table",
       "title": "Complete Sep 19 Results",
       "headers": [
-        "Matchup",
-        "Our Pick",
+        "Game",
+        "Pick",
         "Confidence",
         "Result"
       ],
@@ -115,14 +119,14 @@
           "✓ Hit"
         ],
         [
-          "Nationals @ Cardinals",
-          "Nationals",
+          "Cubs @ Reds",
+          "Cubs",
           "61%",
           "✓ Hit"
         ],
         [
-          "Cubs @ Reds",
-          "Cubs",
+          "Nationals @ Cardinals",
+          "Nationals",
           "61%",
           "✓ Hit"
         ],
@@ -139,12 +143,6 @@
           "✓ Hit"
         ],
         [
-          "Tigers @ Sox",
-          "Tigers",
-          "54%",
-          "✗ Miss"
-        ],
-        [
           "Braves @ Astros",
           "Astros",
           "54%",
@@ -157,9 +155,9 @@
           "✓ Hit"
         ],
         [
-          "Brewers @ Orioles",
-          "Orioles",
-          "50%",
+          "Tigers @ Sox",
+          "Tigers",
+          "52%",
           "✗ Miss"
         ],
         [
@@ -167,23 +165,29 @@
           "Mets",
           "50%",
           "✓ Hit"
+        ],
+        [
+          "Brewers @ Orioles",
+          "Orioles",
+          "50%",
+          "✗ Miss"
         ]
       ]
     },
     {
       "type": "text",
-      "value": "## Looking Ahead to Saturday\n\nHere's the thing about September baseball—these division matchups start to feel like playoff games. And wouldn't you know it, we're right back to Phillies-Mets on Saturday.\n\nThe model's leaning Mets again, but just barely at 50%. When I see a number like that, it tells me we're looking at a true coin flip with maybe the slightest edge to the home team. Cristopher Sánchez goes for Philadelphia against Jonah Tong for New York."
+      "value": "## Looking Ahead to Sep 20\n\nNow, about tomorrow. We're back at Citi Field for Phillies-Mets, Round Two. The model likes the Mets again, but just barely at 50%. I've covered this matchup more times than I can count, and when you see a coin-flip probability like this, you know we're in for a tight one.\n\nCristopher Sánchez gets the ball for Philadelphia—he's been solid, especially on the road. But Jonah Tong takes the mound for the Mets, and if you've been watching this kid, you know he's got something special working this September."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Saturday's Top Pick",
-      "value": "New York Mets",
-      "sub": "50% confidence · Sánchez vs Tong · NL East showdown"
+      "title": "⭐ Tomorrow's Top Pick - Sep 20",
+      "value": "New York Mets over Philadelphia Phillies",
+      "sub": "50% win probability • Sánchez vs Tong • Citi Field"
     },
     {
       "type": "text",
-      "value": "## The Veteran's Take\n\nI've covered enough Mets-Phillies games to know that anything can happen when these two get together late in the season. A 50% pick isn't what you'd call a screaming edge, but sometimes that's all you get in September when two quality teams are battling it out.\n\nSánchez has been solid for Philly this year, but Citi Field can be tricky for lefties. Tong's a younger arm, which means there's some volatility baked into this one. The model sees a tight game, and I'm inclined to agree.\n\nWe'll be back tomorrow with a full breakdown of Saturday's slate. Until then, enjoy the games—this is what September baseball is all about."
+      "value": "## The Bottom Line\n\nA 50% pick isn't going to light up the confidence meter, but here's what I've learned over the years: sometimes the model sees something in the margins that doesn't jump off the page. Home field advantage, recent form, bullpen availability—it all gets baked into these numbers.\n\nWe hit on the Mets yesterday in this same series, and while past performance doesn't guarantee future results (as they say in the financial disclosures), there's something to be said for momentum at this point in the season.\n\nCheck back tomorrow night to see how it plays out. If you've been riding with us this month, you know we're doing just fine."
     }
   ],
   "slug": "2026-09-19-daily-max",

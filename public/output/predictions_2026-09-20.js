@@ -8096,7 +8096,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict_detail": null,
     "low_confidence": false,
     "low_confidence_reason": null,
-    "model_version": "v14"
+    "model_version": "v15"
   },
   {
     "date": "2026-09-20",
@@ -8431,7 +8431,7 @@ window.PREDICTIONS_DATA = [
           "recent_bad_start": false,
           "trend": "cold",
           "n_games": 6,
-          "sample_confidence": 1.0,
+          "sample_confidence": 0.8666666666666667,
           "rest_days": 7,
           "rest_note": "extra_rest",
           "age": 23,
@@ -8799,7 +8799,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict_detail": null,
     "low_confidence": false,
     "low_confidence_reason": null,
-    "model_version": "v14"
+    "model_version": "v15"
   },
   {
     "date": "2026-09-20",
@@ -9161,7 +9161,7 @@ window.PREDICTIONS_DATA = [
         "sit": 0.15
       },
       "away": {
-        "sp_score": 42.6,
+        "sp_score": 44.6,
         "sp_detail": {
           "era": 3.9,
           "whip": 1.28,
@@ -9351,7 +9351,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 46.4,
-        "total": 46.0
+        "total": 46.5
       },
       "home": {
         "sp_score": 50.0,
@@ -9549,7 +9549,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 39.8,
-      "away_defense": 43.7,
+      "away_defense": 44.7,
       "home_offense": 59.5,
       "home_defense": 59.5
     },
@@ -9577,7 +9577,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict_detail": null,
     "low_confidence": false,
     "low_confidence_reason": null,
-    "model_version": "v14"
+    "model_version": "v15"
   },
   {
     "date": "2026-09-20",
@@ -10237,7 +10237,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict_detail": null,
     "low_confidence": false,
     "low_confidence_reason": null,
-    "model_version": "v14"
+    "model_version": "v15"
   },
   {
     "date": "2026-09-20",
@@ -10765,11 +10765,11 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           }
         },
-        "sit_score": 63.1,
-        "total": 64.4
+        "sit_score": 63.8,
+        "total": 64.5
       },
       "home": {
-        "sp_score": 37.6,
+        "sp_score": 39.5,
         "sp_detail": {
           "era": 4.31,
           "whip": 1.47,
@@ -10944,14 +10944,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 43.8,
-        "total": 41.2
+        "total": 41.8
       }
     },
     "scores": {
       "away_offense": 47.0,
       "away_defense": 66.5,
       "home_offense": 26.700000000000003,
-      "home_defense": 49.7
+      "home_defense": 50.6
     },
     "actual_score": {
       "away": null,
@@ -10977,6 +10977,6 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict_detail": null,
     "low_confidence": false,
     "low_confidence_reason": null,
-    "model_version": "v14"
+    "model_version": "v15"
   }
 ];
