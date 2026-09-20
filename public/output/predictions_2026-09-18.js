@@ -1186,7 +1186,7 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Carter Jensen(0.876)",
-            "Bobby Witt(0.737)",
+            "Bobby Witt Jr.(0.737)",
             "Vinnie Pasquantino(0.778)",
             "Maikel Garcia(0.648)",
             "Michael Massey(0.766)",
@@ -1204,7 +1204,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 677951,
-              "name": "Bobby Witt",
+              "name": "Bobby Witt Jr.",
               "ops": 0.737,
               "avg": 0.237
             },
@@ -3600,7 +3600,7 @@ window.PREDICTIONS_DATA = [
             "Chandler Simpson(0.724)",
             "Jonny DeLuca(0.599)",
             "Nick Fortes(0.917)",
-            "Victor Mesa(0.994)",
+            "Victor Mesa Jr.(0.994)",
             "Taylor Walls(0.608)"
           ],
           "lineup_players": [
@@ -3648,7 +3648,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 683748,
-              "name": "Victor Mesa",
+              "name": "Victor Mesa Jr.",
               "ops": 0.994,
               "avg": 0.344
             },
