@@ -15217,6 +15217,30 @@
       "away_bp_score": 40.8,
       "home_bp_score": 29.8,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-20",
+      "away": "Miami Marlins",
+      "home": "San Diego Padres",
+      "game_number": 1,
+      "pick": "San Diego Padres",
+      "pick_prob": 63.0,
+      "actual_winner": "San Diego Padres",
+      "away_score": 0,
+      "home_score": 0,
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "stable",
+      "away_sp_era": 3.9,
+      "home_sp_era": 3.33,
+      "away_bp_era": 4.24,
+      "home_bp_era": 2.7,
+      "away_sp_score": 44.6,
+      "home_sp_score": 50.0,
+      "away_bp_score": 44.8,
+      "home_bp_score": 68.9,
+      "bat_source": "prev_day"
     }
   ]
 }
