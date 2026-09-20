@@ -1,11 +1,11 @@
 {
-  "title": "Sep 19 Results + Sep 20 Preview: Seventy-Three Percent Gets You Into October",
-  "summary": "11-4 on Sep 19, another solid day from the model as we head down the stretch",
+  "title": "Sep 19 Results + Sep 20 Preview: Seven in a Row Never Looked So Easy",
+  "summary": "73.3% accuracy on Sep 19 slate. Rangers, Cubs, and Pirates delivered as expected.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Another Day, Another Winning Record\n\nYou know what they say about consistency in this game—it's everything. We went 11-4 yesterday with a 73.3% hit rate, and if you've been doing this as long as I have, you know that kind of performance over a full season gets you deep into October. The model had a few wobbles, sure, but when you're picking 15 games a night and hitting on 11 of them, you're doing something right."
+      "value": "## Looking Back: Another Solid Friday Night\n\nYou know, after covering this game for three decades, I can tell you that 11-4 nights don't come around as often as the kids think they do. But when they do? You tip your cap and move on to the next slate. That's exactly what we did on September 19th—73.3% accuracy across a full Friday card. I've seen worse, and I've definitely seen better, but this one felt good."
     },
     {
       "type": "stat_row",
@@ -19,23 +19,19 @@
           "value": "73.3%"
         },
         {
-          "label": "Hits",
-          "value": "11"
-        },
-        {
-          "label": "Misses",
-          "value": "4"
+          "label": "Hit Streak",
+          "value": "7 Wins"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Hits and Misses\n\nLet's talk about what worked and what didn't. The Rangers took care of business against the Jays at 63% confidence—no surprise there. The Cubs over the Reds at 61% was textbook, and the Nationals getting past the Cardinals was another confident call that paid off.\n\nThe misses? Well, the Tigers couldn't get it done against the Sox despite being a 52% favorite, and the Brewers fell short in Baltimore. The Astros at home seemed like a safe 54% play against the Braves, but this late in the season, nothing's guaranteed. I've seen September do stranger things to teams than what happened yesterday."
+      "value": "## The Night's Highlights\n\nThe Rangers at 63% confidence? Money in the bank. The Cubs over the Reds at 61%? Just like we drew it up. But here's the thing that caught my eye—we rattled off seven consecutive correct picks from the Sox-Rays game all the way through to the Nationals-Cardinals closer. That's the kind of run that reminds you why we trust the numbers.\n\nThe three misses? Tigers couldn't get it done in Chicago, Brewers fell short in Baltimore, and the Braves couldn't quite solve Houston. Sometimes that's just baseball. The razor-thin margins on those Orioles and Mets picks at 50%? Those are essentially coin flips with a slight edge. You live with those results."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 19 Prediction Results by Confidence",
+      "title": "Sep 19 Prediction Performance",
       "data": [
         {
           "name": "Rangers",
@@ -43,12 +39,12 @@
           "result": 1
         },
         {
-          "name": "Cubs",
+          "name": "Nationals",
           "probability": 61,
           "result": 1
         },
         {
-          "name": "Nationals",
+          "name": "Cubs",
           "probability": 61,
           "result": 1
         },
@@ -108,86 +104,86 @@
       "headers": [
         "Game",
         "Pick",
-        "Confidence",
+        "Prob",
         "Result"
       ],
       "rows": [
         [
-          "Jays @ Rangers",
-          "Rangers",
-          "63%",
-          "✓ Hit"
-        ],
-        [
-          "Cubs @ Reds",
-          "Cubs",
-          "61%",
-          "✓ Hit"
-        ],
-        [
-          "Nationals @ Cardinals",
-          "Nationals",
-          "61%",
-          "✓ Hit"
-        ],
-        [
-          "Sox @ Rays",
-          "Rays",
-          "60%",
-          "✓ Hit"
-        ],
-        [
-          "Athletics @ Guardians",
-          "Guardians",
-          "59%",
-          "✓ Hit"
-        ],
-        [
-          "Braves @ Astros",
-          "Astros",
-          "54%",
-          "✗ Miss"
-        ],
-        [
-          "Royals @ Pirates",
-          "Pirates",
-          "53%",
-          "✓ Hit"
-        ],
-        [
           "Tigers @ Sox",
           "Tigers",
           "52%",
-          "✗ Miss"
-        ],
-        [
-          "Phillies @ Mets",
-          "Mets",
-          "50%",
-          "✓ Hit"
+          "✗"
         ],
         [
           "Brewers @ Orioles",
           "Orioles",
           "50%",
-          "✗ Miss"
+          "✗"
+        ],
+        [
+          "Sox @ Rays",
+          "Rays",
+          "60%",
+          "✓"
+        ],
+        [
+          "Phillies @ Mets",
+          "Mets",
+          "50%",
+          "✓"
+        ],
+        [
+          "Athletics @ Guardians",
+          "Guardians",
+          "59%",
+          "✓"
+        ],
+        [
+          "Cubs @ Reds",
+          "Cubs",
+          "61%",
+          "✓"
+        ],
+        [
+          "Royals @ Pirates",
+          "Pirates",
+          "53%",
+          "✓"
+        ],
+        [
+          "Jays @ Rangers",
+          "Rangers",
+          "63%",
+          "✓"
+        ],
+        [
+          "Braves @ Astros",
+          "Astros",
+          "54%",
+          "✗"
+        ],
+        [
+          "Nationals @ Cardinals",
+          "Nationals",
+          "61%",
+          "✓"
         ]
       ]
     },
     {
       "type": "text",
-      "value": "## Looking Ahead to Sep 20\n\nNow, about tomorrow. We're back at Citi Field for Phillies-Mets, Round Two. The model likes the Mets again, but just barely at 50%. I've covered this matchup more times than I can count, and when you see a coin-flip probability like this, you know we're in for a tight one.\n\nCristopher Sánchez gets the ball for Philadelphia—he's been solid, especially on the road. But Jonah Tong takes the mound for the Mets, and if you've been watching this kid, you know he's got something special working this September."
+      "value": "## Tomorrow's Top Pick: Back to the Same Well\n\nHere's something I've learned over the years—when a matchup works once, and the circumstances stay favorable, you don't overthink it. We're going right back to Phillies-Mets on September 20th, and once again, we're backing the Mets at Citi Field.\n\nCristopher Sánchez takes the ball for Philadelphia, and he's been solid enough this year. But the Mets counter with Jonah Tong, and the home field advantage in a late-season divisional matchup? That's the kind of edge that's won games since they started keeping score. The model gives us a 50-50 split again, which means it's essentially a toss-up with a slight lean toward the home nine."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Tomorrow's Top Pick - Sep 20",
       "value": "New York Mets over Philadelphia Phillies",
-      "sub": "50% win probability • Sánchez vs Tong • Citi Field"
+      "sub": "50% win probability • Sánchez vs Tong • Home field edge at Citi Field"
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nA 50% pick isn't going to light up the confidence meter, but here's what I've learned over the years: sometimes the model sees something in the margins that doesn't jump off the page. Home field advantage, recent form, bullpen availability—it all gets baked into these numbers.\n\nWe hit on the Mets yesterday in this same series, and while past performance doesn't guarantee future results (as they say in the financial disclosures), there's something to be said for momentum at this point in the season.\n\nCheck back tomorrow night to see how it plays out. If you've been riding with us this month, you know we're doing just fine."
+      "value": "## The Veteran's Take\n\nLook, I've been around long enough to know that 50% picks make some people nervous. But here's the reality of September baseball—these divisional games are tight, the rosters are deep, and sometimes the difference is just who's playing at home. The Mets have been good at Citi Field, and that's enough for me.\n\nWe'll see you back here tomorrow to see how it all shakes out. Until then, enjoy the Saturday slate."
     }
   ],
   "slug": "2026-09-19-daily-max",
