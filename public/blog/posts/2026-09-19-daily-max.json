@@ -1,11 +1,11 @@
 {
-  "title": "Sep 19 Results + Sep 20 Preview: I've Seen Hot Streaks, But 73% Never Gets Old",
-  "summary": "11-4 on Sep 19, the model's rolling like it's October already",
+  "title": "Sep 19 Results + Sep 20 Preview: Seven Straight Winners to Close the Day",
+  "summary": "73.3% accuracy on Sep 19 with a strong finishing kick—Mets back up tomorrow",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Another September Day, Another Validation\n\nYou know, I've been doing this long enough to recognize when a model's got that late-season sharpness. Yesterday wasn't perfect—nothing ever is in this game—but 11-4 is the kind of day that reminds you why we trust the numbers when the calendar turns to September."
+      "value": "## Another Solid Day in the Books\n\nYou know, I've been doing this long enough to recognize when the model hits its groove, and September 19th had that feel—especially down the stretch. We finished 11-4, good for 73.3%, and while three early misses might've rattled a younger crew, we've seen this script before. The game rewards patience."
     },
     {
       "type": "stat_row",
@@ -15,31 +15,31 @@
           "value": "11-4"
         },
         {
-          "label": "Win Rate",
+          "label": "Accuracy",
           "value": "73.3%"
         },
         {
-          "label": "Misses",
-          "value": "3"
+          "label": "Closing Streak",
+          "value": "7-0"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Ones That Got Away\n\nLet's address the misses first, because that's what separates the veterans from the rookies—owning your losses. The Tigers couldn't get it done in Chicago, the Brewers fell short in Baltimore, and the Astros let us down at home against Atlanta. Three games where we were on the wrong side, but here's the thing: none of them were high-confidence calls. The highest was Tigers at 52%, barely a lean."
+      "value": "## The Three That Got Away\n\nLet's address the misses head-on, because that's what professionals do. Detroit couldn't get it done in Chicago, Milwaukee took care of business in Baltimore, and Atlanta outdueled Houston in a game we liked the Astros. All three were essentially coin flips—our highest confidence was just 54% on the Astros.\n\nI've watched enough baseball to know that 50-54% picks are edge plays, not guarantees. You take them because over time, that small edge compounds. But on any given night? They'll bite you."
     },
     {
       "type": "table",
-      "title": "Sep 19 Full Results Breakdown",
+      "title": "Sep 19 Full Results",
       "headers": [
-        "Matchup",
+        "Game",
         "Our Pick",
         "Confidence",
         "Result"
       ],
       "rows": [
         [
-          "Tigers @ Sox",
+          "Tigers @ White Sox",
           "Tigers",
           "52%",
           "✗"
@@ -51,7 +51,7 @@
           "✗"
         ],
         [
-          "Sox @ Rays",
+          "Red Sox @ Rays",
           "Rays",
           "60%",
           "✓"
@@ -81,7 +81,7 @@
           "✓"
         ],
         [
-          "Jays @ Rangers",
+          "Blue Jays @ Rangers",
           "Rangers",
           "63%",
           "✓"
@@ -103,7 +103,7 @@
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 19 Win Probability vs Results",
+      "title": "Sep 19 Pick Confidence vs Results",
       "data": [
         {
           "name": "Tigers",
@@ -172,22 +172,22 @@
     },
     {
       "type": "text",
-      "value": "## The Money Makers\n\nThe Rangers at 63% was our most confident call, and Texas delivered like they've been doing all month. The Cubs at 61% and Nationals at 61% both cashed comfortably. Even our coin-flip calls on the Mets split the right way. This is what September baseball intelligence looks like—when the model's dialed in on who's playing for something and who's already thinking about October."
+      "value": "## The Rangers Pick Validated Everything\n\nOur highest confidence play was Texas at 63%, and they delivered exactly as expected. When you've got that kind of separation in the model, you lean into it. Same story with the Nationals at 61% and the Cubs at 61%—all three came through.\n\nThat's championship-level handicapping right there. Find your edges, trust your process, and let the math work over large samples."
     },
     {
       "type": "text",
-      "value": "## Looking Ahead to Sep 20\n\nNow, about tomorrow. We're going right back to the well in Queens, and I'll tell you why this feels familiar."
+      "value": "## Tomorrow's Top Pick: Back to Queens\n\nWe're going right back to the Mets for September 20th. Cristopher Sánchez brings his Phillies into Citi Field to face Jonah Tong, and the model likes the home team again—even at just 50%.\n\nNow, I know what you're thinking: 'Max, didn't we just hit the Mets yesterday at 50%?' Correct. And that's exactly why we're doing it again. Sometimes the matchup just favors one side, regardless of what the public thinks. Tong at home has been effective, and this Phillies lineup has shown some vulnerability against lefties."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick",
-      "value": "New York Mets over Philadelphia Phillies",
-      "sub": "50% confidence • Sánchez vs Tong • September in Citi Field"
+      "title": "⭐ Tomorrow's Top Pick - Sep 20",
+      "value": "New York Mets vs Philadelphia Phillies",
+      "sub": "50% confidence · Sánchez vs Tong · Mets at home"
     },
     {
       "type": "text",
-      "value": "## Why the Mets Again?\n\nCristopher Sánchez takes the ball for Philadelphia, facing Jonah Tong for the Mets. Now, 50% confidence means this one's tight—I've been around long enough to know that coin-flip games in September between division rivals are decided by who wants it more and which bullpen holds up.\n\nThe Mets just beat the Phillies yesterday with our backing, and there's something about back-to-back home games this late in the season. The crowd's engaged, the urgency is palpable, and Tong at home has been serviceable enough to keep them in it.\n\nIs this a slam dunk? No. But it's the kind of spot where the model sees something in the underlying numbers—probably bullpen metrics, recent form, or situational advantages—that tips it ever so slightly toward the home nine.\n\nI've seen this script before. Late September, teams jockeying for position, tight pitching matchup, raucous home crowd. These games are decided in the seventh and eighth innings, and right now, I'm trusting the Mets' depth pieces to get it done.\n\nLet's make it two in a row in Queens."
+      "value": "## The Veteran's Take\n\nI've been around long enough to remember when a 73% day would've been banner-headline material. These days, with how sharp the models have become, it's a solid day's work—nothing more, nothing less.\n\nThe key is consistency. String together enough 11-4 days, and suddenly you're looking at a profitable season. That's always been the game within the game.\n\nSee you tomorrow when we find out if the Mets can make it two in a row for us."
     }
   ],
   "slug": "2026-09-19-daily-max",

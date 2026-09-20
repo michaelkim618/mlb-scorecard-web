@@ -644,7 +644,7 @@
       "home_defense": 48.0
     },
     "actual_score": {
-      "away": 1,
+      "away": 2,
       "home": 0
     },
     "lineup_confirmed": true,
@@ -8075,7 +8075,7 @@
       "away": null,
       "home": null
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,

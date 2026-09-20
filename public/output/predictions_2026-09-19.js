@@ -2582,7 +2582,7 @@ window.PREDICTIONS_DATA = [
     },
     "expected_score": {
       "away": 1.8,
-      "home": 2.3
+      "home": 2.1
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -2697,12 +2697,12 @@ window.PREDICTIONS_DATA = [
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.223,
+          "recent_avg": 0.225,
           "runs_per_g": 3.4,
           "hr_per_g": 0.6,
           "bb_per_g": 3.0,
-          "season_ops": 0.677,
-          "season_avg": 0.223,
+          "season_ops": 0.678,
+          "season_avg": 0.225,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -2712,8 +2712,8 @@ window.PREDICTIONS_DATA = [
             "Trea Turner(0.597)",
             "Bryce Harper(0.850)",
             "Luis Arraez(0.715)",
-            "Alec Bohm(0.780)",
-            "Bryson Stott(0.675)",
+            "Alec Bohm(0.797)",
+            "Bryson Stott(0.665)",
             "Brandon Marsh(0.451)",
             "J.T. Realmuto(0.562)",
             "Justin Crawford(0.762)"
@@ -2746,14 +2746,14 @@ window.PREDICTIONS_DATA = [
             {
               "id": 664761,
               "name": "Alec Bohm",
-              "ops": 0.78,
-              "avg": 0.344
+              "ops": 0.797,
+              "avg": 0.364
             },
             {
               "id": 681082,
               "name": "Bryson Stott",
-              "ops": 0.675,
-              "avg": 0.233
+              "ops": 0.665,
+              "avg": 0.226
             },
             {
               "id": 669016,
@@ -2776,7 +2776,7 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "stable",
           "last5_rpg": 2.8,
-          "last5_avg": 0.229,
+          "last5_avg": 0.227,
           "home_split": {
             "recent_avg": 0.261,
             "runs_per_g": 5.3,
@@ -2794,7 +2794,7 @@ window.PREDICTIONS_DATA = [
         "total": 47.5
       },
       "home": {
-        "sp_score": 42.7,
+        "sp_score": 42.5,
         "sp_detail": {
           "era": 5.01,
           "whip": 1.33,
@@ -2861,34 +2861,34 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 44.6,
+        "bp_score": 43.8,
         "bp_detail": {
-          "bullpen_era": 4.32,
-          "recent_era": 2.35,
+          "bullpen_era": 4.38,
+          "recent_era": 2.32,
           "recent_appearances": 20,
-          "recent_ip": 30.7,
-          "team_era": 4.2,
-          "bp_ip": 256.0,
+          "recent_ip": 31.0,
+          "team_era": 4.22,
+          "bp_ip": 256.7,
           "bp_count": 9,
           "closer_era": 5.64,
           "closer_name": "Tobias Myers"
         },
-        "bat_score": 31.9,
+        "bat_score": 29.2,
         "bat_detail": {
-          "recent_avg": 0.25,
+          "recent_avg": 0.248,
           "runs_per_g": 3.9,
           "hr_per_g": 1.2,
           "bb_per_g": 3.0,
-          "season_ops": 0.706,
-          "season_avg": 0.25,
+          "season_ops": 0.7,
+          "season_avg": 0.248,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Francisco Lindor(0.751)",
-            "Juan Soto(0.861)",
-            "Bo Bichette(0.602)",
+            "Francisco Lindor(0.724)",
+            "Juan Soto(0.849)",
+            "Bo Bichette(0.585)",
             "Carson Benge(0.863)",
             "A.J. Ewing(0.769)",
             "Marcus Semien(0.615)",
@@ -2900,20 +2900,20 @@ window.PREDICTIONS_DATA = [
             {
               "id": 596019,
               "name": "Francisco Lindor",
-              "ops": 0.751,
-              "avg": 0.209
+              "ops": 0.724,
+              "avg": 0.205
             },
             {
               "id": 665742,
               "name": "Juan Soto",
-              "ops": 0.861,
-              "avg": 0.263
+              "ops": 0.849,
+              "avg": 0.256
             },
             {
               "id": 666182,
               "name": "Bo Bichette",
-              "ops": 0.602,
-              "avg": 0.227
+              "ops": 0.585,
+              "avg": 0.225
             },
             {
               "id": 701807,
@@ -2952,11 +2952,11 @@ window.PREDICTIONS_DATA = [
               "avg": 0.154
             }
           ],
-          "bat_trend": "hot",
+          "bat_trend": "stable",
           "last5_rpg": 3.4,
-          "last5_avg": 0.265,
+          "last5_avg": 0.259,
           "home_split": {
-            "recent_avg": 0.245,
+            "recent_avg": 0.243,
             "runs_per_g": 4.2,
             "hr_per_g": 1.3,
             "n_games": 10
@@ -2969,14 +2969,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 47.4,
-        "total": 40.7
+        "total": 39.8
       }
     },
     "scores": {
       "away_offense": 25.0,
       "away_defense": 50.5,
-      "home_offense": 31.9,
-      "home_defense": 43.7
+      "home_offense": 29.2,
+      "home_defense": 43.1
     },
     "actual_score": {
       "away": 3,
@@ -3001,7 +3001,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 4.1pt (≤5.0pt) / 최고 확률 50.0% (≤58.0%)",
+    "low_confidence_reason": "SP 점수 차이 3.9pt (≤5.0pt) / 최고 확률 50.0% (≤58.0%)",
     "model_version": "v15"
   },
   {
@@ -5864,15 +5864,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 70.5,
+        "bp_score": 71.2,
         "bp_detail": {
-          "bullpen_era": 3.28,
+          "bullpen_era": 3.33,
           "recent_era": 2.75,
           "recent_appearances": 15,
           "recent_ip": 19.7,
-          "team_era": 3.82,
-          "bp_ip": 268.7,
-          "bp_count": 7,
+          "team_era": 3.94,
+          "bp_ip": 270.7,
+          "bp_count": 8,
           "closer_era": 2.08,
           "closer_name": "Jacob Latz"
         },
@@ -5972,14 +5972,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 62.0,
-        "total": 63.3
+        "total": 63.4
       }
     },
     "scores": {
       "away_offense": 26.5,
       "away_defense": 54.2,
       "home_offense": 29.9,
-      "home_defense": 71.2
+      "home_defense": 71.6
     },
     "actual_score": {
       "away": 2,
@@ -5995,7 +5995,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "Texas Rangers",
     "model_winner": "Texas Rangers",
     "model_correct": true,
-    "notes": "Toronto Blue Jays IL: Addison Barger, Anthony Santander, Bowden Francis, Cody Ponce, Jake Bloss 외 다수 / Texas Rangers IL: Carter Baumler, Cole Winn, Jack Leiter, Jalen Beeks, Jose Corniell 외 다수",
+    "notes": "Toronto Blue Jays IL: Addison Barger, Anthony Santander, Bowden Francis, Cody Ponce, Jake Bloss 외 다수 / Texas Rangers IL: Cal Quantrill, Carter Baumler, Cole Winn, Jack Leiter, Jalen Beeks 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
