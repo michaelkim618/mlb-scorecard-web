@@ -645,7 +645,7 @@ window.PREDICTIONS_DATA = [
       "home_defense": 48.0
     },
     "actual_score": {
-      "away": 2,
+      "away": 4,
       "home": 0
     },
     "lineup_confirmed": true,
@@ -3663,7 +3663,7 @@ window.PREDICTIONS_DATA = [
     },
     "actual_score": {
       "away": 0,
-      "home": 0
+      "home": 4
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -9554,10 +9554,10 @@ window.PREDICTIONS_DATA = [
       "home_defense": 59.5
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
