@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-20T05:56:04.071392+00:00",
+  "updated_at": "2026-09-20T06:40:15.176957+00:00",
   "news": [
+    {
+      "title": "Mookie's sizzling September continues with 4-hit game",
+      "link": "https://www.mlb.com/news/mookie-betts-has-4-hits-as-dodgers-beat-giants",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qfj2uvvgetmyhvau4zha",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T05:53:00+00:00",
+      "time_ago": "47m ago"
+    },
     {
       "title": "No, not as painful as '01 -- but this walk-off loss could prove costly to Yanks",
       "link": "https://www.mlb.com/news/cam-schlittler-pitches-6-strong-innings-against-diamondbacks",
@@ -12,7 +25,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-20T05:52:00+00:00",
-      "time_ago": "4m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "'Good chance' Ohtani will be activated for next series",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-20T05:43:17+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "56m ago"
     },
     {
       "title": "These stars have turned their seasons around in the second half",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-20T05:26:24+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "X's, O's and MLB bros: Opposing shortstops play tic-tac-toe",
@@ -51,7 +64,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-20T05:24:28+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "D-backs celebrate 2001 title team with walk-off win vs. Yankees",
+      "link": "https://www.mlb.com/news/pavin-smith-hits-walk-off-home-run-in-d-backs-win-vs-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fl9c0ovpv3zm3bdpbbrz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Michael Reynolds",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-20T05:23:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Padres take hold of 2nd Wild Card spot with Salas' walk-off hit",
@@ -64,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-20T05:15:55+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -77,32 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-20T05:13:00+00:00",
-      "time_ago": "43m ago"
-    },
-    {
-      "title": "Cubs' bullpen bands together to deliver clutch scoreless showing",
-      "link": "https://www.mlb.com/news/michael-busch-hits-20th-home-run-cubs-nearing-postseason-clinch",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oosvnjbt2env6ojcjqie",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bill Ladson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T04:47:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Palacios snaps Rays' RISP skid with walk-off bloop single vs. Red Sox",
-      "link": "https://www.mlb.com/news/richie-palacios-hits-walk-off-single-rays-beat-red-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xrkeupai6r0gyceymmyw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-20T04:38:00+00:00",
       "time_ago": "1h ago"
     }
   ]
