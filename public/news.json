@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-20T06:46:16.394853+00:00",
+  "updated_at": "2026-09-20T07:37:25.320155+00:00",
   "news": [
+    {
+      "title": "'Living the dream': Padres take hold of 2nd WC spot on Salas' walk-off hit",
+      "link": "https://www.mlb.com/news/padres-claim-sole-possession-of-2nd-wild-card-spot",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mb3mbublpmqs3umvfjmm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Cole Bradley",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-20T06:54:00+00:00",
+      "time_ago": "43m ago"
+    },
     {
       "title": "Mookie's sizzling September continues with 4-hit game",
       "link": "https://www.mlb.com/news/mookie-betts-has-4-hits-as-dodgers-beat-giants",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-20T05:53:00+00:00",
-      "time_ago": "53m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "No, not as painful as '01 -- but this walk-off loss could prove costly to Yanks",
@@ -25,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-20T05:52:00+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'Good chance' Ohtani will be activated for next series",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-20T05:26:24+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "X's, O's and MLB bros: Opposing shortstops play tic-tac-toe",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-20T05:24:28+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "D-backs celebrate 2001 title team with walk-off win vs. Yankees",
@@ -77,20 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-20T05:23:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Padres take hold of 2nd Wild Card spot with Salas' walk-off hit",
-      "link": "https://www.mlb.com/news/padres-claim-sole-possession-of-2nd-wild-card-spot",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mb3mbublpmqs3umvfjmm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Cole Bradley",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-20T05:15:55+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -103,7 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-20T05:13:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
