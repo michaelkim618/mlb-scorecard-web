@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-20T21:40:10.597568+00:00",
+  "updated_at": "2026-09-20T22:20:02.415869+00:00",
   "news": [
+    {
+      "title": "Rays on precipice of AL East title after setting single-season record for wins at Trop",
+      "link": "https://www.mlb.com/news/rays-nearing-al-east-title-after-win-in-final-regular-season-home-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kaohhl9faowcpxzu2u8y",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T21:43:00+00:00",
+      "time_ago": "37m ago"
+    },
+    {
+      "title": "Bregman awaiting test results after being hit in face by foul ball while in on-deck circle",
+      "link": "https://www.mlb.com/news/alex-bregman-exits-after-being-hit-in-the-face-in-on-deck-circle",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t2rrgeph63fdfbwskwo7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bill Ladson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T21:34:00+00:00",
+      "time_ago": "46m ago"
+    },
     {
       "title": "Yaz's clutch homer helps Braves clinch NL East title",
       "link": "https://www.mlb.com/news/braves-clinch-2026-nl-east-title",
@@ -12,7 +38,33 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-20T21:22:00+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "58m ago"
+    },
+    {
+      "title": "Astros squander Brown's 10-K gem as playoff hopes take a hit",
+      "link": "https://www.mlb.com/news/hunter-brown-10-strikeouts-astros-lose-to-braves",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pfsqljpbh99ypffs6mr8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-20T21:17:50+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Bernal's clutch blast wraps Cards' home slate with comeback win",
+      "link": "https://www.mlb.com/news/leo-bernal-hits-go-ahead-homer-as-cardinals-come-back-in-home-finale",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/azzm1zvhnrj0yugk44vg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-20T21:12:34+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
@@ -25,20 +77,20 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-20T21:08:00+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Red Sox clinch postseason spot that once seemed improbable",
       "link": "https://www.mlb.com/news/red-sox-playoff-spot-2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rlqxfebiljbnxfppjrrb",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f0c98vqvbbdvicl12hyi",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Ian Browne",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-20T21:00:00+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Burns heads to IL with groin strain, ending his breakout season",
@@ -51,58 +103,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-20T20:59:00+00:00",
-      "time_ago": "41m ago"
-    },
-    {
-      "title": "Rays wrap regular-season home slate on precipice of AL East title with 55th win at Trop",
-      "link": "https://www.mlb.com/news/rays-nearing-al-east-title-after-win-in-final-regular-season-home-game",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kaohhl9faowcpxzu2u8y",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T20:32:20+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "PCA's latest offensive outburst puts Cubs on verge of playoff clinch",
-      "link": "https://www.mlb.com/news/pete-crow-armstrong-45th-homer-in-cubs-win-reds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ym9sg1srkkqnivzcq3uz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bill Ladson",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-20T20:27:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Kuiper shares throat cancer diagnosis; will return to booth for Krukow's sendoff",
-      "link": "https://www.mlb.com/news/duane-kuiper-diagnosed-with-throat-cancer",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789933607/mlb/cwijeckpiqatxhx1pu7q",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Maria Guardado",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-20T19:52:57+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "'Good chance' Ohtani will be activated Wed. after minimum IL stint",
-      "link": "https://www.mlb.com/news/shohei-ohtani-could-return-for-padres-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ursvmesr9tyydsysqrmj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-20T19:44:00+00:00",
       "time_ago": "1h ago"
     }
   ]
