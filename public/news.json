@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-09-21T02:10:37.359604+00:00",
+  "updated_at": "2026-09-21T03:10:40.451355+00:00",
   "news": [
-    {
-      "title": "The Wonder Kid does it again! Chourio makes 20-20 history",
-      "link": "https://www.mlb.com/news/jackson-chourio-becomes-first-mlb-player-with-3-20-20-seasons-before-age-23",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pltdkgodkxugakwhxcki",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-21T01:37:42+00:00",
-      "time_ago": "32m ago"
-    },
     {
       "title": "Padres storming toward franchise first: a third straight playoff berth",
       "link": "https://www.mlb.com/news/jake-cronenworth-homers-twice-as-padres-beat-marlins",
@@ -24,20 +11,85 @@
       "author": "AJ Cassavell",
       "tag": "Standings",
       "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-21T01:28:00+00:00",
-      "time_ago": "42m ago"
+      "pub_date": "2026-09-21T02:49:00+00:00",
+      "time_ago": "21m ago"
     },
     {
-      "title": "Miz sharp in 3-inning outing as Brewers wind him down for postseason",
+      "title": "Arenado's 2nd-chance slam breathes life into D-backs' postseason hopes",
+      "link": "https://www.mlb.com/news/nolan-arenado-hits-go-ahead-grand-slam-after-close-foul-ball",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789943700/mlb/h6ypwgc8q8b3vgjtlkmx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jesse Borek",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-21T02:47:00+00:00",
+      "time_ago": "23m ago"
+    },
+    {
+      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789869213/mlb/bgtip4siy3qk2yvgxwvw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-21T02:41:00+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "Miz sharp in shortened outing as Brewers set franchise win record",
       "link": "https://www.mlb.com/news/brewers-limit-jacob-misiorowski-to-3-innings-ahead-of-postseason",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789951465/mlb/ca0zrfafigbmiagttjdb",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789957528/mlb/zb6op6nekr8433o5wav3",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Adam McCalvy",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-21T01:07:45+00:00",
+      "pub_date": "2026-09-21T02:32:00+00:00",
+      "time_ago": "38m ago"
+    },
+    {
+      "title": "Who sits atop final Power Rankings of the regular season?",
+      "link": "https://www.mlb.com/news/mlb-power-rankings-for-week-of-september-20-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qrmk81gatnlporvyuenv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "Rankings",
+      "tag_color": "#4F46E5",
+      "pub_date": "2026-09-21T02:11:33+00:00",
+      "time_ago": "59m ago"
+    },
+    {
+      "title": "1 player to watch on each team during final week of season",
+      "link": "https://www.mlb.com/news/players-to-watch-during-final-week-of-2026-mlb-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yff5ltmygs145p7oumji",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-21T02:10:43+00:00",
+      "time_ago": "59m ago"
+    },
+    {
+      "title": "The Wonder Kid does it again! Chourio makes 20-20 history",
+      "link": "https://www.mlb.com/news/jackson-chourio-becomes-first-mlb-player-with-3-20-20-seasons-before-age-23",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789959049/mlb/pltdkgodkxugakwhxcki",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-21T01:37:42+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -51,59 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-21T01:01:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "How Sheehan, Sasaki and others look to fit in LA's postseason 'pen plans",
-      "link": "https://www.mlb.com/news/emmet-sheehan-strikes-out-9-giants-in-scoreless-long-relief",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kpfwfvqfxpnn51ouzbvv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-21T01:01:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Anderson goes 7 scoreless innings at Coors in best start of career",
-      "link": "https://www.mlb.com/news/kade-anderson-has-scoreless-outing-for-mariners-coors-field",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789940628/mlb/ox804w23zomlstwykvrv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-21T00:53:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Bregman awaiting test results after being hit in face by foul ball while in on-deck circle",
-      "link": "https://www.mlb.com/news/alex-bregman-exits-after-being-hit-in-the-face-in-on-deck-circle",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t2rrgeph63fdfbwskwo7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bill Ladson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-21T00:36:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Skubal to bereavement list, Sheehan recalled among LA moves",
-      "link": "https://www.mlb.com/news/emmet-sheehan-recalled-tarik-skubal-to-bereavement-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ydcx7n7eya34tvmcl3in",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-21T00:30:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }

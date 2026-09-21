@@ -745,7 +745,7 @@ window.PREDICTIONS_DATA = [
     "away_standing": {
       "div_rank": 1,
       "div_name": "NL Central",
-      "wins": 97,
+      "wins": 98,
       "losses": 58,
       "games_back": "-"
     },
@@ -753,8 +753,8 @@ window.PREDICTIONS_DATA = [
       "div_rank": 5,
       "div_name": "AL East",
       "wins": 75,
-      "losses": 80,
-      "games_back": "20.0"
+      "losses": 81,
+      "games_back": "20.5"
     },
     "away_recent_form": {
       "games": [
@@ -1159,16 +1159,16 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 67.6,
+        "bp_score": 68.5,
         "bp_detail": {
-          "bullpen_era": 3.23,
-          "recent_era": 2.66,
+          "bullpen_era": 3.22,
+          "recent_era": 2.53,
           "recent_appearances": 19,
-          "recent_ip": 20.3,
+          "recent_ip": 21.3,
           "team_era": 3.39,
-          "bp_ip": 393.0,
+          "bp_ip": 394.0,
           "bp_count": 7,
-          "closer_era": 2.76,
+          "closer_era": 2.72,
           "closer_name": "Trevor Megill"
         },
         "bat_score": 45.5,
@@ -1266,8 +1266,8 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           }
         },
-        "sit_score": 65.3,
-        "total": 54.7
+        "sit_score": 68.3,
+        "total": 55.4
       },
       "home": {
         "sp_score": 65.5,
@@ -1350,18 +1350,18 @@ window.PREDICTIONS_DATA = [
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.226,
+          "recent_avg": 0.225,
           "runs_per_g": 4.1,
           "hr_per_g": 1.4,
           "bb_per_g": 3.0,
-          "season_ops": 0.685,
-          "season_avg": 0.226,
+          "season_ops": 0.683,
+          "season_avg": 0.225,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Jeremiah Jackson(0.574)",
+            "Jeremiah Jackson(0.564)",
             "Pete Alonso(0.841)",
             "Coby Mayo(0.881)",
             "Christian Encarnacion-Strand(0.856)",
@@ -1369,14 +1369,14 @@ window.PREDICTIONS_DATA = [
             "Rece Hinds(0.609)",
             "Christian Franklin(0.489)",
             "Samuel Basallo(0.625)",
-            "Leody Taveras(0.559)"
+            "Leody Taveras(0.550)"
           ],
           "lineup_players": [
             {
               "id": 669236,
               "name": "Jeremiah Jackson",
-              "ops": 0.574,
-              "avg": 0.156
+              "ops": 0.564,
+              "avg": 0.152
             },
             {
               "id": 624413,
@@ -1423,15 +1423,15 @@ window.PREDICTIONS_DATA = [
             {
               "id": 665750,
               "name": "Leody Taveras",
-              "ops": 0.559,
-              "avg": 0.214
+              "ops": 0.55,
+              "avg": 0.207
             }
           ],
           "bat_trend": "stable",
           "last5_rpg": 3.8,
-          "last5_avg": 0.215,
+          "last5_avg": 0.211,
           "home_split": {
-            "recent_avg": 0.212,
+            "recent_avg": 0.211,
             "runs_per_g": 3.1,
             "hr_per_g": 0.8,
             "n_games": 10
@@ -1443,13 +1443,13 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           }
         },
-        "sit_score": 43.8,
-        "total": 48.3
+        "sit_score": 40.7,
+        "total": 47.9
       }
     },
     "scores": {
       "away_offense": 45.5,
-      "away_defense": 58.8,
+      "away_defense": 59.2,
       "home_offense": 25.0,
       "home_defense": 63.3
     },
@@ -3765,14 +3765,14 @@ window.PREDICTIONS_DATA = [
       "div_name": "NL Central",
       "wins": 87,
       "losses": 69,
-      "games_back": "10.5"
+      "games_back": "11.0"
     },
     "home_standing": {
       "div_rank": 5,
       "div_name": "NL Central",
       "wins": 72,
       "losses": 84,
-      "games_back": "25.5"
+      "games_back": "26.0"
     },
     "away_recent_form": {
       "games": [
@@ -4505,7 +4505,7 @@ window.PREDICTIONS_DATA = [
       "div_name": "NL Central",
       "wins": 79,
       "losses": 77,
-      "games_back": "18.5"
+      "games_back": "19.0"
     },
     "away_recent_form": {
       "games": [
@@ -6782,7 +6782,7 @@ window.PREDICTIONS_DATA = [
       "div_name": "NL Central",
       "wins": 76,
       "losses": 80,
-      "games_back": "21.5"
+      "games_back": "22.0"
     },
     "away_recent_form": {
       "games": [
