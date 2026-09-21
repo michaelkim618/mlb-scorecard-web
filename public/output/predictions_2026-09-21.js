@@ -723,8 +723,8 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Toronto Blue Jays",
     "model_correct": null,
     "notes": "Toronto Blue Jays IL: Addison Barger, Anthony Santander, Bowden Francis, Cody Ponce, Jake Bloss 외 다수 / Baltimore Orioles IL: Blaze Alexander, Colin Selby, Jackson Holliday, Jordan Westburg, Keegan Akin 외 다수",
-    "kalshi_prob": 50.0,
-    "edge": -4.3,
+    "kalshi_prob": 49.0,
+    "edge": -3.3,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -849,12 +849,12 @@ window.PREDICTIONS_DATA = [
     "home_pitcher_gamelog": [],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 40.0,
-      "home": 60.0
+      "away": 42.9,
+      "home": 57.1
     },
     "expected_score": {
       "away": 1.9,
-      "home": 3.0
+      "home": 2.9
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -891,15 +891,15 @@ window.PREDICTIONS_DATA = [
           "secondary_pitches": [],
           "pitches_detail": []
         },
-        "bp_score": 48.6,
+        "bp_score": 55.0,
         "bp_detail": {
-          "bullpen_era": 4.51,
-          "recent_era": 3.15,
-          "recent_appearances": 17,
-          "recent_ip": 20.0,
-          "team_era": 4.03,
-          "bp_ip": 125.7,
-          "bp_count": 8,
+          "bullpen_era": 4.3,
+          "recent_era": 2.29,
+          "recent_appearances": 16,
+          "recent_ip": 19.7,
+          "team_era": 3.99,
+          "bp_ip": 121.3,
+          "bp_count": 7,
           "closer_era": 3.65,
           "closer_name": "Erik Tolman"
         },
@@ -1000,7 +1000,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 42.0,
-        "total": 39.5
+        "total": 40.8
       },
       "home": {
         "sp_score": 45.0,
@@ -1136,7 +1136,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 30.2,
-      "away_defense": 46.8,
+      "away_defense": 50.0,
       "home_offense": 41.3,
       "home_defense": 56.8
     },
@@ -1154,16 +1154,16 @@ window.PREDICTIONS_DATA = [
     "actual_winner": null,
     "model_winner": "Detroit Tigers",
     "model_correct": null,
-    "notes": "Washington Nationals IL: Connelly Early, DJ Herz, Drew Millas, Ken Waldichuk, Matt Waldron 외 다수 / Detroit Tigers IL: Bailey Horn, Burch Smith, Jack Flaherty, Justin Verlander, Kerry Carpenter 외 다수",
+    "notes": "Washington Nationals IL: Connelly Early, Drew Millas, Ken Waldichuk, Matt Waldron, Mitchell Parker 외 다수 / Detroit Tigers IL: Bailey Horn, Burch Smith, Jack Flaherty, Justin Verlander, Kerry Carpenter 외 다수",
     "kalshi_prob": 55.0,
-    "edge": 5.0,
+    "edge": 2.1,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 0.0pt (≤5.0pt)",
+    "low_confidence_reason": "SP 점수 차이 0.0pt (≤5.0pt) / 최고 확률 57.1% (≤58.0%)",
     "model_version": "v15"
   },
   {
