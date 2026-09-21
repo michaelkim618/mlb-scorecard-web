@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T19:39:12.469810+00:00",
+  "updated_at": "2026-09-21T19:50:23.884699+00:00",
   "news": [
     {
       "title": "Tigers' home ballpark renamed to Fifth Third Park",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-21T19:32:54+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "17m ago"
     },
     {
       "title": "How a 3-way tie for the NL Wild Card would be settled",
@@ -25,7 +25,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-21T19:23:44+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "26m ago"
     },
     {
       "title": "Here are the 2026 Double-A All-Stars and award winners",
@@ -64,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-21T13:40:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "With AL East title on line, Yanks determined to keep Rays from celebrating in Bronx",
@@ -103,7 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-21T12:44:58+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     }
   ]
 }
