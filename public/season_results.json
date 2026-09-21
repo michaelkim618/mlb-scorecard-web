@@ -15313,6 +15313,30 @@
       "away_bp_score": 75.0,
       "home_bp_score": 65.8,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-20",
+      "away": "Detroit Tigers",
+      "home": "Chicago White Sox",
+      "game_number": 1,
+      "pick": "Detroit Tigers",
+      "pick_prob": 58.3,
+      "actual_winner": "Chicago White Sox",
+      "away_score": 0,
+      "home_score": 0,
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "hot",
+      "away_sp_era": 3.23,
+      "home_sp_era": 5.84,
+      "away_bp_era": 3.26,
+      "home_bp_era": 2.92,
+      "away_sp_score": 48.0,
+      "home_sp_score": 34.8,
+      "away_bp_score": 69.3,
+      "home_bp_score": 70.2,
+      "bat_source": "lineup"
     }
   ]
 }

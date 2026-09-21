@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-21T00:44:36.220758+00:00",
+  "updated_at": "2026-09-21T01:28:34.166979+00:00",
   "news": [
+    {
+      "title": "Miz sharp in 3-inning outing as Brewers wind him down for postseason",
+      "link": "https://www.mlb.com/news/brewers-limit-jacob-misiorowski-to-3-innings-ahead-of-postseason",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789951465/mlb/ca0zrfafigbmiagttjdb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-21T01:07:45+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "Braves sweep Astros to clinch NL East title: 'And we're not done yet'",
+      "link": "https://www.mlb.com/news/braves-clinch-2026-nl-east-title",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/etw7cwg3javu8fszzvnl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-21T01:01:00+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "How Sheehan, Sasaki and others look to fit in LA's postseason 'pen plans",
+      "link": "https://www.mlb.com/news/emmet-sheehan-strikes-out-9-giants-in-scoreless-long-relief",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kpfwfvqfxpnn51ouzbvv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-21T01:01:00+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "Anderson goes 7 scoreless innings at Coors in best start of career",
+      "link": "https://www.mlb.com/news/kade-anderson-has-scoreless-outing-for-mariners-coors-field",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789940628/mlb/ox804w23zomlstwykvrv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-21T00:53:00+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "Bregman awaiting test results after being hit in face by foul ball while in on-deck circle",
+      "link": "https://www.mlb.com/news/alex-bregman-exits-after-being-hit-in-the-face-in-on-deck-circle",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t2rrgeph63fdfbwskwo7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bill Ladson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-21T00:36:00+00:00",
+      "time_ago": "52m ago"
+    },
     {
       "title": "Skubal to bereavement list, Sheehan recalled among LA moves",
       "link": "https://www.mlb.com/news/emmet-sheehan-recalled-tarik-skubal-to-bereavement-list",
@@ -12,7 +77,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-21T00:30:00+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "58m ago"
+    },
+    {
+      "title": "Arenado's 2nd-chance slam breathes life into D-backs' postseason hopes",
+      "link": "https://www.mlb.com/news/nolan-arenado-hits-go-ahead-grand-slam-after-close-foul-ball",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789943700/mlb/h6ypwgc8q8b3vgjtlkmx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jesse Borek",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-21T00:29:00+00:00",
+      "time_ago": "59m ago"
     },
     {
       "title": "Williams reclaims AL strikeout lead as Guards take final postseason push 'one day at a time'",
@@ -25,84 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-21T00:02:00+00:00",
-      "time_ago": "42m ago"
-    },
-    {
-      "title": "Padres storming toward franchise first: a third straight playoff berth",
-      "link": "https://www.mlb.com/news/jake-cronenworth-homers-twice-as-padres-beat-marlins",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gfzcrufdqzlmpvwaubco",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-20T23:49:00+00:00",
-      "time_ago": "55m ago"
-    },
-    {
-      "title": "Here are the finalists for the 2026 MiLB Awards Show (Sept. 28 on MLB Network)",
-      "link": "https://www.mlb.com/news/2026-milb-awards-show-on-mlb-network",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hvnarsq4vsqfkuv9tqgl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jonathan Mayo",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-09-20T23:45:00+00:00",
-      "time_ago": "59m ago"
-    },
-    {
-      "title": "Firebells set WPBL record with 20 hits to force winner-take-all Game 5",
-      "link": "https://www.mlb.com/news/firebells-force-wpbl-winner-take-all-game-5",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gzxvcxkh6feeqqpdsjix",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Michael Clair",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T23:42:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Rangers look to regroup as AL West leaders make final postseason push",
-      "link": "https://www.mlb.com/news/rangers-lose-series-finale-vs-blue-jays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/odju9aqxmvhk77nirr6z",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T23:39:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "'Stayin' Alive!' Red Sox clinch postseason spot that once seemed improbable",
-      "link": "https://www.mlb.com/news/red-sox-playoff-spot-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yiolq4atqbczr4pjembq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T23:38:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Bregman awaiting test results after being hit in face by foul ball while in on-deck circle",
-      "link": "https://www.mlb.com/news/alex-bregman-exits-after-being-hit-in-the-face-in-on-deck-circle",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t2rrgeph63fdfbwskwo7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bill Ladson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-20T23:28:00+00:00",
       "time_ago": "1h ago"
     }
   ]

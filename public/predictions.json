@@ -5180,9 +5180,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Chicago White Sox",
     "model_winner": "Detroit Tigers",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Detroit Tigers IL: Bailey Horn, Burch Smith, Jack Flaherty, Justin Verlander, Kerry Carpenter 외 다수 / Chicago White Sox IL: Brooks Baldwin, Joey Bart, Jordan Leasure, Ky Bush, Mike Vasil 외 다수",
     "kalshi_prob": 51.0,
     "edge": -9.3,
