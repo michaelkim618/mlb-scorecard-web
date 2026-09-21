@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-21T13:39:26.231692+00:00",
+  "updated_at": "2026-09-21T14:22:58.220323+00:00",
   "news": [
+    {
+      "title": "Here's why a long winning streak has eluded Blue Jays",
+      "link": "https://www.mlb.com/news/blue-jays-inconsistency-lack-of-long-winning-streak",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jywyibpyn1ltparcn63v",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-21T13:40:00+00:00",
+      "time_ago": "42m ago"
+    },
+    {
+      "title": "With AL East title on line, Yanks determined to keep Rays from celebrating in Bronx",
+      "link": "https://www.mlb.com/news/rays-yankees-meet-with-al-east-title-there-for-taking",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qh0nutc81cxcd28h6wdq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry and Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-21T13:12:00+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "How Braves could set up postseason staff during final regular-season stretch",
       "link": "https://www.mlb.com/news/braves-setting-up-rotation-for-2026-postseason",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-21T13:01:49+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Setting the table for Guardians' final push toward playoffs",
@@ -25,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-21T12:44:58+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "If Rangers reach postseason, Leiter could be a potential reinforcement",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-21T12:44:15+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Can Lopez pull off miraculous run to 200 hits, NL batting title?",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-21T12:19:26+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "The Wonder Kid does it again! Chourio makes 20-20 history",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-21T04:12:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "Miz sharp in shortened outing as Brewers set franchise win record",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-21T04:05:00+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "Padres storming toward franchise first: a third straight playoff berth",
-      "link": "https://www.mlb.com/news/jake-cronenworth-homers-twice-as-padres-beat-marlins",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gfzcrufdqzlmpvwaubco",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-21T02:49:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Arenado's 2nd-chance slam breathes life into D-backs' postseason hopes",
-      "link": "https://www.mlb.com/news/nolan-arenado-hits-go-ahead-grand-slam-after-close-foul-ball",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789943700/mlb/h6ypwgc8q8b3vgjtlkmx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jesse Borek",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-21T02:47:00+00:00",
       "time_ago": "10h ago"
     }
   ]
