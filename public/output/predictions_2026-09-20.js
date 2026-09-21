@@ -6375,12 +6375,12 @@ window.PREDICTIONS_DATA = [
         },
         "bp_score": 72.5,
         "bp_detail": {
-          "bullpen_era": 2.94,
-          "recent_era": 2.75,
-          "recent_appearances": 20,
-          "recent_ip": 19.7,
-          "team_era": 3.42,
-          "bp_ip": 318.3,
+          "bullpen_era": 3.01,
+          "recent_era": 2.0,
+          "recent_appearances": 17,
+          "recent_ip": 17.3,
+          "team_era": 3.29,
+          "bp_ip": 301.7,
           "bp_count": 8,
           "closer_era": 1.29,
           "closer_name": "Louis Varland"

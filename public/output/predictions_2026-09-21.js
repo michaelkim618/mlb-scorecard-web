@@ -414,12 +414,12 @@ window.PREDICTIONS_DATA = [
         },
         "bp_score": 72.5,
         "bp_detail": {
-          "bullpen_era": 2.94,
-          "recent_era": 2.75,
-          "recent_appearances": 20,
-          "recent_ip": 19.7,
-          "team_era": 3.42,
-          "bp_ip": 318.3,
+          "bullpen_era": 3.01,
+          "recent_era": 2.0,
+          "recent_appearances": 17,
+          "recent_ip": 17.3,
+          "team_era": 3.29,
+          "bp_ip": 301.7,
           "bp_count": 8,
           "closer_era": 1.29,
           "closer_name": "Louis Varland"
@@ -849,18 +849,18 @@ window.PREDICTIONS_DATA = [
     "home_pitcher_gamelog": [],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 42.9,
-      "home": 57.1
+      "away": 46.1,
+      "home": 53.9
     },
     "expected_score": {
-      "away": 1.9,
-      "home": 2.9
+      "away": 2.1,
+      "home": 2.4
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "L",
       "home_handedness": "R",
       "bullpen_game": false,
@@ -903,29 +903,29 @@ window.PREDICTIONS_DATA = [
           "closer_era": 3.65,
           "closer_name": "Erik Tolman"
         },
-        "bat_score": 30.2,
+        "bat_score": 32.4,
         "bat_detail": {
-          "recent_avg": 0.213,
+          "recent_avg": 0.246,
           "runs_per_g": 4.8,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
-          "season_ops": 0.683,
+          "season_ops": 0.705,
           "season_slg": null,
-          "season_avg": 0.213,
+          "season_avg": 0.246,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
             "James Wood(0.742)",
-            "Andrés Chaparro(0.887)",
-            "Brady House(0.746)",
+            "Daylen Lile(0.739)",
+            "Abimelec Ortiz(0.565)",
             "CJ Abrams(0.737)",
             "Dylan Crews(0.641)",
-            "Daylen Lile(0.739)",
-            "Harry Ford(0.573)",
-            "Jacob Young(0.619)",
-            "Nasim Nuñez(0.461)"
+            "Jorbit Vivas(0.764)",
+            "Brady House(0.746)",
+            "Keibert Ruiz(0.793)",
+            "Jacob Young(0.619)"
           ],
           "lineup_players": [
             {
@@ -935,16 +935,16 @@ window.PREDICTIONS_DATA = [
               "avg": 0.229
             },
             {
-              "id": 665953,
-              "name": "Andrés Chaparro",
-              "ops": 0.887,
-              "avg": 0.269
+              "id": 695734,
+              "name": "Daylen Lile",
+              "ops": 0.739,
+              "avg": 0.222
             },
             {
-              "id": 691781,
-              "name": "Brady House",
-              "ops": 0.746,
-              "avg": 0.261
+              "id": 694673,
+              "name": "Abimelec Ortiz",
+              "ops": 0.565,
+              "avg": 0.182
             },
             {
               "id": 682928,
@@ -959,31 +959,31 @@ window.PREDICTIONS_DATA = [
               "avg": 0.237
             },
             {
-              "id": 695734,
-              "name": "Daylen Lile",
-              "ops": 0.739,
-              "avg": 0.222
+              "id": 678391,
+              "name": "Jorbit Vivas",
+              "ops": 0.764,
+              "avg": 0.345
             },
             {
-              "id": 695670,
-              "name": "Harry Ford",
-              "ops": 0.573,
-              "avg": 0.15
+              "id": 691781,
+              "name": "Brady House",
+              "ops": 0.746,
+              "avg": 0.261
+            },
+            {
+              "id": 660688,
+              "name": "Keibert Ruiz",
+              "ops": 0.793,
+              "avg": 0.308
             },
             {
               "id": 696285,
               "name": "Jacob Young",
               "ops": 0.619,
               "avg": 0.208
-            },
-            {
-              "id": 683083,
-              "name": "Nasim Nuñez",
-              "ops": 0.461,
-              "avg": 0.125
             }
           ],
-          "bat_trend": "hot",
+          "bat_trend": "stable",
           "last5_rpg": 5.2,
           "last5_avg": 0.232,
           "home_split": {
@@ -1000,7 +1000,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 42.0,
-        "total": 40.8
+        "total": 41.4
       },
       "home": {
         "sp_score": 45.0,
@@ -1034,37 +1034,31 @@ window.PREDICTIONS_DATA = [
           "closer_era": 3.35,
           "closer_name": "Kenley Jansen"
         },
-        "bat_score": 41.3,
+        "bat_score": 33.4,
         "bat_detail": {
-          "recent_avg": 0.297,
+          "recent_avg": 0.239,
           "runs_per_g": 5.6,
           "hr_per_g": 0.9,
           "bb_per_g": 3.0,
-          "season_ops": 0.804,
+          "season_ops": 0.713,
           "season_slg": null,
-          "season_avg": 0.297,
+          "season_avg": 0.239,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Kevin McGonigle(0.846)",
             "Gleyber Torres(0.633)",
             "Hao-Yu Lee(0.825)",
             "Riley Greene(0.968)",
             "Eduardo Valencia(0.959)",
-            "Max Clark(0.883)",
+            "Ben Malgeri(0.521)",
+            "Dillon Dingler(0.613)",
             "Spencer Torkelson(0.983)",
-            "Brett Callahan(0.637)",
+            "Javier Báez(0.413)",
             "John Peck(0.503)"
           ],
           "lineup_players": [
-            {
-              "id": 805808,
-              "name": "Kevin McGonigle",
-              "ops": 0.846,
-              "avg": 0.3
-            },
             {
               "id": 650402,
               "name": "Gleyber Torres",
@@ -1090,10 +1084,16 @@ window.PREDICTIONS_DATA = [
               "avg": 0.394
             },
             {
-              "id": 703601,
-              "name": "Max Clark",
-              "ops": 0.883,
-              "avg": 0.353
+              "id": 701162,
+              "name": "Ben Malgeri",
+              "ops": 0.521,
+              "avg": 0.083
+            },
+            {
+              "id": 693307,
+              "name": "Dillon Dingler",
+              "ops": 0.613,
+              "avg": 0.184
             },
             {
               "id": 679529,
@@ -1102,10 +1102,10 @@ window.PREDICTIONS_DATA = [
               "avg": 0.379
             },
             {
-              "id": 814430,
-              "name": "Brett Callahan",
-              "ops": 0.637,
-              "avg": 0.227
+              "id": 595879,
+              "name": "Javier Báez",
+              "ops": 0.413,
+              "avg": 0.087
             },
             {
               "id": 807726,
@@ -1114,7 +1114,7 @@ window.PREDICTIONS_DATA = [
               "avg": 0.154
             }
           ],
-          "bat_trend": "cold",
+          "bat_trend": "hot",
           "last5_rpg": 3.0,
           "last5_avg": 0.266,
           "home_split": {
@@ -1131,20 +1131,20 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 43.5,
-        "total": 46.9
+        "total": 44.7
       }
     },
     "scores": {
-      "away_offense": 30.2,
+      "away_offense": 32.4,
       "away_defense": 50.0,
-      "home_offense": 41.3,
+      "home_offense": 33.4,
       "home_defense": 56.8
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -1156,14 +1156,14 @@ window.PREDICTIONS_DATA = [
     "model_correct": null,
     "notes": "Washington Nationals IL: Connelly Early, Drew Millas, Ken Waldichuk, Matt Waldron, Mitchell Parker 외 다수 / Detroit Tigers IL: Bailey Horn, Burch Smith, Jack Flaherty, Justin Verlander, Kerry Carpenter 외 다수",
     "kalshi_prob": 55.0,
-    "edge": 2.1,
+    "edge": -1.1,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 0.0pt (≤5.0pt) / 최고 확률 57.1% (≤58.0%)",
+    "low_confidence_reason": "SP 점수 차이 0.0pt (≤5.0pt) / 최고 확률 53.9% (≤58.0%)",
     "model_version": "v15"
   },
   {
