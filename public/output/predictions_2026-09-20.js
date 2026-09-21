@@ -1122,15 +1122,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 20.2,
+        "bp_score": 22.9,
         "bp_detail": {
-          "bullpen_era": 5.02,
+          "bullpen_era": 4.85,
           "recent_era": 6.48,
           "recent_appearances": 20,
           "recent_ip": 16.7,
-          "team_era": 4.2,
-          "bp_ip": 272.3,
-          "bp_count": 9,
+          "team_era": 4.15,
+          "bp_ip": 267.3,
+          "bp_count": 8,
           "closer_era": 5.96,
           "closer_name": "Lucas Erceg"
         },
@@ -1231,7 +1231,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 38.1,
-        "total": 35.6
+        "total": 36.3
       },
       "home": {
         "sp_score": 25.2,
@@ -1423,7 +1423,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 17.7,
-      "away_defense": 41.9,
+      "away_defense": 43.2,
       "home_offense": 40.199999999999996,
       "home_defense": 39.2
     },
@@ -4796,7 +4796,7 @@ window.PREDICTIONS_DATA = [
       "home": 50.0
     },
     "expected_score": {
-      "away": 2.7,
+      "away": 2.6,
       "home": 1.9
     },
     "blend_detail": null,
@@ -4895,13 +4895,13 @@ window.PREDICTIONS_DATA = [
           "recent_era": 2.01,
           "recent_appearances": 21,
           "recent_ip": 31.3,
-          "team_era": 3.48,
+          "team_era": 3.59,
           "bp_ip": 366.0,
           "bp_count": 9,
           "closer_era": 3.35,
           "closer_name": "Kenley Jansen"
         },
-        "bat_score": 41.3,
+        "bat_score": 40.3,
         "bat_detail": {
           "recent_avg": 0.297,
           "runs_per_g": 5.6,
@@ -4998,7 +4998,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 42.0,
-        "total": 54.1
+        "total": 53.8
       },
       "home": {
         "sp_score": 41.5,
@@ -5188,7 +5188,7 @@ window.PREDICTIONS_DATA = [
       }
     },
     "scores": {
-      "away_offense": 41.3,
+      "away_offense": 40.3,
       "away_defense": 58.3,
       "home_offense": 28.8,
       "home_defense": 56.0
@@ -5207,7 +5207,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "Chicago White Sox",
     "model_winner": "Chicago White Sox",
     "model_correct": true,
-    "notes": "Detroit Tigers IL: Bailey Horn, Burch Smith, Jack Flaherty, Justin Verlander, Kerry Carpenter 외 다수 / Chicago White Sox IL: Brooks Baldwin, Joey Bart, Jordan Leasure, Ky Bush, Mike Vasil 외 다수",
+    "notes": "Detroit Tigers IL: Bailey Horn, Burch Smith, Colt Keith, Jack Flaherty, Justin Verlander 외 다수 / Chicago White Sox IL: Brooks Baldwin, Joey Bart, Jordan Leasure, Ky Bush, Mike Vasil 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
@@ -8460,7 +8460,7 @@ window.PREDICTIONS_DATA = [
     },
     "expected_score": {
       "away": 1.0,
-      "home": 3.3
+      "home": 3.4
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -8707,13 +8707,13 @@ window.PREDICTIONS_DATA = [
           "recent_era": 2.87,
           "recent_appearances": 16,
           "recent_ip": 15.7,
-          "team_era": 3.44,
+          "team_era": 3.46,
           "bp_ip": 312.0,
           "bp_count": 8,
           "closer_era": 2.77,
           "closer_name": "Tanner Scott"
         },
-        "bat_score": 43.4,
+        "bat_score": 44.9,
         "bat_detail": {
           "recent_avg": 0.248,
           "runs_per_g": 5.2,
@@ -8810,13 +8810,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 68.9,
-        "total": 47.1
+        "total": 47.7
       }
     },
     "scores": {
       "away_offense": 15.0,
       "away_defense": 38.8,
-      "home_offense": 43.4,
+      "home_offense": 44.9,
       "home_defense": 51.8
     },
     "actual_score": {
@@ -8833,7 +8833,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "Los Angeles Dodgers",
     "model_winner": "Los Angeles Dodgers",
     "model_correct": true,
-    "notes": "San Francisco Giants IL: Adrian Houser, Carson Whisenhunt, Casey Schmitt, Daniel Susac, Harrison Bader 외 다수 / Los Angeles Dodgers IL: Andy Pages, Ben Casparius, Brusdar Graterol, Dalton Rushing, Edgardo Henriquez 외 다수",
+    "notes": "San Francisco Giants IL: Adrian Houser, Carson Whisenhunt, Casey Schmitt, Daniel Susac, Harrison Bader 외 다수 / Los Angeles Dodgers IL: Ben Casparius, Brusdar Graterol, Dalton Rushing, Edgardo Henriquez, Eric Lauer 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
@@ -8844,7 +8844,7 @@ window.PREDICTIONS_DATA = [
       "sp_favors": "San Francisco Giants",
       "bat_favors": "Los Angeles Dodgers",
       "sp_gap": 10.8,
-      "bat_gap": -28.4
+      "bat_gap": -29.9
     },
     "low_confidence": true,
     "low_confidence_reason": "최고 확률 55.0% (≤58.0%)",
