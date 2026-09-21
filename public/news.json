@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-21T19:13:43.505759+00:00",
+  "updated_at": "2026-09-21T19:39:12.469810+00:00",
   "news": [
+    {
+      "title": "Tigers' home ballpark renamed to Fifth Third Park",
+      "link": "https://www.mlb.com/news/tigers-ballpark-name-changed-to-fifth-third-park",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uhofic70miq70tr6ipfb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-21T19:32:54+00:00",
+      "time_ago": "6m ago"
+    },
+    {
+      "title": "How a 3-way tie for the NL Wild Card would be settled",
+      "link": "https://www.mlb.com/news/who-would-win-a-3-way-tie-in-the-nl-wild-card",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x1juj2ot9wkuj3wfdio4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Andrew Simon",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-21T19:23:44+00:00",
+      "time_ago": "15m ago"
+    },
     {
       "title": "Here are the 2026 Double-A All-Stars and award winners",
       "link": "https://www.mlb.com/news/minor-league-baseball-announces-2026-double-a-all-stars-and-award-winners",
@@ -13,19 +39,6 @@
       "tag_color": "#16A34A",
       "pub_date": "2026-09-21T17:03:41+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "LIVE: Join Nats speedster Nasim Nuñez in Chatting Practice",
-      "link": "https://www.mlb.com/chattingpractice",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oqlgf7la8vwwmgqkxwod",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-21T15:52:16+00:00",
-      "time_ago": "3h ago"
     },
     {
       "title": "Rays' new road uniforms have fresh take on a familiar look",
@@ -90,19 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-21T12:44:58+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Can Lopez pull off miraculous run to 200 hits, NL batting title?",
-      "link": "https://www.mlb.com/news/otto-lopez-chases-200-hits-batting-title",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x5ahnxzuem7lztmxahzq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Christina De Nicola",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-21T12:19:26+00:00",
       "time_ago": "6h ago"
     }
   ]

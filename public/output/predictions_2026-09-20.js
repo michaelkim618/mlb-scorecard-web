@@ -4796,7 +4796,7 @@ window.PREDICTIONS_DATA = [
       "home": 50.0
     },
     "expected_score": {
-      "away": 2.4,
+      "away": 2.7,
       "home": 1.9
     },
     "blend_detail": null,
@@ -4901,14 +4901,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 3.35,
           "closer_name": "Kenley Jansen"
         },
-        "bat_score": 37.3,
+        "bat_score": 41.3,
         "bat_detail": {
           "recent_avg": 0.297,
           "runs_per_g": 5.6,
           "hr_per_g": 0.9,
           "bb_per_g": 3.0,
           "season_ops": 0.804,
-          "season_slg": 0.36,
+          "season_slg": null,
           "season_avg": 0.297,
           "n_games": 9,
           "source": "prev_day",
@@ -4998,7 +4998,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 42.0,
-        "total": 52.9
+        "total": 54.1
       },
       "home": {
         "sp_score": 41.5,
@@ -5188,7 +5188,7 @@ window.PREDICTIONS_DATA = [
       }
     },
     "scores": {
-      "away_offense": 37.3,
+      "away_offense": 41.3,
       "away_defense": 58.3,
       "home_offense": 28.8,
       "home_defense": 56.0
@@ -5538,7 +5538,7 @@ window.PREDICTIONS_DATA = [
       "home": 59.8
     },
     "expected_score": {
-      "away": 1.8,
+      "away": 2.0,
       "home": 2.0
     },
     "blend_detail": null,
@@ -5557,7 +5557,7 @@ window.PREDICTIONS_DATA = [
         "sit": 0.15
       },
       "away": {
-        "sp_score": 29.3,
+        "sp_score": 30.0,
         "sp_detail": {
           "era": 5.58,
           "whip": 1.38,
@@ -5631,7 +5631,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 53.7,
+        "bp_score": 55.0,
         "bp_detail": {
           "bullpen_era": 4.3,
           "recent_era": 2.29,
@@ -5643,14 +5643,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 3.65,
           "closer_name": "Erik Tolman"
         },
-        "bat_score": 26.4,
+        "bat_score": 30.2,
         "bat_detail": {
           "recent_avg": 0.213,
           "runs_per_g": 4.8,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
           "season_ops": 0.683,
-          "season_slg": 0.363,
+          "season_slg": null,
           "season_avg": 0.213,
           "n_games": 9,
           "source": "prev_day",
@@ -5740,7 +5740,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 42.0,
-        "total": 34.8
+        "total": 36.4
       },
       "home": {
         "sp_score": 48.5,
@@ -5923,8 +5923,8 @@ window.PREDICTIONS_DATA = [
       }
     },
     "scores": {
-      "away_offense": 26.4,
-      "away_defense": 45.2,
+      "away_offense": 30.2,
+      "away_defense": 46.2,
       "home_offense": 27.1,
       "home_defense": 50.0
     },
@@ -6392,7 +6392,7 @@ window.PREDICTIONS_DATA = [
           "hr_per_g": 0.9,
           "bb_per_g": 3.0,
           "season_ops": 0.688,
-          "season_slg": 0.407,
+          "season_slg": null,
           "season_avg": 0.229,
           "n_games": 9,
           "source": "prev_day",
@@ -7855,7 +7855,7 @@ window.PREDICTIONS_DATA = [
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
           "season_ops": 0.652,
-          "season_slg": 0.386,
+          "season_slg": null,
           "season_avg": 0.245,
           "n_games": 9,
           "source": "prev_day",
@@ -8556,7 +8556,7 @@ window.PREDICTIONS_DATA = [
           "hr_per_g": 1.1,
           "bb_per_g": 3.0,
           "season_ops": 0.596,
-          "season_slg": 0.36,
+          "season_slg": null,
           "season_avg": 0.225,
           "n_games": 9,
           "source": "prev_day",
@@ -10920,7 +10920,7 @@ window.PREDICTIONS_DATA = [
           "hr_per_g": 1.4,
           "bb_per_g": 3.0,
           "season_ops": 0.657,
-          "season_slg": 0.362,
+          "season_slg": null,
           "season_avg": 0.221,
           "n_games": 9,
           "source": "prev_day",
