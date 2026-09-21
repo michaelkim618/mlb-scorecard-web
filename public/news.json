@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-21T16:12:03.356057+00:00",
+  "updated_at": "2026-09-21T17:12:10.580843+00:00",
   "news": [
+    {
+      "title": "Here are the 2026 Double-A All-Stars and award winners",
+      "link": "https://www.mlb.com/news/minor-league-baseball-announces-2026-double-a-all-stars-and-award-winners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/agimibyjykk4q7naguhg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ben Weinrib",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-09-21T17:03:41+00:00",
+      "time_ago": "8m ago"
+    },
     {
       "title": "Rays' new road uniforms have fresh take on a familiar look",
       "link": "https://www.mlb.com/news/rays-bring-back-tampa-bay-to-new-road-gray-jerseys",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-21T15:09:17+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Here's why a long winning streak has eluded Blue Jays",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-21T13:40:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "With AL East title on line, Yanks determined to keep Rays from celebrating in Bronx",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-21T13:12:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "How Braves could set up postseason staff during final regular-season stretch",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-21T13:01:49+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Setting the table for Guardians' final push toward playoffs",
@@ -64,20 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-21T12:44:58+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "If Rangers reach postseason, Leiter could be a potential reinforcement",
-      "link": "https://www.mlb.com/news/jack-leiter-status-if-rangers-make-postseason",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oxkivpo9ynbx4vt1ebke",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kennedi Landry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-21T12:44:15+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Can Lopez pull off miraculous run to 200 hits, NL batting title?",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-21T12:19:26+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "The Wonder Kid does it again! Chourio makes 20-20 history",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-21T04:12:00+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "13h ago"
     }
   ]
 }
