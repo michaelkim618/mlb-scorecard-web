@@ -5,5 +5,42 @@
   "results": false,
   "lineup_refreshed": [
     "15:35"
-  ]
+  ],
+  "predictions_frozen": [
+    "15:35"
+  ],
+  "frozen_predictions": {
+    "15:35": [
+      {
+        "game_pk": "824787",
+        "win_prob": {
+          "away": 54.3,
+          "home": 45.7
+        },
+        "model_winner": "Toronto Blue Jays",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -3.3,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 54.3% (≤58.0%)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "824221",
+        "win_prob": {
+          "away": 46.1,
+          "home": 53.9
+        },
+        "model_winner": "Detroit Tigers",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -1.1,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "SP 점수 차이 0.0pt (≤5.0pt) / 최고 확률 53.9% (≤58.0%)",
+        "extreme_edge": false
+      }
+    ]
+  }
 }
