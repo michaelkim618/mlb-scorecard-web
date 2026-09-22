@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-22T21:32:33.521115+00:00",
+  "updated_at": "2026-09-22T21:55:43.910146+00:00",
   "news": [
+    {
+      "title": "LIVE: Mets manager Green discusses new 3-year deal",
+      "link": "https://www.mlb.com/news/andy-green-named-mets-manager-on-3-year-contract",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/to4l9uxmrzuu7olgn3ij",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-09-22T21:41:00+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "Tracy loses interim tag, named Red Sox's 49th manager; club picks up options on Breslow",
+      "link": "https://www.mlb.com/news/chad-tracy-agrees-to-contract-with-red-sox-craig-breslow-options-picked-up",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/b2spfydgcms53xbnapoh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-22T21:40:00+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "Injuries: Bregman, Cease, Vlad Jr., Judge, Red Sox, Verlander",
+      "link": "https://www.mlb.com/news/baseball-injury-updates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kurvyuyrnlbwdwmxrcre",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-22T21:39:00+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Verlander set for sendoff he deserves: One last start at Comerica",
+      "link": "https://www.mlb.com/news/justin-verlander-to-make-final-start-of-career-at-comerica-park",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vaawdgmwvfivmpmz3uiq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-22T21:36:06+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Deadline acquisition Doval DFA'd by Pirates; Yates activated off IL",
+      "link": "https://www.mlb.com/news/camilo-doval-designated-for-assignment-pirates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790098861/mlb/vjchys0q3bpx2xlrkhnh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-22T21:24:00+00:00",
+      "time_ago": "31m ago"
+    },
     {
       "title": "Bregman won't go on IL; regular season return not ruled out",
       "link": "https://www.mlb.com/news/alex-bregman-cubs-facial-fractures-postseason-return",
@@ -12,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T21:20:00+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "35m ago"
     },
     {
       "title": "Rodón staves off Rays' clinch with 8 dominant frames in DH opener",
@@ -25,19 +90,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T20:38:00+00:00",
-      "time_ago": "54m ago"
-    },
-    {
-      "title": "Andy Green to stay on as Mets manager, signs 3-year contract",
-      "link": "https://www.mlb.com/news/andy-green-named-mets-manager-on-3-year-contract",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/to4l9uxmrzuu7olgn3ij",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-09-22T20:30:39+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -52,58 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T20:17:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Scott's season over with knee inflammation; Williams returns",
-      "link": "https://www.mlb.com/news/christian-scott-to-injured-list-devin-williams-activated",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lljretfz7uhkpepvmfww",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-22T20:03:13+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Martinez holds strong, but Rays miss 1st chance at AL East title",
-      "link": "https://www.mlb.com/news/nick-martinez-strong-in-rays-loss-to-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xokatrofse6cjhi6trkz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-22T19:54:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Deadline acquistion Doval DFA'd by Pirates; Yates activated off IL",
-      "link": "https://www.mlb.com/news/camilo-doval-designated-for-assignment-pirates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790098861/mlb/vjchys0q3bpx2xlrkhnh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-22T19:47:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "These 9 series starting tonight will help determine postseason picture",
-      "link": "https://www.mlb.com/news/mlb-series-to-watch-week-of-sept-21-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zheifr3m2m678yy9q2q0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-22T19:15:00+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
