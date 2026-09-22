@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T18:26:35.502920+00:00",
+  "updated_at": "2026-09-22T19:04:07.257196+00:00",
   "news": [
     {
       "title": "Blue Jays-O's game postponed; split doubleheader Wednesday",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T17:55:09+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Deadline acquistion Doval DFA'd by Pirates; Yates activated off IL",
@@ -25,7 +25,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-22T17:41:09+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "No one's ever won an RBI title in both leagues. That could change this year",
@@ -38,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T17:28:27+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Judge likely to miss Wild Card Series with 'moderate grade' calf strain",
@@ -51,7 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-22T16:47:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Under-the-radar prospects to watch in the Arizona Fall League",
@@ -64,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T16:36:16+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "A 3-way tie for NL Wild Card is in play. Here's how it would shake out",
@@ -80,7 +80,20 @@
       "time_ago": "2h ago"
     },
     {
-      "title": "Watch LIVE: Tracy, Breslow discuss Red Sox deals",
+      "title": "'Going to fight': D-backs eye playoffs as regular season winds down",
+      "link": "https://www.mlb.com/news/diamondbacks-fighting-for-playoff-spot",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c7wsdtyxwf7eaq03lauk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Steve Gilbert",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-22T15:30:50+00:00",
+      "time_ago": "3h ago"
+    },
+    {
+      "title": "Red Sox award Tracy with 3-year deal; Breslow's options for '29, '30 picked up",
       "link": "https://www.mlb.com/news/chad-tracy-agrees-to-contract-with-red-sox-craig-breslow-options-picked-up",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/b2spfydgcms53xbnapoh",
@@ -90,19 +103,6 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-09-22T15:09:04+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "These 9 series starting tonight will help determine postseason picture",
-      "link": "https://www.mlb.com/news/mlb-series-to-watch-week-of-sept-21-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zheifr3m2m678yy9q2q0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-22T14:30:00+00:00",
       "time_ago": "3h ago"
     }
   ]
