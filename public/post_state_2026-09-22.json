@@ -1,0 +1,29 @@
+{
+  "predictions": [],
+  "results": false,
+  "lineup_refreshed": [
+    "10:05"
+  ],
+  "predictions_frozen": [
+    "10:05"
+  ],
+  "frozen_predictions": {
+    "10:05": [
+      {
+        "game_pk": "823543",
+        "win_prob": {
+          "away": 52.3,
+          "home": 47.7
+        },
+        "model_winner": "Tampa Bay Rays",
+        "value_bet": "⏭️ 패스 (라인업 미확정)",
+        "edge": null,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 52.3% (≤58.0%)",
+        "extreme_edge": false
+      }
+    ]
+  }
+}
