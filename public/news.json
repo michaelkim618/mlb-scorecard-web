@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-22T19:50:35.444794+00:00",
+  "updated_at": "2026-09-22T20:02:36.637074+00:00",
   "news": [
+    {
+      "title": "Deadline acquistion Doval DFA'd by Pirates; Yates activated off IL",
+      "link": "https://www.mlb.com/news/camilo-doval-designated-for-assignment-pirates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790098861/mlb/vjchys0q3bpx2xlrkhnh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-22T19:47:00+00:00",
+      "time_ago": "15m ago"
+    },
     {
       "title": "Martinez holds strong, but Rays miss 1st chance at AL East title",
       "link": "https://www.mlb.com/news/nick-martinez-strong-in-rays-loss-to-yankees",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T19:34:04+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "28m ago"
     },
     {
       "title": "Rodón staves off Rays' clinch with 8 dominant frames in DH opener",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T19:24:37+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "These 9 series starting tonight will help determine postseason picture",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T19:15:00+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "Dodgers activate Pages, Sasaki before Padres series",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T19:10:29+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "How weather in Boston could affect a series vs. Cubs with seeding implications",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T18:57:48+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Blue Jays-O's game postponed; split doubleheader Wednesday",
@@ -77,19 +90,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T17:55:09+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Deadline acquistion Doval DFA'd by Pirates; Yates activated off IL",
-      "link": "https://www.mlb.com/news/camilo-doval-designated-for-assignment-pirates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790098861/mlb/vjchys0q3bpx2xlrkhnh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-22T17:41:09+00:00",
       "time_ago": "2h ago"
     },
     {
