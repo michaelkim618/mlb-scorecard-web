@@ -1623,8 +1623,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 50.0,
-      "home": 50.0
+      "away": 50.1,
+      "home": 49.9
     },
     "expected_score": {
       "away": 1.9,
@@ -1907,15 +1907,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 38.0,
+        "bp_score": 37.5,
         "bp_detail": {
-          "bullpen_era": 4.12,
+          "bullpen_era": 4.16,
           "recent_era": 4.37,
           "recent_appearances": 21,
           "recent_ip": 35.0,
-          "team_era": 4.1,
-          "bp_ip": 275.0,
-          "bp_count": 11,
+          "team_era": 4.12,
+          "bp_ip": 277.0,
+          "bp_count": 12,
           "closer_era": 4.68,
           "closer_name": "Joel Kuhnel"
         },
@@ -2016,14 +2016,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 47.3,
-        "total": 30.9
+        "total": 30.8
       }
     },
     "scores": {
       "away_offense": 25.0,
       "away_defense": 42.8,
       "home_offense": 15.0,
-      "home_defense": 35.0
+      "home_defense": 34.7
     },
     "actual_score": {
       "away": 2,
@@ -2037,8 +2037,8 @@ window.PREDICTIONS_DATA = [
       "any": false
     },
     "actual_winner": "San Francisco Giants",
-    "model_winner": "San Francisco Giants",
-    "model_correct": true,
+    "model_winner": "Minnesota Twins",
+    "model_correct": false,
     "notes": "Minnesota Twins IL: Anthony Banda, Byron Buxton, Cole Sands, David Festa, Kaelen Culpepper 외 다수 / San Francisco Giants IL: Adrian Houser, Bryce Eldridge, Carson Whisenhunt, Casey Schmitt, Daniel Susac 외 다수",
     "kalshi_prob": null,
     "edge": null,
@@ -2048,7 +2048,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 50.0% (≤58.0%)",
+    "low_confidence_reason": "최고 확률 50.1% (≤58.0%)",
     "model_version": "v15"
   }
 ];
