@@ -1150,9 +1150,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Detroit Tigers",
     "model_winner": "Detroit Tigers",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Washington Nationals IL: Connelly Early, Drew Millas, Ken Waldichuk, Matt Waldron, Mitchell Parker 외 다수 / Detroit Tigers IL: Bailey Horn, Burch Smith, Jack Flaherty, Justin Verlander, Kerry Carpenter 외 다수",
     "kalshi_prob": 55.0,
     "edge": -1.1,
