@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T23:40:07.545362+00:00",
+  "updated_at": "2026-09-22T23:54:47.730976+00:00",
   "news": [
     {
       "title": "Zack attack! Wheeler strikes out the side to reach 2,000 career K's",
@@ -11,8 +11,21 @@
       "author": "Todd Zolecki",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-22T23:24:02+00:00",
-      "time_ago": "16m ago"
+      "pub_date": "2026-09-22T23:42:00+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Pederson lands on IL with hand fracture, hopes to return for postseason",
+      "link": "https://www.mlb.com/news/joc-pederson-placed-on-il-with-left-hand-fracture",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uppq7ta5lnslojzsu6lp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-22T23:37:41+00:00",
+      "time_ago": "17m ago"
     },
     {
       "title": "How weather in Boston could affect a series vs. Cubs with seeding implications",
@@ -25,20 +38,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T23:03:00+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "51m ago"
     },
     {
-      "title": "These three top prospects are finalists for Hitter of the Year",
+      "title": "3 top prospects named finalists for Hitter of the Year",
       "link": "https://www.mlb.com/news/hitter-of-the-year-finalists-for-2026-milb-awards",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/otec1sjwpzc8wif7jrh3",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Sam Dykstra",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
       "pub_date": "2026-09-22T23:00:00+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "Suarez (elbow) set to be activated Wednesday to ramp up for playoff run",
@@ -51,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-22T22:47:14+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Andy Green to stay on as Mets manager, signs 3-year contract",
@@ -91,19 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T22:18:07+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Tracy loses interim tag, named Red Sox's 49th manager; club picks up options on Breslow",
-      "link": "https://www.mlb.com/news/chad-tracy-agrees-to-contract-with-red-sox-craig-breslow-options-picked-up",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/b2spfydgcms53xbnapoh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-22T21:40:00+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }

@@ -878,7 +878,7 @@ window.PREDICTIONS_DATA = [
     },
     "expected_score": {
       "away": 1.8,
-      "home": 2.7
+      "home": 2.8
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -896,7 +896,7 @@ window.PREDICTIONS_DATA = [
         "sit": 0.15
       },
       "away": {
-        "sp_score": 29.4,
+        "sp_score": 29.3,
         "sp_detail": {
           "era": 9.0,
           "whip": 1.75,
@@ -956,7 +956,7 @@ window.PREDICTIONS_DATA = [
           ],
           "single_sample_capped": true
         },
-        "bp_score": 41.0,
+        "bp_score": 40.9,
         "bp_detail": {
           "bullpen_era": 4.57,
           "recent_era": 4.15,
@@ -968,15 +968,15 @@ window.PREDICTIONS_DATA = [
           "closer_era": 3.65,
           "closer_name": "Erik Tolman"
         },
-        "bat_score": 26.8,
+        "bat_score": 26.5,
         "bat_detail": {
-          "recent_avg": 0.236,
+          "recent_avg": 0.234,
           "runs_per_g": 4.5,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
-          "season_ops": 0.691,
+          "season_ops": 0.689,
           "season_slg": null,
-          "season_avg": 0.236,
+          "season_avg": 0.234,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -985,9 +985,9 @@ window.PREDICTIONS_DATA = [
             "James Wood(0.738)",
             "Daylen Lile(0.756)",
             "Abimelec Ortiz(0.536)",
-            "CJ Abrams(0.820)",
+            "CJ Abrams(0.809)",
             "Dylan Crews(0.575)",
-            "Jorbit Vivas(0.700)",
+            "Jorbit Vivas(0.688)",
             "Brady House(0.680)",
             "Keibert Ruiz(0.692)",
             "Jacob Young(0.725)"
@@ -1014,8 +1014,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 682928,
               "name": "CJ Abrams",
-              "ops": 0.82,
-              "avg": 0.263
+              "ops": 0.809,
+              "avg": 0.256
             },
             {
               "id": 686611,
@@ -1026,8 +1026,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 678391,
               "name": "Jorbit Vivas",
-              "ops": 0.7,
-              "avg": 0.286
+              "ops": 0.688,
+              "avg": 0.276
             },
             {
               "id": 691781,
@@ -1050,7 +1050,7 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "cold",
           "last5_rpg": 4.6,
-          "last5_avg": 0.216,
+          "last5_avg": 0.212,
           "home_split": {
             "recent_avg": 0.254,
             "runs_per_g": 4.4,
@@ -1058,14 +1058,14 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.21,
+            "recent_avg": 0.208,
             "runs_per_g": 4.1,
             "hr_per_g": 1.0,
             "n_games": 10
           }
         },
         "sit_score": 42.0,
-        "total": 32.7
+        "total": 32.5
       },
       "home": {
         "sp_score": 30.0,
@@ -1148,21 +1148,21 @@ window.PREDICTIONS_DATA = [
           "recent_era": 2.61,
           "recent_appearances": 20,
           "recent_ip": 31.0,
-          "team_era": 3.57,
+          "team_era": 3.56,
           "bp_ip": 371.0,
           "bp_count": 10,
           "closer_era": 3.35,
           "closer_name": "Kenley Jansen"
         },
-        "bat_score": 35.3,
+        "bat_score": 36.3,
         "bat_detail": {
-          "recent_avg": 0.261,
+          "recent_avg": 0.266,
           "runs_per_g": 4.8,
           "hr_per_g": 0.9,
           "bb_per_g": 3.0,
-          "season_ops": 0.767,
+          "season_ops": 0.775,
           "season_slg": null,
-          "season_avg": 0.261,
+          "season_avg": 0.266,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
@@ -1172,10 +1172,10 @@ window.PREDICTIONS_DATA = [
             "Hao-Yu Lee(0.901)",
             "Riley Greene(0.873)",
             "Eduardo Valencia(1.028)",
-            "Ben Malgeri(0.748)",
+            "Ben Malgeri(0.825)",
             "Dillon Dingler(0.672)",
-            "Spencer Torkelson(1.052)",
-            "Javier Báez(0.599)",
+            "Spencer Torkelson(1.059)",
+            "Javier Báez(0.586)",
             "John Peck(0.428)"
           ],
           "lineup_players": [
@@ -1206,8 +1206,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 701162,
               "name": "Ben Malgeri",
-              "ops": 0.748,
-              "avg": 0.2
+              "ops": 0.825,
+              "avg": 0.25
             },
             {
               "id": 693307,
@@ -1218,14 +1218,14 @@ window.PREDICTIONS_DATA = [
             {
               "id": 679529,
               "name": "Spencer Torkelson",
-              "ops": 1.052,
+              "ops": 1.059,
               "avg": 0.393
             },
             {
               "id": 595879,
               "name": "Javier Báez",
-              "ops": 0.599,
-              "avg": 0.158
+              "ops": 0.586,
+              "avg": 0.15
             },
             {
               "id": 807726,
@@ -1236,9 +1236,9 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "hot",
           "last5_rpg": 4.4,
-          "last5_avg": 0.295,
+          "last5_avg": 0.296,
           "home_split": {
-            "recent_avg": 0.248,
+            "recent_avg": 0.249,
             "runs_per_g": 5.1,
             "hr_per_g": 1.2,
             "n_games": 10
@@ -1251,13 +1251,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 52.6,
-        "total": 43.8
+        "total": 44.1
       }
     },
     "scores": {
-      "away_offense": 26.8,
-      "away_defense": 36.9,
-      "home_offense": 35.3,
+      "away_offense": 26.5,
+      "away_defense": 36.8,
+      "home_offense": 36.3,
       "home_defense": 47.9
     },
     "actual_score": {
@@ -1283,7 +1283,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 0.6pt (≤5.0pt)",
+    "low_confidence_reason": "SP 점수 차이 0.7pt (≤5.0pt)",
     "model_version": "v15"
   },
   {
