@@ -974,8 +974,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 53.4,
-      "home": 46.6
+      "away": 53.3,
+      "home": 46.7
     },
     "expected_score": {
       "away": 1.9,
@@ -1205,9 +1205,9 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.58,
           "closer_name": "David Bednar"
         },
-        "bat_score": 37.7,
+        "bat_score": 38.0,
         "bat_detail": {
-          "recent_avg": 0.285,
+          "recent_avg": 0.288,
           "runs_per_g": 5.8,
           "hr_per_g": 1.7,
           "bb_per_g": 2.5,
@@ -1216,10 +1216,10 @@ window.PREDICTIONS_DATA = [
           "season_slg": 0.4,
           "n_games": 10,
           "last5_rpg": 4.4,
-          "last5_avg": 0.261,
+          "last5_avg": 0.268,
           "bat_trend": "cold",
           "home_split": {
-            "recent_avg": 0.285,
+            "recent_avg": 0.288,
             "runs_per_g": 5.8,
             "hr_per_g": 1.7,
             "bb_per_g": 2.5,
@@ -1228,7 +1228,7 @@ window.PREDICTIONS_DATA = [
             "season_slg": 0.4,
             "n_games": 10,
             "last5_rpg": 4.4,
-            "last5_avg": 0.261,
+            "last5_avg": 0.268,
             "bat_trend": "cold"
           },
           "away_split": {
@@ -1246,13 +1246,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 56.5,
-        "total": 52.5
+        "total": 52.6
       }
     },
     "scores": {
       "away_offense": 29.5,
       "away_defense": 73.3,
-      "home_offense": 37.7,
+      "home_offense": 38.0,
       "home_defense": 60.5
     },
     "actual_score": {
@@ -1280,10 +1280,10 @@ window.PREDICTIONS_DATA = [
       "sp_favors": "Tampa Bay Rays",
       "bat_favors": "New York Yankees",
       "sp_gap": 21.8,
-      "bat_gap": -8.2
+      "bat_gap": -8.5
     },
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 53.4% (≤58.0%)",
+    "low_confidence_reason": "최고 확률 53.3% (≤58.0%)",
     "model_version": "v15"
   },
   {
