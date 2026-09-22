@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-22T22:20:20.797981+00:00",
+  "updated_at": "2026-09-22T22:51:19.159310+00:00",
   "news": [
     {
-      "title": "LIVE: Mets manager Green discusses new 3-year deal",
+      "title": "Andy Green to stay on as Mets manager, signs 3-year contract",
       "link": "https://www.mlb.com/news/andy-green-named-mets-manager-on-3-year-contract",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/to4l9uxmrzuu7olgn3ij",
@@ -11,8 +11,34 @@
       "author": "Anthony DiComo",
       "tag": "Trade",
       "tag_color": "#7C3AED",
-      "pub_date": "2026-09-22T21:41:00+00:00",
-      "time_ago": "39m ago"
+      "pub_date": "2026-09-22T22:36:00+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "96 mph and feeling good, Crochet closes in on return",
+      "link": "https://www.mlb.com/news/garrett-crochet-live-bp-red-sox-return-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tarq3jedo9mglod0dvph",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-22T22:31:27+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Luzardo (shoulder) plays catch; return to mound TBD",
+      "link": "https://www.mlb.com/news/jesus-luzardo-plays-catch-managing-shoulder-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kyxbrpkmy6nx1fwcqb7q",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-22T22:18:07+00:00",
+      "time_ago": "33m ago"
     },
     {
       "title": "Tracy loses interim tag, named Red Sox's 49th manager; club picks up options on Breslow",
@@ -25,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-22T21:40:00+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Injuries: Bregman, Cease, Vlad Jr., Judge, Red Sox, Verlander",
@@ -38,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-22T21:39:00+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Verlander set for sendoff he deserves: One last start at Comerica",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T21:36:06+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Deadline acquisition Doval DFA'd by Pirates; Yates activated off IL",
@@ -64,10 +90,10 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-22T21:24:00+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "1h ago"
     },
     {
-      "title": "Bregman won't go on IL; regular season return not ruled out",
+      "title": "Bregman (facial fractures) won't need IL, could return this weekend",
       "link": "https://www.mlb.com/news/alex-bregman-cubs-facial-fractures-postseason-return",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/joqoepakc23m2ajr8hpe",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T21:20:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Rodón staves off Rays' clinch with 8 dominant frames in DH opener",
-      "link": "https://www.mlb.com/news/carlos-rodon-blanks-rays-over-eight-strong-innings-for-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/st1cdrsck8rjgu7z8ej8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-22T20:38:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Dodgers activate Pages, Sasaki before Padres series",
-      "link": "https://www.mlb.com/news/andy-pages-roki-sasaki-activated-by-dodgers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e267z4sk8wferdplfnao",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-22T20:17:00+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
