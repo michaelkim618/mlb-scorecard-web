@@ -1,17 +1,17 @@
 {
-  "title": "Sep 21 Results + Sep 22 Preview: 66.7% Hit Rate Keeps the Momentum Rolling",
-  "summary": "2-1 on Sep 21 with 66.7% accuracy. Tomorrow's top pick: Rays at 52% vs Yankees.",
+  "title": "Sep 21 Results + Sep 22 Preview: 66.7% Win Rate, Model Locked In",
+  "summary": "2-1 performance on Sep 21. Breaking down the numbers and tomorrow's Rays-Yankees edge.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Sep 21 Results: The Numbers Don't Lie\n\nLet me break down yesterday's performance. We went 2-1 across three games, posting a 66.7% accuracy rate. That's exactly what sustainable profitability looks like in baseball analytics—you don't need to be perfect, you just need to be right more often than you're wrong."
+      "value": "## Sep 21 Results: The Numbers Don't Lie\n\nLet's dive into yesterday's performance. 2 wins, 1 loss, 66.7% accuracy. The model delivered exactly what we're looking for - staying above the critical 60% threshold that separates profitable systems from noise."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Overall Record",
+          "label": "Sep 21 W-L",
           "value": "2-1"
         },
         {
@@ -19,55 +19,20 @@
           "value": "66.7%"
         },
         {
-          "label": "Games Analyzed",
-          "value": "3"
+          "label": "Hits",
+          "value": "2"
+        },
+        {
+          "label": "Misses",
+          "value": "1"
         }
       ]
     },
     {
-      "type": "table",
-      "title": "Sep 21 Game-by-Game Breakdown",
-      "headers": [
-        "Matchup",
-        "Our Pick",
-        "Confidence",
-        "Result"
-      ],
-      "rows": [
-        [
-          "Jays @ Orioles",
-          "Blue Jays",
-          "51%",
-          "✗"
-        ],
-        [
-          "Nationals @ Tigers",
-          "Tigers",
-          "62%",
-          "✓"
-        ],
-        [
-          "Twins @ Giants",
-          "Giants",
-          "50%",
-          "✓"
-        ]
-      ]
-    },
-    {
-      "type": "text",
-      "value": "## What the Data Tells Us\n\nThe Jays-Orioles miss at 51% confidence? That's essentially a coin flip, and those happen. But look at the Tigers pick at 62%—that's where our model showed real edge, and it delivered. The Giants squeaked by at 50% confidence, which I always consider borderline, but a win is a win in this business.\n\nThe key metric here: our highest confidence pick (Tigers at 62%) hit. That's what matters most when you're tracking long-term value."
-    },
-    {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 21 Confidence vs Results",
+      "title": "Sep 21 Prediction Performance",
       "data": [
-        {
-          "name": "Blue Jays",
-          "probability": 51,
-          "result": 0
-        },
         {
           "name": "Tigers",
           "probability": 62,
@@ -77,6 +42,11 @@
           "name": "Giants",
           "probability": 50,
           "result": 1
+        },
+        {
+          "name": "Jays",
+          "probability": 51,
+          "result": 0
         }
       ],
       "x_key": "name",
@@ -94,40 +64,78 @@
       ]
     },
     {
+      "type": "table",
+      "title": "Complete Sep 21 Game Results",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Outcome"
+      ],
+      "rows": [
+        [
+          "Jays @ Orioles",
+          "Blue Jays",
+          "51%",
+          "✗ Miss"
+        ],
+        [
+          "Nationals @ Tigers",
+          "Tigers",
+          "62%",
+          "✓ Hit"
+        ],
+        [
+          "Twins @ Giants",
+          "Giants",
+          "50%",
+          "✓ Hit"
+        ]
+      ]
+    },
+    {
       "type": "text",
-      "value": "## Sep 22 Preview: Tomorrow's Slate\n\nNow let's talk about where the value is for Sep 22. After running the numbers on tomorrow's games, one matchup stands out from an analytical perspective."
+      "value": "## Breaking Down The Performance\n\nThe Tigers pick at 62% confidence was our strongest signal - and it delivered. The Giants squeaker at 50% could've gone either way, but variance worked in our favor. The Jays miss at 51%? That's basically a coin flip, and we landed on the wrong side. When you're operating at 51% confidence, you expect to lose 49% of the time. That's just probability math."
+    },
+    {
+      "type": "text",
+      "value": "## Sep 22 Preview: Rays @ Yankees Analysis\n\nTomorrow's top pick shows a 52% edge on the Tampa Bay Rays heading into Yankee Stadium. Here's what the data is telling us about this matchup."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Tomorrow's Top Pick - Sep 22",
       "value": "Tampa Bay Rays @ New York Yankees",
-      "sub": "Pick: Rays • 52% Win Probability • Martinez vs Rodón"
+      "sub": "Pick: Rays 52% | Nick Martinez vs Carlos Rodón"
     },
     {
       "type": "text",
-      "value": "## The Numbers on Rays-Yankees\n\nThis is another 52% probability situation—slim edge, but an edge nonetheless. Nick Martinez takes the ball for Tampa Bay against Carlos Rodón for the Yankees.\n\nHere's what I'm seeing: 52% isn't a screaming play, but it represents value when you consider the likely betting line. The model sees something in this matchup that creates a narrow but legitimate advantage for the Rays.\n\nMartinez has been steady, and while Rodón has the name recognition, the underlying metrics suggest this game is closer than public perception might indicate. That's where we find our edge—in the gap between perception and reality."
+      "value": "## The Pitching Matchup By The Numbers\n\nNick Martinez takes the ball for Tampa Bay against Carlos Rodón for the Yankees. At 52% confidence, this is another tight projection - we're looking at marginal edges here, not blowout predictions. The model sees something in this matchup that tilts slightly toward the Rays, even on the road in the Bronx.\n\nThese sub-55% picks require volume to show profitability. One game means nothing. A hundred games at 52% win rate? That's where the edge materializes."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Rays Win Prob",
+          "label": "Pick",
+          "value": "Rays"
+        },
+        {
+          "label": "Confidence",
           "value": "52%"
         },
         {
-          "label": "Edge Type",
-          "value": "Narrow"
+          "label": "Away SP",
+          "value": "Martinez"
         },
         {
-          "label": "Confidence Level",
-          "value": "Low-Mid"
+          "label": "Home SP",
+          "value": "Rodón"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## Bottom Line\n\nSep 21 delivered a profitable 66.7% day. Sep 22's top pick sits at 52% for the Rays—it's not a slam dunk, but the data shows a slight edge. That's all we need over the long haul.\n\nStay analytical out there."
+      "value": "## The Bottom Line\n\nSep 21 gave us 66.7% accuracy on a small sample. Sep 22 brings a marginal edge in Tampa Bay. I'm not here to sell you certainty - I'm here to show you where the numbers lean. Stay disciplined, trust the process, and let the law of large numbers work in your favor.\n\nCheck back tomorrow for the Sep 22 results breakdown."
     }
   ],
   "slug": "2026-09-21-daily-stan",
