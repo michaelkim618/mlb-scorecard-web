@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-22T21:12:04.581144+00:00",
+  "updated_at": "2026-09-22T21:32:33.521115+00:00",
   "news": [
+    {
+      "title": "Bregman won't go on IL; regular season return not ruled out",
+      "link": "https://www.mlb.com/news/alex-bregman-cubs-facial-fractures-postseason-return",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/joqoepakc23m2ajr8hpe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-22T21:20:00+00:00",
+      "time_ago": "12m ago"
+    },
     {
       "title": "Rodón staves off Rays' clinch with 8 dominant frames in DH opener",
       "link": "https://www.mlb.com/news/carlos-rodon-blanks-rays-over-eight-strong-innings-for-yankees",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T20:38:00+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "Andy Green to stay on as Mets manager, signs 3-year contract",
@@ -25,7 +38,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-09-22T20:30:39+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Dodgers activate Pages, Sasaki before Padres series",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T20:17:00+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Scott's season over with knee inflammation; Williams returns",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T19:15:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "How weather in Boston could affect a series vs. Cubs with seeding implications",
-      "link": "https://www.mlb.com/news/cubs-red-sox-series-weather-implications",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jvaam7qwqtauobshrdk2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-22T18:57:48+00:00",
       "time_ago": "2h ago"
     }
   ]
