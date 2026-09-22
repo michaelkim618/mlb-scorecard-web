@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-09-22T20:02:36.637074+00:00",
+  "updated_at": "2026-09-22T20:21:56.140372+00:00",
   "news": [
     {
-      "title": "Deadline acquistion Doval DFA'd by Pirates; Yates activated off IL",
-      "link": "https://www.mlb.com/news/camilo-doval-designated-for-assignment-pirates",
+      "title": "Dodgers activate Pages, Sasaki before Padres series",
+      "link": "https://www.mlb.com/news/andy-pages-roki-sasaki-activated-by-dodgers",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790098861/mlb/vjchys0q3bpx2xlrkhnh",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e267z4sk8wferdplfnao",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-22T19:47:00+00:00",
-      "time_ago": "15m ago"
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-22T20:17:00+00:00",
+      "time_ago": "4m ago"
     },
     {
       "title": "Martinez holds strong, but Rays miss 1st chance at AL East title",
@@ -24,8 +24,21 @@
       "author": "Adam Berry",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-22T19:34:04+00:00",
-      "time_ago": "28m ago"
+      "pub_date": "2026-09-22T19:54:00+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "Deadline acquistion Doval DFA'd by Pirates; Yates activated off IL",
+      "link": "https://www.mlb.com/news/camilo-doval-designated-for-assignment-pirates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790098861/mlb/vjchys0q3bpx2xlrkhnh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-22T19:47:00+00:00",
+      "time_ago": "34m ago"
     },
     {
       "title": "Rodón staves off Rays' clinch with 8 dominant frames in DH opener",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T19:24:37+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "These 9 series starting tonight will help determine postseason picture",
@@ -51,20 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T19:15:00+00:00",
-      "time_ago": "47m ago"
-    },
-    {
-      "title": "Dodgers activate Pages, Sasaki before Padres series",
-      "link": "https://www.mlb.com/news/andy-pages-roki-sasaki-activated-by-dodgers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e267z4sk8wferdplfnao",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-22T19:10:29+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "How weather in Boston could affect a series vs. Cubs with seeding implications",
