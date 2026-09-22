@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-22T00:57:58.297995+00:00",
+  "updated_at": "2026-09-22T01:23:37.192995+00:00",
   "news": [
+    {
+      "title": "Fifth Third's first star? Naturally, it's No. 53",
+      "link": "https://www.mlb.com/news/ben-malgeri-homer-catches-tigers-fifth-third-park",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ewim10zam1ghtyj9g2ig",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-22T01:07:48+00:00",
+      "time_ago": "15m ago"
+    },
     {
       "title": "Here are the Minor League champions of the 2026 season",
       "link": "https://www.mlb.com/news/2026-minor-league-champions",
@@ -25,7 +38,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-21T22:13:12+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Cease uncertain for remainder of '26 after MRI reveals shoulder inflammation",
@@ -91,19 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-21T20:30:06+00:00",
       "time_ago": "4h ago"
-    },
-    {
-      "title": "Tigers' home ballpark renamed to Fifth Third Park",
-      "link": "https://www.mlb.com/news/tigers-ballpark-name-changed-to-fifth-third-park",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uhofic70miq70tr6ipfb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Beck",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-21T19:37:00+00:00",
-      "time_ago": "5h ago"
     }
   ]
 }
