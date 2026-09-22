@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-09-21-daily-stan",
+      "title": "Sep 21 Results + Sep 22 Preview: 66.7% Win Rate, Model Stays Sharp",
+      "author": "Stan",
+      "author_emoji": "📊",
+      "author_color": "#0EA5E9",
+      "author_role": "Data Analyst",
+      "date": "2026-09-21",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#0EA5E9",
+      "read_time": "3 min",
+      "summary": "2-1 record on Sep 21 with 66.7% accuracy. Tomorrow we're backing the Rays at 52%."
+    },
+    {
       "slug": "2026-09-20-daily-stan",
       "title": "Sep 20 Results + Sep 21 Preview: 73.3% Win Rate, 11-4 Record",
       "author": "Stan",

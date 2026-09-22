@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-22T12:42:29.217583+00:00",
+  "updated_at": "2026-09-22T13:12:36.658160+00:00",
   "news": [
+    {
+      "title": "Inside this Pirates prospect's 3-level rise in first pro season",
+      "link": "https://www.mlb.com/news/murf-gray-rises-through-3-levels-in-first-minors-season-with-pirates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/o8kea1litwzta9hbpcym",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-22T12:51:38+00:00",
+      "time_ago": "20m ago"
+    },
     {
       "title": "Here are the 2026 Minor League stat leaders",
       "link": "https://www.mlb.com/news/minor-league-baseball-statistical-leaders-2026",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T05:00:00+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "8h ago"
     },
     {
       "title": "'Iiiit's outta here!' Mike Krukow channels partner Duane Kuiper on HR call",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T04:00:00+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "Fifth Third's first star? Naturally, it's No. 53",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T03:43:00+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "Alonso's 40th HR creates 21st night of September to remember for O's",
@@ -77,7 +90,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-09-22T03:00:55+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "Wait ‘til next year: 6 candidates to achieve their postseason hopes ... in 2027",
@@ -90,20 +103,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-22T02:56:58+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "Rogers bit with rare HR as Blue Jays’ Wild Card chances dwindle",
-      "link": "https://www.mlb.com/news/tyler-rogers-allows-go-ahead-home-run-blue-jays-lose-ground-in-al-wild-card",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ncviw7ybsj6jcinjuy6a",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-22T02:50:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     }
   ]
 }
