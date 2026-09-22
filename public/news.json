@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-22T20:21:56.140372+00:00",
+  "updated_at": "2026-09-22T21:12:04.581144+00:00",
   "news": [
+    {
+      "title": "Rodón staves off Rays' clinch with 8 dominant frames in DH opener",
+      "link": "https://www.mlb.com/news/carlos-rodon-blanks-rays-over-eight-strong-innings-for-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/st1cdrsck8rjgu7z8ej8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-22T20:38:00+00:00",
+      "time_ago": "34m ago"
+    },
+    {
+      "title": "Andy Green to stay on as Mets manager, signs 3-year contract",
+      "link": "https://www.mlb.com/news/andy-green-named-mets-manager-on-3-year-contract",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/to4l9uxmrzuu7olgn3ij",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-09-22T20:30:39+00:00",
+      "time_ago": "41m ago"
+    },
     {
       "title": "Dodgers activate Pages, Sasaki before Padres series",
       "link": "https://www.mlb.com/news/andy-pages-roki-sasaki-activated-by-dodgers",
@@ -12,7 +38,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T20:17:00+00:00",
-      "time_ago": "4m ago"
+      "time_ago": "55m ago"
+    },
+    {
+      "title": "Scott's season over with knee inflammation; Williams returns",
+      "link": "https://www.mlb.com/news/christian-scott-to-injured-list-devin-williams-activated",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lljretfz7uhkpepvmfww",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-22T20:03:13+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Martinez holds strong, but Rays miss 1st chance at AL East title",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T19:54:00+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Deadline acquistion Doval DFA'd by Pirates; Yates activated off IL",
@@ -38,20 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-22T19:47:00+00:00",
-      "time_ago": "34m ago"
-    },
-    {
-      "title": "Rodón staves off Rays' clinch with 8 dominant frames in DH opener",
-      "link": "https://www.mlb.com/news/carlos-rodon-blanks-rays-over-eight-strong-innings-for-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/st1cdrsck8rjgu7z8ej8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-22T19:24:37+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "These 9 series starting tonight will help determine postseason picture",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T18:57:48+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Blue Jays-O's game postponed; split doubleheader Wednesday",
-      "link": "https://www.mlb.com/news/blue-jays-orioles-september-22-game-postponed",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/fll8nfctxnipyqmiqukz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-22T17:55:09+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "No one's ever won an RBI title in both leagues. That could change this year",
-      "link": "https://www.mlb.com/news/pete-alonso-lead-both-leagues-in-rbis",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oe2q4isp5l5vsoz1qxku",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "David Adler",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-22T17:28:27+00:00",
       "time_ago": "2h ago"
     }
   ]
