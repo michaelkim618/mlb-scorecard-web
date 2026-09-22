@@ -1915,9 +1915,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "San Francisco Giants",
     "model_winner": "Minnesota Twins",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Minnesota Twins IL: Anthony Banda, Byron Buxton, Cole Sands, David Festa, Kaelen Culpepper 외 다수 / San Francisco Giants IL: Adrian Houser, Bryce Eldridge, Carson Whisenhunt, Casey Schmitt, Daniel Susac 외 다수",
     "kalshi_prob": 47.0,
     "edge": -7.6,
