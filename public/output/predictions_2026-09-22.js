@@ -1,4 +1,5 @@
-[
+// Auto-generated (scorecard) — 2026-09-22
+window.PREDICTIONS_DATA = [
   {
     "date": "2026-09-22",
     "status": "Preview",
@@ -10436,4 +10437,4 @@
     "low_confidence_reason": "최고 확률 53.8% (≤58.0%)",
     "model_version": "v15"
   }
-]
+];
