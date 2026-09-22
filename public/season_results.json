@@ -15433,6 +15433,30 @@
       "away_bp_score": 38.5,
       "home_bp_score": 37.4,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-22",
+      "away": "Tampa Bay Rays",
+      "home": "New York Yankees",
+      "game_number": 1,
+      "pick": "Tampa Bay Rays",
+      "pick_prob": 52.3,
+      "actual_winner": "New York Yankees",
+      "away_score": 0,
+      "home_score": 2,
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "hot",
+      "away_sp_era": 3.6,
+      "home_sp_era": 2.98,
+      "away_bp_era": 2.76,
+      "home_bp_era": 2.99,
+      "away_sp_score": 63.2,
+      "home_sp_score": 51.5,
+      "away_bp_score": 75.0,
+      "home_bp_score": 70.9,
+      "bat_source": "team_stats"
     }
   ]
 }

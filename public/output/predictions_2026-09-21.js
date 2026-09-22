@@ -14,14 +14,14 @@ window.PREDICTIONS_DATA = [
       "div_name": "AL East",
       "wins": 77,
       "losses": 80,
-      "games_back": "19.0"
+      "games_back": "18.5"
     },
     "home_standing": {
       "div_rank": 5,
       "div_name": "AL East",
       "wins": 76,
       "losses": 81,
-      "games_back": "20.0"
+      "games_back": "19.5"
     },
     "away_recent_form": {
       "games": [
@@ -877,7 +877,7 @@ window.PREDICTIONS_DATA = [
       "home": 61.5
     },
     "expected_score": {
-      "away": 1.7,
+      "away": 1.9,
       "home": 3.1
     },
     "blend_detail": null,
@@ -896,7 +896,7 @@ window.PREDICTIONS_DATA = [
         "sit": 0.15
       },
       "away": {
-        "sp_score": 29.0,
+        "sp_score": 29.6,
         "sp_detail": {
           "era": 9.0,
           "whip": 1.75,
@@ -956,7 +956,7 @@ window.PREDICTIONS_DATA = [
           ],
           "single_sample_capped": true
         },
-        "bp_score": 38.9,
+        "bp_score": 39.7,
         "bp_detail": {
           "bullpen_era": 4.66,
           "recent_era": 4.55,
@@ -968,14 +968,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 3.65,
           "closer_name": "Erik Tolman"
         },
-        "bat_score": 25.0,
+        "bat_score": 28.2,
         "bat_detail": {
           "recent_avg": 0.242,
           "runs_per_g": 4.6,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
           "season_ops": 0.698,
-          "season_slg": 0.365,
+          "season_slg": null,
           "season_avg": 0.242,
           "n_games": 9,
           "source": "prev_day",
@@ -1065,7 +1065,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 42.0,
-        "total": 31.6
+        "total": 33.0
       },
       "home": {
         "sp_score": 30.0,
@@ -1154,14 +1154,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 3.35,
           "closer_name": "Kenley Jansen"
         },
-        "bat_score": 39.7,
+        "bat_score": 40.2,
         "bat_detail": {
           "recent_avg": 0.261,
           "runs_per_g": 5.9,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
           "season_ops": 0.766,
-          "season_slg": 0.395,
+          "season_slg": null,
           "season_avg": 0.261,
           "n_games": 9,
           "source": "prev_day",
@@ -1251,13 +1251,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 52.6,
-        "total": 45.2
+        "total": 45.3
       }
     },
     "scores": {
-      "away_offense": 25.0,
-      "away_defense": 35.4,
-      "home_offense": 39.7,
+      "away_offense": 28.2,
+      "away_defense": 36.2,
+      "home_offense": 40.2,
       "home_defense": 47.9
     },
     "actual_score": {
@@ -1283,7 +1283,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 1.0pt (≤5.0pt)",
+    "low_confidence_reason": "SP 점수 차이 0.4pt (≤5.0pt)",
     "model_version": "v15"
   },
   {

@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-22T19:04:07.257196+00:00",
+  "updated_at": "2026-09-22T19:27:02.193402+00:00",
   "news": [
+    {
+      "title": "Rodón staves off Rays' clinch with 8 dominant frames in DH opener",
+      "link": "https://www.mlb.com/news/carlos-rodon-blanks-rays-over-eight-strong-innings-for-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/st1cdrsck8rjgu7z8ej8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-22T19:24:37+00:00",
+      "time_ago": "2m ago"
+    },
+    {
+      "title": "These 9 series starting tonight will help determine postseason picture",
+      "link": "https://www.mlb.com/news/mlb-series-to-watch-week-of-sept-21-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zheifr3m2m678yy9q2q0",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-22T19:15:00+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Dodgers activate Pages, Sasaki before Padres series",
+      "link": "https://www.mlb.com/news/andy-pages-roki-sasaki-activated-by-dodgers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e267z4sk8wferdplfnao",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-22T19:10:29+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "How weather in Boston could affect a series vs. Cubs with seeding implications",
+      "link": "https://www.mlb.com/news/cubs-red-sox-series-weather-implications",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jvaam7qwqtauobshrdk2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-22T18:57:48+00:00",
+      "time_ago": "29m ago"
+    },
     {
       "title": "Blue Jays-O's game postponed; split doubleheader Wednesday",
       "link": "https://www.mlb.com/news/blue-jays-orioles-september-22-game-postponed",
@@ -52,58 +104,6 @@
       "tag_color": "#DC2626",
       "pub_date": "2026-09-22T16:47:00+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Under-the-radar prospects to watch in the Arizona Fall League",
-      "link": "https://www.mlb.com/news/arizona-fall-league-under-the-radar-prospects",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lmlpch1xajwbavenrbhv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jim Callis",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-22T16:36:16+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "A 3-way tie for NL Wild Card is in play. Here's how it would shake out",
-      "link": "https://www.mlb.com/news/who-would-win-a-3-way-tie-in-the-nl-wild-card",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x1juj2ot9wkuj3wfdio4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Andrew Simon",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-22T16:25:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "'Going to fight': D-backs eye playoffs as regular season winds down",
-      "link": "https://www.mlb.com/news/diamondbacks-fighting-for-playoff-spot",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c7wsdtyxwf7eaq03lauk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-22T15:30:50+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Red Sox award Tracy with 3-year deal; Breslow's options for '29, '30 picked up",
-      "link": "https://www.mlb.com/news/chad-tracy-agrees-to-contract-with-red-sox-craig-breslow-options-picked-up",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/b2spfydgcms53xbnapoh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-09-22T15:09:04+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
