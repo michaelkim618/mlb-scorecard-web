@@ -5,10 +5,12 @@
   "results": false,
   "lineup_refreshed": [
     "10:05",
-    "15:35"
+    "15:35",
+    "17:40"
   ],
   "predictions_frozen": [
-    "10:05"
+    "10:05",
+    "17:40"
   ],
   "frozen_predictions": {
     "10:05": [
@@ -25,6 +27,23 @@
         "sp_bat_conflict_detail": null,
         "low_confidence": true,
         "low_confidence_reason": "최고 확률 52.3% (≤58.0%)",
+        "extreme_edge": false
+      }
+    ],
+    "17:40": [
+      {
+        "game_pk": "824302",
+        "win_prob": {
+          "away": 63.0,
+          "home": 37.0
+        },
+        "model_winner": "Arizona Diamondbacks",
+        "value_bet": "⭐ 고신뢰 예측 — 모델·시장 동의 (Arizona Diamondbacks 63%)",
+        "edge": 2.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
         "extreme_edge": false
       }
     ]
