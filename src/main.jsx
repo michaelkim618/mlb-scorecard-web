@@ -9,17 +9,20 @@ import BlogListPage from './pages/BlogListPage.jsx'
 import BlogPostPage from './pages/BlogPostPage.jsx'
 import CommunityPage from './pages/CommunityPage.jsx'
 import DevAuthSwitcher from './components/DevAuthSwitcher.jsx'
+import AuthGate from './components/AuthGate.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<App />} />
-        <Route path="/blog" element={<BlogListPage />} />
-        <Route path="/blog/:slug" element={<BlogPostPage />} />
-        <Route path="/community" element={<CommunityPage />} />
-      </Routes>
-      {import.meta.env.DEV && <DevAuthSwitcher />}
+      <AuthGate>
+        <Routes>
+          <Route path="/" element={<App />} />
+          <Route path="/blog" element={<BlogListPage />} />
+          <Route path="/blog/:slug" element={<BlogPostPage />} />
+          <Route path="/community" element={<CommunityPage />} />
+        </Routes>
+        {import.meta.env.DEV && <DevAuthSwitcher />}
+      </AuthGate>
     </BrowserRouter>
   </StrictMode>,
 )
