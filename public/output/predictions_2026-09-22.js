@@ -1282,10 +1282,10 @@ window.PREDICTIONS_DATA = [
             "Ben Rice(1.019)",
             "Cody Bellinger(0.792)",
             "Heliot Ramos(0.787)",
-            "Luis García Jr.(0.603)",
+            "Luis García(0.603)",
             "Spencer Jones(0.660)",
-            "Jazz Chisholm Jr.(0.789)",
-            "George Lombard Jr.(0.700)",
+            "Jazz Chisholm(0.789)",
+            "George Lombard(0.700)",
             "Austin Wells(0.774)",
             "Ryan McMahon(0.479)"
           ],
@@ -1310,7 +1310,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671277,
-              "name": "Luis García Jr.",
+              "name": "Luis García",
               "ops": 0.603,
               "avg": 0.15
             },
@@ -1322,13 +1322,13 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 665862,
-              "name": "Jazz Chisholm Jr.",
+              "name": "Jazz Chisholm",
               "ops": 0.789,
               "avg": 0.333
             },
             {
               "id": 806146,
-              "name": "George Lombard Jr.",
+              "name": "George Lombard",
               "ops": 0.7,
               "avg": 0.256
             },
@@ -2753,7 +2753,7 @@ window.PREDICTIONS_DATA = [
             "Brandon Lowe(0.891)",
             "Bryan Reynolds(0.743)",
             "Oneil Cruz(0.859)",
-            "Rafael Flores Jr.(0.996)",
+            "Rafael Flores(0.996)",
             "Ryan O'Hearn(0.669)",
             "Ronny Simon(0.738)",
             "Spencer Horwitz(0.708)",
@@ -2786,7 +2786,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 804668,
-              "name": "Rafael Flores Jr.",
+              "name": "Rafael Flores",
               "ops": 0.996,
               "avg": 0.394
             },
@@ -5042,11 +5042,11 @@ window.PREDICTIONS_DATA = [
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Ronald Acuña Jr.(0.972)",
+            "Ronald Acuña(0.972)",
             "Drake Baldwin(0.899)",
             "Matt Olson(0.847)",
             "Ozzie Albies(0.558)",
-            "Michael Harris II(0.859)",
+            "Michael Harris(0.859)",
             "Mauricio Dubón(0.838)",
             "Austin Riley(0.602)",
             "Sean Murphy(0.386)",
@@ -5055,7 +5055,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 660670,
-              "name": "Ronald Acuña Jr.",
+              "name": "Ronald Acuña",
               "ops": 0.972,
               "avg": 0.342
             },
@@ -5079,7 +5079,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671739,
-              "name": "Michael Harris II",
+              "name": "Michael Harris",
               "ops": 0.859,
               "avg": 0.357
             },
@@ -5809,7 +5809,7 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Carter Jensen(0.873)",
-            "Bobby Witt Jr.(0.754)",
+            "Bobby Witt(0.754)",
             "Jac Caglianone(0.738)",
             "Maikel Garcia(0.659)",
             "Vinnie Pasquantino(0.923)",
@@ -5827,7 +5827,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 677951,
-              "name": "Bobby Witt Jr.",
+              "name": "Bobby Witt",
               "ops": 0.754,
               "avg": 0.289
             },
@@ -6391,7 +6391,7 @@ window.PREDICTIONS_DATA = [
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Heriberto Hernández(0.663)",
+            "Heriberto Hernandez(0.663)",
             "Otto Lopez(0.797)",
             "Kyle Stowers(0.716)",
             "Javier Sanoja(0.868)",
@@ -6404,7 +6404,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 681715,
-              "name": "Heriberto Hernández",
+              "name": "Heriberto Hernandez",
               "ops": 0.663,
               "avg": 0.25
             },
@@ -10908,7 +10908,7 @@ window.PREDICTIONS_DATA = [
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis Jr.(0.936)",
+            "Fernando Tatis(0.936)",
             "Dustin Harris(0.761)",
             "Manny Machado(0.634)",
             "Ty France(0.947)",
@@ -10921,7 +10921,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis Jr.",
+              "name": "Fernando Tatis",
               "ops": 0.936,
               "avg": 0.293
             },
@@ -11954,8 +11954,8 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Baltimore Orioles",
     "model_correct": null,
     "notes": "Toronto Blue Jays IL: Addison Barger, Anthony Santander, Bowden Francis, Cody Ponce, Jake Bloss 외 다수 / Baltimore Orioles IL: Blaze Alexander, Colin Selby, Jackson Holliday, Jordan Westburg, Keegan Akin 외 다수",
-    "kalshi_prob": 54.0,
-    "edge": -3.9,
+    "kalshi_prob": 53.0,
+    "edge": -2.9,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
