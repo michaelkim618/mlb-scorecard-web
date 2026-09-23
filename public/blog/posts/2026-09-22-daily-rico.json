@@ -1,0 +1,206 @@
+{
+  "title": "Sep 22 Results + Sep 23 Preview: 60% Ain't Great But These Misses Sting",
+  "summary": "9-6 on Sep 22. Let me be honest: some of these losses were straight embarrassing.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Let Me Be Honest About Today\n\nA 60% hit rate sounds respectable on paper, but let's cut through the noise—some of these misses were absolutely brutal. We went 9-6 on September 22nd, and while that's not a disaster, the *way* we lost some of these games? That's the real story nobody wants to talk about."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Sep 22 W-L",
+          "value": "9-6"
+        },
+        {
+          "label": "Accuracy",
+          "value": "60.0%"
+        },
+        {
+          "label": "Wins",
+          "value": "9"
+        },
+        {
+          "label": "Losses",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Ugly Truth About Today's Results\n\nHere's what nobody in the analytics community wants to admit: we got our teeth kicked in on some low-confidence picks that shouldn't have even been close. The Rangers at 50%? The Braves at 51%? Those are coin flips, and coin flips betrayed us today.\n\nBut what really burns? Missing on the Cubs at 61% and the Tigers at 62%. Those were *supposed* to be our bread and butter. Instead, they were our worst nightmare."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Sep 22 Prediction Results by Confidence",
+      "data": [
+        {
+          "name": "Rays (52%)",
+          "probability": 52,
+          "result": 0
+        },
+        {
+          "name": "Rays (61%)",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Tigers (62%)",
+          "probability": 62,
+          "result": 0
+        },
+        {
+          "name": "Pirates (62%)",
+          "probability": 62,
+          "result": 1
+        },
+        {
+          "name": "Brewers (54%)",
+          "probability": 54,
+          "result": 0
+        },
+        {
+          "name": "Guardians (53%)",
+          "probability": 53,
+          "result": 1
+        },
+        {
+          "name": "Braves (51%)",
+          "probability": 51,
+          "result": 0
+        },
+        {
+          "name": "Sox (52%)",
+          "probability": 52,
+          "result": 1
+        },
+        {
+          "name": "Cubs (61%)",
+          "probability": 61,
+          "result": 0
+        },
+        {
+          "name": "Rangers (50%)",
+          "probability": 50,
+          "result": 0
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Hit, 0=Miss)"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Complete Sep 22 Results Breakdown",
+      "headers": [
+        "Game",
+        "Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Rays @ Yankees",
+          "Rays",
+          "52%",
+          "✗"
+        ],
+        [
+          "Rays @ Yankees",
+          "Rays",
+          "61%",
+          "✓"
+        ],
+        [
+          "Nationals @ Tigers",
+          "Tigers",
+          "62%",
+          "✗"
+        ],
+        [
+          "Cardinals @ Pirates",
+          "Pirates",
+          "62%",
+          "✓"
+        ],
+        [
+          "Brewers @ Phillies",
+          "Brewers",
+          "54%",
+          "✗"
+        ],
+        [
+          "Guardians @ Sox",
+          "Guardians",
+          "53%",
+          "✓"
+        ],
+        [
+          "Reds @ Braves",
+          "Braves",
+          "51%",
+          "✗"
+        ],
+        [
+          "Sox @ Royals",
+          "Sox",
+          "52%",
+          "✓"
+        ],
+        [
+          "Marlins @ Cubs",
+          "Cubs",
+          "61%",
+          "✗"
+        ],
+        [
+          "Mets @ Rangers",
+          "Rangers",
+          "50%",
+          "✗"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Controversy: Are We Trusting Bad Data?\n\nHere's the hot take: maybe our confidence levels are lying to us. When you miss on 62% picks and hit on 52% picks, something's fundamentally broken in the model. Either the probabilities mean nothing, or we're reading the wrong signals from the data.\n\nI'm not saying burn it all down, but let's stop pretending every percentage point matters when a 50% pick and a 62% pick have the same outcome."
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Top Pick: Back to Detroit\n\nYou know what's wild? After the Tigers embarrassed us today at 62% confidence, we're running it back tomorrow. Washington Nationals at Detroit Tigers, and we're taking Detroit at 61%.\n\nFramber Valdez on the mound for Detroit against Richard Lovelady. On paper, this is a mismatch. In reality? We just watched this exact scenario blow up in our faces 24 hours ago."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Sep 23 Top Pick",
+      "value": "Detroit Tigers",
+      "sub": "61% confidence vs Nationals · Framber Valdez pitching"
+    },
+    {
+      "type": "text",
+      "value": "## My Blunt Assessment\n\nLook, 60% accuracy keeps you in the game but doesn't make you elite. We need to be hitting 65-70% on these slates to actually call ourselves sharp. The model did okay, not great.\n\nTomorrow? I'm cautiously optimistic about the Tigers pick, but fool me once, shame on you. Fool me twice with the same team in the same matchup? That's on us.\n\nThe data says Tigers. My gut says be careful. We're riding with the data—but nobody better act surprised if this one goes sideways too."
+    }
+  ],
+  "slug": "2026-09-22-daily-rico",
+  "author": "Rico",
+  "author_emoji": "🎭",
+  "author_role": "Drama Critic",
+  "author_color": "#DC2626",
+  "date": "2026-09-22",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#DC2626"
+}

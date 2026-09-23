@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-09-22-daily-rico",
+      "title": "Sep 22 Results + Sep 23 Preview: 60% Ain't Great But These Misses Sting",
+      "author": "Rico",
+      "author_emoji": "🎭",
+      "author_color": "#DC2626",
+      "author_role": "Drama Critic",
+      "date": "2026-09-22",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#DC2626",
+      "read_time": "3 min",
+      "summary": "9-6 on Sep 22. Let me be honest: some of these losses were straight embarrassing."
+    },
+    {
       "slug": "2026-09-21-daily-stan",
       "title": "Sep 21 Results + Sep 22 Preview: 66.7% Win Rate, Numbers Don't Lie",
       "author": "Stan",
