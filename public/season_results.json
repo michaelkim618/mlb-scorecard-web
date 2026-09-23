@@ -15673,6 +15673,30 @@
       "away_bp_score": 70.2,
       "home_bp_score": 35.2,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-22",
+      "away": "Miami Marlins",
+      "home": "Chicago Cubs",
+      "game_number": 1,
+      "pick": "Chicago Cubs",
+      "pick_prob": 61.4,
+      "actual_winner": "Miami Marlins",
+      "away_score": 2,
+      "home_score": 2,
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "stable",
+      "away_sp_era": 3.79,
+      "home_sp_era": 3.78,
+      "away_bp_era": 4.31,
+      "home_bp_era": 3.76,
+      "away_sp_score": 32.3,
+      "home_sp_score": 61.4,
+      "away_bp_score": 40.9,
+      "home_bp_score": 53.0,
+      "bat_source": "lineup"
     }
   ]
 }

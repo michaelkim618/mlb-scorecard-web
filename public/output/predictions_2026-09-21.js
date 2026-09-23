@@ -1623,8 +1623,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 51.5,
-      "home": 48.5
+      "away": 51.1,
+      "home": 48.9
     },
     "expected_score": {
       "away": 1.9,
@@ -1720,41 +1720,41 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 50.6,
+        "bp_score": 49.4,
         "bp_detail": {
           "bullpen_era": 4.02,
-          "recent_era": 2.57,
-          "recent_appearances": 23,
-          "recent_ip": 21.0,
+          "recent_era": 2.49,
+          "recent_appearances": 24,
+          "recent_ip": 21.7,
           "team_era": 4.22,
-          "bp_ip": 467.7,
+          "bp_ip": 468.3,
           "bp_count": 8,
           "closer_era": 4.48,
           "closer_name": "Yoendrys Gómez"
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.221,
+          "recent_avg": 0.22,
           "runs_per_g": 3.6,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.641,
+          "season_ops": 0.638,
           "season_slg": null,
-          "season_avg": 0.221,
+          "season_avg": 0.22,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
             "Walker Jenkins(0.812)",
-            "Luke Keaschall(0.772)",
-            "Brooks Lee(0.791)",
+            "Luke Keaschall(0.762)",
+            "Brooks Lee(0.779)",
             "Kody Clemens(0.573)",
             "Ryan Jeffers(0.570)",
             "Alan Roden(0.881)",
             "Aaron Sabato(0.000)",
             "Emmanuel Rodriguez(0.639)",
-            "Ryan Kreidler(0.731)"
+            "Ryan Kreidler(0.729)"
           ],
           "lineup_players": [
             {
@@ -1766,14 +1766,14 @@ window.PREDICTIONS_DATA = [
             {
               "id": 807712,
               "name": "Luke Keaschall",
-              "ops": 0.772,
-              "avg": 0.333
+              "ops": 0.762,
+              "avg": 0.325
             },
             {
               "id": 686797,
               "name": "Brooks Lee",
-              "ops": 0.791,
-              "avg": 0.351
+              "ops": 0.779,
+              "avg": 0.342
             },
             {
               "id": 665019,
@@ -1808,13 +1808,13 @@ window.PREDICTIONS_DATA = [
             {
               "id": 668952,
               "name": "Ryan Kreidler",
-              "ops": 0.731,
+              "ops": 0.729,
               "avg": 0.208
             }
           ],
           "bat_trend": "hot",
           "last5_rpg": 4.2,
-          "last5_avg": 0.241,
+          "last5_avg": 0.24,
           "home_split": {
             "recent_avg": 0.24,
             "runs_per_g": 5.4,
@@ -1829,7 +1829,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 43.5,
-        "total": 39.8
+        "total": 39.5
       },
       "home": {
         "sp_score": 31.9,
@@ -1907,35 +1907,35 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 33.4,
+        "bp_score": 33.6,
         "bp_detail": {
           "bullpen_era": 4.16,
-          "recent_era": 5.34,
+          "recent_era": 5.28,
           "recent_appearances": 19,
-          "recent_ip": 28.7,
+          "recent_ip": 29.0,
           "team_era": 4.07,
-          "bp_ip": 250.7,
+          "bp_ip": 251.0,
           "bp_count": 11,
           "closer_era": 4.68,
           "closer_name": "Joel Kuhnel"
         },
         "bat_score": 15.0,
         "bat_detail": {
-          "recent_avg": 0.21,
+          "recent_avg": 0.209,
           "runs_per_g": 4.0,
           "hr_per_g": 1.1,
           "bb_per_g": 3.0,
-          "season_ops": 0.592,
+          "season_ops": 0.603,
           "season_slg": null,
-          "season_avg": 0.21,
+          "season_avg": 0.209,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
             "Drew Gilbert(0.951)",
-            "Jonah Cox(0.662)",
-            "Bo Davidson(0.453)",
+            "Jonah Cox(0.652)",
+            "Bo Davidson(0.556)",
             "Marcelo Mayer(0.560)",
             "Brett Harris(0.568)",
             "Drew Cavanaugh(0.538)",
@@ -1953,13 +1953,13 @@ window.PREDICTIONS_DATA = [
             {
               "id": 813841,
               "name": "Jonah Cox",
-              "ops": 0.662,
-              "avg": 0.25
+              "ops": 0.652,
+              "avg": 0.243
             },
             {
               "id": 815589,
               "name": "Bo Davidson",
-              "ops": 0.453,
+              "ops": 0.556,
               "avg": 0.167
             },
             {
@@ -2001,9 +2001,9 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "cold",
           "last5_rpg": 2.6,
-          "last5_avg": 0.199,
+          "last5_avg": 0.201,
           "home_split": {
-            "recent_avg": 0.24,
+            "recent_avg": 0.241,
             "runs_per_g": 4.3,
             "hr_per_g": 0.9,
             "n_games": 10
@@ -2021,9 +2021,9 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 25.0,
-      "away_defense": 43.9,
+      "away_defense": 43.2,
       "home_offense": 15.0,
-      "home_defense": 32.6
+      "home_defense": 32.8
     },
     "actual_score": {
       "away": 2,
@@ -2048,7 +2048,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 51.5% (≤58.0%)",
+    "low_confidence_reason": "최고 확률 51.1% (≤58.0%)",
     "model_version": "v15"
   }
 ];

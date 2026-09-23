@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-23T03:43:47.954093+00:00",
+  "updated_at": "2026-09-23T03:58:12.428833+00:00",
   "news": [
+    {
+      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790107107/mlb/q4ae0iojstppohv2dzkc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-23T03:53:00+00:00",
+      "time_ago": "5m ago"
+    },
+    {
+      "title": "Brewers secure bye, home-field advantage in NLDS despite falling short in Philly",
+      "link": "https://www.mlb.com/news/colton-gordon-goes-four-scoreless-in-brewers-loss-to-phillies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gm8yytfaekkjlcciwcax",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-23T03:47:00+00:00",
+      "time_ago": "11m ago"
+    },
     {
       "title": "Superstar Ayami Sato sends Queens to inaugural WPBL title",
       "link": "https://www.mlb.com/news/queens-wins-first-wpbl-championship",
@@ -12,20 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-23T03:27:42+00:00",
-      "time_ago": "16m ago"
-    },
-    {
-      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790107107/mlb/q4ae0iojstppohv2dzkc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-23T03:24:00+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "30m ago"
     },
     {
       "title": "D-backs keep narrow playoff hopes alive with commanding win over Rockies",
@@ -38,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-23T03:19:51+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Gore battles, but Rangers' miscues loom large in AL West race",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-23T03:15:22+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "Elly approaching rare Reds company with latest blast and steal",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-23T03:12:52+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "Wheeler achieves career, franchise milestones to help Phils close in on Wild Card",
@@ -77,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-23T03:02:00+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "56m ago"
     },
     {
       "title": "6-year-old birthday girl grabs milestone HR ball, smiles the biggest smile",
@@ -90,19 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-23T03:00:04+00:00",
-      "time_ago": "43m ago"
-    },
-    {
-      "title": "'Don't give up' White Sox win third straight, close in on playoff berth",
-      "link": "https://www.mlb.com/news/white-sox-get-closer-to-playoffs-with-win-over-royals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kdcf2glthcteu6wjiljc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-23T02:45:43+00:00",
       "time_ago": "58m ago"
     }
   ]
