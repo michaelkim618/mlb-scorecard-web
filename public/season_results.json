@@ -15841,6 +15841,30 @@
       "away_bp_score": 71.7,
       "home_bp_score": 60.9,
       "bat_source": "team_stats"
+    },
+    {
+      "date": "2026-09-23",
+      "away": "Minnesota Twins",
+      "home": "San Francisco Giants",
+      "game_number": 1,
+      "pick": "Minnesota Twins",
+      "pick_prob": 50.6,
+      "actual_winner": "Minnesota Twins",
+      "away_score": 0,
+      "home_score": 0,
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "stable",
+      "away_sp_era": 4.86,
+      "home_sp_era": 3.72,
+      "away_bp_era": 4.02,
+      "home_bp_era": 4.14,
+      "away_sp_score": 47.4,
+      "home_sp_score": 38.2,
+      "away_bp_score": 43.4,
+      "home_bp_score": 30.1,
+      "bat_source": "lineup"
     }
   ]
 }

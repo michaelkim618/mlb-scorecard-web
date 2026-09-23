@@ -1,8 +1,47 @@
 {
-  "updated_at": "2026-09-23T22:23:14.376043+00:00",
+  "updated_at": "2026-09-23T22:52:26.570830+00:00",
   "news": [
     {
-      "title": "Ohtani expected back in lineup tonight -- but he may not lead off",
+      "title": "Scherzer, Blue Jays lament missed opportunities in '26",
+      "link": "https://www.mlb.com/news/max-scherzer-seven-strikeouts-blue-jays-lose-to-orioles",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jx25gcosnqhuejux4vxs",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-23T22:40:00+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Jenkins delivers in a pinch to cap sizzling road trip at plate",
+      "link": "https://www.mlb.com/news/walker-jenkins-go-ahead-pinch-hit-single-twins-beat-giants",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790201935/mlb/xnsitslgvcofttp5x0ih",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-23T22:37:00+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "Vlad Jr. expands on comments about his contract, disappointing season",
+      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-addresses-disappointing-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/devbkjakfvrqd2ezwxva",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-23T22:36:38+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "Ohtani activated, returns to champs' lineup -- but not at leadoff",
       "link": "https://www.mlb.com/news/shohei-ohtani-expected-back-in-lineup-sept-23",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790125843/mlb/xot6nq5ju7ululsbudgd",
@@ -11,8 +50,8 @@
       "author": "Sonja Chen",
       "tag": "Roster",
       "tag_color": "#0284C7",
-      "pub_date": "2026-09-23T22:09:00+00:00",
-      "time_ago": "14m ago"
+      "pub_date": "2026-09-23T22:21:00+00:00",
+      "time_ago": "31m ago"
     },
     {
       "title": "'I'm going to get my 80': Nuñez not satisfied after breaking Nats' single-season stolen base record",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-23T22:00:00+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "Cease will finish season on IL after Blue Jays get eliminated",
@@ -38,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-23T21:28:00+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Alonso crushes 41st homer, 1st off Scherzer as Orioles stave off elimination vs. Blue Jays",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-23T20:47:52+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "4 teams, 3 spots: Making sense of very unsettled AL playoff race",
-      "link": "https://www.mlb.com/news/al-playoff-picture-in-final-week-2026-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ah61r8wsocy6qjqwd2q3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Andrew Simon",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-23T20:17:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Volpe could play 3rd base in final week; Stanton, Grisham set for live at-bats",
-      "link": "https://www.mlb.com/news/anthony-volpe-could-see-time-at-3rd-base",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rprbmemxtsxkth9ps4ly",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-23T19:58:35+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Acuña out of lineup day after fouling ball off left shin",
-      "link": "https://www.mlb.com/news/ronald-acuna-jr-exits-braves-game-left-leg",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rdip4pcuccyimbffeh2h",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-23T19:34:00+00:00",
       "time_ago": "2h ago"
     }
   ]
