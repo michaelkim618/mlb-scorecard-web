@@ -6386,7 +6386,7 @@ window.PREDICTIONS_DATA = [
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Heriberto Hernández(0.663)",
+            "Heriberto Hernandez(0.663)",
             "Otto Lopez(0.797)",
             "Kyle Stowers(0.716)",
             "Javier Sanoja(0.868)",
@@ -6399,7 +6399,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 681715,
-              "name": "Heriberto Hernández",
+              "name": "Heriberto Hernandez",
               "ops": 0.663,
               "avg": 0.25
             },
@@ -11949,8 +11949,8 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Baltimore Orioles",
     "model_correct": null,
     "notes": "Toronto Blue Jays IL: Addison Barger, Anthony Santander, Bowden Francis, Cody Ponce, Jake Bloss 외 다수 / Baltimore Orioles IL: Blaze Alexander, Colin Selby, Jackson Holliday, Jordan Westburg, Keegan Akin 외 다수",
-    "kalshi_prob": 55.0,
-    "edge": -4.9,
+    "kalshi_prob": 54.0,
+    "edge": -3.9,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,

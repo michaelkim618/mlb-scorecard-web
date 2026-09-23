@@ -7350,7 +7350,7 @@ window.PREDICTIONS_DATA = [
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Heriberto Hernández(0.663)",
+            "Heriberto Hernandez(0.663)",
             "Otto Lopez(0.797)",
             "Kyle Stowers(0.716)",
             "Javier Sanoja(0.868)",
@@ -7363,7 +7363,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 681715,
-              "name": "Heriberto Hernández",
+              "name": "Heriberto Hernandez",
               "ops": 0.663,
               "avg": 0.25
             },
@@ -10877,8 +10877,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 60.7,
-      "home": 39.3
+      "away": 56.5,
+      "home": 43.5
     },
     "expected_score": {
       "away": 2.8,
@@ -11293,8 +11293,8 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Houston Astros",
     "model_correct": null,
     "notes": "Houston Astros IL: Brandon Walter, Carlos Correa, Enyel De Los Santos, Mike Burrows, Steven Okert / Seattle Mariners IL: Brendan Donovan, Brennen Davis, Cole Wilcox, Colt Emerson, Emerson Hancock 외 다수",
-    "kalshi_prob": 54.0,
-    "edge": -14.7,
+    "kalshi_prob": 56.0,
+    "edge": -12.5,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Seattle Mariners)",
     "extreme_edge": false,
     "consensus": false,
