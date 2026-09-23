@@ -1369,7 +1369,7 @@ window.PREDICTIONS_DATA = [
       "away": 0,
       "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -2109,7 +2109,7 @@ window.PREDICTIONS_DATA = [
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "L",
       "home_handedness": "L",
       "bullpen_game": false,
@@ -2202,27 +2202,27 @@ window.PREDICTIONS_DATA = [
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.237,
+          "recent_avg": 0.197,
           "runs_per_g": 3.6,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.671,
+          "season_ops": 0.564,
           "season_slg": null,
-          "season_avg": 0.237,
+          "season_avg": 0.197,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
             "Luke Keaschall(0.762)",
-            "Brooks Lee(0.779)",
-            "Kody Clemens(0.596)",
+            "Austin Martin(0.672)",
             "Josh Bell(0.681)",
-            "Walker Jenkins(0.794)",
-            "Emmanuel Rodriguez(0.639)",
+            "Ryan Jeffers(0.570)",
+            "Brooks Lee(0.779)",
             "Royce Lewis(0.548)",
-            "Victor Caratini(0.512)",
-            "Ryan Kreidler(0.729)"
+            "Emmanuel Rodriguez(0.639)",
+            "Aaron Sabato(0.000)",
+            "Ben Ross(0.421)"
           ],
           "lineup_players": [
             {
@@ -2232,16 +2232,10 @@ window.PREDICTIONS_DATA = [
               "avg": 0.325
             },
             {
-              "id": 686797,
-              "name": "Brooks Lee",
-              "ops": 0.779,
-              "avg": 0.342
-            },
-            {
-              "id": 665019,
-              "name": "Kody Clemens",
-              "ops": 0.596,
-              "avg": 0.143
+              "id": 668885,
+              "name": "Austin Martin",
+              "ops": 0.672,
+              "avg": 0.231
             },
             {
               "id": 605137,
@@ -2250,16 +2244,16 @@ window.PREDICTIONS_DATA = [
               "avg": 0.25
             },
             {
-              "id": 805805,
-              "name": "Walker Jenkins",
-              "ops": 0.794,
-              "avg": 0.306
+              "id": 680777,
+              "name": "Ryan Jeffers",
+              "ops": 0.57,
+              "avg": 0.114
             },
             {
-              "id": 691181,
-              "name": "Emmanuel Rodriguez",
-              "ops": 0.639,
-              "avg": 0.176
+              "id": 686797,
+              "name": "Brooks Lee",
+              "ops": 0.779,
+              "avg": 0.342
             },
             {
               "id": 668904,
@@ -2268,19 +2262,25 @@ window.PREDICTIONS_DATA = [
               "avg": 0.179
             },
             {
-              "id": 605170,
-              "name": "Victor Caratini",
-              "ops": 0.512,
-              "avg": 0.2
+              "id": 691181,
+              "name": "Emmanuel Rodriguez",
+              "ops": 0.639,
+              "avg": 0.176
             },
             {
-              "id": 668952,
-              "name": "Ryan Kreidler",
-              "ops": 0.729,
-              "avg": 0.208
+              "id": 693306,
+              "name": "Aaron Sabato",
+              "ops": 0.0,
+              "avg": 0.0
+            },
+            {
+              "id": 805346,
+              "name": "Ben Ross",
+              "ops": 0.421,
+              "avg": 0.158
             }
           ],
-          "bat_trend": "stable",
+          "bat_trend": "hot",
           "last5_rpg": 4.2,
           "last5_avg": 0.242,
           "home_split": {
@@ -2366,46 +2366,34 @@ window.PREDICTIONS_DATA = [
         },
         "bat_score": 15.0,
         "bat_detail": {
-          "recent_avg": 0.219,
+          "recent_avg": 0.231,
           "runs_per_g": 4.1,
           "hr_per_g": 1.1,
           "bb_per_g": 3.0,
-          "season_ops": 0.619,
+          "season_ops": 0.612,
           "season_slg": null,
-          "season_avg": 0.219,
+          "season_avg": 0.231,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Drew Gilbert(0.951)",
             "Jonah Cox(0.643)",
-            "Victor Bericoto(0.617)",
             "Turner Hill(0.556)",
+            "Victor Bericoto(0.617)",
             "Bo Davidson(0.661)",
+            "Andrew Knizner(0.742)",
+            "Brett Harris(0.591)",
+            "Marcelo Mayer(0.554)",
             "Shay Whitcomb(0.571)",
-            "Scott Bandura(0.465)",
-            "Drew Cavanaugh(0.538)",
             "Christian Koss(0.572)"
           ],
           "lineup_players": [
-            {
-              "id": 687551,
-              "name": "Drew Gilbert",
-              "ops": 0.951,
-              "avg": 0.333
-            },
             {
               "id": 813841,
               "name": "Jonah Cox",
               "ops": 0.643,
               "avg": 0.237
-            },
-            {
-              "id": 682674,
-              "name": "Victor Bericoto",
-              "ops": 0.617,
-              "avg": 0.172
             },
             {
               "id": 806367,
@@ -2414,28 +2402,40 @@ window.PREDICTIONS_DATA = [
               "avg": 0.152
             },
             {
+              "id": 682674,
+              "name": "Victor Bericoto",
+              "ops": 0.617,
+              "avg": 0.172
+            },
+            {
               "id": 815589,
               "name": "Bo Davidson",
               "ops": 0.661,
               "avg": 0.286
             },
             {
+              "id": 668800,
+              "name": "Andrew Knizner",
+              "ops": 0.742,
+              "avg": 0.321
+            },
+            {
+              "id": 695391,
+              "name": "Brett Harris",
+              "ops": 0.591,
+              "avg": 0.24
+            },
+            {
+              "id": 691785,
+              "name": "Marcelo Mayer",
+              "ops": 0.554,
+              "avg": 0.172
+            },
+            {
               "id": 694376,
               "name": "Shay Whitcomb",
               "ops": 0.571,
               "avg": 0.241
-            },
-            {
-              "id": 814154,
-              "name": "Scott Bandura",
-              "ops": 0.465,
-              "avg": 0.19
-            },
-            {
-              "id": 701852,
-              "name": "Drew Cavanaugh",
-              "ops": 0.538,
-              "avg": 0.105
             },
             {
               "id": 683766,
@@ -2471,10 +2471,10 @@ window.PREDICTIONS_DATA = [
       "home_defense": 34.2
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -3254,8 +3254,8 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Pittsburgh Pirates",
     "model_correct": null,
     "notes": "St. Louis Cardinals IL: Blaze Jordan, Everson Pereira, Hunter Dobbins, Joshua Báez, Max Rajcic / Pittsburgh Pirates IL: Braxton Ashcraft, Endy Rodríguez, Esmerlyn Valdez, Isaac Mattson, Mitch Keller",
-    "kalshi_prob": 55.0,
-    "edge": 7.0,
+    "kalshi_prob": 56.0,
+    "edge": 6.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -4758,8 +4758,8 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Tampa Bay Rays",
     "model_correct": null,
     "notes": "Tampa Bay Rays IL: Edwin Uceta, Garrett Cleavinger, Gavin Lux, Jonathan Heasley, Manuel Rodríguez 외 다수 / New York Yankees IL: Aaron Judge, Fernando Cruz, Giancarlo Stanton, Kervin Castro, Ryan Weathers 외 다수",
-    "kalshi_prob": 55.0,
-    "edge": -5.0,
+    "kalshi_prob": 54.0,
+    "edge": -4.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -5534,8 +5534,8 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Boston Red Sox",
     "model_correct": null,
     "notes": "Cleveland Guardians IL: Colin Holderman, Rhys Hoskins, Shawn Armstrong / Boston Red Sox IL: Anthony Seigler, Ceddanne Rafaela, Curtis Mead, Eduardo Rivera, Eli White 외 다수",
-    "kalshi_prob": 54.0,
-    "edge": 2.6,
+    "kalshi_prob": 55.0,
+    "edge": 1.6,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -6285,8 +6285,8 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Atlanta Braves",
     "model_correct": null,
     "notes": "Cincinnati Reds IL: Blake Dunn, Chase Burns, Hunter Greene, Julian Garcia, Michael Toglia 외 다수 / Atlanta Braves IL: Bryce Elder, Joe Jiménez, Joey Wentz, Lane Thomas, Reynaldo López 외 다수",
-    "kalshi_prob": 69.0,
-    "edge": -8.3,
+    "kalshi_prob": 70.0,
+    "edge": -9.3,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Atlanta Braves)",
     "extreme_edge": false,
     "consensus": false,
@@ -7521,7 +7521,7 @@ window.PREDICTIONS_DATA = [
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Heriberto Hernandez(0.663)",
+            "Heriberto Hernández(0.663)",
             "Otto Lopez(0.797)",
             "Kyle Stowers(0.716)",
             "Javier Sanoja(0.868)",
@@ -7534,7 +7534,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 681715,
-              "name": "Heriberto Hernandez",
+              "name": "Heriberto Hernández",
               "ops": 0.663,
               "avg": 0.25
             },

@@ -1282,10 +1282,10 @@ window.PREDICTIONS_DATA = [
             "Ben Rice(1.019)",
             "Cody Bellinger(0.792)",
             "Heliot Ramos(0.787)",
-            "Luis García(0.603)",
+            "Luis García Jr.(0.603)",
             "Spencer Jones(0.660)",
-            "Jazz Chisholm(0.789)",
-            "George Lombard(0.700)",
+            "Jazz Chisholm Jr.(0.789)",
+            "George Lombard Jr.(0.700)",
             "Austin Wells(0.774)",
             "Ryan McMahon(0.479)"
           ],
@@ -1310,7 +1310,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671277,
-              "name": "Luis García",
+              "name": "Luis García Jr.",
               "ops": 0.603,
               "avg": 0.15
             },
@@ -1322,13 +1322,13 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 665862,
-              "name": "Jazz Chisholm",
+              "name": "Jazz Chisholm Jr.",
               "ops": 0.789,
               "avg": 0.333
             },
             {
               "id": 806146,
-              "name": "George Lombard",
+              "name": "George Lombard Jr.",
               "ops": 0.7,
               "avg": 0.256
             },
@@ -1742,7 +1742,7 @@ window.PREDICTIONS_DATA = [
       "home": 61.5
     },
     "expected_score": {
-      "away": 1.7,
+      "away": 1.9,
       "home": 2.8
     },
     "blend_detail": null,
@@ -1755,13 +1755,13 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": false,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.38,
-        "bp": 0.25,
-        "bat": 0.3,
+        "sp": 0.33,
+        "bp": 0.27,
+        "bat": 0.33,
         "sit": 0.15
       },
       "away": {
-        "sp_score": 46.4,
+        "sp_score": 47.5,
         "sp_detail": {
           "era": 1.8,
           "whip": 1.2,
@@ -1812,7 +1812,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 24.8,
+        "bp_score": 25.4,
         "bp_detail": {
           "bullpen_era": 4.93,
           "recent_era": 4.2,
@@ -1824,14 +1824,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 6.82,
           "closer_name": "Gus Varland"
         },
-        "bat_score": 26.6,
+        "bat_score": 30.3,
         "bat_detail": {
           "recent_avg": 0.233,
           "runs_per_g": 4.7,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
           "season_ops": 0.719,
-          "season_slg": 0.364,
+          "season_slg": null,
           "season_avg": 0.233,
           "n_games": 9,
           "source": "prev_day",
@@ -1921,7 +1921,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 46.0,
-        "total": 38.7
+        "total": 39.4
       },
       "home": {
         "sp_score": 49.0,
@@ -1996,14 +1996,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 3.35,
           "closer_name": "Kenley Jansen"
         },
-        "bat_score": 35.8,
+        "bat_score": 36.3,
         "bat_detail": {
           "recent_avg": 0.278,
           "runs_per_g": 4.9,
           "hr_per_g": 0.9,
           "bb_per_g": 3.0,
           "season_ops": 0.784,
-          "season_slg": 0.395,
+          "season_slg": null,
           "season_avg": 0.278,
           "n_games": 9,
           "source": "prev_day",
@@ -2093,13 +2093,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 44.5,
-        "total": 52.4
+        "total": 52.5
       }
     },
     "scores": {
-      "away_offense": 26.6,
-      "away_defense": 35.6,
-      "home_offense": 35.8,
+      "away_offense": 30.3,
+      "away_defense": 36.5,
+      "home_offense": 36.3,
       "home_defense": 57.3
     },
     "actual_score": {
@@ -2125,7 +2125,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 2.6pt (≤5.0pt)",
+    "low_confidence_reason": "SP 점수 차이 1.5pt (≤5.0pt)",
     "opener_game": {
       "away": false,
       "home": false
@@ -6386,7 +6386,7 @@ window.PREDICTIONS_DATA = [
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Heriberto Hernandez(0.663)",
+            "Heriberto Hernández(0.663)",
             "Otto Lopez(0.797)",
             "Kyle Stowers(0.716)",
             "Javier Sanoja(0.868)",
@@ -6399,7 +6399,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 681715,
-              "name": "Heriberto Hernandez",
+              "name": "Heriberto Hernández",
               "ops": 0.663,
               "avg": 0.25
             },
