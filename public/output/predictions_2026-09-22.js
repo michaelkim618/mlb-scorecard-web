@@ -1743,7 +1743,7 @@ window.PREDICTIONS_DATA = [
     },
     "expected_score": {
       "away": 1.7,
-      "home": 2.6
+      "home": 2.8
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -1812,17 +1812,17 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 42.6,
+        "bp_score": 24.8,
         "bp_detail": {
-          "bullpen_era": 4.49,
+          "bullpen_era": 4.93,
           "recent_era": 4.2,
           "recent_appearances": 20,
           "recent_ip": 30.0,
-          "team_era": 4.02,
-          "bp_ip": 134.3,
-          "bp_count": 8,
-          "closer_era": 3.38,
-          "closer_name": "Erik Tolman"
+          "team_era": 4.05,
+          "bp_ip": 166.0,
+          "bp_count": 9,
+          "closer_era": 6.82,
+          "closer_name": "Gus Varland"
         },
         "bat_score": 26.6,
         "bat_detail": {
@@ -1921,7 +1921,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 46.0,
-        "total": 43.2
+        "total": 38.7
       },
       "home": {
         "sp_score": 49.0,
@@ -2098,7 +2098,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 26.6,
-      "away_defense": 44.5,
+      "away_defense": 35.6,
       "home_offense": 35.8,
       "home_defense": 57.3
     },
