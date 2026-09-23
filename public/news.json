@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-23T20:36:32.048616+00:00",
+  "updated_at": "2026-09-23T21:20:33.866726+00:00",
   "news": [
+    {
+      "title": "Sunday's Cubs-Red Sox game moved; clubs to play split doubleheader Friday",
+      "link": "https://www.mlb.com/news/cubs-red-sox-games-moved-september-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/o7xd4wtgjoaswmox0z8h",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian and Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-23T20:47:52+00:00",
+      "time_ago": "32m ago"
+    },
+    {
+      "title": "Alonso crushes 41st homer, 1st off Scherzer as Orioles stave off elimination vs. Blue Jays",
+      "link": "https://www.mlb.com/news/pete-alonso-hits-41st-home-run-orioles-beat-blue-jays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cqpzxfzb8xmsxqtbitbo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-23T20:36:17+00:00",
+      "time_ago": "44m ago"
+    },
     {
       "title": "4 teams, 3 spots: Making sense of very unsettled AL playoff race",
       "link": "https://www.mlb.com/news/al-playoff-picture-in-final-week-2026-season",
@@ -12,7 +38,20 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-23T20:17:00+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Nuñez blazes way into Nats' record book with most stolen bases in a season",
+      "link": "https://www.mlb.com/news/nasim-nunez-sets-nationals-single-season-record-for-stolen-bases",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790193463/mlb/vgmyfc7aqiptnxerw0wp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-23T20:03:20+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Volpe could play 3rd base in final week; Stanton, Grisham set for live at-bats",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-23T19:58:35+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Acuña out of lineup day after fouling ball off left shin",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-23T18:05:28+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Watch FREE: 4 potential MiLB title-clinchers tonight -- one feat. MLB No. 1 prospect Jesús Made",
-      "link": "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jzzzzd9uz0goh5rsn6ih",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brendan Samson and Rob Terranova",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-23T17:44:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Vladdy returns from back tightness in Game 1 of Blue Jays-O's DH",
-      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-out-of-lineup-against-orioles-lower-back-tightness",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vq71hkmhe6inxqgprkx7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-23T17:17:00+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "5 reasons the Yankees can win without Judge",
-      "link": "https://www.mlb.com/news/how-yankees-can-thrive-in-the-playoffs-without-aaron-judge",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dikulutesqqizctygd9u",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-23T16:30:00+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }
