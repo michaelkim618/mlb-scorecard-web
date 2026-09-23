@@ -2753,7 +2753,7 @@ window.PREDICTIONS_DATA = [
             "Brandon Lowe(0.891)",
             "Bryan Reynolds(0.743)",
             "Oneil Cruz(0.859)",
-            "Rafael Flores Jr.(0.996)",
+            "Rafael Flores(0.996)",
             "Ryan O'Hearn(0.669)",
             "Ronny Simon(0.738)",
             "Spencer Horwitz(0.708)",
@@ -2786,7 +2786,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 804668,
-              "name": "Rafael Flores Jr.",
+              "name": "Rafael Flores",
               "ops": 0.996,
               "avg": 0.394
             },
@@ -5042,11 +5042,11 @@ window.PREDICTIONS_DATA = [
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Ronald Acuña Jr.(0.972)",
+            "Ronald Acuña(0.972)",
             "Drake Baldwin(0.899)",
             "Matt Olson(0.847)",
             "Ozzie Albies(0.558)",
-            "Michael Harris II(0.859)",
+            "Michael Harris(0.859)",
             "Mauricio Dubón(0.838)",
             "Austin Riley(0.602)",
             "Sean Murphy(0.386)",
@@ -5055,7 +5055,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 660670,
-              "name": "Ronald Acuña Jr.",
+              "name": "Ronald Acuña",
               "ops": 0.972,
               "avg": 0.342
             },
@@ -5079,7 +5079,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671739,
-              "name": "Michael Harris II",
+              "name": "Michael Harris",
               "ops": 0.859,
               "avg": 0.357
             },
@@ -5809,7 +5809,7 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Carter Jensen(0.873)",
-            "Bobby Witt Jr.(0.754)",
+            "Bobby Witt(0.754)",
             "Jac Caglianone(0.738)",
             "Maikel Garcia(0.659)",
             "Vinnie Pasquantino(0.923)",
@@ -5827,7 +5827,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 677951,
-              "name": "Bobby Witt Jr.",
+              "name": "Bobby Witt",
               "ops": 0.754,
               "avg": 0.289
             },
@@ -10141,13 +10141,13 @@ window.PREDICTIONS_DATA = [
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.238,
-          "runs_per_g": 3.6,
+          "recent_avg": 0.241,
+          "runs_per_g": 3.7,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.674,
+          "season_ops": 0.678,
           "season_slg": null,
-          "season_avg": 0.238,
+          "season_avg": 0.241,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -10155,10 +10155,10 @@ window.PREDICTIONS_DATA = [
           "lineup_ops": [
             "Luke Keaschall(0.825)",
             "Brooks Lee(0.788)",
-            "Kody Clemens(0.596)",
+            "Kody Clemens(0.553)",
             "Josh Bell(0.672)",
-            "Walker Jenkins(0.794)",
-            "Emmanuel Rodriguez(0.610)",
+            "Walker Jenkins(0.849)",
+            "Emmanuel Rodriguez(0.631)",
             "Royce Lewis(0.541)",
             "Victor Caratini(0.512)",
             "Ryan Kreidler(0.729)"
@@ -10179,8 +10179,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 665019,
               "name": "Kody Clemens",
-              "ops": 0.596,
-              "avg": 0.143
+              "ops": 0.553,
+              "avg": 0.121
             },
             {
               "id": 605137,
@@ -10191,13 +10191,13 @@ window.PREDICTIONS_DATA = [
             {
               "id": 805805,
               "name": "Walker Jenkins",
-              "ops": 0.794,
-              "avg": 0.306
+              "ops": 0.849,
+              "avg": 0.353
             },
             {
               "id": 691181,
               "name": "Emmanuel Rodriguez",
-              "ops": 0.61,
+              "ops": 0.631,
               "avg": 0.156
             },
             {
@@ -10220,8 +10220,8 @@ window.PREDICTIONS_DATA = [
             }
           ],
           "bat_trend": "stable",
-          "last5_rpg": 4.0,
-          "last5_avg": 0.235,
+          "last5_rpg": 4.2,
+          "last5_avg": 0.238,
           "home_split": {
             "recent_avg": 0.24,
             "runs_per_g": 5.4,
@@ -10229,14 +10229,14 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.231,
-            "runs_per_g": 3.6,
+            "recent_avg": 0.233,
+            "runs_per_g": 3.7,
             "hr_per_g": 1.2,
             "n_games": 10
           }
         },
-        "sit_score": 50.0,
-        "total": 51.9
+        "sit_score": 51.5,
+        "total": 52.1
       },
       "home": {
         "sp_score": 39.4,
@@ -10310,9 +10310,9 @@ window.PREDICTIONS_DATA = [
         "bp_score": 35.6,
         "bp_detail": {
           "bullpen_era": 4.12,
-          "recent_era": 4.75,
+          "recent_era": 4.71,
           "recent_appearances": 23,
-          "recent_ip": 36.0,
+          "recent_ip": 36.3,
           "team_era": 4.05,
           "bp_ip": 258.0,
           "bp_count": 11,
@@ -10908,7 +10908,7 @@ window.PREDICTIONS_DATA = [
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis Jr.(0.936)",
+            "Fernando Tatis(0.936)",
             "Dustin Harris(0.761)",
             "Manny Machado(0.634)",
             "Ty France(0.947)",
@@ -10921,7 +10921,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis Jr.",
+              "name": "Fernando Tatis",
               "ops": 0.936,
               "avg": 0.293
             },
@@ -11637,13 +11637,13 @@ window.PREDICTIONS_DATA = [
         },
         "bp_score": 72.5,
         "bp_detail": {
-          "bullpen_era": 3.01,
+          "bullpen_era": 3.2,
           "recent_era": 2.0,
-          "recent_appearances": 21,
-          "recent_ip": 21.3,
-          "team_era": 3.31,
-          "bp_ip": 310.7,
-          "bp_count": 8,
+          "recent_appearances": 17,
+          "recent_ip": 16.7,
+          "team_era": 3.57,
+          "bp_ip": 320.7,
+          "bp_count": 9,
           "closer_era": 1.29,
           "closer_name": "Louis Varland"
         },
