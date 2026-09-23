@@ -162,7 +162,7 @@ export default function NavBar() {
                   onMouseEnter={e => { e.target.style.borderColor = "#ef4444"; e.target.style.color = "#ef4444"; }}
                   onMouseLeave={e => { e.target.style.borderColor = "var(--color-border)"; e.target.style.color = "var(--color-muted)"; }}
                 >
-                  로그아웃
+                  Sign Out
                 </button>
               )}
             </div>
@@ -287,7 +287,7 @@ export default function NavBar() {
                 color: "#ef4444",
               }}
             >
-              로그아웃
+              Sign Out
             </button>
           )}
         </div>

@@ -35,8 +35,8 @@ export default function AuthGate({ children }) {
   // 미로그인 — 로그인 게이트 표시
   async function handleEmailAction() {
     setError("");
-    if (!email || !pw) { setError("이메일과 비밀번호를 입력해주세요."); return; }
-    if (isSignup && !name) { setError("이름을 입력해주세요."); return; }
+    if (!email || !pw) { setError("Please enter your email and password."); return; }
+    if (isSignup && !name) { setError("Please enter your name."); return; }
 
     setSubmitting(true);
     if (isSignup) {
@@ -45,10 +45,10 @@ export default function AuthGate({ children }) {
         options: { data: { full_name: name } },
       });
       if (e) { setError(e.message); setSubmitting(false); return; }
-      setError("✅ 가입 완료! 이메일을 확인해주세요.");
+      setError("✅ Account created! Please check your email.");
     } else {
       const { error: e } = await supabase.auth.signInWithPassword({ email, password: pw });
-      if (e) { setError("이메일 또는 비밀번호가 올바르지 않습니다."); setSubmitting(false); return; }
+      if (e) { setError("Invalid email or password."); setSubmitting(false); return; }
     }
     setSubmitting(false);
   }
@@ -59,19 +59,19 @@ export default function AuthGate({ children }) {
         <div style={styles.logo}>⚾</div>
         <h1 style={styles.title}>MLB Scorecard</h1>
         <p style={styles.sub}>
-          데이터 기반 MLB 경기 예측<br />
-          로그인하고 오늘의 픽을 확인하세요
+          Data-driven MLB game predictions<br />
+          Sign in to access today's picks
         </p>
 
         {/* Google 로그인 */}
         <button style={styles.btnGoogle} onClick={signInWithGoogle}>
           <GoogleIcon />
-          Google로 계속하기
+          Continue with Google
         </button>
 
         <div style={styles.divider}>
           <span style={styles.dividerLine} />
-          <span style={styles.dividerText}>또는 이메일로</span>
+          <span style={styles.dividerText}>or continue with email</span>
           <span style={styles.dividerLine} />
         </div>
 
@@ -80,7 +80,7 @@ export default function AuthGate({ children }) {
           <input
             style={styles.input}
             type="text"
-            placeholder="이름"
+            placeholder="Full name"
             value={name}
             onChange={e => setName(e.target.value)}
             autoComplete="name"
@@ -89,7 +89,7 @@ export default function AuthGate({ children }) {
         <input
           style={styles.input}
           type="email"
-          placeholder="이메일 주소"
+          placeholder="Email address"
           value={email}
           onChange={e => setEmail(e.target.value)}
           autoComplete="email"
@@ -97,20 +97,20 @@ export default function AuthGate({ children }) {
         <input
           style={styles.input}
           type="password"
-          placeholder="비밀번호 (6자 이상)"
+          placeholder="Password (6+ characters)"
           value={pw}
           onChange={e => setPw(e.target.value)}
           autoComplete="current-password"
           onKeyDown={e => e.key === "Enter" && handleEmailAction()}
         />
         <button style={styles.btnEmail} onClick={handleEmailAction} disabled={submitting}>
-          {submitting ? "처리 중..." : isSignup ? "회원가입" : "로그인"}
+          {submitting ? "Processing..." : isSignup ? "Sign Up" : "Sign In"}
         </button>
 
         <div style={styles.toggle}>
-          {isSignup ? "이미 계정이 있으신가요?" : "계정이 없으신가요?"}{" "}
+          {isSignup ? "Already have an account?" : "Don't have an account?"}{" "}
           <span style={styles.toggleLink} onClick={() => { setIsSignup(!isSignup); setError(""); }}>
-            {isSignup ? "로그인" : "회원가입"}
+            {isSignup ? "Sign In" : "Sign Up"}
           </span>
         </div>
 
