@@ -337,8 +337,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 51.4,
-      "home": 48.6
+      "away": 51.1,
+      "home": 48.9
     },
     "expected_score": {
       "away": 1.7,
@@ -416,8 +416,8 @@ window.PREDICTIONS_DATA = [
         "bp_detail": {
           "bullpen_era": 3.04,
           "recent_era": 2.0,
-          "recent_appearances": 20,
-          "recent_ip": 21.0,
+          "recent_appearances": 18,
+          "recent_ip": 18.3,
           "team_era": 3.3,
           "bp_ip": 307.7,
           "bp_count": 8,
@@ -590,12 +590,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 64.3,
+        "bp_score": 65.4,
         "bp_detail": {
           "bullpen_era": 3.58,
           "recent_era": 2.0,
-          "recent_appearances": 23,
-          "recent_ip": 22.0,
+          "recent_appearances": 16,
+          "recent_ip": 15.0,
           "team_era": 3.87,
           "bp_ip": 380.0,
           "bp_count": 10,
@@ -699,14 +699,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 47.8,
-        "total": 43.1
+        "total": 43.3
       }
     },
     "scores": {
       "away_offense": 25.0,
       "away_defense": 65.7,
       "home_offense": 25.0,
-      "home_defense": 51.5
+      "home_defense": 52.1
     },
     "actual_score": {
       "away": 3,
@@ -731,7 +731,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 51.4% (≤58.0%)",
+    "low_confidence_reason": "최고 확률 51.1% (≤58.0%)",
     "model_version": "v15"
   },
   {
@@ -877,8 +877,8 @@ window.PREDICTIONS_DATA = [
       "home": 61.5
     },
     "expected_score": {
-      "away": 1.8,
-      "home": 2.8
+      "away": 2.0,
+      "home": 2.7
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -896,7 +896,7 @@ window.PREDICTIONS_DATA = [
         "sit": 0.15
       },
       "away": {
-        "sp_score": 29.3,
+        "sp_score": 29.7,
         "sp_detail": {
           "era": 9.0,
           "whip": 1.75,
@@ -956,54 +956,54 @@ window.PREDICTIONS_DATA = [
           ],
           "single_sample_capped": true
         },
-        "bp_score": 40.9,
+        "bp_score": 41.1,
         "bp_detail": {
-          "bullpen_era": 4.57,
-          "recent_era": 4.15,
-          "recent_appearances": 20,
-          "recent_ip": 30.3,
-          "team_era": 4.04,
-          "bp_ip": 132.0,
+          "bullpen_era": 4.56,
+          "recent_era": 4.5,
+          "recent_appearances": 19,
+          "recent_ip": 28.0,
+          "team_era": 4.03,
+          "bp_ip": 132.3,
           "bp_count": 8,
           "closer_era": 3.65,
           "closer_name": "Erik Tolman"
         },
-        "bat_score": 26.5,
+        "bat_score": 28.7,
         "bat_detail": {
-          "recent_avg": 0.234,
-          "runs_per_g": 4.5,
-          "hr_per_g": 0.7,
+          "recent_avg": 0.238,
+          "runs_per_g": 4.7,
+          "hr_per_g": 0.8,
           "bb_per_g": 3.0,
-          "season_ops": 0.689,
+          "season_ops": 0.696,
           "season_slg": null,
-          "season_avg": 0.234,
+          "season_avg": 0.238,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "James Wood(0.738)",
-            "Daylen Lile(0.756)",
+            "James Wood(0.758)",
+            "Daylen Lile(0.746)",
             "Abimelec Ortiz(0.536)",
-            "CJ Abrams(0.809)",
-            "Dylan Crews(0.575)",
-            "Jorbit Vivas(0.688)",
+            "CJ Abrams(0.865)",
+            "Dylan Crews(0.597)",
+            "Jorbit Vivas(0.675)",
             "Brady House(0.680)",
-            "Keibert Ruiz(0.692)",
+            "Keibert Ruiz(0.679)",
             "Jacob Young(0.725)"
           ],
           "lineup_players": [
             {
               "id": 695578,
               "name": "James Wood",
-              "ops": 0.738,
-              "avg": 0.235
+              "ops": 0.758,
+              "avg": 0.257
             },
             {
               "id": 695734,
               "name": "Daylen Lile",
-              "ops": 0.756,
-              "avg": 0.235
+              "ops": 0.746,
+              "avg": 0.229
             },
             {
               "id": 694673,
@@ -1014,20 +1014,20 @@ window.PREDICTIONS_DATA = [
             {
               "id": 682928,
               "name": "CJ Abrams",
-              "ops": 0.809,
-              "avg": 0.256
+              "ops": 0.865,
+              "avg": 0.275
             },
             {
               "id": 686611,
               "name": "Dylan Crews",
-              "ops": 0.575,
-              "avg": 0.194
+              "ops": 0.597,
+              "avg": 0.216
             },
             {
               "id": 678391,
               "name": "Jorbit Vivas",
-              "ops": 0.688,
-              "avg": 0.276
+              "ops": 0.675,
+              "avg": 0.267
             },
             {
               "id": 691781,
@@ -1038,8 +1038,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 660688,
               "name": "Keibert Ruiz",
-              "ops": 0.692,
-              "avg": 0.231
+              "ops": 0.679,
+              "avg": 0.222
             },
             {
               "id": 696285,
@@ -1049,8 +1049,8 @@ window.PREDICTIONS_DATA = [
             }
           ],
           "bat_trend": "cold",
-          "last5_rpg": 4.6,
-          "last5_avg": 0.212,
+          "last5_rpg": 5.0,
+          "last5_avg": 0.222,
           "home_split": {
             "recent_avg": 0.254,
             "runs_per_g": 4.4,
@@ -1058,14 +1058,14 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.208,
-            "runs_per_g": 4.1,
-            "hr_per_g": 1.0,
+            "recent_avg": 0.213,
+            "runs_per_g": 4.3,
+            "hr_per_g": 1.1,
             "n_games": 10
           }
         },
         "sit_score": 42.0,
-        "total": 32.5
+        "total": 33.4
       },
       "home": {
         "sp_score": 30.0,
@@ -1142,54 +1142,54 @@ window.PREDICTIONS_DATA = [
           ],
           "single_sample_capped": true
         },
-        "bp_score": 65.7,
+        "bp_score": 64.6,
         "bp_detail": {
-          "bullpen_era": 3.32,
-          "recent_era": 2.61,
+          "bullpen_era": 3.31,
+          "recent_era": 2.86,
           "recent_appearances": 20,
-          "recent_ip": 31.0,
-          "team_era": 3.56,
-          "bp_ip": 371.0,
+          "recent_ip": 28.3,
+          "team_era": 3.57,
+          "bp_ip": 372.0,
           "bp_count": 10,
           "closer_era": 3.35,
           "closer_name": "Kenley Jansen"
         },
-        "bat_score": 36.3,
+        "bat_score": 35.7,
         "bat_detail": {
-          "recent_avg": 0.266,
-          "runs_per_g": 4.8,
+          "recent_avg": 0.263,
+          "runs_per_g": 4.9,
           "hr_per_g": 0.9,
           "bb_per_g": 3.0,
-          "season_ops": 0.775,
+          "season_ops": 0.766,
           "season_slg": null,
-          "season_avg": 0.266,
+          "season_avg": 0.263,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Gleyber Torres(0.605)",
+            "Gleyber Torres(0.619)",
             "Hao-Yu Lee(0.901)",
             "Riley Greene(0.873)",
-            "Eduardo Valencia(1.028)",
-            "Ben Malgeri(0.825)",
+            "Eduardo Valencia(0.989)",
+            "Ben Malgeri(0.796)",
             "Dillon Dingler(0.672)",
-            "Spencer Torkelson(1.059)",
-            "Javier Báez(0.586)",
-            "John Peck(0.428)"
+            "Spencer Torkelson(1.066)",
+            "Javier Báez(0.570)",
+            "John Peck(0.408)"
           ],
           "lineup_players": [
             {
               "id": 650402,
               "name": "Gleyber Torres",
-              "ops": 0.605,
-              "avg": 0.152
+              "ops": 0.619,
+              "avg": 0.171
             },
             {
               "id": 701678,
               "name": "Hao-Yu Lee",
               "ops": 0.901,
-              "avg": 0.341
+              "avg": 0.349
             },
             {
               "id": 682985,
@@ -1200,14 +1200,14 @@ window.PREDICTIONS_DATA = [
             {
               "id": 680664,
               "name": "Eduardo Valencia",
-              "ops": 1.028,
-              "avg": 0.438
+              "ops": 0.989,
+              "avg": 0.412
             },
             {
               "id": 701162,
               "name": "Ben Malgeri",
-              "ops": 0.825,
-              "avg": 0.25
+              "ops": 0.796,
+              "avg": 0.235
             },
             {
               "id": 693307,
@@ -1218,28 +1218,28 @@ window.PREDICTIONS_DATA = [
             {
               "id": 679529,
               "name": "Spencer Torkelson",
-              "ops": 1.059,
+              "ops": 1.066,
               "avg": 0.393
             },
             {
               "id": 595879,
               "name": "Javier Báez",
-              "ops": 0.586,
-              "avg": 0.15
+              "ops": 0.57,
+              "avg": 0.143
             },
             {
               "id": 807726,
               "name": "John Peck",
-              "ops": 0.428,
-              "avg": 0.12
+              "ops": 0.408,
+              "avg": 0.111
             }
           ],
           "bat_trend": "hot",
-          "last5_rpg": 4.4,
-          "last5_avg": 0.296,
+          "last5_rpg": 4.6,
+          "last5_avg": 0.297,
           "home_split": {
-            "recent_avg": 0.249,
-            "runs_per_g": 5.1,
+            "recent_avg": 0.252,
+            "runs_per_g": 5.2,
             "hr_per_g": 1.2,
             "n_games": 10
           },
@@ -1251,14 +1251,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 52.6,
-        "total": 44.1
+        "total": 43.7
       }
     },
     "scores": {
-      "away_offense": 26.5,
-      "away_defense": 36.8,
-      "home_offense": 36.3,
-      "home_defense": 47.9
+      "away_offense": 28.7,
+      "away_defense": 37.1,
+      "home_offense": 35.7,
+      "home_defense": 47.3
     },
     "actual_score": {
       "away": 2,
@@ -1283,7 +1283,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 0.7pt (≤5.0pt)",
+    "low_confidence_reason": "SP 점수 차이 0.3pt (≤5.0pt)",
     "model_version": "v15"
   },
   {
@@ -1623,8 +1623,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 50.1,
-      "home": 49.9
+      "away": 50.5,
+      "home": 49.5
     },
     "expected_score": {
       "away": 1.9,
@@ -1720,12 +1720,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 48.5,
+        "bp_score": 49.9,
         "bp_detail": {
           "bullpen_era": 4.03,
-          "recent_era": 2.66,
-          "recent_appearances": 24,
-          "recent_ip": 23.7,
+          "recent_era": 2.7,
+          "recent_appearances": 21,
+          "recent_ip": 20.0,
           "team_era": 4.24,
           "bp_ip": 466.7,
           "bp_count": 8,
@@ -1829,7 +1829,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 42.0,
-        "total": 39.0
+        "total": 39.4
       },
       "home": {
         "sp_score": 31.9,
@@ -1907,12 +1907,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 37.5,
+        "bp_score": 37.4,
         "bp_detail": {
           "bullpen_era": 4.16,
-          "recent_era": 4.37,
-          "recent_appearances": 21,
-          "recent_ip": 35.0,
+          "recent_era": 4.41,
+          "recent_appearances": 19,
+          "recent_ip": 32.7,
           "team_era": 4.08,
           "bp_ip": 277.0,
           "bp_count": 12,
@@ -2021,9 +2021,9 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 25.0,
-      "away_defense": 42.8,
+      "away_defense": 43.5,
       "home_offense": 15.0,
-      "home_defense": 34.7
+      "home_defense": 34.6
     },
     "actual_score": {
       "away": 2,
@@ -2039,7 +2039,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "San Francisco Giants",
     "model_winner": "Minnesota Twins",
     "model_correct": false,
-    "notes": "Minnesota Twins IL: Anthony Banda, Byron Buxton, Cole Sands, David Festa, Kaelen Culpepper 외 다수 / San Francisco Giants IL: Adrian Houser, Bryce Eldridge, Carson Whisenhunt, Casey Schmitt, Daniel Susac 외 다수",
+    "notes": "Minnesota Twins IL: Anthony Banda, Byron Buxton, Cole Sands, David Festa, Kaelen Culpepper 외 다수 / San Francisco Giants IL: Adrian Houser, Blade Tidwell, Bryce Eldridge, Carson Whisenhunt, Casey Schmitt 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
@@ -2048,7 +2048,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 50.1% (≤58.0%)",
+    "low_confidence_reason": "최고 확률 50.5% (≤58.0%)",
     "model_version": "v15"
   }
 ];
