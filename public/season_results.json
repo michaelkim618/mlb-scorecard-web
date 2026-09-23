@@ -15793,6 +15793,30 @@
       "away_bp_score": 44.1,
       "home_bp_score": 52.2,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-23",
+      "away": "Washington Nationals",
+      "home": "Detroit Tigers",
+      "game_number": 1,
+      "pick": "Detroit Tigers",
+      "pick_prob": 60.7,
+      "actual_winner": "Washington Nationals",
+      "away_score": 4,
+      "home_score": 1,
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "hot",
+      "away_sp_era": 7.94,
+      "home_sp_era": 3.13,
+      "away_bp_era": 4.93,
+      "home_bp_era": 3.3,
+      "away_sp_score": 18.0,
+      "home_sp_score": 51.8,
+      "away_bp_score": 20.4,
+      "home_bp_score": 60.599999999999994,
+      "bat_source": "lineup"
     }
   ]
 }
