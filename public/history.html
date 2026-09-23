@@ -923,7 +923,7 @@ body {
   async function _saveProfile(user) {
     const name = user.user_metadata?.full_name || user.user_metadata?.name || '';
     await _sb.from('profiles').upsert({
-      id: user.id, email: user.email, username: name,
+      id: user.id, email: user.email, display_name: name,
       updated_at: new Date().toISOString()
     }, { onConflict: 'id', ignoreDuplicates: false });
   }

@@ -1029,7 +1029,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     await _sb.from('profiles').upsert({
       id: user.id,
       email: user.email,
-      username: name,
+      display_name: name,
       updated_at: new Date().toISOString()
     }, { onConflict: 'id', ignoreDuplicates: false });
   }
