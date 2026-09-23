@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-23T19:58:18.783262+00:00",
+  "updated_at": "2026-09-23T20:36:32.048616+00:00",
   "news": [
+    {
+      "title": "4 teams, 3 spots: Making sense of very unsettled AL playoff race",
+      "link": "https://www.mlb.com/news/al-playoff-picture-in-final-week-2026-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ah61r8wsocy6qjqwd2q3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Andrew Simon",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-23T20:17:00+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Volpe could play 3rd base in final week; Stanton, Grisham set for live at-bats",
+      "link": "https://www.mlb.com/news/anthony-volpe-could-see-time-at-3rd-base",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rprbmemxtsxkth9ps4ly",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-23T19:58:35+00:00",
+      "time_ago": "37m ago"
+    },
     {
       "title": "Acuña out of lineup day after fouling ball off left shin",
       "link": "https://www.mlb.com/news/ronald-acuna-jr-exits-braves-game-left-leg",
@@ -12,19 +38,45 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-23T19:34:00+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "1h ago"
     },
     {
-      "title": "4 teams, 3 spots: Making sense of very unsettled AL playoff race",
-      "link": "https://www.mlb.com/news/al-playoff-picture-in-final-week-2026-season",
+      "title": "Mets close to hiring former Twins president of baseball ops to front office role (sources)",
+      "link": "https://www.mlb.com/news/mets-derek-falvey-front-office-role",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/stm74xqogp7crtegyt42",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pdnj2upu8ozc35kpvl2d",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Andrew Simon",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-23T17:38:50+00:00",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-23T18:23:00+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Angels optimism for '27 grows as they trend in right direction",
+      "link": "https://www.mlb.com/news/angels-optimistic-about-2027-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ztt7hfhqvpae8vpkspdd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rhett Bollinger",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-23T18:05:28+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Watch FREE: 4 potential MiLB title-clinchers tonight -- one feat. MLB No. 1 prospect Jesús Made",
+      "link": "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jzzzzd9uz0goh5rsn6ih",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brendan Samson and Rob Terranova",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-23T17:44:00+00:00",
       "time_ago": "2h ago"
     },
     {
@@ -38,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-23T17:17:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "5 reasons the Yankees can win without Judge",
@@ -51,59 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-23T16:30:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Here's the latest postseason picture",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ggyqpcukjyo6tx0lsaqd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-23T16:18:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "The teams no one wants to play in October",
-      "link": "https://www.mlb.com/news/scariest-mlb-teams-to-play-in-october-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mowuf8zfzsimooxwvowj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Travis Sawchik",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-23T14:45:00+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "'Let’s go 5-0': Astros control their destiny after moving into tie for AL West lead",
-      "link": "https://www.mlb.com/news/astros-move-into-tie-for-first-place-in-al-west",
-      "summary": "Javier, Peña, Matthews all exit with injuries as Houston battles for playoff berth",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790139620/mlb/dujni0h7ywgyhsrwvsjn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-23T06:15:00+00:00",
-      "time_ago": "13h ago"
-    },
-    {
-      "title": "Guards-Red Sox, Astros-Mariners amid tight playoff races on ESPN",
-      "link": "https://www.mlb.com/news/guardians-red-sox-and-astros-mariners-on-espn-sept-23-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jigachtwzoclgvbuhh8r",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-23T06:11:00+00:00",
-      "time_ago": "13h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
