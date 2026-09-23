@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-23T21:38:19.219349+00:00",
+  "updated_at": "2026-09-23T22:09:43.579395+00:00",
   "news": [
+    {
+      "title": "'I'm going to get my 80': Nuñez not satisfied after breaking Nats' single-season stolen base record",
+      "link": "https://www.mlb.com/news/nasim-nunez-sets-nationals-single-season-record-for-stolen-bases",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790193463/mlb/vgmyfc7aqiptnxerw0wp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-23T22:00:00+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Cease will finish season on IL after Blue Jays get eliminated",
+      "link": "https://www.mlb.com/news/dylan-cease-right-shoulder-inflammation-mri",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/clxoytwjbuyunx0gntir",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-23T21:28:00+00:00",
+      "time_ago": "41m ago"
+    },
     {
       "title": "Alonso crushes 41st homer, 1st off Scherzer as Orioles stave off elimination vs. Blue Jays",
       "link": "https://www.mlb.com/news/pete-alonso-hits-41st-home-run-orioles-beat-blue-jays",
@@ -12,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-23T21:22:00+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "Sunday's Cubs-Red Sox game moved; clubs to play split doubleheader Friday",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-23T20:47:52+00:00",
-      "time_ago": "50m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "4 teams, 3 spots: Making sense of very unsettled AL playoff race",
@@ -41,19 +67,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Nuñez blazes way into Nats' record book with most stolen bases in a season",
-      "link": "https://www.mlb.com/news/nasim-nunez-sets-nationals-single-season-record-for-stolen-bases",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790193463/mlb/vgmyfc7aqiptnxerw0wp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-23T20:03:20+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Volpe could play 3rd base in final week; Stanton, Grisham set for live at-bats",
       "link": "https://www.mlb.com/news/anthony-volpe-could-see-time-at-3rd-base",
       "summary": "",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-23T19:58:35+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Acuña out of lineup day after fouling ball off left shin",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-23T18:23:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Angels optimism for '27 grows as they trend in right direction",
-      "link": "https://www.mlb.com/news/angels-optimistic-about-2027-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ztt7hfhqvpae8vpkspdd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Rhett Bollinger",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-23T18:05:28+00:00",
       "time_ago": "3h ago"
     }
   ]
