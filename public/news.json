@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-23T01:08:37.853759+00:00",
+  "updated_at": "2026-09-23T01:42:49.517834+00:00",
   "news": [
+    {
+      "title": "Tidwell (UCL sprain) latest Giants starter to hit IL",
+      "link": "https://www.mlb.com/news/blade-tidwell-leaves-start-against-twins-with-right-elbow-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xrskkn4xhhk1aitnxgrn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Maria Guardado",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-23T01:26:00+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "With monster night, Abrams joins Nats' exclusive 100+ RBI club",
+      "link": "https://www.mlb.com/news/cj-abrams-hits-two-home-runs-against-tigers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ttxuqqwqztgraedus6xq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jessica Camerato",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-23T01:25:22+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Wheeler achieves career, franchise milestones to help Phils close in on Wild Card",
+      "link": "https://www.mlb.com/news/zack-wheeler-reaches-2-000-career-strikeouts",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790126334/mlb/ebktpta1ogsugnp7if7w",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-23T01:24:00+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Jones carries another perfect-game bid into 6th in Pirates' shutout win",
+      "link": "https://www.mlb.com/news/jared-jones-carries-perfect-game-bid-into-6th-inning",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790126594/mlb/bdj3uuwwktmklrhjcfx9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-23T01:23:37+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "5 reasons the Yankees can win without Judge",
+      "link": "https://www.mlb.com/news/how-yankees-can-thrive-in-the-playoffs-without-aaron-judge",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dikulutesqqizctygd9u",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-23T01:08:19+00:00",
+      "time_ago": "34m ago"
+    },
     {
       "title": "Muñoz avoids serious knee injury, could return Tuesday",
       "link": "https://www.mlb.com/news/andres-munoz-avoids-serious-knee-injury",
@@ -12,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-23T01:00:32+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "Acuña exits with left shin contusion after fouling ball off leg",
@@ -25,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-23T00:33:10+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Cubs determining next steps for Steele as regular season nears finish line",
@@ -38,72 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-23T00:26:02+00:00",
-      "time_ago": "42m ago"
-    },
-    {
-      "title": "Andy Green to stay on as Mets manager, signs 3-year contract",
-      "link": "https://www.mlb.com/news/andy-green-named-mets-manager-on-3-year-contract",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/to4l9uxmrzuu7olgn3ij",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-09-23T00:16:00+00:00",
-      "time_ago": "52m ago"
-    },
-    {
-      "title": "Bregman (facial fractures) won't need IL, could return this weekend",
-      "link": "https://www.mlb.com/news/alex-bregman-cubs-facial-fractures-postseason-return",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/joqoepakc23m2ajr8hpe",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-22T23:52:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Zack attack! Wheeler strikes out the side to reach 2,000 career K's",
-      "link": "https://www.mlb.com/news/zack-wheeler-reaches-2-000-career-strikeouts",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ixhpoe7pefnbc6wpfesl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-22T23:42:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Pederson lands on IL with hand fracture, hopes to return for postseason",
-      "link": "https://www.mlb.com/news/joc-pederson-placed-on-il-with-left-hand-fracture",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uppq7ta5lnslojzsu6lp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-22T23:37:41+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "How weather in Boston could affect a series vs. Cubs with seeding implications",
-      "link": "https://www.mlb.com/news/cubs-red-sox-series-weather-implications",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jvaam7qwqtauobshrdk2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian  Ian Browne",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-22T23:03:00+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }

@@ -746,16 +746,16 @@ window.PREDICTIONS_DATA = [
     "away_standing": {
       "div_rank": 4,
       "div_name": "NL East",
-      "wins": 73,
+      "wins": 74,
       "losses": 84,
-      "games_back": "19.5"
+      "games_back": "19.0"
     },
     "home_standing": {
       "div_rank": 3,
       "div_name": "AL Central",
       "wins": 74,
-      "losses": 83,
-      "games_back": "7.5"
+      "losses": 84,
+      "games_back": "8.0"
     },
     "away_recent_form": {
       "games": [
@@ -956,27 +956,27 @@ window.PREDICTIONS_DATA = [
           ],
           "single_sample_capped": true
         },
-        "bp_score": 42.4,
+        "bp_score": 43.3,
         "bp_detail": {
-          "bullpen_era": 4.52,
-          "recent_era": 4.34,
-          "recent_appearances": 19,
-          "recent_ip": 29.0,
-          "team_era": 4.03,
-          "bp_ip": 133.3,
+          "bullpen_era": 4.49,
+          "recent_era": 4.2,
+          "recent_appearances": 20,
+          "recent_ip": 30.0,
+          "team_era": 4.02,
+          "bp_ip": 134.3,
           "bp_count": 8,
-          "closer_era": 3.65,
+          "closer_era": 3.38,
           "closer_name": "Erik Tolman"
         },
-        "bat_score": 29.0,
+        "bat_score": 28.8,
         "bat_detail": {
-          "recent_avg": 0.241,
+          "recent_avg": 0.24,
           "runs_per_g": 4.7,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
-          "season_ops": 0.697,
+          "season_ops": 0.696,
           "season_slg": null,
-          "season_avg": 0.241,
+          "season_avg": 0.24,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -985,9 +985,9 @@ window.PREDICTIONS_DATA = [
             "James Wood(0.750)",
             "Daylen Lile(0.734)",
             "Abimelec Ortiz(0.536)",
-            "CJ Abrams(0.854)",
+            "CJ Abrams(0.853)",
             "Dylan Crews(0.617)",
-            "Jorbit Vivas(0.675)",
+            "Jorbit Vivas(0.663)",
             "Brady House(0.680)",
             "Keibert Ruiz(0.706)",
             "Jacob Young(0.725)"
@@ -1014,7 +1014,7 @@ window.PREDICTIONS_DATA = [
             {
               "id": 682928,
               "name": "CJ Abrams",
-              "ops": 0.854,
+              "ops": 0.853,
               "avg": 0.268
             },
             {
@@ -1026,8 +1026,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 678391,
               "name": "Jorbit Vivas",
-              "ops": 0.675,
-              "avg": 0.267
+              "ops": 0.663,
+              "avg": 0.258
             },
             {
               "id": 691781,
@@ -1064,8 +1064,8 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           }
         },
-        "sit_score": 42.0,
-        "total": 33.7
+        "sit_score": 46.0,
+        "total": 34.4
       },
       "home": {
         "sp_score": 30.0,
@@ -1154,41 +1154,41 @@ window.PREDICTIONS_DATA = [
           "closer_era": 3.35,
           "closer_name": "Kenley Jansen"
         },
-        "bat_score": 35.5,
+        "bat_score": 35.3,
         "bat_detail": {
-          "recent_avg": 0.262,
+          "recent_avg": 0.261,
           "runs_per_g": 4.9,
           "hr_per_g": 0.9,
           "bb_per_g": 3.0,
-          "season_ops": 0.764,
+          "season_ops": 0.763,
           "season_slg": null,
-          "season_avg": 0.262,
+          "season_avg": 0.261,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Gleyber Torres(0.619)",
-            "Hao-Yu Lee(0.901)",
+            "Gleyber Torres(0.612)",
+            "Hao-Yu Lee(0.908)",
             "Riley Greene(0.873)",
             "Eduardo Valencia(0.989)",
             "Ben Malgeri(0.796)",
             "Dillon Dingler(0.672)",
             "Spencer Torkelson(1.066)",
             "Javier Báez(0.556)",
-            "John Peck(0.408)"
+            "John Peck(0.399)"
           ],
           "lineup_players": [
             {
               "id": 650402,
               "name": "Gleyber Torres",
-              "ops": 0.619,
-              "avg": 0.171
+              "ops": 0.612,
+              "avg": 0.167
             },
             {
               "id": 701678,
               "name": "Hao-Yu Lee",
-              "ops": 0.901,
+              "ops": 0.908,
               "avg": 0.349
             },
             {
@@ -1230,15 +1230,15 @@ window.PREDICTIONS_DATA = [
             {
               "id": 807726,
               "name": "John Peck",
-              "ops": 0.408,
-              "avg": 0.111
+              "ops": 0.399,
+              "avg": 0.107
             }
           ],
           "bat_trend": "hot",
           "last5_rpg": 4.6,
-          "last5_avg": 0.292,
+          "last5_avg": 0.287,
           "home_split": {
-            "recent_avg": 0.249,
+            "recent_avg": 0.247,
             "runs_per_g": 5.2,
             "hr_per_g": 1.2,
             "n_games": 10
@@ -1250,14 +1250,14 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           }
         },
-        "sit_score": 52.6,
-        "total": 43.9
+        "sit_score": 48.5,
+        "total": 43.2
       }
     },
     "scores": {
-      "away_offense": 29.0,
-      "away_defense": 38.0,
-      "home_offense": 35.5,
+      "away_offense": 28.8,
+      "away_defense": 38.6,
+      "home_offense": 35.3,
       "home_defense": 47.8
     },
     "actual_score": {
