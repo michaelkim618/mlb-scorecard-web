@@ -2753,7 +2753,7 @@ window.PREDICTIONS_DATA = [
             "Brandon Lowe(0.891)",
             "Bryan Reynolds(0.743)",
             "Oneil Cruz(0.859)",
-            "Rafael Flores(0.996)",
+            "Rafael Flores Jr.(0.996)",
             "Ryan O'Hearn(0.669)",
             "Ronny Simon(0.738)",
             "Spencer Horwitz(0.708)",
@@ -2786,7 +2786,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 804668,
-              "name": "Rafael Flores",
+              "name": "Rafael Flores Jr.",
               "ops": 0.996,
               "avg": 0.394
             },
@@ -5042,11 +5042,11 @@ window.PREDICTIONS_DATA = [
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Ronald Acuña(0.972)",
+            "Ronald Acuña Jr.(0.972)",
             "Drake Baldwin(0.899)",
             "Matt Olson(0.847)",
             "Ozzie Albies(0.558)",
-            "Michael Harris(0.859)",
+            "Michael Harris II(0.859)",
             "Mauricio Dubón(0.838)",
             "Austin Riley(0.602)",
             "Sean Murphy(0.386)",
@@ -5055,7 +5055,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 660670,
-              "name": "Ronald Acuña",
+              "name": "Ronald Acuña Jr.",
               "ops": 0.972,
               "avg": 0.342
             },
@@ -5079,7 +5079,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671739,
-              "name": "Michael Harris",
+              "name": "Michael Harris II",
               "ops": 0.859,
               "avg": 0.357
             },
@@ -5809,7 +5809,7 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Carter Jensen(0.873)",
-            "Bobby Witt(0.754)",
+            "Bobby Witt Jr.(0.754)",
             "Jac Caglianone(0.738)",
             "Maikel Garcia(0.659)",
             "Vinnie Pasquantino(0.923)",
@@ -5827,7 +5827,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 677951,
-              "name": "Bobby Witt",
+              "name": "Bobby Witt Jr.",
               "ops": 0.754,
               "avg": 0.289
             },
@@ -9390,13 +9390,13 @@ window.PREDICTIONS_DATA = [
           "recent_era": 4.74,
           "recent_appearances": 18,
           "recent_ip": 24.7,
-          "team_era": 3.98,
+          "team_era": 3.89,
           "bp_ip": 336.0,
           "bp_count": 8,
           "closer_era": 0.83,
           "closer_name": "Josh Hader"
         },
-        "bat_score": 38.2,
+        "bat_score": 37.2,
         "bat_detail": {
           "recent_avg": 0.254,
           "runs_per_g": 3.3,
@@ -9493,7 +9493,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.0,
-        "total": 53.0
+        "total": 52.7
       },
       "home": {
         "sp_score": 36.9,
@@ -9684,7 +9684,7 @@ window.PREDICTIONS_DATA = [
       }
     },
     "scores": {
-      "away_offense": 38.2,
+      "away_offense": 37.2,
       "away_defense": 53.0,
       "home_offense": 26.4,
       "home_defense": 40.3
@@ -9703,7 +9703,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "Houston Astros",
     "model_winner": "Houston Astros",
     "model_correct": true,
-    "notes": "Houston Astros IL: Brandon Walter, Carlos Correa, Enyel De Los Santos, Mike Burrows, Steven Okert / Seattle Mariners IL: Brendan Donovan, Brennen Davis, Cole Wilcox, Colt Emerson, Emerson Hancock 외 다수",
+    "notes": "Houston Astros IL: Brandon Walter, Carlos Correa, Cristian Javier, Enyel De Los Santos, Jake Meyers 외 다수 / Seattle Mariners IL: Brendan Donovan, Brennen Davis, Cole Wilcox, Colt Emerson, Emerson Hancock 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
@@ -10145,7 +10145,7 @@ window.PREDICTIONS_DATA = [
           "runs_per_g": 3.7,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.678,
+          "season_ops": 0.679,
           "season_slg": null,
           "season_avg": 0.241,
           "n_games": 9,
@@ -10153,11 +10153,11 @@ window.PREDICTIONS_DATA = [
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Luke Keaschall(0.825)",
+            "Luke Keaschall(0.824)",
             "Brooks Lee(0.788)",
-            "Kody Clemens(0.553)",
+            "Kody Clemens(0.552)",
             "Josh Bell(0.672)",
-            "Walker Jenkins(0.849)",
+            "Walker Jenkins(0.858)",
             "Emmanuel Rodriguez(0.631)",
             "Royce Lewis(0.541)",
             "Victor Caratini(0.512)",
@@ -10167,7 +10167,7 @@ window.PREDICTIONS_DATA = [
             {
               "id": 807712,
               "name": "Luke Keaschall",
-              "ops": 0.825,
+              "ops": 0.824,
               "avg": 0.342
             },
             {
@@ -10179,7 +10179,7 @@ window.PREDICTIONS_DATA = [
             {
               "id": 665019,
               "name": "Kody Clemens",
-              "ops": 0.553,
+              "ops": 0.552,
               "avg": 0.121
             },
             {
@@ -10191,7 +10191,7 @@ window.PREDICTIONS_DATA = [
             {
               "id": 805805,
               "name": "Walker Jenkins",
-              "ops": 0.849,
+              "ops": 0.858,
               "avg": 0.353
             },
             {
@@ -10221,7 +10221,7 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "stable",
           "last5_rpg": 4.2,
-          "last5_avg": 0.238,
+          "last5_avg": 0.237,
           "home_split": {
             "recent_avg": 0.24,
             "runs_per_g": 5.4,
@@ -10229,7 +10229,7 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.233,
+            "recent_avg": 0.232,
             "runs_per_g": 3.7,
             "hr_per_g": 1.2,
             "n_games": 10
@@ -10307,14 +10307,14 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 35.6,
+        "bp_score": 36.0,
         "bp_detail": {
-          "bullpen_era": 4.12,
-          "recent_era": 4.71,
-          "recent_appearances": 23,
-          "recent_ip": 36.3,
-          "team_era": 4.05,
-          "bp_ip": 258.0,
+          "bullpen_era": 4.11,
+          "recent_era": 4.66,
+          "recent_appearances": 24,
+          "recent_ip": 36.7,
+          "team_era": 4.04,
+          "bp_ip": 258.7,
           "bp_count": 11,
           "closer_era": 4.6,
           "closer_name": "Joel Kuhnel"
@@ -10416,14 +10416,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 42.2,
-        "total": 34.7
+        "total": 34.8
       }
     },
     "scores": {
       "away_offense": 25.0,
       "away_defense": 56.9,
       "home_offense": 15.0,
-      "home_defense": 37.5
+      "home_defense": 37.7
     },
     "actual_score": {
       "away": 3,
@@ -10908,7 +10908,7 @@ window.PREDICTIONS_DATA = [
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis(0.936)",
+            "Fernando Tatis Jr.(0.936)",
             "Dustin Harris(0.761)",
             "Manny Machado(0.634)",
             "Ty France(0.947)",
@@ -10921,7 +10921,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis",
+              "name": "Fernando Tatis Jr.",
               "ops": 0.936,
               "avg": 0.293
             },
@@ -11060,15 +11060,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 68.9,
+        "bp_score": 69.4,
         "bp_detail": {
-          "bullpen_era": 3.5,
-          "recent_era": 2.0,
-          "recent_appearances": 18,
-          "recent_ip": 18.7,
-          "team_era": 3.42,
-          "bp_ip": 319.0,
-          "bp_count": 8,
+          "bullpen_era": 3.39,
+          "recent_era": 2.16,
+          "recent_appearances": 17,
+          "recent_ip": 16.7,
+          "team_era": 3.31,
+          "bp_ip": 273.3,
+          "bp_count": 7,
           "closer_era": 2.77,
           "closer_name": "Tanner Scott"
         },
@@ -11169,14 +11169,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 71.9,
-        "total": 56.3
+        "total": 56.5
       }
     },
     "scores": {
       "away_offense": 54.0,
       "away_defense": 63.4,
       "home_offense": 53.9,
-      "home_defense": 43.5
+      "home_defense": 43.7
     },
     "actual_score": {
       "away": 0,
