@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-23T00:46:42.381946+00:00",
+  "updated_at": "2026-09-23T01:08:37.853759+00:00",
   "news": [
+    {
+      "title": "Muñoz avoids serious knee injury, could return Tuesday",
+      "link": "https://www.mlb.com/news/andres-munoz-avoids-serious-knee-injury",
+      "summary": "GM Hollander offers latest on Donovan, Hancock, Brash",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790124451/mlb/g8lk1ml2fi238orubpwh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-23T01:00:32+00:00",
+      "time_ago": "8m ago"
+    },
     {
       "title": "Acuña exits with left shin contusion after fouling ball off leg",
       "link": "https://www.mlb.com/news/ronald-acuna-jr-exits-braves-game-left-leg",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-23T00:33:10+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "35m ago"
     },
     {
       "title": "Cubs determining next steps for Steele as regular season nears finish line",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-23T00:26:02+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "Andy Green to stay on as Mets manager, signs 3-year contract",
@@ -38,7 +51,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-09-23T00:16:00+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "Bregman (facial fractures) won't need IL, could return this weekend",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T23:52:00+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Zack attack! Wheeler strikes out the side to reach 2,000 career K's",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-22T23:03:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "3 top prospects named finalists for Hitter of the Year",
-      "link": "https://www.mlb.com/news/hitter-of-the-year-finalists-for-2026-milb-awards",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/otec1sjwpzc8wif7jrh3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sam Dykstra",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-22T23:00:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
