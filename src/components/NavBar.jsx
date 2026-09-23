@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useNavigate, useLocation } from "react-router-dom";
 import useSeasonResults from "../hooks/useSeasonResults";
+import { useAuth } from "../hooks/useAuth";
 
 export default function NavBar() {
   const [scrolled, setScrolled] = useState(false);
@@ -11,6 +12,7 @@ export default function NavBar() {
   const isHomePage = location.pathname === "/";
 
   const { W: wins, L: losses, pct: pctRaw } = useSeasonResults();
+  const { user, signOut } = useAuth();
   const pct = pctRaw ?? "0.0";
 
   useEffect(() => {
@@ -148,6 +150,21 @@ export default function NavBar() {
               >
                 Follow @MLB_Scorecard
               </a>
+              {user && (
+                <button
+                  onClick={signOut}
+                  style={{
+                    background: "none", border: "1px solid var(--color-border)",
+                    borderRadius: "var(--radius-full)", padding: "7px 14px",
+                    fontSize: 13, fontWeight: 600, cursor: "pointer",
+                    color: "var(--color-muted)", transition: "all 0.15s",
+                  }}
+                  onMouseEnter={e => { e.target.style.borderColor = "#ef4444"; e.target.style.color = "#ef4444"; }}
+                  onMouseLeave={e => { e.target.style.borderColor = "var(--color-border)"; e.target.style.color = "var(--color-muted)"; }}
+                >
+                  로그아웃
+                </button>
+              )}
             </div>
           )}
 
@@ -258,6 +275,21 @@ export default function NavBar() {
           >
             Follow @MLB_Scorecard
           </a>
+          {user && (
+            <button
+              onClick={signOut}
+              style={{
+                marginTop: 8,
+                display: "block", width: "100%", textAlign: "center",
+                background: "none", border: "1px solid #ef4444",
+                borderRadius: "var(--radius-full)", padding: "10px 16px",
+                fontSize: 14, fontWeight: 600, cursor: "pointer",
+                color: "#ef4444",
+              }}
+            >
+              로그아웃
+            </button>
+          )}
         </div>
       )}
     </>
