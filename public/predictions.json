@@ -1365,7 +1365,7 @@
       "home_defense": 53.3
     },
     "actual_score": {
-      "away": 0,
+      "away": 2,
       "home": 4
     },
     "lineup_confirmed": true,
@@ -1620,8 +1620,8 @@
     "home_pitcher_gamelog": [],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 46.0,
-      "home": 54.0
+      "away": 45.9,
+      "home": 54.1
     },
     "expected_score": {
       "away": 1.7,
@@ -1664,30 +1664,30 @@
           "rest_days": 5,
           "rest_note": null
         },
-        "bp_score": 71.7,
+        "bp_score": 71.8,
         "bp_detail": {
-          "bullpen_era": 3.04,
+          "bullpen_era": 3.03,
           "recent_era": 2.0,
-          "recent_appearances": 18,
-          "recent_ip": 18.3,
+          "recent_appearances": 19,
+          "recent_ip": 19.3,
           "team_era": 3.32,
-          "bp_ip": 307.7,
+          "bp_ip": 308.7,
           "bp_count": 8,
           "closer_era": 1.29,
           "closer_name": "Louis Varland"
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.255,
-          "runs_per_g": 2.7,
+          "recent_avg": 0.256,
+          "runs_per_g": 2.9,
           "hr_per_g": 0.7,
           "bb_per_g": 2.4,
           "season_ops": 0.72,
           "season_avg": 0.25,
           "season_slg": 0.4,
           "n_games": 10,
-          "last5_rpg": 2.6,
-          "last5_avg": 0.233,
+          "last5_rpg": 3.0,
+          "last5_avg": 0.236,
           "bat_trend": "cold",
           "home_split": {
             "recent_avg": 0.269,
@@ -1703,21 +1703,21 @@
             "bat_trend": "stable"
           },
           "away_split": {
-            "recent_avg": 0.255,
-            "runs_per_g": 2.7,
+            "recent_avg": 0.256,
+            "runs_per_g": 2.9,
             "hr_per_g": 0.7,
             "bb_per_g": 2.4,
             "season_ops": 0.72,
             "season_avg": 0.25,
             "season_slg": 0.4,
             "n_games": 10,
-            "last5_rpg": 2.6,
-            "last5_avg": 0.233,
+            "last5_rpg": 3.0,
+            "last5_avg": 0.236,
             "bat_trend": "cold"
           }
         },
         "sit_score": 43.9,
-        "total": 45.1
+        "total": 45.2
       },
       "home": {
         "sp_score": 43.5,
@@ -1734,21 +1734,21 @@
           "rest_days": null,
           "rest_note": null
         },
-        "bp_score": 60.6,
+        "bp_score": 60.9,
         "bp_detail": {
-          "bullpen_era": 3.58,
+          "bullpen_era": 3.56,
           "recent_era": 2.0,
-          "recent_appearances": 16,
-          "recent_ip": 15.0,
-          "team_era": 3.85,
-          "bp_ip": 380.0,
+          "recent_appearances": 18,
+          "recent_ip": 16.7,
+          "team_era": 3.86,
+          "bp_ip": 381.7,
           "bp_count": 10,
           "closer_era": 3.14,
           "closer_name": "Rico Garcia"
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.211,
+          "recent_avg": 0.209,
           "runs_per_g": 3.4,
           "hr_per_g": 0.9,
           "bb_per_g": 3.2,
@@ -1757,10 +1757,10 @@
           "season_slg": 0.4,
           "n_games": 10,
           "last5_rpg": 2.6,
-          "last5_avg": 0.203,
+          "last5_avg": 0.199,
           "bat_trend": "cold",
           "home_split": {
-            "recent_avg": 0.211,
+            "recent_avg": 0.209,
             "runs_per_g": 3.4,
             "hr_per_g": 0.9,
             "bb_per_g": 3.2,
@@ -1769,7 +1769,7 @@
             "season_slg": 0.4,
             "n_games": 10,
             "last5_rpg": 2.6,
-            "last5_avg": 0.203,
+            "last5_avg": 0.199,
             "bat_trend": "cold"
           },
           "away_split": {
@@ -1794,7 +1794,7 @@
       "away_offense": 25.0,
       "away_defense": 57.6,
       "home_offense": 25.0,
-      "home_defense": 52.0
+      "home_defense": 52.2
     },
     "actual_score": {
       "away": null,
@@ -1819,7 +1819,7 @@
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 0.0pt (≤5.0pt) / 최고 확률 54.0% (≤58.0%)",
+    "low_confidence_reason": "SP 점수 차이 0.0pt (≤5.0pt) / 최고 확률 54.1% (≤58.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -10763,8 +10763,8 @@
     "model_winner": "Los Angeles Dodgers",
     "model_correct": null,
     "notes": "San Diego Padres IL: Bryan Hoeing, Gavin Sheets, Jason Adam, Jeremiah Estrada, Joe Musgrove 외 다수 / Los Angeles Dodgers IL: Ben Casparius, Brusdar Graterol, Dalton Rushing, Edgardo Henriquez, Eric Lauer 외 다수",
-    "kalshi_prob": 66.0,
-    "edge": -4.4,
+    "kalshi_prob": 67.0,
+    "edge": -5.4,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
