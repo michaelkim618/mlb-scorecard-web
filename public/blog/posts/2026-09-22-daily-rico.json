@@ -1,17 +1,17 @@
 {
-  "title": "Sep 22 Results + Sep 23 Preview: 60% Isn't Pretty, But It's a Win",
-  "summary": "9-6 on Sep 22 with some ugly misses. Tomorrow we're riding Framber and the Tigers.",
+  "title": "Sep 22 Results + Sep 23 Preview: Sixty Percent Is Good, But Let's Talk About Those Misses",
+  "summary": "9-6 on Sep 22 looks nice until you see how we fumbled the bag on some gimmes",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Let Me Be Honest: Today Was Messy\n\nLook, 60% accuracy sounds decent on paper, but let's not pretend this was some masterclass performance. We went 9-6 on Sep 22, and while that's technically a winning day, half those picks felt like coin flips that happened to land our way. The Rangers pick at 50%? That was basically throwing darts blindfolded. And don't even get me started on the Cubs debacle."
+      "value": "## Let Me Be Honest About Yesterday\n\nSixty percent. That's what we posted on September 22nd. Most people would call that a win. Most people would pop champagne and write some feel-good nonsense about \"trusting the process.\" But I'm not most people, and this isn't that kind of blog.\n\nLet's get real: we went 9-6, which sounds great until you look at the tape. We missed on a 61% Tigers pick. We whiffed on a 61% Cubs lock. And don't even get me started on that Rangers pick at 50% - what were we even doing there?"
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Today W-L",
+          "label": "Sep 22 W-L",
           "value": "9-6"
         },
         {
@@ -19,67 +19,67 @@
           "value": "60.0%"
         },
         {
-          "label": "Confidence Level",
-          "value": "Shaky"
+          "label": "High-Confidence Misses",
+          "value": "3"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Brutal Truth About Today's Picks\n\nSix losses. SIX. And you know what the worst part is? Three of those losses came from picks where we had 60%+ confidence. The Tigers let us down at 62%, the Cubs embarrassed us at 61%, and the Braves couldn't deliver at 51%. When your high-confidence picks fail, that's not bad luck—that's a reality check.\n\nThe Rays split their doubleheader exactly how you'd expect chaos to unfold, and somehow we only got one right. The Mets-Rangers pick? We chose Texas at 50-50 odds. That's not analysis, that's a guess with a fancy percentage attached to it."
+      "value": "## The Ugly Truth Behind the Numbers\n\nYeah, we hit on the Pirates at 62%. Great. We nailed the Guardians and Red Sox picks. Fantastic. But when you're giving people 61% confidence and it goes sideways TWICE in one day? That's not variance, that's a problem.\n\nThe Rays split with the Yankees - we went 1-1 there, which is basically a coin flip dressed up as analysis. The Braves let us down at 51%, which honestly, anything under 55% is basically admitting we're guessing anyway."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 22 Prediction Results by Confidence",
+      "title": "Sep 22 Prediction Confidence vs Reality",
       "data": [
         {
-          "name": "Rays (G1)",
-          "probability": 52,
+          "name": "Pirates 62%",
+          "probability": 62,
+          "result": 1
+        },
+        {
+          "name": "Tigers 61%",
+          "probability": 61,
           "result": 0
         },
         {
-          "name": "Rays (G2)",
+          "name": "Cubs 61%",
+          "probability": 61,
+          "result": 0
+        },
+        {
+          "name": "Rays 61%",
           "probability": 61,
           "result": 1
         },
         {
-          "name": "Tigers",
-          "probability": 62,
-          "result": 0
-        },
-        {
-          "name": "Pirates",
-          "probability": 62,
-          "result": 1
-        },
-        {
-          "name": "Brewers",
+          "name": "Brewers 54%",
           "probability": 54,
           "result": 0
         },
         {
-          "name": "Guardians",
+          "name": "Guardians 53%",
           "probability": 53,
           "result": 1
         },
         {
-          "name": "Braves",
-          "probability": 51,
+          "name": "Rays 52%",
+          "probability": 52,
           "result": 0
         },
         {
-          "name": "Sox",
+          "name": "Sox 52%",
           "probability": 52,
           "result": 1
         },
         {
-          "name": "Cubs",
-          "probability": 61,
+          "name": "Braves 51%",
+          "probability": 51,
           "result": 0
         },
         {
-          "name": "Rangers",
+          "name": "Rangers 50%",
           "probability": 50,
           "result": 0
         }
@@ -94,28 +94,28 @@
         {
           "key": "result",
           "color": "#16A34A",
-          "label": "Correct (1=Yes, 0=No)"
+          "label": "Correct (1=Hit, 0=Miss)"
         }
       ]
     },
     {
       "type": "table",
-      "title": "Complete Sep 22 Game Results",
+      "title": "Complete Sep 22 Results Breakdown",
       "headers": [
-        "Game",
-        "Pick",
-        "Prob",
+        "Matchup",
+        "Our Pick",
+        "Confidence",
         "Result"
       ],
       "rows": [
         [
-          "Rays @ Yankees (G1)",
+          "Rays @ Yankees",
           "Rays",
           "52%",
           "✗"
         ],
         [
-          "Rays @ Yankees (G2)",
+          "Rays @ Yankees",
           "Rays",
           "61%",
           "✓"
@@ -123,7 +123,7 @@
         [
           "Nationals @ Tigers",
           "Tigers",
-          "62%",
+          "61%",
           "✗"
         ],
         [
@@ -172,22 +172,18 @@
     },
     {
       "type": "text",
-      "value": "## The Silver Lining Nobody Asked For\n\nHere's the thing: we still finished above .500, and in baseball betting, that's literally all that matters. You don't get style points for picking pretty games. The Guardians, Pirates, and Sox picks came through when we needed them, even if the confidence levels were basically shrugs.\n\nBut let's not pop champagne. A 60% day is pedestrian. It's a C+ on a good grading curve. We should be hitting 65-70% on these slates if the model is actually worth trusting."
-    },
-    {
-      "type": "text",
-      "value": "## Tomorrow's Top Pick: Time to Get Serious\n\nSep 23 brings us back to a game we already failed at yesterday—Nationals versus Tigers. And you know what? I'm not even mad we're going back to this well. Sometimes you need to learn from your mistakes, and sometimes the matchup is just too good to ignore."
+      "value": "## Tomorrow's Redemption Arc (Maybe)\n\nHere's where I'm supposed to tell you that September 23rd is going to be different. That we've learned from our mistakes and the model is locked in.\n\nBut let's be provocative for a second: what if it's not? What if 60% is just who we are right now?"
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Sep 23 Top Pick",
       "value": "Detroit Tigers over Washington Nationals",
-      "sub": "61% win probability · Framber Valdez vs Richard Lovelady"
+      "sub": "61% confidence · Framber Valdez vs Richard Lovelady"
     },
     {
       "type": "text",
-      "value": "## Why the Tigers Will Actually Show Up This Time\n\nLet me be brutally honest: picking the Tigers again after they burned us yesterday takes either courage or stupidity. I'm betting on courage. Here's why:\n\n**Framber Valdez is on the mound.** If you don't know that name, you haven't been paying attention. This is a legitimate ace who can dominate any lineup, especially one as anemic as Washington's. The Nationals are sending out Richard Lovelady, and while that's a great name for a romance novel protagonist, it's a terrible sign for their win probability.\n\nThe Tigers are at home, they're fighting for something, and they've got the pitching advantage that actually matters. Yesterday's loss? That was the exception. Tomorrow is the rule.\n\n## The Hot Take You Didn't Ask For\n\nIf the Tigers lose again tomorrow with Valdez on the mound against THIS Nationals roster, we're not just questioning the model—we're questioning if Detroit even wants to win games. But they will. 61% feels almost conservative.\n\nSep 22 was messy. Sep 23 is redemption day. Let's ride."
+      "value": "## Why the Tigers Are Tomorrow's Play\n\nFramber Valdez on the mound at home. Richard Lovelady on the other side. The model says Tigers at 61%.\n\nSound familiar? That's the EXACT confidence level we had on yesterday's Tigers pick that failed. So either we're about to look like geniuses who stuck to our guns, or we're doubling down on dysfunction.\n\nBut here's the hot take: Valdez is the real deal, and Lovelady's name sounds like a romance novelist, not someone who's going to shut down Detroit's lineup. The Tigers are at home, they've got momentum, and sometimes you just have to trust the uncomfortable truth that yesterday's loss doesn't mean today's analysis is wrong.\n\n## The Bottom Line\n\n60% wins. It's not sexy, it's not Instagram-worthy, but it's profitable if you manage your bankroll right. Tomorrow we're riding with Detroit at 61% confidence, and yeah, we know how that worked out yesterday with similar numbers.\n\nBut that's the game. You either believe in the process or you don't.\n\nI'm 80% convinced we're right about this one. Which, ironically, is more confidence than the model has."
     }
   ],
   "slug": "2026-09-22-daily-rico",

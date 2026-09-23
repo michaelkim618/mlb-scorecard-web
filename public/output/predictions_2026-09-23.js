@@ -1679,7 +1679,7 @@ window.PREDICTIONS_DATA = [
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.251,
+          "recent_avg": 0.25,
           "runs_per_g": 2.7,
           "hr_per_g": 0.7,
           "bb_per_g": 2.3,
@@ -1688,7 +1688,7 @@ window.PREDICTIONS_DATA = [
           "season_slg": 0.4,
           "n_games": 10,
           "last5_rpg": 2.6,
-          "last5_avg": 0.22,
+          "last5_avg": 0.218,
           "bat_trend": "cold",
           "home_split": {
             "recent_avg": 0.269,
@@ -1704,7 +1704,7 @@ window.PREDICTIONS_DATA = [
             "bat_trend": "stable"
           },
           "away_split": {
-            "recent_avg": 0.251,
+            "recent_avg": 0.25,
             "runs_per_g": 2.7,
             "hr_per_g": 0.7,
             "bb_per_g": 2.3,
@@ -1713,7 +1713,7 @@ window.PREDICTIONS_DATA = [
             "season_slg": 0.4,
             "n_games": 10,
             "last5_rpg": 2.6,
-            "last5_avg": 0.22,
+            "last5_avg": 0.218,
             "bat_trend": "cold"
           }
         },
@@ -1749,28 +1749,28 @@ window.PREDICTIONS_DATA = [
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.211,
+          "recent_avg": 0.21,
           "runs_per_g": 3.0,
           "hr_per_g": 0.8,
-          "bb_per_g": 2.9,
+          "bb_per_g": 3.0,
           "season_ops": 0.72,
           "season_avg": 0.25,
           "season_slg": 0.4,
           "n_games": 10,
           "last5_rpg": 1.8,
-          "last5_avg": 0.202,
+          "last5_avg": 0.198,
           "bat_trend": "cold",
           "home_split": {
-            "recent_avg": 0.211,
+            "recent_avg": 0.21,
             "runs_per_g": 3.0,
             "hr_per_g": 0.8,
-            "bb_per_g": 2.9,
+            "bb_per_g": 3.0,
             "season_ops": 0.72,
             "season_avg": 0.25,
             "season_slg": 0.4,
             "n_games": 10,
             "last5_rpg": 1.8,
-            "last5_avg": 0.202,
+            "last5_avg": 0.198,
             "bat_trend": "cold"
           },
           "away_split": {

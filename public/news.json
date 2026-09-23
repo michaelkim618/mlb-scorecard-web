@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T17:50:52.977576+00:00",
+  "updated_at": "2026-09-23T18:01:00.650966+00:00",
   "news": [
     {
       "title": "Making sense of a very much unsettled AL playoff picture",
@@ -12,7 +12,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-23T17:38:50+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "22m ago"
     },
     {
       "title": "Vladdy returns from back tightness in Game 1 of Blue Jays-O's DH",
@@ -25,7 +25,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-23T17:17:00+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "44m ago"
     },
     {
       "title": "5 reasons the Yankees can win without Judge",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-23T06:01:00+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "12h ago"
     }
   ]
 }
