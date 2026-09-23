@@ -1,45 +1,45 @@
 {
-  "title": "Sep 22 Results + Sep 23 Preview: 60% Win Rate? We'll Take It (But We Want More)",
-  "summary": "9-6 on Sep 22 with some brutal misses. Tomorrow we ride with Detroit and Framber.",
+  "title": "Sep 22 Results + Sep 23 Preview: 60% Isn't Pretty, But It's a Win",
+  "summary": "9-6 on Sep 22 with some ugly misses. Tomorrow we're riding Framber and the Tigers.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Let Me Be Honest: 60% Is Good, But Those Misses Hurt\n\nLook, I'm not going to sugarcoat this—9-6 is a winning day, and if you're complaining about a 60% hit rate, you don't understand sports betting. But let's talk about the *how* we got here, because some of these results were absolutely maddening.\n\nWe called 15 games yesterday and cashed on 9 of them. The wins? Clean. The losses? A few of them felt like the baseball gods were personally laughing at us. When you miss on a 61% Cubs pick at home, you start questioning everything. When the Rangers let us down at 50%? Well, that's just a coin flip that landed wrong.\n\nBut here's the thing—we're still profitable, we're still sharp, and tomorrow we've got a pick that I'm genuinely excited about."
+      "value": "## Let Me Be Honest: Today Was Messy\n\nLook, 60% accuracy sounds decent on paper, but let's not pretend this was some masterclass performance. We went 9-6 on Sep 22, and while that's technically a winning day, half those picks felt like coin flips that happened to land our way. The Rangers pick at 50%? That was basically throwing darts blindfolded. And don't even get me started on the Cubs debacle."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Sep 22 Record",
+          "label": "Today W-L",
           "value": "9-6"
         },
         {
-          "label": "Win Rate",
+          "label": "Accuracy",
           "value": "60.0%"
         },
         {
-          "label": "Biggest Miss",
-          "value": "Cubs 61%"
-        },
-        {
-          "label": "Best Hit",
-          "value": "Pirates 62%"
+          "label": "Confidence Level",
+          "value": "Shaky"
         }
       ]
     },
     {
+      "type": "text",
+      "value": "## The Brutal Truth About Today's Picks\n\nSix losses. SIX. And you know what the worst part is? Three of those losses came from picks where we had 60%+ confidence. The Tigers let us down at 62%, the Cubs embarrassed us at 61%, and the Braves couldn't deliver at 51%. When your high-confidence picks fail, that's not bad luck—that's a reality check.\n\nThe Rays split their doubleheader exactly how you'd expect chaos to unfold, and somehow we only got one right. The Mets-Rangers pick? We chose Texas at 50-50 odds. That's not analysis, that's a guess with a fancy percentage attached to it."
+    },
+    {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 22 Pick Confidence vs Results",
+      "title": "Sep 22 Prediction Results by Confidence",
       "data": [
         {
-          "name": "Rays",
+          "name": "Rays (G1)",
           "probability": 52,
           "result": 0
         },
         {
-          "name": "Rays",
+          "name": "Rays (G2)",
           "probability": 61,
           "result": 1
         },
@@ -99,21 +99,17 @@
       ]
     },
     {
-      "type": "text",
-      "value": "## The Brutal Breakdown: What Went Right and Wrong\n\nHere's where things get spicy. Our highest confidence picks went 1-2. That Cubs loss at 61%? Absolutely brutal. The Tigers miss at 62%? That one stings too. But the Pirates at 62%? Money in the bank.\n\nThe mid-range picks (50-54%) actually saved us, going 3-3. When you're betting close-to-even games, you expect variance. What you don't expect is your slam-dunk favorites to let you down.\n\nThe double-header Rays picks were perfect chaos—we went 1-1, which is basically the baseball gods telling us they have no idea what they're doing either."
-    },
-    {
       "type": "table",
-      "title": "Complete Sep 22 Results",
+      "title": "Complete Sep 22 Game Results",
       "headers": [
         "Game",
         "Pick",
-        "Confidence",
+        "Prob",
         "Result"
       ],
       "rows": [
         [
-          "Rays @ Yankees",
+          "Rays @ Yankees (G1)",
           "Rays",
           "52%",
           "✗"
@@ -176,18 +172,22 @@
     },
     {
       "type": "text",
-      "value": "## Tomorrow's Play: Detroit Tigers Are the Move\n\nLet me be crystal clear about something—when Framber Valdez is on the mound, you pay attention. The Tigers are getting him at home against the Nationals, who are trotting out Richard Lovelady. No disrespect to Lovelady, but this is a mismatch.\n\nFramber has been one of the most underrated arms in baseball, and the Tigers offense has shown they can do damage at home. Washington is playing out the string at this point in September. The model gives us 61% confidence, and honestly? I think that's conservative.\n\nThis is the kind of spot where you lean in, not pull back. Tomorrow's slate might have other games, but if you're looking for the sharpest play, it's Detroit. Period."
+      "value": "## The Silver Lining Nobody Asked For\n\nHere's the thing: we still finished above .500, and in baseball betting, that's literally all that matters. You don't get style points for picking pretty games. The Guardians, Pirates, and Sox picks came through when we needed them, even if the confidence levels were basically shrugs.\n\nBut let's not pop champagne. A 60% day is pedestrian. It's a C+ on a good grading curve. We should be hitting 65-70% on these slates if the model is actually worth trusting."
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Top Pick: Time to Get Serious\n\nSep 23 brings us back to a game we already failed at yesterday—Nationals versus Tigers. And you know what? I'm not even mad we're going back to this well. Sometimes you need to learn from your mistakes, and sometimes the matchup is just too good to ignore."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Sep 23 Top Pick",
       "value": "Detroit Tigers over Washington Nationals",
-      "sub": "61% confidence · Framber Valdez vs Richard Lovelady · Home advantage matters"
+      "sub": "61% win probability · Framber Valdez vs Richard Lovelady"
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nWe went 9-6 yesterday and made money. If you faded us, you left cash on the table. If you tailed every pick, you're up units. Tomorrow we're backing the Tigers with Framber on the bump, and I'm not losing sleep over it.\n\n60% is good. Tomorrow we're chasing better.\n\n*Let's ride.*"
+      "value": "## Why the Tigers Will Actually Show Up This Time\n\nLet me be brutally honest: picking the Tigers again after they burned us yesterday takes either courage or stupidity. I'm betting on courage. Here's why:\n\n**Framber Valdez is on the mound.** If you don't know that name, you haven't been paying attention. This is a legitimate ace who can dominate any lineup, especially one as anemic as Washington's. The Nationals are sending out Richard Lovelady, and while that's a great name for a romance novel protagonist, it's a terrible sign for their win probability.\n\nThe Tigers are at home, they're fighting for something, and they've got the pitching advantage that actually matters. Yesterday's loss? That was the exception. Tomorrow is the rule.\n\n## The Hot Take You Didn't Ask For\n\nIf the Tigers lose again tomorrow with Valdez on the mound against THIS Nationals roster, we're not just questioning the model—we're questioning if Detroit even wants to win games. But they will. 61% feels almost conservative.\n\nSep 22 was messy. Sep 23 is redemption day. Let's ride."
     }
   ],
   "slug": "2026-09-22-daily-rico",

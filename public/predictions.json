@@ -1620,8 +1620,8 @@
     "home_pitcher_gamelog": [],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 45.6,
-      "home": 54.4
+      "away": 46.0,
+      "home": 54.0
     },
     "expected_score": {
       "away": 1.7,
@@ -1678,16 +1678,16 @@
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.26,
-          "runs_per_g": 3.6,
-          "hr_per_g": 0.8,
-          "bb_per_g": 2.6,
+          "recent_avg": 0.251,
+          "runs_per_g": 2.7,
+          "hr_per_g": 0.7,
+          "bb_per_g": 2.3,
           "season_ops": 0.72,
           "season_avg": 0.25,
           "season_slg": 0.4,
           "n_games": 10,
           "last5_rpg": 2.6,
-          "last5_avg": 0.212,
+          "last5_avg": 0.22,
           "bat_trend": "cold",
           "home_split": {
             "recent_avg": 0.269,
@@ -1703,16 +1703,16 @@
             "bat_trend": "stable"
           },
           "away_split": {
-            "recent_avg": 0.26,
-            "runs_per_g": 3.6,
-            "hr_per_g": 0.8,
-            "bb_per_g": 2.6,
+            "recent_avg": 0.251,
+            "runs_per_g": 2.7,
+            "hr_per_g": 0.7,
+            "bb_per_g": 2.3,
             "season_ops": 0.72,
             "season_avg": 0.25,
             "season_slg": 0.4,
             "n_games": 10,
             "last5_rpg": 2.6,
-            "last5_avg": 0.212,
+            "last5_avg": 0.22,
             "bat_trend": "cold"
           }
         },
@@ -1720,7 +1720,7 @@
         "total": 45.1
       },
       "home": {
-        "sp_score": 43.7,
+        "sp_score": 43.5,
         "sp_detail": {
           "era": 4.5,
           "whip": 1.35,
@@ -1734,7 +1734,7 @@
           "rest_days": null,
           "rest_note": null
         },
-        "bp_score": 60.9,
+        "bp_score": 60.6,
         "bp_detail": {
           "bullpen_era": 3.58,
           "recent_era": 2.0,
@@ -1746,31 +1746,31 @@
           "closer_era": 3.14,
           "closer_name": "Rico Garcia"
         },
-        "bat_score": 25.6,
+        "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.209,
+          "recent_avg": 0.211,
           "runs_per_g": 3.0,
           "hr_per_g": 0.8,
-          "bb_per_g": 3.0,
+          "bb_per_g": 2.9,
           "season_ops": 0.72,
           "season_avg": 0.25,
           "season_slg": 0.4,
           "n_games": 10,
-          "last5_rpg": 3.6,
-          "last5_avg": 0.222,
-          "bat_trend": "hot",
+          "last5_rpg": 1.8,
+          "last5_avg": 0.202,
+          "bat_trend": "cold",
           "home_split": {
-            "recent_avg": 0.209,
+            "recent_avg": 0.211,
             "runs_per_g": 3.0,
             "hr_per_g": 0.8,
-            "bb_per_g": 3.0,
+            "bb_per_g": 2.9,
             "season_ops": 0.72,
             "season_avg": 0.25,
             "season_slg": 0.4,
             "n_games": 10,
-            "last5_rpg": 3.6,
-            "last5_avg": 0.222,
-            "bat_trend": "hot"
+            "last5_rpg": 1.8,
+            "last5_avg": 0.202,
+            "bat_trend": "cold"
           },
           "away_split": {
             "recent_avg": 0.225,
@@ -1787,14 +1787,14 @@
           }
         },
         "sit_score": 47.8,
-        "total": 41.6
+        "total": 41.3
       }
     },
     "scores": {
       "away_offense": 25.0,
       "away_defense": 57.6,
-      "home_offense": 25.6,
-      "home_defense": 52.3
+      "home_offense": 25.0,
+      "home_defense": 52.0
     },
     "actual_score": {
       "away": null,
@@ -1819,7 +1819,7 @@
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 0.2pt (≤5.0pt) / 최고 확률 54.4% (≤58.0%)",
+    "low_confidence_reason": "SP 점수 차이 0.0pt (≤5.0pt) / 최고 확률 54.0% (≤58.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -4115,123 +4115,123 @@
       "losses": 3,
       "streak": -1
     },
-    "away_pitcher": "Ian Seymour",
-    "away_pitcher_id": 693855,
+    "away_pitcher": "Mason Englert",
+    "away_pitcher_id": 669438,
     "away_pitcher_stats": {
-      "wins": 9,
-      "losses": 7,
-      "era": "4.38"
+      "wins": 0,
+      "losses": 3,
+      "era": "4.54"
     },
     "away_pitcher_gamelog": [
       {
-        "date": "2026-07-29",
-        "opp": "vs TEX",
-        "decision": "W",
-        "ip": "4.2",
-        "er": 0,
-        "h": 2,
+        "date": "2026-04-12",
+        "opp": "vs NYY",
+        "decision": null,
+        "ip": "1.0",
+        "er": 2,
+        "h": 3,
         "bb": 1,
-        "so": 4,
+        "so": 1,
+        "era": 18.0
+      },
+      {
+        "date": "2026-04-14",
+        "opp": "@ CWS",
+        "decision": null,
+        "ip": "1.0",
+        "er": 0,
+        "h": 1,
+        "bb": 0,
+        "so": 1,
         "era": 0.0
       },
       {
-        "date": "2026-08-03",
-        "opp": "@ COL",
-        "decision": "W",
-        "ip": "6.0",
-        "er": 2,
-        "h": 7,
-        "bb": 0,
-        "so": 9,
-        "era": 3.0
-      },
-      {
-        "date": "2026-08-09",
-        "opp": "@ SEA",
-        "decision": "W",
-        "ip": "6.0",
-        "er": 1,
-        "h": 5,
-        "bb": 2,
-        "so": 7,
-        "era": 1.5
-      },
-      {
-        "date": "2026-08-15",
-        "opp": "vs BAL",
+        "date": "2026-04-15",
+        "opp": "@ CWS",
         "decision": null,
-        "ip": "6.0",
-        "er": 3,
-        "h": 6,
-        "bb": 1,
-        "so": 9,
-        "era": 4.5
+        "ip": "1.0",
+        "er": 0,
+        "h": 1,
+        "bb": 0,
+        "so": 1,
+        "era": 0.0
       },
       {
-        "date": "2026-08-20",
-        "opp": "vs TOR",
-        "decision": "L",
+        "date": "2026-04-18",
+        "opp": "@ PIT",
+        "decision": null,
+        "ip": "0.2",
+        "er": 0,
+        "h": 0,
+        "bb": 1,
+        "so": 0,
+        "era": 0.0
+      },
+      {
+        "date": "2026-04-19",
+        "opp": "@ PIT",
+        "decision": null,
+        "ip": "2.1",
+        "er": 1,
+        "h": 2,
+        "bb": 1,
+        "so": 3,
+        "era": 3.86
+      },
+      {
+        "date": "2026-05-08",
+        "opp": "@ BOS",
+        "decision": null,
+        "ip": "3.1",
+        "er": 0,
+        "h": 3,
+        "bb": 0,
+        "so": 3,
+        "era": 0.0
+      },
+      {
+        "date": "2026-06-03",
+        "opp": "vs DET",
+        "decision": null,
         "ip": "5.0",
-        "er": 3,
-        "h": 6,
-        "bb": 1,
-        "so": 8,
-        "era": 5.4
+        "er": 1,
+        "h": 4,
+        "bb": 0,
+        "so": 3,
+        "era": 1.8
       },
       {
-        "date": "2026-08-25",
-        "opp": "@ DET",
+        "date": "2026-06-12",
+        "opp": "@ LAA",
+        "decision": null,
+        "ip": "4.0",
+        "er": 0,
+        "h": 4,
+        "bb": 2,
+        "so": 3,
+        "era": 0.0
+      },
+      {
+        "date": "2026-07-05",
+        "opp": "@ HOU",
         "decision": "L",
         "ip": "5.2",
-        "er": 3,
-        "h": 7,
-        "bb": 0,
-        "so": 5,
-        "era": 4.76
-      },
-      {
-        "date": "2026-08-31",
-        "opp": "vs NYM",
-        "decision": "L",
-        "ip": "6.1",
-        "er": 3,
-        "h": 6,
-        "bb": 0,
-        "so": 10,
-        "era": 4.26
-      },
-      {
-        "date": "2026-09-06",
-        "opp": "@ TEX",
-        "decision": null,
-        "ip": "3.0",
-        "er": 3,
+        "er": 2,
         "h": 5,
         "bb": 1,
-        "so": 2,
-        "era": 9.0
+        "so": 9,
+        "era": 3.18
       },
       {
-        "date": "2026-09-12",
-        "opp": "vs HOU",
-        "decision": null,
-        "ip": "6.0",
-        "er": 2,
-        "h": 4,
-        "bb": 1,
-        "so": 10,
-        "era": 3.0
-      },
-      {
-        "date": "2026-09-18",
-        "opp": "vs BOS",
+        "date": "2026-07-17",
+        "opp": "@ BOS",
         "decision": "L",
         "ip": "5.0",
-        "er": 4,
-        "h": 7,
-        "bb": 2,
-        "so": 5,
-        "era": 7.2
+        "er": 5,
+        "h": 8,
+        "bb": 1,
+        "so": 4,
+        "era": 9.0
       }
     ],
     "home_pitcher": "Gerrit Cole",
@@ -4355,8 +4355,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 52.0,
-      "home": 48.0
+      "away": 50.0,
+      "home": 50.0
     },
     "expected_score": {
       "away": 1.9,
@@ -4367,81 +4367,88 @@
     "ml_mc_conflict_level": null,
     "scorecard": {
       "bat_source": "prev_day",
-      "away_handedness": "L",
+      "away_handedness": "R",
       "home_handedness": "R",
-      "bullpen_game": true,
+      "bullpen_game": false,
       "any_cold_sp": true,
       "eff_weights": {
         "sp": 0.38,
-        "bp": 0.3,
-        "bat": 0.25,
+        "bp": 0.25,
+        "bat": 0.3,
         "sit": 0.15
       },
       "away": {
-        "sp_score": 45.0,
+        "sp_score": 33.0,
         "sp_detail": {
-          "era": 4.02,
-          "whip": 1.19,
-          "k9": 11.6,
-          "avg_ip": 5.4,
-          "qs_rate": 50.0,
-          "last3_era": 5.19,
-          "last_start_era": 7.2,
+          "era": 3.41,
+          "whip": 1.31,
+          "k9": 8.7,
+          "avg_ip": 2.9,
+          "qs_rate": 0.0,
+          "last3_era": 3.13,
+          "last_start_era": 9.0,
           "last2_eras": [
-            3.0,
-            7.2
+            3.18,
+            9.0
           ],
-          "recent_avg_era": 7.2,
-          "recent_bad_start": false,
-          "trend": "cold",
+          "recent_avg_era": 9.0,
+          "recent_bad_start": true,
+          "trend": "neutral",
           "n_games": 10,
           "sample_confidence": 1.0,
-          "rest_days": 5,
-          "rest_note": null,
-          "age": 27,
-          "fb_velo": 91.4,
+          "rest_days": 68,
+          "rest_note": "long_rest",
+          "age": 26,
+          "fb_velo": 91.9,
           "pitch_arsenal": [
             "CH",
-            "FB",
-            "SW",
             "SI",
+            "FB",
+            "CB",
+            "CT",
             "SL"
           ],
           "secondary_pitches": [
             "CH",
-            "SW",
+            "CB",
             "SL"
           ],
           "pitches_detail": [
             {
               "code": "CH",
               "abbr": "CH",
-              "pct": 29.0,
-              "velo": 83.5
-            },
-            {
-              "code": "FF",
-              "abbr": "FB",
-              "pct": 27.3,
-              "velo": 91.4
-            },
-            {
-              "code": "ST",
-              "abbr": "SW",
-              "pct": 19.9,
-              "velo": 81.7
+              "pct": 28.0,
+              "velo": 85.4
             },
             {
               "code": "SI",
               "abbr": "SI",
-              "pct": 16.2,
-              "velo": 90.0
+              "pct": 19.6,
+              "velo": 91.7
+            },
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 17.5,
+              "velo": 91.9
+            },
+            {
+              "code": "CU",
+              "abbr": "CB",
+              "pct": 16.7,
+              "velo": 74.9
+            },
+            {
+              "code": "FC",
+              "abbr": "CT",
+              "pct": 10.0,
+              "velo": 86.2
             },
             {
               "code": "SL",
               "abbr": "SL",
               "pct": 6.4,
-              "velo": 83.2
+              "velo": 81.7
             }
           ]
         },
@@ -4554,7 +4561,7 @@
           }
         },
         "sit_score": 62.8,
-        "total": 52.8
+        "total": 49.3
       },
       "home": {
         "sp_score": 56.7,
@@ -4647,7 +4654,7 @@
           "season_avg": 0.23,
           "n_games": 9,
           "source": "prev_day",
-          "handedness": "L",
+          "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
             "Ben Rice(1.019)",
@@ -4733,12 +4740,12 @@
           }
         },
         "sit_score": 55.5,
-        "total": 54.4
+        "total": 52.7
       }
     },
     "scores": {
       "away_offense": 29.0,
-      "away_defense": 59.8,
+      "away_defense": 53.8,
       "home_offense": 26.5,
       "home_defense": 58.2
     },
@@ -4754,11 +4761,11 @@
       "any": false
     },
     "actual_winner": null,
-    "model_winner": "Tampa Bay Rays",
+    "model_winner": "New York Yankees",
     "model_correct": null,
     "notes": "Tampa Bay Rays IL: Edwin Uceta, Garrett Cleavinger, Gavin Lux, Jonathan Heasley, Manuel Rodríguez 외 다수 / New York Yankees IL: Aaron Judge, Fernando Cruz, Giancarlo Stanton, Kervin Castro, Ryan Weathers 외 다수",
-    "kalshi_prob": 54.0,
-    "edge": -4.0,
+    "kalshi_prob": 55.0,
+    "edge": -5.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
