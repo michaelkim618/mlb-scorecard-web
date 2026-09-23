@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-23T03:58:12.428833+00:00",
+  "updated_at": "2026-09-23T04:43:52.607644+00:00",
   "news": [
+    {
+      "title": "Wheeler achieves career, franchise milestones as Phils close in on Wild Card",
+      "link": "https://www.mlb.com/news/zack-wheeler-reaches-2-000-career-strikeouts",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790126334/mlb/ebktpta1ogsugnp7if7w",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-23T04:28:00+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "No East? No sweat: Yanks focused with Wild Card Series home-field clinched",
+      "link": "https://www.mlb.com/news/yankees-lose-to-rays-tampa-bay-clinches-al-east",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eduqylz74swok4yuotmx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-23T04:26:00+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Pederson lands on IL with hand fracture, hopes to return for postseason",
+      "link": "https://www.mlb.com/news/joc-pederson-placed-on-il-with-left-hand-fracture",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uppq7ta5lnslojzsu6lp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-23T04:22:00+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "Cubs' clinch put on hold after rocky 12-inning loss to Marlins",
+      "link": "https://www.mlb.com/news/cubs-unable-to-clinch-2026-playoff-berth-loss-marlins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jxwoeqcio41hr8dbesob",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-23T04:00:06+00:00",
+      "time_ago": "43m ago"
+    },
+    {
+      "title": "Another start, another Messick gem as first-place Guardians win 6th straight",
+      "link": "https://www.mlb.com/news/parker-messick-guardians-red-sox-postseason-race-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e7pejmp7xfsskz9vhh7x",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Craig Forde",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-23T03:58:00+00:00",
+      "time_ago": "45m ago"
+    },
     {
       "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
       "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
@@ -12,20 +77,20 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-23T03:53:00+00:00",
-      "time_ago": "5m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Brewers secure bye, home-field advantage in NLDS despite falling short in Philly",
       "link": "https://www.mlb.com/news/colton-gordon-goes-four-scoreless-in-brewers-loss-to-phillies",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gm8yytfaekkjlcciwcax",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/msylz9afmucgk3amotzz",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Adam McCalvy",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-23T03:47:00+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "56m ago"
     },
     {
       "title": "Superstar Ayami Sato sends Queens to inaugural WPBL title",
@@ -38,72 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-23T03:27:42+00:00",
-      "time_ago": "30m ago"
-    },
-    {
-      "title": "D-backs keep narrow playoff hopes alive with commanding win over Rockies",
-      "link": "https://www.mlb.com/news/d-backs-stay-alive-in-wild-card-race-with-win-over-rockies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ru5zfdzesxl0bs7mfy7b",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-23T03:19:51+00:00",
-      "time_ago": "38m ago"
-    },
-    {
-      "title": "Gore battles, but Rangers' miscues loom large in AL West race",
-      "link": "https://www.mlb.com/news/mackenzie-gore-throws-5-gusty-innings-in-rangers-loss-to-mets",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790127270/mlb/szpr67iyjiluhcxunoss",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kennedi Landry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-23T03:15:22+00:00",
-      "time_ago": "42m ago"
-    },
-    {
-      "title": "Elly approaching rare Reds company with latest blast and steal",
-      "link": "https://www.mlb.com/news/elly-de-la-cruz-29-homers-29-steals-reds-loss",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uc0rmlipmot9xop5mvvt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-23T03:12:52+00:00",
-      "time_ago": "45m ago"
-    },
-    {
-      "title": "Wheeler achieves career, franchise milestones to help Phils close in on Wild Card",
-      "link": "https://www.mlb.com/news/zack-wheeler-reaches-2-000-career-strikeouts",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790126334/mlb/ebktpta1ogsugnp7if7w",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-23T03:02:00+00:00",
-      "time_ago": "56m ago"
-    },
-    {
-      "title": "6-year-old birthday girl grabs milestone HR ball, smiles the biggest smile",
-      "link": "https://www.mlb.com/news/little-girl-grabs-eugenio-suarez-s-350th-home-run-ball",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/attendj66xg9rncgfxcb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-23T03:00:04+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
