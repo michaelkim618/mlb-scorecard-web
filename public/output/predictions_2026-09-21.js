@@ -1307,7 +1307,7 @@ window.PREDICTIONS_DATA = [
       "div_name": "NL West",
       "wins": 65,
       "losses": 93,
-      "games_back": "32.0"
+      "games_back": "32.5"
     },
     "away_recent_form": {
       "games": [
