@@ -7388,9 +7388,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "New York Mets",
     "model_winner": "Texas Rangers",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "New York Mets IL: Christian Scott, Daniel Duarte, Jared Young, Jorge Polanco, Reed Garrett 외 다수 / Texas Rangers IL: Cal Quantrill, Carter Baumler, Cole Winn, Jack Leiter, Jalen Beeks 외 다수",
     "kalshi_prob": 32.0,
     "edge": 25.1,
@@ -8144,9 +8144,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Arizona Diamondbacks",
     "model_winner": "Arizona Diamondbacks",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Cristian Mena, Ryan Thompson, Tyler Locklear / Colorado Rockies IL: Chase Dollander, Kris Bryant, McCade Brown, Pierson Ohl, Welinton Herrera 외 다수",
     "kalshi_prob": 14.0,
     "edge": 25.3,
