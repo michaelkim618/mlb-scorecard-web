@@ -1,36 +1,32 @@
 {
-  "title": "Sep 22 Results + Sep 23 Preview: 60% Ain't Great But These Misses Sting",
-  "summary": "9-6 on Sep 22. Let me be honest: some of these losses were straight embarrassing.",
+  "title": "Sep 22 Results + Sep 23 Preview: 60% Looks Good Until You See What We Left on the Table",
+  "summary": "9-6 record sounds solid, but let's talk about those six misses that shouldn't have happened.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Let Me Be Honest About Today\n\nA 60% hit rate sounds respectable on paper, but let's cut through the noise—some of these misses were absolutely brutal. We went 9-6 on September 22nd, and while that's not a disaster, the *way* we lost some of these games? That's the real story nobody wants to talk about."
+      "value": "## Let Me Be Honest: 60% Isn't Something to Celebrate\n\nSure, 9-6 sounds respectable. Sure, 60% is above .500. But you know what? When I look at these six losses, I see missed opportunities written all over them. We went 9-6 on September 22nd, and while the math nerds are celebrating, I'm asking the hard questions nobody wants to hear."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Sep 22 W-L",
+          "label": "Total Record",
           "value": "9-6"
         },
         {
-          "label": "Accuracy",
+          "label": "Win Rate",
           "value": "60.0%"
         },
         {
-          "label": "Wins",
-          "value": "9"
-        },
-        {
-          "label": "Losses",
+          "label": "Misses That Hurt",
           "value": "6"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Ugly Truth About Today's Results\n\nHere's what nobody in the analytics community wants to admit: we got our teeth kicked in on some low-confidence picks that shouldn't have even been close. The Rangers at 50%? The Braves at 51%? Those are coin flips, and coin flips betrayed us today.\n\nBut what really burns? Missing on the Cubs at 61% and the Tigers at 62%. Those were *supposed* to be our bread and butter. Instead, they were our worst nightmare."
+      "value": "## The Brutal Truth About Yesterday\n\nLet's talk about what actually happened. We nailed the Pirates, hit on the Guardians, caught the White Sox upset over the Royals. That's the good news. The bad news? We whiffed on BOTH Rays-Yankees games in the worst way possible, got embarrassed by the Tigers at home, and completely botched the Cubs call at 61% confidence. That Cubs miss? That one stings because when you're that confident and still wrong, you've got problems."
     },
     {
       "type": "chart",
@@ -38,52 +34,52 @@
       "title": "Sep 22 Prediction Results by Confidence",
       "data": [
         {
-          "name": "Rays (52%)",
-          "probability": 52,
+          "name": "Cardinals-Pirates",
+          "probability": 62,
+          "result": 1
+        },
+        {
+          "name": "Nationals-Tigers",
+          "probability": 62,
           "result": 0
         },
         {
-          "name": "Rays (61%)",
+          "name": "Marlins-Cubs",
+          "probability": 61,
+          "result": 0
+        },
+        {
+          "name": "Rays-Yankees G2",
           "probability": 61,
           "result": 1
         },
         {
-          "name": "Tigers (62%)",
-          "probability": 62,
-          "result": 0
-        },
-        {
-          "name": "Pirates (62%)",
-          "probability": 62,
-          "result": 1
-        },
-        {
-          "name": "Brewers (54%)",
+          "name": "Brewers-Phillies",
           "probability": 54,
           "result": 0
         },
         {
-          "name": "Guardians (53%)",
+          "name": "Guardians-Sox",
           "probability": 53,
           "result": 1
         },
         {
-          "name": "Braves (51%)",
-          "probability": 51,
+          "name": "Rays-Yankees G1",
+          "probability": 52,
           "result": 0
         },
         {
-          "name": "Sox (52%)",
+          "name": "Sox-Royals",
           "probability": 52,
           "result": 1
         },
         {
-          "name": "Cubs (61%)",
-          "probability": 61,
+          "name": "Reds-Braves",
+          "probability": 51,
           "result": 0
         },
         {
-          "name": "Rangers (50%)",
+          "name": "Mets-Rangers",
           "probability": 50,
           "result": 0
         }
@@ -98,7 +94,7 @@
         {
           "key": "result",
           "color": "#16A34A",
-          "label": "Correct (1=Hit, 0=Miss)"
+          "label": "Correct (1=Yes, 0=No)"
         }
       ]
     },
@@ -106,20 +102,20 @@
       "type": "table",
       "title": "Complete Sep 22 Results Breakdown",
       "headers": [
-        "Game",
-        "Pick",
+        "Matchup",
+        "Our Pick",
         "Confidence",
         "Result"
       ],
       "rows": [
         [
-          "Rays @ Yankees",
+          "Rays @ Yankees (G1)",
           "Rays",
           "52%",
           "✗"
         ],
         [
-          "Rays @ Yankees",
+          "Rays @ Yankees (G2)",
           "Rays",
           "61%",
           "✓"
@@ -176,22 +172,22 @@
     },
     {
       "type": "text",
-      "value": "## The Controversy: Are We Trusting Bad Data?\n\nHere's the hot take: maybe our confidence levels are lying to us. When you miss on 62% picks and hit on 52% picks, something's fundamentally broken in the model. Either the probabilities mean nothing, or we're reading the wrong signals from the data.\n\nI'm not saying burn it all down, but let's stop pretending every percentage point matters when a 50% pick and a 62% pick have the same outcome."
+      "value": "## Here's My Hot Take Nobody Asked For\n\nThe Mets-Rangers pick at 50%? That was basically a coin flip and we shouldn't have pushed it. The Braves miss at 51%? Same story. But when you're at 61-62% confidence and getting burned, that's when you need to look in the mirror. The Tigers and Cubs losses weren't close calls—they were straight-up wrong reads of the situation."
     },
     {
       "type": "text",
-      "value": "## Tomorrow's Top Pick: Back to Detroit\n\nYou know what's wild? After the Tigers embarrassed us today at 62% confidence, we're running it back tomorrow. Washington Nationals at Detroit Tigers, and we're taking Detroit at 61%.\n\nFramber Valdez on the mound for Detroit against Richard Lovelady. On paper, this is a mismatch. In reality? We just watched this exact scenario blow up in our faces 24 hours ago."
+      "value": "## Tomorrow's Top Pick: Can We Actually Deliver?\n\nSpeaking of the Tigers—yeah, they embarrassed us yesterday. So what do we do? We're going RIGHT BACK to them on September 23rd. Nationals at Tigers, and we're taking Detroit at 61% confidence. Some might call this revenge betting. I call it recognizing that Framber Valdez on the mound against Richard Lovelady isn't even a fair fight."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Sep 23 Top Pick",
-      "value": "Detroit Tigers",
-      "sub": "61% confidence vs Nationals · Framber Valdez pitching"
+      "value": "Detroit Tigers over Washington Nationals",
+      "sub": "61% Win Probability • Valdez vs Lovelady • Tigers at Home"
     },
     {
       "type": "text",
-      "value": "## My Blunt Assessment\n\nLook, 60% accuracy keeps you in the game but doesn't make you elite. We need to be hitting 65-70% on these slates to actually call ourselves sharp. The model did okay, not great.\n\nTomorrow? I'm cautiously optimistic about the Tigers pick, but fool me once, shame on you. Fool me twice with the same team in the same matchup? That's on us.\n\nThe data says Tigers. My gut says be careful. We're riding with the data—but nobody better act surprised if this one goes sideways too."
+      "value": "## The Controversial Truth About This Pick\n\nLet me be brutally honest: betting on the Tigers after they just made us look foolish yesterday takes guts—or stupidity. I haven't decided which. But Framber Valdez is an ace-caliber arm, and the Nationals are sending out Richard Lovelady, who—let's just say—doesn't exactly strike fear into opposing lineups.\n\nThe model says 61%. Yesterday it said 62% on the Tigers and we face-planted. But you know what separates winners from losers? Short memory and conviction. The matchup is there. The numbers are there. The only question is whether we have the stones to trust it after getting burned.\n\n**My prediction? Tigers roll.** And if I'm wrong twice in a row on Detroit, I'll write a formal apology. But I won't be wrong."
     }
   ],
   "slug": "2026-09-22-daily-rico",
