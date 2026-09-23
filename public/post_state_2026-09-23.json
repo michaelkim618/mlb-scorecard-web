@@ -1,0 +1,64 @@
+{
+  "predictions": [
+    "12:45"
+  ],
+  "results": false,
+  "lineup_refreshed": [
+    "10:10"
+  ],
+  "predictions_frozen": [
+    "10:10",
+    "12:45"
+  ],
+  "frozen_predictions": {
+    "10:10": [
+      {
+        "game_pk": "824223",
+        "win_prob": {
+          "away": 39.3,
+          "home": 60.7
+        },
+        "model_winner": "Detroit Tigers",
+        "value_bet": "➖ 시장과 유사",
+        "edge": 2.7,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": false,
+        "low_confidence_reason": null,
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "824785",
+        "win_prob": {
+          "away": 50.0,
+          "home": 50.0
+        },
+        "model_winner": "Baltimore Orioles",
+        "value_bet": "⏭️ 패스 (라인업 미확정)",
+        "edge": null,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "SP 점수 차이 2.4pt (≤5.0pt) / 최고 확률 50.0% (≤58.0%)",
+        "extreme_edge": false
+      }
+    ],
+    "12:45": [
+      {
+        "game_pk": "823168",
+        "win_prob": {
+          "away": 50.6,
+          "home": 49.4
+        },
+        "model_winner": "Minnesota Twins",
+        "value_bet": "⏭️ 패스 (박빙 경기 — 예측 신뢰도 낮음)",
+        "edge": 8.4,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 50.6% (≤58.0%)",
+        "extreme_edge": false
+      }
+    ]
+  }
+}
