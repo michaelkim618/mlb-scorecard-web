@@ -1,44 +1,18 @@
 {
-  "updated_at": "2026-09-23T04:55:43.931878+00:00",
+  "updated_at": "2026-09-23T05:43:20.384329+00:00",
   "news": [
     {
-      "title": "Wheeler achieves career, franchise milestones as Phils close in on Wild Card",
-      "link": "https://www.mlb.com/news/zack-wheeler-reaches-2-000-career-strikeouts",
+      "title": "D-backs keep narrow playoff hopes alive with commanding win over Rockies",
+      "link": "https://www.mlb.com/news/d-backs-stay-alive-in-wild-card-race-with-win-over-rockies",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790126334/mlb/ebktpta1ogsugnp7if7w",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ru5zfdzesxl0bs7mfy7b",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Todd Zolecki",
+      "author": "Steve Gilbert",
       "tag": "Standings",
       "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-23T04:28:00+00:00",
-      "time_ago": "27m ago"
-    },
-    {
-      "title": "No East? No sweat: Yanks focused with Wild Card Series home-field clinched",
-      "link": "https://www.mlb.com/news/yankees-lose-to-rays-tampa-bay-clinches-al-east",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eduqylz74swok4yuotmx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-23T04:26:00+00:00",
-      "time_ago": "29m ago"
-    },
-    {
-      "title": "Pederson lands on IL with hand fracture, hopes to return for postseason",
-      "link": "https://www.mlb.com/news/joc-pederson-placed-on-il-with-left-hand-fracture",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uppq7ta5lnslojzsu6lp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-23T04:22:00+00:00",
-      "time_ago": "33m ago"
+      "pub_date": "2026-09-23T05:31:00+00:00",
+      "time_ago": "12m ago"
     },
     {
       "title": "Cubs' clinch put on hold after rocky 12-inning loss to Marlins",
@@ -50,60 +24,86 @@
       "author": "Jordan Bastian",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-23T04:00:06+00:00",
-      "time_ago": "55m ago"
+      "pub_date": "2026-09-23T05:16:00+00:00",
+      "time_ago": "27m ago"
     },
     {
-      "title": "Another start, another Messick gem as first-place Guardians win 6th straight",
-      "link": "https://www.mlb.com/news/parker-messick-guardians-red-sox-postseason-race-2026",
+      "title": "Gore battles, but Rangers' miscues cost them sole AL West lead",
+      "link": "https://www.mlb.com/news/mackenzie-gore-throws-5-gusty-innings-in-rangers-loss-to-mets",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e7pejmp7xfsskz9vhh7x",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790127270/mlb/szpr67iyjiluhcxunoss",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Craig Forde",
+      "author": "Kennedi Landry",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-23T03:58:00+00:00",
-      "time_ago": "57m ago"
+      "pub_date": "2026-09-23T05:12:00+00:00",
+      "time_ago": "31m ago"
     },
     {
-      "title": "Bracket, tiebreakers and more: Here is the current playoff picture",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "title": "'Don't give up' White Sox win third straight, close in on playoff berth",
+      "link": "https://www.mlb.com/news/white-sox-get-closer-to-playoffs-with-win-over-royals",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790107107/mlb/q4ae0iojstppohv2dzkc",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kdcf2glthcteu6wjiljc",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "",
+      "author": "Scott Merkin",
       "tag": "Standings",
       "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-23T03:53:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-09-23T05:09:00+00:00",
+      "time_ago": "34m ago"
     },
     {
-      "title": "Brewers secure bye, home-field advantage in NLDS despite falling short in Philly",
-      "link": "https://www.mlb.com/news/colton-gordon-goes-four-scoreless-in-brewers-loss-to-phillies",
+      "title": "Padres have work to do after loss to Dodgers",
+      "link": "https://www.mlb.com/news/michael-king-allows-five-runs-as-padres-lose-to-dodgers",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/msylz9afmucgk3amotzz",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790139302/mlb/epkbs6zukjij16iouwvn",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Adam McCalvy",
+      "author": "AJ Cassavell",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-23T03:47:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-09-23T05:05:18+00:00",
+      "time_ago": "38m ago"
     },
     {
-      "title": "Superstar Ayami Sato sends Queens to inaugural WPBL title",
-      "link": "https://www.mlb.com/news/queens-wins-first-wpbl-championship",
+      "title": "Astros control their destiny after moving into tie for AL West lead",
+      "link": "https://www.mlb.com/news/astros-move-into-tie-for-first-place-in-al-west",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/k6q7y0rfwwmb5gfdlnaz",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790139620/mlb/dujni0h7ywgyhsrwvsjn",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Michael Clair",
+      "author": "Brian McTaggart",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-23T03:27:42+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-09-23T05:02:00+00:00",
+      "time_ago": "41m ago"
+    },
+    {
+      "title": "Sasaki returns in relief role as Dodgers assess bullpen options for postseason",
+      "link": "https://www.mlb.com/news/roki-sasaki-activated-off-injured-list-to-join-dodgers-bullpen",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790138368/mlb/xfajbrm5x0uon8uasiun",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-23T04:55:00+00:00",
+      "time_ago": "48m ago"
+    },
+    {
+      "title": "Boundless confidence powers Rays to AL East title, home-field through ALCS",
+      "link": "https://www.mlb.com/news/rays-clinch-2026-al-east-title",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cojnztwuqmprkcisdjsj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-23T04:54:00+00:00",
+      "time_ago": "49m ago"
     }
   ]
 }
