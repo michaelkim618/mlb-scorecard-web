@@ -9126,12 +9126,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 60.4,
-      "home": 39.6
+      "away": 54.1,
+      "home": 45.9
     },
     "expected_score": {
       "away": 4.3,
-      "home": 2.7
+      "home": 3.0
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -9143,9 +9143,9 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": false,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.24,
+        "sp": 0.28,
         "bp": 0.27,
-        "bat": 0.42,
+        "bat": 0.38,
         "sit": 0.15
       },
       "away": {
@@ -9223,14 +9223,14 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 63.2,
+        "bp_score": 56.2,
         "bp_detail": {
-          "bullpen_era": 3.03,
-          "recent_era": 3.79,
+          "bullpen_era": 3.12,
+          "recent_era": 5.03,
           "recent_appearances": 17,
-          "recent_ip": 19.0,
-          "team_era": 3.78,
-          "bp_ip": 391.7,
+          "recent_ip": 19.7,
+          "team_era": 3.81,
+          "bp_ip": 392.7,
           "bp_count": 8,
           "closer_era": 2.13,
           "closer_name": "Juan Morillo"
@@ -9332,7 +9332,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 55.5,
-        "total": 51.9
+        "total": 49.6
       },
       "home": {
         "sp_score": 34.8,
@@ -9409,11 +9409,11 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 31.4,
+        "bp_score": 30.200000000000003,
         "bp_detail": {
           "bullpen_era": 5.05,
           "recent_era": 2.79,
-          "recent_appearances": 19,
+          "recent_appearances": 20,
           "recent_ip": 29.0,
           "team_era": 5.53,
           "bp_ip": 381.7,
@@ -9421,28 +9421,28 @@ window.PREDICTIONS_DATA = [
           "closer_era": 5.12,
           "closer_name": "Jordan Romano"
         },
-        "bat_score": 37.1,
+        "bat_score": 40.5,
         "bat_detail": {
-          "recent_avg": 0.241,
-          "runs_per_g": 3.9,
-          "hr_per_g": 0.8,
+          "recent_avg": 0.248,
+          "runs_per_g": 4.2,
+          "hr_per_g": 0.9,
           "bb_per_g": 3.0,
-          "season_ops": 0.738,
+          "season_ops": 0.752,
           "season_slg": null,
-          "season_avg": 0.241,
+          "season_avg": 0.248,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
             "Jake McCarthy(0.821)",
-            "Cole Carrigg(0.884)",
-            "Hunter Goodman(0.773)",
-            "TJ Rumfield(0.712)",
-            "Kyle Karros(0.798)",
-            "Adael Amador(0.748)",
+            "Cole Carrigg(0.938)",
+            "Hunter Goodman(0.790)",
+            "TJ Rumfield(0.722)",
+            "Kyle Karros(0.786)",
+            "Adael Amador(0.732)",
             "Mickey Moniak(0.720)",
-            "Zac Veen(0.485)",
+            "Zac Veen(0.552)",
             "Ezequiel Tovar(0.705)"
           ],
           "lineup_players": [
@@ -9455,32 +9455,32 @@ window.PREDICTIONS_DATA = [
             {
               "id": 694249,
               "name": "Cole Carrigg",
-              "ops": 0.884,
-              "avg": 0.366
+              "ops": 0.938,
+              "avg": 0.381
             },
             {
               "id": 696100,
               "name": "Hunter Goodman",
-              "ops": 0.773,
-              "avg": 0.211
+              "ops": 0.79,
+              "avg": 0.231
             },
             {
               "id": 681198,
               "name": "TJ Rumfield",
-              "ops": 0.712,
+              "ops": 0.722,
               "avg": 0.27
             },
             {
               "id": 691720,
               "name": "Kyle Karros",
-              "ops": 0.798,
-              "avg": 0.27
+              "ops": 0.786,
+              "avg": 0.263
             },
             {
               "id": 691182,
               "name": "Adael Amador",
-              "ops": 0.748,
-              "avg": 0.207
+              "ops": 0.732,
+              "avg": 0.2
             },
             {
               "id": 666160,
@@ -9491,8 +9491,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 691728,
               "name": "Zac Veen",
-              "ops": 0.485,
-              "avg": 0.105
+              "ops": 0.552,
+              "avg": 0.15
             },
             {
               "id": 678662,
@@ -9502,12 +9502,12 @@ window.PREDICTIONS_DATA = [
             }
           ],
           "bat_trend": "cold",
-          "last5_rpg": 2.8,
-          "last5_avg": 0.223,
+          "last5_rpg": 3.4,
+          "last5_avg": 0.23,
           "home_split": {
-            "recent_avg": 0.273,
-            "runs_per_g": 3.9,
-            "hr_per_g": 0.8,
+            "recent_avg": 0.275,
+            "runs_per_g": 4.2,
+            "hr_per_g": 0.9,
             "n_games": 10
           },
           "away_split": {
@@ -9518,14 +9518,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 36.8,
-        "total": 36.7
+        "total": 37.6
       }
     },
     "scores": {
       "away_offense": 57.1,
-      "away_defense": 47.5,
-      "home_offense": 37.1,
-      "home_defense": 33.1
+      "away_defense": 44.0,
+      "home_offense": 40.5,
+      "home_defense": 32.5
     },
     "actual_score": {
       "away": 5,
@@ -9550,7 +9550,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 2.9pt (≤5.0pt)",
+    "low_confidence_reason": "SP 점수 차이 2.9pt (≤5.0pt) / 최고 확률 54.1% (≤58.0%)",
     "opener_game": {
       "away": false,
       "home": false
