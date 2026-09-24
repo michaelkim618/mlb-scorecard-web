@@ -13,15 +13,15 @@ window.PREDICTIONS_DATA = [
       "div_rank": 1,
       "div_name": "AL East",
       "wins": 96,
-      "losses": 61,
+      "losses": 62,
       "games_back": "-"
     },
     "home_standing": {
       "div_rank": 2,
       "div_name": "AL East",
-      "wins": 90,
+      "wins": 91,
       "losses": 67,
-      "games_back": "6.0"
+      "games_back": "5.0"
     },
     "away_recent_form": {
       "games": [
@@ -337,8 +337,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 52.0,
-      "home": 48.0
+      "away": 54.0,
+      "home": 46.0
     },
     "expected_score": {
       "away": 1.9,
@@ -434,14 +434,14 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 65.2,
+        "bp_score": 63.9,
         "bp_detail": {
-          "bullpen_era": 3.12,
-          "recent_era": 4.67,
-          "recent_appearances": 16,
-          "recent_ip": 17.3,
+          "bullpen_era": 3.14,
+          "recent_era": 4.91,
+          "recent_appearances": 17,
+          "recent_ip": 18.3,
           "team_era": 3.61,
-          "bp_ip": 276.7,
+          "bp_ip": 277.7,
           "bp_count": 7,
           "closer_era": 1.47,
           "closer_name": "Bryan Baker"
@@ -457,7 +457,7 @@ window.PREDICTIONS_DATA = [
           "season_slg": 0.4,
           "n_games": 10,
           "last5_rpg": 3.2,
-          "last5_avg": 0.217,
+          "last5_avg": 0.216,
           "bat_trend": "cold",
           "home_split": {
             "recent_avg": 0.227,
@@ -482,12 +482,12 @@ window.PREDICTIONS_DATA = [
             "season_slg": 0.4,
             "n_games": 10,
             "last5_rpg": 3.2,
-            "last5_avg": 0.217,
+            "last5_avg": 0.216,
             "bat_trend": "cold"
           }
         },
-        "sit_score": 62.8,
-        "total": 53.9
+        "sit_score": 58.7,
+        "total": 53.0
       },
       "home": {
         "sp_score": 51.5,
@@ -549,42 +549,42 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 62.6,
+        "bp_score": 63.3,
         "bp_detail": {
-          "bullpen_era": 3.0,
-          "recent_era": 5.02,
-          "recent_appearances": 18,
-          "recent_ip": 14.3,
-          "team_era": 2.98,
-          "bp_ip": 444.7,
+          "bullpen_era": 2.98,
+          "recent_era": 4.6,
+          "recent_appearances": 19,
+          "recent_ip": 15.7,
+          "team_era": 2.97,
+          "bp_ip": 446.3,
           "bp_count": 9,
-          "closer_era": 2.54,
+          "closer_era": 2.5,
           "closer_name": "David Bednar"
         },
-        "bat_score": 39.5,
+        "bat_score": 40.1,
         "bat_detail": {
-          "recent_avg": 0.27,
-          "runs_per_g": 5.8,
+          "recent_avg": 0.273,
+          "runs_per_g": 5.9,
           "hr_per_g": 2.1,
-          "bb_per_g": 3.2,
+          "bb_per_g": 3.3,
           "season_ops": 0.72,
           "season_avg": 0.25,
           "season_slg": 0.4,
           "n_games": 10,
-          "last5_rpg": 3.0,
-          "last5_avg": 0.188,
+          "last5_rpg": 3.2,
+          "last5_avg": 0.196,
           "bat_trend": "cold",
           "home_split": {
-            "recent_avg": 0.27,
-            "runs_per_g": 5.8,
+            "recent_avg": 0.273,
+            "runs_per_g": 5.9,
             "hr_per_g": 2.1,
-            "bb_per_g": 3.2,
+            "bb_per_g": 3.3,
             "season_ops": 0.72,
             "season_avg": 0.25,
             "season_slg": 0.4,
             "n_games": 10,
-            "last5_rpg": 3.0,
-            "last5_avg": 0.188,
+            "last5_rpg": 3.2,
+            "last5_avg": 0.196,
             "bat_trend": "cold"
           },
           "away_split": {
@@ -601,15 +601,15 @@ window.PREDICTIONS_DATA = [
             "bat_trend": "stable"
           }
         },
-        "sit_score": 56.5,
-        "total": 51.7
+        "sit_score": 60.5,
+        "total": 52.6
       }
     },
     "scores": {
       "away_offense": 29.6,
-      "away_defense": 62.5,
-      "home_offense": 39.5,
-      "home_defense": 57.0
+      "away_defense": 61.9,
+      "home_offense": 40.1,
+      "home_defense": 57.4
     },
     "actual_score": {
       "away": 0,
@@ -654,15 +654,15 @@ window.PREDICTIONS_DATA = [
       "div_rank": 1,
       "div_name": "AL East",
       "wins": 96,
-      "losses": 61,
+      "losses": 62,
       "games_back": "-"
     },
     "home_standing": {
       "div_rank": 2,
       "div_name": "AL East",
-      "wins": 90,
+      "wins": 91,
       "losses": 67,
-      "games_back": "6.0"
+      "games_back": "5.0"
     },
     "away_recent_form": {
       "games": [
@@ -978,12 +978,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 60.6,
-      "home": 39.4
+      "away": 58.4,
+      "home": 41.6
     },
     "expected_score": {
       "away": 2.3,
-      "home": 2.1
+      "home": 2.2
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -1067,41 +1067,41 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 65.4,
+        "bp_score": 64.1,
         "bp_detail": {
-          "bullpen_era": 3.12,
-          "recent_era": 4.67,
-          "recent_appearances": 16,
-          "recent_ip": 17.3,
+          "bullpen_era": 3.14,
+          "recent_era": 4.91,
+          "recent_appearances": 17,
+          "recent_ip": 18.3,
           "team_era": 3.61,
-          "bp_ip": 276.7,
+          "bp_ip": 277.7,
           "bp_count": 7,
           "closer_era": 1.47,
           "closer_name": "Bryan Baker"
         },
         "bat_score": 35.0,
         "bat_detail": {
-          "recent_avg": 0.206,
+          "recent_avg": 0.207,
           "runs_per_g": 4.7,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
           "season_ops": 0.645,
           "season_slg": null,
-          "season_avg": 0.206,
+          "season_avg": 0.207,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
             "Yandy Díaz(0.530)",
-            "Ryan Vilade(0.589)",
+            "Ryan Vilade(0.581)",
             "Junior Caminero(0.774)",
-            "Jonny DeLuca(0.642)",
+            "Jonny DeLuca(0.666)",
             "Chandler Simpson(0.722)",
             "Ben Williamson(0.584)",
-            "Nick Fortes(0.758)",
+            "Nick Fortes(0.757)",
             "Taylor Walls(0.645)",
-            "Cedric Mullins(0.561)"
+            "Cedric Mullins(0.550)"
           ],
           "lineup_players": [
             {
@@ -1113,8 +1113,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 668723,
               "name": "Ryan Vilade",
-              "ops": 0.589,
-              "avg": 0.12
+              "ops": 0.581,
+              "avg": 0.115
             },
             {
               "id": 691406,
@@ -1125,8 +1125,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 676356,
               "name": "Jonny DeLuca",
-              "ops": 0.642,
-              "avg": 0.226
+              "ops": 0.666,
+              "avg": 0.25
             },
             {
               "id": 802415,
@@ -1143,7 +1143,7 @@ window.PREDICTIONS_DATA = [
             {
               "id": 663743,
               "name": "Nick Fortes",
-              "ops": 0.758,
+              "ops": 0.757,
               "avg": 0.222
             },
             {
@@ -1155,8 +1155,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 656775,
               "name": "Cedric Mullins",
-              "ops": 0.561,
-              "avg": 0.167
+              "ops": 0.55,
+              "avg": 0.16
             }
           ],
           "bat_trend": "cold",
@@ -1175,8 +1175,8 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           }
         },
-        "sit_score": 62.8,
-        "total": 58.7
+        "sit_score": 58.7,
+        "total": 57.7
       },
       "home": {
         "sp_score": 50.0,
@@ -1253,39 +1253,39 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 62.6,
+        "bp_score": 63.3,
         "bp_detail": {
-          "bullpen_era": 3.0,
-          "recent_era": 5.02,
-          "recent_appearances": 18,
-          "recent_ip": 14.3,
-          "team_era": 2.98,
-          "bp_ip": 444.7,
+          "bullpen_era": 2.98,
+          "recent_era": 4.6,
+          "recent_appearances": 19,
+          "recent_ip": 15.7,
+          "team_era": 2.97,
+          "bp_ip": 446.3,
           "bp_count": 9,
-          "closer_era": 2.54,
+          "closer_era": 2.5,
           "closer_name": "David Bednar"
         },
-        "bat_score": 34.2,
+        "bat_score": 34.7,
         "bat_detail": {
-          "recent_avg": 0.235,
-          "runs_per_g": 4.9,
+          "recent_avg": 0.236,
+          "runs_per_g": 5.0,
           "hr_per_g": 1.9,
           "bb_per_g": 3.0,
           "season_ops": 0.742,
           "season_slg": null,
-          "season_avg": 0.235,
+          "season_avg": 0.236,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Ben Rice(1.067)",
+            "Ben Rice(1.077)",
             "Cody Bellinger(0.792)",
-            "Heliot Ramos(0.738)",
-            "Luis García Jr.(0.569)",
-            "Spencer Jones(0.649)",
+            "Heliot Ramos(0.737)",
+            "Luis García Jr.(0.580)",
+            "Spencer Jones(0.641)",
             "Jazz Chisholm Jr.(0.788)",
-            "George Lombard Jr.(0.761)",
+            "George Lombard Jr.(0.749)",
             "Austin Wells(0.774)",
             "Ryan McMahon(0.542)"
           ],
@@ -1293,8 +1293,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 700250,
               "name": "Ben Rice",
-              "ops": 1.067,
-              "avg": 0.303
+              "ops": 1.077,
+              "avg": 0.324
             },
             {
               "id": 641355,
@@ -1305,20 +1305,20 @@ window.PREDICTIONS_DATA = [
             {
               "id": 671218,
               "name": "Heliot Ramos",
-              "ops": 0.738,
+              "ops": 0.737,
               "avg": 0.229
             },
             {
               "id": 671277,
               "name": "Luis García Jr.",
-              "ops": 0.569,
+              "ops": 0.58,
               "avg": 0.154
             },
             {
               "id": 682987,
               "name": "Spencer Jones",
-              "ops": 0.649,
-              "avg": 0.175
+              "ops": 0.641,
+              "avg": 0.171
             },
             {
               "id": 665862,
@@ -1329,8 +1329,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 806146,
               "name": "George Lombard Jr.",
-              "ops": 0.761,
-              "avg": 0.275
+              "ops": 0.749,
+              "avg": 0.268
             },
             {
               "id": 669224,
@@ -1346,11 +1346,11 @@ window.PREDICTIONS_DATA = [
             }
           ],
           "bat_trend": "cold",
-          "last5_rpg": 3.6,
-          "last5_avg": 0.205,
+          "last5_rpg": 3.8,
+          "last5_avg": 0.212,
           "home_split": {
-            "recent_avg": 0.27,
-            "runs_per_g": 5.8,
+            "recent_avg": 0.273,
+            "runs_per_g": 5.9,
             "hr_per_g": 2.1,
             "n_games": 10
           },
@@ -1361,15 +1361,15 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           }
         },
-        "sit_score": 56.5,
-        "total": 49.6
+        "sit_score": 60.5,
+        "total": 50.5
       }
     },
     "scores": {
       "away_offense": 35.0,
-      "away_defense": 68.7,
-      "home_offense": 34.2,
-      "home_defense": 56.3
+      "away_defense": 68.0,
+      "home_offense": 34.7,
+      "home_defense": 56.6
     },
     "actual_score": {
       "away": 6,
@@ -1415,14 +1415,14 @@ window.PREDICTIONS_DATA = [
       "div_name": "NL East",
       "wins": 75,
       "losses": 84,
-      "games_back": "18.0"
+      "games_back": "18.5"
     },
     "home_standing": {
       "div_rank": 4,
       "div_name": "AL Central",
       "wins": 74,
       "losses": 85,
-      "games_back": "9.0"
+      "games_back": "8.5"
     },
     "away_recent_form": {
       "games": [
@@ -2892,7 +2892,7 @@ window.PREDICTIONS_DATA = [
       "div_name": "NL East",
       "wins": 87,
       "losses": 71,
-      "games_back": "5.5"
+      "games_back": "6.0"
     },
     "away_recent_form": {
       "games": [
@@ -3657,15 +3657,15 @@ window.PREDICTIONS_DATA = [
       "div_rank": 1,
       "div_name": "AL Central",
       "wins": 82,
-      "losses": 75,
+      "losses": 76,
       "games_back": "-"
     },
     "home_standing": {
       "div_rank": 3,
       "div_name": "AL East",
-      "wins": 84,
+      "wins": 85,
       "losses": 73,
-      "games_back": "12.0"
+      "games_back": "11.0"
     },
     "away_recent_form": {
       "games": [
@@ -4078,27 +4078,27 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 72.6,
+        "bp_score": 73.0,
         "bp_detail": {
-          "bullpen_era": 3.2,
-          "recent_era": 2.77,
-          "recent_appearances": 14,
-          "recent_ip": 13.0,
-          "team_era": 3.59,
-          "bp_ip": 382.3,
+          "bullpen_era": 3.19,
+          "recent_era": 2.7,
+          "recent_appearances": 15,
+          "recent_ip": 13.3,
+          "team_era": 3.58,
+          "bp_ip": 383.3,
           "bp_count": 8,
           "closer_era": 1.99,
           "closer_name": "Cade Smith"
         },
-        "bat_score": 42.0,
+        "bat_score": 42.2,
         "bat_detail": {
-          "recent_avg": 0.265,
+          "recent_avg": 0.266,
           "runs_per_g": 4.9,
           "hr_per_g": 1.3,
           "bb_per_g": 3.0,
-          "season_ops": 0.758,
+          "season_ops": 0.759,
           "season_slg": null,
-          "season_avg": 0.265,
+          "season_avg": 0.266,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
@@ -4107,8 +4107,8 @@ window.PREDICTIONS_DATA = [
             "Steven Kwan(0.845)",
             "José Ramírez(0.674)",
             "Chase DeLauter(0.790)",
-            "Jo Adell(0.745)",
-            "Angel Martínez(0.964)",
+            "Jo Adell(0.735)",
+            "Angel Martínez(0.986)",
             "David Fry(0.621)",
             "Travis Bazzana(0.803)",
             "Austin Hedges(0.632)",
@@ -4136,14 +4136,14 @@ window.PREDICTIONS_DATA = [
             {
               "id": 666176,
               "name": "Jo Adell",
-              "ops": 0.745,
-              "avg": 0.282
+              "ops": 0.735,
+              "avg": 0.275
             },
             {
               "id": 682657,
               "name": "Angel Martínez",
-              "ops": 0.964,
-              "avg": 0.375
+              "ops": 0.986,
+              "avg": 0.395
             },
             {
               "id": 681807,
@@ -4172,7 +4172,7 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "hot",
           "last5_rpg": 4.2,
-          "last5_avg": 0.293,
+          "last5_avg": 0.288,
           "home_split": {
             "recent_avg": 0.244,
             "runs_per_g": 4.8,
@@ -4180,14 +4180,14 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.278,
+            "recent_avg": 0.276,
             "runs_per_g": 5.0,
             "hr_per_g": 0.8,
             "n_games": 10
           }
         },
-        "sit_score": 67.8,
-        "total": 63.1
+        "sit_score": 56.3,
+        "total": 61.5
       },
       "home": {
         "sp_score": 69.6,
@@ -4252,23 +4252,23 @@ window.PREDICTIONS_DATA = [
         "bp_detail": {
           "bullpen_era": 2.72,
           "recent_era": 2.0,
-          "recent_appearances": 11,
-          "recent_ip": 11.7,
+          "recent_appearances": 12,
+          "recent_ip": 12.7,
           "team_era": 3.25,
-          "bp_ip": 366.7,
+          "bp_ip": 367.7,
           "bp_count": 8,
-          "closer_era": 1.95,
+          "closer_era": 1.92,
           "closer_name": "Aroldis Chapman"
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.193,
+          "recent_avg": 0.189,
           "runs_per_g": 2.7,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
-          "season_ops": 0.613,
+          "season_ops": 0.607,
           "season_slg": null,
-          "season_avg": 0.193,
+          "season_avg": 0.189,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
@@ -4281,7 +4281,7 @@ window.PREDICTIONS_DATA = [
             "Adley Rutschman(0.714)",
             "Caleb Durbin(0.807)",
             "Andruw Monasterio(0.433)",
-            "Isiah Kiner-Falefa(0.460)",
+            "Isiah Kiner-Falefa(0.398)",
             "Nate Eaton(0.487)"
           ],
           "lineup_players": [
@@ -4330,8 +4330,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 643396,
               "name": "Isiah Kiner-Falefa",
-              "ops": 0.46,
-              "avg": 0.08
+              "ops": 0.398,
+              "avg": 0.043
             },
             {
               "id": 681987,
@@ -4342,9 +4342,9 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "hot",
           "last5_rpg": 1.8,
-          "last5_avg": 0.256,
+          "last5_avg": 0.254,
           "home_split": {
-            "recent_avg": 0.265,
+            "recent_avg": 0.264,
             "runs_per_g": 3.3,
             "hr_per_g": 1.0,
             "n_games": 10
@@ -4356,13 +4356,13 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           }
         },
-        "sit_score": 46.5,
-        "total": 54.3
+        "sit_score": 53.6,
+        "total": 55.3
       }
     },
     "scores": {
-      "away_offense": 42.0,
-      "away_defense": 72.3,
+      "away_offense": 42.2,
+      "away_defense": 72.5,
       "home_offense": 25.0,
       "home_defense": 71.0
     },
@@ -4409,13 +4409,13 @@ window.PREDICTIONS_DATA = [
       "div_rank": 5,
       "div_name": "NL Central",
       "wins": 73,
-      "losses": 84,
-      "games_back": "25.5"
+      "losses": 85,
+      "games_back": "26.0"
     },
     "home_standing": {
       "div_rank": 1,
       "div_name": "NL East",
-      "wins": 92,
+      "wins": 93,
       "losses": 65,
       "games_back": "-"
     },
@@ -4733,8 +4733,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 45.5,
-      "home": 54.5
+      "away": 47.1,
+      "home": 52.9
     },
     "expected_score": {
       "away": 1.6,
@@ -4830,27 +4830,27 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 55.1,
+        "bp_score": 56.3,
         "bp_detail": {
-          "bullpen_era": 3.97,
-          "recent_era": 3.06,
-          "recent_appearances": 15,
-          "recent_ip": 17.7,
-          "team_era": 4.82,
-          "bp_ip": 321.7,
+          "bullpen_era": 3.96,
+          "recent_era": 2.84,
+          "recent_appearances": 16,
+          "recent_ip": 19.0,
+          "team_era": 4.81,
+          "bp_ip": 323.0,
           "bp_count": 9,
           "closer_era": 3.46,
           "closer_name": "Emilio Pagán"
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.19,
+          "recent_avg": 0.191,
           "runs_per_g": 2.8,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
           "season_ops": 0.636,
           "season_slg": null,
-          "season_avg": 0.19,
+          "season_avg": 0.191,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -4859,8 +4859,8 @@ window.PREDICTIONS_DATA = [
             "Carlos Jorge(0.376)",
             "Elly De La Cruz(0.977)",
             "Sal Stewart(0.678)",
-            "Tyler Stephenson(0.658)",
-            "JJ Bleday(0.733)",
+            "Tyler Stephenson(0.635)",
+            "JJ Bleday(0.754)",
             "Eugenio Suárez(0.756)",
             "Dane Myers(0.631)",
             "Héctor Rodríguez(0.400)",
@@ -4888,14 +4888,14 @@ window.PREDICTIONS_DATA = [
             {
               "id": 663886,
               "name": "Tyler Stephenson",
-              "ops": 0.658,
-              "avg": 0.219
+              "ops": 0.635,
+              "avg": 0.207
             },
             {
               "id": 668709,
               "name": "JJ Bleday",
-              "ops": 0.733,
-              "avg": 0.265
+              "ops": 0.754,
+              "avg": 0.281
             },
             {
               "id": 553993,
@@ -4924,7 +4924,7 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "stable",
           "last5_rpg": 3.0,
-          "last5_avg": 0.197,
+          "last5_avg": 0.194,
           "home_split": {
             "recent_avg": 0.243,
             "runs_per_g": 4.2,
@@ -4932,14 +4932,14 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.223,
+            "recent_avg": 0.221,
             "runs_per_g": 3.7,
             "hr_per_g": 1.7,
             "n_games": 10
           }
         },
-        "sit_score": 46.0,
-        "total": 41.9
+        "sit_score": 41.9,
+        "total": 41.5
       },
       "home": {
         "sp_score": 30.0,
@@ -5018,25 +5018,25 @@ window.PREDICTIONS_DATA = [
         },
         "bp_score": 75.0,
         "bp_detail": {
-          "bullpen_era": 2.69,
-          "recent_era": 2.77,
-          "recent_appearances": 13,
-          "recent_ip": 13.0,
+          "bullpen_era": 2.68,
+          "recent_era": 2.57,
+          "recent_appearances": 14,
+          "recent_ip": 14.0,
           "team_era": 3.13,
-          "bp_ip": 411.7,
+          "bp_ip": 412.7,
           "bp_count": 8,
           "closer_era": 2.59,
           "closer_name": "Raisel Iglesias"
         },
-        "bat_score": 33.5,
+        "bat_score": 34.0,
         "bat_detail": {
-          "recent_avg": 0.259,
-          "runs_per_g": 4.7,
+          "recent_avg": 0.26,
+          "runs_per_g": 4.8,
           "hr_per_g": 1.5,
           "bb_per_g": 3.0,
-          "season_ops": 0.709,
+          "season_ops": 0.71,
           "season_slg": null,
-          "season_avg": 0.259,
+          "season_avg": 0.26,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
@@ -5047,8 +5047,8 @@ window.PREDICTIONS_DATA = [
             "Matt Olson(0.878)",
             "Ozzie Albies(0.595)",
             "Michael Harris(0.867)",
-            "Mauricio Dubón(0.845)",
-            "Austin Riley(0.674)",
+            "Mauricio Dubón(0.859)",
+            "Austin Riley(0.665)",
             "Sean Murphy(0.382)",
             "Ha-Seong Kim(0.318)"
           ],
@@ -5086,14 +5086,14 @@ window.PREDICTIONS_DATA = [
             {
               "id": 643289,
               "name": "Mauricio Dubón",
-              "ops": 0.845,
-              "avg": 0.395
+              "ops": 0.859,
+              "avg": 0.41
             },
             {
               "id": 663586,
               "name": "Austin Riley",
-              "ops": 0.674,
-              "avg": 0.222
+              "ops": 0.665,
+              "avg": 0.216
             },
             {
               "id": 669221,
@@ -5109,11 +5109,11 @@ window.PREDICTIONS_DATA = [
             }
           ],
           "bat_trend": "cold",
-          "last5_rpg": 3.6,
-          "last5_avg": 0.244,
+          "last5_rpg": 3.8,
+          "last5_avg": 0.246,
           "home_split": {
             "recent_avg": 0.249,
-            "runs_per_g": 3.6,
+            "runs_per_g": 3.7,
             "hr_per_g": 1.0,
             "n_games": 10
           },
@@ -5124,14 +5124,14 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           }
         },
-        "sit_score": 60.7,
-        "total": 43.7
+        "sit_score": 64.8,
+        "total": 44.4
       }
     },
     "scores": {
       "away_offense": 25.0,
-      "away_defense": 48.3,
-      "home_offense": 33.5,
+      "away_defense": 48.9,
+      "home_offense": 34.0,
       "home_defense": 59.2
     },
     "actual_score": {
@@ -5159,10 +5159,10 @@ window.PREDICTIONS_DATA = [
       "sp_favors": "Cincinnati Reds",
       "bat_favors": "Atlanta Braves",
       "sp_gap": 11.5,
-      "bat_gap": -8.5
+      "bat_gap": -9.0
     },
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 54.5% (≤58.0%)",
+    "low_confidence_reason": "최고 확률 52.9% (≤58.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -5182,15 +5182,15 @@ window.PREDICTIONS_DATA = [
       "div_rank": 2,
       "div_name": "AL Central",
       "wins": 81,
-      "losses": 76,
+      "losses": 77,
       "games_back": "1.0"
     },
     "home_standing": {
       "div_rank": 5,
       "div_name": "AL Central",
-      "wins": 67,
+      "wins": 68,
       "losses": 90,
-      "games_back": "15.0"
+      "games_back": "14.0"
     },
     "away_recent_form": {
       "games": [
@@ -5506,8 +5506,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 53.3,
-      "home": 46.7
+      "away": 50.3,
+      "home": 49.7
     },
     "expected_score": {
       "away": 3.1,
@@ -5603,48 +5603,48 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 70.3,
+        "bp_score": 69.2,
         "bp_detail": {
-          "bullpen_era": 3.01,
-          "recent_era": 3.0,
-          "recent_appearances": 10,
-          "recent_ip": 12.0,
+          "bullpen_era": 3.03,
+          "recent_era": 3.21,
+          "recent_appearances": 11,
+          "recent_ip": 14.0,
           "team_era": 3.97,
-          "bp_ip": 233.0,
+          "bp_ip": 235.0,
           "bp_count": 4,
           "closer_era": 2.3,
           "closer_name": "Grant Taylor"
         },
-        "bat_score": 40.3,
+        "bat_score": 39.7,
         "bat_detail": {
-          "recent_avg": 0.235,
+          "recent_avg": 0.233,
           "runs_per_g": 5.7,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.74,
+          "season_ops": 0.735,
           "season_slg": null,
-          "season_avg": 0.235,
+          "season_avg": 0.233,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Miguel Vargas(0.962)",
+            "Miguel Vargas(0.948)",
             "Tommy Pham(0.641)",
-            "Randal Grichuk(0.939)",
-            "Munetaka Murakami(0.801)",
-            "Chase Meidroth(0.864)",
-            "Kyle Teel(0.559)",
+            "Randal Grichuk(0.921)",
+            "Munetaka Murakami(0.789)",
+            "Chase Meidroth(0.851)",
+            "Kyle Teel(0.550)",
             "Brenton Doyle(0.755)",
-            "Colson Montgomery(0.537)",
-            "Braden Montgomery(0.602)"
+            "Colson Montgomery(0.531)",
+            "Braden Montgomery(0.628)"
           ],
           "lineup_players": [
             {
               "id": 678246,
               "name": "Miguel Vargas",
-              "ops": 0.962,
-              "avg": 0.324
+              "ops": 0.948,
+              "avg": 0.314
             },
             {
               "id": 502054,
@@ -5655,26 +5655,26 @@ window.PREDICTIONS_DATA = [
             {
               "id": 545341,
               "name": "Randal Grichuk",
-              "ops": 0.939,
-              "avg": 0.323
+              "ops": 0.921,
+              "avg": 0.312
             },
             {
               "id": 808959,
               "name": "Munetaka Murakami",
-              "ops": 0.801,
-              "avg": 0.161
+              "ops": 0.789,
+              "avg": 0.156
             },
             {
               "id": 805367,
               "name": "Chase Meidroth",
-              "ops": 0.864,
-              "avg": 0.351
+              "ops": 0.851,
+              "avg": 0.342
             },
             {
               "id": 691019,
               "name": "Kyle Teel",
-              "ops": 0.559,
-              "avg": 0.103
+              "ops": 0.55,
+              "avg": 0.1
             },
             {
               "id": 686668,
@@ -5685,19 +5685,19 @@ window.PREDICTIONS_DATA = [
             {
               "id": 695657,
               "name": "Colson Montgomery",
-              "ops": 0.537,
-              "avg": 0.103
+              "ops": 0.531,
+              "avg": 0.1
             },
             {
               "id": 695731,
               "name": "Braden Montgomery",
-              "ops": 0.602,
-              "avg": 0.214
+              "ops": 0.628,
+              "avg": 0.241
             }
           ],
           "bat_trend": "hot",
           "last5_rpg": 7.4,
-          "last5_avg": 0.263,
+          "last5_avg": 0.256,
           "home_split": {
             "recent_avg": 0.207,
             "runs_per_g": 4.5,
@@ -5705,14 +5705,14 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.231,
+            "recent_avg": 0.229,
             "runs_per_g": 4.6,
             "hr_per_g": 0.9,
             "n_games": 10
           }
         },
-        "sit_score": 59.2,
-        "total": 45.8
+        "sit_score": 52.2,
+        "total": 44.3
       },
       "home": {
         "sp_score": 32.0,
@@ -5784,20 +5784,20 @@ window.PREDICTIONS_DATA = [
         },
         "bp_score": 25.0,
         "bp_detail": {
-          "bullpen_era": 4.87,
-          "recent_era": 6.75,
-          "recent_appearances": 19,
-          "recent_ip": 20.0,
-          "team_era": 4.25,
-          "bp_ip": 275.3,
+          "bullpen_era": 4.82,
+          "recent_era": 6.04,
+          "recent_appearances": 21,
+          "recent_ip": 22.3,
+          "team_era": 4.24,
+          "bp_ip": 278.0,
           "bp_count": 9,
-          "closer_era": 5.96,
+          "closer_era": 5.83,
           "closer_name": "Lucas Erceg"
         },
-        "bat_score": 33.3,
+        "bat_score": 33.7,
         "bat_detail": {
           "recent_avg": 0.261,
-          "runs_per_g": 3.9,
+          "runs_per_g": 4.0,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
           "season_ops": 0.713,
@@ -5808,58 +5808,58 @@ window.PREDICTIONS_DATA = [
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Carter Jensen(0.852)",
-            "Bobby Witt(0.764)",
-            "Jac Caglianone(0.787)",
-            "Maikel Garcia(0.703)",
-            "Vinnie Pasquantino(0.960)",
-            "Salvador Perez(0.528)",
-            "Michael Massey(0.673)",
+            "Carter Jensen(0.867)",
+            "Bobby Witt(0.754)",
+            "Jac Caglianone(0.772)",
+            "Maikel Garcia(0.742)",
+            "Vinnie Pasquantino(0.942)",
+            "Salvador Perez(0.522)",
+            "Michael Massey(0.693)",
             "Nick Loftin(0.748)",
-            "Kyle Isbel(0.404)"
+            "Kyle Isbel(0.375)"
           ],
           "lineup_players": [
             {
               "id": 695600,
               "name": "Carter Jensen",
-              "ops": 0.852,
-              "avg": 0.316
+              "ops": 0.867,
+              "avg": 0.333
             },
             {
               "id": 677951,
               "name": "Bobby Witt",
-              "ops": 0.764,
-              "avg": 0.316
+              "ops": 0.754,
+              "avg": 0.308
             },
             {
               "id": 695506,
               "name": "Jac Caglianone",
-              "ops": 0.787,
-              "avg": 0.32
+              "ops": 0.772,
+              "avg": 0.308
             },
             {
               "id": 672580,
               "name": "Maikel Garcia",
-              "ops": 0.703,
-              "avg": 0.233
+              "ops": 0.742,
+              "avg": 0.258
             },
             {
               "id": 686469,
               "name": "Vinnie Pasquantino",
-              "ops": 0.96,
-              "avg": 0.353
+              "ops": 0.942,
+              "avg": 0.343
             },
             {
               "id": 521692,
               "name": "Salvador Perez",
-              "ops": 0.528,
-              "avg": 0.194
+              "ops": 0.522,
+              "avg": 0.188
             },
             {
               "id": 686681,
               "name": "Michael Massey",
-              "ops": 0.673,
-              "avg": 0.211
+              "ops": 0.693,
+              "avg": 0.231
             },
             {
               "id": 679845,
@@ -5870,16 +5870,16 @@ window.PREDICTIONS_DATA = [
             {
               "id": 664728,
               "name": "Kyle Isbel",
-              "ops": 0.404,
-              "avg": 0.115
+              "ops": 0.375,
+              "avg": 0.087
             }
           ],
           "bat_trend": "hot",
-          "last5_rpg": 5.6,
-          "last5_avg": 0.308,
+          "last5_rpg": 5.8,
+          "last5_avg": 0.309,
           "home_split": {
-            "recent_avg": 0.254,
-            "runs_per_g": 5.1,
+            "recent_avg": 0.256,
+            "runs_per_g": 5.2,
             "hr_per_g": 1.4,
             "n_games": 10
           },
@@ -5890,14 +5890,14 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           }
         },
-        "sit_score": 36.5,
-        "total": 31.0
+        "sit_score": 47.6,
+        "total": 32.7
       }
     },
     "scores": {
-      "away_offense": 40.3,
-      "away_defense": 50.1,
-      "home_offense": 33.3,
+      "away_offense": 39.7,
+      "away_defense": 49.6,
+      "home_offense": 33.7,
       "home_defense": 27.4
     },
     "actual_score": {
@@ -5923,7 +5923,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 2.0pt (≤5.0pt) / 최고 확률 53.3% (≤58.0%)",
+    "low_confidence_reason": "SP 점수 차이 2.0pt (≤5.0pt) / 최고 확률 50.3% (≤58.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -5942,7 +5942,7 @@ window.PREDICTIONS_DATA = [
     "away_standing": {
       "div_rank": 3,
       "div_name": "NL East",
-      "wins": 77,
+      "wins": 78,
       "losses": 80,
       "games_back": "15.0"
     },
@@ -5950,8 +5950,8 @@ window.PREDICTIONS_DATA = [
       "div_rank": 2,
       "div_name": "NL Central",
       "wins": 87,
-      "losses": 70,
-      "games_back": "11.5"
+      "losses": 71,
+      "games_back": "12.0"
     },
     "away_recent_form": {
       "games": [
@@ -6271,8 +6271,8 @@ window.PREDICTIONS_DATA = [
       "home": 61.4
     },
     "expected_score": {
-      "away": 1.8,
-      "home": 3.1
+      "away": 1.9,
+      "home": 3.0
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -6284,13 +6284,13 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": false,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.38,
-        "bp": 0.25,
-        "bat": 0.3,
+        "sp": 0.33,
+        "bp": 0.27,
+        "bat": 0.33,
         "sit": 0.15
       },
       "away": {
-        "sp_score": 32.6,
+        "sp_score": 32.7,
         "sp_detail": {
           "era": 3.79,
           "whip": 1.26,
@@ -6365,84 +6365,84 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 37.7,
+        "bp_score": 39.6,
         "bp_detail": {
-          "bullpen_era": 4.24,
-          "recent_era": 6.62,
-          "recent_appearances": 18,
-          "recent_ip": 17.7,
-          "team_era": 4.06,
-          "bp_ip": 352.3,
+          "bullpen_era": 4.22,
+          "recent_era": 5.95,
+          "recent_appearances": 20,
+          "recent_ip": 19.7,
+          "team_era": 4.05,
+          "bp_ip": 354.3,
           "bp_count": 9,
-          "closer_era": 3.39,
+          "closer_era": 3.34,
           "closer_name": "Calvin Faucher"
         },
-        "bat_score": 29.7,
+        "bat_score": 31.0,
         "bat_detail": {
-          "recent_avg": 0.221,
-          "runs_per_g": 4.6,
+          "recent_avg": 0.238,
+          "runs_per_g": 4.7,
           "hr_per_g": 1.2,
           "bb_per_g": 3.0,
-          "season_ops": 0.671,
+          "season_ops": 0.691,
           "season_slg": null,
-          "season_avg": 0.221,
+          "season_avg": 0.238,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Heriberto Hernández(0.690)",
-            "Otto Lopez(0.744)",
-            "Kyle Stowers(0.733)",
-            "Javier Sanoja(0.869)",
-            "Agustín Ramírez(0.866)",
-            "Esteury Ruiz(0.500)",
-            "Griffin Conine(0.766)",
+            "Heriberto Hernández(0.697)",
+            "Otto Lopez(0.734)",
+            "Kyle Stowers(0.725)",
+            "Javier Sanoja(0.857)",
+            "Agustín Ramírez(0.865)",
+            "Esteury Ruiz(0.543)",
+            "Griffin Conine(0.785)",
             "Deyvison De Los Santos(0.376)",
-            "Jared Serna(0.499)"
+            "Jared Serna(0.641)"
           ],
           "lineup_players": [
             {
               "id": 681715,
               "name": "Heriberto Hernández",
-              "ops": 0.69,
+              "ops": 0.697,
               "avg": 0.268
             },
             {
               "id": 672640,
               "name": "Otto Lopez",
-              "ops": 0.744,
-              "avg": 0.256
+              "ops": 0.734,
+              "avg": 0.25
             },
             {
               "id": 669065,
               "name": "Kyle Stowers",
-              "ops": 0.733,
-              "avg": 0.195
+              "ops": 0.725,
+              "avg": 0.19
             },
             {
               "id": 691594,
               "name": "Javier Sanoja",
-              "ops": 0.869,
-              "avg": 0.308
+              "ops": 0.857,
+              "avg": 0.3
             },
             {
               "id": 682663,
               "name": "Agustín Ramírez",
-              "ops": 0.866,
-              "avg": 0.346
+              "ops": 0.865,
+              "avg": 0.357
             },
             {
               "id": 665923,
               "name": "Esteury Ruiz",
-              "ops": 0.5,
-              "avg": 0.103
+              "ops": 0.543,
+              "avg": 0.143
             },
             {
               "id": 665052,
               "name": "Griffin Conine",
-              "ops": 0.766,
-              "avg": 0.25
+              "ops": 0.785,
+              "avg": 0.27
             },
             {
               "id": 691277,
@@ -6453,13 +6453,13 @@ window.PREDICTIONS_DATA = [
             {
               "id": 691858,
               "name": "Jared Serna",
-              "ops": 0.499,
-              "avg": 0.154
+              "ops": 0.641,
+              "avg": 0.25
             }
           ],
-          "bat_trend": "hot",
-          "last5_rpg": 4.2,
-          "last5_avg": 0.243,
+          "bat_trend": "stable",
+          "last5_rpg": 4.4,
+          "last5_avg": 0.249,
           "home_split": {
             "recent_avg": 0.268,
             "runs_per_g": 5.5,
@@ -6467,14 +6467,14 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.247,
-            "runs_per_g": 4.8,
+            "recent_avg": 0.25,
+            "runs_per_g": 4.9,
             "hr_per_g": 1.5,
             "n_games": 10
           }
         },
         "sit_score": 51.9,
-        "total": 38.5
+        "total": 39.5
       },
       "home": {
         "sp_score": 61.4,
@@ -6536,103 +6536,103 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 61.8,
+        "bp_score": 60.7,
         "bp_detail": {
-          "bullpen_era": 3.76,
-          "recent_era": 2.0,
-          "recent_appearances": 10,
-          "recent_ip": 9.7,
+          "bullpen_era": 3.77,
+          "recent_era": 2.31,
+          "recent_appearances": 11,
+          "recent_ip": 11.7,
           "team_era": 4.18,
-          "bp_ip": 272.7,
+          "bp_ip": 274.7,
           "bp_count": 5,
-          "closer_era": 3.48,
+          "closer_era": 3.41,
           "closer_name": "Jacob Webb"
         },
-        "bat_score": 40.2,
+        "bat_score": 39.0,
         "bat_detail": {
-          "recent_avg": 0.263,
+          "recent_avg": 0.257,
           "runs_per_g": 4.7,
           "hr_per_g": 1.3,
           "bb_per_g": 3.0,
-          "season_ops": 0.772,
+          "season_ops": 0.763,
           "season_slg": null,
-          "season_avg": 0.263,
+          "season_avg": 0.257,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Pete Crow-Armstrong(0.982)",
-            "Seiya Suzuki(0.735)",
-            "Michael Busch(0.857)",
-            "Michael Conforto(0.770)",
-            "Ian Happ(0.805)",
-            "Nico Hoerner(0.593)",
-            "Pedro Ramírez(0.654)",
-            "Carson Kelly(0.712)",
-            "Dansby Swanson(0.837)"
+            "Pete Crow-Armstrong(0.971)",
+            "Seiya Suzuki(0.726)",
+            "Michael Busch(0.843)",
+            "Michael Conforto(0.757)",
+            "Ian Happ(0.790)",
+            "Nico Hoerner(0.586)",
+            "Pedro Ramírez(0.675)",
+            "Carson Kelly(0.701)",
+            "Dansby Swanson(0.822)"
           ],
           "lineup_players": [
             {
               "id": 691718,
               "name": "Pete Crow-Armstrong",
-              "ops": 0.982,
-              "avg": 0.279
+              "ops": 0.971,
+              "avg": 0.273
             },
             {
               "id": 673548,
               "name": "Seiya Suzuki",
-              "ops": 0.735,
-              "avg": 0.237
+              "ops": 0.726,
+              "avg": 0.231
             },
             {
               "id": 683737,
               "name": "Michael Busch",
-              "ops": 0.857,
-              "avg": 0.312
+              "ops": 0.843,
+              "avg": 0.303
             },
             {
               "id": 624424,
               "name": "Michael Conforto",
-              "ops": 0.77,
-              "avg": 0.258
+              "ops": 0.757,
+              "avg": 0.25
             },
             {
               "id": 664023,
               "name": "Ian Happ",
-              "ops": 0.805,
-              "avg": 0.25
+              "ops": 0.79,
+              "avg": 0.241
             },
             {
               "id": 663538,
               "name": "Nico Hoerner",
-              "ops": 0.593,
-              "avg": 0.222
+              "ops": 0.586,
+              "avg": 0.216
             },
             {
               "id": 699393,
               "name": "Pedro Ramírez",
-              "ops": 0.654,
-              "avg": 0.211
+              "ops": 0.675,
+              "avg": 0.231
             },
             {
               "id": 608348,
               "name": "Carson Kelly",
-              "ops": 0.712,
-              "avg": 0.31
+              "ops": 0.701,
+              "avg": 0.296
             },
             {
               "id": 621020,
               "name": "Dansby Swanson",
-              "ops": 0.837,
-              "avg": 0.286
+              "ops": 0.822,
+              "avg": 0.276
             }
           ],
           "bat_trend": "stable",
           "last5_rpg": 4.4,
-          "last5_avg": 0.25,
+          "last5_avg": 0.243,
           "home_split": {
-            "recent_avg": 0.239,
+            "recent_avg": 0.235,
             "runs_per_g": 4.8,
             "hr_per_g": 1.0,
             "n_games": 10
@@ -6645,14 +6645,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 53.8,
-        "total": 58.9
+        "total": 57.6
       }
     },
     "scores": {
-      "away_offense": 29.7,
-      "away_defense": 35.2,
-      "home_offense": 40.2,
-      "home_defense": 61.6
+      "away_offense": 31.0,
+      "away_defense": 36.2,
+      "home_offense": 39.0,
+      "home_defense": 61.0
     },
     "actual_score": {
       "away": 8,
@@ -6696,7 +6696,7 @@ window.PREDICTIONS_DATA = [
     "away_standing": {
       "div_rank": 5,
       "div_name": "NL East",
-      "wins": 72,
+      "wins": 73,
       "losses": 85,
       "games_back": "20.0"
     },
@@ -6704,8 +6704,8 @@ window.PREDICTIONS_DATA = [
       "div_rank": 2,
       "div_name": "AL West",
       "wins": 78,
-      "losses": 79,
-      "games_back": "-"
+      "losses": 80,
+      "games_back": "0.5"
     },
     "away_recent_form": {
       "games": [
@@ -7021,12 +7021,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 46.6,
-      "home": 53.4
+      "away": 49.2,
+      "home": 50.8
     },
     "expected_score": {
-      "away": 2.0,
-      "home": 2.1
+      "away": 2.3,
+      "home": 2.0
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -7044,7 +7044,7 @@ window.PREDICTIONS_DATA = [
         "sit": 0.15
       },
       "away": {
-        "sp_score": 37.9,
+        "sp_score": 38.1,
         "sp_detail": {
           "era": 4.88,
           "whip": 1.22,
@@ -7110,90 +7110,90 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 48.1,
+        "bp_score": 50.3,
         "bp_detail": {
-          "bullpen_era": 4.34,
-          "recent_era": 2.57,
-          "recent_appearances": 15,
-          "recent_ip": 21.0,
-          "team_era": 4.27,
-          "bp_ip": 305.0,
+          "bullpen_era": 4.31,
+          "recent_era": 2.35,
+          "recent_appearances": 17,
+          "recent_ip": 23.0,
+          "team_era": 4.26,
+          "bp_ip": 307.0,
           "bp_count": 10,
-          "closer_era": 4.66,
+          "closer_era": 4.54,
           "closer_name": "Devin Williams"
         },
-        "bat_score": 29.1,
+        "bat_score": 32.3,
         "bat_detail": {
-          "recent_avg": 0.252,
-          "runs_per_g": 3.3,
-          "hr_per_g": 0.7,
+          "recent_avg": 0.25,
+          "runs_per_g": 3.8,
+          "hr_per_g": 0.9,
           "bb_per_g": 3.0,
-          "season_ops": 0.705,
+          "season_ops": 0.709,
           "season_slg": null,
-          "season_avg": 0.252,
+          "season_avg": 0.25,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Francisco Lindor(0.598)",
-            "Juan Soto(0.871)",
-            "Bo Bichette(0.641)",
-            "Mark Vientos(0.705)",
-            "Carson Benge(0.815)",
-            "Marcus Semien(0.544)",
-            "Francisco Alvarez(0.707)",
-            "A.J. Ewing(0.748)",
+            "Francisco Lindor(0.585)",
+            "Juan Soto(0.887)",
+            "Bo Bichette(0.642)",
+            "Mark Vientos(0.690)",
+            "Carson Benge(0.793)",
+            "Marcus Semien(0.606)",
+            "Francisco Alvarez(0.716)",
+            "A.J. Ewing(0.746)",
             "Luis Torrens(0.718)"
           ],
           "lineup_players": [
             {
               "id": 596019,
               "name": "Francisco Lindor",
-              "ops": 0.598,
-              "avg": 0.15
+              "ops": 0.585,
+              "avg": 0.143
             },
             {
               "id": 665742,
               "name": "Juan Soto",
-              "ops": 0.871,
+              "ops": 0.887,
               "avg": 0.282
             },
             {
               "id": 666182,
               "name": "Bo Bichette",
-              "ops": 0.641,
-              "avg": 0.238
+              "ops": 0.642,
+              "avg": 0.233
             },
             {
               "id": 668901,
               "name": "Mark Vientos",
-              "ops": 0.705,
-              "avg": 0.25
+              "ops": 0.69,
+              "avg": 0.24
             },
             {
               "id": 701807,
               "name": "Carson Benge",
-              "ops": 0.815,
-              "avg": 0.308
+              "ops": 0.793,
+              "avg": 0.293
             },
             {
               "id": 543760,
               "name": "Marcus Semien",
-              "ops": 0.544,
-              "avg": 0.184
+              "ops": 0.606,
+              "avg": 0.205
             },
             {
               "id": 682626,
               "name": "Francisco Alvarez",
-              "ops": 0.707,
-              "avg": 0.27
+              "ops": 0.716,
+              "avg": 0.282
             },
             {
               "id": 805999,
               "name": "A.J. Ewing",
-              "ops": 0.748,
-              "avg": 0.324
+              "ops": 0.746,
+              "avg": 0.314
             },
             {
               "id": 620443,
@@ -7203,8 +7203,8 @@ window.PREDICTIONS_DATA = [
             }
           ],
           "bat_trend": "hot",
-          "last5_rpg": 5.2,
-          "last5_avg": 0.292,
+          "last5_rpg": 6.2,
+          "last5_avg": 0.289,
           "home_split": {
             "recent_avg": 0.248,
             "runs_per_g": 4.4,
@@ -7212,17 +7212,17 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.271,
-            "runs_per_g": 6.7,
-            "hr_per_g": 1.5,
+            "recent_avg": 0.27,
+            "runs_per_g": 7.2,
+            "hr_per_g": 1.7,
             "n_games": 10
           }
         },
         "sit_score": 47.4,
-        "total": 41.1
+        "total": 42.5
       },
       "home": {
-        "sp_score": 29.8,
+        "sp_score": 29.7,
         "sp_detail": {
           "era": 4.12,
           "whip": 1.56,
@@ -7296,78 +7296,78 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 69.9,
+        "bp_score": 59.1,
         "bp_detail": {
-          "bullpen_era": 3.31,
-          "recent_era": 2.84,
-          "recent_appearances": 15,
-          "recent_ip": 19.0,
-          "team_era": 3.94,
-          "bp_ip": 323.3,
+          "bullpen_era": 3.42,
+          "recent_era": 4.5,
+          "recent_appearances": 18,
+          "recent_ip": 22.0,
+          "team_era": 3.97,
+          "bp_ip": 326.3,
           "bp_count": 8,
-          "closer_era": 2.08,
+          "closer_era": 2.15,
           "closer_name": "Jacob Latz"
         },
-        "bat_score": 27.7,
+        "bat_score": 27.1,
         "bat_detail": {
-          "recent_avg": 0.239,
+          "recent_avg": 0.236,
           "runs_per_g": 4.7,
           "hr_per_g": 0.5,
           "bb_per_g": 3.0,
-          "season_ops": 0.7,
+          "season_ops": 0.695,
           "season_slg": null,
-          "season_avg": 0.239,
+          "season_avg": 0.236,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Wyatt Langford(0.765)",
-            "Corey Seager(0.690)",
-            "Josh Jung(0.798)",
-            "Jake Burger(0.686)",
-            "Brandon Nimmo(0.713)",
-            "Ezequiel Duran(0.593)",
+            "Wyatt Langford(0.753)",
+            "Corey Seager(0.681)",
+            "Josh Jung(0.814)",
+            "Jake Burger(0.676)",
+            "Brandon Nimmo(0.704)",
+            "Ezequiel Duran(0.581)",
             "Justin Foscue(0.720)",
             "Elias Díaz(0.604)",
-            "Danny Jansen(0.734)"
+            "Danny Jansen(0.719)"
           ],
           "lineup_players": [
             {
               "id": 694671,
               "name": "Wyatt Langford",
-              "ops": 0.765,
-              "avg": 0.2
+              "ops": 0.753,
+              "avg": 0.194
             },
             {
               "id": 608369,
               "name": "Corey Seager",
-              "ops": 0.69,
-              "avg": 0.244
+              "ops": 0.681,
+              "avg": 0.238
             },
             {
               "id": 673962,
               "name": "Josh Jung",
-              "ops": 0.798,
-              "avg": 0.275
+              "ops": 0.814,
+              "avg": 0.293
             },
             {
               "id": 669394,
               "name": "Jake Burger",
-              "ops": 0.686,
-              "avg": 0.182
+              "ops": 0.676,
+              "avg": 0.176
             },
             {
               "id": 607043,
               "name": "Brandon Nimmo",
-              "ops": 0.713,
-              "avg": 0.27
+              "ops": 0.704,
+              "avg": 0.263
             },
             {
               "id": 677649,
               "name": "Ezequiel Duran",
-              "ops": 0.593,
-              "avg": 0.171
+              "ops": 0.581,
+              "avg": 0.162
             },
             {
               "id": 679822,
@@ -7384,15 +7384,15 @@ window.PREDICTIONS_DATA = [
             {
               "id": 643376,
               "name": "Danny Jansen",
-              "ops": 0.734,
-              "avg": 0.32
+              "ops": 0.719,
+              "avg": 0.308
             }
           ],
           "bat_trend": "cold",
           "last5_rpg": 4.0,
-          "last5_avg": 0.182,
+          "last5_avg": 0.176,
           "home_split": {
-            "recent_avg": 0.219,
+            "recent_avg": 0.216,
             "runs_per_g": 4.5,
             "hr_per_g": 0.8,
             "n_games": 10
@@ -7404,15 +7404,15 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           }
         },
-        "sit_score": 53.0,
-        "total": 44.0
+        "sit_score": 49.9,
+        "total": 40.6
       }
     },
     "scores": {
-      "away_offense": 29.1,
-      "away_defense": 43.0,
-      "home_offense": 27.7,
-      "home_defense": 49.9
+      "away_offense": 32.3,
+      "away_defense": 44.2,
+      "home_offense": 27.1,
+      "home_defense": 44.4
     },
     "actual_score": {
       "away": 6,
@@ -7437,7 +7437,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 53.4% (≤58.0%)",
+    "low_confidence_reason": "최고 확률 50.8% (≤58.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -7786,7 +7786,7 @@ window.PREDICTIONS_DATA = [
     },
     "expected_score": {
       "away": 3.4,
-      "home": 2.4
+      "home": 2.5
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -7870,90 +7870,90 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 70.1,
+        "bp_score": 69.4,
         "bp_detail": {
           "bullpen_era": 3.04,
-          "recent_era": 3.6,
-          "recent_appearances": 12,
-          "recent_ip": 15.0,
-          "team_era": 3.8,
-          "bp_ip": 388.0,
+          "recent_era": 3.5,
+          "recent_appearances": 16,
+          "recent_ip": 18.0,
+          "team_era": 3.79,
+          "bp_ip": 391.0,
           "bp_count": 8,
-          "closer_era": 2.15,
+          "closer_era": 2.13,
           "closer_name": "Juan Morillo"
         },
-        "bat_score": 45.0,
+        "bat_score": 44.699999999999996,
         "bat_detail": {
-          "recent_avg": 0.285,
-          "runs_per_g": 4.7,
-          "hr_per_g": 1.3,
+          "recent_avg": 0.276,
+          "runs_per_g": 4.8,
+          "hr_per_g": 1.4,
           "bb_per_g": 3.0,
-          "season_ops": 0.77,
+          "season_ops": 0.763,
           "season_slg": null,
-          "season_avg": 0.285,
+          "season_avg": 0.276,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Ildemaro Vargas(0.730)",
-            "Ketel Marte(0.623)",
-            "Gabriel Moreno(1.012)",
-            "Geraldo Perdomo(0.832)",
-            "Nolan Arenado(1.032)",
-            "Jordan Lawlar(0.816)",
-            "Corbin Carroll(0.845)",
-            "Tim Tawa(0.570)",
+            "Ildemaro Vargas(0.700)",
+            "Ketel Marte(0.635)",
+            "Gabriel Moreno(1.035)",
+            "Geraldo Perdomo(0.807)",
+            "Nolan Arenado(0.980)",
+            "Jordan Lawlar(0.788)",
+            "Corbin Carroll(0.808)",
+            "Tim Tawa(0.645)",
             "Jose Fernandez(0.470)"
           ],
           "lineup_players": [
             {
               "id": 545121,
               "name": "Ildemaro Vargas",
-              "ops": 0.73,
-              "avg": 0.333
+              "ops": 0.7,
+              "avg": 0.296
             },
             {
               "id": 606466,
               "name": "Ketel Marte",
-              "ops": 0.623,
-              "avg": 0.195
+              "ops": 0.635,
+              "avg": 0.209
             },
             {
               "id": 672515,
               "name": "Gabriel Moreno",
-              "ops": 1.012,
-              "avg": 0.389
+              "ops": 1.035,
+              "avg": 0.421
             },
             {
               "id": 672695,
               "name": "Geraldo Perdomo",
-              "ops": 0.832,
-              "avg": 0.4
+              "ops": 0.807,
+              "avg": 0.378
             },
             {
               "id": 571448,
               "name": "Nolan Arenado",
-              "ops": 1.032,
-              "avg": 0.429
+              "ops": 0.98,
+              "avg": 0.395
             },
             {
               "id": 691783,
               "name": "Jordan Lawlar",
-              "ops": 0.816,
-              "avg": 0.29
+              "ops": 0.788,
+              "avg": 0.25
             },
             {
               "id": 682998,
               "name": "Corbin Carroll",
-              "ops": 0.845,
-              "avg": 0.265
+              "ops": 0.808,
+              "avg": 0.243
             },
             {
               "id": 694374,
               "name": "Tim Tawa",
-              "ops": 0.57,
-              "avg": 0.111
+              "ops": 0.645,
+              "avg": 0.138
             },
             {
               "id": 699912,
@@ -7963,8 +7963,8 @@ window.PREDICTIONS_DATA = [
             }
           ],
           "bat_trend": "stable",
-          "last5_rpg": 5.2,
-          "last5_avg": 0.278,
+          "last5_rpg": 5.4,
+          "last5_avg": 0.272,
           "home_split": {
             "recent_avg": 0.255,
             "runs_per_g": 4.6,
@@ -7972,14 +7972,14 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.247,
-            "runs_per_g": 4.0,
-            "hr_per_g": 0.7,
+            "recent_avg": 0.246,
+            "runs_per_g": 4.1,
+            "hr_per_g": 0.8,
             "n_games": 10
           }
         },
         "sit_score": 55.4,
-        "total": 58.7
+        "total": 58.3
       },
       "home": {
         "sp_score": 25.0,
@@ -8056,25 +8056,25 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 39.2,
+        "bp_score": 37.8,
         "bp_detail": {
-          "bullpen_era": 5.06,
-          "recent_era": 2.42,
-          "recent_appearances": 15,
-          "recent_ip": 22.3,
-          "team_era": 5.48,
-          "bp_ip": 375.0,
+          "bullpen_era": 5.05,
+          "recent_era": 2.49,
+          "recent_appearances": 17,
+          "recent_ip": 25.3,
+          "team_era": 5.46,
+          "bp_ip": 378.0,
           "bp_count": 8,
           "closer_era": 5.12,
           "closer_name": "Jordan Romano"
         },
-        "bat_score": 35.3,
+        "bat_score": 37.7,
         "bat_detail": {
           "recent_avg": 0.247,
-          "runs_per_g": 3.6,
-          "hr_per_g": 0.7,
+          "runs_per_g": 3.7,
+          "hr_per_g": 0.8,
           "bb_per_g": 3.0,
-          "season_ops": 0.732,
+          "season_ops": 0.726,
           "season_slg": null,
           "season_avg": 0.247,
           "n_games": 9,
@@ -8082,79 +8082,79 @@ window.PREDICTIONS_DATA = [
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Jake McCarthy(0.829)",
-            "Connor Norby(0.783)",
-            "TJ Rumfield(0.780)",
-            "Hunter Goodman(0.731)",
-            "Cole Carrigg(0.846)",
-            "Kyle Karros(0.691)",
-            "Mickey Moniak(0.731)",
-            "Troy Johnston(0.681)",
-            "Zac Veen(0.515)"
+            "Jake McCarthy(0.807)",
+            "Connor Norby(0.797)",
+            "TJ Rumfield(0.760)",
+            "Hunter Goodman(0.767)",
+            "Cole Carrigg(0.822)",
+            "Kyle Karros(0.693)",
+            "Mickey Moniak(0.720)",
+            "Troy Johnston(0.662)",
+            "Zac Veen(0.503)"
           ],
           "lineup_players": [
             {
               "id": 664983,
               "name": "Jake McCarthy",
-              "ops": 0.829,
-              "avg": 0.289
+              "ops": 0.807,
+              "avg": 0.275
             },
             {
               "id": 681393,
               "name": "Connor Norby",
-              "ops": 0.783,
-              "avg": 0.342
+              "ops": 0.797,
+              "avg": 0.361
             },
             {
               "id": 681198,
               "name": "TJ Rumfield",
-              "ops": 0.78,
-              "avg": 0.324
+              "ops": 0.76,
+              "avg": 0.308
             },
             {
               "id": 696100,
               "name": "Hunter Goodman",
-              "ops": 0.731,
-              "avg": 0.162
+              "ops": 0.767,
+              "avg": 0.205
             },
             {
               "id": 694249,
               "name": "Cole Carrigg",
-              "ops": 0.846,
-              "avg": 0.325
+              "ops": 0.822,
+              "avg": 0.31
             },
             {
               "id": 691720,
               "name": "Kyle Karros",
-              "ops": 0.691,
-              "avg": 0.2
+              "ops": 0.693,
+              "avg": 0.211
             },
             {
               "id": 666160,
               "name": "Mickey Moniak",
-              "ops": 0.731,
-              "avg": 0.194
+              "ops": 0.72,
+              "avg": 0.188
             },
             {
               "id": 687859,
               "name": "Troy Johnston",
-              "ops": 0.681,
-              "avg": 0.235
+              "ops": 0.662,
+              "avg": 0.226
             },
             {
               "id": 691728,
               "name": "Zac Veen",
-              "ops": 0.515,
-              "avg": 0.15
+              "ops": 0.503,
+              "avg": 0.143
             }
           ],
-          "bat_trend": "cold",
-          "last5_rpg": 2.8,
-          "last5_avg": 0.238,
+          "bat_trend": "stable",
+          "last5_rpg": 3.0,
+          "last5_avg": 0.234,
           "home_split": {
-            "recent_avg": 0.27,
-            "runs_per_g": 4.3,
-            "hr_per_g": 0.8,
+            "recent_avg": 0.266,
+            "runs_per_g": 4.4,
+            "hr_per_g": 0.9,
             "n_games": 10
           },
           "away_split": {
@@ -8165,14 +8165,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 39.9,
-        "total": 33.1
+        "total": 33.5
       }
     },
     "scores": {
-      "away_offense": 45.0,
-      "away_defense": 58.3,
-      "home_offense": 35.3,
-      "home_defense": 34.2
+      "away_offense": 44.699999999999996,
+      "away_defense": 58.0,
+      "home_offense": 37.7,
+      "home_defense": 33.3
     },
     "actual_score": {
       "away": 7,
@@ -8541,12 +8541,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 48.8,
-      "home": 51.2
+      "away": 49.0,
+      "home": 51.0
     },
     "expected_score": {
       "away": 1.2,
-      "home": 2.2
+      "home": 2.1
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -8564,7 +8564,7 @@ window.PREDICTIONS_DATA = [
         "sit": 0.15
       },
       "away": {
-        "sp_score": 35.9,
+        "sp_score": 35.8,
         "sp_detail": {
           "era": 4.31,
           "whip": 1.48,
@@ -8631,66 +8631,66 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 33.1,
+        "bp_score": 33.0,
         "bp_detail": {
           "bullpen_era": 4.16,
           "recent_era": 7.36,
           "recent_appearances": 19,
           "recent_ip": 18.3,
-          "team_era": 4.11,
+          "team_era": 4.15,
           "bp_ip": 315.7,
           "bp_count": 9,
           "closer_era": 4.11,
           "closer_name": "Ben Joyce"
         },
-        "bat_score": 17.1,
+        "bat_score": 16.8,
         "bat_detail": {
-          "recent_avg": 0.222,
-          "runs_per_g": 3.8,
-          "hr_per_g": 0.7,
+          "recent_avg": 0.219,
+          "runs_per_g": 3.5,
+          "hr_per_g": 0.8,
           "bb_per_g": 3.0,
-          "season_ops": 0.646,
+          "season_ops": 0.639,
           "season_slg": null,
-          "season_avg": 0.222,
+          "season_avg": 0.219,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Zach Neto(0.690)",
-            "Mike Trout(0.804)",
-            "Vaughn Grissom(0.718)",
-            "Denzer Guzman(0.637)",
+            "Zach Neto(0.742)",
+            "Mike Trout(0.884)",
+            "Vaughn Grissom(0.756)",
+            "Denzer Guzman(0.595)",
             "Moisés Ballesteros(0.632)",
-            "Jose Siri(0.772)",
-            "Wade Meckler(0.699)",
-            "Christian Moore(0.456)",
-            "Bryce Teodosio(0.402)"
+            "Jose Siri(0.738)",
+            "Wade Meckler(0.686)",
+            "Christian Moore(0.389)",
+            "Bryce Teodosio(0.331)"
           ],
           "lineup_players": [
             {
               "id": 687263,
               "name": "Zach Neto",
-              "ops": 0.69,
-              "avg": 0.167
+              "ops": 0.742,
+              "avg": 0.212
             },
             {
               "id": 545361,
               "name": "Mike Trout",
-              "ops": 0.804,
-              "avg": 0.258
+              "ops": 0.884,
+              "avg": 0.3
             },
             {
               "id": 687093,
               "name": "Vaughn Grissom",
-              "ops": 0.718,
-              "avg": 0.235
+              "ops": 0.756,
+              "avg": 0.258
             },
             {
               "id": 694203,
               "name": "Denzer Guzman",
-              "ops": 0.637,
-              "avg": 0.237
+              "ops": 0.595,
+              "avg": 0.216
             },
             {
               "id": 694208,
@@ -8701,31 +8701,31 @@ window.PREDICTIONS_DATA = [
             {
               "id": 642350,
               "name": "Jose Siri",
-              "ops": 0.772,
-              "avg": 0.323
+              "ops": 0.738,
+              "avg": 0.3
             },
             {
               "id": 685133,
               "name": "Wade Meckler",
-              "ops": 0.699,
+              "ops": 0.686,
               "avg": 0.278
             },
             {
               "id": 695681,
               "name": "Christian Moore",
-              "ops": 0.456,
-              "avg": 0.176
+              "ops": 0.389,
+              "avg": 0.125
             },
             {
               "id": 669326,
               "name": "Bryce Teodosio",
-              "ops": 0.402,
-              "avg": 0.1
+              "ops": 0.331,
+              "avg": 0.056
             }
           ],
-          "bat_trend": "stable",
-          "last5_rpg": 3.6,
-          "last5_avg": 0.227,
+          "bat_trend": "hot",
+          "last5_rpg": 3.0,
+          "last5_avg": 0.239,
           "home_split": {
             "recent_avg": 0.224,
             "runs_per_g": 3.7,
@@ -8733,17 +8733,17 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.244,
-            "runs_per_g": 4.0,
-            "hr_per_g": 1.1,
+            "recent_avg": 0.259,
+            "runs_per_g": 4.2,
+            "hr_per_g": 1.3,
             "n_games": 10
           }
         },
         "sit_score": 39.6,
-        "total": 31.7
+        "total": 31.6
       },
       "home": {
-        "sp_score": 29.6,
+        "sp_score": 29.4,
         "sp_detail": {
           "era": 6.33,
           "whip": 1.78,
@@ -8817,7 +8817,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 54.1,
+        "bp_score": 53.8,
         "bp_detail": {
           "bullpen_era": 4.4,
           "recent_era": 2.28,
@@ -8829,54 +8829,54 @@ window.PREDICTIONS_DATA = [
           "closer_era": 3.42,
           "closer_name": "Hogan Harris"
         },
-        "bat_score": 27.9,
+        "bat_score": 27.0,
         "bat_detail": {
-          "recent_avg": 0.252,
-          "runs_per_g": 3.8,
-          "hr_per_g": 1.2,
+          "recent_avg": 0.254,
+          "runs_per_g": 3.7,
+          "hr_per_g": 1.1,
           "bb_per_g": 3.0,
-          "season_ops": 0.717,
+          "season_ops": 0.719,
           "season_slg": null,
-          "season_avg": 0.252,
+          "season_avg": 0.254,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Henry Bolte(0.702)",
-            "Shea Langeliers(0.779)",
-            "Lawrence Butler(0.940)",
-            "Zack Gelof(0.799)",
+            "Henry Bolte(0.778)",
+            "Shea Langeliers(0.731)",
+            "Lawrence Butler(0.876)",
+            "Zack Gelof(0.848)",
             "Tommy White(0.655)",
             "Joshua Kuroda-Grauer(0.961)",
             "Jonah Heim(0.424)",
-            "Alika Williams(0.810)",
+            "Alika Williams(0.815)",
             "Denzel Clarke(0.380)"
           ],
           "lineup_players": [
             {
               "id": 703607,
               "name": "Henry Bolte",
-              "ops": 0.702,
-              "avg": 0.222
+              "ops": 0.778,
+              "avg": 0.273
             },
             {
               "id": 669127,
               "name": "Shea Langeliers",
-              "ops": 0.779,
-              "avg": 0.333
+              "ops": 0.731,
+              "avg": 0.286
             },
             {
               "id": 671732,
               "name": "Lawrence Butler",
-              "ops": 0.94,
-              "avg": 0.324
+              "ops": 0.876,
+              "avg": 0.294
             },
             {
               "id": 680869,
               "name": "Zack Gelof",
-              "ops": 0.799,
-              "avg": 0.263
+              "ops": 0.848,
+              "avg": 0.294
             },
             {
               "id": 695720,
@@ -8899,8 +8899,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 675961,
               "name": "Alika Williams",
-              "ops": 0.81,
-              "avg": 0.32
+              "ops": 0.815,
+              "avg": 0.333
             },
             {
               "id": 672016,
@@ -8909,12 +8909,12 @@ window.PREDICTIONS_DATA = [
               "avg": 0.083
             }
           ],
-          "bat_trend": "stable",
-          "last5_rpg": 3.8,
-          "last5_avg": 0.244,
+          "bat_trend": "hot",
+          "last5_rpg": 4.6,
+          "last5_avg": 0.282,
           "home_split": {
-            "recent_avg": 0.252,
-            "runs_per_g": 4.5,
+            "recent_avg": 0.262,
+            "runs_per_g": 4.7,
             "hr_per_g": 1.3,
             "n_games": 10
           },
@@ -8926,14 +8926,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 45.4,
-        "total": 35.9
+        "total": 35.5
       }
     },
     "scores": {
-      "away_offense": 17.1,
-      "away_defense": 34.5,
-      "home_offense": 27.9,
-      "home_defense": 45.5
+      "away_offense": 16.8,
+      "away_defense": 34.4,
+      "home_offense": 27.0,
+      "home_defense": 45.3
     },
     "actual_score": {
       "away": 7,
@@ -8958,7 +8958,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 51.2% (≤58.0%)",
+    "low_confidence_reason": "최고 확률 51.0% (≤58.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -9302,11 +9302,11 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 61.5,
-      "home": 38.5
+      "away": 60.6,
+      "home": 39.4
     },
     "expected_score": {
-      "away": 2.6,
+      "away": 2.7,
       "home": 1.8
     },
     "blend_detail": null,
@@ -9384,40 +9384,40 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 57.6,
+        "bp_score": 54.6,
         "bp_detail": {
-          "bullpen_era": 3.67,
-          "recent_era": 5.01,
-          "recent_appearances": 17,
-          "recent_ip": 23.3,
-          "team_era": 3.89,
-          "bp_ip": 336.0,
-          "bp_count": 8,
+          "bullpen_era": 3.66,
+          "recent_era": 6.11,
+          "recent_appearances": 16,
+          "recent_ip": 17.7,
+          "team_era": 3.88,
+          "bp_ip": 307.3,
+          "bp_count": 7,
           "closer_era": 0.83,
           "closer_name": "Josh Hader"
         },
-        "bat_score": 36.2,
+        "bat_score": 36.400000000000006,
         "bat_detail": {
-          "recent_avg": 0.254,
-          "runs_per_g": 3.3,
-          "hr_per_g": 1.9,
+          "recent_avg": 0.248,
+          "runs_per_g": 3.6,
+          "hr_per_g": 2.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.761,
+          "season_ops": 0.76,
           "season_slg": null,
-          "season_avg": 0.254,
+          "season_avg": 0.248,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
             "Jeremy Peña(0.867)",
-            "Yordan Alvarez(1.117)",
-            "Isaac Paredes(0.916)",
-            "Jose Altuve(0.726)",
-            "Yainer Diaz(0.880)",
-            "Christian Walker(0.528)",
-            "Taylor Trammell(0.623)",
-            "Cam Smith(0.510)",
+            "Yordan Alvarez(1.143)",
+            "Isaac Paredes(0.964)",
+            "Jose Altuve(0.746)",
+            "Yainer Diaz(0.908)",
+            "Christian Walker(0.508)",
+            "Taylor Trammell(0.622)",
+            "Cam Smith(0.404)",
             "Brice Matthews(0.678)"
           ],
           "lineup_players": [
@@ -9430,44 +9430,44 @@ window.PREDICTIONS_DATA = [
             {
               "id": 670541,
               "name": "Yordan Alvarez",
-              "ops": 1.117,
-              "avg": 0.364
+              "ops": 1.143,
+              "avg": 0.367
             },
             {
               "id": 670623,
               "name": "Isaac Paredes",
-              "ops": 0.916,
-              "avg": 0.286
+              "ops": 0.964,
+              "avg": 0.312
             },
             {
               "id": 514888,
               "name": "Jose Altuve",
-              "ops": 0.726,
-              "avg": 0.3
+              "ops": 0.746,
+              "avg": 0.316
             },
             {
               "id": 673237,
               "name": "Yainer Diaz",
-              "ops": 0.88,
-              "avg": 0.382
+              "ops": 0.908,
+              "avg": 0.364
             },
             {
               "id": 572233,
               "name": "Christian Walker",
-              "ops": 0.528,
-              "avg": 0.111
+              "ops": 0.508,
+              "avg": 0.088
             },
             {
               "id": 666211,
               "name": "Taylor Trammell",
-              "ops": 0.623,
+              "ops": 0.622,
               "avg": 0.148
             },
             {
               "id": 701358,
               "name": "Cam Smith",
-              "ops": 0.51,
-              "avg": 0.111
+              "ops": 0.404,
+              "avg": 0.059
             },
             {
               "id": 694728,
@@ -9477,8 +9477,8 @@ window.PREDICTIONS_DATA = [
             }
           ],
           "bat_trend": "hot",
-          "last5_rpg": 4.0,
-          "last5_avg": 0.264,
+          "last5_rpg": 3.6,
+          "last5_avg": 0.263,
           "home_split": {
             "recent_avg": 0.233,
             "runs_per_g": 3.3,
@@ -9486,17 +9486,17 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.233,
-            "runs_per_g": 4.0,
-            "hr_per_g": 1.6,
+            "recent_avg": 0.249,
+            "runs_per_g": 4.1,
+            "hr_per_g": 1.7,
             "n_games": 10
           }
         },
         "sit_score": 60.0,
-        "total": 52.1
+        "total": 51.4
       },
       "home": {
-        "sp_score": 36.9,
+        "sp_score": 36.6,
         "sp_detail": {
           "era": 4.63,
           "whip": 1.35,
@@ -9571,90 +9571,90 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 39.1,
+        "bp_score": 38.8,
         "bp_detail": {
           "bullpen_era": 4.06,
           "recent_era": 6.07,
           "recent_appearances": 16,
           "recent_ip": 13.3,
-          "team_era": 4.02,
+          "team_era": 4.04,
           "bp_ip": 423.3,
           "bp_count": 9,
           "closer_era": 4.24,
           "closer_name": "Andrés Muñoz"
         },
-        "bat_score": 26.4,
+        "bat_score": 25.2,
         "bat_detail": {
-          "recent_avg": 0.229,
-          "runs_per_g": 5.3,
-          "hr_per_g": 1.4,
+          "recent_avg": 0.228,
+          "runs_per_g": 4.8,
+          "hr_per_g": 1.3,
           "bb_per_g": 3.0,
-          "season_ops": 0.715,
+          "season_ops": 0.72,
           "season_slg": null,
-          "season_avg": 0.229,
+          "season_avg": 0.228,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "J.P. Crawford(0.698)",
-            "Randy Arozarena(1.019)",
-            "Dominic Canzone(0.919)",
-            "Cal Raleigh(0.655)",
-            "Julio Rodríguez(0.757)",
-            "Josh Naylor(0.649)",
-            "Cole Young(0.671)",
-            "Lazaro Montes(0.692)",
+            "J.P. Crawford(0.682)",
+            "Randy Arozarena(1.056)",
+            "Dominic Canzone(0.891)",
+            "Cal Raleigh(0.671)",
+            "Julio Rodríguez(0.782)",
+            "Josh Naylor(0.629)",
+            "Cole Young(0.660)",
+            "Lazaro Montes(0.736)",
             "Brock Rodden(0.376)"
           ],
           "lineup_players": [
             {
               "id": 641487,
               "name": "J.P. Crawford",
-              "ops": 0.698,
-              "avg": 0.233
+              "ops": 0.682,
+              "avg": 0.205
             },
             {
               "id": 668227,
               "name": "Randy Arozarena",
-              "ops": 1.019,
-              "avg": 0.368
+              "ops": 1.056,
+              "avg": 0.382
             },
             {
               "id": 686527,
               "name": "Dominic Canzone",
-              "ops": 0.919,
-              "avg": 0.342
+              "ops": 0.891,
+              "avg": 0.324
             },
             {
               "id": 663728,
               "name": "Cal Raleigh",
-              "ops": 0.655,
-              "avg": 0.158
+              "ops": 0.671,
+              "avg": 0.171
             },
             {
               "id": 677594,
               "name": "Julio Rodríguez",
-              "ops": 0.757,
-              "avg": 0.325
+              "ops": 0.782,
+              "avg": 0.351
             },
             {
               "id": 647304,
               "name": "Josh Naylor",
-              "ops": 0.649,
-              "avg": 0.279
+              "ops": 0.629,
+              "avg": 0.256
             },
             {
               "id": 702284,
               "name": "Cole Young",
-              "ops": 0.671,
-              "avg": 0.229
+              "ops": 0.66,
+              "avg": 0.212
             },
             {
               "id": 703155,
               "name": "Lazaro Montes",
-              "ops": 0.692,
-              "avg": 0.13
+              "ops": 0.736,
+              "avg": 0.15
             },
             {
               "id": 801126,
@@ -9664,12 +9664,12 @@ window.PREDICTIONS_DATA = [
             }
           ],
           "bat_trend": "cold",
-          "last5_rpg": 3.4,
-          "last5_avg": 0.211,
+          "last5_rpg": 2.0,
+          "last5_avg": 0.194,
           "home_split": {
-            "recent_avg": 0.198,
-            "runs_per_g": 3.0,
-            "hr_per_g": 0.4,
+            "recent_avg": 0.199,
+            "runs_per_g": 2.6,
+            "hr_per_g": 0.3,
             "n_games": 10
           },
           "away_split": {
@@ -9680,14 +9680,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 47.5,
-        "total": 37.4
+        "total": 36.8
       }
     },
     "scores": {
-      "away_offense": 36.2,
-      "away_defense": 52.3,
-      "home_offense": 26.4,
-      "home_defense": 38.0
+      "away_offense": 36.400000000000006,
+      "away_defense": 50.8,
+      "home_offense": 25.2,
+      "home_defense": 37.7
     },
     "actual_score": {
       "away": 7,
@@ -9733,7 +9733,7 @@ window.PREDICTIONS_DATA = [
       "div_name": "AL Central",
       "wins": 75,
       "losses": 84,
-      "games_back": "8.0"
+      "games_back": "7.5"
     },
     "home_standing": {
       "div_rank": 4,
@@ -10796,7 +10796,7 @@ window.PREDICTIONS_DATA = [
       "home": 50.0
     },
     "expected_score": {
-      "away": 3.8,
+      "away": 3.5,
       "home": 3.5
     },
     "blend_detail": null,
@@ -10888,65 +10888,65 @@ window.PREDICTIONS_DATA = [
           "recent_era": 2.0,
           "recent_appearances": 11,
           "recent_ip": 10.0,
-          "team_era": 3.44,
+          "team_era": 3.43,
           "bp_ip": 407.3,
           "bp_count": 7,
           "closer_era": 1.21,
           "closer_name": "Mason Miller"
         },
-        "bat_score": 54.0,
+        "bat_score": 49.4,
         "bat_detail": {
-          "recent_avg": 0.323,
-          "runs_per_g": 6.4,
-          "hr_per_g": 1.8,
+          "recent_avg": 0.322,
+          "runs_per_g": 5.7,
+          "hr_per_g": 1.6,
           "bb_per_g": 3.0,
-          "season_ops": 0.82,
+          "season_ops": 0.812,
           "season_slg": null,
-          "season_avg": 0.323,
+          "season_avg": 0.322,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis Jr.(0.936)",
-            "Dustin Harris(0.761)",
-            "Manny Machado(0.634)",
-            "Ty France(0.947)",
-            "Jackson Merrill(0.828)",
+            "Fernando Tatis Jr.(0.866)",
+            "Dustin Harris(0.763)",
+            "Manny Machado(0.646)",
+            "Ty France(0.934)",
+            "Jackson Merrill(0.790)",
             "Austin Hays(0.889)",
-            "Xander Bogaerts(0.851)",
+            "Xander Bogaerts(0.865)",
             "Luis Campusano(0.706)",
-            "Jake Cronenworth(0.831)"
+            "Jake Cronenworth(0.845)"
           ],
           "lineup_players": [
             {
               "id": 665487,
               "name": "Fernando Tatis Jr.",
-              "ops": 0.936,
-              "avg": 0.293
+              "ops": 0.866,
+              "avg": 0.275
             },
             {
               "id": 687957,
               "name": "Dustin Harris",
-              "ops": 0.761,
-              "avg": 0.325
+              "ops": 0.763,
+              "avg": 0.324
             },
             {
               "id": 592518,
               "name": "Manny Machado",
-              "ops": 0.634,
-              "avg": 0.154
+              "ops": 0.646,
+              "avg": 0.167
             },
             {
               "id": 664034,
               "name": "Ty France",
-              "ops": 0.947,
-              "avg": 0.405
+              "ops": 0.934,
+              "avg": 0.385
             },
             {
               "id": 701538,
               "name": "Jackson Merrill",
-              "ops": 0.828,
+              "ops": 0.79,
               "avg": 0.333
             },
             {
@@ -10958,8 +10958,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 593428,
               "name": "Xander Bogaerts",
-              "ops": 0.851,
-              "avg": 0.368
+              "ops": 0.865,
+              "avg": 0.382
             },
             {
               "id": 669134,
@@ -10970,13 +10970,13 @@ window.PREDICTIONS_DATA = [
             {
               "id": 630105,
               "name": "Jake Cronenworth",
-              "ops": 0.831,
-              "avg": 0.385
+              "ops": 0.845,
+              "avg": 0.389
             }
           ],
           "bat_trend": "cold",
-          "last5_rpg": 6.2,
-          "last5_avg": 0.296,
+          "last5_rpg": 4.4,
+          "last5_avg": 0.262,
           "home_split": {
             "recent_avg": 0.267,
             "runs_per_g": 5.0,
@@ -10985,13 +10985,13 @@ window.PREDICTIONS_DATA = [
           },
           "away_split": {
             "recent_avg": 0.291,
-            "runs_per_g": 5.5,
-            "hr_per_g": 1.4,
+            "runs_per_g": 5.2,
+            "hr_per_g": 1.2,
             "n_games": 10
           }
         },
         "sit_score": 52.8,
-        "total": 63.0
+        "total": 62.1
       },
       "home": {
         "sp_score": 18.0,
@@ -11066,72 +11066,72 @@ window.PREDICTIONS_DATA = [
           "recent_era": 2.0,
           "recent_appearances": 14,
           "recent_ip": 14.0,
-          "team_era": 3.31,
+          "team_era": 3.3,
           "bp_ip": 273.3,
           "bp_count": 7,
           "closer_era": 2.77,
           "closer_name": "Tanner Scott"
         },
-        "bat_score": 53.9,
+        "bat_score": 53.5,
         "bat_detail": {
-          "recent_avg": 0.266,
-          "runs_per_g": 5.3,
-          "hr_per_g": 1.8,
+          "recent_avg": 0.284,
+          "runs_per_g": 5.0,
+          "hr_per_g": 1.6,
           "bb_per_g": 3.0,
-          "season_ops": 0.827,
+          "season_ops": 0.844,
           "season_slg": null,
-          "season_avg": 0.266,
+          "season_avg": 0.284,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Mookie Betts(0.976)",
-            "Freddie Freeman(0.627)",
-            "Will Smith(0.911)",
-            "Max Muncy(0.769)",
-            "Kyle Tucker(0.909)",
-            "Teoscar Hernández(0.729)",
+            "Mookie Betts(0.999)",
+            "Freddie Freeman(0.643)",
+            "Will Smith(0.902)",
+            "Max Muncy(0.725)",
+            "Kyle Tucker(0.993)",
+            "Teoscar Hernández(0.784)",
             "Josue De Paula(1.125)",
-            "Andy Pages(0.801)",
-            "Tommy Edman(0.595)"
+            "Andy Pages(0.806)",
+            "Tommy Edman(0.617)"
           ],
           "lineup_players": [
             {
               "id": 605141,
               "name": "Mookie Betts",
-              "ops": 0.976,
-              "avg": 0.359
+              "ops": 0.999,
+              "avg": 0.378
             },
             {
               "id": 518692,
               "name": "Freddie Freeman",
-              "ops": 0.627,
-              "avg": 0.214
+              "ops": 0.643,
+              "avg": 0.231
             },
             {
               "id": 669257,
               "name": "Will Smith",
-              "ops": 0.911,
-              "avg": 0.303
+              "ops": 0.902,
+              "avg": 0.312
             },
             {
               "id": 571970,
               "name": "Max Muncy",
-              "ops": 0.769,
-              "avg": 0.222
+              "ops": 0.725,
+              "avg": 0.212
             },
             {
               "id": 663656,
               "name": "Kyle Tucker",
-              "ops": 0.909,
-              "avg": 0.312
+              "ops": 0.993,
+              "avg": 0.379
             },
             {
               "id": 606192,
               "name": "Teoscar Hernández",
-              "ops": 0.729,
-              "avg": 0.231
+              "ops": 0.784,
+              "avg": 0.278
             },
             {
               "id": 800543,
@@ -11142,23 +11142,23 @@ window.PREDICTIONS_DATA = [
             {
               "id": 681624,
               "name": "Andy Pages",
-              "ops": 0.801,
-              "avg": 0.278
+              "ops": 0.806,
+              "avg": 0.273
             },
             {
               "id": 669242,
               "name": "Tommy Edman",
-              "ops": 0.595,
-              "avg": 0.121
+              "ops": 0.617,
+              "avg": 0.133
             }
           ],
           "bat_trend": "hot",
-          "last5_rpg": 7.2,
-          "last5_avg": 0.333,
+          "last5_rpg": 5.6,
+          "last5_avg": 0.336,
           "home_split": {
-            "recent_avg": 0.281,
-            "runs_per_g": 6.9,
-            "hr_per_g": 1.8,
+            "recent_avg": 0.295,
+            "runs_per_g": 6.4,
+            "hr_per_g": 1.7,
             "n_games": 10
           },
           "away_split": {
@@ -11169,13 +11169,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 71.9,
-        "total": 56.4
+        "total": 56.3
       }
     },
     "scores": {
-      "away_offense": 54.0,
+      "away_offense": 49.4,
       "away_defense": 63.4,
-      "home_offense": 53.9,
+      "home_offense": 53.5,
       "home_defense": 43.5
     },
     "actual_score": {
@@ -11222,14 +11222,14 @@ window.PREDICTIONS_DATA = [
       "div_name": "AL East",
       "wins": 77,
       "losses": 82,
-      "games_back": "20.0"
+      "games_back": "19.5"
     },
     "home_standing": {
       "div_rank": 4,
       "div_name": "AL East",
       "wins": 78,
       "losses": 81,
-      "games_back": "19.0"
+      "games_back": "18.5"
     },
     "away_recent_form": {
       "games": [
