@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-09-24T06:32:12.523962+00:00",
+  "updated_at": "2026-09-24T07:21:52.553002+00:00",
   "news": [
     {
-      "title": "No clarity to AL playoff picture after clinchless night",
-      "link": "https://www.mlb.com/news/al-playoff-picture-in-final-week-2026-season",
+      "title": "Machado's HR sets tone as Padres move one step closer to postseason berth",
+      "link": "https://www.mlb.com/news/manny-machado-homers-in-padres-win-over-dodgers",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ah61r8wsocy6qjqwd2q3",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790232401/mlb/vnwdjnhcjds91mxtkece",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Andrew Simon",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-24T06:03:00+00:00",
-      "time_ago": "29m ago"
+      "author": "AJ Cassavell",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-24T07:00:00+00:00",
+      "time_ago": "21m ago"
     },
     {
       "title": "Astros squander 4-0 lead -- and a chance to break away in AL West",
@@ -24,8 +24,34 @@
       "author": "Brian McTaggart",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-24T05:49:43+00:00",
-      "time_ago": "42m ago"
+      "pub_date": "2026-09-24T07:00:00+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "Ohtani singles in first AB off IL as Dodgers near full strength",
+      "link": "https://www.mlb.com/news/shohei-ohtani-singles-in-first-at-bat-back-from-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790226472/mlb/g5x3wserugowfionlit5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Courtney Hollmon",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-24T06:16:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "No clarity to AL playoff picture after clinchless night",
+      "link": "https://www.mlb.com/news/al-playoff-picture-in-final-week-2026-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ah61r8wsocy6qjqwd2q3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Andrew Simon",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-24T06:03:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Nola hits speed bump, Phils' offense quiet as clincher must wait another day",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-24T05:49:00+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Henderson looking forward to postseason after breakout rookie year",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-24T05:48:00+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Padres gain an edge -- but 3-way tie still possible for NL Wild Card",
@@ -64,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-24T05:43:00+00:00",
-      "time_ago": "49m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "6 playoff spots still up for grabs -- and just 4 days left",
@@ -77,32 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-24T05:41:00+00:00",
-      "time_ago": "51m ago"
-    },
-    {
-      "title": "Ohtani singles in first AB off IL as Dodgers near full strength",
-      "link": "https://www.mlb.com/news/shohei-ohtani-singles-in-first-at-bat-back-from-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790226472/mlb/g5x3wserugowfionlit5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Courtney Hollmon",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-24T05:31:48+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "'It is must-win time': Rangers feel urgency in tight AL West race",
-      "link": "https://www.mlb.com/news/rangers-lose-to-mets-at-home-al-west-race",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cd8dxnfovqri4kxrancs",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T05:31:00+00:00",
       "time_ago": "1h ago"
     }
   ]
