@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-24T18:46:17.222290+00:00",
+  "updated_at": "2026-09-24T19:25:34.742637+00:00",
   "news": [
+    {
+      "title": "Skenes is first Pirates starter with consecutive 200-K seasons in 60 years",
+      "link": "https://www.mlb.com/news/paul-skenes-logs-200th-strikeout-in-final-2026-start",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bizj0n3au2gj0jaljpa3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-24T19:20:00+00:00",
+      "time_ago": "5m ago"
+    },
     {
       "title": "40-40 for PCA! Cubs superstar 7th player to join exclusive club",
       "link": "https://www.mlb.com/news/pete-crow-armstrong-joins-40-40-club",
@@ -11,8 +24,34 @@
       "author": "Jordan Bastian",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-24T18:33:58+00:00",
+      "pub_date": "2026-09-24T19:13:00+00:00",
       "time_ago": "12m ago"
+    },
+    {
+      "title": "Alcantara not making final start Saturday; Marlins managing workload",
+      "link": "https://www.mlb.com/news/sandy-alcantara-not-making-final-start-of-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rcqczjjd8hsd6opvzb07",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Christina De Nicola",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-24T18:33:55+00:00",
+      "time_ago": "51m ago"
+    },
+    {
+      "title": "Gausman day to day after 'best defensive play of his career'; Cubs could see Bregman, Steele return",
+      "link": "https://www.mlb.com/news/cubs-injury-updates-on-kevin-gausman-alex-bregman-and-justin-steele",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fmtxtgvchuem4nxk4qee",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-24T18:15:08+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "A look at Andrew Fischer's record-breaking 48-homer season",
@@ -25,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-24T16:18:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Starting Pitcher Power Rankings: The best of playoff hopefuls",
@@ -64,45 +103,6 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-09-24T15:22:57+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "5 keys to the Phillies' possible postseason run",
-      "link": "https://www.mlb.com/news/phillies-rotation-bullpen-key-in-chance-for-a-playoff-push",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pkxw1diggkyssgwu9c46",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T14:58:58+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "How subtle stance adjustments helped Acuña turn his season around",
-      "link": "https://www.mlb.com/news/ronald-acuna-jr-s-success-at-plate-after-stance-adjustments",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790209834/mlb/siop3pvlzdslwvndvoet",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T14:53:04+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "With final series looming, here's what matters in Blue Jays' finale for 2027 plans",
-      "link": "https://www.mlb.com/news/what-to-watch-for-in-final-blue-jays-series-of-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x9sj3secpqdonoinqvli",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T14:42:08+00:00",
       "time_ago": "4h ago"
     }
   ]
