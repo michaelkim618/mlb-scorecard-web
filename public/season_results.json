@@ -16105,6 +16105,30 @@
       "away_bp_score": 68.0,
       "home_bp_score": 30.200000000000003,
       "bat_source": "prev_day"
+    },
+    {
+      "date": "2026-09-23",
+      "away": "Los Angeles Angels",
+      "home": "Athletics",
+      "game_number": 1,
+      "pick": "Athletics",
+      "pick_prob": 50.0,
+      "actual_winner": "Athletics",
+      "away_score": null,
+      "home_score": null,
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "cold",
+      "away_sp_era": 2.68,
+      "home_sp_era": 7.0,
+      "away_bp_era": 4.16,
+      "home_bp_era": 4.4,
+      "away_sp_score": 65.8,
+      "home_sp_score": 29.6,
+      "away_bp_score": 28.5,
+      "home_bp_score": 50.5,
+      "bat_source": "prev_day"
     }
   ]
 }
