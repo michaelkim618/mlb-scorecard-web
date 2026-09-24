@@ -9126,12 +9126,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 60.9,
-      "home": 39.1
+      "away": 60.4,
+      "home": 39.6
     },
     "expected_score": {
       "away": 4.3,
-      "home": 2.6
+      "home": 2.7
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -9223,12 +9223,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 65.1,
+        "bp_score": 63.2,
         "bp_detail": {
           "bullpen_era": 3.03,
-          "recent_era": 3.38,
+          "recent_era": 3.79,
           "recent_appearances": 17,
-          "recent_ip": 18.7,
+          "recent_ip": 19.0,
           "team_era": 3.78,
           "bp_ip": 391.7,
           "bp_count": 8,
@@ -9254,7 +9254,7 @@ window.PREDICTIONS_DATA = [
             "Gabriel Moreno(1.035)",
             "Geraldo Perdomo(0.895)",
             "Pavin Smith(0.778)",
-            "Nolan Arenado(1.045)",
+            "Nolan Arenado(1.044)",
             "Corbin Carroll(0.843)",
             "Jesús Sánchez(0.539)",
             "Tim Tawa(0.606)"
@@ -9293,7 +9293,7 @@ window.PREDICTIONS_DATA = [
             {
               "id": 571448,
               "name": "Nolan Arenado",
-              "ops": 1.045,
+              "ops": 1.044,
               "avg": 0.439
             },
             {
@@ -9332,7 +9332,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 55.5,
-        "total": 52.3
+        "total": 51.9
       },
       "home": {
         "sp_score": 34.8,
@@ -9421,13 +9421,13 @@ window.PREDICTIONS_DATA = [
           "closer_era": 5.12,
           "closer_name": "Jordan Romano"
         },
-        "bat_score": 36.6,
+        "bat_score": 37.1,
         "bat_detail": {
           "recent_avg": 0.241,
-          "runs_per_g": 3.8,
+          "runs_per_g": 3.9,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
-          "season_ops": 0.737,
+          "season_ops": 0.738,
           "season_slg": null,
           "season_avg": 0.241,
           "n_games": 9,
@@ -9442,7 +9442,7 @@ window.PREDICTIONS_DATA = [
             "Kyle Karros(0.798)",
             "Adael Amador(0.748)",
             "Mickey Moniak(0.720)",
-            "Zac Veen(0.468)",
+            "Zac Veen(0.485)",
             "Ezequiel Tovar(0.705)"
           ],
           "lineup_players": [
@@ -9491,7 +9491,7 @@ window.PREDICTIONS_DATA = [
             {
               "id": 691728,
               "name": "Zac Veen",
-              "ops": 0.468,
+              "ops": 0.485,
               "avg": 0.105
             },
             {
@@ -9502,11 +9502,11 @@ window.PREDICTIONS_DATA = [
             }
           ],
           "bat_trend": "cold",
-          "last5_rpg": 2.6,
-          "last5_avg": 0.214,
+          "last5_rpg": 2.8,
+          "last5_avg": 0.223,
           "home_split": {
-            "recent_avg": 0.269,
-            "runs_per_g": 3.8,
+            "recent_avg": 0.273,
+            "runs_per_g": 3.9,
             "hr_per_g": 0.8,
             "n_games": 10
           },
@@ -9518,13 +9518,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 36.8,
-        "total": 36.5
+        "total": 36.7
       }
     },
     "scores": {
       "away_offense": 57.1,
-      "away_defense": 48.5,
-      "home_offense": 36.6,
+      "away_defense": 47.5,
+      "home_offense": 37.1,
       "home_defense": 33.1
     },
     "actual_score": {
