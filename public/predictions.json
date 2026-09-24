@@ -741,7 +741,7 @@
     },
     "actual_score": {
       "away": 1,
-      "home": 0
+      "home": 1
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -3855,121 +3855,121 @@
       "losses": 3,
       "streak": -1
     },
-    "away_pitcher": "Robert Gasser (TBD)",
-    "away_pitcher_id": 688107,
+    "away_pitcher": "Shane Drohan",
+    "away_pitcher_id": 675660,
     "away_pitcher_stats": {
-      "wins": 5,
+      "wins": 7,
       "losses": 5,
-      "era": "4.01"
+      "era": "4.26"
     },
     "away_pitcher_gamelog": [
       {
-        "date": "2026-07-25",
-        "opp": "vs COL",
+        "date": "2026-07-31",
+        "opp": "@ LAA",
         "decision": "W",
         "ip": "6.0",
         "er": 2,
-        "h": 5,
-        "bb": 0,
-        "so": 4,
+        "h": 4,
+        "bb": 1,
+        "so": 7,
         "era": 3.0
       },
       {
-        "date": "2026-08-01",
-        "opp": "@ LAA",
-        "decision": null,
-        "ip": "5.0",
-        "er": 1,
-        "h": 4,
-        "bb": 2,
-        "so": 6,
-        "era": 1.8
-      },
-      {
-        "date": "2026-08-08",
+        "date": "2026-08-07",
         "opp": "vs MIN",
         "decision": null,
-        "ip": "4.2",
-        "er": 3,
-        "h": 7,
-        "bb": 2,
-        "so": 3,
-        "era": 5.79
-      },
-      {
-        "date": "2026-08-14",
-        "opp": "@ LAD",
-        "decision": "L",
-        "ip": "6.1",
-        "er": 3,
-        "h": 8,
-        "bb": 1,
-        "so": 7,
-        "era": 4.26
-      },
-      {
-        "date": "2026-08-20",
-        "opp": "vs SEA",
-        "decision": null,
-        "ip": "3.2",
-        "er": 4,
-        "h": 4,
+        "ip": "5.0",
+        "er": 6,
+        "h": 9,
         "bb": 4,
         "so": 4,
-        "era": 9.82
+        "era": 10.8
       },
       {
-        "date": "2026-08-26",
-        "opp": "@ NYM",
-        "decision": "W",
+        "date": "2026-08-13",
+        "opp": "@ LAD",
+        "decision": null,
         "ip": "5.1",
-        "er": 1,
-        "h": 6,
-        "bb": 2,
-        "so": 6,
-        "era": 1.69
-      },
-      {
-        "date": "2026-09-01",
-        "opp": "@ CHC",
-        "decision": null,
-        "ip": "4.1",
-        "er": 2,
+        "er": 3,
         "h": 3,
-        "bb": 2,
-        "so": 4,
-        "era": 4.15
-      },
-      {
-        "date": "2026-09-07",
-        "opp": "vs CHC",
-        "decision": null,
-        "ip": "4.2",
-        "er": 1,
-        "h": 3,
-        "bb": 2,
+        "bb": 3,
         "so": 5,
-        "era": 1.93
+        "era": 5.06
       },
       {
-        "date": "2026-09-13",
-        "opp": "vs CIN",
+        "date": "2026-08-18",
+        "opp": "vs SEA",
         "decision": null,
+        "ip": "2.0",
+        "er": 0,
+        "h": 1,
+        "bb": 2,
+        "so": 1,
+        "era": 0.0
+      },
+      {
+        "date": "2026-08-23",
+        "opp": "vs ATL",
+        "decision": "L",
+        "ip": "5.0",
+        "er": 2,
+        "h": 8,
+        "bb": 3,
+        "so": 5,
+        "era": 3.6
+      },
+      {
+        "date": "2026-08-29",
+        "opp": "vs TEX",
+        "decision": "W",
         "ip": "5.0",
         "er": 1,
-        "h": 3,
-        "bb": 2,
-        "so": 5,
+        "h": 6,
+        "bb": 1,
+        "so": 6,
         "era": 1.8
       },
       {
-        "date": "2026-09-19",
-        "opp": "@ BAL",
-        "decision": "W",
-        "ip": "7.0",
+        "date": "2026-09-04",
+        "opp": "@ CIN",
+        "decision": null,
+        "ip": "4.0",
+        "er": 6,
+        "h": 5,
+        "bb": 2,
+        "so": 5,
+        "era": 13.5
+      },
+      {
+        "date": "2026-09-12",
+        "opp": "vs CIN",
+        "decision": null,
+        "ip": "3.2",
+        "er": 5,
+        "h": 5,
+        "bb": 2,
+        "so": 4,
+        "era": 12.27
+      },
+      {
+        "date": "2026-09-16",
+        "opp": "@ PIT",
+        "decision": null,
+        "ip": "0.2",
         "er": 0,
-        "h": 3,
-        "bb": 3,
+        "h": 2,
+        "bb": 0,
+        "so": 0,
+        "era": 0.0
+      },
+      {
+        "date": "2026-09-18",
+        "opp": "@ BAL",
+        "decision": null,
+        "ip": "1.2",
+        "er": 0,
+        "h": 0,
+        "bb": 1,
         "so": 2,
         "era": 0.0
       }
@@ -4095,8 +4095,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 50.0,
-      "home": 50.0
+      "away": 47.4,
+      "home": 52.6
     },
     "expected_score": {
       "away": 2.3,
@@ -4109,35 +4109,88 @@
       "bat_source": "prev_day",
       "away_handedness": "L",
       "home_handedness": "R",
-      "bullpen_game": false,
+      "bullpen_game": true,
       "any_cold_sp": true,
       "eff_weights": {
         "sp": 0.38,
-        "bp": 0.25,
-        "bat": 0.3,
+        "bp": 0.3,
+        "bat": 0.25,
         "sit": 0.15
       },
       "away": {
-        "sp_score": 45.0,
+        "sp_score": 32.0,
         "sp_detail": {
-          "era": 3.12,
-          "whip": 1.27,
-          "k9": 8.0,
-          "avg_ip": 5.2,
-          "qs_rate": 30.0,
-          "last3_era": 1.71,
+          "era": 5.87,
+          "whip": 1.62,
+          "k9": 9.2,
+          "avg_ip": 3.8,
+          "qs_rate": 10.0,
+          "last3_era": 7.2,
           "last_start_era": 0.0,
           "last2_eras": [
-            1.8,
+            0.0,
             0.0
           ],
           "recent_avg_era": 0.0,
           "recent_bad_start": false,
-          "trend": "hot",
+          "trend": "cold",
           "n_games": 10,
           "sample_confidence": 1.0,
-          "rest_days": 5,
-          "rest_note": null
+          "rest_days": 6,
+          "rest_note": null,
+          "age": 27,
+          "fb_velo": 94.9,
+          "pitch_arsenal": [
+            "FB",
+            "SL",
+            "SI",
+            "CB",
+            "CT",
+            "CH"
+          ],
+          "secondary_pitches": [
+            "SL",
+            "CB",
+            "CH"
+          ],
+          "pitches_detail": [
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 27.1,
+              "velo": 94.9
+            },
+            {
+              "code": "SL",
+              "abbr": "SL",
+              "pct": 21.7,
+              "velo": 86.5
+            },
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 21.1,
+              "velo": 94.8
+            },
+            {
+              "code": "CU",
+              "abbr": "CB",
+              "pct": 12.9,
+              "velo": 80.6
+            },
+            {
+              "code": "FC",
+              "abbr": "CT",
+              "pct": 12.2,
+              "velo": 90.9
+            },
+            {
+              "code": "CH",
+              "abbr": "CH",
+              "pct": 5.1,
+              "velo": 86.2
+            }
+          ]
         },
         "bp_score": 74.0,
         "bp_detail": {
@@ -4248,7 +4301,7 @@
           }
         },
         "sit_score": 63.8,
-        "total": 55.4
+        "total": 45.8
       },
       "home": {
         "sp_score": 38.6,
@@ -4443,12 +4496,12 @@
           }
         },
         "sit_score": 54.8,
-        "total": 47.3
+        "total": 49.4
       }
     },
     "scores": {
       "away_offense": 34.2,
-      "away_defense": 59.5,
+      "away_defense": 59.3,
       "home_offense": 25.0,
       "home_defense": 53.0
     },
@@ -4458,24 +4511,24 @@
     },
     "lineup_confirmed": false,
     "sp_tbd": {
-      "away": true,
+      "away": false,
       "home": false,
       "both": false,
-      "any": true
+      "any": false
     },
     "actual_winner": null,
     "model_winner": "Philadelphia Phillies",
     "model_correct": null,
     "notes": "Milwaukee Brewers IL: Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Bryse Wilson, Grant Anderson 외 다수 / Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Felix Reyes, Jesús Luzardo 외 다수",
     "kalshi_prob": 55.0,
-    "edge": -5.0,
+    "edge": -2.4,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 50.0% (≤58.0%)",
+    "low_confidence_reason": "최고 확률 52.6% (≤58.0%)",
     "opener_game": {
       "away": false,
       "home": false
