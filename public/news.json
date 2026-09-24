@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-24T05:58:24.474597+00:00",
+  "updated_at": "2026-09-24T06:32:12.523962+00:00",
   "news": [
+    {
+      "title": "No clarity to AL playoff picture after clinchless night",
+      "link": "https://www.mlb.com/news/al-playoff-picture-in-final-week-2026-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ah61r8wsocy6qjqwd2q3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Andrew Simon",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-24T06:03:00+00:00",
+      "time_ago": "29m ago"
+    },
     {
       "title": "Astros squander 4-0 lead -- and a chance to break away in AL West",
       "link": "https://www.mlb.com/news/astros-lose-to-mariners-to-stay-tied-atop-al-west",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-24T05:49:43+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "Nola hits speed bump, Phils' offense quiet as clincher must wait another day",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-24T05:49:00+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Henderson looking forward to postseason after breakout rookie year",
@@ -38,10 +51,10 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-24T05:48:00+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "44m ago"
     },
     {
-      "title": "A 3-way tie for NL Wild Card is in play. Here's how it would shake out",
+      "title": "Padres gain an edge -- but 3-way tie still possible for NL Wild Card",
       "link": "https://www.mlb.com/news/who-would-win-a-3-way-tie-in-the-nl-wild-card",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x1juj2ot9wkuj3wfdio4",
@@ -51,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-24T05:43:00+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "6 playoff spots still up for grabs -- and just 4 days left",
@@ -64,7 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-24T05:41:00+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "51m ago"
     },
     {
       "title": "Ohtani singles in first AB off IL as Dodgers near full strength",
@@ -77,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-24T05:31:48+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'It is must-win time': Rangers feel urgency in tight AL West race",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-24T05:31:00+00:00",
-      "time_ago": "27m ago"
-    },
-    {
-      "title": "Padres win, can clinch Thursday -- before they take the field",
-      "link": "https://www.mlb.com/news/manny-machado-homers-in-padres-win-over-dodgers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790228946/mlb/vnwdjnhcjds91mxtkece",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T05:28:11+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "1h ago"
     }
   ]
 }

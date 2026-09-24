@@ -2753,7 +2753,7 @@ window.PREDICTIONS_DATA = [
             "Brandon Lowe(0.986)",
             "Bryan Reynolds(0.678)",
             "Oneil Cruz(0.859)",
-            "Rafael Flores Jr.(0.955)",
+            "Rafael Flores(0.955)",
             "Ryan O'Hearn(0.731)",
             "Ronny Simon(0.663)",
             "Spencer Horwitz(0.708)",
@@ -2786,7 +2786,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 804668,
-              "name": "Rafael Flores Jr.",
+              "name": "Rafael Flores",
               "ops": 0.955,
               "avg": 0.364
             },
@@ -5042,11 +5042,11 @@ window.PREDICTIONS_DATA = [
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Ronald Acuña Jr.(0.972)",
+            "Ronald Acuña(0.972)",
             "Drake Baldwin(0.850)",
             "Matt Olson(0.878)",
             "Ozzie Albies(0.595)",
-            "Michael Harris II(0.867)",
+            "Michael Harris(0.867)",
             "Mauricio Dubón(0.859)",
             "Austin Riley(0.665)",
             "Sean Murphy(0.382)",
@@ -5055,7 +5055,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 660670,
-              "name": "Ronald Acuña Jr.",
+              "name": "Ronald Acuña",
               "ops": 0.972,
               "avg": 0.342
             },
@@ -5079,7 +5079,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671739,
-              "name": "Michael Harris II",
+              "name": "Michael Harris",
               "ops": 0.867,
               "avg": 0.366
             },
@@ -5809,7 +5809,7 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Carter Jensen(0.867)",
-            "Bobby Witt Jr.(0.754)",
+            "Bobby Witt(0.754)",
             "Jac Caglianone(0.772)",
             "Maikel Garcia(0.742)",
             "Vinnie Pasquantino(0.942)",
@@ -5827,7 +5827,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 677951,
-              "name": "Bobby Witt Jr.",
+              "name": "Bobby Witt",
               "ops": 0.754,
               "avg": 0.308
             },
