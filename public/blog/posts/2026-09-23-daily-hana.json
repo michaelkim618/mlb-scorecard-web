@@ -1,17 +1,17 @@
 {
-  "title": "Sep 23 Results + Sep 24 Preview: When the Model Finds Its Balance",
-  "summary": "A perfectly split 8-8 day on Sep 23, plus tomorrow's Pirates showdown with Paul Skenes",
+  "title": "Sep 23 Results + Sep 24 Preview: A Perfectly Balanced Universe",
+  "summary": "Sep 23 went 8-8—here's what happened and why tomorrow's Pirates pick has my attention",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Here's the Thing About .500 Baseball\n\nSometimes the model gives you days where everything clicks. And sometimes... well, sometimes you get a day like September 23rd. We went 8-8, finishing at exactly 50%, and honestly? There's something almost poetic about landing right in the middle."
+      "value": "## Here's the Thing About Going .500\n\nSeptember 23rd gave us the most perfectly balanced day possible: 8 wins, 8 losses, a clean 50% split. It's the kind of day that makes you lean back in your chair and think about the beautiful chaos of baseball. Some picks felt like locks that crumbled. Others were coin flips that landed our way. That's the game."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Sep 23 W-L",
+          "label": "Sep 23 Record",
           "value": "8-8"
         },
         {
@@ -19,19 +19,95 @@
           "value": "50.0%"
         },
         {
-          "label": "High Confidence (60%+)",
-          "value": "3-2"
+          "label": "Games Analyzed",
+          "value": "16"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Highs and Lows\n\nOur highest confidence picks told an interesting story. The Yankees, Sox, and Braves all came through at 60% confidence—those felt good. Really good. The model saw something in those matchups, and the baseball gods agreed.\n\nBut here's where it gets humbling: we also whiffed on a 60% Tigers pick and a 59% Sox play against the Royals. Baseball has a way of keeping you honest, doesn't it?"
+      "value": "## The Wins That Worked\n\nThe Yankees took care of business against the Rays at 60% confidence—exactly the kind of home favorite that delivers. The Orioles swept both picks in their doubleheader against the Jays, and the Braves did what the Braves do, handling the Reds with authority. The White Sox upset pick against the Guardians at 60%? That one felt good."
+    },
+    {
+      "type": "table",
+      "title": "Sep 23 Complete Results",
+      "headers": [
+        "Game",
+        "Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Nationals @ Tigers",
+          "Tigers",
+          "60%",
+          "✗"
+        ],
+        [
+          "Blue Jays @ Orioles (G1)",
+          "Orioles",
+          "54%",
+          "✓"
+        ],
+        [
+          "Blue Jays @ Orioles (G2)",
+          "Orioles",
+          "51%",
+          "✓"
+        ],
+        [
+          "Twins @ Giants",
+          "Giants",
+          "50%",
+          "✗"
+        ],
+        [
+          "Cardinals @ Pirates",
+          "Pirates",
+          "54%",
+          "✗"
+        ],
+        [
+          "Brewers @ Phillies",
+          "Phillies",
+          "50%",
+          "✗"
+        ],
+        [
+          "Rays @ Yankees",
+          "Yankees",
+          "60%",
+          "✓"
+        ],
+        [
+          "Guardians @ White Sox",
+          "White Sox",
+          "60%",
+          "✓"
+        ],
+        [
+          "Reds @ Braves",
+          "Braves",
+          "60%",
+          "✓"
+        ],
+        [
+          "White Sox @ Royals",
+          "White Sox",
+          "59%",
+          "✗"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Misses That Stung\n\nThe Tigers couldn't hold up our 60% confidence. The Pirates, Cardinals, and Phillies all went the other direction despite decent probabilities. And the White Sox—after winning one pick—couldn't duplicate it against the Royals at 59%. That's baseball in late September. Fatigue, lineup changes, and pure randomness all collide."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 23 Prediction Results by Confidence",
+      "title": "Sep 23 Pick Confidence vs Results",
       "data": [
         {
           "name": "Tigers",
@@ -69,7 +145,7 @@
           "result": 1
         },
         {
-          "name": "Sox (vs CLE)",
+          "name": "White Sox (G1)",
           "probability": 60,
           "result": 1
         },
@@ -79,7 +155,7 @@
           "result": 1
         },
         {
-          "name": "Sox (vs KC)",
+          "name": "White Sox (G2)",
           "probability": 59,
           "result": 0
         }
@@ -99,95 +175,19 @@
       ]
     },
     {
-      "type": "table",
-      "title": "Complete Sep 23 Results",
-      "headers": [
-        "Game",
-        "Our Pick",
-        "Confidence",
-        "Result"
-      ],
-      "rows": [
-        [
-          "Nationals @ Tigers",
-          "Tigers",
-          "60%",
-          "✗"
-        ],
-        [
-          "Jays @ Orioles (G1)",
-          "Orioles",
-          "54%",
-          "✓"
-        ],
-        [
-          "Jays @ Orioles (G2)",
-          "Orioles",
-          "51%",
-          "✓"
-        ],
-        [
-          "Twins @ Giants",
-          "Giants",
-          "50%",
-          "✗"
-        ],
-        [
-          "Cardinals @ Pirates",
-          "Pirates",
-          "54%",
-          "✗"
-        ],
-        [
-          "Brewers @ Phillies",
-          "Phillies",
-          "50%",
-          "✗"
-        ],
-        [
-          "Rays @ Yankees",
-          "Yankees",
-          "60%",
-          "✓"
-        ],
-        [
-          "Guardians @ Sox",
-          "Sox",
-          "60%",
-          "✓"
-        ],
-        [
-          "Reds @ Braves",
-          "Braves",
-          "60%",
-          "✓"
-        ],
-        [
-          "Sox @ Royals",
-          "Sox",
-          "59%",
-          "✗"
-        ]
-      ]
-    },
-    {
       "type": "text",
-      "value": "## The Baltimore Bright Spot\n\nCan we talk about the Orioles for a second? They swept our doubleheader picks against the Jays, even at relatively modest confidence levels of 54% and 51%. Sometimes it's not about the loudest picks—it's about the steady ones that just keep delivering."
-    },
-    {
-      "type": "text",
-      "value": "## Tomorrow's Top Pick: The Paul Skenes Factor\n\nNow, let's talk about September 24th. The model is pointing us right back to Pittsburgh, where the Pirates host the Cardinals again. And here's what makes this compelling: Paul Skenes is on the mound.\n\nSkenes has been one of baseball's most electric stories this season, and he's going up against Kyle Leahy. The confidence sits at 51%—basically a coin flip with the slightest edge to Pittsburgh. But when you've got a talent like Skenes pitching at home, sometimes that slight edge is all you need."
+      "value": "## Tomorrow's Story: Pirates vs Cardinals, Round Two\n\nHere's where it gets interesting. We're going back to the same matchup that didn't work yesterday—Cardinals at Pirates. But tomorrow brings a completely different narrative. Paul Skenes takes the mound for Pittsburgh, and if you know anything about September baseball, you know that changes everything.\n\nKyle Leahy gets the ball for St. Louis, and while he's capable, this is about the mismatch. Skenes has that October-preview energy, the kind of pitcher who can single-handedly shift a series. At 51% confidence, this isn't a screaming certainty—it's a measured read on pitching dominance."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - Sep 24",
-      "value": "Pittsburgh Pirates vs Cardinals",
-      "sub": "51% win probability · Paul Skenes vs Kyle Leahy · Home advantage"
+      "title": "⭐ Sep 24 Top Pick",
+      "value": "Pittsburgh Pirates",
+      "sub": "51% win probability · Paul Skenes vs Kyle Leahy"
     },
     {
       "type": "text",
-      "value": "## The Takeaway\n\nA 50% day isn't what we aim for, but it's a reminder that this game is beautifully unpredictable. We got our high-confidence picks right more often than not, stayed competitive across the board, and now we get to watch one of baseball's brightest young arms tomorrow.\n\nThat's the thing about baseball—and about predictions. You take your wins, learn from your misses, and show up ready for the next pitch.\n\nSee you tomorrow. Let's see what Skenes can do. ⚾"
+      "value": "## The Human Angle\n\nWhat I love about this pick is the redemption narrative. Yesterday, the Pirates couldn't deliver at 54%. Tomorrow, they get a slightly lower probability but a significantly better story. Skenes on the mound in late September, protecting a playoff push or building momentum for next year—whatever the stakes, he's the kind of arm you want to bet on.\n\nThe Cardinals are fighting their own battles, but facing a pitcher like Skenes this late in the season is a brutal assignment. Sometimes the model captures what our eyes see: pure talent tipping the scales.\n\nLet's see if September 24th breaks us away from that .500 equilibrium. My money—and my heart—is on the kid in Pittsburgh."
     }
   ],
   "slug": "2026-09-23-daily-hana",

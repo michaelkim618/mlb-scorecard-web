@@ -3110,8 +3110,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 46.0,
-      "home": 54.0
+      "away": 46.1,
+      "home": 53.9
     },
     "expected_score": {
       "away": 1.8,
@@ -3207,48 +3207,48 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 51.2,
+        "bp_score": 51.6,
         "bp_detail": {
-          "bullpen_era": 3.93,
-          "recent_era": 2.42,
+          "bullpen_era": 3.92,
+          "recent_era": 2.38,
           "recent_appearances": 17,
-          "recent_ip": 22.3,
+          "recent_ip": 22.7,
           "team_era": 4.01,
-          "bp_ip": 417.0,
+          "bp_ip": 417.3,
           "bp_count": 9,
           "closer_era": 4.08,
           "closer_name": "Riley O'Brien"
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.227,
+          "recent_avg": 0.228,
           "runs_per_g": 3.0,
           "hr_per_g": 0.5,
           "bb_per_g": 3.0,
           "season_ops": 0.665,
           "season_slg": null,
-          "season_avg": 0.227,
+          "season_avg": 0.228,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "JJ Wetherholt(0.627)",
+            "JJ Wetherholt(0.619)",
             "Iván Herrera(0.711)",
             "Alec Burleson(0.769)",
             "Jordan Walker(0.555)",
             "Leo Bernal(0.725)",
             "Nolan Gorman(0.572)",
             "José Fermín(0.798)",
-            "Nathan Church(0.646)",
-            "Masyn Winn(0.580)"
+            "Nathan Church(0.668)",
+            "Masyn Winn(0.568)"
           ],
           "lineup_players": [
             {
               "id": 802139,
               "name": "JJ Wetherholt",
-              "ops": 0.627,
-              "avg": 0.235
+              "ops": 0.619,
+              "avg": 0.229
             },
             {
               "id": 671056,
@@ -3289,19 +3289,19 @@ window.PREDICTIONS_DATA = [
             {
               "id": 701675,
               "name": "Nathan Church",
-              "ops": 0.646,
-              "avg": 0.242
+              "ops": 0.668,
+              "avg": 0.265
             },
             {
               "id": 691026,
               "name": "Masyn Winn",
-              "ops": 0.58,
-              "avg": 0.19
+              "ops": 0.568,
+              "avg": 0.182
             }
           ],
           "bat_trend": "stable",
           "last5_rpg": 3.2,
-          "last5_avg": 0.219,
+          "last5_avg": 0.218,
           "home_split": {
             "recent_avg": 0.233,
             "runs_per_g": 4.0,
@@ -3309,14 +3309,14 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.253,
+            "recent_avg": 0.252,
             "runs_per_g": 4.3,
             "hr_per_g": 0.7,
             "n_games": 10
           }
         },
         "sit_score": 47.8,
-        "total": 35.5
+        "total": 35.6
       },
       "home": {
         "sp_score": 19.7,
@@ -3488,9 +3488,9 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "cold",
           "last5_rpg": 2.8,
-          "last5_avg": 0.22,
+          "last5_avg": 0.224,
           "home_split": {
-            "recent_avg": 0.254,
+            "recent_avg": 0.256,
             "runs_per_g": 3.5,
             "hr_per_g": 1.3,
             "n_games": 10
@@ -3508,7 +3508,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 25.0,
-      "away_defense": 42.9,
+      "away_defense": 43.1,
       "home_offense": 27.3,
       "home_defense": 36.9
     },
@@ -3535,7 +3535,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 54.0% (≤58.0%)",
+    "low_confidence_reason": "최고 확률 53.9% (≤58.0%)",
     "opener_game": {
       "away": false,
       "home": true
