@@ -1,18 +1,83 @@
 {
-  "updated_at": "2026-09-24T21:39:06.036298+00:00",
+  "updated_at": "2026-09-24T22:10:49.053507+00:00",
   "news": [
+    {
+      "title": "Skenes says his best baseball is still ahead after consecutive 200-K seasons",
+      "link": "https://www.mlb.com/news/paul-skenes-logs-200th-strikeout-in-final-2026-start",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bizj0n3au2gj0jaljpa3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-24T22:04:00+00:00",
+      "time_ago": "6m ago"
+    },
     {
       "title": "White Sox clinch postseason berth as inspiring turnaround continues",
       "link": "https://www.mlb.com/news/white-sox-clinch-2026-postseason-berth",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bthzogm13oiwoxw7ljn5",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/s1hexxadobllmh2lslhl",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Scott Merkin",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-24T21:26:00+00:00",
-      "time_ago": "13m ago"
+      "pub_date": "2026-09-24T22:02:00+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Alcantara not making final start Saturday; Marlins managing workload",
+      "link": "https://www.mlb.com/news/sandy-alcantara-not-making-final-start-of-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rcqczjjd8hsd6opvzb07",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Christina De Nicola",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-24T21:53:00+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "MRI clean as Rafaela returns to Red Sox lineup Thursday",
+      "link": "https://www.mlb.com/news/ceddanne-rafaela-exits-vs-guardians-in-first-game-back-from-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lxirmaesvsfnwyu8zaej",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-24T21:45:00+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "2 clubs join postseason fray, with more clinches possible tonight",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790270754/mlb/fax0w0fia30cktjwjzhf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-24T21:30:00+00:00",
+      "time_ago": "40m ago"
+    },
+    {
+      "title": "Rangers pull atop AL West, avoid sweep vs. Mets",
+      "link": "https://www.mlb.com/news/rangers-avoid-sweep-vs-mets-amid-tight-al-west-race",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/za6mbfxs9bge9p77m7oa",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kennedi Landry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-24T21:19:23+00:00",
+      "time_ago": "51m ago"
     },
     {
       "title": "Cubs punch return trip to postseason on banner day for PCA",
@@ -25,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-24T20:53:38+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Colson Montgomery sets AL single-season record for K's, matches MLB mark",
@@ -38,72 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-24T20:53:00+00:00",
-      "time_ago": "46m ago"
-    },
-    {
-      "title": "Doval rejoins Giants after being claimed on waivers",
-      "link": "https://www.mlb.com/news/giants-claim-camilo-doval-off-waivers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ktzwmkrlujrzg3ncnnfd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Maria Guardado",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T20:08:14+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Schmidt back on IL with right biceps injury",
-      "link": "https://www.mlb.com/news/clarke-schmidt-injured-list-right-biceps-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pf9fetqp5mqolzkxh1bk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-24T19:44:39+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Skenes is first Pirates starter with consecutive 200-K seasons in 60 years",
-      "link": "https://www.mlb.com/news/paul-skenes-logs-200th-strikeout-in-final-2026-start",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bizj0n3au2gj0jaljpa3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T19:20:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "40-40 for PCA! Cubs superstar 7th player to join exclusive club",
-      "link": "https://www.mlb.com/news/pete-crow-armstrong-joins-40-40-club",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/piw8hwdrlfxyncx3chuh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T19:13:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Alcantara not making final start Saturday; Marlins managing workload",
-      "link": "https://www.mlb.com/news/sandy-alcantara-not-making-final-start-of-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rcqczjjd8hsd6opvzb07",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Christina De Nicola",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T18:33:55+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
