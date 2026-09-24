@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-09-24T03:01:05.326876+00:00",
+  "updated_at": "2026-09-24T03:52:19.049612+00:00",
   "news": [
+    {
+      "title": "Nola hits speed bump, Phils' offense quiet as clincher must wait another day",
+      "link": "https://www.mlb.com/news/aaron-nola-strikes-out-eight-in-phillies-loss-to-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790219814/mlb/khlnlg6hunay4zoio4kf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-24T03:30:00+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "Sale's 9th career 200-K season cements him among game's greats",
+      "link": "https://www.mlb.com/news/chris-sale-reaches-200-strikeouts-for-ninth-time-in-career",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vfkro1vzksjg8mu3be1m",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-24T03:17:00+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "D-backs live to fight another day in playoff chase with win over Rockies",
+      "link": "https://www.mlb.com/news/d-backs-inch-closer-to-nl-wild-card-with-win-over-rockies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zkkra5o9n3rxptj7cabc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Steve Gilbert",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-24T03:16:08+00:00",
+      "time_ago": "36m ago"
+    },
+    {
+      "title": "Judge trying to speed up process, hopes to be ready for Wild Card Series",
+      "link": "https://www.mlb.com/news/aaron-judge-availability-for-wild-card-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/z1rhcz6j4mogk7uyntf2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-24T03:15:00+00:00",
+      "time_ago": "37m ago"
+    },
+    {
+      "title": "Here's the latest postseason picture",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ggyqpcukjyo6tx0lsaqd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-24T03:14:00+00:00",
+      "time_ago": "38m ago"
+    },
+    {
+      "title": "Cubs fall to Marlins, still in pursuit of elusive playoff spot",
+      "link": "https://www.mlb.com/news/cubs-playoff-spot-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790219651/mlb/aweeguydqaradqvclljn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-24T03:07:00+00:00",
+      "time_ago": "45m ago"
+    },
     {
       "title": "Henderson looking forward to postseason after breakout rookie year",
       "link": "https://www.mlb.com/news/logan-henderson-throws-five-innings-in-brewers-win",
@@ -12,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-24T02:55:00+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "With loss to Mets, Rangers stumble in tight AL West race",
@@ -25,85 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-24T02:48:41+00:00",
-      "time_ago": "12m ago"
-    },
-    {
-      "title": "Here's the latest postseason picture",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ggyqpcukjyo6tx0lsaqd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T02:38:00+00:00",
-      "time_ago": "23m ago"
-    },
-    {
-      "title": "With AL's top seed secured, Rays can focus on getting rested, healthy for ALDS",
-      "link": "https://www.mlb.com/news/rays-goals-heading-into-2026-postseason",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uccfsq5eja0cz1otrd8x",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T02:23:00+00:00",
-      "time_ago": "38m ago"
-    },
-    {
-      "title": "Sale's 9th career 200-K season cements him among game's greats",
-      "link": "https://www.mlb.com/news/chris-sale-reaches-200-strikeouts-for-ninth-time-in-career",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vfkro1vzksjg8mu3be1m",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T02:21:28+00:00",
-      "time_ago": "39m ago"
-    },
-    {
-      "title": "White Sox squander golden chance to tie for Central lead with loss to Royals",
-      "link": "https://www.mlb.com/news/white-sox-lose-chance-to-tie-al-central-lead-in-loss-to-royals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/o97l08vm4juf9ddmz9cu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T02:21:12+00:00",
-      "time_ago": "39m ago"
-    },
-    {
-      "title": "Gray dazzles in his regular season finale with 6 scoreless frames",
-      "link": "https://www.mlb.com/news/sonny-gray-throws-six-scoreless-innings-in-win-vs-guardians",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790215169/mlb/inynkyfocvw5bvvfjrvv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T02:20:06+00:00",
-      "time_ago": "40m ago"
-    },
-    {
-      "title": "With 2 more HRs, Rice blows past Boone's forecast to tie for AL lead",
-      "link": "https://www.mlb.com/news/ben-rice-homers-twice-ties-for-al-lead-in-yankees-win-over-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790215646/mlb/duws1cjgyxpnizd7czpy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-24T02:09:18+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
