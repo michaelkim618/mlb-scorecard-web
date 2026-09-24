@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-24T19:37:37.277361+00:00",
+  "updated_at": "2026-09-24T20:03:07.276804+00:00",
   "news": [
+    {
+      "title": "Colson Montgomery sets AL single-season record for K's, matches MLB mark",
+      "link": "https://www.mlb.com/news/colson-montgomery-strikeout-records-white-sox-vs-royals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yezfahhkygctcquj6k7n",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-24T19:44:42+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Schmidt back on IL with right biceps injury",
+      "link": "https://www.mlb.com/news/clarke-schmidt-injured-list-right-biceps-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pf9fetqp5mqolzkxh1bk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-24T19:44:39+00:00",
+      "time_ago": "18m ago"
+    },
     {
       "title": "Skenes is first Pirates starter with consecutive 200-K seasons in 60 years",
       "link": "https://www.mlb.com/news/paul-skenes-logs-200th-strikeout-in-final-2026-start",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-24T19:20:00+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "40-40 for PCA! Cubs superstar 7th player to join exclusive club",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-24T19:13:00+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Alcantara not making final start Saturday; Marlins managing workload",
@@ -38,19 +64,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-24T18:33:55+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Gausman day to day after 'best defensive play of his career'; Cubs could see Bregman, Steele return",
-      "link": "https://www.mlb.com/news/cubs-injury-updates-on-kevin-gausman-alex-bregman-and-justin-steele",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fmtxtgvchuem4nxk4qee",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T18:15:08+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -90,19 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-24T15:32:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Tigers sign lead voices Benetti, Dickerson to multiyear extensions",
-      "link": "https://www.mlb.com/news/jason-benetti-dan-dickerson-get-multiyear-extensions-from-tigers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ght2bz9w6uzxcg23xh82",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-09-24T15:22:57+00:00",
       "time_ago": "4h ago"
     }
   ]
