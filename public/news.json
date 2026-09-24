@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-24T18:32:56.186963+00:00",
+  "updated_at": "2026-09-24T18:46:17.222290+00:00",
   "news": [
+    {
+      "title": "40-40 for PCA! Cubs superstar 7th player to join exclusive club",
+      "link": "https://www.mlb.com/news/pete-crow-armstrong-joins-40-40-club",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/piw8hwdrlfxyncx3chuh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-24T18:33:58+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "A look at Andrew Fischer's record-breaking 48-homer season",
+      "link": "https://www.mlb.com/news/brewers-andrew-fischer-recording-historic-home-run-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dfdcjbm1gizcrj8uoc1g",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sam Dykstra",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-24T16:18:00+00:00",
+      "time_ago": "2h ago"
+    },
     {
       "title": "Starting Pitcher Power Rankings: The best of playoff hopefuls",
       "link": "https://www.mlb.com/news/starting-pitcher-power-rankings-2026-postseason-contenders",
@@ -12,13 +38,13 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-24T15:35:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "6 playoff spots still up for grabs -- and just 4 days left",
       "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fax0w0fia30cktjwjzhf",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790270754/mlb/fax0w0fia30cktjwjzhf",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "",
@@ -28,82 +54,56 @@
       "time_ago": "3h ago"
     },
     {
-      "title": "Everything on the line as Astros wrap up regular season vs. A's",
-      "link": "https://www.mlb.com/news/astros-playoff-hopes-come-down-to-final-series-vs-athletics",
+      "title": "Tigers sign lead voices Benetti, Dickerson to multiyear extensions",
+      "link": "https://www.mlb.com/news/jason-benetti-dan-dickerson-get-multiyear-extensions-from-tigers",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bxhkavnckgndfbtgma68",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ght2bz9w6uzxcg23xh82",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Josh Kirshenbaum",
+      "author": "",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-09-24T15:22:57+00:00",
+      "time_ago": "3h ago"
+    },
+    {
+      "title": "5 keys to the Phillies' possible postseason run",
+      "link": "https://www.mlb.com/news/phillies-rotation-bullpen-key-in-chance-for-a-playoff-push",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pkxw1diggkyssgwu9c46",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-24T11:42:55+00:00",
-      "time_ago": "6h ago"
+      "pub_date": "2026-09-24T14:58:58+00:00",
+      "time_ago": "3h ago"
     },
     {
-      "title": "How Tigers will honor Verlander during final weekend in Detroit",
-      "link": "https://www.mlb.com/news/tigers-plans-to-honor-justin-verlander-at-comerica-park",
+      "title": "How subtle stance adjustments helped Acuña turn his season around",
+      "link": "https://www.mlb.com/news/ronald-acuna-jr-s-success-at-plate-after-stance-adjustments",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ry1jpxryl0c2yalna2pd",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790209834/mlb/siop3pvlzdslwvndvoet",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Jason Beck",
+      "author": "Mark Bowman",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-24T11:17:54+00:00",
-      "time_ago": "7h ago"
+      "pub_date": "2026-09-24T14:53:04+00:00",
+      "time_ago": "3h ago"
     },
     {
-      "title": "Machado's HR sets tone as Padres move one step closer to postseason berth",
-      "link": "https://www.mlb.com/news/manny-machado-homers-in-padres-win-over-dodgers",
+      "title": "With final series looming, here's what matters in Blue Jays' finale for 2027 plans",
+      "link": "https://www.mlb.com/news/what-to-watch-for-in-final-blue-jays-series-of-2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790235386/mlb/vnwdjnhcjds91mxtkece",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x9sj3secpqdonoinqvli",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-24T07:00:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Astros squander 4-0 lead -- and a chance to break away in AL West",
-      "link": "https://www.mlb.com/news/astros-lose-to-mariners-to-stay-tied-atop-al-west",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790228590/mlb/csdvl9low8sqb5ikdrcq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
+      "author": "Keegan Matheson",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-24T07:00:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Ohtani singles in first AB off IL as Dodgers near full strength",
-      "link": "https://www.mlb.com/news/shohei-ohtani-singles-in-first-at-bat-back-from-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790226472/mlb/g5x3wserugowfionlit5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Courtney Hollmon",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-24T06:16:00+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "No clarity to AL playoff picture after clinchless night",
-      "link": "https://www.mlb.com/news/al-playoff-picture-in-final-week-2026-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ah61r8wsocy6qjqwd2q3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Andrew Simon",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-24T06:03:00+00:00",
-      "time_ago": "12h ago"
+      "pub_date": "2026-09-24T14:42:08+00:00",
+      "time_ago": "4h ago"
     }
   ]
 }
