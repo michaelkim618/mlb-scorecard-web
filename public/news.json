@@ -1,44 +1,83 @@
 {
-  "updated_at": "2026-09-24T05:06:46.043981+00:00",
+  "updated_at": "2026-09-24T05:58:24.474597+00:00",
   "news": [
     {
-      "title": "'That's disgusting!': Chapman unleashes cartoonish-looking splitter",
-      "link": "https://www.mlb.com/news/aroldis-chapman-splitter-baffles-guardians",
+      "title": "Astros squander 4-0 lead -- and a chance to break away in AL West",
+      "link": "https://www.mlb.com/news/astros-lose-to-mariners-to-stay-tied-atop-al-west",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rsiu4raq5zmnvq6cfwdc",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790228590/mlb/csdvl9low8sqb5ikdrcq",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Jared Greenspan",
+      "author": "Brian McTaggart",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-24T04:30:30+00:00",
-      "time_ago": "36m ago"
+      "pub_date": "2026-09-24T05:49:43+00:00",
+      "time_ago": "8m ago"
     },
     {
-      "title": "D-backs live to fight another day in playoff chase with win over Rockies",
-      "link": "https://www.mlb.com/news/d-backs-inch-closer-to-nl-wild-card-with-win-over-rockies",
+      "title": "Nola hits speed bump, Phils' offense quiet as clincher must wait another day",
+      "link": "https://www.mlb.com/news/aaron-nola-strikes-out-eight-in-phillies-loss-to-brewers",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zkkra5o9n3rxptj7cabc",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790219814/mlb/khlnlg6hunay4zoio4kf",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Steve Gilbert",
+      "author": "Todd Zolecki",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-24T05:49:00+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Henderson looking forward to postseason after breakout rookie year",
+      "link": "https://www.mlb.com/news/logan-henderson-throws-five-innings-in-brewers-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790214914/mlb/s4w3al5ajnke7u810ilj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-24T05:48:00+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "A 3-way tie for NL Wild Card is in play. Here's how it would shake out",
+      "link": "https://www.mlb.com/news/who-would-win-a-3-way-tie-in-the-nl-wild-card",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x1juj2ot9wkuj3wfdio4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Andrew Simon",
       "tag": "Standings",
       "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-24T04:26:00+00:00",
-      "time_ago": "40m ago"
+      "pub_date": "2026-09-24T05:43:00+00:00",
+      "time_ago": "15m ago"
     },
     {
-      "title": "White Sox squander chance to tie for Central lead, but clincher remains oh so close",
-      "link": "https://www.mlb.com/news/white-sox-lose-chance-to-tie-al-central-lead-in-loss-to-royals",
+      "title": "6 playoff spots still up for grabs -- and just 4 days left",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/o97l08vm4juf9ddmz9cu",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fax0w0fia30cktjwjzhf",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T04:17:00+00:00",
-      "time_ago": "49m ago"
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-24T05:41:00+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Ohtani singles in first AB off IL as Dodgers near full strength",
+      "link": "https://www.mlb.com/news/shohei-ohtani-singles-in-first-at-bat-back-from-injured-list",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790226472/mlb/g5x3wserugowfionlit5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Courtney Hollmon",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-24T05:31:48+00:00",
+      "time_ago": "26m ago"
     },
     {
       "title": "'It is must-win time': Rangers feel urgency in tight AL West race",
@@ -50,60 +89,21 @@
       "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-24T04:17:00+00:00",
-      "time_ago": "49m ago"
+      "pub_date": "2026-09-24T05:31:00+00:00",
+      "time_ago": "27m ago"
     },
     {
-      "title": "With postseason berth in sight, Guards fall to Red Sox but still control their destiny",
-      "link": "https://www.mlb.com/news/foster-griffin-guardians-lose-to-red-sox",
+      "title": "Padres win, can clinch Thursday -- before they take the field",
+      "link": "https://www.mlb.com/news/manny-machado-homers-in-padres-win-over-dodgers",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bt5nuhlk5fuopkt1u6zm",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790228946/mlb/vnwdjnhcjds91mxtkece",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Craig Forde",
+      "author": "AJ Cassavell",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-24T04:14:00+00:00",
-      "time_ago": "52m ago"
-    },
-    {
-      "title": "A twin bill with twin umpires! Austin and Tyler Jones make MLB history",
-      "link": "https://www.mlb.com/news/twin-umpires-work-together-in-mlb-for-first-time",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iz3smigjpurriwoygbb3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T03:57:11+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Motivated by Boone's 39-HR forecast, Rice blows past it to tie for AL lead",
-      "link": "https://www.mlb.com/news/ben-rice-homers-twice-ties-for-al-lead-in-yankees-win-over-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790215646/mlb/duws1cjgyxpnizd7czpy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-24T03:55:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Backflipping Minor Leaguer is at it again after title win!",
-      "link": "https://www.mlb.com/news/minor-leaguer-alfred-morillo-hits-backflip-game-ending-save",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/es7za03fzsrcxyjfhdqc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jesse Borek",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T03:54:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-09-24T05:28:11+00:00",
+      "time_ago": "30m ago"
     }
   ]
 }
