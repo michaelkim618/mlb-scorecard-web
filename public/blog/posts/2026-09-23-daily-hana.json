@@ -1,0 +1,198 @@
+{
+  "title": "Sep 23 Results + Sep 24 Preview: When the Model Splits Right Down the Middle",
+  "summary": "A perfectly balanced 8-8 day has us looking ahead to Pirates-Cardinals with fresh eyes.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Here's the Thing About .500 Days\n\nSometimes the baseball gods just shrug their shoulders. September 23rd was one of those days where our model went exactly 8-8, hitting that perfectly imperfect 50% mark. Not great, not terrible—just baseball being baseball in all its unpredictable glory."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Today's Record",
+          "value": "8-8"
+        },
+        {
+          "label": "Accuracy",
+          "value": "50.0%"
+        },
+        {
+          "label": "High Confidence Picks",
+          "value": "3-1"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Good, The Bad, and The 60% Picks\n\nThe silver lining? Our high-confidence picks (60% and above) actually delivered. The Yankees took care of the Rays, the White Sox handled the Guardians, and the Braves did what the Braves do against the Reds. When we were most confident, we hit 3 out of 4.\n\nBut those coin-flip games—the 50-54% range—went sideways on us. The Pirates upset our Cardinals pick, the Phillies couldn't get past the Brewers, and the Giants fell to the Twins. That's the nature of close calls in late September."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Sep 23 Prediction Results by Game",
+      "data": [
+        {
+          "name": "Tigers",
+          "probability": 60,
+          "result": 0
+        },
+        {
+          "name": "Orioles (G1)",
+          "probability": 54,
+          "result": 1
+        },
+        {
+          "name": "Orioles (G2)",
+          "probability": 51,
+          "result": 1
+        },
+        {
+          "name": "Giants",
+          "probability": 50,
+          "result": 0
+        },
+        {
+          "name": "Pirates",
+          "probability": 54,
+          "result": 0
+        },
+        {
+          "name": "Phillies",
+          "probability": 50,
+          "result": 0
+        },
+        {
+          "name": "Yankees",
+          "probability": 60,
+          "result": 1
+        },
+        {
+          "name": "White Sox",
+          "probability": 60,
+          "result": 1
+        },
+        {
+          "name": "Braves",
+          "probability": 60,
+          "result": 1
+        },
+        {
+          "name": "White Sox",
+          "probability": 54,
+          "result": 0
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Complete Sep 23 Results Breakdown",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Nationals @ Tigers",
+          "Tigers",
+          "60%",
+          "✗"
+        ],
+        [
+          "Blue Jays @ Orioles (G1)",
+          "Orioles",
+          "54%",
+          "✓"
+        ],
+        [
+          "Blue Jays @ Orioles (G2)",
+          "Orioles",
+          "51%",
+          "✓"
+        ],
+        [
+          "Twins @ Giants",
+          "Giants",
+          "50%",
+          "✗"
+        ],
+        [
+          "Cardinals @ Pirates",
+          "Pirates",
+          "54%",
+          "✗"
+        ],
+        [
+          "Brewers @ Phillies",
+          "Phillies",
+          "50%",
+          "✗"
+        ],
+        [
+          "Rays @ Yankees",
+          "Yankees",
+          "60%",
+          "✓"
+        ],
+        [
+          "Guardians @ White Sox",
+          "White Sox",
+          "60%",
+          "✓"
+        ],
+        [
+          "Reds @ Braves",
+          "Braves",
+          "60%",
+          "✓"
+        ],
+        [
+          "White Sox @ Royals",
+          "White Sox",
+          "54%",
+          "✗"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Story: Paul Skenes vs. The Cardinals\n\nAnd speaking of the Pirates—we're running it back on September 24th. Same matchup, same pick, but this time with a twist that has us genuinely intrigued.\n\nThe Pirates are sending Paul Skenes to the mound. If you haven't been paying attention to this kid, well, you should be. He's been one of the most electric young pitchers in baseball, and he gets the Cardinals at home in PNC Park.\n\nThe Cardinals counter with Kyle Leahy, and while our model only gives Pittsburgh a 51% edge—barely above a coin flip—there's something about watching Skenes pitch that makes you believe in slim margins."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Sep 24 Top Pick",
+      "value": "Pittsburgh Pirates",
+      "sub": "51% win probability vs Cardinals · Paul Skenes on the mound"
+    },
+    {
+      "type": "text",
+      "value": "## The Bottom Line\n\nYesterday was a wash—literally split down the middle. But that's the beautiful frustration of baseball modeling in late September. Teams are juggling playoff positioning, rest days, and September call-ups. The margins get thinner, the games get weirder, and sometimes you just tip your cap to the chaos.\n\nTomorrow, we're leaning on Paul Skenes and the Pirates at home. It's not a screaming bet at 51%, but it's our top pick for the slate.\n\nHere's to better than .500 on the 24th. 🤞"
+    }
+  ],
+  "slug": "2026-09-23-daily-hana",
+  "author": "Hana",
+  "author_emoji": "🌸",
+  "author_role": "Story Writer",
+  "author_color": "#EC4899",
+  "date": "2026-09-23",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#EC4899"
+}

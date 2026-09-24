@@ -5653,13 +5653,13 @@ window.PREDICTIONS_DATA = [
             {
               "code": "FC",
               "abbr": "CT",
-              "pct": 18.6,
+              "pct": 18.8,
               "velo": 88.3
             },
             {
               "code": "FF",
               "abbr": "FB",
-              "pct": 17.5,
+              "pct": 17.3,
               "velo": 91.5
             },
             {
