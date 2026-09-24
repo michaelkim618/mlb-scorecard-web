@@ -9384,16 +9384,16 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 56.9,
+        "bp_score": 57.6,
         "bp_detail": {
-          "bullpen_era": 3.63,
-          "recent_era": 5.01,
+          "bullpen_era": 3.62,
+          "recent_era": 4.88,
           "recent_appearances": 21,
-          "recent_ip": 23.3,
+          "recent_ip": 24.0,
           "team_era": 3.89,
-          "bp_ip": 312.7,
+          "bp_ip": 313.3,
           "bp_count": 8,
-          "closer_era": 0.83,
+          "closer_era": 0.82,
           "closer_name": "Josh Hader"
         },
         "bat_score": 33.900000000000006,
@@ -9493,7 +9493,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.0,
-        "total": 51.3
+        "total": 51.4
       },
       "home": {
         "sp_score": 36.8,
@@ -9575,7 +9575,7 @@ window.PREDICTIONS_DATA = [
         "bp_detail": {
           "bullpen_era": 4.02,
           "recent_era": 4.67,
-          "recent_appearances": 20,
+          "recent_appearances": 21,
           "recent_ip": 17.3,
           "team_era": 4.02,
           "bp_ip": 427.3,
@@ -9665,9 +9665,9 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "cold",
           "last5_rpg": 2.8,
-          "last5_avg": 0.208,
+          "last5_avg": 0.206,
           "home_split": {
-            "recent_avg": 0.205,
+            "recent_avg": 0.204,
             "runs_per_g": 3.0,
             "hr_per_g": 0.3,
             "n_games": 10
@@ -9685,7 +9685,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 33.900000000000006,
-      "away_defense": 52.0,
+      "away_defense": 52.3,
       "home_offense": 25.9,
       "home_defense": 40.0
     },
@@ -10886,12 +10886,12 @@ window.PREDICTIONS_DATA = [
         "bp_detail": {
           "bullpen_era": 2.64,
           "recent_era": 2.0,
-          "recent_appearances": 15,
-          "recent_ip": 14.7,
+          "recent_appearances": 16,
+          "recent_ip": 15.0,
           "team_era": 3.42,
-          "bp_ip": 412.0,
+          "bp_ip": 412.3,
           "bp_count": 7,
-          "closer_era": 1.21,
+          "closer_era": 1.2,
           "closer_name": "Mason Miller"
         },
         "bat_score": 51.1,
@@ -10908,9 +10908,9 @@ window.PREDICTIONS_DATA = [
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis Jr.(0.867)",
-            "Dustin Harris(0.754)",
-            "Manny Machado(0.699)",
+            "Fernando Tatis Jr.(0.893)",
+            "Dustin Harris(0.742)",
+            "Manny Machado(0.690)",
             "Ty France(0.922)",
             "Jackson Merrill(0.758)",
             "Austin Hays(0.899)",
@@ -10922,20 +10922,20 @@ window.PREDICTIONS_DATA = [
             {
               "id": 665487,
               "name": "Fernando Tatis Jr.",
-              "ops": 0.867,
-              "avg": 0.286
+              "ops": 0.893,
+              "avg": 0.302
             },
             {
               "id": 687957,
               "name": "Dustin Harris",
-              "ops": 0.754,
-              "avg": 0.316
+              "ops": 0.742,
+              "avg": 0.308
             },
             {
               "id": 592518,
               "name": "Manny Machado",
-              "ops": 0.699,
-              "avg": 0.184
+              "ops": 0.69,
+              "avg": 0.179
             },
             {
               "id": 664034,
@@ -10976,7 +10976,7 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "cold",
           "last5_rpg": 5.4,
-          "last5_avg": 0.269,
+          "last5_avg": 0.266,
           "home_split": {
             "recent_avg": 0.267,
             "runs_per_g": 5.0,
@@ -10984,7 +10984,7 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.293,
+            "recent_avg": 0.291,
             "runs_per_g": 5.7,
             "hr_per_g": 1.3,
             "n_games": 10
@@ -11060,14 +11060,14 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 70.3,
+        "bp_score": 70.0,
         "bp_detail": {
-          "bullpen_era": 3.38,
+          "bullpen_era": 3.4,
           "recent_era": 2.0,
           "recent_appearances": 16,
-          "recent_ip": 15.3,
+          "recent_ip": 16.0,
           "team_era": 3.3,
-          "bp_ip": 274.7,
+          "bp_ip": 275.3,
           "bp_count": 7,
           "closer_era": 2.77,
           "closer_name": "Tanner Scott"
@@ -11154,9 +11154,9 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "hot",
           "last5_rpg": 5.8,
-          "last5_avg": 0.331,
+          "last5_avg": 0.329,
           "home_split": {
-            "recent_avg": 0.296,
+            "recent_avg": 0.295,
             "runs_per_g": 6.5,
             "hr_per_g": 1.7,
             "n_games": 10
@@ -11169,14 +11169,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 71.9,
-        "total": 57.0
+        "total": 56.9
       }
     },
     "scores": {
       "away_offense": 51.1,
       "away_defense": 63.4,
       "home_offense": 54.3,
-      "home_defense": 44.1
+      "home_defense": 44.0
     },
     "actual_score": {
       "away": 0,
