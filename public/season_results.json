@@ -16273,6 +16273,30 @@
       "away_bp_score": 50.3,
       "home_bp_score": 59.1,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-24",
+      "away": "Arizona Diamondbacks",
+      "home": "Colorado Rockies",
+      "game_number": 1,
+      "pick": "Arizona Diamondbacks",
+      "pick_prob": 60.7,
+      "actual_winner": "Arizona Diamondbacks",
+      "away_score": 0,
+      "home_score": 0,
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 3.39,
+      "home_sp_era": 6.09,
+      "away_bp_era": 3.03,
+      "home_bp_era": 5.05,
+      "away_sp_score": 43.0,
+      "home_sp_score": 25.0,
+      "away_bp_score": 70.1,
+      "home_bp_score": 37.8,
+      "bat_source": "lineup"
     }
   ]
 }

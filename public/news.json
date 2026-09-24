@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-24T22:10:49.053507+00:00",
+  "updated_at": "2026-09-24T22:34:16.040013+00:00",
   "news": [
+    {
+      "title": "Snakes (still) alive! D-backs sweep Rockies clinging to playoff hopes with 3 to play",
+      "link": "https://www.mlb.com/news/d-backs-sweep-rockies-to-keep-wild-card-hopes-alive",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rrzaepqlwnwlwlh6q4tv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Steve Gilbert",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-24T22:29:30+00:00",
+      "time_ago": "4m ago"
+    },
+    {
+      "title": "Orioles-Yankees Saturday game moved to Friday for doubleheader",
+      "link": "https://www.mlb.com/news/orioles-yankees-will-play-doubleheader-on-september-25",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/fll8nfctxnipyqmiqukz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-24T22:24:46+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Braves' rotation takes another hit with Pérez (back) headed to IL",
+      "link": "https://www.mlb.com/news/martin-perez-headed-to-injured-list-with-lower-back-inflammation",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790287632/mlb/cqigzfp3dt8tb83vm9wl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-24T22:22:36+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Padres gain an edge -- but 3-way tie still possible for NL Wild Card",
+      "link": "https://www.mlb.com/news/who-would-win-a-3-way-tie-in-the-nl-wild-card",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x1juj2ot9wkuj3wfdio4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Andrew Simon",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-24T22:10:00+00:00",
+      "time_ago": "24m ago"
+    },
     {
       "title": "Skenes says his best baseball is still ahead after consecutive 200-K seasons",
       "link": "https://www.mlb.com/news/paul-skenes-logs-200th-strikeout-in-final-2026-start",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-24T22:04:00+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "30m ago"
     },
     {
       "title": "White Sox clinch postseason berth as inspiring turnaround continues",
@@ -25,20 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-24T22:02:00+00:00",
-      "time_ago": "8m ago"
-    },
-    {
-      "title": "Alcantara not making final start Saturday; Marlins managing workload",
-      "link": "https://www.mlb.com/news/sandy-alcantara-not-making-final-start-of-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rcqczjjd8hsd6opvzb07",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Christina De Nicola",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T21:53:00+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "32m ago"
     },
     {
       "title": "MRI clean as Rafaela returns to Red Sox lineup Thursday",
@@ -51,7 +90,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-24T21:45:00+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "2 clubs join postseason fray, with more clinches possible tonight",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-24T21:30:00+00:00",
-      "time_ago": "40m ago"
-    },
-    {
-      "title": "Rangers pull atop AL West, avoid sweep vs. Mets",
-      "link": "https://www.mlb.com/news/rangers-avoid-sweep-vs-mets-amid-tight-al-west-race",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/za6mbfxs9bge9p77m7oa",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kennedi Landry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T21:19:23+00:00",
-      "time_ago": "51m ago"
-    },
-    {
-      "title": "Cubs punch return trip to postseason on banner day for PCA",
-      "link": "https://www.mlb.com/news/cubs-clinch-2026-postseason-berth",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sfebwrjxwl8jpipovh0x",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T20:53:38+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Colson Montgomery sets AL single-season record for K's, matches MLB mark",
-      "link": "https://www.mlb.com/news/colson-montgomery-strikeout-records-white-sox-vs-royals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yezfahhkygctcquj6k7n",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T20:53:00+00:00",
       "time_ago": "1h ago"
     }
   ]
