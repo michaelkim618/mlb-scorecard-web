@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T12:33:41.397402+00:00",
+  "updated_at": "2026-09-24T12:52:39.429363+00:00",
   "news": [
     {
       "title": "Ober taking things in stride with shift to bullpen",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-24T12:11:21+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "41m ago"
     },
     {
       "title": "Everything on the line as Astros wrap up regular season vs. A's",
@@ -25,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-24T11:42:55+00:00",
-      "time_ago": "50m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "How Tigers will honor Verlander during final weekend in Detroit",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-24T05:49:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     }
   ]
 }
