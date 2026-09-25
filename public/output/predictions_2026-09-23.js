@@ -10756,7 +10756,7 @@ window.PREDICTIONS_DATA = [
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis Jr.(0.890)",
+            "Fernando Tatis(0.890)",
             "Dustin Harris(0.716)",
             "Manny Machado(0.609)",
             "Ty France(0.845)",
@@ -10769,7 +10769,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis Jr.",
+              "name": "Fernando Tatis",
               "ops": 0.89,
               "avg": 0.286
             },
