@@ -2138,10 +2138,10 @@ window.PREDICTIONS_DATA = [
             "Seiya Suzuki(0.809)",
             "Michael Busch(0.803)",
             "Michael Conforto(0.765)",
-            "Ian Happ(0.836)",
-            "Nico Hoerner(0.547)",
-            "Pedro Ramírez(0.716)",
-            "Carson Kelly(0.638)",
+            "Ian Happ(0.835)",
+            "Nico Hoerner(0.571)",
+            "Pedro Ramírez(0.705)",
+            "Carson Kelly(0.626)",
             "Dansby Swanson(0.754)"
           ],
           "lineup_players": [
@@ -2172,26 +2172,26 @@ window.PREDICTIONS_DATA = [
             {
               "id": 664023,
               "name": "Ian Happ",
-              "ops": 0.836,
+              "ops": 0.835,
               "avg": 0.269
             },
             {
               "id": 663538,
               "name": "Nico Hoerner",
-              "ops": 0.547,
-              "avg": 0.176
+              "ops": 0.571,
+              "avg": 0.2
             },
             {
               "id": 699393,
               "name": "Pedro Ramírez",
-              "ops": 0.716,
-              "avg": 0.265
+              "ops": 0.705,
+              "avg": 0.257
             },
             {
               "id": 608348,
               "name": "Carson Kelly",
-              "ops": 0.638,
-              "avg": 0.25
+              "ops": 0.626,
+              "avg": 0.24
             },
             {
               "id": 621020,
@@ -2202,7 +2202,7 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "cold",
           "last5_rpg": 1.8,
-          "last5_avg": 0.203,
+          "last5_avg": 0.205,
           "home_split": {
             "recent_avg": 0.238,
             "runs_per_g": 4.5,
@@ -2210,7 +2210,7 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.246,
+            "recent_avg": 0.247,
             "runs_per_g": 4.2,
             "hr_per_g": 1.0,
             "n_games": 10
@@ -5159,34 +5159,34 @@ window.PREDICTIONS_DATA = [
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.198,
+          "recent_avg": 0.193,
           "runs_per_g": 2.0,
           "hr_per_g": 0.6,
           "bb_per_g": 3.0,
-          "season_ops": 0.623,
+          "season_ops": 0.613,
           "season_slg": null,
-          "season_avg": 0.198,
+          "season_avg": 0.193,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Nick Sogard(0.638)",
+            "Nick Sogard(0.582)",
             "Mickey Gasper(0.663)",
             "Adley Rutschman(0.677)",
-            "Wilyer Abreu(0.555)",
+            "Wilyer Abreu(0.551)",
             "Caleb Durbin(0.659)",
             "Ceddanne Rafaela(0.591)",
-            "Jarren Duran(0.744)",
-            "Trevor Story(0.710)",
+            "Jarren Duran(0.724)",
+            "Trevor Story(0.697)",
             "Isiah Kiner-Falefa(0.374)"
           ],
           "lineup_players": [
             {
               "id": 686765,
               "name": "Nick Sogard",
-              "ops": 0.638,
-              "avg": 0.211
+              "ops": 0.582,
+              "avg": 0.194
             },
             {
               "id": 681508,
@@ -5203,8 +5203,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 677800,
               "name": "Wilyer Abreu",
-              "ops": 0.555,
-              "avg": 0.118
+              "ops": 0.551,
+              "avg": 0.114
             },
             {
               "id": 702332,
@@ -5221,14 +5221,14 @@ window.PREDICTIONS_DATA = [
             {
               "id": 680776,
               "name": "Jarren Duran",
-              "ops": 0.744,
-              "avg": 0.316
+              "ops": 0.724,
+              "avg": 0.3
             },
             {
               "id": 596115,
               "name": "Trevor Story",
-              "ops": 0.71,
-              "avg": 0.281
+              "ops": 0.697,
+              "avg": 0.273
             },
             {
               "id": 643396,
@@ -5239,9 +5239,9 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "hot",
           "last5_rpg": 1.4,
-          "last5_avg": 0.238,
+          "last5_avg": 0.228,
           "home_split": {
-            "recent_avg": 0.235,
+            "recent_avg": 0.23,
             "runs_per_g": 2.3,
             "hr_per_g": 0.5,
             "n_games": 10
@@ -5895,39 +5895,39 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 60.9,
+        "bp_score": 60.7,
         "bp_detail": {
-          "bullpen_era": 3.02,
-          "recent_era": 7.06,
-          "recent_appearances": 21,
-          "recent_ip": 21.7,
+          "bullpen_era": 3.03,
+          "recent_era": 7.15,
+          "recent_appearances": 22,
+          "recent_ip": 22.7,
           "team_era": 2.99,
-          "bp_ip": 456.0,
+          "bp_ip": 457.0,
           "bp_count": 9,
           "closer_era": 2.5,
           "closer_name": "David Bednar"
         },
-        "bat_score": 34.4,
+        "bat_score": 34.0,
         "bat_detail": {
-          "recent_avg": 0.256,
+          "recent_avg": 0.254,
           "runs_per_g": 4.7,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
-          "season_ops": 0.752,
+          "season_ops": 0.749,
           "season_slg": null,
-          "season_avg": 0.256,
+          "season_avg": 0.254,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Paul Goldschmidt(0.731)",
+            "Paul Goldschmidt(0.718)",
             "Cody Bellinger(0.707)",
             "Heliot Ramos(0.799)",
             "Ben Rice(0.925)",
             "Amed Rosario(0.672)",
-            "George Lombard Jr.(0.814)",
-            "Anthony Volpe(0.644)",
+            "George Lombard Jr.(0.811)",
+            "Anthony Volpe(0.634)",
             "Austin Wells(0.833)",
             "José Caballero(0.643)"
           ],
@@ -5935,8 +5935,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 502671,
               "name": "Paul Goldschmidt",
-              "ops": 0.731,
-              "avg": 0.261
+              "ops": 0.718,
+              "avg": 0.25
             },
             {
               "id": 641355,
@@ -5965,14 +5965,14 @@ window.PREDICTIONS_DATA = [
             {
               "id": 806146,
               "name": "George Lombard Jr.",
-              "ops": 0.814,
+              "ops": 0.811,
               "avg": 0.293
             },
             {
               "id": 683011,
               "name": "Anthony Volpe",
-              "ops": 0.644,
-              "avg": 0.25
+              "ops": 0.634,
+              "avg": 0.242
             },
             {
               "id": 669224,
@@ -5991,7 +5991,7 @@ window.PREDICTIONS_DATA = [
           "last5_rpg": 3.8,
           "last5_avg": 0.221,
           "home_split": {
-            "recent_avg": 0.242,
+            "recent_avg": 0.241,
             "runs_per_g": 4.5,
             "hr_per_g": 1.7,
             "n_games": 10
@@ -6004,14 +6004,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.6,
-        "total": 60.6
+        "total": 60.5
       }
     },
     "scores": {
       "away_offense": 35.0,
       "away_defense": 65.8,
-      "home_offense": 34.4,
-      "home_defense": 66.5
+      "home_offense": 34.0,
+      "home_defense": 66.3
     },
     "actual_score": {
       "away": 4,
@@ -8721,7 +8721,7 @@ window.PREDICTIONS_DATA = [
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis Jr.(0.890)",
+            "Fernando Tatis(0.890)",
             "Dustin Harris(0.716)",
             "Manny Machado(0.609)",
             "Ty France(0.845)",
@@ -8734,7 +8734,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis Jr.",
+              "name": "Fernando Tatis",
               "ops": 0.89,
               "avg": 0.286
             },
