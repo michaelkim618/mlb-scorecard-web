@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-09-25T01:05:31.396755+00:00",
+  "updated_at": "2026-09-25T01:48:50.350903+00:00",
   "news": [
+    {
+      "title": "Lombard's mind-bending contortionist moves flummox Rays catcher after WP",
+      "link": "https://www.mlb.com/news/george-lombard-jr-s-amazing-slide-to-score-on-a-wild-pitch",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bpiciscxlmsjiuxxdkp6",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-25T01:38:14+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "3 clubs join postseason fray, with Padres looking to lock up spot next",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790270754/mlb/fax0w0fia30cktjwjzhf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-25T01:26:00+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "Brewers reach 100-win mark for 1st time in franchise history",
+      "link": "https://www.mlb.com/news/brewers-win-100th-game-of-2026-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ocaw3vwxl1a6dumnqwpm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-25T01:23:46+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "Guardians clinch 3rd consecutive playoff berth with another late surge",
+      "link": "https://www.mlb.com/news/guardians-clinch-2026-playoff-berth",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hi9eeghuj1dxyqtgs1pe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-25T01:19:06+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "Oh, baby! Fan catches ball while holding infant ... without even standing up",
+      "link": "https://www.mlb.com/news/fan-catches-ball-while-holding-baby-at-phillies-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qh5bfcstdj8lyewgp3mr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-25T01:17:02+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "Phils lose Arraez to ankle injury, then fall short in clinch attempt",
+      "link": "https://www.mlb.com/news/luis-arraez-exits-game-vs-brewers-with-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kvvvddbqhhs5dxyigosr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-25T01:03:00+00:00",
+      "time_ago": "45m ago"
+    },
     {
       "title": "Schlittler's 1.95 ERA -- 3rd best in Yankees history -- completes Cy résumé",
       "link": "https://www.mlb.com/news/cam-schlittler-finishes-2026-regular-season-with-a-1-95-era",
@@ -12,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-25T00:57:00+00:00",
-      "time_ago": "8m ago"
-    },
-    {
-      "title": "Arraez exits with ankle injury in Philadelphia",
-      "link": "https://www.mlb.com/news/luis-arraez-exits-game-vs-brewers-with-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kvvvddbqhhs5dxyigosr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-25T00:34:41+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "51m ago"
     },
     {
       "title": "White Sox clinch postseason berth as inspiring turnaround continues",
@@ -39,71 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-24T23:52:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Snakes (still) alive! D-backs sweep Rockies clinging to playoff hopes with 3 to play",
-      "link": "https://www.mlb.com/news/d-backs-sweep-rockies-to-keep-wild-card-hopes-alive",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rrzaepqlwnwlwlh6q4tv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-24T23:41:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Energized by Seattle's late-night comeback, Rangers pull atop AL West",
-      "link": "https://www.mlb.com/news/rangers-avoid-sweep-vs-mets-amid-tight-al-west-race",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/za6mbfxs9bge9p77m7oa",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kennedi Landry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T23:25:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Cubs punch return trip to postseason on banner day for PCA",
-      "link": "https://www.mlb.com/news/cubs-clinch-2026-postseason-berth",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/z2ngqomkthja7ourri2x",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T23:12:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Schmidt likely out for postseason after returning to IL with biceps injury",
-      "link": "https://www.mlb.com/news/clarke-schmidt-injured-list-right-biceps-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pf9fetqp5mqolzkxh1bk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-24T23:08:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Which of these three aces will be MiLB Pitching Prospect of the Year?",
-      "link": "https://www.mlb.com/news/milb-pitching-prospect-of-the-year-award-finalists-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ka5ldgojkstibklo5aba",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jim Callis",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-24T23:00:00+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
