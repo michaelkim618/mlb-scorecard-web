@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-25T23:13:04.430882+00:00",
+  "updated_at": "2026-09-25T23:26:36.491871+00:00",
   "news": [
+    {
+      "title": "AL RBI leader Alonso now 1st in HRs after blasting 2, including 471-footer",
+      "link": "https://www.mlb.com/news/pete-alonso-home-runs-doubleheader-vs-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790375502/mlb/gfhia0irn2xi5hq40hoi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-25T23:08:35+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Bill Giles, architect of Phillies championship teams (and Phillie Phanatic), dies at 92",
+      "link": "https://www.mlb.com/news/bill-giles-phillies-president-chairman-part-owner-dies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y6i7utq2y9bja4foaycy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-25T23:07:28+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Staying fresh, healthy the priority as Yanks open final regular-season series",
+      "link": "https://www.mlb.com/news/yankees-open-final-2026-regular-season-series-against-orioles",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790377035/mlb/fhxcgl0ht4tuqhzluqmv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-25T23:00:29+00:00",
+      "time_ago": "26m ago"
+    },
     {
       "title": "Red-hot Gasper exits with biceps discomfort, undergoes MRI during twin bill",
       "link": "https://www.mlb.com/news/mickey-gasper-biceps-injury-game-1-cubs-red-sox-doubleheader",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-25T22:45:21+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "41m ago"
     },
     {
       "title": "Vlad Jr. apologizes to fans: 'Not really what I wanted to say'",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-25T22:34:00+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "Arraez's availability for rest of regular season, postseason in doubt",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-25T22:31:29+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "'Different level of buzz' as Red Sox secure date with Yanks in Wild Card round",
@@ -65,45 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-25T21:53:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Sabathia, a HOFer, has No. 52 retired by Yanks -- and he treasures the latter more",
-      "link": "https://www.mlb.com/news/cc-sabathia-has-no-52-retired-by-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790368004/mlb/qjnfkx7mvietoktb3skt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-25T21:25:27+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Bregman back in Cubs' lineup, plays full game days after being hit in face with foul ball",
-      "link": "https://www.mlb.com/news/alex-bregman-returns-to-cubs-lineup-after-being-hit-in-face-with-foul-ball",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/crokudtdjoxmpzf8maki",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-25T21:01:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "D-backs lose Burnes (shoulder) to IL with crucial weekend ahead",
-      "link": "https://www.mlb.com/news/corbin-burnes-injured-list-shoulder-inflammation",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mrekmkqrlbtnrvdre9ga",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-25T20:33:00+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
