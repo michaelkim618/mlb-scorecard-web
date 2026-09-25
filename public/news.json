@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-25T19:43:46.838483+00:00",
+  "updated_at": "2026-09-25T20:04:36.412964+00:00",
   "news": [
+    {
+      "title": "Red Sox seal No. 5 seed in AL, officially set for Wild Card Series vs. Yanks",
+      "link": "https://www.mlb.com/news/red-sox-seal-playoff-seeding-wild-card-series-vs-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ewzyldzuubjzlsg0sloz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-25T19:55:44+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Bregman back in Cubs lineup just days after being hit in face with foul ball",
+      "link": "https://www.mlb.com/news/alex-bregman-returns-to-cubs-lineup-after-being-hit-in-face-with-foul-ball",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/crokudtdjoxmpzf8maki",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-25T19:52:00+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "The remaining AL clinch scenarios, explained",
+      "link": "https://www.mlb.com/news/al-playoff-picture-in-final-week-2026-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tsjif6bmnfwrocc6hfsz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Andrew Simon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-25T19:45:00+00:00",
+      "time_ago": "19m ago"
+    },
     {
       "title": "Safe! ... and safe again! Cubs narrowly escape logjam as 2 runners score at same time",
       "link": "https://www.mlb.com/news/michael-busch-dansby-swanson-slide-into-home-plate-at-same-time",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-25T18:44:41+00:00",
-      "time_ago": "59m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Big league stars and NPB heroes to play in MLBx: Fukuoka",
@@ -25,19 +64,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-25T17:51:27+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Bregman back in Cubs lineup just days after being hit in face with foul ball",
-      "link": "https://www.mlb.com/news/alex-bregman-returns-to-cubs-lineup-after-being-hit-in-face-with-foul-ball",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/crokudtdjoxmpzf8maki",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-25T17:43:00+00:00",
       "time_ago": "2h ago"
     },
     {
@@ -54,30 +80,17 @@
       "time_ago": "2h ago"
     },
     {
-      "title": "The remaining AL clinch scenarios, explained",
-      "link": "https://www.mlb.com/news/al-playoff-picture-in-final-week-2026-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tsjif6bmnfwrocc6hfsz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Andrew Simon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-25T17:30:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
       "title": "These are the top 20 MLB jerseys from 2026 season",
       "link": "https://www.mlb.com/news/most-popular-mlb-players-jerseys-for-2026-season",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790355387/mlb/rd5brfg1rihtwxxdgwlh",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bvw3ukslea7xkypczu4q",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-25T16:57:18+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "3-way tie in play for NL Wild Card ... but a 4th team isn't done yet",
@@ -90,19 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-25T16:47:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Dodgers pass the 4 million mark in attendance, setting new franchise record",
-      "link": "https://www.mlb.com/news/dodgers-set-new-franchise-record-for-attendance-in-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/euqoidgihhjpbxx3j1kf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-25T15:54:07+00:00",
       "time_ago": "3h ago"
     }
   ]

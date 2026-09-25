@@ -1529,8 +1529,8 @@ window.PREDICTIONS_DATA = [
       "div_rank": 2,
       "div_name": "NL Central",
       "wins": 88,
-      "losses": 71,
-      "games_back": "12.0"
+      "losses": 72,
+      "games_back": "12.5"
     },
     "away_recent_form": {
       "games": [
@@ -2120,22 +2120,22 @@ window.PREDICTIONS_DATA = [
           "closer_era": 3.41,
           "closer_name": "Jacob Webb"
         },
-        "bat_score": 35.3,
+        "bat_score": 34.9,
         "bat_detail": {
-          "recent_avg": 0.256,
+          "recent_avg": 0.254,
           "runs_per_g": 4.5,
           "hr_per_g": 1.1,
           "bb_per_g": 3.0,
-          "season_ops": 0.764,
+          "season_ops": 0.761,
           "season_slg": null,
-          "season_avg": 0.256,
+          "season_avg": 0.254,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Pete Crow-Armstrong(1.051)",
-            "Seiya Suzuki(0.789)",
+            "Pete Crow-Armstrong(1.038)",
+            "Seiya Suzuki(0.780)",
             "Michael Busch(0.776)",
             "Michael Conforto(0.734)",
             "Ian Happ(0.866)",
@@ -2148,14 +2148,14 @@ window.PREDICTIONS_DATA = [
             {
               "id": 691718,
               "name": "Pete Crow-Armstrong",
-              "ops": 1.051,
-              "avg": 0.333
+              "ops": 1.038,
+              "avg": 0.326
             },
             {
               "id": 673548,
               "name": "Seiya Suzuki",
-              "ops": 0.789,
-              "avg": 0.262
+              "ops": 0.78,
+              "avg": 0.256
             },
             {
               "id": 683737,
@@ -2216,14 +2216,14 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           }
         },
-        "sit_score": 57.8,
-        "total": 48.2
+        "sit_score": 53.8,
+        "total": 47.5
       }
     },
     "scores": {
       "away_offense": 26.5,
       "away_defense": 43.3,
-      "home_offense": 35.3,
+      "home_offense": 34.9,
       "home_defense": 56.8
     },
     "actual_score": {
@@ -4571,9 +4571,9 @@ window.PREDICTIONS_DATA = [
     "home_standing": {
       "div_rank": 3,
       "div_name": "AL East",
-      "wins": 85,
+      "wins": 86,
       "losses": 74,
-      "games_back": "11.0"
+      "games_back": "10.5"
     },
     "away_recent_form": {
       "games": [
@@ -4889,8 +4889,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 47.2,
-      "home": 52.8
+      "away": 46.4,
+      "home": 53.6
     },
     "expected_score": {
       "away": 2.2,
@@ -5157,7 +5157,7 @@ window.PREDICTIONS_DATA = [
           "recent_appearances": 15,
           "recent_ip": 19.3,
           "team_era": 3.23,
-          "bp_ip": 375.7,
+          "bp_ip": 376.0,
           "bp_count": 8,
           "closer_era": 1.92,
           "closer_name": "Aroldis Chapman"
@@ -5258,8 +5258,8 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           }
         },
-        "sit_score": 49.5,
-        "total": 55.8
+        "sit_score": 53.6,
+        "total": 56.4
       }
     },
     "scores": {
@@ -5296,7 +5296,7 @@ window.PREDICTIONS_DATA = [
       "bat_gap": 10.6
     },
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 52.8% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 53.6% (≤62.0%)",
     "opener_game": {
       "away": true,
       "home": false
@@ -5640,12 +5640,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 42.4,
-      "home": 57.6
+      "away": 46.9,
+      "home": 53.1
     },
     "expected_score": {
       "away": 2.1,
-      "home": 2.6
+      "home": 2.5
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -5730,14 +5730,14 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 69.6,
+        "bp_score": 75.0,
         "bp_detail": {
-          "bullpen_era": 3.24,
-          "recent_era": 3.52,
-          "recent_appearances": 17,
-          "recent_ip": 15.3,
-          "team_era": 3.64,
-          "bp_ip": 266.3,
+          "bullpen_era": 2.74,
+          "recent_era": 2.0,
+          "recent_appearances": 16,
+          "recent_ip": 14.0,
+          "team_era": 3.54,
+          "bp_ip": 243.3,
           "bp_count": 7,
           "closer_era": 1.47,
           "closer_name": "Bryan Baker"
@@ -5839,7 +5839,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 58.6,
-        "total": 54.6
+        "total": 55.8
       },
       "home": {
         "sp_score": 72.0,
@@ -6014,7 +6014,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 35.0,
-      "away_defense": 63.1,
+      "away_defense": 65.8,
       "home_offense": 39.7,
       "home_defense": 67.4
     },
@@ -6032,7 +6032,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "New York Yankees",
     "model_winner": "New York Yankees",
     "model_correct": true,
-    "notes": "Tampa Bay Rays IL: Edwin Uceta, Garrett Cleavinger, Gavin Lux, Jonathan Heasley, Manuel Rodríguez 외 다수 / New York Yankees IL: Aaron Judge, Clarke Schmidt, Fernando Cruz, Giancarlo Stanton, Kervin Castro 외 다수",
+    "notes": "Tampa Bay Rays IL: Edwin Uceta, Garrett Cleavinger, Gavin Lux, Jonathan Heasley, Ryan Pepiot 외 다수 / New York Yankees IL: Aaron Judge, Clarke Schmidt, Fernando Cruz, Giancarlo Stanton, Kervin Castro 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
@@ -6041,7 +6041,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 57.6% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 53.1% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -8726,7 +8726,7 @@ window.PREDICTIONS_DATA = [
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis(0.890)",
+            "Fernando Tatis Jr.(0.890)",
             "Dustin Harris(0.716)",
             "Manny Machado(0.609)",
             "Ty France(0.845)",
@@ -8739,7 +8739,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis",
+              "name": "Fernando Tatis Jr.",
               "ops": 0.89,
               "avg": 0.286
             },
