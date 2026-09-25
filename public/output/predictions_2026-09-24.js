@@ -5640,12 +5640,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 46.9,
-      "home": 53.1
+      "away": 48.9,
+      "home": 51.1
     },
     "expected_score": {
       "away": 2.1,
-      "home": 2.5
+      "home": 2.1
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -5657,9 +5657,9 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": false,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.31,
+        "sp": 0.33,
         "bp": 0.27,
-        "bat": 0.35,
+        "bat": 0.33,
         "sit": 0.15
       },
       "away": {
@@ -5839,7 +5839,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 58.6,
-        "total": 55.8
+        "total": 56.3
       },
       "home": {
         "sp_score": 72.0,
@@ -5900,36 +5900,36 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 62.8,
+        "bp_score": 63.1,
         "bp_detail": {
-          "bullpen_era": 2.9,
-          "recent_era": 5.17,
-          "recent_appearances": 19,
-          "recent_ip": 15.7,
+          "bullpen_era": 2.89,
+          "recent_era": 4.86,
+          "recent_appearances": 20,
+          "recent_ip": 16.7,
           "team_era": 2.94,
-          "bp_ip": 450.0,
+          "bp_ip": 451.0,
           "bp_count": 9,
           "closer_era": 2.5,
           "closer_name": "David Bednar"
         },
-        "bat_score": 39.7,
+        "bat_score": 33.4,
         "bat_detail": {
-          "recent_avg": 0.264,
-          "runs_per_g": 5.4,
-          "hr_per_g": 1.9,
+          "recent_avg": 0.252,
+          "runs_per_g": 4.6,
+          "hr_per_g": 1.6,
           "bb_per_g": 3.0,
-          "season_ops": 0.758,
+          "season_ops": 0.749,
           "season_slg": null,
-          "season_avg": 0.264,
+          "season_avg": 0.252,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Paul Goldschmidt(0.816)",
+            "Paul Goldschmidt(0.764)",
             "Cody Bellinger(0.707)",
             "Heliot Ramos(0.732)",
-            "Ben Rice(0.985)",
+            "Ben Rice(0.954)",
             "Amed Rosario(0.678)",
             "George Lombard Jr.(0.843)",
             "Anthony Volpe(0.571)",
@@ -5940,8 +5940,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 502671,
               "name": "Paul Goldschmidt",
-              "ops": 0.816,
-              "avg": 0.348
+              "ops": 0.764,
+              "avg": 0.286
             },
             {
               "id": 641355,
@@ -5958,8 +5958,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 700250,
               "name": "Ben Rice",
-              "ops": 0.985,
-              "avg": 0.286
+              "ops": 0.954,
+              "avg": 0.242
             },
             {
               "id": 642708,
@@ -5993,12 +5993,12 @@ window.PREDICTIONS_DATA = [
             }
           ],
           "bat_trend": "cold",
-          "last5_rpg": 4.4,
-          "last5_avg": 0.219,
+          "last5_rpg": 3.6,
+          "last5_avg": 0.217,
           "home_split": {
-            "recent_avg": 0.243,
-            "runs_per_g": 4.9,
-            "hr_per_g": 1.8,
+            "recent_avg": 0.241,
+            "runs_per_g": 4.4,
+            "hr_per_g": 1.7,
             "n_games": 10
           },
           "away_split": {
@@ -6009,14 +6009,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.6,
-        "total": 62.3
+        "total": 60.9
       }
     },
     "scores": {
       "away_offense": 35.0,
       "away_defense": 65.8,
-      "home_offense": 39.7,
-      "home_defense": 67.4
+      "home_offense": 33.4,
+      "home_defense": 67.5
     },
     "actual_score": {
       "away": 4,
@@ -6041,7 +6041,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 53.1% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 51.1% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -8726,7 +8726,7 @@ window.PREDICTIONS_DATA = [
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis Jr.(0.890)",
+            "Fernando Tatis(0.890)",
             "Dustin Harris(0.716)",
             "Manny Machado(0.609)",
             "Ty France(0.845)",
@@ -8739,7 +8739,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis Jr.",
+              "name": "Fernando Tatis",
               "ops": 0.89,
               "avg": 0.286
             },
