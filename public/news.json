@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-25T12:51:02.600832+00:00",
+  "updated_at": "2026-09-25T13:23:27.465276+00:00",
   "news": [
+    {
+      "title": "Looking back on Justin Verlander's three no-hitters",
+      "link": "https://www.mlb.com/news/justin-verlander-career-no-hitters",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/q3dpqmwik03f0lxqxjtf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Noah Yingling",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-25T12:33:51+00:00",
+      "time_ago": "49m ago"
+    },
     {
       "title": "Dodgers earn first-round bye after securing Top 2 seed in NL",
       "link": "https://www.mlb.com/news/dodgers-secure-first-round-bye-for-2026-postseason",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-25T06:19:50+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "Lucas the legend! Spence's 3-HR game keeps Astros in first-place tie",
@@ -51,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-25T06:11:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "Who is the greatest pitcher of this generation? It's time to debate",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-25T05:57:05+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "3-way tie in play for NL Wild Card ... but a 4th team isn't done yet",
@@ -90,19 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-25T05:42:33+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "Lombard's mind-bending contortionist moves flummox Rays catcher after WP",
-      "link": "https://www.mlb.com/news/george-lombard-jr-s-amazing-slide-to-score-on-a-wild-pitch",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bpiciscxlmsjiuxxdkp6",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-25T05:25:00+00:00",
       "time_ago": "7h ago"
     }
   ]

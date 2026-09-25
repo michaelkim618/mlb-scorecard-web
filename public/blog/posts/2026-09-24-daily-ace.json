@@ -1,0 +1,198 @@
+{
+  "title": "Sep 24 Results + Sep 25 Preview: Seven Wins, Solid Pitching Logic",
+  "summary": "7-5 on Sep 24 with 58.3% accuracy. Tomorrow we're riding Red Sox at Fenway.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Sep 24 Recap: The Arm Knows\n\nSeven wins out of twelve picks. That's the kind of day where you trust your stuff and let the results speak. We leaned into pitching matchups and home field advantages, and more often than not, the model's read on starting rotation depth paid off. A 58.3% hit rate isn't perfect, but it's winning baseball."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Today W-L",
+          "value": "7-5"
+        },
+        {
+          "label": "Accuracy",
+          "value": "58.3%"
+        },
+        {
+          "label": "Top Confidence",
+          "value": "61%"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## What Worked, What Didn't\n\nThe **Diamondbacks over the Rockies at Coors** was textbook—61% confidence, and Arizona's arms handled that thin air better than expected. Same story with the **Yankees over Tampa** at 58%. When you've got the better rotation and home crowd, you attack.\n\nThe misses? **Brewers-Phillies** was a coin flip that didn't fall our way, and the **White Sox** couldn't capitalize at home against Cleveland despite a 53% edge. **Braves-Reds** at 61% stung the most—Atlanta's bats went cold when we needed them hot. That's baseball. You can't throw a perfect game every night."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Sep 24 Prediction Confidence & Results",
+      "data": [
+        {
+          "name": "Pirates",
+          "probability": 56,
+          "result": 1
+        },
+        {
+          "name": "White Sox",
+          "probability": 52,
+          "result": 1
+        },
+        {
+          "name": "Cubs",
+          "probability": 60,
+          "result": 1
+        },
+        {
+          "name": "Rangers",
+          "probability": 50,
+          "result": 1
+        },
+        {
+          "name": "Diamondbacks",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Phillies",
+          "probability": 57,
+          "result": 0
+        },
+        {
+          "name": "White Sox (2)",
+          "probability": 53,
+          "result": 0
+        },
+        {
+          "name": "Yankees",
+          "probability": 58,
+          "result": 1
+        },
+        {
+          "name": "Braves",
+          "probability": 61,
+          "result": 0
+        },
+        {
+          "name": "Astros",
+          "probability": 52,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Complete Sep 24 Results Breakdown",
+      "headers": [
+        "Matchup",
+        "Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Cardinals @ Pirates",
+          "Pirates",
+          "56%",
+          "✓ Hit"
+        ],
+        [
+          "White Sox @ Royals",
+          "White Sox",
+          "52%",
+          "✓ Hit"
+        ],
+        [
+          "Marlins @ Cubs",
+          "Cubs",
+          "60%",
+          "✓ Hit"
+        ],
+        [
+          "Mets @ Rangers",
+          "Rangers",
+          "50%",
+          "✓ Hit"
+        ],
+        [
+          "Diamondbacks @ Rockies",
+          "Diamondbacks",
+          "61%",
+          "✓ Hit"
+        ],
+        [
+          "Brewers @ Phillies",
+          "Phillies",
+          "57%",
+          "✗ Miss"
+        ],
+        [
+          "Guardians @ White Sox",
+          "White Sox",
+          "53%",
+          "✗ Miss"
+        ],
+        [
+          "Rays @ Yankees",
+          "Yankees",
+          "58%",
+          "✓ Hit"
+        ],
+        [
+          "Reds @ Braves",
+          "Braves",
+          "61%",
+          "✗ Miss"
+        ],
+        [
+          "Astros @ Athletics",
+          "Astros",
+          "52%",
+          "✓ Hit"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Top Pick: Red Sox Over Cubs at Fenway\n\nHere's where it gets interesting. **Clay Holmes** takes the hill for Chicago—yes, that Clay Holmes, the former Yankees closer now stretching out as a starter. He's got the stuff, no question, but starter stamina in late September is a different animal.\n\nOn the other side, **Alec Gamboa** gets the ball for Boston at Fenway. Home cooking, crowd energy, and a pitcher who knows how to use that Green Monster to his advantage. The model likes Boston at **58% confidence**, and from a pitcher's perspective, I'm buying it."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Tomorrow's Top Pick - Sep 25",
+      "value": "Boston Red Sox over Chicago Cubs",
+      "sub": "58% confidence · Holmes vs Gamboa · Fenway Park advantage"
+    },
+    {
+      "type": "text",
+      "value": "## The Pitcher's Take\n\nHolmes transitioning from bullpen ace to rotation arm is a tough ask this late in the year. His secondary pitches haven't had the reps to survive a third time through the order consistently. Gamboa isn't an ace, but he doesn't need to be—he just needs to keep the Cubs off-balance for five or six, then hand it to Boston's pen.\n\nFenway's dimensions favor contact pitchers who can induce weak fly balls to left. If Gamboa locates his fastball low and away, the Cubs' righties will be pounding harmless outs into the wall all night.\n\nTrust the home arm. Trust the park. Let's make it 8-5 tomorrow."
+    }
+  ],
+  "slug": "2026-09-24-daily-ace",
+  "author": "Ace",
+  "author_emoji": "🎙️",
+  "author_role": "Former Pitcher",
+  "author_color": "#D97706",
+  "date": "2026-09-24",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#D97706"
+}
