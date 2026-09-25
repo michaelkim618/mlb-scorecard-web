@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-25T20:16:09.121550+00:00",
+  "updated_at": "2026-09-25T20:38:19.863240+00:00",
   "news": [
+    {
+      "title": "D-backs lose Burnes (shoulder) to IL with crucial weekend ahead",
+      "link": "https://www.mlb.com/news/corbin-burnes-injured-list-shoulder-inflammation",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mrekmkqrlbtnrvdre9ga",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Steve Gilbert",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-25T20:33:00+00:00",
+      "time_ago": "5m ago"
+    },
+    {
+      "title": "Alonso says 'unacceptable' for O's to miss postseason: 'That's not the standard here'",
+      "link": "https://www.mlb.com/news/pete-alonso-orioles-address-elimination-playoff-contention",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p1zc6nlck74nkftg4f7v",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-25T20:17:18+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "4 more reach postseason! Only 2 spots remain",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rao8aqmngnrkb5q3tebe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-25T20:13:00+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "Safe! ... and safe again! Cubs narrowly escape logjam as 2 runners score at same time",
+      "link": "https://www.mlb.com/news/michael-busch-dansby-swanson-slide-into-home-plate-at-same-time",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ld6vi7e9dzethzjezcgd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-25T20:05:00+00:00",
+      "time_ago": "33m ago"
+    },
+    {
+      "title": "The 15 best (and weirdest) Yanks-Red Sox moments",
+      "link": "https://www.mlb.com/news/best-and-weirdest-yankees-red-sox-moments-c297097092",
+      "summary": "100+ years of baseball's best rivalry is filled with unbelievable occurrences",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e3e7745rt7hys3a0aivo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "David Adler and Matt Kelly",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-25T20:00:00+00:00",
+      "time_ago": "38m ago"
+    },
     {
       "title": "Red Sox seal No. 5 seed in AL, officially set for Wild Card Series vs. Yanks",
       "link": "https://www.mlb.com/news/red-sox-seal-playoff-seeding-wild-card-series-vs-yankees",
@@ -12,7 +77,20 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-25T19:55:44+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "42m ago"
+    },
+    {
+      "title": "Looking back at the playoff history between Yankees and Red Sox",
+      "link": "https://www.mlb.com/news/red-sox-yankees-postseason-history-c297027974",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/i1qkelsxkwnplwpjmjrp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Chad Thornburg",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-25T19:54:00+00:00",
+      "time_ago": "44m ago"
     },
     {
       "title": "Bregman back in Cubs lineup just days after being hit in face with foul ball",
@@ -25,85 +103,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-25T19:52:00+00:00",
-      "time_ago": "24m ago"
-    },
-    {
-      "title": "The remaining AL clinch scenarios, explained",
-      "link": "https://www.mlb.com/news/al-playoff-picture-in-final-week-2026-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tsjif6bmnfwrocc6hfsz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Andrew Simon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-25T19:45:00+00:00",
-      "time_ago": "31m ago"
-    },
-    {
-      "title": "Safe! ... and safe again! Cubs narrowly escape logjam as 2 runners score at same time",
-      "link": "https://www.mlb.com/news/michael-busch-dansby-swanson-slide-into-home-plate-at-same-time",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ld6vi7e9dzethzjezcgd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-25T18:44:41+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Big league stars and NPB heroes to play in MLBx: Fukuoka",
-      "link": "https://www.mlb.com/news/adam-jones-daisuke-matsuzaka-and-more-join-mlbx-fukuoka",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sk82u1rmu64lmzaxaame",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-25T17:51:27+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "The Pope weighs in on the White Sox miraculous playoff run",
-      "link": "https://www.mlb.com/news/pope-leo-xiv-white-sox-making-playoffs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qtfihgf1pem6ypokgogr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-25T17:30:45+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "These are the top 20 MLB jerseys from 2026 season",
-      "link": "https://www.mlb.com/news/most-popular-mlb-players-jerseys-for-2026-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bvw3ukslea7xkypczu4q",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-25T16:57:18+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "3-way tie in play for NL Wild Card ... but a 4th team isn't done yet",
-      "link": "https://www.mlb.com/news/who-would-win-a-3-way-tie-in-the-nl-wild-card",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x1juj2ot9wkuj3wfdio4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Andrew Simon",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-25T16:47:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "46m ago"
     }
   ]
 }

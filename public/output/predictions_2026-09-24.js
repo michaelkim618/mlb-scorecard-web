@@ -3450,15 +3450,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 60.3,
+        "bp_score": 64.8,
         "bp_detail": {
-          "bullpen_era": 3.15,
-          "recent_era": 5.4,
-          "recent_appearances": 19,
-          "recent_ip": 21.7,
-          "team_era": 3.82,
-          "bp_ip": 394.7,
-          "bp_count": 8,
+          "bullpen_era": 3.02,
+          "recent_era": 4.26,
+          "recent_appearances": 18,
+          "recent_ip": 19.0,
+          "team_era": 3.79,
+          "bp_ip": 384.3,
+          "bp_count": 7,
           "closer_era": 2.13,
           "closer_name": "Juan Morillo"
         },
@@ -3559,7 +3559,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 58.5,
-        "total": 61.0
+        "total": 62.4
       },
       "home": {
         "sp_score": 25.0,
@@ -3736,7 +3736,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 59.0,
-      "away_defense": 54.1,
+      "away_defense": 56.4,
       "home_offense": 42.7,
       "home_defense": 33.8
     },
@@ -3754,7 +3754,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "Arizona Diamondbacks",
     "model_winner": "Arizona Diamondbacks",
     "model_correct": true,
-    "notes": "Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Cristian Mena, Ryan Thompson, Tyler Locklear / Colorado Rockies IL: Chase Dollander, Kris Bryant, McCade Brown, Pierson Ohl, Welinton Herrera 외 다수",
+    "notes": "Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Corbin Burnes, Cristian Mena, Ryan Thompson 외 다수 / Colorado Rockies IL: Chase Dollander, Kris Bryant, McCade Brown, Pierson Ohl, Welinton Herrera 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
@@ -5152,12 +5152,12 @@ window.PREDICTIONS_DATA = [
         },
         "bp_score": 72.5,
         "bp_detail": {
-          "bullpen_era": 2.73,
-          "recent_era": 2.33,
-          "recent_appearances": 15,
-          "recent_ip": 19.3,
-          "team_era": 3.23,
-          "bp_ip": 376.0,
+          "bullpen_era": 2.94,
+          "recent_era": 2.93,
+          "recent_appearances": 13,
+          "recent_ip": 15.3,
+          "team_era": 3.31,
+          "bp_ip": 361.3,
           "bp_count": 8,
           "closer_era": 1.92,
           "closer_name": "Aroldis Chapman"
@@ -5640,8 +5640,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 48.9,
-      "home": 51.1
+      "away": 48.2,
+      "home": 51.8
     },
     "expected_score": {
       "away": 2.1,
@@ -5900,27 +5900,27 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 63.1,
+        "bp_score": 65.2,
         "bp_detail": {
           "bullpen_era": 2.89,
-          "recent_era": 4.86,
+          "recent_era": 4.42,
           "recent_appearances": 20,
-          "recent_ip": 16.7,
+          "recent_ip": 18.3,
           "team_era": 2.94,
-          "bp_ip": 451.0,
+          "bp_ip": 452.0,
           "bp_count": 9,
           "closer_era": 2.5,
           "closer_name": "David Bednar"
         },
-        "bat_score": 33.4,
+        "bat_score": 33.7,
         "bat_detail": {
-          "recent_avg": 0.252,
+          "recent_avg": 0.253,
           "runs_per_g": 4.6,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
-          "season_ops": 0.749,
+          "season_ops": 0.751,
           "season_slg": null,
-          "season_avg": 0.252,
+          "season_avg": 0.253,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
@@ -5928,11 +5928,11 @@ window.PREDICTIONS_DATA = [
           "lineup_ops": [
             "Paul Goldschmidt(0.764)",
             "Cody Bellinger(0.707)",
-            "Heliot Ramos(0.732)",
-            "Ben Rice(0.954)",
-            "Amed Rosario(0.678)",
-            "George Lombard Jr.(0.843)",
-            "Anthony Volpe(0.571)",
+            "Heliot Ramos(0.764)",
+            "Ben Rice(0.953)",
+            "Amed Rosario(0.624)",
+            "George Lombard Jr.(0.839)",
+            "Anthony Volpe(0.619)",
             "Austin Wells(0.833)",
             "José Caballero(0.657)"
           ],
@@ -5952,32 +5952,32 @@ window.PREDICTIONS_DATA = [
             {
               "id": 671218,
               "name": "Heliot Ramos",
-              "ops": 0.732,
-              "avg": 0.237
+              "ops": 0.764,
+              "avg": 0.257
             },
             {
               "id": 700250,
               "name": "Ben Rice",
-              "ops": 0.954,
+              "ops": 0.953,
               "avg": 0.242
             },
             {
               "id": 642708,
               "name": "Amed Rosario",
-              "ops": 0.678,
-              "avg": 0.312
+              "ops": 0.624,
+              "avg": 0.258
             },
             {
               "id": 806146,
               "name": "George Lombard Jr.",
-              "ops": 0.843,
-              "avg": 0.31
+              "ops": 0.839,
+              "avg": 0.308
             },
             {
               "id": 683011,
               "name": "Anthony Volpe",
-              "ops": 0.571,
-              "avg": 0.182
+              "ops": 0.619,
+              "avg": 0.226
             },
             {
               "id": 669224,
@@ -5994,7 +5994,7 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "cold",
           "last5_rpg": 3.6,
-          "last5_avg": 0.217,
+          "last5_avg": 0.216,
           "home_split": {
             "recent_avg": 0.241,
             "runs_per_g": 4.4,
@@ -6009,14 +6009,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.6,
-        "total": 60.9
+        "total": 61.6
       }
     },
     "scores": {
       "away_offense": 35.0,
       "away_defense": 65.8,
-      "home_offense": 33.4,
-      "home_defense": 67.5
+      "home_offense": 33.7,
+      "home_defense": 68.6
     },
     "actual_score": {
       "away": 4,
@@ -6041,7 +6041,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 51.1% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 51.8% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
