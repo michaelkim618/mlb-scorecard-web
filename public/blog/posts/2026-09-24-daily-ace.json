@@ -1,109 +1,41 @@
 {
-  "title": "Sep 24 Results + Sep 25 Preview: Seven Wins, Five Losses—That's How You Build Momentum",
-  "summary": "58.3% hit rate on Sep 24—model stayed sharp, now eyeing Red Sox at Fenway.",
+  "title": "Sep 24 Results + Sep 25 Preview: Seven Wins and the Model Found Its Command",
+  "summary": "58.3% accuracy on Sep 24 with 7 wins. Tomorrow we like the Red Sox with a 57% edge.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Sep 24 Review: Solid Day on the Mound\n\nSeven wins out of twelve games. From a pitcher's perspective, that's like getting through seven innings with your fastball command intact—you'll take it every time. The model went 7-5 with a 58.3% accuracy rate, and honestly, those are the kind of numbers that keep you in the rotation."
+      "value": "## Sep 24 Results: Solid Command on the Mound\n\nFrom a pitcher's perspective, going 7-5 is like working six strong innings—not perfect, but you gave your team a real chance to win. The model hit 58.3% yesterday, and more importantly, it found the strike zone when the confidence was high. That's what separates a quality start from a shaky outing."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Today W-L",
+          "label": "Overall W-L",
           "value": "7-5"
         },
         {
-          "label": "Accuracy",
+          "label": "Win Rate",
           "value": "58.3%"
         },
         {
-          "label": "Top Confidence",
-          "value": "61%"
+          "label": "Best Call",
+          "value": "D-backs 61%"
+        },
+        {
+          "label": "Toughest Miss",
+          "value": "Braves 61%"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## What Worked, What Didn't\n\nThe Diamondbacks over the Rockies at Coors? That 61% confidence paid off—you live with those odds in that ballpark. Same with the Cubs handling the Marlins. The Yankees taking care of the Rays was another clean W.\n\nThe misses? The Phillies stumbled against the Brewers, and the Braves couldn't close out the Reds despite 61% confidence. That one stings like hanging a slider in a 2-2 count. The White Sox also didn't show up against the Guardians. But that's baseball—even your best pitch gets hit sometimes."
-    },
-    {
-      "type": "table",
-      "title": "Full Sep 24 Results",
-      "headers": [
-        "Game",
-        "Pick",
-        "Prob",
-        "Result"
-      ],
-      "rows": [
-        [
-          "Cardinals @ Pirates",
-          "Pirates",
-          "56%",
-          "✓"
-        ],
-        [
-          "Sox @ Royals",
-          "Sox",
-          "52%",
-          "✓"
-        ],
-        [
-          "Marlins @ Cubs",
-          "Cubs",
-          "60%",
-          "✓"
-        ],
-        [
-          "Mets @ Rangers",
-          "Rangers",
-          "50%",
-          "✓"
-        ],
-        [
-          "Diamondbacks @ Rockies",
-          "Diamondbacks",
-          "61%",
-          "✓"
-        ],
-        [
-          "Brewers @ Phillies",
-          "Phillies",
-          "57%",
-          "✗"
-        ],
-        [
-          "Guardians @ Sox",
-          "Sox",
-          "53%",
-          "✗"
-        ],
-        [
-          "Rays @ Yankees",
-          "Yankees",
-          "58%",
-          "✓"
-        ],
-        [
-          "Reds @ Braves",
-          "Braves",
-          "61%",
-          "✗"
-        ],
-        [
-          "Astros @ Athletics",
-          "Astros",
-          "52%",
-          "✓"
-        ]
-      ]
+      "value": "## Breaking Down Yesterday's Performance\n\nThe Diamondbacks pick at 61% was textbook—high conviction, clean execution. Same with the Cubs at 60%. Those are the pitches you throw with full confidence. The Yankees call at 58% came through, and even our coin-flip Rangers pick at 50% landed right.\n\nThe Braves miss at 61% stings the most. That's like leaving a fastball over the plate with two strikes—you made the right pitch, but sometimes the hitter just gets you. The Phillies and White Sox misses were lower conviction calls, so those are easier to live with."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 24 Prediction Confidence vs Results",
+      "title": "Sep 24 Prediction Results by Confidence Level",
       "data": [
         {
           "name": "Pirates",
@@ -111,7 +43,7 @@
           "result": 1
         },
         {
-          "name": "Sox",
+          "name": "Red Sox",
           "probability": 52,
           "result": 1
         },
@@ -126,7 +58,7 @@
           "result": 1
         },
         {
-          "name": "D-backs",
+          "name": "Diamondbacks",
           "probability": 61,
           "result": 1
         },
@@ -136,7 +68,7 @@
           "result": 0
         },
         {
-          "name": "Sox",
+          "name": "White Sox",
           "probability": 53,
           "result": 0
         },
@@ -171,19 +103,91 @@
       ]
     },
     {
+      "type": "table",
+      "title": "Complete Sep 24 Results Breakdown",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Cardinals @ Pirates",
+          "Pirates",
+          "56%",
+          "✓ Hit"
+        ],
+        [
+          "Red Sox @ Royals",
+          "Red Sox",
+          "52%",
+          "✓ Hit"
+        ],
+        [
+          "Marlins @ Cubs",
+          "Cubs",
+          "60%",
+          "✓ Hit"
+        ],
+        [
+          "Mets @ Rangers",
+          "Rangers",
+          "50%",
+          "✓ Hit"
+        ],
+        [
+          "Diamondbacks @ Rockies",
+          "Diamondbacks",
+          "61%",
+          "✓ Hit"
+        ],
+        [
+          "Brewers @ Phillies",
+          "Phillies",
+          "57%",
+          "✗ Miss"
+        ],
+        [
+          "Guardians @ White Sox",
+          "White Sox",
+          "53%",
+          "✗ Miss"
+        ],
+        [
+          "Rays @ Yankees",
+          "Yankees",
+          "58%",
+          "✓ Hit"
+        ],
+        [
+          "Reds @ Braves",
+          "Braves",
+          "61%",
+          "✗ Miss"
+        ],
+        [
+          "Astros @ Athletics",
+          "Astros",
+          "52%",
+          "✓ Hit"
+        ]
+      ]
+    },
+    {
       "type": "text",
-      "value": "## Sep 25 Preview: Cubs at Red Sox\n\nTomorrow's top pick has us riding with the **Red Sox at Fenway** at 57% confidence. The pitching matchup tells the story here—Clay Holmes gets the ball for Chicago, and Alec Gamboa toes the rubber for Boston.\n\nFrom a pitcher's perspective, this is about command and home field advantage. Fenway's dimensions favor guys who can work the zone, and Gamboa should have the edge with the Green Monster behind him. Holmes has been serviceable, but on the road in a park like this, even your good stuff can get exposed.\n\nThe model likes Boston's bullpen depth and lineup balance here. It's not a dominant pick, but 57% confidence in a tight divisional race? That's the kind of spot where you trust your preparation and attack the zone."
+      "value": "## Sep 25 Preview: Tomorrow's Top Pick\n\nLooking ahead to Thursday's slate, the model is pointing us toward Fenway Park. Cubs traveling to Boston, and we're backing the Red Sox at 57% confidence.\n\n### The Pitching Matchup Analysis\n\nClay Holmes gets the ball for Chicago—I know Clay from his bullpen days, and starting is a different animal. Working multiple times through a lineup requires a deeper arsenal and better command management. Alec Gamboa takes the hill for Boston, and at home in Fenway, that's where you want to trust your arm.\n\nFrom a pitcher's perspective, this isn't just about stuff—it's about comfort level, routine, and knowing how to pitch in your home park. The 57% edge tells me the model sees something in the matchup dynamics and team performance that tilts toward the home side."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Tomorrow's Top Pick - Sep 25",
-      "value": "Boston Red Sox vs Cubs",
-      "sub": "57% win probability · Gamboa vs Holmes · Fenway advantage"
+      "value": "Boston Red Sox over Chicago Cubs",
+      "sub": "57% win probability · Holmes vs Gamboa · Fenway Park advantage"
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nSeven wins yesterday keeps us sharp. Tomorrow, we're backing Boston at home with a starter who should command the zone. That's how you stay in the game—trust the process, attack your spots, and let the results take care of themselves.\n\n**Stay locked in. First pitch tomorrow.**"
+      "value": "## The Pitcher's Take\n\nYesterday's 7-5 record proves the model can locate. Today we're attacking the zone with conviction on the Red Sox. In this game, like on the mound, you trust your best pitch and let it work.\n\nStay sharp out there."
     }
   ],
   "slug": "2026-09-24-daily-ace",

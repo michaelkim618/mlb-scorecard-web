@@ -5640,8 +5640,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 42.2,
-      "home": 57.8
+      "away": 41.9,
+      "home": 58.1
     },
     "expected_score": {
       "away": 2.1,
@@ -5900,15 +5900,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 61.9,
+        "bp_score": 62.8,
         "bp_detail": {
-          "bullpen_era": 2.88,
+          "bullpen_era": 2.9,
           "recent_era": 5.17,
           "recent_appearances": 19,
           "recent_ip": 15.7,
-          "team_era": 2.93,
-          "bp_ip": 422.3,
-          "bp_count": 7,
+          "team_era": 2.94,
+          "bp_ip": 450.0,
+          "bp_count": 9,
           "closer_era": 2.5,
           "closer_name": "David Bednar"
         },
@@ -6009,14 +6009,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.6,
-        "total": 62.4
+        "total": 62.7
       }
     },
     "scores": {
       "away_offense": 35.0,
       "away_defense": 63.1,
       "home_offense": 40.9,
-      "home_defense": 67.0
+      "home_defense": 67.4
     },
     "actual_score": {
       "away": 4,
@@ -6041,7 +6041,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 57.8% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 58.1% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
