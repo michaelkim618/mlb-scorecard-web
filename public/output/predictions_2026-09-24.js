@@ -2108,33 +2108,33 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 63.1,
+        "bp_score": 64.6,
         "bp_detail": {
-          "bullpen_era": 3.67,
+          "bullpen_era": 3.66,
           "recent_era": 2.0,
           "recent_appearances": 14,
-          "recent_ip": 14.3,
+          "recent_ip": 15.0,
           "team_era": 4.03,
-          "bp_ip": 291.7,
+          "bp_ip": 292.3,
           "bp_count": 6,
           "closer_era": 3.41,
           "closer_name": "Jacob Webb"
         },
-        "bat_score": 35.6,
+        "bat_score": 35.5,
         "bat_detail": {
-          "recent_avg": 0.258,
+          "recent_avg": 0.257,
           "runs_per_g": 4.5,
           "hr_per_g": 1.1,
           "bb_per_g": 3.0,
           "season_ops": 0.766,
           "season_slg": null,
-          "season_avg": 0.258,
+          "season_avg": 0.257,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Pete Crow-Armstrong(1.044)",
+            "Pete Crow-Armstrong(1.051)",
             "Seiya Suzuki(0.798)",
             "Michael Busch(0.787)",
             "Michael Conforto(0.734)",
@@ -2142,13 +2142,13 @@ window.PREDICTIONS_DATA = [
             "Nico Hoerner(0.584)",
             "Pedro Ramírez(0.718)",
             "Carson Kelly(0.608)",
-            "Dansby Swanson(0.782)"
+            "Dansby Swanson(0.767)"
           ],
           "lineup_players": [
             {
               "id": 691718,
               "name": "Pete Crow-Armstrong",
-              "ops": 1.044,
+              "ops": 1.051,
               "avg": 0.333
             },
             {
@@ -2196,13 +2196,13 @@ window.PREDICTIONS_DATA = [
             {
               "id": 621020,
               "name": "Dansby Swanson",
-              "ops": 0.782,
-              "avg": 0.25
+              "ops": 0.767,
+              "avg": 0.241
             }
           ],
           "bat_trend": "cold",
           "last5_rpg": 3.6,
-          "last5_avg": 0.243,
+          "last5_avg": 0.24,
           "home_split": {
             "recent_avg": 0.238,
             "runs_per_g": 4.5,
@@ -2210,21 +2210,21 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.255,
+            "recent_avg": 0.254,
             "runs_per_g": 4.8,
             "hr_per_g": 1.1,
             "n_games": 10
           }
         },
         "sit_score": 57.8,
-        "total": 48.0
+        "total": 48.3
       }
     },
     "scores": {
       "away_offense": 26.5,
       "away_defense": 43.3,
-      "home_offense": 35.6,
-      "home_defense": 56.1
+      "home_offense": 35.5,
+      "home_defense": 56.8
     },
     "actual_score": {
       "away": 1,
@@ -5153,36 +5153,36 @@ window.PREDICTIONS_DATA = [
         "bp_score": 72.5,
         "bp_detail": {
           "bullpen_era": 2.75,
-          "recent_era": 2.81,
+          "recent_era": 2.65,
           "recent_appearances": 14,
-          "recent_ip": 16.0,
+          "recent_ip": 17.0,
           "team_era": 3.24,
-          "bp_ip": 372.7,
+          "bp_ip": 373.3,
           "bp_count": 8,
           "closer_era": 1.92,
           "closer_name": "Aroldis Chapman"
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.203,
+          "recent_avg": 0.2,
           "runs_per_g": 2.1,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
-          "season_ops": 0.631,
+          "season_ops": 0.628,
           "season_slg": null,
-          "season_avg": 0.203,
+          "season_avg": 0.2,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Nick Sogard(0.656)",
+            "Nick Sogard(0.647)",
             "Mickey Gasper(0.663)",
             "Adley Rutschman(0.686)",
             "Wilyer Abreu(0.570)",
             "Caleb Durbin(0.668)",
             "Ceddanne Rafaela(0.591)",
-            "Jarren Duran(0.732)",
+            "Jarren Duran(0.711)",
             "Trevor Story(0.708)",
             "Isiah Kiner-Falefa(0.405)"
           ],
@@ -5190,8 +5190,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 686765,
               "name": "Nick Sogard",
-              "ops": 0.656,
-              "avg": 0.222
+              "ops": 0.647,
+              "avg": 0.216
             },
             {
               "id": 681508,
@@ -5226,8 +5226,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 680776,
               "name": "Jarren Duran",
-              "ops": 0.732,
-              "avg": 0.316
+              "ops": 0.711,
+              "avg": 0.3
             },
             {
               "id": 596115,
@@ -5244,9 +5244,9 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "hot",
           "last5_rpg": 1.4,
-          "last5_avg": 0.227,
+          "last5_avg": 0.222,
           "home_split": {
-            "recent_avg": 0.239,
+            "recent_avg": 0.237,
             "runs_per_g": 2.7,
             "hr_per_g": 0.7,
             "n_games": 10
