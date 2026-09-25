@@ -16489,6 +16489,30 @@
       "away_bp_score": 63.0,
       "home_bp_score": 72.5,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-25",
+      "away": "Baltimore Orioles",
+      "home": "New York Yankees",
+      "game_number": 1,
+      "pick": "Baltimore Orioles",
+      "pick_prob": 59.8,
+      "actual_winner": "Baltimore Orioles",
+      "away_score": 0,
+      "home_score": 0,
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "cold",
+      "away_sp_era": 3.92,
+      "home_sp_era": 8.22,
+      "away_bp_era": 3.67,
+      "home_bp_era": 2.9,
+      "away_sp_score": 65.5,
+      "home_sp_score": 31.8,
+      "away_bp_score": 59.9,
+      "home_bp_score": 62.8,
+      "bat_source": "lineup"
     }
   ]
 }

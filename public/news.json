@@ -1,18 +1,44 @@
 {
-  "updated_at": "2026-09-25T22:33:20.249916+00:00",
+  "updated_at": "2026-09-25T23:13:04.430882+00:00",
   "news": [
     {
-      "title": "Alonso says 'unacceptable' for O's to miss postseason: 'That's not the standard here'",
-      "link": "https://www.mlb.com/news/pete-alonso-orioles-address-elimination-playoff-contention",
+      "title": "Red-hot Gasper exits with biceps discomfort, undergoes MRI during twin bill",
+      "link": "https://www.mlb.com/news/mickey-gasper-biceps-injury-game-1-cubs-red-sox-doubleheader",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790369959/mlb/snssnjdzsaerbjmujzyd",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jcxqodmoqziey7zbgeok",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Jake Rill",
+      "author": "Ian Browne",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-25T22:04:00+00:00",
-      "time_ago": "29m ago"
+      "pub_date": "2026-09-25T22:45:21+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "Vlad Jr. apologizes to fans: 'Not really what I wanted to say'",
+      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-apologizes-to-fans-for-comments-on-contract",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/km6arkbxvzlfg6ufp4lv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-25T22:34:00+00:00",
+      "time_ago": "39m ago"
+    },
+    {
+      "title": "Arraez's availability for rest of regular season, postseason in doubt",
+      "link": "https://www.mlb.com/news/luis-arraez-could-miss-rest-of-regular-season-with-left-ankle-sprain",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xbmurbir0z98oviswdeb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-25T22:31:29+00:00",
+      "time_ago": "41m ago"
     },
     {
       "title": "'Different level of buzz' as Red Sox secure date with Yanks in Wild Card round",
@@ -25,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-25T21:54:00+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Red Sox, Cubs set to play Game 162 at The Trop Sunday due to weather",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-25T21:53:00+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Sabathia, a HOFer, has No. 52 retired by Yanks -- and he treasures the latter more",
@@ -54,19 +80,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Vlad Jr. apologizes to fans: 'I'm going to continue to keep working hard'",
-      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-apologizes-to-fans-for-comments-on-contract",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/km6arkbxvzlfg6ufp4lv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-25T21:08:28+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Bregman back in Cubs' lineup, plays full game days after being hit in face with foul ball",
       "link": "https://www.mlb.com/news/alex-bregman-returns-to-cubs-lineup-after-being-hit-in-face-with-foul-ball",
       "summary": "",
@@ -77,7 +90,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-25T21:01:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "D-backs lose Burnes (shoulder) to IL with crucial weekend ahead",
@@ -90,19 +103,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-25T20:33:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "4 more reach postseason! Only 2 spots remain",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rao8aqmngnrkb5q3tebe",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-25T20:13:00+00:00",
       "time_ago": "2h ago"
     }
   ]
