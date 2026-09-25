@@ -1,41 +1,37 @@
 {
-  "title": "Sep 24 Results + Sep 25 Preview: Seven Wins and the Model Found Its Command",
-  "summary": "58.3% accuracy on Sep 24 with 7 wins. Tomorrow we like the Red Sox with a 57% edge.",
+  "title": "Sep 24 Results + Sep 25 Preview: Seven Wins, Solid Command",
+  "summary": "7-5 on Sep 24 with 58.3% accuracy. Tomorrow we're riding the Red Sox at Fenway.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Sep 24 Results: Solid Command on the Mound\n\nFrom a pitcher's perspective, going 7-5 is like working six strong innings—not perfect, but you gave your team a real chance to win. The model hit 58.3% yesterday, and more importantly, it found the strike zone when the confidence was high. That's what separates a quality start from a shaky outing."
+      "value": "## Sep 24 Recap: Finding the Strike Zone\n\nFrom a pitcher's perspective, going 7-5 is like having your fastball working but leaving a few hangers over the plate. We commanded the zone on 58.3% of our calls yesterday, and that's the kind of consistency that wins ballgames over a long season. Let's break down what worked and where we missed our spots."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Overall W-L",
+          "label": "Sep 24 W-L",
           "value": "7-5"
         },
         {
-          "label": "Win Rate",
+          "label": "Accuracy",
           "value": "58.3%"
         },
         {
           "label": "Best Call",
-          "value": "D-backs 61%"
-        },
-        {
-          "label": "Toughest Miss",
-          "value": "Braves 61%"
+          "value": "61%"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## Breaking Down Yesterday's Performance\n\nThe Diamondbacks pick at 61% was textbook—high conviction, clean execution. Same with the Cubs at 60%. Those are the pitches you throw with full confidence. The Yankees call at 58% came through, and even our coin-flip Rangers pick at 50% landed right.\n\nThe Braves miss at 61% stings the most. That's like leaving a fastball over the plate with two strikes—you made the right pitch, but sometimes the hitter just gets you. The Phillies and White Sox misses were lower conviction calls, so those are easier to live with."
+      "value": "## The Wins That Landed\n\nSeven picks hit their target yesterday, and most of them were no-doubters. The Diamondbacks and Cubs calls at 61% confidence were like painting the corners—those are the pitches you throw with conviction. The Yankees pick at 58% had good movement on it too. Even the tight ones like Rangers at 50% and Astros at 52% found their way across the plate. That's what I call working the edges of the zone."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 24 Prediction Results by Confidence Level",
+      "title": "Sep 24 Prediction Results by Confidence",
       "data": [
         {
           "name": "Pirates",
@@ -43,13 +39,13 @@
           "result": 1
         },
         {
-          "name": "Red Sox",
+          "name": "Sox",
           "probability": 52,
           "result": 1
         },
         {
           "name": "Cubs",
-          "probability": 60,
+          "probability": 61,
           "result": 1
         },
         {
@@ -58,7 +54,7 @@
           "result": 1
         },
         {
-          "name": "Diamondbacks",
+          "name": "D-backs",
           "probability": 61,
           "result": 1
         },
@@ -119,15 +115,15 @@
           "✓ Hit"
         ],
         [
-          "Red Sox @ Royals",
-          "Red Sox",
+          "Sox @ Royals",
+          "Sox",
           "52%",
           "✓ Hit"
         ],
         [
           "Marlins @ Cubs",
           "Cubs",
-          "60%",
+          "61%",
           "✓ Hit"
         ],
         [
@@ -176,18 +172,22 @@
     },
     {
       "type": "text",
-      "value": "## Sep 25 Preview: Tomorrow's Top Pick\n\nLooking ahead to Thursday's slate, the model is pointing us toward Fenway Park. Cubs traveling to Boston, and we're backing the Red Sox at 57% confidence.\n\n### The Pitching Matchup Analysis\n\nClay Holmes gets the ball for Chicago—I know Clay from his bullpen days, and starting is a different animal. Working multiple times through a lineup requires a deeper arsenal and better command management. Alec Gamboa takes the hill for Boston, and at home in Fenway, that's where you want to trust your arm.\n\nFrom a pitcher's perspective, this isn't just about stuff—it's about comfort level, routine, and knowing how to pitch in your home park. The 57% edge tells me the model sees something in the matchup dynamics and team performance that tilts toward the home side."
+      "value": "## The Misses: Tipping Pitches?\n\nThree losses stings a bit, especially that Braves call at 61% confidence. Sometimes even your best stuff gets hit. The Phillies miss at 57% and White Sox at 53% were borderline—those games could've gone either way. That's baseball. You learn, you adjust your grip, and you come back stronger the next day."
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Top Pick: Red Sox Over Cubs\n\nLet me tell you about Sep 25's best opportunity. We're looking at Clay Holmes taking the hill for the Cubs against Boston's Alec Gamboa at Fenway. The model likes the Red Sox at 57% confidence, and from a pitcher's perspective, I see why."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - Sep 25",
-      "value": "Boston Red Sox over Chicago Cubs",
-      "sub": "57% win probability · Holmes vs Gamboa · Fenway Park advantage"
+      "title": "⭐ Sep 25 Top Pick",
+      "value": "Boston Red Sox vs Cubs",
+      "sub": "57% win probability • Gamboa vs Holmes • Fenway Park advantage"
     },
     {
       "type": "text",
-      "value": "## The Pitcher's Take\n\nYesterday's 7-5 record proves the model can locate. Today we're attacking the zone with conviction on the Red Sox. In this game, like on the mound, you trust your best pitch and let it work.\n\nStay sharp out there."
+      "value": "## The Pitcher's Take on This Matchup\n\nClay Holmes is transitioning from the bullpen world, and starting requires a different arsenal management. You can't just air it out for one inning—you need to pace yourself, work through the lineup multiple times. Alec Gamboa gets the home cooking at Fenway, and that familiarity with your park's dimensions matters more than people think.\n\nThe Red Sox at 57% isn't a slam dunk, but it's a quality pitch with good location. This is the kind of call where the home team edge and pitching matchup alignment give you that extra conviction. Trust your stuff and throw it.\n\n**Tomorrow's game time will tell if we can build on today's 7-5 performance. Keep your mechanics sound and stay aggressive in the zone.**"
     }
   ],
   "slug": "2026-09-24-daily-ace",
