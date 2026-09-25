@@ -337,18 +337,18 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 42.0,
-      "home": 58.0
+      "away": 43.0,
+      "home": 57.0
     },
     "expected_score": {
-      "away": 2.4,
-      "home": 1.8
+      "away": 2.5,
+      "home": 1.7
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "L",
       "bullpen_game": true,
@@ -427,27 +427,27 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 61.1,
+        "bp_score": 63.0,
         "bp_detail": {
-          "bullpen_era": 3.74,
+          "bullpen_era": 3.68,
           "recent_era": 2.0,
           "recent_appearances": 13,
           "recent_ip": 13.7,
-          "team_era": 4.16,
-          "bp_ip": 276.7,
-          "bp_count": 5,
+          "team_era": 4.03,
+          "bp_ip": 291.0,
+          "bp_count": 6,
           "closer_era": 3.41,
           "closer_name": "Jacob Webb"
         },
-        "bat_score": 35.0,
+        "bat_score": 35.8,
         "bat_detail": {
-          "recent_avg": 0.251,
+          "recent_avg": 0.237,
           "runs_per_g": 4.5,
           "hr_per_g": 1.2,
           "bb_per_g": 3.0,
-          "season_ops": 0.759,
+          "season_ops": 0.757,
           "season_slg": null,
-          "season_avg": 0.251,
+          "season_avg": 0.237,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
@@ -455,13 +455,13 @@ window.PREDICTIONS_DATA = [
           "lineup_ops": [
             "Pete Crow-Armstrong(1.010)",
             "Seiya Suzuki(0.791)",
-            "Michael Busch(0.758)",
-            "Michael Conforto(0.734)",
-            "Ian Happ(0.843)",
+            "Alex Bregman(0.932)",
+            "Tyrone Taylor(0.732)",
             "Nico Hoerner(0.579)",
-            "Pedro Ramírez(0.718)",
-            "Carson Kelly(0.608)",
-            "Dansby Swanson(0.793)"
+            "Matt Shaw(0.549)",
+            "Michael Busch(0.758)",
+            "Dansby Swanson(0.793)",
+            "Miguel Amaya(0.673)"
           ],
           "lineup_players": [
             {
@@ -477,22 +477,16 @@ window.PREDICTIONS_DATA = [
               "avg": 0.262
             },
             {
-              "id": 683737,
-              "name": "Michael Busch",
-              "ops": 0.758,
-              "avg": 0.265
+              "id": 608324,
+              "name": "Alex Bregman",
+              "ops": 0.932,
+              "avg": 0.303
             },
             {
-              "id": 624424,
-              "name": "Michael Conforto",
-              "ops": 0.734,
-              "avg": 0.219
-            },
-            {
-              "id": 664023,
-              "name": "Ian Happ",
-              "ops": 0.843,
-              "avg": 0.267
+              "id": 621438,
+              "name": "Tyrone Taylor",
+              "ops": 0.732,
+              "avg": 0.217
             },
             {
               "id": 663538,
@@ -501,25 +495,31 @@ window.PREDICTIONS_DATA = [
               "avg": 0.211
             },
             {
-              "id": 699393,
-              "name": "Pedro Ramírez",
-              "ops": 0.718,
-              "avg": 0.263
+              "id": 807713,
+              "name": "Matt Shaw",
+              "ops": 0.549,
+              "avg": 0.105
             },
             {
-              "id": 608348,
-              "name": "Carson Kelly",
-              "ops": 0.608,
-              "avg": 0.222
+              "id": 683737,
+              "name": "Michael Busch",
+              "ops": 0.758,
+              "avg": 0.265
             },
             {
               "id": 621020,
               "name": "Dansby Swanson",
               "ops": 0.793,
               "avg": 0.25
+            },
+            {
+              "id": 665804,
+              "name": "Miguel Amaya",
+              "ops": 0.673,
+              "avg": 0.222
             }
           ],
-          "bat_trend": "cold",
+          "bat_trend": "stable",
           "last5_rpg": 4.0,
           "last5_avg": 0.235,
           "home_split": {
@@ -536,7 +536,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 56.8,
-        "total": 47.5
+        "total": 48.4
       },
       "home": {
         "sp_score": 18.6,
@@ -604,34 +604,34 @@ window.PREDICTIONS_DATA = [
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.201,
+          "recent_avg": 0.18,
           "runs_per_g": 2.2,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
-          "season_ops": 0.636,
+          "season_ops": 0.613,
           "season_slg": null,
-          "season_avg": 0.201,
+          "season_avg": 0.18,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Nick Sogard(0.641)",
+            "Roman Anthony(0.665)",
             "Mickey Gasper(0.709)",
             "Adley Rutschman(0.675)",
             "Wilyer Abreu(0.606)",
             "Caleb Durbin(0.782)",
-            "Ceddanne Rafaela(0.591)",
+            "Nick Sogard(0.641)",
             "Jarren Duran(0.619)",
-            "Trevor Story(0.708)",
+            "Andruw Monasterio(0.426)",
             "Isiah Kiner-Falefa(0.395)"
           ],
           "lineup_players": [
             {
-              "id": 686765,
-              "name": "Nick Sogard",
-              "ops": 0.641,
-              "avg": 0.211
+              "id": 701350,
+              "name": "Roman Anthony",
+              "ops": 0.665,
+              "avg": 0.238
             },
             {
               "id": 681508,
@@ -658,10 +658,10 @@ window.PREDICTIONS_DATA = [
               "avg": 0.276
             },
             {
-              "id": 678882,
-              "name": "Ceddanne Rafaela",
-              "ops": 0.591,
-              "avg": 0.2
+              "id": 686765,
+              "name": "Nick Sogard",
+              "ops": 0.641,
+              "avg": 0.211
             },
             {
               "id": 680776,
@@ -670,10 +670,10 @@ window.PREDICTIONS_DATA = [
               "avg": 0.227
             },
             {
-              "id": 596115,
-              "name": "Trevor Story",
-              "ops": 0.708,
-              "avg": 0.278
+              "id": 655316,
+              "name": "Andruw Monasterio",
+              "ops": 0.426,
+              "avg": 0.045
             },
             {
               "id": 643396,
@@ -703,16 +703,16 @@ window.PREDICTIONS_DATA = [
       }
     },
     "scores": {
-      "away_offense": 35.0,
-      "away_defense": 51.5,
+      "away_offense": 35.8,
+      "away_defense": 52.5,
       "home_offense": 25.0,
       "home_defense": 45.5
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -722,16 +722,16 @@ window.PREDICTIONS_DATA = [
     "actual_winner": null,
     "model_winner": "Boston Red Sox",
     "model_correct": null,
-    "notes": "Chicago Cubs IL: Ben Brown, Cade Horton, Gavin Hollowell, Hunter Harvey, Justin Steele 외 다수 / Boston Red Sox IL: Anthony Seigler, Curtis Mead, Eduardo Rivera, Eli White, Garrett Crochet 외 다수",
+    "notes": "Chicago Cubs IL: Ben Brown, Cade Horton, Hunter Harvey, Justin Steele, Phil Maton 외 다수 / Boston Red Sox IL: Anthony Seigler, Curtis Mead, Eduardo Rivera, Eli White, Garrett Crochet 외 다수",
     "kalshi_prob": 48.0,
-    "edge": 12.0,
+    "edge": 11.0,
     "value_bet": "⏭️ 패스 (불펜전 — 양팀 선발 Cold, 예측 신뢰 낮음)",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 60.0% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 59.0% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": true
@@ -741,7 +741,7 @@ window.PREDICTIONS_DATA = [
   {
     "date": "2026-09-25",
     "status": "Preview",
-    "game_time": "3:05 PM PT",
+    "game_time": "2:35 PM PT",
     "game_number": 2,
     "doubleheader": true,
     "game_pk": 824706,
@@ -1165,15 +1165,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 61.1,
+        "bp_score": 63.0,
         "bp_detail": {
-          "bullpen_era": 3.74,
+          "bullpen_era": 3.68,
           "recent_era": 2.0,
           "recent_appearances": 13,
           "recent_ip": 13.7,
-          "team_era": 4.16,
-          "bp_ip": 276.7,
-          "bp_count": 5,
+          "team_era": 4.03,
+          "bp_ip": 291.0,
+          "bp_count": 6,
           "closer_era": 3.41,
           "closer_name": "Jacob Webb"
         },
@@ -1274,7 +1274,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 56.8,
-        "total": 51.7
+        "total": 52.1
       },
       "home": {
         "sp_score": 47.4,
@@ -1465,7 +1465,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 35.0,
-      "away_defense": 58.1,
+      "away_defense": 59.0,
       "home_offense": 25.0,
       "home_defense": 60.0
     },
@@ -1483,7 +1483,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": null,
     "model_winner": "Boston Red Sox",
     "model_correct": null,
-    "notes": "Chicago Cubs IL: Ben Brown, Cade Horton, Gavin Hollowell, Hunter Harvey, Justin Steele 외 다수 / Boston Red Sox IL: Anthony Seigler, Curtis Mead, Eduardo Rivera, Eli White, Garrett Crochet 외 다수",
+    "notes": "Chicago Cubs IL: Ben Brown, Cade Horton, Hunter Harvey, Justin Steele, Phil Maton 외 다수 / Boston Red Sox IL: Anthony Seigler, Curtis Mead, Eduardo Rivera, Eli White, Garrett Crochet 외 다수",
     "kalshi_prob": 48.0,
     "edge": 4.6,
     "value_bet": "➖ 시장과 유사",
@@ -1506,602 +1506,6 @@ window.PREDICTIONS_DATA = [
     "game_number": 1,
     "doubleheader": true,
     "game_pk": 823491,
-    "away": "Baltimore Orioles",
-    "home": "New York Yankees",
-    "away_standing": {
-      "div_rank": 4,
-      "div_name": "AL East",
-      "wins": 78,
-      "losses": 81,
-      "games_back": "18.0"
-    },
-    "home_standing": {
-      "div_rank": 2,
-      "div_name": "AL East",
-      "wins": 92,
-      "losses": 67,
-      "games_back": "4.0"
-    },
-    "away_recent_form": {
-      "games": [
-        {
-          "date": "2026-09-20",
-          "result": "L",
-          "score": "0-3",
-          "home": true
-        },
-        {
-          "date": "2026-09-21",
-          "result": "W",
-          "score": "4-3",
-          "home": true
-        },
-        {
-          "date": "2026-09-22",
-          "result": "L",
-          "score": "0-0",
-          "home": true
-        },
-        {
-          "date": "2026-09-23",
-          "result": "W",
-          "score": "4-2",
-          "home": true
-        },
-        {
-          "date": "2026-09-23",
-          "result": "W",
-          "score": "4-2",
-          "home": true
-        }
-      ],
-      "wins": 3,
-      "losses": 2,
-      "streak": 2
-    },
-    "home_recent_form": {
-      "games": [
-        {
-          "date": "2026-09-20",
-          "result": "L",
-          "score": "4-8",
-          "home": false
-        },
-        {
-          "date": "2026-09-22",
-          "result": "W",
-          "score": "2-0",
-          "home": true
-        },
-        {
-          "date": "2026-09-22",
-          "result": "L",
-          "score": "1-6",
-          "home": true
-        },
-        {
-          "date": "2026-09-23",
-          "result": "W",
-          "score": "9-2",
-          "home": true
-        },
-        {
-          "date": "2026-09-24",
-          "result": "W",
-          "score": "6-4",
-          "home": true
-        }
-      ],
-      "wins": 3,
-      "losses": 2,
-      "streak": 2
-    },
-    "away_pitcher": "Brandon Young",
-    "away_pitcher_id": 687064,
-    "away_pitcher_stats": {
-      "wins": 9,
-      "losses": 5,
-      "era": "3.62"
-    },
-    "away_pitcher_gamelog": [
-      {
-        "date": "2026-07-31",
-        "opp": "vs PHI",
-        "decision": null,
-        "ip": "5.2",
-        "er": 4,
-        "h": 5,
-        "bb": 2,
-        "so": 5,
-        "era": 6.35
-      },
-      {
-        "date": "2026-08-06",
-        "opp": "vs LAA",
-        "decision": "L",
-        "ip": "4.1",
-        "er": 3,
-        "h": 6,
-        "bb": 2,
-        "so": 4,
-        "era": 6.23
-      },
-      {
-        "date": "2026-08-11",
-        "opp": "@ MIN",
-        "decision": "W",
-        "ip": "6.0",
-        "er": 1,
-        "h": 6,
-        "bb": 3,
-        "so": 4,
-        "era": 1.5
-      },
-      {
-        "date": "2026-08-17",
-        "opp": "@ TB",
-        "decision": null,
-        "ip": "4.0",
-        "er": 4,
-        "h": 8,
-        "bb": 1,
-        "so": 3,
-        "era": 9.0
-      },
-      {
-        "date": "2026-08-22",
-        "opp": "vs TB",
-        "decision": null,
-        "ip": "5.2",
-        "er": 2,
-        "h": 6,
-        "bb": 3,
-        "so": 3,
-        "era": 3.18
-      },
-      {
-        "date": "2026-08-28",
-        "opp": "@ OAK",
-        "decision": null,
-        "ip": "7.0",
-        "er": 1,
-        "h": 5,
-        "bb": 1,
-        "so": 4,
-        "era": 1.29
-      },
-      {
-        "date": "2026-09-03",
-        "opp": "vs BOS",
-        "decision": null,
-        "ip": "6.2",
-        "er": 3,
-        "h": 4,
-        "bb": 2,
-        "so": 7,
-        "era": 4.05
-      },
-      {
-        "date": "2026-09-08",
-        "opp": "vs CLE",
-        "decision": "L",
-        "ip": "3.2",
-        "er": 6,
-        "h": 8,
-        "bb": 2,
-        "so": 2,
-        "era": 14.73
-      },
-      {
-        "date": "2026-09-14",
-        "opp": "@ NYM",
-        "decision": null,
-        "ip": "5.0",
-        "er": 1,
-        "h": 5,
-        "bb": 5,
-        "so": 6,
-        "era": 1.8
-      },
-      {
-        "date": "2026-09-20",
-        "opp": "vs MIL",
-        "decision": "L",
-        "ip": "6.0",
-        "er": 2,
-        "h": 3,
-        "bb": 3,
-        "so": 9,
-        "era": 3.0
-      }
-    ],
-    "home_pitcher": "Will Warren (TBD)",
-    "home_pitcher_id": 701542,
-    "home_pitcher_stats": {
-      "wins": 10,
-      "losses": 6,
-      "era": "4.02"
-    },
-    "home_pitcher_gamelog": [
-      {
-        "date": "2026-07-31",
-        "opp": "@ CHC",
-        "decision": "W",
-        "ip": "6.2",
-        "er": 0,
-        "h": 4,
-        "bb": 0,
-        "so": 7,
-        "era": 0.0
-      },
-      {
-        "date": "2026-08-05",
-        "opp": "vs STL",
-        "decision": "L",
-        "ip": "5.1",
-        "er": 3,
-        "h": 7,
-        "bb": 1,
-        "so": 5,
-        "era": 5.06
-      },
-      {
-        "date": "2026-08-12",
-        "opp": "vs SEA",
-        "decision": null,
-        "ip": "4.0",
-        "er": 5,
-        "h": 6,
-        "bb": 4,
-        "so": 3,
-        "era": 11.25
-      },
-      {
-        "date": "2026-08-19",
-        "opp": "@ BAL",
-        "decision": null,
-        "ip": "4.0",
-        "er": 2,
-        "h": 3,
-        "bb": 2,
-        "so": 5,
-        "era": 4.5
-      },
-      {
-        "date": "2026-08-25",
-        "opp": "vs HOU",
-        "decision": null,
-        "ip": "5.0",
-        "er": 2,
-        "h": 7,
-        "bb": 2,
-        "so": 4,
-        "era": 3.6
-      },
-      {
-        "date": "2026-08-30",
-        "opp": "vs BOS",
-        "decision": "W",
-        "ip": "7.0",
-        "er": 1,
-        "h": 6,
-        "bb": 1,
-        "so": 7,
-        "era": 1.29
-      },
-      {
-        "date": "2026-09-04",
-        "opp": "@ SD",
-        "decision": null,
-        "ip": "2.1",
-        "er": 0,
-        "h": 0,
-        "bb": 1,
-        "so": 0,
-        "era": 0.0
-      },
-      {
-        "date": "2026-09-09",
-        "opp": "vs COL",
-        "decision": "W",
-        "ip": "6.0",
-        "er": 1,
-        "h": 4,
-        "bb": 2,
-        "so": 8,
-        "era": 1.5
-      },
-      {
-        "date": "2026-09-14",
-        "opp": "@ MIN",
-        "decision": null,
-        "ip": "5.2",
-        "er": 0,
-        "h": 5,
-        "bb": 2,
-        "so": 6,
-        "era": 0.0
-      },
-      {
-        "date": "2026-09-20",
-        "opp": "@ OAK",
-        "decision": null,
-        "ip": "4.1",
-        "er": 4,
-        "h": 6,
-        "bb": 3,
-        "so": 4,
-        "era": 8.31
-      }
-    ],
-    "pred_model": "scorecard",
-    "win_prob": {
-      "away": 49.6,
-      "home": 50.4
-    },
-    "expected_score": {
-      "away": 1.9,
-      "home": 2.3
-    },
-    "blend_detail": null,
-    "ml_mc_agree": null,
-    "ml_mc_conflict_level": null,
-    "scorecard": {
-      "bat_source": "team_stats",
-      "away_handedness": "R",
-      "home_handedness": "R",
-      "bullpen_game": false,
-      "any_cold_sp": true,
-      "eff_weights": {
-        "sp": 0.38,
-        "bp": 0.25,
-        "bat": 0.3,
-        "sit": 0.15
-      },
-      "away": {
-        "sp_score": 39.9,
-        "sp_detail": {
-          "era": 4.5,
-          "whip": 1.48,
-          "k9": 7.8,
-          "avg_ip": 5.4,
-          "qs_rate": 40.0,
-          "last3_era": 4.13,
-          "last_start_era": 3.0,
-          "last2_eras": [
-            1.8,
-            3.0
-          ],
-          "recent_avg_era": 3.0,
-          "recent_bad_start": false,
-          "trend": "cold",
-          "n_games": 10,
-          "sample_confidence": 1.0,
-          "rest_days": 5,
-          "rest_note": null,
-          "age": 28,
-          "fb_velo": 94.4,
-          "pitch_arsenal": [
-            "FB",
-            "FS",
-            "SL",
-            "SI",
-            "CB"
-          ],
-          "secondary_pitches": [
-            "FS",
-            "SL",
-            "CB"
-          ],
-          "pitches_detail": [
-            {
-              "code": "FF",
-              "abbr": "FB",
-              "pct": 40.5,
-              "velo": 94.4
-            },
-            {
-              "code": "FS",
-              "abbr": "FS",
-              "pct": 18.7,
-              "velo": 84.4
-            },
-            {
-              "code": "SL",
-              "abbr": "SL",
-              "pct": 15.4,
-              "velo": 84.5
-            },
-            {
-              "code": "SI",
-              "abbr": "SI",
-              "pct": 13.7,
-              "velo": 93.8
-            },
-            {
-              "code": "CU",
-              "abbr": "CB",
-              "pct": 11.7,
-              "velo": 75.2
-            }
-          ]
-        },
-        "bp_score": 61.3,
-        "bp_detail": {
-          "bullpen_era": 3.67,
-          "recent_era": 2.65,
-          "recent_appearances": 18,
-          "recent_ip": 17.0,
-          "team_era": 3.9,
-          "bp_ip": 436.0,
-          "bp_count": 10,
-          "closer_era": 3.54,
-          "closer_name": "Andrew Kittredge"
-        },
-        "bat_score": 28.200000000000003,
-        "bat_detail": {
-          "recent_avg": 0.225,
-          "runs_per_g": 4.4,
-          "hr_per_g": 1.6,
-          "bb_per_g": 2.9,
-          "season_ops": 0.72,
-          "season_avg": 0.25,
-          "season_slg": 0.4,
-          "n_games": 10,
-          "last5_rpg": 4.0,
-          "last5_avg": 0.229,
-          "bat_trend": "stable",
-          "home_split": {
-            "recent_avg": 0.206,
-            "runs_per_g": 3.8,
-            "hr_per_g": 1.0,
-            "bb_per_g": 2.9,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 2.4,
-            "last5_avg": 0.159,
-            "bat_trend": "cold"
-          },
-          "away_split": {
-            "recent_avg": 0.225,
-            "runs_per_g": 4.4,
-            "hr_per_g": 1.6,
-            "bb_per_g": 2.9,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 4.0,
-            "last5_avg": 0.229,
-            "bat_trend": "stable"
-          }
-        },
-        "sit_score": 50.9,
-        "total": 44.3
-      },
-      "home": {
-        "sp_score": 45.0,
-        "sp_detail": {
-          "era": 3.22,
-          "whip": 1.31,
-          "k9": 8.8,
-          "avg_ip": 5.0,
-          "qs_rate": 30.0,
-          "last3_era": 2.13,
-          "last_start_era": 8.31,
-          "last2_eras": [
-            0.0,
-            8.31
-          ],
-          "recent_avg_era": 8.31,
-          "recent_bad_start": true,
-          "trend": "hot",
-          "n_games": 10,
-          "sample_confidence": 1.0,
-          "rest_days": 5,
-          "rest_note": null
-        },
-        "bp_score": 61.9,
-        "bp_detail": {
-          "bullpen_era": 2.88,
-          "recent_era": 5.17,
-          "recent_appearances": 19,
-          "recent_ip": 15.7,
-          "team_era": 2.93,
-          "bp_ip": 422.3,
-          "bp_count": 7,
-          "closer_era": 2.5,
-          "closer_name": "David Bednar"
-        },
-        "bat_score": 32.4,
-        "bat_detail": {
-          "recent_avg": 0.243,
-          "runs_per_g": 4.9,
-          "hr_per_g": 1.8,
-          "bb_per_g": 2.9,
-          "season_ops": 0.72,
-          "season_avg": 0.25,
-          "season_slg": 0.4,
-          "n_games": 10,
-          "last5_rpg": 4.0,
-          "last5_avg": 0.199,
-          "bat_trend": "cold",
-          "home_split": {
-            "recent_avg": 0.243,
-            "runs_per_g": 4.9,
-            "hr_per_g": 1.8,
-            "bb_per_g": 2.9,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 4.0,
-            "last5_avg": 0.199,
-            "bat_trend": "cold"
-          },
-          "away_split": {
-            "recent_avg": 0.24,
-            "runs_per_g": 5.2,
-            "hr_per_g": 1.3,
-            "bb_per_g": 3.6,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 5.6,
-            "last5_avg": 0.239,
-            "bat_trend": "stable"
-          }
-        },
-        "sit_score": 60.6,
-        "total": 51.4
-      }
-    },
-    "scores": {
-      "away_offense": 28.200000000000003,
-      "away_defense": 50.6,
-      "home_offense": 32.4,
-      "home_defense": 53.5
-    },
-    "actual_score": {
-      "away": null,
-      "home": null
-    },
-    "lineup_confirmed": false,
-    "sp_tbd": {
-      "away": false,
-      "home": true,
-      "both": false,
-      "any": true
-    },
-    "actual_winner": null,
-    "model_winner": "New York Yankees",
-    "model_correct": null,
-    "notes": "Baltimore Orioles IL: Blaze Alexander, Colin Selby, Jackson Holliday, Jordan Westburg, Keegan Akin 외 다수 / New York Yankees IL: Aaron Judge, Clarke Schmidt, Fernando Cruz, Giancarlo Stanton, Kervin Castro 외 다수",
-    "kalshi_prob": null,
-    "edge": null,
-    "value_bet": "⏭️ 패스 (라인업 미확정)",
-    "extreme_edge": false,
-    "consensus": false,
-    "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
-    "low_confidence": true,
-    "low_confidence_reason": "최고 확률 50.4% (≤62.0%)",
-    "opener_game": {
-      "away": false,
-      "home": false
-    },
-    "model_version": "v17"
-  },
-  {
-    "date": "2026-09-25",
-    "status": "Preview",
-    "game_time": "1:10 PM PT",
-    "game_number": 2,
-    "doubleheader": true,
-    "game_pk": 823489,
     "away": "Baltimore Orioles",
     "home": "New York Yankees",
     "away_standing": {
@@ -2311,52 +1715,129 @@ window.PREDICTIONS_DATA = [
         "era": 1.12
       }
     ],
-    "home_pitcher": "Brendan Beck",
-    "home_pitcher_id": 694341,
+    "home_pitcher": "Will Warren (TBD)",
+    "home_pitcher_id": 701542,
     "home_pitcher_stats": {
-      "wins": 0,
-      "losses": 1,
-      "era": "8.22"
+      "wins": 10,
+      "losses": 6,
+      "era": "4.02"
     },
     "home_pitcher_gamelog": [
       {
-        "date": "2026-05-07",
-        "opp": "vs TEX",
-        "decision": null,
-        "ip": "3.0",
-        "er": 2,
-        "h": 2,
-        "bb": 3,
-        "so": 1,
-        "era": 6.0
+        "date": "2026-07-31",
+        "opp": "@ CHC",
+        "decision": "W",
+        "ip": "6.2",
+        "er": 0,
+        "h": 4,
+        "bb": 0,
+        "so": 7,
+        "era": 0.0
       },
       {
-        "date": "2026-07-04",
-        "opp": "vs MIN",
+        "date": "2026-08-05",
+        "opp": "vs STL",
         "decision": "L",
-        "ip": "3.2",
-        "er": 5,
-        "h": 5,
-        "bb": 2,
-        "so": 3,
-        "era": 12.27
+        "ip": "5.1",
+        "er": 3,
+        "h": 7,
+        "bb": 1,
+        "so": 5,
+        "era": 5.06
       },
       {
-        "date": "2026-08-29",
-        "opp": "vs BOS",
+        "date": "2026-08-12",
+        "opp": "vs SEA",
         "decision": null,
-        "ip": "1.0",
+        "ip": "4.0",
+        "er": 5,
+        "h": 6,
+        "bb": 4,
+        "so": 3,
+        "era": 11.25
+      },
+      {
+        "date": "2026-08-19",
+        "opp": "@ BAL",
+        "decision": null,
+        "ip": "4.0",
+        "er": 2,
+        "h": 3,
+        "bb": 2,
+        "so": 5,
+        "era": 4.5
+      },
+      {
+        "date": "2026-08-25",
+        "opp": "vs HOU",
+        "decision": null,
+        "ip": "5.0",
+        "er": 2,
+        "h": 7,
+        "bb": 2,
+        "so": 4,
+        "era": 3.6
+      },
+      {
+        "date": "2026-08-30",
+        "opp": "vs BOS",
+        "decision": "W",
+        "ip": "7.0",
+        "er": 1,
+        "h": 6,
+        "bb": 1,
+        "so": 7,
+        "era": 1.29
+      },
+      {
+        "date": "2026-09-04",
+        "opp": "@ SD",
+        "decision": null,
+        "ip": "2.1",
         "er": 0,
         "h": 0,
-        "bb": 0,
-        "so": 1,
+        "bb": 1,
+        "so": 0,
         "era": 0.0
+      },
+      {
+        "date": "2026-09-09",
+        "opp": "vs COL",
+        "decision": "W",
+        "ip": "6.0",
+        "er": 1,
+        "h": 4,
+        "bb": 2,
+        "so": 8,
+        "era": 1.5
+      },
+      {
+        "date": "2026-09-14",
+        "opp": "@ MIN",
+        "decision": null,
+        "ip": "5.2",
+        "er": 0,
+        "h": 5,
+        "bb": 2,
+        "so": 6,
+        "era": 0.0
+      },
+      {
+        "date": "2026-09-20",
+        "opp": "@ OAK",
+        "decision": null,
+        "ip": "4.1",
+        "er": 4,
+        "h": 6,
+        "bb": 3,
+        "so": 4,
+        "era": 8.31
       }
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 60.7,
-      "home": 39.3
+      "away": 54.4,
+      "home": 45.6
     },
     "expected_score": {
       "away": 1.9,
@@ -2370,11 +1851,11 @@ window.PREDICTIONS_DATA = [
       "away_handedness": "L",
       "home_handedness": "R",
       "bullpen_game": false,
-      "any_cold_sp": true,
+      "any_cold_sp": false,
       "eff_weights": {
         "sp": 0.38,
-        "bp": 0.25,
-        "bat": 0.3,
+        "bp": 0.22,
+        "bat": 0.25,
         "sit": 0.15
       },
       "away": {
@@ -2497,7 +1978,526 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 50.9,
-        "total": 56.9
+        "total": 53.6
+      },
+      "home": {
+        "sp_score": 45.0,
+        "sp_detail": {
+          "era": 3.22,
+          "whip": 1.31,
+          "k9": 8.8,
+          "avg_ip": 5.0,
+          "qs_rate": 30.0,
+          "last3_era": 2.13,
+          "last_start_era": 8.31,
+          "last2_eras": [
+            0.0,
+            8.31
+          ],
+          "recent_avg_era": 8.31,
+          "recent_bad_start": true,
+          "trend": "hot",
+          "n_games": 10,
+          "sample_confidence": 1.0,
+          "rest_days": 5,
+          "rest_note": null
+        },
+        "bp_score": 61.9,
+        "bp_detail": {
+          "bullpen_era": 2.88,
+          "recent_era": 5.17,
+          "recent_appearances": 19,
+          "recent_ip": 15.7,
+          "team_era": 2.93,
+          "bp_ip": 422.3,
+          "bp_count": 7,
+          "closer_era": 2.5,
+          "closer_name": "David Bednar"
+        },
+        "bat_score": 32.4,
+        "bat_detail": {
+          "recent_avg": 0.243,
+          "runs_per_g": 4.9,
+          "hr_per_g": 1.8,
+          "bb_per_g": 2.9,
+          "season_ops": 0.72,
+          "season_avg": 0.25,
+          "season_slg": 0.4,
+          "n_games": 10,
+          "last5_rpg": 4.0,
+          "last5_avg": 0.199,
+          "bat_trend": "cold",
+          "home_split": {
+            "recent_avg": 0.243,
+            "runs_per_g": 4.9,
+            "hr_per_g": 1.8,
+            "bb_per_g": 2.9,
+            "season_ops": 0.72,
+            "season_avg": 0.25,
+            "season_slg": 0.4,
+            "n_games": 10,
+            "last5_rpg": 4.0,
+            "last5_avg": 0.199,
+            "bat_trend": "cold"
+          },
+          "away_split": {
+            "recent_avg": 0.24,
+            "runs_per_g": 5.2,
+            "hr_per_g": 1.3,
+            "bb_per_g": 3.6,
+            "season_ops": 0.72,
+            "season_avg": 0.25,
+            "season_slg": 0.4,
+            "n_games": 10,
+            "last5_rpg": 5.6,
+            "last5_avg": 0.239,
+            "bat_trend": "stable"
+          }
+        },
+        "sit_score": 60.6,
+        "total": 47.9
+      }
+    },
+    "scores": {
+      "away_offense": 28.200000000000003,
+      "away_defense": 64.2,
+      "home_offense": 32.4,
+      "home_defense": 53.5
+    },
+    "actual_score": {
+      "away": null,
+      "home": null
+    },
+    "lineup_confirmed": false,
+    "sp_tbd": {
+      "away": false,
+      "home": true,
+      "both": false,
+      "any": true
+    },
+    "actual_winner": null,
+    "model_winner": "Baltimore Orioles",
+    "model_correct": null,
+    "notes": "Baltimore Orioles IL: Blaze Alexander, Colin Selby, Jackson Holliday, Jordan Westburg, Keegan Akin 외 다수 / New York Yankees IL: Aaron Judge, Clarke Schmidt, Fernando Cruz, Giancarlo Stanton, Kervin Castro 외 다수",
+    "kalshi_prob": null,
+    "edge": null,
+    "value_bet": "⏭️ 패스 (라인업 미확정)",
+    "extreme_edge": false,
+    "consensus": false,
+    "sp_bat_conflict": false,
+    "sp_bat_conflict_detail": null,
+    "low_confidence": true,
+    "low_confidence_reason": "최고 확률 54.4% (≤62.0%)",
+    "opener_game": {
+      "away": false,
+      "home": false
+    },
+    "model_version": "v17"
+  },
+  {
+    "date": "2026-09-25",
+    "status": "Preview",
+    "game_time": "1:10 PM PT",
+    "game_number": 2,
+    "doubleheader": true,
+    "game_pk": 823489,
+    "away": "Baltimore Orioles",
+    "home": "New York Yankees",
+    "away_standing": {
+      "div_rank": 4,
+      "div_name": "AL East",
+      "wins": 78,
+      "losses": 81,
+      "games_back": "18.0"
+    },
+    "home_standing": {
+      "div_rank": 2,
+      "div_name": "AL East",
+      "wins": 92,
+      "losses": 67,
+      "games_back": "4.0"
+    },
+    "away_recent_form": {
+      "games": [
+        {
+          "date": "2026-09-20",
+          "result": "L",
+          "score": "0-3",
+          "home": true
+        },
+        {
+          "date": "2026-09-21",
+          "result": "W",
+          "score": "4-3",
+          "home": true
+        },
+        {
+          "date": "2026-09-22",
+          "result": "L",
+          "score": "0-0",
+          "home": true
+        },
+        {
+          "date": "2026-09-23",
+          "result": "W",
+          "score": "4-2",
+          "home": true
+        },
+        {
+          "date": "2026-09-23",
+          "result": "W",
+          "score": "4-2",
+          "home": true
+        }
+      ],
+      "wins": 3,
+      "losses": 2,
+      "streak": 2
+    },
+    "home_recent_form": {
+      "games": [
+        {
+          "date": "2026-09-20",
+          "result": "L",
+          "score": "4-8",
+          "home": false
+        },
+        {
+          "date": "2026-09-22",
+          "result": "W",
+          "score": "2-0",
+          "home": true
+        },
+        {
+          "date": "2026-09-22",
+          "result": "L",
+          "score": "1-6",
+          "home": true
+        },
+        {
+          "date": "2026-09-23",
+          "result": "W",
+          "score": "9-2",
+          "home": true
+        },
+        {
+          "date": "2026-09-24",
+          "result": "W",
+          "score": "6-4",
+          "home": true
+        }
+      ],
+      "wins": 3,
+      "losses": 2,
+      "streak": 2
+    },
+    "away_pitcher": "Brandon Young",
+    "away_pitcher_id": 687064,
+    "away_pitcher_stats": {
+      "wins": 9,
+      "losses": 5,
+      "era": "3.62"
+    },
+    "away_pitcher_gamelog": [
+      {
+        "date": "2026-07-31",
+        "opp": "vs PHI",
+        "decision": null,
+        "ip": "5.2",
+        "er": 4,
+        "h": 5,
+        "bb": 2,
+        "so": 5,
+        "era": 6.35
+      },
+      {
+        "date": "2026-08-06",
+        "opp": "vs LAA",
+        "decision": "L",
+        "ip": "4.1",
+        "er": 3,
+        "h": 6,
+        "bb": 2,
+        "so": 4,
+        "era": 6.23
+      },
+      {
+        "date": "2026-08-11",
+        "opp": "@ MIN",
+        "decision": "W",
+        "ip": "6.0",
+        "er": 1,
+        "h": 6,
+        "bb": 3,
+        "so": 4,
+        "era": 1.5
+      },
+      {
+        "date": "2026-08-17",
+        "opp": "@ TB",
+        "decision": null,
+        "ip": "4.0",
+        "er": 4,
+        "h": 8,
+        "bb": 1,
+        "so": 3,
+        "era": 9.0
+      },
+      {
+        "date": "2026-08-22",
+        "opp": "vs TB",
+        "decision": null,
+        "ip": "5.2",
+        "er": 2,
+        "h": 6,
+        "bb": 3,
+        "so": 3,
+        "era": 3.18
+      },
+      {
+        "date": "2026-08-28",
+        "opp": "@ OAK",
+        "decision": null,
+        "ip": "7.0",
+        "er": 1,
+        "h": 5,
+        "bb": 1,
+        "so": 4,
+        "era": 1.29
+      },
+      {
+        "date": "2026-09-03",
+        "opp": "vs BOS",
+        "decision": null,
+        "ip": "6.2",
+        "er": 3,
+        "h": 4,
+        "bb": 2,
+        "so": 7,
+        "era": 4.05
+      },
+      {
+        "date": "2026-09-08",
+        "opp": "vs CLE",
+        "decision": "L",
+        "ip": "3.2",
+        "er": 6,
+        "h": 8,
+        "bb": 2,
+        "so": 2,
+        "era": 14.73
+      },
+      {
+        "date": "2026-09-14",
+        "opp": "@ NYM",
+        "decision": null,
+        "ip": "5.0",
+        "er": 1,
+        "h": 5,
+        "bb": 5,
+        "so": 6,
+        "era": 1.8
+      },
+      {
+        "date": "2026-09-20",
+        "opp": "vs MIL",
+        "decision": "L",
+        "ip": "6.0",
+        "er": 2,
+        "h": 3,
+        "bb": 3,
+        "so": 9,
+        "era": 3.0
+      }
+    ],
+    "home_pitcher": "Brendan Beck",
+    "home_pitcher_id": 694341,
+    "home_pitcher_stats": {
+      "wins": 0,
+      "losses": 1,
+      "era": "8.22"
+    },
+    "home_pitcher_gamelog": [
+      {
+        "date": "2026-05-07",
+        "opp": "vs TEX",
+        "decision": null,
+        "ip": "3.0",
+        "er": 2,
+        "h": 2,
+        "bb": 3,
+        "so": 1,
+        "era": 6.0
+      },
+      {
+        "date": "2026-07-04",
+        "opp": "vs MIN",
+        "decision": "L",
+        "ip": "3.2",
+        "er": 5,
+        "h": 5,
+        "bb": 2,
+        "so": 3,
+        "era": 12.27
+      },
+      {
+        "date": "2026-08-29",
+        "opp": "vs BOS",
+        "decision": null,
+        "ip": "1.0",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 1,
+        "era": 0.0
+      }
+    ],
+    "pred_model": "scorecard",
+    "win_prob": {
+      "away": 50.0,
+      "home": 50.0
+    },
+    "expected_score": {
+      "away": 1.9,
+      "home": 2.3
+    },
+    "blend_detail": null,
+    "ml_mc_agree": null,
+    "ml_mc_conflict_level": null,
+    "scorecard": {
+      "bat_source": "team_stats",
+      "away_handedness": "R",
+      "home_handedness": "R",
+      "bullpen_game": true,
+      "any_cold_sp": true,
+      "eff_weights": {
+        "sp": 0.38,
+        "bp": 0.3,
+        "bat": 0.25,
+        "sit": 0.15
+      },
+      "away": {
+        "sp_score": 39.9,
+        "sp_detail": {
+          "era": 4.5,
+          "whip": 1.48,
+          "k9": 7.8,
+          "avg_ip": 5.4,
+          "qs_rate": 40.0,
+          "last3_era": 4.13,
+          "last_start_era": 3.0,
+          "last2_eras": [
+            1.8,
+            3.0
+          ],
+          "recent_avg_era": 3.0,
+          "recent_bad_start": false,
+          "trend": "cold",
+          "n_games": 10,
+          "sample_confidence": 1.0,
+          "rest_days": 5,
+          "rest_note": null,
+          "age": 28,
+          "fb_velo": 94.4,
+          "pitch_arsenal": [
+            "FB",
+            "FS",
+            "SL",
+            "SI",
+            "CB"
+          ],
+          "secondary_pitches": [
+            "FS",
+            "SL",
+            "CB"
+          ],
+          "pitches_detail": [
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 40.5,
+              "velo": 94.4
+            },
+            {
+              "code": "FS",
+              "abbr": "FS",
+              "pct": 18.7,
+              "velo": 84.4
+            },
+            {
+              "code": "SL",
+              "abbr": "SL",
+              "pct": 15.4,
+              "velo": 84.5
+            },
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 13.7,
+              "velo": 93.8
+            },
+            {
+              "code": "CU",
+              "abbr": "CB",
+              "pct": 11.7,
+              "velo": 75.2
+            }
+          ]
+        },
+        "bp_score": 61.3,
+        "bp_detail": {
+          "bullpen_era": 3.67,
+          "recent_era": 2.65,
+          "recent_appearances": 18,
+          "recent_ip": 17.0,
+          "team_era": 3.9,
+          "bp_ip": 436.0,
+          "bp_count": 10,
+          "closer_era": 3.54,
+          "closer_name": "Andrew Kittredge"
+        },
+        "bat_score": 28.200000000000003,
+        "bat_detail": {
+          "recent_avg": 0.225,
+          "runs_per_g": 4.4,
+          "hr_per_g": 1.6,
+          "bb_per_g": 2.9,
+          "season_ops": 0.72,
+          "season_avg": 0.25,
+          "season_slg": 0.4,
+          "n_games": 10,
+          "last5_rpg": 4.0,
+          "last5_avg": 0.229,
+          "bat_trend": "stable",
+          "home_split": {
+            "recent_avg": 0.206,
+            "runs_per_g": 3.8,
+            "hr_per_g": 1.0,
+            "bb_per_g": 2.9,
+            "season_ops": 0.72,
+            "season_avg": 0.25,
+            "season_slg": 0.4,
+            "n_games": 10,
+            "last5_rpg": 2.4,
+            "last5_avg": 0.159,
+            "bat_trend": "cold"
+          },
+          "away_split": {
+            "recent_avg": 0.225,
+            "runs_per_g": 4.4,
+            "hr_per_g": 1.6,
+            "bb_per_g": 2.9,
+            "season_ops": 0.72,
+            "season_avg": 0.25,
+            "season_slg": 0.4,
+            "n_games": 10,
+            "last5_rpg": 4.0,
+            "last5_avg": 0.229,
+            "bat_trend": "stable"
+          }
+        },
+        "sit_score": 50.9,
+        "total": 45.5
       },
       "home": {
         "sp_score": 31.8,
@@ -2620,12 +2620,12 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.6,
-        "total": 41.7
+        "total": 42.3
       }
     },
     "scores": {
       "away_offense": 28.200000000000003,
-      "away_defense": 64.2,
+      "away_defense": 50.6,
       "home_offense": 32.4,
       "home_defense": 51.4
     },
@@ -2641,7 +2641,7 @@ window.PREDICTIONS_DATA = [
       "any": false
     },
     "actual_winner": null,
-    "model_winner": "Baltimore Orioles",
+    "model_winner": "New York Yankees",
     "model_correct": null,
     "notes": "Baltimore Orioles IL: Blaze Alexander, Colin Selby, Jackson Holliday, Jordan Westburg, Keegan Akin 외 다수 / New York Yankees IL: Aaron Judge, Clarke Schmidt, Fernando Cruz, Giancarlo Stanton, Kervin Castro 외 다수",
     "kalshi_prob": null,
@@ -2652,7 +2652,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 60.7% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 50.0% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -5814,7 +5814,7 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Otto Lopez(0.704)",
-            "Heriberto Hernández(0.677)",
+            "Heriberto Hernandez(0.677)",
             "Jakob Marsee(0.879)",
             "Javier Sanoja(0.861)",
             "Agustín Ramírez(0.803)",
@@ -5832,7 +5832,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 681715,
-              "name": "Heriberto Hernández",
+              "name": "Heriberto Hernandez",
               "ops": 0.677,
               "avg": 0.25
             },
@@ -5920,9 +5920,9 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Atlanta Braves",
     "model_correct": null,
     "notes": "Atlanta Braves IL: Bryce Elder, Hurston Waldrep, Joe Jiménez, Joey Wentz, Lane Thomas 외 다수 / Miami Marlins IL: Adam Mazur, Andrew Nardi, Anthony Bender, Max Meyer, Owen Caissie 외 다수",
-    "kalshi_prob": 47.0,
-    "edge": -7.7,
-    "value_bet": "➖ 시장과 유사",
+    "kalshi_prob": 48.0,
+    "edge": -8.7,
+    "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Miami Marlins)",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,

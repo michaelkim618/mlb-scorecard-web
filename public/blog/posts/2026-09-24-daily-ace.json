@@ -1,33 +1,109 @@
 {
-  "title": "Sep 24 Results + Sep 25 Preview: Seven Wins When the Rotation Clicked",
-  "summary": "58.3% accuracy on Sep 24 with 7 wins. Tomorrow we're riding the Red Sox pitching edge.",
+  "title": "Sep 24 Results + Sep 25 Preview: Seven Wins, Five Losses—That's How You Build Momentum",
+  "summary": "58.3% hit rate on Sep 24—model stayed sharp, now eyeing Red Sox at Fenway.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Sep 24 Recap: When You Trust Your Stuff\n\nSeven wins out of twelve picks—that's the kind of day where you pound the zone and let your defense work. From the mound, I always knew the difference between nibbling and attacking. Yesterday, our model attacked and came away with a 58.3% win rate. Not perfect, but in September baseball when every game matters, I'll take that success rate all day."
+      "value": "## Sep 24 Review: Solid Day on the Mound\n\nSeven wins out of twelve games. From a pitcher's perspective, that's like getting through seven innings with your fastball command intact—you'll take it every time. The model went 7-5 with a 58.3% accuracy rate, and honestly, those are the kind of numbers that keep you in the rotation."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Sep 24 W-L",
+          "label": "Today W-L",
           "value": "7-5"
         },
         {
-          "label": "Win Rate",
+          "label": "Accuracy",
           "value": "58.3%"
         },
         {
-          "label": "Best Pick",
-          "value": "D-backs 61%"
+          "label": "Top Confidence",
+          "value": "61%"
         }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## What Worked, What Didn't\n\nThe Diamondbacks over the Rockies at Coors? That 61% confidence paid off—you live with those odds in that ballpark. Same with the Cubs handling the Marlins. The Yankees taking care of the Rays was another clean W.\n\nThe misses? The Phillies stumbled against the Brewers, and the Braves couldn't close out the Reds despite 61% confidence. That one stings like hanging a slider in a 2-2 count. The White Sox also didn't show up against the Guardians. But that's baseball—even your best pitch gets hit sometimes."
+    },
+    {
+      "type": "table",
+      "title": "Full Sep 24 Results",
+      "headers": [
+        "Game",
+        "Pick",
+        "Prob",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Cardinals @ Pirates",
+          "Pirates",
+          "56%",
+          "✓"
+        ],
+        [
+          "Sox @ Royals",
+          "Sox",
+          "52%",
+          "✓"
+        ],
+        [
+          "Marlins @ Cubs",
+          "Cubs",
+          "60%",
+          "✓"
+        ],
+        [
+          "Mets @ Rangers",
+          "Rangers",
+          "50%",
+          "✓"
+        ],
+        [
+          "Diamondbacks @ Rockies",
+          "Diamondbacks",
+          "61%",
+          "✓"
+        ],
+        [
+          "Brewers @ Phillies",
+          "Phillies",
+          "57%",
+          "✗"
+        ],
+        [
+          "Guardians @ Sox",
+          "Sox",
+          "53%",
+          "✗"
+        ],
+        [
+          "Rays @ Yankees",
+          "Yankees",
+          "58%",
+          "✓"
+        ],
+        [
+          "Reds @ Braves",
+          "Braves",
+          "61%",
+          "✗"
+        ],
+        [
+          "Astros @ Athletics",
+          "Astros",
+          "52%",
+          "✓"
+        ]
       ]
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 24 Prediction Performance",
+      "title": "Sep 24 Prediction Confidence vs Results",
       "data": [
         {
           "name": "Pirates",
@@ -90,100 +166,24 @@
         {
           "key": "result",
           "color": "#16A34A",
-          "label": "Hit (1=Yes, 0=No)"
+          "label": "Correct (1=Yes, 0=No)"
         }
       ]
     },
     {
-      "type": "table",
-      "title": "Complete Sep 24 Results Breakdown",
-      "headers": [
-        "Matchup",
-        "Pick",
-        "Confidence",
-        "Result"
-      ],
-      "rows": [
-        [
-          "Cardinals @ Pirates",
-          "Pirates",
-          "56%",
-          "✓ Hit"
-        ],
-        [
-          "Sox @ Royals",
-          "Sox",
-          "52%",
-          "✓ Hit"
-        ],
-        [
-          "Marlins @ Cubs",
-          "Cubs",
-          "60%",
-          "✓ Hit"
-        ],
-        [
-          "Mets @ Rangers",
-          "Rangers",
-          "50%",
-          "✓ Hit"
-        ],
-        [
-          "Diamondbacks @ Rockies",
-          "Diamondbacks",
-          "61%",
-          "✓ Hit"
-        ],
-        [
-          "Brewers @ Phillies",
-          "Phillies",
-          "57%",
-          "✗ Miss"
-        ],
-        [
-          "Guardians @ Sox",
-          "Sox",
-          "53%",
-          "✗ Miss"
-        ],
-        [
-          "Rays @ Yankees",
-          "Yankees",
-          "58%",
-          "✓ Hit"
-        ],
-        [
-          "Reds @ Braves",
-          "Braves",
-          "61%",
-          "✗ Miss"
-        ],
-        [
-          "Astros @ Athletics",
-          "Astros",
-          "52%",
-          "✓ Hit"
-        ]
-      ]
-    },
-    {
       "type": "text",
-      "value": "## What Worked, What Didn't\n\nThe Diamondbacks and Braves picks both came in at 61% confidence—one hit, one missed. That's baseball. From a pitcher's perspective, you can execute the same pitch twice and get completely different results. The Coors Field factor worked in our favor with Arizona, but Atlanta couldn't get it done against Cincinnati.\n\nOur lower-confidence picks—Rangers at 50%, Sox at 52%, Astros at 52%—all came through. Sometimes the close ones are where you find value, especially late in the season when bullpens are gassed and matchups get weird."
-    },
-    {
-      "type": "text",
-      "value": "## Tomorrow's Top Pick: Red Sox vs Cubs\n\nLet's talk pitching matchups, because that's where Sep 25 gets interesting. Clay Holmes takes the ball for the Cubs traveling to Fenway, facing Alec Gamboa for Boston. Our model likes the Red Sox at 58% confidence, and from a pitcher's perspective, I can see why.\n\nFenway in late September—the wind patterns change, the ball doesn't carry like summer, and home arms who know that park have a real edge. Gamboa gets to work with that Green Monster in left, and visiting pitchers always need an adjustment period. Holmes is solid, but this is a spot where home field and familiarity matter."
+      "value": "## Sep 25 Preview: Cubs at Red Sox\n\nTomorrow's top pick has us riding with the **Red Sox at Fenway** at 57% confidence. The pitching matchup tells the story here—Clay Holmes gets the ball for Chicago, and Alec Gamboa toes the rubber for Boston.\n\nFrom a pitcher's perspective, this is about command and home field advantage. Fenway's dimensions favor guys who can work the zone, and Gamboa should have the edge with the Green Monster behind him. Holmes has been serviceable, but on the road in a park like this, even your good stuff can get exposed.\n\nThe model likes Boston's bullpen depth and lineup balance here. It's not a dominant pick, but 57% confidence in a tight divisional race? That's the kind of spot where you trust your preparation and attack the zone."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Sep 25 Top Pick",
-      "value": "Boston Red Sox over Chicago Cubs",
-      "sub": "58% confidence · Gamboa vs Holmes · Home park advantage"
+      "title": "⭐ Tomorrow's Top Pick - Sep 25",
+      "value": "Boston Red Sox vs Cubs",
+      "sub": "57% win probability · Gamboa vs Holmes · Fenway advantage"
     },
     {
       "type": "text",
-      "value": "## The Pitcher's Perspective\n\nWhen I was throwing, September games had a different feel. Arms are tired, but the mental game sharpens. The Red Sox are at home, and Gamboa knows every sight line, every background, every way the ball moves in that ballpark. That's worth runs.\n\nThe Cubs are grinding through a road trip late in the season—that's when travel fatigue shows up in launch angles and bat speed. I'm riding with Boston tomorrow. Trust your home starter when he's got the park knowledge and the model backing him at 58%.\n\nLet's build on yesterday's seven wins and keep attacking the zone."
+      "value": "## The Bottom Line\n\nSeven wins yesterday keeps us sharp. Tomorrow, we're backing Boston at home with a starter who should command the zone. That's how you stay in the game—trust the process, attack your spots, and let the results take care of themselves.\n\n**Stay locked in. First pitch tomorrow.**"
     }
   ],
   "slug": "2026-09-24-daily-ace",

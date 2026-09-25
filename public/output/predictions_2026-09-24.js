@@ -1963,7 +1963,7 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Otto Lopez(0.704)",
-            "Heriberto Hernández(0.677)",
+            "Heriberto Hernandez(0.677)",
             "Jakob Marsee(0.879)",
             "Javier Sanoja(0.861)",
             "Agustín Ramírez(0.803)",
@@ -1981,7 +1981,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 681715,
-              "name": "Heriberto Hernández",
+              "name": "Heriberto Hernandez",
               "ops": 0.677,
               "avg": 0.25
             },
@@ -2108,15 +2108,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 61.1,
+        "bp_score": 63.0,
         "bp_detail": {
-          "bullpen_era": 3.74,
+          "bullpen_era": 3.68,
           "recent_era": 2.0,
           "recent_appearances": 13,
           "recent_ip": 13.7,
-          "team_era": 4.16,
-          "bp_ip": 276.7,
-          "bp_count": 5,
+          "team_era": 4.03,
+          "bp_ip": 291.0,
+          "bp_count": 6,
           "closer_era": 3.41,
           "closer_name": "Jacob Webb"
         },
@@ -2217,14 +2217,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 57.8,
-        "total": 47.2
+        "total": 47.6
       }
     },
     "scores": {
       "away_offense": 25.0,
       "away_defense": 42.8,
       "home_offense": 33.8,
-      "home_defense": 55.1
+      "home_defense": 56.0
     },
     "actual_score": {
       "away": 1,
@@ -2240,7 +2240,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "Chicago Cubs",
     "model_winner": "Chicago Cubs",
     "model_correct": true,
-    "notes": "Miami Marlins IL: Adam Mazur, Andrew Nardi, Anthony Bender, Max Meyer, Owen Caissie 외 다수 / Chicago Cubs IL: Ben Brown, Cade Horton, Gavin Hollowell, Hunter Harvey, Justin Steele 외 다수",
+    "notes": "Miami Marlins IL: Adam Mazur, Andrew Nardi, Anthony Bender, Max Meyer, Owen Caissie 외 다수 / Chicago Cubs IL: Ben Brown, Cade Horton, Hunter Harvey, Justin Steele, Phil Maton 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
