@@ -1,37 +1,33 @@
 {
-  "title": "Sep 24 Results + Sep 25 Preview: Seven Wins, Solid Pitching Logic",
-  "summary": "7-5 on Sep 24 with 58.3% accuracy. Tomorrow we're riding Red Sox at Fenway.",
+  "title": "Sep 24 Results + Sep 25 Preview: Seven Wins When the Rotation Clicked",
+  "summary": "58.3% accuracy on Sep 24 with 7 wins. Tomorrow we're riding the Red Sox pitching edge.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Sep 24 Recap: The Arm Knows\n\nSeven wins out of twelve picks. That's the kind of day where you trust your stuff and let the results speak. We leaned into pitching matchups and home field advantages, and more often than not, the model's read on starting rotation depth paid off. A 58.3% hit rate isn't perfect, but it's winning baseball."
+      "value": "## Sep 24 Recap: When You Trust Your Stuff\n\nSeven wins out of twelve picks—that's the kind of day where you pound the zone and let your defense work. From the mound, I always knew the difference between nibbling and attacking. Yesterday, our model attacked and came away with a 58.3% win rate. Not perfect, but in September baseball when every game matters, I'll take that success rate all day."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Today W-L",
+          "label": "Sep 24 W-L",
           "value": "7-5"
         },
         {
-          "label": "Accuracy",
+          "label": "Win Rate",
           "value": "58.3%"
         },
         {
-          "label": "Top Confidence",
-          "value": "61%"
+          "label": "Best Pick",
+          "value": "D-backs 61%"
         }
       ]
     },
     {
-      "type": "text",
-      "value": "## What Worked, What Didn't\n\nThe **Diamondbacks over the Rockies at Coors** was textbook—61% confidence, and Arizona's arms handled that thin air better than expected. Same story with the **Yankees over Tampa** at 58%. When you've got the better rotation and home crowd, you attack.\n\nThe misses? **Brewers-Phillies** was a coin flip that didn't fall our way, and the **White Sox** couldn't capitalize at home against Cleveland despite a 53% edge. **Braves-Reds** at 61% stung the most—Atlanta's bats went cold when we needed them hot. That's baseball. You can't throw a perfect game every night."
-    },
-    {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 24 Prediction Confidence & Results",
+      "title": "Sep 24 Prediction Performance",
       "data": [
         {
           "name": "Pirates",
@@ -39,7 +35,7 @@
           "result": 1
         },
         {
-          "name": "White Sox",
+          "name": "Sox",
           "probability": 52,
           "result": 1
         },
@@ -54,7 +50,7 @@
           "result": 1
         },
         {
-          "name": "Diamondbacks",
+          "name": "D-backs",
           "probability": 61,
           "result": 1
         },
@@ -64,7 +60,7 @@
           "result": 0
         },
         {
-          "name": "White Sox (2)",
+          "name": "Sox",
           "probability": 53,
           "result": 0
         },
@@ -94,7 +90,7 @@
         {
           "key": "result",
           "color": "#16A34A",
-          "label": "Correct (1=Yes, 0=No)"
+          "label": "Hit (1=Yes, 0=No)"
         }
       ]
     },
@@ -115,8 +111,8 @@
           "✓ Hit"
         ],
         [
-          "White Sox @ Royals",
-          "White Sox",
+          "Sox @ Royals",
+          "Sox",
           "52%",
           "✓ Hit"
         ],
@@ -145,8 +141,8 @@
           "✗ Miss"
         ],
         [
-          "Guardians @ White Sox",
-          "White Sox",
+          "Guardians @ Sox",
+          "Sox",
           "53%",
           "✗ Miss"
         ],
@@ -172,18 +168,22 @@
     },
     {
       "type": "text",
-      "value": "## Tomorrow's Top Pick: Red Sox Over Cubs at Fenway\n\nHere's where it gets interesting. **Clay Holmes** takes the hill for Chicago—yes, that Clay Holmes, the former Yankees closer now stretching out as a starter. He's got the stuff, no question, but starter stamina in late September is a different animal.\n\nOn the other side, **Alec Gamboa** gets the ball for Boston at Fenway. Home cooking, crowd energy, and a pitcher who knows how to use that Green Monster to his advantage. The model likes Boston at **58% confidence**, and from a pitcher's perspective, I'm buying it."
+      "value": "## What Worked, What Didn't\n\nThe Diamondbacks and Braves picks both came in at 61% confidence—one hit, one missed. That's baseball. From a pitcher's perspective, you can execute the same pitch twice and get completely different results. The Coors Field factor worked in our favor with Arizona, but Atlanta couldn't get it done against Cincinnati.\n\nOur lower-confidence picks—Rangers at 50%, Sox at 52%, Astros at 52%—all came through. Sometimes the close ones are where you find value, especially late in the season when bullpens are gassed and matchups get weird."
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Top Pick: Red Sox vs Cubs\n\nLet's talk pitching matchups, because that's where Sep 25 gets interesting. Clay Holmes takes the ball for the Cubs traveling to Fenway, facing Alec Gamboa for Boston. Our model likes the Red Sox at 58% confidence, and from a pitcher's perspective, I can see why.\n\nFenway in late September—the wind patterns change, the ball doesn't carry like summer, and home arms who know that park have a real edge. Gamboa gets to work with that Green Monster in left, and visiting pitchers always need an adjustment period. Holmes is solid, but this is a spot where home field and familiarity matter."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - Sep 25",
+      "title": "⭐ Sep 25 Top Pick",
       "value": "Boston Red Sox over Chicago Cubs",
-      "sub": "58% confidence · Holmes vs Gamboa · Fenway Park advantage"
+      "sub": "58% confidence · Gamboa vs Holmes · Home park advantage"
     },
     {
       "type": "text",
-      "value": "## The Pitcher's Take\n\nHolmes transitioning from bullpen ace to rotation arm is a tough ask this late in the year. His secondary pitches haven't had the reps to survive a third time through the order consistently. Gamboa isn't an ace, but he doesn't need to be—he just needs to keep the Cubs off-balance for five or six, then hand it to Boston's pen.\n\nFenway's dimensions favor contact pitchers who can induce weak fly balls to left. If Gamboa locates his fastball low and away, the Cubs' righties will be pounding harmless outs into the wall all night.\n\nTrust the home arm. Trust the park. Let's make it 8-5 tomorrow."
+      "value": "## The Pitcher's Perspective\n\nWhen I was throwing, September games had a different feel. Arms are tired, but the mental game sharpens. The Red Sox are at home, and Gamboa knows every sight line, every background, every way the ball moves in that ballpark. That's worth runs.\n\nThe Cubs are grinding through a road trip late in the season—that's when travel fatigue shows up in launch angles and bat speed. I'm riding with Boston tomorrow. Trust your home starter when he's got the park knowledge and the model backing him at 58%.\n\nLet's build on yesterday's seven wins and keep attacking the zone."
     }
   ],
   "slug": "2026-09-24-daily-ace",
