@@ -4107,8 +4107,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 42.3,
-      "home": 57.7
+      "away": 42.5,
+      "home": 57.5
     },
     "expected_score": {
       "away": 2.2,
@@ -4204,14 +4204,14 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 74.5,
+        "bp_score": 74.8,
         "bp_detail": {
-          "bullpen_era": 3.04,
+          "bullpen_era": 3.01,
           "recent_era": 2.0,
           "recent_appearances": 16,
           "recent_ip": 21.0,
-          "team_era": 3.33,
-          "bp_ip": 397.0,
+          "team_era": 3.32,
+          "bp_ip": 428.0,
           "bp_count": 7,
           "closer_era": 2.67,
           "closer_name": "Trevor Megill"
@@ -4313,7 +4313,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 65.4,
-        "total": 45.1
+        "total": 45.2
       },
       "home": {
         "sp_score": 51.5,
@@ -4513,7 +4513,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 33.8,
-      "away_defense": 59.6,
+      "away_defense": 59.8,
       "home_offense": 25.7,
       "home_defense": 57.4
     },
@@ -4531,7 +4531,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "Milwaukee Brewers",
     "model_winner": "Philadelphia Phillies",
     "model_correct": false,
-    "notes": "Milwaukee Brewers IL: Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Bryse Wilson, Grant Anderson 외 다수 / Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Felix Reyes, Jesús Luzardo 외 다수",
+    "notes": "Milwaukee Brewers IL: Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Grant Anderson, Quinn Priester / Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Felix Reyes, Jesús Luzardo 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
@@ -4545,7 +4545,7 @@ window.PREDICTIONS_DATA = [
       "bat_gap": 8.1
     },
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 57.7% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 57.5% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -5640,12 +5640,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 48.2,
-      "home": 51.8
+      "away": 50.0,
+      "home": 50.0
     },
     "expected_score": {
       "away": 2.1,
-      "home": 2.1
+      "home": 2.2
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -5657,9 +5657,9 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": false,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.33,
+        "sp": 0.31,
         "bp": 0.27,
-        "bat": 0.33,
+        "bat": 0.35,
         "sit": 0.15
       },
       "away": {
@@ -5839,7 +5839,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 58.6,
-        "total": 56.3
+        "total": 55.8
       },
       "home": {
         "sp_score": 72.0,
@@ -5900,48 +5900,48 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 65.2,
+        "bp_score": 61.0,
         "bp_detail": {
-          "bullpen_era": 2.89,
-          "recent_era": 4.42,
+          "bullpen_era": 3.01,
+          "recent_era": 6.97,
           "recent_appearances": 20,
-          "recent_ip": 18.3,
-          "team_era": 2.94,
-          "bp_ip": 452.0,
+          "recent_ip": 20.7,
+          "team_era": 2.98,
+          "bp_ip": 455.0,
           "bp_count": 9,
           "closer_era": 2.5,
           "closer_name": "David Bednar"
         },
-        "bat_score": 33.7,
+        "bat_score": 35.0,
         "bat_detail": {
-          "recent_avg": 0.253,
-          "runs_per_g": 4.6,
+          "recent_avg": 0.259,
+          "runs_per_g": 4.7,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
-          "season_ops": 0.751,
+          "season_ops": 0.757,
           "season_slg": null,
-          "season_avg": 0.253,
+          "season_avg": 0.259,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Paul Goldschmidt(0.764)",
+            "Paul Goldschmidt(0.748)",
             "Cody Bellinger(0.707)",
-            "Heliot Ramos(0.764)",
-            "Ben Rice(0.953)",
-            "Amed Rosario(0.624)",
-            "George Lombard Jr.(0.839)",
-            "Anthony Volpe(0.619)",
+            "Heliot Ramos(0.812)",
+            "Ben Rice(0.939)",
+            "Amed Rosario(0.649)",
+            "George Lombard Jr.(0.825)",
+            "Anthony Volpe(0.644)",
             "Austin Wells(0.833)",
-            "José Caballero(0.657)"
+            "José Caballero(0.655)"
           ],
           "lineup_players": [
             {
               "id": 502671,
               "name": "Paul Goldschmidt",
-              "ops": 0.764,
-              "avg": 0.286
+              "ops": 0.748,
+              "avg": 0.273
             },
             {
               "id": 641355,
@@ -5952,32 +5952,32 @@ window.PREDICTIONS_DATA = [
             {
               "id": 671218,
               "name": "Heliot Ramos",
-              "ops": 0.764,
-              "avg": 0.257
+              "ops": 0.812,
+              "avg": 0.278
             },
             {
               "id": 700250,
               "name": "Ben Rice",
-              "ops": 0.953,
-              "avg": 0.242
+              "ops": 0.939,
+              "avg": 0.235
             },
             {
               "id": 642708,
               "name": "Amed Rosario",
-              "ops": 0.624,
-              "avg": 0.258
+              "ops": 0.649,
+              "avg": 0.281
             },
             {
               "id": 806146,
               "name": "George Lombard Jr.",
-              "ops": 0.839,
-              "avg": 0.308
+              "ops": 0.825,
+              "avg": 0.3
             },
             {
               "id": 683011,
               "name": "Anthony Volpe",
-              "ops": 0.619,
-              "avg": 0.226
+              "ops": 0.644,
+              "avg": 0.25
             },
             {
               "id": 669224,
@@ -5988,16 +5988,16 @@ window.PREDICTIONS_DATA = [
             {
               "id": 676609,
               "name": "José Caballero",
-              "ops": 0.657,
-              "avg": 0.231
+              "ops": 0.655,
+              "avg": 0.24
             }
           ],
           "bat_trend": "cold",
-          "last5_rpg": 3.6,
-          "last5_avg": 0.216,
+          "last5_rpg": 3.8,
+          "last5_avg": 0.221,
           "home_split": {
-            "recent_avg": 0.241,
-            "runs_per_g": 4.4,
+            "recent_avg": 0.242,
+            "runs_per_g": 4.5,
             "hr_per_g": 1.7,
             "n_games": 10
           },
@@ -6009,14 +6009,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.6,
-        "total": 61.6
+        "total": 60.1
       }
     },
     "scores": {
       "away_offense": 35.0,
       "away_defense": 65.8,
-      "home_offense": 33.7,
-      "home_defense": 68.6
+      "home_offense": 35.0,
+      "home_defense": 66.5
     },
     "actual_score": {
       "away": 4,
@@ -6041,7 +6041,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 51.8% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 50.0% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -9011,7 +9011,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "San Diego Padres",
     "model_winner": "Los Angeles Dodgers",
     "model_correct": false,
-    "notes": "San Diego Padres IL: Bryan Hoeing, Gavin Sheets, Jeremiah Estrada, Joe Musgrove, Lucas Giolito 외 다수 / Los Angeles Dodgers IL: Ben Casparius, Brusdar Graterol, Dalton Rushing, Edgardo Henriquez, Eric Lauer 외 다수",
+    "notes": "San Diego Padres IL: Bryan Hoeing, Gavin Sheets, Jeremiah Estrada, Joe Musgrove, Lucas Giolito 외 다수 / Los Angeles Dodgers IL: Ben Casparius, Brusdar Graterol, Edgardo Henriquez, Eric Lauer, Gavin Stone 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",

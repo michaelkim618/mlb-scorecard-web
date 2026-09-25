@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-25T20:38:19.863240+00:00",
+  "updated_at": "2026-09-25T21:26:44.350061+00:00",
   "news": [
+    {
+      "title": "Vlad Jr. apologizes to fans: 'I'm going to continue to keep working hard'",
+      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-apologizes-to-fans-for-comments-on-contract",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/km6arkbxvzlfg6ufp4lv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-25T21:08:28+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Bregman back in Cubs' lineup, plays full game days after being hit in face with foul ball",
+      "link": "https://www.mlb.com/news/alex-bregman-returns-to-cubs-lineup-after-being-hit-in-face-with-foul-ball",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/crokudtdjoxmpzf8maki",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-25T21:01:00+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "Alonso says 'unacceptable' for O's to miss postseason: 'That's not the standard here'",
+      "link": "https://www.mlb.com/news/pete-alonso-orioles-address-elimination-playoff-contention",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790369959/mlb/snssnjdzsaerbjmujzyd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-25T20:59:00+00:00",
+      "time_ago": "27m ago"
+    },
     {
       "title": "D-backs lose Burnes (shoulder) to IL with crucial weekend ahead",
       "link": "https://www.mlb.com/news/corbin-burnes-injured-list-shoulder-inflammation",
@@ -12,20 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-25T20:33:00+00:00",
-      "time_ago": "5m ago"
-    },
-    {
-      "title": "Alonso says 'unacceptable' for O's to miss postseason: 'That's not the standard here'",
-      "link": "https://www.mlb.com/news/pete-alonso-orioles-address-elimination-playoff-contention",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p1zc6nlck74nkftg4f7v",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-25T20:17:18+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "4 more reach postseason! Only 2 spots remain",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-25T20:13:00+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Safe! ... and safe again! Cubs narrowly escape logjam as 2 runners score at same time",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-25T20:05:00+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "The 15 best (and weirdest) Yanks-Red Sox moments",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-25T20:00:00+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Red Sox seal No. 5 seed in AL, officially set for Wild Card Series vs. Yanks",
@@ -77,33 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-25T19:55:44+00:00",
-      "time_ago": "42m ago"
-    },
-    {
-      "title": "Looking back at the playoff history between Yankees and Red Sox",
-      "link": "https://www.mlb.com/news/red-sox-yankees-postseason-history-c297027974",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/i1qkelsxkwnplwpjmjrp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Chad Thornburg",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-25T19:54:00+00:00",
-      "time_ago": "44m ago"
-    },
-    {
-      "title": "Bregman back in Cubs lineup just days after being hit in face with foul ball",
-      "link": "https://www.mlb.com/news/alex-bregman-returns-to-cubs-lineup-after-being-hit-in-face-with-foul-ball",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/crokudtdjoxmpzf8maki",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-25T19:52:00+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
