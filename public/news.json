@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-25T21:26:44.350061+00:00",
+  "updated_at": "2026-09-25T21:44:32.738406+00:00",
   "news": [
+    {
+      "title": "Sabathia, a HOFer, has No. 52 retired by Yanks -- and he treasures the latter more",
+      "link": "https://www.mlb.com/news/cc-sabathia-has-no-52-retired-by-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790368004/mlb/qjnfkx7mvietoktb3skt",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-25T21:25:27+00:00",
+      "time_ago": "19m ago"
+    },
     {
       "title": "Vlad Jr. apologizes to fans: 'I'm going to continue to keep working hard'",
       "link": "https://www.mlb.com/news/vladimir-guerrero-jr-apologizes-to-fans-for-comments-on-contract",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-25T21:08:28+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "36m ago"
     },
     {
       "title": "Bregman back in Cubs' lineup, plays full game days after being hit in face with foul ball",
@@ -25,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-25T21:01:00+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Alonso says 'unacceptable' for O's to miss postseason: 'That's not the standard here'",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-25T20:59:00+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "D-backs lose Burnes (shoulder) to IL with crucial weekend ahead",
@@ -51,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-25T20:33:00+00:00",
-      "time_ago": "53m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "4 more reach postseason! Only 2 spots remain",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-25T20:00:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Red Sox seal No. 5 seed in AL, officially set for Wild Card Series vs. Yanks",
-      "link": "https://www.mlb.com/news/red-sox-seal-playoff-seeding-wild-card-series-vs-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ewzyldzuubjzlsg0sloz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-25T19:55:44+00:00",
       "time_ago": "1h ago"
     }
   ]
