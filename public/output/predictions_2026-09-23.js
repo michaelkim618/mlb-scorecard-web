@@ -738,13 +738,13 @@ window.PREDICTIONS_DATA = [
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
-    "low_confidence": false,
-    "low_confidence_reason": null,
+    "low_confidence": true,
+    "low_confidence_reason": "최고 확률 59.8% (≤62.0%)",
     "opener_game": {
       "away": true,
       "home": false
     },
-    "model_version": "v15"
+    "model_version": "v17"
   },
   {
     "date": "2026-09-23",
@@ -1388,12 +1388,12 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 53.9% (≤58.0%)",
+    "low_confidence_reason": "최고 확률 53.9% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
     },
-    "model_version": "v15"
+    "model_version": "v17"
   },
   {
     "date": "2026-09-23",
@@ -2082,12 +2082,12 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 4.1pt (≤5.0pt) / 최고 확률 51.1% (≤58.0%)",
+    "low_confidence_reason": "SP 점수 차이 4.1pt (≤5.0pt) / 최고 확률 51.1% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
     },
-    "model_version": "v15"
+    "model_version": "v17"
   },
   {
     "date": "2026-09-23",
@@ -2766,12 +2766,12 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 50.0% (≤58.0%)",
+    "low_confidence_reason": "최고 확률 50.0% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
     },
-    "model_version": "v15"
+    "model_version": "v17"
   },
   {
     "date": "2026-09-23",
@@ -3535,12 +3535,12 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 57.7% (≤58.0%)",
+    "low_confidence_reason": "최고 확률 57.7% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": true
     },
-    "model_version": "v15"
+    "model_version": "v17"
   },
   {
     "date": "2026-09-23",
@@ -4280,12 +4280,12 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 50.4% (≤58.0%)",
+    "low_confidence_reason": "최고 확률 50.4% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
     },
-    "model_version": "v15"
+    "model_version": "v17"
   },
   {
     "date": "2026-09-23",
@@ -5040,13 +5040,13 @@ window.PREDICTIONS_DATA = [
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
-    "low_confidence": false,
-    "low_confidence_reason": null,
+    "low_confidence": true,
+    "low_confidence_reason": "최고 확률 58.2% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
     },
-    "model_version": "v15"
+    "model_version": "v17"
   },
   {
     "date": "2026-09-23",
@@ -5816,13 +5816,13 @@ window.PREDICTIONS_DATA = [
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
-    "low_confidence": false,
-    "low_confidence_reason": null,
+    "low_confidence": true,
+    "low_confidence_reason": "최고 확률 59.8% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
     },
-    "model_version": "v15"
+    "model_version": "v17"
   },
   {
     "date": "2026-09-23",
@@ -6562,13 +6562,13 @@ window.PREDICTIONS_DATA = [
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
-    "low_confidence": false,
-    "low_confidence_reason": null,
+    "low_confidence": true,
+    "low_confidence_reason": "최고 확률 60.7% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
     },
-    "model_version": "v15"
+    "model_version": "v17"
   },
   {
     "date": "2026-09-23",
@@ -7315,13 +7315,13 @@ window.PREDICTIONS_DATA = [
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
-    "low_confidence": false,
-    "low_confidence_reason": null,
+    "low_confidence": true,
+    "low_confidence_reason": "최고 확률 60.7% (≤62.0%)",
     "opener_game": {
       "away": true,
       "home": false
     },
-    "model_version": "v15"
+    "model_version": "v17"
   },
   {
     "date": "2026-09-23",
@@ -8069,13 +8069,13 @@ window.PREDICTIONS_DATA = [
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
-    "low_confidence": false,
-    "low_confidence_reason": null,
+    "low_confidence": true,
+    "low_confidence_reason": "최고 확률 61.4% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
     },
-    "model_version": "v15"
+    "model_version": "v17"
   },
   {
     "date": "2026-09-23",
@@ -8821,12 +8821,12 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 52.0% (≤58.0%)",
+    "low_confidence_reason": "최고 확률 52.0% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
     },
-    "model_version": "v15"
+    "model_version": "v17"
   },
   {
     "date": "2026-09-23",
@@ -9545,12 +9545,12 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 2.9pt (≤5.0pt) / 최고 확률 51.2% (≤58.0%)",
+    "low_confidence_reason": "SP 점수 차이 2.9pt (≤5.0pt) / 최고 확률 51.2% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
     },
-    "model_version": "v15"
+    "model_version": "v17"
   },
   {
     "date": "2026-09-23",
@@ -9906,9 +9906,9 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": false,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.31,
+        "sp": 0.24,
         "bp": 0.25,
-        "bat": 0.37,
+        "bat": 0.44,
         "sit": 0.15
       },
       "away": {
@@ -10296,12 +10296,12 @@ window.PREDICTIONS_DATA = [
       "bat_gap": -20.3
     },
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 50.5% (≤58.0%)",
+    "low_confidence_reason": "최고 확률 50.5% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
     },
-    "model_version": "v15"
+    "model_version": "v17"
   },
   {
     "date": "2026-09-23",
@@ -11056,13 +11056,13 @@ window.PREDICTIONS_DATA = [
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
-    "low_confidence": false,
-    "low_confidence_reason": null,
+    "low_confidence": true,
+    "low_confidence_reason": "최고 확률 61.5% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
     },
-    "model_version": "v15"
+    "model_version": "v17"
   },
   {
     "date": "2026-09-23",
@@ -11792,11 +11792,11 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 1.9pt (≤5.0pt)",
+    "low_confidence_reason": "SP 점수 차이 1.9pt (≤5.0pt) / 최고 확률 59.8% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
     },
-    "model_version": "v15"
+    "model_version": "v17"
   }
 ];
