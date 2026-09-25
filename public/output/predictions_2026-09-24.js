@@ -2108,14 +2108,14 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 63.0,
+        "bp_score": 63.1,
         "bp_detail": {
-          "bullpen_era": 3.68,
+          "bullpen_era": 3.67,
           "recent_era": 2.0,
-          "recent_appearances": 13,
-          "recent_ip": 13.7,
-          "team_era": 4.02,
-          "bp_ip": 291.0,
+          "recent_appearances": 14,
+          "recent_ip": 14.3,
+          "team_era": 4.03,
+          "bp_ip": 291.7,
           "bp_count": 6,
           "closer_era": 3.41,
           "closer_name": "Jacob Webb"
@@ -2136,10 +2136,10 @@ window.PREDICTIONS_DATA = [
           "lineup_ops": [
             "Pete Crow-Armstrong(1.044)",
             "Seiya Suzuki(0.798)",
-            "Michael Busch(0.780)",
+            "Michael Busch(0.787)",
             "Michael Conforto(0.734)",
             "Ian Happ(0.843)",
-            "Nico Hoerner(0.591)",
+            "Nico Hoerner(0.584)",
             "Pedro Ramírez(0.718)",
             "Carson Kelly(0.608)",
             "Dansby Swanson(0.782)"
@@ -2160,7 +2160,7 @@ window.PREDICTIONS_DATA = [
             {
               "id": 683737,
               "name": "Michael Busch",
-              "ops": 0.78,
+              "ops": 0.787,
               "avg": 0.281
             },
             {
@@ -2178,8 +2178,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 663538,
               "name": "Nico Hoerner",
-              "ops": 0.591,
-              "avg": 0.222
+              "ops": 0.584,
+              "avg": 0.216
             },
             {
               "id": 699393,
@@ -2202,7 +2202,7 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "cold",
           "last5_rpg": 3.6,
-          "last5_avg": 0.242,
+          "last5_avg": 0.243,
           "home_split": {
             "recent_avg": 0.238,
             "runs_per_g": 4.5,
@@ -2224,7 +2224,7 @@ window.PREDICTIONS_DATA = [
       "away_offense": 26.5,
       "away_defense": 43.3,
       "home_offense": 35.6,
-      "home_defense": 56.0
+      "home_defense": 56.1
     },
     "actual_score": {
       "away": 1,
@@ -2642,16 +2642,16 @@ window.PREDICTIONS_DATA = [
             "CT",
             "FB",
             "SW",
-            "SL",
             "SI",
-            "CB",
-            "CH"
+            "SL",
+            "CH",
+            "CB"
           ],
           "secondary_pitches": [
             "SW",
             "SL",
-            "CB",
-            "CH"
+            "CH",
+            "CB"
           ],
           "pitches_detail": [
             {
@@ -2669,32 +2669,32 @@ window.PREDICTIONS_DATA = [
             {
               "code": "ST",
               "abbr": "SW",
-              "pct": 15.7,
+              "pct": 15.8,
               "velo": 80.0
-            },
-            {
-              "code": "SL",
-              "abbr": "SL",
-              "pct": 8.2,
-              "velo": 84.7
             },
             {
               "code": "SI",
               "abbr": "SI",
-              "pct": 7.6,
-              "velo": 92.3
+              "pct": 11.1,
+              "velo": 92.2
             },
             {
-              "code": "CU",
-              "abbr": "CB",
-              "pct": 6.8,
-              "velo": 84.1
+              "code": "SL",
+              "abbr": "SL",
+              "pct": 8.0,
+              "velo": 84.7
             },
             {
               "code": "CH",
               "abbr": "CH",
               "pct": 4.6,
               "velo": 84.4
+            },
+            {
+              "code": "CU",
+              "abbr": "CB",
+              "pct": 3.3,
+              "velo": 76.0
             }
           ]
         },
@@ -5154,9 +5154,9 @@ window.PREDICTIONS_DATA = [
         "bp_detail": {
           "bullpen_era": 2.75,
           "recent_era": 2.81,
-          "recent_appearances": 13,
+          "recent_appearances": 14,
           "recent_ip": 16.0,
-          "team_era": 3.25,
+          "team_era": 3.24,
           "bp_ip": 372.7,
           "bp_count": 8,
           "closer_era": 1.92,
@@ -5164,27 +5164,27 @@ window.PREDICTIONS_DATA = [
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.197,
-          "runs_per_g": 1.9,
+          "recent_avg": 0.203,
+          "runs_per_g": 2.1,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
-          "season_ops": 0.626,
+          "season_ops": 0.631,
           "season_slg": null,
-          "season_avg": 0.197,
+          "season_avg": 0.203,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
             "Nick Sogard(0.656)",
-            "Mickey Gasper(0.677)",
-            "Adley Rutschman(0.666)",
-            "Wilyer Abreu(0.575)",
-            "Caleb Durbin(0.678)",
+            "Mickey Gasper(0.663)",
+            "Adley Rutschman(0.686)",
+            "Wilyer Abreu(0.570)",
+            "Caleb Durbin(0.668)",
             "Ceddanne Rafaela(0.591)",
             "Jarren Duran(0.732)",
             "Trevor Story(0.708)",
-            "Isiah Kiner-Falefa(0.355)"
+            "Isiah Kiner-Falefa(0.405)"
           ],
           "lineup_players": [
             {
@@ -5196,26 +5196,26 @@ window.PREDICTIONS_DATA = [
             {
               "id": 681508,
               "name": "Mickey Gasper",
-              "ops": 0.677,
-              "avg": 0.15
+              "ops": 0.663,
+              "avg": 0.143
             },
             {
               "id": 668939,
               "name": "Adley Rutschman",
-              "ops": 0.666,
-              "avg": 0.237
+              "ops": 0.686,
+              "avg": 0.256
             },
             {
               "id": 677800,
               "name": "Wilyer Abreu",
-              "ops": 0.575,
-              "avg": 0.139
+              "ops": 0.57,
+              "avg": 0.135
             },
             {
               "id": 702332,
               "name": "Caleb Durbin",
-              "ops": 0.678,
-              "avg": 0.233
+              "ops": 0.668,
+              "avg": 0.226
             },
             {
               "id": 678882,
@@ -5238,16 +5238,16 @@ window.PREDICTIONS_DATA = [
             {
               "id": 643396,
               "name": "Isiah Kiner-Falefa",
-              "ops": 0.355,
-              "avg": 0.0
+              "ops": 0.405,
+              "avg": 0.05
             }
           ],
           "bat_trend": "hot",
-          "last5_rpg": 1.0,
-          "last5_avg": 0.215,
+          "last5_rpg": 1.4,
+          "last5_avg": 0.227,
           "home_split": {
-            "recent_avg": 0.234,
-            "runs_per_g": 2.5,
+            "recent_avg": 0.239,
+            "runs_per_g": 2.7,
             "hr_per_g": 0.7,
             "n_games": 10
           },
