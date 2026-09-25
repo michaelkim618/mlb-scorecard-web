@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-09-25T05:17:07.166470+00:00",
+  "updated_at": "2026-09-25T06:00:30.587980+00:00",
   "news": [
+    {
+      "title": "A 3-way tie for NL Wild Card is in play. Here's how it would shake out",
+      "link": "https://www.mlb.com/news/who-would-win-a-3-way-tie-in-the-nl-wild-card",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x1juj2ot9wkuj3wfdio4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Andrew Simon",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-25T05:51:00+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Lombard's mind-bending contortionist moves flummox Rays catcher after WP",
+      "link": "https://www.mlb.com/news/george-lombard-jr-s-amazing-slide-to-score-on-a-wild-pitch",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bpiciscxlmsjiuxxdkp6",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-25T05:25:00+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "Schlittler's 1.95 ERA -- 3rd best in Yankees history -- completes Cy résumé",
+      "link": "https://www.mlb.com/news/cam-schlittler-finishes-2026-regular-season-with-a-1-95-era",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790294538/mlb/lsbpaucuxrr8ogf9894l",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-25T05:25:00+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "Padres clinch 3rd straight postseason berth as they seek 1st World Series title",
+      "link": "https://www.mlb.com/news/padres-clinch-2026-postseason-berth",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790313101/mlb/hc6vmhqrbxs3yibd3t0g",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-25T05:19:51+00:00",
+      "time_ago": "40m ago"
+    },
+    {
+      "title": "4 more reach postseason! Only 2 spots remain",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rao8aqmngnrkb5q3tebe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-25T05:17:00+00:00",
+      "time_ago": "43m ago"
+    },
+    {
+      "title": "Brewers reach 100 wins for 1st time, lock up home field as No. 1 overall seed",
+      "link": "https://www.mlb.com/news/brewers-win-100th-game-of-2026-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790302054/mlb/u6spidiqhydcqhaiqegm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-25T05:10:00+00:00",
+      "time_ago": "50m ago"
+    },
     {
       "title": "Dodgers earn first-round bye after securing Top 2 seed in NL",
       "link": "https://www.mlb.com/news/dodgers-secure-first-round-bye-for-2026-postseason",
@@ -12,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-25T05:07:00+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "Top 10 things at stake during the final weekend",
@@ -25,85 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-25T05:06:00+00:00",
-      "time_ago": "11m ago"
-    },
-    {
-      "title": "Snakes (still) alive! D-backs sweep Rockies clinging to playoff hopes with 3 to play",
-      "link": "https://www.mlb.com/news/d-backs-sweep-rockies-to-keep-wild-card-hopes-alive",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rrzaepqlwnwlwlh6q4tv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-25T05:06:00+00:00",
-      "time_ago": "11m ago"
-    },
-    {
-      "title": "Spence plays hero with 3-HR game as Astros remain in first-place tie",
-      "link": "https://www.mlb.com/news/lucas-spence-hits-three-home-runs-in-astros-win-over-a-s",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790311439/mlb/m9snnwcstdlmjbtqi87y",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-25T04:41:51+00:00",
-      "time_ago": "35m ago"
-    },
-    {
-      "title": "Rangers keep pace as AL West fight comes down to final weekend",
-      "link": "https://www.mlb.com/news/rangers-avoid-sweep-vs-mets-amid-tight-al-west-race",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/za6mbfxs9bge9p77m7oa",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kennedi Landry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-25T04:38:00+00:00",
-      "time_ago": "39m ago"
-    },
-    {
-      "title": "Stats of the Week: Rookie walk-offs, surprise turnarounds and loads of milestones",
-      "link": "https://www.mlb.com/news/mlb-stats-of-the-week-ending-sept-24-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mzlcinb686aijdfzwjx1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sarah Langs",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-25T04:26:51+00:00",
-      "time_ago": "50m ago"
-    },
-    {
-      "title": "Lombard's mind-bending contortionist moves flummox Rays catcher after WP",
-      "link": "https://www.mlb.com/news/george-lombard-jr-s-amazing-slide-to-score-on-a-wild-pitch",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bpiciscxlmsjiuxxdkp6",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-25T04:10:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Brewers reach 100-win mark for 1st time in franchise history",
-      "link": "https://www.mlb.com/news/brewers-win-100th-game-of-2026-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790302054/mlb/u6spidiqhydcqhaiqegm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-25T03:25:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "54m ago"
     }
   ]
 }
