@@ -1,0 +1,31 @@
+{
+  "predictions": [
+    "13:05"
+  ],
+  "results": false,
+  "lineup_refreshed": [
+    "10:05"
+  ],
+  "predictions_frozen": [
+    "10:05"
+  ],
+  "frozen_predictions": {
+    "10:05": [
+      {
+        "game_pk": "824703",
+        "win_prob": {
+          "away": 43.0,
+          "home": 57.0
+        },
+        "model_winner": "Boston Red Sox",
+        "value_bet": "⏭️ 패스 (불펜전 — 양팀 선발 Cold, 예측 신뢰 낮음)",
+        "edge": 11.0,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 59.0% (≤62.0%)",
+        "extreme_edge": false
+      }
+    ]
+  }
+}
