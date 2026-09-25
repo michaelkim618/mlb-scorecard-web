@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-25T00:38:49.840991+00:00",
+  "updated_at": "2026-09-25T01:05:31.396755+00:00",
   "news": [
+    {
+      "title": "Schlittler's 1.95 ERA -- 3rd best in Yankees history -- completes Cy résumé",
+      "link": "https://www.mlb.com/news/cam-schlittler-finishes-2026-regular-season-with-a-1-95-era",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790294538/mlb/lsbpaucuxrr8ogf9894l",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-25T00:57:00+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Arraez exits with ankle injury in Philadelphia",
+      "link": "https://www.mlb.com/news/luis-arraez-exits-game-vs-brewers-with-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kvvvddbqhhs5dxyigosr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-25T00:34:41+00:00",
+      "time_ago": "30m ago"
+    },
     {
       "title": "White Sox clinch postseason berth as inspiring turnaround continues",
       "link": "https://www.mlb.com/news/white-sox-clinch-2026-postseason-berth",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-24T23:52:00+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Snakes (still) alive! D-backs sweep Rockies clinging to playoff hopes with 3 to play",
@@ -25,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-24T23:41:00+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Energized by Seattle's late-night comeback, Rangers pull atop AL West",
@@ -77,33 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-24T23:00:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "40-40 for PCA! Cubs superstar 7th player to join exclusive club",
-      "link": "https://www.mlb.com/news/pete-crow-armstrong-joins-40-40-club",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/piw8hwdrlfxyncx3chuh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T22:51:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Orioles-Yankees Saturday game moved to Friday for doubleheader",
-      "link": "https://www.mlb.com/news/orioles-yankees-will-play-doubleheader-on-september-25",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/fll8nfctxnipyqmiqukz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-24T22:46:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
