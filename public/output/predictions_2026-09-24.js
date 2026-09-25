@@ -2114,7 +2114,7 @@ window.PREDICTIONS_DATA = [
           "recent_era": 2.0,
           "recent_appearances": 14,
           "recent_ip": 15.0,
-          "team_era": 4.03,
+          "team_era": 4.02,
           "bp_ip": 292.3,
           "bp_count": 6,
           "closer_era": 3.41,
@@ -2122,21 +2122,21 @@ window.PREDICTIONS_DATA = [
         },
         "bat_score": 31.0,
         "bat_detail": {
-          "recent_avg": 0.252,
+          "recent_avg": 0.253,
           "runs_per_g": 3.8,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.757,
+          "season_ops": 0.756,
           "season_slg": null,
-          "season_avg": 0.252,
+          "season_avg": 0.253,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Pete Crow-Armstrong(0.945)",
-            "Seiya Suzuki(0.809)",
-            "Michael Busch(0.803)",
+            "Pete Crow-Armstrong(0.933)",
+            "Seiya Suzuki(0.799)",
+            "Michael Busch(0.820)",
             "Michael Conforto(0.765)",
             "Ian Happ(0.835)",
             "Nico Hoerner(0.571)",
@@ -2148,20 +2148,20 @@ window.PREDICTIONS_DATA = [
             {
               "id": 691718,
               "name": "Pete Crow-Armstrong",
-              "ops": 0.945,
-              "avg": 0.256
+              "ops": 0.933,
+              "avg": 0.25
             },
             {
               "id": 673548,
               "name": "Seiya Suzuki",
-              "ops": 0.809,
-              "avg": 0.263
+              "ops": 0.799,
+              "avg": 0.256
             },
             {
               "id": 683737,
               "name": "Michael Busch",
-              "ops": 0.803,
-              "avg": 0.312
+              "ops": 0.82,
+              "avg": 0.333
             },
             {
               "id": 624424,
@@ -2210,7 +2210,7 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.247,
+            "recent_avg": 0.246,
             "runs_per_g": 4.2,
             "hr_per_g": 1.0,
             "n_games": 10
@@ -5159,13 +5159,13 @@ window.PREDICTIONS_DATA = [
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.193,
+          "recent_avg": 0.197,
           "runs_per_g": 2.0,
           "hr_per_g": 0.6,
           "bb_per_g": 3.0,
-          "season_ops": 0.613,
+          "season_ops": 0.617,
           "season_slg": null,
-          "season_avg": 0.193,
+          "season_avg": 0.197,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -5174,12 +5174,12 @@ window.PREDICTIONS_DATA = [
             "Nick Sogard(0.582)",
             "Mickey Gasper(0.663)",
             "Adley Rutschman(0.677)",
-            "Wilyer Abreu(0.551)",
+            "Wilyer Abreu(0.545)",
             "Caleb Durbin(0.659)",
             "Ceddanne Rafaela(0.591)",
             "Jarren Duran(0.724)",
             "Trevor Story(0.697)",
-            "Isiah Kiner-Falefa(0.374)"
+            "Isiah Kiner-Falefa(0.419)"
           ],
           "lineup_players": [
             {
@@ -5203,8 +5203,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 677800,
               "name": "Wilyer Abreu",
-              "ops": 0.551,
-              "avg": 0.114
+              "ops": 0.545,
+              "avg": 0.111
             },
             {
               "id": 702332,
@@ -5233,15 +5233,15 @@ window.PREDICTIONS_DATA = [
             {
               "id": 643396,
               "name": "Isiah Kiner-Falefa",
-              "ops": 0.374,
-              "avg": 0.045
+              "ops": 0.419,
+              "avg": 0.087
             }
           ],
           "bat_trend": "hot",
           "last5_rpg": 1.4,
-          "last5_avg": 0.228,
+          "last5_avg": 0.234,
           "home_split": {
-            "recent_avg": 0.23,
+            "recent_avg": 0.233,
             "runs_per_g": 2.3,
             "hr_per_g": 0.5,
             "n_games": 10
@@ -5640,7 +5640,7 @@ window.PREDICTIONS_DATA = [
     },
     "expected_score": {
       "away": 2.1,
-      "home": 2.2
+      "home": 2.1
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -5895,47 +5895,47 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 60.7,
+        "bp_score": 59.2,
         "bp_detail": {
-          "bullpen_era": 3.03,
-          "recent_era": 7.15,
-          "recent_appearances": 22,
-          "recent_ip": 22.7,
-          "team_era": 2.99,
-          "bp_ip": 457.0,
+          "bullpen_era": 3.05,
+          "recent_era": 7.12,
+          "recent_appearances": 23,
+          "recent_ip": 24.0,
+          "team_era": 3.0,
+          "bp_ip": 458.0,
           "bp_count": 9,
           "closer_era": 2.5,
           "closer_name": "David Bednar"
         },
-        "bat_score": 34.0,
+        "bat_score": 33.6,
         "bat_detail": {
-          "recent_avg": 0.254,
+          "recent_avg": 0.253,
           "runs_per_g": 4.7,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
-          "season_ops": 0.749,
+          "season_ops": 0.745,
           "season_slg": null,
-          "season_avg": 0.254,
+          "season_avg": 0.253,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Paul Goldschmidt(0.718)",
+            "Paul Goldschmidt(0.717)",
             "Cody Bellinger(0.707)",
-            "Heliot Ramos(0.799)",
-            "Ben Rice(0.925)",
-            "Amed Rosario(0.672)",
-            "George Lombard Jr.(0.811)",
+            "Heliot Ramos(0.787)",
+            "Ben Rice(0.939)",
+            "Amed Rosario(0.661)",
+            "George Lombard Jr.(0.798)",
             "Anthony Volpe(0.634)",
             "Austin Wells(0.833)",
-            "José Caballero(0.643)"
+            "José Caballero(0.631)"
           ],
           "lineup_players": [
             {
               "id": 502671,
               "name": "Paul Goldschmidt",
-              "ops": 0.718,
+              "ops": 0.717,
               "avg": 0.25
             },
             {
@@ -5947,26 +5947,26 @@ window.PREDICTIONS_DATA = [
             {
               "id": 671218,
               "name": "Heliot Ramos",
-              "ops": 0.799,
-              "avg": 0.27
+              "ops": 0.787,
+              "avg": 0.263
             },
             {
               "id": 700250,
               "name": "Ben Rice",
-              "ops": 0.925,
-              "avg": 0.229
+              "ops": 0.939,
+              "avg": 0.25
             },
             {
               "id": 642708,
               "name": "Amed Rosario",
-              "ops": 0.672,
-              "avg": 0.303
+              "ops": 0.661,
+              "avg": 0.294
             },
             {
               "id": 806146,
               "name": "George Lombard Jr.",
-              "ops": 0.811,
-              "avg": 0.293
+              "ops": 0.798,
+              "avg": 0.286
             },
             {
               "id": 683011,
@@ -5983,13 +5983,13 @@ window.PREDICTIONS_DATA = [
             {
               "id": 676609,
               "name": "José Caballero",
-              "ops": 0.643,
-              "avg": 0.231
+              "ops": 0.631,
+              "avg": 0.222
             }
           ],
           "bat_trend": "cold",
           "last5_rpg": 3.8,
-          "last5_avg": 0.221,
+          "last5_avg": 0.222,
           "home_split": {
             "recent_avg": 0.241,
             "runs_per_g": 4.5,
@@ -6004,14 +6004,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.6,
-        "total": 60.5
+        "total": 59.9
       }
     },
     "scores": {
       "away_offense": 35.0,
       "away_defense": 65.8,
-      "home_offense": 34.0,
-      "home_defense": 66.3
+      "home_offense": 33.6,
+      "home_defense": 65.6
     },
     "actual_score": {
       "away": 4,
