@@ -337,12 +337,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 43.9,
-      "home": 56.1
+      "away": 43.6,
+      "home": 56.4
     },
     "expected_score": {
       "away": 1.6,
-      "home": 2.1
+      "home": 2.2
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -435,14 +435,14 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 57.1,
+        "bp_score": 56.0,
         "bp_detail": {
-          "bullpen_era": 3.89,
-          "recent_era": 2.05,
-          "recent_appearances": 20,
-          "recent_ip": 26.3,
-          "team_era": 4.0,
-          "bp_ip": 421.0,
+          "bullpen_era": 4.02,
+          "recent_era": 2.0,
+          "recent_appearances": 18,
+          "recent_ip": 19.0,
+          "team_era": 4.04,
+          "bp_ip": 410.0,
           "bp_count": 9,
           "closer_era": 4.08,
           "closer_name": "Riley O'Brien"
@@ -544,7 +544,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 43.8,
-        "total": 44.5
+        "total": 44.2
       },
       "home": {
         "sp_score": 49.0,
@@ -736,7 +736,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 25.0,
-      "away_defense": 49.8,
+      "away_defense": 49.2,
       "home_offense": 30.2,
       "home_defense": 57.1
     },
@@ -763,7 +763,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 56.1% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 56.4% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -2202,7 +2202,7 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "cold",
           "last5_rpg": 3.6,
-          "last5_avg": 0.233,
+          "last5_avg": 0.229,
           "home_split": {
             "recent_avg": 0.238,
             "runs_per_g": 4.5,
@@ -2210,7 +2210,7 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.25,
+            "recent_avg": 0.248,
             "runs_per_g": 4.8,
             "hr_per_g": 1.1,
             "n_games": 10
@@ -5152,12 +5152,12 @@ window.PREDICTIONS_DATA = [
         },
         "bp_score": 72.5,
         "bp_detail": {
-          "bullpen_era": 2.74,
-          "recent_era": 2.45,
+          "bullpen_era": 2.73,
+          "recent_era": 2.33,
           "recent_appearances": 15,
-          "recent_ip": 18.3,
+          "recent_ip": 19.3,
           "team_era": 3.23,
-          "bp_ip": 375.0,
+          "bp_ip": 375.7,
           "bp_count": 8,
           "closer_era": 1.92,
           "closer_name": "Aroldis Chapman"
@@ -5168,7 +5168,7 @@ window.PREDICTIONS_DATA = [
           "runs_per_g": 2.2,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
-          "season_ops": 0.623,
+          "season_ops": 0.624,
           "season_slg": null,
           "season_avg": 0.198,
           "n_games": 9,
@@ -5176,21 +5176,21 @@ window.PREDICTIONS_DATA = [
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Nick Sogard(0.639)",
+            "Nick Sogard(0.638)",
             "Mickey Gasper(0.663)",
             "Adley Rutschman(0.677)",
             "Wilyer Abreu(0.564)",
             "Caleb Durbin(0.659)",
             "Ceddanne Rafaela(0.591)",
-            "Jarren Duran(0.711)",
+            "Jarren Duran(0.724)",
             "Trevor Story(0.708)",
-            "Isiah Kiner-Falefa(0.399)"
+            "Isiah Kiner-Falefa(0.394)"
           ],
           "lineup_players": [
             {
               "id": 686765,
               "name": "Nick Sogard",
-              "ops": 0.639,
+              "ops": 0.638,
               "avg": 0.211
             },
             {
@@ -5226,7 +5226,7 @@ window.PREDICTIONS_DATA = [
             {
               "id": 680776,
               "name": "Jarren Duran",
-              "ops": 0.711,
+              "ops": 0.724,
               "avg": 0.3
             },
             {
@@ -5238,15 +5238,15 @@ window.PREDICTIONS_DATA = [
             {
               "id": 643396,
               "name": "Isiah Kiner-Falefa",
-              "ops": 0.399,
-              "avg": 0.048
+              "ops": 0.394,
+              "avg": 0.045
             }
           ],
           "bat_trend": "hot",
           "last5_rpg": 1.6,
-          "last5_avg": 0.225,
+          "last5_avg": 0.228,
           "home_split": {
-            "recent_avg": 0.238,
+            "recent_avg": 0.239,
             "runs_per_g": 2.8,
             "hr_per_g": 0.7,
             "n_games": 10

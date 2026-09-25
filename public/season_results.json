@@ -16465,6 +16465,30 @@
       "away_bp_score": 75.0,
       "home_bp_score": 70.0,
       "bat_source": "prev_day"
+    },
+    {
+      "date": "2026-09-25",
+      "away": "Chicago Cubs",
+      "home": "Boston Red Sox",
+      "game_number": 1,
+      "pick": "Boston Red Sox",
+      "pick_prob": 57.0,
+      "actual_winner": "Boston Red Sox",
+      "away_score": 3,
+      "home_score": 1,
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 4.47,
+      "home_sp_era": 0.71,
+      "away_bp_era": 3.68,
+      "home_bp_era": 2.7,
+      "away_sp_score": 42.0,
+      "home_sp_score": 18.6,
+      "away_bp_score": 63.0,
+      "home_bp_score": 72.5,
+      "bat_source": "lineup"
     }
   ]
 }
