@@ -710,7 +710,7 @@ window.PREDICTIONS_DATA = [
     },
     "actual_score": {
       "away": 3,
-      "home": 0
+      "home": 1
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -1079,7 +1079,7 @@ window.PREDICTIONS_DATA = [
       "home": 52.6
     },
     "expected_score": {
-      "away": 2.2,
+      "away": 2.3,
       "home": 1.7
     },
     "blend_detail": null,
@@ -1177,15 +1177,15 @@ window.PREDICTIONS_DATA = [
           "closer_era": 3.41,
           "closer_name": "Jacob Webb"
         },
-        "bat_score": 35.6,
+        "bat_score": 36.5,
         "bat_detail": {
-          "recent_avg": 0.257,
+          "recent_avg": 0.256,
           "runs_per_g": 4.5,
           "hr_per_g": 1.1,
           "bb_per_g": 3.0,
-          "season_ops": 0.767,
-          "season_slg": null,
-          "season_avg": 0.257,
+          "season_ops": 0.766,
+          "season_slg": 0.41,
+          "season_avg": 0.256,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -1196,7 +1196,7 @@ window.PREDICTIONS_DATA = [
             "Michael Busch(0.762)",
             "Michael Conforto(0.734)",
             "Ian Happ(0.843)",
-            "Nico Hoerner(0.599)",
+            "Nico Hoerner(0.591)",
             "Pedro Ramírez(0.718)",
             "Carson Kelly(0.608)",
             "Dansby Swanson(0.798)"
@@ -1235,8 +1235,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 663538,
               "name": "Nico Hoerner",
-              "ops": 0.599,
-              "avg": 0.229
+              "ops": 0.591,
+              "avg": 0.222
             },
             {
               "id": 699393,
@@ -1259,7 +1259,7 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "cold",
           "last5_rpg": 3.6,
-          "last5_avg": 0.239,
+          "last5_avg": 0.242,
           "home_split": {
             "recent_avg": 0.238,
             "runs_per_g": 4.5,
@@ -1267,14 +1267,14 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.254,
+            "recent_avg": 0.255,
             "runs_per_g": 4.8,
             "hr_per_g": 1.1,
             "n_games": 10
           }
         },
         "sit_score": 56.8,
-        "total": 52.2
+        "total": 52.4
       },
       "home": {
         "sp_score": 47.4,
@@ -1366,11 +1366,11 @@ window.PREDICTIONS_DATA = [
         "bat_score": 25.0,
         "bat_detail": {
           "recent_avg": 0.198,
-          "runs_per_g": 1.8,
+          "runs_per_g": 1.9,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
-          "season_ops": 0.627,
-          "season_slg": null,
+          "season_ops": 0.626,
+          "season_slg": 0.339,
           "season_avg": 0.198,
           "n_games": 9,
           "source": "prev_day",
@@ -1378,10 +1378,10 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Nick Sogard(0.665)",
-            "Mickey Gasper(0.693)",
-            "Adley Rutschman(0.646)",
-            "Wilyer Abreu(0.581)",
-            "Caleb Durbin(0.690)",
+            "Mickey Gasper(0.677)",
+            "Adley Rutschman(0.666)",
+            "Wilyer Abreu(0.575)",
+            "Caleb Durbin(0.678)",
             "Ceddanne Rafaela(0.591)",
             "Jarren Duran(0.717)",
             "Trevor Story(0.708)",
@@ -1397,26 +1397,26 @@ window.PREDICTIONS_DATA = [
             {
               "id": 681508,
               "name": "Mickey Gasper",
-              "ops": 0.693,
-              "avg": 0.158
+              "ops": 0.677,
+              "avg": 0.15
             },
             {
               "id": 668939,
               "name": "Adley Rutschman",
-              "ops": 0.646,
-              "avg": 0.216
+              "ops": 0.666,
+              "avg": 0.237
             },
             {
               "id": 677800,
               "name": "Wilyer Abreu",
-              "ops": 0.581,
-              "avg": 0.143
+              "ops": 0.575,
+              "avg": 0.139
             },
             {
               "id": 702332,
               "name": "Caleb Durbin",
-              "ops": 0.69,
-              "avg": 0.241
+              "ops": 0.678,
+              "avg": 0.233
             },
             {
               "id": 678882,
@@ -1444,11 +1444,11 @@ window.PREDICTIONS_DATA = [
             }
           ],
           "bat_trend": "hot",
-          "last5_rpg": 0.8,
-          "last5_avg": 0.217,
+          "last5_rpg": 1.0,
+          "last5_avg": 0.218,
           "home_split": {
             "recent_avg": 0.235,
-            "runs_per_g": 2.4,
+            "runs_per_g": 2.5,
             "hr_per_g": 0.7,
             "n_games": 10
           },
@@ -1464,7 +1464,7 @@ window.PREDICTIONS_DATA = [
       }
     },
     "scores": {
-      "away_offense": 35.6,
+      "away_offense": 36.5,
       "away_defense": 59.0,
       "home_offense": 25.0,
       "home_defense": 60.0
@@ -3749,12 +3749,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 54.3,
-      "home": 45.7
+      "away": 50.8,
+      "home": 49.2
     },
     "expected_score": {
       "away": 2.2,
-      "home": 1.7
+      "home": 1.6
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -3859,7 +3859,7 @@ window.PREDICTIONS_DATA = [
           "hr_per_g": 0.4,
           "bb_per_g": 3.0,
           "season_ops": 0.694,
-          "season_slg": null,
+          "season_slg": 0.373,
           "season_avg": 0.229,
           "n_games": 9,
           "source": "prev_day",
@@ -3952,7 +3952,7 @@ window.PREDICTIONS_DATA = [
         "total": 57.6
       },
       "home": {
-        "sp_score": 60.1,
+        "sp_score": 59.8,
         "sp_detail": {
           "era": 3.37,
           "whip": 1.24,
@@ -4004,7 +4004,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 63.2,
+        "bp_score": 62.9,
         "bp_detail": {
           "bullpen_era": 3.91,
           "recent_era": 2.84,
@@ -4016,14 +4016,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.88,
           "closer_name": "Jhoan Duran"
         },
-        "bat_score": 25.7,
+        "bat_score": 25.0,
         "bat_detail": {
           "recent_avg": 0.239,
           "runs_per_g": 3.9,
           "hr_per_g": 0.5,
           "bb_per_g": 3.0,
           "season_ops": 0.714,
-          "season_slg": null,
+          "season_slg": 0.341,
           "season_avg": 0.239,
           "n_games": 9,
           "source": "prev_day",
@@ -4113,14 +4113,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 54.7,
-        "total": 54.6
+        "total": 54.2
       }
     },
     "scores": {
       "away_offense": 35.0,
       "away_defense": 62.3,
-      "home_offense": 25.7,
-      "home_defense": 61.7
+      "home_offense": 25.0,
+      "home_defense": 61.3
     },
     "actual_score": {
       "away": null,
@@ -4138,14 +4138,14 @@ window.PREDICTIONS_DATA = [
     "model_correct": null,
     "notes": "Tampa Bay Rays IL: Edwin Uceta, Garrett Cleavinger, Gavin Lux, Jonathan Heasley, Manuel Rodríguez 외 다수 / Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Felix Reyes, Jesús Luzardo 외 다수",
     "kalshi_prob": 61.0,
-    "edge": -11.3,
+    "edge": -11.8,
     "value_bet": "⏭️ 패스 (박빙 경기 — 예측 신뢰도 낮음)",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 50.3% (≤62.0%)",
+    "low_confidence_reason": "SP 점수 차이 4.8pt (≤5.0pt) / 최고 확률 50.8% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -5677,8 +5677,8 @@ window.PREDICTIONS_DATA = [
       "home": 39.3
     },
     "expected_score": {
-      "away": 2.7,
-      "home": 1.8
+      "away": 2.6,
+      "home": 1.7
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -5729,14 +5729,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.59,
           "closer_name": "Raisel Iglesias"
         },
-        "bat_score": 37.2,
+        "bat_score": 35.8,
         "bat_detail": {
           "recent_avg": 0.28,
           "runs_per_g": 4.2,
           "hr_per_g": 1.4,
           "bb_per_g": 3.0,
           "season_ops": 0.765,
-          "season_slg": null,
+          "season_slg": 0.386,
           "season_avg": 0.28,
           "n_games": 9,
           "source": "prev_day",
@@ -5826,10 +5826,10 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 57.7,
-        "total": 55.7
+        "total": 55.2
       },
       "home": {
-        "sp_score": 31.3,
+        "sp_score": 30.9,
         "sp_detail": {
           "era": 5.76,
           "whip": 1.65,
@@ -5904,7 +5904,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 38.7,
+        "bp_score": 38.3,
         "bp_detail": {
           "bullpen_era": 4.22,
           "recent_era": 5.7,
@@ -5916,14 +5916,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 3.34,
           "closer_name": "Calvin Faucher"
         },
-        "bat_score": 26.5,
+        "bat_score": 25.0,
         "bat_detail": {
           "recent_avg": 0.238,
           "runs_per_g": 4.4,
           "hr_per_g": 1.1,
           "bb_per_g": 3.0,
           "season_ops": 0.658,
-          "season_slg": null,
+          "season_slg": 0.385,
           "season_avg": 0.238,
           "n_games": 9,
           "source": "prev_day",
@@ -6013,14 +6013,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 48.9,
-        "total": 34.0
+        "total": 33.3
       }
     },
     "scores": {
-      "away_offense": 37.2,
+      "away_offense": 35.8,
       "away_defense": 60.0,
-      "home_offense": 26.5,
-      "home_defense": 36.1
+      "home_offense": 25.0,
+      "home_defense": 35.7
     },
     "actual_score": {
       "away": null,
@@ -6389,12 +6389,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 53.4,
-      "home": 46.6
+      "away": 54.7,
+      "home": 45.3
     },
     "expected_score": {
       "away": 2.5,
-      "home": 1.8
+      "home": 1.6
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -6406,9 +6406,9 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": false,
       "any_cold_sp": false,
       "eff_weights": {
-        "sp": 0.38,
+        "sp": 0.31,
         "bp": 0.22,
-        "bat": 0.25,
+        "bat": 0.32,
         "sit": 0.15
       },
       "away": {
@@ -6490,14 +6490,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.96,
           "closer_name": "Cade Smith"
         },
-        "bat_score": 35.6,
+        "bat_score": 35.3,
         "bat_detail": {
           "recent_avg": 0.262,
           "runs_per_g": 4.7,
           "hr_per_g": 1.4,
           "bb_per_g": 3.0,
           "season_ops": 0.737,
-          "season_slg": null,
+          "season_slg": 0.397,
           "season_avg": 0.262,
           "n_games": 9,
           "source": "prev_day",
@@ -6587,10 +6587,10 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 61.8,
-        "total": 56.5
+        "total": 56.4
       },
       "home": {
-        "sp_score": 70.4,
+        "sp_score": 69.2,
         "sp_detail": {
           "era": 2.23,
           "whip": 0.85,
@@ -6664,7 +6664,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 21.7,
+        "bp_score": 21.3,
         "bp_detail": {
           "bullpen_era": 5.12,
           "recent_era": 5.04,
@@ -6676,14 +6676,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 5.83,
           "closer_name": "Lucas Erceg"
         },
-        "bat_score": 27.8,
+        "bat_score": 25.4,
         "bat_detail": {
           "recent_avg": 0.224,
           "runs_per_g": 4.0,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
           "season_ops": 0.675,
-          "season_slg": null,
+          "season_slg": 0.376,
           "season_avg": 0.224,
           "n_games": 9,
           "source": "prev_day",
@@ -6773,14 +6773,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 42.6,
-        "total": 44.9
+        "total": 43.7
       }
     },
     "scores": {
-      "away_offense": 35.6,
+      "away_offense": 35.3,
       "away_defense": 66.2,
-      "home_offense": 27.8,
-      "home_defense": 46.1
+      "home_offense": 25.4,
+      "home_defense": 45.2
     },
     "actual_score": {
       "away": null,
@@ -6797,15 +6797,20 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Cleveland Guardians",
     "model_correct": null,
     "notes": "Cleveland Guardians IL: Colin Holderman, Rhys Hoskins / Kansas City Royals IL: Alec Marsh, Beck Way, Carlos Estévez, Cole Ragans, Connor Seabold 외 다수",
-    "kalshi_prob": 44.0,
-    "edge": 2.6,
+    "kalshi_prob": 43.0,
+    "edge": 2.3,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
-    "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
+    "sp_bat_conflict": true,
+    "sp_bat_conflict_detail": {
+      "sp_favors": "Kansas City Royals",
+      "bat_favors": "Cleveland Guardians",
+      "sp_gap": -11.7,
+      "bat_gap": 9.9
+    },
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 53.4% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 54.7% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -7153,8 +7158,8 @@ window.PREDICTIONS_DATA = [
       "home": 60.7
     },
     "expected_score": {
-      "away": 2.2,
-      "home": 3.2
+      "away": 2.0,
+      "home": 3.0
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -7266,14 +7271,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 4.96,
           "closer_name": "Jordan Romano"
         },
-        "bat_score": 33.7,
+        "bat_score": 31.6,
         "bat_detail": {
           "recent_avg": 0.275,
           "runs_per_g": 4.4,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
           "season_ops": 0.74,
-          "season_slg": null,
+          "season_slg": 0.379,
           "season_avg": 0.275,
           "n_games": 9,
           "source": "prev_day",
@@ -7363,7 +7368,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 35.3,
-        "total": 33.3
+        "total": 32.7
       },
       "home": {
         "sp_score": 46.8,
@@ -7444,14 +7449,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.3,
           "closer_name": "Grant Taylor"
         },
-        "bat_score": 40.7,
+        "bat_score": 38.7,
         "bat_detail": {
           "recent_avg": 0.231,
           "runs_per_g": 6.5,
           "hr_per_g": 1.1,
           "bb_per_g": 3.0,
           "season_ops": 0.716,
-          "season_slg": null,
+          "season_slg": 0.38,
           "season_avg": 0.231,
           "n_games": 9,
           "source": "prev_day",
@@ -7541,13 +7546,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 58.2,
-        "total": 57.7
+        "total": 57.1
       }
     },
     "scores": {
-      "away_offense": 33.7,
+      "away_offense": 31.6,
       "away_defense": 35.6,
-      "home_offense": 40.7,
+      "home_offense": 38.7,
       "home_defense": 57.9
     },
     "actual_score": {
@@ -7922,7 +7927,7 @@ window.PREDICTIONS_DATA = [
     },
     "expected_score": {
       "away": 1.5,
-      "home": 2.4
+      "home": 2.5
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -8041,7 +8046,7 @@ window.PREDICTIONS_DATA = [
           "hr_per_g": 0.5,
           "bb_per_g": 3.0,
           "season_ops": 0.618,
-          "season_slg": null,
+          "season_slg": 0.331,
           "season_avg": 0.189,
           "n_games": 9,
           "source": "prev_day",
@@ -8212,14 +8217,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.67,
           "closer_name": "Trevor Megill"
         },
-        "bat_score": 33.8,
+        "bat_score": 34.5,
         "bat_detail": {
           "recent_avg": 0.274,
           "runs_per_g": 4.0,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
           "season_ops": 0.76,
-          "season_slg": null,
+          "season_slg": 0.407,
           "season_avg": 0.274,
           "n_games": 9,
           "source": "prev_day",
@@ -8309,13 +8314,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 66.9,
-        "total": 57.8
+        "total": 58.0
       }
     },
     "scores": {
       "away_offense": 25.0,
       "away_defense": 49.3,
-      "home_offense": 33.8,
+      "home_offense": 34.5,
       "home_defense": 62.2
     },
     "actual_score": {
@@ -9339,8 +9344,8 @@ window.PREDICTIONS_DATA = [
       "home": 39.3
     },
     "expected_score": {
-      "away": 2.7,
-      "home": 2.5
+      "away": 3.1,
+      "home": 2.6
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -9437,14 +9442,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.01,
           "closer_name": "Josh Hader"
         },
-        "bat_score": 37.900000000000006,
+        "bat_score": 43.400000000000006,
         "bat_detail": {
           "recent_avg": 0.236,
           "runs_per_g": 4.2,
           "hr_per_g": 2.4,
           "bb_per_g": 3.0,
           "season_ops": 0.748,
-          "season_slg": null,
+          "season_slg": 0.455,
           "season_avg": 0.236,
           "n_games": 9,
           "source": "prev_day",
@@ -9534,7 +9539,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.0,
-        "total": 54.2
+        "total": 56.1
       },
       "home": {
         "sp_score": 30.0,
@@ -9608,14 +9613,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 3.38,
           "closer_name": "Hogan Harris"
         },
-        "bat_score": 36.8,
+        "bat_score": 37.8,
         "bat_detail": {
           "recent_avg": 0.266,
           "runs_per_g": 4.3,
           "hr_per_g": 1.4,
           "bb_per_g": 3.0,
           "season_ops": 0.779,
-          "season_slg": null,
+          "season_slg": 0.41,
           "season_avg": 0.266,
           "n_games": 9,
           "source": "prev_day",
@@ -9705,13 +9710,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 41.4,
-        "total": 38.1
+        "total": 38.5
       }
     },
     "scores": {
-      "away_offense": 37.900000000000006,
+      "away_offense": 43.400000000000006,
       "away_defense": 55.4,
-      "home_offense": 36.8,
+      "home_offense": 37.8,
       "home_defense": 40.8
     },
     "actual_score": {
@@ -10085,8 +10090,8 @@ window.PREDICTIONS_DATA = [
       "home": 50.0
     },
     "expected_score": {
-      "away": 3.5,
-      "home": 3.2
+      "away": 3.6,
+      "home": 3.5
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -10190,14 +10195,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.13,
           "closer_name": "Juan Morillo"
         },
-        "bat_score": 55.0,
+        "bat_score": 57.4,
         "bat_detail": {
           "recent_avg": 0.299,
           "runs_per_g": 5.8,
           "hr_per_g": 1.7,
           "bb_per_g": 3.0,
           "season_ops": 0.812,
-          "season_slg": null,
+          "season_slg": 0.423,
           "season_avg": 0.299,
           "n_games": 9,
           "source": "prev_day",
@@ -10287,7 +10292,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 58.5,
-        "total": 62.5
+        "total": 63.2
       },
       "home": {
         "sp_score": 45.0,
@@ -10323,14 +10328,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.3,
           "closer_name": "Mason Miller"
         },
-        "bat_score": 47.7,
+        "bat_score": 53.3,
         "bat_detail": {
           "recent_avg": 0.299,
           "runs_per_g": 6.0,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
           "season_ops": 0.797,
-          "season_slg": null,
+          "season_slg": 0.455,
           "season_avg": 0.299,
           "n_games": 9,
           "source": "prev_day",
@@ -10420,13 +10425,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 59.9,
-        "total": 61.2
+        "total": 62.9
       }
     },
     "scores": {
-      "away_offense": 55.0,
+      "away_offense": 57.4,
       "away_defense": 59.1,
-      "home_offense": 47.7,
+      "home_offense": 53.3,
       "home_defense": 60.0
     },
     "actual_score": {
@@ -10796,11 +10801,11 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 54.3,
-      "home": 45.7
+      "away": 52.7,
+      "home": 47.3
     },
     "expected_score": {
-      "away": 1.3,
+      "away": 1.1,
       "home": 1.8
     },
     "blend_detail": null,
@@ -10813,13 +10818,13 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": false,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.38,
+        "sp": 0.31,
         "bp": 0.25,
-        "bat": 0.3,
+        "bat": 0.37,
         "sit": 0.15
       },
       "away": {
-        "sp_score": 63.6,
+        "sp_score": 62.4,
         "sp_detail": {
           "era": 2.29,
           "whip": 0.95,
@@ -10879,7 +10884,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 36.3,
+        "bp_score": 35.6,
         "bp_detail": {
           "bullpen_era": 4.13,
           "recent_era": 5.64,
@@ -10891,14 +10896,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 4.0,
           "closer_name": "Ryan Watson"
         },
-        "bat_score": 17.7,
+        "bat_score": 15.0,
         "bat_detail": {
           "recent_avg": 0.228,
           "runs_per_g": 3.7,
           "hr_per_g": 0.6,
           "bb_per_g": 3.0,
           "season_ops": 0.638,
-          "season_slg": null,
+          "season_slg": 0.352,
           "season_avg": 0.228,
           "n_games": 9,
           "source": "prev_day",
@@ -10988,7 +10993,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 43.6,
-        "total": 45.1
+        "total": 43.7
       },
       "home": {
         "sp_score": 34.8,
@@ -11092,7 +11097,7 @@ window.PREDICTIONS_DATA = [
           "hr_per_g": 0.9,
           "bb_per_g": 3.0,
           "season_ops": 0.707,
-          "season_slg": null,
+          "season_slg": 0.374,
           "season_avg": 0.244,
           "n_games": 9,
           "source": "prev_day",
@@ -11186,8 +11191,8 @@ window.PREDICTIONS_DATA = [
       }
     },
     "scores": {
-      "away_offense": 17.7,
-      "away_defense": 50.0,
+      "away_offense": 15.0,
+      "away_defense": 49.0,
       "home_offense": 25.0,
       "home_defense": 41.2
     },
@@ -11207,14 +11212,19 @@ window.PREDICTIONS_DATA = [
     "model_correct": null,
     "notes": "Los Angeles Angels IL: Anthony Rendon, Ben Joyce, George Klassen, Gustavo Campero, Jack Kochanowicz 외 다수 / Seattle Mariners IL: Brendan Donovan, Brennen Davis, Brock Rodden, Cole Wilcox, Colt Emerson 외 다수",
     "kalshi_prob": 52.0,
-    "edge": -6.3,
-    "value_bet": "➖ 시장과 유사",
+    "edge": -4.7,
+    "value_bet": "⏭️ 패스 (SP↔BAT충돌+시장역방향 edge -4.7%p — 신뢰불가)",
     "extreme_edge": false,
     "consensus": false,
-    "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
+    "sp_bat_conflict": true,
+    "sp_bat_conflict_detail": {
+      "sp_favors": "Los Angeles Angels",
+      "bat_favors": "Seattle Mariners",
+      "sp_gap": 27.6,
+      "bat_gap": -10.0
+    },
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 54.3% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 52.7% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false

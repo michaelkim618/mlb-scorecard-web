@@ -2120,15 +2120,15 @@ window.PREDICTIONS_DATA = [
           "closer_era": 3.41,
           "closer_name": "Jacob Webb"
         },
-        "bat_score": 36.5,
+        "bat_score": 36.7,
         "bat_detail": {
-          "recent_avg": 0.256,
+          "recent_avg": 0.258,
           "runs_per_g": 4.5,
           "hr_per_g": 1.1,
           "bb_per_g": 3.0,
-          "season_ops": 0.766,
-          "season_slg": 0.41,
-          "season_avg": 0.256,
+          "season_ops": 0.768,
+          "season_slg": 0.409,
+          "season_avg": 0.258,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -2136,13 +2136,13 @@ window.PREDICTIONS_DATA = [
           "lineup_ops": [
             "Pete Crow-Armstrong(1.034)",
             "Seiya Suzuki(0.809)",
-            "Michael Busch(0.762)",
+            "Michael Busch(0.779)",
             "Michael Conforto(0.734)",
             "Ian Happ(0.843)",
             "Nico Hoerner(0.591)",
             "Pedro Ramírez(0.718)",
             "Carson Kelly(0.608)",
-            "Dansby Swanson(0.798)"
+            "Dansby Swanson(0.797)"
           ],
           "lineup_players": [
             {
@@ -2160,8 +2160,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 683737,
               "name": "Michael Busch",
-              "ops": 0.762,
-              "avg": 0.258
+              "ops": 0.779,
+              "avg": 0.281
             },
             {
               "id": 624424,
@@ -2196,7 +2196,7 @@ window.PREDICTIONS_DATA = [
             {
               "id": 621020,
               "name": "Dansby Swanson",
-              "ops": 0.798,
+              "ops": 0.797,
               "avg": 0.259
             }
           ],
@@ -2217,13 +2217,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 57.8,
-        "total": 48.2
+        "total": 48.3
       }
     },
     "scores": {
       "away_offense": 25.0,
       "away_defense": 42.8,
-      "home_offense": 36.5,
+      "home_offense": 36.7,
       "home_defense": 56.0
     },
     "actual_score": {
@@ -5165,11 +5165,11 @@ window.PREDICTIONS_DATA = [
         "bat_score": 25.0,
         "bat_detail": {
           "recent_avg": 0.198,
-          "runs_per_g": 1.8,
+          "runs_per_g": 1.9,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
-          "season_ops": 0.627,
-          "season_slg": 0.341,
+          "season_ops": 0.626,
+          "season_slg": 0.339,
           "season_avg": 0.198,
           "n_games": 9,
           "source": "prev_day",
@@ -5177,10 +5177,10 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Nick Sogard(0.665)",
-            "Mickey Gasper(0.693)",
-            "Adley Rutschman(0.646)",
-            "Wilyer Abreu(0.581)",
-            "Caleb Durbin(0.690)",
+            "Mickey Gasper(0.677)",
+            "Adley Rutschman(0.666)",
+            "Wilyer Abreu(0.575)",
+            "Caleb Durbin(0.678)",
             "Ceddanne Rafaela(0.591)",
             "Jarren Duran(0.717)",
             "Trevor Story(0.708)",
@@ -5196,26 +5196,26 @@ window.PREDICTIONS_DATA = [
             {
               "id": 681508,
               "name": "Mickey Gasper",
-              "ops": 0.693,
-              "avg": 0.158
+              "ops": 0.677,
+              "avg": 0.15
             },
             {
               "id": 668939,
               "name": "Adley Rutschman",
-              "ops": 0.646,
-              "avg": 0.216
+              "ops": 0.666,
+              "avg": 0.237
             },
             {
               "id": 677800,
               "name": "Wilyer Abreu",
-              "ops": 0.581,
-              "avg": 0.143
+              "ops": 0.575,
+              "avg": 0.139
             },
             {
               "id": 702332,
               "name": "Caleb Durbin",
-              "ops": 0.69,
-              "avg": 0.241
+              "ops": 0.678,
+              "avg": 0.233
             },
             {
               "id": 678882,
@@ -5243,11 +5243,11 @@ window.PREDICTIONS_DATA = [
             }
           ],
           "bat_trend": "hot",
-          "last5_rpg": 0.8,
-          "last5_avg": 0.217,
+          "last5_rpg": 1.0,
+          "last5_avg": 0.218,
           "home_split": {
             "recent_avg": 0.235,
-            "runs_per_g": 2.4,
+            "runs_per_g": 2.5,
             "hr_per_g": 0.7,
             "n_games": 10
           },

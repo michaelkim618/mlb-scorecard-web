@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-25T17:54:26.801078+00:00",
+  "updated_at": "2026-09-25T18:08:54.713615+00:00",
   "news": [
+    {
+      "title": "Bregman back in Cubs lineup just days after being hit in face with foul ball",
+      "link": "https://www.mlb.com/news/alex-bregman-returns-to-cubs-lineup-after-being-hit-in-face-with-foul-ball",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/crokudtdjoxmpzf8maki",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-25T17:43:00+00:00",
+      "time_ago": "25m ago"
+    },
     {
       "title": "'Great things happen in Chicago': Pope Leo XIV on White Sox making playoffs",
       "link": "https://www.mlb.com/news/pope-leo-xiv-white-sox-making-playoffs",
@@ -12,7 +25,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-25T17:30:45+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "The remaining AL clinch scenarios, explained",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-25T17:30:00+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "These are the top 20 MLB jerseys from 2026 season",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-25T16:57:18+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "3-way tie in play for NL Wild Card ... but a 4th team isn't done yet",
@@ -90,19 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-25T15:40:05+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "How the D-backs can pass the Phillies for the final NL Wild Card spot",
-      "link": "https://www.mlb.com/news/diamondbacks-scenarios-for-making-the-playoffs-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g5abxfvdeea5twjz9qam",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-25T15:34:01+00:00",
       "time_ago": "2h ago"
     }
   ]
