@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-26T02:45:19.475662+00:00",
+  "updated_at": "2026-09-26T03:45:24.457036+00:00",
   "news": [
+    {
+      "title": "deGrom's final regular-season start goes awry as Rangers drop critical game",
+      "link": "https://www.mlb.com/news/jacob-degrom-has-rough-start-as-rangers-lose-to-twins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790390528/mlb/voko27nqvnvguiufltpv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kennedi Landry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-26T02:59:35+00:00",
+      "time_ago": "45m ago"
+    },
+    {
+      "title": "Oh my, Rodriguez! Twins' No. 5 prospect robs a hit with some signature flare",
+      "link": "https://www.mlb.com/news/emmanuel-rodriguez-robs-an-extra-base-hit-at-the-wall",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ajpcig5mzreyulv04pvz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-09-26T02:45:02+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Crew not treating set vs. Cardinals differently despite having nothing left to clinch",
+      "link": "https://www.mlb.com/news/brewers-open-final-regular-season-set-vs-cardinals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/of3i3oqkyabjbt1e9nzs",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-26T02:45:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "AL RBI leader Alonso now 1st in HRs after blasting 2, including 471-footer",
+      "link": "https://www.mlb.com/news/pete-alonso-home-runs-doubleheader-vs-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790375502/mlb/gfhia0irn2xi5hq40hoi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-26T02:41:00+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Warren dominates out of 'pen in possible preview of playoff role",
       "link": "https://www.mlb.com/news/will-warren-helps-yankees-beat-orioles-in-doubleheader-nightcap",
@@ -12,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-26T02:36:00+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Murakami homers twice as White Sox stay laser-focused on AL Central race",
@@ -25,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-26T02:31:34+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Peralta punctuates late-season surge with 5 1/3 scoreless in Philly",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-26T02:14:00+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Red Sox sweep twin bill vs. Cubs to end regular-season play at Fenway on high note",
@@ -51,58 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-26T02:10:00+00:00",
-      "time_ago": "35m ago"
-    },
-    {
-      "title": "Significant biceps injury likely to sideline red-hot Gasper for postseason",
-      "link": "https://www.mlb.com/news/mickey-gasper-biceps-injury-game-1-cubs-red-sox-doubleheader",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jcxqodmoqziey7zbgeok",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-26T01:55:00+00:00",
-      "time_ago": "50m ago"
-    },
-    {
-      "title": "After Cubs drop both games of twin bill, they turn attention to pitching plans",
-      "link": "https://www.mlb.com/news/cubs-lose-both-games-of-doubleheader-to-red-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c12qkylvfbfvpugbzcss",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-26T01:55:00+00:00",
-      "time_ago": "50m ago"
-    },
-    {
-      "title": "Riley started week with toothache -- then started to find his swing",
-      "link": "https://www.mlb.com/news/austin-riley-heating-up-late-in-season-for-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kvimaxynvctn4hkubjoa",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-26T01:55:00+00:00",
-      "time_ago": "50m ago"
-    },
-    {
-      "title": "'That's my girl': Verlander daddy-daughter duo shares unforgettable first pitch",
-      "link": "https://www.mlb.com/news/justin-verlander-s-daughter-genevieve-throws-him-first-pitch",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nt9ykqjmxhkroj1oaqkr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Beck",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-26T01:39:59+00:00",
       "time_ago": "1h ago"
     }
   ]
