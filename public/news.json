@@ -1,45 +1,6 @@
 {
-  "updated_at": "2026-09-26T04:11:54.664676+00:00",
+  "updated_at": "2026-09-26T05:11:47.838573+00:00",
   "news": [
-    {
-      "title": "'Devastated': Rangers lose Jung to right hand fracture",
-      "link": "https://www.mlb.com/news/josh-jung-exits-game-after-being-hit-by-pitch",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uaz6zcw5jy8iornpmawj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kennedi Landry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-26T03:54:00+00:00",
-      "time_ago": "17m ago"
-    },
-    {
-      "title": "Guardians squeeze out unsightly win over Royals in AL Central race",
-      "link": "https://www.mlb.com/news/cleveland-guardians-keep-pace-with-white-sox-in-al-central-race",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xzxeiz18b5hdpzrobp0a",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-26T03:52:01+00:00",
-      "time_ago": "19m ago"
-    },
-    {
-      "title": "Warren dominant in potential playoff role as Yanks prep to face Red Sox",
-      "link": "https://www.mlb.com/news/will-warren-helps-yankees-beat-orioles-in-doubleheader-nightcap",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790394698/mlb/hj0zfvcziu5xchlymtcb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-26T03:46:00+00:00",
-      "time_ago": "25m ago"
-    },
     {
       "title": "'Have to find a way': Urgency setting in after Phils' 12th shutout loss of year",
       "link": "https://www.mlb.com/news/phillies-shut-out-for-12th-time-still-trying-to-clinch-postseason-spot",
@@ -50,21 +11,47 @@
       "author": "Todd Zolecki",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-26T03:45:00+00:00",
-      "time_ago": "26m ago"
+      "pub_date": "2026-09-26T05:03:00+00:00",
+      "time_ago": "8m ago"
     },
     {
-      "title": "With swipe of third, Elly becomes 4th Reds player to secure 30-30 season",
-      "link": "https://www.mlb.com/news/elly-de-la-cruz-notches-reds-4th-30-30-season",
+      "title": "Arraez's availability for rest of regular season, postseason in doubt",
+      "link": "https://www.mlb.com/news/luis-arraez-could-miss-rest-of-regular-season-with-left-ankle-sprain",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790388442/mlb/frpul4pjudupcidax9dx",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xbmurbir0z98oviswdeb",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Mark Sheldon",
+      "author": "Todd Zolecki",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-26T03:41:00+00:00",
-      "time_ago": "30m ago"
+      "pub_date": "2026-09-26T05:02:00+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Where the playoff races stand tonight",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rao8aqmngnrkb5q3tebe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-26T04:55:00+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Oh my, Rodriguez! Twins' No. 5 prospect robs a hit with some signature flair",
+      "link": "https://www.mlb.com/news/emmanuel-rodriguez-robs-an-extra-base-hit-at-the-wall",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ajpcig5mzreyulv04pvz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-09-26T04:49:00+00:00",
+      "time_ago": "22m ago"
     },
     {
       "title": "deGrom's final regular-season start goes awry as Rangers drop critical game",
@@ -76,34 +63,47 @@
       "author": "Kennedi Landry",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-26T02:59:35+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-09-26T04:47:00+00:00",
+      "time_ago": "24m ago"
     },
     {
-      "title": "Oh my, Rodriguez! Twins' No. 5 prospect robs a hit with some signature flare",
-      "link": "https://www.mlb.com/news/emmanuel-rodriguez-robs-an-extra-base-hit-at-the-wall",
+      "title": "Astros miss chance to push AL West clinch to the brink in loss to A's",
+      "link": "https://www.mlb.com/news/astros-stay-even-with-rangers-in-al-west-with-loss-to-athletics",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ajpcig5mzreyulv04pvz",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tpveqjfvxbs0hpe9onca",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-09-26T02:45:02+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Crew not treating set vs. Cardinals differently despite having nothing left to clinch",
-      "link": "https://www.mlb.com/news/brewers-open-final-regular-season-set-vs-cardinals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/of3i3oqkyabjbt1e9nzs",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
+      "author": "Brian McTaggart",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-26T02:45:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-09-26T04:43:46+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "The remaining AL clinch scenarios, explained",
+      "link": "https://www.mlb.com/news/al-playoff-picture-in-final-week-2026-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tsjif6bmnfwrocc6hfsz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Andrew Simon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-26T04:41:00+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "Surging D-backs pull closer in Wild Card race with 6th straight win",
+      "link": "https://www.mlb.com/news/diamondbacks-gain-on-phillies-in-nl-wild-card-race-with-sixth-straight-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gg9u3kpxd9htgkngwbqb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Steve Gilbert",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-26T04:39:35+00:00",
+      "time_ago": "32m ago"
     }
   ]
 }
