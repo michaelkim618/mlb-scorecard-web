@@ -2730,9 +2730,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Los Angeles Dodgers",
     "model_winner": "Los Angeles Dodgers",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Los Angeles Dodgers IL: Ben Casparius, Brusdar Graterol, Edgardo Henriquez, Eric Lauer, Gavin Stone 외 다수 / San Francisco Giants IL: Adrian Houser, Blade Tidwell, Bryce Eldridge, Carson Whisenhunt, Casey Schmitt 외 다수",
     "kalshi_prob": 27.0,
     "edge": 10.0,
@@ -4207,9 +4207,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Atlanta Braves",
     "model_winner": "Atlanta Braves",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Atlanta Braves IL: Bryce Elder, Hurston Waldrep, Joe Jiménez, Joey Wentz, Lane Thomas 외 다수 / Miami Marlins IL: Adam Mazur, Andrew Nardi, Anthony Bender, Max Meyer, Owen Caissie 외 다수",
     "kalshi_prob": 48.0,
     "edge": -8.7,
@@ -8456,7 +8456,7 @@
       "away": null,
       "home": null
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
