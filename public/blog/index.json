@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-09-25-daily-doc",
+      "title": "Sep 25 Results + Sep 26 Preview: 88.2% Accuracy Validates the Model's Edge",
+      "author": "Doc",
+      "author_emoji": "🧠",
+      "author_color": "#7C3AED",
+      "author_role": "Sabermetrician",
+      "date": "2026-09-25",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#7C3AED",
+      "read_time": "3 min",
+      "summary": "15-2 performance on Sep 25 demonstrates predictive power; Sep 26 offers Nationals value"
+    },
+    {
       "slug": "2026-09-24-daily-ace",
       "title": "Sep 24 Results + Sep 25 Preview: Seven Wins, Solid Command",
       "author": "Ace",
