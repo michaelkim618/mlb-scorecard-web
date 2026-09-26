@@ -6248,8 +6248,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 63.0,
-      "home": 37.0
+      "away": 61.5,
+      "home": 38.5
     },
     "expected_score": {
       "away": 2.2,
@@ -6337,36 +6337,36 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 74.6,
+        "bp_score": 74.8,
         "bp_detail": {
           "bullpen_era": 2.69,
-          "recent_era": 2.86,
+          "recent_era": 2.82,
           "recent_appearances": 18,
-          "recent_ip": 22.0,
+          "recent_ip": 22.3,
           "team_era": 3.17,
-          "bp_ip": 434.7,
+          "bp_ip": 435.0,
           "bp_count": 9,
           "closer_era": 2.59,
           "closer_name": "Raisel Iglesias"
         },
-        "bat_score": 30.3,
+        "bat_score": 30.0,
         "bat_detail": {
-          "recent_avg": 0.249,
+          "recent_avg": 0.247,
           "runs_per_g": 4.1,
           "hr_per_g": 1.3,
           "bb_per_g": 3.0,
-          "season_ops": 0.72,
+          "season_ops": 0.718,
           "season_slg": null,
-          "season_avg": 0.249,
+          "season_avg": 0.247,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
             "Drake Baldwin(0.842)",
-            "Ronald Acuña Jr.(0.816)",
+            "Ronald Acuña Jr.(0.804)",
             "Matt Olson(0.843)",
-            "Michael Harris II(0.830)",
+            "Michael Harris II(0.820)",
             "Mauricio Dubón(0.814)",
             "Ozzie Albies(0.575)",
             "Mike Yastrzemski(0.686)",
@@ -6383,8 +6383,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 660670,
               "name": "Ronald Acuña Jr.",
-              "ops": 0.816,
-              "avg": 0.243
+              "ops": 0.804,
+              "avg": 0.237
             },
             {
               "id": 621566,
@@ -6395,8 +6395,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 671739,
               "name": "Michael Harris II",
-              "ops": 0.83,
-              "avg": 0.316
+              "ops": 0.82,
+              "avg": 0.308
             },
             {
               "id": 643289,
@@ -6431,7 +6431,7 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "cold",
           "last5_rpg": 3.0,
-          "last5_avg": 0.227,
+          "last5_avg": 0.226,
           "home_split": {
             "recent_avg": 0.254,
             "runs_per_g": 4.0,
@@ -6524,14 +6524,14 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 45.0,
+        "bp_score": 45.4,
         "bp_detail": {
-          "bullpen_era": 4.11,
-          "recent_era": 4.5,
-          "recent_appearances": 21,
-          "recent_ip": 24.0,
+          "bullpen_era": 4.1,
+          "recent_era": 4.44,
+          "recent_appearances": 22,
+          "recent_ip": 24.3,
           "team_era": 3.96,
-          "bp_ip": 324.3,
+          "bp_ip": 324.7,
           "bp_count": 8,
           "closer_era": 3.34,
           "closer_name": "Calvin Faucher"
@@ -6618,9 +6618,9 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "hot",
           "last5_rpg": 3.4,
-          "last5_avg": 0.252,
+          "last5_avg": 0.25,
           "home_split": {
-            "recent_avg": 0.282,
+            "recent_avg": 0.281,
             "runs_per_g": 5.5,
             "hr_per_g": 1.2,
             "n_games": 10
@@ -6633,14 +6633,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 51.9,
-        "total": 39.2
+        "total": 39.3
       }
     },
     "scores": {
-      "away_offense": 30.3,
-      "away_defense": 57.8,
+      "away_offense": 30.0,
+      "away_defense": 57.9,
       "home_offense": 25.0,
-      "home_defense": 40.5
+      "home_defense": 40.7
     },
     "actual_score": {
       "away": 0,
@@ -6665,7 +6665,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 5.0pt (≤5.0pt)",
+    "low_confidence_reason": "SP 점수 차이 5.0pt (≤5.0pt) / 최고 확률 61.5% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -12290,7 +12290,7 @@ window.PREDICTIONS_DATA = [
       "home": 37.0
     },
     "expected_score": {
-      "away": 3.2,
+      "away": 3.1,
       "home": 0.9
     },
     "blend_detail": null,
@@ -12376,11 +12376,11 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 70.8,
+        "bp_score": 69.6,
         "bp_detail": {
           "bullpen_era": 3.35,
           "recent_era": 2.0,
-          "recent_appearances": 17,
+          "recent_appearances": 18,
           "recent_ip": 17.0,
           "team_era": 3.27,
           "bp_ip": 279.3,
@@ -12388,22 +12388,22 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.73,
           "closer_name": "Tanner Scott"
         },
-        "bat_score": 42.7,
+        "bat_score": 42.4,
         "bat_detail": {
-          "recent_avg": 0.289,
+          "recent_avg": 0.287,
           "runs_per_g": 4.6,
           "hr_per_g": 1.4,
           "bb_per_g": 3.0,
-          "season_ops": 0.79,
+          "season_ops": 0.788,
           "season_slg": null,
-          "season_avg": 0.289,
+          "season_avg": 0.287,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Shohei Ohtani(0.665)",
-            "Mookie Betts(1.018)",
+            "Shohei Ohtani(0.660)",
+            "Mookie Betts(1.004)",
             "Freddie Freeman(0.663)",
             "Will Smith(0.988)",
             "Kyle Tucker(0.833)",
@@ -12416,14 +12416,14 @@ window.PREDICTIONS_DATA = [
             {
               "id": 660271,
               "name": "Shohei Ohtani",
-              "ops": 0.665,
-              "avg": 0.158
+              "ops": 0.66,
+              "avg": 0.154
             },
             {
               "id": 605141,
               "name": "Mookie Betts",
-              "ops": 1.018,
-              "avg": 0.395
+              "ops": 1.004,
+              "avg": 0.385
             },
             {
               "id": 518692,
@@ -12470,7 +12470,7 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "cold",
           "last5_rpg": 3.0,
-          "last5_avg": 0.25,
+          "last5_avg": 0.248,
           "home_split": {
             "recent_avg": 0.29,
             "runs_per_g": 6.1,
@@ -12485,7 +12485,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 62.8,
-        "total": 64.4
+        "total": 63.9
       },
       "home": {
         "sp_score": 29.7,
@@ -12540,14 +12540,14 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 40.4,
+        "bp_score": 40.7,
         "bp_detail": {
-          "bullpen_era": 4.17,
-          "recent_era": 4.0,
+          "bullpen_era": 4.16,
+          "recent_era": 3.95,
           "recent_appearances": 26,
-          "recent_ip": 27.0,
-          "team_era": 4.08,
-          "bp_ip": 284.7,
+          "recent_ip": 27.3,
+          "team_era": 4.07,
+          "bp_ip": 285.7,
           "bp_count": 11,
           "closer_era": 4.5,
           "closer_name": "Joel Kuhnel"
@@ -12653,10 +12653,10 @@ window.PREDICTIONS_DATA = [
       }
     },
     "scores": {
-      "away_offense": 42.7,
-      "away_defense": 71.4,
+      "away_offense": 42.4,
+      "away_defense": 70.8,
       "home_offense": 15.0,
-      "home_defense": 35.0
+      "home_defense": 35.2
     },
     "actual_score": {
       "away": 2,
