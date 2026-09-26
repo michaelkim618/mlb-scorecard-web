@@ -16897,6 +16897,30 @@
       "away_bp_score": 41.0,
       "home_bp_score": 32.5,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-26",
+      "away": "Pittsburgh Pirates",
+      "home": "Detroit Tigers",
+      "game_number": 1,
+      "pick": "Pittsburgh Pirates",
+      "pick_prob": 60.4,
+      "actual_winner": "Detroit Tigers",
+      "away_score": 0,
+      "home_score": 0,
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "neutral",
+      "away_sp_era": 1.93,
+      "home_sp_era": 12.27,
+      "away_bp_era": 3.59,
+      "home_bp_era": 3.48,
+      "away_sp_score": 21.0,
+      "home_sp_score": 30.0,
+      "away_bp_score": 65.5,
+      "home_bp_score": 52.3,
+      "bat_source": "prev_day"
     }
   ]
 }

@@ -1,18 +1,31 @@
 {
-  "updated_at": "2026-09-26T20:03:29.176855+00:00",
+  "updated_at": "2026-09-26T20:59:14.424728+00:00",
   "news": [
     {
-      "title": "Verlander caps iconic career with emotional start and incredible father-daughter moment",
+      "title": "Day for the ages: Verlander's final start, incredible father-daughter moment AND a walk-off HR!",
       "link": "https://www.mlb.com/news/justin-verlander-final-mlb-start",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gjewfjf7119qbmwjgip9",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Jason Beck",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-26T20:23:00+00:00",
+      "time_ago": "36m ago"
+    },
+    {
+      "title": "Yanks-O's game time on Sunday moved up to 1:05 p.m. ET",
+      "link": "https://www.mlb.com/news/yankees-orioles-game-on-september-27-2026-has-changed-start-time",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nh3ca5tttouvh7lw7g17",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-26T19:34:00+00:00",
-      "time_ago": "29m ago"
+      "pub_date": "2026-09-26T20:07:49+00:00",
+      "time_ago": "51m ago"
     },
     {
       "title": "Verlander reaches his finale with stats one can only dream of",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-26T19:22:00+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Despite wrist issue, Gunnar doesn't want to make excuses for down '26",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-26T18:27:31+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Scherzer to wait on retirement decision, wants to 'see how things unfold'",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-26T18:18:28+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "2 days to go and still 3 TIGHT races",
@@ -90,20 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-26T06:50:00+00:00",
-      "time_ago": "13h ago"
-    },
-    {
-      "title": "'Something magical' going on as surging D-backs narrow Wild Card gap to 1",
-      "link": "https://www.mlb.com/news/diamondbacks-gain-on-phillies-in-nl-wild-card-race-with-sixth-straight-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gg9u3kpxd9htgkngwbqb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-26T06:22:00+00:00",
-      "time_ago": "13h ago"
+      "time_ago": "14h ago"
     }
   ]
 }
