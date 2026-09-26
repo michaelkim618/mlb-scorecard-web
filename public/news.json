@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-26T14:50:02.386202+00:00",
+  "updated_at": "2026-09-26T15:44:13.766494+00:00",
   "news": [
+    {
+      "title": "Verlander enters final start with stats one can only dream of (1:10 ET, MLB.TV)",
+      "link": "https://www.mlb.com/news/justin-verlander-career-facts-figures-dyk",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bixnchr8k54jgubcewqa",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sarah Langs",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-26T15:04:42+00:00",
+      "time_ago": "39m ago"
+    },
+    {
+      "title": "2 days to go and still 3 TIGHT races",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rao8aqmngnrkb5q3tebe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-26T15:00:00+00:00",
+      "time_ago": "44m ago"
+    },
     {
       "title": "A pair of 3-way ties are in play in the NL Wild Card race. Here's how they would shake out",
       "link": "https://www.mlb.com/news/who-would-win-a-3-way-tie-in-the-nl-wild-card",
@@ -12,7 +38,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-26T14:00:00+00:00",
-      "time_ago": "50m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Missed chance to lock up No. 4 seed prompts questions about Mize's playoff roster case",
@@ -38,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-26T06:22:00+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "Consequential 6th in loss to A's could prove costly for Astros' AL West hopes",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-26T06:13:00+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "Guardians squeeze out unsightly win over Royals in AL Central race",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-26T06:06:00+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "Skubal cruises before Sasaki, Scott prep for postseason roles",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-26T05:27:00+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "'Have to find a way': Urgency setting in after Phils' 12th shutout loss of year",
-      "link": "https://www.mlb.com/news/phillies-shut-out-for-12th-time-still-trying-to-clinch-postseason-spot",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w3yt7j6fq52dgdjhz4vm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-26T05:03:00+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "Arraez's availability for rest of regular season, postseason in doubt",
-      "link": "https://www.mlb.com/news/luis-arraez-could-miss-rest-of-regular-season-with-left-ankle-sprain",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xbmurbir0z98oviswdeb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-26T05:02:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     }
   ]
 }

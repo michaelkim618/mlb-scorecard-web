@@ -2,7 +2,7 @@
   "posts": [
     {
       "slug": "2026-09-25-daily-doc",
-      "title": "Sep 25 Results + Sep 26 Preview: 88.2% Accuracy With Elite Confidence Calibration",
+      "title": "Sep 25 Results + Sep 26 Preview: 88.2% Accuracy When the Models Fire on All Cylinders",
       "author": "Doc",
       "author_emoji": "🧠",
       "author_color": "#7C3AED",
@@ -12,7 +12,7 @@
       "tag": "Daily Review",
       "tag_color": "#7C3AED",
       "read_time": "3 min",
-      "summary": "Our model posted a dominant 15-2 performance with sophisticated probability weighting."
+      "summary": "Sep 25: 15-2 record with 88.2% accuracy. Model dominates across confidence tiers."
     },
     {
       "slug": "2026-09-24-daily-ace",

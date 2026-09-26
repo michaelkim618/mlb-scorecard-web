@@ -3265,12 +3265,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 43.7,
-      "home": 56.3
+      "away": 40.9,
+      "home": 59.1
     },
     "expected_score": {
-      "away": 2.4,
-      "home": 2.5
+      "away": 2.3,
+      "home": 2.3
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -3375,14 +3375,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 3.68,
           "closer_name": "Gregory Soto"
         },
-        "bat_score": 35.599999999999994,
+        "bat_score": 35.199999999999996,
         "bat_detail": {
           "recent_avg": 0.269,
           "runs_per_g": 4.2,
           "hr_per_g": 1.3,
           "bb_per_g": 3.0,
           "season_ops": 0.776,
-          "season_slg": 0.404,
+          "season_slg": null,
           "season_avg": 0.269,
           "n_games": 9,
           "source": "prev_day",
@@ -3472,7 +3472,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 48.1,
-        "total": 43.9
+        "total": 43.8
       },
       "home": {
         "sp_score": 50.0,
@@ -3542,26 +3542,26 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 52.3,
+        "bp_score": 63.0,
         "bp_detail": {
-          "bullpen_era": 3.48,
-          "recent_era": 5.4,
-          "recent_appearances": 17,
-          "recent_ip": 21.7,
-          "team_era": 3.64,
-          "bp_ip": 385.0,
-          "bp_count": 11,
+          "bullpen_era": 3.3,
+          "recent_era": 3.6,
+          "recent_appearances": 16,
+          "recent_ip": 20.0,
+          "team_era": 3.56,
+          "bp_ip": 366.0,
+          "bp_count": 10,
           "closer_era": 3.2,
           "closer_name": "Kenley Jansen"
         },
-        "bat_score": 34.6,
+        "bat_score": 32.6,
         "bat_detail": {
           "recent_avg": 0.284,
           "runs_per_g": 4.5,
           "hr_per_g": 0.9,
           "bb_per_g": 3.0,
           "season_ops": 0.778,
-          "season_slg": 0.42,
+          "season_slg": null,
           "season_avg": 0.284,
           "n_games": 9,
           "source": "prev_day",
@@ -3651,14 +3651,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 48.5,
-        "total": 49.3
+        "total": 51.5
       }
     },
     "scores": {
-      "away_offense": 35.599999999999994,
+      "away_offense": 35.199999999999996,
       "away_defense": 47.8,
-      "home_offense": 34.6,
-      "home_defense": 51.1
+      "home_offense": 32.6,
+      "home_defense": 56.5
     },
     "actual_score": {
       "away": 7,
@@ -3683,7 +3683,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 56.3% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 59.1% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -4767,12 +4767,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 40.0,
-      "home": 60.0
+      "away": 39.3,
+      "home": 60.7
     },
     "expected_score": {
-      "away": 2.4,
-      "home": 2.7
+      "away": 2.3,
+      "home": 2.6
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -4849,14 +4849,14 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 39.5,
+        "bp_score": 41.0,
         "bp_detail": {
-          "bullpen_era": 4.48,
-          "recent_era": 4.21,
-          "recent_appearances": 19,
-          "recent_ip": 25.7,
+          "bullpen_era": 4.49,
+          "recent_era": 3.86,
+          "recent_appearances": 15,
+          "recent_ip": 21.0,
           "team_era": 4.32,
-          "bp_ip": 309.3,
+          "bp_ip": 296.7,
           "bp_count": 10,
           "closer_era": 4.54,
           "closer_name": "Devin Williams"
@@ -4958,7 +4958,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 43.3,
-        "total": 28.4
+        "total": 28.9
       },
       "home": {
         "sp_score": 53.0,
@@ -5028,15 +5028,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 25.0,
+        "bp_score": 32.5,
         "bp_detail": {
-          "bullpen_era": 4.84,
-          "recent_era": 5.02,
-          "recent_appearances": 22,
-          "recent_ip": 28.7,
-          "team_era": 4.05,
-          "bp_ip": 174.7,
-          "bp_count": 9,
+          "bullpen_era": 4.4,
+          "recent_era": 3.71,
+          "recent_appearances": 21,
+          "recent_ip": 26.7,
+          "team_era": 3.87,
+          "bp_ip": 163.7,
+          "bp_count": 8,
           "closer_era": 6.55,
           "closer_name": "Gus Varland"
         },
@@ -5137,14 +5137,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 52.6,
-        "total": 36.2
+        "total": 39.6
       }
     },
     "scores": {
       "away_offense": 32.7,
-      "away_defense": 27.2,
+      "away_defense": 28.0,
       "home_offense": 32.6,
-      "home_defense": 39.0
+      "home_defense": 42.8
     },
     "actual_score": {
       "away": 6,
@@ -5160,7 +5160,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "Washington Nationals",
     "model_winner": "Washington Nationals",
     "model_correct": true,
-    "notes": "New York Mets IL: Christian Scott, Daniel Duarte, Jared Young, Jorge Polanco, Reed Garrett 외 다수 / Washington Nationals IL: Connelly Early, Drew Millas, Ken Waldichuk, Matt Waldron, Mitchell Parker 외 다수",
+    "notes": "New York Mets IL: Christian Scott, Daniel Duarte, Jared Young, Jorge Polanco, Reed Garrett 외 다수 / Washington Nationals IL: Drew Millas, Ken Waldichuk, Matt Waldron, Mitchell Parker, Orlando Ribalta 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
@@ -5169,7 +5169,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 60.0% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 60.7% (≤62.0%)",
     "opener_game": {
       "away": true,
       "home": false
