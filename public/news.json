@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-26T00:14:57.223765+00:00",
+  "updated_at": "2026-09-26T00:43:53.397729+00:00",
   "news": [
+    {
+      "title": "Yanks lose battle with wind, O's to begin final series before Red Sox clash",
+      "link": "https://www.mlb.com/news/yankees-open-final-2026-regular-season-series-against-orioles",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790377035/mlb/fhxcgl0ht4tuqhzluqmv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-26T00:35:00+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Red Sox sweep twin bill vs. Cubs to end regular-season play at Fenway on high note",
+      "link": "https://www.mlb.com/news/red-sox-win-game-2-to-sweep-double-header-over-cubs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790382092/mlb/qav0tfo05ntjurrelc7c",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-26T00:26:52+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Elly secures 4th 30-homer, 30-steal season in Reds history",
+      "link": "https://www.mlb.com/news/elly-de-la-cruz-notches-reds-4th-30-30-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jmmmhaxijwdhhljsaxed",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Sheldon",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-26T00:16:29+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "4 more reach postseason! Only 2 spots remain",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rao8aqmngnrkb5q3tebe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-26T00:16:00+00:00",
+      "time_ago": "27m ago"
+    },
     {
       "title": "What to know ahead of Red Sox-Yankees Wild Card Series rematch",
       "link": "https://www.mlb.com/news/red-sox-vs-yankees-wild-card-series-starting-lineups-pitching-matchup",
@@ -12,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-26T00:07:33+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "36m ago"
     },
     {
       "title": "D-backs lose Burnes (shoulder) to IL with crucial weekend ahead",
@@ -25,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-25T23:56:00+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "'There's no script': Verlander says goodbye before final start with Tigers",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-25T23:46:24+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "AL RBI leader Alonso now 1st in HRs after blasting 2, including 471-footer",
@@ -51,59 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-25T23:44:00+00:00",
-      "time_ago": "30m ago"
-    },
-    {
-      "title": "Bill Giles, architect of Phillies championship teams (and Phillie Phanatic), dies at 92",
-      "link": "https://www.mlb.com/news/bill-giles-phillies-president-chairman-part-owner-dies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y6i7utq2y9bja4foaycy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-25T23:07:28+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Staying fresh, healthy the priority as Yanks open final regular-season series",
-      "link": "https://www.mlb.com/news/yankees-open-final-2026-regular-season-series-against-orioles",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790377035/mlb/fhxcgl0ht4tuqhzluqmv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-25T23:00:29+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Red-hot Gasper exits with biceps discomfort, undergoes MRI during twin bill",
-      "link": "https://www.mlb.com/news/mickey-gasper-biceps-injury-game-1-cubs-red-sox-doubleheader",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jcxqodmoqziey7zbgeok",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-25T22:45:21+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Vlad Jr. apologizes to fans: 'Not really what I wanted to say'",
-      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-apologizes-to-fans-for-comments-on-contract",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/km6arkbxvzlfg6ufp4lv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-25T22:34:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "59m ago"
     }
   ]
 }
