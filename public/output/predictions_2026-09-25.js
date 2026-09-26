@@ -3265,8 +3265,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 43.4,
-      "home": 56.6
+      "away": 43.7,
+      "home": 56.3
     },
     "expected_score": {
       "away": 2.4,
@@ -3542,15 +3542,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 53.2,
+        "bp_score": 52.3,
         "bp_detail": {
-          "bullpen_era": 3.4,
+          "bullpen_era": 3.48,
           "recent_era": 5.4,
           "recent_appearances": 17,
           "recent_ip": 21.7,
-          "team_era": 3.6,
-          "bp_ip": 381.3,
-          "bp_count": 10,
+          "team_era": 3.64,
+          "bp_ip": 385.0,
+          "bp_count": 11,
           "closer_era": 3.2,
           "closer_name": "Kenley Jansen"
         },
@@ -3651,14 +3651,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 48.5,
-        "total": 49.6
+        "total": 49.3
       }
     },
     "scores": {
       "away_offense": 35.599999999999994,
       "away_defense": 47.8,
       "home_offense": 34.6,
-      "home_defense": 51.6
+      "home_defense": 51.1
     },
     "actual_score": {
       "away": 7,
@@ -3674,7 +3674,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "Detroit Tigers",
     "model_winner": "Detroit Tigers",
     "model_correct": true,
-    "notes": "Pittsburgh Pirates IL: Braxton Ashcraft, Endy Rodríguez, Esmerlyn Valdez, Isaac Mattson, Mitch Keller / Detroit Tigers IL: Bailey Horn, Burch Smith, Colt Keith, Jack Flaherty, Justin Verlander 외 다수",
+    "notes": "Pittsburgh Pirates IL: Braxton Ashcraft, Endy Rodríguez, Esmerlyn Valdez, Isaac Mattson, Mitch Keller / Detroit Tigers IL: Bailey Horn, Burch Smith, Colt Keith, Jack Flaherty, Kerry Carpenter 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
@@ -3683,7 +3683,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 56.6% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 56.3% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -7851,7 +7851,7 @@ window.PREDICTIONS_DATA = [
             {
               "code": "ST",
               "abbr": "SW",
-              "pct": 10.9,
+              "pct": 11.2,
               "velo": 83.8
             },
             {
@@ -7863,8 +7863,8 @@ window.PREDICTIONS_DATA = [
             {
               "code": "SL",
               "abbr": "SL",
-              "pct": 9.7,
-              "velo": 85.4
+              "pct": 9.3,
+              "velo": 85.5
             },
             {
               "code": "CU",
