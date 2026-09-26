@@ -466,8 +466,18 @@ function Chip({ bg, color, border, children }) {
   );
 }
 
-function SummaryBadges({ game, pickProb, awayColor, homeColor, awayName, homeName }) {
+function SummaryBadges({ game, pickProb, awayColor, homeColor, awayName, homeName, isPreview = false }) {
   const badges = [];
+
+  // 0-a. 내일 미리보기 배지 (최우선 표시)
+  if (isPreview) {
+    badges.push(
+      <Chip key="preview" bg="#EFF6FF" color="#1D4ED8" border="#BFDBFE"
+        title="This is an early preview for tomorrow's game. Lineups are not yet confirmed and predictions may change significantly.">
+        🔮 Early Preview
+      </Chip>
+    );
+  }
 
   // 0. Lineup / 데이터 신뢰도 표시
   const batSource = game.scorecard?.bat_source;
@@ -610,7 +620,7 @@ function SummaryBadges({ game, pickProb, awayColor, homeColor, awayName, homeNam
 }
 
 // ── Main GameCard ─────────────────────────────────────────────
-export default function GameCard({ game, liveGame = null, defaultOpen = false }) {
+export default function GameCard({ game, liveGame = null, defaultOpen = false, isPreview = false }) {
   const [open, setOpen] = useState(defaultOpen);
 
   const awayName  = game.away || "";
@@ -851,7 +861,7 @@ export default function GameCard({ game, liveGame = null, defaultOpen = false })
         )}
 
         {/* ── Summary badge row ── */}
-        <SummaryBadges game={game} pickProb={pickProb} awayColor={awayColor} homeColor={homeColor} awayName={awayName} homeName={homeName} />
+        <SummaryBadges game={game} pickProb={pickProb} awayColor={awayColor} homeColor={homeColor} awayName={awayName} homeName={homeName} isPreview={isPreview} />
 
         {/* ── Pick reason (analyst note) ── */}
         {game.pick_reason && (
