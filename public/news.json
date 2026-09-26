@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-26T19:17:40.323687+00:00",
+  "updated_at": "2026-09-26T19:32:13.268773+00:00",
   "news": [
+    {
+      "title": "Verlander reaches his finale with stats one can only dream of",
+      "link": "https://www.mlb.com/news/justin-verlander-career-facts-figures-dyk",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bixnchr8k54jgubcewqa",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sarah Langs",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-26T19:22:00+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "Verlander caps iconic career with emotional start and incredible father-daughter moment",
+      "link": "https://www.mlb.com/news/justin-verlander-final-mlb-start",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/h5clhxmflbrke0ebw4pp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-26T19:18:48+00:00",
+      "time_ago": "13m ago"
+    },
     {
       "title": "Despite wrist issue, Gunnar doesn't want to make excuses for down '26",
       "link": "https://www.mlb.com/news/gunnar-henderson-wrist-issue-2026-season-orioles",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-26T18:27:31+00:00",
-      "time_ago": "50m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Scherzer to wait on retirement decision, wants to 'see how things unfold'",
@@ -25,20 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-26T18:18:28+00:00",
-      "time_ago": "59m ago"
-    },
-    {
-      "title": "Verlander reaches his finale with stats one can only dream of",
-      "link": "https://www.mlb.com/news/justin-verlander-career-facts-figures-dyk",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bixnchr8k54jgubcewqa",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sarah Langs",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-26T17:03:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "2 days to go and still 3 TIGHT races",
@@ -90,19 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-26T06:22:00+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "Consequential 6th in loss to A's could prove costly for Astros' AL West hopes",
-      "link": "https://www.mlb.com/news/astros-stay-even-with-rangers-in-al-west-with-loss-to-athletics",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bxnuostyjxinbwvocjjl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-26T06:13:00+00:00",
       "time_ago": "13h ago"
     }
   ]
