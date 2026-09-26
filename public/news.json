@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-26T06:27:53.172455+00:00",
+  "updated_at": "2026-09-26T07:13:11.513355+00:00",
   "news": [
+    {
+      "title": "Missed chance to lock up No. 4 seed prompts questions about Mize's playoff roster case",
+      "link": "https://www.mlb.com/news/padres-miss-chance-to-clinch-no-4-seed-in-loss-to-d-backs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cjggcollul6bbidmmqhh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Courtney Hollmon",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-26T06:50:00+00:00",
+      "time_ago": "23m ago"
+    },
     {
       "title": "'Something magical' going on as surging D-backs narrow Wild Card gap to 1",
       "link": "https://www.mlb.com/news/diamondbacks-gain-on-phillies-in-nl-wild-card-race-with-sixth-straight-win",
@@ -12,7 +25,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-26T06:22:00+00:00",
-      "time_ago": "5m ago"
+      "time_ago": "51m ago"
     },
     {
       "title": "Consequential 6th in loss to A's could prove costly for Astros' AL West hopes",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-26T06:13:00+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Guardians squeeze out unsightly win over Royals in AL Central race",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-26T06:06:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Skubal cruises before Sasaki, Scott prep for postseason roles",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-26T05:03:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Arraez's availability for rest of regular season, postseason in doubt",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-26T05:02:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "A 3-way tie for NL Wild Card is in play. Here's how it would shake out",
@@ -90,20 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-26T05:01:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "2 days to go and still 3 TIGHT races",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rao8aqmngnrkb5q3tebe",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-26T04:55:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
