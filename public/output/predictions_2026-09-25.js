@@ -2068,7 +2068,7 @@ window.PREDICTIONS_DATA = [
             "Ben Rice(1.014)",
             "Heliot Ramos(0.760)",
             "Amed Rosario(0.661)",
-            "George Lombard Jr.(0.798)",
+            "George Lombard(0.798)",
             "Spencer Jones(0.607)",
             "Anthony Volpe(0.640)",
             "Ali Sánchez(0.538)",
@@ -2101,7 +2101,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 806146,
-              "name": "George Lombard Jr.",
+              "name": "George Lombard",
               "ops": 0.798,
               "avg": 0.286
             },
@@ -2820,9 +2820,9 @@ window.PREDICTIONS_DATA = [
             "Ben Rice(1.014)",
             "Cody Bellinger(0.703)",
             "Heliot Ramos(0.760)",
-            "Luis García Jr.(0.542)",
+            "Luis García(0.542)",
             "Spencer Jones(0.607)",
-            "Jazz Chisholm Jr.(0.774)",
+            "Jazz Chisholm(0.774)",
             "Anthony Volpe(0.640)",
             "Austin Wells(0.889)",
             "Ryan McMahon(0.607)"
@@ -2848,7 +2848,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671277,
-              "name": "Luis García Jr.",
+              "name": "Luis García",
               "ops": 0.542,
               "avg": 0.105
             },
@@ -2860,7 +2860,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 665862,
-              "name": "Jazz Chisholm Jr.",
+              "name": "Jazz Chisholm",
               "ops": 0.774,
               "avg": 0.324
             },
@@ -5802,7 +5802,7 @@ window.PREDICTIONS_DATA = [
           "lineup_ops": [
             "Charles McAdoo(0.740)",
             "Alejandro Kirk(0.822)",
-            "Vladimir Guerrero Jr.(0.759)",
+            "Vladimir Guerrero(0.759)",
             "George Springer(0.677)",
             "Kazuma Okamoto(0.705)",
             "Nathan Lukes(0.754)",
@@ -5825,7 +5825,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 665489,
-              "name": "Vladimir Guerrero Jr.",
+              "name": "Vladimir Guerrero",
               "ops": 0.759,
               "avg": 0.297
             },
@@ -6364,9 +6364,9 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Drake Baldwin(0.848)",
-            "Ronald Acuña Jr.(0.847)",
+            "Ronald Acuña(0.847)",
             "Matt Olson(0.814)",
-            "Michael Harris II(0.765)",
+            "Michael Harris(0.765)",
             "Mauricio Dubón(0.814)",
             "Ozzie Albies(0.570)",
             "Mike Yastrzemski(0.793)",
@@ -6382,7 +6382,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 660670,
-              "name": "Ronald Acuña Jr.",
+              "name": "Ronald Acuña",
               "ops": 0.847,
               "avg": 0.282
             },
@@ -6394,7 +6394,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671739,
-              "name": "Michael Harris II",
+              "name": "Michael Harris",
               "ops": 0.765,
               "avg": 0.282
             },
@@ -6552,7 +6552,7 @@ window.PREDICTIONS_DATA = [
           "lineup_ops": [
             "Otto Lopez(0.719)",
             "Jakob Marsee(0.938)",
-            "Heriberto Hernández(0.663)",
+            "Heriberto Hernandez(0.663)",
             "Javier Sanoja(0.873)",
             "Griffin Conine(0.827)",
             "Agustín Ramírez(0.816)",
@@ -6575,7 +6575,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 681715,
-              "name": "Heriberto Hernández",
+              "name": "Heriberto Hernandez",
               "ops": 0.663,
               "avg": 0.244
             },
@@ -8676,7 +8676,7 @@ window.PREDICTIONS_DATA = [
             "Thomas Saggese(0.463)",
             "Masyn Winn(0.529)",
             "Pedro Pagés(0.535)",
-            "Victor Scott II(0.372)"
+            "Victor Scott(0.372)"
           ],
           "lineup_players": [
             {
@@ -8729,7 +8729,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 687363,
-              "name": "Victor Scott II",
+              "name": "Victor Scott",
               "ops": 0.372,
               "avg": 0.111
             }
