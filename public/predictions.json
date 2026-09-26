@@ -690,9 +690,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "New York Mets",
     "model_winner": "Washington Nationals",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "New York Mets IL: Christian Scott, Daniel Duarte, Jared Young, Jorge Polanco, Reed Garrett 외 다수 / Washington Nationals IL: Drew Millas, Ken Waldichuk, Matt Waldron, Mitchell Parker, Orlando Ribalta 외 다수",
     "kalshi_prob": 50.0,
     "edge": 11.5,
