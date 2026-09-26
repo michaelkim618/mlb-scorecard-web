@@ -1388,7 +1388,7 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Carter Jensen(0.869)",
-            "Bobby Witt(0.767)",
+            "Bobby Witt Jr.(0.767)",
             "Vinnie Pasquantino(0.919)",
             "Salvador Perez(0.663)",
             "Michael Massey(0.647)",
@@ -1406,7 +1406,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 677951,
-              "name": "Bobby Witt",
+              "name": "Bobby Witt Jr.",
               "ops": 0.767,
               "avg": 0.308
             },
@@ -1963,7 +1963,7 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Otto Lopez(0.719)",
-            "Heriberto Hernandez(0.663)",
+            "Heriberto Hernández(0.663)",
             "Jakob Marsee(0.938)",
             "Javier Sanoja(0.873)",
             "Agustín Ramírez(0.816)",
@@ -1981,7 +1981,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 681715,
-              "name": "Heriberto Hernandez",
+              "name": "Heriberto Hernández",
               "ops": 0.663,
               "avg": 0.244
             },
@@ -5754,7 +5754,7 @@ window.PREDICTIONS_DATA = [
             "Yandy Díaz(0.584)",
             "Liam Hicks(0.666)",
             "Junior Caminero(0.734)",
-            "Victor Mesa(0.749)",
+            "Victor Mesa Jr.(0.749)",
             "Chandler Simpson(0.704)",
             "Jonny DeLuca(0.698)",
             "Richie Palacios(0.766)",
@@ -5782,7 +5782,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 683748,
-              "name": "Victor Mesa",
+              "name": "Victor Mesa Jr.",
               "ops": 0.749,
               "avg": 0.219
             },
@@ -5926,7 +5926,7 @@ window.PREDICTIONS_DATA = [
             "Heliot Ramos(0.760)",
             "Ben Rice(1.014)",
             "Amed Rosario(0.661)",
-            "George Lombard(0.798)",
+            "George Lombard Jr.(0.798)",
             "Anthony Volpe(0.640)",
             "Austin Wells(0.889)",
             "José Caballero(0.644)"
@@ -5964,7 +5964,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 806146,
-              "name": "George Lombard",
+              "name": "George Lombard Jr.",
               "ops": 0.798,
               "avg": 0.286
             },
@@ -6660,9 +6660,9 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Drake Baldwin(0.848)",
-            "Ronald Acuña(0.847)",
+            "Ronald Acuña Jr.(0.847)",
             "Matt Olson(0.814)",
-            "Michael Harris(0.765)",
+            "Michael Harris II(0.765)",
             "Mauricio Dubón(0.814)",
             "Ozzie Albies(0.570)",
             "Mike Yastrzemski(0.793)",
@@ -6678,7 +6678,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 660670,
-              "name": "Ronald Acuña",
+              "name": "Ronald Acuña Jr.",
               "ops": 0.847,
               "avg": 0.282
             },
@@ -6690,7 +6690,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671739,
-              "name": "Michael Harris",
+              "name": "Michael Harris II",
               "ops": 0.765,
               "avg": 0.282
             },
