@@ -16921,6 +16921,30 @@
       "away_bp_score": 65.5,
       "home_bp_score": 52.3,
       "bat_source": "prev_day"
+    },
+    {
+      "date": "2026-09-26",
+      "away": "Cincinnati Reds",
+      "home": "Toronto Blue Jays",
+      "game_number": 1,
+      "pick": "Toronto Blue Jays",
+      "pick_prob": 59.8,
+      "actual_winner": "Cincinnati Reds",
+      "away_score": 0,
+      "home_score": 0,
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "stable",
+      "away_sp_era": 6.62,
+      "home_sp_era": 3.56,
+      "away_bp_era": 3.96,
+      "home_bp_era": 3.11,
+      "away_sp_score": 29.0,
+      "home_sp_score": 58.9,
+      "away_bp_score": 49.9,
+      "home_bp_score": 72.5,
+      "bat_source": "lineup"
     }
   ]
 }

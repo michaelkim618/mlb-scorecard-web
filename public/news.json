@@ -1,18 +1,44 @@
 {
-  "updated_at": "2026-09-26T21:21:23.420675+00:00",
+  "updated_at": "2026-09-26T21:55:27.701219+00:00",
   "news": [
+    {
+      "title": "Lowder puts bow on first full season with quality start",
+      "link": "https://www.mlb.com/news/rhett-lowder-finishes-2026-with-scoreless-start",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ey6ssbxhrqgolynzdcf2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Sheldon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-26T21:48:24+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "As Verlander hangs up cleats, he and Scherzer have one last matter to settle",
+      "link": "https://www.mlb.com/news/justin-verlander-max-scherzer-connected-by-strikeouts-legacy",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dx6f0a5fl4elupntwxg9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-26T20:59:21+00:00",
+      "time_ago": "56m ago"
+    },
     {
       "title": "Day for the ages: Verlander's final start, incredible father-daughter moment AND a walk-off HR!",
       "link": "https://www.mlb.com/news/justin-verlander-final-mlb-start",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gjewfjf7119qbmwjgip9",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ymogxrr4ks3novrubgjh",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Jason Beck",
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-26T20:23:00+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yanks-O's game time on Sunday moved up to 1:05 p.m. ET",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-26T19:22:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Despite wrist issue, Gunnar doesn't want to make excuses for down '26",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-26T18:27:31+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Scherzer to wait on retirement decision, wants to 'see how things unfold'",
@@ -67,7 +93,7 @@
       "time_ago": "3h ago"
     },
     {
-      "title": "2 days to go and still 3 TIGHT races",
+      "title": "3 TIGHT races still left to settle on final weekend of regular season",
       "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rao8aqmngnrkb5q3tebe",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-09-26T15:00:00+00:00",
       "time_ago": "6h ago"
-    },
-    {
-      "title": "A pair of 3-way ties are in play in the NL Wild Card race. Here's how they would shake out",
-      "link": "https://www.mlb.com/news/who-would-win-a-3-way-tie-in-the-nl-wild-card",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x1juj2ot9wkuj3wfdio4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Andrew Simon",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-26T14:00:00+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "Missed chance to lock up No. 4 seed prompts questions about Mize's playoff roster case",
-      "link": "https://www.mlb.com/news/padres-miss-chance-to-clinch-no-4-seed-in-loss-to-d-backs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cjggcollul6bbidmmqhh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Courtney Hollmon",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-26T06:50:00+00:00",
-      "time_ago": "14h ago"
     }
   ]
 }
