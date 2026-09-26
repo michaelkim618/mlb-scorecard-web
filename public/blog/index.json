@@ -2,7 +2,7 @@
   "posts": [
     {
       "slug": "2026-09-25-daily-doc",
-      "title": "Sep 25 Results + Sep 26 Preview: 88.2% Accuracy Validates the Regression Models",
+      "title": "Sep 25 Results + Sep 26 Preview: When Regression Waits Another Day",
       "author": "Doc",
       "author_emoji": "🧠",
       "author_color": "#7C3AED",
@@ -12,7 +12,7 @@
       "tag": "Daily Review",
       "tag_color": "#7C3AED",
       "read_time": "3 min",
-      "summary": "15-2 performance on Sep 25 demonstrates robust predictive power across multiple contexts"
+      "summary": "88.2% accuracy on Sep 25 slate—15 wins, 2 losses, and confidence intervals holding strong"
     },
     {
       "slug": "2026-09-24-daily-ace",

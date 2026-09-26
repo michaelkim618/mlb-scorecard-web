@@ -3467,10 +3467,10 @@ window.PREDICTIONS_DATA = [
       "home_defense": 49.6
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -6195,7 +6195,7 @@ window.PREDICTIONS_DATA = [
             "Thomas Saggese(0.463)",
             "Masyn Winn(0.529)",
             "Pedro Pagés(0.535)",
-            "Victor Scott(0.372)"
+            "Victor Scott II(0.372)"
           ],
           "lineup_players": [
             {
@@ -6248,7 +6248,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 687363,
-              "name": "Victor Scott",
+              "name": "Victor Scott II",
               "ops": 0.372,
               "avg": 0.111
             }
@@ -6480,8 +6480,8 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Milwaukee Brewers",
     "model_correct": null,
     "notes": "St. Louis Cardinals IL: Blaze Jordan, Everson Pereira, Hunter Dobbins, Joshua Báez, Max Rajcic / Milwaukee Brewers IL: Andrew Vaughn, Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Grant Anderson 외 다수",
-    "kalshi_prob": 58.0,
-    "edge": -8.0,
+    "kalshi_prob": 59.0,
+    "edge": -9.0,
     "value_bet": "⏭️ 패스 (박빙 경기 — 예측 신뢰도 낮음)",
     "extreme_edge": false,
     "consensus": false,
