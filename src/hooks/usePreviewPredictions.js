@@ -14,10 +14,11 @@ export function usePreviewPredictions() {
   const [previewDate, setPreviewDate] = useState(null);
 
   useEffect(() => {
-    // 내일 날짜 계산 (브라우저 로컬 기준)
+    // 내일 날짜 계산 (브라우저 로컬 기준 — toISOString은 UTC 변환으로 타임존 오류 발생)
     const tomorrow = new Date();
     tomorrow.setDate(tomorrow.getDate() + 1);
-    const tomorrowStr = tomorrow.toISOString().split("T")[0];
+    const pad = n => String(n).padStart(2, "0");
+    const tomorrowStr = `${tomorrow.getFullYear()}-${pad(tomorrow.getMonth() + 1)}-${pad(tomorrow.getDate())}`;
     setPreviewDate(tomorrowStr);
 
     const scriptId  = "predictions-preview-script";
