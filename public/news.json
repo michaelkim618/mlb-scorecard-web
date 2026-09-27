@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-27T05:29:13.348209+00:00",
+  "updated_at": "2026-09-27T06:11:53.590251+00:00",
   "news": [
+    {
+      "title": "Guardians clinch 7th Central title in last 11 years, secure 1st-round bye",
+      "link": "https://www.mlb.com/news/guardians-clinch-2026-al-central-title",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dypf9dlkmqfjox5urfap",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T05:24:00+00:00",
+      "time_ago": "47m ago"
+    },
     {
       "title": "Bottom of the order steps up to keep Rangers' AL West hopes alive entering Game 162",
       "link": "https://www.mlb.com/news/rangers-win-over-twins-keeps-al-west-title-hopes-alive",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T05:20:00+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "51m ago"
     },
     {
       "title": "D-backs going down to the wire, needing win and help on final day",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T05:08:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Padres lock up No. 4 seed, will host Cubs in Wild Card Series",
@@ -38,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-27T05:00:00+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Reeling Phillies have one more game to save their season",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T04:50:00+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "AL West up for grabs: Here's how Astros or Rangers can win it in Game 162",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T04:44:00+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Astros control destiny in Game 162 as they battle for AL West crown",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T04:41:09+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Caminero (again) meets goals of 40 HRs, 100 RBIs; 162 starts is next",
@@ -90,20 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-27T04:39:00+00:00",
-      "time_ago": "50m ago"
-    },
-    {
-      "title": "Final 2 playoff spots going down to the wire",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/brjwwqewwxoojqbn1ir9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-27T04:35:00+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
