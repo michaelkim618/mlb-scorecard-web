@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-26T23:41:46.353073+00:00",
+  "updated_at": "2026-09-27T00:01:40.774159+00:00",
   "news": [
+    {
+      "title": "Cap Yeli! Brewers name Yelich first captain in franchise history",
+      "link": "https://www.mlb.com/news/christian-yelich-named-first-captain-in-brewers-history",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nc01hlryvszwlwgbebpq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-26T23:36:23+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "Espino looking to become key piece in Guardians' postseason bullpen",
+      "link": "https://www.mlb.com/news/daniel-espino-helping-to-bolster-guardians-bullpen",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/s7vkyioyrcenszqo3uum",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-26T23:32:37+00:00",
+      "time_ago": "29m ago"
+    },
     {
       "title": "Lowder puts bow on first full season with quality start",
       "link": "https://www.mlb.com/news/rhett-lowder-finishes-2026-with-scoreless-start",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-26T23:24:00+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "Suarez tunes up for playoffs with 2nd appearance after injury",
@@ -25,7 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-26T23:15:28+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "46m ago"
     },
     {
       "title": "Snell shows he's ready to reprise role in LA's postseason rotation behemoth",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-26T23:01:10+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Hot-hitting Ortiz undergoes MRI on knee ahead of postseason",
@@ -77,32 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-26T22:23:22+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Yates does a personal first and helps make MLB history in 518th and final appearance",
-      "link": "https://www.mlb.com/news/kirby-yates-makes-final-mlb-appearance-before-retiring",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ojjlhkoekqtzkclqhgrb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-26T22:11:35+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "McCullough receives hard-hitting 2-part question ... from his son",
-      "link": "https://www.mlb.com/news/clayton-mccullough-interviewed-by-kids-on-marlins-broadcast",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iq8hn87o9ue22jpakaoe",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Christina De Nicola",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-26T22:05:17+00:00",
       "time_ago": "1h ago"
     }
   ]
