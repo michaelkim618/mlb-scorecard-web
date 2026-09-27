@@ -2751,9 +2751,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Houston Astros",
     "model_winner": "Houston Astros",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Houston Astros IL: Brandon Walter, Brice Matthews, Carlos Correa, Cristian Javier, Daulton Varsho 외 다수 / Athletics IL: Brent Rooker, Brooks Kriske, Gage Jump, Gunnar Hoglund, J.T. Ginn 외 다수",
     "kalshi_prob": 35.0,
     "edge": 13.0,
@@ -7188,9 +7188,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Seattle Mariners",
     "model_winner": "Seattle Mariners",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Los Angeles Angels IL: Anthony Rendon, Ben Joyce, George Klassen, Gustavo Campero, Jack Kochanowicz 외 다수 / Seattle Mariners IL: Andrés Muñoz, Brendan Donovan, Brennen Davis, Brock Rodden, Cole Wilcox 외 다수",
     "kalshi_prob": 59.0,
     "edge": 0.4,

@@ -1,18 +1,96 @@
 {
-  "updated_at": "2026-09-27T21:58:05.393354+00:00",
+  "updated_at": "2026-09-27T22:23:42.628305+00:00",
   "news": [
+    {
+      "title": "After 20-31 start, Astros back in postseason as AL West champs",
+      "link": "https://www.mlb.com/news/astros-clinch-2026-al-west-title",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tfj5zellm24n0qy86miu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T22:16:00+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Wilson won't be back as Mariners' manager in 2027 (sources)",
+      "link": "https://www.mlb.com/news/dan-wilson-won-t-return-mariners-manager-2027",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wghual75xtusnxuzcijz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T22:06:00+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "D-backs' late, hard-fought push for postseason ends with Game 162",
+      "link": "https://www.mlb.com/news/diamondbacks-eliminated-from-2026-postseason-contention",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790544272/mlb/ypzqt5cgahgtt819lpz7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Steve Gilbert",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T22:03:00+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "Dodgers end season with 100th win, questions about Ohtani",
+      "link": "https://www.mlb.com/news/shohei-ohtani-hopes-to-shake-off-rust-heading-into-2026-postseason",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790542829/mlb/m7meun5hyr4coajxd7kx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T22:02:19+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "The playoff field is set! See the final bracket",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/s4nhwxua54e8wzh31wb0",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-27T21:54:00+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "Willson returns to lineup, hopeful for WC Series; Gasper, Guerrero placed on IL",
+      "link": "https://www.mlb.com/news/willson-contreras-returns-to-lineup-might-play-in-wild-card-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790533705/mlb/bb4yehgjxzelnwwibean",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Joey Johnston",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-27T21:52:00+00:00",
+      "time_ago": "31m ago"
+    },
     {
       "title": "What you need to know about the Wild Card Series matchups",
       "link": "https://www.mlb.com/news/mlb-2026-wild-card-series-matchups",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qimlx3x1hxnlkpignpzg",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/s4nhwxua54e8wzh31wb0",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "MLB.com",
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-27T21:51:00+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "32m ago"
     },
     {
       "title": "Rangers eliminated from playoff race with loss to Twins",
@@ -25,85 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-27T21:49:40+00:00",
-      "time_ago": "8m ago"
-    },
-    {
-      "title": "Miz deals to wrap one of the most dominant pitching seasons ever",
-      "link": "https://www.mlb.com/news/jacob-misiorowski-finishes-2026-season-strong-vs-cardinals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zfyr5f7qpwetjysyrbxe",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-09-27T21:47:49+00:00",
-      "time_ago": "10m ago"
-    },
-    {
-      "title": "After 20-31 start, Astros back in postseason as AL West champs",
-      "link": "https://www.mlb.com/news/astros-clinch-2026-al-west-title",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hj9ghhqc52t9bbmpednt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T21:40:54+00:00",
-      "time_ago": "17m ago"
-    },
-    {
-      "title": "Emotional Springer says goodbye to Toronto on Scherzer's Hall-worthy day",
-      "link": "https://www.mlb.com/news/george-springer-grateful-for-time-with-blue-jays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vijileu2gzlth6oaxfbv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T21:37:00+00:00",
-      "time_ago": "21m ago"
-    },
-    {
-      "title": "With playoffs on-deck, Colson Montgomery ready to 'turn the page' on tough end to '26",
-      "link": "https://www.mlb.com/news/colson-montgomery-ready-to-turn-page-to-2026-playoffs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790535533/mlb/vhrwutfdvlsfwkfulbhc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-27T21:37:00+00:00",
-      "time_ago": "21m ago"
-    },
-    {
-      "title": "Phillies at last punch playoff ticket after tumultuous week",
-      "link": "https://www.mlb.com/news/phillies-clinch-2026-postseason-berth",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/s2thlaeet9x7xjrpo69v",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-27T21:33:00+00:00",
-      "time_ago": "25m ago"
-    },
-    {
-      "title": "Messick gets final tuneup before potential ALDS Game 1 start",
-      "link": "https://www.mlb.com/news/parker-messick-starts-season-finale-vs-royals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/avhacez2xfcosz6atfuk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T21:30:00+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "34m ago"
     }
   ]
 }
