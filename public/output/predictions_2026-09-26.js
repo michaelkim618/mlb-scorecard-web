@@ -1,4 +1,5 @@
-[
+// Auto-generated (scorecard) — 2026-09-26
+window.PREDICTIONS_DATA = [
   {
     "date": "2026-09-26",
     "status": "Preview",
@@ -690,9 +691,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": "New York Mets",
+    "actual_winner": null,
     "model_winner": "Washington Nationals",
-    "model_correct": false,
+    "model_correct": null,
     "notes": "New York Mets IL: Christian Scott, Daniel Duarte, Jared Young, Jorge Polanco, Reed Garrett 외 다수 / Washington Nationals IL: Drew Millas, Ken Waldichuk, Matt Waldron, Mitchell Parker, Orlando Ribalta 외 다수",
     "kalshi_prob": 50.0,
     "edge": 11.5,
@@ -1315,9 +1316,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": "Detroit Tigers",
+    "actual_winner": null,
     "model_winner": "Pittsburgh Pirates",
-    "model_correct": false,
+    "model_correct": null,
     "notes": "Pittsburgh Pirates IL: Braxton Ashcraft, Endy Rodríguez, Esmerlyn Valdez, Isaac Mattson, Mitch Keller / Detroit Tigers IL: Bailey Horn, Burch Smith, Colt Keith, Jack Flaherty, Kerry Carpenter 외 다수",
     "kalshi_prob": 52.0,
     "edge": -12.4,
@@ -2046,9 +2047,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": "Cincinnati Reds",
+    "actual_winner": null,
     "model_winner": "Toronto Blue Jays",
-    "model_correct": false,
+    "model_correct": null,
     "notes": "Cincinnati Reds IL: Blake Dunn, Chase Burns, Hunter Greene, Julian Garcia, Michael Toglia 외 다수 / Toronto Blue Jays IL: Addison Barger, Anthony Santander, Bowden Francis, Cody Ponce, Dylan Cease 외 다수",
     "kalshi_prob": 59.0,
     "edge": 0.8,
@@ -2730,9 +2731,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": "Los Angeles Dodgers",
+    "actual_winner": null,
     "model_winner": "Los Angeles Dodgers",
-    "model_correct": true,
+    "model_correct": null,
     "notes": "Los Angeles Dodgers IL: Ben Casparius, Brusdar Graterol, Edgardo Henriquez, Eric Lauer, Gavin Stone 외 다수 / San Francisco Giants IL: Adrian Houser, Blade Tidwell, Bryce Eldridge, Carson Whisenhunt, Casey Schmitt 외 다수",
     "kalshi_prob": 27.0,
     "edge": 10.0,
@@ -4207,9 +4208,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": "Atlanta Braves",
+    "actual_winner": null,
     "model_winner": "Atlanta Braves",
-    "model_correct": true,
+    "model_correct": null,
     "notes": "Atlanta Braves IL: Bryce Elder, Hurston Waldrep, Joe Jiménez, Joey Wentz, Lane Thomas 외 다수 / Miami Marlins IL: Adam Mazur, Andrew Nardi, Anthony Bender, Max Meyer, Owen Caissie 외 다수",
     "kalshi_prob": 48.0,
     "edge": -8.7,
@@ -4968,7 +4969,7 @@
       "away": null,
       "home": null
     },
-    "lineup_confirmed": true,
+    "lineup_confirmed": false,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -5729,7 +5730,7 @@
       "away": null,
       "home": null
     },
-    "lineup_confirmed": true,
+    "lineup_confirmed": false,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -6468,7 +6469,7 @@
       "away": null,
       "home": null
     },
-    "lineup_confirmed": true,
+    "lineup_confirmed": false,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -7058,7 +7059,7 @@
       "away": null,
       "home": null
     },
-    "lineup_confirmed": true,
+    "lineup_confirmed": false,
     "sp_tbd": {
       "away": false,
       "home": true,
@@ -7704,7 +7705,7 @@
       "away": null,
       "home": null
     },
-    "lineup_confirmed": true,
+    "lineup_confirmed": false,
     "sp_tbd": {
       "away": true,
       "home": false,
@@ -8456,7 +8457,7 @@
       "away": null,
       "home": null
     },
-    "lineup_confirmed": true,
+    "lineup_confirmed": false,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -9151,7 +9152,7 @@
       "away": null,
       "home": null
     },
-    "lineup_confirmed": true,
+    "lineup_confirmed": false,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -9177,4 +9178,4 @@
     },
     "model_version": "v17"
   }
-]
+];
