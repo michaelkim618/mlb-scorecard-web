@@ -17209,6 +17209,30 @@
       "away_bp_score": 49.4,
       "home_bp_score": 31.1,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-27",
+      "away": "Cleveland Guardians",
+      "home": "Kansas City Royals",
+      "game_number": 1,
+      "pick": "Cleveland Guardians",
+      "pick_prob": 60.7,
+      "actual_winner": "Kansas City Royals",
+      "away_score": 1,
+      "home_score": 1,
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "cold",
+      "away_sp_era": 2.48,
+      "home_sp_era": 6.81,
+      "away_bp_era": 3.06,
+      "home_bp_era": 5.35,
+      "away_sp_score": 72.0,
+      "home_sp_score": 32.0,
+      "away_bp_score": 71.9,
+      "home_bp_score": 22.0,
+      "bat_source": "lineup"
     }
   ]
 }
