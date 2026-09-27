@@ -1,17 +1,17 @@
 {
-  "title": "Sep 26 Results + Sep 27 Preview: Nine Wins and a Solid Saturday",
-  "summary": "Model hit 69.2% on Saturday with 9 wins. Mets-Nationals rematch tomorrow.",
+  "title": "Sep 26 Results + Sep 27 Preview: Nine Wins Never Gets Old",
+  "summary": "69.2% accuracy on Friday's slate - now eyeing Mets-Nationals for Saturday's top play",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Another Winning Saturday in the Books\n\nYou know, after covering this game for as long as I have, a 9-4 day still gets the blood pumping. We hit 69.2% on Saturday's slate, and while it wasn't perfect—nothing ever is in this game—it's the kind of performance that reminds you why we trust the numbers over our gut."
+      "value": "## Another Solid Day in the Books\n\nYou know, after covering this game for as long as I have, a 9-4 day still brings a smile. That's 69.2% accuracy when it matters most - late September baseball where every pitch carries weight. We've seen plenty of these stretched runs before, and the model continues to find edges where others see coin flips."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Saturday W-L",
+          "label": "Friday W-L",
           "value": "9-4"
         },
         {
@@ -19,91 +19,23 @@
           "value": "69.2%"
         },
         {
-          "label": "Best Pick",
-          "value": "Dodgers 63%"
+          "label": "Wins",
+          "value": "9"
+        },
+        {
+          "label": "Losses",
+          "value": "4"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Good, The Bad, and The Expected\n\nThe Dodgers took care of business in San Francisco at 63% confidence—that's the kind of pick that feels good from first pitch to final out. The Rays delivering at 61% against the Phillies? That's why you trust road dogs with the right matchup. Even saw the Rangers squeak one out at 51%, which is about as coin-flip as it gets, but we'll take it.\n\nThe misses? Well, the Nationals got us in the Mets game, the Jays couldn't hold serve against the Reds, and both the Guardians and Red Sox let us down. That's baseball. I've seen worse Saturdays turn into better Sundays."
-    },
-    {
-      "type": "table",
-      "title": "September 26 Full Results",
-      "headers": [
-        "Matchup",
-        "Our Pick",
-        "Confidence",
-        "Result"
-      ],
-      "rows": [
-        [
-          "Mets @ Nationals",
-          "Nationals",
-          "50%",
-          "✗"
-        ],
-        [
-          "Pirates @ Tigers",
-          "Tigers",
-          "50%",
-          "✓"
-        ],
-        [
-          "Reds @ Jays",
-          "Jays",
-          "60%",
-          "✗"
-        ],
-        [
-          "Dodgers @ Giants",
-          "Dodgers",
-          "63%",
-          "✓"
-        ],
-        [
-          "Rangers @ Twins",
-          "Rangers",
-          "51%",
-          "✓"
-        ],
-        [
-          "Braves @ Marlins",
-          "Braves",
-          "60%",
-          "✓"
-        ],
-        [
-          "Guardians @ Royals",
-          "Royals",
-          "52%",
-          "✗"
-        ],
-        [
-          "Rockies @ Sox",
-          "Sox",
-          "60%",
-          "✗"
-        ],
-        [
-          "Cardinals @ Brewers",
-          "Brewers",
-          "50%",
-          "✓"
-        ],
-        [
-          "Rays @ Phillies",
-          "Rays",
-          "61%",
-          "✓"
-        ]
-      ]
+      "value": "## The Hits That Mattered\n\nThe Dodgers took care of business against the Giants at 63% confidence - that's the kind of solid chalk play that builds a winning day. Tampa Bay came through at 61% against the Phillies, and frankly, I've seen the Rays pull off that exact game a hundred times. The Braves handled Miami, the Brewers got past St. Louis, and Texas surprised some folks in Minnesota.\n\nThe misses? Well, the Nationals got us early, the Blue Jays couldn't capitalize, the Royals had other plans, and Boston stumbled at home. That's baseball in September - even the 50-50 calls can sting when they don't break your way."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Saturday's Pick Confidence vs Results",
+      "title": "Sep 26 Prediction Results by Confidence",
       "data": [
         {
           "name": "Nationals",
@@ -127,7 +59,7 @@
         },
         {
           "name": "Rangers",
-          "probability": 51,
+          "probability": 50,
           "result": 1
         },
         {
@@ -171,19 +103,91 @@
       ]
     },
     {
+      "type": "table",
+      "title": "Complete Sep 26 Results Breakdown",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Mets @ Nationals",
+          "Nationals",
+          "50%",
+          "✗"
+        ],
+        [
+          "Pirates @ Tigers",
+          "Tigers",
+          "50%",
+          "✓"
+        ],
+        [
+          "Reds @ Jays",
+          "Jays",
+          "60%",
+          "✗"
+        ],
+        [
+          "Dodgers @ Giants",
+          "Dodgers",
+          "63%",
+          "✓"
+        ],
+        [
+          "Rangers @ Twins",
+          "Rangers",
+          "50%",
+          "✓"
+        ],
+        [
+          "Braves @ Marlins",
+          "Braves",
+          "60%",
+          "✓"
+        ],
+        [
+          "Guardians @ Royals",
+          "Royals",
+          "52%",
+          "✗"
+        ],
+        [
+          "Rockies @ Sox",
+          "Sox",
+          "60%",
+          "✗"
+        ],
+        [
+          "Cardinals @ Brewers",
+          "Brewers",
+          "50%",
+          "✓"
+        ],
+        [
+          "Rays @ Phillies",
+          "Rays",
+          "61%",
+          "✓"
+        ]
+      ]
+    },
+    {
       "type": "text",
-      "value": "## Tomorrow's Top Pick: Mets Get Another Shot\n\nHere's what I love about this game—immediate redemption. The Mets couldn't get it done against the Nationals on Saturday, but Sunday brings a fresh matchup and a fresh opportunity. Sean Manaea gets the ball for New York against DJ Herz, and the model likes the Mets at 53%.\n\nNow, 53% isn't screaming confidence, and I've been around long enough to know that any pick against a team that just beat you the day before requires a little extra faith. But Manaea's been solid down the stretch, and sometimes the best bet is on a good team bouncing back after a tough loss."
+      "value": "## Tomorrow's Top Pick Preview\n\nHere's the thing about the Mets and Nationals - we just saw this matchup yesterday, and now we're flipping the script. Sean Manaea gets the ball for New York against DJ Herz, and the model likes the Mets at 53%. It's not a screaming play, but I've learned over the years that September divisional rematches often come down to who adjusted better overnight.\n\nManaea has been steady when the Mets need him to be, and Herz is still finding his way at this level. Nothing flashy here - just a veteran pitcher with something to prove against a young arm in a ballpark that's seen its share of surprising outcomes."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Sunday's Top Pick",
+      "title": "⭐ Saturday's Top Pick - Sep 27",
       "value": "New York Mets @ Washington Nationals",
-      "sub": "Pick: Mets (53%) · Manaea vs Herz · Bounce-back spot for New York"
+      "sub": "Pick: Mets (53%) • Manaea vs Herz • Trust the veteran arm"
     },
     {
       "type": "text",
-      "value": "## The Sunday Outlook\n\nSunday baseball has a rhythm all its own. Day games, getaway games, bullpens stretched thin from Saturday's action. The teams that manage their energy best usually cash tickets. The Mets have been in these situations a thousand times, and with Manaea on the mound, they've got the right guy to settle things down.\n\nI've seen this script before: good team loses a close one, comes back the next day focused and ready. That's what we're banking on tomorrow. Let's get back in the win column."
+      "value": "## The Veteran's Take\n\nI've covered enough late-season series to know that momentum matters, but so does matchup quality. The Mets lost Friday's opener, and typically that lights a fire. Manaea knows what's at stake, and that 53% edge might not look like much on paper, but in this context? I'll take the experienced left-hander getting one more chance to silence the home crowd.\n\nSee you Saturday with the results. Stay sharp out there."
     }
   ],
   "slug": "2026-09-26-daily-max",

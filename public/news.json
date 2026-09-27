@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-27T17:38:41.329390+00:00",
+  "updated_at": "2026-09-27T17:54:56.087884+00:00",
   "news": [
+    {
+      "title": "What to know ahead of Cubs-Padres Wild Card Series matchup",
+      "link": "https://www.mlb.com/news/cubs-vs-padres-wild-card-series-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rfmhzptsqnqjdzoyn4gu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian and AJ Cassavell",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-27T17:43:03+00:00",
+      "time_ago": "11m ago"
+    },
     {
       "title": "Luzardo activated off IL for Game 162; Urquidy DFA'd",
       "link": "https://www.mlb.com/news/jesus-luzardo-activated-from-injured-list",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T15:42:57+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Final 2 playoff spots going down to the wire",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T05:20:00+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "D-backs going down to the wire, needing win and help on final day",
-      "link": "https://www.mlb.com/news/diamondbacks-go-into-final-day-of-regular-season-with-playoff-hopes",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/squor61hnhv3owesp7wv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T05:08:00+00:00",
       "time_ago": "12h ago"
     }
   ]

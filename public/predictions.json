@@ -2946,7 +2946,7 @@
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": true,
@@ -3231,15 +3231,15 @@
           "closer_era": 3.33,
           "closer_name": "Hogan Harris"
         },
-        "bat_score": 30.4,
+        "bat_score": 30.6,
         "bat_detail": {
-          "recent_avg": 0.256,
+          "recent_avg": 0.245,
           "runs_per_g": 4.2,
           "hr_per_g": 1.1,
           "bb_per_g": 3.0,
-          "season_ops": 0.733,
+          "season_ops": 0.745,
           "season_slg": null,
-          "season_avg": 0.256,
+          "season_avg": 0.245,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -3248,12 +3248,12 @@
             "Henry Bolte(0.841)",
             "Lawrence Butler(0.806)",
             "Shea Langeliers(0.655)",
-            "Jeff McNeil(0.704)",
             "Zack Gelof(0.931)",
+            "Jeff McNeil(0.704)",
             "Donovan Walton(0.766)",
+            "Joshua Kuroda-Grauer(0.899)",
             "Carlos Cortes(0.670)",
-            "Tommy White(0.697)",
-            "Jonah Heim(0.526)"
+            "Brian Serven(0.431)"
           ],
           "lineup_players": [
             {
@@ -3275,16 +3275,16 @@
               "avg": 0.214
             },
             {
-              "id": 643446,
-              "name": "Jeff McNeil",
-              "ops": 0.704,
-              "avg": 0.25
-            },
-            {
               "id": 680869,
               "name": "Zack Gelof",
               "ops": 0.931,
               "avg": 0.342
+            },
+            {
+              "id": 643446,
+              "name": "Jeff McNeil",
+              "ops": 0.704,
+              "avg": 0.25
             },
             {
               "id": 622268,
@@ -3293,22 +3293,22 @@
               "avg": 0.222
             },
             {
+              "id": 811965,
+              "name": "Joshua Kuroda-Grauer",
+              "ops": 0.899,
+              "avg": 0.3
+            },
+            {
               "id": 666126,
               "name": "Carlos Cortes",
               "ops": 0.67,
               "avg": 0.16
             },
             {
-              "id": 695720,
-              "name": "Tommy White",
-              "ops": 0.697,
-              "avg": 0.32
-            },
-            {
-              "id": 641680,
-              "name": "Jonah Heim",
-              "ops": 0.526,
-              "avg": 0.156
+              "id": 661531,
+              "name": "Brian Serven",
+              "ops": 0.431,
+              "avg": 0.077
             }
           ],
           "bat_trend": "hot",
@@ -3334,14 +3334,14 @@
     "scores": {
       "away_offense": 50.400000000000006,
       "away_defense": 53.1,
-      "home_offense": 30.4,
+      "home_offense": 30.6,
       "home_defense": 28.1
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
