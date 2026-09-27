@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-27T05:11:48.415082+00:00",
+  "updated_at": "2026-09-27T05:29:13.348209+00:00",
   "news": [
+    {
+      "title": "Bottom of the order steps up to keep Rangers' AL West hopes alive entering Game 162",
+      "link": "https://www.mlb.com/news/rangers-win-over-twins-keeps-al-west-title-hopes-alive",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pkis0g3clshg6ypsqbbs",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kennedi Landry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T05:20:00+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "D-backs going down to the wire, needing win and help on final day",
+      "link": "https://www.mlb.com/news/diamondbacks-go-into-final-day-of-regular-season-with-playoff-hopes",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/squor61hnhv3owesp7wv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Steve Gilbert",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T05:08:00+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "Padres lock up No. 4 seed, will host Cubs in Wild Card Series",
+      "link": "https://www.mlb.com/news/padres-secure-home-field-in-nl-wild-card-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790479126/mlb/tt8paj6wspfeyqw4k3vu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-27T05:00:00+00:00",
+      "time_ago": "29m ago"
+    },
     {
       "title": "Reeling Phillies have one more game to save their season",
       "link": "https://www.mlb.com/news/phillies-lose-to-rays-unable-to-clinch-playoff-spot-again",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T04:50:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "39m ago"
     },
     {
       "title": "AL West up for grabs: Here's how Astros or Rangers can win it in Game 162",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T04:44:00+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "Astros control destiny in Game 162 as they battle for AL West crown",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T04:41:09+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "Caminero (again) meets goals of 40 HRs, 100 RBIs; 162 starts is next",
@@ -51,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-27T04:39:00+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Final 2 playoff spots going down to the wire",
@@ -64,46 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-27T04:35:00+00:00",
-      "time_ago": "36m ago"
-    },
-    {
-      "title": "Here's what's at stake on the final day of the season",
-      "link": "https://www.mlb.com/news/top-things-at-stake-final-week-2026-mlb-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qvzkffcj2yr1damfkxbb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brent Maguire",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T04:26:00+00:00",
-      "time_ago": "45m ago"
-    },
-    {
-      "title": "Disappointed? Sure. But White Sox are excited for what's next",
-      "link": "https://www.mlb.com/news/white-sox-al-wild-card-berth-loss-rockies-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xpufgoj459w1fhjrkhuu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T04:05:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "How the D-backs can pass the Phillies for the final NL Wild Card spot",
-      "link": "https://www.mlb.com/news/diamondbacks-scenarios-for-making-the-playoffs-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g5abxfvdeea5twjz9qam",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-27T04:03:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "54m ago"
     }
   ]
 }
