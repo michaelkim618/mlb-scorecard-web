@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-27T18:35:17.518781+00:00",
+  "updated_at": "2026-09-27T18:48:27.628041+00:00",
   "news": [
+    {
+      "title": "NL batting leader Moreno scratched from D-backs' finale",
+      "link": "https://www.mlb.com/news/gabriel-moreno-scratched-from-d-backs-season-finale",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790400996/mlb/i5utwblaxlg43hlwjggi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T18:31:57+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "Yanks set Wild Card Series rotation, with Schlittler for Game 1",
       "link": "https://www.mlb.com/news/cam-schlittler-to-start-game-1-of-al-wild-card-series",
@@ -12,7 +25,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-27T18:22:46+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "25m ago"
     },
     {
       "title": "Fan favorite Geno grateful for second act in Cincinnati",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T18:22:00+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "26m ago"
     },
     {
       "title": "What to know ahead of Red Sox-Yankees Wild Card Series rematch",
@@ -38,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-27T18:13:00+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "35m ago"
     },
     {
       "title": "Luzardo activated off IL for Game 162, though Phils not sure how (or if) he'll be used",
@@ -51,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-27T18:06:00+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "What to know ahead of Cubs-Padres Wild Card Series matchup",
@@ -64,7 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-27T17:43:03+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Wild Card Series game times announced",
@@ -77,19 +90,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-27T16:03:13+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Rays-Phillies finale start time moved to 2:30 p.m. ET",
-      "link": "https://www.mlb.com/news/rays-phillies-sept-27-2026-game-time-update",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ghl9rtmfjunbj9zqnz0i",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T15:42:57+00:00",
       "time_ago": "2h ago"
     },
     {
