@@ -1,0 +1,198 @@
+{
+  "title": "Sep 26 Results + Sep 27 Preview: When You've Been Around, 69% Feels Like a Tuesday",
+  "summary": "9-4 record on Sep 26 keeps us rolling—now eyeing Mets-Nationals for Saturday's action",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Another Solid Friday in the Books\n\nLook, I've been doing this long enough to know that 9-4 isn't going to make headlines, but it's the kind of day that builds a bankroll. 69.2% accuracy on a 13-game slate? I'll take that every single time. The model hummed along nicely yesterday, and if you've been following our picks, you know we're not chasing perfection—we're chasing value."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Sep 26 Record",
+          "value": "9-4"
+        },
+        {
+          "label": "Win Rate",
+          "value": "69.2%"
+        },
+        {
+          "label": "Games Analyzed",
+          "value": "13"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Hits and Misses\n\nThe Dodgers-Giants pick at 63% confidence was textbook—you could see that one coming from a mile away. Same with the Rays sneaking past Philly at 61%. Those are the spots where the data and the eye test align perfectly.\n\nThe misses? Well, the Nationals getting one over on us stings a bit, especially since we're going right back to that well tomorrow. The Red Sox stumble against the Rockies was one of those September games where motivation matters more than talent. I've seen it a hundred times."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Sep 26 Prediction Confidence vs Results",
+      "data": [
+        {
+          "name": "Nationals",
+          "probability": 50,
+          "result": 0
+        },
+        {
+          "name": "Tigers",
+          "probability": 50,
+          "result": 1
+        },
+        {
+          "name": "Jays",
+          "probability": 60,
+          "result": 0
+        },
+        {
+          "name": "Dodgers",
+          "probability": 63,
+          "result": 1
+        },
+        {
+          "name": "Rangers",
+          "probability": 51,
+          "result": 1
+        },
+        {
+          "name": "Braves",
+          "probability": 60,
+          "result": 1
+        },
+        {
+          "name": "Royals",
+          "probability": 52,
+          "result": 0
+        },
+        {
+          "name": "Red Sox",
+          "probability": 60,
+          "result": 0
+        },
+        {
+          "name": "Brewers",
+          "probability": 50,
+          "result": 1
+        },
+        {
+          "name": "Rays",
+          "probability": 61,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Complete Sep 26 Results Breakdown",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Mets @ Nationals",
+          "Nationals",
+          "50%",
+          "✗"
+        ],
+        [
+          "Pirates @ Tigers",
+          "Tigers",
+          "50%",
+          "✓"
+        ],
+        [
+          "Reds @ Jays",
+          "Jays",
+          "60%",
+          "✗"
+        ],
+        [
+          "Dodgers @ Giants",
+          "Dodgers",
+          "63%",
+          "✓"
+        ],
+        [
+          "Rangers @ Twins",
+          "Rangers",
+          "51%",
+          "✓"
+        ],
+        [
+          "Braves @ Marlins",
+          "Braves",
+          "60%",
+          "✓"
+        ],
+        [
+          "Guardians @ Royals",
+          "Royals",
+          "52%",
+          "✗"
+        ],
+        [
+          "Rockies @ Red Sox",
+          "Red Sox",
+          "60%",
+          "✗"
+        ],
+        [
+          "Cardinals @ Brewers",
+          "Brewers",
+          "50%",
+          "✓"
+        ],
+        [
+          "Rays @ Phillies",
+          "Rays",
+          "61%",
+          "✓"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Looking Ahead to Saturday's Slate\n\nHere's where experience comes into play. The Mets-Nationals rematch is our top pick for September 27th, and yes, I know we just missed on Washington yesterday. But this is a different pitching matchup, and sometimes the best play is going right back to the well.\n\nSean Manaea gets the ball for New York, and he's been one of those steady September performers who knows how to navigate lineups this time of year. DJ Herz for Washington? He's got talent, but I've seen enough young arms hit the wall in late September to know where the edge is here."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Saturday's Top Pick - Sep 27",
+      "value": "New York Mets @ Washington Nationals",
+      "sub": "Pick: New York Mets (52%) • Manaea vs Herz • First pitch Saturday"
+    },
+    {
+      "type": "text",
+      "value": "## The September Factor\n\nYou know what I love about late September baseball? The narratives write themselves, but the numbers don't lie. The Mets are playing meaningful games right now. Washington's playing out the string. That 52% confidence might look thin on paper, but factor in the context—the urgency, the veteran presence, the pitching edge—and this is exactly the kind of spot where experience beats raw talent.\n\nI've been around long enough to know that a coin flip game with context becomes a 55-45 edge real quick. And that's all we need.\n\nSee you tomorrow with the full slate breakdown. Let's keep this thing rolling."
+    }
+  ],
+  "slug": "2026-09-26-daily-max",
+  "author": "Max",
+  "author_emoji": "📰",
+  "author_role": "Senior Reporter",
+  "author_color": "#16A34A",
+  "date": "2026-09-26",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#16A34A"
+}

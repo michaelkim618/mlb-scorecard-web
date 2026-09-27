@@ -1340,7 +1340,7 @@
       "losses": 2,
       "streak": 2
     },
-    "away_pitcher": "Shota Imanaga (TBD)",
+    "away_pitcher": "Shota Imanaga",
     "away_pitcher_id": 684007,
     "away_pitcher_stats": {
       "wins": 11,
@@ -1469,12 +1469,12 @@
     "home_pitcher_gamelog": [],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 45.8,
-      "home": 54.2
+      "away": 58.1,
+      "home": 41.9
     },
     "expected_score": {
       "away": 2.0,
-      "home": 1.8
+      "home": 1.7
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -1492,7 +1492,7 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 45.0,
+        "sp_score": 61.4,
         "sp_detail": {
           "era": 3.78,
           "whip": 1.09,
@@ -1511,7 +1511,45 @@
           "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 5,
-          "rest_note": null
+          "rest_note": null,
+          "age": 33,
+          "fb_velo": 91.6,
+          "pitch_arsenal": [
+            "FB",
+            "FS",
+            "SW",
+            "SI"
+          ],
+          "secondary_pitches": [
+            "FS",
+            "SW"
+          ],
+          "pitches_detail": [
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 40.2,
+              "velo": 91.6
+            },
+            {
+              "code": "FS",
+              "abbr": "FS",
+              "pct": 34.5,
+              "velo": 82.8
+            },
+            {
+              "code": "ST",
+              "abbr": "SW",
+              "pct": 14.5,
+              "velo": 81.0
+            },
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 5.9,
+              "velo": 90.2
+            }
+          ]
         },
         "bp_score": 58.2,
         "bp_detail": {
@@ -1566,7 +1604,7 @@
           }
         },
         "sit_score": 52.7,
-        "total": 45.5
+        "total": 51.8
       },
       "home": {
         "sp_score": 43.5,
@@ -1641,7 +1679,7 @@
     },
     "scores": {
       "away_offense": 30.9,
-      "away_defense": 51.6,
+      "away_defense": 59.8,
       "home_offense": 25.0,
       "home_defense": 58.0
     },
@@ -1651,13 +1689,13 @@
     },
     "lineup_confirmed": false,
     "sp_tbd": {
-      "away": true,
+      "away": false,
       "home": true,
-      "both": true,
+      "both": false,
       "any": true
     },
     "actual_winner": null,
-    "model_winner": "Boston Red Sox",
+    "model_winner": "Chicago Cubs",
     "model_correct": null,
     "notes": "Chicago Cubs IL: Ben Brown, Cade Horton, Hunter Harvey, Justin Steele, Phil Maton 외 다수 / Boston Red Sox IL: Anthony Seigler, Curtis Mead, Eduardo Rivera, Eli White, Garrett Crochet 외 다수",
     "kalshi_prob": null,
@@ -1668,7 +1706,7 @@
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 1.5pt (≤5.0pt) / 최고 확률 54.2% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 58.1% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -2429,8 +2467,8 @@
     "model_winner": "Houston Astros",
     "model_correct": null,
     "notes": "Houston Astros IL: Brandon Walter, Brice Matthews, Carlos Correa, Cristian Javier, Daulton Varsho 외 다수 / Athletics IL: Brent Rooker, Brooks Kriske, Gage Jump, Gunnar Hoglund, J.T. Ginn 외 다수",
-    "kalshi_prob": 39.0,
-    "edge": 9.0,
+    "kalshi_prob": 36.0,
+    "edge": 12.0,
     "value_bet": "⏭️ 패스 (박빙 경기 — 예측 신뢰도 낮음)",
     "extreme_edge": false,
     "consensus": false,
@@ -3480,8 +3518,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 56.8,
-      "home": 43.2
+      "away": 56.5,
+      "home": 43.5
     },
     "expected_score": {
       "away": 2.1,
@@ -3896,8 +3934,8 @@
     "model_winner": "Tampa Bay Rays",
     "model_correct": null,
     "notes": "Tampa Bay Rays IL: Edwin Uceta, Garrett Cleavinger, Gavin Lux, Jonathan Heasley, Ryan Pepiot 외 다수 / Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Felix Reyes, Jesús Luzardo 외 다수",
-    "kalshi_prob": 57.0,
-    "edge": -13.8,
+    "kalshi_prob": 58.0,
+    "edge": -14.5,
     "value_bet": "⚠️ 시장이 더 높게 평가 (회피 고려: Philadelphia Phillies)",
     "extreme_edge": false,
     "consensus": false,
@@ -5418,8 +5456,8 @@
     "model_winner": "Cleveland Guardians",
     "model_correct": null,
     "notes": "Cleveland Guardians IL: Colin Holderman, Rhys Hoskins / Kansas City Royals IL: Alec Marsh, Beck Way, Carlos Estévez, Cole Ragans, Connor Seabold 외 다수",
-    "kalshi_prob": 43.0,
-    "edge": -3.7,
+    "kalshi_prob": 44.0,
+    "edge": -4.7,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -6841,8 +6879,8 @@
     "model_winner": "San Diego Padres",
     "model_correct": null,
     "notes": "Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Corbin Burnes, Cristian Mena, Ryan Thompson 외 다수 / San Diego Padres IL: Bryan Hoeing, Casey Mize, Jeremiah Estrada, Joe Musgrove, Lucas Giolito 외 다수",
-    "kalshi_prob": 45.0,
-    "edge": 12.2,
+    "kalshi_prob": 42.0,
+    "edge": 15.2,
     "value_bet": "⏭️ 패스 (불펜전 — 양팀 선발 Cold, 예측 신뢰 낮음)",
     "extreme_edge": false,
     "consensus": false,
@@ -8363,8 +8401,8 @@
     "model_winner": "Minnesota Twins",
     "model_correct": null,
     "notes": "Texas Rangers IL: Cal Quantrill, Carter Baumler, Cole Winn, Jack Leiter, Jalen Beeks 외 다수 / Minnesota Twins IL: Anthony Banda, Byron Buxton, Cole Sands, David Festa, Jeff Hoffman 외 다수",
-    "kalshi_prob": 47.0,
-    "edge": 9.9,
+    "kalshi_prob": 46.0,
+    "edge": 10.9,
     "value_bet": "⏭️ 패스 (불펜전 — 양팀 선발 Cold, 예측 신뢰 낮음)",
     "extreme_edge": false,
     "consensus": false,
@@ -9131,8 +9169,8 @@
     "model_winner": "Chicago White Sox",
     "model_correct": null,
     "notes": "Colorado Rockies IL: Chase Dollander, Kris Bryant, McCade Brown, Pierson Ohl, Welinton Herrera 외 다수 / Chicago White Sox IL: Brooks Baldwin, Joey Bart, Jordan Leasure, Ky Bush, Luis Castillo 외 다수",
-    "kalshi_prob": 65.0,
-    "edge": -5.3,
+    "kalshi_prob": 64.0,
+    "edge": -4.3,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
@@ -9900,8 +9938,8 @@
     "model_winner": "Miami Marlins",
     "model_correct": null,
     "notes": "Atlanta Braves IL: Bryce Elder, Hurston Waldrep, Joe Jiménez, Joey Wentz, Lane Thomas 외 다수 / Miami Marlins IL: Adam Mazur, Andrew Nardi, Anthony Bender, Max Meyer, Owen Caissie 외 다수",
-    "kalshi_prob": 49.0,
-    "edge": 1.0,
+    "kalshi_prob": 52.0,
+    "edge": -2.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,

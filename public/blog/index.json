@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-09-26-daily-max",
+      "title": "Sep 26 Results + Sep 27 Preview: When You've Been Around, 69% Feels Like a Tuesday",
+      "author": "Max",
+      "author_emoji": "📰",
+      "author_color": "#16A34A",
+      "author_role": "Senior Reporter",
+      "date": "2026-09-26",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#16A34A",
+      "read_time": "3 min",
+      "summary": "9-4 record on Sep 26 keeps us rolling—now eyeing Mets-Nationals for Saturday's action"
+    },
+    {
       "slug": "2026-09-25-daily-doc",
       "title": "Sep 25 Results + Sep 26 Preview: 88.2% Accuracy Should Silence the Regression Truthers",
       "author": "Doc",
