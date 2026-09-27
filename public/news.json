@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-27T06:11:53.590251+00:00",
+  "updated_at": "2026-09-27T06:26:37.303113+00:00",
   "news": [
+    {
+      "title": "Astros control destiny in Game 162 as they battle for AL West crown",
+      "link": "https://www.mlb.com/news/jeremy-pena-homers-twice-as-astros-beat-a-s",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790483215/mlb/k1mmjijbsbpt1vgak2a5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T06:10:00+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "Guardians clinch 7th Central title in last 11 years, secure 1st-round bye",
       "link": "https://www.mlb.com/news/guardians-clinch-2026-al-central-title",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T05:24:00+00:00",
-      "time_ago": "47m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Bottom of the order steps up to keep Rangers' AL West hopes alive entering Game 162",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T05:20:00+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "D-backs going down to the wire, needing win and help on final day",
@@ -44,7 +57,7 @@
       "title": "Padres lock up No. 4 seed, will host Cubs in Wild Card Series",
       "link": "https://www.mlb.com/news/padres-secure-home-field-in-nl-wild-card-series",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790479126/mlb/tt8paj6wspfeyqw4k3vu",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790487741/mlb/tt8paj6wspfeyqw4k3vu",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "AJ Cassavell",
@@ -77,19 +90,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T04:44:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Astros control destiny in Game 162 as they battle for AL West crown",
-      "link": "https://www.mlb.com/news/jeremy-pena-homers-twice-as-astros-beat-a-s",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790483215/mlb/k1mmjijbsbpt1vgak2a5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T04:41:09+00:00",
       "time_ago": "1h ago"
     },
     {
