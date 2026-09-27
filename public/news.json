@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-27T01:41:17.108296+00:00",
+  "updated_at": "2026-09-27T02:41:31.018313+00:00",
   "news": [
+    {
+      "title": "Bottom of the order steps up to keep Rangers' AL West hopes alive entering Game 162",
+      "link": "https://www.mlb.com/news/rangers-win-over-twins-keeps-al-west-title-hopes-alive",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pkis0g3clshg6ypsqbbs",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kennedi Landry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T02:40:00+00:00",
+      "time_ago": "1m ago"
+    },
+    {
+      "title": "Guardians clinch 7th Central title in last 11 years, secure 1st-round bye",
+      "link": "https://www.mlb.com/news/guardians-clinch-2026-al-central-title",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790476462/mlb/qqnvkvtj3tw9e0pon6ho",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T02:38:00+00:00",
+      "time_ago": "3m ago"
+    },
+    {
+      "title": "White Sox fall to Rockies as AL Central hopes officially end",
+      "link": "https://www.mlb.com/news/white-sox-al-wild-card-berth-loss-rockies-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xpufgoj459w1fhjrkhuu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T02:08:30+00:00",
+      "time_ago": "33m ago"
+    },
+    {
+      "title": "May makes his rotation case as Brewers ponder postseason pitching plans",
+      "link": "https://www.mlb.com/news/dustin-may-strikes-out-5-as-brewers-earn-102nd-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790471143/mlb/qrmnjhgzdrv1xdsnvtgl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T02:02:23+00:00",
+      "time_ago": "39m ago"
+    },
+    {
+      "title": "Final 2 playoff spots going down to the wire",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790472130/mlb/rao8aqmngnrkb5q3tebe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-27T01:58:00+00:00",
+      "time_ago": "43m ago"
+    },
     {
       "title": "Jax takes 104 mph line drive off lower back, exits after 3 innings",
       "link": "https://www.mlb.com/news/griffin-jax-exits-rays-game-after-line-drive-hits-back",
@@ -12,33 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T01:18:22+00:00",
-      "time_ago": "22m ago"
-    },
-    {
-      "title": "Bottom of the order steps up to keep Rangers' AL West hopes alive entering Game 162",
-      "link": "https://www.mlb.com/news/rangers-win-over-twins-keeps-al-west-title-hopes-alive",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pkis0g3clshg6ypsqbbs",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kennedi Landry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T01:08:56+00:00",
-      "time_ago": "32m ago"
-    },
-    {
-      "title": "3 TIGHT races still left to settle on final weekend of regular season",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rao8aqmngnrkb5q3tebe",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T01:04:00+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Nola lasts 1 inning on short rest in Phils' shuffled rotation",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T00:40:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Treinen injures shoulder, no longer an option for Dodgers' playoff 'pen",
@@ -64,46 +103,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-27T00:39:05+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Snell shows he's ready to reprise role in LA's postseason rotation behemoth",
-      "link": "https://www.mlb.com/news/blake-snell-solid-in-final-regular-season-tuneup-following-groin-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790457443/mlb/sjinnxbkyigebzggmzam",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T00:35:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Cap Yeli! Yelich first to wear 'C' as captain in Brewers' history",
-      "link": "https://www.mlb.com/news/christian-yelich-named-brewers-captain",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/demv60t1uxiljdwarpyf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T00:18:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Suarez tunes up for playoffs with 2nd appearance after injury",
-      "link": "https://www.mlb.com/news/robert-suarez-pitches-in-miami-before-playoffs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rdrhyqhvldnr3uvlbxnz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-27T00:16:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
