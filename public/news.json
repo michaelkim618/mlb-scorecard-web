@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-27T19:11:07.658662+00:00",
+  "updated_at": "2026-09-27T19:25:28.287609+00:00",
   "news": [
+    {
+      "title": "With playoffs on-deck, Colson Montgomery ready to 'turn the page' on tough end to '26",
+      "link": "https://www.mlb.com/news/colson-montgomery-ready-to-turn-page-to-2026-playoffs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790535533/mlb/vhrwutfdvlsfwkfulbhc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-27T19:14:36+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "Resolute Buxton focused on offseason rehab, healthy '27 return",
+      "link": "https://www.mlb.com/news/byron-buxton-focused-on-rehab-from-right-hip-injury-2027-return",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sx8jcma1ihkiwik4x5vi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T19:08:32+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Yanks turn to Cy favorite Schlittler to start G1 of Wild Card Series",
+      "link": "https://www.mlb.com/news/cam-schlittler-to-start-game-1-of-al-wild-card-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bzgm5c2yu3wlswxfva3o",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-27T19:04:00+00:00",
+      "time_ago": "21m ago"
+    },
     {
       "title": "Future undecided, an emotional Springer prepares to say goodbye to Toronto",
       "link": "https://www.mlb.com/news/george-springer-grateful-for-time-with-blue-jays",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T18:58:00+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "27m ago"
     },
     {
       "title": "NL batting leader Moreno scratched from D-backs' finale",
@@ -25,20 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T18:51:00+00:00",
-      "time_ago": "20m ago"
-    },
-    {
-      "title": "Yanks set Wild Card Series rotation, with Schlittler for Game 1",
-      "link": "https://www.mlb.com/news/cam-schlittler-to-start-game-1-of-al-wild-card-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bzgm5c2yu3wlswxfva3o",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-27T18:22:46+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "34m ago"
     },
     {
       "title": "Fan favorite Geno grateful for second act in Cincinnati",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T18:22:00+00:00",
-      "time_ago": "49m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "What to know ahead of Red Sox-Yankees Wild Card Series rematch",
@@ -64,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-27T18:13:00+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Luzardo activated off IL for Game 162, though Phils not sure how (or if) he'll be used",
@@ -78,32 +104,6 @@
       "tag_color": "#DC2626",
       "pub_date": "2026-09-27T18:06:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "What to know ahead of Cubs-Padres Wild Card Series matchup",
-      "link": "https://www.mlb.com/news/cubs-vs-padres-wild-card-series-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rfmhzptsqnqjdzoyn4gu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian and AJ Cassavell",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-27T17:43:03+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Wild Card Series game times announced",
-      "link": "https://www.mlb.com/news/2026-wild-card-series-game-times",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/arg6s473mwxmny5xt5mq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-27T16:03:13+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
