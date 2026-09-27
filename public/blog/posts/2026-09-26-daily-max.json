@@ -1,61 +1,46 @@
 {
-  "title": "Sep 26 Results + Sep 27 Preview: When You've Been Around, 69% Feels Like a Tuesday",
-  "summary": "9-4 record on Sep 26 keeps us rolling—now eyeing Mets-Nationals for Saturday's action",
+  "title": "Sep 26 Results + Sep 27 Preview: Nice Bounce-Back After Friday's Stumble",
+  "summary": "Model rebounds with 9-4 showing on Saturday. Mets-Nats rematch tops Sunday's card.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Another Solid Friday in the Books\n\nLook, I've been doing this long enough to know that 9-4 isn't going to make headlines, but it's the kind of day that builds a bankroll. 69.2% accuracy on a 13-game slate? I'll take that every single time. The model hummed along nicely yesterday, and if you've been following our picks, you know we're not chasing perfection—we're chasing value."
+      "value": "## Saturday's Redemption\n\nYou know, I've been around this game long enough to know that no model—no matter how sharp—runs the table every night. Friday stung a bit, but Saturday? Saturday was what we call a proper bounce-back. The algorithm went 9-4 with a 69.2% hit rate, and honestly, that's the kind of consistency that wins you money over the long haul.\n\nWhat I liked most wasn't just the record. It was *how* we got there. The Dodgers pick at 63% confidence? Money. The Rays call at 61%? Cash it. Even some of those coin-flip situations like the Rangers at 51% came through. That's when you know the model's reading the tea leaves correctly."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Sep 26 Record",
+          "label": "Saturday W-L",
           "value": "9-4"
         },
         {
-          "label": "Win Rate",
+          "label": "Accuracy",
           "value": "69.2%"
         },
         {
-          "label": "Games Analyzed",
-          "value": "13"
+          "label": "Best Pick",
+          "value": "Dodgers 63%"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Hits and Misses\n\nThe Dodgers-Giants pick at 63% confidence was textbook—you could see that one coming from a mile away. Same with the Rays sneaking past Philly at 61%. Those are the spots where the data and the eye test align perfectly.\n\nThe misses? Well, the Nationals getting one over on us stings a bit, especially since we're going right back to that well tomorrow. The Red Sox stumble against the Rockies was one of those September games where motivation matters more than talent. I've seen it a hundred times."
+      "value": "## The Hits and Misses\n\nLet's talk about what worked. That Dodgers-Giants pick was textbook—we leaned into LA at 63% confidence and they delivered. Same story with the Rays over in Philadelphia. When you're betting 61% and Tampa comes through, that's the model firing on all cylinders.\n\nThe misses? Well, the Nationals couldn't hold serve at home against the Mets, the Jays disappointed in Toronto, the Royals let us down in Kansas City, and the Red Sox... look, Boston's been tough to read all month. Four losses on a thirteen-game slate isn't catastrophic, especially when your winners include some solid confidence plays."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 26 Prediction Confidence vs Results",
+      "title": "Saturday's Prediction Performance",
       "data": [
         {
-          "name": "Nationals",
-          "probability": 50,
-          "result": 0
-        },
-        {
-          "name": "Tigers",
-          "probability": 50,
+          "name": "Rays",
+          "probability": 61,
           "result": 1
-        },
-        {
-          "name": "Jays",
-          "probability": 60,
-          "result": 0
         },
         {
           "name": "Dodgers",
           "probability": 63,
-          "result": 1
-        },
-        {
-          "name": "Rangers",
-          "probability": 51,
           "result": 1
         },
         {
@@ -64,14 +49,29 @@
           "result": 1
         },
         {
+          "name": "Jays",
+          "probability": 60,
+          "result": 0
+        },
+        {
+          "name": "Sox",
+          "probability": 60,
+          "result": 0
+        },
+        {
           "name": "Royals",
           "probability": 52,
           "result": 0
         },
         {
-          "name": "Red Sox",
-          "probability": 60,
-          "result": 0
+          "name": "Rangers",
+          "probability": 51,
+          "result": 1
+        },
+        {
+          "name": "Tigers",
+          "probability": 50,
+          "result": 1
         },
         {
           "name": "Brewers",
@@ -79,9 +79,9 @@
           "result": 1
         },
         {
-          "name": "Rays",
-          "probability": 61,
-          "result": 1
+          "name": "Nationals",
+          "probability": 50,
+          "result": 0
         }
       ],
       "x_key": "name",
@@ -100,32 +100,14 @@
     },
     {
       "type": "table",
-      "title": "Complete Sep 26 Results Breakdown",
+      "title": "Complete Saturday Results",
       "headers": [
         "Matchup",
-        "Our Pick",
+        "Pick",
         "Confidence",
         "Result"
       ],
       "rows": [
-        [
-          "Mets @ Nationals",
-          "Nationals",
-          "50%",
-          "✗"
-        ],
-        [
-          "Pirates @ Tigers",
-          "Tigers",
-          "50%",
-          "✓"
-        ],
-        [
-          "Reds @ Jays",
-          "Jays",
-          "60%",
-          "✗"
-        ],
         [
           "Dodgers @ Giants",
           "Dodgers",
@@ -133,9 +115,9 @@
           "✓"
         ],
         [
-          "Rangers @ Twins",
-          "Rangers",
-          "51%",
+          "Rays @ Phillies",
+          "Rays",
+          "61%",
           "✓"
         ],
         [
@@ -145,16 +127,34 @@
           "✓"
         ],
         [
+          "Reds @ Jays",
+          "Jays",
+          "60%",
+          "✗"
+        ],
+        [
+          "Rockies @ Sox",
+          "Sox",
+          "60%",
+          "✗"
+        ],
+        [
           "Guardians @ Royals",
           "Royals",
           "52%",
           "✗"
         ],
         [
-          "Rockies @ Red Sox",
-          "Red Sox",
-          "60%",
-          "✗"
+          "Rangers @ Twins",
+          "Rangers",
+          "51%",
+          "✓"
+        ],
+        [
+          "Pirates @ Tigers",
+          "Tigers",
+          "50%",
+          "✓"
         ],
         [
           "Cardinals @ Brewers",
@@ -163,27 +163,27 @@
           "✓"
         ],
         [
-          "Rays @ Phillies",
-          "Rays",
-          "61%",
-          "✓"
+          "Mets @ Nationals",
+          "Nationals",
+          "50%",
+          "✗"
         ]
       ]
     },
     {
       "type": "text",
-      "value": "## Looking Ahead to Saturday's Slate\n\nHere's where experience comes into play. The Mets-Nationals rematch is our top pick for September 27th, and yes, I know we just missed on Washington yesterday. But this is a different pitching matchup, and sometimes the best play is going right back to the well.\n\nSean Manaea gets the ball for New York, and he's been one of those steady September performers who knows how to navigate lineups this time of year. DJ Herz for Washington? He's got talent, but I've seen enough young arms hit the wall in late September to know where the edge is here."
+      "value": "## Looking Ahead to Sunday\n\nHere's where it gets interesting. Our top pick for Sunday is the Mets-Nationals rematch in Washington. After the Nats couldn't get it done Saturday, we're flipping the script and backing New York at 52% confidence.\n\nNow, I know what you're thinking—52% isn't exactly a ringing endorsement. But here's the thing: Sean Manaea's been quietly effective down the stretch for the Mets, and DJ Herz, while talented, is still finding his way at the big league level. Sometimes these September series come down to who wants it more, and right now, the Mets have plenty of motivation."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Saturday's Top Pick - Sep 27",
+      "title": "⭐ Sunday's Top Pick",
       "value": "New York Mets @ Washington Nationals",
-      "sub": "Pick: New York Mets (52%) • Manaea vs Herz • First pitch Saturday"
+      "sub": "52% confidence · Manaea vs Herz · First pitch from the nation's capital"
     },
     {
       "type": "text",
-      "value": "## The September Factor\n\nYou know what I love about late September baseball? The narratives write themselves, but the numbers don't lie. The Mets are playing meaningful games right now. Washington's playing out the string. That 52% confidence might look thin on paper, but factor in the context—the urgency, the veteran presence, the pitching edge—and this is exactly the kind of spot where experience beats raw talent.\n\nI've been around long enough to know that a coin flip game with context becomes a 55-45 edge real quick. And that's all we need.\n\nSee you tomorrow with the full slate breakdown. Let's keep this thing rolling."
+      "value": "## The Veteran's Take\n\nI've seen enough September baseball to know that momentum matters, but consistency matters more. Saturday's 9-4 record wasn't about getting lucky—it was about the model identifying value in the right spots. When you hit nearly 70% of your picks, you're not guessing.\n\nSunday's slate will be smaller, as it usually is, but that Mets-Nationals game has all the makings of a sharp play. It's not a hammer-the-window bet, but it's the kind of calculated edge that separates the pros from the weekend warriors.\n\nStay disciplined, trust the process, and remember: in this business, you don't need to win every day. You just need to win more than you lose."
     }
   ],
   "slug": "2026-09-26-daily-max",
