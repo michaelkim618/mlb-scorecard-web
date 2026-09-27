@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-27T18:48:27.628041+00:00",
+  "updated_at": "2026-09-27T19:11:07.658662+00:00",
   "news": [
+    {
+      "title": "Future undecided, an emotional Springer prepares to say goodbye to Toronto",
+      "link": "https://www.mlb.com/news/george-springer-grateful-for-time-with-blue-jays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vub2kjftd29ptlzz3gci",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T18:58:00+00:00",
+      "time_ago": "13m ago"
+    },
     {
       "title": "NL batting leader Moreno scratched from D-backs' finale",
       "link": "https://www.mlb.com/news/gabriel-moreno-scratched-from-d-backs-season-finale",
@@ -8,11 +21,11 @@
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790400996/mlb/i5utwblaxlg43hlwjggi",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "",
+      "author": "Steve Gilbert",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-27T18:31:57+00:00",
-      "time_ago": "16m ago"
+      "pub_date": "2026-09-27T18:51:00+00:00",
+      "time_ago": "20m ago"
     },
     {
       "title": "Yanks set Wild Card Series rotation, with Schlittler for Game 1",
@@ -25,7 +38,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-27T18:22:46+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "Fan favorite Geno grateful for second act in Cincinnati",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T18:22:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "What to know ahead of Red Sox-Yankees Wild Card Series rematch",
@@ -51,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-27T18:13:00+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Luzardo activated off IL for Game 162, though Phils not sure how (or if) he'll be used",
@@ -64,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-27T18:06:00+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "What to know ahead of Cubs-Padres Wild Card Series matchup",
@@ -90,20 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-27T16:03:13+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Final 2 playoff spots going down to the wire",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/brjwwqewwxoojqbn1ir9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-27T14:24:00+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
