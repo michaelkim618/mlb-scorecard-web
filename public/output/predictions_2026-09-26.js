@@ -1973,7 +1973,7 @@ window.PREDICTIONS_DATA = [
           "lineup_ops": [
             "Brett Bateman(0.812)",
             "Nathan Lukes(0.726)",
-            "Vladimir Guerrero(0.718)",
+            "Vladimir Guerrero Jr.(0.718)",
             "Alejandro Kirk(0.789)",
             "Kazuma Okamoto(0.649)",
             "Sean Keys(0.490)",
@@ -1996,7 +1996,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 665489,
-              "name": "Vladimir Guerrero",
+              "name": "Vladimir Guerrero Jr.",
               "ops": 0.718,
               "avg": 0.27
             },
@@ -3997,8 +3997,8 @@ window.PREDICTIONS_DATA = [
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Michael Harris(0.835)",
-            "Ronald Acuña(0.793)",
+            "Michael Harris II(0.835)",
+            "Ronald Acuña Jr.(0.793)",
             "Matt Olson(0.786)",
             "Drake Baldwin(0.883)",
             "Austin Riley(0.609)",
@@ -4010,13 +4010,13 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 671739,
-              "name": "Michael Harris",
+              "name": "Michael Harris II",
               "ops": 0.835,
               "avg": 0.325
             },
             {
               "id": 660670,
-              "name": "Ronald Acuña",
+              "name": "Ronald Acuña Jr.",
               "ops": 0.793,
               "avg": 0.231
             },
@@ -4162,7 +4162,7 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Otto Lopez(0.766)",
-            "Heriberto Hernandez(0.768)",
+            "Heriberto Hernández(0.768)",
             "Jakob Marsee(0.793)",
             "Javier Sanoja(0.837)",
             "Agustín Ramírez(0.698)",
@@ -4180,7 +4180,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 681715,
-              "name": "Heriberto Hernandez",
+              "name": "Heriberto Hernández",
               "ops": 0.768,
               "avg": 0.275
             },
@@ -4930,7 +4930,7 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Carter Jensen(0.906)",
-            "Bobby Witt(0.778)",
+            "Bobby Witt Jr.(0.778)",
             "Jac Caglianone(0.912)",
             "Salvador Perez(0.699)",
             "Vinnie Pasquantino(0.978)",
@@ -4948,7 +4948,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 677951,
-              "name": "Bobby Witt",
+              "name": "Bobby Witt Jr.",
               "ops": 0.778,
               "avg": 0.325
             },
@@ -7024,7 +7024,7 @@ window.PREDICTIONS_DATA = [
             "Jonathan Aranda(0.732)",
             "Liam Hicks(0.743)",
             "Junior Caminero(0.800)",
-            "Victor Mesa(0.791)",
+            "Victor Mesa Jr.(0.791)",
             "Richie Palacios(0.672)",
             "Jonny DeLuca(0.807)",
             "Cedric Mullins(0.629)",
@@ -7057,7 +7057,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 683748,
-              "name": "Victor Mesa",
+              "name": "Victor Mesa Jr.",
               "ops": 0.791,
               "avg": 0.273
             },
@@ -7959,7 +7959,7 @@ window.PREDICTIONS_DATA = [
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis(0.869)",
+            "Fernando Tatis Jr.(0.869)",
             "Dustin Harris(0.706)",
             "Manny Machado(0.613)",
             "Jackson Merrill(0.748)",
@@ -7972,7 +7972,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis",
+              "name": "Fernando Tatis Jr.",
               "ops": 0.869,
               "avg": 0.308
             },
