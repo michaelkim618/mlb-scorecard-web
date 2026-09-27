@@ -6,7 +6,8 @@
     "11:30"
   ],
   "predictions_frozen": [
-    "11:30"
+    "11:30",
+    "10:05"
   ],
   "frozen_predictions": {
     "11:30": [
@@ -203,6 +204,38 @@
         "sp_bat_conflict_detail": null,
         "low_confidence": false,
         "low_confidence_reason": null,
+        "extreme_edge": false
+      }
+    ],
+    "10:05": [
+      {
+        "game_pk": "822679",
+        "win_prob": {
+          "away": 52.7,
+          "home": 47.3
+        },
+        "model_winner": "New York Mets",
+        "value_bet": "➖ 시장과 유사",
+        "edge": -0.7,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 52.7% (≤62.0%)",
+        "extreme_edge": false
+      },
+      {
+        "game_pk": "823490",
+        "win_prob": {
+          "away": 58.7,
+          "home": 41.3
+        },
+        "model_winner": "Baltimore Orioles",
+        "value_bet": "⏭️ 패스 (라인업 미확정)",
+        "edge": null,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 58.7% (≤62.0%)",
         "extreme_edge": false
       }
     ]
