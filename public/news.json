@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-27T01:03:12.675678+00:00",
+  "updated_at": "2026-09-27T01:41:17.108296+00:00",
   "news": [
+    {
+      "title": "Jax takes 104 mph line drive off lower back, exits after 3 innings",
+      "link": "https://www.mlb.com/news/griffin-jax-exits-rays-game-after-line-drive-hits-back",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790470578/mlb/vspnb7mdize02ihnsutq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T01:18:22+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "Bottom of the order steps up to keep Rangers' AL West hopes alive entering Game 162",
+      "link": "https://www.mlb.com/news/rangers-win-over-twins-keeps-al-west-title-hopes-alive",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pkis0g3clshg6ypsqbbs",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kennedi Landry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T01:08:56+00:00",
+      "time_ago": "32m ago"
+    },
+    {
+      "title": "3 TIGHT races still left to settle on final weekend of regular season",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rao8aqmngnrkb5q3tebe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T01:04:00+00:00",
+      "time_ago": "37m ago"
+    },
     {
       "title": "Nola lasts 1 inning on short rest in Phils' shuffled rotation",
       "link": "https://www.mlb.com/news/aaron-nola-moved-up-to-start-saturday-for-phillies",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T00:40:00+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Treinen injures shoulder, no longer an option for Dodgers' playoff 'pen",
@@ -25,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-27T00:39:05+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Snell shows he's ready to reprise role in LA's postseason rotation behemoth",
@@ -38,20 +77,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T00:35:00+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Cap Yeli! Yelich first to wear 'C' as captain in Brewers' history",
       "link": "https://www.mlb.com/news/christian-yelich-named-brewers-captain",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nc01hlryvszwlwgbebpq",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/demv60t1uxiljdwarpyf",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Adam McCalvy",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T00:18:00+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Suarez tunes up for playoffs with 2nd appearance after injury",
@@ -64,45 +103,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-27T00:16:00+00:00",
-      "time_ago": "47m ago"
-    },
-    {
-      "title": "Speedy Simpson to rest sore foot, get ready for first postseason",
-      "link": "https://www.mlb.com/news/chandler-simpson-sits-final-two-games-of-2026-regular-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790462167/mlb/f54hc8dj9afy5fcx7g1j",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T00:08:25+00:00",
-      "time_ago": "54m ago"
-    },
-    {
-      "title": "Injuries: Burnes, Arraez, Gausman, Judge, Red Sox, Braves",
-      "link": "https://www.mlb.com/news/baseball-injury-updates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788067239/mlb/jurc3ulomygr91qkhzgk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-27T00:05:00+00:00",
-      "time_ago": "58m ago"
-    },
-    {
-      "title": "Day for the ages: Verlander's final start, incredible father-daughter moment AND a walk-off HR!",
-      "link": "https://www.mlb.com/news/justin-verlander-final-mlb-start",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ymogxrr4ks3novrubgjh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Beck",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-26T23:49:00+00:00",
       "time_ago": "1h ago"
     }
   ]
