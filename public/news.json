@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-27T03:41:29.305366+00:00",
+  "updated_at": "2026-09-27T04:26:54.903840+00:00",
   "news": [
+    {
+      "title": "Disappointed? Sure. But White Sox are excited for what's next",
+      "link": "https://www.mlb.com/news/white-sox-al-wild-card-berth-loss-rockies-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xpufgoj459w1fhjrkhuu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T04:05:00+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "How the D-backs can pass the Phillies for the final NL Wild Card spot",
+      "link": "https://www.mlb.com/news/diamondbacks-scenarios-for-making-the-playoffs-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g5abxfvdeea5twjz9qam",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-27T04:03:00+00:00",
+      "time_ago": "23m ago"
+    },
+    {
+      "title": "Jax expects to be ready for postseason after taking 104 mph liner off back",
+      "link": "https://www.mlb.com/news/griffin-jax-exits-rays-game-after-line-drive-hits-back",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790480609/mlb/zlebyq5kqik4nndbl63z",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T04:02:00+00:00",
+      "time_ago": "24m ago"
+    },
     {
       "title": "Reeling Phillies have one more game to save their season",
       "link": "https://www.mlb.com/news/phillies-lose-to-rays-unable-to-clinch-playoff-spot-again",
@@ -11,21 +50,34 @@
       "author": "Todd Zolecki",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-27T03:27:51+00:00",
-      "time_ago": "13m ago"
+      "pub_date": "2026-09-27T04:00:00+00:00",
+      "time_ago": "26m ago"
     },
     {
-      "title": "Caminero meets goals of 40 HRs, 100 RBIs; 162 starts is next",
-      "link": "https://www.mlb.com/news/junior-caminero-tops-100-rbis-for-second-straight-season",
+      "title": "Padres lock up No. 4 seed, will host Cubs in Wild Card Series",
+      "link": "https://www.mlb.com/news/padres-secure-home-field-in-nl-wild-card-series",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790470860/mlb/l21btahj0pwueauf2cc2",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790479126/mlb/tt8paj6wspfeyqw4k3vu",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-27T03:18:02+00:00",
-      "time_ago": "23m ago"
+      "author": "AJ Cassavell",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-27T03:59:33+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "D-backs going down to the wire, needing win and help on final day",
+      "link": "https://www.mlb.com/news/diamondbacks-go-into-final-day-of-regular-season-with-playoff-hopes",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/squor61hnhv3owesp7wv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Steve Gilbert",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T03:53:37+00:00",
+      "time_ago": "33m ago"
     },
     {
       "title": "Final 2 playoff spots going down to the wire",
@@ -37,73 +89,21 @@
       "author": "",
       "tag": "Standings",
       "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-27T03:05:00+00:00",
-      "time_ago": "36m ago"
+      "pub_date": "2026-09-27T03:48:00+00:00",
+      "time_ago": "38m ago"
     },
     {
-      "title": "May makes his rotation case as Brewers ponder postseason pitching plans",
-      "link": "https://www.mlb.com/news/dustin-may-strikes-out-5-as-brewers-earn-102nd-win",
+      "title": "Cap Yeli! Yelich first to wear 'C' as captain in Brewers' history",
+      "link": "https://www.mlb.com/news/christian-yelich-named-brewers-captain",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790471143/mlb/qrmnjhgzdrv1xdsnvtgl",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/demv60t1uxiljdwarpyf",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "",
+      "author": "Adam McCalvy",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-27T03:02:00+00:00",
-      "time_ago": "39m ago"
-    },
-    {
-      "title": "Bottom of the order steps up to keep Rangers' AL West hopes alive entering Game 162",
-      "link": "https://www.mlb.com/news/rangers-win-over-twins-keeps-al-west-title-hopes-alive",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pkis0g3clshg6ypsqbbs",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kennedi Landry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T02:40:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Guardians clinch 7th Central title in last 11 years, secure 1st-round bye",
-      "link": "https://www.mlb.com/news/guardians-clinch-2026-al-central-title",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dypf9dlkmqfjox5urfap",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T02:38:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Here are the Triple-A All-Stars and award winners for the 2026 season",
-      "link": "https://www.mlb.com/news/minor-league-baseball-announces-2026-triple-a-all-stars-and-award-winners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rogrghl2eglzcntllyar",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brendan Samson",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-09-27T02:34:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "White Sox fall to Rockies as AL Central hopes officially end",
-      "link": "https://www.mlb.com/news/white-sox-al-wild-card-berth-loss-rockies-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xpufgoj459w1fhjrkhuu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T02:08:30+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-09-27T03:42:00+00:00",
+      "time_ago": "44m ago"
     }
   ]
 }

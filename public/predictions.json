@@ -8055,9 +8055,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "San Diego Padres",
     "model_winner": "San Diego Padres",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Arizona Diamondbacks IL: A.J. Puk, Andrew Saalfrank, Corbin Burnes, Cristian Mena, Ryan Thompson 외 다수 / San Diego Padres IL: Bryan Hoeing, Casey Mize, Jeremiah Estrada, Joe Musgrove, Lucas Giolito 외 다수",
     "kalshi_prob": 59.0,
     "edge": 2.5,
@@ -8812,9 +8812,9 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Houston Astros",
     "model_winner": "Houston Astros",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Houston Astros IL: Brandon Walter, Brice Matthews, Carlos Correa, Cristian Javier, Daulton Varsho 외 다수 / Athletics IL: Brent Rooker, Brooks Kriske, Gage Jump, Gunnar Hoglund, J.T. Ginn 외 다수",
     "kalshi_prob": 39.0,
     "edge": 0.3,
