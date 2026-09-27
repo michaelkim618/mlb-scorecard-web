@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-27T02:41:31.018313+00:00",
+  "updated_at": "2026-09-27T03:41:29.305366+00:00",
   "news": [
+    {
+      "title": "Reeling Phillies have one more game to save their season",
+      "link": "https://www.mlb.com/news/phillies-lose-to-rays-unable-to-clinch-playoff-spot-again",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790476661/mlb/m102jxy4kpxqbptaf6dj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T03:27:51+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Caminero meets goals of 40 HRs, 100 RBIs; 162 starts is next",
+      "link": "https://www.mlb.com/news/junior-caminero-tops-100-rbis-for-second-straight-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790470860/mlb/l21btahj0pwueauf2cc2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-27T03:18:02+00:00",
+      "time_ago": "23m ago"
+    },
+    {
+      "title": "Final 2 playoff spots going down to the wire",
+      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790472130/mlb/rao8aqmngnrkb5q3tebe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-27T03:05:00+00:00",
+      "time_ago": "36m ago"
+    },
+    {
+      "title": "May makes his rotation case as Brewers ponder postseason pitching plans",
+      "link": "https://www.mlb.com/news/dustin-may-strikes-out-5-as-brewers-earn-102nd-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790471143/mlb/qrmnjhgzdrv1xdsnvtgl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T03:02:00+00:00",
+      "time_ago": "39m ago"
+    },
     {
       "title": "Bottom of the order steps up to keep Rangers' AL West hopes alive entering Game 162",
       "link": "https://www.mlb.com/news/rangers-win-over-twins-keeps-al-west-title-hopes-alive",
@@ -12,20 +64,33 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T02:40:00+00:00",
-      "time_ago": "1m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Guardians clinch 7th Central title in last 11 years, secure 1st-round bye",
       "link": "https://www.mlb.com/news/guardians-clinch-2026-al-central-title",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790476462/mlb/qqnvkvtj3tw9e0pon6ho",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dypf9dlkmqfjox5urfap",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Tim Stebbins",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T02:38:00+00:00",
-      "time_ago": "3m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Here are the Triple-A All-Stars and award winners for the 2026 season",
+      "link": "https://www.mlb.com/news/minor-league-baseball-announces-2026-triple-a-all-stars-and-award-winners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rogrghl2eglzcntllyar",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brendan Samson",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-09-27T02:34:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "White Sox fall to Rockies as AL Central hopes officially end",
@@ -38,72 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T02:08:30+00:00",
-      "time_ago": "33m ago"
-    },
-    {
-      "title": "May makes his rotation case as Brewers ponder postseason pitching plans",
-      "link": "https://www.mlb.com/news/dustin-may-strikes-out-5-as-brewers-earn-102nd-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790471143/mlb/qrmnjhgzdrv1xdsnvtgl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T02:02:23+00:00",
-      "time_ago": "39m ago"
-    },
-    {
-      "title": "Final 2 playoff spots going down to the wire",
-      "link": "https://www.mlb.com/news/mlb-playoff-picture-and-bracket-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790472130/mlb/rao8aqmngnrkb5q3tebe",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-27T01:58:00+00:00",
-      "time_ago": "43m ago"
-    },
-    {
-      "title": "Jax takes 104 mph line drive off lower back, exits after 3 innings",
-      "link": "https://www.mlb.com/news/griffin-jax-exits-rays-game-after-line-drive-hits-back",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790470578/mlb/vspnb7mdize02ihnsutq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T01:18:22+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Nola lasts 1 inning on short rest in Phils' shuffled rotation",
-      "link": "https://www.mlb.com/news/aaron-nola-moved-up-to-start-saturday-for-phillies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790469636/mlb/u1kcdvoh8dg6k8qqis9l",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T00:40:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Treinen injures shoulder, no longer an option for Dodgers' playoff 'pen",
-      "link": "https://www.mlb.com/news/blake-treinen-out-for-2026-postseason-with-shoulder-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790465518/mlb/b9qx0ak4vf4jx35dpm1f",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-27T00:39:05+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }

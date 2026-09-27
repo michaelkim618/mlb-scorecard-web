@@ -17089,6 +17089,30 @@
       "away_bp_score": 52.8,
       "home_bp_score": 74.5,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-26",
+      "away": "Tampa Bay Rays",
+      "home": "Philadelphia Phillies",
+      "game_number": 1,
+      "pick": "Tampa Bay Rays",
+      "pick_prob": 61.3,
+      "actual_winner": "Tampa Bay Rays",
+      "away_score": 3,
+      "home_score": 0,
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "stable",
+      "home_sp_trend": "stable",
+      "away_sp_era": 3.45,
+      "home_sp_era": 2.77,
+      "away_bp_era": 2.7,
+      "home_bp_era": 3.87,
+      "away_sp_score": 49.0,
+      "home_sp_score": 46.5,
+      "away_bp_score": 75.0,
+      "home_bp_score": 60.3,
+      "bat_source": "lineup"
     }
   ]
 }
