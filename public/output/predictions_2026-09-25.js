@@ -8978,7 +8978,7 @@ window.PREDICTIONS_DATA = [
     "away": "Texas Rangers",
     "home": "Minnesota Twins",
     "away_standing": {
-      "div_rank": 1,
+      "div_rank": 2,
       "div_name": "AL West",
       "wins": 80,
       "losses": 81,
@@ -9305,8 +9305,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 50.0,
-      "home": 50.0
+      "away": 52.0,
+      "home": 48.0
     },
     "expected_score": {
       "away": 1.7,
@@ -9503,8 +9503,8 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           }
         },
-        "sit_score": 60.0,
-        "total": 45.8
+        "sit_score": 56.0,
+        "total": 45.2
       },
       "home": {
         "sp_score": 38.6,
@@ -9712,8 +9712,8 @@ window.PREDICTIONS_DATA = [
       "any": false
     },
     "actual_winner": "Minnesota Twins",
-    "model_winner": "Minnesota Twins",
-    "model_correct": true,
+    "model_winner": "Texas Rangers",
+    "model_correct": false,
     "notes": "Texas Rangers IL: Cal Quantrill, Carter Baumler, Cole Winn, Jack Leiter, Jalen Beeks 외 다수 / Minnesota Twins IL: Anthony Banda, Byron Buxton, Cole Sands, David Festa, Jeff Hoffman 외 다수",
     "kalshi_prob": null,
     "edge": null,
@@ -9740,18 +9740,18 @@ window.PREDICTIONS_DATA = [
     "away": "Houston Astros",
     "home": "Athletics",
     "away_standing": {
-      "div_rank": 2,
+      "div_rank": 1,
       "div_name": "AL West",
-      "wins": 79,
+      "wins": 80,
       "losses": 81,
-      "games_back": "0.5"
+      "games_back": "-"
     },
     "home_standing": {
       "div_rank": 4,
       "div_name": "AL West",
       "wins": 64,
-      "losses": 96,
-      "games_back": "15.5"
+      "losses": 97,
+      "games_back": "16.0"
     },
     "away_recent_form": {
       "games": [
@@ -10163,7 +10163,7 @@ window.PREDICTIONS_DATA = [
           "recent_era": 4.01,
           "recent_appearances": 19,
           "recent_ip": 24.7,
-          "team_era": 3.9,
+          "team_era": 3.89,
           "bp_ip": 323.0,
           "bp_count": 8,
           "closer_era": 1.01,
@@ -10265,8 +10265,8 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           }
         },
-        "sit_score": 51.9,
-        "total": 58.7
+        "sit_score": 60.0,
+        "total": 59.9
       },
       "home": {
         "sp_score": 39.4,
@@ -10340,15 +10340,15 @@ window.PREDICTIONS_DATA = [
           "closer_era": 3.33,
           "closer_name": "Hogan Harris"
         },
-        "bat_score": 30.6,
+        "bat_score": 30.4,
         "bat_detail": {
-          "recent_avg": 0.257,
+          "recent_avg": 0.256,
           "runs_per_g": 4.2,
           "hr_per_g": 1.1,
           "bb_per_g": 3.0,
-          "season_ops": 0.734,
+          "season_ops": 0.733,
           "season_slg": null,
-          "season_avg": 0.257,
+          "season_avg": 0.256,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -10360,7 +10360,7 @@ window.PREDICTIONS_DATA = [
             "Jeff McNeil(0.704)",
             "Zack Gelof(0.931)",
             "Donovan Walton(0.766)",
-            "Carlos Cortes(0.683)",
+            "Carlos Cortes(0.670)",
             "Tommy White(0.697)",
             "Jonah Heim(0.526)"
           ],
@@ -10404,8 +10404,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 666126,
               "name": "Carlos Cortes",
-              "ops": 0.683,
-              "avg": 0.167
+              "ops": 0.67,
+              "avg": 0.16
             },
             {
               "id": 695720,
@@ -10436,14 +10436,14 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           }
         },
-        "sit_score": 46.0,
-        "total": 36.0
+        "sit_score": 41.4,
+        "total": 35.2
       }
     },
     "scores": {
       "away_offense": 51.800000000000004,
       "away_defense": 56.9,
-      "home_offense": 30.6,
+      "home_offense": 30.4,
       "home_defense": 37.2
     },
     "actual_score": {
@@ -11240,15 +11240,15 @@ window.PREDICTIONS_DATA = [
       "div_rank": 5,
       "div_name": "AL West",
       "wins": 62,
-      "losses": 98,
-      "games_back": "17.5"
+      "losses": 99,
+      "games_back": "18.0"
     },
     "home_standing": {
       "div_rank": 3,
       "div_name": "AL West",
-      "wins": 74,
+      "wins": 75,
       "losses": 86,
-      "games_back": "5.5"
+      "games_back": "5.0"
     },
     "away_recent_form": {
       "games": [
@@ -11564,8 +11564,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 50.9,
-      "home": 49.1
+      "away": 50.0,
+      "home": 50.0
     },
     "expected_score": {
       "away": 1.2,
@@ -11647,7 +11647,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 31.6,
+        "bp_score": 31.5,
         "bp_detail": {
           "bullpen_era": 4.3,
           "recent_era": 9.43,
@@ -11659,13 +11659,13 @@ window.PREDICTIONS_DATA = [
           "closer_era": 4.0,
           "closer_name": "Ryan Watson"
         },
-        "bat_score": 17.6,
+        "bat_score": 17.5,
         "bat_detail": {
           "recent_avg": 0.221,
           "runs_per_g": 4.0,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
-          "season_ops": 0.629,
+          "season_ops": 0.628,
           "season_slg": null,
           "season_avg": 0.221,
           "n_games": 9,
@@ -11676,7 +11676,7 @@ window.PREDICTIONS_DATA = [
             "Zach Neto(0.786)",
             "Mike Trout(0.780)",
             "Wade Meckler(0.774)",
-            "Vaughn Grissom(0.728)",
+            "Vaughn Grissom(0.718)",
             "Moisés Ballesteros(0.533)",
             "Josh Lowe(0.662)",
             "Christian Moore(0.611)",
@@ -11705,8 +11705,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 687093,
               "name": "Vaughn Grissom",
-              "ops": 0.728,
-              "avg": 0.27
+              "ops": 0.718,
+              "avg": 0.263
             },
             {
               "id": 694208,
@@ -11741,7 +11741,7 @@ window.PREDICTIONS_DATA = [
           ],
           "bat_trend": "hot",
           "last5_rpg": 5.4,
-          "last5_avg": 0.28,
+          "last5_avg": 0.275,
           "home_split": {
             "recent_avg": 0.224,
             "runs_per_g": 3.7,
@@ -11749,14 +11749,14 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.262,
+            "recent_avg": 0.26,
             "runs_per_g": 5.2,
             "hr_per_g": 1.3,
             "n_games": 10
           }
         },
-        "sit_score": 43.7,
-        "total": 44.8
+        "sit_score": 39.6,
+        "total": 44.1
       },
       "home": {
         "sp_score": 31.2,
@@ -11841,14 +11841,14 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 53.4,
+        "bp_score": 54.1,
         "bp_detail": {
-          "bullpen_era": 3.98,
-          "recent_era": 3.13,
+          "bullpen_era": 3.97,
+          "recent_era": 3.0,
           "recent_appearances": 21,
-          "recent_ip": 23.0,
-          "team_era": 4.03,
-          "bp_ip": 382.3,
+          "recent_ip": 24.0,
+          "team_era": 4.02,
+          "bp_ip": 383.3,
           "bp_count": 9,
           "closer_era": 3.63,
           "closer_name": "Seranthony Domínguez"
@@ -11949,15 +11949,15 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           }
         },
-        "sit_score": 47.4,
-        "total": 36.2
+        "sit_score": 51.5,
+        "total": 37.0
       }
     },
     "scores": {
-      "away_offense": 17.6,
+      "away_offense": 17.5,
       "away_defense": 48.8,
       "home_offense": 26.4,
-      "home_defense": 45.6
+      "home_defense": 46.1
     },
     "actual_score": {
       "away": 7,
@@ -11971,8 +11971,8 @@ window.PREDICTIONS_DATA = [
       "any": false
     },
     "actual_winner": "Los Angeles Angels",
-    "model_winner": "Los Angeles Angels",
-    "model_correct": true,
+    "model_winner": "Seattle Mariners",
+    "model_correct": false,
     "notes": "Los Angeles Angels IL: Anthony Rendon, Ben Joyce, George Klassen, Gustavo Campero, Jack Kochanowicz 외 다수 / Seattle Mariners IL: Andrés Muñoz, Brendan Donovan, Brennen Davis, Brock Rodden, Cole Wilcox 외 다수",
     "kalshi_prob": null,
     "edge": null,
@@ -11984,10 +11984,10 @@ window.PREDICTIONS_DATA = [
       "sp_favors": "Los Angeles Angels",
       "bat_favors": "Seattle Mariners",
       "sp_gap": 34.8,
-      "bat_gap": -8.8
+      "bat_gap": -8.9
     },
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 50.9% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 50.0% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
