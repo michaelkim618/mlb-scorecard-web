@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T00:46:29.496641+00:00",
+  "updated_at": "2026-09-27T01:03:12.675678+00:00",
   "news": [
     {
       "title": "Nola lasts 1 inning on short rest in Phils' shuffled rotation",
@@ -12,7 +12,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T00:40:00+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "23m ago"
+    },
+    {
+      "title": "Treinen injures shoulder, no longer an option for Dodgers' playoff 'pen",
+      "link": "https://www.mlb.com/news/blake-treinen-out-for-2026-postseason-with-shoulder-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790465518/mlb/b9qx0ak4vf4jx35dpm1f",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-27T00:39:05+00:00",
+      "time_ago": "24m ago"
     },
     {
       "title": "Snell shows he's ready to reprise role in LA's postseason rotation behemoth",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T00:35:00+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "28m ago"
     },
     {
       "title": "Cap Yeli! Yelich first to wear 'C' as captain in Brewers' history",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T00:18:00+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "Suarez tunes up for playoffs with 2nd appearance after injury",
@@ -51,7 +64,20 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-27T00:16:00+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "47m ago"
+    },
+    {
+      "title": "Speedy Simpson to rest sore foot, get ready for first postseason",
+      "link": "https://www.mlb.com/news/chandler-simpson-sits-final-two-games-of-2026-regular-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790462167/mlb/f54hc8dj9afy5fcx7g1j",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T00:08:25+00:00",
+      "time_ago": "54m ago"
     },
     {
       "title": "Injuries: Burnes, Arraez, Gausman, Judge, Red Sox, Braves",
@@ -64,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-27T00:05:00+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Day for the ages: Verlander's final start, incredible father-daughter moment AND a walk-off HR!",
@@ -77,32 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-26T23:49:00+00:00",
-      "time_ago": "57m ago"
-    },
-    {
-      "title": "Espino looking to become key piece in Guardians' postseason bullpen",
-      "link": "https://www.mlb.com/news/daniel-espino-helping-to-bolster-guardians-bullpen",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/s7vkyioyrcenszqo3uum",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-26T23:32:37+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Lowder puts bow on first full season with quality start",
-      "link": "https://www.mlb.com/news/rhett-lowder-finishes-2026-with-scoreless-start",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ey6ssbxhrqgolynzdcf2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-26T23:24:00+00:00",
       "time_ago": "1h ago"
     }
   ]

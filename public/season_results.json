@@ -16993,6 +16993,30 @@
       "away_bp_score": 75.0,
       "home_bp_score": 52.8,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-09-26",
+      "away": "Texas Rangers",
+      "home": "Minnesota Twins",
+      "game_number": 1,
+      "pick": "Minnesota Twins",
+      "pick_prob": 51.6,
+      "actual_winner": "Texas Rangers",
+      "away_score": 6,
+      "home_score": 1,
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "cold",
+      "home_sp_trend": "cold",
+      "away_sp_era": 4.69,
+      "home_sp_era": 4.32,
+      "away_bp_era": 3.52,
+      "home_bp_era": 4.01,
+      "away_sp_score": 33.1,
+      "home_sp_score": 31.8,
+      "away_bp_score": 63.3,
+      "home_bp_score": 55.2,
+      "bat_source": "lineup"
     }
   ]
 }
