@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-27T19:25:28.287609+00:00",
+  "updated_at": "2026-09-27T19:49:04.877300+00:00",
   "news": [
+    {
+      "title": "Lindor just 2nd switch-hitter with 300 HRs, 200 SBs after milestone blast",
+      "link": "https://www.mlb.com/news/francisco-lindor-hits-300th-career-home-run",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ilisdr4uysny3oogrdh3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bobby Blanco",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-27T19:22:10+00:00",
+      "time_ago": "26m ago"
+    },
     {
       "title": "With playoffs on-deck, Colson Montgomery ready to 'turn the page' on tough end to '26",
       "link": "https://www.mlb.com/news/colson-montgomery-ready-to-turn-page-to-2026-playoffs",
@@ -12,7 +25,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-27T19:14:36+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "34m ago"
     },
     {
       "title": "Resolute Buxton focused on offseason rehab, healthy '27 return",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T19:08:32+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "40m ago"
     },
     {
       "title": "Yanks turn to Cy favorite Schlittler to start G1 of Wild Card Series",
@@ -38,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-27T19:04:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "Future undecided, an emotional Springer prepares to say goodbye to Toronto",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T18:58:00+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "51m ago"
     },
     {
       "title": "NL batting leader Moreno scratched from D-backs' finale",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T18:51:00+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Fan favorite Geno grateful for second act in Cincinnati",
@@ -90,19 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-27T18:13:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Luzardo activated off IL for Game 162, though Phils not sure how (or if) he'll be used",
-      "link": "https://www.mlb.com/news/jesus-luzardo-activated-from-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788810307/mlb/qkutsikufjcttn5kpdre",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-27T18:06:00+00:00",
       "time_ago": "1h ago"
     }
   ]
