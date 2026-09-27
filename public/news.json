@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-27T23:30:53.665096+00:00",
+  "updated_at": "2026-09-27T23:51:45.807227+00:00",
   "news": [
+    {
+      "title": "Dodgers end season with 100th win, questions about Ohtani",
+      "link": "https://www.mlb.com/news/shohei-ohtani-hopes-to-shake-off-rust-heading-into-2026-postseason",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790542829/mlb/m7meun5hyr4coajxd7kx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T23:35:00+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Fresh off facial fractures, Bregman mashes 2 homers in 2nd game back",
+      "link": "https://www.mlb.com/news/alex-bregman-hits-first-homers-since-being-hit-in-face-by-foul",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790538241/mlb/jjjuztdo2uramxddwxje",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-27T23:31:00+00:00",
+      "time_ago": "20m ago"
+    },
     {
       "title": "Padres finish out 3rd straight 90-plus-win season with statement at home",
       "link": "https://www.mlb.com/news/randy-vasquez-has-quality-start-in-padres-91st-win",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T23:26:00+00:00",
-      "time_ago": "4m ago"
+      "time_ago": "25m ago"
     },
     {
       "title": "A week after clinching at Trop, Red Sox lose home finale -- at Trop",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T23:21:06+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "30m ago"
     },
     {
       "title": "Willson returns to lineup, should play in WC Series; Gasper, Guerrero placed on IL",
@@ -38,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-27T23:21:00+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "30m ago"
     },
     {
       "title": "White Sox to face Astros in AL Wild Card Series, rematch of '21 postseason clash",
@@ -51,7 +77,20 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-27T23:01:00+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "50m ago"
+    },
+    {
+      "title": "Lindor just 2nd switch-hitter with 300 HRs, 200 SBs after milestone blast",
+      "link": "https://www.mlb.com/news/francisco-lindor-hits-300th-career-home-run",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ilisdr4uysny3oogrdh3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bobby Blanco",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-27T22:59:00+00:00",
+      "time_ago": "52m ago"
     },
     {
       "title": "Here are the final stats leaders from the 2026 season",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T22:52:00+00:00",
-      "time_ago": "38m ago"
-    },
-    {
-      "title": "Wilson won't be back as Mariners' manager in 2027",
-      "link": "https://www.mlb.com/news/dan-wilson-won-t-return-mariners-manager-2027",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wghual75xtusnxuzcijz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T22:47:00+00:00",
-      "time_ago": "43m ago"
-    },
-    {
-      "title": "Alonso becomes first player to win RBI title in both leagues",
-      "link": "https://www.mlb.com/news/pete-alonso-first-player-to-win-rbi-title-in-al-and-nl",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ccbgfzfvlltqutywkx0i",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T22:45:03+00:00",
-      "time_ago": "45m ago"
-    },
-    {
-      "title": "He's a good man! Guards fans donate to Denver charity to thank Goodman for clincher assist",
-      "link": "https://www.mlb.com/news/guardians-fans-donate-to-charity-to-thank-hunter-goodman",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790542870/mlb/rxcmtiwkwryzmhhzk3dj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harding",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T22:34:00+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "59m ago"
     }
   ]
 }
