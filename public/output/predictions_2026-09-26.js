@@ -386,14 +386,14 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 47.1,
+        "bp_score": 49.4,
         "bp_detail": {
-          "bullpen_era": 4.39,
-          "recent_era": 3.33,
-          "recent_appearances": 16,
-          "recent_ip": 27.0,
-          "team_era": 4.28,
-          "bp_ip": 305.7,
+          "bullpen_era": 4.33,
+          "recent_era": 3.0,
+          "recent_appearances": 18,
+          "recent_ip": 30.0,
+          "team_era": 4.26,
+          "bp_ip": 295.3,
           "bp_count": 10,
           "closer_era": 4.43,
           "closer_name": "Devin Williams"
@@ -495,7 +495,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 47.4,
-        "total": 46.3
+        "total": 46.8
       },
       "home": {
         "sp_score": 54.1,
@@ -687,7 +687,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 35.5,
-      "away_defense": 45.5,
+      "away_defense": 46.7,
       "home_offense": 25.0,
       "home_defense": 42.6
     },
@@ -705,7 +705,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "New York Mets",
     "model_winner": "Washington Nationals",
     "model_correct": false,
-    "notes": "New York Mets IL: Christian Scott, Daniel Duarte, Jared Young, Jorge Polanco, Reed Garrett 외 다수 / Washington Nationals IL: Drew Millas, Ken Waldichuk, Matt Waldron, Mitchell Parker, Orlando Ribalta 외 다수",
+    "notes": "New York Mets IL: Christian Scott, Daniel Duarte, Jared Young, Jonathan Pintaro, Jorge Polanco 외 다수 / Washington Nationals IL: Drew Millas, Ken Waldichuk, Matt Waldron, Mitchell Parker, Orlando Ribalta 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
