@@ -1,18 +1,83 @@
 {
-  "updated_at": "2026-09-27T20:17:38.735348+00:00",
+  "updated_at": "2026-09-27T21:12:00.871455+00:00",
   "news": [
     {
       "title": "O's-Yanks finale canceled due to weather, will not be rescheduled",
       "link": "https://www.mlb.com/news/orioles-yankees-september-27-game-canceled-due-to-weather",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qxpjmhwpz6tcplnudpqp",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ujqves58oeesy63n6vdx",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "MLB.com",
+      "author": "Bryan Hoch",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-27T20:08:22+00:00",
-      "time_ago": "9m ago"
+      "pub_date": "2026-09-27T21:08:00+00:00",
+      "time_ago": "4m ago"
+    },
+    {
+      "title": "Lindor just 2nd switch-hitter with 300 HRs, 200 SBs after milestone blast",
+      "link": "https://www.mlb.com/news/francisco-lindor-hits-300th-career-home-run",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ilisdr4uysny3oogrdh3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bobby Blanco",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-27T20:50:00+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "Vitello tossed from Game 162, ending year with MLB-high 7 ejections",
+      "link": "https://www.mlb.com/news/tony-vitello-gets-ejected-from-giants-final-2026-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790540442/mlb/g0ssl1gadtba1gpci8qg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Maria Guardado",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T20:45:34+00:00",
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "Wilson won't be back as Mariners' manager in 2027 (sources)",
+      "link": "https://www.mlb.com/news/dan-wilson-won-t-return-mariners-manager-2027",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wghual75xtusnxuzcijz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T20:45:28+00:00",
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "Willson returns to lineup, hopeful for WC Series; Gasper, Guerrero placed on IL",
+      "link": "https://www.mlb.com/news/willson-contreras-returns-to-lineup-might-play-in-wild-card-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790533705/mlb/bb4yehgjxzelnwwibean",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Joey Johnston",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-27T20:33:00+00:00",
+      "time_ago": "39m ago"
+    },
+    {
+      "title": "What to know ahead of Cubs-Padres Wild Card Series matchup",
+      "link": "https://www.mlb.com/news/cubs-vs-padres-wild-card-series-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rfmhzptsqnqjdzoyn4gu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian and AJ Cassavell",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-27T20:25:00+00:00",
+      "time_ago": "47m ago"
     },
     {
       "title": "Fresh off facial fractures, Bregman mashes 2 homers in 2nd game back",
@@ -25,33 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-27T20:08:13+00:00",
-      "time_ago": "9m ago"
-    },
-    {
-      "title": "Willson returns to lineup, hopeful for WC Series; Gasper, Guerrero placed on IL",
-      "link": "https://www.mlb.com/news/willson-contreras-returns-to-lineup-might-play-in-wild-card-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790533705/mlb/bb4yehgjxzelnwwibean",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Joey Johnston",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-27T19:51:21+00:00",
-      "time_ago": "26m ago"
-    },
-    {
-      "title": "Lindor just 2nd switch-hitter with 300 HRs, 200 SBs after milestone blast",
-      "link": "https://www.mlb.com/news/francisco-lindor-hits-300th-career-home-run",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ilisdr4uysny3oogrdh3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bobby Blanco",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-27T19:22:10+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "With playoffs on-deck, Colson Montgomery ready to 'turn the page' on tough end to '26",
@@ -64,45 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-27T19:14:36+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Resolute Buxton focused on offseason rehab, healthy '27 return",
-      "link": "https://www.mlb.com/news/byron-buxton-focused-on-rehab-from-right-hip-injury-2027-return",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sx8jcma1ihkiwik4x5vi",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T19:08:32+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Yanks turn to Cy favorite Schlittler to start G1 of Wild Card Series",
-      "link": "https://www.mlb.com/news/cam-schlittler-to-start-game-1-of-al-wild-card-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bzgm5c2yu3wlswxfva3o",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-27T19:04:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Future undecided, an emotional Springer prepares to say goodbye to Toronto",
-      "link": "https://www.mlb.com/news/george-springer-grateful-for-time-with-blue-jays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vijileu2gzlth6oaxfbv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T18:58:00+00:00",
       "time_ago": "1h ago"
     }
   ]
