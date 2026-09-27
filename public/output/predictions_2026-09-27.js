@@ -618,7 +618,7 @@ window.PREDICTIONS_DATA = [
       "home_defense": 30.4
     },
     "actual_score": {
-      "away": 0,
+      "away": 1,
       "home": 0
     },
     "lineup_confirmed": true,

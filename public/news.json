@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T17:54:56.087884+00:00",
+  "updated_at": "2026-09-27T18:13:21.975040+00:00",
   "news": [
     {
       "title": "What to know ahead of Cubs-Padres Wild Card Series matchup",
@@ -12,7 +12,20 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-27T17:43:03+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "What to know ahead of Red Sox-Yankees Wild Card Series rematch",
+      "link": "https://www.mlb.com/news/red-sox-vs-yankees-wild-card-series-starting-lineups-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yzosp3xt29yimbfkd0qc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne and Bryan Hoch",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-27T17:20:00+00:00",
+      "time_ago": "53m ago"
     },
     {
       "title": "Luzardo activated off IL for Game 162; Urquidy DFA'd",
@@ -38,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-27T16:03:13+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Start time for crucial Rays-Phillies finale moved to 2:30 ET",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T06:10:00+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "12h ago"
     },
     {
       "title": "Guardians clinch 7th Central title in last 11 years, secure 1st-round bye",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T05:24:00+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "Bottom of the order steps up to keep Rangers' AL West hopes alive entering Game 162",
-      "link": "https://www.mlb.com/news/rangers-win-over-twins-keeps-al-west-title-hopes-alive",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pkis0g3clshg6ypsqbbs",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kennedi Landry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T05:20:00+00:00",
       "time_ago": "12h ago"
     }
   ]
