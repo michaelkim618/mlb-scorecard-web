@@ -1,9 +1,35 @@
 {
-  "updated_at": "2026-09-27T00:01:40.774159+00:00",
+  "updated_at": "2026-09-27T00:46:29.496641+00:00",
   "news": [
     {
-      "title": "Cap Yeli! Brewers name Yelich first captain in franchise history",
-      "link": "https://www.mlb.com/news/christian-yelich-named-first-captain-in-brewers-history",
+      "title": "Nola lasts 1 inning on short rest in Phils' shuffled rotation",
+      "link": "https://www.mlb.com/news/aaron-nola-moved-up-to-start-saturday-for-phillies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790469636/mlb/u1kcdvoh8dg6k8qqis9l",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T00:40:00+00:00",
+      "time_ago": "6m ago"
+    },
+    {
+      "title": "Snell shows he's ready to reprise role in LA's postseason rotation behemoth",
+      "link": "https://www.mlb.com/news/blake-snell-solid-in-final-regular-season-tuneup-following-groin-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790457443/mlb/sjinnxbkyigebzggmzam",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T00:35:00+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Cap Yeli! Yelich first to wear 'C' as captain in Brewers' history",
+      "link": "https://www.mlb.com/news/christian-yelich-named-brewers-captain",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nc01hlryvszwlwgbebpq",
       "source": "MLB.com",
@@ -11,8 +37,47 @@
       "author": "Adam McCalvy",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-09-26T23:36:23+00:00",
-      "time_ago": "25m ago"
+      "pub_date": "2026-09-27T00:18:00+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "Suarez tunes up for playoffs with 2nd appearance after injury",
+      "link": "https://www.mlb.com/news/robert-suarez-pitches-in-miami-before-playoffs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rdrhyqhvldnr3uvlbxnz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-27T00:16:00+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "Injuries: Burnes, Arraez, Gausman, Judge, Red Sox, Braves",
+      "link": "https://www.mlb.com/news/baseball-injury-updates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788067239/mlb/jurc3ulomygr91qkhzgk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-27T00:05:00+00:00",
+      "time_ago": "41m ago"
+    },
+    {
+      "title": "Day for the ages: Verlander's final start, incredible father-daughter moment AND a walk-off HR!",
+      "link": "https://www.mlb.com/news/justin-verlander-final-mlb-start",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ymogxrr4ks3novrubgjh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-26T23:49:00+00:00",
+      "time_ago": "57m ago"
     },
     {
       "title": "Espino looking to become key piece in Guardians' postseason bullpen",
@@ -25,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-26T23:32:37+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Lowder puts bow on first full season with quality start",
@@ -38,71 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-26T23:24:00+00:00",
-      "time_ago": "37m ago"
-    },
-    {
-      "title": "Suarez tunes up for playoffs with 2nd appearance after injury",
-      "link": "https://www.mlb.com/news/robert-suarez-pitches-in-miami-before-playoffs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rdrhyqhvldnr3uvlbxnz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-26T23:15:28+00:00",
-      "time_ago": "46m ago"
-    },
-    {
-      "title": "Snell shows he's ready to reprise role in LA's postseason rotation behemoth",
-      "link": "https://www.mlb.com/news/blake-snell-solid-in-final-regular-season-tuneup-following-groin-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790457443/mlb/sjinnxbkyigebzggmzam",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-26T23:01:10+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Hot-hitting Ortiz undergoes MRI on knee ahead of postseason",
-      "link": "https://www.mlb.com/news/joey-ortiz-undergoes-mri-for-knee-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790460961/mlb/lolempqqg4wyya1akx7j",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-26T22:36:46+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Padres' recent roster moves have major implications for their playoff roster",
-      "link": "https://www.mlb.com/news/casey-mize-placed-on-injured-list-gavin-sheets-reinstated",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hnemq4ldkyeiq7bx3n12",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-26T22:29:35+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "With playoff lives at stake, Phillies shuffle weekend rotation, lineup",
-      "link": "https://www.mlb.com/news/aaron-nola-moved-up-to-start-saturday-for-phillies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790460583/mlb/ks30u1tjfo6hy85r4fgq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-26T22:23:22+00:00",
       "time_ago": "1h ago"
     }
   ]
