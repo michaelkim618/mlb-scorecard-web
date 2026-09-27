@@ -1,18 +1,31 @@
 {
-  "updated_at": "2026-09-27T18:13:21.975040+00:00",
+  "updated_at": "2026-09-27T18:35:17.518781+00:00",
   "news": [
     {
-      "title": "What to know ahead of Cubs-Padres Wild Card Series matchup",
-      "link": "https://www.mlb.com/news/cubs-vs-padres-wild-card-series-lineups-and-pitching-matchup",
+      "title": "Yanks set Wild Card Series rotation, with Schlittler for Game 1",
+      "link": "https://www.mlb.com/news/cam-schlittler-to-start-game-1-of-al-wild-card-series",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rfmhzptsqnqjdzoyn4gu",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bzgm5c2yu3wlswxfva3o",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Jordan Bastian and AJ Cassavell",
+      "author": "",
       "tag": "Standings",
       "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-27T17:43:03+00:00",
-      "time_ago": "30m ago"
+      "pub_date": "2026-09-27T18:22:46+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Fan favorite Geno grateful for second act in Cincinnati",
+      "link": "https://www.mlb.com/news/eugenio-suarez-reflects-on-2026-season-with-reds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bfhjaxc4fsfchkhfmwaz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Sheldon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T18:22:00+00:00",
+      "time_ago": "13m ago"
     },
     {
       "title": "What to know ahead of Red Sox-Yankees Wild Card Series rematch",
@@ -24,21 +37,34 @@
       "author": "Ian Browne and Bryan Hoch",
       "tag": "Standings",
       "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-27T17:20:00+00:00",
-      "time_ago": "53m ago"
+      "pub_date": "2026-09-27T18:13:00+00:00",
+      "time_ago": "22m ago"
     },
     {
-      "title": "Luzardo activated off IL for Game 162; Urquidy DFA'd",
+      "title": "Luzardo activated off IL for Game 162, though Phils not sure how (or if) he'll be used",
       "link": "https://www.mlb.com/news/jesus-luzardo-activated-from-injured-list",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788810307/mlb/qkutsikufjcttn5kpdre",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "",
+      "author": "Todd Zolecki",
       "tag": "Injury",
       "tag_color": "#DC2626",
-      "pub_date": "2026-09-27T16:21:23+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-09-27T18:06:00+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "What to know ahead of Cubs-Padres Wild Card Series matchup",
+      "link": "https://www.mlb.com/news/cubs-vs-padres-wild-card-series-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rfmhzptsqnqjdzoyn4gu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian and AJ Cassavell",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-27T17:43:03+00:00",
+      "time_ago": "52m ago"
     },
     {
       "title": "Wild Card Series game times announced",
@@ -54,7 +80,7 @@
       "time_ago": "2h ago"
     },
     {
-      "title": "Start time for crucial Rays-Phillies finale moved to 2:30 ET",
+      "title": "Rays-Phillies finale start time moved to 2:30 p.m. ET",
       "link": "https://www.mlb.com/news/rays-phillies-sept-27-2026-game-time-update",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ghl9rtmfjunbj9zqnz0i",
@@ -77,33 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-27T14:24:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Astros control destiny in Game 162 as they battle for AL West crown",
-      "link": "https://www.mlb.com/news/jeremy-pena-homers-twice-as-astros-beat-a-s",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790483215/mlb/k1mmjijbsbpt1vgak2a5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T06:10:00+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "Guardians clinch 7th Central title in last 11 years, secure 1st-round bye",
-      "link": "https://www.mlb.com/news/guardians-clinch-2026-al-central-title",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dypf9dlkmqfjox5urfap",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T05:24:00+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
