@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-28T16:31:22.636491+00:00",
+  "updated_at": "2026-09-28T17:23:40.665578+00:00",
   "news": [
     {
-      "title": "Will Judge play in Wild Card Series? Here's the latest",
+      "title": "LIVE: Boone meets media to discuss Judge's status, Wild Card Series",
       "link": "https://www.mlb.com/news/aaron-judge-calf-injury-latest-news",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kfaznbkggvtmzji1cta0",
@@ -11,8 +11,21 @@
       "author": "Max Ralph",
       "tag": "Standings",
       "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-28T14:57:37+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-09-28T17:16:00+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Tolle to kick off WC Series for Red Sox; Gray earns Game 2 start",
+      "link": "https://www.mlb.com/news/red-sox-rotation-al-wild-card-series-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nq0deskw68epfeoovoz7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-28T16:55:34+00:00",
+      "time_ago": "28m ago"
     },
     {
       "title": "How did Rays conquer the AL? By not beating themselves",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-28T14:53:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "The moves that keyed '26 White Sox's incredible turnaround",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-28T14:10:51+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Power Rankings: Who starts playoffs on top?",
@@ -64,10 +77,10 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-28T04:00:00+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "13h ago"
     },
     {
-      "title": "Fill out your postseason bracket, compete to win $10K",
+      "title": "Fill out your postseason bracket and compete to win $10 thousand!",
       "link": "https://www.mlb.com/moments/experiences/postseason-bracket-challenge?affiliateID=psbc_mlb_digital_2026",
       "summary": "Enter your picks in the 2026 MLB Postseason Bracket Challenge presented by Zillow and you could win $10,000.",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/etym1zzgxciekgqetbw0",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-28T03:17:04+00:00",
-      "time_ago": "13h ago"
+      "time_ago": "14h ago"
     },
     {
       "title": "Luzardo throws 4-pitch eighth in return, ready for 'whatever Phillies need'",
@@ -90,20 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-28T00:42:00+00:00",
-      "time_ago": "15h ago"
-    },
-    {
-      "title": "Astros endure obstacles, clinch 8th AL West title: 'Now, we go'",
-      "link": "https://www.mlb.com/news/astros-clinch-2026-al-west-title",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790549429/mlb/tfj5zellm24n0qy86miu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-28T00:40:00+00:00",
-      "time_ago": "15h ago"
+      "time_ago": "16h ago"
     }
   ]
 }

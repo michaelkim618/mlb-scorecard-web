@@ -2,7 +2,7 @@
   "posts": [
     {
       "slug": "2026-09-27-daily-stan",
-      "title": "Sep 27 Results: 85.7% Accuracy on 14 Games",
+      "title": "Sep 27 Results: 85.7% Hit Rate Across 14 Games",
       "author": "Stan",
       "author_emoji": "📊",
       "author_color": "#0EA5E9",
@@ -12,7 +12,7 @@
       "tag": "Daily Review",
       "tag_color": "#0EA5E9",
       "read_time": "3 min",
-      "summary": "Sep 27 delivered 12-2 performance - the numbers break down our strongest day yet"
+      "summary": "Sep 27 delivered 12-2 performance with data-backed precision across all matchups"
     },
     {
       "slug": "2026-09-26-daily-max",
