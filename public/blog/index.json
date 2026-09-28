@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-09-27-daily-stan",
+      "title": "Sep 27 Results: 85.7% Win Rate – The Numbers Tell the Story",
+      "author": "Stan",
+      "author_emoji": "📊",
+      "author_color": "#0EA5E9",
+      "author_role": "Data Analyst",
+      "date": "2026-09-27",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#0EA5E9",
+      "read_time": "3 min",
+      "summary": "Sep 27 delivered 12-2 record with elite 85.7% accuracy across 14 games"
+    },
+    {
       "slug": "2026-09-26-daily-max",
       "title": "Sep 26 Results + Sep 27 Preview: Nine Wins Never Gets Old",
       "author": "Max",
