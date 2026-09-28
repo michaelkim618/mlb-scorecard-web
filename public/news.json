@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T19:23:33.272861+00:00",
+  "updated_at": "2026-09-28T20:02:59.249152+00:00",
   "news": [
     {
       "title": "Crochet has chance to make Red Sox's Wild Card Series roster as reliever",
@@ -12,7 +12,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-28T19:04:42+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Hampered by ankle injury, Arraez won't be on NL Wild Card Series roster",
@@ -25,7 +25,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-28T19:02:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "How will injury impact these stars in AL, NL Wild Card Series?",
@@ -38,7 +38,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-28T18:54:00+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Bradish to undergo sports hernia surgery after ending '26 on IL",
@@ -51,7 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-28T18:52:11+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Tolle to kick off WC Series for Red Sox; Gray earns Game 2 start",
@@ -67,6 +67,19 @@
       "time_ago": "1h ago"
     },
     {
+      "title": "Who would Rays prefer to face in ALDS: Red Sox or Yankees?",
+      "link": "https://www.mlb.com/news/rays-versus-red-sox-yankees-2026-alds-matchup-breakdown",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790470860/mlb/l21btahj0pwueauf2cc2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-28T18:02:46+00:00",
+      "time_ago": "2h ago"
+    },
+    {
       "title": "Twins part ways with pitching coaches Maki, Ramirez and trainer Kirkman",
       "link": "https://www.mlb.com/news/twins-coaching-staff-changes-2026",
       "summary": "",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-28T17:55:51+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Will Judge play in Wild Card Series? Here's the latest",
@@ -90,20 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-28T17:39:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Make your picks for 2026 All-MLB Team",
-      "link": "https://www.mlb.com/news/all-mlb-team-nominees-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ljpj9p2g39d2s14pabao",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-28T17:34:27+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
