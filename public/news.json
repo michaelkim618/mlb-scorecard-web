@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-28T20:02:59.249152+00:00",
+  "updated_at": "2026-09-28T20:11:55.778619+00:00",
   "news": [
+    {
+      "title": "Tolle to kick off WC Series for Red Sox; Gray earns Game 2 start",
+      "link": "https://www.mlb.com/news/red-sox-rotation-al-wild-card-series-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nq0deskw68epfeoovoz7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-28T20:00:00+00:00",
+      "time_ago": "11m ago"
+    },
     {
       "title": "Crochet has chance to make Red Sox's Wild Card Series roster as reliever",
       "link": "https://www.mlb.com/news/garrett-crochet-al-wild-card-series-roster",
@@ -12,7 +25,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-28T19:04:42+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Hampered by ankle injury, Arraez won't be on NL Wild Card Series roster",
@@ -51,19 +64,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-28T18:52:11+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Tolle to kick off WC Series for Red Sox; Gray earns Game 2 start",
-      "link": "https://www.mlb.com/news/red-sox-rotation-al-wild-card-series-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nq0deskw68epfeoovoz7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-28T18:09:00+00:00",
       "time_ago": "1h ago"
     },
     {
