@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-28T18:24:09.768305+00:00",
+  "updated_at": "2026-09-28T19:23:33.272861+00:00",
   "news": [
+    {
+      "title": "Crochet has chance to make Red Sox's Wild Card Series roster as reliever",
+      "link": "https://www.mlb.com/news/garrett-crochet-al-wild-card-series-roster",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hxu7nuz1ciwvdmz58gn1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-28T19:04:42+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Hampered by ankle injury, Arraez won't be on NL Wild Card Series roster",
+      "link": "https://www.mlb.com/news/luis-arraez-2026-nl-wild-card-series-roster",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qguaoi9vu9b0vj0jfpng",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-28T19:02:00+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "How will injury impact these stars in AL, NL Wild Card Series?",
+      "link": "https://www.mlb.com/news/mlb-wild-card-series-injuries-to-watch",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790615939/mlb/dhhdfj6amsdfavaw8sce",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-28T18:54:00+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "Bradish to undergo sports hernia surgery after ending '26 on IL",
+      "link": "https://www.mlb.com/news/kyle-bradish-sports-hernia-surgery",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ks5ioq7skd59f26kiyov",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-28T18:52:11+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "Tolle to kick off WC Series for Red Sox; Gray earns Game 2 start",
+      "link": "https://www.mlb.com/news/red-sox-rotation-al-wild-card-series-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nq0deskw68epfeoovoz7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-28T18:09:00+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Twins part ways with pitching coaches Maki, Ramirez and trainer Kirkman",
       "link": "https://www.mlb.com/news/twins-coaching-staff-changes-2026",
@@ -12,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-28T17:55:51+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Will Judge play in Wild Card Series? Here's the latest",
@@ -25,20 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-28T17:39:00+00:00",
-      "time_ago": "45m ago"
-    },
-    {
-      "title": "How will injury impact these stars in AL, NL Wild Card Series?",
-      "link": "https://www.mlb.com/news/mlb-wild-card-series-injuries-to-watch",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790615939/mlb/dhhdfj6amsdfavaw8sce",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-28T17:37:56+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Make your picks for 2026 All-MLB Team",
@@ -51,59 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-28T17:34:27+00:00",
-      "time_ago": "49m ago"
-    },
-    {
-      "title": "Postseason a prime time for free agents to boost their stock",
-      "link": "https://www.mlb.com/news/free-agents-who-could-boost-stock-in-2026-postseason",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/juftkaat46ygoawqe11k",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-28T17:13:45+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Tolle to kick off WC Series for Red Sox; Gray earns Game 2 start",
-      "link": "https://www.mlb.com/news/red-sox-rotation-al-wild-card-series-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nq0deskw68epfeoovoz7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-28T16:55:34+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "How did Rays conquer the AL? By not beating themselves",
-      "link": "https://www.mlb.com/news/rays-excel-in-all-phases-of-game",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bos6kszotwqipnnknh5e",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-28T14:53:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "The moves that keyed '26 White Sox's incredible turnaround",
-      "link": "https://www.mlb.com/news/how-white-sox-went-from-121-losses-to-playoffs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mh27rgqx5lu8pkwdlnt6",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-28T14:28:05+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
