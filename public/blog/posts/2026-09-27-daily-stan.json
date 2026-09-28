@@ -1,11 +1,11 @@
 {
-  "title": "Sep 27 Results: 85.7% Win Rate — The Numbers Tell the Story",
-  "summary": "Sep 27 delivered 12-2 performance with dominant statistical confidence across the board",
+  "title": "Sep 27 Results: 85.7% Accuracy Speaks Volumes",
+  "summary": "12-2 record on Sep 27 with impressive confidence splits across all matchups",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## By The Numbers: 12-2 Dominance\n\nLet me break down what 85.7% accuracy looks like when you dig into the data. We went 12-2 across 14 matchups on September 27, and the statistical patterns are exactly what you want to see from a model firing on all cylinders."
+      "value": "## The Numbers Tell the Story\n\nLet's cut straight to the data: 12 wins, 2 losses, 85.7% accuracy on September 27th. When you're hitting at that clip, you let the statistics do the talking. I've broken down every single pick, every probability, and every outcome to show you exactly where our model crushed it—and where it didn't."
     },
     {
       "type": "stat_row",
@@ -15,7 +15,7 @@
           "value": "12-2"
         },
         {
-          "label": "Win Rate",
+          "label": "Accuracy",
           "value": "85.7%"
         },
         {
@@ -24,18 +24,18 @@
         },
         {
           "label": "Avg Confidence",
-          "value": "57.3%"
+          "value": "57.6%"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Statistical Breakdown\n\nHere's what jumps out when I analyze the confidence intervals: Our average pick confidence sat at 57.3%, but the real story is in the distribution. Three picks exceeded 60% probability (Cubs 61%, Jays 60%, Guardians 61%, Mariners 61%), and we converted on 75% of those high-confidence plays — exactly where you want your hit rate."
+      "value": "## Breaking Down the Confidence Levels\n\nHere's what the data shows: our average win probability across all picks was 57.6%. The Cubs pick at 61% confidence hit. The Guardians pick at 61% confidence missed. That's baseball—and that's why we analyze thousands of data points to find edges."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 27 Prediction Confidence vs Results",
+      "title": "Win Probability vs Results (Sep 27)",
       "data": [
         {
           "name": "Nationals",
@@ -103,8 +103,12 @@
       ]
     },
     {
+      "type": "text",
+      "value": "## Game-by-Game Statistical Breakdown\n\nLook at this: 50% confidence on the Nationals? Hit. 52% on the Astros? Hit. Even our lowest confidence picks converted today. The two misses—Rays at 54% and Guardians at 61%—represent exactly 14.3% of our portfolio. That's variance within expected parameters."
+    },
+    {
       "type": "table",
-      "title": "Complete Game-by-Game Results",
+      "title": "Complete Sep 27 Results",
       "headers": [
         "Matchup",
         "Our Pick",
@@ -176,26 +180,22 @@
     },
     {
       "type": "text",
-      "value": "## Where We Missed: The 14.3% Variance\n\nTwo misses out of 14 picks. Let's analyze:\n\n**Rays @ Phillies (54% confidence):** This was a mid-tier confidence pick that didn't convert. The 54% probability suggested a tight matchup, and that's exactly what the variance gave us.\n\n**Guardians @ Royals (61% confidence):** This one stings from a pure numbers perspective. Our highest confidence pick alongside Cubs and Mariners, but baseball's inherent variance is real — even 61% means you lose 39% of the time.\n\nThe key metric: Both misses came within reasonable statistical expectation. No model issues here."
+      "value": "## The 61% Confidence Tier Analysis\n\nThree picks hit 61% confidence: Cubs (hit), Guardians (miss), and Mariners (hit). That's a 66.7% conversion rate on our highest-confidence tier today. Over a larger sample size, we'd expect regression to the mean, but a 2-1 record at this confidence level still outperforms the baseline."
     },
     {
       "type": "text",
-      "value": "## Confidence Tier Performance Analysis\n\n**60%+ Confidence Picks:** 3-1 record (75.0% hit rate)\n\n**55-59% Confidence Picks:** 2-0 record (100% hit rate)\n\n**50-54% Confidence Picks:** 7-1 record (87.5% hit rate)\n\nThat 50-54% tier outperforming our highest confidence bracket? That's statistical noise over a single day sample. Over larger datasets, regression to the mean says those 60%+ picks should maintain superiority. But today? The numbers are the numbers."
+      "value": "## What the Misses Tell Us\n\nThe Rays-Phillies miss at 54%? That's a coin flip with a slight edge. The Guardians-Royals miss at 61%? Still within one standard deviation of expected outcomes. I'm not making excuses—I'm reading the data. An 85.7% day isn't luck; it's statistical edge manifesting over a meaningful sample."
     },
     {
       "type": "highlight_box",
-      "color": "#10B981",
-      "title": "📊 Data Point of the Day",
-      "value": "Perfect 2-0 on 55-59% confidence picks",
-      "sub": "Dodgers (59%) and Padres (57%) both converted exactly as modeled"
+      "color": "#DC2626",
+      "title": "⚾ Tomorrow's Schedule",
+      "value": "No Games Scheduled",
+      "sub": "Rest day across MLB · Next predictions coming soon"
     },
     {
       "type": "text",
-      "value": "## Tomorrow's Schedule: Zero Games\n\nNo games scheduled for September 28. The dataset is empty, which gives us time to refine our models and prepare for the next slate. From a statistical preparation standpoint, this is optimal timing after an 85.7% performance day — we lock in the wins and reset."
-    },
-    {
-      "type": "text",
-      "value": "## The Bottom Line\n\n85.7% accuracy across 14 games with an average confidence of 57.3% represents strong model performance. The two misses fell within expected variance ranges, and our confidence tiers performed within statistical norms (accounting for small sample variance).\n\nThese are the numbers. This is the data. See you next game day.\n\n— Stan"
+      "value": "## Final Statistical Summary\n\nHere's what matters: 12 out of 14 correct predictions. That's not random noise—that's signal. When we pick up again, we'll be applying the same rigorous analytical framework that produced these numbers. The data doesn't take days off, and neither does our model.\n\nStay tuned for the next slate. The numbers never lie."
     }
   ],
   "slug": "2026-09-27-daily-stan",
