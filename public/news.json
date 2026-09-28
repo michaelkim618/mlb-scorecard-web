@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-27T23:51:45.807227+00:00",
+  "updated_at": "2026-09-28T00:07:34.153009+00:00",
   "news": [
+    {
+      "title": "Scherzer's brilliance, fire and stubbornness on display in 7-K Game 162 gem",
+      "link": "https://www.mlb.com/news/max-scherzer-strikes-out-seven-reds-in-season-finale",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wbuytukmh9bi39fmuai8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-28T00:00:00+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Roberts ties record with 6th 100-win season as manager",
+      "link": "https://www.mlb.com/news/dave-roberts-ties-record-for-100-win-seasons-as-manager",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790547688/mlb/bbdsnoaycnpcclhqkynf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-27T23:59:03+00:00",
+      "time_ago": "8m ago"
+    },
     {
       "title": "Dodgers end season with 100th win, questions about Ohtani",
       "link": "https://www.mlb.com/news/shohei-ohtani-hopes-to-shake-off-rust-heading-into-2026-postseason",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T23:35:00+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "32m ago"
     },
     {
       "title": "Fresh off facial fractures, Bregman mashes 2 homers in 2nd game back",
@@ -25,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-27T23:31:00+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "36m ago"
     },
     {
       "title": "Padres finish out 3rd straight 90-plus-win season with statement at home",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T23:26:00+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "41m ago"
     },
     {
       "title": "A week after clinching at Trop, Red Sox lose home finale -- at Trop",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-27T23:21:06+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "46m ago"
     },
     {
       "title": "Willson returns to lineup, should play in WC Series; Gasper, Guerrero placed on IL",
@@ -64,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-27T23:21:00+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "46m ago"
     },
     {
       "title": "White Sox to face Astros in AL Wild Card Series, rematch of '21 postseason clash",
@@ -77,33 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-27T23:01:00+00:00",
-      "time_ago": "50m ago"
-    },
-    {
-      "title": "Lindor just 2nd switch-hitter with 300 HRs, 200 SBs after milestone blast",
-      "link": "https://www.mlb.com/news/francisco-lindor-hits-300th-career-home-run",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ilisdr4uysny3oogrdh3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bobby Blanco",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-27T22:59:00+00:00",
-      "time_ago": "52m ago"
-    },
-    {
-      "title": "Here are the final stats leaders from the 2026 season",
-      "link": "https://www.mlb.com/news/2026-mlb-regular-season-stat-leaders",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vdwsxa9we8dnd9rhylfc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-27T22:52:00+00:00",
-      "time_ago": "59m ago"
+      "time_ago": "1h ago"
     }
   ]
 }

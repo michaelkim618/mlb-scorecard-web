@@ -309,7 +309,7 @@ window.PREDICTIONS_DATA = [
     },
     "expected_score": {
       "away": 2.6,
-      "home": 1.9
+      "home": 1.8
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -386,12 +386,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 47.8,
+        "bp_score": 51.5,
         "bp_detail": {
           "bullpen_era": 4.33,
-          "recent_era": 3.09,
-          "recent_appearances": 20,
-          "recent_ip": 32.0,
+          "recent_era": 2.55,
+          "recent_appearances": 17,
+          "recent_ip": 24.7,
           "team_era": 4.28,
           "bp_ip": 297.3,
           "bp_count": 10,
@@ -495,7 +495,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 43.4,
-        "total": 46.4
+        "total": 47.3
       },
       "home": {
         "sp_score": 54.4,
@@ -573,12 +573,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 30.3,
+        "bp_score": 34.2,
         "bp_detail": {
           "bullpen_era": 4.38,
-          "recent_era": 4.02,
-          "recent_appearances": 21,
-          "recent_ip": 31.3,
+          "recent_era": 3.45,
+          "recent_appearances": 18,
+          "recent_ip": 28.7,
           "team_era": 3.89,
           "bp_ip": 172.7,
           "bp_count": 8,
@@ -682,14 +682,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 49.6,
-        "total": 43.4
+        "total": 44.4
       }
     },
     "scores": {
       "away_offense": 37.3,
-      "away_defense": 45.9,
+      "away_defense": 47.8,
       "home_offense": 25.7,
-      "home_defense": 42.4
+      "home_defense": 44.3
     },
     "actual_score": {
       "away": 7,
@@ -1042,12 +1042,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 61.8,
+        "bp_score": 60.3,
         "bp_detail": {
           "bullpen_era": 3.7,
-          "recent_era": 2.55,
-          "recent_appearances": 15,
-          "recent_ip": 17.7,
+          "recent_era": 2.87,
+          "recent_appearances": 14,
+          "recent_ip": 15.7,
           "team_era": 3.81,
           "bp_ip": 338.3,
           "bp_count": 8,
@@ -1151,7 +1151,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 52.1,
-        "total": 46.1
+        "total": 45.4
       },
       "home": {
         "sp_score": 41.4,
@@ -1214,12 +1214,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 60.2,
+        "bp_score": 62.5,
         "bp_detail": {
           "bullpen_era": 3.35,
-          "recent_era": 3.56,
-          "recent_appearances": 19,
-          "recent_ip": 30.3,
+          "recent_era": 3.33,
+          "recent_appearances": 17,
+          "recent_ip": 27.0,
           "team_era": 3.68,
           "bp_ip": 346.7,
           "bp_count": 9,
@@ -1323,14 +1323,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 44.5,
-        "total": 39.8
+        "total": 40.5
       }
     },
     "scores": {
       "away_offense": 33.0,
-      "away_defense": 41.4,
+      "away_defense": 40.6,
       "home_offense": 27.1,
-      "home_defense": 50.8
+      "home_defense": 52.0
     },
     "actual_score": {
       "away": 3,
@@ -1781,12 +1781,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 53.1,
+        "bp_score": 57.8,
         "bp_detail": {
           "bullpen_era": 3.92,
-          "recent_era": 3.18,
-          "recent_appearances": 23,
-          "recent_ip": 28.3,
+          "recent_era": 2.42,
+          "recent_appearances": 20,
+          "recent_ip": 22.3,
           "team_era": 4.8,
           "bp_ip": 340.0,
           "bp_count": 9,
@@ -1890,7 +1890,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 43.4,
-        "total": 34.3
+        "total": 35.1
       },
       "home": {
         "sp_score": 53.2,
@@ -1949,8 +1949,8 @@ window.PREDICTIONS_DATA = [
         "bp_detail": {
           "bullpen_era": 3.04,
           "recent_era": 2.0,
-          "recent_appearances": 21,
-          "recent_ip": 25.7,
+          "recent_appearances": 17,
+          "recent_ip": 23.0,
           "team_era": 3.53,
           "bp_ip": 334.3,
           "bp_count": 9,
@@ -2059,7 +2059,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 25.0,
-      "away_defense": 44.7,
+      "away_defense": 47.7,
       "home_offense": 25.0,
       "home_defense": 62.9
     },
@@ -2480,12 +2480,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 69.9,
+        "bp_score": 71.1,
         "bp_detail": {
           "bullpen_era": 3.33,
           "recent_era": 2.0,
-          "recent_appearances": 20,
-          "recent_ip": 22.3,
+          "recent_appearances": 17,
+          "recent_ip": 19.3,
           "team_era": 3.25,
           "bp_ip": 265.0,
           "bp_count": 7,
@@ -2589,7 +2589,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 67.4,
-        "total": 58.3
+        "total": 58.6
       },
       "home": {
         "sp_score": 40.4,
@@ -2651,12 +2651,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 41.9,
+        "bp_score": 45.5,
         "bp_detail": {
           "bullpen_era": 4.11,
-          "recent_era": 3.31,
-          "recent_appearances": 35,
-          "recent_ip": 35.3,
+          "recent_era": 2.78,
+          "recent_appearances": 31,
+          "recent_ip": 32.3,
           "team_era": 4.04,
           "bp_ip": 297.7,
           "bp_count": 11,
@@ -2760,14 +2760,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 36.0,
-        "total": 31.2
+        "total": 32.0
       }
     },
     "scores": {
       "away_offense": 46.6,
-      "away_defense": 64.5,
+      "away_defense": 65.0,
       "home_offense": 15.0,
-      "home_defense": 41.1
+      "home_defense": 43.0
     },
     "actual_score": {
       "away": 4,
@@ -3136,8 +3136,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 45.2,
-      "home": 54.8
+      "away": 45.4,
+      "home": 54.6
     },
     "expected_score": {
       "away": 1.8,
@@ -3225,12 +3225,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 56.5,
+        "bp_score": 57.3,
         "bp_detail": {
           "bullpen_era": 3.55,
-          "recent_era": 4.35,
-          "recent_appearances": 20,
-          "recent_ip": 20.7,
+          "recent_era": 4.42,
+          "recent_appearances": 18,
+          "recent_ip": 18.3,
           "team_era": 4.05,
           "bp_ip": 352.7,
           "bp_count": 8,
@@ -3334,7 +3334,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 51.9,
-        "total": 41.0
+        "total": 41.2
       },
       "home": {
         "sp_score": 32.0,
@@ -3518,7 +3518,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 25.0,
-      "away_defense": 44.8,
+      "away_defense": 45.2,
       "home_offense": 32.6,
       "home_defense": 44.4
     },
@@ -3545,7 +3545,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 1.1pt (≤5.0pt) / 최고 확률 54.8% (≤62.0%)",
+    "low_confidence_reason": "SP 점수 차이 1.1pt (≤5.0pt) / 최고 확률 54.6% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -3974,9 +3974,9 @@ window.PREDICTIONS_DATA = [
         "bp_score": 75.0,
         "bp_detail": {
           "bullpen_era": 2.68,
-          "recent_era": 2.62,
-          "recent_appearances": 19,
-          "recent_ip": 24.0,
+          "recent_era": 2.53,
+          "recent_appearances": 16,
+          "recent_ip": 21.3,
           "team_era": 3.19,
           "bp_ip": 439.7,
           "bp_count": 9,
@@ -4135,12 +4135,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 41.6,
+        "bp_score": 44.8,
         "bp_detail": {
           "bullpen_era": 4.13,
-          "recent_era": 5.19,
-          "recent_appearances": 21,
-          "recent_ip": 26.0,
+          "recent_era": 4.5,
+          "recent_appearances": 20,
+          "recent_ip": 24.0,
           "team_era": 3.95,
           "bp_ip": 331.0,
           "bp_count": 8,
@@ -4244,14 +4244,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 51.9,
-        "total": 29.0
+        "total": 30.0
       }
     },
     "scores": {
       "away_offense": 35.0,
       "away_defense": 62.1,
       "home_offense": 27.8,
-      "home_defense": 32.2
+      "home_defense": 34.3
     },
     "actual_score": {
       "away": 8,
@@ -4620,8 +4620,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 49.0,
-      "home": 51.0
+      "away": 48.3,
+      "home": 51.7
     },
     "expected_score": {
       "away": 2.8,
@@ -4717,12 +4717,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 71.0,
+        "bp_score": 69.7,
         "bp_detail": {
           "bullpen_era": 3.07,
-          "recent_era": 3.0,
-          "recent_appearances": 22,
-          "recent_ip": 24.0,
+          "recent_era": 3.27,
+          "recent_appearances": 20,
+          "recent_ip": 22.0,
           "team_era": 3.56,
           "bp_ip": 363.7,
           "bp_count": 8,
@@ -4826,7 +4826,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 57.9,
-        "total": 46.0
+        "total": 45.7
       },
       "home": {
         "sp_score": 64.3,
@@ -4903,12 +4903,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 22.0,
+        "bp_score": 23.2,
         "bp_detail": {
           "bullpen_era": 5.14,
-          "recent_era": 4.94,
-          "recent_appearances": 27,
-          "recent_ip": 27.3,
+          "recent_era": 4.68,
+          "recent_appearances": 22,
+          "recent_ip": 25.0,
           "team_era": 4.35,
           "bp_ip": 239.7,
           "bp_count": 8,
@@ -5012,14 +5012,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 46.5,
-        "total": 46.5
+        "total": 46.8
       }
     },
     "scores": {
       "away_offense": 39.8,
-      "away_defense": 57.3,
+      "away_defense": 56.5,
       "home_offense": 39.0,
-      "home_defense": 43.1
+      "home_defense": 43.8
     },
     "actual_score": {
       "away": 11,
@@ -5044,7 +5044,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 53.0% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 53.7% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -5478,12 +5478,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 29.4,
+        "bp_score": 28.6,
         "bp_detail": {
           "bullpen_era": 5.04,
-          "recent_era": 3.86,
-          "recent_appearances": 17,
-          "recent_ip": 23.3,
+          "recent_era": 4.03,
+          "recent_appearances": 16,
+          "recent_ip": 22.3,
           "team_era": 5.52,
           "bp_ip": 391.3,
           "bp_count": 8,
@@ -5587,7 +5587,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 38.2,
-        "total": 32.9
+        "total": 32.8
       },
       "home": {
         "sp_score": 36.0,
@@ -5664,12 +5664,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 66.8,
+        "bp_score": 67.1,
         "bp_detail": {
           "bullpen_era": 3.04,
-          "recent_era": 3.94,
-          "recent_appearances": 12,
-          "recent_ip": 16.0,
+          "recent_era": 4.05,
+          "recent_appearances": 10,
+          "recent_ip": 13.3,
           "team_era": 3.73,
           "bp_ip": 275.0,
           "bp_count": 5,
@@ -5773,14 +5773,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 58.3,
-        "total": 48.1
+        "total": 48.2
       }
     },
     "scores": {
       "away_offense": 35.2,
-      "away_defense": 29.6,
+      "away_defense": 29.1,
       "home_offense": 44.5,
-      "home_defense": 51.4
+      "home_defense": 51.5
     },
     "actual_score": {
       "away": 9,
@@ -6228,12 +6228,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 56.5,
+        "bp_score": 57.6,
         "bp_detail": {
           "bullpen_era": 3.97,
           "recent_era": 2.0,
-          "recent_appearances": 18,
-          "recent_ip": 19.3,
+          "recent_appearances": 16,
+          "recent_ip": 17.3,
           "team_era": 4.08,
           "bp_ip": 419.3,
           "bp_count": 9,
@@ -6337,7 +6337,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 40.6,
-        "total": 43.9
+        "total": 44.2
       },
       "home": {
         "sp_score": 30.0,
@@ -6418,8 +6418,8 @@ window.PREDICTIONS_DATA = [
         "bp_detail": {
           "bullpen_era": 3.01,
           "recent_era": 2.0,
-          "recent_appearances": 17,
-          "recent_ip": 22.7,
+          "recent_appearances": 13,
+          "recent_ip": 17.7,
           "team_era": 3.32,
           "bp_ip": 436.7,
           "bp_count": 7,
@@ -6528,7 +6528,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 25.0,
-      "away_defense": 49.6,
+      "away_defense": 50.2,
       "home_offense": 33.2,
       "home_defense": 59.2
     },
@@ -6904,8 +6904,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 59.9,
-      "home": 40.1
+      "away": 60.2,
+      "home": 39.8
     },
     "expected_score": {
       "away": 2.1,
@@ -6997,9 +6997,9 @@ window.PREDICTIONS_DATA = [
         "bp_score": 75.0,
         "bp_detail": {
           "bullpen_era": 2.89,
-          "recent_era": 2.41,
-          "recent_appearances": 19,
-          "recent_ip": 18.7,
+          "recent_era": 2.76,
+          "recent_appearances": 16,
+          "recent_ip": 16.3,
           "team_era": 3.53,
           "bp_ip": 293.0,
           "bp_count": 7,
@@ -7172,12 +7172,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 48.2,
+        "bp_score": 47.0,
         "bp_detail": {
           "bullpen_era": 3.96,
-          "recent_era": 5.68,
-          "recent_appearances": 19,
-          "recent_ip": 19.0,
+          "recent_era": 6.61,
+          "recent_appearances": 16,
+          "recent_ip": 16.3,
           "team_era": 3.72,
           "bp_ip": 345.7,
           "bp_count": 8,
@@ -7281,14 +7281,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 56.6,
-        "total": 43.0
+        "total": 42.8
       }
     },
     "scores": {
       "away_offense": 30.5,
       "away_defense": 62.0,
       "home_offense": 25.0,
-      "home_defense": 47.4
+      "home_defense": 46.8
     },
     "actual_score": {
       "away": 12,
@@ -7313,7 +7313,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 2.5pt (≤5.0pt) / 최고 확률 59.9% (≤62.0%)",
+    "low_confidence_reason": "SP 점수 차이 2.5pt (≤5.0pt) / 최고 확률 60.2% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -7739,12 +7739,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 56.9,
+        "bp_score": 58.5,
         "bp_detail": {
           "bullpen_era": 3.16,
-          "recent_era": 6.35,
-          "recent_appearances": 23,
-          "recent_ip": 22.7,
+          "recent_era": 8.15,
+          "recent_appearances": 19,
+          "recent_ip": 17.7,
           "team_era": 3.89,
           "bp_ip": 393.3,
           "bp_count": 7,
@@ -7848,7 +7848,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 48.5,
-        "total": 44.1
+        "total": 44.8
       },
       "home": {
         "sp_score": 39.6,
@@ -7936,9 +7936,9 @@ window.PREDICTIONS_DATA = [
         "bp_score": 75.0,
         "bp_detail": {
           "bullpen_era": 2.36,
-          "recent_era": 2.79,
-          "recent_appearances": 18,
-          "recent_ip": 19.3,
+          "recent_era": 3.12,
+          "recent_appearances": 16,
+          "recent_ip": 17.3,
           "team_era": 3.47,
           "bp_ip": 361.7,
           "bp_count": 6,
@@ -8047,7 +8047,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 54.8,
-      "away_defense": 39.0,
+      "away_defense": 39.8,
       "home_offense": 50.0,
       "home_defense": 57.3
     },
@@ -8507,12 +8507,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 63.6,
+        "bp_score": 69.1,
         "bp_detail": {
           "bullpen_era": 3.64,
-          "recent_era": 3.58,
-          "recent_appearances": 22,
-          "recent_ip": 27.7,
+          "recent_era": 2.45,
+          "recent_appearances": 20,
+          "recent_ip": 25.7,
           "team_era": 3.73,
           "bp_ip": 326.0,
           "bp_count": 8,
@@ -8616,7 +8616,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.0,
-        "total": 66.0
+        "total": 67.3
       },
       "home": {
         "sp_score": 29.0,
@@ -8685,12 +8685,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 31.5,
+        "bp_score": 31.2,
         "bp_detail": {
           "bullpen_era": 4.59,
-          "recent_era": 5.97,
-          "recent_appearances": 27,
-          "recent_ip": 31.7,
+          "recent_era": 6.37,
+          "recent_appearances": 25,
+          "recent_ip": 29.7,
           "team_era": 5.42,
           "bp_ip": 366.3,
           "bp_count": 9,
@@ -8799,9 +8799,9 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 56.400000000000006,
-      "away_defense": 64.8,
+      "away_defense": 67.6,
       "home_offense": 25.0,
-      "home_defense": 30.2
+      "home_defense": 30.1
     },
     "actual_score": {
       "away": 13,
@@ -9141,7 +9141,7 @@ window.PREDICTIONS_DATA = [
       "home": 60.6
     },
     "expected_score": {
-      "away": 1.3,
+      "away": 1.4,
       "home": 2.0
     },
     "blend_detail": null,
@@ -9219,12 +9219,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 31.2,
+        "bp_score": 32.3,
         "bp_detail": {
           "bullpen_era": 4.29,
-          "recent_era": 8.63,
-          "recent_appearances": 23,
-          "recent_ip": 24.0,
+          "recent_era": 8.69,
+          "recent_appearances": 21,
+          "recent_ip": 19.7,
           "team_era": 4.2,
           "bp_ip": 331.7,
           "bp_count": 9,
@@ -9328,7 +9328,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 39.6,
-        "total": 34.7
+        "total": 35.0
       },
       "home": {
         "sp_score": 48.6,
@@ -9391,12 +9391,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 50.5,
+        "bp_score": 49.5,
         "bp_detail": {
           "bullpen_era": 3.99,
-          "recent_era": 3.41,
-          "recent_appearances": 25,
-          "recent_ip": 29.0,
+          "recent_era": 3.62,
+          "recent_appearances": 23,
+          "recent_ip": 27.3,
           "team_era": 4.01,
           "bp_ip": 388.3,
           "bp_count": 9,
@@ -9500,14 +9500,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 51.5,
-        "total": 43.7
+        "total": 43.5
       }
     },
     "scores": {
       "away_offense": 19.9,
-      "away_defense": 37.9,
+      "away_defense": 38.5,
       "home_offense": 25.700000000000003,
-      "home_defense": 49.5
+      "home_defense": 49.0
     },
     "actual_score": {
       "away": 4,
