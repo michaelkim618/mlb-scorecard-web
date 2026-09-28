@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-28T05:12:14.591633+00:00",
+  "updated_at": "2026-09-28T05:37:21.855494+00:00",
   "news": [
+    {
+      "title": "Power Rankings: Who starts playoffs on top?",
+      "link": "https://www.mlb.com/news/mlb-postseason-power-rankings-for-2026-wild-card-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fxgmkhzoiz08kqlkgnoe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-28T04:00:00+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Fill out your postseason bracket, compete to win $10K",
       "link": "https://www.mlb.com/moments/experiences/postseason-bracket-challenge?affiliateID=psbc_mlb_digital_2026",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-28T03:17:04+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "A week after clinching at Trop, Red Sox lose home finale -- at Trop",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-28T00:26:00+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "D-backs push postseason fight to Game 162, but battle ends there",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-28T00:26:00+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Phillies put tumultuous week behind them to punch playoff ticket",
@@ -90,20 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-28T00:20:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Counsell playing Cubs' postseason rotation close to the vest",
-      "link": "https://www.mlb.com/news/craig-counsell-not-ready-to-set-cubs-2026-postseason-rotation",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dub10lcgedvqspg0qxvz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-28T00:15:29+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     }
   ]
 }
