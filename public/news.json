@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-28T22:12:18.229799+00:00",
+  "updated_at": "2026-09-28T22:24:18.655723+00:00",
   "news": [
+    {
+      "title": "Top 100 prospects Walcott, Miller, Gomez join Fall League rosters",
+      "link": "https://www.mlb.com/news/top-prospects-added-to-arizona-fall-league-rosters",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ultfmcxdmcjlwqxeyc3t",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ben Weinrib",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-28T22:17:00+00:00",
+      "time_ago": "7m ago"
+    },
     {
       "title": "How Murphy's stern, authentic style has helped unlock Brewers' success",
       "link": "https://www.mlb.com/news/pat-murphy-s-unique-managing-style-resonating-with-brewers-players",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-28T20:19:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Who should the Dodgers be rooting for in the Wild Card Series?",
@@ -64,7 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-28T20:13:40+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Tolle to kick off WC Series for Red Sox; Gray earns Game 2 start",
@@ -90,19 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-28T19:48:01+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Top 100 prospects Walcott, Gomez join Fall League rosters",
-      "link": "https://www.mlb.com/news/top-prospects-sebastian-walcott-angeibel-gomez-in-arizona-fall-league",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kvoig3gpambpchpuzway",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ben Weinrib",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-28T19:45:00+00:00",
       "time_ago": "2h ago"
     }
   ]
