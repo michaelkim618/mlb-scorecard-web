@@ -254,7 +254,7 @@ window.PREDICTIONS_DATA = [
     },
     "expected_score": {
       "away": 2.8,
-      "home": 2.3
+      "home": 2.4
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -514,22 +514,22 @@ window.PREDICTIONS_DATA = [
           "closer_era": 6.55,
           "closer_name": "Gus Varland"
         },
-        "bat_score": 30.2,
+        "bat_score": 31.6,
         "bat_detail": {
-          "recent_avg": 0.243,
+          "recent_avg": 0.239,
           "runs_per_g": 4.3,
           "hr_per_g": 1.0,
           "bb_per_g": 3.0,
-          "season_ops": 0.719,
+          "season_ops": 0.715,
           "season_slg": null,
-          "season_avg": 0.243,
+          "season_avg": 0.239,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
             "James Wood(0.732)",
-            "Andrés Chaparro(1.036)",
+            "Andrés Chaparro(1.000)",
             "Brady House(0.796)",
             "CJ Abrams(0.833)",
             "Dylan Crews(0.689)",
@@ -548,8 +548,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 665953,
               "name": "Andrés Chaparro",
-              "ops": 1.036,
-              "avg": 0.379
+              "ops": 1.0,
+              "avg": 0.345
             },
             {
               "id": 691781,
@@ -594,7 +594,7 @@ window.PREDICTIONS_DATA = [
               "avg": 0.143
             }
           ],
-          "bat_trend": "cold",
+          "bat_trend": "stable",
           "last5_rpg": 4.2,
           "last5_avg": 0.226,
           "home_split": {
@@ -604,20 +604,20 @@ window.PREDICTIONS_DATA = [
             "n_games": 10
           },
           "away_split": {
-            "recent_avg": 0.206,
+            "recent_avg": 0.203,
             "runs_per_g": 4.2,
             "hr_per_g": 1.2,
             "n_games": 10
           }
         },
         "sit_score": 49.6,
-        "total": 34.1
+        "total": 34.5
       }
     },
     "scores": {
       "away_offense": 37.3,
       "away_defense": 40.8,
-      "home_offense": 30.2,
+      "home_offense": 31.6,
       "home_defense": 33.8
     },
     "actual_score": {
@@ -9990,13 +9990,13 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 57.6,
+        "bp_score": 57.8,
         "bp_detail": {
-          "bullpen_era": 3.97,
+          "bullpen_era": 3.95,
           "recent_era": 2.0,
           "recent_appearances": 16,
           "recent_ip": 17.3,
-          "team_era": 4.08,
+          "team_era": 4.07,
           "bp_ip": 419.3,
           "bp_count": 9,
           "closer_era": 4.08,
@@ -10099,7 +10099,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 40.6,
-        "total": 41.2
+        "total": 41.3
       },
       "home": {
         "sp_score": 72.0,
@@ -10275,7 +10275,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 25.0,
-      "away_defense": 46.2,
+      "away_defense": 46.3,
       "home_offense": 31.900000000000002,
       "home_defense": 73.5
     },

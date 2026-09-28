@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-28T17:23:40.665578+00:00",
+  "updated_at": "2026-09-28T18:24:09.768305+00:00",
   "news": [
     {
-      "title": "LIVE: Boone meets media to discuss Judge's status, Wild Card Series",
+      "title": "Twins part ways with pitching coaches Maki, Ramirez and trainer Kirkman",
+      "link": "https://www.mlb.com/news/twins-coaching-staff-changes-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qsxsftobegn4qzefg89z",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-28T17:55:51+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "Will Judge play in Wild Card Series? Here's the latest",
       "link": "https://www.mlb.com/news/aaron-judge-calf-injury-latest-news",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kfaznbkggvtmzji1cta0",
@@ -11,8 +24,47 @@
       "author": "Max Ralph",
       "tag": "Standings",
       "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-28T17:16:00+00:00",
-      "time_ago": "7m ago"
+      "pub_date": "2026-09-28T17:39:00+00:00",
+      "time_ago": "45m ago"
+    },
+    {
+      "title": "How will injury impact these stars in AL, NL Wild Card Series?",
+      "link": "https://www.mlb.com/news/mlb-wild-card-series-injuries-to-watch",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790615939/mlb/dhhdfj6amsdfavaw8sce",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-28T17:37:56+00:00",
+      "time_ago": "46m ago"
+    },
+    {
+      "title": "Make your picks for 2026 All-MLB Team",
+      "link": "https://www.mlb.com/news/all-mlb-team-nominees-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ljpj9p2g39d2s14pabao",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-28T17:34:27+00:00",
+      "time_ago": "49m ago"
+    },
+    {
+      "title": "Postseason a prime time for free agents to boost their stock",
+      "link": "https://www.mlb.com/news/free-agents-who-could-boost-stock-in-2026-postseason",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/juftkaat46ygoawqe11k",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Feinsand",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-28T17:13:45+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Tolle to kick off WC Series for Red Sox; Gray earns Game 2 start",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-28T16:55:34+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "How did Rays conquer the AL? By not beating themselves",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-28T14:53:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "The moves that keyed '26 White Sox's incredible turnaround",
@@ -51,59 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-28T14:28:05+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Yankees' youth movement has roots in culture built in '09",
-      "link": "https://www.mlb.com/news/george-lombard-jr-spencer-jones-helped-yankees-reach-postseason",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nwezci8mceu2zi0unfya",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sweeny Murti",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-28T14:10:51+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "Power Rankings: Who starts playoffs on top?",
-      "link": "https://www.mlb.com/news/mlb-postseason-power-rankings-for-2026-wild-card-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fxgmkhzoiz08kqlkgnoe",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-28T04:00:00+00:00",
-      "time_ago": "13h ago"
-    },
-    {
-      "title": "Fill out your postseason bracket and compete to win $10 thousand!",
-      "link": "https://www.mlb.com/moments/experiences/postseason-bracket-challenge?affiliateID=psbc_mlb_digital_2026",
-      "summary": "Enter your picks in the 2026 MLB Postseason Bracket Challenge presented by Zillow and you could win $10,000.",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/etym1zzgxciekgqetbw0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-28T03:17:04+00:00",
-      "time_ago": "14h ago"
-    },
-    {
-      "title": "Luzardo throws 4-pitch eighth in return, ready for 'whatever Phillies need'",
-      "link": "https://www.mlb.com/news/jesus-luzardo-activated-from-injured-list",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788810307/mlb/qkutsikufjcttn5kpdre",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-28T00:42:00+00:00",
-      "time_ago": "16h ago"
     }
   ]
 }
