@@ -337,18 +337,18 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 39.0,
-      "home": 61.0
+      "away": 39.4,
+      "home": 60.6
     },
     "expected_score": {
-      "away": 1.6,
-      "home": 2.2
+      "away": 1.4,
+      "home": 1.7
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "team_stats",
+      "bat_source": "lineup",
       "away_handedness": "L",
       "home_handedness": "L",
       "bullpen_game": false,
@@ -360,7 +360,7 @@ window.PREDICTIONS_DATA = [
         "sit": 0.15
       },
       "away": {
-        "sp_score": 70.8,
+        "sp_score": 69.6,
         "sp_detail": {
           "era": 1.82,
           "whip": 0.84,
@@ -419,7 +419,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 48.6,
+        "bp_score": 47.8,
         "bp_detail": {
           "bullpen_era": 4.01,
           "recent_era": 6.75,
@@ -431,51 +431,107 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.82,
           "closer_name": "Jhoan Duran"
         },
-        "bat_score": 27.5,
+        "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.221,
-          "runs_per_g": 3.8,
-          "hr_per_g": 0.6,
-          "bb_per_g": 4.4,
-          "season_ops": 0.72,
-          "season_avg": 0.25,
-          "season_slg": 0.4,
-          "n_games": 10,
-          "last5_rpg": 3.8,
-          "last5_avg": 0.22,
-          "bat_trend": "stable",
+          "recent_avg": 0.224,
+          "runs_per_g": 3.2,
+          "hr_per_g": 0.5,
+          "bb_per_g": 3.0,
+          "season_ops": 0.717,
+          "season_slg": null,
+          "season_avg": 0.224,
+          "n_games": 9,
+          "source": "prev_day",
+          "handedness": "L",
+          "splits_used": false,
+          "lineup_ops": [
+            "Trea Turner(0.685)",
+            "Kyle Schwarber(0.732)",
+            "Bryce Harper(0.766)",
+            "Alec Bohm(0.617)",
+            "Derek Hill(0.732)",
+            "Bryan De La Cruz(0.641)",
+            "Bryson Stott(0.914)",
+            "Edmundo Sosa(0.951)",
+            "J.T. Realmuto(0.416)"
+          ],
+          "lineup_players": [
+            {
+              "id": 607208,
+              "name": "Trea Turner",
+              "ops": 0.685,
+              "avg": 0.275
+            },
+            {
+              "id": 656941,
+              "name": "Kyle Schwarber",
+              "ops": 0.732,
+              "avg": 0.152
+            },
+            {
+              "id": 547180,
+              "name": "Bryce Harper",
+              "ops": 0.766,
+              "avg": 0.25
+            },
+            {
+              "id": 664761,
+              "name": "Alec Bohm",
+              "ops": 0.617,
+              "avg": 0.216
+            },
+            {
+              "id": 656537,
+              "name": "Derek Hill",
+              "ops": 0.732,
+              "avg": 0.167
+            },
+            {
+              "id": 650559,
+              "name": "Bryan De La Cruz",
+              "ops": 0.641,
+              "avg": 0.167
+            },
+            {
+              "id": 681082,
+              "name": "Bryson Stott",
+              "ops": 0.914,
+              "avg": 0.382
+            },
+            {
+              "id": 624641,
+              "name": "Edmundo Sosa",
+              "ops": 0.951,
+              "avg": 0.381
+            },
+            {
+              "id": 592663,
+              "name": "J.T. Realmuto",
+              "ops": 0.416,
+              "avg": 0.03
+            }
+          ],
+          "bat_trend": "cold",
+          "last5_rpg": 2.0,
+          "last5_avg": 0.204,
           "home_split": {
             "recent_avg": 0.219,
             "runs_per_g": 3.4,
             "hr_per_g": 0.7,
-            "bb_per_g": 3.0,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 2.0,
-            "last5_avg": 0.204,
-            "bat_trend": "cold"
+            "n_games": 10
           },
           "away_split": {
             "recent_avg": 0.221,
             "runs_per_g": 3.8,
             "hr_per_g": 0.6,
-            "bb_per_g": 4.4,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 3.8,
-            "last5_avg": 0.22,
-            "bat_trend": "stable"
+            "n_games": 10
           }
         },
         "sit_score": 56.6,
-        "total": 53.0
+        "total": 51.7
       },
       "home": {
-        "sp_score": 72.0,
+        "sp_score": 70.1,
         "sp_detail": {
           "era": 2.09,
           "whip": 0.79,
@@ -534,7 +590,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 75.0,
+        "bp_score": 73.0,
         "bp_detail": {
           "bullpen_era": 2.69,
           "recent_era": 2.66,
@@ -546,61 +602,117 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.55,
           "closer_name": "Raisel Iglesias"
         },
-        "bat_score": 33.8,
+        "bat_score": 26.1,
         "bat_detail": {
-          "recent_avg": 0.254,
+          "recent_avg": 0.23,
           "runs_per_g": 4.0,
-          "hr_per_g": 1.0,
-          "bb_per_g": 2.5,
-          "season_ops": 0.72,
-          "season_avg": 0.25,
-          "season_slg": 0.4,
-          "n_games": 10,
-          "last5_rpg": 5.0,
-          "last5_avg": 0.293,
-          "bat_trend": "hot",
+          "hr_per_g": 1.2,
+          "bb_per_g": 3.0,
+          "season_ops": 0.697,
+          "season_slg": null,
+          "season_avg": 0.23,
+          "n_games": 9,
+          "source": "prev_day",
+          "handedness": "L",
+          "splits_used": false,
+          "lineup_ops": [
+            "Drake Baldwin(0.883)",
+            "Ronald Acuña Jr.(0.793)",
+            "Matt Olson(0.786)",
+            "Mauricio Dubón(0.837)",
+            "Michael Harris II(0.835)",
+            "Ozzie Albies(0.481)",
+            "Austin Riley(0.609)",
+            "Mike Yastrzemski(0.670)",
+            "Ha-Seong Kim(0.382)"
+          ],
+          "lineup_players": [
+            {
+              "id": 686948,
+              "name": "Drake Baldwin",
+              "ops": 0.883,
+              "avg": 0.349
+            },
+            {
+              "id": 660670,
+              "name": "Ronald Acuña Jr.",
+              "ops": 0.793,
+              "avg": 0.231
+            },
+            {
+              "id": 621566,
+              "name": "Matt Olson",
+              "ops": 0.786,
+              "avg": 0.27
+            },
+            {
+              "id": 643289,
+              "name": "Mauricio Dubón",
+              "ops": 0.837,
+              "avg": 0.359
+            },
+            {
+              "id": 671739,
+              "name": "Michael Harris II",
+              "ops": 0.835,
+              "avg": 0.325
+            },
+            {
+              "id": 645277,
+              "name": "Ozzie Albies",
+              "ops": 0.481,
+              "avg": 0.114
+            },
+            {
+              "id": 663586,
+              "name": "Austin Riley",
+              "ops": 0.609,
+              "avg": 0.167
+            },
+            {
+              "id": 573262,
+              "name": "Mike Yastrzemski",
+              "ops": 0.67,
+              "avg": 0.179
+            },
+            {
+              "id": 673490,
+              "name": "Ha-Seong Kim",
+              "ops": 0.382,
+              "avg": 0.077
+            }
+          ],
+          "bat_trend": "cold",
+          "last5_rpg": 4.0,
+          "last5_avg": 0.21,
           "home_split": {
             "recent_avg": 0.254,
             "runs_per_g": 4.0,
             "hr_per_g": 1.0,
-            "bb_per_g": 2.5,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 5.0,
-            "last5_avg": 0.293,
-            "bat_trend": "hot"
+            "n_games": 10
           },
           "away_split": {
             "recent_avg": 0.213,
             "runs_per_g": 4.0,
             "hr_per_g": 1.3,
-            "bb_per_g": 2.7,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 4.2,
-            "last5_avg": 0.2,
-            "bat_trend": "stable"
+            "n_games": 10
           }
         },
         "sit_score": 60.6,
-        "total": 61.4
+        "total": 58.3
       }
     },
     "scores": {
-      "away_offense": 27.5,
-      "away_defense": 59.7,
-      "home_offense": 33.8,
-      "home_defense": 73.5
+      "away_offense": 25.0,
+      "away_defense": 58.7,
+      "home_offense": 26.1,
+      "home_defense": 71.5
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -611,15 +723,15 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Atlanta Braves",
     "model_correct": null,
     "notes": "Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Felix Reyes, Johan Rojas / Atlanta Braves IL: Bryce Elder, Hurston Waldrep, Joe Jiménez, Joey Wentz, Lane Thomas 외 다수",
-    "kalshi_prob": null,
-    "edge": null,
-    "value_bet": "⏭️ 패스 (라인업 미확정)",
+    "kalshi_prob": 63.0,
+    "edge": -2.4,
+    "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 1.2pt (≤5.0pt) / 최고 확률 61.0% (≤62.0%)",
+    "low_confidence_reason": "SP 점수 차이 0.5pt (≤5.0pt) / 최고 확률 60.6% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -963,12 +1075,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 50.0,
-      "home": 50.0
+      "away": 52.6,
+      "home": 47.4
     },
     "expected_score": {
       "away": 2.6,
-      "home": 2.0
+      "home": 1.9
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -1037,15 +1149,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 67.1,
+        "bp_score": 75.0,
         "bp_detail": {
-          "bullpen_era": 3.04,
-          "recent_era": 4.05,
-          "recent_appearances": 10,
-          "recent_ip": 13.3,
-          "team_era": 3.73,
-          "bp_ip": 275.0,
-          "bp_count": 5,
+          "bullpen_era": 2.59,
+          "recent_era": 2.0,
+          "recent_appearances": 5,
+          "recent_ip": 6.7,
+          "team_era": 3.74,
+          "bp_ip": 160.0,
+          "bp_count": 3,
           "closer_era": 2.25,
           "closer_name": "Grant Taylor"
         },
@@ -1090,7 +1202,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 56.3,
-        "total": 54.2
+        "total": 58.1
       },
       "home": {
         "sp_score": 17.7,
@@ -1158,7 +1270,7 @@ window.PREDICTIONS_DATA = [
           "recent_era": 2.45,
           "recent_appearances": 20,
           "recent_ip": 25.7,
-          "team_era": 3.73,
+          "team_era": 3.72,
           "bp_ip": 326.0,
           "bp_count": 8,
           "closer_era": 1.01,
@@ -1210,7 +1322,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 38.7,
-      "away_defense": 46.0,
+      "away_defense": 50.0,
       "home_offense": 27.4,
       "home_defense": 50.3
     },
@@ -1226,9 +1338,9 @@ window.PREDICTIONS_DATA = [
       "any": false
     },
     "actual_winner": null,
-    "model_winner": "Houston Astros",
+    "model_winner": "Chicago White Sox",
     "model_correct": null,
-    "notes": "Chicago White Sox IL: Brooks Baldwin, Joey Bart, Jordan Leasure, Ky Bush, Luis Castillo 외 다수 / Houston Astros IL: Brandon Walter, Brice Matthews, Carlos Correa, Cristian Javier, Daulton Varsho 외 다수",
+    "notes": "Chicago White Sox IL: Brooks Baldwin, Jordan Leasure, Ky Bush, Luis Castillo, Mike Vasil 외 다수 / Houston Astros IL: Brandon Walter, Brice Matthews, Carlos Correa, Cristian Javier, Daulton Varsho 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "⏭️ 패스 (라인업 미확정)",
@@ -1237,7 +1349,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 50.0% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 52.6% (≤62.0%)",
     "opener_game": {
       "away": true,
       "home": true
@@ -1581,12 +1693,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 48.2,
-      "home": 51.8
+      "away": 45.3,
+      "home": 54.7
     },
     "expected_score": {
       "away": 1.5,
-      "home": 1.9
+      "home": 2.2
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -1604,7 +1716,7 @@ window.PREDICTIONS_DATA = [
         "sit": 0.15
       },
       "away": {
-        "sp_score": 69.6,
+        "sp_score": 70.3,
         "sp_detail": {
           "era": 2.59,
           "whip": 1.08,
@@ -1662,7 +1774,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 72.5,
+        "bp_score": 73.2,
         "bp_detail": {
           "bullpen_era": 2.35,
           "recent_era": 3.86,
@@ -1674,7 +1786,7 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.92,
           "closer_name": "Aroldis Chapman"
         },
-        "bat_score": 25.0,
+        "bat_score": 26.4,
         "bat_detail": {
           "recent_avg": 0.189,
           "runs_per_g": 3.0,
@@ -1715,7 +1827,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 48.6,
-        "total": 55.9
+        "total": 56.7
       },
       "home": {
         "sp_score": 72.0,
@@ -1776,19 +1888,19 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 65.2,
+        "bp_score": 75.0,
         "bp_detail": {
-          "bullpen_era": 2.87,
-          "recent_era": 4.5,
-          "recent_appearances": 18,
-          "recent_ip": 18.0,
-          "team_era": 2.92,
-          "bp_ip": 451.7,
-          "bp_count": 9,
+          "bullpen_era": 2.58,
+          "recent_era": 3.09,
+          "recent_appearances": 12,
+          "recent_ip": 11.7,
+          "team_era": 2.82,
+          "bp_ip": 356.3,
+          "bp_count": 5,
           "closer_era": 2.47,
           "closer_name": "David Bednar"
         },
-        "bat_score": 31.5,
+        "bat_score": 35.5,
         "bat_detail": {
           "recent_avg": 0.245,
           "runs_per_g": 4.6,
@@ -1829,14 +1941,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.6,
-        "total": 58.7
+        "total": 61.8
       }
     },
     "scores": {
-      "away_offense": 25.0,
-      "away_defense": 71.0,
-      "home_offense": 31.5,
-      "home_defense": 68.6
+      "away_offense": 26.4,
+      "away_defense": 71.8,
+      "home_offense": 35.5,
+      "home_defense": 73.5
     },
     "actual_score": {
       "away": null,
@@ -1852,7 +1964,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": null,
     "model_winner": "New York Yankees",
     "model_correct": null,
-    "notes": "Boston Red Sox IL: Anthony Seigler, Curtis Mead, Eduardo Rivera, Eli White, Johan Oviedo 외 다수 / New York Yankees IL: Aaron Judge, Clarke Schmidt, Fernando Cruz, Giancarlo Stanton, Kervin Castro 외 다수",
+    "notes": "Boston Red Sox IL: Eduardo Rivera, Eli White, Johan Oviedo, Kutter Crawford, Mickey Gasper 외 다수 / New York Yankees IL: Clarke Schmidt, Fernando Cruz, Kervin Castro",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "⏭️ 패스 (라인업 미확정)",
@@ -1861,7 +1973,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 2.4pt (≤5.0pt) / 최고 확률 51.8% (≤62.0%)",
+    "low_confidence_reason": "SP 점수 차이 1.7pt (≤5.0pt) / 최고 확률 54.7% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -2205,8 +2317,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 37.8,
-      "home": 62.2
+      "away": 37.0,
+      "home": 63.0
     },
     "expected_score": {
       "away": 2.1,
@@ -2288,15 +2400,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 58.5,
+        "bp_score": 55.0,
         "bp_detail": {
-          "bullpen_era": 3.87,
+          "bullpen_era": 4.29,
           "recent_era": 2.81,
           "recent_appearances": 12,
           "recent_ip": 16.0,
-          "team_era": 4.06,
-          "bp_ip": 288.7,
-          "bp_count": 6,
+          "team_era": 4.25,
+          "bp_ip": 411.0,
+          "bp_count": 12,
           "closer_era": 3.36,
           "closer_name": "Jacob Webb"
         },
@@ -2341,7 +2453,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 56.7,
-        "total": 46.0
+        "total": 45.3
       },
       "home": {
         "sp_score": 49.7,
@@ -2413,13 +2525,13 @@ window.PREDICTIONS_DATA = [
         },
         "bp_score": 75.0,
         "bp_detail": {
-          "bullpen_era": 2.36,
+          "bullpen_era": 2.49,
           "recent_era": 3.12,
           "recent_appearances": 16,
           "recent_ip": 17.3,
-          "team_era": 3.47,
-          "bp_ip": 361.7,
-          "bp_count": 6,
+          "team_era": 3.5,
+          "bp_ip": 405.0,
+          "bp_count": 9,
           "closer_era": 1.67,
           "closer_name": "Mason Miller"
         },
@@ -2469,7 +2581,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 33.3,
-      "away_defense": 53.8,
+      "away_defense": 52.0,
       "home_offense": 47.4,
       "home_defense": 62.4
     },
@@ -2487,7 +2599,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": null,
     "model_winner": "San Diego Padres",
     "model_correct": null,
-    "notes": "Chicago Cubs IL: Ben Brown, Cade Horton, Hunter Harvey, Justin Steele, Phil Maton 외 다수 / San Diego Padres IL: Bryan Hoeing, Casey Mize, Jeremiah Estrada, Joe Musgrove, Lucas Giolito 외 다수",
+    "notes": "Chicago Cubs IL: Ben Brown, Cade Horton, Hunter Harvey, Justin Steele, Phil Maton 외 다수 / San Diego Padres IL: Bryan Hoeing, Casey Mize, Joe Musgrove, Lucas Giolito, Luis Rengifo 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "⏭️ 패스 (라인업 미확정)",
