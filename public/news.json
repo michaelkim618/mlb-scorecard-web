@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-29T19:43:51.346130+00:00",
+  "updated_at": "2026-09-29T20:09:22.403563+00:00",
   "news": [
+    {
+      "title": "Red Sox-Yankees AL Wild Card Series Game 1 FAQ, lineups (8 ET, NBC/Peacock)",
+      "link": "https://www.mlb.com/news/red-sox-vs-yankees-wild-card-series-starting-lineups-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/n1ubsqejcfqivumkgx5k",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne and Bryan Hoch",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-29T20:02:00+00:00",
+      "time_ago": "7m ago"
+    },
     {
       "title": "Imai makes Astros' Wild Card Series roster; Pecko, Okert not added",
       "link": "https://www.mlb.com/news/astros-2026-al-wild-card-series-roster",
@@ -12,20 +25,20 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-29T19:30:00+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "39m ago"
     },
     {
-      "title": "LIVE: Phils, Braves looking to break through in Game 1 duel (NBC/Peacock)",
+      "title": "LIVE: Phils, Braves battling close in Game 1 (NBC/Peacock)",
       "link": "https://www.mlb.com/stories/game/849845",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/amqd2st69m71oxytk1c8",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
       "pub_date": "2026-09-29T19:19:52+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "White Sox release roster for their Wild Card Series vs. the Astros",
@@ -38,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-29T19:16:00+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "Cubs-Padres NL Wild Card Series Game 1 FAQ (10 p.m. ET, Peacock/NBCSN)",
@@ -51,19 +64,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-29T19:01:00+00:00",
-      "time_ago": "42m ago"
-    },
-    {
-      "title": "Red Sox-Yankees AL Wild Card Series Game 1 FAQ (8 ET, NBC/Peacock)",
-      "link": "https://www.mlb.com/news/red-sox-vs-yankees-wild-card-series-starting-lineups-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/n1ubsqejcfqivumkgx5k",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne and Bryan Hoch",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-29T18:27:00+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -90,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-29T17:55:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Musgrove (who last pitched in '24) a surprise add to Padres' Wild Card Series roster",
@@ -103,7 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-29T17:50:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
