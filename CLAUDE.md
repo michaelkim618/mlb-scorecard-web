@@ -5,6 +5,54 @@ project (comments, likes, profiles) and from static JSON in `public/`.
 
 ---
 
+## Prediction data pipeline
+
+The Python engine lives in the **`michaelkim618/mlb-scorecard`** GitHub repo.
+The GitHub Actions workflow (`.github/workflows/daily_post.yml`) runs hourly
+(PST 06:00 – midnight) and pushes updated JSON/JS files into this repo's
+`public/` directory.
+
+### Today's Slate — `public/predictions.json`
+
+Contains today's games. Updated by the pipeline on every prediction-mode run.
+The React app reads it via `fetch('/predictions.json')`.
+
+### Tomorrow's Preview tab — `public/output/predictions_preview_YYYY-MM-DD.js`
+
+The "Tomorrow's Preview" tab shows when this file exists and contains data.
+It is loaded dynamically by `src/hooks/usePreviewPredictions.js`.
+
+**How it is generated:**
+- **`daily_init` mode** (00:01 PST each day): pipeline runs
+  `scorecard_pipeline.py <TOMORROW> --preview` and pushes the file.
+- **`prediction` mode** (every hourly run): if the preview file is missing
+  (e.g., daily_init failed, gameType unsupported, off-day edge case), the
+  workflow re-generates it automatically. This is the "tab disappears" guard.
+
+**Postseason support (added 2026-09-29):** Both `mlb_schedule.py` and
+`scorecard_pipeline.py` now include `gameType=R,F,D,L,W` so Wild Card, Division
+Series, LCS, and World Series games are fetched correctly.
+
+**Manual preview generation** (when needed):
+
+```bash
+# In the mlb-scorecard Python engine directory
+python3 src/scorecard_pipeline.py 2026-10-01 --preview
+cp output/predictions_preview_2026-10-01.js \
+   /path/to/mlb-scorecard-web/public/output/
+# then git add / commit / push
+```
+
+### Pushing changes without losing the preview tab
+
+When manually pushing `predictions.json` or other files, the preview file is
+already committed in the git repo and will NOT be removed. However, if you do
+a `git reset --hard origin/main` (to fix rebase conflicts), make sure to check
+that `public/output/predictions_preview_<tomorrow>.js` still exists afterwards,
+and re-copy it if needed.
+
+---
+
 ## Local development
 
 ```bash
