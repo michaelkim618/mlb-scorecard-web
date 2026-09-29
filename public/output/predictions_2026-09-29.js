@@ -341,7 +341,7 @@ window.PREDICTIONS_DATA = [
       "home": 61.4
     },
     "expected_score": {
-      "away": 1.5,
+      "away": 1.6,
       "home": 2.2
     },
     "blend_detail": null,
@@ -360,7 +360,7 @@ window.PREDICTIONS_DATA = [
         "sit": 0.15
       },
       "away": {
-        "sp_score": 70.4,
+        "sp_score": 70.8,
         "sp_detail": {
           "era": 1.82,
           "whip": 0.84,
@@ -419,7 +419,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 47.5,
+        "bp_score": 47.8,
         "bp_detail": {
           "bullpen_era": 3.96,
           "recent_era": 6.61,
@@ -431,7 +431,7 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.82,
           "closer_name": "Jhoan Duran"
         },
-        "bat_score": 26.6,
+        "bat_score": 27.5,
         "bat_detail": {
           "recent_avg": 0.221,
           "runs_per_g": 3.8,
@@ -472,7 +472,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 56.6,
-        "total": 52.3
+        "total": 52.8
       },
       "home": {
         "sp_score": 72.0,
@@ -546,7 +546,7 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.55,
           "closer_name": "Raisel Iglesias"
         },
-        "bat_score": 32.3,
+        "bat_score": 33.8,
         "bat_detail": {
           "recent_avg": 0.254,
           "runs_per_g": 4.0,
@@ -586,14 +586,14 @@ window.PREDICTIONS_DATA = [
             "bat_trend": "stable"
           }
         },
-        "sit_score": 60.2,
-        "total": 61.0
+        "sit_score": 60.6,
+        "total": 61.4
       }
     },
     "scores": {
-      "away_offense": 26.6,
-      "away_defense": 59.0,
-      "home_offense": 32.3,
+      "away_offense": 27.5,
+      "away_defense": 59.3,
+      "home_offense": 33.8,
       "home_defense": 73.5
     },
     "actual_score": {
@@ -619,8 +619,12 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 1.6pt (≤5.0pt)",
-    "model_version": "v13"
+    "low_confidence_reason": "SP 점수 차이 1.2pt (≤5.0pt) / 최고 확률 61.4% (≤62.0%)",
+    "opener_game": {
+      "away": false,
+      "home": false
+    },
+    "model_version": "v17"
   },
   {
     "date": "2026-09-29",
@@ -963,8 +967,8 @@ window.PREDICTIONS_DATA = [
       "home": 50.0
     },
     "expected_score": {
-      "away": 2.4,
-      "home": 1.9
+      "away": 2.6,
+      "home": 2.0
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -976,13 +980,13 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": true,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.38,
-        "bp": 0.3,
+        "sp": 0.1,
+        "bp": 0.5,
         "bat": 0.25,
         "sit": 0.15
       },
       "away": {
-        "sp_score": 35.0,
+        "sp_score": 25.0,
         "sp_detail": {
           "era": 1.59,
           "whip": 0.82,
@@ -1045,7 +1049,7 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.25,
           "closer_name": "Grant Taylor"
         },
-        "bat_score": 36.7,
+        "bat_score": 38.7,
         "bat_detail": {
           "recent_avg": 0.249,
           "runs_per_g": 5.5,
@@ -1086,10 +1090,10 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 56.3,
-        "total": 51.1
+        "total": 54.2
       },
       "home": {
-        "sp_score": 24.7,
+        "sp_score": 17.7,
         "sp_detail": {
           "era": 9.31,
           "whip": 1.76,
@@ -1148,7 +1152,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 67.8,
+        "bp_score": 67.9,
         "bp_detail": {
           "bullpen_era": 3.64,
           "recent_era": 2.45,
@@ -1160,7 +1164,7 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.01,
           "closer_name": "Josh Hader"
         },
-        "bat_score": 27.2,
+        "bat_score": 27.4,
         "bat_detail": {
           "recent_avg": 0.233,
           "runs_per_g": 3.3,
@@ -1201,14 +1205,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.0,
-        "total": 45.5
+        "total": 41.4
       }
     },
     "scores": {
-      "away_offense": 36.7,
-      "away_defense": 51.0,
-      "home_offense": 27.2,
-      "home_defense": 52.7
+      "away_offense": 38.7,
+      "away_defense": 46.0,
+      "home_offense": 27.4,
+      "home_defense": 50.3
     },
     "actual_score": {
       "away": null,
@@ -1232,9 +1236,13 @@ window.PREDICTIONS_DATA = [
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
-    "low_confidence": false,
-    "low_confidence_reason": null,
-    "model_version": "v13"
+    "low_confidence": true,
+    "low_confidence_reason": "최고 확률 50.0% (≤62.0%)",
+    "opener_game": {
+      "away": true,
+      "home": true
+    },
+    "model_version": "v17"
   },
   {
     "date": "2026-09-29",
@@ -1573,12 +1581,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 48.7,
-      "home": 51.3
+      "away": 47.7,
+      "home": 52.3
     },
     "expected_score": {
       "away": 1.5,
-      "home": 2.0
+      "home": 1.9
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -1780,7 +1788,7 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.47,
           "closer_name": "David Bednar"
         },
-        "bat_score": 32.5,
+        "bat_score": 31.5,
         "bat_detail": {
           "recent_avg": 0.245,
           "runs_per_g": 4.6,
@@ -1820,14 +1828,14 @@ window.PREDICTIONS_DATA = [
             "bat_trend": "stable"
           }
         },
-        "sit_score": 60.2,
-        "total": 58.9
+        "sit_score": 60.6,
+        "total": 58.7
       }
     },
     "scores": {
       "away_offense": 25.0,
       "away_defense": 70.3,
-      "home_offense": 32.5,
+      "home_offense": 31.5,
       "home_defense": 68.6
     },
     "actual_score": {
@@ -1853,8 +1861,12 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 2.4pt (≤5.0pt)",
-    "model_version": "v13"
+    "low_confidence_reason": "SP 점수 차이 2.4pt (≤5.0pt) / 최고 확률 52.3% (≤62.0%)",
+    "opener_game": {
+      "away": false,
+      "home": false
+    },
+    "model_version": "v17"
   },
   {
     "date": "2026-09-29",
@@ -2197,8 +2209,8 @@ window.PREDICTIONS_DATA = [
       "home": 61.5
     },
     "expected_score": {
-      "away": 2.0,
-      "home": 3.2
+      "away": 2.1,
+      "home": 3.3
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -2288,7 +2300,7 @@ window.PREDICTIONS_DATA = [
           "closer_era": 3.36,
           "closer_name": "Jacob Webb"
         },
-        "bat_score": 32.8,
+        "bat_score": 33.3,
         "bat_detail": {
           "recent_avg": 0.242,
           "runs_per_g": 4.2,
@@ -2329,7 +2341,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 56.7,
-        "total": 47.9
+        "total": 46.0
       },
       "home": {
         "sp_score": 49.7,
@@ -2411,7 +2423,7 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.67,
           "closer_name": "Mason Miller"
         },
-        "bat_score": 46.4,
+        "bat_score": 47.4,
         "bat_detail": {
           "recent_avg": 0.31,
           "runs_per_g": 6.6,
@@ -2451,14 +2463,14 @@ window.PREDICTIONS_DATA = [
             "bat_trend": "cold"
           }
         },
-        "sit_score": 59.9,
-        "total": 56.4
+        "sit_score": 60.2,
+        "total": 56.7
       }
     },
     "scores": {
-      "away_offense": 32.8,
+      "away_offense": 33.3,
       "away_defense": 53.8,
-      "home_offense": 46.4,
+      "home_offense": 47.4,
       "home_defense": 62.4
     },
     "actual_score": {
@@ -2484,7 +2496,11 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 0.6pt (≤5.0pt)",
-    "model_version": "v13"
+    "low_confidence_reason": "SP 점수 차이 0.6pt (≤5.0pt) / 최고 확률 61.5% (≤62.0%)",
+    "opener_game": {
+      "away": false,
+      "home": false
+    },
+    "model_version": "v17"
   }
 ];
