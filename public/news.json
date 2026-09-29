@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-29T20:56:35.432431+00:00",
+  "updated_at": "2026-09-29T21:16:22.834689+00:00",
   "news": [
+    {
+      "title": "Riley's clutch HR turns Braves' 8th-inning deficit into huge Game 1 win",
+      "link": "https://www.mlb.com/news/braves-win-nl-wild-card-series-game-1-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790714439/mlb/tugbewwljlpmmfmkqgqz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-09-29T20:59:00+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Injured Judge not added to Wild Card Series roster",
+      "link": "https://www.mlb.com/news/aaron-judge-calf-injury-latest-news",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zhwohedofzhaftpzpway",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-29T20:55:00+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "LIVE: White Sox-Astros AL Wild Card Series Game 1 (Peacock/NBCSN)",
+      "link": "https://www.mlb.com/news/white-sox-vs-astros-wild-card-series-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790715256/mlb/xlmu3kdjedivhry6bvdf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin and Brian McTaggart",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-29T20:49:00+00:00",
+      "time_ago": "27m ago"
+    },
     {
       "title": "Luzardo blows past opener label with 5 strong frames in Game 1",
       "link": "https://www.mlb.com/news/jesus-luzardo-starts-for-phillies-in-wild-card-series-game-1",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-29T20:11:20+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Red Sox-Yankees AL Wild Card Series Game 1 FAQ, lineups (8 ET, NBC/Peacock)",
@@ -25,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-29T20:02:00+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Imai makes Astros' Wild Card Series roster; Pecko, Okert not added",
@@ -41,19 +80,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Riley's clutch blast powers Braves to Game 1 win",
-      "link": "https://www.mlb.com/stories/game/849845",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/z244xzvqa9wrkoql0k5l",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-29T19:19:52+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "White Sox release roster for their Wild Card Series vs. the Astros",
       "link": "https://www.mlb.com/news/white-sox-2026-al-wild-card-series-roster",
       "summary": "",
@@ -64,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-29T19:16:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Cubs-Padres NL Wild Card Series Game 1 FAQ (10 p.m. ET, Peacock/NBCSN)",
@@ -77,33 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-29T19:01:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "White Sox-Astros AL Wild Card Series Game 1 FAQ, lineups (5 ET, Peacock/NBCSN)",
-      "link": "https://www.mlb.com/news/white-sox-vs-astros-wild-card-series-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790559445/mlb/xlmu3kdjedivhry6bvdf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin and Brian McTaggart",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-29T18:11:00+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Bregman's role still TBD as Cubs announce Wild Card Series roster vs. Padres",
-      "link": "https://www.mlb.com/news/cubs-2026-nl-wild-card-series-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nzpug0u6rchtv2a8umbw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-29T17:55:00+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
