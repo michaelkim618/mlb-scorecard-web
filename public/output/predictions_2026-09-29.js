@@ -419,15 +419,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 47.8,
+        "bp_score": 48.6,
         "bp_detail": {
-          "bullpen_era": 3.96,
-          "recent_era": 6.61,
-          "recent_appearances": 16,
-          "recent_ip": 16.3,
+          "bullpen_era": 4.01,
+          "recent_era": 6.75,
+          "recent_appearances": 13,
+          "recent_ip": 13.3,
           "team_era": 3.72,
-          "bp_ip": 345.7,
-          "bp_count": 8,
+          "bp_ip": 283.0,
+          "bp_count": 6,
           "closer_era": 1.82,
           "closer_name": "Jhoan Duran"
         },
@@ -472,7 +472,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 56.6,
-        "total": 52.8
+        "total": 53.0
       },
       "home": {
         "sp_score": 72.0,
@@ -592,7 +592,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 27.5,
-      "away_defense": 59.3,
+      "away_defense": 59.7,
       "home_offense": 33.8,
       "home_defense": 73.5
     },
@@ -1581,8 +1581,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 47.7,
-      "home": 52.3
+      "away": 48.2,
+      "home": 51.8
     },
     "expected_score": {
       "away": 1.5,
@@ -1662,15 +1662,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 71.1,
+        "bp_score": 72.5,
         "bp_detail": {
-          "bullpen_era": 2.56,
-          "recent_era": 4.5,
-          "recent_appearances": 11,
-          "recent_ip": 14.0,
-          "team_era": 3.2,
-          "bp_ip": 333.3,
-          "bp_count": 8,
+          "bullpen_era": 2.35,
+          "recent_era": 3.86,
+          "recent_appearances": 8,
+          "recent_ip": 9.3,
+          "team_era": 3.14,
+          "bp_ip": 264.7,
+          "bp_count": 6,
           "closer_era": 1.92,
           "closer_name": "Aroldis Chapman"
         },
@@ -1715,7 +1715,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 48.6,
-        "total": 55.6
+        "total": 55.9
       },
       "home": {
         "sp_score": 72.0,
@@ -1834,7 +1834,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 25.0,
-      "away_defense": 70.3,
+      "away_defense": 71.0,
       "home_offense": 31.5,
       "home_defense": 68.6
     },
@@ -1852,7 +1852,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": null,
     "model_winner": "New York Yankees",
     "model_correct": null,
-    "notes": "Boston Red Sox IL: Anthony Seigler, Curtis Mead, Eduardo Rivera, Eli White, Garrett Crochet 외 다수 / New York Yankees IL: Aaron Judge, Clarke Schmidt, Fernando Cruz, Giancarlo Stanton, Kervin Castro 외 다수",
+    "notes": "Boston Red Sox IL: Anthony Seigler, Curtis Mead, Eduardo Rivera, Eli White, Johan Oviedo 외 다수 / New York Yankees IL: Aaron Judge, Clarke Schmidt, Fernando Cruz, Giancarlo Stanton, Kervin Castro 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "⏭️ 패스 (라인업 미확정)",
@@ -1861,7 +1861,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 2.4pt (≤5.0pt) / 최고 확률 52.3% (≤62.0%)",
+    "low_confidence_reason": "SP 점수 차이 2.4pt (≤5.0pt) / 최고 확률 51.8% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
