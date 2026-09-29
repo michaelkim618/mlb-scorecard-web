@@ -1,4 +1,5 @@
-[
+// Auto-generated (scorecard) — 2026-09-29
+window.PREDICTIONS_DATA = [
   {
     "date": "2026-09-29",
     "status": "Preview",
@@ -2486,4 +2487,4 @@
     "low_confidence_reason": "SP 점수 차이 0.6pt (≤5.0pt)",
     "model_version": "v13"
   }
-]
+];
