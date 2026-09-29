@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-29T03:34:37.023467+00:00",
+  "updated_at": "2026-09-29T04:34:23.602374+00:00",
   "news": [
+    {
+      "title": "Who wins each Wild Card Series? MLB.com experts weigh in",
+      "link": "https://www.mlb.com/news/2026-mlb-wild-card-series-predictions",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cfzdd56zgfmybhiitpfp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Manny Randhawa",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-29T02:57:18+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Here is why each playoff team could win the World Series",
       "link": "https://www.mlb.com/news/how-each-mlb-playoff-team-could-win-the-world-series",
@@ -12,7 +25,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-29T01:30:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Top storyline for each Wild Card Series Game 1",
@@ -25,7 +38,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-29T01:28:15+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Unknown speedster could make MLB debut for Red Sox in playoffs ... to do 1 thing only",
@@ -38,10 +51,10 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-28T23:41:46+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
-      "title": "White Sox-Astros AL Wild Card Series Game 1 FAQ (Tues., 5 ET, Peacock/NBCSN)",
+      "title": "White Sox-Astros AL Wild Card Series Game 1 FAQ (5 ET, Peacock/NBCSN)",
       "link": "https://www.mlb.com/news/white-sox-vs-astros-wild-card-series-starting-lineups-and-pitching-matchup",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790559445/mlb/xlmu3kdjedivhry6bvdf",
@@ -51,10 +64,10 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-28T23:31:00+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
-      "title": "Cubs-Padres NL Wild Card Series Game 1 FAQ (Tues., 10 p.m. ET, NBCSN, Peacock)",
+      "title": "Cubs-Padres NL Wild Card Series Game 1 FAQ (10 p.m. ET, NBCSN, Peacock)",
       "link": "https://www.mlb.com/news/cubs-vs-padres-wild-card-series-lineups-and-pitching-matchup",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790557664/mlb/fmjtrkyebbyotlvcalhx",
@@ -64,7 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-28T23:31:00+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Will Judge play in Wild Card Series? Here's the latest",
@@ -77,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-28T23:09:00+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Can MVP favorite Alvarez carry Astros to another World Series? Their last MVP did",
@@ -90,20 +103,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-09-28T22:59:19+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "'They learned their lesson': Schlittler ready for Game 1 rematch vs. Red Sox",
-      "link": "https://www.mlb.com/news/cam-schlittler-to-start-game-1-of-al-wild-card-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bzgm5c2yu3wlswxfva3o",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-28T21:14:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "5h ago"
     }
   ]
 }
