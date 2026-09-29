@@ -502,12 +502,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 35.2,
+        "bp_score": 38.4,
         "bp_detail": {
           "bullpen_era": 4.38,
-          "recent_era": 3.45,
-          "recent_appearances": 18,
-          "recent_ip": 28.7,
+          "recent_era": 2.78,
+          "recent_appearances": 16,
+          "recent_ip": 22.7,
           "team_era": 3.89,
           "bp_ip": 172.7,
           "bp_count": 8,
@@ -611,14 +611,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 49.6,
-        "total": 34.5
+        "total": 35.2
       }
     },
     "scores": {
       "away_offense": 37.3,
       "away_defense": 40.8,
       "home_offense": 31.6,
-      "home_defense": 33.8
+      "home_defense": 35.9
     },
     "actual_score": {
       "away": 4,
@@ -3163,8 +3163,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 58.9,
-      "home": 41.1
+      "away": 61.8,
+      "home": 38.2
     },
     "expected_score": {
       "away": 3.0,
@@ -3411,9 +3411,9 @@ window.PREDICTIONS_DATA = [
         "bp_score": 45.5,
         "bp_detail": {
           "bullpen_era": 4.11,
-          "recent_era": 2.78,
-          "recent_appearances": 31,
-          "recent_ip": 32.3,
+          "recent_era": 3.04,
+          "recent_appearances": 27,
+          "recent_ip": 26.7,
           "team_era": 4.04,
           "bp_ip": 297.7,
           "bp_count": 11,
@@ -3549,7 +3549,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 58.9% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 61.8% (≤62.0%)",
     "opener_game": {
       "away": true,
       "home": true
@@ -4173,8 +4173,8 @@ window.PREDICTIONS_DATA = [
         "bp_detail": {
           "bullpen_era": 3.04,
           "recent_era": 2.0,
-          "recent_appearances": 17,
-          "recent_ip": 23.0,
+          "recent_appearances": 13,
+          "recent_ip": 18.0,
           "team_era": 3.53,
           "bp_ip": 334.3,
           "bp_count": 9,
@@ -5327,8 +5327,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 54.3,
-      "home": 45.7
+      "away": 54.2,
+      "home": 45.8
     },
     "expected_score": {
       "away": 1.9,
@@ -5596,12 +5596,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 61.6,
+        "bp_score": 61.9,
         "bp_detail": {
           "bullpen_era": 3.35,
-          "recent_era": 3.33,
-          "recent_appearances": 17,
-          "recent_ip": 27.0,
+          "recent_era": 3.27,
+          "recent_appearances": 14,
+          "recent_ip": 22.0,
           "team_era": 3.68,
           "bp_ip": 346.7,
           "bp_count": 9,
@@ -5712,7 +5712,7 @@ window.PREDICTIONS_DATA = [
       "away_offense": 28.3,
       "away_defense": 54.0,
       "home_offense": 25.0,
-      "home_defense": 48.9
+      "home_defense": 49.0
     },
     "actual_score": {
       "away": 4,
@@ -5737,7 +5737,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 54.3% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 54.2% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -7886,12 +7886,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 56.6,
+        "bp_score": 54.9,
         "bp_detail": {
           "bullpen_era": 4.04,
           "recent_era": 2.0,
-          "recent_appearances": 16,
-          "recent_ip": 17.7,
+          "recent_appearances": 14,
+          "recent_ip": 14.7,
           "team_era": 4.24,
           "bp_ip": 416.3,
           "bp_count": 7,
@@ -7995,14 +7995,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 51.6,
-        "total": 49.7
+        "total": 49.2
       }
     },
     "scores": {
       "away_offense": 25.0,
       "away_defense": 43.1,
       "home_offense": 29.5,
-      "home_defense": 53.2
+      "home_defense": 52.3
     },
     "actual_score": {
       "away": 4,
@@ -10602,8 +10602,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 55.0,
-      "home": 45.0
+      "away": 54.2,
+      "home": 45.8
     },
     "expected_score": {
       "away": 2.4,
@@ -10691,12 +10691,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 55.4,
+        "bp_score": 52.9,
         "bp_detail": {
           "bullpen_era": 3.71,
-          "recent_era": 3.94,
-          "recent_appearances": 14,
-          "recent_ip": 16.0,
+          "recent_era": 4.61,
+          "recent_appearances": 12,
+          "recent_ip": 13.7,
           "team_era": 3.89,
           "bp_ip": 444.0,
           "bp_count": 10,
@@ -10744,7 +10744,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 43.9,
-        "total": 44.7
+        "total": 44.1
       },
       "home": {
         "sp_score": 30.0,
@@ -10872,7 +10872,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 35.2,
-      "away_defense": 47.8,
+      "away_defense": 46.5,
       "home_offense": 31.5,
       "home_defense": 47.6
     },
@@ -10899,7 +10899,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 55.0% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 54.2% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
