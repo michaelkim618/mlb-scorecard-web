@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-29T23:03:31.376371+00:00",
+  "updated_at": "2026-09-29T23:35:20.015703+00:00",
   "news": [
+    {
+      "title": "Pohlad: Twins expecting to raise payroll for 2027",
+      "link": "https://www.mlb.com/news/tom-pohlad-jeremy-zoll-derek-shelton-discuss-twins-offseason",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ncjtyexwilovcil3dz48",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-29T23:23:08+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Brewers notes: NLDS probables, roster decisions and more",
+      "link": "https://www.mlb.com/news/pat-murphy-still-figuring-out-nlds-roster-during-bye-week",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lgjfzskajw3nax38pyir",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-09-29T23:13:34+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "Phillies need a Game 2 stopper -- and rock-solid Sánchez is just the guy for the job",
+      "link": "https://www.mlb.com/news/cristopher-sanchez-phillies-starter-2026-nl-wild-card-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y1vh8jxvsn7mocrwh18j",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-29T23:10:54+00:00",
+      "time_ago": "24m ago"
+    },
     {
       "title": "LIVE: Top of the order gets White Sox going vs. Astros in Game 1 (Peacock/NBCSN)",
       "link": "https://www.mlb.com/stories/game/849849",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-29T22:41:18+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "Cubs-Padres NL Wild Card Series Game 1 FAQ, lineups (10 p.m. ET, Peacock/NBCSN)",
@@ -25,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-29T22:40:00+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "How will Crochet be used -- and how often -- for Red Sox in Wild Card Series?",
@@ -38,7 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-29T22:26:00+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'Something a little bit new': The unique approach that carried the Rays to October",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-29T22:13:33+00:00",
-      "time_ago": "49m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Stanton, Grisham active for Yankees' Wild Card Series vs. Boston",
@@ -64,45 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-29T22:11:00+00:00",
-      "time_ago": "52m ago"
-    },
-    {
-      "title": "Red Sox finalize AL Wild Card Series roster",
-      "link": "https://www.mlb.com/news/red-sox-2026-al-wild-card-series-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zsdfxc4vesie0apv1xgt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-29T21:57:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Luzardo blows past opener label with 5 strong frames in Game 1",
-      "link": "https://www.mlb.com/news/jesus-luzardo-starts-for-phillies-in-wild-card-series-game-1",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tbeniic4kca5qmb8tfet",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-29T21:21:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Riley's clutch HR turns Braves' 8th-inning deficit into huge Game 1 win",
-      "link": "https://www.mlb.com/news/braves-win-nl-wild-card-series-game-1-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790715640/mlb/peuhtqjna8qvyozidt9d",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-09-29T21:18:00+00:00",
       "time_ago": "1h ago"
     }
   ]
