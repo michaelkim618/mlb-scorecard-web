@@ -1,17 +1,17 @@
 {
-  "title": "Sep 29 Preview: The Numbers Point to One Clear Play",
-  "summary": "No games Sep 28. Tomorrow's data reveals a 61% edge in Atlanta's pitching matchup.",
+  "title": "Sep 29 Preview: The Numbers Point to a Clear Favorite",
+  "summary": "Sep 28 was an off day. Here's what the data says about Sep 29's slate.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Sep 28 Recap: League-Wide Off Day\n\nZero games on the schedule today. That's 0 pitches thrown, 0 at-bats recorded, and 0 data points to analyze. But here's what matters: we're using this downtime to dive deep into Sep 29's slate, and the numbers are telling a compelling story."
+      "value": "## Sep 28 Recap: Off Day in the Books\n\nNo games were played on September 28 — MLB took a collective breath before the final push. That means zero data points to analyze, zero predictions to validate, and honestly, zero fun for a numbers guy like me. But that's okay, because Sep 29's slate is where things get interesting."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Sep 28 Games",
+          "label": "Games Played Sep 28",
           "value": "0"
         },
         {
@@ -26,30 +26,47 @@
     },
     {
       "type": "text",
-      "value": "## Tomorrow's Slate: What the Data Shows\n\nSep 29 brings us back to action, and I've run the numbers on every matchup. One game jumps off the page from a statistical perspective: Phillies at Braves. Let me walk you through why the data gives Atlanta a 61% win probability."
+      "value": "## Tomorrow's Slate: Sep 29 Analysis\n\nLook, when you've got a day off, you do what any self-respecting analyst does: you dig into tomorrow's matchups. And let me tell you, the numbers on Sep 29 are telling a compelling story. We're looking at critical late-season games where every data point matters, every pitcher metric counts, and every percentage point in our models could be the difference between a correct pick and a miss."
     },
     {
       "type": "text",
-      "value": "## Pitching Matchup Analysis: Sale vs. Luzardo\n\nChris Sale takes the mound for Atlanta against Jesús Luzardo. Here's where it gets interesting from an analytical standpoint:\n\n**Chris Sale's Recent Numbers:**\n- Home splits have been significantly better this season\n- Strikeout rate remains elite in late-season sample\n- The velocity data shows he's maintaining 93+ mph deep into games\n\n**Jesús Luzardo's Road Profile:**\n- ERA differential of over 1.00 between home and away starts\n- Hard contact rate increases in hostile environments\n- Recent workload suggests potential fatigue factor\n\nWhen you run these variables through the model, Atlanta's 61% win probability isn't just a guess—it's what the historical data on similar matchups predicts."
+      "value": "## The Model's Top Pick: Braves vs Phillies\n\nThis is where it gets good. Philadelphia travels to Atlanta, and our model is lighting up with a 61% win probability for the Braves. Now, 61% might not sound overwhelming, but in baseball — where variance is king and a .600 winning percentage makes you a dynasty — that's a significant edge.\n\nThe pitching matchup tells the story: Jesús Luzardo takes the mound for the Phillies against Chris Sale for Atlanta. Sale's resurgence this season has been remarkable. We're talking about a pitcher who's rediscovered his command, his velocity sitting in elite ranges, and his strikeout-to-walk ratio looking like vintage Sale numbers."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick: Sep 29",
+      "title": "⭐ Tomorrow's Top Pick",
       "value": "Atlanta Braves",
       "sub": "61% win probability · Sale vs Luzardo · Home field advantage"
     },
     {
       "type": "text",
-      "value": "## The 61% Win Probability Breakdown\n\nLet me show you exactly how we arrived at that 61% figure:\n\n1. **Starting Pitcher Advantage:** +8% to Atlanta based on ERA, FIP, and recent performance metrics\n2. **Home Field Factor:** +4% historical edge at Truist Park in late September\n3. **Bullpen Depth:** +3% based on fresh arms and usage patterns over last 7 days\n4. **Offensive Matchup:** +2% when analyzing Braves' success rate against left-handed starters\n5. **Base Win Probability:** 44% (slightly favored as home team)\n\nAdd it up: 44% + 17% = 61% win probability for Atlanta.\n\nThis isn't a coin flip. This is a measurable edge."
+      "value": "## Breaking Down the 61%\n\nLet me break down where that 61% comes from, because I don't just throw numbers around without backing them up:\n\n**Pitching Edge:** Chris Sale's home ERA and recent performance metrics give Atlanta a measurable advantage. Luzardo's solid, no question, but the data shows Sale's been more consistent in high-leverage situations.\n\n**Home Field Factor:** Atlanta at home is a different beast. The numbers don't lie — their home winning percentage, run differential, and crowd impact all feed into this model.\n\n**Situational Metrics:** Late September baseball means every game carries playoff implications or spoiler potential. Atlanta's performance under pressure this season grades out favorably in our regression models.\n\nThis is the kind of matchup where you trust the process, trust the numbers, and let the edge play out over time."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Braves Win Prob",
+          "value": "61%"
+        },
+        {
+          "label": "Model Confidence",
+          "value": "High"
+        },
+        {
+          "label": "Key Factor",
+          "value": "Pitching"
+        }
+      ]
     },
     {
       "type": "text",
-      "value": "## What to Watch on Sep 29\n\nThe data tells us where to look, but here are the specific metrics I'll be tracking:\n\n- **First 3 innings performance:** Sale's early command will be critical—his first-time-through-order stats are elite\n- **Luzardo's pitch count:** If he's over 25 pitches through 2 innings, the model's confidence increases\n- **Atlanta's approach vs. LHP:** They're posting a .267 team average against lefties in September—8 points above league average\n\nThese aren't hunches. These are quantifiable indicators that align with our 61% probability model."
+      "value": "## What I'm Watching on Sep 29\n\nBeyond the top pick, here's what my spreadsheets are telling me to monitor:\n\n- **Pitcher workload data** — We're in that part of the season where innings limits and fatigue become real factors\n- **Bullpen usage patterns** — Which teams are running on fumes and which still have fresh arms?\n- **Lineup construction** — Rest days for regulars can shift win probabilities by 3-5 percentage points\n- **Weather data** — Temperature, wind speed, humidity — it all goes into the model\n\nThe beauty of an off day is it gives us time to refresh all these inputs, recalibrate the models, and come into Sep 29 with the cleanest possible data set."
     },
     {
       "type": "text",
-      "value": "## Final Analysis\n\nSep 28 gave us no games, but Sep 29 gives us clarity. The Philadelphia-Atlanta matchup presents the strongest statistical edge on tomorrow's slate. A 61% win probability for the Braves isn't a guarantee—nothing in baseball is—but it represents a significant deviation from a 50-50 proposition.\n\nThat's what we look for. That's where the value lives.\n\nI'll be watching the numbers closely as first pitch approaches. The data has spoken."
+      "value": "## Bottom Line\n\nSep 28 gave us nothing to analyze, but Sep 29 is loaded with opportunity. The Braves at 61% represent the strongest probability edge on the slate according to our models. Chris Sale versus Jesús Luzardo, Atlanta's home field advantage, and the situational dynamics all point in one direction.\n\nThat's what the data says. That's what the numbers tell me. And after a quiet Sep 28, I'm ready to see if Sep 29 validates the model.\n\nLet's see what the scoreboard shows tomorrow."
     }
   ],
   "slug": "2026-09-28-daily-stan",
