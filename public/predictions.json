@@ -336,8 +336,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 38.6,
-      "home": 61.4
+      "away": 39.0,
+      "home": 61.0
     },
     "expected_score": {
       "away": 1.6,
@@ -535,13 +535,13 @@
         },
         "bp_score": 75.0,
         "bp_detail": {
-          "bullpen_era": 2.68,
-          "recent_era": 2.53,
-          "recent_appearances": 16,
-          "recent_ip": 21.3,
-          "team_era": 3.19,
-          "bp_ip": 439.7,
-          "bp_count": 9,
+          "bullpen_era": 2.69,
+          "recent_era": 2.66,
+          "recent_appearances": 15,
+          "recent_ip": 20.3,
+          "team_era": 2.94,
+          "bp_ip": 427.7,
+          "bp_count": 8,
           "closer_era": 2.55,
           "closer_name": "Raisel Iglesias"
         },
@@ -618,7 +618,7 @@
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 1.2pt (≤5.0pt) / 최고 확률 61.4% (≤62.0%)",
+    "low_confidence_reason": "SP 점수 차이 1.2pt (≤5.0pt) / 최고 확률 61.0% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -2204,8 +2204,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 38.5,
-      "home": 61.5
+      "away": 37.8,
+      "home": 62.2
     },
     "expected_score": {
       "away": 2.1,
@@ -2495,7 +2495,7 @@
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 0.6pt (≤5.0pt) / 최고 확률 61.5% (≤62.0%)",
+    "low_confidence_reason": "SP 점수 차이 0.6pt (≤5.0pt)",
     "opener_game": {
       "away": false,
       "home": false
