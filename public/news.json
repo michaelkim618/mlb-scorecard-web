@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-29T02:27:13.813902+00:00",
+  "updated_at": "2026-09-29T02:41:52.466840+00:00",
   "news": [
+    {
+      "title": "Here is why each playoff team could win the World Series",
+      "link": "https://www.mlb.com/news/how-each-mlb-playoff-team-could-win-the-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wnk5ymatpzzhuecoexvs",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-29T01:30:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Top storyline for each Wild Card Series Game 1",
+      "link": "https://www.mlb.com/news/top-storyline-for-each-mlb-wild-card-series-game-1-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/txpcnqcehaz4ygqndstv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-29T01:28:15+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Unknown speedster could make MLB debut for Red Sox in playoffs ... to do 1 thing only",
       "link": "https://www.mlb.com/news/braiden-ward-red-sox-al-wild-card-roster",
@@ -12,33 +38,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-28T23:41:46+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Sale looks to 'harness the energy' in Braves postseason debut",
-      "link": "https://www.mlb.com/news/chris-sale-to-start-game-1-of-braves-wild-card-series-vs-phillies",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790636984/mlb/gajranoa2gfygk6gi9zl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-28T23:34:25+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Cubs-Padres NL Wild Card Series Game 1 FAQ (Tues., 10 p.m. ET, NBCSN, Peacock)",
-      "link": "https://www.mlb.com/news/cubs-vs-padres-wild-card-series-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790557664/mlb/fmjtrkyebbyotlvcalhx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian and AJ Cassavell",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-28T23:31:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "White Sox-Astros AL Wild Card Series Game 1 FAQ (Tues., 5 ET, Peacock/NBCSN)",
@@ -51,7 +51,20 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-28T23:31:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
+    },
+    {
+      "title": "Cubs-Padres NL Wild Card Series Game 1 FAQ (Tues., 10 p.m. ET, NBCSN, Peacock)",
+      "link": "https://www.mlb.com/news/cubs-vs-padres-wild-card-series-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790557664/mlb/fmjtrkyebbyotlvcalhx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian and AJ Cassavell",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-28T23:31:00+00:00",
+      "time_ago": "3h ago"
     },
     {
       "title": "Will Judge play in Wild Card Series? Here's the latest",
@@ -64,19 +77,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-28T23:09:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Blubaugh to open Wild Card Game 1 for Astros; Brown expected to start Game 2",
-      "link": "https://www.mlb.com/news/astros-will-have-bullpen-game-in-al-wild-card-game-1-vs-white-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790636314/mlb/uczxmziiq9lvvmkwvfqt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-28T23:00:00+00:00",
       "time_ago": "3h ago"
     },
     {
@@ -93,17 +93,17 @@
       "time_ago": "3h ago"
     },
     {
-      "title": "Refreshed Padres ready for Wild Card Series rematch vs. Cubs ... this time at home",
-      "link": "https://www.mlb.com/news/padres-ready-for-wild-card-series-rematch-with-cubs",
+      "title": "'They learned their lesson': Schlittler ready for Game 1 rematch vs. Red Sox",
+      "link": "https://www.mlb.com/news/cam-schlittler-to-start-game-1-of-al-wild-card-series",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dz7bku72dtudgc8zebb8",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bzgm5c2yu3wlswxfva3o",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-28T22:56:00+00:00",
-      "time_ago": "3h ago"
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-28T21:14:00+00:00",
+      "time_ago": "5h ago"
     }
   ]
 }
