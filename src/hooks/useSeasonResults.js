@@ -50,10 +50,10 @@ export default function useSeasonResults() {
   const picks60   = completedGames.filter(g => (g.pick_prob || 0) >= 60);
   const stat60    = calcStat(picks60);
 
-  // High Confidence (pick_prob >= 63%)
-  // Note: hard_cap was 63.0 through most of 2026 regular season, so 63% represents
-  // the strongest model conviction. Raised to 68% from postseason onwards.
-  const highConf  = completedGames.filter(g => (g.pick_prob || 0) >= 63);
+  // High Confidence (pick_prob >= 65%)
+  // hard_cap raised to 68% from postseason 2026 onwards — 65%+ games will accumulate naturally.
+  // Regular season had hard_cap=63, so historical sample is small (23 games, 73.9%).
+  const highConf  = completedGames.filter(g => (g.pick_prob || 0) >= 65);
   const statHC    = calcStat(highConf);
 
   // Home Fav (pick === home team)
