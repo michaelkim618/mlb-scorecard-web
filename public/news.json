@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-09-29T17:07:35.567624+00:00",
+  "updated_at": "2026-09-29T18:13:38.328148+00:00",
   "news": [
+    {
+      "title": "Bregman's role still TBD as Cubs announce Wild Card Series roster vs. Padres",
+      "link": "https://www.mlb.com/news/cubs-2026-nl-wild-card-series-roster",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nzpug0u6rchtv2a8umbw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-29T17:55:00+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Phillies-Braves NL Wild Card Series Game 1: LIVE on NBC, Peacock",
+      "link": "https://www.mlb.com/news/phillies-vs-braves-nl-wild-card-series-game-1-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qspnvkxzcgkxy4msmbt5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman, Todd Zolecki",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-29T17:54:00+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Musgrove (who last pitched in '24) a surprise add to Padres' Wild Card Series roster",
+      "link": "https://www.mlb.com/news/padres-2026-nl-wild-card-series-roster",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xz4hpnnxt9jmfrrlcluv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-29T17:50:00+00:00",
+      "time_ago": "23m ago"
+    },
+    {
+      "title": "White Sox-Astros AL Wild Card Series Game 1 FAQ, lineups (5 ET, Peacock/NBCSN)",
+      "link": "https://www.mlb.com/news/white-sox-vs-astros-wild-card-series-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790559445/mlb/xlmu3kdjedivhry6bvdf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin and Brian McTaggart",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-29T17:09:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Ranking rookies who could make an impact in '26 postseason",
+      "link": "https://www.mlb.com/news/rookies-in-2026-mlb-playoffs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ttcdaq2svurafu2jzbkg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sam Dykstra",
+      "tag": "Rankings",
+      "tag_color": "#4F46E5",
+      "pub_date": "2026-09-29T17:08:06+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "White Sox focused on the here and now at the spot where they won their last playoff series",
+      "link": "https://www.mlb.com/news/white-sox-2026-al-wild-card-series-won-2005-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ol59pmqfxqocjm4xmwyr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-29T16:52:11+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Top storyline for each Wild Card Series Game 1",
       "link": "https://www.mlb.com/news/top-storyline-for-each-mlb-wild-card-series-game-1-2026",
@@ -12,19 +90,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-29T16:15:00+00:00",
-      "time_ago": "52m ago"
-    },
-    {
-      "title": "Time is running out: Fill out your postseason bracket and compete to win $10,000!",
-      "link": "https://www.mlb.com/moments/experiences/postseason-bracket-challenge?affiliateID=psbc_mlb_digital_2026",
-      "summary": "Enter your picks in the 2026 MLB Postseason Bracket Challenge presented by Zillow and you could win $10,000.",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/etym1zzgxciekgqetbw0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-29T15:55:00+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -38,72 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-29T15:55:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Phillies finalize NL Wild Card Series roster",
-      "link": "https://www.mlb.com/news/phillies-2026-nl-wild-card-series-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qguaoi9vu9b0vj0jfpng",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-29T15:40:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Braves finalize 2026 NL Wild Card Series roster",
-      "link": "https://www.mlb.com/news/braves-2026-nl-wild-card-series-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wuogidgjbq0ihzikxj6p",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-29T15:37:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "White Sox release roster for their Wild Card Series vs. the Astros",
-      "link": "https://www.mlb.com/news/white-sox-2026-al-wild-card-series-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fz9n2scnhgczaago1czu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-29T15:25:02+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Stanton, Grisham make Yankees' Wild Card Series roster",
-      "link": "https://www.mlb.com/news/yankees-2026-al-wild-card-series-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rsafdl7ellgjfyzkfw3t",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-29T15:17:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Red Sox finalize AL Wild Card Series roster",
-      "link": "https://www.mlb.com/news/red-sox-2026-al-wild-card-series-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zsdfxc4vesie0apv1xgt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-29T15:14:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
