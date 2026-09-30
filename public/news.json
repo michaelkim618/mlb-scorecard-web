@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-30T00:51:45.448959+00:00",
+  "updated_at": "2026-09-30T01:22:23.258281+00:00",
   "news": [
+    {
+      "title": "Ohtani 'feeling great physically,' will continue to hit during bye week ahead of NLDS",
+      "link": "https://www.mlb.com/news/shohei-ohtani-feeling-better-as-dodgers-prepare-for-nlds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790728037/mlb/tc1rqjrsjrp3rweorhql",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-30T00:48:53+00:00",
+      "time_ago": "33m ago"
+    },
     {
       "title": "Phillies need a Game 2 stopper -- and rock-solid Sánchez is just the guy for the job",
       "link": "https://www.mlb.com/news/cristopher-sanchez-phillies-starter-2026-nl-wild-card-series",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T00:45:00+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "Riley flips Game 1 with 8th-inning blast on 99.9 mph pitch from Phillies' closer",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T00:40:00+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "Phillies-Braves NL Wild Card Series Game 2 FAQ (Wed., 2 ET, NBC/Peacock)",
@@ -38,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-30T00:38:25+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Bullpen game struggles put Astros in must-win position for ALWC G2",
@@ -51,20 +64,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T00:31:12+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "51m ago"
     },
     {
       "title": "White Sox make it look easy in Game 1 win over AL West champs",
       "link": "https://www.mlb.com/news/white-sox-win-al-wild-card-game-1-2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ev6pw2a4jphrcoqkgfyr",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790730046/mlb/ev6pw2a4jphrcoqkgfyr",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Scott Merkin",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T00:29:36+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "Luzardo blows past opener label in first start since injury",
@@ -77,7 +90,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-30T00:29:00+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "Sale shakes off postseason woes, fans Harper with triple-digit heat",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T00:18:46+00:00",
-      "time_ago": "32m ago"
-    },
-    {
-      "title": "Red Sox-Yankees AL Wild Card Series Game 1: LIVE on NBC, Peacock",
-      "link": "https://www.mlb.com/news/red-sox-vs-yankees-wild-card-series-starting-lineups-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/n1ubsqejcfqivumkgx5k",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne and Bryan Hoch",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-30T00:00:00+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
