@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-30T22:11:25.651052+00:00",
+  "updated_at": "2026-09-30T22:27:34.952375+00:00",
   "news": [
+    {
+      "title": "Backs to wall, resilient Phils force Game 3 on Bohm's 10th-inning drive",
+      "link": "https://www.mlb.com/news/phillies-win-nl-wild-card-game-2-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p1vbz0ulqkdpuxdolqfg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-30T22:19:00+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Realmuto makes postseason history with 1st game-ending ABS challenge",
+      "link": "https://www.mlb.com/news/j-t-realmuto-initiates-first-game-ending-abs-challenge-in-postseason-history",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vaih50ydsx7pajiun1uj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-30T22:06:57+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "Dance like everyone's watching: White Sox bring ritual to October",
+      "link": "https://www.mlb.com/news/white-sox-continue-pregame-dugout-dance-tradition-in-postseason",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g8cbd1tuvv1bia0pxpnm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-30T21:58:27+00:00",
+      "time_ago": "29m ago"
+    },
     {
       "title": "Here's why Judge wasn't on the field for intros before Game 1",
       "link": "https://www.mlb.com/news/aaron-judge-misses-yankees-pregame-introductions-for-treatment",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T21:52:32+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "35m ago"
     },
     {
       "title": "LIVE: Looking to advance, White Sox pounce on Astros in Game 2 (Peacock/NBCSN)",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T21:43:11+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "44m ago"
     },
     {
       "title": "Cubs-Padres NL Wild Card Series Game 2 FAQ, lineups (10 ET, Peacock/NBCSN)",
@@ -38,7 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-30T21:39:00+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "Braves stung by long ball late, drop Game 2 in extras",
@@ -51,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T21:37:32+00:00",
-      "time_ago": "33m ago"
-    },
-    {
-      "title": "Backs to wall, resilient Phils force Game 3 on Bohm's 10th-inning drive",
-      "link": "https://www.mlb.com/news/phillies-win-nl-wild-card-game-2-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p1vbz0ulqkdpuxdolqfg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-30T21:30:26+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Anthony off Wild Card Series roster after re-aggravating hand injury",
@@ -77,33 +103,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-30T21:26:00+00:00",
-      "time_ago": "45m ago"
-    },
-    {
-      "title": "After tweaking groin in regular-season finale, Sosa exits Game 2 of NL Wild Card Series",
-      "link": "https://www.mlb.com/news/edmundo-sosa-exits-nl-wild-card-series-game-2-with-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rxhbmlujchfjhtba7jez",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-30T21:15:42+00:00",
-      "time_ago": "55m ago"
-    },
-    {
-      "title": "'The standard' Rasmussen will set the table for Rays in Game 1 of ALDS",
-      "link": "https://www.mlb.com/news/drew-rasmussen-will-start-for-rays-in-alds-game-1",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790797650/mlb/i2rp3du8uprgi24okini",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-30T20:06:24+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "1h ago"
     }
   ]
 }
