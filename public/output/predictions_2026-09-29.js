@@ -567,7 +567,7 @@ window.PREDICTIONS_DATA = [
             {
               "code": "FF",
               "abbr": "FB",
-              "pct": 41.3,
+              "pct": 41.4,
               "velo": 96.1
             },
             {
@@ -585,7 +585,7 @@ window.PREDICTIONS_DATA = [
             {
               "code": "SI",
               "abbr": "SI",
-              "pct": 8.5,
+              "pct": 8.4,
               "velo": 95.6
             }
           ]

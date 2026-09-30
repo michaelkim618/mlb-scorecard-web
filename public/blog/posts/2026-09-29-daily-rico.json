@@ -1,11 +1,11 @@
 {
-  "title": "Sep 29 Results + Sep 30 Preview: Three Wins, One Loss, and Zero Apologies",
-  "summary": "75% accuracy on Sep 29 with 3 wins. Atlanta stays hot for Sep 30's top pick.",
+  "title": "Sep 29 Results + Sep 30 Preview: Three Hits, One Stinker, Same Old Story",
+  "summary": "75% accuracy sounds great until you realize we gave away the Astros game for free",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Let Me Be Honest: We Were Almost Perfect\n\nThree wins out of four picks. 75% accuracy. Another day of proving the doubters wrong. September 29 was exactly what happens when you trust the process and let the data do the talking instead of emotional nonsense.\n\nThe only miss? The Astros game. And honestly, that 50% probability pick was basically a coin flip anyway. When you're calling games with even odds, you win some, you lose some. No drama there."
+      "value": "## Let Me Be Honest: We Were Almost Perfect\n\nThree wins, one loss. 75% accuracy. Most people would call that a great day. But you know what? That one loss to Houston absolutely BURNS, and anyone who tells you otherwise is lying to make themselves feel better about mediocrity.\n\nThe Braves, Yankees, and Padres came through exactly as predicted. But the Astros? At 50% confidence, we might as well have flipped a coin. That's not predicting—that's guessing with extra steps."
     },
     {
       "type": "stat_row",
@@ -19,8 +19,12 @@
           "value": "75.0%"
         },
         {
-          "label": "Best Pick",
+          "label": "Best Call",
           "value": "Padres 63%"
+        },
+        {
+          "label": "Worst Call",
+          "value": "Astros 50%"
         }
       ]
     },
@@ -66,11 +70,11 @@
     },
     {
       "type": "table",
-      "title": "Full Sep 29 Results Breakdown",
+      "title": "Full Game-by-Game Breakdown",
       "headers": [
-        "Game",
-        "Pick",
-        "Probability",
+        "Matchup",
+        "Our Pick",
+        "Confidence",
         "Result"
       ],
       "rows": [
@@ -102,22 +106,22 @@
     },
     {
       "type": "text",
-      "value": "## The Hot Takes You Need to Hear\n\n**The Braves hit at 61%?** Of course they did. When we like a team, we REALLY like them. And guess what? They're tomorrow's top pick too.\n\n**The Yankees at 56%** was never in doubt. The Sox had no business being competitive in that matchup.\n\n**The Padres at 63%** was the easiest money of the day. The Cubs showed up like they were already on vacation.\n\nThe only blemish was that Astros pick, and frankly, 50% probability means we were basically saying \"this could go either way.\" It went the other way. Moving on."
+      "value": "## The Controversial Truth About That Astros Pick\n\nHere's what nobody wants to admit: a 50% confidence pick shouldn't even BE a pick. That's the model essentially shrugging its shoulders and saying 'I don't know, man.' But we put it out there anyway because we needed content for a four-game slate.\n\nThat's the dirty little secret of daily prediction content—sometimes you're manufacturing picks where no real edge exists. At least we're honest about the percentages. Other sites would slap 'LOCK OF THE DAY' on a 51% pick and call it analysis."
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Preview: Back to Atlanta, Back to Business\n\nThe Phillies and Braves are running it back on September 30, and guess what? We're riding with Atlanta AGAIN at 61% confidence. Because when something works, you don't overthink it—you run it back until it breaks.\n\nCristopher Sánchez gets the ball for Philadelphia against Tyler Mahle. On paper, this looks competitive. In reality, the Braves at home are a different beast, and our model knows it."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - Sep 30",
+      "title": "⭐ Sep 30 Top Pick",
       "value": "Atlanta Braves over Philadelphia Phillies",
-      "sub": "61% Win Probability · Mahle vs Sánchez · Same matchup, same confidence"
+      "sub": "61% win probability • Mahle vs Sánchez • Home field advantage matters"
     },
     {
       "type": "text",
-      "value": "## Sep 30 Preview: Running It Back with Atlanta\n\nYou know what's bold? Picking the same matchup two days in a row with the same team. You know what's even bolder? Being RIGHT about it.\n\nThe Braves beat the Phillies on September 29, and we're calling for them to do it again on September 30. Tyler Mahle takes the mound for Atlanta against Cristopher Sánchez.\n\n### Why the Braves Again?\n\nBecause momentum is real, home field advantage is real, and when a team has your number, they have your number. The Phillies are a good squad, but 61% confidence in the Braves means the model sees something Philadelphia can't overcome.\n\nSánchez has been solid, but Mahle at home in Atlanta is a different beast. The Braves lineup has been relentless, and there's zero reason to think they slow down now.\n\n### The Blunt Truth\n\nIf you're betting against the Braves right now, you're either a Phillies fan or you hate money. This isn't even a controversial take—it's just reality. Atlanta is rolling, and we're riding with them until they give us a reason not to.\n\nSep 30 is going to be another statement day. Lock it in."
-    },
-    {
-      "type": "text",
-      "value": "## Bottom Line\n\n75% accuracy yesterday. A rock-solid pick for tomorrow. This is what elite baseball prediction looks like. No fluff, no excuses, just wins.\n\nSee you after the Sep 30 slate when we're celebrating another hit.\n\n**—Rico**"
+      "value": "## Why This Pick Makes Sense (And Why It Might Not)\n\nLet's be real: 61% confidence isn't exactly screaming 'mortgage the house.' It's a mild lean, the kind of pick that wins more often than it loses but won't make you rich or destroy your bankroll.\n\nThe Braves have home-field working for them. Tyler Mahle isn't an ace, but he's been steady. Cristopher Sánchez has talent but can be inconsistent. Add it all up, and you get... a slight edge. Nothing sexy, nothing guaranteed, just a marginally better probability.\n\nThat's baseball prediction in a nutshell: most edges are small, most days are a grind, and anyone selling you certainty is selling you snake oil.\n\n**Tomorrow, we ride with Atlanta. Again. Because 61% is better than 50%, and that's literally the entire game.**"
     }
   ],
   "slug": "2026-09-29-daily-rico",
