@@ -337,12 +337,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 39.0,
-      "home": 61.0
+      "away": 39.4,
+      "home": 60.6
     },
     "expected_score": {
       "away": 1.4,
-      "home": 2.3
+      "home": 1.8
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -438,7 +438,7 @@ window.PREDICTIONS_DATA = [
           "hr_per_g": 0.5,
           "bb_per_g": 3.0,
           "season_ops": 0.717,
-          "season_slg": 0.336,
+          "season_slg": null,
           "season_avg": 0.224,
           "n_games": 9,
           "source": "prev_day",
@@ -531,7 +531,7 @@ window.PREDICTIONS_DATA = [
         "total": 51.9
       },
       "home": {
-        "sp_score": 72.0,
+        "sp_score": 70.6,
         "sp_detail": {
           "era": 2.09,
           "whip": 0.79,
@@ -590,7 +590,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 75.0,
+        "bp_score": 73.5,
         "bp_detail": {
           "bullpen_era": 2.69,
           "recent_era": 2.79,
@@ -602,14 +602,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.55,
           "closer_name": "Raisel Iglesias"
         },
-        "bat_score": 35.0,
+        "bat_score": 27.1,
         "bat_detail": {
           "recent_avg": 0.23,
           "runs_per_g": 4.0,
           "hr_per_g": 1.2,
           "bb_per_g": 3.0,
           "season_ops": 0.697,
-          "season_slg": 0.364,
+          "season_slg": null,
           "season_avg": 0.23,
           "n_games": 9,
           "source": "prev_day",
@@ -699,14 +699,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.6,
-        "total": 61.7
+        "total": 58.9
       }
     },
     "scores": {
       "away_offense": 25.0,
       "away_defense": 59.2,
-      "home_offense": 35.0,
-      "home_defense": 73.5
+      "home_offense": 27.1,
+      "home_defense": 72.0
     },
     "actual_score": {
       "away": 3,
@@ -731,7 +731,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 2.4pt (≤5.0pt) / 최고 확률 61.0% (≤62.0%)",
+    "low_confidence_reason": "SP 점수 차이 1.0pt (≤5.0pt) / 최고 확률 60.6% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -2086,7 +2086,7 @@ window.PREDICTIONS_DATA = [
             "Ben Rice(1.014)",
             "Heliot Ramos(0.760)",
             "Cody Bellinger(0.703)",
-            "George Lombard Jr.(0.798)",
+            "George Lombard(0.798)",
             "Amed Rosario(0.661)",
             "Anthony Volpe(0.640)",
             "Spencer Jones(0.607)",
@@ -2119,7 +2119,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 806146,
-              "name": "George Lombard Jr.",
+              "name": "George Lombard",
               "ops": 0.798,
               "avg": 0.286
             },

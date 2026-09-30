@@ -2134,7 +2134,7 @@ window.PREDICTIONS_DATA = [
             "Ben Rice(1.014)",
             "Heliot Ramos(0.760)",
             "Cody Bellinger(0.703)",
-            "George Lombard Jr.(0.798)",
+            "George Lombard(0.798)",
             "Amed Rosario(0.661)",
             "Anthony Volpe(0.640)",
             "Spencer Jones(0.607)",
@@ -2167,7 +2167,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 806146,
-              "name": "George Lombard Jr.",
+              "name": "George Lombard",
               "ops": 0.798,
               "avg": 0.286
             },
