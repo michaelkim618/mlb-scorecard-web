@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-30T05:45:28.116717+00:00",
+  "updated_at": "2026-09-30T06:30:03.314702+00:00",
   "news": [
+    {
+      "title": "Avocado toast in the morning, grand slams at night: Routine key for Rice",
+      "link": "https://www.mlb.com/news/ben-rice-hits-grand-slam-game-1-al-wild-card-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wqhgvqstnwjqjteyddzo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-30T05:53:17+00:00",
+      "time_ago": "36m ago"
+    },
+    {
+      "title": "Anthony's status uncertain with right hand/wrist discomfort",
+      "link": "https://www.mlb.com/news/roman-anthony-right-hand-wrist-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gkv7mnev5qqv59v02d0d",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-30T05:45:37+00:00",
+      "time_ago": "44m ago"
+    },
     {
       "title": "Ranking comeback chances of the four teams that lost Game 1",
       "link": "https://www.mlb.com/news/which-wild-card-game-1-losing-team-has-best-chance-of-comeback",
@@ -12,7 +38,7 @@
       "tag": "Rankings",
       "tag_color": "#4F46E5",
       "pub_date": "2026-09-30T05:31:21+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "How good was Schlittler this time? 7 wild stats from his start",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T05:29:13+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yanks ride Massachusetts natives Schlittler, Rice to Game 1 win over Sox",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T05:27:00+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "King, dingers power Padres in G1 rout at frenzied Petco",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T05:23:00+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Statement made: Musgrove's first appearance since '24 seals Padres' Game 1 win",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T05:20:00+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'Locked-in' Lombard makes more history with 3-hit postseason debut",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T05:16:53+00:00",
-      "time_ago": "28m ago"
-    },
-    {
-      "title": "Tatis, Machado lead electric offense in Padres' Wild Card Series opening win",
-      "link": "https://www.mlb.com/news/fernando-tatis-jr-manny-machado-homer-in-1st-inning-of-wild-card-series-game-1",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790736030/mlb/bsu7mnekhrrvquy7orqt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Cole Bradley",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-30T04:57:00+00:00",
-      "time_ago": "48m ago"
-    },
-    {
-      "title": "Emptying the tank: Taylor puts out fire with career-long outing in Game 1",
-      "link": "https://www.mlb.com/news/grant-taylor-hagen-smith-step-up-in-white-sox-al-wild-card-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/faqukqgknz2ujdjpridi",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-30T03:57:00+00:00",
       "time_ago": "1h ago"
     }
   ]
