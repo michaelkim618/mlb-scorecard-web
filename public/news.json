@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-30T00:01:00.737957+00:00",
+  "updated_at": "2026-09-30T00:36:40.214631+00:00",
   "news": [
+    {
+      "title": "Bullpen game struggles put Astros in must-win position for ALWC G2",
+      "link": "https://www.mlb.com/news/astros-lose-al-wild-card-game-1-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790726207/mlb/bxbm0qozgeyftlxncali",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-30T00:31:12+00:00",
+      "time_ago": "5m ago"
+    },
+    {
+      "title": "White Sox make it look easy in Game 1 win over AL West champs",
+      "link": "https://www.mlb.com/news/white-sox-win-al-wild-card-game-1-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ev6pw2a4jphrcoqkgfyr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-30T00:29:36+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Sale shakes off postseason woes, fans Harper with triple-digit heat",
+      "link": "https://www.mlb.com/news/chris-sale-starts-braves-nl-wild-card-game-1-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790727147/mlb/hroytoohkyjse37dbexk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-30T00:18:46+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Red Sox-Yankees AL Wild Card Series Game 1: LIVE on NBC, Peacock",
+      "link": "https://www.mlb.com/news/red-sox-vs-yankees-wild-card-series-starting-lineups-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/n1ubsqejcfqivumkgx5k",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne and Bryan Hoch",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-30T00:00:00+00:00",
+      "time_ago": "36m ago"
+    },
+    {
+      "title": "Pivetta tabbed to start Game 2 after missing most of 2026 with right elbow injury",
+      "link": "https://www.mlb.com/news/nick-pivetta-to-start-game-2-of-nl-wild-card-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sg0stbx7jbyfint0chiu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Cole Bradley",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-29T23:57:34+00:00",
+      "time_ago": "39m ago"
+    },
     {
       "title": "Riley flips Game 1 with 8th-inning blast on 99.9 mph pitch from Phillies' closer",
       "link": "https://www.mlb.com/news/braves-win-nl-wild-card-series-game-1-2026",
@@ -12,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-29T23:50:00+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "46m ago"
     },
     {
       "title": "3-time All-Star Hendriks retires after 14-year MLB career",
@@ -25,7 +90,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-09-29T23:40:56+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "Bregman will DH in Game 1 as Cubs play it safe to start",
@@ -38,72 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-29T23:31:00+00:00",
-      "time_ago": "30m ago"
-    },
-    {
-      "title": "Crochet 'will go until they take the ball from me' for Red Sox in Wild Card Series",
-      "link": "https://www.mlb.com/news/garrett-crochet-al-wild-card-series-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hxu7nuz1ciwvdmz58gn1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-29T23:28:00+00:00",
-      "time_ago": "33m ago"
-    },
-    {
-      "title": "4 big takeaways from the Phillies-Braves back-and-forth WC opener",
-      "link": "https://www.mlb.com/news/key-takeaways-from-braves-win-over-phillies-in-game-1-of-nl-wild-card-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fldp4lnza1xhrcopuvhn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-29T23:17:00+00:00",
-      "time_ago": "44m ago"
-    },
-    {
-      "title": "Brewers notes: NLDS probables, roster decisions and more",
-      "link": "https://www.mlb.com/news/pat-murphy-still-figuring-out-nlds-roster-during-bye-week",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lgjfzskajw3nax38pyir",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-09-29T23:13:34+00:00",
-      "time_ago": "47m ago"
-    },
-    {
-      "title": "Phillies need a Game 2 stopper -- and rock-solid Sánchez is just the guy for the job",
-      "link": "https://www.mlb.com/news/cristopher-sanchez-phillies-starter-2026-nl-wild-card-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y1vh8jxvsn7mocrwh18j",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-29T23:10:54+00:00",
-      "time_ago": "50m ago"
-    },
-    {
-      "title": "Musgrove (who last pitched in '24) a surprise add to Padres' Wild Card Series roster",
-      "link": "https://www.mlb.com/news/padres-2026-nl-wild-card-series-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xz4hpnnxt9jmfrrlcluv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-29T23:07:00+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
