@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-30T20:13:47.849660+00:00",
+  "updated_at": "2026-09-30T20:25:04.400855+00:00",
   "news": [
+    {
+      "title": "White Sox-Astros AL Wild Card Series Game 2 FAQ, lineups (5 ET, Peacock/NBCSN)",
+      "link": "https://www.mlb.com/news/white-sox-vs-astros-al-wild-card-series-game-2-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bnwq1pucqjqhp1g55rma",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin and Brian McTaggart",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-30T20:13:00+00:00",
+      "time_ago": "12m ago"
+    },
     {
       "title": "'The standard' Rasmussen will set the table for Rays in Game 1 of ALDS",
       "link": "https://www.mlb.com/news/drew-rasmussen-will-start-for-rays-in-alds-game-1",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T20:06:24+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "18m ago"
     },
     {
       "title": "Espada says he understands fans' frustrations after Game 1 boos",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T19:55:43+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "29m ago"
     },
     {
       "title": "LIVE: Phils, Braves setting up dramatic finish to Game 2 (NBC, Peacock)",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T19:44:18+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "40m ago"
     },
     {
       "title": "Anthony out of Game 2 lineup with right hand/wrist discomfort",
@@ -51,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-09-30T19:42:00+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Red Sox-Yankees AL Wild Card Series Game 2 FAQ, lineups (8 ET, NBC/Peacock)",
@@ -64,7 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-30T19:41:00+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "44m ago"
     },
     {
       "title": "How to watch the 2026 Wild Card Series on NBC and Peacock",
@@ -77,19 +90,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-30T17:58:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "White Sox-Astros AL Wild Card Series Game 2 FAQ, lineups (5 ET, Peacock/NBCSN)",
-      "link": "https://www.mlb.com/news/white-sox-vs-astros-al-wild-card-series-game-2-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bnwq1pucqjqhp1g55rma",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin and Brian McTaggart",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-30T17:46:00+00:00",
       "time_ago": "2h ago"
     },
     {
