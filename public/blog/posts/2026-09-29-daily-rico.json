@@ -1,0 +1,140 @@
+{
+  "title": "Sep 29 Results + Sep 30 Preview: Three Wins and I'll Die on the Astros Hill",
+  "summary": "75% hit rate on Sep 29, but let's talk about that Astros loss—and why the Braves are it again.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Let Me Be Honest: We Crushed It (Mostly)\n\nLook, I'm not here to sugarcoat anything. We went 3-1 yesterday and I'm supposed to do a victory lap? Please. That one loss—the Astros debacle—is eating at me more than the three wins are satisfying me. But that's what separates the drama critics from the cheerleaders: we don't celebrate mediocrity, even when it's technically success."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Sep 29 Record",
+          "value": "3-1"
+        },
+        {
+          "label": "Hit Rate",
+          "value": "75.0%"
+        },
+        {
+          "label": "Best Call",
+          "value": "Padres 63%"
+        },
+        {
+          "label": "The Stinker",
+          "value": "Astros 50%"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Good, The Bad, and The Astros\n\nThe Braves? **Hit.** The Yankees? **Hit.** The Padres? **Chef's kiss, hit.** But the Astros at a coin-flip 50% confidence? That's where we stumbled. And you know what? I'm not even mad about picking them. I'm mad we only had 50% confidence and still rolled with it. That's the kind of wishy-washy nonsense that makes me want to throw my keyboard through a window.\n\nBut here's the controversial take: **the model was right to be uncertain.** Sometimes the juice isn't worth the squeeze, and a 50% pick is basically the algorithm saying 'I have no idea, flip a coin.' We should've passed. We didn't. Lesson learned."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Sep 29 Performance Breakdown",
+      "data": [
+        {
+          "name": "Braves",
+          "probability": 61,
+          "result": 1
+        },
+        {
+          "name": "Astros",
+          "probability": 50,
+          "result": 0
+        },
+        {
+          "name": "Yankees",
+          "probability": 56,
+          "result": 1
+        },
+        {
+          "name": "Padres",
+          "probability": 63,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Sep 29 Complete Results Card",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Phillies @ Braves",
+          "Braves",
+          "61%",
+          "✓ Hit"
+        ],
+        [
+          "Sox @ Astros",
+          "Astros",
+          "50%",
+          "✗ Miss"
+        ],
+        [
+          "Sox @ Yankees",
+          "Yankees",
+          "56%",
+          "✓ Hit"
+        ],
+        [
+          "Cubs @ Padres",
+          "Padres",
+          "63%",
+          "✓ Hit"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Move: Back to the Atlanta Well\n\nSo what's the play for September 30? We're going right back to the **Atlanta Braves**. Same matchup, same energy, same 61% confidence. Phillies at Braves, round two.\n\nCristopher Sánchez on the mound for Philly, Tyler Mahle for Atlanta. And here's my hot take that'll get me crucified: **Sánchez is overrated in big spots.** The guy's solid, sure, but Mahle at home with the Braves' lineup behind him? That's the recipe. Atlanta showed us yesterday they can handle this Phillies squad, and nothing changes overnight in baseball."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Sep 30 Top Pick",
+      "value": "Atlanta Braves over Philadelphia Phillies",
+      "sub": "61% win probability • Mahle vs Sánchez • Trust the home team again"
+    },
+    {
+      "type": "text",
+      "value": "## The Blunt Truth About Running It Back\n\nSome of you are thinking: 'Rico, why the same pick? Where's the creativity?' And to that I say: **this isn't creative writing class, it's winning.** The model likes the Braves again at the same number. The fundamentals haven't changed. The pitcher matchup still favors Atlanta. Why would we get cute just for the sake of variety?\n\nIf you're looking for hot takes, here's one: **betting against teams on back-to-back days just because 'they can't win both' is amateur hour.** That's gambler's fallacy dressed up as strategy. The Braves are the better team in this matchup today, and they'll be the better team tomorrow. It's that simple.\n\nWe ride with Atlanta. Again. And if it misses? I'll own it. But I'm not changing horses mid-stream because some people need their picks to be 'exciting.' Winning is exciting enough for me."
+    },
+    {
+      "type": "text",
+      "value": "## Bottom Line\n\n75% yesterday, one pick that haunts me, and tomorrow we're doubling down on what worked. The Braves delivered on Sep 29, and they'll deliver on Sep 30. Bet on it—or don't. But don't come crying when Atlanta cashes again and you were too scared to play the obvious.\n\n**Rico out.** ✌️"
+    }
+  ],
+  "slug": "2026-09-29-daily-rico",
+  "author": "Rico",
+  "author_emoji": "🎭",
+  "author_role": "Drama Critic",
+  "author_color": "#DC2626",
+  "date": "2026-09-29",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#DC2626"
+}

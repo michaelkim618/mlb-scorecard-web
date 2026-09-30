@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-09-29-daily-rico",
+      "title": "Sep 29 Results + Sep 30 Preview: Three Wins and I'll Die on the Astros Hill",
+      "author": "Rico",
+      "author_emoji": "🎭",
+      "author_color": "#DC2626",
+      "author_role": "Drama Critic",
+      "date": "2026-09-29",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#DC2626",
+      "read_time": "3 min",
+      "summary": "75% hit rate on Sep 29, but let's talk about that Astros loss—and why the Braves are it again."
+    },
+    {
       "slug": "2026-09-28-daily-stan",
       "title": "Sep 29 Preview: The Numbers Point to October Baseball",
       "author": "Stan",
