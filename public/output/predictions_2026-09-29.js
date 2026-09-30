@@ -567,7 +567,7 @@ window.PREDICTIONS_DATA = [
             {
               "code": "FF",
               "abbr": "FB",
-              "pct": 41.3,
+              "pct": 41.4,
               "velo": 96.1
             },
             {
@@ -585,7 +585,7 @@ window.PREDICTIONS_DATA = [
             {
               "code": "SI",
               "abbr": "SI",
-              "pct": 8.5,
+              "pct": 8.4,
               "velo": 95.6
             }
           ]
@@ -617,10 +617,10 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Drake Baldwin(0.883)",
-            "Ronald Acuña Jr.(0.793)",
+            "Ronald Acuña(0.793)",
             "Matt Olson(0.786)",
             "Mauricio Dubón(0.837)",
-            "Michael Harris II(0.835)",
+            "Michael Harris(0.835)",
             "Ozzie Albies(0.481)",
             "Austin Riley(0.609)",
             "Mike Yastrzemski(0.670)",
@@ -635,7 +635,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 660670,
-              "name": "Ronald Acuña Jr.",
+              "name": "Ronald Acuña",
               "ops": 0.793,
               "avg": 0.231
             },
@@ -653,7 +653,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671739,
-              "name": "Michael Harris II",
+              "name": "Michael Harris",
               "ops": 0.835,
               "avg": 0.325
             },
@@ -2086,7 +2086,7 @@ window.PREDICTIONS_DATA = [
             "Ben Rice(1.014)",
             "Heliot Ramos(0.760)",
             "Cody Bellinger(0.703)",
-            "George Lombard Jr.(0.798)",
+            "George Lombard(0.798)",
             "Amed Rosario(0.661)",
             "Anthony Volpe(0.640)",
             "Spencer Jones(0.607)",
@@ -2119,7 +2119,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 806146,
-              "name": "George Lombard Jr.",
+              "name": "George Lombard",
               "ops": 0.798,
               "avg": 0.286
             },
@@ -2829,7 +2829,7 @@ window.PREDICTIONS_DATA = [
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis Jr.(0.869)",
+            "Fernando Tatis(0.869)",
             "Samad Taylor(0.871)",
             "Manny Machado(0.613)",
             "Ty France(0.829)",
@@ -2842,7 +2842,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis Jr.",
+              "name": "Fernando Tatis",
               "ops": 0.869,
               "avg": 0.308
             },
