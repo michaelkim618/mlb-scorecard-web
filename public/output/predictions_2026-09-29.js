@@ -337,12 +337,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 39.0,
-      "home": 61.0
+      "away": 39.4,
+      "home": 60.6
     },
     "expected_score": {
       "away": 1.4,
-      "home": 2.3
+      "home": 1.8
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -438,7 +438,7 @@ window.PREDICTIONS_DATA = [
           "hr_per_g": 0.5,
           "bb_per_g": 3.0,
           "season_ops": 0.717,
-          "season_slg": 0.336,
+          "season_slg": null,
           "season_avg": 0.224,
           "n_games": 9,
           "source": "prev_day",
@@ -531,7 +531,7 @@ window.PREDICTIONS_DATA = [
         "total": 51.9
       },
       "home": {
-        "sp_score": 72.0,
+        "sp_score": 70.6,
         "sp_detail": {
           "era": 2.09,
           "whip": 0.79,
@@ -590,7 +590,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 75.0,
+        "bp_score": 73.5,
         "bp_detail": {
           "bullpen_era": 2.69,
           "recent_era": 2.79,
@@ -602,14 +602,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.55,
           "closer_name": "Raisel Iglesias"
         },
-        "bat_score": 35.0,
+        "bat_score": 27.1,
         "bat_detail": {
           "recent_avg": 0.23,
           "runs_per_g": 4.0,
           "hr_per_g": 1.2,
           "bb_per_g": 3.0,
           "season_ops": 0.697,
-          "season_slg": 0.364,
+          "season_slg": null,
           "season_avg": 0.23,
           "n_games": 9,
           "source": "prev_day",
@@ -617,10 +617,10 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Drake Baldwin(0.883)",
-            "Ronald Acuña Jr.(0.793)",
+            "Ronald Acuña(0.793)",
             "Matt Olson(0.786)",
             "Mauricio Dubón(0.837)",
-            "Michael Harris II(0.835)",
+            "Michael Harris(0.835)",
             "Ozzie Albies(0.481)",
             "Austin Riley(0.609)",
             "Mike Yastrzemski(0.670)",
@@ -635,7 +635,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 660670,
-              "name": "Ronald Acuña Jr.",
+              "name": "Ronald Acuña",
               "ops": 0.793,
               "avg": 0.231
             },
@@ -653,7 +653,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671739,
-              "name": "Michael Harris II",
+              "name": "Michael Harris",
               "ops": 0.835,
               "avg": 0.325
             },
@@ -699,14 +699,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.6,
-        "total": 61.7
+        "total": 58.9
       }
     },
     "scores": {
       "away_offense": 25.0,
       "away_defense": 59.2,
-      "home_offense": 35.0,
-      "home_defense": 73.5
+      "home_offense": 27.1,
+      "home_defense": 72.0
     },
     "actual_score": {
       "away": 3,
@@ -731,7 +731,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 2.4pt (≤5.0pt) / 최고 확률 61.0% (≤62.0%)",
+    "low_confidence_reason": "SP 점수 차이 1.0pt (≤5.0pt) / 최고 확률 60.6% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -1075,12 +1075,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 50.0,
-      "home": 50.0
+      "away": 50.9,
+      "home": 49.1
     },
     "expected_score": {
-      "away": 3.0,
-      "home": 4.4
+      "away": 3.2,
+      "home": 4.0
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -1161,14 +1161,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.25,
           "closer_name": "Grant Taylor"
         },
-        "bat_score": 44.5,
+        "bat_score": 46.7,
         "bat_detail": {
           "recent_avg": 0.257,
           "runs_per_g": 6.5,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
           "season_ops": 0.737,
-          "season_slg": 0.379,
+          "season_slg": null,
           "season_avg": 0.257,
           "n_games": 9,
           "source": "prev_day",
@@ -1258,7 +1258,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 56.3,
-        "total": 59.6
+        "total": 60.1
       },
       "home": {
         "sp_score": 18.0,
@@ -1332,14 +1332,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.01,
           "closer_name": "Josh Hader"
         },
-        "bat_score": 62.3,
+        "bat_score": 56.400000000000006,
         "bat_detail": {
           "recent_avg": 0.27,
           "runs_per_g": 5.9,
           "hr_per_g": 2.5,
           "bb_per_g": 3.0,
           "season_ops": 0.836,
-          "season_slg": 0.459,
+          "season_slg": null,
           "season_avg": 0.27,
           "n_games": 9,
           "source": "prev_day",
@@ -1429,13 +1429,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.0,
-        "total": 49.4
+        "total": 47.9
       }
     },
     "scores": {
-      "away_offense": 44.5,
+      "away_offense": 46.7,
       "away_defense": 50.0,
-      "home_offense": 62.3,
+      "home_offense": 56.400000000000006,
       "home_defense": 49.1
     },
     "actual_score": {
@@ -1450,8 +1450,8 @@ window.PREDICTIONS_DATA = [
       "any": false
     },
     "actual_winner": "Chicago White Sox",
-    "model_winner": "Houston Astros",
-    "model_correct": false,
+    "model_winner": "Chicago White Sox",
+    "model_correct": true,
     "notes": "Chicago White Sox IL: Brooks Baldwin, Jordan Leasure, Ky Bush, Luis Castillo, Mike Vasil 외 다수 / Houston Astros IL: Brandon Walter, Brice Matthews, Carlos Correa, Cristian Javier, Daulton Varsho 외 다수",
     "kalshi_prob": null,
     "edge": null,
@@ -1461,7 +1461,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 50.0% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 50.9% (≤62.0%)",
     "opener_game": {
       "away": true,
       "home": true
@@ -1805,12 +1805,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 43.7,
-      "home": 56.3
+      "away": 43.5,
+      "home": 56.5
     },
     "expected_score": {
       "away": 1.4,
-      "home": 2.3
+      "home": 2.4
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -1905,7 +1905,7 @@ window.PREDICTIONS_DATA = [
           "hr_per_g": 0.6,
           "bb_per_g": 3.0,
           "season_ops": 0.68,
-          "season_slg": 0.332,
+          "season_slg": null,
           "season_avg": 0.224,
           "n_games": 9,
           "source": "prev_day",
@@ -2068,14 +2068,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.47,
           "closer_name": "David Bednar"
         },
-        "bat_score": 38.1,
+        "bat_score": 38.8,
         "bat_detail": {
           "recent_avg": 0.25,
           "runs_per_g": 4.6,
           "hr_per_g": 1.4,
           "bb_per_g": 3.0,
           "season_ops": 0.754,
-          "season_slg": 0.393,
+          "season_slg": null,
           "season_avg": 0.25,
           "n_games": 9,
           "source": "prev_day",
@@ -2086,7 +2086,7 @@ window.PREDICTIONS_DATA = [
             "Ben Rice(1.014)",
             "Heliot Ramos(0.760)",
             "Cody Bellinger(0.703)",
-            "George Lombard Jr.(0.798)",
+            "George Lombard(0.798)",
             "Amed Rosario(0.661)",
             "Anthony Volpe(0.640)",
             "Spencer Jones(0.607)",
@@ -2119,7 +2119,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 806146,
-              "name": "George Lombard Jr.",
+              "name": "George Lombard",
               "ops": 0.798,
               "avg": 0.286
             },
@@ -2165,13 +2165,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.6,
-        "total": 62.5
+        "total": 62.7
       }
     },
     "scores": {
       "away_offense": 25.0,
       "away_defense": 71.0,
-      "home_offense": 38.1,
+      "home_offense": 38.8,
       "home_defense": 73.5
     },
     "actual_score": {
@@ -2197,7 +2197,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 2.4pt (≤5.0pt) / 최고 확률 56.3% (≤62.0%)",
+    "low_confidence_reason": "SP 점수 차이 2.4pt (≤5.0pt) / 최고 확률 56.5% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -2545,8 +2545,8 @@ window.PREDICTIONS_DATA = [
       "home": 63.0
     },
     "expected_score": {
-      "away": 1.9,
-      "home": 4.0
+      "away": 2.0,
+      "home": 3.4
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -2558,9 +2558,9 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": false,
       "any_cold_sp": false,
       "eff_weights": {
-        "sp": 0.23,
+        "sp": 0.26,
         "bp": 0.24,
-        "bat": 0.38,
+        "bat": 0.35,
         "sit": 0.15
       },
       "away": {
@@ -2636,14 +2636,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 3.36,
           "closer_name": "Jacob Webb"
         },
-        "bat_score": 31.299999999999997,
+        "bat_score": 31.9,
         "bat_detail": {
           "recent_avg": 0.247,
           "runs_per_g": 4.1,
           "hr_per_g": 1.2,
           "bb_per_g": 3.0,
           "season_ops": 0.746,
-          "season_slg": 0.394,
+          "season_slg": null,
           "season_avg": 0.247,
           "n_games": 9,
           "source": "prev_day",
@@ -2733,7 +2733,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 56.7,
-        "total": 44.1
+        "total": 44.9
       },
       "home": {
         "sp_score": 49.7,
@@ -2815,21 +2815,21 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.67,
           "closer_name": "Mason Miller"
         },
-        "bat_score": 58.0,
+        "bat_score": 50.2,
         "bat_detail": {
           "recent_avg": 0.309,
           "runs_per_g": 6.3,
           "hr_per_g": 1.2,
           "bb_per_g": 3.0,
           "season_ops": 0.812,
-          "season_slg": 0.478,
+          "season_slg": null,
           "season_avg": 0.309,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis Jr.(0.869)",
+            "Fernando Tatis(0.869)",
             "Samad Taylor(0.871)",
             "Manny Machado(0.613)",
             "Ty France(0.829)",
@@ -2842,7 +2842,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis Jr.",
+              "name": "Fernando Tatis",
               "ops": 0.869,
               "avg": 0.308
             },
@@ -2912,13 +2912,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.2,
-        "total": 60.5
+        "total": 57.5
       }
     },
     "scores": {
-      "away_offense": 31.299999999999997,
+      "away_offense": 31.9,
       "away_defense": 55.0,
-      "home_offense": 58.0,
+      "home_offense": 50.2,
       "home_defense": 62.4
     },
     "actual_score": {
