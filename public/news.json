@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-30T17:43:32.256121+00:00",
+  "updated_at": "2026-09-30T18:19:50.968089+00:00",
   "news": [
+    {
+      "title": "How to watch the 2026 Wild Card Series on NBC and Peacock",
+      "link": "https://www.mlb.com/news/mlb-2026-wild-card-series-airing-on-nbc-and-peacock",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/r9vhraq5wvdpr9hgoyqs",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-30T17:58:00+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "LIVE: Phillies-Braves NL Wild Card Series Game 2 on NBC/Peacock",
+      "link": "https://www.mlb.com/news/phillies-vs-braves-nl-wild-card-series-game-2-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mief1hn155mtalyxq1qu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman, Todd Zolecki, Paul Casella",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-30T17:49:00+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "White Sox-Astros AL Wild Card Series Game 2 FAQ, lineups (5 ET, Peacock/NBCSN)",
+      "link": "https://www.mlb.com/news/white-sox-vs-astros-al-wild-card-series-game-2-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bnwq1pucqjqhp1g55rma",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin and Brian McTaggart",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-30T17:46:00+00:00",
+      "time_ago": "33m ago"
+    },
     {
       "title": "Ranking comeback chances of the four teams that lost Game 1",
       "link": "https://www.mlb.com/news/which-wild-card-game-1-losing-team-has-best-chance-of-comeback",
@@ -12,19 +51,6 @@
       "tag": "Rankings",
       "tag_color": "#4F46E5",
       "pub_date": "2026-09-30T15:55:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Phillies-Braves NL Wild Card Series Game 2 FAQ, lineups (2 ET, NBC/Peacock)",
-      "link": "https://www.mlb.com/news/phillies-vs-braves-nl-wild-card-series-game-2-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mief1hn155mtalyxq1qu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman, Todd Zolecki, Paul Casella",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-30T15:37:00+00:00",
       "time_ago": "2h ago"
     },
     {
@@ -51,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-30T14:51:38+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Top storyline for each Wild Card Series Game 2",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T13:46:11+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Cubs-Padres NL Wild Card Series Game 2 FAQ (10 ET, Peacock/NBCSN)",
-      "link": "https://www.mlb.com/news/cubs-vs-padres-nl-wild-card-series-game-2-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vhbmtmeitrfbgumyw7ai",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-30T08:31:27+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "King, dingers power Padres in G1 rout at frenzied Petco",
-      "link": "https://www.mlb.com/news/padres-win-nl-wild-card-game-1-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/z9iqne9xwwtcmlyh0kok",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-30T07:53:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
