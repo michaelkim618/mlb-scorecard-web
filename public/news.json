@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-30T00:36:40.214631+00:00",
+  "updated_at": "2026-09-30T00:51:45.448959+00:00",
   "news": [
+    {
+      "title": "Phillies need a Game 2 stopper -- and rock-solid Sánchez is just the guy for the job",
+      "link": "https://www.mlb.com/news/cristopher-sanchez-phillies-starter-2026-nl-wild-card-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y1vh8jxvsn7mocrwh18j",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-30T00:45:00+00:00",
+      "time_ago": "6m ago"
+    },
+    {
+      "title": "Riley flips Game 1 with 8th-inning blast on 99.9 mph pitch from Phillies' closer",
+      "link": "https://www.mlb.com/news/braves-win-nl-wild-card-series-game-1-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790715640/mlb/peuhtqjna8qvyozidt9d",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-09-30T00:40:00+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Phillies-Braves NL Wild Card Series Game 2 FAQ (Wed., 2 ET, NBC/Peacock)",
+      "link": "https://www.mlb.com/news/phillies-vs-braves-nl-wild-card-series-game-2-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mief1hn155mtalyxq1qu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman, Todd Zolecki, Paul Casella",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-30T00:38:25+00:00",
+      "time_ago": "13m ago"
+    },
     {
       "title": "Bullpen game struggles put Astros in must-win position for ALWC G2",
       "link": "https://www.mlb.com/news/astros-lose-al-wild-card-game-1-2026",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T00:31:12+00:00",
-      "time_ago": "5m ago"
+      "time_ago": "20m ago"
     },
     {
       "title": "White Sox make it look easy in Game 1 win over AL West champs",
@@ -25,7 +64,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T00:29:36+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "Luzardo blows past opener label in first start since injury",
+      "link": "https://www.mlb.com/news/jesus-luzardo-starts-for-phillies-in-wild-card-series-game-1",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tbeniic4kca5qmb8tfet",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-30T00:29:00+00:00",
+      "time_ago": "22m ago"
     },
     {
       "title": "Sale shakes off postseason woes, fans Harper with triple-digit heat",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T00:18:46+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "32m ago"
     },
     {
       "title": "Red Sox-Yankees AL Wild Card Series Game 1: LIVE on NBC, Peacock",
@@ -51,59 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-30T00:00:00+00:00",
-      "time_ago": "36m ago"
-    },
-    {
-      "title": "Pivetta tabbed to start Game 2 after missing most of 2026 with right elbow injury",
-      "link": "https://www.mlb.com/news/nick-pivetta-to-start-game-2-of-nl-wild-card-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sg0stbx7jbyfint0chiu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Cole Bradley",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-29T23:57:34+00:00",
-      "time_ago": "39m ago"
-    },
-    {
-      "title": "Riley flips Game 1 with 8th-inning blast on 99.9 mph pitch from Phillies' closer",
-      "link": "https://www.mlb.com/news/braves-win-nl-wild-card-series-game-1-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790715640/mlb/peuhtqjna8qvyozidt9d",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-29T23:50:00+00:00",
-      "time_ago": "46m ago"
-    },
-    {
-      "title": "3-time All-Star Hendriks retires after 14-year MLB career",
-      "link": "https://www.mlb.com/news/liam-hendriks-retires-from-mlb-after-14-seasons",
-      "summary": "Fiery Australian was 2-time AL Reliever of the Year, 7-time Roberto Clemente nominee, '23 AL Comeback Player of the Year",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790723854/mlb/sczmtyu1ezr6silp6i7y",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brent Maguire",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-09-29T23:40:56+00:00",
-      "time_ago": "55m ago"
-    },
-    {
-      "title": "Bregman will DH in Game 1 as Cubs play it safe to start",
-      "link": "https://www.mlb.com/news/cubs-2026-nl-wild-card-series-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nzpug0u6rchtv2a8umbw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-29T23:31:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "51m ago"
     }
   ]
 }
