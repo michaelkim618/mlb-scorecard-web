@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-01T00:38:29.475081+00:00",
+  "updated_at": "2026-10-01T00:54:36.458365+00:00",
   "news": [
+    {
+      "title": "Bullpen stung by long ball after Mahle's strong playoff debut",
+      "link": "https://www.mlb.com/news/braves-lose-nl-wild-card-game-2-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790811037/mlb/u8v9wkaifwk6pgcwslci",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-01T00:35:00+00:00",
+      "time_ago": "19m ago"
+    },
     {
       "title": "After clawing way to AL West title, Astros' postseason ends with ALWC sweep",
       "link": "https://www.mlb.com/news/astros-lose-2026-al-wild-card-series",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T00:25:59+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "28m ago"
     },
     {
       "title": "What you need to know about the Division Series matchups",
@@ -25,7 +38,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-01T00:22:53+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "31m ago"
     },
     {
       "title": "White Sox sweep Astros once more to claim 1st playoff series win since 2005 WS",
@@ -38,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-01T00:21:26+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "33m ago"
     },
     {
       "title": "With 28th postseason HR, Altuve now 1 shy of all-time record",
@@ -51,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-01T00:18:00+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "36m ago"
     },
     {
       "title": "'Never a doubt': Resilient Phils force Game 3 on three dramatic swings",
@@ -64,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-01T00:09:00+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "Red Sox-Yankees AL Wild Card Series Game 2: LIVE on NBC, Peacock",
@@ -77,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-01T00:00:00+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "1st playoff win? In postseason debut? From the 'pen? Painter's day proves pivotal for Phils",
@@ -90,20 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-30T23:56:00+00:00",
-      "time_ago": "42m ago"
-    },
-    {
-      "title": "Sosa hopeful for decisive Game 3 after exiting late with right leg injury",
-      "link": "https://www.mlb.com/news/edmundo-sosa-exits-nl-wild-card-series-game-2-with-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rxhbmlujchfjhtba7jez",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-30T23:44:00+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "58m ago"
     }
   ]
 }

@@ -2086,7 +2086,7 @@ window.PREDICTIONS_DATA = [
             "Ben Rice(1.014)",
             "Heliot Ramos(0.760)",
             "Cody Bellinger(0.703)",
-            "George Lombard(0.798)",
+            "George Lombard Jr.(0.798)",
             "Amed Rosario(0.661)",
             "Anthony Volpe(0.640)",
             "Spencer Jones(0.607)",
@@ -2119,7 +2119,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 806146,
-              "name": "George Lombard",
+              "name": "George Lombard Jr.",
               "ops": 0.798,
               "avg": 0.286
             },
@@ -2829,7 +2829,7 @@ window.PREDICTIONS_DATA = [
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis Jr.(0.869)",
+            "Fernando Tatis(0.869)",
             "Samad Taylor(0.871)",
             "Manny Machado(0.613)",
             "Ty France(0.829)",
@@ -2842,7 +2842,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis Jr.",
+              "name": "Fernando Tatis",
               "ops": 0.869,
               "avg": 0.308
             },
