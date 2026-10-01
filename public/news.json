@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-01T07:03:35.133498+00:00",
+  "updated_at": "2026-10-01T07:34:35.883342+00:00",
   "news": [
+    {
+      "title": "Padres get revenge with commanding sweep of Cubs in Wild Card Series",
+      "link": "https://www.mlb.com/news/padres-win-nl-wild-card-series-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uvlee1qvzh2naiafj6h6",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-01T07:16:00+00:00",
+      "time_ago": "18m ago"
+    },
     {
       "title": "Gray frustrated by hook, wanted Tracy to 'live or die with me'",
       "link": "https://www.mlb.com/news/sonny-gray-reacts-to-being-pulled-in-al-wild-card-series-game-2-2026",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T06:18:47+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Fried's gem sends Yanks to ALDS confident they can lean on rotation",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T06:05:07+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "After dad's first pitch, Bellinger lights up Bronx with huge night",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T05:32:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Top Phils-Braves storylines for win-or-go-home Game 3",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T05:30:37+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Phillies vs. Braves NL Wild Card Series Game 3 FAQ (8 ET, NBC/Peacock)",
@@ -77,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-01T05:28:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Red Sox turned away by Yanks in Wild Card Series for 2nd straight year",
@@ -90,20 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-01T05:17:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Cubs' promising season comes to abrupt halt with Wild Card sweep by Padres",
-      "link": "https://www.mlb.com/news/cubs-lose-2026-nl-wild-card-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/upmpvwuz9srp511ytzhx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-01T05:11:03+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
