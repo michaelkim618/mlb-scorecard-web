@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-01T19:43:21.245991+00:00",
+  "updated_at": "2026-10-01T20:05:50.954940+00:00",
   "news": [
+    {
+      "title": "'Work to be done': Reds endeavor to recapture success on the field",
+      "link": "https://www.mlb.com/news/reds-ceo-phil-castellini-talks-reds-future",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/u6ulxeuy36t06zrdpceq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Sheldon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-01T19:36:26+00:00",
+      "time_ago": "29m ago"
+    },
     {
       "title": "Lovullo remains D-backs manager with new 2-year deal (source)",
       "link": "https://www.mlb.com/news/torey-lovullo-2-year-contract-to-manage-d-backs",
@@ -12,7 +25,33 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-10-01T19:26:22+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "39m ago"
+    },
+    {
+      "title": "Contreras cryptic when asked what changed for Red Sox in early playoff exit",
+      "link": "https://www.mlb.com/news/willson-contreras-discusses-al-wild-card-loss-red-sox",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yccrfzscd0xxeqdrry8k",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-01T19:21:04+00:00",
+      "time_ago": "44m ago"
+    },
+    {
+      "title": "How MLB is making ballparks more accessible for fans with disabilities",
+      "link": "https://www.mlb.com/news/mlb-commits-to-ballpark-accessibility-resources-for-fans",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/padelzaaqfp71tw1ravd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Perla Paredes",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-01T19:15:34+00:00",
+      "time_ago": "50m ago"
     },
     {
       "title": "Why Guardians' lineup looks more dangerous than in previous postseasons",
@@ -25,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-01T18:59:49+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Guards tab star rookie Messick, AL strikeout king Williams for ALDS Games 1-2",
@@ -65,45 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T16:23:00+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "Here are 3 keys to Phils-Braves Game 3",
-      "link": "https://www.mlb.com/news/top-storylines-for-phillies-braves-nl-wild-card-series-game-3",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f9pgfhi5tanxmdda2mk5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-01T16:05:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Phillies vs. Braves NL Wild Card Series Game 3 FAQ (8 ET, NBC/Peacock)",
-      "link": "https://www.mlb.com/news/phillies-vs-braves-nl-wild-card-series-game-3-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cekukhhiaq5qhgrxf0f7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman, Todd Zolecki, Paul Casella",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-01T15:55:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Nola to start for Phils in 'all hands on deck' Game 3 (source)",
-      "link": "https://www.mlb.com/news/phillies-discuss-pitching-plans-for-game-3-of-nl-wild-card-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tvccvmchgch8b4lxpm7v",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-01T14:29:00+00:00",
-      "time_ago": "5h ago"
     }
   ]
 }
