@@ -96,248 +96,237 @@
       "losses": 3,
       "streak": -1
     },
-    "away_pitcher": "Zack Wheeler (TBD)",
-    "away_pitcher_id": 554430,
+    "away_pitcher": "Aaron Nola",
+    "away_pitcher_id": 605400,
     "away_pitcher_stats": {
-      "wins": 14,
-      "losses": 5,
-      "era": "3.00"
+      "wins": 7,
+      "losses": 12,
+      "era": "4.67"
     },
     "away_pitcher_gamelog": [
       {
-        "date": "2026-08-07",
+        "date": "2026-08-08",
         "opp": "vs TOR",
-        "decision": "L",
-        "ip": "5.1",
-        "er": 4,
-        "h": 7,
-        "bb": 5,
-        "so": 6,
-        "era": 6.75
-      },
-      {
-        "date": "2026-08-12",
-        "opp": "@ STL",
-        "decision": "L",
-        "ip": "5.0",
-        "er": 4,
-        "h": 6,
-        "bb": 1,
-        "so": 5,
-        "era": 7.2
-      },
-      {
-        "date": "2026-08-18",
-        "opp": "vs MIA",
         "decision": null,
         "ip": "5.0",
         "er": 2,
-        "h": 2,
-        "bb": 4,
-        "so": 7,
+        "h": 6,
+        "bb": 2,
+        "so": 8,
         "era": 3.6
       },
       {
-        "date": "2026-08-24",
-        "opp": "@ SEA",
-        "decision": "L",
-        "ip": "4.0",
-        "er": 8,
-        "h": 9,
-        "bb": 5,
-        "so": 4,
-        "era": 18.0
-      },
-      {
-        "date": "2026-08-30",
-        "opp": "@ LAA",
+        "date": "2026-08-13",
+        "opp": "@ MIN",
         "decision": "W",
-        "ip": "6.0",
+        "ip": "5.0",
         "er": 1,
-        "h": 4,
+        "h": 5,
         "bb": 3,
-        "so": 6,
-        "era": 1.5
-      },
-      {
-        "date": "2026-09-05",
-        "opp": "vs ATL",
-        "decision": "W",
-        "ip": "6.0",
-        "er": 1,
-        "h": 3,
-        "bb": 2,
         "so": 9,
-        "era": 1.5
+        "era": 1.8
       },
       {
-        "date": "2026-09-10",
-        "opp": "vs HOU",
-        "decision": null,
-        "ip": "7.0",
-        "er": 1,
-        "h": 5,
-        "bb": 2,
-        "so": 9,
-        "era": 1.29
-      },
-      {
-        "date": "2026-09-16",
-        "opp": "@ WSH",
+        "date": "2026-08-19",
+        "opp": "vs MIA",
         "decision": "W",
         "ip": "7.0",
-        "er": 0,
-        "h": 4,
-        "bb": 1,
-        "so": 5,
-        "era": 0.0
-      },
-      {
-        "date": "2026-09-22",
-        "opp": "vs MIL",
-        "decision": null,
-        "ip": "5.2",
-        "er": 3,
-        "h": 5,
-        "bb": 1,
-        "so": 11,
-        "era": 4.76
-      },
-      {
-        "date": "2026-09-27",
-        "opp": "vs TB",
-        "decision": "W",
-        "ip": "6.0",
         "er": 1,
         "h": 5,
         "bb": 0,
+        "so": 8,
+        "era": 1.29
+      },
+      {
+        "date": "2026-08-25",
+        "opp": "@ SEA",
+        "decision": "L",
+        "ip": "6.0",
+        "er": 2,
+        "h": 3,
+        "bb": 3,
+        "so": 7,
+        "era": 3.0
+      },
+      {
+        "date": "2026-08-31",
+        "opp": "@ OAK",
+        "decision": "W",
+        "ip": "5.0",
+        "er": 1,
+        "h": 5,
+        "bb": 2,
+        "so": 4,
+        "era": 1.8
+      },
+      {
+        "date": "2026-09-06",
+        "opp": "vs ATL",
+        "decision": null,
+        "ip": "7.0",
+        "er": 1,
+        "h": 4,
+        "bb": 1,
         "so": 5,
-        "era": 1.5
+        "era": 1.29
+      },
+      {
+        "date": "2026-09-11",
+        "opp": "@ ATL",
+        "decision": null,
+        "ip": "6.1",
+        "er": 2,
+        "h": 6,
+        "bb": 3,
+        "so": 3,
+        "era": 2.84
+      },
+      {
+        "date": "2026-09-17",
+        "opp": "@ NYM",
+        "decision": "W",
+        "ip": "7.0",
+        "er": 0,
+        "h": 3,
+        "bb": 3,
+        "so": 4,
+        "era": 0.0
+      },
+      {
+        "date": "2026-09-23",
+        "opp": "vs MIL",
+        "decision": "L",
+        "ip": "6.0",
+        "er": 4,
+        "h": 4,
+        "bb": 1,
+        "so": 8,
+        "era": 6.0
+      },
+      {
+        "date": "2026-09-26",
+        "opp": "vs TB",
+        "decision": "L",
+        "ip": "1.0",
+        "er": 3,
+        "h": 4,
+        "bb": 0,
+        "so": 0,
+        "era": 27.0
       }
     ],
-    "home_pitcher": "Brent Suter (TBD)",
-    "home_pitcher_id": 608718,
+    "home_pitcher": "Ray Kerr",
+    "home_pitcher_id": 678061,
     "home_pitcher_stats": {
-      "wins": 3,
-      "losses": 2,
-      "era": "3.36"
+      "wins": 0,
+      "losses": 0,
+      "era": "1.47"
     },
     "home_pitcher_gamelog": [
       {
-        "date": "2026-08-21",
-        "opp": "@ MIL",
+        "date": "2026-08-17",
+        "opp": "@ MIN",
+        "decision": null,
+        "ip": "1.1",
+        "er": 0,
+        "h": 1,
+        "bb": 0,
+        "so": 0,
+        "era": 0.0
+      },
+      {
+        "date": "2026-08-19",
+        "opp": "@ MIN",
         "decision": null,
         "ip": "1.0",
         "er": 0,
         "h": 0,
-        "bb": 1,
-        "so": 2,
-        "era": 0.0
-      },
-      {
-        "date": "2026-08-22",
-        "opp": "@ MIL",
-        "decision": null,
-        "ip": "3.0",
-        "er": 0,
-        "h": 2,
         "bb": 0,
-        "so": 1,
+        "so": 0,
         "era": 0.0
       },
       {
-        "date": "2026-08-29",
+        "date": "2026-08-28",
         "opp": "vs COL",
-        "decision": "W",
-        "ip": "2.1",
-        "er": 0,
-        "h": 2,
-        "bb": 0,
+        "decision": null,
+        "ip": "1.0",
+        "er": 1,
+        "h": 1,
+        "bb": 1,
         "so": 1,
-        "era": 0.0
+        "era": 9.0
       },
       {
-        "date": "2026-09-01",
-        "opp": "@ WSH",
+        "date": "2026-08-31",
+        "opp": "vs SF",
         "decision": null,
-        "ip": "2.0",
-        "er": 2,
-        "h": 4,
-        "bb": 2,
-        "so": 5,
-        "era": 9.0
+        "ip": "3.1",
+        "er": 1,
+        "h": 1,
+        "bb": 0,
+        "so": 4,
+        "era": 2.7
       },
       {
         "date": "2026-09-05",
         "opp": "@ PHI",
         "decision": null,
-        "ip": "1.0",
+        "ip": "3.1",
         "er": 0,
         "h": 1,
-        "bb": 1,
-        "so": 2,
+        "bb": 0,
+        "so": 1,
         "era": 0.0
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-09",
         "opp": "vs TB",
         "decision": null,
-        "ip": "3.2",
+        "ip": "1.1",
         "er": 0,
-        "h": 3,
-        "bb": 1,
-        "so": 2,
-        "era": 0.0
-      },
-      {
-        "date": "2026-09-12",
-        "opp": "vs PHI",
-        "decision": null,
-        "ip": "2.0",
-        "er": 1,
         "h": 1,
         "bb": 0,
-        "so": 1,
-        "era": 4.5
-      },
-      {
-        "date": "2026-09-16",
-        "opp": "@ CHC",
-        "decision": null,
-        "ip": "0.2",
-        "er": 0,
-        "h": 0,
-        "bb": 0,
-        "so": 1,
+        "so": 0,
         "era": 0.0
       },
       {
-        "date": "2026-09-23",
-        "opp": "vs CIN",
-        "decision": "W",
-        "ip": "1.0",
-        "er": 0,
-        "h": 0,
-        "bb": 0,
-        "so": 1,
-        "era": 0.0
-      },
-      {
-        "date": "2026-09-26",
-        "opp": "@ MIA",
+        "date": "2026-09-13",
+        "opp": "vs PHI",
         "decision": null,
         "ip": "3.0",
         "er": 0,
         "h": 1,
         "bb": 0,
-        "so": 3,
+        "so": 4,
+        "era": 0.0
+      },
+      {
+        "date": "2026-09-20",
+        "opp": "@ HOU",
+        "decision": null,
+        "ip": "1.0",
+        "er": 1,
+        "h": 1,
+        "bb": 0,
+        "so": 1,
+        "era": 9.0
+      },
+      {
+        "date": "2026-09-25",
+        "opp": "@ MIA",
+        "decision": null,
+        "ip": "3.0",
+        "er": 0,
+        "h": 2,
+        "bb": 1,
+        "so": 0,
         "era": 0.0
       }
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 39.4,
-      "home": 60.6
+      "away": 43.4,
+      "home": 56.6
     },
     "expected_score": {
       "away": 1.6,
@@ -359,26 +348,71 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 43.5,
+        "sp_score": 51.3,
         "sp_detail": {
-          "era": 3.95,
-          "whip": 1.3,
-          "k9": 10.6,
-          "avg_ip": 5.7,
+          "era": 2.77,
+          "whip": 1.14,
+          "k9": 9.1,
+          "avg_ip": 5.5,
           "qs_rate": 50.0,
-          "last3_era": 1.71,
-          "last_start_era": 1.5,
+          "last3_era": 3.29,
+          "last_start_era": 27.0,
           "last2_eras": [
-            4.76,
-            1.5
+            6.0,
+            27.0
           ],
-          "recent_avg_era": 1.5,
-          "recent_bad_start": false,
-          "trend": "hot",
+          "recent_avg_era": 27.0,
+          "recent_bad_start": true,
+          "trend": "stable",
           "n_games": 10,
           "sample_confidence": 1.0,
-          "rest_days": 4,
-          "rest_note": null
+          "rest_days": 5,
+          "rest_note": null,
+          "age": 33,
+          "fb_velo": 92.3,
+          "pitch_arsenal": [
+            "KC",
+            "FB",
+            "SI",
+            "CH",
+            "CT"
+          ],
+          "secondary_pitches": [
+            "KC",
+            "CH"
+          ],
+          "pitches_detail": [
+            {
+              "code": "KC",
+              "abbr": "KC",
+              "pct": 33.3,
+              "velo": 78.4
+            },
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 24.0,
+              "velo": 92.3
+            },
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 18.2,
+              "velo": 91.6
+            },
+            {
+              "code": "CH",
+              "abbr": "CH",
+              "pct": 16.3,
+              "velo": 85.6
+            },
+            {
+              "code": "FC",
+              "abbr": "CT",
+              "pct": 7.6,
+              "velo": 86.2
+            }
+          ]
         },
         "bp_score": 48.9,
         "bp_detail": {
@@ -489,29 +523,74 @@
           }
         },
         "sit_score": 56.6,
-        "total": 44.7
+        "total": 47.7
       },
       "home": {
-        "sp_score": 44.0,
+        "sp_score": 40.1,
         "sp_detail": {
-          "era": 1.37,
-          "whip": 0.97,
-          "k9": 8.7,
+          "era": 1.47,
+          "whip": 0.6,
+          "k9": 5.4,
           "avg_ip": 2.0,
           "qs_rate": 0.0,
-          "last3_era": 0.87,
+          "last3_era": 0.77,
           "last_start_era": 0.0,
           "last2_eras": [
-            0.0,
+            9.0,
             0.0
           ],
           "recent_avg_era": 0.0,
           "recent_bad_start": false,
           "trend": "cold",
-          "n_games": 10,
+          "n_games": 9,
           "sample_confidence": 1.0,
-          "rest_days": 5,
-          "rest_note": null
+          "rest_days": 6,
+          "rest_note": null,
+          "age": 32,
+          "fb_velo": 94.9,
+          "pitch_arsenal": [
+            "FB",
+            "CB",
+            "SI",
+            "CS",
+            "CT"
+          ],
+          "secondary_pitches": [
+            "CB",
+            "CS"
+          ],
+          "pitches_detail": [
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 35.8,
+              "velo": 94.9
+            },
+            {
+              "code": "CU",
+              "abbr": "CB",
+              "pct": 31.1,
+              "velo": 81.1
+            },
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 22.6,
+              "velo": 94.6
+            },
+            {
+              "code": "CS",
+              "abbr": "CS",
+              "pct": 6.6,
+              "velo": 80.3
+            },
+            {
+              "code": "FC",
+              "abbr": "CT",
+              "pct": 3.8,
+              "velo": 90.2
+            }
+          ]
         },
         "bp_score": 73.4,
         "bp_detail": {
@@ -622,14 +701,14 @@
           }
         },
         "sit_score": 60.6,
-        "total": 52.2
+        "total": 50.7
       }
     },
     "scores": {
       "away_offense": 25.0,
-      "away_defense": 46.2,
+      "away_defense": 50.1,
       "home_offense": 26.8,
-      "home_defense": 58.7
+      "home_defense": 56.8
     },
     "actual_score": {
       "away": null,
@@ -637,24 +716,24 @@
     },
     "lineup_confirmed": false,
     "sp_tbd": {
-      "away": true,
-      "home": true,
-      "both": true,
-      "any": true
+      "away": false,
+      "home": false,
+      "both": false,
+      "any": false
     },
     "actual_winner": null,
     "model_winner": "Atlanta Braves",
     "model_correct": null,
     "notes": "Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Felix Reyes, Johan Rojas / Atlanta Braves IL: Hurston Waldrep, Joe Jiménez, Joey Wentz, Martín Pérez, Spencer Schwellenbach 외 다수",
     "kalshi_prob": 50.0,
-    "edge": 10.6,
-    "value_bet": "⚠️ VB주의(상대선발Hot·edge부족 10.6%p<14.0%p)",
+    "edge": 6.6,
+    "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 0.5pt (≤5.0pt) / 최고 확률 60.6% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 56.6% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
