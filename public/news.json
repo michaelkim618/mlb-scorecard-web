@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-01T00:05:53.605673+00:00",
+  "updated_at": "2026-10-01T00:16:47.055117+00:00",
   "news": [
+    {
+      "title": "Red Sox-Yankees AL Wild Card Series Game 2: LIVE on NBC, Peacock",
+      "link": "https://www.mlb.com/news/red-sox-vs-yankees-al-wild-card-series-game-2-starting-lineups-pitching-matchup-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790739065/mlb/reofzru2r9xg0k5akiek",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch, Ian Browne",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-01T00:00:00+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "1st playoff win? In postseason debut? From the 'pen? Painter's day proves pivotal for Phils",
       "link": "https://www.mlb.com/news/andrew-painter-first-career-postseason-win-phillies-nl-wild-card-game-2",
@@ -12,7 +25,20 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-30T23:56:00+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "Sosa hopeful for decisive Game 3 after exiting late with right leg injury",
+      "link": "https://www.mlb.com/news/edmundo-sosa-exits-nl-wild-card-series-game-2-with-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rxhbmlujchfjhtba7jez",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-30T23:44:00+00:00",
+      "time_ago": "32m ago"
     },
     {
       "title": "Anthony 'sick to my stomach' after aggravating hand injury",
@@ -25,7 +51,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-09-30T23:15:00+00:00",
-      "time_ago": "50m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "With 28th postseason HR, Altuve now 1 shy of all-time record",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T22:45:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Backs to wall, resilient Phils force Game 3 on Bohm's 10th-inning drive",
-      "link": "https://www.mlb.com/news/phillies-win-nl-wild-card-game-2-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p1vbz0ulqkdpuxdolqfg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-30T22:19:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Realmuto makes postseason history with 1st game-ending ABS challenge",
-      "link": "https://www.mlb.com/news/j-t-realmuto-initiates-first-game-ending-abs-challenge-in-postseason-history",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vaih50ydsx7pajiun1uj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-30T22:06:57+00:00",
       "time_ago": "1h ago"
     }
   ]
