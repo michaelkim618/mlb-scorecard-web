@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-01T19:25:15.380031+00:00",
+  "updated_at": "2026-10-01T19:43:21.245991+00:00",
   "news": [
+    {
+      "title": "Lovullo remains D-backs manager with new 2-year deal (source)",
+      "link": "https://www.mlb.com/news/torey-lovullo-2-year-contract-to-manage-d-backs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ozsn83zyjpmbvql8qktm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Steve Gilbert",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-10-01T19:26:22+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "Why Guardians' lineup looks more dangerous than in previous postseasons",
       "link": "https://www.mlb.com/news/cleveland-guardians-improved-lineup-entering-2026-alds",
@@ -12,7 +25,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-01T18:59:49+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Guards tab star rookie Messick, AL strikeout king Williams for ALDS Games 1-2",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T17:42:34+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "A's part ways with assistant hitting, quality control coaches",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T14:29:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "The Brewers are swinging faster this year. That could help them in October",
-      "link": "https://www.mlb.com/news/brewers-offense-is-swinging-faster-bats-in-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/osexageerotn2jbat9lf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-01T14:13:04+00:00",
       "time_ago": "5h ago"
     }
   ]
