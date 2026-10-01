@@ -337,12 +337,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 38.0,
-      "home": 62.0
+      "away": 39.4,
+      "home": 60.6
     },
     "expected_score": {
       "away": 1.5,
-      "home": 2.5
+      "home": 1.9
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -431,7 +431,7 @@ window.PREDICTIONS_DATA = [
           "hr_per_g": 0.5,
           "bb_per_g": 3.0,
           "season_ops": 0.711,
-          "season_slg": 0.336,
+          "season_slg": null,
           "season_avg": 0.237,
           "n_games": 9,
           "source": "prev_day",
@@ -524,7 +524,7 @@ window.PREDICTIONS_DATA = [
         "total": 48.8
       },
       "home": {
-        "sp_score": 62.5,
+        "sp_score": 61.2,
         "sp_detail": {
           "era": 2.55,
           "whip": 0.98,
@@ -583,7 +583,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 70.3,
+        "bp_score": 68.8,
         "bp_detail": {
           "bullpen_era": 2.69,
           "recent_era": 3.0,
@@ -595,34 +595,34 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.55,
           "closer_name": "Raisel Iglesias"
         },
-        "bat_score": 35.0,
+        "bat_score": 26.8,
         "bat_detail": {
           "recent_avg": 0.224,
           "runs_per_g": 4.0,
           "hr_per_g": 1.2,
           "bb_per_g": 3.0,
           "season_ops": 0.676,
-          "season_slg": 0.364,
+          "season_slg": null,
           "season_avg": 0.224,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Ronald Acuña Jr.(0.793)",
+            "Ronald Acuña(0.793)",
             "Drake Baldwin(0.883)",
             "Ozzie Albies(0.481)",
             "Matt Olson(0.786)",
             "Mauricio Dubón(0.837)",
             "Austin Riley(0.609)",
-            "Michael Harris II(0.835)",
+            "Michael Harris(0.835)",
             "Sean Murphy(0.478)",
             "Ha-Seong Kim(0.382)"
           ],
           "lineup_players": [
             {
               "id": 660670,
-              "name": "Ronald Acuña Jr.",
+              "name": "Ronald Acuña",
               "ops": 0.793,
               "avg": 0.231
             },
@@ -658,7 +658,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671739,
-              "name": "Michael Harris II",
+              "name": "Michael Harris",
               "ops": 0.835,
               "avg": 0.325
             },
@@ -692,14 +692,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.6,
-        "total": 60.9
+        "total": 57.6
       }
     },
     "scores": {
       "away_offense": 25.0,
       "away_defense": 50.8,
-      "home_offense": 35.0,
-      "home_defense": 66.4
+      "home_offense": 26.8,
+      "home_defense": 65.0
     },
     "actual_score": {
       "away": 4,
@@ -724,7 +724,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 62.0% (≤62.0%)",
+    "low_confidence_reason": "SP 점수 차이 3.8pt (≤5.0pt) / 최고 확률 60.6% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -2132,10 +2132,10 @@ window.PREDICTIONS_DATA = [
           "lineup_ops": [
             "Ben Rice(1.014)",
             "Cody Bellinger(0.703)",
-            "Luis García Jr.(0.542)",
+            "Luis García(0.542)",
             "Spencer Jones(0.607)",
-            "George Lombard Jr.(0.798)",
-            "Jazz Chisholm Jr.(0.774)",
+            "George Lombard(0.798)",
+            "Jazz Chisholm(0.774)",
             "Trent Grisham(0.500)",
             "Austin Wells(0.889)",
             "Ryan McMahon(0.607)"
@@ -2155,7 +2155,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671277,
-              "name": "Luis García Jr.",
+              "name": "Luis García",
               "ops": 0.542,
               "avg": 0.105
             },
@@ -2167,13 +2167,13 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 806146,
-              "name": "George Lombard Jr.",
+              "name": "George Lombard",
               "ops": 0.798,
               "avg": 0.286
             },
             {
               "id": 665862,
-              "name": "Jazz Chisholm Jr.",
+              "name": "Jazz Chisholm",
               "ops": 0.774,
               "avg": 0.324
             },
@@ -2844,7 +2844,7 @@ window.PREDICTIONS_DATA = [
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis Jr.(0.869)",
+            "Fernando Tatis(0.869)",
             "Dustin Harris(0.706)",
             "Manny Machado(0.613)",
             "Ty France(0.829)",
@@ -2857,7 +2857,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis Jr.",
+              "name": "Fernando Tatis",
               "ops": 0.869,
               "avg": 0.308
             },

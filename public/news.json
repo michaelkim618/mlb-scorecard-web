@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-01T07:34:35.883342+00:00",
+  "updated_at": "2026-10-01T08:26:49.993787+00:00",
   "news": [
+    {
+      "title": "Star power, pitching and more takeaways from Cubs-Padres Wild Card Series",
+      "link": "https://www.mlb.com/news/cubs-padres-2026-wild-card-series-takeaways",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790841230/mlb/cjaqqk4sxjbbsbrxhgea",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-01T07:54:38+00:00",
+      "time_ago": "32m ago"
+    },
     {
       "title": "Padres get revenge with commanding sweep of Cubs in Wild Card Series",
       "link": "https://www.mlb.com/news/padres-win-nl-wild-card-series-2026",
@@ -12,7 +25,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-01T07:16:00+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Gray frustrated by hook, wanted Tracy to 'live or die with me'",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T06:18:47+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Fried's gem sends Yanks to ALDS confident they can lean on rotation",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T06:05:07+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "After dad's first pitch, Bellinger lights up Bronx with huge night",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T05:36:38+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "In first postseason start, García fires up hometown crowd with go-ahead blast",
@@ -90,19 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-01T05:28:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Red Sox turned away by Yanks in Wild Card Series for 2nd straight year",
-      "link": "https://www.mlb.com/news/red-sox-lose-to-yankees-al-wild-card-series-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sqa1gismnmughm8iz4me",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-01T05:17:00+00:00",
       "time_ago": "2h ago"
     }
   ]
