@@ -1,11 +1,11 @@
 {
   "title": "Sep 30 Results + Oct 1 Preview: A Split Decision Kind of Day",
-  "summary": "We went 2-2 on Sep 30, but here's what tomorrow's Braves matchup is telling us",
+  "summary": "We went 2-2 on Sep 30, but here's why tomorrow's Braves pick feels different",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Here's the Thing About September Baseball\n\nSo, September 30th gave us one of those perfectly balanced days—the kind where you win some, you lose some, and you're reminded that baseball has a beautiful way of keeping us humble. We finished 2-2, landing right at 50%, and honestly? There's a story worth telling in each of these games."
+      "value": "## Here's the Thing About .500 Days\n\nSeptember 30th gave us exactly what none of us want but all of us experience: a perfectly split day. Two wins, two losses, 50% accuracy. It's the kind of result that makes you shrug and say, 'well, at least we're honest about it.'\n\nThe Braves and Astros both let us down with 62% confidence picks that didn't pan out. But the Yankees and Padres came through right when we needed them to. That's baseball—sometimes your strongest reads miss, and your coin-flip calls hit."
     },
     {
       "type": "stat_row",
@@ -15,25 +15,21 @@
           "value": "2-2"
         },
         {
-          "label": "Accuracy",
+          "label": "Win Rate",
           "value": "50.0%"
         },
         {
-          "label": "Confident Picks",
-          "value": "4"
+          "label": "Avg Confidence",
+          "value": "59%"
         }
       ]
     },
     {
-      "type": "text",
-      "value": "## How the Day Unfolded\n\nLet me walk you through what happened. We had confidence in four matchups, each with our model leaning at least 50% or higher. The Braves and Astros didn't come through for us despite decent probability edges, but the Yankees and Padres delivered exactly what we hoped for."
-    },
-    {
       "type": "table",
-      "title": "Sep 30 Full Game Results",
+      "title": "Sep 30 Full Results Breakdown",
       "headers": [
-        "Matchup",
-        "Our Pick",
+        "Game",
+        "Pick",
         "Confidence",
         "Result"
       ],
@@ -106,22 +102,22 @@
     },
     {
       "type": "text",
-      "value": "## What I'm Watching: The Misses\n\nThe Braves loss stings a little because, well, we're going back to that same matchup tomorrow. Sometimes the best teams have off nights—that's the human element of this game that no model can fully capture. The Astros? Similar story. High confidence, unexpected outcome. These are the games that make you better at reading the next day's slate."
+      "value": "## What We Learned From the Misses\n\nThe Braves loss stings a bit because we're going right back to that well tomorrow. Sometimes the model sees something in the matchup that takes more than one game to play out. The Astros miss? That one's easier to digest—Houston's been unpredictable lately, and 62% was probably generous.\n\nBut those two wins keep us grounded. The Yankees at 50% was essentially us saying 'this could go either way,' and it went our way. The Padres pick felt solid at 62%, and they delivered. That's the kind of validation that keeps the confidence intact."
     },
     {
       "type": "text",
-      "value": "## Tomorrow's Story: Phillies-Braves, Take Two\n\nAnd speaking of tomorrow—we've got a rematch that feels like unfinished business. The Phillies head back to Atlanta, and our model is once again leaning toward the Braves, though with a bit less swagger this time at 57%."
+      "value": "## Tomorrow's Top Pick: Back to Atlanta\n\nHere's where it gets interesting. Our top pick for October 1st is the Atlanta Braves again—same matchup, Phillies at Braves. Aaron Nola takes the mound for Philadelphia against Ray Kerr for Atlanta.\n\nThe confidence is slightly lower at 57%, which feels more honest given what happened yesterday. But the underlying numbers still favor Atlanta at home. Sometimes you have to trust the process even after a miss, especially when the fundamentals haven't changed."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Oct 1 Top Pick",
       "value": "Atlanta Braves",
-      "sub": "57% win probability vs Phillies · Ray Kerr on the mound"
+      "sub": "57% win probability · Nola vs Kerr · Home advantage"
     },
     {
       "type": "text",
-      "value": "## The Pitching Matchup to Know\n\nAaron Nola brings his veteran presence for Philadelphia, while Atlanta counters with Ray Kerr. Here's what makes this interesting: after dropping yesterday's game, the Braves are playing at home with something to prove. The model sees a narrow edge, but it's the kind of edge that tells a story about home-field advantage and bounce-back potential.\n\nNola's been steady all season, so this isn't a gimme by any means. But there's something about the way Atlanta sets up tomorrow that has our numbers intrigued—just enough to make them our top pick for October 1st.\n\n## Moving Forward\n\nA .500 day isn't glamorous, but it's honest work. We learn from the misses, celebrate the hits, and come back tomorrow ready to see what the next chapter brings. That Braves-Phillies matchup? It's got sequel energy written all over it.\n\nLet's see if Atlanta can flip the script."
+      "value": "## The Pitching Matchup\n\nAaron Nola is a veteran presence who knows how to navigate tough lineups, but Ray Kerr at home gives the Braves an edge the model likes. It's not a blowout projection—57% says this game could easily swing either way—but there's enough there to make Atlanta the smarter play.\n\nAfter yesterday's split, tomorrow feels like a chance to prove the process works over time. One game doesn't define a system. Two games in the same matchup? Now we're building a story.\n\nLet's see if the Braves can deliver what they couldn't on September 30th. Sometimes the second chance is the one that matters most."
     }
   ],
   "slug": "2026-09-30-daily-hana",
