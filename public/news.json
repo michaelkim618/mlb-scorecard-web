@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-01T22:49:24.764669+00:00",
+  "updated_at": "2026-10-01T23:03:13.428776+00:00",
   "news": [
+    {
+      "title": "Indian cricket superstars Shardul Thakur, Jitesh Sharma and Kashvee Gautam join MLB legends for MLBx: Mumbai",
+      "link": "https://www.mlb.com/news/cricket-stars-thakur-sharma-gautam-join-mlb-legends-for-mlbx-mumbai",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/z4h1i6vyaou7snujcgsh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Michael Clair",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-01T22:48:53+00:00",
+      "time_ago": "14m ago"
+    },
     {
       "title": "Yankees-Rays ALDS Game 1 FAQ (Sat., 6:30 p.m. ET, TBS/HBO Max)",
       "link": "https://www.mlb.com/news/yankees-vs-rays-alds-game-1-starting-lineups-pitching-matchup",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T22:25:00+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "'Control the moment': Bogaerts' heady presence crucial in biggest moments",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T22:04:35+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "With history in sight, Dodgers taking October 'one day at a time'",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T22:01:14+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Dance like everyone's watching: White Sox bring ritual to October",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T22:00:00+00:00",
-      "time_ago": "49m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "White Sox-Guardians AL Division Series Game 1 FAQ (Sat., 1 p.m. ET, TBS/HBO Max)",
@@ -77,19 +90,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-01T21:05:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Yankees-Rays ALDS position-by-position breakdown",
-      "link": "https://www.mlb.com/news/yankees-rays-alds-position-by-position-breakdown",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xth6ihrm3o1d3dfkuac4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mike Petriello",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-01T20:52:00+00:00",
       "time_ago": "1h ago"
     },
     {
