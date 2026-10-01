@@ -1,11 +1,11 @@
 {
-  "title": "Sep 30 Results + Oct 1 Preview: Split Down the Middle, But Looking Ahead",
-  "summary": "We went 2-2 on Sep 30, and here's what the model sees for tomorrow's Braves matchup",
+  "title": "Sep 30 Results + Oct 1 Preview: Split Decision, But Here's Where We Go Next",
+  "summary": "A 2-2 split on Sep 30, and the Braves are back in our spotlight for Oct 1.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Here's the Thing About .500 Days\n\nSeptember 30th gave us one of those perfectly balanced days—2 wins, 2 losses, right down the middle at 50%. Not the fireworks we were hoping for, but here's what I love about days like this: they remind us that baseball is beautifully unpredictable, and our model is learning every single pitch."
+      "value": "## Here's the Thing About Close Calls\n\nSeptember wrapped up with one of those days that reminds you why baseball keeps us all humble. We went 2-2, landing right at 50%, and honestly? Both misses stung a little. The Braves and Astros were sitting at 62% confidence, and both let us down. But the Yankees and Padres came through when it mattered, keeping us steady."
     },
     {
       "type": "stat_row",
@@ -19,59 +19,15 @@
           "value": "50.0%"
         },
         {
-          "label": "Hits",
-          "value": "2"
-        },
-        {
-          "label": "Misses",
-          "value": "2"
+          "label": "Highest Confidence",
+          "value": "62%"
         }
-      ]
-    },
-    {
-      "type": "text",
-      "value": "## The Tale of Two Halves\n\nOur model had a story to tell yesterday. The Braves and Astros—both at 62% confidence—didn't go our way. Sometimes the favorites just don't show up, and that's baseball. But then the Yankees and Padres came through exactly when we called it, with the Padres pick feeling especially sweet at that 62% mark."
-    },
-    {
-      "type": "table",
-      "title": "Sep 30 Full Game Results",
-      "headers": [
-        "Matchup",
-        "Our Pick",
-        "Confidence",
-        "Result"
-      ],
-      "rows": [
-        [
-          "Phillies @ Braves",
-          "Braves",
-          "62%",
-          "✗"
-        ],
-        [
-          "Sox @ Astros",
-          "Astros",
-          "62%",
-          "✗"
-        ],
-        [
-          "Sox @ Yankees",
-          "Yankees",
-          "50%",
-          "✓"
-        ],
-        [
-          "Cubs @ Padres",
-          "Padres",
-          "62%",
-          "✓"
-        ]
       ]
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Sep 30 Confidence vs Results",
+      "title": "Sep 30 Prediction Performance",
       "data": [
         {
           "name": "Braves",
@@ -110,18 +66,58 @@
     },
     {
       "type": "text",
-      "value": "## Tomorrow's Story: Braves Get Another Shot\n\nHere's where it gets interesting. The Phillies and Braves are running it back on October 1st, and our model is giving Atlanta another chance to prove themselves. At 61% confidence, we're backing the Braves at home again.\n\nThe pitching matchup features Zack Wheeler taking the mound for Philadelphia against Brent Suter for Atlanta. Wheeler's a proven ace, but our model sees something in the Braves' favor—maybe it's the home field advantage, maybe it's the overall team dynamics, or maybe it's just that Atlanta wants redemption after yesterday."
+      "value": "## The Games That Got Away\n\nThe Phillies-Braves matchup had us leaning Atlanta at 62%, but Philadelphia had other plans. Same story with the Sox-Astros game—Houston looked good on paper, but the Sox weren't reading from our script.\n\nOn the flip side, our Yankees pick at exactly 50% felt like a coin flip that landed our way, and the Padres delivered against the Cubs just like we hoped at 62% confidence."
+    },
+    {
+      "type": "table",
+      "title": "Full Sep 30 Results Breakdown",
+      "headers": [
+        "Game",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Phillies @ Braves",
+          "Braves",
+          "62%",
+          "✗ Miss"
+        ],
+        [
+          "Sox @ Astros",
+          "Astros",
+          "62%",
+          "✗ Miss"
+        ],
+        [
+          "Sox @ Yankees",
+          "Yankees",
+          "50%",
+          "✓ Hit"
+        ],
+        [
+          "Cubs @ Padres",
+          "Padres",
+          "62%",
+          "✓ Hit"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Looking Ahead to October 1\n\nHere's where it gets interesting. The Braves and Phillies are running it back tomorrow, and we're not backing down from Atlanta. At 61% confidence, we're giving the Braves another shot at redemption.\n\nZack Wheeler takes the mound for Philadelphia with a TBD status, while Brent Suter gets the ball for Atlanta. The pitching matchup is still developing, but the model sees something it likes in the Braves' setup at home."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Oct 1 Top Pick",
       "value": "Atlanta Braves",
-      "sub": "61% win probability vs Phillies · Brent Suter on the mound"
+      "sub": "61% win probability · vs Phillies · Wheeler vs Suter"
     },
     {
       "type": "text",
-      "value": "## The Human Element\n\nWhat I love about back-to-back matchups like this is the storyline. The Braves have something to prove after yesterday's miss. These teams know each other intimately at this point in the season. Wheeler versus Suter is a David and Goliath story in some ways—the established ace against the crafty veteran.\n\nOur model crunches the numbers, but the heart of baseball beats in these moments. Will Atlanta bounce back? Can the Phillies sweep the series? That's why we keep coming back.\n\n**Tomorrow's slate drops at first pitch. Let's see if the Braves can deliver what our model believes they can.**"
+      "value": "## The Story Behind Tomorrow's Pick\n\nIt takes guts to double down after a miss, but that's exactly what we're doing. The Phillies-Braves rematch gives Atlanta a chance to prove why we believed in them yesterday, and why we're believing again tomorrow.\n\nThe 61% confidence isn't sky-high, but it's strong enough to make this our top pick for the day. Sometimes the best stories are about getting back up after a stumble—and tomorrow, we're betting the Braves feel the same way.\n\nSee you back here with the results. Let's start October on the right foot."
     }
   ],
   "slug": "2026-09-30-daily-hana",

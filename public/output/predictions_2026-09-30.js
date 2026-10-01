@@ -2577,7 +2577,7 @@ window.PREDICTIONS_DATA = [
     },
     "expected_score": {
       "away": 2.0,
-      "home": 3.7
+      "home": 3.8
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -2647,15 +2647,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 57.6,
+        "bp_score": 48.4,
         "bp_detail": {
-          "bullpen_era": 3.49,
+          "bullpen_era": 4.17,
           "recent_era": 2.7,
           "recent_appearances": 4,
           "recent_ip": 3.3,
-          "team_era": 4.0,
-          "bp_ip": 229.3,
-          "bp_count": 4,
+          "team_era": 4.12,
+          "bp_ip": 259.0,
+          "bp_count": 7,
           "closer_era": 3.36,
           "closer_name": "Jacob Webb"
         },
@@ -2756,7 +2756,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 56.7,
-        "total": 45.6
+        "total": 43.5
       },
       "home": {
         "sp_score": 51.5,
@@ -2932,7 +2932,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 32.6,
-      "away_defense": 49.7,
+      "away_defense": 45.0,
       "home_offense": 52.5,
       "home_defense": 62.0
     },
