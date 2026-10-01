@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-01T23:16:21.521376+00:00",
+  "updated_at": "2026-10-01T23:50:03.344898+00:00",
   "news": [
+    {
+      "title": "Lovullo remains D-backs manager with new 2-year deal",
+      "link": "https://www.mlb.com/news/torey-lovullo-2-year-contract-to-manage-d-backs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ozsn83zyjpmbvql8qktm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Steve Gilbert",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-10-01T23:21:00+00:00",
+      "time_ago": "29m ago"
+    },
     {
       "title": "Here's how the pitching might line up for the Yankees-Rays ALDS",
       "link": "https://www.mlb.com/news/yankees-rays-pitching-matchups-for-2026-alds",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T23:08:11+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "41m ago"
     },
     {
       "title": "Indian cricket superstars Shardul Thakur, Jitesh Sharma and Kashvee Gautam join MLB legends for MLBx: Mumbai",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T22:48:53+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yankees-Rays ALDS Game 1 FAQ (Sat., 6:30 p.m. ET, TBS/HBO Max)",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T22:25:00+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'Control the moment': Bogaerts' heady presence crucial in biggest moments",
@@ -90,19 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-01T21:32:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Phillies vs. Braves NL Wild Card Series Game 3 FAQ, lineups (8 ET, NBC/Peacock)",
-      "link": "https://www.mlb.com/news/phillies-vs-braves-nl-wild-card-series-game-3-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cekukhhiaq5qhgrxf0f7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman, Todd Zolecki, Paul Casella",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-01T21:05:00+00:00",
       "time_ago": "2h ago"
     }
   ]
