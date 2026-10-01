@@ -1826,7 +1826,7 @@ window.PREDICTIONS_DATA = [
     },
     "expected_score": {
       "away": 1.5,
-      "home": 2.1
+      "home": 2.2
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -1918,15 +1918,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 72.4,
+        "bp_score": 67.7,
         "bp_detail": {
-          "bullpen_era": 2.35,
-          "recent_era": 5.4,
-          "recent_appearances": 4,
-          "recent_ip": 5.0,
-          "team_era": 3.14,
-          "bp_ip": 264.7,
-          "bp_count": 6,
+          "bullpen_era": 2.91,
+          "recent_era": 3.06,
+          "recent_appearances": 9,
+          "recent_ip": 17.7,
+          "team_era": 3.36,
+          "bp_ip": 386.7,
+          "bp_count": 11,
           "closer_era": 1.92,
           "closer_name": "Aroldis Chapman"
         },
@@ -2027,7 +2027,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 48.6,
-        "total": 55.9
+        "total": 54.9
       },
       "home": {
         "sp_score": 50.0,
@@ -2218,7 +2218,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 25.0,
-      "away_defense": 71.0,
+      "away_defense": 68.7,
       "home_offense": 35.0,
       "home_defense": 62.5
     },
@@ -2647,15 +2647,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 48.4,
+        "bp_score": 52.8,
         "bp_detail": {
-          "bullpen_era": 4.17,
-          "recent_era": 2.7,
-          "recent_appearances": 4,
-          "recent_ip": 3.3,
-          "team_era": 4.12,
-          "bp_ip": 259.0,
-          "bp_count": 7,
+          "bullpen_era": 4.23,
+          "recent_era": 2.0,
+          "recent_appearances": 7,
+          "recent_ip": 10.0,
+          "team_era": 4.24,
+          "bp_ip": 425.7,
+          "bp_count": 13,
           "closer_era": 3.36,
           "closer_name": "Jacob Webb"
         },
@@ -2756,7 +2756,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 56.7,
-        "total": 43.5
+        "total": 44.5
       },
       "home": {
         "sp_score": 51.5,
@@ -2932,7 +2932,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 32.6,
-      "away_defense": 45.0,
+      "away_defense": 47.2,
       "home_offense": 52.5,
       "home_defense": 62.0
     },
