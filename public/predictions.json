@@ -539,20 +539,20 @@
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Ronald Acuña Jr.(0.793)",
+            "Ronald Acuña(0.793)",
             "Drake Baldwin(0.883)",
             "Ozzie Albies(0.481)",
             "Matt Olson(0.786)",
             "Mauricio Dubón(0.837)",
             "Austin Riley(0.609)",
-            "Michael Harris II(0.835)",
+            "Michael Harris(0.835)",
             "Sean Murphy(0.478)",
             "Ha-Seong Kim(0.382)"
           ],
           "lineup_players": [
             {
               "id": 660670,
-              "name": "Ronald Acuña Jr.",
+              "name": "Ronald Acuña",
               "ops": 0.793,
               "avg": 0.231
             },
@@ -588,7 +588,7 @@
             },
             {
               "id": 671739,
-              "name": "Michael Harris II",
+              "name": "Michael Harris",
               "ops": 0.835,
               "avg": 0.325
             },

@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-09-30-daily-hana",
+      "title": "Sep 30 Results + Oct 1 Preview: A Split Decision and a Rematch",
+      "author": "Hana",
+      "author_emoji": "🌸",
+      "author_color": "#EC4899",
+      "author_role": "Story Writer",
+      "date": "2026-09-30",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#EC4899",
+      "read_time": "3 min",
+      "summary": "We went 2-2 on Sep 30, but here's the thing—tomorrow's rematch could change everything."
+    },
+    {
       "slug": "2026-09-29-daily-rico",
       "title": "Sep 29 Results + Sep 30 Preview: Three Wins and One Clunker—We'll Take It",
       "author": "Rico",

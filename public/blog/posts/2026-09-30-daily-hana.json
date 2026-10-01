@@ -1,0 +1,136 @@
+{
+  "title": "Sep 30 Results + Oct 1 Preview: A Split Decision and a Rematch",
+  "summary": "We went 2-2 on Sep 30, but here's the thing—tomorrow's rematch could change everything.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Here's the Thing About Split Days\n\nSeptember 30th gave us exactly what we didn't want: a perfectly balanced 2-2 record. Not terrible, not great—just the kind of day that makes you want to dig deeper into what went right and what went sideways."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Overall Record",
+          "value": "2-2"
+        },
+        {
+          "label": "Win Rate",
+          "value": "50.0%"
+        },
+        {
+          "label": "Hits",
+          "value": "2"
+        },
+        {
+          "label": "Misses",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Tale of Two Halves\n\nOur day split right down the middle. The Yankees and Padres came through for us—both solid picks that held up when it mattered. But then there were the surprises: the Phillies showed up against the Braves, and the Sox pulled off an upset against the Astros. Baseball, as always, had other plans."
+    },
+    {
+      "type": "table",
+      "title": "September 30 Full Results",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Phillies @ Braves",
+          "Braves",
+          "62%",
+          "✗"
+        ],
+        [
+          "Sox @ Astros",
+          "Astros",
+          "62%",
+          "✗"
+        ],
+        [
+          "Sox @ Yankees",
+          "Yankees",
+          "50%",
+          "✓"
+        ],
+        [
+          "Cubs @ Padres",
+          "Padres",
+          "62%",
+          "✓"
+        ]
+      ]
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Sep 30 Pick Confidence vs Results",
+      "data": [
+        {
+          "name": "Braves",
+          "probability": 62,
+          "result": 0
+        },
+        {
+          "name": "Astros",
+          "probability": 62,
+          "result": 0
+        },
+        {
+          "name": "Yankees",
+          "probability": 50,
+          "result": 1
+        },
+        {
+          "name": "Padres",
+          "probability": 62,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Story: A Rematch Worth Watching\n\nHere's what makes October 1st interesting—we're getting a rematch. Phillies at Braves, round two. Yesterday, Philadelphia surprised us. Tomorrow, we're backing Atlanta again, and here's why: Zack Wheeler versus Brent Suter is a matchup that could swing either way, but the home field advantage and the Braves' ability to adjust gives them the edge at 61% confidence.\n\nThis isn't about revenge or redemption—it's about what the numbers tell us when these teams face off under these specific conditions. Wheeler is formidable, no doubt. But the Braves at home, with a chance to recalibrate after yesterday? That's the story we're betting on."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ October 1 Top Pick",
+      "value": "Atlanta Braves",
+      "sub": "61% win probability · Wheeler vs Suter · Home advantage"
+    },
+    {
+      "type": "text",
+      "value": "## The Human Element\n\nWhat I love about days like September 30th is they remind us that baseball isn't played on spreadsheets. Our model called it down the middle, but each of those games had moments—a clutch hit, a defensive gem, a pitch that painted the corner—that changed everything.\n\nTomorrow, we're watching the Phillies-Braves rematch with fresh eyes. Will Atlanta bounce back? Can Philadelphia keep their momentum? That's the beauty of October baseball—every game writes its own chapter.\n\nLet's see what story unfolds."
+    }
+  ],
+  "slug": "2026-09-30-daily-hana",
+  "author": "Hana",
+  "author_emoji": "🌸",
+  "author_role": "Story Writer",
+  "author_color": "#EC4899",
+  "date": "2026-09-30",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#EC4899"
+}
