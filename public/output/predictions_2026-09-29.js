@@ -1900,13 +1900,13 @@ window.PREDICTIONS_DATA = [
         },
         "bat_score": 25.0,
         "bat_detail": {
-          "recent_avg": 0.224,
+          "recent_avg": 0.228,
           "runs_per_g": 2.1,
           "hr_per_g": 0.6,
           "bb_per_g": 3.0,
-          "season_ops": 0.68,
+          "season_ops": 0.683,
           "season_slg": null,
-          "season_avg": 0.224,
+          "season_avg": 0.228,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -1916,7 +1916,7 @@ window.PREDICTIONS_DATA = [
             "Adley Rutschman(0.735)",
             "Willson Contreras(0.782)",
             "Wilyer Abreu(0.591)",
-            "Ceddanne Rafaela(0.634)",
+            "Ceddanne Rafaela(0.666)",
             "Nick Sogard(0.595)",
             "Jarren Duran(0.688)",
             "Trevor Story(0.647)",
@@ -1950,8 +1950,8 @@ window.PREDICTIONS_DATA = [
             {
               "id": 678882,
               "name": "Ceddanne Rafaela",
-              "ops": 0.634,
-              "avg": 0.242
+              "ops": 0.666,
+              "avg": 0.273
             },
             {
               "id": 686765,
@@ -1978,11 +1978,11 @@ window.PREDICTIONS_DATA = [
               "avg": 0.212
             }
           ],
-          "bat_trend": "cold",
+          "bat_trend": "stable",
           "last5_rpg": 1.8,
-          "last5_avg": 0.208,
+          "last5_avg": 0.214,
           "home_split": {
-            "recent_avg": 0.231,
+            "recent_avg": 0.234,
             "runs_per_g": 2.6,
             "hr_per_g": 0.6,
             "n_games": 10
