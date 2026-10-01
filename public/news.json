@@ -1,18 +1,31 @@
 {
-  "updated_at": "2026-10-01T04:11:38.007222+00:00",
+  "updated_at": "2026-10-01T04:56:24.864751+00:00",
   "news": [
+    {
+      "title": "In first postseason start, García fires up hometown crowd with go-ahead blast",
+      "link": "https://www.mlb.com/news/luis-garcia-jr-hits-first-postseason-home-run-with-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790818632/mlb/g47a8vbnofqajfyf5exc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Ritchie",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-01T04:30:00+00:00",
+      "time_ago": "26m ago"
+    },
     {
       "title": "Yanks sweep rival Sox behind another offensive onslaught to punch ticket to ALDS",
       "link": "https://www.mlb.com/news/yankees-win-al-wild-card-series-2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wel0copvo99f8y0csugg",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tcmn7vzshs52dqe7ffpz",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Bryan Hoch",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-01T04:03:00+00:00",
-      "time_ago": "8m ago"
+      "pub_date": "2026-10-01T04:11:00+00:00",
+      "time_ago": "45m ago"
     },
     {
       "title": "Reinsdorf taking in special White Sox playoff run no one saw coming",
@@ -25,7 +38,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-01T03:40:26+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "What you need to know about the Division Series matchups",
@@ -38,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-01T03:31:00+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rough 6th inning sends Red Sox to Wild Card Series loss to rivals",
@@ -51,33 +64,20 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-01T03:29:17+00:00",
-      "time_ago": "42m ago"
-    },
-    {
-      "title": "In first postseason start, García fires up hometown crowd with go-ahead blast",
-      "link": "https://www.mlb.com/news/luis-garcia-jr-hits-first-postseason-home-run-with-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790818632/mlb/g47a8vbnofqajfyf5exc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Ritchie",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-01T03:15:00+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Houston? No problem! White Sox end 21-year wait with sweep",
       "link": "https://www.mlb.com/news/white-sox-win-al-wild-card-series-2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wz3t9la95oh2ynsnm6cy",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gtfnlkdsypwa30bjaw0t",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Scott Merkin",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T03:12:00+00:00",
-      "time_ago": "59m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "As Astros head to offseason in search of GM, where do things stand with Espada?",
