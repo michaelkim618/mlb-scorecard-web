@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-01T00:54:36.458365+00:00",
+  "updated_at": "2026-10-01T01:23:05.366546+00:00",
   "news": [
+    {
+      "title": "4 big takeaways after Phillies even thrilling NL Wild Card Series",
+      "link": "https://www.mlb.com/news/key-takeaways-from-phillies-extra-innings-win-over-braves-in-game-2-of-nl-wild-card-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790815888/mlb/j3dnuwiqgrhrafqku99p",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-01T01:10:04+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "With 2 steals each (in 1 inning!) Acuña bros. make postseason history",
+      "link": "https://www.mlb.com/news/acuna-brothers-postseason-stolen-bases",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sfciinppxm0qlwnjuztx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-01T01:09:41+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Phils have 'all hands on deck' for Game 3 pitching plans",
+      "link": "https://www.mlb.com/news/phillies-discuss-pitching-plans-for-game-3-of-nl-wild-card-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xummhtsndz4tnpnnbuou",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-01T00:52:23+00:00",
+      "time_ago": "30m ago"
+    },
     {
       "title": "Bullpen stung by long ball after Mahle's strong playoff debut",
       "link": "https://www.mlb.com/news/braves-lose-nl-wild-card-game-2-2026",
@@ -12,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-01T00:35:00+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "After clawing way to AL West title, Astros' postseason ends with ALWC sweep",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T00:25:59+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "What you need to know about the Division Series matchups",
@@ -38,7 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-01T00:22:53+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "White Sox sweep Astros once more to claim 1st playoff series win since 2005 WS",
@@ -51,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-01T00:21:26+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "With 28th postseason HR, Altuve now 1 shy of all-time record",
@@ -64,46 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-01T00:18:00+00:00",
-      "time_ago": "36m ago"
-    },
-    {
-      "title": "'Never a doubt': Resilient Phils force Game 3 on three dramatic swings",
-      "link": "https://www.mlb.com/news/phillies-win-nl-wild-card-game-2-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p1vbz0ulqkdpuxdolqfg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-01T00:09:00+00:00",
-      "time_ago": "45m ago"
-    },
-    {
-      "title": "Red Sox-Yankees AL Wild Card Series Game 2: LIVE on NBC, Peacock",
-      "link": "https://www.mlb.com/news/red-sox-vs-yankees-al-wild-card-series-game-2-starting-lineups-pitching-matchup-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790739065/mlb/reofzru2r9xg0k5akiek",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch, Ian Browne",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-01T00:00:00+00:00",
-      "time_ago": "54m ago"
-    },
-    {
-      "title": "1st playoff win? In postseason debut? From the 'pen? Painter's day proves pivotal for Phils",
-      "link": "https://www.mlb.com/news/andrew-painter-first-career-postseason-win-phillies-nl-wild-card-game-2",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/udazgvb7fsnuttgejifn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-09-30T23:56:00+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
