@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-10-01T03:11:17.775591+00:00",
+  "updated_at": "2026-10-01T04:11:38.007222+00:00",
   "news": [
+    {
+      "title": "Yanks sweep rival Sox behind another offensive onslaught to punch ticket to ALDS",
+      "link": "https://www.mlb.com/news/yankees-win-al-wild-card-series-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wel0copvo99f8y0csugg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-01T04:03:00+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Reinsdorf taking in special White Sox playoff run no one saw coming",
+      "link": "https://www.mlb.com/news/jerry-reinsdorf-discusses-white-sox-al-wild-card-series-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eaxw4q6qpmd8hfdwhrcs",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-01T03:40:26+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "What you need to know about the Division Series matchups",
+      "link": "https://www.mlb.com/news/mlb-2026-division-series-matchups",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hgbzxdclnky9jpfs1rhw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-01T03:31:00+00:00",
+      "time_ago": "40m ago"
+    },
+    {
+      "title": "Rough 6th inning sends Red Sox to Wild Card Series loss to rivals",
+      "link": "https://www.mlb.com/news/red-sox-lose-to-yankees-al-wild-card-series-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sqa1gismnmughm8iz4me",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-01T03:29:17+00:00",
+      "time_ago": "42m ago"
+    },
+    {
+      "title": "In first postseason start, García fires up hometown crowd with go-ahead blast",
+      "link": "https://www.mlb.com/news/luis-garcia-jr-hits-first-postseason-home-run-with-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790818632/mlb/g47a8vbnofqajfyf5exc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Ritchie",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-01T03:15:00+00:00",
+      "time_ago": "56m ago"
+    },
+    {
+      "title": "Houston? No problem! White Sox end 21-year wait with sweep",
+      "link": "https://www.mlb.com/news/white-sox-win-al-wild-card-series-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wz3t9la95oh2ynsnm6cy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-01T03:12:00+00:00",
+      "time_ago": "59m ago"
+    },
     {
       "title": "As Astros head to offseason in search of GM, where do things stand with Espada?",
       "link": "https://www.mlb.com/news/joe-espada-discusses-future-with-astros-after-al-wild-card-series-loss",
@@ -12,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T03:03:20+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "LIVE: Padres start fast with chance to sweep Cubs (Peacock/NBCSN)",
@@ -25,85 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T02:57:02+00:00",
-      "time_ago": "14m ago"
-    },
-    {
-      "title": "After clawing way to AL West title, Astros' postseason ends with ALWC sweep",
-      "link": "https://www.mlb.com/news/astros-lose-2026-al-wild-card-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790821039/mlb/gn2mpss0gzpcaiz6y0vr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-01T02:44:00+00:00",
-      "time_ago": "27m ago"
-    },
-    {
-      "title": "In first postseason start, García fires up hometown crowd with go-ahead blast",
-      "link": "https://www.mlb.com/news/luis-garcia-jr-hits-first-postseason-home-run-with-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790818632/mlb/g47a8vbnofqajfyf5exc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Ritchie",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-01T02:14:40+00:00",
-      "time_ago": "56m ago"
-    },
-    {
-      "title": "Phillies vs. Braves NL Wild Card Series Game 3 FAQ (Thurs., time TBD, NBC/Peacock)",
-      "link": "https://www.mlb.com/news/phillies-vs-braves-nl-wild-card-series-game-3-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cekukhhiaq5qhgrxf0f7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman, Todd Zolecki, Paul Casella",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-01T02:05:29+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "LIVE: Yankees pile on with 6-run 6th (NBC/Peacock)",
-      "link": "https://www.mlb.com/stories/game/849848",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hdpev2hutlqvvvxvpv1b",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-01T01:31:45+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Holmes? Kerr? Suter? Here's how Braves could map out Game 3",
-      "link": "https://www.mlb.com/news/grant-holmes-ray-kerr-brent-suter-braves-nl-wild-card-game-3",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/k2isynyeqn4rth55xl3k",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-01T01:25:55+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "4 big takeaways after Phillies even thrilling NL Wild Card Series",
-      "link": "https://www.mlb.com/news/key-takeaways-from-phillies-extra-innings-win-over-braves-in-game-2-of-nl-wild-card-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790815888/mlb/j3dnuwiqgrhrafqku99p",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-01T01:10:04+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
