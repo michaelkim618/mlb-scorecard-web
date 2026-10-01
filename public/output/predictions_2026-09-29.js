@@ -422,9 +422,9 @@ window.PREDICTIONS_DATA = [
         "bp_score": 48.9,
         "bp_detail": {
           "bullpen_era": 4.01,
-          "recent_era": 7.84,
-          "recent_appearances": 10,
-          "recent_ip": 10.3,
+          "recent_era": 9.72,
+          "recent_appearances": 9,
+          "recent_ip": 8.3,
           "team_era": 3.72,
           "bp_ip": 283.0,
           "bp_count": 6,
@@ -593,9 +593,9 @@ window.PREDICTIONS_DATA = [
         "bp_score": 73.5,
         "bp_detail": {
           "bullpen_era": 2.69,
-          "recent_era": 2.79,
-          "recent_appearances": 14,
-          "recent_ip": 19.3,
+          "recent_era": 3.0,
+          "recent_appearances": 9,
+          "recent_ip": 15.0,
           "team_era": 2.94,
           "bp_ip": 427.7,
           "bp_count": 8,
@@ -722,7 +722,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "Atlanta Braves",
     "model_winner": "Atlanta Braves",
     "model_correct": true,
-    "notes": "Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Felix Reyes, Johan Rojas / Atlanta Braves IL: Hurston Waldrep, Joe Jiménez, Joey Wentz, Martín Pérez, Reynaldo López 외 다수",
+    "notes": "Philadelphia Phillies IL: Adolis García, Brad Keller, Caleb Kilian, Felix Reyes, Johan Rojas / Atlanta Braves IL: Hurston Waldrep, Joe Jiménez, Joey Wentz, Martín Pérez, Spencer Schwellenbach 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
@@ -1075,8 +1075,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 50.9,
-      "home": 49.1
+      "away": 51.0,
+      "home": 49.0
     },
     "expected_score": {
       "away": 3.2,
@@ -1153,8 +1153,8 @@ window.PREDICTIONS_DATA = [
         "bp_detail": {
           "bullpen_era": 2.59,
           "recent_era": 2.0,
-          "recent_appearances": 5,
-          "recent_ip": 6.7,
+          "recent_appearances": 3,
+          "recent_ip": 3.7,
           "team_era": 3.74,
           "bp_ip": 160.0,
           "bp_count": 3,
@@ -1320,12 +1320,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 65.8,
+        "bp_score": 65.3,
         "bp_detail": {
           "bullpen_era": 3.64,
-          "recent_era": 3.38,
-          "recent_appearances": 16,
-          "recent_ip": 18.7,
+          "recent_era": 3.75,
+          "recent_appearances": 11,
+          "recent_ip": 12.0,
           "team_era": 3.72,
           "bp_ip": 326.0,
           "bp_count": 8,
@@ -1429,14 +1429,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.0,
-        "total": 47.9
+        "total": 47.8
       }
     },
     "scores": {
       "away_offense": 46.7,
       "away_defense": 50.0,
       "home_offense": 56.400000000000006,
-      "home_defense": 49.1
+      "home_defense": 48.7
     },
     "actual_score": {
       "away": 6,
@@ -1461,7 +1461,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 50.9% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 51.0% (≤62.0%)",
     "opener_game": {
       "away": true,
       "home": true
@@ -1889,9 +1889,9 @@ window.PREDICTIONS_DATA = [
         "bp_score": 72.5,
         "bp_detail": {
           "bullpen_era": 2.35,
-          "recent_era": 3.86,
-          "recent_appearances": 6,
-          "recent_ip": 7.0,
+          "recent_era": 5.4,
+          "recent_appearances": 4,
+          "recent_ip": 5.0,
           "team_era": 3.14,
           "bp_ip": 264.7,
           "bp_count": 6,
@@ -2059,9 +2059,9 @@ window.PREDICTIONS_DATA = [
         "bp_score": 75.0,
         "bp_detail": {
           "bullpen_era": 2.58,
-          "recent_era": 2.0,
-          "recent_appearances": 9,
-          "recent_ip": 9.0,
+          "recent_era": 2.84,
+          "recent_appearances": 5,
+          "recent_ip": 6.3,
           "team_era": 2.82,
           "bp_ip": 356.3,
           "bp_count": 5,
@@ -2086,7 +2086,7 @@ window.PREDICTIONS_DATA = [
             "Ben Rice(1.014)",
             "Heliot Ramos(0.760)",
             "Cody Bellinger(0.703)",
-            "George Lombard(0.798)",
+            "George Lombard Jr.(0.798)",
             "Amed Rosario(0.661)",
             "Anthony Volpe(0.640)",
             "Spencer Jones(0.607)",
@@ -2119,7 +2119,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 806146,
-              "name": "George Lombard",
+              "name": "George Lombard Jr.",
               "ops": 0.798,
               "avg": 0.286
             },
@@ -2624,12 +2624,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 61.0,
+        "bp_score": 62.6,
         "bp_detail": {
           "bullpen_era": 3.49,
-          "recent_era": 3.38,
-          "recent_appearances": 6,
-          "recent_ip": 5.3,
+          "recent_era": 2.7,
+          "recent_appearances": 4,
+          "recent_ip": 3.3,
           "team_era": 4.0,
           "bp_ip": 229.3,
           "bp_count": 4,
@@ -2733,7 +2733,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 56.7,
-        "total": 44.9
+        "total": 45.2
       },
       "home": {
         "sp_score": 49.7,
@@ -2806,9 +2806,9 @@ window.PREDICTIONS_DATA = [
         "bp_score": 75.0,
         "bp_detail": {
           "bullpen_era": 2.36,
-          "recent_era": 3.12,
-          "recent_appearances": 16,
-          "recent_ip": 17.3,
+          "recent_era": 4.63,
+          "recent_appearances": 11,
+          "recent_ip": 11.7,
           "team_era": 3.17,
           "bp_ip": 361.7,
           "bp_count": 6,
@@ -2917,7 +2917,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 31.9,
-      "away_defense": 55.0,
+      "away_defense": 55.9,
       "home_offense": 50.2,
       "home_defense": 62.4
     },

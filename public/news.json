@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-30T23:38:15.128955+00:00",
+  "updated_at": "2026-10-01T00:05:53.605673+00:00",
   "news": [
+    {
+      "title": "1st playoff win? In postseason debut? From the 'pen? Painter's day proves pivotal for Phils",
+      "link": "https://www.mlb.com/news/andrew-painter-first-career-postseason-win-phillies-nl-wild-card-game-2",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/udazgvb7fsnuttgejifn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-09-30T23:56:00+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Anthony 'sick to my stomach' after aggravating hand injury",
+      "link": "https://www.mlb.com/news/roman-anthony-out-for-rest-of-wild-card-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gkv7mnev5qqv59v02d0d",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-09-30T23:15:00+00:00",
+      "time_ago": "50m ago"
+    },
     {
       "title": "With 28th postseason HR, Altuve now 1 shy of all-time record",
       "link": "https://www.mlb.com/news/jose-altuve-nearing-postseason-home-run-record",
@@ -12,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-09-30T23:04:29+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "An Arizona Fall League sleeper prospect for each team",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T23:00:00+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Cubs-Padres NL Wild Card Series Game 2 FAQ, lineups (10 ET, Peacock/NBCSN)",
@@ -38,32 +64,19 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-09-30T22:57:00+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Braves stung by long ball late, drop Game 2 in extras",
       "link": "https://www.mlb.com/news/braves-lose-nl-wild-card-game-2-2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790803615/mlb/qvxyxxsvrrkzrat8qaj3",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790811037/mlb/u8v9wkaifwk6pgcwslci",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Mark Bowman",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T22:45:00+00:00",
-      "time_ago": "53m ago"
-    },
-    {
-      "title": "Anthony off Wild Card Series roster after reaggravating hand injury",
-      "link": "https://www.mlb.com/news/roman-anthony-out-for-rest-of-wild-card-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gkv7mnev5qqv59v02d0d",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-09-30T22:25:00+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-09-30T22:06:57+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Dance like everyone's watching: White Sox bring ritual to October",
-      "link": "https://www.mlb.com/news/white-sox-continue-pregame-dugout-dance-tradition-in-postseason",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g8cbd1tuvv1bia0pxpnm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-09-30T21:58:27+00:00",
       "time_ago": "1h ago"
     }
   ]
