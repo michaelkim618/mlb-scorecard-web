@@ -1073,7 +1073,7 @@ window.PREDICTIONS_DATA = [
     },
     "expected_score": {
       "away": 3.0,
-      "home": 4.1
+      "home": 4.3
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -1085,9 +1085,9 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": false,
       "any_cold_sp": false,
       "eff_weights": {
-        "sp": 0.28,
+        "sp": 0.24,
         "bp": 0.24,
-        "bat": 0.33,
+        "bat": 0.37,
         "sit": 0.15
       },
       "away": {
@@ -1336,19 +1336,19 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 60.3,
+        "bp_score": 61.8,
         "bp_detail": {
-          "bullpen_era": 3.64,
+          "bullpen_era": 3.52,
           "recent_era": 3.75,
           "recent_appearances": 11,
           "recent_ip": 12.0,
-          "team_era": 3.72,
-          "bp_ip": 326.0,
-          "bp_count": 8,
+          "team_era": 3.9,
+          "bp_ip": 480.3,
+          "bp_count": 11,
           "closer_era": 1.01,
           "closer_name": "Josh Hader"
         },
-        "bat_score": 62.900000000000006,
+        "bat_score": 64.9,
         "bat_detail": {
           "recent_avg": 0.306,
           "runs_per_g": 5.9,
@@ -1445,14 +1445,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.0,
-        "total": 58.6
+        "total": 60.2
       }
     },
     "scores": {
       "away_offense": 46.7,
       "away_defense": 61.0,
-      "home_offense": 62.900000000000006,
-      "home_defense": 55.9
+      "home_offense": 64.9,
+      "home_defense": 56.6
     },
     "actual_score": {
       "away": 7,
@@ -1468,7 +1468,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "Chicago White Sox",
     "model_winner": "Houston Astros",
     "model_correct": false,
-    "notes": "Chicago White Sox IL: Brooks Baldwin, Jordan Leasure, Ky Bush, Luis Castillo, Mike Vasil 외 다수 / Houston Astros IL: Brandon Walter, Brice Matthews, Carlos Correa, Cristian Javier, Daulton Varsho 외 다수",
+    "notes": "Chicago White Sox IL: Brooks Baldwin, Jordan Leasure, Ky Bush, Luis Castillo, Mike Vasil 외 다수 / Houston Astros IL: Brandon Walter, Carlos Correa, Jake Meyers, Mike Burrows",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
@@ -1918,15 +1918,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 67.7,
+        "bp_score": 67.5,
         "bp_detail": {
-          "bullpen_era": 2.91,
+          "bullpen_era": 2.93,
           "recent_era": 3.06,
           "recent_appearances": 9,
           "recent_ip": 17.7,
-          "team_era": 3.36,
-          "bp_ip": 386.7,
-          "bp_count": 11,
+          "team_era": 3.35,
+          "bp_ip": 427.3,
+          "bp_count": 12,
           "closer_era": 1.92,
           "closer_name": "Aroldis Chapman"
         },
@@ -2027,7 +2027,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 48.6,
-        "total": 54.9
+        "total": 54.8
       },
       "home": {
         "sp_score": 50.0,
@@ -2218,7 +2218,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 25.0,
-      "away_defense": 68.7,
+      "away_defense": 68.5,
       "home_offense": 35.0,
       "home_defense": 62.5
     },
