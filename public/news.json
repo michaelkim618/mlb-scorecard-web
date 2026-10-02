@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-10-02T04:46:39.558248+00:00",
+  "updated_at": "2026-10-02T05:42:06.529232+00:00",
   "news": [
-    {
-      "title": "Brewers-Padres NLDS position-by-position breakdown",
-      "link": "https://www.mlb.com/news/brewers-padres-nlds-position-by-position-breakdown",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/svv83enyhcccj7roih9t",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-02T03:56:38+00:00",
-      "time_ago": "50m ago"
-    },
     {
       "title": "Nola's command issues lead to short start in Game 3",
       "link": "https://www.mlb.com/news/phillies-discuss-pitching-plans-for-game-3-of-nl-wild-card-series",
@@ -24,8 +11,60 @@
       "author": "Todd Zolecki",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-02T03:27:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-10-02T05:24:00+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Mattingly not ready to talk managing in '27, but Phillies' core backs skipper",
+      "link": "https://www.mlb.com/news/don-mattingly-potential-future-phillies-2027-manager",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oprt2w2ak5ipnu57w32x",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-02T05:18:38+00:00",
+      "time_ago": "23m ago"
+    },
+    {
+      "title": "Braves finish off Phils to set up date with Dodgers",
+      "link": "https://www.mlb.com/news/braves-win-nl-wild-card-series-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ccvdxoraaq5dql9tra66",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-02T05:05:00+00:00",
+      "time_ago": "37m ago"
+    },
+    {
+      "title": "Braves-Dodgers NLDS position-by-position breakdown",
+      "link": "https://www.mlb.com/news/braves-dodgers-nlds-position-by-position-breakdown",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qxdxd8cya9tnrpzjr62g",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-02T04:44:45+00:00",
+      "time_ago": "57m ago"
+    },
+    {
+      "title": "Here's how the pitching might line up for the White Sox-Guardians ALDS",
+      "link": "https://www.mlb.com/news/white-sox-guardians-pitching-matchups-for-2026-alds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/svymqoxjslogirfzshri",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins and Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-02T04:43:15+00:00",
+      "time_ago": "58m ago"
     },
     {
       "title": "What you need to know about the Division Series matchups",
@@ -38,20 +77,20 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-02T03:19:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "After squeaking into playoffs, Phils bounced by rivals in Wild Card round",
       "link": "https://www.mlb.com/news/phillies-lose-to-braves-in-2026-nl-wild-card-series",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lsrzhur2m2cs9vtllz1r",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/klgs5loea7dvtfmqpycw",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Todd Zolecki",
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-02T03:13:57+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Game times set through Division Series",
@@ -64,46 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-02T03:10:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Braves finish off Phils to set up date with Dodgers",
-      "link": "https://www.mlb.com/news/braves-win-nl-wild-card-series-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ccvdxoraaq5dql9tra66",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-02T03:03:17+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Harris golfs 3-run shot to get Game 3 started with a blast",
-      "link": "https://www.mlb.com/news/michael-harris-ii-homers-game-3-nl-wild-card-series-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790902175/mlb/nfaeozaubwmzgsronja4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-02T03:02:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Kerr, Holmes shine in Braves' Wild Card-clinching win",
-      "link": "https://www.mlb.com/news/grant-holmes-ray-kerr-brent-suter-braves-nl-wild-card-game-3",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790904193/mlb/kfzgk0kwu2fehxwxl0eb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-02T02:59:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
