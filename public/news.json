@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-10-02T01:11:42.832065+00:00",
+  "updated_at": "2026-10-02T01:50:38.318427+00:00",
   "news": [
+    {
+      "title": "Lefty Kerr gets ball first for Braves in G3, with Holmes waiting in the wings",
+      "link": "https://www.mlb.com/news/grant-holmes-ray-kerr-brent-suter-braves-nl-wild-card-game-3",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790904193/mlb/kfzgk0kwu2fehxwxl0eb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-02T01:42:00+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "LIVE: Fast start for Braves on Harris' homer (NBC/Peacock)",
+      "link": "https://www.mlb.com/news/michael-harris-ii-homers-game-3-nl-wild-card-series-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790902175/mlb/nfaeozaubwmzgsronja4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-02T01:13:17+00:00",
+      "time_ago": "37m ago"
+    },
+    {
+      "title": "Here's how the pitching might line up for the Padres-Brewers NLDS",
+      "link": "https://www.mlb.com/news/padres-brewers-pitching-matchups-for-2026-nlds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790901464/mlb/u9t2y6ghc5iwl3wwpl1o",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy and AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-02T01:09:53+00:00",
+      "time_ago": "40m ago"
+    },
+    {
+      "title": "Nola's command issues lead to short start in Game 3",
+      "link": "https://www.mlb.com/news/phillies-discuss-pitching-plans-for-game-3-of-nl-wild-card-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tvccvmchgch8b4lxpm7v",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-02T01:02:00+00:00",
+      "time_ago": "48m ago"
+    },
     {
       "title": "Lovullo remains D-backs manager with new 2-year deal",
       "link": "https://www.mlb.com/news/torey-lovullo-2-year-contract-to-manage-d-backs",
@@ -12,7 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-10-02T00:49:00+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Game times set through Division Series",
@@ -38,19 +90,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T23:40:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Here's how the pitching might line up for the Yankees-Rays ALDS",
-      "link": "https://www.mlb.com/news/yankees-rays-pitching-matchups-for-2026-alds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/seiijxqjkhn4playvb8d",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch and Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-01T23:08:11+00:00",
       "time_ago": "2h ago"
     },
     {
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T22:25:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "'Control the moment': Bogaerts' heady presence crucial in biggest moments",
-      "link": "https://www.mlb.com/news/xander-bogaerts-thriving-for-padres-in-postseason",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790889312/mlb/aep7aaeog6dpxdklqlnb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Cole Bradley",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-01T22:04:35+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "With history in sight, Dodgers taking October 'one day at a time'",
-      "link": "https://www.mlb.com/news/dodgers-begin-quest-for-rare-three-peat-world-series-title",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/knvuf33h8drztgalyh3c",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-01T22:01:14+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Dance like everyone's watching: White Sox bring ritual to October",
-      "link": "https://www.mlb.com/news/white-sox-continue-pregame-dugout-dance-tradition-in-postseason",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g8cbd1tuvv1bia0pxpnm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-01T22:00:00+00:00",
       "time_ago": "3h ago"
     }
   ]
