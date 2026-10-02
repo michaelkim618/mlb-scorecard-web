@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-02T14:30:51.936338+00:00",
+  "updated_at": "2026-10-02T16:08:07.600090+00:00",
   "news": [
+    {
+      "title": "Yankees-Rays ALDS Game 1 FAQ (Sat., 6:30 p.m. ET, TBS/HBO Max)",
+      "link": "https://www.mlb.com/news/yankees-vs-rays-alds-game-1-starting-lineups-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790874789/mlb/ocjtffxm5ygkmzfvssn1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch, Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-02T15:25:00+00:00",
+      "time_ago": "43m ago"
+    },
+    {
+      "title": "Having shed underdog label, why is this the year for the Brewers?",
+      "link": "https://www.mlb.com/news/why-2026-season-feels-different-for-the-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ouqdefhrb9xcryrc5frq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-02T15:23:37+00:00",
+      "time_ago": "44m ago"
+    },
+    {
+      "title": "Will Aaron Judge be on the Yankees' ALDS roster? Here's the latest",
+      "link": "https://www.mlb.com/news/yankees-aaron-judge-injury-update-ahead-of-alds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zhwohedofzhaftpzpway",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan ",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-02T14:40:11+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "What you need to know about the Division Series matchups",
       "link": "https://www.mlb.com/news/mlb-2026-division-series-matchups",
@@ -12,7 +51,20 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-02T14:05:00+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "The final Top 100 Prospects list of the year has a new look",
+      "link": "https://www.mlb.com/news/updated-top-100-prospects-list-october-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wn1kr40sxpibh3ksar1s",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sam Dykstra",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-02T13:51:44+00:00",
+      "time_ago": "2h ago"
     },
     {
       "title": "Yankees tab Cole to start Game 1 of ALDS against Rays",
@@ -25,20 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-02T13:48:47+00:00",
-      "time_ago": "42m ago"
-    },
-    {
-      "title": "Here's how the pitching might line up for the Yankees-Rays ALDS",
-      "link": "https://www.mlb.com/news/yankees-rays-pitching-matchups-for-2026-alds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/seiijxqjkhn4playvb8d",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch and Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-02T13:25:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "5 reasons the White Sox-Guardians ALDS matchup will be a must-watch",
@@ -51,59 +90,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-02T11:13:47+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
-      "title": "Unlikely hero pens storybook clinch for Braves",
-      "link": "https://www.mlb.com/news/braves-win-nl-wild-card-series-2026",
+      "title": "How the 'power of friendship' carried the Rays to 98 wins and the ALDS",
+      "link": "https://www.mlb.com/news/how-team-chemistry-helped-carry-rays-to-2026-alds",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790917971/mlb/glla5gitgbunqam5bqkp",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790908920/mlb/cs7mdsxq4ckdwxyg5peo",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Mark Bowman",
+      "author": "Adam Berry",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-02T07:21:00+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "Harris starts fireworks in hometown early with 3-run blast",
-      "link": "https://www.mlb.com/news/michael-harris-ii-homers-game-3-nl-wild-card-series-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790902175/mlb/nfaeozaubwmzgsronja4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-02T07:01:00+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "Nola's command issues lead to short start in Game 3",
-      "link": "https://www.mlb.com/news/phillies-discuss-pitching-plans-for-game-3-of-nl-wild-card-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tvccvmchgch8b4lxpm7v",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-02T06:56:00+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "Braves-Dodgers NL Division Series Game 1 FAQ (Sat., 4 p.m. ET, FOX/FOX One)",
-      "link": "https://www.mlb.com/news/braves-vs-dodgers-nlds-game-1-starting-lineups-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rvznyywczn3y8uvrj8gj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman, Sonja Chen",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-02T06:48:05+00:00",
-      "time_ago": "7h ago"
+      "pub_date": "2026-10-02T11:06:22+00:00",
+      "time_ago": "5h ago"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "title": "Oct 1 Results: Clean Inning, No Runners Left On",
-  "summary": "Perfect 1-0 day backing the Braves. From the mound, that's how you close it out.",
+  "title": "Oct 1 Results: Perfect Command on the Mound",
+  "summary": "Oct 1 delivered a clean sheet - 1-0 with 100% accuracy from the pitcher's perspective",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## A Pitcher's Perfect Game\n\nLook, I'll keep this short because the results speak louder than my bullpen chatter ever did. One game on the slate yesterday, and we nailed it. Braves over the Phillies at 57% confidence — that's not a coinflip, that's reading the signs and executing the pitch.\n\nFrom a pitcher's perspective, there's nothing sweeter than walking off the mound with zeros across the board. That's what 100% feels like."
+      "value": "## A Clean Inning\n\nFrom a pitcher's perspective, there's nothing better than executing your game plan perfectly. Today we went 1-for-1, hitting our only pick with precision. When you're dealing with a small sample size, every pitch matters - and we located our fastball exactly where we wanted it."
     },
     {
       "type": "stat_row",
@@ -23,6 +23,10 @@
           "value": "1"
         }
       ]
+    },
+    {
+      "type": "text",
+      "value": "## Breaking Down the Win\n\nThe Phillies-Braves matchup was our lone target today. We backed Atlanta at 57% confidence - not a huge edge, but enough to trust our read on the situation. Home field advantage, bullpen depth, and the matchup dynamics all pointed toward the Braves. They delivered."
     },
     {
       "type": "chart",
@@ -51,10 +55,10 @@
     },
     {
       "type": "table",
-      "title": "Game-by-Game Breakdown",
+      "title": "Complete Oct 1 Results",
       "headers": [
-        "Matchup",
-        "Our Pick",
+        "Game",
+        "Pick",
         "Confidence",
         "Result"
       ],
@@ -69,25 +73,25 @@
     },
     {
       "type": "text",
-      "value": "## Breaking Down the Braves Call\n\nWhen I saw this matchup, the numbers pointed one direction: Atlanta. A 57% edge isn't screaming dominance, but in baseball, you don't need to throw 98 on every pitch. You need location, sequencing, and trust in your stuff.\n\nThe Braves delivered exactly what the scouting report suggested. Home field advantage in October baseball? That's like having an extra pitch in your arsenal. The crowd noise alone can rattle a visiting lineup's timing.\n\nPhillies came to play, but Atlanta executed when it mattered. That's playoff baseball — it's not always pretty, but the W is all that goes in the box score."
+      "value": "## The Pitcher's Take\n\nOne game, one win. In baseball, you can't ask for better execution than that. Sure, the sample size is small - any pitcher will tell you one good outing doesn't make a season. But when you trust your preparation and it pays off, you take the W and build on it.\n\nThe 57% confidence level shows we weren't overcommitting. This wasn't a max-effort fastball - it was a well-spotted two-seamer that got ground ball contact. Smart, calculated, effective."
     },
     {
       "type": "highlight_box",
-      "color": "#16A34A",
-      "title": "✓ Perfect Record Alert",
-      "value": "1-0 on Oct 1",
-      "sub": "100% accuracy when it counted"
+      "color": "#10B981",
+      "title": "✓ Today's Winner",
+      "value": "Atlanta Braves",
+      "sub": "57% confidence • Result: Win"
     },
     {
       "type": "text",
-      "value": "## Tomorrow's Forecast: Off Day\n\nNo games scheduled for October 2nd. Consider it a travel day, a bullpen session, maybe some video review. Even the best rotations need a breather.\n\nWe'll be back analyzing matchups when the schedule resumes. Until then, enjoy the perfect game we threw yesterday — because in this business, you celebrate the wins when they come.\n\nStay locked in. Next time there's a game worth calling, you'll know where to find the breakdown."
+      "value": "## Tomorrow's Slate\n\nNo games scheduled for October 2nd. Time to review the tape, study the advanced metrics, and get ready for the next series. Even pitchers need a day off to analyze their mechanics and prep for the next start.\n\nWe'll be back when the schedule resumes with the same approach: technical analysis, field experience, and picks based on real baseball insight - not gut feelings."
     },
     {
       "type": "highlight_box",
       "color": "#64748B",
-      "title": "⏸ Tomorrow's Schedule",
-      "value": "No Games",
-      "sub": "Off day across MLB — we'll be ready when action resumes"
+      "title": "⚾ Tomorrow's Schedule",
+      "value": "No Games Scheduled",
+      "sub": "Off day - back in action soon"
     }
   ],
   "slug": "2026-10-01-daily-ace",
