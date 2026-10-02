@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-02T13:58:57.011643+00:00",
+  "updated_at": "2026-10-02T14:30:51.936338+00:00",
   "news": [
+    {
+      "title": "What you need to know about the Division Series matchups",
+      "link": "https://www.mlb.com/news/mlb-2026-division-series-matchups",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p824owuxvorg07twr4gr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-02T14:05:00+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "Yankees tab Cole to start Game 1 of ALDS against Rays",
+      "link": "https://www.mlb.com/news/gerrit-cole-set-to-start-alds-game-1-for-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790947674/mlb/xyggjjaojalhfdgylegh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-02T13:48:47+00:00",
+      "time_ago": "42m ago"
+    },
     {
       "title": "Here's how the pitching might line up for the Yankees-Rays ALDS",
       "link": "https://www.mlb.com/news/yankees-rays-pitching-matchups-for-2026-alds",
@@ -12,7 +38,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-02T13:25:00+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "5 reasons the White Sox-Guardians ALDS matchup will be a must-watch",
+      "link": "https://www.mlb.com/news/why-the-white-sox-guardians-alds-matchup-is-must-watch",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790915490/mlb/bf2as6o0btnt3pavdkxf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-02T11:13:47+00:00",
+      "time_ago": "3h ago"
     },
     {
       "title": "Unlikely hero pens storybook clinch for Braves",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-02T07:21:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "Harris starts fireworks in hometown early with 3-run blast",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-02T07:01:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "Nola's command issues lead to short start in Game 3",
@@ -65,45 +104,6 @@
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-02T06:48:05+00:00",
       "time_ago": "7h ago"
-    },
-    {
-      "title": "Phillies' latest early playoff exit puts veteran core at crossroads",
-      "link": "https://www.mlb.com/news/phillies-lose-to-braves-in-2026-nl-wild-card-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/klgs5loea7dvtfmqpycw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-02T06:12:00+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "Sale's pitch to Weiss pays off: Lefty bookends Braves' Wild Card Series win",
-      "link": "https://www.mlb.com/news/chris-sale-closes-out-braves-nl-wild-card-series-clincher",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790917411/mlb/qnjmcso0xqkc9aik1hjd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-02T05:54:13+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "Mattingly not ready to talk managing in '27, but Phillies' stars back skipper",
-      "link": "https://www.mlb.com/news/don-mattingly-potential-future-phillies-2027-manager",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oprt2w2ak5ipnu57w32x",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-02T05:18:38+00:00",
-      "time_ago": "8h ago"
     }
   ]
 }

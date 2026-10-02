@@ -1,11 +1,11 @@
 {
-  "title": "Oct 1 Results: Clean Inning, No Baserunners",
-  "summary": "Perfect 1-0 day backing the Braves—broke down the pitching matchup and nailed it.",
+  "title": "Oct 1 Results: Clean Inning, No Runners Left On",
+  "summary": "Perfect 1-0 day backing the Braves. From the mound, that's how you close it out.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Pitcher's Perspective: When You Execute Your Gameplan\n\nOne game on the slate today, one result that went exactly as expected. From a pitcher's standpoint, that's what we call executing your pitch sequence—you identify the weakness, attack it, and get the out. The Braves were the play at 57% confidence, and they delivered."
+      "value": "## A Pitcher's Perfect Game\n\nLook, I'll keep this short because the results speak louder than my bullpen chatter ever did. One game on the slate yesterday, and we nailed it. Braves over the Phillies at 57% confidence — that's not a coinflip, that's reading the signs and executing the pitch.\n\nFrom a pitcher's perspective, there's nothing sweeter than walking off the mound with zeros across the board. That's what 100% feels like."
     },
     {
       "type": "stat_row",
@@ -25,13 +25,9 @@
       ]
     },
     {
-      "type": "text",
-      "value": "## Breaking Down the Win\n\nPhillies @ Braves was the only matchup, and it came down to what it always does in October baseball—pitching and execution. When I looked at this game, the 57% edge for Atlanta wasn't overwhelming, but it was there. In the postseason, you take your spots and trust your stuff. The Braves had the platoon advantage and home-field momentum. That's enough when you're locating your fastball."
-    },
-    {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Today's Prediction Performance",
+      "title": "Oct 1 Prediction Performance",
       "data": [
         {
           "name": "Braves",
@@ -55,7 +51,7 @@
     },
     {
       "type": "table",
-      "title": "Oct 1 Complete Results",
+      "title": "Game-by-Game Breakdown",
       "headers": [
         "Matchup",
         "Our Pick",
@@ -73,18 +69,25 @@
     },
     {
       "type": "text",
-      "value": "## What Made the Difference\n\nThis wasn't about overpowering stuff or blowing anyone away. It was about reading the situation correctly. The Braves had the slight edge in the pitching matchup, they were playing at home, and they had the veteran presence to handle a divisional playoff atmosphere. When you're on the mound, you learn to trust those small edges—they add up over nine innings.\n\nA 57% confidence pick means you're not guaranteeing anything. You're saying the odds favor one side, and today, those odds played out. That's all you can ask for in this game."
+      "value": "## Breaking Down the Braves Call\n\nWhen I saw this matchup, the numbers pointed one direction: Atlanta. A 57% edge isn't screaming dominance, but in baseball, you don't need to throw 98 on every pitch. You need location, sequencing, and trust in your stuff.\n\nThe Braves delivered exactly what the scouting report suggested. Home field advantage in October baseball? That's like having an extra pitch in your arsenal. The crowd noise alone can rattle a visiting lineup's timing.\n\nPhillies came to play, but Atlanta executed when it mattered. That's playoff baseball — it's not always pretty, but the W is all that goes in the box score."
     },
     {
       "type": "highlight_box",
-      "color": "#10B981",
-      "title": "✓ Today's Takeaway",
-      "value": "Perfect execution on limited opportunities",
-      "sub": "1-0 record · 100% accuracy · Trusted the pitching edge"
+      "color": "#16A34A",
+      "title": "✓ Perfect Record Alert",
+      "value": "1-0 on Oct 1",
+      "sub": "100% accuracy when it counted"
     },
     {
       "type": "text",
-      "value": "## No Games Tomorrow—Reset and Prepare\n\nNo action on the schedule for tomorrow, which means it's a good day to study film, review what worked, and get ready for the next series. In the rotation, you use your off days to stay sharp mentally even when you're not throwing. Same approach here—we'll be back when the games resume, ready to break down the matchups from a pitcher's perspective.\n\nStay locked in. The postseason is just getting started."
+      "value": "## Tomorrow's Forecast: Off Day\n\nNo games scheduled for October 2nd. Consider it a travel day, a bullpen session, maybe some video review. Even the best rotations need a breather.\n\nWe'll be back analyzing matchups when the schedule resumes. Until then, enjoy the perfect game we threw yesterday — because in this business, you celebrate the wins when they come.\n\nStay locked in. Next time there's a game worth calling, you'll know where to find the breakdown."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#64748B",
+      "title": "⏸ Tomorrow's Schedule",
+      "value": "No Games",
+      "sub": "Off day across MLB — we'll be ready when action resumes"
     }
   ],
   "slug": "2026-10-01-daily-ace",
