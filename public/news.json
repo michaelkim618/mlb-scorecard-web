@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-02T13:32:26.258614+00:00",
+  "updated_at": "2026-10-02T13:58:57.011643+00:00",
   "news": [
+    {
+      "title": "Here's how the pitching might line up for the Yankees-Rays ALDS",
+      "link": "https://www.mlb.com/news/yankees-rays-pitching-matchups-for-2026-alds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/seiijxqjkhn4playvb8d",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch and Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-02T13:25:00+00:00",
+      "time_ago": "33m ago"
+    },
     {
       "title": "Unlikely hero pens storybook clinch for Braves",
       "link": "https://www.mlb.com/news/braves-win-nl-wild-card-series-2026",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-02T06:56:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "Braves-Dodgers NL Division Series Game 1 FAQ (Sat., 4 p.m. ET, FOX/FOX One)",
@@ -51,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-02T06:48:05+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "Phillies' latest early playoff exit puts veteran core at crossroads",
@@ -77,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-02T05:54:13+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "8h ago"
     },
     {
       "title": "Mattingly not ready to talk managing in '27, but Phillies' stars back skipper",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-02T05:18:38+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "Here's how the pitching might line up for the White Sox-Guardians ALDS",
-      "link": "https://www.mlb.com/news/white-sox-guardians-pitching-matchups-for-2026-alds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/svymqoxjslogirfzshri",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins and Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-02T04:43:15+00:00",
       "time_ago": "8h ago"
     }
   ]
