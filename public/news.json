@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T21:09:51.000875+00:00",
+  "updated_at": "2026-10-02T21:24:57.311907+00:00",
   "news": [
     {
       "title": "Padres tab Ray to start Game 1 of NLDS vs. Brewers",
@@ -11,8 +11,34 @@
       "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-02T20:58:45+00:00",
-      "time_ago": "11m ago"
+      "pub_date": "2026-10-02T21:14:00+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "Having shed underdog label, why is this the year for the Brewers?",
+      "link": "https://www.mlb.com/news/why-2026-season-feels-different-for-the-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ouqdefhrb9xcryrc5frq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-02T21:12:00+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Will Aaron Judge be on the Yankees' ALDS roster? Here's the latest",
+      "link": "https://www.mlb.com/news/yankees-aaron-judge-injury-update-ahead-of-alds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zhwohedofzhaftpzpway",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-02T20:57:00+00:00",
+      "time_ago": "27m ago"
     },
     {
       "title": "White Sox turn to rookie Hagen Smith to start Game 1 vs. Guardians",
@@ -65,32 +91,6 @@
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-02T16:31:00+00:00",
       "time_ago": "4h ago"
-    },
-    {
-      "title": "Having shed underdog label, why is this the year for the Brewers?",
-      "link": "https://www.mlb.com/news/why-2026-season-feels-different-for-the-brewers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ouqdefhrb9xcryrc5frq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-02T15:23:37+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Will Aaron Judge be on the Yankees' ALDS roster? Here's the latest",
-      "link": "https://www.mlb.com/news/yankees-aaron-judge-injury-update-ahead-of-alds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zhwohedofzhaftpzpway",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan ",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-02T14:40:11+00:00",
-      "time_ago": "6h ago"
     },
     {
       "title": "Breaking down each of the 4 Division Series",
