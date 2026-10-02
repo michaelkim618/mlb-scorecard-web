@@ -1,0 +1,99 @@
+{
+  "title": "Oct 1 Results: Perfect Command on the Mound",
+  "summary": "Oct 1 brought us 1-0 perfection. Breaking down the Braves win from a pitcher's lens.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Clean Inning, No Baserunners\n\nFrom the stretch, you dream about this kind of command. We went 1-0 today with 100% accuracy. When you locate your pitches like we did with the Braves call, you get results. Let me break down how we attacked the zone."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Today W-L",
+          "value": "1-0"
+        },
+        {
+          "label": "Accuracy",
+          "value": "100.0%"
+        },
+        {
+          "label": "Games Analyzed",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Today's Prediction Performance",
+      "data": [
+        {
+          "name": "Braves",
+          "probability": 57,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Breakdown: Phillies @ Braves\n\nWe backed the Braves at 57% confidence, and they delivered. This wasn't about overpowering stuff—it was about working the count, trusting your defense, and executing the game plan. The Braves' rotation and bullpen management gave them the edge in this divisional matchup.\n\nWhen you're calling a game, you read the matchups like a catcher reading signs. The Braves had better pitcher-to-lineup advantages, and in October baseball, that's your out pitch."
+    },
+    {
+      "type": "table",
+      "title": "October 1 Complete Results",
+      "headers": [
+        "Game",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Phillies @ Braves",
+          "Braves",
+          "57%",
+          "✓ Hit"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## From the Pitcher's Mound\n\nPerfect days like this don't come from luck—they come from preparation. We studied the rotations, analyzed the bullpen depth, factored in home-field advantage. A 57% call isn't a flamethrower down the middle; it's a well-placed two-seamer that gets weak contact.\n\nIn baseball and predictions, you can't win them all. But when you execute your process, trust your scouting, and don't try to do too much, you give yourself the best chance every time out."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#059669",
+      "title": "✓ Today's Money Pitch",
+      "value": "Braves over Phillies (57%)",
+      "sub": "Perfect execution · Division knowledge paid off"
+    },
+    {
+      "type": "text",
+      "value": "## No Games Tomorrow—Rest Day\n\nEven the best rotations need a breather. No games scheduled tomorrow, which gives us time to sharpen our analysis, review the tape, and come back stronger. Use the off-day to study the upcoming matchups.\n\nIn my playing days, I'd use rest days to watch film and refine my mechanics. Same approach here—we'll be breaking down the next slate and finding the best spots to attack.\n\nStay locked in. Next time we toe the rubber, we're bringing the same preparation and discipline that got us to 100% today."
+    }
+  ],
+  "slug": "2026-10-01-daily-ace",
+  "author": "Ace",
+  "author_emoji": "🎙️",
+  "author_role": "Former Pitcher",
+  "author_color": "#D97706",
+  "date": "2026-10-01",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#D97706"
+}

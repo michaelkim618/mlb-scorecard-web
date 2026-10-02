@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-10-01-daily-ace",
+      "title": "Oct 1 Results: Perfect Command on the Mound",
+      "author": "Ace",
+      "author_emoji": "🎙️",
+      "author_color": "#D97706",
+      "author_role": "Former Pitcher",
+      "date": "2026-10-01",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#D97706",
+      "read_time": "3 min",
+      "summary": "Oct 1 brought us 1-0 perfection. Breaking down the Braves win from a pitcher's lens."
+    },
+    {
       "slug": "2026-09-30-daily-hana",
       "title": "Sep 30 Results + Oct 1 Preview: A Split Decision Kind of Day",
       "author": "Hana",
