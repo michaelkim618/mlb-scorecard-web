@@ -1,11 +1,11 @@
 {
-  "title": "Oct 1 Results: Perfect Command on the Mound",
-  "summary": "Oct 1 brought us 1-0 perfection. Breaking down the Braves win from a pitcher's lens.",
+  "title": "Oct 1 Results: Perfect Execution on the Mound",
+  "summary": "Oct 1 recap: Went 1-0 with the Braves pick. Clean sheet from a pitcher's view.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Clean Inning, No Baserunners\n\nFrom the stretch, you dream about this kind of command. We went 1-0 today with 100% accuracy. When you locate your pitches like we did with the Braves call, you get results. Let me break down how we attacked the zone."
+      "value": "## Clean Inning, Clean Results\n\nFrom a pitcher's perspective, there's nothing better than executing your game plan and watching it work. Today we went 1-0, and that Braves pick played out exactly how we saw it developing. When you trust your mechanics and stick to what the data tells you, good things happen."
     },
     {
       "type": "stat_row",
@@ -27,7 +27,7 @@
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Today's Prediction Performance",
+      "title": "Oct 1 Prediction Performance",
       "data": [
         {
           "name": "Braves",
@@ -50,17 +50,13 @@
       ]
     },
     {
-      "type": "text",
-      "value": "## The Breakdown: Phillies @ Braves\n\nWe backed the Braves at 57% confidence, and they delivered. This wasn't about overpowering stuff—it was about working the count, trusting your defense, and executing the game plan. The Braves' rotation and bullpen management gave them the edge in this divisional matchup.\n\nWhen you're calling a game, you read the matchups like a catcher reading signs. The Braves had better pitcher-to-lineup advantages, and in October baseball, that's your out pitch."
-    },
-    {
       "type": "table",
-      "title": "October 1 Complete Results",
+      "title": "Complete Oct 1 Game Results",
       "headers": [
-        "Game",
+        "Matchup",
         "Our Pick",
         "Confidence",
-        "Result"
+        "Outcome"
       ],
       "rows": [
         [
@@ -73,18 +69,29 @@
     },
     {
       "type": "text",
-      "value": "## From the Pitcher's Mound\n\nPerfect days like this don't come from luck—they come from preparation. We studied the rotations, analyzed the bullpen depth, factored in home-field advantage. A 57% call isn't a flamethrower down the middle; it's a well-placed two-seamer that gets weak contact.\n\nIn baseball and predictions, you can't win them all. But when you execute your process, trust your scouting, and don't try to do too much, you give yourself the best chance every time out."
+      "value": "## Breaking Down the Braves Win\n\nThe Phillies-Braves matchup was all about pitching dynamics and home field advantage. At 57% confidence, this wasn't a slam dunk pick, but the underlying metrics were solid. The Braves had the better bullpen depth and the platoon advantages we were looking for.\n\nFrom my years on the mound, I know October baseball is different. Every pitch matters. Every matchup gets magnified. The Braves executed when it counted, and our analysis held up under pressure."
     },
     {
       "type": "highlight_box",
-      "color": "#059669",
-      "title": "✓ Today's Money Pitch",
-      "value": "Braves over Phillies (57%)",
-      "sub": "Perfect execution · Division knowledge paid off"
+      "color": "#10B981",
+      "title": "✓ Today's Winner",
+      "value": "Atlanta Braves",
+      "sub": "57% confidence · Home advantage played out perfectly"
     },
     {
       "type": "text",
-      "value": "## No Games Tomorrow—Rest Day\n\nEven the best rotations need a breather. No games scheduled tomorrow, which gives us time to sharpen our analysis, review the tape, and come back stronger. Use the off-day to study the upcoming matchups.\n\nIn my playing days, I'd use rest days to watch film and refine my mechanics. Same approach here—we'll be breaking down the next slate and finding the best spots to attack.\n\nStay locked in. Next time we toe the rubber, we're bringing the same preparation and discipline that got us to 100% today."
+      "value": "## No Games Tomorrow – Time to Reset\n\nJust like a scheduled off-day during the season, tomorrow gives us time to analyze, adjust, and prepare. No games on the slate means we focus on refining our approach and getting ready for the next series of matchups.\n\nIn the bullpen, we used to call these days \"maintenance days.\" You work on your mechanics, study film, and make sure you're sharp for when your number gets called. Same principle applies here.\n\n### What We're Watching\n\nWith the off-day, I'll be diving deep into:\n- Pitcher workload and rest patterns heading into the next slate\n- Bullpen usage trends from today's game\n- Weather patterns and field conditions for upcoming matchups\n- Lineup adjustments teams might make with the extra day\n\nStay sharp. The next set of games will be here before you know it."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#6B7280",
+      "title": "📅 Tomorrow's Schedule",
+      "value": "No games scheduled",
+      "sub": "Off-day across the league – analysis and preparation mode"
+    },
+    {
+      "type": "text",
+      "value": "## Final Thoughts from the Mound\n\nPerfect day at the office. You take these when you can get them, especially in October when the margin for error shrinks. The key is staying consistent with the process – trust your preparation, trust your analysis, and don't get too high or too low on any single result.\n\nThat's what I learned in my pitching days: stay even-keeled, execute the game plan, and let the results follow. Today, they did.\n\nWe'll be back with more picks when the games resume. Until then, enjoy the perfect record and the day off.\n\n– Ace"
     }
   ],
   "slug": "2026-10-01-daily-ace",
