@@ -620,9 +620,9 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Drake Baldwin(0.883)",
-            "Ronald Acuña(0.793)",
+            "Ronald Acuña Jr.(0.793)",
             "Matt Olson(0.786)",
-            "Michael Harris(0.835)",
+            "Michael Harris II(0.835)",
             "Mauricio Dubón(0.837)",
             "Mike Yastrzemski(0.670)",
             "Austin Riley(0.609)",
@@ -638,7 +638,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 660670,
-              "name": "Ronald Acuña",
+              "name": "Ronald Acuña Jr.",
               "ops": 0.793,
               "avg": 0.231
             },
@@ -650,7 +650,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671739,
-              "name": "Michael Harris",
+              "name": "Michael Harris II",
               "ops": 0.835,
               "avg": 0.325
             },

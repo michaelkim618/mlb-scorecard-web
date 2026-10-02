@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-02T21:24:57.311907+00:00",
+  "updated_at": "2026-10-02T22:05:12.328649+00:00",
   "news": [
+    {
+      "title": "Yankees tab Cole to start Game 1 of ALDS against Rays",
+      "link": "https://www.mlb.com/news/gerrit-cole-set-to-start-alds-game-1-for-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790947674/mlb/xyggjjaojalhfdgylegh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-02T21:18:00+00:00",
+      "time_ago": "47m ago"
+    },
     {
       "title": "Padres tab Ray to start Game 1 of NLDS vs. Brewers",
       "link": "https://www.mlb.com/news/robbie-ray-to-start-game-1-of-2026-nlds",
@@ -12,20 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-02T21:14:00+00:00",
-      "time_ago": "10m ago"
-    },
-    {
-      "title": "Having shed underdog label, why is this the year for the Brewers?",
-      "link": "https://www.mlb.com/news/why-2026-season-feels-different-for-the-brewers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ouqdefhrb9xcryrc5frq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-02T21:12:00+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "51m ago"
     },
     {
       "title": "Will Aaron Judge be on the Yankees' ALDS roster? Here's the latest",
@@ -38,7 +38,20 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-02T20:57:00+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Antonacci fell on purpose, and the White Sox have been rising ever since",
+      "link": "https://www.mlb.com/news/sam-antonacci-white-sox-alds-guardians",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bnrqxljsbpbwfdxrnghd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rhett Bollinger",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-02T20:07:28+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "White Sox turn to rookie Hagen Smith to start Game 1 vs. Guardians",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-02T19:59:17+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Skubal gets the nod over Yamamoto for LA in NLDS Game 1 (source)",
@@ -64,7 +77,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-02T19:29:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "After Schlittler's dominant ALWC G1 start, it's Cole's turn in ALDS",
+      "link": "https://www.mlb.com/news/yankees-counting-on-gerrit-cole-to-be-dominant-in-alds-game-1",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lxozokwxc3wq1gc6od9m",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mike Lupica",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-02T18:59:39+00:00",
+      "time_ago": "3h ago"
     },
     {
       "title": "Four eye-opening performances from the Wild Card Series",
@@ -77,33 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-02T17:37:05+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "How has having a bye affected teams in the DS?",
-      "link": "https://www.mlb.com/news/how-first-round-bye-affects-mlb-playoff-teams",
-      "summary": "In 4 seasons of current format, bye teams are 9-7 in Division Series",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790302054/mlb/u6spidiqhydcqhaiqegm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mike Petriello",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-02T16:31:00+00:00",
       "time_ago": "4h ago"
-    },
-    {
-      "title": "Breaking down each of the 4 Division Series",
-      "link": "https://www.mlb.com/news/mlb-2026-division-series-matchups",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p824owuxvorg07twr4gr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-02T14:05:00+00:00",
-      "time_ago": "7h ago"
     }
   ]
 }
