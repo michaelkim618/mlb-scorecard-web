@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-02T05:55:20.444471+00:00",
+  "updated_at": "2026-10-02T06:42:14.524274+00:00",
   "news": [
+    {
+      "title": "Kerr the reason 'everything fell into place' for Braves to fight off Phils",
+      "link": "https://www.mlb.com/news/braves-win-nl-wild-card-series-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790917971/mlb/glla5gitgbunqam5bqkp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-02T06:24:00+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Phillies' latest early playoff exit puts veteran core at crossroads",
+      "link": "https://www.mlb.com/news/phillies-lose-to-braves-in-2026-nl-wild-card-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/klgs5loea7dvtfmqpycw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-02T06:12:00+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "Sale's pitch to Weiss pays off: Lefty bookends Braves' Wild Card Series win",
+      "link": "https://www.mlb.com/news/chris-sale-closes-out-braves-nl-wild-card-series-clincher",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790917411/mlb/qnjmcso0xqkc9aik1hjd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-02T05:54:13+00:00",
+      "time_ago": "48m ago"
+    },
     {
       "title": "Nola's command issues lead to short start in Game 3",
       "link": "https://www.mlb.com/news/phillies-discuss-pitching-plans-for-game-3-of-nl-wild-card-series",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-02T05:24:00+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Mattingly not ready to talk managing in '27, but Phillies' core backs skipper",
@@ -25,20 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-02T05:18:38+00:00",
-      "time_ago": "36m ago"
-    },
-    {
-      "title": "Braves finish off Phils to set up date with Dodgers",
-      "link": "https://www.mlb.com/news/braves-win-nl-wild-card-series-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ccvdxoraaq5dql9tra66",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-02T05:05:00+00:00",
-      "time_ago": "50m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Braves-Dodgers NLDS position-by-position breakdown",
@@ -77,33 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-02T03:19:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "After squeaking into playoffs, Phils bounced by rivals in Wild Card round",
-      "link": "https://www.mlb.com/news/phillies-lose-to-braves-in-2026-nl-wild-card-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/klgs5loea7dvtfmqpycw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-02T03:13:57+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Game times set through Division Series",
-      "link": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790910197/mlb/q4ae0iojstppohv2dzkc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-02T03:10:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
