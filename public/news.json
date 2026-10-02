@@ -1,31 +1,57 @@
 {
-  "updated_at": "2026-10-02T02:31:00.799395+00:00",
+  "updated_at": "2026-10-02T03:12:03.235132+00:00",
   "news": [
     {
-      "title": "Called to open Game 3 for Braves, Kerr lights out in key spot",
-      "link": "https://www.mlb.com/news/grant-holmes-ray-kerr-brent-suter-braves-nl-wild-card-game-3",
+      "title": "Game times set through Division Series",
+      "link": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790904193/mlb/kfzgk0kwu2fehxwxl0eb",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790910197/mlb/q4ae0iojstppohv2dzkc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-02T03:05:00+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Braves finish off Phils to set up date with Dodgers",
+      "link": "https://www.mlb.com/news/braves-win-nl-wild-card-series-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t3ccysaaxqfv1350ywar",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Mark Bowman",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-02T01:42:00+00:00",
-      "time_ago": "49m ago"
+      "pub_date": "2026-10-02T03:03:17+00:00",
+      "time_ago": "8m ago"
     },
     {
-      "title": "LIVE: Fast start for Braves on Harris' homer (NBC/Peacock)",
+      "title": "Harris golfs 3-run shot to get Game 3 started with a blast",
       "link": "https://www.mlb.com/news/michael-harris-ii-homers-game-3-nl-wild-card-series-2026",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790902175/mlb/nfaeozaubwmzgsronja4",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Paul Casella",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-02T01:13:17+00:00",
-      "time_ago": "1h ago"
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-02T03:02:00+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "Kerr, Holmes shine in Braves' Wild Card-clinching win",
+      "link": "https://www.mlb.com/news/grant-holmes-ray-kerr-brent-suter-braves-nl-wild-card-game-3",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790904193/mlb/kfzgk0kwu2fehxwxl0eb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-02T02:59:00+00:00",
+      "time_ago": "13m ago"
     },
     {
       "title": "Here's how the pitching might line up for the Padres-Brewers NLDS",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-02T01:09:53+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Nola's command issues lead to short start in Game 3",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-02T01:02:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Lovullo remains D-backs manager with new 2-year deal",
@@ -64,19 +90,6 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-10-02T00:49:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Game times set through Division Series",
-      "link": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790830925/mlb/q4ae0iojstppohv2dzkc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-02T00:05:00+00:00",
       "time_ago": "2h ago"
     },
     {
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-01T23:40:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Yankees-Rays ALDS Game 1 FAQ (Sat., 6:30 p.m. ET, TBS/HBO Max)",
-      "link": "https://www.mlb.com/news/yankees-vs-rays-alds-game-1-starting-lineups-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790874789/mlb/ocjtffxm5ygkmzfvssn1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch, Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-01T22:25:00+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
