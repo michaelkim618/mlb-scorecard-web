@@ -326,12 +326,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 45.3,
-      "home": 54.7
+      "away": 43.1,
+      "home": 56.9
     },
     "expected_score": {
       "away": 1.6,
-      "home": 1.8
+      "home": 2.1
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -527,7 +527,7 @@ window.PREDICTIONS_DATA = [
         "total": 48.5
       },
       "home": {
-        "sp_score": 39.8,
+        "sp_score": 40.8,
         "sp_detail": {
           "era": 1.47,
           "whip": 0.6,
@@ -593,7 +593,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 71.6,
+        "bp_score": 73.4,
         "bp_detail": {
           "bullpen_era": 2.69,
           "recent_era": 3.46,
@@ -605,14 +605,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.55,
           "closer_name": "Raisel Iglesias"
         },
-        "bat_score": 25.7,
+        "bat_score": 29.3,
         "bat_detail": {
           "recent_avg": 0.234,
           "runs_per_g": 4.0,
           "hr_per_g": 1.2,
           "bb_per_g": 3.0,
           "season_ops": 0.72,
-          "season_slg": 0.364,
+          "season_slg": null,
           "season_avg": 0.234,
           "n_games": 9,
           "source": "prev_day",
@@ -702,14 +702,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.6,
-        "total": 49.8
+        "total": 51.7
       }
     },
     "scores": {
       "away_offense": 25.0,
       "away_defense": 51.6,
-      "home_offense": 25.7,
-      "home_defense": 55.7
+      "home_offense": 29.3,
+      "home_defense": 57.1
     },
     "actual_score": {
       "away": 2,
@@ -734,7 +734,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 54.7% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 56.9% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
