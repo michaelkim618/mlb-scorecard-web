@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-10-03T02:16:11.402675+00:00",
+  "updated_at": "2026-10-03T03:14:51.140853+00:00",
   "news": [
+    {
+      "title": "Who wins each Division Series? Here are our picks",
+      "link": "https://www.mlb.com/news/2026-mlb-division-series-predictions",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fcwxt6ljlmw0tufpwbvq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Manny Randhawa",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-03T02:17:54+00:00",
+      "time_ago": "56m ago"
+    },
+    {
+      "title": "'Giving everything he has': Ohtani seeks power surge in NLDS",
+      "link": "https://www.mlb.com/news/shohei-ohtani-hopes-to-find-swing-in-postseason",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yh23f22q2uafqn7sorhq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-03T02:17:38+00:00",
+      "time_ago": "57m ago"
+    },
+    {
+      "title": "Here is 1 burning question for each Division Series",
+      "link": "https://www.mlb.com/news/one-key-question-for-each-division-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/q5gnuxztwyqdjqj9jedl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-03T02:16:56+00:00",
+      "time_ago": "57m ago"
+    },
+    {
+      "title": "This young slugger tops Hitter Power Rankings for Division Series",
+      "link": "https://www.mlb.com/news/2026-division-series-hitter-power-rankings",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vernsqw7dh9xrjviejvq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-03T02:11:48+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Forever connected by Braves, Olson and Freeman welcome first postseason faceoff",
+      "link": "https://www.mlb.com/news/matt-olson-braves-face-freddie-freeman-in-playoffs-for-first-time",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fcwmewvgvssgcuz680z4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-03T01:55:01+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Skubal gets the nod over Yamamoto for LA in NLDS Game 1",
       "link": "https://www.mlb.com/news/tarik-skubal-to-start-game-1-of-2026-nlds",
@@ -12,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-03T01:13:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Miz and Miller in same series? Postseason velocity records beware!",
@@ -25,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-03T01:03:26+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Braves-Dodgers NL Division Series Game 1 FAQ (Sat., 4 p.m. ET, FOX/FOX One)",
@@ -38,71 +103,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-03T00:47:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Guards' biggest weapon this October just might be their young lockdown closer",
-      "link": "https://www.mlb.com/news/cade-smith-2026-alds-guardians-star-closer",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/b9zsp5m2pxrsi2jigrjc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-03T00:32:59+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Three months of struggle unleashed a relentless second half for Tatis",
-      "link": "https://www.mlb.com/news/fernando-tatis-jr-rides-second-half-surge-into-postseason",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ayuflzuqscnduqepdpvb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-03T00:30:35+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Padres-Brewers NL Division Series Game 1 FAQ (Sat., 8:30 p.m. ET, FS1)",
-      "link": "https://www.mlb.com/news/padres-brewers-nl-division-series-game-1-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790988547/mlb/iwcvfdjyib8ctil1rkfw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-03T00:05:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "How Yankees' best hitter matches up with AL's best team",
-      "link": "https://www.mlb.com/news/how-ben-rice-matches-up-vs-rays-in-alds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ogxq2e3f3yve7nedepli",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "David Adler",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-02T23:54:35+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Padres go with Deadline acquisition Ray to start NLDS Game 1",
-      "link": "https://www.mlb.com/news/robbie-ray-to-start-game-1-of-2026-nlds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nn88dwwb2cstaau0vrdx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jessica Camerato",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-10-02T23:38:00+00:00",
       "time_ago": "2h ago"
     }
   ]
