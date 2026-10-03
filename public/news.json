@@ -1,18 +1,44 @@
 {
-  "updated_at": "2026-10-03T18:47:34.477213+00:00",
+  "updated_at": "2026-10-03T18:54:42.719756+00:00",
   "news": [
     {
-      "title": "Murakami's first postseason homer an absolute moonshot (LIVE on TBS/HBO Max)",
+      "title": "Murakami's 1st postseason HR? A 440-foot moonshot in Game 1 of ALDS",
+      "link": "https://www.mlb.com/news/munetaka-murakami-homers-in-game-1-of-alds-vs-guardians",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/owoisi9mrx2xu261ua2z",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-03T18:39:32+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "Dodgers top prospect De Paula, reliever Henriquez make NL Division Series roster",
+      "link": "https://www.mlb.com/news/dodgers-2026-nl-division-series-roster",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kemejpahfkbkbx73nth1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-03T18:23:00+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "White Sox strike first vs. Guardians in Game 1 (LIVE on TBS/HBO Max)",
       "link": "https://www.mlb.com/stories/game/849829",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f5yrxqqc5h01zgabgiqc",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791052982/mlb/f5yrxqqc5h01zgabgiqc",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
       "pub_date": "2026-10-03T18:22:26+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "32m ago"
     },
     {
       "title": "Braves-Dodgers NLDS Game 1 FAQ, lineups (4 p.m. ET, FOX/FOX One)",
@@ -25,20 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-03T18:08:00+00:00",
-      "time_ago": "39m ago"
-    },
-    {
-      "title": "Dodgers top prospect De Paula, reliever Henriquez make NL Division Series roster",
-      "link": "https://www.mlb.com/news/dodgers-2026-nl-division-series-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kemejpahfkbkbx73nth1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-03T17:57:13+00:00",
-      "time_ago": "50m ago"
+      "time_ago": "46m ago"
     },
     {
       "title": "'Give me the ball': Miz up for potential relief role between playoff starts",
@@ -51,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-03T17:48:43+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Thomas returns, Ritchie and Smith-Shawver active for NL Division Series",
@@ -64,19 +77,6 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-03T17:27:45+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Game times set through Division Series",
-      "link": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790910197/mlb/q4ae0iojstppohv2dzkc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-03T16:52:00+00:00",
       "time_ago": "1h ago"
     },
     {
