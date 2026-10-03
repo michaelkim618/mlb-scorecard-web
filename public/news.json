@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-03T18:06:41.120029+00:00",
+  "updated_at": "2026-10-03T18:28:13.345061+00:00",
   "news": [
+    {
+      "title": "Murakami's first postseason homer an absolute moonshot (LIVE on TBS/HBO Max)",
+      "link": "https://www.mlb.com/stories/game/849829",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f5yrxqqc5h01zgabgiqc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-03T18:22:26+00:00",
+      "time_ago": "5m ago"
+    },
     {
       "title": "Braves-Dodgers NLDS Game 1 FAQ, lineups (4 p.m. ET, FOX/FOX One)",
       "link": "https://www.mlb.com/news/braves-vs-dodgers-nlds-game-1-starting-lineups-pitching-matchup",
@@ -11,8 +24,47 @@
       "author": "Mark Bowman, Sonja Chen",
       "tag": "Roster",
       "tag_color": "#0284C7",
-      "pub_date": "2026-10-03T17:38:00+00:00",
-      "time_ago": "28m ago"
+      "pub_date": "2026-10-03T18:08:00+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "Dodgers top prospect De Paula, reliever Henriquez make NL Division Series roster",
+      "link": "https://www.mlb.com/news/dodgers-2026-nl-division-series-roster",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kemejpahfkbkbx73nth1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-03T17:57:13+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "'Give me the ball': Miz up for potential relief role between playoff starts",
+      "link": "https://www.mlb.com/news/jacob-misiorowski-on-potential-bullpen-appearance-in-playoffs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ijk8rkalqqbedq8chgca",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-03T17:48:43+00:00",
+      "time_ago": "39m ago"
+    },
+    {
+      "title": "Thomas returns, Ritchie and Smith-Shawver active for NL Division Series",
+      "link": "https://www.mlb.com/news/braves-2026-nl-division-series-roster",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zagnrmlaaik1qr9vwmc8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-03T17:27:45+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Game times set through Division Series",
@@ -28,19 +80,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "White Sox-Guardians ALDS Game 1 (LIVE on TBS/HBO Max)",
-      "link": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-1-starting-lineups-pitching-matchup-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790999796/mlb/lwu89cbppyaygsfnld56",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin and Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-03T16:44:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Guardians announce ALDS roster; Hoskins, Cecconi odd men out",
       "link": "https://www.mlb.com/news/guardians-2026-al-division-series-roster",
       "summary": "",
@@ -51,7 +90,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-03T16:20:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Ortiz makes NLDS roster; Crew goes with 13-man pitching staff",
@@ -64,45 +103,6 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-03T16:01:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Rays finalize 2026 AL Division Series roster",
-      "link": "https://www.mlb.com/news/rays-2026-al-division-series-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dkddodp6c0cvh9b1mpkp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-03T15:42:38+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Padres-Brewers NLDS Game 1 FAQ (8:30 p.m. ET, FS1/FOX One)",
-      "link": "https://www.mlb.com/news/padres-brewers-nl-division-series-game-1-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790988547/mlb/iwcvfdjyib8ctil1rkfw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-03T15:24:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Which ballparks have best home-field advantage in postseason?",
-      "link": "https://www.mlb.com/news/best-home-field-advantage-in-mlb-playoffs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ggkwoor449ptpmqqgfx5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Cole Jacobson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-03T15:16:00+00:00",
       "time_ago": "2h ago"
     }
   ]
