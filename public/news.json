@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-03T18:54:42.719756+00:00",
+  "updated_at": "2026-10-03T19:19:58.332769+00:00",
   "news": [
+    {
+      "title": "Yankees-Rays ALDS Game 1 FAQ, lineups (6:30 p.m. ET, TBS/HBO Max)",
+      "link": "https://www.mlb.com/news/yankees-vs-rays-alds-game-1-starting-lineups-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j5qc9f8l72sexdhvixjj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch, Adam Berry",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-03T18:45:00+00:00",
+      "time_ago": "34m ago"
+    },
     {
       "title": "Murakami's 1st postseason HR? A 440-foot moonshot in Game 1 of ALDS",
       "link": "https://www.mlb.com/news/munetaka-murakami-homers-in-game-1-of-alds-vs-guardians",
@@ -12,7 +25,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-03T18:39:32+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "40m ago"
     },
     {
       "title": "Dodgers top prospect De Paula, reliever Henriquez make NL Division Series roster",
@@ -25,7 +38,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-03T18:23:00+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "56m ago"
     },
     {
       "title": "White Sox strike first vs. Guardians in Game 1 (LIVE on TBS/HBO Max)",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-03T18:22:26+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "Braves-Dodgers NLDS Game 1 FAQ, lineups (4 p.m. ET, FOX/FOX One)",
@@ -51,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-03T18:08:00+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'Give me the ball': Miz up for potential relief role between playoff starts",
@@ -90,19 +103,6 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-03T16:20:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Ortiz makes NLDS roster; Crew goes with 13-man pitching staff",
-      "link": "https://www.mlb.com/news/brewers-2026-nl-division-series-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zjcctlb0x8kbhduh01dz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-03T16:01:00+00:00",
       "time_ago": "2h ago"
     }
   ]
