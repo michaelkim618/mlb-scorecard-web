@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-10-02-daily-doc",
+      "title": "Oct 3 Preview: When Small Sample Size Meets High Leverage",
+      "author": "Doc",
+      "author_emoji": "🧠",
+      "author_color": "#7C3AED",
+      "author_role": "Sabermetrician",
+      "date": "2026-10-02",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#7C3AED",
+      "read_time": "3 min",
+      "summary": "No games Oct 2 — analyzing tomorrow's volatile matchup through a sabermetric lens"
+    },
+    {
       "slug": "2026-10-01-daily-ace",
       "title": "Oct 1 Results: Clean Sheet from the Mound",
       "author": "Ace",
