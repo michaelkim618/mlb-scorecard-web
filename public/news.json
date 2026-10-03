@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-03T21:36:35.773783+00:00",
+  "updated_at": "2026-10-03T22:04:32.960035+00:00",
   "news": [
+    {
+      "title": "Lingering calf injury keeps Judge off ALDS roster",
+      "link": "https://www.mlb.com/news/yankees-aaron-judge-injury-update-ahead-of-alds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zhwohedofzhaftpzpway",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-10-03T21:47:00+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "LIVE: Dodgers power up behind Skubal in Game 1 (FOX/FOX One)",
+      "link": "https://www.mlb.com/stories/game/849828",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hzejuzqa0o6ccrhrwxi3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-03T21:44:37+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Rays finalize 2026 AL Division Series roster",
+      "link": "https://www.mlb.com/news/rays-2026-al-division-series-roster",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dkddodp6c0cvh9b1mpkp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-03T21:38:00+00:00",
+      "time_ago": "26m ago"
+    },
     {
       "title": "Padres-Brewers NLDS Game 1 FAQ, lineups (8:30 p.m. ET, FS1/FOX One)",
       "link": "https://www.mlb.com/news/padres-brewers-nl-division-series-game-1-starting-lineups-and-pitching-matchup",
@@ -12,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-03T20:54:00+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Martínez's leaping grab was only HALF of this ridiculous play",
@@ -25,6 +64,19 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-03T20:27:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Sale in play for Game 2 start? That depends ... on how Braves fare in Game 1",
+      "link": "https://www.mlb.com/news/chris-sale-pitching-plan-nlds-vs-dodgers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gcadlue5wyfmyzqvspxk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-03T20:12:12+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -51,58 +103,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-10-03T20:03:26+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "LIVE: Braves-Dodgers NLDS Game 1 (FOX/FOX One)",
-      "link": "https://www.mlb.com/news/braves-vs-dodgers-nlds-game-1-starting-lineups-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ocqop24xtouafj8x03mo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman, Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-03T20:00:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Game times set through Division Series",
-      "link": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791057593/mlb/q4ae0iojstppohv2dzkc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-03T19:57:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Yankees-Rays ALDS Game 1 FAQ, lineups (6:30 p.m. ET, TBS/HBO Max)",
-      "link": "https://www.mlb.com/news/yankees-vs-rays-alds-game-1-starting-lineups-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j5qc9f8l72sexdhvixjj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch, Adam Berry",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-03T18:45:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Murakami's 1st postseason HR? A 440-foot moonshot in Game 1 of ALDS",
-      "link": "https://www.mlb.com/news/munetaka-murakami-homers-in-game-1-of-alds-vs-guardians",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fz4faqgi2pq4a11sb2sp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-03T18:39:32+00:00",
       "time_ago": "2h ago"
     }
   ]
