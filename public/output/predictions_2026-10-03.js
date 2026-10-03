@@ -842,61 +842,39 @@ window.PREDICTIONS_DATA = [
       "losses": 2,
       "streak": 3
     },
-    "away_pitcher": "JR Ritchie (TBD)",
-    "away_pitcher_id": 702275,
+    "away_pitcher": "Dylan Dodd",
+    "away_pitcher_id": 689266,
     "away_pitcher_stats": {
-      "wins": 1,
-      "losses": 5,
-      "era": "4.91"
+      "wins": 4,
+      "losses": 1,
+      "era": "2.54"
     },
     "away_pitcher_gamelog": [
       {
-        "date": "2026-06-23",
-        "opp": "@ SD",
-        "decision": null,
-        "ip": "5.0",
-        "er": 4,
-        "h": 5,
-        "bb": 4,
-        "so": 7,
-        "era": 7.2
-      },
-      {
-        "date": "2026-07-04",
-        "opp": "vs NYM",
-        "decision": null,
-        "ip": "3.0",
+        "date": "2026-08-25",
+        "opp": "vs LAD",
+        "decision": "W",
+        "ip": "0.1",
         "er": 0,
-        "h": 3,
-        "bb": 1,
-        "so": 4,
+        "h": 0,
+        "bb": 0,
+        "so": 0,
         "era": 0.0
       },
       {
-        "date": "2026-07-09",
-        "opp": "@ PIT",
+        "date": "2026-08-26",
+        "opp": "vs LAD",
         "decision": null,
-        "ip": "1.1",
-        "er": 1,
-        "h": 2,
-        "bb": 2,
-        "so": 1,
-        "era": 6.75
-      },
-      {
-        "date": "2026-07-12",
-        "opp": "@ STL",
-        "decision": null,
-        "ip": "4.1",
-        "er": 1,
+        "ip": "1.0",
+        "er": 0,
         "h": 1,
-        "bb": 2,
-        "so": 2,
-        "era": 2.08
+        "bb": 0,
+        "so": 0,
+        "era": 0.0
       },
       {
-        "date": "2026-07-18",
-        "opp": "vs TEX",
+        "date": "2026-08-28",
+        "opp": "vs COL",
         "decision": null,
         "ip": "1.0",
         "er": 0,
@@ -906,59 +884,81 @@ window.PREDICTIONS_DATA = [
         "era": 0.0
       },
       {
-        "date": "2026-07-21",
-        "opp": "vs SD",
+        "date": "2026-08-30",
+        "opp": "vs COL",
         "decision": null,
-        "ip": "3.2",
-        "er": 3,
-        "h": 3,
-        "bb": 3,
-        "so": 4,
-        "era": 7.36
+        "ip": "0.1",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 1,
+        "era": 0.0
       },
       {
-        "date": "2026-08-02",
-        "opp": "vs WSH",
+        "date": "2026-09-02",
+        "opp": "@ WSH",
         "decision": null,
-        "ip": "4.0",
+        "ip": "1.0",
+        "er": 0,
+        "h": 0,
+        "bb": 1,
+        "so": 1,
+        "era": 0.0
+      },
+      {
+        "date": "2026-09-06",
+        "opp": "@ PHI",
+        "decision": null,
+        "ip": "1.0",
         "er": 2,
-        "h": 4,
-        "bb": 3,
-        "so": 4,
-        "era": 4.5
+        "h": 2,
+        "bb": 0,
+        "so": 1,
+        "era": 18.0
       },
       {
         "date": "2026-09-16",
         "opp": "@ CHC",
-        "decision": "L",
-        "ip": "4.2",
-        "er": 6,
-        "h": 7,
-        "bb": 2,
-        "so": 5,
-        "era": 11.57
+        "decision": null,
+        "ip": "0.1",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 0,
+        "era": 0.0
       },
       {
-        "date": "2026-09-22",
+        "date": "2026-09-20",
+        "opp": "@ HOU",
+        "decision": null,
+        "ip": "1.0",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 3,
+        "era": 0.0
+      },
+      {
+        "date": "2026-09-24",
         "opp": "vs CIN",
-        "decision": "L",
-        "ip": "5.0",
-        "er": 1,
-        "h": 4,
-        "bb": 3,
-        "so": 8,
-        "era": 1.8
+        "decision": null,
+        "ip": "2.0",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 3,
+        "era": 0.0
       },
       {
-        "date": "2026-09-27",
+        "date": "2026-09-26",
         "opp": "@ MIA",
-        "decision": "L",
-        "ip": "5.2",
-        "er": 4,
-        "h": 7,
-        "bb": 2,
-        "so": 2,
-        "era": 6.35
+        "decision": null,
+        "ip": "1.0",
+        "er": 2,
+        "h": 3,
+        "bb": 0,
+        "so": 0,
+        "era": 18.0
       }
     ],
     "home_pitcher": "Tarik Skubal",
@@ -1082,49 +1082,79 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 35.2,
-      "home": 64.8
+      "away": 37.0,
+      "home": 63.0
     },
     "expected_score": {
       "away": 1.8,
-      "home": 2.9
+      "home": 3.2
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
       "bat_source": "team_stats",
-      "away_handedness": "R",
+      "away_handedness": "L",
       "home_handedness": "L",
       "bullpen_game": false,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.33,
-        "bp": 0.27,
-        "bat": 0.33,
+        "sp": 0.2,
+        "bp": 0.46,
+        "bat": 0.19,
         "sit": 0.15
       },
       "away": {
-        "sp_score": 45.0,
+        "sp_score": 21.0,
         "sp_detail": {
-          "era": 5.26,
-          "whip": 1.57,
-          "k9": 9.1,
-          "avg_ip": 3.8,
+          "era": 4.0,
+          "whip": 0.89,
+          "k9": 10.0,
+          "avg_ip": 0.9,
           "qs_rate": 0.0,
-          "last3_era": 6.26,
-          "last_start_era": 6.35,
+          "last3_era": 6.75,
+          "last_start_era": 18.0,
           "last2_eras": [
-            1.8,
-            6.35
+            0.0,
+            18.0
           ],
-          "recent_avg_era": 6.35,
-          "recent_bad_start": false,
+          "recent_avg_era": 18.0,
+          "recent_bad_start": true,
           "trend": "cold",
           "n_games": 10,
           "sample_confidence": 1.0,
-          "rest_days": 6,
-          "rest_note": null
+          "rest_days": 7,
+          "rest_note": "extra_rest",
+          "age": 28,
+          "fb_velo": 93.9,
+          "pitch_arsenal": [
+            "SI",
+            "CT",
+            "SL"
+          ],
+          "secondary_pitches": [
+            "SL"
+          ],
+          "pitches_detail": [
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 60.1,
+              "velo": 93.9
+            },
+            {
+              "code": "FC",
+              "abbr": "CT",
+              "pct": 35.2,
+              "velo": 87.1
+            },
+            {
+              "code": "SL",
+              "abbr": "SL",
+              "pct": 4.6,
+              "velo": 82.5
+            }
+          ]
         },
         "bp_score": 75.0,
         "bp_detail": {
@@ -1179,7 +1209,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 57.6,
-        "total": 47.7
+        "total": 47.9
       },
       "home": {
         "sp_score": 72.0,
@@ -1302,12 +1332,12 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 68.9,
-        "total": 67.7
+        "total": 65.6
       }
     },
     "scores": {
       "away_offense": 30.3,
-      "away_defense": 60.0,
+      "away_defense": 48.0,
       "home_offense": 43.9,
       "home_defense": 71.4
     },
@@ -1317,10 +1347,10 @@ window.PREDICTIONS_DATA = [
     },
     "lineup_confirmed": false,
     "sp_tbd": {
-      "away": true,
+      "away": false,
       "home": false,
       "both": false,
-      "any": true
+      "any": false
     },
     "actual_winner": null,
     "model_winner": "Los Angeles Dodgers",
@@ -1336,7 +1366,7 @@ window.PREDICTIONS_DATA = [
     "low_confidence": false,
     "low_confidence_reason": null,
     "opener_game": {
-      "away": false,
+      "away": true,
       "home": false
     },
     "model_version": "v17"
