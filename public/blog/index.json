@@ -2,7 +2,7 @@
   "posts": [
     {
       "slug": "2026-10-02-daily-doc",
-      "title": "Oct 3 Preview: When the Data Breaks Through the Noise",
+      "title": "Oct 3 Preview: When Small Samples Meet October Baseball",
       "author": "Doc",
       "author_emoji": "🧠",
       "author_color": "#7C3AED",
@@ -12,7 +12,7 @@
       "tag": "Daily Review",
       "tag_color": "#7C3AED",
       "read_time": "3 min",
-      "summary": "No games Oct 2. Oct 3 slate features promising efficiency metrics in Cleveland matchup."
+      "summary": "No games Oct 2 — analyzing tomorrow's probabilistic edges in limited data environments"
     },
     {
       "slug": "2026-10-01-daily-ace",

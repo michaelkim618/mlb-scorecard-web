@@ -1161,7 +1161,7 @@
           "recent_era": 3.0,
           "recent_appearances": 6,
           "recent_ip": 9.0,
-          "team_era": 2.94,
+          "team_era": 3.2,
           "bp_ip": 427.7,
           "bp_count": 8,
           "closer_era": 2.55,
@@ -1278,15 +1278,15 @@
             }
           ]
         },
-        "bp_score": 70.8,
+        "bp_score": 69.4,
         "bp_detail": {
-          "bullpen_era": 3.22,
-          "recent_era": 2.45,
-          "recent_appearances": 9,
-          "recent_ip": 11.0,
-          "team_era": 3.23,
-          "bp_ip": 332.7,
-          "bp_count": 9,
+          "bullpen_era": 3.21,
+          "recent_era": 2.57,
+          "recent_appearances": 7,
+          "recent_ip": 7.0,
+          "team_era": 3.16,
+          "bp_ip": 260.7,
+          "bp_count": 7,
           "closer_era": 2.69,
           "closer_name": "Tanner Scott"
         },
@@ -1331,14 +1331,14 @@
           }
         },
         "sit_score": 68.9,
-        "total": 65.6
+        "total": 65.0
       }
     },
     "scores": {
       "away_offense": 30.3,
       "away_defense": 48.0,
       "home_offense": 43.9,
-      "home_defense": 71.4
+      "home_defense": 70.7
     },
     "actual_score": {
       "away": null,
