@@ -1,18 +1,70 @@
 {
-  "updated_at": "2026-10-04T00:13:25.071561+00:00",
+  "updated_at": "2026-10-04T00:54:09.651631+00:00",
   "news": [
     {
-      "title": "LIVE: Rays strike first at rockin' Trop (TBS/HBO Max)",
-      "link": "https://www.mlb.com/stories/game/849835",
+      "title": "Skubal deals, role players step up and more NLDS Game 1 takeaways",
+      "link": "https://www.mlb.com/news/braves-dodgers-nlds-game-1-takeaways",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/v1uxmhxcstr0th4cpwla",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dwc528rbfa6zmnuuplgl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-10-04T00:42:00+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Game times set through Division Series",
+      "link": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791068133/mlb/q4ae0iojstppohv2dzkc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-04T00:16:00+00:00",
+      "time_ago": "38m ago"
+    },
+    {
+      "title": "Padres-Brewers NLDS Game 1: LIVE on FS1/FOX One",
+      "link": "https://www.mlb.com/news/padres-brewers-nl-division-series-game-1-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790988547/mlb/iwcvfdjyib8ctil1rkfw",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
+      "pub_date": "2026-10-04T00:12:00+00:00",
+      "time_ago": "42m ago"
+    },
+    {
+      "title": "White Sox-Guardians ALDS Game 2 FAQ (Mon., 5 ET, TBS/HBO Max)",
+      "link": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-2-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ku3gyzaqozqxobutediu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin and Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-04T00:03:42+00:00",
+      "time_ago": "50m ago"
+    },
+    {
+      "title": "LIVE: Rasmussen holds Yanks scoreless through 8 (TBS/HBO Max)",
+      "link": "https://www.mlb.com/stories/game/849835",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ezwcux78myccwe4stuvu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
       "pub_date": "2026-10-03T23:52:31+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Teo gets Dodgers' NLDS going with MASSIVE bat flip, then Tucker, Muncy tack on",
@@ -25,20 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-03T23:42:00+00:00",
-      "time_ago": "31m ago"
-    },
-    {
-      "title": "Skubal deals, role players step up and more NLDS Game 1 takeaways",
-      "link": "https://www.mlb.com/news/braves-dodgers-nlds-game-1-takeaways",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/m61wyuna6ytz0tqqipkw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-10-03T23:34:24+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Messick's stuff plays in October, even if Game 1 result doesn't",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-03T23:23:27+00:00",
-      "time_ago": "49m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Skubal displays tools of the trade to propel LA in opener",
@@ -64,45 +103,6 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-10-03T23:03:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Ortiz makes NLDS roster; Crew goes with 13-man pitching staff",
-      "link": "https://www.mlb.com/news/brewers-2026-nl-division-series-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zjcctlb0x8kbhduh01dz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-03T23:03:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Braves' lack of starter depth exposed in 'pen game to open NLDS",
-      "link": "https://www.mlb.com/news/braves-lose-bullpen-game-to-dodgers-in-nlds-game-1",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zigptzjdw0sxo8vl4ovt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-03T23:02:16+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Which ballparks have best home-field advantage in postseason?",
-      "link": "https://www.mlb.com/news/best-home-field-advantage-in-mlb-playoffs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ggkwoor449ptpmqqgfx5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Cole Jacobson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-03T23:00:00+00:00",
       "time_ago": "1h ago"
     }
   ]
