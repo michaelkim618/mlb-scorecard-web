@@ -1086,8 +1086,8 @@ window.PREDICTIONS_DATA = [
       "home": 65.0
     },
     "expected_score": {
-      "away": 2.0,
-      "home": 3.7
+      "away": 1.6,
+      "home": 3.4
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -1100,12 +1100,12 @@ window.PREDICTIONS_DATA = [
       "any_cold_sp": true,
       "eff_weights": {
         "sp": 0.2,
-        "bp": 0.46,
-        "bat": 0.19,
+        "bp": 0.45,
+        "bat": 0.2,
         "sit": 0.15
       },
       "away": {
-        "sp_score": 21.0,
+        "sp_score": 20.6,
         "sp_detail": {
           "era": 4.0,
           "whip": 0.89,
@@ -1156,7 +1156,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 75.0,
+        "bp_score": 73.4,
         "bp_detail": {
           "bullpen_era": 2.69,
           "recent_era": 2.69,
@@ -1168,14 +1168,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.55,
           "closer_name": "Raisel Iglesias"
         },
-        "bat_score": 35.0,
+        "bat_score": 26.8,
         "bat_detail": {
           "recent_avg": 0.224,
           "runs_per_g": 4.0,
           "hr_per_g": 1.2,
           "bb_per_g": 3.0,
           "season_ops": 0.676,
-          "season_slg": 0.364,
+          "season_slg": null,
           "season_avg": 0.224,
           "n_games": 9,
           "source": "prev_day",
@@ -1265,7 +1265,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 57.6,
-        "total": 48.8
+        "total": 46.2
       },
       "home": {
         "sp_score": 72.0,
@@ -1347,14 +1347,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.69,
           "closer_name": "Tanner Scott"
         },
-        "bat_score": 51.9,
+        "bat_score": 46.7,
         "bat_detail": {
           "recent_avg": 0.289,
           "runs_per_g": 5.0,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
           "season_ops": 0.807,
-          "season_slg": 0.451,
+          "season_slg": null,
           "season_avg": 0.289,
           "n_games": 9,
           "source": "prev_day",
@@ -1444,13 +1444,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 68.9,
-        "total": 67.0
+        "total": 65.8
       }
     },
     "scores": {
-      "away_offense": 35.0,
-      "away_defense": 48.0,
-      "home_offense": 51.9,
+      "away_offense": 26.8,
+      "away_defense": 47.0,
+      "home_offense": 46.7,
       "home_defense": 71.2
     },
     "actual_score": {

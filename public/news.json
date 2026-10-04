@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-04T17:46:20.081390+00:00",
+  "updated_at": "2026-10-04T18:05:00.830339+00:00",
   "news": [
+    {
+      "title": "Despite tough stretch drive, May gets Game 3 nod for Crew",
+      "link": "https://www.mlb.com/news/dustin-may-to-start-nlds-game-3-brewers-padres",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/niysdat4pexlsx8o8ohu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-04T17:53:59+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "The new pitch making Cam Schlittler even nastier",
+      "link": "https://www.mlb.com/news/yankees-cam-schlittler-dominating-with-new-curveball",
+      "summary": "Yankees ace threw career-high 32 curveballs in AL Wild Card Series",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/u9go7wjnbio3qbxszoeq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-04T17:42:40+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "How these ALDS teams spawned the American League",
+      "link": "https://www.mlb.com/news/how-chicago-cleveland-helped-form-the-american-league",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e9jkqux3cmokqyp5jfpb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-04T17:29:46+00:00",
+      "time_ago": "35m ago"
+    },
     {
       "title": "Padres-Brewers NLDS Game 2 FAQ, lineups (4 p.m. ET, FS1/FOX One)",
       "link": "https://www.mlb.com/news/padres-brewers-nl-division-series-game-2-starting-lineups-and-pitching-matchup",
@@ -12,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-04T16:51:00+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Quirk of Crew's home park robs Padres of potential go-ahead rally",
@@ -25,20 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T06:54:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "4 big takeaways from Brewers' thrilling NLDS Game 1 win",
-      "link": "https://www.mlb.com/news/padres-brewers-nlds-game-1-takeaways",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791086158/mlb/lqr0d2rbroiveav5nhdd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-04T06:50:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Contreras comes up clutch as Crew captures Game 1 win in NLDS",
@@ -78,32 +104,6 @@
       "tag_color": "#D97706",
       "pub_date": "2026-10-04T06:33:00+00:00",
       "time_ago": "11h ago"
-    },
-    {
-      "title": "1 question for each team going into today's NLDS Game 2s",
-      "link": "https://www.mlb.com/news/2026-nlds-game-2-storylines-what-to-watch-for",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nas49740pa3finf58rav",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T05:10:11+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "Moonshot in Milwaukee off cable joins list of weirdest postseason plays",
-      "link": "https://www.mlb.com/news/weirdest-plays-in-mlb-playoffs-history",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uksqytkc038dneakvyxu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T04:48:00+00:00",
-      "time_ago": "12h ago"
     }
   ]
 }
