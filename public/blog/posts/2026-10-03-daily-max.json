@@ -1,33 +1,73 @@
 {
-  "title": "Oct 3 Results + Oct 4 Preview: Three Straight Wins to Close the Night",
-  "summary": "Model bounced back strong with 3-1 performance after early stumble in Cleveland",
+  "title": "Oct 3 Results + Oct 4 Preview: Three Out of Four Ain't Bad",
+  "summary": "Model goes 3-1 on Oct 3 slate. Brewers back in the spotlight for Oct 4.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Looking Back at October 3rd\n\nYou know, I've been doing this long enough to tell you that a 3-1 night is nothing to sneeze at, especially when you recover from an early miss the way our model did yesterday. The Guardians game didn't go our way—52% confidence turned into a learning moment—but then we rattled off three straight winners. That's the kind of resilience you want to see from any system worth its salt."
+      "value": "## Another Solid Day in the Books\n\nYou know, I've been doing this long enough to tell you that a 3-1 day is exactly what you're looking for over the long haul. Sure, we missed on the Guardians pick—and at 52% confidence, that one was always going to be a coin flip—but the model locked in on three winners when it mattered. That's the kind of consistency that pays the bills."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Oct 3 Record",
+          "label": "Oct 3 W-L",
           "value": "3-1"
         },
         {
-          "label": "Win Rate",
+          "label": "Accuracy",
           "value": "75.0%"
         },
         {
-          "label": "Best Call",
+          "label": "Best Pick",
           "value": "Dodgers 65%"
         }
       ]
     },
     {
+      "type": "text",
+      "value": "## How the Day Unfolded\n\nThe Dodgers pick at 65% was our most confident call, and they delivered as expected. The Rays and Brewers both came through in closer contests—those 53-59% range picks that separate good models from mediocre ones. The Sox-Guardians game? That's baseball. When you're barely above 50%, you accept the losses and move on."
+    },
+    {
+      "type": "table",
+      "title": "Oct 3 Full Results",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Sox @ Guardians",
+          "Guardians",
+          "52%",
+          "✗"
+        ],
+        [
+          "Braves @ Dodgers",
+          "Dodgers",
+          "65%",
+          "✓"
+        ],
+        [
+          "Yankees @ Rays",
+          "Rays",
+          "59%",
+          "✓"
+        ],
+        [
+          "Padres @ Brewers",
+          "Brewers",
+          "53%",
+          "✓"
+        ]
+      ]
+    },
+    {
       "type": "chart",
       "chart_type": "bar",
-      "title": "October 3rd Prediction Performance",
+      "title": "Oct 3 Pick Confidence vs Results",
       "data": [
         {
           "name": "Guardians",
@@ -65,63 +105,19 @@
       ]
     },
     {
-      "type": "table",
-      "title": "Complete October 3rd Results Breakdown",
-      "headers": [
-        "Matchup",
-        "Our Pick",
-        "Confidence",
-        "Outcome"
-      ],
-      "rows": [
-        [
-          "Sox @ Guardians",
-          "Guardians",
-          "52%",
-          "✗ Miss"
-        ],
-        [
-          "Braves @ Dodgers",
-          "Dodgers",
-          "65%",
-          "✓ Hit"
-        ],
-        [
-          "Yankees @ Rays",
-          "Rays",
-          "59%",
-          "✓ Hit"
-        ],
-        [
-          "Padres @ Brewers",
-          "Brewers",
-          "53%",
-          "✓ Hit"
-        ]
-      ]
-    },
-    {
       "type": "text",
-      "value": "## What Worked Yesterday\n\nThe Dodgers call at 65% was our strongest conviction, and Atlanta couldn't keep pace in Chavez Ravine. No surprises there—when LA is rolling at home, you ride that wave. The Rays pulled through at 59%, and Milwaukee squeaked past the Padres despite modest 53% confidence. Sometimes the narrow margins are the ones that separate good handicapping from great handicapping.\n\nThat Cleveland miss? It happens. 52% is essentially a coin flip with a slight lean, and the Sox showed up when it mattered. I've seen enough baseball to know you can't win 'em all, especially the tight ones."
-    },
-    {
-      "type": "text",
-      "value": "## Tomorrow's Slate: October 4th\n\nHere's where it gets interesting. We're going right back to the well with Milwaukee against San Diego. Same matchup, same venue, but this time we're looking at a different pitching dynamic with Michael King taking the hill for the Padres and Logan Henderson countering for the Brewers."
+      "value": "## Tomorrow's Top Pick Preview\n\nWell, well, well—look who's back on the docket. The Padres and Brewers rematch is our top pick for October 4th, and once again we're riding with Milwaukee. Now, I'll be straight with you: at exactly 50%, this is essentially a toss-up. But there's context here that matters."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - October 4th",
+      "title": "⭐ Oct 4 Top Pick",
       "value": "Milwaukee Brewers over San Diego Padres",
-      "sub": "50% confidence · King vs Henderson · American Family Field"
+      "sub": "50% Win Probability • Logan Henderson vs Michael King"
     },
     {
       "type": "text",
-      "value": "## The October 4th Analysis\n\nNow, a 50% pick might raise some eyebrows—I can already hear the questions. But here's the thing: when you're at dead even on paper and the model still leans one way, there's usually something underneath worth exploring. Milwaukee just beat this same Padres squad yesterday, and there's value in home momentum that doesn't always show up in the numbers.\n\nMichael King has been solid for San Diego, no question about it. But Logan Henderson at home in Milwaukee, with the crowd behind him and the confidence of a fresh victory? That's a recipe for another tight, well-pitched game that could tilt either direction. We're taking the home nine.\n\nI've been around long enough to know that 50-50 games are where October baseball lives. This is playoff atmosphere stuff, even if we're still in the regular season. Brewers have the slight edge in our system, and sometimes slight is all you need."
-    },
-    {
-      "type": "text",
-      "value": "## The Veteran's Take\n\nThree-and-one is a winning day in anybody's book. You take those returns, bank the confidence, and move forward. Tomorrow's a new slate, same matchup as yesterday, and we're sticking with what worked: Milwaukee at home. The October grind is all about consistency and conviction, even when the margins are razor-thin.\n\nSee you after first pitch."
+      "value": "## The Pitching Matchup\n\nLogan Henderson takes the ball for Milwaukee against Michael King for San Diego. I've seen this kind of matchup a thousand times—two competitive clubs, decent arms on both sides, and the home field advantage becoming the deciding factor. King has been solid for the Padres, no question, but Henderson at home in Milwaukee has quietly been effective when given run support.\n\nThe 50% number tells you everything: this game could go either way. But when things are even, I lean on home field, and I lean on recent momentum. The Brewers just took yesterday's game in this same building, and there's something to be said for carrying that energy into the next day.\n\nDon't bet the house on this one, folks. But if you're looking for a pick tomorrow, Milwaukee's got just enough edge to warrant the nod."
     }
   ],
   "slug": "2026-10-03-daily-max",
