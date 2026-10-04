@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-04T23:30:18.358501+00:00",
+  "updated_at": "2026-10-04T23:43:51.496560+00:00",
   "news": [
+    {
+      "title": "Padres down 0-2 in NLDS after Miller asked to get 6 outs",
+      "link": "https://www.mlb.com/news/padres-lose-nlds-game-2-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kxxgnqmk1mriuyiylsqz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-04T23:39:27+00:00",
+      "time_ago": "4m ago"
+    },
+    {
+      "title": "Chourio bests Miller with walk-off 1B, gives Brewers 2-0 NLDS lead",
+      "link": "https://www.mlb.com/news/brewers-win-nlds-game-2-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sxuuzcfhfdmdlfpllz2n",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-04T23:31:20+00:00",
+      "time_ago": "12m ago"
+    },
     {
       "title": "Tampa Bay's secret weapon? No outfield is harder to get a hit against",
       "link": "https://www.mlb.com/news/rays-secret-weapon-is-the-outfield-2026",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T22:38:00+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rocctober isn't a coincidence -- Rocchio's grown into a great ballplayer",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T21:40:08+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Braves-Dodgers NLDS Game 2 FAQ, lineups (8 p.m. ET, FS1/FOX One)",
@@ -78,32 +104,6 @@
       "tag_color": "#0284C7",
       "pub_date": "2026-10-04T21:07:00+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "After 8 K's in WC start, Burke set for bulk role behind Kay in ALDS Game 2",
-      "link": "https://www.mlb.com/news/sean-burke-anthony-kay-in-alds-game-2-white-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c1tdwh3iaor0ybg1sg3h",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Rhett Bollinger",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T20:52:16+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Dominant since return from IL, Pivetta to start Game 3 of NLDS",
-      "link": "https://www.mlb.com/news/nick-pivetta-to-start-nlds-game-3-for-padres",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zvabyo3onhk0qlsv7lau",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T19:44:00+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
