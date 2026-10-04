@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-04T07:17:20.525496+00:00",
+  "updated_at": "2026-10-04T07:53:41.995250+00:00",
   "news": [
+    {
+      "title": "France's towering fly ball hits cable, ground rules lead to wild flyout in 9th inning",
+      "link": "https://www.mlb.com/news/ty-france-s-fly-ball-hits-roof-cable-in-milwaukee-in-9th-inning",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lj2qbxdh63sr9pynvfir",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell and Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-04T06:54:00+00:00",
+      "time_ago": "59m ago"
+    },
     {
       "title": "4 big takeaways from Brewers' thrilling NLDS Game 1 win",
       "link": "https://www.mlb.com/news/padres-brewers-nlds-game-1-takeaways",
@@ -12,7 +25,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-04T06:50:00+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Contreras comes up clutch as Crew captures Game 1 win in NLDS",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T06:43:00+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Miz comes out firing with 104.8 mph first pitch to set new record",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T06:39:00+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "At just 22, Chourio takes place as Brewers' postseason HR leader",
@@ -51,19 +64,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-04T06:33:00+00:00",
-      "time_ago": "44m ago"
-    },
-    {
-      "title": "France's towering fly ball hits cable, ground rules lead to wild flyout in 9th inning",
-      "link": "https://www.mlb.com/news/ty-france-s-fly-ball-hits-roof-cable-in-milwaukee-in-9th-inning",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lj2qbxdh63sr9pynvfir",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell and Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T05:50:00+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T04:48:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Rockin' Trop puts Yanks, Schlittler on notice for Game 2 with largest crowd in 16 years",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T04:45:50+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
