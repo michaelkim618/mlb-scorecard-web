@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-04T01:44:30.931222+00:00",
+  "updated_at": "2026-10-04T02:18:57.187014+00:00",
   "news": [
+    {
+      "title": "At just 22, Chourio takes place as Brewers' postseason HR leader",
+      "link": "https://www.mlb.com/news/jackson-chourio-sets-brewers-postseason-home-run-record",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791078894/mlb/ggfpwy5zk9jh4cdeghk3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Sweet",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-04T02:09:29+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Rasmussen takes no-no into 8th as Rays 1-hit Yankees",
+      "link": "https://www.mlb.com/news/rays-win-alds-game-1-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/poytk1n8dhvkftafvjx1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-04T02:05:00+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Braves-Dodgers NLDS Game 2 FAQ (Sun., 8 p.m. ET, FS1/FOX One)",
+      "link": "https://www.mlb.com/news/braves-vs-dodgers-nlds-game-2-starting-lineups-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fjaxumay5uhjxwz5dhiz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-04T01:48:49+00:00",
+      "time_ago": "30m ago"
+    },
     {
       "title": "Yankees run into buzzsaw, manage 1 hit in ALDS opener vs. Rays",
       "link": "https://www.mlb.com/news/yankees-lose-alds-game-1-2026",
@@ -11,21 +50,34 @@
       "author": "Bryan Hoch",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-04T01:34:00+00:00",
-      "time_ago": "10m ago"
+      "pub_date": "2026-10-04T01:48:00+00:00",
+      "time_ago": "30m ago"
     },
     {
-      "title": "LIVE: Padres get to Miz early in NLDS (FS1/FOX One)",
+      "title": "LIVE: Brewers get to Padres in 3rd inning (FS1/FOX One)",
       "link": "https://www.mlb.com/stories/game/849830",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gfhzt9qp3qrenzoypoas",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/deik0wwiylffdjldstrp",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T01:33:19+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "45m ago"
+    },
+    {
+      "title": "Sale in play for Game 2 start? That all depends ... on Sale himself",
+      "link": "https://www.mlb.com/news/chris-sale-pitching-plan-nlds-vs-dodgers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gcadlue5wyfmyzqvspxk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-04T01:33:00+00:00",
+      "time_ago": "45m ago"
     },
     {
       "title": "Miz sets postseason record with 104.8 mph first pitch",
@@ -38,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T01:29:04+00:00",
-      "time_ago": "15m ago"
-    },
-    {
-      "title": "Rasmussen takes no-no into 8th as Rays 1-hit Yankees",
-      "link": "https://www.mlb.com/news/rays-win-alds-game-1-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/poytk1n8dhvkftafvjx1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T01:26:00+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "Game 1 exposes Braves' thin starter depth -- and it's officially all hands on deck",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T01:19:00+00:00",
-      "time_ago": "25m ago"
-    },
-    {
-      "title": "Pumping 100 mph at 100° F, Skubal shows why he was hot Deadline commodity",
-      "link": "https://www.mlb.com/news/tarik-skubal-strikes-out-7-in-dodgers-nlds-game-1-start-vs-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791063020/mlb/w18wfbivwing2zapdzgs",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-10-04T01:17:00+00:00",
-      "time_ago": "27m ago"
-    },
-    {
-      "title": "Postseason no-hitters and close calls",
-      "link": "https://www.mlb.com/news/mlb-postseason-no-hitters-and-close-calls",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gwz5cqnvkevsfvcy2s7h",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matt Kelly, Daniel Kramer, Sarah Langs and Manny Randhawa",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-04T01:12:00+00:00",
-      "time_ago": "32m ago"
-    },
-    {
-      "title": "Game times set through Division Series",
-      "link": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791076263/mlb/q4ae0iojstppohv2dzkc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-04T01:11:00+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "59m ago"
     }
   ]
 }
