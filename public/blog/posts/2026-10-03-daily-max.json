@@ -1,17 +1,17 @@
 {
-  "title": "Oct 3 Results + Oct 4 Preview: Three-for-Four Keeps the Lights On",
-  "summary": "Oct 3 delivered a solid 3-1 showing. Tomorrow we're back on the Brewers.",
+  "title": "Oct 3 Results + Oct 4 Preview: Three for Four Ain't Bad",
+  "summary": "We went 3-1 on Oct 3 with a 75% hit rate. Milwaukee's back in tomorrow's spotlight.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Another Day at the Office\n\nYou know what I've learned after covering this game for more years than I care to admit? A 3-1 day is nothing to sneeze at. The young analysts get all worked up about perfection, but give me 75% accuracy over a long season and I'll show you a profitable model. October 3rd was one of those solid, workmanlike days that keeps the operation humming."
+      "value": "## Another Solid Day at the Office\n\nYou know, I've been doing this long enough to know that 3-1 days are what keep you in business. We hit on three of four yesterday, posting a clean 75% accuracy rate. The Guardians gave us our only hiccup, but when you're right on the Dodgers, Rays, and Brewers, you sleep just fine."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Record",
+          "label": "Today W-L",
           "value": "3-1"
         },
         {
@@ -26,48 +26,12 @@
     },
     {
       "type": "text",
-      "value": "## The Only Miss Worth Mentioning\n\nThe Guardians pick at 52% was basically a coin flip with a mustache. When you're that close to even money, you're not really making a bold prediction—you're making an educated guess. The Sox came through and proved that low-confidence picks can bite you. I've seen this movie before, usually in September when teams are jockeying for position."
-    },
-    {
-      "type": "table",
-      "title": "October 3 Complete Results",
-      "headers": [
-        "Matchup",
-        "Our Pick",
-        "Confidence",
-        "Result"
-      ],
-      "rows": [
-        [
-          "Sox @ Guardians",
-          "Guardians",
-          "52%",
-          "✗"
-        ],
-        [
-          "Braves @ Dodgers",
-          "Dodgers",
-          "65%",
-          "✓"
-        ],
-        [
-          "Yankees @ Rays",
-          "Rays",
-          "59%",
-          "✓"
-        ],
-        [
-          "Padres @ Brewers",
-          "Brewers",
-          "60%",
-          "✓"
-        ]
-      ]
+      "value": "## How the Day Unfolded\n\nThe Sox-Guardians game was our only miss, and honestly, a 52% confidence pick is basically a coin flip with a slight lean. No shame there. But the Dodgers at 65%? That's the kind of call that reminds you why we trust the numbers. The Rays and Brewers both came through as predicted, giving us a nice cushion for the day."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Yesterday's Pick Confidence vs Results",
+      "title": "Oct 3 Prediction Performance",
       "data": [
         {
           "name": "Guardians",
@@ -105,27 +69,55 @@
       ]
     },
     {
-      "type": "text",
-      "value": "## The Hits That Mattered\n\nThe Dodgers pick at 65% was the anchor of the day—when you get your highest-confidence call right, everything else falls into place easier. The Rays and Brewers both came through in the 59-60% range, which is right in that sweet spot where the model tends to shine. Not cocky, not timid. Just solid handicapping."
+      "type": "table",
+      "title": "Complete Oct 3 Results Breakdown",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Sox @ Guardians",
+          "Guardians",
+          "52%",
+          "✗ Miss"
+        ],
+        [
+          "Braves @ Dodgers",
+          "Dodgers",
+          "65%",
+          "✓ Hit"
+        ],
+        [
+          "Yankees @ Rays",
+          "Rays",
+          "59%",
+          "✓ Hit"
+        ],
+        [
+          "Padres @ Brewers",
+          "Brewers",
+          "60%",
+          "✓ Hit"
+        ]
+      ]
     },
     {
       "type": "text",
-      "value": "## Looking Ahead to October 4\n\nHere's something interesting: we're going right back to the Padres-Brewers well tomorrow. Michael King takes the hill for San Diego against Logan Henderson for Milwaukee. The model likes the Brewers again, but barely—we're talking 50% confidence here, which is essentially telling us this game could go either way."
+      "value": "## Looking Ahead to October 4\n\nHere's where it gets interesting. We're going back to the well with Milwaukee. The Brewers delivered for us yesterday at 60% confidence, and now we're circling them again for Saturday's matchup against San Diego. This time, the model's a bit more cautious at 50%, which tells me this one's going to be tight.\n\nMichael King takes the ball for the Padres, and he's been solid down the stretch. Logan Henderson counters for Milwaukee, and American Family Field has been good to the Brewers lately. I've seen enough of these divisional matchups to know that home cooking matters, especially this late in the season."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick",
+      "title": "⭐ Tomorrow's Top Pick - October 4",
       "value": "Milwaukee Brewers over San Diego Padres",
-      "sub": "50% confidence · King vs Henderson · American Family Field"
+      "sub": "50% confidence · King vs Henderson · Home field advantage"
     },
     {
       "type": "text",
-      "value": "## The Henderson Factor\n\nLogan Henderson's been a revelation for the Brewers this season, though he doesn't get the headlines. Michael King has the pedigree and the stuff, but Milwaukee at home in October is a different animal. I've seen American Family Field swallow up better road teams than these Padres.\n\nThat said, 50% confidence means exactly what it sounds like—this is a lean, not a lock. If you're looking for a slam dunk tomorrow, keep looking. If you trust the process and understand that October baseball is about marginal edges, well, this is what those edges look like."
-    },
-    {
-      "type": "text",
-      "value": "## Final Thoughts\n\nThree-for-four yesterday keeps us in the black. Tomorrow's pick requires a bit of faith. That's baseball in October—sometimes the model whispers instead of shouts, and you have to decide if you're listening.\n\nSee you after first pitch."
+      "value": "## The Veteran's Take\n\nA 50% call isn't exactly lighting the world on fire, but that's baseball in October. Everything tightens up. The fact that we liked Milwaukee at 60% yesterday and they delivered, then we're back on them again today? That tells me something about their current form.\n\nI've been around long enough to trust the small edges. Home field, momentum, and a pitcher like Henderson who knows how to work his home crowd—these things add up. We're not swinging for the fences here. We're taking what the game gives us.\n\nSee you back here tomorrow to see how it shakes out."
     }
   ],
   "slug": "2026-10-03-daily-max",
