@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-04T03:54:17.970654+00:00",
+  "updated_at": "2026-10-04T04:54:20.533053+00:00",
   "news": [
+    {
+      "title": "France's towering fly ball hits cable, ground rules lead to wild flyout in 9th inning",
+      "link": "https://www.mlb.com/news/ty-france-s-fly-ball-hits-roof-cable-in-milwaukee-in-9th-inning",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lj2qbxdh63sr9pynvfir",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-04T04:40:35+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Contreras comes up clutch as Crew captures Game 1 win in NLDS",
+      "link": "https://www.mlb.com/news/brewers-win-nlds-game-1-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wd3hhq8skvplaxpsfeny",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-04T04:38:00+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "Outpitched in G1, Yanks remain confident they can turn tables",
       "link": "https://www.mlb.com/news/yankees-lose-alds-game-1-2026",
@@ -11,34 +37,21 @@
       "author": "Bryan Hoch",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-04T03:49:00+00:00",
-      "time_ago": "5m ago"
+      "pub_date": "2026-10-04T04:25:00+00:00",
+      "time_ago": "29m ago"
     },
     {
-      "title": "'You’ve got to tip your cap': Cole's brilliance can't quite measure up",
-      "link": "https://www.mlb.com/news/gerrit-cole-shines-in-yankees-alds-game-1-2026-loss",
+      "title": "Game times set through Division Series",
+      "link": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791069734/mlb/ifmg1vnhkkzerho6wil3",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791087005/mlb/q4ae0iojstppohv2dzkc",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T03:34:37+00:00",
-      "time_ago": "19m ago"
-    },
-    {
-      "title": "Rasmussen -- the 'definition of ace' -- takes no-no into 8th as Rays 1-hit Yankees",
-      "link": "https://www.mlb.com/news/rays-win-alds-game-1-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/poytk1n8dhvkftafvjx1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T03:28:00+00:00",
-      "time_ago": "26m ago"
+      "author": "",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-04T04:10:00+00:00",
+      "time_ago": "44m ago"
     },
     {
       "title": "Miz sets postseason record with first pitch, works 4 IP in Game 1",
@@ -50,8 +63,8 @@
       "author": "Adam McCalvy",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-04T02:53:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-10-04T04:08:00+00:00",
+      "time_ago": "46m ago"
     },
     {
       "title": "At just 22, Chourio takes place as Brewers' postseason HR leader",
@@ -63,47 +76,34 @@
       "author": "Zach Sweet",
       "tag": "Highlight",
       "tag_color": "#D97706",
-      "pub_date": "2026-10-04T02:09:29+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-10-04T04:08:00+00:00",
+      "time_ago": "46m ago"
     },
     {
-      "title": "Braves-Dodgers NLDS Game 2 FAQ (Sun., 8 p.m. ET, FS1/FOX One)",
-      "link": "https://www.mlb.com/news/braves-vs-dodgers-nlds-game-2-starting-lineups-pitching-matchup",
+      "title": "Aranda's monster homer all the cushion Rays need in Game 1",
+      "link": "https://www.mlb.com/news/jonathan-aranda-homer-powers-rays-over-yankees-in-alds-game-1",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fjaxumay5uhjxwz5dhiz",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/d9y9zbr94ep0lltofbds",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T01:48:49+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "LIVE: Contreras launches late HR for Brewers (FS1/FOX One)",
-      "link": "https://www.mlb.com/stories/game/849830",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/giyrtef7h5pwm5w3fk4o",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
+      "author": "Perla Paredes",
       "tag": "Highlight",
       "tag_color": "#D97706",
-      "pub_date": "2026-10-04T01:33:19+00:00",
-      "time_ago": "2h ago"
+      "pub_date": "2026-10-04T04:06:20+00:00",
+      "time_ago": "48m ago"
     },
     {
-      "title": "Sale in play for Game 2 start? That all depends ... on Sale himself",
-      "link": "https://www.mlb.com/news/chris-sale-pitching-plan-nlds-vs-dodgers",
+      "title": "5 incredible stats from Rasmussen's 8-inning, 10-K thriller",
+      "link": "https://www.mlb.com/news/stats-and-facts-from-drew-rasmussen-s-alds-game-1-start",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gcadlue5wyfmyzqvspxk",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/whhhz2ok3awu3qbucjot",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T01:33:00+00:00",
-      "time_ago": "2h ago"
+      "author": "Sarah Langs",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-04T03:57:15+00:00",
+      "time_ago": "57m ago"
     }
   ]
 }
