@@ -1,4 +1,5 @@
-[
+// Auto-generated (scorecard) — 2026-10-04
+window.PREDICTIONS_DATA = [
   {
     "date": "2026-10-04",
     "status": "Preview",
@@ -1440,4 +1441,4 @@
     },
     "model_version": "v17"
   }
-]
+];
