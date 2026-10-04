@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-04T04:59:50.410558+00:00",
+  "updated_at": "2026-10-04T05:54:25.310400+00:00",
   "news": [
+    {
+      "title": "1 question for each team going into today's NLDS Game 2s",
+      "link": "https://www.mlb.com/news/2026-nlds-game-2-storylines-what-to-watch-for",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nas49740pa3finf58rav",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-04T05:10:11+00:00",
+      "time_ago": "44m ago"
+    },
     {
       "title": "4 big takeaways from Brewers' thrilling NLDS Game 1 win",
       "link": "https://www.mlb.com/news/padres-brewers-nlds-game-1-takeaways",
@@ -12,7 +25,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-04T04:52:05+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Contreras comes up clutch as Crew captures Game 1 win in NLDS",
@@ -25,7 +38,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T04:50:00+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Moonshot in Milwaukee off cable joins list of weirdest postseason plays",
+      "link": "https://www.mlb.com/news/weirdest-plays-in-mlb-playoffs-history",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uksqytkc038dneakvyxu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-04T04:48:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Rockin' Trop puts Yanks, Schlittler on notice for Game 2 with largest crowd in 16 years",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T04:45:50+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "France's towering fly ball hits cable, ground rules lead to wild flyout in 9th inning",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T04:40:35+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Outpitched in G1, Yanks remain confident they can turn tables",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T04:25:00+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Game times set through Division Series",
@@ -77,33 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-04T04:10:00+00:00",
-      "time_ago": "49m ago"
-    },
-    {
-      "title": "Miz sets postseason record with first pitch, works 4 IP in Game 1",
-      "link": "https://www.mlb.com/news/jacob-misiorowski-fastest-first-pitch-in-postseason-nlds-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791076640/mlb/retzx8w2ve8jb4vb7kyw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T04:08:00+00:00",
-      "time_ago": "51m ago"
-    },
-    {
-      "title": "At just 22, Chourio takes place as Brewers' postseason HR leader",
-      "link": "https://www.mlb.com/news/jackson-chourio-sets-brewers-postseason-home-run-record",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791078894/mlb/ggfpwy5zk9jh4cdeghk3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-04T04:08:00+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
