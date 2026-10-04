@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-04T04:54:20.533053+00:00",
+  "updated_at": "2026-10-04T04:59:50.410558+00:00",
   "news": [
     {
-      "title": "France's towering fly ball hits cable, ground rules lead to wild flyout in 9th inning",
-      "link": "https://www.mlb.com/news/ty-france-s-fly-ball-hits-roof-cable-in-milwaukee-in-9th-inning",
+      "title": "4 big takeaways from Brewers' thrilling NLDS Game 1 win",
+      "link": "https://www.mlb.com/news/padres-brewers-nlds-game-1-takeaways",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lj2qbxdh63sr9pynvfir",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791086158/mlb/lqr0d2rbroiveav5nhdd",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T04:40:35+00:00",
-      "time_ago": "13m ago"
+      "author": "Mark Sheldon",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-04T04:52:05+00:00",
+      "time_ago": "7m ago"
     },
     {
       "title": "Contreras comes up clutch as Crew captures Game 1 win in NLDS",
@@ -24,8 +24,34 @@
       "author": "Adam McCalvy",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-04T04:38:00+00:00",
-      "time_ago": "16m ago"
+      "pub_date": "2026-10-04T04:50:00+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Rockin' Trop puts Yanks, Schlittler on notice for Game 2 with largest crowd in 16 years",
+      "link": "https://www.mlb.com/news/rays-sold-out-tropicana-field-game-1-2026-alds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wfbtb4vzr2rbw4liivyf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-04T04:45:50+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "France's towering fly ball hits cable, ground rules lead to wild flyout in 9th inning",
+      "link": "https://www.mlb.com/news/ty-france-s-fly-ball-hits-roof-cable-in-milwaukee-in-9th-inning",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lj2qbxdh63sr9pynvfir",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-04T04:40:35+00:00",
+      "time_ago": "19m ago"
     },
     {
       "title": "Outpitched in G1, Yanks remain confident they can turn tables",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T04:25:00+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "34m ago"
     },
     {
       "title": "Game times set through Division Series",
@@ -51,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-04T04:10:00+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "Miz sets postseason record with first pitch, works 4 IP in Game 1",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T04:08:00+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "51m ago"
     },
     {
       "title": "At just 22, Chourio takes place as Brewers' postseason HR leader",
@@ -77,33 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-04T04:08:00+00:00",
-      "time_ago": "46m ago"
-    },
-    {
-      "title": "Aranda's monster homer all the cushion Rays need in Game 1",
-      "link": "https://www.mlb.com/news/jonathan-aranda-homer-powers-rays-over-yankees-in-alds-game-1",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/d9y9zbr94ep0lltofbds",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Perla Paredes",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-04T04:06:20+00:00",
-      "time_ago": "48m ago"
-    },
-    {
-      "title": "5 incredible stats from Rasmussen's 8-inning, 10-K thriller",
-      "link": "https://www.mlb.com/news/stats-and-facts-from-drew-rasmussen-s-alds-game-1-start",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/whhhz2ok3awu3qbucjot",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sarah Langs",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-04T03:57:15+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "51m ago"
     }
   ]
 }
