@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T22:57:08.718232+00:00",
+  "updated_at": "2026-10-04T23:30:18.358501+00:00",
   "news": [
     {
       "title": "Tampa Bay's secret weapon? No outfield is harder to get a hit against",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T22:38:00+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "Rocctober isn't a coincidence -- Rocchio's grown into a great ballplayer",
@@ -25,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T22:08:58+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Quirk of Crew's home park robs Padres of potential go-ahead rally",
@@ -67,19 +67,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "LIVE: France steps up for Padres day after nearly playing hero (FS1/FOX One)",
-      "link": "https://www.mlb.com/stories/game/849825",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aidagscvho3h35pzvqd5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T21:07:35+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Braves-Dodgers NLDS Game 2 FAQ, lineups (8 p.m. ET, FS1/FOX One)",
       "link": "https://www.mlb.com/news/braves-vs-dodgers-nlds-game-2-starting-lineups-pitching-matchup",
       "summary": "",
@@ -90,7 +77,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-04T21:07:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "After 8 K's in WC start, Burke set for bulk role behind Kay in ALDS Game 2",
@@ -104,6 +91,19 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T20:52:16+00:00",
       "time_ago": "2h ago"
+    },
+    {
+      "title": "Dominant since return from IL, Pivetta to start Game 3 of NLDS",
+      "link": "https://www.mlb.com/news/nick-pivetta-to-start-nlds-game-3-for-padres",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zvabyo3onhk0qlsv7lau",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-04T19:44:00+00:00",
+      "time_ago": "3h ago"
     }
   ]
 }
