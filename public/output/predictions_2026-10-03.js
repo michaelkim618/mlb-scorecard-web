@@ -2573,12 +2573,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 46.8,
-      "home": 53.2
+      "away": 39.7,
+      "home": 60.3
     },
     "expected_score": {
-      "away": 3.2,
-      "home": 2.5
+      "away": 2.8,
+      "home": 2.4
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -2590,9 +2590,9 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": false,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.2,
+        "sp": 0.24,
         "bp": 0.27,
-        "bat": 0.46,
+        "bat": 0.42,
         "sit": 0.15
       },
       "away": {
@@ -2675,14 +2675,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.67,
           "closer_name": "Mason Miller"
         },
-        "bat_score": 56.5,
+        "bat_score": 48.6,
         "bat_detail": {
           "recent_avg": 0.289,
           "runs_per_g": 6.3,
           "hr_per_g": 1.2,
           "bb_per_g": 3.0,
           "season_ops": 0.787,
-          "season_slg": 0.478,
+          "season_slg": null,
           "season_avg": 0.289,
           "n_games": 9,
           "source": "prev_day",
@@ -2772,7 +2772,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 57.2,
-        "total": 58.2
+        "total": 54.0
       },
       "home": {
         "sp_score": 72.0,
@@ -2846,14 +2846,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.63,
           "closer_name": "Trevor Megill"
         },
-        "bat_score": 35.9,
+        "bat_score": 35.2,
         "bat_detail": {
           "recent_avg": 0.255,
           "runs_per_g": 4.4,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
           "season_ops": 0.726,
-          "season_slg": 0.407,
+          "season_slg": null,
           "season_avg": 0.255,
           "n_games": 9,
           "source": "prev_day",
@@ -2943,13 +2943,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 73.1,
-        "total": 63.1
+        "total": 65.4
       }
     },
     "scores": {
-      "away_offense": 56.5,
+      "away_offense": 48.6,
       "away_defense": 55.5,
-      "home_offense": 35.9,
+      "home_offense": 35.2,
       "home_defense": 72.6
     },
     "actual_score": {
@@ -2977,10 +2977,10 @@ window.PREDICTIONS_DATA = [
       "sp_favors": "Milwaukee Brewers",
       "bat_favors": "San Diego Padres",
       "sp_gap": -36.0,
-      "bat_gap": 20.6
+      "bat_gap": 13.4
     },
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 53.2% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 60.3% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
