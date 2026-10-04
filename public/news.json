@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-04T21:12:40.368997+00:00",
+  "updated_at": "2026-10-04T21:43:57.881605+00:00",
   "news": [
     {
-      "title": "After 8 K's in WC start, Burke set for bulk role behind Kay in ALDS Game 2",
-      "link": "https://www.mlb.com/news/sean-burke-anthony-kay-in-alds-game-2-white-sox",
+      "title": "LIVE: Padres get on the board early in Game 2 vs. Crew (FS1/FOX One)",
+      "link": "https://www.mlb.com/stories/game/849825",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c1tdwh3iaor0ybg1sg3h",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aidagscvho3h35pzvqd5",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Rhett Bollinger",
+      "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-04T20:52:16+00:00",
-      "time_ago": "20m ago"
+      "pub_date": "2026-10-04T21:07:35+00:00",
+      "time_ago": "36m ago"
     },
     {
       "title": "Braves-Dodgers NLDS Game 2 FAQ, lineups (8 p.m. ET, FS1/FOX One)",
@@ -24,8 +24,21 @@
       "author": "",
       "tag": "Roster",
       "tag_color": "#0284C7",
-      "pub_date": "2026-10-04T20:05:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-10-04T21:07:00+00:00",
+      "time_ago": "36m ago"
+    },
+    {
+      "title": "After 8 K's in WC start, Burke set for bulk role behind Kay in ALDS Game 2",
+      "link": "https://www.mlb.com/news/sean-burke-anthony-kay-in-alds-game-2-white-sox",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c1tdwh3iaor0ybg1sg3h",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rhett Bollinger",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-04T20:52:16+00:00",
+      "time_ago": "51m ago"
     },
     {
       "title": "Dominant since return from IL, Pivetta to start Game 3 of NLDS",
@@ -51,20 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T19:42:10+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Padres-Brewers NLDS Game 2: LIVE on FS1/FOX One",
-      "link": "https://www.mlb.com/news/padres-brewers-nl-division-series-game-2-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vrly7iw8obdbcfdgymr2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell, Adam McCalvy and Mark Sheldon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T19:42:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Braves will go with their bullpen, not Sale on short rest, to start Game 2",
@@ -77,20 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T18:35:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "1 question for each team going into today's NLDS Game 2s",
-      "link": "https://www.mlb.com/news/2026-nlds-game-2-storylines-what-to-watch-for",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nas49740pa3finf58rav",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T18:32:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Despite tough stretch drive, May gets Game 3 nod for Crew",
@@ -104,6 +91,19 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T17:53:59+00:00",
       "time_ago": "3h ago"
+    },
+    {
+      "title": "The new pitch making Cam Schlittler even nastier",
+      "link": "https://www.mlb.com/news/yankees-cam-schlittler-dominating-with-new-curveball",
+      "summary": "Yankees ace threw career-high 32 curveballs in AL Wild Card Series",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/u9go7wjnbio3qbxszoeq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-04T17:42:40+00:00",
+      "time_ago": "4h ago"
     }
   ]
 }

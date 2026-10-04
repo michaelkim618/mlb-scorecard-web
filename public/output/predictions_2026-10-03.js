@@ -1183,10 +1183,10 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Drake Baldwin(0.883)",
-            "Ronald Acuña(0.793)",
+            "Ronald Acuña Jr.(0.793)",
             "Ozzie Albies(0.481)",
             "Matt Olson(0.786)",
-            "Michael Harris(0.835)",
+            "Michael Harris II(0.835)",
             "Mauricio Dubón(0.837)",
             "Austin Riley(0.609)",
             "Sean Murphy(0.478)",
@@ -1201,7 +1201,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 660670,
-              "name": "Ronald Acuña",
+              "name": "Ronald Acuña Jr.",
               "ops": 0.793,
               "avg": 0.231
             },
@@ -1219,7 +1219,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671739,
-              "name": "Michael Harris",
+              "name": "Michael Harris II",
               "ops": 0.835,
               "avg": 0.325
             },
@@ -1938,10 +1938,10 @@ window.PREDICTIONS_DATA = [
           "lineup_ops": [
             "Ben Rice(1.014)",
             "Cody Bellinger(0.703)",
-            "Luis García(0.542)",
+            "Luis García Jr.(0.542)",
             "Spencer Jones(0.607)",
-            "George Lombard(0.798)",
-            "Jazz Chisholm(0.774)",
+            "George Lombard Jr.(0.798)",
+            "Jazz Chisholm Jr.(0.774)",
             "Trent Grisham(0.500)",
             "Austin Wells(0.889)",
             "Ryan McMahon(0.607)"
@@ -1961,7 +1961,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671277,
-              "name": "Luis García",
+              "name": "Luis García Jr.",
               "ops": 0.542,
               "avg": 0.105
             },
@@ -1973,13 +1973,13 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 806146,
-              "name": "George Lombard",
+              "name": "George Lombard Jr.",
               "ops": 0.798,
               "avg": 0.286
             },
             {
               "id": 665862,
-              "name": "Jazz Chisholm",
+              "name": "Jazz Chisholm Jr.",
               "ops": 0.774,
               "avg": 0.324
             },
@@ -2119,7 +2119,7 @@ window.PREDICTIONS_DATA = [
             "Junior Caminero(0.800)",
             "Liam Hicks(0.743)",
             "Chandler Simpson(0.704)",
-            "Victor Mesa(0.791)",
+            "Victor Mesa Jr.(0.791)",
             "Jonny DeLuca(0.807)",
             "Richie Palacios(0.672)",
             "Taylor Walls(0.652)"
@@ -2157,7 +2157,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 683748,
-              "name": "Victor Mesa",
+              "name": "Victor Mesa Jr.",
               "ops": 0.791,
               "avg": 0.273
             },
