@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-04T18:29:44.147903+00:00",
+  "updated_at": "2026-10-04T18:44:19.339117+00:00",
   "news": [
+    {
+      "title": "1 question for each team going into today's NLDS Game 2s",
+      "link": "https://www.mlb.com/news/2026-nlds-game-2-storylines-what-to-watch-for",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nas49740pa3finf58rav",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-04T18:32:00+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Braves-Dodgers NLDS Game 2 FAQ (8 p.m. ET, FS1/FOX One)",
+      "link": "https://www.mlb.com/news/braves-vs-dodgers-nlds-game-2-starting-lineups-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fjaxumay5uhjxwz5dhiz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-04T18:28:00+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "Dominant since return from IL, Pivetta to start Game 3 of NLDS",
       "link": "https://www.mlb.com/news/nick-pivetta-to-start-nlds-game-3-for-padres",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T17:57:37+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "46m ago"
     },
     {
       "title": "Despite tough stretch drive, May gets Game 3 nod for Crew",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T17:53:59+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "The new pitch making Cam Schlittler even nastier",
@@ -38,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-04T17:42:40+00:00",
-      "time_ago": "47m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "How these ALDS teams spawned the American League",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T17:29:46+00:00",
-      "time_ago": "59m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Padres-Brewers NLDS Game 2 FAQ, lineups (4 p.m. ET, FS1/FOX One)",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T06:54:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Contreras comes up clutch as Crew captures Game 1 win in NLDS",
-      "link": "https://www.mlb.com/news/brewers-win-nlds-game-1-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wd3hhq8skvplaxpsfeny",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T06:43:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Miz comes out firing with 104.8 mph first pitch to set new record",
-      "link": "https://www.mlb.com/news/jacob-misiorowski-fastest-first-pitch-in-postseason-nlds-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791076640/mlb/retzx8w2ve8jb4vb7kyw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy and Mark Sheldon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T06:39:00+00:00",
       "time_ago": "11h ago"
     }
   ]
