@@ -341,21 +341,21 @@
     },
     "expected_score": {
       "away": 2.8,
-      "home": 2.3
+      "home": 2.2
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": false,
       "any_cold_sp": false,
       "eff_weights": {
-        "sp": 0.24,
+        "sp": 0.26,
         "bp": 0.24,
-        "bat": 0.37,
+        "bat": 0.35,
         "sit": 0.15
       },
       "away": {
@@ -457,8 +457,8 @@
             "Manny Machado(0.613)",
             "Ty France(0.829)",
             "Jackson Merrill(0.748)",
-            "Xander Bogaerts(0.913)",
             "Ethan Salas(0.940)",
+            "Xander Bogaerts(0.913)",
             "Luis Campusano(0.667)",
             "Jake Cronenworth(0.798)"
           ],
@@ -494,16 +494,16 @@
               "avg": 0.282
             },
             {
-              "id": 593428,
-              "name": "Xander Bogaerts",
-              "ops": 0.913,
-              "avg": 0.355
-            },
-            {
               "id": 806956,
               "name": "Ethan Salas",
               "ops": 0.94,
               "avg": 0.4
+            },
+            {
+              "id": 593428,
+              "name": "Xander Bogaerts",
+              "ops": 0.913,
+              "avg": 0.355
             },
             {
               "id": 669134,
@@ -609,15 +609,15 @@
           "closer_era": 2.63,
           "closer_name": "Trevor Megill"
         },
-        "bat_score": 35.2,
+        "bat_score": 33.8,
         "bat_detail": {
-          "recent_avg": 0.255,
+          "recent_avg": 0.25,
           "runs_per_g": 4.4,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
-          "season_ops": 0.726,
+          "season_ops": 0.714,
           "season_slg": null,
-          "season_avg": 0.255,
+          "season_avg": 0.25,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -625,13 +625,13 @@
           "lineup_ops": [
             "Jackson Chourio(0.894)",
             "Brice Turang(0.859)",
-            "William Contreras(0.718)",
             "Jake Bauers(0.764)",
-            "Christian Yelich(0.613)",
-            "Cooper Pratt(0.748)",
-            "Luis Lara(0.520)",
+            "William Contreras(0.718)",
             "Garrett Mitchell(0.626)",
-            "Joey Ortiz(0.795)"
+            "Christian Yelich(0.613)",
+            "Sal Frelick(0.532)",
+            "Cooper Pratt(0.748)",
+            "David Hamilton(0.672)"
           ],
           "lineup_players": [
             {
@@ -647,34 +647,16 @@
               "avg": 0.316
             },
             {
-              "id": 661388,
-              "name": "William Contreras",
-              "ops": 0.718,
-              "avg": 0.237
-            },
-            {
               "id": 641343,
               "name": "Jake Bauers",
               "ops": 0.764,
               "avg": 0.229
             },
             {
-              "id": 592885,
-              "name": "Christian Yelich",
-              "ops": 0.613,
-              "avg": 0.171
-            },
-            {
-              "id": 806198,
-              "name": "Cooper Pratt",
-              "ops": 0.748,
-              "avg": 0.333
-            },
-            {
-              "id": 800325,
-              "name": "Luis Lara",
-              "ops": 0.52,
-              "avg": 0.167
+              "id": 661388,
+              "name": "William Contreras",
+              "ops": 0.718,
+              "avg": 0.237
             },
             {
               "id": 669003,
@@ -683,10 +665,28 @@
               "avg": 0.182
             },
             {
-              "id": 687401,
-              "name": "Joey Ortiz",
-              "ops": 0.795,
-              "avg": 0.324
+              "id": 592885,
+              "name": "Christian Yelich",
+              "ops": 0.613,
+              "avg": 0.171
+            },
+            {
+              "id": 686217,
+              "name": "Sal Frelick",
+              "ops": 0.532,
+              "avg": 0.16
+            },
+            {
+              "id": 806198,
+              "name": "Cooper Pratt",
+              "ops": 0.748,
+              "avg": 0.333
+            },
+            {
+              "id": 666152,
+              "name": "David Hamilton",
+              "ops": 0.672,
+              "avg": 0.292
             }
           ],
           "bat_trend": "hot",
@@ -706,20 +706,20 @@
           }
         },
         "sit_score": 73.1,
-        "total": 61.4
+        "total": 61.8
       }
     },
     "scores": {
       "away_offense": 48.6,
       "away_defense": 62.4,
-      "home_offense": 35.2,
+      "home_offense": 33.8,
       "home_defense": 72.6
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -740,7 +740,7 @@
       "sp_favors": "Milwaukee Brewers",
       "bat_favors": "San Diego Padres",
       "sp_gap": -22.3,
-      "bat_gap": 13.4
+      "bat_gap": 14.8
     },
     "low_confidence": true,
     "low_confidence_reason": "최고 확률 50.0% (≤62.0%)",

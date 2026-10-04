@@ -1,11 +1,11 @@
 {
   "title": "Oct 3 Results + Oct 4 Preview: Three Out of Four Ain't Bad",
-  "summary": "75% accuracy on Oct 3 with three wins. Milwaukee stays hot for tomorrow's top pick.",
+  "summary": "75% hit rate on Oct 3 with just one stumble in Cleveland. Tomorrow: back to Milwaukee.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## A Solid Friday Night\n\nLook, I've been doing this long enough to know that 3-1 nights are what keep you in the game. We hit 75% on Friday's slate, and the only stumble was Cleveland—where we learned once again that October baseball has a way of humbling even the most confident models. The Guardians at home seemed like a safe play at 52%, but the Sox had other ideas. Tale as old as time."
+      "value": "## Another Solid Day in the Books\n\nYou know, after doing this for more years than I care to count, a 3-1 day still feels pretty damn good. We've seen plenty of Octobers where the unexpected becomes routine, and yesterday was no exception. The model clicked on three fronts, stumbled once in Cleveland, and now we're looking ahead to Saturday's slate with that familiar mix of confidence and caution."
     },
     {
       "type": "stat_row",
@@ -19,15 +19,59 @@
           "value": "75.0%"
         },
         {
-          "label": "Best Call",
-          "value": "Dodgers 65%"
+          "label": "Hits",
+          "value": "3"
+        },
+        {
+          "label": "Misses",
+          "value": "1"
         }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Cleveland Conundrum\n\nLet's address the elephant in the room first. We liked the Guardians at 52% against the Sox, and that one didn't go our way. Here's the thing about October baseball that I've learned over the decades—tight probability picks in the postseason are coin flips wearing fancy statistical clothes. When you're at 52%, you're basically saying 'this could go either way, but we're leaning here.' Sometimes the coin lands on tails.\n\nThe other three? Chef's kiss. The Dodgers handled business at 65% confidence, the Rays came through at 59%, and Milwaukee—yeah, we'll talk more about Milwaukee in a minute—delivered at 53%."
+    },
+    {
+      "type": "table",
+      "title": "October 3 Full Results Breakdown",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Sox @ Guardians",
+          "Guardians",
+          "52%",
+          "✗"
+        ],
+        [
+          "Braves @ Dodgers",
+          "Dodgers",
+          "65%",
+          "✓"
+        ],
+        [
+          "Yankees @ Rays",
+          "Rays",
+          "59%",
+          "✓"
+        ],
+        [
+          "Padres @ Brewers",
+          "Brewers",
+          "53%",
+          "✓"
+        ]
       ]
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Oct 3 Prediction Performance",
+      "title": "Oct 3 Pick Confidence vs Results",
       "data": [
         {
           "name": "Guardians",
@@ -65,59 +109,27 @@
       ]
     },
     {
-      "type": "table",
-      "title": "Full Game Results - October 3",
-      "headers": [
-        "Matchup",
-        "Our Pick",
-        "Confidence",
-        "Result"
-      ],
-      "rows": [
-        [
-          "Sox @ Guardians",
-          "Guardians",
-          "52%",
-          "✗"
-        ],
-        [
-          "Braves @ Dodgers",
-          "Dodgers",
-          "65%",
-          "✓"
-        ],
-        [
-          "Yankees @ Rays",
-          "Rays",
-          "59%",
-          "✓"
-        ],
-        [
-          "Padres @ Brewers",
-          "Brewers",
-          "53%",
-          "✓"
-        ]
-      ]
+      "type": "text",
+      "value": "## What Worked Yesterday\n\nThe Dodgers pick was the most comfortable of the bunch, and it showed. When you've got that kind of talent gap and the model gives you 65% confidence, you sleep easy. The Rays-Yankees game was fascinating—Tampa Bay continues to play spoiler in ways that remind me of their early 2000s scrappiness. Some things never change in baseball.\n\nAnd Milwaukee... well, that brings us nicely to tomorrow."
     },
     {
       "type": "text",
-      "value": "## What Worked (And What Didn't)\n\nThe Dodgers pick at 65% was the crown jewel—LA at home against Atlanta played out exactly as expected. The pitching matchup favored them, and they delivered. Tampa Bay squeaking past the Yankees was another win, though 59% confidence meant we weren't exactly shocked by the tight scoreline.\n\nMilwaukee covering against San Diego gave us our third hit, and here's where it gets interesting: we're going right back to that well tomorrow. Sometimes you ride the hot hand, and sometimes the hot hand is a team that just keeps finding ways to win at home.\n\nThe Cleveland miss? Chalk it up to variance. At 52%, we were basically calling a coin flip, and the coin landed on the other side. No shame in that."
-    },
-    {
-      "type": "text",
-      "value": "## Tomorrow's Top Pick: Back to Milwaukee\n\nI've seen this movie before. When a team wins at home and you get them again the next day with decent pitching, you don't overthink it. The Brewers are our top pick for October 4th, even though the model is giving us a cautious 50% confidence.\n\nMichael King takes the hill for San Diego—solid arm, no question. But Logan Henderson at home in Milwaukee has shown he can navigate pressure situations. The Brewers' bullpen is rested, the crowd will be loud, and momentum is a real thing in October, no matter what the analytics say."
+      "value": "## Tomorrow's Top Pick: Back to the Brew Crew\n\nHere's where experience tells you something the spreadsheets won't: we're going right back to Milwaukee. I know what you're thinking—'Max, didn't they just play yesterday?' Yep. And we liked them then at 53%, they delivered, and now we like them again at 50% even.\n\nThis is basically a toss-up on paper, which makes the pitching matchup everything. Michael King takes the ball for San Diego—solid arm, been around, knows October. Logan Henderson counters for Milwaukee. The model sees this as dead even, which in my experience means home field advantage becomes the tiebreaker."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - October 4",
-      "value": "Milwaukee Brewers",
-      "sub": "50% win probability · Michael King vs Logan Henderson · Home advantage matters"
+      "title": "⭐ Saturday's Top Pick - October 4",
+      "value": "Milwaukee Brewers over San Diego Padres",
+      "sub": "50% confidence • King vs Henderson • Home field decides this coin flip"
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nA 75% night keeps you ahead of the curve. Three wins, one loss, and a chance to run it back with Milwaukee tomorrow. I've been around long enough to know you take these nights, bank the wins, and keep grinding.\n\nThe Brewers at even odds? I'll take that action every time. See you tomorrow when we find out if experience trumps caution once again."
+      "value": "## The Veteran's Take\n\nI've seen enough 50-50 games to know they're either going to make you look brilliant or foolish, with no in-between. But here's the thing about Milwaukee this October—they've got that quiet confidence you can't quite quantify. The kind of energy that reminds me of some of those Cardinals teams from the mid-2000s that just found ways to win at home.\n\nKing is good, no doubt. But Henderson at home, in October, with momentum from yesterday? I've seen this movie before. It usually ends with the home crowd going home happy.\n\nWe're riding with the Brewers again. Sometimes the best strategy is to dance with who brought you to the party."
+    },
+    {
+      "type": "text",
+      "value": "## The Bottom Line\n\n75% accuracy keeps the lights on and the confidence high. One miss in Cleveland doesn't erase three solid calls elsewhere. Tomorrow's a fresh slate, and we're leaning into a home team in a deadlocked matchup where intangibles matter as much as ERA.\n\nThat's baseball in October. That's why we love it.\n\n*— Max*"
     }
   ],
   "slug": "2026-10-03-daily-max",
