@@ -1414,7 +1414,7 @@
       "away": null,
       "home": null
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": true,
       "home": false,
