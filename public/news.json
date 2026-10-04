@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-04T18:44:19.339117+00:00",
+  "updated_at": "2026-10-04T18:53:54.011949+00:00",
   "news": [
+    {
+      "title": "Braves-Dodgers NLDS Game 2 FAQ (8 p.m. ET, FS1/FOX One)",
+      "link": "https://www.mlb.com/news/braves-vs-dodgers-nlds-game-2-starting-lineups-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fjaxumay5uhjxwz5dhiz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-04T18:37:00+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Braves will go with their bullpen, not Sale on short rest, to start Game 2",
+      "link": "https://www.mlb.com/news/chris-sale-pitching-plan-nlds-vs-dodgers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gcadlue5wyfmyzqvspxk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-04T18:35:00+00:00",
+      "time_ago": "18m ago"
+    },
     {
       "title": "1 question for each team going into today's NLDS Game 2s",
       "link": "https://www.mlb.com/news/2026-nlds-game-2-storylines-what-to-watch-for",
@@ -12,20 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T18:32:00+00:00",
-      "time_ago": "12m ago"
-    },
-    {
-      "title": "Braves-Dodgers NLDS Game 2 FAQ (8 p.m. ET, FS1/FOX One)",
-      "link": "https://www.mlb.com/news/braves-vs-dodgers-nlds-game-2-starting-lineups-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fjaxumay5uhjxwz5dhiz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T18:28:00+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "21m ago"
     },
     {
       "title": "Dominant since return from IL, Pivetta to start Game 3 of NLDS",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T17:57:37+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "56m ago"
     },
     {
       "title": "Despite tough stretch drive, May gets Game 3 nod for Crew",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T17:53:59+00:00",
-      "time_ago": "50m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "The new pitch making Cam Schlittler even nastier",
@@ -90,20 +103,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-04T16:51:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Quirk of Crew's home park robs Padres of potential go-ahead rally",
-      "link": "https://www.mlb.com/news/ty-france-s-fly-ball-hits-roof-cable-in-milwaukee-in-9th-inning",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lj2qbxdh63sr9pynvfir",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell and Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T06:54:00+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
