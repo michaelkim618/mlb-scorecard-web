@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-10-03-daily-max",
+      "title": "Oct 3 Results + Oct 4 Preview: Three Out of Four Ain't Bad",
+      "author": "Max",
+      "author_emoji": "📰",
+      "author_color": "#16A34A",
+      "author_role": "Senior Reporter",
+      "date": "2026-10-03",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#16A34A",
+      "read_time": "3 min",
+      "summary": "Oct 3 delivered a solid 75% showing with only Cleveland letting us down."
+    },
+    {
       "slug": "2026-10-02-daily-doc",
       "title": "Oct 3 Preview: When Sample Size Meets October Baseball",
       "author": "Doc",

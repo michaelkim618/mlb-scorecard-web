@@ -1,0 +1,136 @@
+{
+  "title": "Oct 3 Results + Oct 4 Preview: Three Out of Four Ain't Bad",
+  "summary": "Oct 3 delivered a solid 75% showing with only Cleveland letting us down.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Another October Day in the Books\n\nYou know, I've been doing this long enough to tell you that a 3-1 day in October baseball is nothing to sneeze at. The postseason has a way of making fools out of the smartest analysts and the most sophisticated models. So when we go 3-for-4 with a 75% hit rate, I'm taking that to the bank every single time."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Today W-L",
+          "value": "3-1"
+        },
+        {
+          "label": "Accuracy",
+          "value": "75.0%"
+        },
+        {
+          "label": "Hits",
+          "value": "3"
+        },
+        {
+          "label": "Misses",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## How the Day Unfolded\n\nThe only hiccup came in Cleveland, where the Guardians couldn't hold serve at home against the Sox. We had them at 52% – basically a coin flip – and it went the other way. That's baseball in October for you. But the rest of the slate? Chef's kiss.\n\nThe Dodgers took care of business against Atlanta exactly like we thought they would at 65%. The Rays pulled through at home against the Yankees with a 59% confidence level that proved spot-on. And Milwaukee got it done against the Padres in what we called at 53% – another tight one that went our way."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Oct 3 Prediction Results by Game",
+      "data": [
+        {
+          "name": "Guardians",
+          "probability": 52,
+          "result": 0
+        },
+        {
+          "name": "Dodgers",
+          "probability": 65,
+          "result": 1
+        },
+        {
+          "name": "Rays",
+          "probability": 59,
+          "result": 1
+        },
+        {
+          "name": "Brewers",
+          "probability": 53,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Complete Oct 3 Results Breakdown",
+      "headers": [
+        "Game",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Sox @ Guardians",
+          "Guardians",
+          "52%",
+          "✗"
+        ],
+        [
+          "Braves @ Dodgers",
+          "Dodgers",
+          "65%",
+          "✓"
+        ],
+        [
+          "Yankees @ Rays",
+          "Rays",
+          "59%",
+          "✓"
+        ],
+        [
+          "Padres @ Brewers",
+          "Brewers",
+          "53%",
+          "✓"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Looking Ahead to October 4\n\nNow here's where it gets interesting. The Padres and Brewers are running it back tomorrow, and guess what? We're staying with Milwaukee. I've seen these October series before – momentum matters, and the Brewers have it right now.\n\nMichael King takes the ball for San Diego. He's had a solid year, no question. But Logan Henderson gets the nod for Milwaukee at home, and there's something about American Family Field in October that just plays different. The crowd, the energy, the stakes – it all amplifies."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Tomorrow's Top Pick - Oct 4",
+      "value": "Milwaukee Brewers over San Diego Padres",
+      "sub": "50% win probability • King vs Henderson on the mound"
+    },
+    {
+      "type": "text",
+      "value": "## The Bottom Line\n\nLook, a 50% confidence level is basically telling you this one's going to be a war. These teams are evenly matched, and that's what makes October baseball so damn compelling. But we're leaning Brewers for a reason – home field advantage in a series where they've already proven they can win.\n\nI've been around long enough to know that when you get three out of four right, you don't overthink the next day. You trust the process, respect the matchup, and let the game come to you. That's exactly what we're doing here.\n\nSee you tomorrow when we see if the Brewers can make it two in a row."
+    }
+  ],
+  "slug": "2026-10-03-daily-max",
+  "author": "Max",
+  "author_emoji": "📰",
+  "author_role": "Senior Reporter",
+  "author_color": "#16A34A",
+  "date": "2026-10-03",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#16A34A"
+}
