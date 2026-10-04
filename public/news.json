@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-04T18:05:00.830339+00:00",
+  "updated_at": "2026-10-04T18:16:55.651556+00:00",
   "news": [
+    {
+      "title": "Dominant since return from IL, Pivetta to start Game 3 of NLDS",
+      "link": "https://www.mlb.com/news/nick-pivetta-to-start-nlds-game-3-for-padres",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zvabyo3onhk0qlsv7lau",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-04T17:57:37+00:00",
+      "time_ago": "19m ago"
+    },
     {
       "title": "Despite tough stretch drive, May gets Game 3 nod for Crew",
       "link": "https://www.mlb.com/news/dustin-may-to-start-nlds-game-3-brewers-padres",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T17:53:59+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "22m ago"
     },
     {
       "title": "The new pitch making Cam Schlittler even nastier",
@@ -25,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-04T17:42:40+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "34m ago"
     },
     {
       "title": "How these ALDS teams spawned the American League",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T17:29:46+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "Padres-Brewers NLDS Game 2 FAQ, lineups (4 p.m. ET, FS1/FOX One)",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T06:39:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "At just 22, Chourio takes place as Brewers' postseason HR leader",
-      "link": "https://www.mlb.com/news/jackson-chourio-sets-brewers-postseason-home-run-record",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sdtdy2yloog1n6mudaxq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-04T06:33:00+00:00",
       "time_ago": "11h ago"
     }
   ]
