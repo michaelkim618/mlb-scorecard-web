@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-04T19:54:16.796896+00:00",
+  "updated_at": "2026-10-04T20:20:35.819351+00:00",
   "news": [
+    {
+      "title": "Braves-Dodgers NLDS Game 2 FAQ, lineups (8 p.m. ET, FS1/FOX One)",
+      "link": "https://www.mlb.com/news/braves-vs-dodgers-nlds-game-2-starting-lineups-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fjaxumay5uhjxwz5dhiz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-04T20:05:00+00:00",
+      "time_ago": "15m ago"
+    },
     {
       "title": "Dominant since return from IL, Pivetta to start Game 3 of NLDS",
       "link": "https://www.mlb.com/news/nick-pivetta-to-start-nlds-game-3-for-padres",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T19:44:00+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "36m ago"
     },
     {
       "title": "Jones, Lombard learning (and growing) together on baseball's biggest stage",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T19:42:10+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Padres-Brewers NLDS Game 2: LIVE on FS1/FOX One",
@@ -38,20 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T19:42:00+00:00",
-      "time_ago": "12m ago"
-    },
-    {
-      "title": "Braves-Dodgers NLDS Game 2 FAQ (8 p.m. ET, FS1/FOX One)",
-      "link": "https://www.mlb.com/news/braves-vs-dodgers-nlds-game-2-starting-lineups-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fjaxumay5uhjxwz5dhiz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T18:37:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Braves will go with their bullpen, not Sale on short rest, to start Game 2",
