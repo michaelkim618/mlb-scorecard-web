@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-05T01:04:17.953559+00:00",
+  "updated_at": "2026-10-05T01:28:22.059738+00:00",
   "news": [
+    {
+      "title": "Kerr twirls scoreless outing as Game 2 opener; Sale set for Game 3 start",
+      "link": "https://www.mlb.com/news/chris-sale-pitching-plan-nlds-vs-dodgers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uazsr0dt4tayr8nlrqit",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-05T01:11:00+00:00",
+      "time_ago": "17m ago"
+    },
     {
       "title": "Where does Chourio's walk-off rank among top Division Series moments?",
       "link": "https://www.mlb.com/news/top-division-series-moments-in-mlb-history",
@@ -12,7 +25,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-05T00:19:00+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "LIVE: Braves-Dodgers NLDS Game 2 (FS1/FOX One)",
@@ -38,19 +51,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-04T23:52:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Braves go with their bullpen, not Sale on short rest, to start Game 2",
-      "link": "https://www.mlb.com/news/chris-sale-pitching-plan-nlds-vs-dodgers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uazsr0dt4tayr8nlrqit",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T23:40:00+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T22:08:58+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Quirk of Crew's home park robs Padres of potential go-ahead rally",
