@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-05T22:08:39.656531+00:00",
+  "updated_at": "2026-10-05T22:16:16.594086+00:00",
   "news": [
+    {
+      "title": "All according to plan: Sale slated for Game 3 duel vs. Dodgers with extra rest",
+      "link": "https://www.mlb.com/news/chris-sale-to-face-dodgers-with-extra-days-in-game-3-of-nlds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/k1npyr4yv82nmz4czdip",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-05T21:59:38+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "The Brewers cult hero who sprinkled some of his magic on Chourio",
       "link": "https://www.mlb.com/news/nyjer-morgan-good-luck-charm-for-brewers-in-playoffs",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-05T21:26:18+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "'He doesn't have to be Superman': Braves not worried about Acuña's postseason slump",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-05T21:22:12+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "Magic ice cream? White Sox using sweet treat as latest good luck charm",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-05T21:19:53+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "56m ago"
     },
     {
       "title": "LIVE on TBS/HBO Max: White Sox-Guardians ALDS Game 2",
@@ -91,19 +104,6 @@
       "tag_color": "#DC2626",
       "pub_date": "2026-10-05T19:34:42+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Dodgers rookie phenom is related to ... Stephon Marbury?",
-      "link": "https://www.mlb.com/news/dodgers-josue-de-paula-stephon-marbury-cousins",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/owhsjlqmibzl3wppmie4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matt Monagan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-05T17:55:10+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }
