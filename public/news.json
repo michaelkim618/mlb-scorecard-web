@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-05T00:21:55.407550+00:00",
+  "updated_at": "2026-10-05T00:49:52.419598+00:00",
   "news": [
+    {
+      "title": "Where does Chourio's walk-off rank among top Division Series moments?",
+      "link": "https://www.mlb.com/news/top-division-series-moments-in-mlb-history",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/zoigabu2mci8w2bdymxs",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-05T00:19:00+00:00",
+      "time_ago": "30m ago"
+    },
     {
       "title": "LIVE: Braves-Dodgers NLDS Game 2 (FS1/FOX One)",
       "link": "https://www.mlb.com/news/braves-vs-dodgers-nlds-game-2-starting-lineups-pitching-matchup",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-05T00:00:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "Chourio bests Miller with walk-off 1B, gives Brewers 2-0 NLDS lead",
@@ -25,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-04T23:52:00+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "Braves go with their bullpen, not Sale on short rest, to start Game 2",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T23:40:00+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Padres down 0-2 in NLDS after Miller called upon for 6 outs",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T23:39:27+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Tampa Bay's secret weapon? No outfield is harder to get a hit against",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T22:38:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Rocctober isn't a coincidence -- Rocchio's grown into a great ballplayer",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T21:49:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Thome in 'good company' as he watches White Sox remarkable postseason run",
-      "link": "https://www.mlb.com/news/jim-thome-attends-watch-party-with-jerry-reinsdorf-tony-la-russa",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lqx6qtrq1crnthlllamw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T21:45:35+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
