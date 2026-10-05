@@ -1,11 +1,11 @@
 {
-  "title": "Oct 4 Results + Oct 5 Preview: 50-50 Split, But the Numbers Tell More",
-  "summary": "Oct 4 went 1-1 (50.0%). Breaking down what hit, what missed, and Oct 5's top pick.",
+  "title": "Oct 4 Results + Oct 5 Preview: Split Decision, 50% Win Rate on 2-Game Slate",
+  "summary": "Oct 4: 1W-1L (50.0%). Oct 5 preview: Guardians top pick at 55% confidence.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Oct 4 Results: A Statistical Split\n\nLet's talk numbers. Yesterday's slate delivered exactly what the probability suggested—a 50-50 outcome. We went 1-1 across two picks, which translates to a 50.0% hit rate. Not spectacular, but that's what happens when you're working with mid-range confidence intervals."
+      "value": "## October 4 Results: The Numbers Tell the Story\n\nLet's break down yesterday's performance. We went 1-1 on a 2-game slate, hitting exactly 50.0% accuracy. Not spectacular, but that's what the data shows. The Brewers pick hit at 50% confidence, while our 63% Dodgers play missed. That's variance for you."
     },
     {
       "type": "stat_row",
@@ -25,15 +25,11 @@
       ]
     },
     {
-      "type": "text",
-      "value": "## Game-by-Game Breakdown\n\nHere's how the data played out across yesterday's picks:"
-    },
-    {
       "type": "table",
-      "title": "Oct 4 Full Results",
+      "title": "October 4 Full Game Results",
       "headers": [
-        "Game",
-        "Pick",
+        "Matchup",
+        "Our Pick",
         "Confidence",
         "Result"
       ],
@@ -55,7 +51,7 @@
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Oct 4 Pick Confidence vs Outcomes",
+      "title": "Oct 4 Prediction Confidence vs Results",
       "data": [
         {
           "name": "Brewers",
@@ -84,43 +80,43 @@
     },
     {
       "type": "text",
-      "value": "## The Statistical Reality\n\nLook at this stat: our higher confidence pick (Dodgers at 63%) missed, while the coin-flip Brewers pick (50%) hit. That's variance in action. Over a 162-game season, these fluctuations normalize. The key is process over results—and a 63% confidence level still means a 37% chance of being wrong.\n\nThe Brewers pick was essentially a statistical toss-up, and it landed our way. The Dodgers miss? Within the margin of expected outcomes given the confidence interval."
+      "value": "## The Data Breakdown\n\nOur lower-confidence pick (Brewers at 50%) converted. The higher-confidence play (Dodgers at 63%) didn't. That's a 13-percentage-point confidence differential that didn't correlate with outcomes. Sample size of 2 is statistically insignificant, but worth noting for the record."
     },
     {
       "type": "text",
-      "value": "## Oct 5 Preview: Tomorrow's Top Pick\n\nMoving to Sunday's slate. The model has identified one standout opportunity based on pitcher matchup data and team performance metrics."
+      "value": "## October 5 Preview: Tomorrow's Top Pick\n\nMoving to tomorrow's slate. We're looking at White Sox @ Guardians as our top selection. The model likes Cleveland at 55% confidence—not overwhelming, but edge is edge."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Oct 5 Top Pick",
-      "value": "Cleveland Guardians",
-      "sub": "55% win probability vs White Sox · Home advantage · Williams on the mound"
+      "title": "⭐ Tomorrow's Top Pick - October 5",
+      "value": "Cleveland Guardians (55%)",
+      "sub": "vs Chicago White Sox • Home SP: Gavin Williams • Away SP: Anthony Kay"
     },
     {
       "type": "text",
-      "value": "## The Guardians Case: By The Numbers\n\n**Matchup:** Chicago White Sox @ Cleveland Guardians\n\n**The Pick:** Guardians at 55% confidence\n\n**Starting Pitchers:**\n- Away: Anthony Kay (White Sox)\n- Home: Gavin Williams (Guardians)\n\nThis is another mid-confidence play, sitting at 55%. The edge comes from home field advantage and the pitching differential. Williams' metrics at home provide a measurable advantage over Kay's road performance. Not a slam dunk—just a slight statistical edge that translates to positive expected value over time."
+      "value": "## Pitcher Matchup Analysis\n\n**Home Starter:** Gavin Williams takes the mound for Cleveland. The Guardians get home-field advantage with their ace.\n\n**Away Starter:** Anthony Kay goes for the White Sox. Road start, facing a Guardians lineup that has shown consistency.\n\nThe 55% confidence level reflects a modest edge. We're not projecting a blowout—the data suggests a competitive game with Cleveland holding the statistical advantage based on pitching matchup, home field, and current form metrics."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Pick Confidence",
+          "label": "Pick",
+          "value": "Guardians"
+        },
+        {
+          "label": "Confidence",
           "value": "55%"
         },
         {
-          "label": "Home Team",
-          "value": "CLE"
-        },
-        {
-          "label": "Edge Type",
-          "value": "Pitching"
+          "label": "Edge",
+          "value": "5% over coin flip"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## Bottom Line\n\nOct 4 gave us a 50-50 split on a small sample size. Oct 5 brings a Guardians pick with a 55% confidence interval—modest edge, but an edge nonetheless. The numbers suggest slight value on Cleveland.\n\nRemember: we're playing the long game here. Individual results fluctuate, but the math works over volume.\n\n*—Stan*"
+      "value": "## The Bottom Line\n\nOct 4: 50% accuracy on 2 games. Not ideal, but that's the reality of small sample sizes. Oct 5: One pick, 55% confidence on the Guardians. The numbers say slight edge to Cleveland. We track, we analyze, we report. That's what the data shows."
     }
   ],
   "slug": "2026-10-04-daily-stan",
