@@ -753,17 +753,6 @@
     },
     "away_pitcher_gamelog": [
       {
-        "date": "2026-08-03",
-        "opp": "vs STL",
-        "decision": null,
-        "ip": "3.0",
-        "er": 4,
-        "h": 4,
-        "bb": 5,
-        "so": 6,
-        "era": 12.0
-      },
-      {
         "date": "2026-08-09",
         "opp": "vs ATL",
         "decision": null,
@@ -861,6 +850,17 @@
         "bb": 2,
         "so": 5,
         "era": 3.0
+      },
+      {
+        "date": "2026-09-29",
+        "opp": "vs BOS",
+        "decision": "W",
+        "ip": "6.1",
+        "er": 0,
+        "h": 2,
+        "bb": 1,
+        "so": 10,
+        "era": 0.0
       }
     ],
     "home_pitcher": "Freddy Peralta",
@@ -1009,24 +1009,24 @@
       "away": {
         "sp_score": 72.0,
         "sp_detail": {
-          "era": 1.74,
-          "whip": 0.95,
-          "k9": 11.7,
-          "avg_ip": 5.7,
-          "qs_rate": 60.0,
-          "last3_era": 1.2,
-          "last_start_era": 3.0,
+          "era": 1.04,
+          "whip": 0.8,
+          "k9": 11.6,
+          "avg_ip": 6.0,
+          "qs_rate": 70.0,
+          "last3_era": 0.95,
+          "last_start_era": 0.0,
           "last2_eras": [
-            1.5,
-            3.0
+            3.0,
+            0.0
           ],
-          "recent_avg_era": 3.0,
+          "recent_avg_era": 0.0,
           "recent_bad_start": false,
           "trend": "hot",
           "n_games": 10,
           "sample_confidence": 1.0,
-          "rest_days": 11,
-          "rest_note": "extra_rest",
+          "rest_days": 6,
+          "rest_note": null,
           "age": 25,
           "fb_velo": 98.0,
           "pitch_arsenal": [
@@ -1265,7 +1265,7 @@
     "actual_winner": null,
     "model_winner": "Tampa Bay Rays",
     "model_correct": null,
-    "notes": "New York Yankees IL: Clarke Schmidt, Fernando Cruz, Kervin Castro / Tampa Bay Rays IL: Edwin Uceta, Gavin Lux, Jacob Melton, Jonathan Heasley, Ryan Pepiot",
+    "notes": "New York Yankees IL: Clarke Schmidt, Fernando Cruz, Kervin Castro / Tampa Bay Rays IL: Edwin Uceta, Gavin Lux, Jacob Melton, Jonathan Heasley, Ryan Pepiot | [게임로그 보정 2026-10-05] Schlittler 포스트시즌(Wild Card 9/29 vs BOS, 6.1IP 0ER 10K) 등판 누락 수정 — 정규시즌만 조회하던 버그 패치 반영, 최근 등판기록/휴식일 재계산 (rest 11d→6d). SP점수는 기존에도 상한캡(72.0) 상태라 변동 없음.",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "⏭️ 패스 (라인업 미확정)",
