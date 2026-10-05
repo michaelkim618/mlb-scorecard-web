@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-05T05:45:50.307791+00:00",
+  "updated_at": "2026-10-05T05:57:45.884741+00:00",
   "news": [
+    {
+      "title": "Harris flirts with cycle in October breakout for hometown Braves",
+      "link": "https://www.mlb.com/news/michael-harris-ii-has-three-hits-in-braves-nlds-game-2-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791173829/mlb/p9ketvbuipv11wzihhy1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jacob Gurvis",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-05T05:41:28+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "Snell's rust shows, Dodgers' bats can't pick up 'pen as NLDS evens up",
       "link": "https://www.mlb.com/news/blake-snell-rusty-in-dodgers-nlds-game-2-loss",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-05T05:16:00+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "41m ago"
     },
     {
       "title": "Braves' pitching plan pays off, postseason Freddie and more NLDS Game 2 takeaways",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-05T03:54:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Kerr twirls scoreless outing as opener; Sale set for Game 3 start",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-05T03:13:58+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Game 2 heartbreaker has Padres on the ropes in NLDS",
-      "link": "https://www.mlb.com/news/padres-lose-nlds-game-2-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kxxgnqmk1mriuyiylsqz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-05T03:02:00+00:00",
       "time_ago": "2h ago"
     }
   ]
