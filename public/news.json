@@ -1,31 +1,57 @@
 {
-  "updated_at": "2026-10-05T23:16:48.829385+00:00",
+  "updated_at": "2026-10-05T23:58:31.404876+00:00",
   "news": [
     {
-      "title": "Brewers-Padres NL Division Series Game 3 FAQ (Tues., 9:30 p.m. ET, FS1 /FOX One)",
+      "title": "Heat check: Williams makes history with 11-K fireballing show",
+      "link": "https://www.mlb.com/news/gavin-williams-11-strikeouts-100-mph-alds-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uswwfxijry90qakbmrwm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-05T23:50:16+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Was Miller tipping pitches? Closer blames blown save on lack of command",
+      "link": "https://www.mlb.com/news/mason-miller-says-blown-save-was-lack-of-command-not-tipping",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gy4lyhc3wve8cbib7y8g",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-05T23:12:26+00:00",
+      "time_ago": "46m ago"
+    },
+    {
+      "title": "Brewers-Padres NLDS Game 3 FAQ (Tues., 9:30 p.m. ET, FS1 /FOX One)",
       "link": "https://www.mlb.com/news/brewers-padres-nl-division-series-game-3-starting-lineups-and-pitching-matchup",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/urngsr4wvovqycvfz6wl",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "AJ Cassavell, Adam McCalvy and Mark Sheldon",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
       "pub_date": "2026-10-05T22:43:00+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "1h ago"
     },
     {
-      "title": "LIVE: Looking to even ALDS, Guards strike first in Game 2 (TBS/HBO Max)",
+      "title": "LIVE: White Sox rally after Guardians strike early in Game 2 (TBS/HBO Max)",
       "link": "https://www.mlb.com/stories/game/849834",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fkqyr5dhjaznwbgpvs0f",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ijdw4epkttxklgyhg8y7",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-05T22:34:52+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Raleigh (left shoulder), Naylor (right wrist) undergo surgeries",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-05T21:26:18+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "'He doesn't have to be Superman': Braves not worried about Acuña's postseason slump",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-05T21:22:12+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Magic ice cream? White Sox using sweet treat as latest good luck charm",
-      "link": "https://www.mlb.com/news/sam-antonacci-kyle-teel-discuss-lucky-ice-cream-ahead-of-alds-game-2",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/m2mbtwuvoo6qtlu1xib8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-05T21:19:53+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Yankees-Rays ALDS Game 2 FAQ, lineups (8 p.m. ET, TBS/HBO Max)",
-      "link": "https://www.mlb.com/news/yankees-vs-rays-alds-game-2-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791081104/mlb/jlzstjaektmwapbevavn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry, Bryan Hoch",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-05T20:38:00+00:00",
       "time_ago": "2h ago"
     }
   ]
