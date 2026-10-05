@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-05T05:57:45.884741+00:00",
+  "updated_at": "2026-10-05T06:43:54.236502+00:00",
   "news": [
+    {
+      "title": "Does Díaz's high-velocity perfect inning trumpet a return to form?",
+      "link": "https://www.mlb.com/news/edwin-diaz-throws-clean-inning-in-nlds-game-2-vs-braves",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791169750/mlb/heoyhtistkgzovbnd4hi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Courtney Hollmon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-05T06:28:30+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "Braves follow manager's pitch-perfect plan to even series with Dodgers",
+      "link": "https://www.mlb.com/news/braves-win-nlds-game-2-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791178482/mlb/ggvtnlgt94y9zjgivytw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-05T06:10:00+00:00",
+      "time_ago": "33m ago"
+    },
     {
       "title": "Harris flirts with cycle in October breakout for hometown Braves",
       "link": "https://www.mlb.com/news/michael-harris-ii-has-three-hits-in-braves-nlds-game-2-win",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-05T05:41:28+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Snell's rust shows, Dodgers' bats can't pick up 'pen as NLDS evens up",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-05T05:16:00+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Braves' pitching plan pays off, postseason Freddie and more NLDS Game 2 takeaways",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-05T04:40:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Burning questions for each ALDS team ahead of Game 2",
@@ -51,19 +77,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-05T04:00:03+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Braves follow manager's pitch-perfect plan to even series with Dodgers",
-      "link": "https://www.mlb.com/news/braves-win-nlds-game-2-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791172403/mlb/xpxiodbqtnkpiczsdpqu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-05T03:54:00+00:00",
       "time_ago": "2h ago"
     },
     {
@@ -77,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-05T03:37:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Brewers-Padres NL Division Series Game 3 FAQ (Tues., 9:30 p.m. ET, FS1 /FOX One)",
-      "link": "https://www.mlb.com/news/brewers-padres-nl-division-series-game-3-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/urngsr4wvovqycvfz6wl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell, Adam McCalvy and Mark Sheldon",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-05T03:30:45+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Chourio's heroics, Miller's troubles highlight takeaways from riveting NLDS Game 2",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-05T03:13:58+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
