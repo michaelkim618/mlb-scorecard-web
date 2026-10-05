@@ -1,18 +1,70 @@
 {
-  "updated_at": "2026-10-05T01:28:22.059738+00:00",
+  "updated_at": "2026-10-05T02:15:49.891349+00:00",
   "news": [
+    {
+      "title": "Padres' inability to add on late bites them in heartbreaking NLDS Game 2 defeat",
+      "link": "https://www.mlb.com/news/padres-offense-squanders-late-game-opportunities-in-nlds-game-2-loss",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wmg3aouvugfmrxsshzwp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-05T02:05:28+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "They don't ask how: Milwaukee overcomes uncharacteristic mistakes to steal Game 2",
+      "link": "https://www.mlb.com/news/brewers-win-nlds-game-2-despite-uncharacteristic-mistakes",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rlrq3qhptrq9wovlinno",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Sweet",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-05T01:40:11+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "Backs against the wall, Padres turn to Pivetta in must-win NLDS Game 3",
+      "link": "https://www.mlb.com/news/nick-pivetta-to-start-nlds-game-3-for-padres",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zvabyo3onhk0qlsv7lau",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-05T01:37:00+00:00",
+      "time_ago": "38m ago"
+    },
+    {
+      "title": "LIVE: Freeman gets Dodgers on the board with HR (FS1/FOX One)",
+      "link": "https://www.mlb.com/stories/game/849823",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w1dtydrrtykue9h0cne3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-05T01:32:59+00:00",
+      "time_ago": "42m ago"
+    },
     {
       "title": "Kerr twirls scoreless outing as Game 2 opener; Sale set for Game 3 start",
       "link": "https://www.mlb.com/news/chris-sale-pitching-plan-nlds-vs-dodgers",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uazsr0dt4tayr8nlrqit",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a6bz7ytssvemgfacjwl5",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Mark Bowman",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-05T01:11:00+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Where does Chourio's walk-off rank among top Division Series moments?",
@@ -28,19 +80,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "LIVE: Braves-Dodgers NLDS Game 2 (FS1/FOX One)",
-      "link": "https://www.mlb.com/news/braves-vs-dodgers-nlds-game-2-starting-lineups-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fjaxumay5uhjxwz5dhiz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-05T00:00:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Chourio bests Miller with walk-off 1B, gives Brewers 2-0 NLDS lead",
       "link": "https://www.mlb.com/news/brewers-win-nlds-game-2-2026",
       "summary": "",
@@ -51,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-04T23:52:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Padres down 0-2 in NLDS after Miller called upon for 6 outs",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-04T23:39:27+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Tampa Bay's secret weapon? No outfield is harder to get a hit against",
-      "link": "https://www.mlb.com/news/rays-secret-weapon-is-the-outfield-2026",
-      "summary": "+37 OAA is best by any outfield in Statcast tracking era",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gxyuk96fxxjypch9v8lz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mike Petriello",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T22:38:00+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Rocctober isn't a coincidence -- Rocchio's grown into a great ballplayer",
-      "link": "https://www.mlb.com/news/brayan-rocchio-growth-from-prospect-to-guardians-postseason-hero",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hrsfitnyyt9svocwubic",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Martín Gallegos",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T22:08:58+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Quirk of Crew's home park robs Padres of potential go-ahead rally",
-      "link": "https://www.mlb.com/news/ty-france-s-fly-ball-hits-roof-cable-in-milwaukee-in-9th-inning",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lj2qbxdh63sr9pynvfir",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell and Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-04T21:49:00+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
