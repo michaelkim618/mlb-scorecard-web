@@ -106,28 +106,6 @@ window.PREDICTIONS_DATA = [
     },
     "away_pitcher_gamelog": [
       {
-        "date": "2026-08-03",
-        "opp": "@ OAK",
-        "decision": "L",
-        "ip": "5.0",
-        "er": 3,
-        "h": 5,
-        "bb": 4,
-        "so": 5,
-        "era": 5.4
-      },
-      {
-        "date": "2026-08-08",
-        "opp": "vs HOU",
-        "decision": "W",
-        "ip": "6.0",
-        "er": 1,
-        "h": 3,
-        "bb": 1,
-        "so": 6,
-        "era": 1.5
-      },
-      {
         "date": "2026-08-14",
         "opp": "@ CLE",
         "decision": "W",
@@ -214,6 +192,28 @@ window.PREDICTIONS_DATA = [
         "bb": 2,
         "so": 5,
         "era": 11.25
+      },
+      {
+        "date": "2026-09-29",
+        "opp": "vs CHC",
+        "decision": "W",
+        "ip": "7.0",
+        "er": 0,
+        "h": 1,
+        "bb": 3,
+        "so": 8,
+        "era": 0.0
+      },
+      {
+        "date": "2026-10-04",
+        "opp": "@ MIL",
+        "decision": null,
+        "ip": "5.0",
+        "er": 1,
+        "h": 3,
+        "bb": 0,
+        "so": 6,
+        "era": 1.8
       }
     ],
     "home_pitcher": "Logan Henderson",
@@ -224,17 +224,6 @@ window.PREDICTIONS_DATA = [
       "era": "2.47"
     },
     "home_pitcher_gamelog": [
-      {
-        "date": "2026-07-28",
-        "opp": "@ SF",
-        "decision": "W",
-        "ip": "5.2",
-        "er": 0,
-        "h": 2,
-        "bb": 2,
-        "so": 7,
-        "era": 0.0
-      },
       {
         "date": "2026-08-04",
         "opp": "vs PIT",
@@ -333,6 +322,17 @@ window.PREDICTIONS_DATA = [
         "bb": 3,
         "so": 3,
         "era": 1.8
+      },
+      {
+        "date": "2026-10-04",
+        "opp": "vs SD",
+        "decision": null,
+        "ip": "5.0",
+        "er": 1,
+        "h": 2,
+        "bb": 3,
+        "so": 4,
+        "era": 1.8
       }
     ],
     "pred_model": "scorecard",
@@ -342,7 +342,7 @@ window.PREDICTIONS_DATA = [
     },
     "expected_score": {
       "away": 2.6,
-      "home": 2.2
+      "home": 2.0
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -354,32 +354,32 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": false,
       "any_cold_sp": false,
       "eff_weights": {
-        "sp": 0.26,
+        "sp": 0.33,
         "bp": 0.24,
-        "bat": 0.35,
+        "bat": 0.28,
         "sit": 0.15
       },
       "away": {
-        "sp_score": 49.7,
+        "sp_score": 70.0,
         "sp_detail": {
-          "era": 2.87,
-          "whip": 1.19,
-          "k9": 7.5,
-          "avg_ip": 6.0,
+          "era": 2.37,
+          "whip": 1.07,
+          "k9": 7.9,
+          "avg_ip": 6.1,
           "qs_rate": 80.0,
-          "last3_era": 3.1,
-          "last_start_era": 11.25,
+          "last3_era": 3.41,
+          "last_start_era": 1.8,
           "last2_eras": [
-            3.0,
-            11.25
+            0.0,
+            1.8
           ],
-          "recent_avg_era": 11.25,
-          "recent_bad_start": true,
+          "recent_avg_era": 1.8,
+          "recent_bad_start": false,
           "trend": "stable",
           "n_games": 10,
           "sample_confidence": 1.0,
-          "rest_days": 12,
-          "rest_note": "extra_rest",
+          "rest_days": 5,
+          "rest_note": null,
           "age": 31,
           "fb_velo": 94.3,
           "pitch_arsenal": [
@@ -536,20 +536,20 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 57.2,
-        "total": 55.7
+        "total": 62.4
       },
       "home": {
         "sp_score": 72.0,
         "sp_detail": {
-          "era": 2.1,
-          "whip": 0.78,
-          "k9": 9.5,
-          "avg_ip": 6.0,
+          "era": 2.28,
+          "whip": 0.81,
+          "k9": 9.1,
+          "avg_ip": 5.9,
           "qs_rate": 60.0,
-          "last3_era": 2.17,
+          "last3_era": 2.33,
           "last_start_era": 1.8,
           "last2_eras": [
-            5.4,
+            1.8,
             1.8
           ],
           "recent_avg_era": 1.8,
@@ -712,7 +712,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 45.6,
-      "away_defense": 62.4,
+      "away_defense": 72.5,
       "home_offense": 33.8,
       "home_defense": 72.6
     },
@@ -736,15 +736,10 @@ window.PREDICTIONS_DATA = [
     "value_bet": "마켓 없음",
     "extreme_edge": false,
     "consensus": false,
-    "sp_bat_conflict": true,
-    "sp_bat_conflict_detail": {
-      "sp_favors": "Milwaukee Brewers",
-      "bat_favors": "San Diego Padres",
-      "sp_gap": -22.3,
-      "bat_gap": 11.8
-    },
+    "sp_bat_conflict": false,
+    "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 50.0% (≤62.0%)",
+    "low_confidence_reason": "SP 점수 차이 2.0pt (≤5.0pt) / 최고 확률 50.0% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -857,17 +852,6 @@ window.PREDICTIONS_DATA = [
     },
     "away_pitcher_gamelog": [
       {
-        "date": "2026-08-17",
-        "opp": "@ MIN",
-        "decision": null,
-        "ip": "1.1",
-        "er": 0,
-        "h": 1,
-        "bb": 0,
-        "so": 0,
-        "era": 0.0
-      },
-      {
         "date": "2026-08-19",
         "opp": "@ MIN",
         "decision": null,
@@ -953,6 +937,28 @@ window.PREDICTIONS_DATA = [
         "h": 2,
         "bb": 1,
         "so": 0,
+        "era": 0.0
+      },
+      {
+        "date": "2026-10-01",
+        "opp": "vs PHI",
+        "decision": null,
+        "ip": "3.1",
+        "er": 0,
+        "h": 1,
+        "bb": 1,
+        "so": 2,
+        "era": 0.0
+      },
+      {
+        "date": "2026-10-04",
+        "opp": "@ LAD",
+        "decision": null,
+        "ip": "2.2",
+        "er": 0,
+        "h": 2,
+        "bb": 1,
+        "so": 4,
         "era": 0.0
       }
     ],
@@ -1062,6 +1068,17 @@ window.PREDICTIONS_DATA = [
         "bb": 0,
         "so": 3,
         "era": 2.25
+      },
+      {
+        "date": "2026-10-04",
+        "opp": "vs ATL",
+        "decision": null,
+        "ip": "3.2",
+        "er": 1,
+        "h": 3,
+        "bb": 5,
+        "so": 5,
+        "era": 2.45
       }
     ],
     "pred_model": "scorecard",
@@ -1089,26 +1106,26 @@ window.PREDICTIONS_DATA = [
         "sit": 0.15
       },
       "away": {
-        "sp_score": 38.2,
+        "sp_score": 35.3,
         "sp_detail": {
-          "era": 1.47,
-          "whip": 0.6,
-          "k9": 5.4,
-          "avg_ip": 2.0,
+          "era": 1.17,
+          "whip": 0.65,
+          "k9": 6.7,
+          "avg_ip": 2.3,
           "qs_rate": 0.0,
-          "last3_era": 0.77,
+          "last3_era": 0.69,
           "last_start_era": 0.0,
           "last2_eras": [
-            9.0,
+            0.0,
             0.0
           ],
           "recent_avg_era": 0.0,
           "recent_bad_start": false,
           "trend": "cold",
-          "n_games": 9,
+          "n_games": 10,
           "sample_confidence": 1.0,
-          "rest_days": 9,
-          "rest_note": "extra_rest",
+          "rest_days": 3,
+          "rest_note": "short_rest",
           "age": 32,
           "fb_velo": 94.9,
           "pitch_arsenal": [
@@ -1264,26 +1281,26 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 57.6,
-        "total": 48.9
+        "total": 48.0
       },
       "home": {
         "sp_score": 59.0,
         "sp_detail": {
-          "era": 1.9,
-          "whip": 1.1,
-          "k9": 11.6,
-          "avg_ip": 4.7,
-          "qs_rate": 44.4,
-          "last3_era": 1.25,
-          "last_start_era": 2.25,
+          "era": 1.94,
+          "whip": 1.19,
+          "k9": 11.7,
+          "avg_ip": 4.6,
+          "qs_rate": 40.0,
+          "last3_era": 1.33,
+          "last_start_era": 2.45,
           "last2_eras": [
-            0.0,
-            2.25
+            2.25,
+            2.45
           ],
-          "recent_avg_era": 2.25,
+          "recent_avg_era": 2.45,
           "recent_bad_start": false,
           "trend": "hot",
-          "n_games": 9,
+          "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 8,
           "rest_note": "extra_rest",
@@ -1441,7 +1458,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 27.1,
-      "away_defense": 55.9,
+      "away_defense": 54.4,
       "home_offense": 45.1,
       "home_defense": 63.2
     },
