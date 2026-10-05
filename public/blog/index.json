@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-10-04-daily-stan",
+      "title": "Oct 4 Results + Oct 5 Preview: 50% Hit Rate, But The Numbers Tell a Deeper Story",
+      "author": "Stan",
+      "author_emoji": "📊",
+      "author_color": "#0EA5E9",
+      "author_role": "Data Analyst",
+      "date": "2026-10-04",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#0EA5E9",
+      "read_time": "3 min",
+      "summary": "Oct 4 went 1-1 (50%), but confidence levels mattered. Cleveland leads Oct 5 slate."
+    },
+    {
       "slug": "2026-10-03-daily-max",
       "title": "Oct 3 Results + Oct 4 Preview: Three for Four Ain't Bad",
       "author": "Max",

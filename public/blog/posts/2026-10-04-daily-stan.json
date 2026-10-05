@@ -1,0 +1,138 @@
+{
+  "title": "Oct 4 Results + Oct 5 Preview: 50% Hit Rate, But The Numbers Tell a Deeper Story",
+  "summary": "Oct 4 went 1-1 (50%), but confidence levels mattered. Cleveland leads Oct 5 slate.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Oct 4 Results: A Split Decision\n\nLet's break down the numbers from yesterday's slate. We went 1-1, hitting exactly 50% accuracy across two predictions. But here's what the data really shows: our lower confidence pick (Brewers at 50%) hit, while our higher confidence selection (Dodgers at 63%) missed. That's variance for you."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Overall Record",
+          "value": "1-1"
+        },
+        {
+          "label": "Win Rate",
+          "value": "50.0%"
+        },
+        {
+          "label": "Avg Confidence",
+          "value": "56.5%"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Oct 4 Game-by-Game Breakdown",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Outcome"
+      ],
+      "rows": [
+        [
+          "Padres @ Brewers",
+          "Brewers",
+          "50%",
+          "✓ Hit"
+        ],
+        [
+          "Braves @ Dodgers",
+          "Dodgers",
+          "63%",
+          "✗ Miss"
+        ]
+      ]
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Oct 4 Win Probability vs Results",
+      "data": [
+        {
+          "name": "Brewers",
+          "probability": 50,
+          "result": 1
+        },
+        {
+          "name": "Dodgers",
+          "probability": 63,
+          "result": 0
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Hit, 0=Miss)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Variance Factor\n\nHere's the thing about a 50% day: it's not ideal, but it's also not catastrophic. When you're dealing with confidence levels in the 50-63% range, you're essentially betting on marginal edges. The Brewers pick was a coin flip that landed our way. The Dodgers pick had a 37% chance of missing—and it did. That's probability playing out in real-time."
+    },
+    {
+      "type": "text",
+      "value": "## Oct 5 Preview: Cleveland Stands Out\n\nNow let's pivot to tomorrow's slate. The numbers point to one clear top pick: the Cleveland Guardians hosting the Chicago White Sox. We're projecting Cleveland at 61% win probability, which represents solid value given the pitching matchup."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Tomorrow's Top Pick - Oct 5",
+      "value": "Cleveland Guardians",
+      "sub": "61% win probability vs White Sox · Gavin Williams on the mound"
+    },
+    {
+      "type": "table",
+      "title": "Oct 5 Top Pick Details",
+      "headers": [
+        "Team",
+        "Pitcher",
+        "Win Prob",
+        "Edge"
+      ],
+      "rows": [
+        [
+          "Cleveland Guardians",
+          "Gavin Williams (SP)",
+          "61%",
+          "Home advantage + pitching"
+        ],
+        [
+          "Chicago White Sox",
+          "Anthony Kay (SP)",
+          "39%",
+          "Away underdog"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Matchup Analysis\n\nCleveland draws Gavin Williams as their starter against Anthony Kay for the White Sox. The 61% confidence level reflects a measurable edge, though not an overwhelming one. Home field advantage factors into this projection, and the pitching metrics support Cleveland's favor in this spot. This is the kind of pick where the edge is clear enough to warrant conviction, but not so large that variance can't play a role."
+    },
+    {
+      "type": "text",
+      "value": "## Bottom Line\n\nOct 4 was a split—1-1, 50% accuracy. The model performed within expected variance parameters. Oct 5 brings a clearer opportunity with Cleveland at 61%. The numbers suggest value there, and that's where we're leaning for tomorrow's top selection. Lock it in and let's see if the probability holds."
+    }
+  ],
+  "slug": "2026-10-04-daily-stan",
+  "author": "Stan",
+  "author_emoji": "📊",
+  "author_role": "Data Analyst",
+  "author_color": "#0EA5E9",
+  "date": "2026-10-04",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#0EA5E9"
+}
