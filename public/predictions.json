@@ -336,12 +336,12 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 39.3,
-      "home": 60.7
+      "away": 47.0,
+      "home": 53.0
     },
     "expected_score": {
-      "away": 2.4,
-      "home": 2.7
+      "away": 2.5,
+      "home": 2.6
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -359,7 +359,7 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 32.0,
+        "sp_score": 36.0,
         "sp_detail": {
           "era": 5.44,
           "whip": 1.42,
@@ -486,10 +486,10 @@
           }
         },
         "sit_score": 56.3,
-        "total": 46.1
+        "total": 53.4
       },
       "home": {
-        "sp_score": 51.5,
+        "sp_score": 47.0,
         "sp_detail": {
           "era": 3.88,
           "whip": 1.22,
@@ -608,7 +608,7 @@
           }
         },
         "sit_score": 58.4,
-        "total": 58.2
+        "total": 56.8
       }
     },
     "scores": {
@@ -631,7 +631,7 @@
     "actual_winner": null,
     "model_winner": "Cleveland Guardians",
     "model_correct": null,
-    "notes": "Chicago White Sox IL: Brooks Baldwin, Jordan Leasure, Ky Bush, Luis Castillo, Mike Vasil 외 다수",
+    "notes": "Chicago White Sox IL: Brooks Baldwin, Jordan Leasure, Ky Bush, Luis Castillo, Mike Vasil 외 다수 | [정밀분석 재조정 2026-10-05] 모델 SP점수 편차가 시즌ERA에 과도히 의존 → 홈 선발 직전등판 붕괴, 원정팀 최근 맞대결 셧아웃 승리를 반영해 SP스코어 재조정 (away 32.0→36.0, home 51.5→47.0). 종합 스코어 격차 12.1→3.4로 축소, 사실상 박빙 경기로 재평가.",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "⏭️ 패스 (라인업 미확정)",
@@ -640,7 +640,7 @@
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 60.7% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 53.0% (≤62.0%) — 애널리스트 재조정: 홈 선발 직전 붕괴등판(3.1IP/10.8ERA) + 원정 2연승 모멘텀(직전 맞대결 3-0 승) 반영",
     "opener_game": {
       "away": false,
       "home": false
