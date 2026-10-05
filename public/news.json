@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-10-05T16:52:43.785417+00:00",
+  "updated_at": "2026-10-05T21:17:02.469025+00:00",
   "news": [
+    {
+      "title": "LIVE on TBS/HBO Max: White Sox-Guardians ALDS Game 2",
+      "link": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-2-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ku3gyzaqozqxobutediu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin and Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-05T20:54:00+00:00",
+      "time_ago": "23m ago"
+    },
+    {
+      "title": "Yankees-Rays ALDS Game 2 FAQ, lineups (8 p.m. ET, TBS/HBO Max)",
+      "link": "https://www.mlb.com/news/yankees-vs-rays-alds-game-2-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791081104/mlb/jlzstjaektmwapbevavn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry, Bryan Hoch",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-05T20:38:00+00:00",
+      "time_ago": "39m ago"
+    },
+    {
+      "title": "Padres return Buehler from paternity list before NLDS Game 3",
+      "link": "https://www.mlb.com/news/walker-buehler-returning-to-padres-for-nlds-game-3",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t29ib5yukvmjpzcxgs4y",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-05T20:22:00+00:00",
+      "time_ago": "55m ago"
+    },
+    {
+      "title": "Anthony not expected to need surgery: 'Rest is likely the best path to recovery'",
+      "link": "https://www.mlb.com/news/roman-anthony-injury-update-october-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y5ypicej69nvl6xwpkjx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-10-05T19:34:42+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Ochoa's comeback story continues in the Fall League",
+      "link": "https://www.mlb.com/news/astros-arizona-fall-league-overview-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iqikicfaucygbxohkqav",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jim Callis",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-05T18:13:32+00:00",
+      "time_ago": "3h ago"
+    },
+    {
+      "title": "Dodgers rookie phenom is related to ... Stephon Marbury?",
+      "link": "https://www.mlb.com/news/dodgers-josue-de-paula-stephon-marbury-cousins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/owhsjlqmibzl3wppmie4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matt Monagan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-05T17:55:10+00:00",
+      "time_ago": "3h ago"
+    },
     {
       "title": "VOTE NOW: MLB announces 2026 Finalists for Hank Aaron Award",
       "link": "https://www.mlb.com/news/hank-aaron-award-finalists-for-2026",
@@ -12,7 +90,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-10-05T16:14:53+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Roberts pulls Pages' ABS challenge privileges after Game 1 miss",
@@ -25,85 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-05T15:42:02+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Burning questions for each ALDS team ahead of Game 2",
-      "link": "https://www.mlb.com/news/2026-alds-game-2-storylines-what-to-watch-for",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lm9lzidqgvruedqtyyv1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-05T14:55:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Braves follow manager's pitch-perfect plan to even series with Dodgers",
-      "link": "https://www.mlb.com/news/braves-win-nlds-game-2-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791178482/mlb/ggvtnlgt94y9zjgivytw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-05T06:10:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Dodgers-Braves NLDS Game 3 FAQ (Tues., 6 p.m. ET, FS1/FOX One)",
-      "link": "https://www.mlb.com/news/dodgers-vs-braves-nlds-game-3-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rs2jkrpre68ykvvcanuc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella, Mark Bowman and Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-05T05:56:38+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Harris flirts with cycle in October breakout for hometown Braves",
-      "link": "https://www.mlb.com/news/michael-harris-ii-has-three-hits-in-braves-nlds-game-2-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791173829/mlb/p9ketvbuipv11wzihhy1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jacob Gurvis",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-05T05:41:28+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Snell's rust shows, Dodgers' bats can't pick up 'pen as NLDS evens up",
-      "link": "https://www.mlb.com/news/blake-snell-rusty-in-dodgers-nlds-game-2-loss",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791169476/mlb/fpnpxmdlhhhcuzizn7tn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-05T05:16:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Braves' pitching plan pays off, postseason Freddie and more NLDS Game 2 takeaways",
-      "link": "https://www.mlb.com/news/braves-dodgers-nlds-game-2-takeaways",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791172363/mlb/jj3abrsrtr3eim8yualu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-05T04:40:00+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "5h ago"
     }
   ]
 }
