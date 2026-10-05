@@ -1335,12 +1335,12 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 70.4,
+        "bp_score": 67.4,
         "bp_detail": {
           "bullpen_era": 3.24,
-          "recent_era": 2.0,
-          "recent_appearances": 3,
-          "recent_ip": 3.0,
+          "recent_era": 3.24,
+          "recent_appearances": 0,
+          "recent_ip": 0.0,
           "team_era": 3.16,
           "bp_ip": 253.0,
           "bp_count": 6,
@@ -1444,14 +1444,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 68.9,
-        "total": 65.8
+        "total": 64.4
       }
     },
     "scores": {
       "away_offense": 26.8,
       "away_defense": 47.0,
       "home_offense": 46.7,
-      "home_defense": 71.2
+      "home_defense": 69.7
     },
     "actual_score": {
       "away": 3,
@@ -2838,8 +2838,8 @@ window.PREDICTIONS_DATA = [
         "bp_detail": {
           "bullpen_era": 2.89,
           "recent_era": 2.89,
-          "recent_appearances": 1,
-          "recent_ip": 1.7,
+          "recent_appearances": 0,
+          "recent_ip": 0.0,
           "team_era": 3.29,
           "bp_ip": 401.3,
           "bp_count": 6,
