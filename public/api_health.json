@@ -1,20 +1,20 @@
 {
-  "checked_at": "2026-10-04T19:20:55.816362+00:00",
+  "checked_at": "2026-10-05T21:56:14.483900+00:00",
   "endpoints": {
     "schedule": {
       "ok": true,
       "status": 200,
-      "latency_ms": 171
+      "latency_ms": 608
     },
     "teams": {
       "ok": true,
       "status": 200,
-      "latency_ms": 144
+      "latency_ms": 34
     },
     "people": {
       "ok": true,
       "status": 200,
-      "latency_ms": 134
+      "latency_ms": 33
     }
   },
   "overall": "ok"
