@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-06T05:33:54.378927+00:00",
+  "updated_at": "2026-10-06T06:23:18.252284+00:00",
   "news": [
+    {
+      "title": "Relentless Rays give Schlittler fits in 4-run 5th, move 1 win from ALCS",
+      "link": "https://www.mlb.com/news/rays-win-alds-game-2-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hzcuwxukaetfgkdq21xz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-06T05:50:00+00:00",
+      "time_ago": "33m ago"
+    },
+    {
+      "title": "Rice makes history with second two-homer game of postseason",
+      "link": "https://www.mlb.com/news/ben-rice-hits-two-homers-in-yankees-2026-alds-game-2-loss",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ttlwuj6ijgxqdlauabyw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sarah Langs",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-06T05:49:18+00:00",
+      "time_ago": "34m ago"
+    },
+    {
+      "title": "3-error first just the start of Yankees' defensive woes",
+      "link": "https://www.mlb.com/news/rays-capitalize-as-yankees-commit-3-errors-in-first-in-2026-alds-game-2",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791247689/mlb/at8gdddtwpmzgaxx56wx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-06T05:37:00+00:00",
+      "time_ago": "46m ago"
+    },
     {
       "title": "'We beat ourselves': 4-error game pushes Yanks to brink of elimination",
       "link": "https://www.mlb.com/news/yankees-lose-alds-game-2-2026",
@@ -12,7 +51,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-06T05:17:00+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Rays get the best of Schlittler, who battles to no avail",
+      "link": "https://www.mlb.com/news/cam-schlittler-yankees-cant-stop-rays-in-alds-game-2",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tznxawnateekerngaux0",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-10-06T05:08:56+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Martinez once got booted from Yankee Stadium. Now he could help boot Yanks in Game 3",
@@ -25,84 +77,32 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-06T04:11:46+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
-      "title": "Why Vogt pulled a dominant Williams -- and why the decision will be debated",
-      "link": "https://www.mlb.com/news/gavin-williams-11-strikeouts-100-mph-alds-2026",
+      "title": "Burning questions facing each NLDS team ahead of tonight's Game 3s",
+      "link": "https://www.mlb.com/news/2026-nlds-game-3-storylines-what-to-watch-for",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uswwfxijry90qakbmrwm",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zf1eicpofuwakcdlmlal",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Tim Stebbins and Martín Gallegos",
+      "author": "Will Leitch",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-06T03:33:00+00:00",
+      "pub_date": "2026-10-06T04:04:22+00:00",
       "time_ago": "2h ago"
     },
     {
-      "title": "Relentless Rays give Schlittler fits in 4-run 5th, move 1 win from ALCS",
-      "link": "https://www.mlb.com/news/rays-win-alds-game-2-2026",
+      "title": "Guardians-White Sox ALDS Game 3 FAQ (Wed., 4 ET, TBS/HBO Max)",
+      "link": "https://www.mlb.com/news/guardians-vs-white-sox-alds-game-3-starting-lineups-and-pitching-matchup",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hzcuwxukaetfgkdq21xz",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mkruusttzyumvembb9jw",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Adam Berry",
+      "author": "Scott Merkin and Tim Stebbins",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-06T03:28:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Taylor's 2nd straight multi-inning save has White Sox flying",
-      "link": "https://www.mlb.com/news/grant-taylor-delivers-save-closes-out-game-2-of-the-alds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xxyh04ghm0574t67kd0o",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-06T03:06:19+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Seven hits, three runs, no ALDS answers: Guardians pushed to the brink",
-      "link": "https://www.mlb.com/news/guardians-offense-alds-game-2-white-sox-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zshd6bmnlrfgmrjrnfzd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-06T03:05:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Lights out: Burke sets down 13 straight to aid Game 2 comeback",
-      "link": "https://www.mlb.com/news/sean-burke-s-dominant-outing-aids-white-sox-win-in-game-2-of-alds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/apxzyteiagizqgkt9h7v",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Rhett Bollinger",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-06T02:58:18+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Less than 2 years later, Crochet trade return trio paying huge dividends for Chicago",
-      "link": "https://www.mlb.com/news/braden-montgomery-kyle-teel-chase-meidroth-white-sox-game-2-2026-alds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/agcgnhniihatahvq4nfd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-10-06T02:45:37+00:00",
+      "pub_date": "2026-10-06T03:41:28+00:00",
       "time_ago": "2h ago"
     }
   ]
