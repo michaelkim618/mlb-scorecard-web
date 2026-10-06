@@ -1,11 +1,11 @@
 {
-  "title": "Oct 5 Results + Oct 6 Preview: Split Record, But The Numbers Tell the Story",
-  "summary": "Oct 5 went 1-1 (50.0%). Oct 6 features a 63% confidence pick in Atlanta.",
+  "title": "Oct 5 Results + Oct 6 Preview: Split Decision, 50% Efficiency",
+  "summary": "1-1 record on Oct 5 with 50% accuracy. Oct 6 features Braves at 63% confidence.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Oct 5 Results: A Statistical Split\n\nLet's break down the numbers from yesterday's slate. We posted a 1-1 record with 50.0% accuracy—right at the breakeven point. The model had two picks, and the variance played out exactly as expected when you're dealing with mid-range confidence levels."
+      "value": "## Oct 5 Results: By The Numbers\n\nLet's break down yesterday's performance with precision. We went 1-1 on the day, hitting exactly 50.0% accuracy. The model called two games, and the results split right down the middle. Not spectacular, but the data never lies."
     },
     {
       "type": "stat_row",
@@ -26,10 +26,10 @@
     },
     {
       "type": "table",
-      "title": "Oct 5 Game-by-Game Results",
+      "title": "Oct 5 Game-by-Game Breakdown",
       "headers": [
         "Matchup",
-        "Pick",
+        "Our Pick",
         "Confidence",
         "Result"
       ],
@@ -50,7 +50,7 @@
     },
     {
       "type": "text",
-      "value": "## The Data Breakdown\n\nHere's what the numbers show: The Guardians pick at 55% confidence missed—that's within normal variance for a pick barely above the coin flip threshold. The Rays pick at exactly 50%? That one hit. Sometimes the marginal edges convert, sometimes they don't. Over a large sample size, these picks trend toward their expected value.\n\nThe key metric here: we're not chasing losses or getting emotional about a split. A 50% pick has a 50% chance of hitting. The model performed exactly as the probabilities suggested."
+      "value": "## The Miss Analysis\n\nThe Guardians pick at 55% confidence didn't materialize. A marginal edge that didn't convert. The Yankees-Rays call at 50% was essentially a coin flip, and we landed on the right side. That's what happens when you're working with low-confidence spreads."
     },
     {
       "type": "chart",
@@ -84,39 +84,46 @@
     },
     {
       "type": "text",
-      "value": "## Oct 6 Preview: Now This Is Interesting\n\nTomorrow's slate gives us something with real teeth. The model is projecting Atlanta at 63% confidence against the Dodgers—that's a statistically significant edge. Let's look at the matchup data."
+      "value": "## Oct 6 Preview: Top Pick Analysis\n\nTomorrow's slate brings us a high-conviction play. The model is projecting the Atlanta Braves at 63% win probability against the Los Angeles Dodgers. That's a 13-percentage-point edge over a coin flip—statistically significant."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Oct 6 Top Pick",
-      "value": "Atlanta Braves (63%)",
-      "sub": "vs Los Angeles Dodgers • Chris Sale vs Yoshinobu Yamamoto"
+      "value": "Atlanta Braves",
+      "sub": "63% win probability vs Dodgers"
     },
     {
       "type": "text",
-      "value": "## The Pitching Matchup: A Statistical Edge\n\nChris Sale on the mound at home for Atlanta against Yoshinobu Yamamoto. The model likes this matchup at 63%—that's a 13 percentage point edge over a neutral 50-50 proposition. \n\nWhen we see confidence levels in the 60-65% range, historically these picks convert at a rate that justifies the position. This isn't a coin flip like yesterday's Rays pick. This is where the analytical edge manifests in real expected value.\n\nHome field advantage, starting pitcher metrics, and team performance indicators all align here. The data speaks: Atlanta is the play for Oct 6."
+      "value": "## Pitcher Matchup Metrics\n\nThe pitching matchup features Yoshinobu Yamamoto for the Dodgers against Chris Sale for the Braves. Sale's home splits and current form factor heavily into our 63% confidence level. The data supports an Atlanta edge in this one."
     },
     {
-      "type": "stat_row",
-      "stats": [
-        {
-          "label": "Pick Confidence",
-          "value": "63%"
-        },
-        {
-          "label": "Home Team",
-          "value": "ATL"
-        },
-        {
-          "label": "Edge vs 50%",
-          "value": "+13pt"
-        }
+      "type": "table",
+      "title": "Oct 6 Top Pick Details",
+      "headers": [
+        "Team",
+        "Pitcher",
+        "Win Prob",
+        "Location"
+      ],
+      "rows": [
+        [
+          "Dodgers",
+          "Yoshinobu Yamamoto",
+          "37%",
+          "Away"
+        ],
+        [
+          "Braves",
+          "Chris Sale",
+          "63%",
+          "Home"
+        ]
       ]
     },
     {
       "type": "text",
-      "value": "## Bottom Line\n\nOct 5: Split record, zero surprises given the probability distribution. Oct 6: A legitimate statistical edge with Atlanta at 63%. The numbers don't lie—they just need volume and proper bankroll management to express their edge over time.\n\nLet's see if the 63% confidence translates tomorrow. That's baseball, that's probability, that's the game."
+      "value": "## The Bottom Line\n\nOct 5 gave us a .500 day—nothing to celebrate, nothing to panic about. Oct 6 brings a 63% confidence play on the Braves. When the model shows double-digit edges over 50%, we pay attention. That's where value lives in the long run."
     }
   ],
   "slug": "2026-10-05-daily-stan",

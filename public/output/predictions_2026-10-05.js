@@ -571,19 +571,19 @@ window.PREDICTIONS_DATA = [
           "pitch_arsenal": [
             "SW",
             "FB",
-            "CB",
+            "KC",
             "SI",
             "CT"
           ],
           "secondary_pitches": [
             "SW",
-            "CB"
+            "KC"
           ],
           "pitches_detail": [
             {
               "code": "ST",
               "abbr": "SW",
-              "pct": 28.7,
+              "pct": 28.8,
               "velo": 86.7
             },
             {
@@ -593,8 +593,8 @@ window.PREDICTIONS_DATA = [
               "velo": 96.1
             },
             {
-              "code": "CU",
-              "abbr": "CB",
+              "code": "KC",
+              "abbr": "KC",
               "pct": 22.4,
               "velo": 82.0
             },
@@ -1206,10 +1206,10 @@ window.PREDICTIONS_DATA = [
           "lineup_ops": [
             "Ben Rice(1.014)",
             "Cody Bellinger(0.703)",
-            "Luis García(0.542)",
+            "Luis García Jr.(0.542)",
             "Spencer Jones(0.607)",
-            "George Lombard(0.798)",
-            "Jazz Chisholm(0.774)",
+            "George Lombard Jr.(0.798)",
+            "Jazz Chisholm Jr.(0.774)",
             "Trent Grisham(0.500)",
             "Austin Wells(0.889)",
             "Ryan McMahon(0.607)"
@@ -1229,7 +1229,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671277,
-              "name": "Luis García",
+              "name": "Luis García Jr.",
               "ops": 0.542,
               "avg": 0.105
             },
@@ -1241,13 +1241,13 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 806146,
-              "name": "George Lombard",
+              "name": "George Lombard Jr.",
               "ops": 0.798,
               "avg": 0.286
             },
             {
               "id": 665862,
-              "name": "Jazz Chisholm",
+              "name": "Jazz Chisholm Jr.",
               "ops": 0.774,
               "avg": 0.324
             },
@@ -1389,7 +1389,7 @@ window.PREDICTIONS_DATA = [
             "Junior Caminero(0.800)",
             "Liam Hicks(0.743)",
             "Chandler Simpson(0.704)",
-            "Victor Mesa(0.791)",
+            "Victor Mesa Jr.(0.791)",
             "Jonny DeLuca(0.807)",
             "Richie Palacios(0.672)",
             "Taylor Walls(0.652)"
@@ -1427,7 +1427,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 683748,
-              "name": "Victor Mesa",
+              "name": "Victor Mesa Jr.",
               "ops": 0.791,
               "avg": 0.273
             },
