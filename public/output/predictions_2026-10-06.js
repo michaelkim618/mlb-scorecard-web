@@ -104,7 +104,118 @@ window.PREDICTIONS_DATA = [
       "losses": 9,
       "era": "2.53"
     },
-    "away_pitcher_gamelog": [],
+    "away_pitcher_gamelog": [
+      {
+        "date": "2026-07-25",
+        "opp": "@ NYM",
+        "decision": "W",
+        "ip": "6.0",
+        "er": 1,
+        "h": 5,
+        "bb": 3,
+        "so": 5,
+        "era": 1.5
+      },
+      {
+        "date": "2026-08-01",
+        "opp": "vs BOS",
+        "decision": "L",
+        "ip": "8.0",
+        "er": 3,
+        "h": 4,
+        "bb": 1,
+        "so": 3,
+        "era": 3.38
+      },
+      {
+        "date": "2026-08-08",
+        "opp": "@ OAK",
+        "decision": null,
+        "ip": "5.2",
+        "er": 0,
+        "h": 3,
+        "bb": 3,
+        "so": 6,
+        "era": 0.0
+      },
+      {
+        "date": "2026-08-14",
+        "opp": "vs MIL",
+        "decision": "W",
+        "ip": "6.0",
+        "er": 1,
+        "h": 4,
+        "bb": 2,
+        "so": 9,
+        "era": 1.5
+      },
+      {
+        "date": "2026-08-21",
+        "opp": "vs PIT",
+        "decision": null,
+        "ip": "6.1",
+        "er": 2,
+        "h": 5,
+        "bb": 1,
+        "so": 9,
+        "era": 2.84
+      },
+      {
+        "date": "2026-08-27",
+        "opp": "@ ATL",
+        "decision": "L",
+        "ip": "6.1",
+        "er": 1,
+        "h": 4,
+        "bb": 1,
+        "so": 8,
+        "era": 1.42
+      },
+      {
+        "date": "2026-09-02",
+        "opp": "vs STL",
+        "decision": null,
+        "ip": "7.0",
+        "er": 4,
+        "h": 5,
+        "bb": 2,
+        "so": 8,
+        "era": 5.14
+      },
+      {
+        "date": "2026-09-09",
+        "opp": "vs CIN",
+        "decision": "W",
+        "ip": "7.0",
+        "er": 1,
+        "h": 3,
+        "bb": 1,
+        "so": 10,
+        "era": 1.29
+      },
+      {
+        "date": "2026-09-15",
+        "opp": "@ CIN",
+        "decision": "W",
+        "ip": "7.0",
+        "er": 0,
+        "h": 1,
+        "bb": 2,
+        "so": 7,
+        "era": 0.0
+      },
+      {
+        "date": "2026-09-23",
+        "opp": "vs SD",
+        "decision": "L",
+        "ip": "6.0",
+        "er": 2,
+        "h": 5,
+        "bb": 1,
+        "so": 4,
+        "era": 3.0
+      }
+    ],
     "home_pitcher": "Chris Sale",
     "home_pitcher_id": 519242,
     "home_pitcher_stats": {
@@ -226,12 +337,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 37.0,
-      "home": 63.0
+      "away": 48.0,
+      "home": 52.0
     },
     "expected_score": {
       "away": 2.0,
-      "home": 2.3
+      "home": 2.1
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -249,19 +360,26 @@ window.PREDICTIONS_DATA = [
         "sit": 0.15
       },
       "away": {
-        "sp_score": 48.0,
+        "sp_score": 72.0,
         "sp_detail": {
-          "era": 4.5,
-          "whip": 1.35,
-          "k9": 7.0,
-          "avg_ip": 5.0,
-          "qs_rate": 30.0,
-          "last3_era": 4.5,
-          "trend": "stable",
-          "n_games": 0,
+          "era": 2.07,
+          "whip": 0.86,
+          "k9": 9.5,
+          "avg_ip": 6.5,
+          "qs_rate": 80.0,
+          "last3_era": 2.16,
+          "last_start_era": 3.0,
+          "last2_eras": [
+            0.0,
+            3.0
+          ],
+          "recent_avg_era": 3.0,
+          "recent_bad_start": false,
+          "trend": "hot",
+          "n_games": 10,
           "sample_confidence": 1.0,
-          "rest_days": null,
-          "rest_note": null,
+          "rest_days": 13,
+          "rest_note": "extra_rest",
           "age": 28,
           "fb_velo": 96.1,
           "pitch_arsenal": [
@@ -369,7 +487,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 67.4,
-        "total": 49.5
+        "total": 59.8
       },
       "home": {
         "sp_score": 72.0,
@@ -489,7 +607,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 35.0,
-      "away_defense": 57.7,
+      "away_defense": 69.7,
       "home_offense": 34.8,
       "home_defense": 73.5
     },
@@ -515,8 +633,8 @@ window.PREDICTIONS_DATA = [
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
-    "low_confidence": false,
-    "low_confidence_reason": null,
+    "low_confidence": true,
+    "low_confidence_reason": "SP 점수 차이 0.0pt (≤5.0pt) / 최고 확률 54.0% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -627,7 +745,118 @@ window.PREDICTIONS_DATA = [
       "losses": 9,
       "era": "4.70"
     },
-    "away_pitcher_gamelog": [],
+    "away_pitcher_gamelog": [
+      {
+        "date": "2026-08-06",
+        "opp": "vs PIT",
+        "decision": "W",
+        "ip": "6.0",
+        "er": 2,
+        "h": 3,
+        "bb": 3,
+        "so": 5,
+        "era": 3.0
+      },
+      {
+        "date": "2026-08-12",
+        "opp": "@ SD",
+        "decision": null,
+        "ip": "7.0",
+        "er": 1,
+        "h": 4,
+        "bb": 2,
+        "so": 6,
+        "era": 1.29
+      },
+      {
+        "date": "2026-08-19",
+        "opp": "vs SEA",
+        "decision": "L",
+        "ip": "2.0",
+        "er": 7,
+        "h": 7,
+        "bb": 2,
+        "so": 1,
+        "era": 31.5
+      },
+      {
+        "date": "2026-08-26",
+        "opp": "@ NYM",
+        "decision": null,
+        "ip": "0.1",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 0,
+        "era": 0.0
+      },
+      {
+        "date": "2026-08-30",
+        "opp": "vs TEX",
+        "decision": "L",
+        "ip": "4.1",
+        "er": 4,
+        "h": 6,
+        "bb": 3,
+        "so": 4,
+        "era": 8.31
+      },
+      {
+        "date": "2026-09-05",
+        "opp": "@ CIN",
+        "decision": null,
+        "ip": "3.2",
+        "er": 2,
+        "h": 5,
+        "bb": 0,
+        "so": 5,
+        "era": 4.91
+      },
+      {
+        "date": "2026-09-11",
+        "opp": "vs CIN",
+        "decision": "W",
+        "ip": "6.0",
+        "er": 0,
+        "h": 2,
+        "bb": 1,
+        "so": 6,
+        "era": 0.0
+      },
+      {
+        "date": "2026-09-18",
+        "opp": "@ BAL",
+        "decision": null,
+        "ip": "2.1",
+        "er": 3,
+        "h": 6,
+        "bb": 1,
+        "so": 4,
+        "era": 11.57
+      },
+      {
+        "date": "2026-09-22",
+        "opp": "@ PHI",
+        "decision": null,
+        "ip": "2.0",
+        "er": 2,
+        "h": 1,
+        "bb": 2,
+        "so": 2,
+        "era": 9.0
+      },
+      {
+        "date": "2026-09-26",
+        "opp": "vs STL",
+        "decision": null,
+        "ip": "3.0",
+        "er": 2,
+        "h": 3,
+        "bb": 1,
+        "so": 5,
+        "era": 6.0
+      }
+    ],
     "home_pitcher": "Nick Pivetta",
     "home_pitcher_id": 601713,
     "home_pitcher_stats": {
@@ -738,8 +967,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 38.4,
-      "home": 61.6
+      "away": 35.2,
+      "home": 64.8
     },
     "expected_score": {
       "away": 1.8,
@@ -753,27 +982,34 @@ window.PREDICTIONS_DATA = [
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": false,
-      "any_cold_sp": false,
+      "any_cold_sp": true,
       "eff_weights": {
         "sp": 0.31,
-        "bp": 0.22,
-        "bat": 0.32,
+        "bp": 0.25,
+        "bat": 0.37,
         "sit": 0.15
       },
       "away": {
-        "sp_score": 42.2,
+        "sp_score": 29.7,
         "sp_detail": {
-          "era": 4.5,
-          "whip": 1.35,
-          "k9": 7.0,
-          "avg_ip": 5.0,
+          "era": 5.65,
+          "whip": 1.42,
+          "k9": 9.3,
+          "avg_ip": 3.7,
           "qs_rate": 30.0,
-          "last3_era": 4.5,
-          "trend": "stable",
-          "n_games": 0,
+          "last3_era": 4.76,
+          "last_start_era": 6.0,
+          "last2_eras": [
+            9.0,
+            6.0
+          ],
+          "recent_avg_era": 6.0,
+          "recent_bad_start": false,
+          "trend": "cold",
+          "n_games": 10,
           "sample_confidence": 1.0,
-          "rest_days": null,
-          "rest_note": null,
+          "rest_days": 10,
+          "rest_note": "extra_rest",
           "age": 29,
           "fb_velo": 96.9,
           "pitch_arsenal": [
@@ -881,7 +1117,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 71.6,
-        "total": 46.5
+        "total": 43.2
       },
       "home": {
         "sp_score": 51.5,
@@ -996,12 +1232,12 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.2,
-        "total": 56.7
+        "total": 61.3
       }
     },
     "scores": {
       "away_offense": 28.6,
-      "away_defense": 57.4,
+      "away_defense": 57.5,
       "home_offense": 47.4,
       "home_defense": 63.2
     },
@@ -1027,8 +1263,8 @@ window.PREDICTIONS_DATA = [
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
-    "low_confidence": true,
-    "low_confidence_reason": "최고 확률 61.6% (≤62.0%)",
+    "low_confidence": false,
+    "low_confidence_reason": null,
     "opener_game": {
       "away": false,
       "home": false

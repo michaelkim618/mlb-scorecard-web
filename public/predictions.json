@@ -336,12 +336,12 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 44.9,
-      "home": 55.1
+      "away": 48.0,
+      "home": 52.0
     },
     "expected_score": {
       "away": 2.0,
-      "home": 2.3
+      "home": 2.1
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -367,6 +367,13 @@
           "avg_ip": 6.5,
           "qs_rate": 80.0,
           "last3_era": 2.16,
+          "last_start_era": 3.0,
+          "last2_eras": [
+            0.0,
+            3.0
+          ],
+          "recent_avg_era": 3.0,
+          "recent_bad_start": false,
           "trend": "hot",
           "n_games": 10,
           "sample_confidence": 1.0,
@@ -424,14 +431,7 @@
               "pct": 6.1,
               "velo": 86.9
             }
-          ],
-          "last_start_era": 3.0,
-          "last2_eras": [
-            0.0,
-            3.0
-          ],
-          "recent_avg_era": 3.0,
-          "recent_bad_start": false
+          ]
         },
         "bp_score": 67.4,
         "bp_detail": {
@@ -606,7 +606,7 @@
     },
     "scores": {
       "away_offense": 35.0,
-      "away_defense": 57.7,
+      "away_defense": 69.7,
       "home_offense": 34.8,
       "home_defense": 73.5
     },
@@ -624,7 +624,7 @@
     "actual_winner": null,
     "model_winner": "Atlanta Braves",
     "model_correct": null,
-    "notes": "Los Angeles Dodgers IL: Ben Casparius, Blake Treinen, Brusdar Graterol, Eric Lauer, Gavin Stone 외 다수 / Atlanta Braves IL: Hurston Waldrep, Joe Jiménez, Joey Wentz, Martín Pérez, Spencer Schwellenbach 외 다수 | [패치] 야마모토 게임로그 조회 실패(빈 포스트시즌 stats 배열로 인한 IndexError) 버그로 Last 10 Starts가 비어 있던 문제 수정 — 정규시즌 10경기 로그 복원, SP스코어 48.0→72.0 재계산, win_prob 37/63→44.9/55.1 갱신. 소스코드 버그는 get_pitcher_gamelog()에 영구 수정 완료(향후 파이프라인 실행부터 자동 반영).",
+    "notes": "Los Angeles Dodgers IL: Ben Casparius, Blake Treinen, Brusdar Graterol, Eric Lauer, Gavin Stone 외 다수 / Atlanta Braves IL: Hurston Waldrep, Joe Jiménez, Joey Wentz, Martín Pérez, Spencer Schwellenbach 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "⏭️ 패스 (라인업 미확정)",
@@ -632,8 +632,8 @@
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
-    "low_confidence": false,
-    "low_confidence_reason": null,
+    "low_confidence": true,
+    "low_confidence_reason": "SP 점수 차이 0.0pt (≤5.0pt) / 최고 확률 54.0% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -966,8 +966,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 25.7,
-      "home": 74.3
+      "away": 35.2,
+      "home": 64.8
     },
     "expected_score": {
       "away": 1.8,
@@ -981,15 +981,15 @@
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": false,
-      "any_cold_sp": false,
+      "any_cold_sp": true,
       "eff_weights": {
         "sp": 0.31,
-        "bp": 0.22,
-        "bat": 0.32,
+        "bp": 0.25,
+        "bat": 0.37,
         "sit": 0.15
       },
       "away": {
-        "sp_score": 30.0,
+        "sp_score": 29.7,
         "sp_detail": {
           "era": 5.65,
           "whip": 1.42,
@@ -997,6 +997,13 @@
           "avg_ip": 3.7,
           "qs_rate": 30.0,
           "last3_era": 4.76,
+          "last_start_era": 6.0,
+          "last2_eras": [
+            9.0,
+            6.0
+          ],
+          "recent_avg_era": 6.0,
+          "recent_bad_start": false,
           "trend": "cold",
           "n_games": 10,
           "sample_confidence": 1.0,
@@ -1054,14 +1061,7 @@
               "pct": 6.1,
               "velo": 90.2
             }
-          ],
-          "last_start_era": 6.0,
-          "last2_eras": [
-            9.0,
-            6.0
-          ],
-          "recent_avg_era": 6.0,
-          "recent_bad_start": false
+          ]
         },
         "bp_score": 72.5,
         "bp_detail": {
@@ -1116,7 +1116,7 @@
           }
         },
         "sit_score": 71.6,
-        "total": 40.4
+        "total": 43.2
       },
       "home": {
         "sp_score": 51.5,
@@ -1231,12 +1231,12 @@
           }
         },
         "sit_score": 60.2,
-        "total": 56.7
+        "total": 61.3
       }
     },
     "scores": {
       "away_offense": 28.6,
-      "away_defense": 57.4,
+      "away_defense": 57.5,
       "home_offense": 47.4,
       "home_defense": 63.2
     },
@@ -1254,7 +1254,7 @@
     "actual_winner": null,
     "model_winner": "San Diego Padres",
     "model_correct": null,
-    "notes": "Milwaukee Brewers IL: Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Quinn Priester / San Diego Padres IL: Bryan Hoeing, Casey Mize, Lucas Giolito, Luis Rengifo, Ramón Laureano 외 다수 | [패치] Dustin May 게임로그 조회 실패(빈 포스트시즌 stats 배열 IndexError) 버그로 Last 10 Starts가 비어 있던 문제 수정 — 정규시즌 10경기 로그 복원. 실제 최근 폼은 cold(최근 2경기 ERA 9.00, 6.00)로 악화된 것으로 확인되어 SP스코어 42.2→30.0으로 하향, win_prob 38.4/61.6→25.7/74.3으로 SD 우세 확대.",
+    "notes": "Milwaukee Brewers IL: Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Quinn Priester / San Diego Padres IL: Bryan Hoeing, Casey Mize, Lucas Giolito, Luis Rengifo, Ramón Laureano 외 다수",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "⏭️ 패스 (라인업 미확정)",
@@ -1262,8 +1262,8 @@
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
-    "low_confidence": true,
-    "low_confidence_reason": "최고 확률 61.6% (≤62.0%)",
+    "low_confidence": false,
+    "low_confidence_reason": null,
     "opener_game": {
       "away": false,
       "home": false
