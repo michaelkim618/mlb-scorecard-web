@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-10-06T02:38:24.370616+00:00",
+  "updated_at": "2026-10-06T03:16:58.470095+00:00",
   "news": [
+    {
+      "title": "Seven hits, three runs, no ALDS answers: Guardians pushed to the brink",
+      "link": "https://www.mlb.com/news/guardians-offense-alds-game-2-white-sox-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zshd6bmnlrfgmrjrnfzd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-06T03:05:00+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Lights out: Burke sets down 13 straight to aid Game 2 comeback",
+      "link": "https://www.mlb.com/news/sean-burke-s-dominant-outing-aids-white-sox-win-in-game-2-of-alds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/apxzyteiagizqgkt9h7v",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rhett Bollinger",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-06T02:58:18+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Less than 2 years later, Crochet trade return trio paying huge dividends for Chicago",
+      "link": "https://www.mlb.com/news/braden-montgomery-kyle-teel-chase-meidroth-white-sox-game-2-2026-alds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/agcgnhniihatahvq4nfd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-10-06T02:45:37+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "What's behind Ohtani's NLDS struggles? It's complicated ...",
+      "link": "https://www.mlb.com/news/shohei-ohtani-off-to-slow-start-in-2026-nlds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791250304/mlb/myaue0yp6ylfw5p8nhpi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-06T02:35:06+00:00",
+      "time_ago": "41m ago"
+    },
     {
       "title": "After rough 2nd half, May eager for 'blank slate' in NLDS Game 3 start",
       "link": "https://www.mlb.com/news/dustin-may-on-starting-first-postseason-game-for-brewers",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-06T02:05:51+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "First home playoff clincher in 120 years? White Sox on cusp of making it happen",
@@ -25,7 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-06T01:55:00+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "With historic World Series performance in mind, Yamamoto begins 2026 postseason campaign",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-06T01:50:19+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Knee feeling better, suddenly hot Freeman off to scorching start in NLDS",
@@ -51,58 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-06T01:19:16+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Magic ice cream? White Sox using sweet treat as latest good luck charm",
-      "link": "https://www.mlb.com/news/sam-antonacci-kyle-teel-discuss-lucky-ice-cream-ahead-of-alds-game-2",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/m2mbtwuvoo6qtlu1xib8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-06T01:19:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Rays get jump as Yankees tie dubious mark with 3-error first",
-      "link": "https://www.mlb.com/news/rays-capitalize-as-yankees-commit-3-errors-in-first-in-2026-alds-game-2",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791247689/mlb/at8gdddtwpmzgaxx56wx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-06T01:13:43+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Catwalk chaos! Outfielder waits out 10-second hangtime to snag popup",
-      "link": "https://www.mlb.com/news/victor-mesa-jr-catches-fly-ball-tropicana-field-roof-alds-game-2",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rwod1wmhrwmf0yup3jfk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-06T01:05:45+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Was Miller tipping pitches? Closer -- and Brewers' skipper -- both say no",
-      "link": "https://www.mlb.com/news/mason-miller-says-blown-save-was-lack-of-command-not-tipping",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gy4lyhc3wve8cbib7y8g",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell and Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-06T01:03:00+00:00",
       "time_ago": "1h ago"
     }
   ]
