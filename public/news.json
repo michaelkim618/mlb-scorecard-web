@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-06T19:23:37.397023+00:00",
+  "updated_at": "2026-10-06T19:41:46.050367+00:00",
   "news": [
+    {
+      "title": "Guardians-White Sox ALDS Game 3 FAQ (Wed., 4 ET, TBS/HBO Max)",
+      "link": "https://www.mlb.com/news/guardians-vs-white-sox-alds-game-3-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mkruusttzyumvembb9jw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin and Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-06T19:34:00+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Booser's journey from 'very dark days' battling addiction to getting huge postseason outs",
+      "link": "https://www.mlb.com/news/cam-booser-baseball-journey-rays-2026-alds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x393ywt6axwmql80fexg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-06T19:26:11+00:00",
+      "time_ago": "15m ago"
+    },
     {
       "title": "Facing Sale in key Game 3, Dodgers drop Ohtani to 5th in lineup",
       "link": "https://www.mlb.com/news/shohei-ohtani-drops-to-fifth-in-lineup-for-nlds-game-3",
@@ -12,7 +38,20 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-06T19:17:16+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "Down 0-2 in NLDS, Padres confident they have what it takes to come back",
+      "link": "https://www.mlb.com/news/padres-confident-in-ability-to-come-back-in-nlds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791244428/mlb/nwokx9og0uypmpuahvi5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-06T19:15:00+00:00",
+      "time_ago": "26m ago"
     },
     {
       "title": "Dodgers-Braves NLDS Game 3 FAQ, lineups (6 ET, FS1/FOX One)",
@@ -25,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-06T19:00:00+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "41m ago"
     },
     {
       "title": "What's behind Ohtani's NLDS struggles? It's complicated ...",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-06T18:55:00+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "46m ago"
     },
     {
       "title": "White Sox assemble: How '26 South Siders came together so quickly",
@@ -65,45 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-06T17:20:00+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Rays to open new ballpark and District Experience Center in early 2027",
-      "link": "https://www.mlb.com/news/rays-new-ballpark-district-experience-center-opening-early-2027",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w7qhusut5kdxzjwihcrf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-06T16:00:09+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Longtime GM Fred Claire -- who coined Dodger Blue -- passes away",
-      "link": "https://www.mlb.com/news/fred-claire-dies-at-91",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qsn3kvprwwnrprjn1vpr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-06T15:34:24+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Sam McDowell, six-time All-Star and B.A.T. advocate, passes away",
-      "link": "https://www.mlb.com/news/sam-mcdowell-dies-at-84",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bwr9gf0tl6dxhictmvye",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mandy Bell",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-10-06T15:02:00+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }
