@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-06T15:42:03.614903+00:00",
+  "updated_at": "2026-10-06T16:42:24.659700+00:00",
   "news": [
+    {
+      "title": "Brewers-Padres NLDS Game 3 FAQ (9:30 ET, FS1 /FOX One)",
+      "link": "https://www.mlb.com/news/brewers-padres-nl-division-series-game-3-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/urngsr4wvovqycvfz6wl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell, Adam McCalvy and Mark Sheldon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-06T16:10:00+00:00",
+      "time_ago": "32m ago"
+    },
+    {
+      "title": "Dodgers-Braves NLDS Game 3 FAQ (6 ET, FS1/FOX One)",
+      "link": "https://www.mlb.com/news/dodgers-vs-braves-nlds-game-3-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rs2jkrpre68ykvvcanuc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella, Mark Bowman and Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-06T16:05:00+00:00",
+      "time_ago": "37m ago"
+    },
+    {
+      "title": "Longtime GM Fred Claire -- who coined Dodger Blue -- passes away",
+      "link": "https://www.mlb.com/news/fred-claire-dies-at-91",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qsn3kvprwwnrprjn1vpr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-06T15:34:24+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "What's behind Ohtani's NLDS struggles? It's complicated ...",
       "link": "https://www.mlb.com/news/shohei-ohtani-off-to-slow-start-in-2026-nlds",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-06T15:30:00+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Sam McDowell, six-time All-Star and B.A.T. advocate, passes away",
@@ -25,7 +64,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-10-06T15:02:00+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Burning questions facing each NLDS team ahead of tonight's Game 3s",
@@ -38,20 +77,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-06T15:00:00+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "1h ago"
     },
     {
-      "title": "Yamamoto, Sale in rare postseason company ahead of NLDS Game 3 matchup",
+      "title": "Yamamoto-Sale duel 1st of its kind in 88 years",
       "link": "https://www.mlb.com/news/yoshinobu-yamamoto-chris-sale-nlds-game-3",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j2dctalquiiydfegfy9p",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g5vvqzzasxcdg7almboj",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Max Ralph",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-06T14:42:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Rays-Yankees ALDS Game 3 FAQ (Wed., 8 p.m. ET, TBS/HBO Max)",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-06T06:47:22+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "'We beat ourselves': 4-error game pushes Yanks to brink of elimination",
-      "link": "https://www.mlb.com/news/yankees-lose-alds-game-2-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791264387/mlb/nucsrttuqxobz9gcsjfw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-06T06:28:00+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "Relentless Rays give Schlittler fits in 4-run 5th, move 1 win from ALCS",
-      "link": "https://www.mlb.com/news/rays-win-alds-game-2-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hzcuwxukaetfgkdq21xz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-06T05:50:00+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "Rice makes history with second two-homer game of postseason",
-      "link": "https://www.mlb.com/news/ben-rice-hits-two-homers-in-yankees-2026-alds-game-2-loss",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ttlwuj6ijgxqdlauabyw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sarah Langs",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-06T05:49:18+00:00",
       "time_ago": "9h ago"
     }
   ]
