@@ -744,7 +744,118 @@
       "losses": 9,
       "era": "4.70"
     },
-    "away_pitcher_gamelog": [],
+    "away_pitcher_gamelog": [
+      {
+        "date": "2026-08-06",
+        "opp": "vs PIT",
+        "decision": "W",
+        "ip": "6.0",
+        "er": 2,
+        "h": 3,
+        "bb": 3,
+        "so": 5,
+        "era": 3.0
+      },
+      {
+        "date": "2026-08-12",
+        "opp": "@ SD",
+        "decision": null,
+        "ip": "7.0",
+        "er": 1,
+        "h": 4,
+        "bb": 2,
+        "so": 6,
+        "era": 1.29
+      },
+      {
+        "date": "2026-08-19",
+        "opp": "vs SEA",
+        "decision": "L",
+        "ip": "2.0",
+        "er": 7,
+        "h": 7,
+        "bb": 2,
+        "so": 1,
+        "era": 31.5
+      },
+      {
+        "date": "2026-08-26",
+        "opp": "@ NYM",
+        "decision": null,
+        "ip": "0.1",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 0,
+        "era": 0.0
+      },
+      {
+        "date": "2026-08-30",
+        "opp": "vs TEX",
+        "decision": "L",
+        "ip": "4.1",
+        "er": 4,
+        "h": 6,
+        "bb": 3,
+        "so": 4,
+        "era": 8.31
+      },
+      {
+        "date": "2026-09-05",
+        "opp": "@ CIN",
+        "decision": null,
+        "ip": "3.2",
+        "er": 2,
+        "h": 5,
+        "bb": 0,
+        "so": 5,
+        "era": 4.91
+      },
+      {
+        "date": "2026-09-11",
+        "opp": "vs CIN",
+        "decision": "W",
+        "ip": "6.0",
+        "er": 0,
+        "h": 2,
+        "bb": 1,
+        "so": 6,
+        "era": 0.0
+      },
+      {
+        "date": "2026-09-18",
+        "opp": "@ BAL",
+        "decision": null,
+        "ip": "2.1",
+        "er": 3,
+        "h": 6,
+        "bb": 1,
+        "so": 4,
+        "era": 11.57
+      },
+      {
+        "date": "2026-09-22",
+        "opp": "@ PHI",
+        "decision": null,
+        "ip": "2.0",
+        "er": 2,
+        "h": 1,
+        "bb": 2,
+        "so": 2,
+        "era": 9.0
+      },
+      {
+        "date": "2026-09-26",
+        "opp": "vs STL",
+        "decision": null,
+        "ip": "3.0",
+        "er": 2,
+        "h": 3,
+        "bb": 1,
+        "so": 5,
+        "era": 6.0
+      }
+    ],
     "home_pitcher": "Nick Pivetta",
     "home_pitcher_id": 601713,
     "home_pitcher_stats": {
@@ -855,8 +966,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 38.4,
-      "home": 61.6
+      "away": 25.7,
+      "home": 74.3
     },
     "expected_score": {
       "away": 1.8,
@@ -878,19 +989,19 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 42.2,
+        "sp_score": 30.0,
         "sp_detail": {
-          "era": 4.5,
-          "whip": 1.35,
-          "k9": 7.0,
-          "avg_ip": 5.0,
+          "era": 5.65,
+          "whip": 1.42,
+          "k9": 9.3,
+          "avg_ip": 3.7,
           "qs_rate": 30.0,
-          "last3_era": 4.5,
-          "trend": "stable",
-          "n_games": 0,
+          "last3_era": 4.76,
+          "trend": "cold",
+          "n_games": 10,
           "sample_confidence": 1.0,
-          "rest_days": null,
-          "rest_note": null,
+          "rest_days": 10,
+          "rest_note": "extra_rest",
           "age": 29,
           "fb_velo": 96.9,
           "pitch_arsenal": [
@@ -943,7 +1054,14 @@
               "pct": 6.1,
               "velo": 90.2
             }
-          ]
+          ],
+          "last_start_era": 6.0,
+          "last2_eras": [
+            9.0,
+            6.0
+          ],
+          "recent_avg_era": 6.0,
+          "recent_bad_start": false
         },
         "bp_score": 72.5,
         "bp_detail": {
@@ -998,7 +1116,7 @@
           }
         },
         "sit_score": 71.6,
-        "total": 46.5
+        "total": 40.4
       },
       "home": {
         "sp_score": 51.5,
@@ -1136,7 +1254,7 @@
     "actual_winner": null,
     "model_winner": "San Diego Padres",
     "model_correct": null,
-    "notes": "Milwaukee Brewers IL: Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Quinn Priester / San Diego Padres IL: Bryan Hoeing, Casey Mize, Lucas Giolito, Luis Rengifo, Ramón Laureano 외 다수",
+    "notes": "Milwaukee Brewers IL: Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Quinn Priester / San Diego Padres IL: Bryan Hoeing, Casey Mize, Lucas Giolito, Luis Rengifo, Ramón Laureano 외 다수 | [패치] Dustin May 게임로그 조회 실패(빈 포스트시즌 stats 배열 IndexError) 버그로 Last 10 Starts가 비어 있던 문제 수정 — 정규시즌 10경기 로그 복원. 실제 최근 폼은 cold(최근 2경기 ERA 9.00, 6.00)로 악화된 것으로 확인되어 SP스코어 42.2→30.0으로 하향, win_prob 38.4/61.6→25.7/74.3으로 SD 우세 확대.",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "⏭️ 패스 (라인업 미확정)",
