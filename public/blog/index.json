@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-10-05-daily-stan",
+      "title": "Oct 5 Results + Oct 6 Preview: Split Day at 50%, But Tomorrow's 63% Confidence Looks Sharp",
+      "author": "Stan",
+      "author_emoji": "📊",
+      "author_color": "#0EA5E9",
+      "author_role": "Data Analyst",
+      "date": "2026-10-05",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#0EA5E9",
+      "read_time": "3 min",
+      "summary": "Oct 5 went 1-1 at 50%. Oct 6 features a 63% confidence pick on Braves vs Dodgers."
+    },
+    {
       "slug": "2026-10-04-daily-stan",
       "title": "Oct 4 Results + Oct 5 Preview: 50% Split, But the Numbers Tell the Story",
       "author": "Stan",
