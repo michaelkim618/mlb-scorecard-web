@@ -1,8 +1,47 @@
 {
-  "updated_at": "2026-10-06T00:13:22.524045+00:00",
+  "updated_at": "2026-10-06T00:42:07.617891+00:00",
   "news": [
     {
-      "title": "LIVE on TNT/HBO Max: Yankees-Rays ALDS Game 2",
+      "title": "Heat check: Williams makes history with 11-K fireballing show",
+      "link": "https://www.mlb.com/news/gavin-williams-11-strikeouts-100-mph-alds-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uswwfxijry90qakbmrwm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-06T00:37:00+00:00",
+      "time_ago": "5m ago"
+    },
+    {
+      "title": "Seven hits, three runs, no ALDS answers: Guardians pushed to the brink",
+      "link": "https://www.mlb.com/news/guardians-offense-alds-game-2-white-sox-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zshd6bmnlrfgmrjrnfzd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-06T00:34:15+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Clutch hitting, brilliant relief in Game 2 have White Sox on cusp of ALCS",
+      "link": "https://www.mlb.com/news/white-sox-win-alds-game-2-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/upxjd4iiokggqvhc8vmi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-06T00:19:44+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "LIVE on TBS/HBO Max: Yankees-Rays ALDS Game 2",
       "link": "https://www.mlb.com/news/yankees-vs-rays-alds-game-2-starting-lineups-and-pitching-matchup",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791081104/mlb/jlzstjaektmwapbevavn",
@@ -11,8 +50,21 @@
       "author": "Adam Berry, Bryan Hoch",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-06T00:03:00+00:00",
-      "time_ago": "10m ago"
+      "pub_date": "2026-10-06T00:13:00+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "Down 0-2 in NLDS, Padres confident they have what it takes to come back",
+      "link": "https://www.mlb.com/news/padres-confident-in-ability-to-come-back-in-nlds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791244428/mlb/nwokx9og0uypmpuahvi5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-06T00:09:02+00:00",
+      "time_ago": "33m ago"
     },
     {
       "title": "Was Miller tipping pitches? Closer blames blown save on lack of command",
@@ -25,20 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-05T23:55:00+00:00",
-      "time_ago": "18m ago"
-    },
-    {
-      "title": "Heat check: Williams makes history with 11-K fireballing show",
-      "link": "https://www.mlb.com/news/gavin-williams-11-strikeouts-100-mph-alds-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uswwfxijry90qakbmrwm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-05T23:50:16+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "Brewers-Padres NLDS Game 3 FAQ (Tues., 9:30 p.m. ET, FS1 /FOX One)",
@@ -54,19 +93,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "LIVE: White Sox rally after Guardians strike early in Game 2 (TBS/HBO Max)",
-      "link": "https://www.mlb.com/stories/game/849834",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ijdw4epkttxklgyhg8y7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-05T22:34:52+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Raleigh (left shoulder), Naylor (right wrist) undergo surgeries",
       "link": "https://www.mlb.com/news/cal-raleigh-josh-naylor-undergo-offseason-surgeries",
       "summary": "Both sluggers are expected to be fully recovered by Spring Training",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-05T22:09:32+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "All according to plan: Sale slated for Game 3 duel vs. Dodgers with extra rest",
-      "link": "https://www.mlb.com/news/chris-sale-to-face-dodgers-with-extra-days-in-game-3-of-nlds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/k1npyr4yv82nmz4czdip",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-05T21:59:38+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "The Brewers cult hero who sprinkled some of his magic on Chourio",
-      "link": "https://www.mlb.com/news/nyjer-morgan-good-luck-charm-for-brewers-in-playoffs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/in7dvuvwmp7plz1dhmlk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-05T21:26:18+00:00",
       "time_ago": "2h ago"
     }
   ]
