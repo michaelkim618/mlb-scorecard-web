@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-06T18:59:45.513490+00:00",
+  "updated_at": "2026-10-06T19:23:37.397023+00:00",
   "news": [
+    {
+      "title": "Facing Sale in key Game 3, Dodgers drop Ohtani to 5th in lineup",
+      "link": "https://www.mlb.com/news/shohei-ohtani-drops-to-fifth-in-lineup-for-nlds-game-3",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/l93uzkdwjamxy2o0a98b",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-06T19:17:16+00:00",
+      "time_ago": "6m ago"
+    },
     {
       "title": "Dodgers-Braves NLDS Game 3 FAQ, lineups (6 ET, FS1/FOX One)",
       "link": "https://www.mlb.com/news/dodgers-vs-braves-nlds-game-3-starting-lineups-and-pitching-matchup",
@@ -11,8 +24,21 @@
       "author": "Paul Casella, Mark Bowman and Sonja Chen",
       "tag": "Roster",
       "tag_color": "#0284C7",
-      "pub_date": "2026-10-06T18:15:00+00:00",
-      "time_ago": "44m ago"
+      "pub_date": "2026-10-06T19:00:00+00:00",
+      "time_ago": "23m ago"
+    },
+    {
+      "title": "What's behind Ohtani's NLDS struggles? It's complicated ...",
+      "link": "https://www.mlb.com/news/shohei-ohtani-off-to-slow-start-in-2026-nlds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791250304/mlb/myaue0yp6ylfw5p8nhpi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-06T18:55:00+00:00",
+      "time_ago": "28m ago"
     },
     {
       "title": "White Sox assemble: How '26 South Siders came together so quickly",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-06T17:20:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Rays to open new ballpark and District Experience Center in early 2027",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-06T16:00:09+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Longtime GM Fred Claire -- who coined Dodger Blue -- passes away",
@@ -67,19 +93,6 @@
       "time_ago": "3h ago"
     },
     {
-      "title": "Struggling Ohtani could move down in order for Game 3",
-      "link": "https://www.mlb.com/news/shohei-ohtani-off-to-slow-start-in-2026-nlds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791250304/mlb/myaue0yp6ylfw5p8nhpi",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-06T15:30:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
       "title": "Sam McDowell, six-time All-Star and B.A.T. advocate, passes away",
       "link": "https://www.mlb.com/news/sam-mcdowell-dies-at-84",
       "summary": "",
@@ -90,20 +103,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-10-06T15:02:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Burning questions facing each NLDS team ahead of tonight's Game 3s",
-      "link": "https://www.mlb.com/news/2026-nlds-game-3-storylines-what-to-watch-for",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zf1eicpofuwakcdlmlal",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-06T15:00:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
