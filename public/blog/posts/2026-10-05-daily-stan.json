@@ -1,17 +1,17 @@
 {
-  "title": "Oct 5 Results + Oct 6 Preview: Split Day at 50%, But Tomorrow's 63% Confidence Looks Sharp",
-  "summary": "Oct 5 went 1-1 at 50%. Oct 6 features a 63% confidence pick on Braves vs Dodgers.",
+  "title": "Oct 5 Results + Oct 6 Preview: Split Day, 50% Mark Hit",
+  "summary": "Oct 5 went 1-1 (50.0%). Oct 6 features Braves at 63% vs Dodgers.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Oct 5 Results: The Numbers Tell a Split Story\n\nLet's break down the data from yesterday's slate. We went 1-1, hitting exactly 50.0% accuracy. Not the dominant performance we're looking for, but the numbers show interesting patterns in our misses and hits."
+      "value": "## October 5 Results: By The Numbers\n\nLet's cut straight to the data. October 5 delivered a 1-1 record, hitting exactly 50.0% accuracy. One win, one loss—the model split right down the middle. The Rays pick at 50% confidence hit, while the Guardians pick at 55% missed. When you're dealing with coin-flip probabilities, variance is expected."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Oct 5 W-L",
+          "label": "Today W-L",
           "value": "1-1"
         },
         {
@@ -19,14 +19,14 @@
           "value": "50.0%"
         },
         {
-          "label": "Games Analyzed",
-          "value": "2"
+          "label": "Avg Confidence",
+          "value": "52.5%"
         }
       ]
     },
     {
       "type": "table",
-      "title": "Oct 5 Full Game Results",
+      "title": "October 5 Full Game Results",
       "headers": [
         "Game",
         "Pick",
@@ -49,13 +49,9 @@
       ]
     },
     {
-      "type": "text",
-      "value": "## The Data Breakdown\n\nHere's what stands out: our 50% confidence pick on the Rays hit, while our 55% confidence pick on the Guardians missed. That's a 5 percentage point differential that didn't translate to predictive accuracy. The Guardians pick at 55% confidence was essentially a coin flip with slight edge—and the coin landed wrong.\n\nThe Rays-Yankees game performed exactly as projected in a true toss-up scenario. When we're at 50% confidence, we expect variance, and we got the favorable side of it."
-    },
-    {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Oct 5 Prediction Confidence vs Results",
+      "title": "October 5 Pick Confidence vs Outcomes",
       "data": [
         {
           "name": "Guardians",
@@ -84,35 +80,43 @@
     },
     {
       "type": "text",
-      "value": "## Oct 6 Preview: 63% Confidence on Atlanta\n\nNow let's talk about tomorrow's top pick. The model is showing 63% confidence on the Atlanta Braves in their home matchup against the Los Angeles Dodgers. That's a 13 percentage point jump from our highest confidence pick yesterday—statistically significant.\n\nThe pitching matchup features Yoshinobu Yamamoto for the Dodgers against Chris Sale for the Braves. Sale's home splits and the Braves' situational metrics are driving this 63% projection."
+      "value": "## The Data Breakdown\n\nThe Guardians pick carried 55% confidence—barely above threshold—and missed. The Rays pick sat at exactly 50%, essentially a statistical toss-up, and hit. This is what low-confidence picks look like in practice: high variance, low predictability. Average confidence across both picks was 52.5%, which translates to expected outcomes within margin of error."
+    },
+    {
+      "type": "text",
+      "value": "## October 6 Preview: High-Confidence Play Incoming\n\nNow here's where it gets interesting. Tomorrow's top pick shows significantly stronger signals. The model projects Atlanta Braves at 63% win probability against the Los Angeles Dodgers. That's an 11-percentage-point jump from yesterday's average—meaningful separation from coin-flip territory."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Oct 6 Top Pick",
-      "value": "Atlanta Braves",
-      "sub": "63% win probability · Sale vs Yamamoto · Home advantage factored"
+      "title": "⭐ Tomorrow's Top Pick - October 6",
+      "value": "Atlanta Braves (63%)",
+      "sub": "vs Los Angeles Dodgers • Sale vs Yamamoto"
     },
     {
       "type": "text",
-      "value": "## The Numbers Behind Tomorrow's Pick\n\nAt 63% confidence, we're looking at a pick where the model sees clear edges. That's 13 points above a coin flip and 8 points above yesterday's highest confidence play. \n\nChris Sale's metrics at home combined with Atlanta's offensive production against right-handed pitching create a favorable probability distribution. Yamamoto brings talent, but the situational data favors the home side.\n\nLook for this one tomorrow. When we hit 63%+ confidence, the historical accuracy rate improves significantly. The data supports backing this play."
+      "value": "## Pitcher Matchup Analysis\n\n**Away SP:** Yoshinobu Yamamoto (Dodgers)\n**Home SP:** Chris Sale (Braves)\n\nThe pitching matchup factors heavily into this 63% projection. Chris Sale brings home field advantage with proven postseason experience. Yamamoto, while talented, faces the pressure of an away playoff start. The 63% confidence level suggests the model sees measurable edge in this setup—substantially higher conviction than anything we saw on October 5."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Tomorrow's Top Pick Confidence",
+          "label": "Tomorrow's Pick",
+          "value": "Braves"
+        },
+        {
+          "label": "Confidence",
           "value": "63%"
         },
         {
-          "label": "Edge Over Coin Flip",
-          "value": "+13pts"
-        },
-        {
-          "label": "Games on Oct 6 Slate",
-          "value": "1"
+          "label": "Edge vs Avg",
+          "value": "+10.5%"
         }
       ]
+    },
+    {
+      "type": "text",
+      "value": "## Bottom Line\n\nOctober 5: 50% accuracy, low confidence picks, high variance outcomes. October 6: 63% confidence on Braves, double-digit edge over baseline. The numbers point to stronger conviction tomorrow. Let's see if the data translates.\n\n*Model projections are probabilities, not guarantees. Past performance ≠ future results.*"
     }
   ],
   "slug": "2026-10-05-daily-stan",
