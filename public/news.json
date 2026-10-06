@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-06T00:42:07.617891+00:00",
+  "updated_at": "2026-10-06T00:53:20.993029+00:00",
   "news": [
+    {
+      "title": "LIVE: Rays get on board 1st vs. Yankees in Game 2 (TBS/HBO Max)",
+      "link": "https://www.mlb.com/stories/game/849839",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791081104/mlb/jlzstjaektmwapbevavn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-06T00:44:04+00:00",
+      "time_ago": "9m ago"
+    },
     {
       "title": "Heat check: Williams makes history with 11-K fireballing show",
       "link": "https://www.mlb.com/news/gavin-williams-11-strikeouts-100-mph-alds-2026",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-06T00:37:00+00:00",
-      "time_ago": "5m ago"
+      "time_ago": "16m ago"
     },
     {
       "title": "Seven hits, three runs, no ALDS answers: Guardians pushed to the brink",
@@ -25,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-06T00:34:15+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "19m ago"
     },
     {
       "title": "Clutch hitting, brilliant relief in Game 2 have White Sox on cusp of ALCS",
@@ -38,20 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-06T00:19:44+00:00",
-      "time_ago": "22m ago"
-    },
-    {
-      "title": "LIVE on TBS/HBO Max: Yankees-Rays ALDS Game 2",
-      "link": "https://www.mlb.com/news/yankees-vs-rays-alds-game-2-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791081104/mlb/jlzstjaektmwapbevavn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry, Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-06T00:13:00+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "33m ago"
     },
     {
       "title": "Down 0-2 in NLDS, Padres confident they have what it takes to come back",
@@ -64,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-06T00:09:02+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "44m ago"
     },
     {
       "title": "Was Miller tipping pitches? Closer blames blown save on lack of command",
@@ -77,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-05T23:55:00+00:00",
-      "time_ago": "47m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Brewers-Padres NLDS Game 3 FAQ (Tues., 9:30 p.m. ET, FS1 /FOX One)",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-05T22:43:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Raleigh (left shoulder), Naylor (right wrist) undergo surgeries",
