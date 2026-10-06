@@ -337,12 +337,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 42.8,
-      "home": 57.2
+      "away": 44.6,
+      "home": 55.4
     },
     "expected_score": {
-      "away": 2.8,
-      "home": 2.9
+      "away": 2.9,
+      "home": 2.7
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -446,14 +446,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.25,
           "closer_name": "Grant Taylor"
         },
-        "bat_score": 44.5,
+        "bat_score": 46.7,
         "bat_detail": {
           "recent_avg": 0.257,
           "runs_per_g": 6.5,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
           "season_ops": 0.737,
-          "season_slg": 0.379,
+          "season_slg": null,
           "season_avg": 0.257,
           "n_games": 9,
           "source": "prev_day",
@@ -543,7 +543,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 56.3,
-        "total": 48.1
+        "total": 48.9
       },
       "home": {
         "sp_score": 51.5,
@@ -624,14 +624,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.95,
           "closer_name": "Cade Smith"
         },
-        "bat_score": 43.6,
+        "bat_score": 40.8,
         "bat_detail": {
           "recent_avg": 0.263,
           "runs_per_g": 5.3,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
           "season_ops": 0.745,
-          "season_slg": 0.428,
+          "season_slg": null,
           "season_avg": 0.263,
           "n_games": 9,
           "source": "prev_day",
@@ -721,13 +721,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 58.4,
-        "total": 56.7
+        "total": 55.7
       }
     },
     "scores": {
-      "away_offense": 44.5,
+      "away_offense": 46.7,
       "away_defense": 60.0,
-      "home_offense": 43.6,
+      "home_offense": 40.8,
       "home_defense": 62.2
     },
     "actual_score": {
@@ -753,7 +753,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 57.2% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 55.4% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -1102,7 +1102,7 @@ window.PREDICTIONS_DATA = [
     },
     "expected_score": {
       "away": 2.1,
-      "home": 1.7
+      "home": 1.8
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -1114,9 +1114,9 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": false,
       "any_cold_sp": false,
       "eff_weights": {
-        "sp": 0.38,
-        "bp": 0.22,
-        "bat": 0.25,
+        "sp": 0.33,
+        "bp": 0.24,
+        "bat": 0.28,
         "sit": 0.15
       },
       "away": {
@@ -1190,14 +1190,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.47,
           "closer_name": "David Bednar"
         },
-        "bat_score": 34.3,
+        "bat_score": 35.0,
         "bat_detail": {
           "recent_avg": 0.216,
           "runs_per_g": 4.6,
           "hr_per_g": 1.4,
           "bb_per_g": 3.0,
           "season_ops": 0.715,
-          "season_slg": 0.393,
+          "season_slg": null,
           "season_avg": 0.216,
           "n_games": 9,
           "source": "prev_day",
@@ -1287,10 +1287,10 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 57.6,
-        "total": 61.1
+        "total": 60.2
       },
       "home": {
-        "sp_score": 54.2,
+        "sp_score": 55.0,
         "sp_detail": {
           "era": 2.24,
           "whip": 0.89,
@@ -1358,7 +1358,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 73.9,
+        "bp_score": 75.0,
         "bp_detail": {
           "bullpen_era": 2.78,
           "recent_era": 2.78,
@@ -1370,14 +1370,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.44,
           "closer_name": "Bryan Baker"
         },
-        "bat_score": 27.7,
+        "bat_score": 30.9,
         "bat_detail": {
           "recent_avg": 0.251,
           "runs_per_g": 3.8,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
           "season_ops": 0.725,
-          "season_slg": 0.369,
+          "season_slg": null,
           "season_avg": 0.251,
           "n_games": 9,
           "source": "prev_day",
@@ -1467,14 +1467,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 61.6,
-        "total": 53.0
+        "total": 54.0
       }
     },
     "scores": {
-      "away_offense": 34.3,
+      "away_offense": 35.0,
       "away_defense": 73.5,
-      "home_offense": 27.7,
-      "home_defense": 64.1
+      "home_offense": 30.9,
+      "home_defense": 65.0
     },
     "actual_score": {
       "away": 2,
