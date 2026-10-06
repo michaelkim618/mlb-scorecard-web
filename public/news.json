@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-06T05:06:44.553987+00:00",
+  "updated_at": "2026-10-06T05:33:54.378927+00:00",
   "news": [
+    {
+      "title": "'We beat ourselves': 4-error game pushes Yanks to brink of elimination",
+      "link": "https://www.mlb.com/news/yankees-lose-alds-game-2-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791264387/mlb/nucsrttuqxobz9gcsjfw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-06T05:17:00+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "Martinez once got booted from Yankee Stadium. Now he could help boot Yanks in Game 3",
       "link": "https://www.mlb.com/news/nick-martinez-rays-starter-game-3-2026-alds-yankees",
@@ -12,20 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-06T04:11:46+00:00",
-      "time_ago": "54m ago"
-    },
-    {
-      "title": "4 errors, multiple misplays put Yanks on brink of elimination",
-      "link": "https://www.mlb.com/news/yankees-lose-alds-game-2-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791247689/mlb/at8gdddtwpmzgaxx56wx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-06T04:09:00+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Why Vogt pulled a dominant Williams -- and why the decision will be debated",
@@ -38,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-06T03:33:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Relentless Rays give Schlittler fits in 4-run 5th, move 1 win from ALCS",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-06T03:28:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Taylor's 2nd straight multi-inning save has White Sox flying",
