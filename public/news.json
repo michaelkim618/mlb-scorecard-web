@@ -1,18 +1,44 @@
 {
-  "updated_at": "2026-10-07T20:54:59.164877+00:00",
+  "updated_at": "2026-10-07T21:31:11.432527+00:00",
   "news": [
     {
-      "title": "Rays-Yankees ALDS Game 3 FAQ, lineups (8 ET, TBS/HBO Max)",
-      "link": "https://www.mlb.com/news/rays-vs-yankees-alds-game-3-starting-lineups-and-pitching-matchup",
+      "title": "Brewers-Padres NLDS Game 4 FAQ (10 ET, FS1/FOX One)",
+      "link": "https://www.mlb.com/news/brewers-padres-nl-division-series-game-4-starting-lineups-and-pitching-matchup",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mq1bptm8ad9vb98mad0v",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ga0ddlksyxk9hbqvx0gr",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Adam Berry, Bryan Hoch",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-07T20:25:00+00:00",
-      "time_ago": "29m ago"
+      "author": "AJ Cassavell and Adam McCalvy ",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T21:20:00+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Acuña inserts himself back into right field for critical Game 4",
+      "link": "https://www.mlb.com/news/latest-news-ronald-acuna-jr-knee-injury-nlds-game-4",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qtb8dny24kg2m9iwqfxd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T21:12:00+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "LIVE: Guards battle back against White Sox early salvo in Game 3 (TBS/HBO Max)",
+      "link": "https://www.mlb.com/stories/game/849833",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lhc6iq6vmyjihergyn1z",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T21:08:52+00:00",
+      "time_ago": "22m ago"
     },
     {
       "title": "Chicago abuzz with White Sox playoff fever",
@@ -24,21 +50,21 @@
       "author": "Scott Merkin",
       "tag": "Standings",
       "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-07T20:06:00+00:00",
-      "time_ago": "48m ago"
+      "pub_date": "2026-10-07T20:40:00+00:00",
+      "time_ago": "51m ago"
     },
     {
-      "title": "LIVE on TBS/HBO Max: Guardians-White Sox ALDS Game 3",
-      "link": "https://www.mlb.com/news/guardians-vs-white-sox-alds-game-3-starting-lineups-and-pitching-matchup",
+      "title": "Rays-Yankees ALDS Game 3 FAQ, lineups (8 ET, TBS/HBO Max)",
+      "link": "https://www.mlb.com/news/rays-vs-yankees-alds-game-3-starting-lineups-and-pitching-matchup",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mkruusttzyumvembb9jw",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mq1bptm8ad9vb98mad0v",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Scott Merkin and Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T20:00:00+00:00",
-      "time_ago": "54m ago"
+      "author": "Adam Berry, Bryan Hoch",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-07T20:25:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Dodgers-Braves NLDS Game 4 FAQ, lineups, more (6 ET, FS1/FOX One)",
@@ -51,32 +77,6 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-07T19:24:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Acuña returns to right field for Game 4",
-      "link": "https://www.mlb.com/news/latest-news-ronald-acuna-jr-knee-injury-nlds-game-4",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qtb8dny24kg2m9iwqfxd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T19:14:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Brewers-Padres NLDS Game 4 FAQ (10 ET, FS1/FOX One)",
-      "link": "https://www.mlb.com/news/brewers-padres-nl-division-series-game-4-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ga0ddlksyxk9hbqvx0gr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell and Adam McCalvy ",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T18:12:00+00:00",
       "time_ago": "2h ago"
     },
     {
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T17:26:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "The latest on Mason Miller, Adrian Morejon ahead of Brewers-Padres NLDS Game 4",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T16:26:28+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     }
   ]
 }
