@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-07T18:38:36.944589+00:00",
+  "updated_at": "2026-10-07T19:15:56.656953+00:00",
   "news": [
+    {
+      "title": "Dodgers-Braves NLDS Game 4 FAQ, lineups, more (6 ET, FS1/FOX One)",
+      "link": "https://www.mlb.com/news/dodgers-vs-braves-nlds-game-4-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791341001/mlb/xrpbjwprm5kxq2qrzajx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella, Mark Bowman and Sonja Chen",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-07T18:47:00+00:00",
+      "time_ago": "28m ago"
+    },
     {
       "title": "Brewers-Padres NLDS Game 4 FAQ (10 ET, FS1/FOX One)",
       "link": "https://www.mlb.com/news/brewers-padres-nl-division-series-game-4-starting-lineups-and-pitching-matchup",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T18:12:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rays-Yankees ALDS Game 3 FAQ (8 ET, TBS/HBO Max)",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T18:10:00+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Cora declines Phillies' overtures to be next manager (source)",
@@ -51,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-07T16:53:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "The latest on Mason Miller, Adrian Morejon ahead of Brewers-Padres NLDS Game 4",
@@ -77,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-07T15:49:23+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "The latest on Acuña (knee) and how his status impacts the Braves for NLDS Game 4",
@@ -91,19 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T15:26:24+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "5 reasons to believe Yankees can pull off ALDS comeback",
-      "link": "https://www.mlb.com/news/reasons-yankees-can-overcome-2-0-alds-deficit",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/z8nnjagngcwm75kknpg7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T14:25:00+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }
