@@ -2229,14 +2229,125 @@
       "losses": 2,
       "streak": 1
     },
-    "away_pitcher": "TBD",
-    "away_pitcher_id": null,
+    "away_pitcher": "Robert Gasser",
+    "away_pitcher_id": 688107,
     "away_pitcher_stats": {
-      "wins": null,
-      "losses": null,
-      "era": null
+      "wins": 5,
+      "losses": 5,
+      "era": "3.87"
     },
-    "away_pitcher_gamelog": [],
+    "away_pitcher_gamelog": [
+      {
+        "date": "2026-08-01",
+        "opp": "@ LAA",
+        "decision": null,
+        "ip": "5.0",
+        "er": 1,
+        "h": 4,
+        "bb": 2,
+        "so": 6,
+        "era": 1.8
+      },
+      {
+        "date": "2026-08-08",
+        "opp": "vs MIN",
+        "decision": null,
+        "ip": "4.2",
+        "er": 3,
+        "h": 7,
+        "bb": 2,
+        "so": 3,
+        "era": 5.79
+      },
+      {
+        "date": "2026-08-14",
+        "opp": "@ LAD",
+        "decision": "L",
+        "ip": "6.1",
+        "er": 3,
+        "h": 8,
+        "bb": 1,
+        "so": 7,
+        "era": 4.26
+      },
+      {
+        "date": "2026-08-20",
+        "opp": "vs SEA",
+        "decision": null,
+        "ip": "3.2",
+        "er": 4,
+        "h": 4,
+        "bb": 4,
+        "so": 4,
+        "era": 9.82
+      },
+      {
+        "date": "2026-08-26",
+        "opp": "@ NYM",
+        "decision": "W",
+        "ip": "5.1",
+        "er": 1,
+        "h": 6,
+        "bb": 2,
+        "so": 6,
+        "era": 1.69
+      },
+      {
+        "date": "2026-09-01",
+        "opp": "@ CHC",
+        "decision": null,
+        "ip": "4.1",
+        "er": 2,
+        "h": 3,
+        "bb": 2,
+        "so": 4,
+        "era": 4.15
+      },
+      {
+        "date": "2026-09-07",
+        "opp": "vs CHC",
+        "decision": null,
+        "ip": "4.2",
+        "er": 1,
+        "h": 3,
+        "bb": 2,
+        "so": 5,
+        "era": 1.93
+      },
+      {
+        "date": "2026-09-13",
+        "opp": "vs CIN",
+        "decision": null,
+        "ip": "5.0",
+        "er": 1,
+        "h": 3,
+        "bb": 2,
+        "so": 5,
+        "era": 1.8
+      },
+      {
+        "date": "2026-09-19",
+        "opp": "@ BAL",
+        "decision": "W",
+        "ip": "7.0",
+        "er": 0,
+        "h": 3,
+        "bb": 3,
+        "so": 2,
+        "era": 0.0
+      },
+      {
+        "date": "2026-09-25",
+        "opp": "vs STL",
+        "decision": null,
+        "ip": "6.0",
+        "er": 1,
+        "h": 1,
+        "bb": 1,
+        "so": 9,
+        "era": 1.5
+      }
+    ],
     "home_pitcher": "Walker Buehler",
     "home_pitcher_id": 621111,
     "home_pitcher_stats": {
@@ -2358,8 +2469,8 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 40.5,
-      "home": 59.5
+      "away": 44.6,
+      "home": 55.4
     },
     "expected_score": {
       "away": 2.3,
@@ -2381,19 +2492,71 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 45.0,
+        "sp_score": 50.0,
         "sp_detail": {
-          "era": 4.5,
-          "whip": 1.35,
-          "k9": 7.0,
-          "avg_ip": 5.0,
+          "era": 2.94,
+          "whip": 1.21,
+          "k9": 8.8,
+          "avg_ip": 5.2,
           "qs_rate": 30.0,
-          "last3_era": 4.5,
-          "trend": "stable",
-          "n_games": 0,
+          "last3_era": 1.67,
+          "last_start_era": 1.5,
+          "last2_eras": [
+            0.0,
+            1.5
+          ],
+          "recent_avg_era": 1.5,
+          "recent_bad_start": false,
+          "trend": "hot",
+          "n_games": 10,
           "sample_confidence": 1.0,
-          "rest_days": null,
-          "rest_note": null
+          "rest_days": 12,
+          "rest_note": "extra_rest",
+          "age": 27,
+          "fb_velo": 92.9,
+          "pitch_arsenal": [
+            "SW",
+            "FB",
+            "SI",
+            "CT",
+            "CH"
+          ],
+          "secondary_pitches": [
+            "SW",
+            "CH"
+          ],
+          "pitches_detail": [
+            {
+              "code": "ST",
+              "abbr": "SW",
+              "pct": 25.3,
+              "velo": 80.4
+            },
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 23.2,
+              "velo": 92.9
+            },
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 22.6,
+              "velo": 92.7
+            },
+            {
+              "code": "FC",
+              "abbr": "CT",
+              "pct": 18.1,
+              "velo": 88.5
+            },
+            {
+              "code": "CH",
+              "abbr": "CH",
+              "pct": 10.3,
+              "velo": 88.3
+            }
+          ]
         },
         "bp_score": 68.2,
         "bp_detail": {
@@ -2504,7 +2667,7 @@
           }
         },
         "sit_score": 71.6,
-        "total": 52.7
+        "total": 57.0
       },
       "home": {
         "sp_score": 37.6,
@@ -2721,9 +2884,9 @@
     "actual_winner": null,
     "model_winner": "San Diego Padres",
     "model_correct": null,
-    "notes": "Milwaukee Brewers IL: Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Quinn Priester / San Diego Padres IL: Bryan Hoeing, Casey Mize, Lucas Giolito, Luis Rengifo, Ramón Laureano 외 다수",
+    "notes": "Milwaukee Brewers IL: Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Quinn Priester / San Diego Padres IL: Bryan Hoeing, Casey Mize, Lucas Giolito, Luis Rengifo, Ramón Laureano 외 다수 | [10/7 업데이트] MIL 선발 TBD → Robert Gasser 확정 반영 (NLDS Game4), SP점수/스코어카드/승률 재계산",
     "kalshi_prob": 50.0,
-    "edge": 9.5,
+    "edge": 5.4,
     "value_bet": "⚠️ VB주의(선발Cold) — ✅ Value Bet 후보 (San Diego Padres)",
     "extreme_edge": false,
     "consensus": false,
