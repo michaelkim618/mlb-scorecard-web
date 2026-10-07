@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-06T23:43:28.104823+00:00",
+  "updated_at": "2026-10-06T23:59:58.681716+00:00",
   "news": [
+    {
+      "title": "Denied by Dubón! LF robs ex-Brave Freeman (before Freddie gets his revenge)",
+      "link": "https://www.mlb.com/news/mauricio-dubon-robs-freddie-freeman-nlds-game-3",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sagjdv9lydorsj6fxu7e",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-06T23:43:37+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Here is MLB Pipeline's 2026 All-Rookie Team",
+      "link": "https://www.mlb.com/news/2026-mlb-all-rookie-team",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/slv3prhwdvhfwoh6yviq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ben Weinrib",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-06T23:30:00+00:00",
+      "time_ago": "29m ago"
+    },
     {
       "title": "LIVE: Kiké, Freddie take Sale deep in NLDS G3 (FS1/FOX One)",
       "link": "https://www.mlb.com/stories/game/849819",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-06T23:20:59+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Rays-Yankees ALDS Game 3 FAQ (Wed., 8 p.m. ET, TBS/HBO Max)",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-06T23:17:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "Brewers-Padres NLDS Game 3 FAQ, lineups (9:30 ET, FS1 /FOX One)",
@@ -38,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-06T23:16:00+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Guardians-White Sox ALDS Game 3 FAQ (Wed., 4 ET, TBS/HBO Max)",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-06T21:41:19+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Facing Sale in key Game 3, Dodgers drop Ohtani to 5th in lineup",
-      "link": "https://www.mlb.com/news/shohei-ohtani-drops-to-fifth-in-lineup-for-nlds-game-3",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/l93uzkdwjamxy2o0a98b",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-06T21:32:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Tooled-up O's prospect Honeycutt using Arizona Fall League as proving ground",
-      "link": "https://www.mlb.com/news/vance-honeycutt-using-arizona-fall-league-as-proving-ground",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yyufsipa5o62cdfpy1jv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-06T21:06:17+00:00",
       "time_ago": "2h ago"
     }
   ]

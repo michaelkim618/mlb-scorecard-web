@@ -1490,7 +1490,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "Tampa Bay Rays",
     "model_winner": "Tampa Bay Rays",
     "model_correct": true,
-    "notes": "New York Yankees IL: Clarke Schmidt, Fernando Cruz, Kervin Castro / Tampa Bay Rays IL: Edwin Uceta, Gavin Lux, Jacob Melton, Jonathan Heasley, Ryan Pepiot",
+    "notes": "New York Yankees IL: Fernando Cruz, Kervin Castro / Tampa Bay Rays IL: Edwin Uceta, Gavin Lux, Jacob Melton, Jonathan Heasley, Ryan Pepiot",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
