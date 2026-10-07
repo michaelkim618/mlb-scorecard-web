@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-07T13:42:28.825350+00:00",
+  "updated_at": "2026-10-07T14:03:51.297059+00:00",
   "news": [
+    {
+      "title": "Cora reportedly rebuffs Phillies' overtures to be next manager",
+      "link": "https://www.mlb.com/news/alex-cora-rejects-phillies-manager-offer",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dkaixxq3fkgyslszto8e",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T13:43:26+00:00",
+      "time_ago": "20m ago"
+    },
     {
       "title": "Game 3 in San Diego started with a bang, ended with a bang and didn't slow down in the middle",
       "link": "https://www.mlb.com/news/memorable-moments-in-padres-win-in-nlds-game-3",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T08:02:26+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "Led by King's all-in relief effort, Padres fight and force Game 4",
@@ -64,19 +77,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T07:41:00+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Dodgers-Braves NLDS Game 4 FAQ (6 ET, FS1/FOX One)",
-      "link": "https://www.mlb.com/news/dodgers-vs-braves-nlds-game-4-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791341001/mlb/xrpbjwprm5kxq2qrzajx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella, Mark Bowman and Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T07:12:00+00:00",
       "time_ago": "6h ago"
     },
     {
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T07:01:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     }
   ]
 }
