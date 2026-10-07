@@ -1360,15 +1360,15 @@ window.PREDICTIONS_DATA = [
         },
         "bp_score": 75.0,
         "bp_detail": {
-          "bullpen_era": 2.53,
-          "recent_era": 2.53,
+          "bullpen_era": 2.36,
+          "recent_era": 2.36,
           "recent_appearances": 0,
           "recent_ip": 0.0,
-          "team_era": 3.32,
-          "bp_ip": 291.7,
-          "bp_count": 5,
-          "closer_era": 2.83,
-          "closer_name": "Adrian Morejon"
+          "team_era": 3.17,
+          "bp_ip": 361.7,
+          "bp_count": 6,
+          "closer_era": 1.67,
+          "closer_name": "Mason Miller"
         },
         "bat_score": 49.9,
         "bat_detail": {
