@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-07T00:51:07.548719+00:00",
+  "updated_at": "2026-10-07T01:06:44.816134+00:00",
   "news": [
+    {
+      "title": "Rojas exits NLDS Game 3 mid at-bat with low back pain",
+      "link": "https://www.mlb.com/news/miguel-rojas-exits-nlds-game-3-with-back-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791333397/mlb/p0bqrbellzx1ybpqybta",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Courtney Hollmon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T00:59:02+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Mason Miller placed on paternity list ahead of NLDS Game 3",
+      "link": "https://www.mlb.com/news/mason-miller-on-paternity-list-during-nlds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dnofu9eysmphgpd8zs7n",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T00:54:54+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Yamamoto (10 K's) dazzles in 1st postseason appearance since WS G7 heroics",
+      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-10-strikeouts-nlds-game-3-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791331749/mlb/eeb0lycyaxcin8mcsvhw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T00:50:17+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "J-Ram says wrist pain is 'no excuse' as he seeks signature playoff moment",
       "link": "https://www.mlb.com/news/jose-ramirez-struggling-for-guardians-2026-alds",
@@ -12,7 +51,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-10-07T00:37:29+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "29m ago"
     },
     {
       "title": "Guardians-White Sox ALDS Game 3 FAQ (Wed., 4 ET, TBS/HBO Max)",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T00:34:00+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "32m ago"
     },
     {
       "title": "Espino's incredible journey to Majors has him as must-win Game 3 starter",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T00:19:56+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "46m ago"
     },
     {
       "title": "LIVE: Dodgers chase Sale after 5 innings, 2 HRs (FS1/FOX One)",
@@ -51,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-06T23:59:13+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Dodgers' HR barrage continues with October Kiké's return, Freddie avenging robbery",
@@ -64,45 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-06T23:55:08+00:00",
-      "time_ago": "55m ago"
-    },
-    {
-      "title": "Denied by Dubón! LF robs ex-Brave Freeman (before Freddie gets his revenge)",
-      "link": "https://www.mlb.com/news/mauricio-dubon-robs-freddie-freeman-nlds-game-3",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sagjdv9lydorsj6fxu7e",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-06T23:43:37+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Here is MLB Pipeline's 2026 All-Rookie Team",
-      "link": "https://www.mlb.com/news/2026-mlb-all-rookie-team",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/slv3prhwdvhfwoh6yviq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ben Weinrib",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-06T23:30:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Rays-Yankees ALDS Game 3 FAQ (Wed., 8 p.m. ET, TBS/HBO Max)",
-      "link": "https://www.mlb.com/news/rays-vs-yankees-alds-game-3-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mq1bptm8ad9vb98mad0v",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry, Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-06T23:17:00+00:00",
       "time_ago": "1h ago"
     }
   ]
