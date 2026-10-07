@@ -1,11 +1,11 @@
 {
-  "title": "Oct 6 Results + Oct 7 Preview: .500 Ball is For Cowards",
-  "summary": "Split the slate at 1-1. Let me be honest: we're better than this.",
+  "title": "Oct 6 Results + Oct 7 Preview: Split Records Are For Losers",
+  "summary": "We went .500 on Oct 6. Let me be honest—that's not good enough. White Sox redemption tomorrow?",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Let Me Be Honest About Yesterday\n\nA 1-1 record. Fifty percent. The most cowardly number in baseball. You know what .500 gets you? A participation trophy and a middle seat on the flight home. We nailed the Padres pick at 65% confidence, then watched the Braves faceplant against LA like they forgot how to play postseason baseball."
+      "value": "## Let Me Be Honest: .500 Is Mediocrity\n\nYou know what a 1-1 record gets you? Absolutely nothing. We're not here to break even, we're here to crush. October 6th was a tale of two games—the Padres came through like champions while the Braves choked harder than a rookie in the World Series. Let's break down this frustrating split."
     },
     {
       "type": "stat_row",
@@ -19,8 +19,8 @@
           "value": "50.0%"
         },
         {
-          "label": "Rico's Mood",
-          "value": "Annoyed"
+          "label": "Confidence Level",
+          "value": "Mixed Bag"
         }
       ]
     },
@@ -30,14 +30,14 @@
       "title": "Oct 6 Prediction Results",
       "data": [
         {
-          "name": "Padres",
-          "probability": 65,
-          "result": 1
-        },
-        {
           "name": "Braves",
           "probability": 50,
           "result": 0
+        },
+        {
+          "name": "Padres",
+          "probability": 65,
+          "result": 1
         }
       ],
       "x_key": "name",
@@ -56,46 +56,50 @@
     },
     {
       "type": "table",
-      "title": "Oct 6 Full Results Breakdown",
+      "title": "Full Oct 6 Results Breakdown",
       "headers": [
         "Game",
         "Pick",
-        "Confidence",
+        "Prob",
         "Result"
       ],
       "rows": [
         [
-          "Brewers @ Padres",
-          "Padres",
-          "65%",
-          "✓ Hit"
-        ],
-        [
           "Dodgers @ Braves",
           "Braves",
           "50%",
-          "✗ Miss"
+          "✗"
+        ],
+        [
+          "Brewers @ Padres",
+          "Padres",
+          "65%",
+          "✓"
         ]
       ]
     },
     {
       "type": "text",
-      "value": "## The Padres Pick: Chef's Kiss\n\nSan Diego at 65% confidence? That's what I'm talking about. When you have conviction and the numbers back it up, you print money. The Padres demolished Milwaukee exactly like we predicted. This is what happens when analytics meets reality and they actually get along.\n\nThe Braves? Forget about them. A coin flip pick at 50% that went wrong. I'm not losing sleep over a pick we barely believed in anyway."
+      "value": "## The Padres Delivered, The Braves Disappointed\n\nThe Padres at 65% confidence? That was the easiest money of the day. San Diego showed up and handled business against Milwaukee like we knew they would. But the Braves? A coin flip at 50% that landed on the wrong side. Atlanta had every opportunity to take care of the Dodgers at home and they folded. This is why you can't trust teams that coast on reputation alone.\n\nHere's the controversial take: **The Braves are overrated in October.** There, I said it. They crumble when the stakes get real."
     },
     {
       "type": "text",
-      "value": "## Tomorrow's Pick: White Sox Over Guardians\n\nHere's where it gets spicy. We're backing the WHITE SOX tomorrow. Yes, THAT White Sox team. Daniel Espino brings his whatever-he's-got-left to Chicago, and Sean Newcomb is standing on that mound ready to remind everyone he still exists.\n\nIs this a 50% confidence pick? Absolutely. Am I comfortable with that? Not even a little bit. But sometimes the model sees something we don't, and tomorrow it sees Chicago finding a way."
+      "value": "## Tomorrow's Top Pick Preview: White Sox Chaos Ball\n\nNow let's talk about October 7th, because this is where things get spicy. The model is giving us Cleveland Guardians at Chicago White Sox, and we're backing the **White Sox at 50%**. Yeah, you read that right—another coin flip.\n\nDaniel Espino for Cleveland against Sean Newcomb for Chicago. This isn't a pitching matchup that screams quality—this screams chaos. And in chaos, you take the home dog that everyone's sleeping on."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Oct 7 Top Pick",
+      "title": "⭐ Tomorrow's Top Pick",
       "value": "Chicago White Sox",
-      "sub": "50% win probability · Newcomb vs Espino · Low confidence, high drama"
+      "sub": "50% win probability · Espino vs Newcomb · Home underdog special"
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nLet me be brutally honest: 50% picks are gambling, not analysis. Yesterday we went 1-1 on essentially two coin flips. Tomorrow we're flipping another coin with the White Sox. This isn't the sexy, high-conviction baseball betting content you subscribed for.\n\nBut here's the thing—sometimes the slate is what the slate is. We don't manufacture confidence where it doesn't exist. We call it straight. Tomorrow's a mess, and we're honest enough to tell you that.\n\nThe Padres win kept us alive. Now let's see if Chicago can do something actually interesting for once."
+      "value": "## Why The White Sox? Let Me Break It Down\n\nThe Guardians are going to be overvalued by the public. Everyone sees Cleveland as the \"safe\" pick, the \"smart\" pick. But Sean Newcomb at home with nothing to lose? That's dangerous. The White Sox have been written off all season, and that's exactly when teams like this bite back.\n\n**Hot take alert:** Daniel Espino is overhyped. His stuff is electric but his consistency is garbage. One bad inning and this game flips. Meanwhile, Newcomb knows he's fighting for his career—that desperation breeds performance.\n\nIs 50% confidence scary? Absolutely. But fortune favors the bold, and sometimes you have to trust the chaos. The White Sox are live tomorrow, and if you're not riding with us, you're missing out on value."
+    },
+    {
+      "type": "text",
+      "value": "## Final Word: Redemption Time\n\nA .500 day is unacceptable. We're better than this, the model is better than this, and October 7th is our bounce-back moment. The White Sox pick isn't going to be popular, but that's exactly why it's going to hit.\n\nStay sharp. Stay hungry. And never settle for mediocrity.\n\n**– Rico**"
     }
   ],
   "slug": "2026-10-06-daily-rico",
