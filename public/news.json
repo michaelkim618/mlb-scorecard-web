@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-07T19:15:56.656953+00:00",
+  "updated_at": "2026-10-07T19:27:55.513244+00:00",
   "news": [
+    {
+      "title": "Acuña returns to right field for Game 4",
+      "link": "https://www.mlb.com/news/latest-news-ronald-acuna-jr-knee-injury-nlds-game-4",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qtb8dny24kg2m9iwqfxd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T19:14:00+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Chicago caught up in White Sox playoff fever ... and a mystery first-pitch guest",
+      "link": "https://www.mlb.com/news/white-sox-playoff-fever-sweeping-chicago-alds-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/doddmy0cnqpi7kfe6rd2",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-07T19:05:44+00:00",
+      "time_ago": "22m ago"
+    },
     {
       "title": "Dodgers-Braves NLDS Game 4 FAQ, lineups, more (6 ET, FS1/FOX One)",
       "link": "https://www.mlb.com/news/dodgers-vs-braves-nlds-game-4-starting-lineups-and-pitching-matchup",
@@ -12,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-07T18:47:00+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "40m ago"
     },
     {
       "title": "Brewers-Padres NLDS Game 4 FAQ (10 ET, FS1/FOX One)",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T17:26:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Guardians-White Sox ALDS Game 3 FAQ, lineups (4 ET, TBS/HBO Max)",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T16:26:28+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "He quit baseball to work at an IMAX theater. Now he's a Braves playoff legend",
-      "link": "https://www.mlb.com/news/ray-kerr-braves-inspiring-story",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qgoxxoget3lk7smrhqrf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matt Monagan",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-07T15:49:23+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "The latest on Acuña (knee) and how his status impacts the Braves for NLDS Game 4",
-      "link": "https://www.mlb.com/news/latest-news-ronald-acuna-jr-knee-injury-nlds-game-4",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qtb8dny24kg2m9iwqfxd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T15:26:24+00:00",
       "time_ago": "3h ago"
     }
   ]
