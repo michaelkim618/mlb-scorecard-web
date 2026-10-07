@@ -1,18 +1,44 @@
 {
-  "updated_at": "2026-10-07T01:57:31.646760+00:00",
+  "updated_at": "2026-10-07T02:39:20.404578+00:00",
   "news": [
+    {
+      "title": "Yamamoto-Sale duel doesn't disappoint, and other takeaways from NLDS Game 3",
+      "link": "https://www.mlb.com/news/braves-dodgers-nlds-game-3-takeaways",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791339955/mlb/lxi4rvopfatlzdsc7d5v",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T02:26:44+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Guardians must turn on power, lean on stars in Game 3",
+      "link": "https://www.mlb.com/news/keys-for-guardians-to-win-game-3-extend-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/u5ukewzb8b5kvb4xxqwv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T02:01:12+00:00",
+      "time_ago": "38m ago"
+    },
     {
       "title": "Braves on the brink in NLDS after Sale outdueled by Yamamoto",
       "link": "https://www.mlb.com/news/chris-sale-braves-lose-game-3-of-nlds-2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hxrkis59cyngrgstokym",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791339701/mlb/hxrkis59cyngrgstokym",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Mark Bowman",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T01:36:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "LIVE: Brewers-Padres NLDS Game 3 (FS1 /FOX One)",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T01:30:00+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Padres closer Miller placed on paternity list ahead of NLDS Game 3",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T01:30:00+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Dodgers' HR barrage continues with October Kiké's return, Freddie avenging robbery",
@@ -51,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-07T01:27:00+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yamamoto (10 K's) dazzles, putting Dodgers 1 win from return to NLCS",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T01:24:00+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Denied by Dubón! LF robs ex-Brave Freeman (before Freddie gets his revenge)",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T01:24:00+00:00",
-      "time_ago": "33m ago"
-    },
-    {
-      "title": "Acuña (right knee) limited to DH duties as NLDS moves to Atlanta",
-      "link": "https://www.mlb.com/news/ronald-acuna-jr-right-knee-dh-braves-game-3-2026-nlds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791319938/mlb/vuugoiot1zlnvhzguee5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T01:20:00+00:00",
-      "time_ago": "37m ago"
-    },
-    {
-      "title": "Facing Sale in key Game 3, Dodgers drop Ohtani to 5th in lineup",
-      "link": "https://www.mlb.com/news/shohei-ohtani-drops-to-fifth-in-lineup-for-nlds-game-3",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/l93uzkdwjamxy2o0a98b",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-07T01:14:00+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
