@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-10-07T03:30:42.382197+00:00",
+  "updated_at": "2026-10-07T04:30:45.387776+00:00",
   "news": [
+    {
+      "title": "Díaz earns 1st Dodgers postseason save -- something that was no guarantee a month ago",
+      "link": "https://www.mlb.com/news/edwin-diaz-gets-save-in-nlds-game-3-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ky7ljn9atzesmyuikpm9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T04:21:47+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "After heavy Wild Card workload, Sale showing 'he's human' lands Braves on the brink",
+      "link": "https://www.mlb.com/news/chris-sale-braves-lose-game-3-of-nlds-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791339701/mlb/hxrkis59cyngrgstokym",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-07T04:05:00+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "August acquisition Mahle has chance to be October hero for Braves",
+      "link": "https://www.mlb.com/news/tyler-mahle-to-start-nlds-game-4-for-braves-vs-dodgers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791344776/mlb/dj6fqdfxu8yqzlf63xsx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T04:03:12+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "Yamamoto (10 K's) dazzles, putting Dodgers 1 win from return to NLCS",
+      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-10-strikeouts-nlds-game-3-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791331749/mlb/eeb0lycyaxcin8mcsvhw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T03:38:00+00:00",
+      "time_ago": "52m ago"
+    },
+    {
+      "title": "Batting 5th, Ohtani reaches base twice but is still searching for swing",
+      "link": "https://www.mlb.com/news/shohei-ohtani-drops-to-fifth-in-lineup-for-nlds-game-3",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791338845/mlb/wnetm8z5v92zvxqkmape",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen and Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T03:24:00+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Rojas exits NLDS Game 3 mid-AB with lower back pain, unlikely to play in Game 4",
       "link": "https://www.mlb.com/news/miguel-rojas-exits-nlds-game-3-with-back-injury",
@@ -12,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T03:13:00+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Denied by Dubón! LF robs ex-Brave Freeman (before Freddie gets his revenge)",
@@ -25,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T03:08:00+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yamamoto-Sale duel doesn't disappoint, and other takeaways from NLDS Game 3",
@@ -38,72 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T02:39:00+00:00",
-      "time_ago": "51m ago"
-    },
-    {
-      "title": "LIVE: Padres scoring with speed, power against Brewers (FS1/FOX One)",
-      "link": "https://www.mlb.com/stories/game/849826",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eovp0r0lnoruicf7wq2t",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T02:38:57+00:00",
-      "time_ago": "51m ago"
-    },
-    {
-      "title": "Guardians must turn on power, lean on stars in Game 3",
-      "link": "https://www.mlb.com/news/keys-for-guardians-to-win-game-3-extend-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/u5ukewzb8b5kvb4xxqwv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T02:01:12+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Braves on the brink in NLDS after Sale outdueled by Yamamoto",
-      "link": "https://www.mlb.com/news/chris-sale-braves-lose-game-3-of-nlds-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791339701/mlb/hxrkis59cyngrgstokym",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T01:36:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Padres closer Miller placed on paternity list ahead of NLDS Game 3",
-      "link": "https://www.mlb.com/news/mason-miller-on-paternity-list-during-nlds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dnofu9eysmphgpd8zs7n",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T01:30:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Dodgers' HR barrage continues with October Kiké's return, Freddie avenging robbery",
-      "link": "https://www.mlb.com/news/enrique-hernandez-freddie-freeman-homer-off-chris-sale-in-nlds-game-3",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pvzxhl0tigezvutsl8jy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Courtney Hollmon",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-07T01:27:00+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
