@@ -1,8 +1,47 @@
 {
-  "updated_at": "2026-10-07T07:03:11.797782+00:00",
+  "updated_at": "2026-10-07T07:35:25.488554+00:00",
   "news": [
     {
-      "title": "No sweep, Crew sets sights on closing out Padres in Game 4",
+      "title": "Dodgers-Braves NLDS Game 4 FAQ (6 ET, FS1/FOX One)",
+      "link": "https://www.mlb.com/news/dodgers-vs-braves-nlds-game-4-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791341001/mlb/xrpbjwprm5kxq2qrzajx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella, Mark Bowman and Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T07:12:00+00:00",
+      "time_ago": "23m ago"
+    },
+    {
+      "title": "Rays-Yankees ALDS Game 3 FAQ (8 p.m. ET, TBS/HBO Max)",
+      "link": "https://www.mlb.com/news/rays-vs-yankees-alds-game-3-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mq1bptm8ad9vb98mad0v",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry, Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T07:12:00+00:00",
+      "time_ago": "23m ago"
+    },
+    {
+      "title": "Guardians-White Sox ALDS Game 3 FAQ (4 ET, TBS/HBO Max)",
+      "link": "https://www.mlb.com/news/guardians-vs-white-sox-alds-game-3-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mkruusttzyumvembb9jw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin and Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T07:11:00+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "Unable to sweep, '40 of us versus 50,000' mentality driving Brewers into Game 4",
       "link": "https://www.mlb.com/news/brewers-lose-game-3-of-2026-nlds",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791349014/mlb/emhdswkmwsxrmuaeotsm",
@@ -11,8 +50,8 @@
       "author": "Adam McCalvy",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-07T05:37:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-10-07T07:01:00+00:00",
+      "time_ago": "34m ago"
     },
     {
       "title": "4 games. 4 potential clinches. Here's everything to know",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T05:31:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "After heavy Wild Card workload, Sale showing 'he's human' lands Braves on the brink",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T04:45:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Dodgers' HR barrage continues with October Kiké's return, Freddie avenging robbery",
-      "link": "https://www.mlb.com/news/enrique-hernandez-freddie-freeman-homer-off-chris-sale-in-nlds-game-3",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pvzxhl0tigezvutsl8jy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Courtney Hollmon",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-07T04:36:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Dodgers-Braves NLDS Game 4 FAQ (Wed., 6 ET, FS1/FOX One)",
-      "link": "https://www.mlb.com/news/dodgers-vs-braves-nlds-game-4-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791341001/mlb/xrpbjwprm5kxq2qrzajx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella, Mark Bowman and Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T04:35:20+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Díaz earns 1st Dodgers postseason save -- something that was no guarantee a month ago",
-      "link": "https://www.mlb.com/news/edwin-diaz-gets-save-in-nlds-game-3-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ky7ljn9atzesmyuikpm9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T04:21:47+00:00",
       "time_ago": "2h ago"
     }
   ]
