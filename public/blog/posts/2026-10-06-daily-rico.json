@@ -1,47 +1,43 @@
 {
-  "title": "Oct 6 Results + Oct 7 Preview: One Hit, One Miss, Zero Excuses",
-  "summary": "We went .500 yesterday. Let me be honest—that Braves pick was a disaster.",
+  "title": "Oct 6 Results + Oct 7 Preview: .500 Ball Is For Cowards",
+  "summary": "Split the picks yesterday at 1-1. Tomorrow we're betting on chaos in Chicago.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Let Me Be Honest: Yesterday Was Painfully Average\n\nA 1-1 record. Fifty percent accuracy. The definition of mediocrity. Look, I'm not here to sugarcoat it or spin some narrative about how we \"learned valuable lessons.\" We went .500, which means we might as well have flipped a coin.\n\nThe Padres pick? Chef's kiss. We nailed that one at 65% confidence and they delivered. But that Braves pick at home against the Dodgers? Absolutely embarrassing. Sometimes the favorite just doesn't show up, and we got burned."
+      "value": "## Let Me Be Honest: .500 Is The Most Boring Thing In Baseball\n\nWent 1-1 yesterday and you know what? I'm not celebrating the split. Going .500 is what bad teams do all season before they miss the playoffs. It's what cowards point to when they say \"we played competitive baseball.\" Nobody builds statues for .500 records.\n\nBut here's the thing—I'd rather go 1-1 with conviction than 2-0 playing it safe. And that Braves pick? I stand by it even in the loss."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Yesterday's W-L",
+          "label": "Oct 6 Record",
           "value": "1-1"
         },
         {
-          "label": "Accuracy",
+          "label": "Win Rate",
           "value": "50.0%"
         },
         {
-          "label": "Hits",
-          "value": "1"
-        },
-        {
-          "label": "Misses",
-          "value": "1"
+          "label": "Confidence",
+          "value": "High"
         }
       ]
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Oct 6 Prediction Results",
+      "title": "Oct 6 Pick Performance",
       "data": [
-        {
-          "name": "Braves",
-          "probability": 50,
-          "result": 0
-        },
         {
           "name": "Padres",
           "probability": 65,
           "result": 1
+        },
+        {
+          "name": "Braves",
+          "probability": 50,
+          "result": 0
         }
       ],
       "x_key": "name",
@@ -60,9 +56,9 @@
     },
     {
       "type": "table",
-      "title": "Full Oct 6 Results Breakdown",
+      "title": "Oct 6 Full Game Results",
       "headers": [
-        "Game",
+        "Matchup",
         "Our Pick",
         "Confidence",
         "Result"
@@ -84,26 +80,30 @@
     },
     {
       "type": "text",
-      "value": "## The Good, The Bad, and The Ugly\n\n**The Good:** The Padres came through like we knew they would. That 65% confidence wasn't just a number—it was a statement. Home field advantage, better pitching matchup, momentum on their side. Everything clicked.\n\n**The Bad:** Betting on the Braves at 50% confidence was basically admitting we had no idea what would happen. And guess what? We were right to be uncertain because they got demolished.\n\n**The Ugly:** Going .500 means our subscribers would've been better off just picking their favorite jersey colors. That's not analysis—that's astrology."
+      "value": "## The Padres Pick: Sometimes The Obvious Play Is Obvious For A Reason\n\nCalled the Padres at 65% and they delivered. Was this a hot take? No. Was it the right take? Absolutely. Sometimes being a drama critic means recognizing when the script writes itself. The Padres at home against the Brewers wasn't rocket science—it was competent analysis.\n\nBut let's not throw a parade. Hitting a 65% favorite is baseline expectation."
     },
     {
       "type": "text",
-      "value": "## Tomorrow's Slate: White Sox vs Guardians\n\nNow let's talk about October 7th, and buckle up because this is where it gets spicy. Our model is giving us the Chicago White Sox against the Cleveland Guardians. Yes, you read that right. The WHITE SOX.\n\nDaniel Espino takes the mound for Cleveland while Sean Newcomb goes for Chicago. And here's the controversial part: we're only at 50% confidence. Again.\n\nLet me be brutally honest—a 50% pick is essentially the model shrugging its shoulders and saying \"could go either way.\" But sometimes that's the reality of baseball. It's chaotic, unpredictable, and refuses to follow anyone's script."
+      "value": "## The Braves Miss: No Apologies\n\nThe Braves lost. We picked them at 50% which basically means we said \"flip a coin, but I like Atlanta's side.\" You know what a 50% pick is? It's honesty. It's saying the game could go either way but here's where we're putting our chips.\n\nDid the Dodgers win? Yes. Am I losing sleep over a coin-flip miss? Absolutely not. If you can't handle 50/50 picks going the wrong way, you're in the wrong sport."
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Top Pick: White Sox Over Guardians—Let's Talk About It\n\nOh, you're going to love this one. We're backing the WHITE SOX tomorrow. At 50% confidence. Against Cleveland. \n\nLet me hear you: \"Rico, have you lost your mind?\" Maybe. Or maybe I see something you don't.\n\nDaniel Espino on the mound for Cleveland, Sean Newcomb for Chicago. Neither guy is lighting the world on fire, which means this game comes down to who wants it more—and more importantly, who gets the bounces at home."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - Oct 7",
-      "value": "Chicago White Sox over Cleveland Guardians",
-      "sub": "50% confidence · Espino vs Newcomb · Home field advantage"
+      "title": "⭐ Oct 7 Top Pick",
+      "value": "Chicago White Sox ML",
+      "sub": "50% confidence • Espino vs Newcomb • Home field chaos"
     },
     {
       "type": "text",
-      "value": "## Why The White Sox? (Even If We're Not Super Confident)\n\nLook, I'll be the first to admit this isn't a slam dunk. 50% confidence means this is basically a toss-up. But here's why we're leaning Chicago:\n\n**Sean Newcomb at home** has shown flashes of competence this season. Not brilliance, not dominance, but competence. And sometimes that's enough.\n\n**Daniel Espino** has been wildly inconsistent for Cleveland. When he's on, he's electric. When he's off, he's batting practice.\n\n**Home field at Guaranteed Rate** could be the difference maker in a coin flip game.\n\nBut let's not pretend this is anything more than what it is: an educated guess wrapped in statistical analysis. If you're looking for certainty, go watch a rerun where you already know the ending."
+      "value": "## Why The White Sox? Because Baseball Is Beautifully Stupid\n\nThis is a 50% pick, which means I'm not screaming it from the rooftops. But here's my provocative truth: home underdogs in pitcher's duels with nothing to lose are DANGEROUS.\n\nThe Guardians are supposed to win this. Everyone expects them to win this. And that's exactly why the White Sox might steal it. Baseball has a funny way of humbling the confident.\n\nNewcomb at home, crowd behind them, low expectations—this is where chaos lives. And I'm here for the chaos.\n\n**The Bottom Line**: I'm not guaranteeing a White Sox win. I'm saying the line is disrespectful and there's value in the anarchy. If you can't stomach a 50/50 swing, sit this one out. But if you want the spicy pick that makes tomorrow interesting?\n\nChicago White Sox. Book it."
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nYesterday was forgettable. Tomorrow might be too. But that's baseball—you grind through the mediocre days to get to the hot streaks. We're not going to apologize for a .500 day, and we're not going to oversell a 50% confidence pick.\n\nWhat we WILL do is keep giving you the honest truth, even when it's uncomfortable. Even when it means admitting our model is basically shrugging.\n\nWhite Sox tomorrow. Take it or leave it. We'll be back on Oct 8 to either own this pick or roast ourselves for it.\n\n**—Rico**"
+      "value": "## Final Word: Mediocrity Is Temporary\n\nWent .500 yesterday. Not celebrating, not panicking. Tomorrow's slate brings one pick and it's a controversial one. That's how we do things here—no safe plays, no boring takes.\n\nYou want vanilla analysis, there are a thousand other blogs. You're here because you want someone who'll tell you the truth, even when it's uncomfortable.\n\nWhite Sox tomorrow. Let's ride.\n\n**—Rico**"
     }
   ],
   "slug": "2026-10-06-daily-rico",

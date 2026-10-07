@@ -1244,10 +1244,10 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Drake Baldwin(0.883)",
-            "Ronald Acuña Jr.(0.793)",
+            "Ronald Acuña(0.793)",
             "Matt Olson(0.786)",
             "Ozzie Albies(0.481)",
-            "Michael Harris II(0.835)",
+            "Michael Harris(0.835)",
             "Mauricio Dubón(0.837)",
             "Lane Thomas(0.564)",
             "Austin Riley(0.609)",
@@ -1262,7 +1262,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 660670,
-              "name": "Ronald Acuña Jr.",
+              "name": "Ronald Acuña",
               "ops": 0.793,
               "avg": 0.231
             },
@@ -1280,7 +1280,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671739,
-              "name": "Michael Harris II",
+              "name": "Michael Harris",
               "ops": 0.835,
               "avg": 0.325
             },
@@ -2504,7 +2504,7 @@ window.PREDICTIONS_DATA = [
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis Jr.(0.869)",
+            "Fernando Tatis(0.869)",
             "Jackson Merrill(0.748)",
             "Manny Machado(0.613)",
             "Ty France(0.829)",
@@ -2517,7 +2517,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis Jr.",
+              "name": "Fernando Tatis",
               "ops": 0.869,
               "avg": 0.308
             },
