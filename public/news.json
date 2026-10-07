@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-07T14:42:59.515223+00:00",
+  "updated_at": "2026-10-07T16:39:06.215212+00:00",
   "news": [
+    {
+      "title": "Guardians-White Sox ALDS Game 3 FAQ, lineups (4 ET, TBS/HBO Max)",
+      "link": "https://www.mlb.com/news/guardians-vs-white-sox-alds-game-3-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mkruusttzyumvembb9jw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin and Tim Stebbins",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-07T16:12:00+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "The latest on Acuña (knee) and how his status impacts the Braves for NLDS Game 4",
+      "link": "https://www.mlb.com/news/latest-news-ronald-acuna-jr-knee-injury-nlds-game-4",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qtb8dny24kg2m9iwqfxd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T15:26:24+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "5 reasons to believe Yankees can pull off ALDS comeback",
       "link": "https://www.mlb.com/news/reasons-yankees-can-overcome-2-0-alds-deficit",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T14:25:00+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "4 games. 4 potential clinches. Here's everything to know today",
@@ -25,10 +51,10 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T14:20:00+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "2h ago"
     },
     {
-      "title": "Cora reportedly rebuffs Phillies' overtures to be next manager",
+      "title": "Cora reportedly declines Phillies' overtures to be next manager",
       "link": "https://www.mlb.com/news/alex-cora-rejects-phillies-manager-offer",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dkaixxq3fkgyslszto8e",
@@ -38,10 +64,10 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T13:43:26+00:00",
-      "time_ago": "59m ago"
+      "time_ago": "2h ago"
     },
     {
-      "title": "Brewers-Padres NLDS Game 4 FAQ (10 p.m. ET, FS1/FOX One)",
+      "title": "Brewers-Padres NLDS Game 4 FAQ (10 ET, FS1/FOX One)",
       "link": "https://www.mlb.com/news/brewers-padres-nl-division-series-game-4-starting-lineups-and-pitching-matchup",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ga0ddlksyxk9hbqvx0gr",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T09:14:02+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "Game 3 in San Diego started with a bang, ended with a bang and didn't slow down in the middle",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T08:38:58+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "8h ago"
     },
     {
       "title": "Padres closer Miller misses NLDS Game 3 on paternity list, could return for Game 4",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T08:25:00+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Xander makes savvy moves on basepaths, in field as Padres stay alive",
-      "link": "https://www.mlb.com/news/xander-bogaerts-makes-big-plays-in-padres-game-3-nlds-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791359759/mlb/kq0tr5avptzzslbqdlwv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jessica Camerato",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T08:13:12+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Turang, Yelich key to Crew wrapping up NLDS",
-      "link": "https://www.mlb.com/news/brice-turang-christian-yelich-keys-for-brewers-in-nlds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791352751/mlb/bmsvpajojc5ylmetcxfm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T08:02:26+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "8h ago"
     }
   ]
 }

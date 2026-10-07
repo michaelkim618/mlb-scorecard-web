@@ -1,33 +1,33 @@
 {
-  "title": "Oct 6 Results + Oct 7 Preview: .500 Ball Is For Cowards",
-  "summary": "Split the picks yesterday at 1-1. Tomorrow we're betting on chaos in Chicago.",
+  "title": "Oct 6 Results + Oct 7 Preview: .500 Ball is For Cowards",
+  "summary": "Split the slate at 1-1. Let me be honest: we're better than this.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Let Me Be Honest: .500 Is The Most Boring Thing In Baseball\n\nWent 1-1 yesterday and you know what? I'm not celebrating the split. Going .500 is what bad teams do all season before they miss the playoffs. It's what cowards point to when they say \"we played competitive baseball.\" Nobody builds statues for .500 records.\n\nBut here's the thing—I'd rather go 1-1 with conviction than 2-0 playing it safe. And that Braves pick? I stand by it even in the loss."
+      "value": "## Let Me Be Honest About Yesterday\n\nA 1-1 record. Fifty percent. The most cowardly number in baseball. You know what .500 gets you? A participation trophy and a middle seat on the flight home. We nailed the Padres pick at 65% confidence, then watched the Braves faceplant against LA like they forgot how to play postseason baseball."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Oct 6 Record",
+          "label": "Today W-L",
           "value": "1-1"
         },
         {
-          "label": "Win Rate",
+          "label": "Accuracy",
           "value": "50.0%"
         },
         {
-          "label": "Confidence",
-          "value": "High"
+          "label": "Rico's Mood",
+          "value": "Annoyed"
         }
       ]
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Oct 6 Pick Performance",
+      "title": "Oct 6 Prediction Results",
       "data": [
         {
           "name": "Padres",
@@ -50,60 +50,52 @@
         {
           "key": "result",
           "color": "#16A34A",
-          "label": "Correct (1=Yes, 0=No)"
+          "label": "Correct (1=Yes)"
         }
       ]
     },
     {
       "type": "table",
-      "title": "Oct 6 Full Game Results",
+      "title": "Oct 6 Full Results Breakdown",
       "headers": [
-        "Matchup",
-        "Our Pick",
+        "Game",
+        "Pick",
         "Confidence",
         "Result"
       ],
       "rows": [
         [
-          "Dodgers @ Braves",
-          "Braves",
-          "50%",
-          "✗ Miss"
-        ],
-        [
           "Brewers @ Padres",
           "Padres",
           "65%",
           "✓ Hit"
+        ],
+        [
+          "Dodgers @ Braves",
+          "Braves",
+          "50%",
+          "✗ Miss"
         ]
       ]
     },
     {
       "type": "text",
-      "value": "## The Padres Pick: Sometimes The Obvious Play Is Obvious For A Reason\n\nCalled the Padres at 65% and they delivered. Was this a hot take? No. Was it the right take? Absolutely. Sometimes being a drama critic means recognizing when the script writes itself. The Padres at home against the Brewers wasn't rocket science—it was competent analysis.\n\nBut let's not throw a parade. Hitting a 65% favorite is baseline expectation."
+      "value": "## The Padres Pick: Chef's Kiss\n\nSan Diego at 65% confidence? That's what I'm talking about. When you have conviction and the numbers back it up, you print money. The Padres demolished Milwaukee exactly like we predicted. This is what happens when analytics meets reality and they actually get along.\n\nThe Braves? Forget about them. A coin flip pick at 50% that went wrong. I'm not losing sleep over a pick we barely believed in anyway."
     },
     {
       "type": "text",
-      "value": "## The Braves Miss: No Apologies\n\nThe Braves lost. We picked them at 50% which basically means we said \"flip a coin, but I like Atlanta's side.\" You know what a 50% pick is? It's honesty. It's saying the game could go either way but here's where we're putting our chips.\n\nDid the Dodgers win? Yes. Am I losing sleep over a coin-flip miss? Absolutely not. If you can't handle 50/50 picks going the wrong way, you're in the wrong sport."
-    },
-    {
-      "type": "text",
-      "value": "## Tomorrow's Top Pick: White Sox Over Guardians—Let's Talk About It\n\nOh, you're going to love this one. We're backing the WHITE SOX tomorrow. At 50% confidence. Against Cleveland. \n\nLet me hear you: \"Rico, have you lost your mind?\" Maybe. Or maybe I see something you don't.\n\nDaniel Espino on the mound for Cleveland, Sean Newcomb for Chicago. Neither guy is lighting the world on fire, which means this game comes down to who wants it more—and more importantly, who gets the bounces at home."
+      "value": "## Tomorrow's Pick: White Sox Over Guardians\n\nHere's where it gets spicy. We're backing the WHITE SOX tomorrow. Yes, THAT White Sox team. Daniel Espino brings his whatever-he's-got-left to Chicago, and Sean Newcomb is standing on that mound ready to remind everyone he still exists.\n\nIs this a 50% confidence pick? Absolutely. Am I comfortable with that? Not even a little bit. But sometimes the model sees something we don't, and tomorrow it sees Chicago finding a way."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Oct 7 Top Pick",
-      "value": "Chicago White Sox ML",
-      "sub": "50% confidence • Espino vs Newcomb • Home field chaos"
+      "value": "Chicago White Sox",
+      "sub": "50% win probability · Newcomb vs Espino · Low confidence, high drama"
     },
     {
       "type": "text",
-      "value": "## Why The White Sox? Because Baseball Is Beautifully Stupid\n\nThis is a 50% pick, which means I'm not screaming it from the rooftops. But here's my provocative truth: home underdogs in pitcher's duels with nothing to lose are DANGEROUS.\n\nThe Guardians are supposed to win this. Everyone expects them to win this. And that's exactly why the White Sox might steal it. Baseball has a funny way of humbling the confident.\n\nNewcomb at home, crowd behind them, low expectations—this is where chaos lives. And I'm here for the chaos.\n\n**The Bottom Line**: I'm not guaranteeing a White Sox win. I'm saying the line is disrespectful and there's value in the anarchy. If you can't stomach a 50/50 swing, sit this one out. But if you want the spicy pick that makes tomorrow interesting?\n\nChicago White Sox. Book it."
-    },
-    {
-      "type": "text",
-      "value": "## Final Word: Mediocrity Is Temporary\n\nWent .500 yesterday. Not celebrating, not panicking. Tomorrow's slate brings one pick and it's a controversial one. That's how we do things here—no safe plays, no boring takes.\n\nYou want vanilla analysis, there are a thousand other blogs. You're here because you want someone who'll tell you the truth, even when it's uncomfortable.\n\nWhite Sox tomorrow. Let's ride.\n\n**—Rico**"
+      "value": "## The Bottom Line\n\nLet me be brutally honest: 50% picks are gambling, not analysis. Yesterday we went 1-1 on essentially two coin flips. Tomorrow we're flipping another coin with the White Sox. This isn't the sexy, high-conviction baseball betting content you subscribed for.\n\nBut here's the thing—sometimes the slate is what the slate is. We don't manufacture confidence where it doesn't exist. We call it straight. Tomorrow's a mess, and we're honest enough to tell you that.\n\nThe Padres win kept us alive. Now let's see if Chicago can do something actually interesting for once."
     }
   ],
   "slug": "2026-10-06-daily-rico",
