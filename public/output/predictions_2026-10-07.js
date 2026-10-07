@@ -1244,10 +1244,10 @@ window.PREDICTIONS_DATA = [
           "splits_used": false,
           "lineup_ops": [
             "Drake Baldwin(0.883)",
-            "Ronald Acuña(0.793)",
+            "Ronald Acuña Jr.(0.793)",
             "Matt Olson(0.786)",
             "Ozzie Albies(0.481)",
-            "Michael Harris(0.835)",
+            "Michael Harris II(0.835)",
             "Mauricio Dubón(0.837)",
             "Lane Thomas(0.564)",
             "Austin Riley(0.609)",
@@ -1262,7 +1262,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 660670,
-              "name": "Ronald Acuña",
+              "name": "Ronald Acuña Jr.",
               "ops": 0.793,
               "avg": 0.231
             },
@@ -1280,7 +1280,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671739,
-              "name": "Michael Harris",
+              "name": "Michael Harris II",
               "ops": 0.835,
               "avg": 0.325
             },
@@ -2611,8 +2611,8 @@ window.PREDICTIONS_DATA = [
     "model_winner": "San Diego Padres",
     "model_correct": null,
     "notes": "Milwaukee Brewers IL: Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Quinn Priester / San Diego Padres IL: Bryan Hoeing, Casey Mize, Lucas Giolito, Luis Rengifo, Ramón Laureano 외 다수",
-    "kalshi_prob": 50.0,
-    "edge": 9.5,
+    "kalshi_prob": 51.0,
+    "edge": 8.5,
     "value_bet": "⚠️ VB주의(선발Cold) — ✅ Value Bet 후보 (San Diego Padres)",
     "extreme_edge": false,
     "consensus": false,
