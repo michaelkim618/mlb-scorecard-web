@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-07T02:39:20.404578+00:00",
+  "updated_at": "2026-10-07T03:30:42.382197+00:00",
   "news": [
+    {
+      "title": "Rojas exits NLDS Game 3 mid-AB with lower back pain, unlikely to play in Game 4",
+      "link": "https://www.mlb.com/news/miguel-rojas-exits-nlds-game-3-with-back-injury",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791333397/mlb/p0bqrbellzx1ybpqybta",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Courtney Hollmon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T03:13:00+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Denied by Dubón! LF robs ex-Brave Freeman (before Freddie gets his revenge)",
+      "link": "https://www.mlb.com/news/mauricio-dubon-robs-freddie-freeman-nlds-game-3",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sagjdv9lydorsj6fxu7e",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T03:08:00+00:00",
+      "time_ago": "22m ago"
+    },
     {
       "title": "Yamamoto-Sale duel doesn't disappoint, and other takeaways from NLDS Game 3",
       "link": "https://www.mlb.com/news/braves-dodgers-nlds-game-3-takeaways",
@@ -11,8 +37,21 @@
       "author": "Paul Casella",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-07T02:26:44+00:00",
-      "time_ago": "12m ago"
+      "pub_date": "2026-10-07T02:39:00+00:00",
+      "time_ago": "51m ago"
+    },
+    {
+      "title": "LIVE: Padres scoring with speed, power against Brewers (FS1/FOX One)",
+      "link": "https://www.mlb.com/stories/game/849826",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eovp0r0lnoruicf7wq2t",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T02:38:57+00:00",
+      "time_ago": "51m ago"
     },
     {
       "title": "Guardians must turn on power, lean on stars in Game 3",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T02:01:12+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Braves on the brink in NLDS after Sale outdueled by Yamamoto",
@@ -41,19 +80,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "LIVE: Brewers-Padres NLDS Game 3 (FS1 /FOX One)",
-      "link": "https://www.mlb.com/news/brewers-padres-nl-division-series-game-3-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/urngsr4wvovqycvfz6wl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell, Adam McCalvy and Mark Sheldon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T01:30:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Padres closer Miller placed on paternity list ahead of NLDS Game 3",
       "link": "https://www.mlb.com/news/mason-miller-on-paternity-list-during-nlds",
       "summary": "",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T01:30:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Dodgers' HR barrage continues with October Kiké's return, Freddie avenging robbery",
@@ -77,33 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-07T01:27:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Yamamoto (10 K's) dazzles, putting Dodgers 1 win from return to NLCS",
-      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-10-strikeouts-nlds-game-3-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791331749/mlb/eeb0lycyaxcin8mcsvhw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T01:24:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Denied by Dubón! LF robs ex-Brave Freeman (before Freddie gets his revenge)",
-      "link": "https://www.mlb.com/news/mauricio-dubon-robs-freddie-freeman-nlds-game-3",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sagjdv9lydorsj6fxu7e",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T01:24:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
