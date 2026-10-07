@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-07T08:15:18.290675+00:00",
+  "updated_at": "2026-10-07T09:00:26.560681+00:00",
   "news": [
+    {
+      "title": "Game 3 in San Diego started with a bang, ended with a bang and didn't slow down in the middle",
+      "link": "https://www.mlb.com/news/memorable-moments-in-padres-win-in-nlds-game-3",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791360157/mlb/mkvuyicm7jec9t3loc4w",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Cole Bradley",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T08:38:58+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "Padres closer Miller misses NLDS Game 3 on paternity list, could return for Game 4",
+      "link": "https://www.mlb.com/news/mason-miller-on-paternity-list-during-nlds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dnofu9eysmphgpd8zs7n",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T08:25:00+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "Xander makes savvy moves on basepaths, in field as Padres stay alive",
+      "link": "https://www.mlb.com/news/xander-bogaerts-makes-big-plays-in-padres-game-3-nlds-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791359759/mlb/kq0tr5avptzzslbqdlwv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jessica Camerato",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T08:13:12+00:00",
+      "time_ago": "47m ago"
+    },
     {
       "title": "Turang, Yelich key to Crew wrapping up NLDS",
       "link": "https://www.mlb.com/news/brice-turang-christian-yelich-keys-for-brewers-in-nlds",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T08:02:26+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Led by King's all-in relief effort, Padres fight and force Game 4",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T07:41:00+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Dodgers-Braves NLDS Game 4 FAQ (6 ET, FS1/FOX One)",
@@ -35,19 +74,6 @@
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Paul Casella, Mark Bowman and Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T07:12:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Rays-Yankees ALDS Game 3 FAQ (8 p.m. ET, TBS/HBO Max)",
-      "link": "https://www.mlb.com/news/rays-vs-yankees-alds-game-3-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mq1bptm8ad9vb98mad0v",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry, Bryan Hoch",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T07:12:00+00:00",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T07:01:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "4 games. 4 potential clinches. Here's everything to know",
-      "link": "https://www.mlb.com/news/2026-nlds-game-4-alds-game-3-storylines",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qatajnb1y3urpfjtf1l0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T05:36:26+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "After heavy Wild Card workload, Sale showing 'he's human' lands Braves on the brink",
-      "link": "https://www.mlb.com/news/chris-sale-braves-lose-game-3-of-nlds-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791339701/mlb/hxrkis59cyngrgstokym",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-07T04:46:00+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
