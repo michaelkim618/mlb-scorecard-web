@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-08T16:35:47.950360+00:00",
+  "updated_at": "2026-10-08T17:35:41.278526+00:00",
   "news": [
+    {
+      "title": "Skubal-Miz dream showdown lined up for NLCS Game 1",
+      "link": "https://www.mlb.com/news/nlcs-game-1-lines-up-for-jacob-misiorowski-tarik-skubal-showdown",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nkizrcrhugpntasekhhh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T17:29:04+00:00",
+      "time_ago": "6m ago"
+    },
     {
       "title": "3 keys to Guardians-White Sox ALDS Game 4",
       "link": "https://www.mlb.com/news/2026-alds-game-4-storylines",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T14:25:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Here we go again: Brewers advance to NLCS rematch with Dodgers",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T09:21:00+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "8h ago"
     },
     {
       "title": "Dodgers return to NLCS as Pages delivers clutch October moment",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T09:21:00+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "8h ago"
     },
     {
       "title": "Road teams rule on historic postseason day",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T08:46:35+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "8h ago"
     },
     {
       "title": "Brewers' bullpen walks NLDS-long tightrope flawlessly",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T08:20:16+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "Miz was throwing '110' in the bullpen. Could he really have gone in the game?",
@@ -77,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-08T08:10:00+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "Padres left wondering what could have been after NLDS exit: 'It stings'",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T07:59:00+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "Murphy's pregame seeds bear fruit in NLDS clincher",
-      "link": "https://www.mlb.com/news/pat-murphy-helps-brewers-hitters-through-struggles-in-nlds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lhlqezdfnjchwcasqtv1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-08T07:40:36+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     }
   ]
 }
