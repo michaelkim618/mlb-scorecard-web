@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-10-08T05:14:17.932052+00:00",
+  "updated_at": "2026-10-08T06:21:55.713277+00:00",
   "news": [
+    {
+      "title": "Here we go again: Brewers advance to NLCS rematch with Dodgers",
+      "link": "https://www.mlb.com/news/brewers-win-nlds-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xxqmn4tppo1b92tj33ot",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T05:53:00+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "'It's a failure': Yankees' championship drought extended to 17 seasons",
+      "link": "https://www.mlb.com/news/yankees-lose-alds-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791426858/mlb/rkfvtyf2lmisj8cfu1v3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T05:36:00+00:00",
+      "time_ago": "45m ago"
+    },
+    {
+      "title": "Rays sweep their way past Yankees to reach 3rd ALCS in franchise history",
+      "link": "https://www.mlb.com/news/rays-win-alds-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zksjbxcz41sb5ysf6xal",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T05:30:00+00:00",
+      "time_ago": "51m ago"
+    },
+    {
+      "title": "Machado robbed of game-tying homer in cruel bit of déja vú",
+      "link": "https://www.mlb.com/news/manny-machado-robbed-of-game-tying-home-run-in-nlds-game-4",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p08p8696mywwmqpaipdm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jessica Camerato",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-08T05:13:00+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Dodgers return to NLCS as Pages delivers clutch October moment",
       "link": "https://www.mlb.com/news/dodgers-win-nlds-2026",
@@ -12,20 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T05:13:00+00:00",
-      "time_ago": "1m ago"
-    },
-    {
-      "title": "Here we go again: Brewers advance to NLCS rematch with Dodgers",
-      "link": "https://www.mlb.com/news/brewers-win-nlds-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a5mcffojmp5ediprodnx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-08T05:09:00+00:00",
-      "time_ago": "5m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Miller returns from paternity list, tosses scoreless 7th in Game 4",
@@ -38,33 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T05:07:01+00:00",
-      "time_ago": "7m ago"
-    },
-    {
-      "title": "Another playoff exit extends Yanks' championship drought to 17 seasons",
-      "link": "https://www.mlb.com/news/yankees-lose-alds-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791426858/mlb/rkfvtyf2lmisj8cfu1v3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-08T05:06:00+00:00",
-      "time_ago": "8m ago"
-    },
-    {
-      "title": "Machado robbed of game-tying homer in cruel bit of déja vú",
-      "link": "https://www.mlb.com/news/manny-machado-robbed-of-game-tying-home-run-in-nlds-game-4",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hjoat6fk4haqjfzj6zgw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-08T04:57:24+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Braves' postseason journey ends as thin pitching depth runs out of gas",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T04:32:00+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Glasnow proves reliable part of LA's lethal rotation amid another deep playoff run",
@@ -90,20 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-08T04:11:31+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Storylines to follow as Guards, White Sox take center stage for Game 4",
-      "link": "https://www.mlb.com/news/2026-alds-game-4-storylines",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zkr73ibq6tahcusny6ad",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-08T04:09:31+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
