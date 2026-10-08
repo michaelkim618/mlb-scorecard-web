@@ -1,18 +1,70 @@
 {
-  "updated_at": "2026-10-08T01:26:13.984089+00:00",
+  "updated_at": "2026-10-08T02:07:08.149439+00:00",
   "news": [
     {
-      "title": "LIVE: Rays get a Yankee Stadium HR in quest to clinch (TBS/HBO Max)",
-      "link": "https://www.mlb.com/stories/game/849838",
+      "title": "5 Dodgers storylines to watch as LA heads to 3rd straight NLCS",
+      "link": "https://www.mlb.com/news/dodgers-storylines-ahead-of-2026-nlcs",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/orkxhotrbhvul064fshi",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791423758/mlb/jdqh74ixzv6p0q42ohtb",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "",
+      "author": "Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T02:00:09+00:00",
+      "time_ago": "6m ago"
+    },
+    {
+      "title": "LIVE: Brewers-Padres NLDS Game 4 (FS1/FOX One)",
+      "link": "https://www.mlb.com/news/brewers-padres-nl-division-series-game-4-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ga0ddlksyxk9hbqvx0gr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell and Adam McCalvy ",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T02:00:00+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Globe-trotting Griffin delivers 7-K gem when Guardians need it most",
+      "link": "https://www.mlb.com/news/foster-griffin-sets-guardians-postseason-relief-strikeout-record-in-alds-game-3",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tsojmqoqfumxw3n29nom",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jackson Stone",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T01:54:19+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Vilade cracks 1st career playoff HR at the only ballpark it would've left",
+      "link": "https://www.mlb.com/news/ryan-vilade-hits-first-career-playoff-homer-in-game-3-of-2026-alds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bmdfpfnisqqgii7gqwcu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Perla Paredes",
       "tag": "Highlight",
       "tag_color": "#D97706",
-      "pub_date": "2026-10-08T01:22:32+00:00",
-      "time_ago": "3m ago"
+      "pub_date": "2026-10-08T01:51:44+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "Where does Chicago's pitching staff stand after 5 bullpen-heavy games?",
+      "link": "https://www.mlb.com/news/white-sox-bullpen-status-after-game-3-2026-alds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/slqvnmkqrelgunbl6koe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rhett Bollinger",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T01:41:08+00:00",
+      "time_ago": "26m ago"
     },
     {
       "title": "Dodgers return to NLCS as Pages delivers clutch October moment",
@@ -24,86 +76,34 @@
       "author": "Sonja Chen",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-08T01:11:00+00:00",
-      "time_ago": "15m ago"
+      "pub_date": "2026-10-08T01:36:00+00:00",
+      "time_ago": "31m ago"
     },
     {
-      "title": "Miz available in relief for Game 4? 'Could be'",
-      "link": "https://www.mlb.com/news/jacob-misiorowski-could-be-available-for-game-4-of-nlds",
+      "title": "Braves' early hook on Mahle backfires as season ends vs. Dodgers",
+      "link": "https://www.mlb.com/news/braves-lose-2026-nlds-to-dodgers",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791419420/mlb/s7ply6g58qfwz5zi1nt9",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ecryuswymvdqfmrjzxle",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Adam McCalvy",
+      "author": "Mark Bowman",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-08T00:31:42+00:00",
-      "time_ago": "54m ago"
+      "pub_date": "2026-10-08T01:34:00+00:00",
+      "time_ago": "33m ago"
     },
     {
-      "title": "Hitting & pitching Prospects of the Year for each team",
-      "link": "https://www.mlb.com/news/each-team-s-prospects-of-the-year-2026",
+      "title": "LIVE: Rays feeling the power in quest to clinch (TBS/HBO Max)",
+      "link": "https://www.mlb.com/stories/game/849838",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ifgmxamghoh4f7uslruu",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nrsw7lqj21g9k6qpgb6d",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Jim Callis, Sam Dykstra and Jonathan Mayo",
+      "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-07T23:55:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Miller returns from paternity list for Game 4; latest on Morejon",
-      "link": "https://www.mlb.com/news/mason-miller-adrian-morejon-update-for-brewers-padres-nlds-game-4",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dnofu9eysmphgpd8zs7n",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T23:53:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "J-Ram shows off all his tools as Guardians refuse to go quietly",
-      "link": "https://www.mlb.com/news/jose-ramirez-records-double-stolen-base-makes-diving-play-in-alds-game-3-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791417322/mlb/ecdkklese7h6ov7tikit",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T23:45:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "White Sox first home playoff clincher in 120 years on hold as ALDS heads to Game 4",
-      "link": "https://www.mlb.com/news/white-sox-alds-game-3-2026-guardians",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yjapchw0wyqgkwk2hczo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-07T23:44:19+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Naylor takes responsibility for rough results during season plagued by injuries",
-      "link": "https://www.mlb.com/news/josh-naylor-dealt-with-injuries-amid-2026-offensive-struggles-for-mariners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pjc3ujs9oozge4ugh1mn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-10-07T23:40:14+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-10-08T01:22:32+00:00",
+      "time_ago": "44m ago"
     }
   ]
 }
