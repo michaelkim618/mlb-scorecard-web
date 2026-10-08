@@ -120,7 +120,14 @@ export default function Hero() {
 
   const awayPct = topGame.win_prob?.away ?? 50;
   const homePct = topGame.win_prob?.home ?? 50;
-  const pickIsHome = homePct >= awayPct;
+  // 주의: win_prob가 정확히 50.0/50.0으로 뭉개지는 박빙 보정 케이스에서
+  // ">="로만 비교하면 항상 홈팀이 픽으로 선택된다 (백엔드 model_winner와
+  // 불일치 발생 — 예: 10/8 CLE@CWS에서 모델픽은 CLE인데 Hero는 CWS로 표시).
+  // 백엔드가 이미 라운드 트립 전 raw 스코어카드 기준으로 동률을 깨서
+  // model_winner를 정확히 계산해주므로, 그 값을 그대로 신뢰한다.
+  const pickIsHome = topGame.model_winner
+    ? topGame.model_winner === homeFull
+    : homePct >= awayPct;
   const pickAbbr   = pickIsHome ? homeAbbr  : awayAbbr;
   const pickPct    = pickIsHome ? homePct   : awayPct;
 
