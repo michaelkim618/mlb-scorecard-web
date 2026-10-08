@@ -1,0 +1,144 @@
+{
+  "title": "Oct 7 Results + Oct 8 Preview: When the Model Humbles You",
+  "summary": "A tough 1-3 day on Oct 7, but here's what we learned and tomorrow's bounce-back pick",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Here's the Thing About Tough Days\n\nLook, I'm not going to sugarcoat it—October 7 was rough. A 1-3 record isn't what any of us want to see, and honestly? It's days like these that remind us why baseball is the most humbling sport on the planet. But that's also why we love it, right? Every loss teaches us something, and every new day brings fresh opportunities."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Oct 7 Record",
+          "value": "1-3"
+        },
+        {
+          "label": "Accuracy",
+          "value": "25.0%"
+        },
+        {
+          "label": "Hits",
+          "value": "1"
+        },
+        {
+          "label": "Misses",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Day That Was\n\nOur only bright spot came from the Dodgers, who delivered exactly what we expected against the Braves with a 51% confidence pick. But the other three? The Sox, Yankees, and Padres all let us down, despite what looked like solid matchups on paper. The margins were close—our highest confidence was just 54%—which tells you everything about how tight these games were."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Oct 7 Prediction Performance",
+      "data": [
+        {
+          "name": "Sox",
+          "probability": 50,
+          "result": 0
+        },
+        {
+          "name": "Dodgers",
+          "probability": 51,
+          "result": 1
+        },
+        {
+          "name": "Yankees",
+          "probability": 52,
+          "result": 0
+        },
+        {
+          "name": "Padres",
+          "probability": 54,
+          "result": 0
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Complete Oct 7 Results Breakdown",
+      "headers": [
+        "Game",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Guardians @ Sox",
+          "White Sox",
+          "50%",
+          "✗ Miss"
+        ],
+        [
+          "Dodgers @ Braves",
+          "Dodgers",
+          "51%",
+          "✓ Hit"
+        ],
+        [
+          "Rays @ Yankees",
+          "Yankees",
+          "52%",
+          "✗ Miss"
+        ],
+        [
+          "Brewers @ Padres",
+          "Padres",
+          "54%",
+          "✗ Miss"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## What Went Wrong?\n\nHonestly, sometimes baseball just baseballs. The Padres were our highest-confidence pick at 54%, and they should have had the edge at home against the Brewers. The Yankees with a 52% nod seemed solid. Even the Sox at 50-50 felt like a reasonable call. But here's the beautiful, frustrating truth: when the margins are this tight, anything can happen. One hot bat, one defensive gem, one clutch pitch—that's all it takes to flip the script."
+    },
+    {
+      "type": "text",
+      "value": "## Looking Ahead to October 8\n\nNow, about tomorrow. We're heading right back to the same well with an interesting rematch: Cleveland Guardians at Chicago White Sox. Yes, the same matchup where we missed on October 7. But hear me out—the pitcher matchup is different, and that changes everything."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Tomorrow's Top Pick - Oct 8",
+      "value": "Chicago White Sox",
+      "sub": "50% win probability vs Guardians • Parker Messick vs Hagen Smith"
+    },
+    {
+      "type": "text",
+      "value": "## The Pitching Matchup to Watch\n\nParker Messick takes the mound for Cleveland, while the White Sox counter with Hagen Smith. It's another coin-flip game at 50% confidence, which means we're banking on the home field advantage and Smith's ability to keep the Guardians' bats quiet. After yesterday's miss, some might question going back to the Sox, but that's not how we operate. The model sees value here, and we trust the process even when it's uncomfortable."
+    },
+    {
+      "type": "text",
+      "value": "## The Takeaway\n\nYesterday stung, no question. A 25% hit rate isn't acceptable by any standard, and we're not pretending otherwise. But this is baseball in October—the margins are razor-thin, the competition is fierce, and every team is playing their best ball. We learn, we adjust, and we come back stronger.\n\nTomorrow's pick might look familiar, but it's a new day with new variables. Let's see if the White Sox can deliver what they couldn't on October 7. Sometimes redemption is just one pitch away.\n\nSee you tomorrow. Let's bounce back."
+    }
+  ],
+  "slug": "2026-10-07-daily-hana",
+  "author": "Hana",
+  "author_emoji": "🌸",
+  "author_role": "Story Writer",
+  "author_color": "#EC4899",
+  "date": "2026-10-07",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#EC4899"
+}

@@ -341,8 +341,8 @@ window.PREDICTIONS_DATA = [
       "home": 50.0
     },
     "expected_score": {
-      "away": 2.7,
-      "home": 3.5
+      "away": 2.9,
+      "home": 3.4
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -424,14 +424,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.95,
           "closer_name": "Cade Smith"
         },
-        "bat_score": 40.8,
+        "bat_score": 43.6,
         "bat_detail": {
           "recent_avg": 0.263,
           "runs_per_g": 5.3,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
           "season_ops": 0.745,
-          "season_slg": null,
+          "season_slg": 0.428,
           "season_avg": 0.263,
           "n_games": 9,
           "source": "prev_day",
@@ -521,7 +521,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 57.9,
-        "total": 49.3
+        "total": 50.0
       },
       "home": {
         "sp_score": 21.0,
@@ -595,14 +595,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.25,
           "closer_name": "Grant Taylor"
         },
-        "bat_score": 47.2,
+        "bat_score": 45.1,
         "bat_detail": {
           "recent_avg": 0.263,
           "runs_per_g": 6.5,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
           "season_ops": 0.762,
-          "season_slg": null,
+          "season_slg": 0.379,
           "season_avg": 0.263,
           "n_games": 9,
           "source": "prev_day",
@@ -692,13 +692,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 58.3,
-        "total": 47.7
+        "total": 47.2
       }
     },
     "scores": {
-      "away_offense": 40.8,
+      "away_offense": 43.6,
       "away_defense": 42.0,
-      "home_offense": 47.2,
+      "home_offense": 45.1,
       "home_defense": 54.0
     },
     "actual_score": {
