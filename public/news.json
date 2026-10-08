@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-08T18:35:40.864539+00:00",
+  "updated_at": "2026-10-08T19:12:56.915193+00:00",
   "news": [
+    {
+      "title": "Olympic path begins in Barcelona: What you need to know for Premier12 Qualifiers",
+      "link": "https://www.mlb.com/news/premier12-barcelona-qualifier-preview-what-you-need-to-know-teams-dates",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ba62rcaw43um0adkrn2v",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T18:09:25+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "MLB proposes 154-game schedule, new playoff features",
       "link": "https://www.mlb.com/news/mlb-mlbpa-proposal-154-game-schedule-new-playoff-structure",
@@ -12,7 +25,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-08T17:47:50+00:00",
-      "time_ago": "47m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "All signs pointing to a dream Skubal-Miz showdown for NLCS Game 1",
@@ -67,6 +80,19 @@
       "time_ago": "9h ago"
     },
     {
+      "title": "Dodgers-Brewers NL Championship Series Game 1 FAQ (Sun., FOX/FS1/FOX One)",
+      "link": "https://www.mlb.com/news/dodgers-brewers-nl-championship-series-game-1-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791478796/mlb/mu54ut4xgfg4txajz3ei",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen and Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T09:18:33+00:00",
+      "time_ago": "9h ago"
+    },
+    {
       "title": "Road teams rule on historic postseason day",
       "link": "https://www.mlb.com/news/road-teams-win-all-four-postseason-games",
       "summary": "",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T08:46:35+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "Brewers' bullpen walks NLDS-long tightrope flawlessly",
-      "link": "https://www.mlb.com/news/aaron-ashby-abner-uribe-trevor-megill-star-in-brewers-nlds-clincher",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pgzzr88c9she0auvziyu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Cole Bradley",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-08T08:20:16+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Miz was throwing '110' in the bullpen. Could he really have gone in the game?",
-      "link": "https://www.mlb.com/news/jacob-misiorowski-could-be-available-for-game-4-of-nlds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791419534/mlb/s7ply6g58qfwz5zi1nt9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-08T08:10:00+00:00",
       "time_ago": "10h ago"
     }
   ]
