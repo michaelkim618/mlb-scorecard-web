@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-08T00:36:09.630628+00:00",
+  "updated_at": "2026-10-08T01:06:45.078620+00:00",
   "news": [
+    {
+      "title": "Miz available in relief for Game 4? 'Could be'",
+      "link": "https://www.mlb.com/news/jacob-misiorowski-could-be-available-for-game-4-of-nlds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791419420/mlb/s7ply6g58qfwz5zi1nt9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T00:31:42+00:00",
+      "time_ago": "35m ago"
+    },
     {
       "title": "LIVE: Pages comes through in 7th for Dodgers (FS1/FOX One)",
       "link": "https://www.mlb.com/stories/game/849822",
@@ -12,7 +25,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-08T00:29:13+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "Here are each organization's Prospects of the Year",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T23:55:00+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Miller returns from paternity list for Game 4; latest on Morejon",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T23:53:00+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "LIVE on TBS/HBO Max: Rays-Yankees ALDS Game 3",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T23:45:00+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "J-Ram shows off all his tools as Guardians refuse to go quietly",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T23:45:00+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "White Sox first home playoff clincher in 120 years on hold as ALDS heads to Game 4",
@@ -77,32 +90,19 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-07T23:44:19+00:00",
-      "time_ago": "51m ago"
-    },
-    {
-      "title": "Wake-up call! Adell's bases-clearing triple jolts Guardians' bats",
-      "link": "https://www.mlb.com/news/jo-adell-bases-clearing-triple-guardians-alds-game-3-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qyou3nq0elstgzsmydm9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T23:29:00+00:00",
       "time_ago": "1h ago"
     },
     {
-      "title": "Brewers-Padres NLDS Game 4 lineups, FAQ, more (10 ET, FS1/FOX One)",
-      "link": "https://www.mlb.com/news/brewers-padres-nl-division-series-game-4-starting-lineups-and-pitching-matchup",
+      "title": "Naylor takes responsibility for rough results during season plagued by injuries",
+      "link": "https://www.mlb.com/news/josh-naylor-dealt-with-injuries-amid-2026-offensive-struggles-for-mariners",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ga0ddlksyxk9hbqvx0gr",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pjc3ujs9oozge4ugh1mn",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "AJ Cassavell and Adam McCalvy ",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-07T22:46:00+00:00",
+      "author": "Daniel Kramer",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-10-07T23:40:14+00:00",
       "time_ago": "1h ago"
     }
   ]
