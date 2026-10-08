@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-08T14:21:04.728264+00:00",
+  "updated_at": "2026-10-08T14:43:21.417173+00:00",
   "news": [
+    {
+      "title": "Storylines to follow as Guards, White Sox take center stage for Game 4",
+      "link": "https://www.mlb.com/news/2026-alds-game-4-storylines",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zkr73ibq6tahcusny6ad",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T14:25:00+00:00",
+      "time_ago": "18m ago"
+    },
     {
       "title": "Here we go again: Brewers advance to NLCS rematch with Dodgers",
       "link": "https://www.mlb.com/news/brewers-win-nlds-2026",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T07:40:36+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Déja vú strikes thrice as Machado robbed of game-tying HR",
-      "link": "https://www.mlb.com/news/manny-machado-robbed-of-game-tying-home-run-in-nlds-game-4",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ur9c30aoibeghb6rptjz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jessica Camerato",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-08T07:24:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     }
   ]
 }

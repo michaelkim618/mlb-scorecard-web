@@ -1,11 +1,11 @@
 {
-  "title": "Oct 7 Results + Oct 8 Preview: When the Model Keeps the Faith",
-  "summary": "A tough 1-3 day, but here's why we're not backing down from tomorrow's White Sox pick",
+  "title": "Oct 7 Results + Oct 8 Preview: When the Favorites Don't Show Up",
+  "summary": "A tough 1-3 day on Oct 7, but here's what we're watching for tomorrow's slate.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Here's the Thing About Rough Days\n\nLook, I'm not going to sugarcoat it—October 7th was a grind. We went 1-3, hitting on just 25% of our picks. The kind of day where you check your phone hoping the scores changed, but they didn't. The Dodgers showed up for us against the Braves, but the Sox, Yankees, and Padres? Not so much.\n\nBut here's what I've learned covering this game: baseball has a way of humbling you right before it reminds you why you fell in love with it in the first place."
+      "value": "## Here's the Thing About October Baseball\n\nSometimes you walk into a day thinking the favorites have it locked, and then baseball reminds you why we love this game—nothing's guaranteed. October 7 was one of those humbling days where we went 1-3, hitting on just 25% of our picks. The Dodgers showed up for us, but the Sox, Yankees, and Padres? Not so much."
     },
     {
       "type": "stat_row",
@@ -25,12 +25,52 @@
       ]
     },
     {
+      "type": "text",
+      "value": "## How the Day Unfolded\n\nLet's be honest—this one stung a little. We had four picks with relatively modest confidence levels, all hovering around 50-54%. The Dodgers pulled through at 51%, giving us our lone win. But the White Sox, Yankees, and Padres all fell short despite being our model's favorites. Days like this remind us that tight margins can swing either way, and today they swung against us."
+    },
+    {
+      "type": "table",
+      "title": "October 7 Full Results",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Guardians @ White Sox",
+          "White Sox",
+          "50%",
+          "✗"
+        ],
+        [
+          "Dodgers @ Braves",
+          "Dodgers",
+          "51%",
+          "✓"
+        ],
+        [
+          "Rays @ Yankees",
+          "Yankees",
+          "52%",
+          "✗"
+        ],
+        [
+          "Brewers @ Padres",
+          "Padres",
+          "54%",
+          "✗"
+        ]
+      ]
+    },
+    {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Oct 7 Prediction Performance",
+      "title": "Oct 7 Pick Confidence vs Results",
       "data": [
         {
-          "name": "Sox",
+          "name": "White Sox",
           "probability": 50,
           "result": 0
         },
@@ -65,63 +105,23 @@
       ]
     },
     {
-      "type": "table",
-      "title": "Full Oct 7 Results Breakdown",
-      "headers": [
-        "Game",
-        "Our Pick",
-        "Confidence",
-        "Result"
-      ],
-      "rows": [
-        [
-          "Guardians @ White Sox",
-          "White Sox",
-          "50%",
-          "✗ Miss"
-        ],
-        [
-          "Dodgers @ Braves",
-          "Dodgers",
-          "51%",
-          "✓ Hit"
-        ],
-        [
-          "Rays @ Yankees",
-          "Yankees",
-          "52%",
-          "✗ Miss"
-        ],
-        [
-          "Brewers @ Padres",
-          "Padres",
-          "54%",
-          "✗ Miss"
-        ]
-      ]
+      "type": "text",
+      "value": "## The Silver Lining\n\nHere's what I keep coming back to: our confidence levels were honest. None of these were slam-dunks, and the model knew it. When you're picking games in the 50-54% range, you're essentially saying these could go either way. That's exactly what happened—just not in our favor. The key is learning and adjusting, not overreacting to one tough day."
     },
     {
       "type": "text",
-      "value": "## The Silver Lining in the Storm\n\nThe Dodgers pick was our winner, and honestly, it felt good to watch them execute. At 51% confidence, it wasn't our strongest conviction play, but the model saw something in the matchup that played out on the field.\n\nThe other three? They all felt reasonable at the time. The Padres at 54% seemed like the safest bet of the day, and yet baseball reminded us there's no such thing as safe. That's the beauty and the frustration of this game wrapped into one box score."
-    },
-    {
-      "type": "text",
-      "value": "## Tomorrow's Story: White Sox Get Another Shot\n\nHere's where it gets interesting. Our top pick for October 8th? The Chicago White Sox again, hosting those same Cleveland Guardians. I know what you're thinking—didn't we just lose that pick yesterday?\n\nYes. Yes we did.\n\nBut the model is telling us something. At 50% confidence, this is essentially a coin flip, but the pitching matchup has shifted. Parker Messick gets the ball for Cleveland, while Hagen Smith takes the mound for Chicago. The model sees value in backing the home team again, and sometimes in baseball, the second chance is the charm."
+      "value": "## Looking Ahead to October 8\n\nTomorrow brings us a familiar matchup: Guardians at White Sox, round two. After missing on the White Sox yesterday at 50%, we're back on them again—same confidence level, new day. Parker Messick takes the mound for Cleveland against Chicago's Hagen Smith.\n\nThe model sees this as another coin-flip scenario, but there's something about the White Sox at home that keeps drawing our attention. Will tomorrow be redemption day, or will the Guardians prove us wrong twice in a row?"
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Oct 8 Top Pick",
+      "title": "⭐ Tomorrow's Top Pick - October 8",
       "value": "Chicago White Sox",
-      "sub": "50% win probability · vs Guardians · Smith vs Messick"
+      "sub": "50% win probability vs Guardians · Hagen Smith on the mound"
     },
     {
       "type": "text",
-      "value": "## The Pitcher's Duel to Watch\n\nParker Messick versus Hagen Smith isn't going to make the ESPN highlight packages, but these matchups matter. The model's looking at recent form, home/away splits, and how each pitcher has fared in similar situations. At 50%, we're not screaming this pick from the rooftops, but we're confident enough to make it our top play for tomorrow.\n\nSometimes the best stories come from doubling down when it matters most."
-    },
-    {
-      "type": "text",
-      "value": "## The Road Ahead\n\nA 1-3 day stings. There's no getting around that. But if you've followed baseball long enough, you know that variance is part of the deal. The model doesn't get emotional, it doesn't second-guess, and it doesn't let one bad day define the next one.\n\nTomorrow, we reset. The White Sox get another chance to prove the model right, and we get another chance to find that winning feeling. That's the thing about this game—there's always tomorrow, and tomorrow always brings another story to tell.\n\nLet's see if the White Sox can flip the script."
+      "value": "## The Bottom Line\n\nA 1-3 day hurts, no question. But this is the marathon of baseball season, not a sprint. We trust the process, learn from the misses, and show up tomorrow ready to find the edge again. The White Sox get another chance to prove themselves, and so do we.\n\nSee you tomorrow for what we hope is a bounce-back day. Because here's the thing about baseball—there's always another game."
     }
   ],
   "slug": "2026-10-07-daily-hana",

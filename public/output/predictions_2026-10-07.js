@@ -1355,8 +1355,8 @@ window.PREDICTIONS_DATA = [
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Michael Harris II(0.835)",
-            "Ronald Acuña Jr.(0.793)",
+            "Michael Harris(0.835)",
+            "Ronald Acuña(0.793)",
             "Matt Olson(0.786)",
             "Ozzie Albies(0.481)",
             "Drake Baldwin(0.883)",
@@ -1368,13 +1368,13 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 671739,
-              "name": "Michael Harris II",
+              "name": "Michael Harris",
               "ops": 0.835,
               "avg": 0.325
             },
             {
               "id": 660670,
-              "name": "Ronald Acuña Jr.",
+              "name": "Ronald Acuña",
               "ops": 0.793,
               "avg": 0.231
             },
@@ -1945,7 +1945,7 @@ window.PREDICTIONS_DATA = [
             "Yandy Díaz(0.628)",
             "Jonathan Aranda(0.732)",
             "Junior Caminero(0.800)",
-            "Victor Mesa Jr.(0.791)",
+            "Victor Mesa(0.791)",
             "Ryan Vilade(0.559)",
             "Liam Hicks(0.743)",
             "Jonny DeLuca(0.807)",
@@ -1973,7 +1973,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 683748,
-              "name": "Victor Mesa Jr.",
+              "name": "Victor Mesa",
               "ops": 0.791,
               "avg": 0.273
             },
@@ -2130,9 +2130,9 @@ window.PREDICTIONS_DATA = [
           "lineup_ops": [
             "Trent Grisham(0.500)",
             "Ben Rice(1.014)",
-            "Luis García Jr.(0.542)",
+            "Luis García(0.542)",
             "Cody Bellinger(0.703)",
-            "George Lombard Jr.(0.798)",
+            "George Lombard(0.798)",
             "Austin Wells(0.889)",
             "Anthony Volpe(0.640)",
             "Spencer Jones(0.607)",
@@ -2153,7 +2153,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671277,
-              "name": "Luis García Jr.",
+              "name": "Luis García",
               "ops": 0.542,
               "avg": 0.105
             },
@@ -2165,7 +2165,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 806146,
-              "name": "George Lombard Jr.",
+              "name": "George Lombard",
               "ops": 0.798,
               "avg": 0.286
             },
@@ -2896,7 +2896,7 @@ window.PREDICTIONS_DATA = [
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Fernando Tatis Jr.(0.869)",
+            "Fernando Tatis(0.869)",
             "Jackson Merrill(0.748)",
             "Manny Machado(0.613)",
             "Ty France(0.829)",
@@ -2909,7 +2909,7 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 665487,
-              "name": "Fernando Tatis Jr.",
+              "name": "Fernando Tatis",
               "ops": 0.869,
               "avg": 0.308
             },
