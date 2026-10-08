@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-08T20:02:32.033374+00:00",
+  "updated_at": "2026-10-08T20:24:51.670038+00:00",
   "news": [
+    {
+      "title": "Guardians-White Sox ALDS Game 4 FAQ, lineups (8 ET, TBS/HBO Max)",
+      "link": "https://www.mlb.com/news/guardians-vs-white-sox-alds-game-4-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f2thy81kyyqwhhvm6nlp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins, Scott Merkin and Anthony Castrovince",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-08T20:12:00+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Late-night host Jimmy Fallon releasing 2 baseball children's books",
+      "link": "https://www.mlb.com/news/jimmy-fallon-writes-baseball-children-s-books",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uvwhzwrszwsefeyjnmls",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T19:26:32+00:00",
+      "time_ago": "58m ago"
+    },
     {
       "title": "Olympic path begins in Barcelona: What you need to know for Premier12 Qualifiers",
       "link": "https://www.mlb.com/news/premier12-barcelona-qualifier-preview-what-you-need-to-know-teams-dates",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T18:09:25+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "MLB proposes 154-game schedule, new playoff features",
@@ -28,15 +54,15 @@
       "time_ago": "2h ago"
     },
     {
-      "title": "All signs pointing to a dream Skubal-Miz showdown for NLCS Game 1",
+      "title": "2 elite arms lined up for duel in NLCS Game 1",
       "link": "https://www.mlb.com/news/nlcs-game-1-lines-up-for-jacob-misiorowski-tarik-skubal-showdown",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nkizrcrhugpntasekhhh",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Max Ralph",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
       "pub_date": "2026-10-08T17:29:04+00:00",
       "time_ago": "2h ago"
     },
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T09:21:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Dodgers return to NLCS as Pages delivers clutch October moment",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T09:21:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Dodgers-Brewers NL Championship Series Game 1 FAQ (Sun., FOX/FS1/FOX One)",
-      "link": "https://www.mlb.com/news/dodgers-brewers-nl-championship-series-game-1-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791478796/mlb/mu54ut4xgfg4txajz3ei",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen and Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-08T09:18:33+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Road teams rule on historic postseason day",
-      "link": "https://www.mlb.com/news/road-teams-win-all-four-postseason-games",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c8g74nkkdlciy4ah9i6l",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sarah Langs",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-08T08:46:35+00:00",
       "time_ago": "11h ago"
     }
   ]
