@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T11:08:24.154181+00:00",
+  "updated_at": "2026-10-08T11:31:24.376723+00:00",
   "news": [
     {
       "title": "Here we go again: Brewers advance to NLCS rematch with Dodgers",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T09:21:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Dodgers return to NLCS as Pages delivers clutch October moment",
@@ -25,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T09:21:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Road teams rule on historic postseason day",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T08:20:16+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Miz was throwing '110' in the bullpen. Could he really have gone in the game?",
@@ -64,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-08T08:10:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Padres left wondering what could have been after NLDS exit: 'It stings'",
@@ -103,7 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-08T07:24:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
