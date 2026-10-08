@@ -341,8 +341,8 @@ window.PREDICTIONS_DATA = [
       "home": 50.0
     },
     "expected_score": {
-      "away": 2.9,
-      "home": 3.4
+      "away": 2.7,
+      "home": 3.5
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -424,14 +424,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.95,
           "closer_name": "Cade Smith"
         },
-        "bat_score": 43.6,
+        "bat_score": 40.8,
         "bat_detail": {
           "recent_avg": 0.263,
           "runs_per_g": 5.3,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
           "season_ops": 0.745,
-          "season_slg": 0.428,
+          "season_slg": null,
           "season_avg": 0.263,
           "n_games": 9,
           "source": "prev_day",
@@ -521,7 +521,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 57.9,
-        "total": 50.0
+        "total": 49.3
       },
       "home": {
         "sp_score": 21.0,
@@ -595,14 +595,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.25,
           "closer_name": "Grant Taylor"
         },
-        "bat_score": 45.1,
+        "bat_score": 47.2,
         "bat_detail": {
           "recent_avg": 0.263,
           "runs_per_g": 6.5,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
           "season_ops": 0.762,
-          "season_slg": 0.379,
+          "season_slg": null,
           "season_avg": 0.263,
           "n_games": 9,
           "source": "prev_day",
@@ -692,13 +692,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 58.3,
-        "total": 47.2
+        "total": 47.7
       }
     },
     "scores": {
-      "away_offense": 43.6,
+      "away_offense": 40.8,
       "away_defense": 42.0,
-      "home_offense": 45.1,
+      "home_offense": 47.2,
       "home_defense": 54.0
     },
     "actual_score": {
@@ -713,8 +713,8 @@ window.PREDICTIONS_DATA = [
       "any": false
     },
     "actual_winner": "Cleveland Guardians",
-    "model_winner": "Chicago White Sox",
-    "model_correct": false,
+    "model_winner": "Cleveland Guardians",
+    "model_correct": true,
     "notes": "Chicago White Sox IL: Brooks Baldwin, Jordan Leasure, Ky Bush, Luis Castillo, Mike Vasil 외 다수",
     "kalshi_prob": null,
     "edge": null,
@@ -1355,8 +1355,8 @@ window.PREDICTIONS_DATA = [
           "handedness": "R",
           "splits_used": false,
           "lineup_ops": [
-            "Michael Harris II(0.835)",
-            "Ronald Acuña Jr.(0.793)",
+            "Michael Harris(0.835)",
+            "Ronald Acuña(0.793)",
             "Matt Olson(0.786)",
             "Ozzie Albies(0.481)",
             "Drake Baldwin(0.883)",
@@ -1368,13 +1368,13 @@ window.PREDICTIONS_DATA = [
           "lineup_players": [
             {
               "id": 671739,
-              "name": "Michael Harris II",
+              "name": "Michael Harris",
               "ops": 0.835,
               "avg": 0.325
             },
             {
               "id": 660670,
-              "name": "Ronald Acuña Jr.",
+              "name": "Ronald Acuña",
               "ops": 0.793,
               "avg": 0.231
             },
@@ -1945,7 +1945,7 @@ window.PREDICTIONS_DATA = [
             "Yandy Díaz(0.628)",
             "Jonathan Aranda(0.732)",
             "Junior Caminero(0.800)",
-            "Victor Mesa Jr.(0.791)",
+            "Victor Mesa(0.791)",
             "Ryan Vilade(0.559)",
             "Liam Hicks(0.743)",
             "Jonny DeLuca(0.807)",
@@ -1973,7 +1973,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 683748,
-              "name": "Victor Mesa Jr.",
+              "name": "Victor Mesa",
               "ops": 0.791,
               "avg": 0.273
             },
@@ -2130,9 +2130,9 @@ window.PREDICTIONS_DATA = [
           "lineup_ops": [
             "Trent Grisham(0.500)",
             "Ben Rice(1.014)",
-            "Luis García Jr.(0.542)",
+            "Luis García(0.542)",
             "Cody Bellinger(0.703)",
-            "George Lombard Jr.(0.798)",
+            "George Lombard(0.798)",
             "Austin Wells(0.889)",
             "Anthony Volpe(0.640)",
             "Spencer Jones(0.607)",
@@ -2153,7 +2153,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 671277,
-              "name": "Luis García Jr.",
+              "name": "Luis García",
               "ops": 0.542,
               "avg": 0.105
             },
@@ -2165,7 +2165,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 806146,
-              "name": "George Lombard Jr.",
+              "name": "George Lombard",
               "ops": 0.798,
               "avg": 0.286
             },
