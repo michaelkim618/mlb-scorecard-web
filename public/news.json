@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-08T01:06:45.078620+00:00",
+  "updated_at": "2026-10-08T01:26:13.984089+00:00",
   "news": [
+    {
+      "title": "LIVE: Rays get a Yankee Stadium HR in quest to clinch (TBS/HBO Max)",
+      "link": "https://www.mlb.com/stories/game/849838",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/orkxhotrbhvul064fshi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-08T01:22:32+00:00",
+      "time_ago": "3m ago"
+    },
+    {
+      "title": "Dodgers return to NLCS as Pages delivers clutch October moment",
+      "link": "https://www.mlb.com/news/dodgers-win-nlds-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xfqcgqrvmfb44ffg6xyl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T01:11:00+00:00",
+      "time_ago": "15m ago"
+    },
     {
       "title": "Miz available in relief for Game 4? 'Could be'",
       "link": "https://www.mlb.com/news/jacob-misiorowski-could-be-available-for-game-4-of-nlds",
@@ -12,23 +38,10 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T00:31:42+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "54m ago"
     },
     {
-      "title": "LIVE: Pages comes through in 7th for Dodgers (FS1/FOX One)",
-      "link": "https://www.mlb.com/stories/game/849822",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lfl40vgvnkezwqutnzzx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-08T00:29:13+00:00",
-      "time_ago": "37m ago"
-    },
-    {
-      "title": "Here are each organization's Prospects of the Year",
+      "title": "Hitting & pitching Prospects of the Year for each team",
       "link": "https://www.mlb.com/news/each-team-s-prospects-of-the-year-2026",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ifgmxamghoh4f7uslruu",
@@ -51,19 +64,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T23:53:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "LIVE on TBS/HBO Max: Rays-Yankees ALDS Game 3",
-      "link": "https://www.mlb.com/news/rays-vs-yankees-alds-game-3-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mq1bptm8ad9vb98mad0v",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry, Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T23:45:00+00:00",
       "time_ago": "1h ago"
     },
     {
