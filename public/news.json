@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-10-08T07:11:22.578402+00:00",
+  "updated_at": "2026-10-08T07:51:14.689036+00:00",
   "news": [
+    {
+      "title": "Murphy's pregame seeds bear fruit in NLDS clincher",
+      "link": "https://www.mlb.com/news/pat-murphy-helps-brewers-hitters-through-struggles-in-nlds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lhlqezdfnjchwcasqtv1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Sheldon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T07:40:36+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "After being left out of Game 3 lineup, Chisholm says he wants to return to Yankees",
+      "link": "https://www.mlb.com/news/anthony-volpe-jose-caballero-start-for-yankees-in-game-3-of-alds",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791441450/mlb/jljsrams8l0g69eqzi9o",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-08T07:27:00+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "Déja vú strikes thrice as Machado robbed of game-tying HR",
+      "link": "https://www.mlb.com/news/manny-machado-robbed-of-game-tying-home-run-in-nlds-game-4",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p08p8696mywwmqpaipdm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jessica Camerato",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-08T07:24:00+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "'It's a failure': Yankees' championship drought extended to 17 seasons",
+      "link": "https://www.mlb.com/news/yankees-lose-alds-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791426858/mlb/rkfvtyf2lmisj8cfu1v3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T07:13:00+00:00",
+      "time_ago": "38m ago"
+    },
+    {
+      "title": "Judge wants front office to go 'all in' -- with Boone remaining in charge",
+      "link": "https://www.mlb.com/news/aaron-judge-discusses-yankees-season-aaron-boone",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791439788/mlb/muwknr87vqphpgwtwdbv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T07:11:35+00:00",
+      "time_ago": "39m ago"
+    },
+    {
+      "title": "Yankees have new core developing, and future looks bright",
+      "link": "https://www.mlb.com/news/george-lombard-jr-spencer-jones-part-of-new-core-for-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g8j17uuibsajhqbwkcep",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T07:07:50+00:00",
+      "time_ago": "43m ago"
+    },
     {
       "title": "Trio of starters provides latest example of Rays' postseason pitching prowess",
       "link": "https://www.mlb.com/news/nick-martinez-ian-seymour-griffin-jax-rays-yankees-alds-game-3",
@@ -12,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T06:56:27+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "You can breathe now! Brewers, Padres wrap up historically close series",
@@ -25,84 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T06:43:53+00:00",
-      "time_ago": "27m ago"
-    },
-    {
-      "title": "4 things that matter for red-hot Rays going into ALCS",
-      "link": "https://www.mlb.com/news/things-that-matter-rays-ahead-of-alcs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yh2g5gox0sa9ykqwvnlb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-08T06:43:30+00:00",
-      "time_ago": "27m ago"
-    },
-    {
-      "title": "Volpe's potential game-tying homer waved off due to fan interference",
-      "link": "https://www.mlb.com/news/fan-interference-anthony-volpe-potential-homer-alds-game-3",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e6s6utxmhd15i1go68al",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-08T06:03:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Padres fall short in hard-fought NLDS against Brewers",
-      "link": "https://www.mlb.com/news/padres-lose-2026-nlds-to-brewers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791436942/mlb/ebwu51imgrywbiji2itx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-08T05:59:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Here we go again: Brewers advance to NLCS rematch with Dodgers",
-      "link": "https://www.mlb.com/news/brewers-win-nlds-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xxqmn4tppo1b92tj33ot",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-08T05:53:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Vilade cracks 1st career playoff HR at the only ballpark it would've left",
-      "link": "https://www.mlb.com/news/ryan-vilade-hits-first-career-playoff-homer-in-game-3-of-2026-alds",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bmdfpfnisqqgii7gqwcu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Perla Paredes",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-08T05:49:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "'It's a failure': Yankees' championship drought extended to 17 seasons",
-      "link": "https://www.mlb.com/news/yankees-lose-alds-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791426858/mlb/rkfvtyf2lmisj8cfu1v3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-08T05:36:00+00:00",
       "time_ago": "1h ago"
     }
   ]
