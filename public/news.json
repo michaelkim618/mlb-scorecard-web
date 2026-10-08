@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-07T23:38:24.524145+00:00",
+  "updated_at": "2026-10-08T00:06:44.439380+00:00",
   "news": [
     {
-      "title": "Wake-up call! Adell's bases-clearing triple jolts Guardians' bats",
-      "link": "https://www.mlb.com/news/jo-adell-bases-clearing-triple-guardians-alds-game-3-2026",
+      "title": "Miller returns from paternity list for Game 4; latest on Morejon",
+      "link": "https://www.mlb.com/news/mason-miller-adrian-morejon-update-for-brewers-padres-nlds-game-4",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qyou3nq0elstgzsmydm9",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dnofu9eysmphgpd8zs7n",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Tim Stebbins",
+      "author": "AJ Cassavell",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-07T23:29:00+00:00",
-      "time_ago": "9m ago"
+      "pub_date": "2026-10-07T23:53:00+00:00",
+      "time_ago": "13m ago"
     },
     {
       "title": "J-Ram shows off all his tools as Guardians refuse to go quietly",
@@ -24,8 +24,47 @@
       "author": "Tim Stebbins",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-07T23:27:00+00:00",
-      "time_ago": "11m ago"
+      "pub_date": "2026-10-07T23:45:00+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "LIVE on TBS/HBO Max: Rays-Yankees ALDS Game 3",
+      "link": "https://www.mlb.com/news/rays-vs-yankees-alds-game-3-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mq1bptm8ad9vb98mad0v",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry, Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T23:45:00+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "White Sox first home playoff clincher in 120 years on hold as ALDS heads to Game 4",
+      "link": "https://www.mlb.com/news/white-sox-alds-game-3-2026-guardians",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yjapchw0wyqgkwk2hczo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-07T23:44:19+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "Wake-up call! Adell's bases-clearing triple jolts Guardians' bats",
+      "link": "https://www.mlb.com/news/jo-adell-bases-clearing-triple-guardians-alds-game-3-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qyou3nq0elstgzsmydm9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-07T23:29:00+00:00",
+      "time_ago": "37m ago"
     },
     {
       "title": "Brewers-Padres NLDS Game 4 lineups, FAQ, more (10 ET, FS1/FOX One)",
@@ -38,19 +77,6 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-07T22:46:00+00:00",
-      "time_ago": "52m ago"
-    },
-    {
-      "title": "Miller returns from paternity list for Game 4; latest on Morejon",
-      "link": "https://www.mlb.com/news/mason-miller-adrian-morejon-update-for-brewers-padres-nlds-game-4",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dnofu9eysmphgpd8zs7n",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-07T22:38:00+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-07T21:40:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Rojas unavailable in G4 as Dodgers continue to evaluate back injury",
-      "link": "https://www.mlb.com/news/miguel-rojas-unavailable-nlds-game-4-2026-back-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791407103/mlb/tc7hwyt9smmutjcveklc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-10-07T21:35:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Injuries: Judge, Acuña, Padres, Rojas, Rays",
-      "link": "https://www.mlb.com/news/baseball-injury-updates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zhwohedofzhaftpzpway",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-10-07T21:34:00+00:00",
       "time_ago": "2h ago"
     }
   ]
