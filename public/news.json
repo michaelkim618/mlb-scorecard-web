@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-08T09:15:28.386730+00:00",
+  "updated_at": "2026-10-08T10:01:15.329912+00:00",
   "news": [
+    {
+      "title": "Here we go again: Brewers advance to NLCS rematch with Dodgers",
+      "link": "https://www.mlb.com/news/brewers-win-nlds-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xxqmn4tppo1b92tj33ot",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T09:21:00+00:00",
+      "time_ago": "40m ago"
+    },
+    {
+      "title": "Dodgers return to NLCS as Pages delivers clutch October moment",
+      "link": "https://www.mlb.com/news/dodgers-win-nlds-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xfqcgqrvmfb44ffg6xyl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T09:21:00+00:00",
+      "time_ago": "40m ago"
+    },
     {
       "title": "Road teams rule on historic postseason day",
       "link": "https://www.mlb.com/news/road-teams-win-all-four-postseason-games",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T08:46:35+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Brewers' bullpen walks NLDS-long tightrope flawlessly",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T08:20:16+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Miz was throwing '110' in the bullpen. Could he really have gone in the game?",
@@ -41,19 +67,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Here we go again: Brewers advance to NLCS rematch with Dodgers",
-      "link": "https://www.mlb.com/news/brewers-win-nlds-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xxqmn4tppo1b92tj33ot",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-08T08:07:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Padres left wondering what could have been after NLDS exit: 'It stings'",
       "link": "https://www.mlb.com/news/padres-lose-2026-nlds-to-brewers",
       "summary": "",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T07:59:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Murphy's pregame seeds bear fruit in NLDS clincher",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T07:40:36+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Déja vú strikes thrice as Machado robbed of game-tying HR",
@@ -90,19 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-08T07:24:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "'It's a failure': Yankees' championship drought extended to 17 seasons",
-      "link": "https://www.mlb.com/news/yankees-lose-alds-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791426858/mlb/rkfvtyf2lmisj8cfu1v3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-08T07:13:00+00:00",
       "time_ago": "2h ago"
     }
   ]
