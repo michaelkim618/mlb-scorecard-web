@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-08T07:51:14.689036+00:00",
+  "updated_at": "2026-10-08T08:31:16.943925+00:00",
   "news": [
+    {
+      "title": "Here we go again: Brewers advance to NLCS rematch with Dodgers",
+      "link": "https://www.mlb.com/news/brewers-win-nlds-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xxqmn4tppo1b92tj33ot",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T08:07:00+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "Padres left wondering what could have been after NLDS exit: 'It stings'",
+      "link": "https://www.mlb.com/news/padres-lose-2026-nlds-to-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791436942/mlb/ebwu51imgrywbiji2itx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T07:59:00+00:00",
+      "time_ago": "32m ago"
+    },
     {
       "title": "Murphy's pregame seeds bear fruit in NLDS clincher",
       "link": "https://www.mlb.com/news/pat-murphy-helps-brewers-hitters-through-struggles-in-nlds",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T07:40:36+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "After being left out of Game 3 lineup, Chisholm says he wants to return to Yankees",
@@ -25,20 +51,20 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-08T07:27:00+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Déja vú strikes thrice as Machado robbed of game-tying HR",
       "link": "https://www.mlb.com/news/manny-machado-robbed-of-game-tying-home-run-in-nlds-game-4",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p08p8696mywwmqpaipdm",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ur9c30aoibeghb6rptjz",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Jessica Camerato",
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-08T07:24:00+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'It's a failure': Yankees' championship drought extended to 17 seasons",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T07:13:00+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Judge wants front office to go 'all in' -- with Boone remaining in charge",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T07:11:35+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yankees have new core developing, and future looks bright",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T07:07:50+00:00",
-      "time_ago": "43m ago"
-    },
-    {
-      "title": "Trio of starters provides latest example of Rays' postseason pitching prowess",
-      "link": "https://www.mlb.com/news/nick-martinez-ian-seymour-griffin-jax-rays-yankees-alds-game-3",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bmob4m9kzotoetabwcjk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-08T06:56:27+00:00",
-      "time_ago": "54m ago"
-    },
-    {
-      "title": "You can breathe now! Brewers, Padres wrap up historically close series",
-      "link": "https://www.mlb.com/news/brewers-padres-complete-historically-close-nlds-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791439546/mlb/cse5c50lzvvg9oikeduv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sarah Langs",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-08T06:43:53+00:00",
       "time_ago": "1h ago"
     }
   ]
