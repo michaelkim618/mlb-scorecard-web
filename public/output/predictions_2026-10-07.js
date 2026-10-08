@@ -1068,11 +1068,11 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 50.9,
-      "home": 49.1
+      "away": 51.5,
+      "home": 48.5
     },
     "expected_score": {
-      "away": 2.7,
+      "away": 2.8,
       "home": 1.9
     },
     "blend_detail": null,
@@ -1329,15 +1329,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 71.0,
+        "bp_score": 69.0,
         "bp_detail": {
-          "bullpen_era": 2.69,
-          "recent_era": 2.69,
+          "bullpen_era": 2.82,
+          "recent_era": 2.82,
           "recent_appearances": 0,
           "recent_ip": 0.0,
-          "team_era": 3.2,
-          "bp_ip": 427.7,
-          "bp_count": 8,
+          "team_era": 3.25,
+          "bp_ip": 446.7,
+          "bp_count": 10,
           "closer_era": 2.55,
           "closer_name": "Raisel Iglesias"
         },
@@ -1438,14 +1438,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.6,
-        "total": 59.4
+        "total": 58.9
       }
     },
     "scores": {
       "away_offense": 47.2,
       "away_defense": 60.0,
       "home_offense": 28.4,
-      "home_defense": 71.1
+      "home_defense": 70.1
     },
     "actual_score": {
       "away": 4,
@@ -1475,7 +1475,7 @@ window.PREDICTIONS_DATA = [
       "bat_gap": 18.8
     },
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 51.1% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 50.5% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -1819,11 +1819,11 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 48.2,
-      "home": 51.8
+      "away": 54.0,
+      "home": 46.0
     },
     "expected_score": {
-      "away": 1.7,
+      "away": 1.8,
       "home": 2.2
     },
     "blend_detail": null,
@@ -2102,15 +2102,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 74.3,
+        "bp_score": 63.900000000000006,
         "bp_detail": {
-          "bullpen_era": 2.55,
-          "recent_era": 2.55,
+          "bullpen_era": 3.2,
+          "recent_era": 3.2,
           "recent_appearances": 0,
           "recent_ip": 0.0,
-          "team_era": 2.91,
-          "bp_ip": 356.3,
-          "bp_count": 5,
+          "team_era": 3.16,
+          "bp_ip": 515.3,
+          "bp_count": 13,
           "closer_era": 2.47,
           "closer_name": "David Bednar"
         },
@@ -2211,14 +2211,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.6,
-        "total": 52.9
+        "total": 50.6
       }
     },
     "scores": {
       "away_offense": 27.9,
       "away_defense": 60.5,
       "home_offense": 33.7,
-      "home_defense": 62.1
+      "home_defense": 57.0
     },
     "actual_score": {
       "away": 4,
@@ -2232,8 +2232,8 @@ window.PREDICTIONS_DATA = [
       "any": false
     },
     "actual_winner": "Tampa Bay Rays",
-    "model_winner": "New York Yankees",
-    "model_correct": false,
+    "model_winner": "Tampa Bay Rays",
+    "model_correct": true,
     "notes": "Tampa Bay Rays IL: Edwin Uceta, Gavin Lux, Jacob Melton, Jonathan Heasley, Ryan Pepiot / New York Yankees IL: Fernando Cruz, Kervin Castro",
     "kalshi_prob": null,
     "edge": null,
@@ -2243,7 +2243,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 2.4pt (≤5.0pt) / 최고 확률 51.8% (≤62.0%)",
+    "low_confidence_reason": "SP 점수 차이 2.4pt (≤5.0pt) / 최고 확률 50.0% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -2587,8 +2587,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 45.7,
-      "home": 54.3
+      "away": 46.2,
+      "home": 53.8
     },
     "expected_score": {
       "away": 2.2,
@@ -2870,15 +2870,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 75.0,
+        "bp_score": 73.2,
         "bp_detail": {
-          "bullpen_era": 2.36,
-          "recent_era": 2.36,
+          "bullpen_era": 2.82,
+          "recent_era": 2.82,
           "recent_appearances": 0,
           "recent_ip": 0.0,
-          "team_era": 3.17,
-          "bp_ip": 361.7,
-          "bp_count": 6,
+          "team_era": 3.63,
+          "bp_ip": 469.0,
+          "bp_count": 10,
           "closer_era": 1.67,
           "closer_name": "Mason Miller"
         },
@@ -2979,14 +2979,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 60.2,
-        "total": 60.9
+        "total": 60.4
       }
     },
     "scores": {
       "away_offense": 35.3,
       "away_defense": 59.1,
       "home_offense": 50.2,
-      "home_defense": 60.1
+      "home_defense": 59.2
     },
     "actual_score": {
       "away": 3,
@@ -3002,7 +3002,7 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "Milwaukee Brewers",
     "model_winner": "San Diego Padres",
     "model_correct": false,
-    "notes": "Milwaukee Brewers IL: Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Quinn Priester / San Diego Padres IL: Bryan Hoeing, Casey Mize, Lucas Giolito, Luis Rengifo, Ramón Laureano 외 다수",
+    "notes": "Milwaukee Brewers IL: Angel Zerpa, Brandon Woodruff, Brian Fitzpatrick, Quinn Priester / San Diego Padres IL: Bryan Hoeing, Lucas Giolito, Luis Rengifo, Ramón Laureano, Rodolfo Durán",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
@@ -3011,7 +3011,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 4.8pt (≤5.0pt) / 최고 확률 54.3% (≤62.0%)",
+    "low_confidence_reason": "SP 점수 차이 4.8pt (≤5.0pt) / 최고 확률 53.8% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
