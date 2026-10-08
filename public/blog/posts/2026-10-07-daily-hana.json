@@ -1,11 +1,11 @@
 {
-  "title": "Oct 7 Results + Oct 8 Preview: When the Favorites Don't Show Up",
-  "summary": "A tough 1-3 day on Oct 7, but here's what we're watching for tomorrow's slate.",
+  "title": "Oct 7 Results + Oct 8 Preview: Sometimes the Diamond Doesn't Shine",
+  "summary": "Tough 1-3 day on Oct 7, but we're back with the White Sox pick for Oct 8",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Here's the Thing About October Baseball\n\nSometimes you walk into a day thinking the favorites have it locked, and then baseball reminds you why we love this game—nothing's guaranteed. October 7 was one of those humbling days where we went 1-3, hitting on just 25% of our picks. The Dodgers showed up for us, but the Sox, Yankees, and Padres? Not so much."
+      "value": "## Here's the Thing About Tough Days\n\nLook, I'm not going to sugarcoat it—October 7 was rough. We went 1-3, hitting on just 25% of our picks. The kind of day that makes you want to double-check the model, grab a coffee, and remember that baseball has a way of humbling even the smartest predictions. But that's also what makes this beautiful game so captivating, right?"
     },
     {
       "type": "stat_row",
@@ -19,58 +19,26 @@
           "value": "25.0%"
         },
         {
-          "label": "Best Pick",
-          "value": "Dodgers 51%"
+          "label": "Hits",
+          "value": "1"
+        },
+        {
+          "label": "Misses",
+          "value": "3"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## How the Day Unfolded\n\nLet's be honest—this one stung a little. We had four picks with relatively modest confidence levels, all hovering around 50-54%. The Dodgers pulled through at 51%, giving us our lone win. But the White Sox, Yankees, and Padres all fell short despite being our model's favorites. Days like this remind us that tight margins can swing either way, and today they swung against us."
-    },
-    {
-      "type": "table",
-      "title": "October 7 Full Results",
-      "headers": [
-        "Matchup",
-        "Our Pick",
-        "Confidence",
-        "Result"
-      ],
-      "rows": [
-        [
-          "Guardians @ White Sox",
-          "White Sox",
-          "50%",
-          "✗"
-        ],
-        [
-          "Dodgers @ Braves",
-          "Dodgers",
-          "51%",
-          "✓"
-        ],
-        [
-          "Rays @ Yankees",
-          "Yankees",
-          "52%",
-          "✗"
-        ],
-        [
-          "Brewers @ Padres",
-          "Padres",
-          "54%",
-          "✗"
-        ]
-      ]
+      "value": "## The One Bright Spot\n\nOur Dodgers pick came through with a 51% confidence call that hit perfectly. Sometimes that's how it goes—you trust the numbers, even when they're close, and they reward you. The Dodgers over the Braves was our lone victory in a sea of misses."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Oct 7 Pick Confidence vs Results",
+      "title": "Oct 7 Prediction Results",
       "data": [
         {
-          "name": "White Sox",
+          "name": "Sox",
           "probability": 50,
           "result": 0
         },
@@ -105,23 +73,63 @@
       ]
     },
     {
-      "type": "text",
-      "value": "## The Silver Lining\n\nHere's what I keep coming back to: our confidence levels were honest. None of these were slam-dunks, and the model knew it. When you're picking games in the 50-54% range, you're essentially saying these could go either way. That's exactly what happened—just not in our favor. The key is learning and adjusting, not overreacting to one tough day."
+      "type": "table",
+      "title": "Full Oct 7 Results Breakdown",
+      "headers": [
+        "Game",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Guardians @ White Sox",
+          "White Sox",
+          "50%",
+          "✗ Miss"
+        ],
+        [
+          "Dodgers @ Braves",
+          "Dodgers",
+          "51%",
+          "✓ Hit"
+        ],
+        [
+          "Rays @ Yankees",
+          "Yankees",
+          "52%",
+          "✗ Miss"
+        ],
+        [
+          "Brewers @ Padres",
+          "Padres",
+          "54%",
+          "✗ Miss"
+        ]
+      ]
     },
     {
       "type": "text",
-      "value": "## Looking Ahead to October 8\n\nTomorrow brings us a familiar matchup: Guardians at White Sox, round two. After missing on the White Sox yesterday at 50%, we're back on them again—same confidence level, new day. Parker Messick takes the mound for Cleveland against Chicago's Hagen Smith.\n\nThe model sees this as another coin-flip scenario, but there's something about the White Sox at home that keeps drawing our attention. Will tomorrow be redemption day, or will the Guardians prove us wrong twice in a row?"
+      "value": "## What Went Wrong?\n\nHere's what stings: even our highest confidence pick of the day—the Padres at 54%—didn't come through. The Yankees, sitting at 52%, stumbled against the Rays. And the White Sox, our coin-flip 50% call against the Guardians, went the wrong way. Three misses that all felt makeable, which is exactly the kind of day that tests your faith in the process.\n\nBut that's the thing about data-driven picks—you don't abandon ship after one stormy day. You trust the long game."
+    },
+    {
+      "type": "text",
+      "value": "## Looking Ahead to October 8\n\nSo here we are again, dusting ourselves off and turning our attention to October 8. And wouldn't you know it—we're running it back with the White Sox. Same matchup, same venue, same confidence level at 50%."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - October 8",
+      "title": "⭐ Tomorrow's Top Pick - Oct 8",
       "value": "Chicago White Sox",
-      "sub": "50% win probability vs Guardians · Hagen Smith on the mound"
+      "sub": "vs Cleveland Guardians • 50% win probability • Hagen Smith on the mound"
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nA 1-3 day hurts, no question. But this is the marathon of baseball season, not a sprint. We trust the process, learn from the misses, and show up tomorrow ready to find the edge again. The White Sox get another chance to prove themselves, and so do we.\n\nSee you tomorrow for what we hope is a bounce-back day. Because here's the thing about baseball—there's always another game."
+      "value": "## The Pitching Matchup to Watch\n\nParker Messick takes the mound for Cleveland while Hagen Smith gets the ball for Chicago. It's another tight one—a true toss-up according to our model. The White Sox are at home, and sometimes that home crowd energy makes all the difference in these October battles.\n\nIs it bold to go back to the well after missing this exact pick yesterday? Maybe. But the beauty of the model is that it doesn't hold grudges or second-guess itself based on emotions. It just crunches the numbers and tells us what it sees."
+    },
+    {
+      "type": "text",
+      "value": "## The Bottom Line\n\nYesterday hurt, there's no way around it. A 1-3 record isn't what we wanted to write about today. But October baseball is unpredictable, passionate, and filled with moments that remind us why we love this game.\n\nWe'll be back tomorrow with the White Sox pick, trusting the process and hoping the diamond shines a little brighter for us. Because that's the thing about baseball—every day is a new game, and redemption is always just one pitch away."
     }
   ],
   "slug": "2026-10-07-daily-hana",
