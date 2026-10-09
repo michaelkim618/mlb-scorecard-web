@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-09T04:02:50.636120+00:00",
+  "updated_at": "2026-10-09T05:02:56.099279+00:00",
   "news": [
+    {
+      "title": "Guards ride 6-run 6th to set up winner-take-all ALDS Game 5",
+      "link": "https://www.mlb.com/news/guardians-win-alds-game-4-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/akxwgkkxf7zrhqdakqar",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-09T04:15:00+00:00",
+      "time_ago": "47m ago"
+    },
+    {
+      "title": "White Sox come up short as ALDS shifts to winner-take-all Game 5",
+      "link": "https://www.mlb.com/news/white-sox-lose-alds-game-4-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aklrltq90uaml4s6lh0h",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-09T04:00:28+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Every Game 5 in Division Series history",
+      "link": "https://www.mlb.com/news/division-series-game-5-history-c258085304",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/akxwgkkxf7zrhqdakqar",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-09T03:55:00+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "J-Ram AGAIN! October heroics continue with clutch 2-run blast",
       "link": "https://www.mlb.com/news/jose-ramirez-two-run-home-run-alds-game-4-2026",
@@ -12,20 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T03:54:00+00:00",
-      "time_ago": "8m ago"
-    },
-    {
-      "title": "Guards ride 6-run 6th to set up winner-take-all ALDS Game 5",
-      "link": "https://www.mlb.com/news/guardians-win-alds-game-4-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/retmzhihzg5ectqlustu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-09T03:52:25+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Game times, broadcasts announced for League Championship Series",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T03:48:00+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'Maniac' Baker is on the most dominant run a Rays closer has ever had",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T01:11:32+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "'October Kiké' remains a constant in Dodgers' chase for three-peat",
@@ -64,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-08T23:22:22+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Meet the secret weapon behind Gasser's dominant run",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T22:56:30+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Dodgers-Brewers NL Championship Series Game 1 FAQ (Sun., 8 p.m. ET, FOX/FOX One)",
-      "link": "https://www.mlb.com/news/dodgers-brewers-nl-championship-series-game-1-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791499349/mlb/mu54ut4xgfg4txajz3ei",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen and Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-08T22:45:00+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "What's next for Morejon, King and France after Padres' NLDS exit?",
-      "link": "https://www.mlb.com/news/adrian-morejon-michael-king-ty-france-padres-key-free-agents",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p2rpwvhvzaa5ncvitzmp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-08T22:38:10+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     }
   ]
 }
