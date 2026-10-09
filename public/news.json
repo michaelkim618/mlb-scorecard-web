@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-09T17:58:55.371570+00:00",
+  "updated_at": "2026-10-09T18:42:58.600076+00:00",
   "news": [
+    {
+      "title": "South Siders small victories from Game 4 could pay off big in Game 5",
+      "link": "https://www.mlb.com/news/white-sox-pitching-plans-2026-alds-game-5",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rlynnlj7tep4b80wo2tc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rhett Bollinger",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-09T17:55:00+00:00",
+      "time_ago": "47m ago"
+    },
     {
       "title": "White Sox-Guardians ALDS Game 5 FAQ (Sat., 8 ET, TBS/HBO Max)",
       "link": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-5-starting-lineups-and-pitching-matchup",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T17:44:00+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Recalling Chicago icon Mike Ditka’s legendary 7th-inning stretch rendition",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T16:15:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Absolute fire: A Q&A with Brewers ace Jacob Misiorowski",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T16:11:32+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "The Guardians used their Game 5 starter to close Game 4 -- now what?",
@@ -64,20 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T15:24:12+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Make your picks for 2026 All-MLB Team - VOTING ends today at 2 ET!",
-      "link": "https://www.mlb.com/news/all-mlb-team-nominees-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ljpj9p2g39d2s14pabao",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-09T15:06:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Bo Jackson of the Ivy League? How Venable rebounded from hoops to baseball",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T15:01:46+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Will NPB's 1st Triple Crown winner since Murakami jump to MLB?",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T14:10:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
