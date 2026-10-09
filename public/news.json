@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-09T23:21:20.007833+00:00",
+  "updated_at": "2026-10-09T23:56:17.095084+00:00",
   "news": [
+    {
+      "title": "Dodgers tab Skubal for Game 1 of NLCS, then Yamamoto in Game 2",
+      "link": "https://www.mlb.com/news/how-dodgers-nlcs-rotation-might-line-up-vs-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j4qlejy3n7pwgqelr86b",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-09T23:46:00+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "2 elite arms lined up for duel in NLCS Game 1",
+      "link": "https://www.mlb.com/news/nlcs-game-1-lines-up-for-jacob-misiorowski-tarik-skubal-showdown",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dd2rakkvofuajbnlxids",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-09T23:30:00+00:00",
+      "time_ago": "26m ago"
+    },
     {
       "title": "World Baseball Classic experience paying off for Caminero, Aranda in October",
       "link": "https://www.mlb.com/news/junior-caminero-jonathan-aranda-thrive-in-postseason-after-world-baseball-classic",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T22:49:13+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "What if MLB played less baseball -- and got more out of it?",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T22:28:39+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Reddit AMA: Ohtani's health, final NLCS roster decisions and more",
@@ -38,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-09T22:21:56+00:00",
-      "time_ago": "59m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Williams gets start for Guards in Game 5 -- two days after closing out Game 4",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T21:55:57+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "White Sox-Guardians ALDS Game 5 FAQ (Sat., 8 ET, TBS/HBO Max)",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T21:21:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Storylines to follow as White Sox, Guards play winner-take-all Game 5",
-      "link": "https://www.mlb.com/news/2026-alds-game-5-storylines-what-to-watch-for",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/d4gqamvbmjktx7qot2rp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-09T21:09:31+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "5 reasons Dodgers-Brewers NLCS is different this time around",
-      "link": "https://www.mlb.com/news/why-dodgers-brewers-nlcs-could-be-different-in-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rbbuvzbseecruomcefym",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-09T20:52:00+00:00",
       "time_ago": "2h ago"
     }
   ]
