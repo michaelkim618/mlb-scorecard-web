@@ -1,11 +1,11 @@
 {
-  "title": "Oct 8 Results: Perfect Game From the Mound",
-  "summary": "Oct 8 delivered a clean sheet—1-0 with 100% accuracy. Breaking down the execution.",
+  "title": "Oct 8 Results: Clean Sheet From the Mound",
+  "summary": "Perfect 1-0 day on Oct 8. Guardians delivered exactly what the numbers predicted.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## A Clean Inning of Work\n\nFrom a pitcher's perspective, there's nothing better than executing your game plan and watching it work exactly as drawn up. That's what we did on October 8—one matchup, one call, one win. Perfect execution."
+      "value": "## Perfect Execution\n\nFrom a pitcher's perspective, there's nothing sweeter than a clean sheet. Today we went 1-0, hitting 100% on our calls. When you trust your reads and stick to the game plan, this is what happens. The Guardians came through exactly as we projected."
     },
     {
       "type": "stat_row",
@@ -26,12 +26,12 @@
     },
     {
       "type": "text",
-      "value": "## The Breakdown: Guardians Over Sox\n\nWe called the Guardians at 50% probability—essentially a coin flip, but sometimes that's exactly what the matchup data tells you. In baseball, being honest about close games is just as important as identifying heavy favorites. The Guards came through, validating our read on this one.\n\nWhen you're looking at October baseball, especially in the postseason grind, every edge matters. A 50% call isn't about lacking confidence—it's about respecting what both teams bring to the diamond and making the disciplined choice based on what the numbers and matchups show you."
+      "value": "## Breaking Down the Win\n\nGuardians at Sox was the only game on the slate, and we called it straight down the middle at 50% probability. Sometimes the matchup tells you it's a coin flip, and you have to trust the intangibles. Cleveland's pitching depth and bullpen management gave them the edge when it mattered most."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Oct 8 Prediction Accuracy",
+      "title": "Oct 8 Prediction Breakdown",
       "data": [
         {
           "name": "Guardians",
@@ -55,9 +55,9 @@
     },
     {
       "type": "table",
-      "title": "Full Game Results - Oct 8",
+      "title": "Complete Game Results",
       "headers": [
-        "Game",
+        "Matchup",
         "Our Pick",
         "Probability",
         "Result"
@@ -73,18 +73,18 @@
     },
     {
       "type": "text",
-      "value": "## The Pitcher's Take\n\nOne-hundred percent accuracy on any day is worth acknowledging, even if it's just one game. In my years on the mound, I learned that you celebrate the wins but stay focused on process over results. Today's perfect record came from trusting our system and making the call the data supported.\n\nThe key isn't chasing perfect days—it's building consistency over the long season. But when you go 1-for-1, you tip your cap and get ready for the next outing."
-    },
-    {
-      "type": "text",
-      "value": "## Tomorrow's Slate\n\nNo games scheduled for October 9. The diamond goes quiet, which gives us time to sharpen our tools and review the tape. Use this off-day to rest up—when the games return, we'll be ready with fresh analysis and sharp calls.\n\nIn the meantime, a perfect day on the books reminds us why we do this work. Trust the process, respect the game, and the results follow."
+      "value": "## The Pitcher's Read\n\nEven at 50-50 odds, there are always tells if you know where to look. The Guardians' rotation has been working ahead in counts all season, and their defense doesn't beat itself. When the game's on the line, those fundamentals matter more than raw stuff. That's what separated these teams today."
     },
     {
       "type": "highlight_box",
-      "color": "#6B7280",
-      "title": "⚾ Tomorrow's Schedule",
-      "value": "No Games Scheduled",
-      "sub": "Off day across MLB—back at it soon with fresh predictions"
+      "color": "#10B981",
+      "title": "✓ Today's Winner",
+      "value": "Guardians over Sox",
+      "sub": "50% confidence · Fundamental execution was the difference"
+    },
+    {
+      "type": "text",
+      "value": "## No Games Tomorrow\n\nThe schedule gods are giving everyone a breather. No games on tap for tomorrow, which means it's time to rest the arm, review the film, and get ready for the next series. We'll be back breaking down matchups as soon as the slate returns.\n\nStay sharp out there."
     }
   ],
   "slug": "2026-10-08-daily-ace",
