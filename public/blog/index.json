@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-10-08-daily-ace",
+      "title": "Oct 8 Results: Perfect Execution on the Mound",
+      "author": "Ace",
+      "author_emoji": "🎙️",
+      "author_color": "#D97706",
+      "author_role": "Former Pitcher",
+      "date": "2026-10-08",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#D97706",
+      "read_time": "3 min",
+      "summary": "Oct 8 results: Clean sheet with 1-0 record and 100% accuracy from the rotation"
+    },
+    {
       "slug": "2026-10-07-daily-hana",
       "title": "Oct 7 Results + Oct 8 Preview: When the Model Keeps the Faith",
       "author": "Hana",
