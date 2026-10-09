@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T09:23:46.873246+00:00",
+  "updated_at": "2026-10-09T10:04:28.306064+00:00",
   "news": [
     {
       "title": "Bailey comes up big twice -- after starting game on bench",
@@ -77,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T06:28:04+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "White Sox come up short at home as ALDS shifts to decisive Game 5",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T05:31:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Every Game 5 in Division Series history",
@@ -103,7 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-09T03:55:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     }
   ]
 }
