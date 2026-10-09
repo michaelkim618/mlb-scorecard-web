@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-09T01:18:00.811382+00:00",
+  "updated_at": "2026-10-09T01:33:03.639061+00:00",
   "news": [
+    {
+      "title": "'Maniac' Baker is on the most dominant run a Rays closer has ever had",
+      "link": "https://www.mlb.com/news/bryan-baker-has-been-dominant-as-rays-closer",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791507328/mlb/e2s7ftr2ue9bg1qzqxal",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-09T01:11:32+00:00",
+      "time_ago": "21m ago"
+    },
     {
       "title": "Game times, broadcasts announced for League Championship Series",
       "link": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
@@ -28,6 +41,32 @@
       "time_ago": "1h ago"
     },
     {
+      "title": "'October Kiké' remains a constant in Dodgers' chase for three-peat",
+      "link": "https://www.mlb.com/news/kike-hernandez-continues-postseason-success-with-dodgers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lryodiodimt3nxt4mo87",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-08T23:22:22+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Meet the secret weapon behind Gasser's dominant run",
+      "link": "https://www.mlb.com/news/robert-gasser-key-for-brewers-in-nlcs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vmee9roitwcu7p1zr5f6",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T22:56:30+00:00",
+      "time_ago": "2h ago"
+    },
+    {
       "title": "Dodgers-Brewers NL Championship Series Game 1 FAQ (Sun., 8 p.m. ET, FOX/FOX One)",
       "link": "https://www.mlb.com/news/dodgers-brewers-nl-championship-series-game-1-starting-lineups-and-pitching-matchup",
       "summary": "",
@@ -38,6 +77,19 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T22:45:00+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "What's next for Morejon, King and France after Padres' NLDS exit?",
+      "link": "https://www.mlb.com/news/adrian-morejon-michael-king-ty-france-padres-key-free-agents",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p2rpwvhvzaa5ncvitzmp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-08T22:38:10+00:00",
       "time_ago": "2h ago"
     },
     {
@@ -52,58 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T21:55:26+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "All of the 2026-2027 free agents, position by position",
-      "link": "https://www.mlb.com/news/mlb-free-agents-2026-2027",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788929745/mlb/w7xpyzkeicgcl734lkkt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-08T20:05:16+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Late-night host Jimmy Fallon releasing 2 baseball children's books",
-      "link": "https://www.mlb.com/news/jimmy-fallon-writes-baseball-children-s-books",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uvwhzwrszwsefeyjnmls",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-08T19:26:32+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "MLB proposes 154-game schedule, new playoff features",
-      "link": "https://www.mlb.com/news/mlb-mlbpa-proposal-154-game-schedule-new-playoff-structure",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/kh8jhi3byo6gui9tapv7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-08T17:47:50+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "2 elite arms lined up for duel in NLCS Game 1",
-      "link": "https://www.mlb.com/news/nlcs-game-1-lines-up-for-jacob-misiorowski-tarik-skubal-showdown",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nkizrcrhugpntasekhhh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-08T17:29:04+00:00",
-      "time_ago": "7h ago"
     }
   ]
 }
