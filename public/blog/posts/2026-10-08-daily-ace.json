@@ -1,11 +1,11 @@
 {
   "title": "Oct 8 Results: Perfect Command on the Mound",
-  "summary": "Oct 8 delivered a clean sheet—1-0 with 100% accuracy. Breaking down the winning pick.",
+  "summary": "Oct 8 delivered a clean sheet - 1-0 with 100% accuracy. Breaking down the execution.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Clean Inning, Clean Results\n\nFrom a pitcher's perspective, there's nothing better than retiring the side in order. That's exactly what we did on October 8th—one pick, one win, no runners left on base. When you're working with a 50% probability call and it hits, you take it. Let's break down how we threw strikes all day."
+      "value": "## Dealing From the Stretch\n\nAs a pitcher, you live for days like this. One game on the slate, one pick to make, and you execute perfectly. That's what October 8th was all about - surgical precision when it mattered most. Let's break down how we painted the corners."
     },
     {
       "type": "stat_row",
@@ -26,12 +26,12 @@
     },
     {
       "type": "text",
-      "value": "## The Winning Pick: Guardians Over Sox\n\nThis was a coin-flip situation at 50% win probability, but sometimes in baseball, you trust your gut and the fundamentals. The Guardians came through, proving that even in tight matchups, the right read can deliver results. From the mound, I've learned that 50-50 games often come down to execution—and Cleveland executed."
+      "value": "## The Complete Game Performance\n\nWhen you only get one pitch to throw, you better make it count. The Guardians at Sox matchup was our lone call of the day, and we rode with Cleveland at 50% confidence. Not the highest probability we've ever called, but sometimes you trust your gut and the fundamentals in front of you."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Oct 8 Prediction Performance",
+      "title": "Today's Prediction Results",
       "data": [
         {
           "name": "Guardians",
@@ -55,11 +55,11 @@
     },
     {
       "type": "table",
-      "title": "Complete Oct 8 Results",
+      "title": "Oct 8 Full Results Breakdown",
       "headers": [
         "Matchup",
         "Our Pick",
-        "Win Prob",
+        "Confidence",
         "Result"
       ],
       "rows": [
@@ -73,18 +73,29 @@
     },
     {
       "type": "text",
-      "value": "## What Worked Today\n\nEven money picks are always tricky. You're essentially reading the subtle advantages—bullpen depth, recent form, home-road splits. The Guardians had just enough edge to justify the call, and they delivered. That's the kind of execution that wins championships."
+      "value": "## Pitcher's Analysis: The Guardians Call\n\nA 50% confidence pick might raise eyebrows, but here's what I saw from the mound perspective: this was a coin-flip game on paper, but the fundamentals leaned Cleveland's way. In October baseball, sometimes it's about which team has better control of the strike zone, both literally and figuratively.\n\nThe Guardians delivered, and we notched the W. That's how you finish a day - with zeros in the loss column."
     },
     {
       "type": "highlight_box",
       "color": "#16A34A",
-      "title": "✓ Today's Performance",
-      "value": "1-0 Record",
-      "sub": "100% accuracy · Perfect execution when it mattered"
+      "title": "✓ Today's Winning Pick",
+      "value": "Cleveland Guardians",
+      "sub": "50% confidence · Perfect execution in tight matchup"
     },
     {
       "type": "text",
-      "value": "## No Games Tomorrow—Time to Rest\n\nJust like a pitcher needs his rest days, the schedule gives us a break tomorrow. No games on the card means no picks to make. Use this time to review, reset, and get ready for the next series. In my playing days, I'd use off-days to study film and work on mechanics. Same principle applies here—analyze what worked, stay sharp, and come back stronger.\n\n100% accuracy is a clean slate. Now we build on it."
+      "value": "## Tomorrow's Forecast: Rain Delay\n\nNo games scheduled for October 9th. Consider it a bullpen day - time to review the tape, study the matchups, and get ready for the next series. In baseball, rest days are just as important as game days. Use them wisely.\n\nWhen the schedule picks back up, we'll be back on the bump with fresh analysis and sharper command. That's how you sustain success over a long season."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#64748B",
+      "title": "🔄 Tomorrow's Status",
+      "value": "No Games Scheduled",
+      "sub": "Off day · Back in action soon with full analysis"
+    },
+    {
+      "type": "text",
+      "value": "## The Bottom Line\n\n100% accuracy isn't just a number - it's execution under pressure. One game, one call, one win. That's the kind of efficiency that wins championships. We'll take the clean sheet and carry that momentum forward.\n\nStay locked in. The next pitch is coming.\n\n**— Ace**"
     }
   ],
   "slug": "2026-10-08-daily-ace",
