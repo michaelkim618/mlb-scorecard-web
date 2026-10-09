@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-10-08",
-    "status": "Preview",
+    "status": "Final",
     "game_time": "5:00 PM PT",
     "game_number": 1,
     "doubleheader": false,
@@ -105,17 +105,6 @@
     },
     "away_pitcher_gamelog": [
       {
-        "date": "2026-08-13",
-        "opp": "@ DET",
-        "decision": "L",
-        "ip": "5.2",
-        "er": 2,
-        "h": 3,
-        "bb": 2,
-        "so": 6,
-        "era": 3.18
-      },
-      {
         "date": "2026-08-19",
         "opp": "vs SF",
         "decision": "L",
@@ -213,6 +202,17 @@
         "bb": 2,
         "so": 6,
         "era": 4.15
+      },
+      {
+        "date": "2026-10-08",
+        "opp": "@ CWS",
+        "decision": null,
+        "ip": "2.1",
+        "er": 2,
+        "h": 2,
+        "bb": 4,
+        "so": 5,
+        "era": 7.71
       }
     ],
     "home_pitcher": "Hagen Smith",
@@ -223,17 +223,6 @@
       "era": "1.29"
     },
     "home_pitcher_gamelog": [
-      {
-        "date": "2026-09-12",
-        "opp": "@ STL",
-        "decision": null,
-        "ip": "2.0",
-        "er": 0,
-        "h": 0,
-        "bb": 0,
-        "so": 3,
-        "era": 0.0
-      },
       {
         "date": "2026-09-14",
         "opp": "@ CLE",
@@ -332,6 +321,17 @@
         "bb": 2,
         "so": 1,
         "era": 13.5
+      },
+      {
+        "date": "2026-10-08",
+        "opp": "vs CLE",
+        "decision": null,
+        "ip": "0.2",
+        "er": 0,
+        "h": 0,
+        "bb": 3,
+        "so": 0,
+        "era": 0.0
       }
     ],
     "pred_model": "scorecard",
@@ -340,14 +340,14 @@
       "home": 50.0
     },
     "expected_score": {
-      "away": 2.8,
+      "away": 3.0,
       "home": 2.9
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "L",
       "home_handedness": "L",
       "bullpen_game": false,
@@ -359,21 +359,21 @@
         "sit": 0.15
       },
       "away": {
-        "sp_score": 68.8,
+        "sp_score": 59.6,
         "sp_detail": {
-          "era": 2.67,
-          "whip": 1.15,
-          "k9": 10.5,
-          "avg_ip": 5.4,
+          "era": 2.84,
+          "whip": 1.24,
+          "k9": 11.0,
+          "avg_ip": 5.1,
           "qs_rate": 50.0,
-          "last3_era": 3.04,
-          "last_start_era": 4.15,
+          "last3_era": 3.92,
+          "last_start_era": 7.71,
           "last2_eras": [
-            3.0,
-            4.15
+            4.15,
+            7.71
           ],
-          "recent_avg_era": 4.15,
-          "recent_bad_start": false,
+          "recent_avg_era": 7.71,
+          "recent_bad_start": true,
           "trend": "stable",
           "n_games": 10,
           "sample_confidence": 1.0,
@@ -445,15 +445,15 @@
           "closer_era": 1.95,
           "closer_name": "Cade Smith"
         },
-        "bat_score": 40.8,
+        "bat_score": 44.4,
         "bat_detail": {
-          "recent_avg": 0.263,
+          "recent_avg": 0.262,
           "runs_per_g": 5.3,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
-          "season_ops": 0.745,
-          "season_slg": null,
-          "season_avg": 0.263,
+          "season_ops": 0.755,
+          "season_slg": 0.428,
+          "season_avg": 0.262,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
@@ -466,7 +466,7 @@
             "Nathaniel Lowe(0.625)",
             "Angel Martínez(0.887)",
             "Travis Bazzana(0.657)",
-            "Patrick Bailey(0.609)",
+            "Austin Hedges(0.698)",
             "Brayan Rocchio(0.886)"
           ],
           "lineup_players": [
@@ -513,10 +513,10 @@
               "avg": 0.167
             },
             {
-              "id": 672275,
-              "name": "Patrick Bailey",
-              "ops": 0.609,
-              "avg": 0.188
+              "id": 595978,
+              "name": "Austin Hedges",
+              "ops": 0.698,
+              "avg": 0.172
             },
             {
               "id": 677587,
@@ -542,24 +542,24 @@
           }
         },
         "sit_score": 57.9,
-        "total": 63.7
+        "total": 62.6
       },
       "home": {
         "sp_score": 24.0,
         "sp_detail": {
-          "era": 2.2,
-          "whip": 1.1,
-          "k9": 11.6,
-          "avg_ip": 1.6,
+          "era": 2.4,
+          "whip": 1.4,
+          "k9": 10.8,
+          "avg_ip": 1.5,
           "qs_rate": 0.0,
-          "last3_era": 2.0,
-          "last_start_era": 13.5,
+          "last3_era": 1.17,
+          "last_start_era": 0.0,
           "last2_eras": [
-            0.0,
-            13.5
+            13.5,
+            0.0
           ],
-          "recent_avg_era": 13.5,
-          "recent_bad_start": true,
+          "recent_avg_era": 0.0,
+          "recent_bad_start": false,
           "trend": "cold",
           "n_games": 10,
           "sample_confidence": 1.0,
@@ -608,36 +608,42 @@
           "closer_era": 2.25,
           "closer_name": "Grant Taylor"
         },
-        "bat_score": 47.2,
+        "bat_score": 45.4,
         "bat_detail": {
-          "recent_avg": 0.263,
+          "recent_avg": 0.264,
           "runs_per_g": 6.5,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
-          "season_ops": 0.762,
-          "season_slg": null,
-          "season_avg": 0.263,
+          "season_ops": 0.764,
+          "season_slg": 0.379,
+          "season_avg": 0.264,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
-            "Sam Antonacci(0.803)",
+            "Chase Meidroth(0.939)",
+            "Randal Grichuk(0.899)",
             "Miguel Vargas(0.876)",
             "Munetaka Murakami(0.929)",
+            "Tommy Pham(0.524)",
+            "Brenton Doyle(0.787)",
             "Kyle Teel(0.704)",
-            "Chase Meidroth(0.939)",
-            "Tristan Peters(0.493)",
             "Braden Montgomery(0.740)",
-            "Randal Grichuk(0.899)",
             "Colson Montgomery(0.475)"
           ],
           "lineup_players": [
             {
-              "id": 803011,
-              "name": "Sam Antonacci",
-              "ops": 0.803,
-              "avg": 0.382
+              "id": 805367,
+              "name": "Chase Meidroth",
+              "ops": 0.939,
+              "avg": 0.405
+            },
+            {
+              "id": 545341,
+              "name": "Randal Grichuk",
+              "ops": 0.899,
+              "avg": 0.281
             },
             {
               "id": 678246,
@@ -652,34 +658,28 @@
               "avg": 0.263
             },
             {
+              "id": 502054,
+              "name": "Tommy Pham",
+              "ops": 0.524,
+              "avg": 0.158
+            },
+            {
+              "id": 686668,
+              "name": "Brenton Doyle",
+              "ops": 0.787,
+              "avg": 0.312
+            },
+            {
               "id": 691019,
               "name": "Kyle Teel",
               "ops": 0.704,
               "avg": 0.233
             },
             {
-              "id": 805367,
-              "name": "Chase Meidroth",
-              "ops": 0.939,
-              "avg": 0.405
-            },
-            {
-              "id": 671976,
-              "name": "Tristan Peters",
-              "ops": 0.493,
-              "avg": 0.087
-            },
-            {
               "id": 695731,
               "name": "Braden Montgomery",
               "ops": 0.74,
               "avg": 0.364
-            },
-            {
-              "id": 545341,
-              "name": "Randal Grichuk",
-              "ops": 0.899,
-              "avg": 0.281
             },
             {
               "id": 695657,
@@ -705,18 +705,18 @@
           }
         },
         "sit_score": 58.3,
-        "total": 57.0
+        "total": 56.7
       }
     },
     "scores": {
-      "away_offense": 40.8,
-      "away_defense": 70.8,
-      "home_offense": 47.2,
+      "away_offense": 44.4,
+      "away_defense": 66.2,
+      "home_offense": 45.4,
       "home_defense": 49.5
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 9,
+      "home": 5
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -725,13 +725,13 @@
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Cleveland Guardians",
     "model_winner": "Cleveland Guardians",
-    "model_correct": null,
-    "notes": "Chicago White Sox IL: Brooks Baldwin, Jordan Leasure, Ky Bush, Luis Castillo, Mike Vasil 외 다수 [모델버그 수정: 50/50 동률시 홈팀 자동선택 오류 → raw 스코어카드(CLE 63.7 vs CWS 57.0) 기준 CLE로 정정]",
-    "kalshi_prob": 48.0,
-    "edge": 2.0,
-    "value_bet": "➖ 시장과 유사",
+    "model_correct": true,
+    "notes": "Chicago White Sox IL: Brooks Baldwin, Jordan Leasure, Ky Bush, Luis Castillo, Mike Vasil 외 다수",
+    "kalshi_prob": null,
+    "edge": null,
+    "value_bet": "마켓 없음",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,

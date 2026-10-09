@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-09T06:23:41.392213+00:00",
+  "updated_at": "2026-10-09T07:15:45.681772+00:00",
   "news": [
+    {
+      "title": "White Sox-Guardians ALDS Game 5 FAQ (Sat., 8 ET, TBS/HBO Max)",
+      "link": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-5-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cuc2vx9rnayginmoyajl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin, Tim Stebbins and Anthony Castrovince",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-09T07:09:29+00:00",
+      "time_ago": "6m ago"
+    },
+    {
+      "title": "J-Ram rewriting his October narrative, one big hit at a time",
+      "link": "https://www.mlb.com/news/jose-ramirez-two-run-home-run-alds-game-4-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fuqd5ynbzguhprng9jxr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Martín Gallegos and Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-09T07:06:00+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Bailey comes up big twice -- after starting game on bench",
+      "link": "https://www.mlb.com/news/patrick-bailey-homers-drives-in-2-off-bench-in-2026-alds-game-4",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mfxt2l2mut4vect8zy1q",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jackson Stone",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-09T06:49:00+00:00",
+      "time_ago": "26m ago"
+    },
     {
       "title": "What does Messick's abbreviated start mean for Guards' G5 pitching plan?",
       "link": "https://www.mlb.com/news/parker-messick-struggles-with-command-in-2026-alds-game-4",
@@ -11,8 +50,34 @@
       "author": "Martín Gallegos",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-09T06:11:25+00:00",
-      "time_ago": "12m ago"
+      "pub_date": "2026-10-09T06:47:00+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "Not done yet! Guardians storm back to force Game 5 in Cleveland",
+      "link": "https://www.mlb.com/news/guardians-win-alds-game-4-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/akxwgkkxf7zrhqdakqar",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-09T06:37:00+00:00",
+      "time_ago": "38m ago"
+    },
+    {
+      "title": "White Sox pitchers ready for wherever they're needed in ALDS finale",
+      "link": "https://www.mlb.com/news/white-sox-pitching-plans-2026-alds-game-5",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oursn8hljxzryip7tc5v",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rhett Bollinger",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-09T06:28:04+00:00",
+      "time_ago": "47m ago"
     },
     {
       "title": "White Sox come up short at home as ALDS shifts to decisive Game 5",
@@ -25,85 +90,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T05:31:00+00:00",
-      "time_ago": "52m ago"
-    },
-    {
-      "title": "Guards ride 6-run 6th to set up winner-take-all ALDS Game 5",
-      "link": "https://www.mlb.com/news/guardians-win-alds-game-4-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/akxwgkkxf7zrhqdakqar",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-09T04:15:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Every Game 5 in Division Series history",
       "link": "https://www.mlb.com/news/division-series-game-5-history-c258085304",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/akxwgkkxf7zrhqdakqar",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/koijyjssa4ldaxaxq4dl",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Daniel Kramer",
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-09T03:55:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "J-Ram's October heroics continue with clutch 2-run blast",
-      "link": "https://www.mlb.com/news/jose-ramirez-two-run-home-run-alds-game-4-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fuqd5ynbzguhprng9jxr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-09T03:54:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Game times, broadcasts announced for League Championship Series",
-      "link": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791517787/mlb/q4ae0iojstppohv2dzkc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-09T03:48:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "'Maniac' Baker is on the most dominant run a Rays closer has ever had",
-      "link": "https://www.mlb.com/news/bryan-baker-has-been-dominant-as-rays-closer",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791507328/mlb/e2s7ftr2ue9bg1qzqxal",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-09T01:11:32+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "'October Kiké' remains a constant in Dodgers' chase for three-peat",
-      "link": "https://www.mlb.com/news/kike-hernandez-continues-postseason-success-with-dodgers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lryodiodimt3nxt4mo87",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-08T23:22:22+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
