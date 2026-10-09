@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-09T05:17:00.727129+00:00",
+  "updated_at": "2026-10-09T06:03:14.212981+00:00",
   "news": [
+    {
+      "title": "White Sox come up short at home as ALDS shifts to winner-take-all Game 5",
+      "link": "https://www.mlb.com/news/white-sox-lose-alds-game-4-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aklrltq90uaml4s6lh0h",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-09T05:31:00+00:00",
+      "time_ago": "32m ago"
+    },
     {
       "title": "Guards ride 6-run 6th to set up winner-take-all ALDS Game 5",
       "link": "https://www.mlb.com/news/guardians-win-alds-game-4-2026",
@@ -15,19 +28,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "White Sox come up short as ALDS shifts to winner-take-all Game 5",
-      "link": "https://www.mlb.com/news/white-sox-lose-alds-game-4-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aklrltq90uaml4s6lh0h",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-09T04:00:28+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Every Game 5 in Division Series history",
       "link": "https://www.mlb.com/news/division-series-game-5-history-c258085304",
       "summary": "",
@@ -38,7 +38,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-09T03:55:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "J-Ram AGAIN! October heroics continue with clutch 2-run blast",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T03:54:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Game times, broadcasts announced for League Championship Series",
@@ -64,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T03:48:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "'Maniac' Baker is on the most dominant run a Rays closer has ever had",
@@ -90,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-08T23:22:22+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "Meet the secret weapon behind Gasser's dominant run",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T22:56:30+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     }
   ]
 }
