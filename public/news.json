@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-09T22:47:27.384468+00:00",
+  "updated_at": "2026-10-09T23:07:28.029367+00:00",
   "news": [
+    {
+      "title": "World Baseball Classic experience paying off for Caminero, Aranda in October",
+      "link": "https://www.mlb.com/news/junior-caminero-jonathan-aranda-thrive-in-postseason-after-world-baseball-classic",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/m7pznqx836mlvaouu4og",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "David Venn",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-09T22:49:13+00:00",
+      "time_ago": "18m ago"
+    },
     {
       "title": "What if MLB played less baseball -- and got more out of it?",
       "link": "https://www.mlb.com/news/mlb-latest-cba-proposal-trades-quantity-for-value",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T22:28:39+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Reddit AMA: Ohtani's health, final NLCS roster decisions and more",
@@ -25,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-09T22:21:56+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "Williams gets start for Guards in Game 5 -- two days after closing out Game 4",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T22:15:00+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "Should Rays want to face White Sox or Guardians in ALCS?",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T21:55:57+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "White Sox-Guardians ALDS Game 5 FAQ (Sat., 8 ET, TBS/HBO Max)",
@@ -64,19 +77,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T21:21:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Seager undergoes surgery to remove bone spur from elbow",
-      "link": "https://www.mlb.com/news/corey-seager-elbow-surgery-bone-spur",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aolfpxidtcluf25kx1jq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-10-09T21:15:01+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T20:52:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
