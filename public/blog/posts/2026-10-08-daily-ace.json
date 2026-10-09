@@ -1,11 +1,11 @@
 {
-  "title": "Oct 8 Results: Perfect Game from the Mound",
-  "summary": "Oct 8 brought a clean 1-0 sweep. Breaking down how the Guardians delivered.",
+  "title": "Oct 8 Results: Clean Innings on the Mound",
+  "summary": "Perfect day at 1-0. Guardians delivered exactly what the numbers projected.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Dealing Nothing But Strikes\n\nAs a pitcher, you dream about those days when everything clicks—your mechanics are sharp, your command is there, and you execute the game plan perfectly. That's exactly what our prediction model did today. One game on the docket, one win in the books. Perfect execution."
+      "value": "## Throwing Strikes When It Counts\n\nFrom a pitcher's perspective, you live and die by execution. Today? We executed. One pick, one win. The Guardians came through against the Sox exactly as the numbers suggested—a coin flip that landed our way."
     },
     {
       "type": "stat_row",
@@ -26,7 +26,7 @@
     },
     {
       "type": "text",
-      "value": "## The Pitch Breakdown\n\nLet me walk you through today's call from a pitcher's perspective. When you're on the mound, you're not just throwing—you're reading situations, exploiting matchups, and trusting your stuff. Our model does the same thing with the numbers."
+      "value": "## The Guardians Pick: Textbook Execution\n\nWhen you're working with a 50% probability, you're basically looking at a jump ball. But that's playoff baseball—tight matchups, razor-thin margins. The Guardians had the slight edge in our model, and they delivered. That's what separates October from the regular season: teams that execute under pressure cash tickets."
     },
     {
       "type": "chart",
@@ -55,9 +55,9 @@
     },
     {
       "type": "table",
-      "title": "Full Oct 8 Results",
+      "title": "Complete Game Results - Oct 8",
       "headers": [
-        "Game",
+        "Matchup",
         "Our Pick",
         "Probability",
         "Result"
@@ -73,18 +73,25 @@
     },
     {
       "type": "text",
-      "value": "## Guardians vs Sox: The Called Strike\n\nThis was essentially a coin flip at 50% probability—the kind of matchup where slight edges matter. From the mound, these are the games where you bear down and execute pitches. The Guardians did exactly that, and our read on the matchup paid off.\n\nWhen you're working with tight margins like this, it comes down to fundamentals: better pitching, cleaner defense, timely hitting. The Guardians brought all three to the yard today."
+      "value": "## The Pitcher's Take\n\nA 50-50 pick hitting feels good, but let's be real—we're not popping champagne over one game. In my pitching days, I learned you can execute perfectly and still get touched up. Today the execution matched the result. That's all you can ask for.\n\nThe key with playoff baseball is understanding leverage. Every pitch matters more. Every decision gets magnified. Our model caught the subtle edge Cleveland had, and they capitalized."
     },
     {
       "type": "highlight_box",
-      "color": "#16A34A",
-      "title": "✓ Today's Takeaway",
-      "value": "Perfect execution on a 50-50 matchup",
-      "sub": "Sometimes the best pitches are the ones you trust most"
+      "color": "#3B82F6",
+      "title": "🎯 Perfect Day Summary",
+      "value": "1-0 Record",
+      "sub": "100% accuracy on October 8th slate"
     },
     {
       "type": "text",
-      "value": "## Looking Ahead: Off Day\n\nNo games tomorrow means no picks to make. Think of it as a bullpen day—time to review the film, check the mechanics, and get ready for the next series. We're coming off a perfect outing, so we'll carry that momentum forward.\n\nFrom a pitcher's standpoint, these off days are crucial. You don't just rest—you study, adjust, and prepare. That's exactly what we'll be doing behind the scenes.\n\n## The Bottom Line\n\n100% accuracy on October 8. One pitch, one out. That's how you attack a small slate. We trusted our stuff, executed the game plan, and got the result. Now we'll use this off day to sharpen up for the next round of action.\n\nStay locked in. More analysis coming soon."
+      "value": "## No Games Tomorrow: Time to Reset\n\nNo action scheduled for tomorrow. Think of it like a bullpen day—time to review the tape, make adjustments, and get ready for the next series. We'll be back breaking down matchups as soon as the schedule resumes.\n\nStay sharp. The postseason is all about staying locked in, one pitch at a time."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#6B7280",
+      "title": "⚾ Tomorrow's Schedule",
+      "value": "Off Day",
+      "sub": "No games scheduled—analysis resumes when play continues"
     }
   ],
   "slug": "2026-10-08-daily-ace",
