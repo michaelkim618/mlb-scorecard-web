@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T03:02:50.789891+00:00",
+  "updated_at": "2026-10-09T04:02:50.636120+00:00",
   "news": [
     {
       "title": "J-Ram AGAIN! October heroics continue with clutch 2-run blast",
@@ -11,21 +11,34 @@
       "author": "Tim Stebbins",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-09T02:13:09+00:00",
-      "time_ago": "49m ago"
+      "pub_date": "2026-10-09T03:54:00+00:00",
+      "time_ago": "8m ago"
     },
     {
-      "title": "LIVE: Guardians, Sox keep answering each other. Who'll get the last word? (TBS/HBO Max)",
-      "link": "https://www.mlb.com/stories/game/849832",
+      "title": "Guards ride 6-run 6th to set up winner-take-all ALDS Game 5",
+      "link": "https://www.mlb.com/news/guardians-win-alds-game-4-2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yawipjoklmlqajqrwk5l",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/retmzhihzg5ectqlustu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-09T03:52:25+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "Game times, broadcasts announced for League Championship Series",
+      "link": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791517787/mlb/q4ae0iojstppohv2dzkc",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-09T01:32:02+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-10-09T03:48:00+00:00",
+      "time_ago": "14m ago"
     },
     {
       "title": "'Maniac' Baker is on the most dominant run a Rays closer has ever had",
@@ -38,20 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T01:11:32+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Game times, broadcasts announced for League Championship Series",
-      "link": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791436217/mlb/q4ae0iojstppohv2dzkc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-09T00:00:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "'October Kiké' remains a constant in Dodgers' chase for three-peat",
@@ -64,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-08T23:22:22+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Meet the secret weapon behind Gasser's dominant run",
@@ -77,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T22:56:30+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Dodgers-Brewers NL Championship Series Game 1 FAQ (Sun., 8 p.m. ET, FOX/FOX One)",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T22:45:00+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "What's next for Morejon, King and France after Padres' NLDS exit?",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-08T22:38:10+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     }
   ]
 }
