@@ -1,11 +1,11 @@
 {
-  "title": "Oct 8 Results: Clean Execution on the Mound",
-  "summary": "Perfect 1-0 day as Guardians delivered exactly what we called from the rubber",
+  "title": "Oct 8 Results: Clean Sheet from the Mound",
+  "summary": "Perfect Oct 8 with the Guardians call—breaking down what the numbers told us",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## When You Trust Your Stuff\n\nLook, I've been around this game long enough to know that a perfect day doesn't come often. But October 8th? That's what happens when you read the matchup right and trust your gut. We went 1-for-1, calling the Guardians over the Sox with 50% confidence, and they delivered.\n\nFrom a pitcher's perspective, this wasn't about getting cute with the numbers. It was about understanding who had the better arms and execution when it mattered. Let's break down how it all played out."
+      "value": "## When You Execute Your Pitch\n\nOne game. One call. One win. That's how you build a winning record—by trusting your preparation and executing when it counts. From a pitcher's perspective, going 1-0 is like throwing a complete game shutout. You did your homework, you made your pitch, and you walked off with the W."
     },
     {
       "type": "stat_row",
@@ -19,19 +19,19 @@
           "value": "100.0%"
         },
         {
-          "label": "Picks Made",
+          "label": "Games Analyzed",
           "value": "1"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Only Game That Mattered\n\nWith just one game on the slate, there was nowhere to hide. You make the call, and you live with it. We tagged the Guardians at 50% — essentially a coin flip on paper, but when you factor in the pitching matchup and postseason experience, Cleveland had the slight edge."
+      "value": "## The Guardians Call: Trusting the Process\n\nGuardians at Sox was our lone matchup today, and we tagged Cleveland with a 50% confidence level. Now, 50% might sound like a coin flip to some folks, but here's what I saw from the mound: this was about pitching depth, bullpen management, and which club had more left in the tank during playoff baseball.\n\nWhen you're calling a game at 50-50, you're essentially saying both teams are evenly matched—but something tips the scale. For the Guardians, it was their ability to manufacture runs and trust their arms in tight spots. That's playoff baseball, and that's exactly what showed up."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Oct 8 Prediction Performance",
+      "title": "Today's Prediction Performance",
       "data": [
         {
           "name": "Guardians",
@@ -55,7 +55,7 @@
     },
     {
       "type": "table",
-      "title": "Complete Game Results - Oct 8",
+      "title": "Complete Oct 8 Results Breakdown",
       "headers": [
         "Matchup",
         "Our Pick",
@@ -73,33 +73,18 @@
     },
     {
       "type": "text",
-      "value": "## What Made the Difference\n\nThis wasn't a blowout prediction — 50% tells you it could've gone either way. But that's October baseball. The Guardians came through because they executed in the critical moments. That's what separates teams when the talent level is this close.\n\nFrom my years on the mound, I can tell you: when you're even money, it comes down to who doesn't beat themselves. Who limits the walks, who makes the pitch when they need to, who doesn't give up the cheap run. Cleveland did that."
+      "value": "## What the Perfect Day Tells Us\n\nLook, I've thrown enough innings to know that one perfect outing doesn't make a season. But it does tell you that your preparation is sound. When you study the matchups, respect the data, and trust your instincts from years on the mound, good things happen.\n\nThe key to that Guardians pick wasn't rocket science—it was understanding playoff intensity, bullpen usage patterns, and which team could execute in high-leverage situations. Cleveland's done that all season, and they did it again today."
     },
     {
       "type": "highlight_box",
       "color": "#16A34A",
-      "title": "✓ Perfect Day",
-      "value": "1-0 Record",
-      "sub": "100% accuracy when it counted"
+      "title": "✓ Today's Bottom Line",
+      "value": "1-0 Record, 100% Accuracy",
+      "sub": "Executed the game plan with precision—that's how you build momentum"
     },
     {
       "type": "text",
-      "value": "## The Scoreboard Never Lies\n\nA 1-0 day might not sound flashy, but in this business, you take your wins when they come. Perfect execution on a limited slate shows discipline — we didn't force anything, we called what we saw, and it worked out.\n\nThat's the name of the game from a pitcher's perspective: make your pitch, trust your preparation, and let the results take care of themselves."
-    },
-    {
-      "type": "text",
-      "value": "## Tomorrow's Slate\n\nHere's the thing — there are no games scheduled for October 9th. The league's taking a breather, and honestly, so should we. Use this time to reset, review the matchups coming up, and get ready for the next series.\n\nWhen you're coming off a perfect day, you don't chase. You stay sharp and wait for the next quality pitch to throw."
-    },
-    {
-      "type": "highlight_box",
-      "color": "#64748B",
-      "title": "📅 Tomorrow's Schedule",
-      "value": "No Games",
-      "sub": "Off day across the league — we'll be back when the action returns"
-    },
-    {
-      "type": "text",
-      "value": "## Final Thought\n\nOne game, one call, one win. That's how you build credibility in this game. We'll take the clean sheet and get ready for whatever comes next. In baseball and in predictions, consistency over time is what matters.\n\nStay locked in. We'll be back when the first pitch is thrown.\n\n— Ace"
+      "value": "## Looking Ahead: Dark Day Tomorrow\n\nNo games scheduled for tomorrow. Think of it as a rain delay—time to review the film, study the upcoming matchups, and make sure we're sharp when action resumes. I'll be breaking down the pitching rotations and bullpen situations for the next slate.\n\nFrom a pitcher's perspective, these off days are crucial. You don't just rest the arm—you sharpen the mind. We'll be back with fresh analysis when the games return.\n\nStay locked in. Trust the process. And remember—in baseball and predictions alike, it's not about being perfect every day. It's about being prepared every day.\n\n— Ace"
     }
   ],
   "slug": "2026-10-08-daily-ace",
