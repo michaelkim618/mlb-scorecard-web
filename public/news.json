@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-09T15:59:02.952170+00:00",
+  "updated_at": "2026-10-09T16:58:43.344201+00:00",
   "news": [
+    {
+      "title": "Recalling Chicago icon Mike Ditka’s legendary 7th-inning stretch rendition",
+      "link": "https://www.mlb.com/news/reliving-mike-ditka-s-legendary-7th-inning-stretch-rendition",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zdxdfo2n5p9gqem4dzce",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-09T16:44:45+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "2 elite arms lined up for duel in NLCS Game 1",
+      "link": "https://www.mlb.com/news/nlcs-game-1-lines-up-for-jacob-misiorowski-tarik-skubal-showdown",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dd2rakkvofuajbnlxids",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-09T16:15:00+00:00",
+      "time_ago": "43m ago"
+    },
     {
       "title": "The Guardians used their Game 5 starter to close Game 4 -- now what?",
       "link": "https://www.mlb.com/news/guardians-2026-alds-game-5-starter",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T15:24:12+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Make your picks for 2026 All-MLB Team - VOTING ends today at 2 ET!",
@@ -25,7 +51,33 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T15:06:00+00:00",
-      "time_ago": "53m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Bo Jackson of the Ivy League? How Venable rebounded from hoops to baseball",
+      "link": "https://www.mlb.com/news/white-sox-manager-will-venable-two-sport-athlete-in-college",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tgapyf6yexgfducff6jz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-09T15:01:46+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Will NPB's 1st Triple Crown winner since Murakami jump to MLB?",
+      "link": "https://www.mlb.com/news/teruaki-sato-wins-triple-crown-in-japan",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/l0vqhrgnqdggr1qib0yj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-09T14:10:00+00:00",
+      "time_ago": "2h ago"
     },
     {
       "title": "Bailey comes up big twice -- after starting game on bench",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T07:14:00+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "What does Messick's abbreviated start mean for Guards' G5 pitching plan?",
@@ -51,58 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T07:14:00+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "White Sox-Guardians ALDS Game 5 FAQ (Sat., 8 ET, TBS/HBO Max)",
-      "link": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-5-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cuc2vx9rnayginmoyajl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin, Tim Stebbins and Anthony Castrovince",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-09T07:09:29+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "Not done yet! Guardians storm back to force Game 5 in Cleveland",
-      "link": "https://www.mlb.com/news/guardians-win-alds-game-4-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/akxwgkkxf7zrhqdakqar",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-09T07:08:00+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "J-Ram rewriting his October narrative, one big hit at a time",
-      "link": "https://www.mlb.com/news/jose-ramirez-two-run-home-run-alds-game-4-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fuqd5ynbzguhprng9jxr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Martín Gallegos and Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-09T07:08:00+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "White Sox pitchers ready for wherever they're needed in ALDS finale",
-      "link": "https://www.mlb.com/news/white-sox-pitching-plans-2026-alds-game-5",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oursn8hljxzryip7tc5v",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Rhett Bollinger",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-09T06:28:04+00:00",
       "time_ago": "9h ago"
     }
   ]

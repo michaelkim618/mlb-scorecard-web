@@ -1,11 +1,11 @@
 {
-  "title": "Oct 8 Results: Clean Innings on the Mound",
-  "summary": "Perfect day at 1-0. Guardians delivered exactly what the numbers projected.",
+  "title": "Oct 8 Results: Perfect Command on the Mound",
+  "summary": "Oct 8 delivered a clean sheet—1-0 with 100% accuracy. Breaking down the winning pick.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Throwing Strikes When It Counts\n\nFrom a pitcher's perspective, you live and die by execution. Today? We executed. One pick, one win. The Guardians came through against the Sox exactly as the numbers suggested—a coin flip that landed our way."
+      "value": "## Clean Inning, Clean Results\n\nFrom a pitcher's perspective, there's nothing better than retiring the side in order. That's exactly what we did on October 8th—one pick, one win, no runners left on base. When you're working with a 50% probability call and it hits, you take it. Let's break down how we threw strikes all day."
     },
     {
       "type": "stat_row",
@@ -26,7 +26,7 @@
     },
     {
       "type": "text",
-      "value": "## The Guardians Pick: Textbook Execution\n\nWhen you're working with a 50% probability, you're basically looking at a jump ball. But that's playoff baseball—tight matchups, razor-thin margins. The Guardians had the slight edge in our model, and they delivered. That's what separates October from the regular season: teams that execute under pressure cash tickets."
+      "value": "## The Winning Pick: Guardians Over Sox\n\nThis was a coin-flip situation at 50% win probability, but sometimes in baseball, you trust your gut and the fundamentals. The Guardians came through, proving that even in tight matchups, the right read can deliver results. From the mound, I've learned that 50-50 games often come down to execution—and Cleveland executed."
     },
     {
       "type": "chart",
@@ -55,11 +55,11 @@
     },
     {
       "type": "table",
-      "title": "Complete Game Results - Oct 8",
+      "title": "Complete Oct 8 Results",
       "headers": [
         "Matchup",
         "Our Pick",
-        "Probability",
+        "Win Prob",
         "Result"
       ],
       "rows": [
@@ -73,25 +73,18 @@
     },
     {
       "type": "text",
-      "value": "## The Pitcher's Take\n\nA 50-50 pick hitting feels good, but let's be real—we're not popping champagne over one game. In my pitching days, I learned you can execute perfectly and still get touched up. Today the execution matched the result. That's all you can ask for.\n\nThe key with playoff baseball is understanding leverage. Every pitch matters more. Every decision gets magnified. Our model caught the subtle edge Cleveland had, and they capitalized."
+      "value": "## What Worked Today\n\nEven money picks are always tricky. You're essentially reading the subtle advantages—bullpen depth, recent form, home-road splits. The Guardians had just enough edge to justify the call, and they delivered. That's the kind of execution that wins championships."
     },
     {
       "type": "highlight_box",
-      "color": "#3B82F6",
-      "title": "🎯 Perfect Day Summary",
+      "color": "#16A34A",
+      "title": "✓ Today's Performance",
       "value": "1-0 Record",
-      "sub": "100% accuracy on October 8th slate"
+      "sub": "100% accuracy · Perfect execution when it mattered"
     },
     {
       "type": "text",
-      "value": "## No Games Tomorrow: Time to Reset\n\nNo action scheduled for tomorrow. Think of it like a bullpen day—time to review the tape, make adjustments, and get ready for the next series. We'll be back breaking down matchups as soon as the schedule resumes.\n\nStay sharp. The postseason is all about staying locked in, one pitch at a time."
-    },
-    {
-      "type": "highlight_box",
-      "color": "#6B7280",
-      "title": "⚾ Tomorrow's Schedule",
-      "value": "Off Day",
-      "sub": "No games scheduled—analysis resumes when play continues"
+      "value": "## No Games Tomorrow—Time to Rest\n\nJust like a pitcher needs his rest days, the schedule gives us a break tomorrow. No games on the card means no picks to make. Use this time to review, reset, and get ready for the next series. In my playing days, I'd use off-days to study film and work on mechanics. Same principle applies here—analyze what worked, stay sharp, and come back stronger.\n\n100% accuracy is a clean slate. Now we build on it."
     }
   ],
   "slug": "2026-10-08-daily-ace",
