@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-10T18:23:21.399157+00:00",
+  "updated_at": "2026-10-10T18:45:59.465659+00:00",
   "news": [
+    {
+      "title": "Brewers officially name Misiorowski Game 1 starter for NLCS vs. Dodgers",
+      "link": "https://www.mlb.com/news/jacob-misiorowski-nlcs-game-1-starter-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x9pmmiz7guwj5aou52yo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-10T18:36:18+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "2 elite arms lined up for duel in NLCS Game 1",
+      "link": "https://www.mlb.com/news/nlcs-game-1-lines-up-for-jacob-misiorowski-tarik-skubal-showdown",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dd2rakkvofuajbnlxids",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-10T18:33:00+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Dodgers-Brewers NLCS Game 1 FAQ (Sun., 8 p.m. ET, FOX/FOX One)",
+      "link": "https://www.mlb.com/news/dodgers-brewers-nl-championship-series-game-1-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791499349/mlb/mu54ut4xgfg4txajz3ei",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen and Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-10T18:32:00+00:00",
+      "time_ago": "13m ago"
+    },
     {
       "title": "Suzuki reflects on the good times -- and a few 'what ifs' -- from 5 years with Cubs",
       "link": "https://www.mlb.com/news/seiya-suzuki-discusses-time-with-cubs-start-to-his-mlb-career",
@@ -65,45 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-10T04:00:00+00:00",
       "time_ago": "14h ago"
-    },
-    {
-      "title": "Dodgers-Brewers NLCS Game 1 FAQ (Sun., 8 p.m. ET, FOX/FOX One)",
-      "link": "https://www.mlb.com/news/dodgers-brewers-nl-championship-series-game-1-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791499349/mlb/mu54ut4xgfg4txajz3ei",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen and Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-10T02:53:00+00:00",
-      "time_ago": "15h ago"
-    },
-    {
-      "title": "Rojas takes 'step in the right direction' as Dodgers await NLCS roster decision",
-      "link": "https://www.mlb.com/news/miguel-rojas-nlcs-roster-status",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791597067/mlb/npdftultmvztl9081ia8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Courtney Hollmon",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-10T02:08:57+00:00",
-      "time_ago": "16h ago"
-    },
-    {
-      "title": "Restored faith in Díaz gives Roberts another leverage weapon entering NLCS",
-      "link": "https://www.mlb.com/news/dodgers-bullpen-options-for-nlcs-vs-brewers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mt4cj4vg74zyimogmtfm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-10T01:25:16+00:00",
-      "time_ago": "16h ago"
     }
   ]
 }
