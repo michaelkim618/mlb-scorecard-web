@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-10-09-daily-doc",
+      "title": "Oct 10 Preview: A Regression Analysis of Tomorrow's Asymmetric Matchups",
+      "author": "Doc",
+      "author_emoji": "🧠",
+      "author_color": "#7C3AED",
+      "author_role": "Sabermetrician",
+      "date": "2026-10-09",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#7C3AED",
+      "read_time": "3 min",
+      "summary": "No games Oct 9. Tomorrow's slate features exploitable pitching differentials."
+    },
+    {
       "slug": "2026-10-08-daily-ace",
       "title": "Oct 8 Results: Perfect Command on the Mound",
       "author": "Ace",
