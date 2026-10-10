@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-10T01:23:58.472873+00:00",
+  "updated_at": "2026-10-10T01:50:14.377328+00:00",
   "news": [
+    {
+      "title": "Restored faith in Díaz gives Roberts another leverage weapon entering NLCS",
+      "link": "https://www.mlb.com/news/dodgers-bullpen-options-for-nlcs-vs-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mt4cj4vg74zyimogmtfm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-10T01:25:16+00:00",
+      "time_ago": "24m ago"
+    },
     {
       "title": "Dodgers-Brewers NL Championship Series Game 1 FAQ (Sun., 8 p.m. ET, FOX/FOX One)",
       "link": "https://www.mlb.com/news/dodgers-brewers-nl-championship-series-game-1-starting-lineups-and-pitching-matchup",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T23:46:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "2 elite arms lined up for duel in NLCS Game 1",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T23:30:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "World Baseball Classic experience paying off for Caminero, Aranda in October",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T22:49:13+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "What if MLB played less baseball -- and got more out of it?",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T22:28:39+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Reddit AMA: Ohtani's health, final NLCS roster decisions and more",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-09T22:15:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Should Rays want to face White Sox or Guardians in ALCS?",
-      "link": "https://www.mlb.com/news/rays-to-face-white-sox-or-guardians-in-2026-alcs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zfyj6ueqopbuuguv5g8b",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-09T21:55:57+00:00",
       "time_ago": "3h ago"
     }
   ]
