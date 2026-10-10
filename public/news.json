@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-10T20:12:50.050070+00:00",
+  "updated_at": "2026-10-10T20:28:43.133959+00:00",
   "news": [
+    {
+      "title": "White Sox-Guardians ALDS Game 5 FAQ, lineups (8 ET, TBS/HBO Max)",
+      "link": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-5-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791597654/mlb/cuc2vx9rnayginmoyajl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin, Tim Stebbins and Anthony Castrovince",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-10T20:11:00+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Miz-Skubal matchup not just rare -- it's nearly unprecedented",
+      "link": "https://www.mlb.com/news/misiorowski-skubal-game-1-nlcs-matchup",
+      "summary": "It doesn't get much better than this, and the data proves it",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791511902/mlb/nkizrcrhugpntasekhhh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mike Petriello",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-10T20:10:00+00:00",
+      "time_ago": "18m ago"
+    },
     {
       "title": "Brewers officially name Misiorowski Game 1 starter for NLCS vs. Dodgers",
       "link": "https://www.mlb.com/news/jacob-misiorowski-nlcs-game-1-starter-brewers",
@@ -67,19 +93,6 @@
       "time_ago": "6h ago"
     },
     {
-      "title": "White Sox-Guardians ALDS Game 5 FAQ (8 ET, TBS/HBO Max)",
-      "link": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-5-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791597654/mlb/cuc2vx9rnayginmoyajl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin, Tim Stebbins and Anthony Castrovince",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-10T04:18:00+00:00",
-      "time_ago": "15h ago"
-    },
-    {
       "title": "Examining the Brewers' trio of dominant relievers",
       "link": "https://www.mlb.com/news/trevor-megill-abner-uribe-aaron-ashby-2026-postseason-analysis",
       "summary": "",
@@ -87,19 +100,6 @@
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Brent Maguire",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-10T04:00:00+00:00",
-      "time_ago": "16h ago"
-    },
-    {
-      "title": "Dodgers-Brewers NLCS position-by-position breakdown",
-      "link": "https://www.mlb.com/news/dodgers-brewers-2026-nlcs-position-by-position-breakdown",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cvvjjdxxyhymqjrvgkgs",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mike Petriello",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-10T04:00:00+00:00",
