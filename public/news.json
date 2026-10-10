@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-10T20:38:36.063984+00:00",
+  "updated_at": "2026-10-10T21:30:24.102304+00:00",
   "news": [
+    {
+      "title": "Miz's meteoric rise to ace status leads him to NLCS Game 1 starting nod",
+      "link": "https://www.mlb.com/news/jacob-misiorowski-nlcs-game-1-starter-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x9pmmiz7guwj5aou52yo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-10T21:23:00+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Want small ball? Clutch hits? Homers? The Rays can do it all -- and they're not done yet",
+      "link": "https://www.mlb.com/news/how-the-rays-score-runs-in-many-different-ways",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yjkli1iiflfqdd2fsxbc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-10T20:46:05+00:00",
+      "time_ago": "44m ago"
+    },
     {
       "title": "White Sox-Guardians ALDS Game 5 FAQ, lineups (8 ET, TBS/HBO Max)",
       "link": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-5-starting-lineups-and-pitching-matchup",
@@ -12,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-10T20:11:00+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Skubal-Miz matchup not just rare -- it's nearly unprecedented",
@@ -25,20 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-10T20:10:00+00:00",
-      "time_ago": "28m ago"
-    },
-    {
-      "title": "Brewers officially name Misiorowski Game 1 starter for NLCS vs. Dodgers",
-      "link": "https://www.mlb.com/news/jacob-misiorowski-nlcs-game-1-starter-brewers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x9pmmiz7guwj5aou52yo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-10T18:36:18+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "2 elite arms lined up for duel in NLCS Game 1",
@@ -57,7 +70,7 @@
       "title": "Dodgers-Brewers NLCS Game 1 FAQ (Sun., 8 p.m. ET, FOX/FOX One)",
       "link": "https://www.mlb.com/news/dodgers-brewers-nl-championship-series-game-1-starting-lineups-and-pitching-matchup",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791499349/mlb/mu54ut4xgfg4txajz3ei",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hajmx8i1lwpujocwhbtt",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Sonja Chen and Adam McCalvy",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-10T15:02:32+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "Gray intends to pitch in '27, open to Red Sox return (report)",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-10T14:09:07+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Examining the Brewers' trio of dominant relievers",
-      "link": "https://www.mlb.com/news/trevor-megill-abner-uribe-aaron-ashby-2026-postseason-analysis",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qnwcipgitlrzch5byxbq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brent Maguire",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-10T04:00:00+00:00",
-      "time_ago": "16h ago"
+      "time_ago": "7h ago"
     }
   ]
 }
