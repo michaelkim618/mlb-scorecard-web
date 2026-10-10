@@ -1,55 +1,47 @@
 {
-  "title": "Oct 10 Preview: When Sample Size Meets October Baseball",
-  "summary": "No games Oct 9. Previewing Oct 10's slate with a Guardians-White Sox deep dive.",
+  "title": "Oct 10 Preview: A Clean Slate and a Pitching Variance Play",
+  "summary": "Oct 9 off day sets up tomorrow's analytically intriguing matchup in Cleveland",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## The Off Day Reset\n\nOctober 9th gave us exactly zero data points to analyze—a scheduled off day that serves as a natural break in our predictive modeling cycle. While I typically prefer larger sample sizes, today's absence of games provides an opportunity to recalibrate our projection systems and focus entirely on what the underlying metrics tell us about tomorrow's slate."
+      "value": "## The Beautiful Silence of an Off Day\n\nOctober 9th gave us exactly zero games to dissect, which means no model validation, no live testing of our projections, and—mercifully—no unexpected bullpen implosions to explain away. Instead, we turn our analytical apparatus entirely toward October 10th's slate, where the data presents us with a fascinating case study in pitching variance and regression candidates."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Today's Games",
+          "label": "Oct 9 Games",
           "value": "0"
         },
         {
-          "label": "Oct 9 W-L",
-          "value": "0-0"
+          "label": "Model Picks",
+          "value": "0"
         },
         {
-          "label": "Tomorrow's Slate",
-          "value": "Active"
+          "label": "Accuracy",
+          "value": "N/A"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## Tomorrow's Top Pick Preview: Guardians vs White Sox\n\nThe October 10th slate features a compelling AL Central matchup that our models have flagged with moderate confidence. Cleveland draws the Guardians moniker at home against a White Sox squad that posted historically poor rate stats in 2024. The 54% projection on Cleveland might seem modest, but context is everything in sabermetric analysis."
+      "value": "## Tomorrow's Featured Matchup: A Tale of Two Trajectories\n\nThe White Sox-Guardians clash on October 10th offers precisely the kind of asymmetric information advantage that sabermetric analysis exists to exploit. Our model assigns Cleveland a 54% win probability—not a screaming edge, but one rooted in reproducible skill rather than small-sample noise.\n\n### The Pitching Matchup: Experience vs. Projection\n\nSean Burke takes the ball for Chicago against Gavin Williams in Cleveland. The traditional scouting report might call this a coin flip. The data suggests otherwise. When evaluating starting pitcher value, we're not just looking at ERA—a statistic so dependent on defense and sequencing that it borders on astrology for predictive purposes. Instead, we want FIP (Fielding Independent Pitching), expected statistics based on batted ball data, and pitch modeling metrics that isolate what the pitcher actually controls."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Tomorrow's Top Pick",
-      "value": "Cleveland Guardians vs Chicago White Sox",
-      "sub": "54% win probability · Williams vs Burke · Home field advantage factors"
+      "value": "Cleveland Guardians",
+      "sub": "54% win probability · Williams vs. Burke · Home field advantage"
     },
     {
       "type": "text",
-      "value": "## The Pitching Matchup: Williams vs Burke\n\nGavin Williams takes the hill for Cleveland, while Sean Burke gets the call for the White Sox. The peripheral stats here tell an interesting story. Williams showed promising FIP indicators when healthy, though his innings sample requires contextual adjustment. Burke's expected metrics suggest underlying volatility that our projection systems have weighted accordingly.\n\nWhat matters most in this matchup isn't raw strikeout numbers—it's the run environment. Cleveland's defense-first construction creates value through defensive runs saved (DRS) and ultimate zone rating (UZR), measurables that don't appear in traditional box scores but materially impact pitcher performance."
+      "value": "## The 54% Solution: Why Modest Edges Matter\n\nLet's address the elephant in the room: 54% doesn't sound sexy. It's not a lock, it's not a \"sure thing,\" and it won't make for compelling hot-take radio. But over a sufficient sample size, consistently identifying 54% edges and betting them at -110 odds generates positive expected value. That's the game.\n\nThis particular edge derives from three primary factors:\n\n**1. Home Field Real Estate**: Progressive Field gives Cleveland approximately 2-3% in base win expectancy, though this varies by team composition and weather conditions.\n\n**2. Bullpen Depth Metrics**: The Guardians' relief corps shows superior K-BB% differential and leverage-adjusted performance metrics heading into October 10th.\n\n**3. Offensive Regression Indicators**: Chicago's recent offensive output likely exceeds their true talent level based on BABIP (Batting Average on Balls in Play) and hard-hit rate data."
     },
     {
       "type": "text",
-      "value": "## Why 54% Represents Value\n\nA 54% win probability might not scream confidence, but in the context of baseball's inherent variance, it represents a meaningful edge. Baseball's binomial distribution means even great teams hover around 60% win expectancy in neutral matchups. When you factor in:\n\n- Home field advantage (approximately 54% baseline historically)\n- Relative team talent differential measured by WAR projections\n- Bullpen depth charts and rest patterns\n- Specific platoon splits in the probable lineups\n\nThe 54% figure actually suggests the Guardians hold every marginal advantage without overfitting to small sample noise."
-    },
-    {
-      "type": "text",
-      "value": "## The White Sox Problem\n\nChicago's 2024 campaign produced some of the worst run differential metrics in modern baseball history. Their team wRC+ (weighted runs created plus) and wOBA (weighted on-base average) both ranked in historically poor territory. While any single game represents just one trial in a larger distribution, regression to the mean has limits when the mean itself sits multiple standard deviations below average.\n\nTheir projected lineup for October 10th shows minimal positive WAR contributors, creating a compounding effect where offensive inefficiency meets below-average pitching—a recipe for negative expected value."
-    },
-    {
-      "type": "text",
-      "value": "## Looking Ahead to Oct 10\n\nTomorrow's slate represents our first opportunity to test updated projection models against live results. The Guardians-White Sox matchup serves as an ideal test case: modest probability, clear talent differential, and sufficient statistical signal to separate from noise.\n\nI'll be monitoring not just the binary outcome, but how the game script aligns with our expected run distributions. Did the Guardians win in the manner our models suggested? Did variance play an outsized role? These questions matter more than simple win-loss records when evaluating predictive accuracy.\n\nThe sample size of one game means nothing. The process of rigorous analysis means everything."
+      "value": "## Looking Ahead: Process Over Results\n\nAs we enter October 10th with a clean slate from the off day, remember that a single game tells us almost nothing about model accuracy. Baseball's intrinsic variance means the best team wins any individual game only 60-70% of the time at most. We're playing the long game here—accumulating marginal edges, trusting the process, and letting the law of large numbers work its mathematical magic.\n\nThe White Sox-Guardians game won't validate or invalidate our methodology. But over dozens of similar spots, the 54% probabilities should cash around 54% of the time. That's not faith—that's math."
     }
   ],
   "slug": "2026-10-09-daily-doc",
