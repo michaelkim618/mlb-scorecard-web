@@ -1,11 +1,11 @@
 {
   "title": "Oct 10 Results + Oct 11 Preview: Perfect Start to the Postseason Run",
-  "summary": "Model nails Oct 10 with 100% accuracy. Tomorrow's pick: Brewers over Dodgers.",
+  "summary": "Guardians delivered as expected. Now we turn to Brewers hosting the Dodgers.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## October 10 Results: Clean Sweep\n\nYou know, in my years covering this game, there's something deeply satisfying about watching the model click into gear when the postseason lights come on. We went 1-0 yesterday with a perfect read on the Guardians, and honestly, it felt like one of those picks where the numbers and the gut aligned beautifully.\n\nThe Sox-Guardians game played out exactly as we projected—Cleveland's home-field advantage and superior bullpen depth made the 53% confidence feel almost conservative in hindsight."
+      "value": "## October 10 Recap: Clean Sheet\n\nYou know, in all my years covering this game, there's something deeply satisfying about a perfect day. Nothing fancy, nothing complicated—just one solid pick and one solid result. The Guardians took care of business at home against the Sox, exactly as our model suggested at 53%. Not a dominant probability, mind you, but enough edge to lean Cleveland's way, and they delivered."
     },
     {
       "type": "stat_row",
@@ -19,10 +19,47 @@
           "value": "100.0%"
         },
         {
-          "label": "Confidence",
-          "value": "53%"
+          "label": "Picks Made",
+          "value": "1"
         }
       ]
+    },
+    {
+      "type": "table",
+      "title": "October 10 Results",
+      "headers": [
+        "Game",
+        "Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Sox @ Guardians",
+          "Guardians",
+          "53%",
+          "✓ Hit"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## What Worked Yesterday\n\nThe Guardians' home-field advantage in October is something I've seen play out time and again. Progressive Field gets loud when the stakes are high, and that 53% edge we identified? It's built on years of data showing how Cleveland performs in these exact situations. Small sample size for the day, sure, but when you nail the call, you take it."
+    },
+    {
+      "type": "text",
+      "value": "## Looking Ahead: October 11 Preview\n\nNow we get interesting. The Dodgers head to Milwaukee, and if you've been around this game as long as I have, you know this matchup has some serious storylines. Tarik Skubal on the mound for Los Angeles—the guy's been outstanding when healthy. But here's the thing: Jacob Misiorowski gets the ball at home for the Brewers, and our model is leaning Milwaukee at 61%."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Tomorrow's Top Pick - October 11",
+      "value": "Milwaukee Brewers vs Los Angeles Dodgers",
+      "sub": "61% confidence · Misiorowski vs Skubal · Home edge in play"
+    },
+    {
+      "type": "text",
+      "value": "## The Brewers Case\n\nSixty-one percent isn't a slam dunk, but it's a meaningful edge. Milwaukee at home in October, with a capable arm on the mound, against a Dodgers squad that's been traveling—I've seen this script before. The Brewers know how to play tight games, and that home crowd in Milwaukee can be a difference-maker.\n\nSkubal is no slouch, don't get me wrong. But pitching on the road in the postseason is a different animal. The model sees enough here to favor the home side, and frankly, so do I."
     },
     {
       "type": "chart",
@@ -45,42 +82,13 @@
         {
           "key": "result",
           "color": "#16A34A",
-          "label": "Correct (1=Yes)"
+          "label": "Correct (1=Yes, 0=No)"
         }
       ]
     },
     {
-      "type": "table",
-      "title": "October 10 Full Results",
-      "headers": [
-        "Game",
-        "Pick",
-        "Probability",
-        "Result"
-      ],
-      "rows": [
-        [
-          "Sox @ Guardians",
-          "Guardians",
-          "53%",
-          "✓ Hit"
-        ]
-      ]
-    },
-    {
       "type": "text",
-      "value": "## October 11 Preview: Brewers Hosting the Dodgers\n\nNow here's where it gets interesting. Tomorrow's top pick has us backing the Brewers at home against the Dodgers at 61% confidence—and the pitching matchup is absolutely fascinating.\n\nTarik Skubal taking the ball for LA is no joke. The guy's been dominant, and in most scenarios, you'd lean heavily toward any team he's starting for. But here's what I've learned over the decades: October baseball is a different animal, and American Family Field in Milwaukee has a way of neutralizing even the most elite arms.\n\nJacob Misiorowski gets the nod for Milwaukee, and while he doesn't have Skubal's pedigree, the home crowd and the Brewers' ability to manufacture runs in tight games give them an edge the model likes."
-    },
-    {
-      "type": "highlight_box",
-      "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - October 11",
-      "value": "Milwaukee Brewers over Los Angeles Dodgers",
-      "sub": "61% win probability · Misiorowski vs Skubal · Home field advantage"
-    },
-    {
-      "type": "text",
-      "value": "## The Veteran's Take\n\nI've seen plenty of regular season aces struggle in their first October starts—the adrenaline, the tighter strike zones, the playoff-caliber lineups that don't chase. Skubal will be fine long-term, but this particular spot? The Brewers have the pieces to scratch across enough runs.\n\nThe 61% confidence tells you this isn't a slam dunk. It's a lean, backed by situational analysis and home-field metrics that historically favor Milwaukee in these pitching duels. That's playoff baseball—margins are thin, and you take your edges where you find them.\n\nLet's see if we can make it 2-0 heading into the weekend."
+      "value": "## The Bottom Line\n\nWe're 1-0 to start this stretch, and tomorrow we're backing the Brewers with solid conviction. October baseball is where reputations are made and broken—I've covered enough of these games to know that the edges matter, even the modest ones.\n\nLet's keep it rolling.\n\n*—Max*"
     }
   ],
   "slug": "2026-10-10-daily-max",
