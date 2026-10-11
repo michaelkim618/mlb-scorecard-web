@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-11T05:35:44.413538+00:00",
+  "updated_at": "2026-10-11T06:02:55.549998+00:00",
   "news": [
+    {
+      "title": "For minority owner Kelce, Ramírez's Game 5 HR 'one of the coolest moments of my life'",
+      "link": "https://www.mlb.com/news/travis-kelce-guardians-game-5-2026-alds-win-jose-ramirez-homer",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bfkawsjhlvfizp4zmckn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-11T05:34:33+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "White Sox magical season ends in Game 5 of ALDS: 'This team will be back'",
+      "link": "https://www.mlb.com/news/white-sox-lose-2026-alds-to-guardians",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aghbcvxajdta4pdupvkz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-11T05:29:00+00:00",
+      "time_ago": "33m ago"
+    },
     {
       "title": "One pitch -- and a good one -- was the difference for Burke, White Sox season",
       "link": "https://www.mlb.com/news/sean-burke-allows-homer-to-jose-ramirez-in-game-5-alds-loss",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T05:07:04+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "Starting Pitcher Power Rankings: LCS edition",
@@ -25,7 +51,7 @@
       "tag": "Rankings",
       "tag_color": "#4F46E5",
       "pub_date": "2026-10-11T04:51:22+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Power Rankings: Who's on top among final four teams?",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T03:35:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Rojas (back) expected to be on Dodgers' NLCS roster",
-      "link": "https://www.mlb.com/news/miguel-rojas-expected-to-make-dodgers-nlcs-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791684675/mlb/w0npvdesnrgoree0yqap",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-11T03:19:49+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Guardians erase 0-2 hole, complete ALDS comeback to punch ALCS ticket",
-      "link": "https://www.mlb.com/news/guardians-win-alds-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791689186/mlb/ao4fqpokxwcbzujtoifg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-11T03:17:00+00:00",
       "time_ago": "2h ago"
     }
   ]
