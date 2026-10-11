@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-11T15:36:06.555616+00:00",
+  "updated_at": "2026-10-11T16:36:10.109174+00:00",
   "news": [
+    {
+      "title": "Brewers' roster unchanged for NLCS clash with Dodgers",
+      "link": "https://www.mlb.com/news/brewers-2026-nlcs-roster",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rjgf6ktsu6swajd6i5t7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-11T15:58:33+00:00",
+      "time_ago": "37m ago"
+    },
+    {
+      "title": "Dodgers add lefty Wrobleski to NLCS roster, leave off speedster Kim",
+      "link": "https://www.mlb.com/news/dodgers-2026-nlcs-roster",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aztci45nxnkzqiempwjw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-11T15:50:15+00:00",
+      "time_ago": "45m ago"
+    },
     {
       "title": "Spain qualifies for its first Premier12, with Italy returning for first time since 2015",
       "link": "https://www.mlb.com/news/spain-and-italy-qualify-for-2027-premier12",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T14:22:48+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Guardians erase 0-2 hole, complete ALDS comeback to punch ALCS ticket",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T07:22:00+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "Guardians-Rays ALCS Game 1 FAQ (Mon., 8 ET, TBS/HBO Max)",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T07:17:59+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "Dodgers-Brewers NLCS Game 1 FAQ (8 p.m. ET, FOX/FOX One)",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T06:45:00+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "The AL-best Rays are a formidable foe. How do the Guards match up?",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T06:27:32+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "What fatigue? Williams fans 12, flirts with no-no 2 days after closing Game 4",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T06:06:00+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "6 incredible stats from the Guardians' 21-K, Ramírez-fueled clincher",
-      "link": "https://www.mlb.com/news/stats-and-facts-from-the-guardians-2026-alds-game-5-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791691547/mlb/horttnrycninh84gmouh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sarah Langs",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-11T06:05:52+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "'The heartbeat of Cleveland,' Ramírez sends stadium into frenzy with go-ahead HR",
-      "link": "https://www.mlb.com/news/jose-ramirez-homers-in-alds-game-5",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wgmuvvd9cuuy9dgigafy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Martín Gallegos",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-11T06:01:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     }
   ]
 }
