@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-11T00:34:48.289360+00:00",
+  "updated_at": "2026-10-11T01:05:50.434939+00:00",
   "news": [
     {
-      "title": "LIVE on TBS/HBO Max: White Sox-Guardians ALDS Game 5",
-      "link": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-5-starting-lineups-and-pitching-matchup",
+      "title": "LIVE: Williams carves up White Sox early (TBS/HBO Max)",
+      "link": "https://www.mlb.com/stories/game/849831",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791597654/mlb/cuc2vx9rnayginmoyajl",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/srioayjnymjzs0aony2o",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Scott Merkin, Tim Stebbins and Anthony Castrovince",
+      "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-11T00:00:00+00:00",
-      "time_ago": "34m ago"
+      "pub_date": "2026-10-11T01:00:22+00:00",
+      "time_ago": "5m ago"
     },
     {
       "title": "Dodgers-Brewers NLCS Game 1 FAQ (Sun., 8 p.m. ET, FOX/FOX One)",
@@ -51,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-10T20:46:05+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Skubal-Miz matchup not just rare -- it's nearly unprecedented",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-10T15:02:32+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "Gray intends to pitch in '27, open to Red Sox return (report)",
