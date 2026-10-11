@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-10-11T03:05:28.671771+00:00",
+  "updated_at": "2026-10-11T04:05:38.233161+00:00",
   "news": [
-    {
-      "title": "Guardians erase 0-2 hole, complete ALDS comeback to punch ALCS ticket",
-      "link": "https://www.mlb.com/news/guardians-win-alds-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wfzvwjjopr9yrcwghz1b",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-11T03:02:00+00:00",
-      "time_ago": "3m ago"
-    },
     {
       "title": "What fatigue? Williams fans 12, flirts with no-no 2 days after closing Game 4",
       "link": "https://www.mlb.com/news/gavin-williams-ties-cleveland-postseason-strikeout-record",
@@ -24,8 +11,47 @@
       "author": "Tim Stebbins",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-11T03:02:00+00:00",
-      "time_ago": "3m ago"
+      "pub_date": "2026-10-11T03:35:00+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "Rojas (back) expected to be on Dodgers' NLCS roster",
+      "link": "https://www.mlb.com/news/miguel-rojas-expected-to-make-dodgers-nlcs-roster",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791684675/mlb/w0npvdesnrgoree0yqap",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-11T03:19:49+00:00",
+      "time_ago": "45m ago"
+    },
+    {
+      "title": "Guardians erase 0-2 hole, complete ALDS comeback to punch ALCS ticket",
+      "link": "https://www.mlb.com/news/guardians-win-alds-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791689186/mlb/ao4fqpokxwcbzujtoifg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-11T03:17:00+00:00",
+      "time_ago": "48m ago"
+    },
+    {
+      "title": "What you need to know about the League Championship Series matchups",
+      "link": "https://www.mlb.com/news/mlb-2026-league-championship-series-matchups",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tcto9eltnim6sblkpisf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-11T03:08:00+00:00",
+      "time_ago": "57m ago"
     },
     {
       "title": "Can Ohtani repeat history with an NLCS offensive breakout vs. Brewers?",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T02:58:38+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "White Sox special season ends with defeat in Game 5 of ALDS",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T02:57:16+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Are you ready for it? Travis Kelce, Donovan Mitchell cheer for Cleveland at ALDS G5",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T02:52:00+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Want small ball? Clutch hits? Homers? The Rays can do it all -- and they're not done yet",
@@ -77,33 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-11T02:49:00+00:00",
-      "time_ago": "16m ago"
-    },
-    {
-      "title": "Guardians the 11th team to erase an 0-2 deficit in a 5-game series",
-      "link": "https://www.mlb.com/news/0-2-comebacks-in-mlb-division-series-c297255794",
-      "summary": "Down but not out, 11 clubs have rallied to win 3 straight",
-      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/jofpdqhze6vakenom8vf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matt Kelly",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-11T02:48:00+00:00",
-      "time_ago": "17m ago"
-    },
-    {
-      "title": "Ramírez digs out pitch practically on the ground for stadium-shaking homer",
-      "link": "https://www.mlb.com/news/jose-ramirez-homers-in-alds-game-5",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wgmuvvd9cuuy9dgigafy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-11T02:47:00+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
