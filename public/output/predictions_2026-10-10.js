@@ -337,12 +337,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 45.6,
-      "home": 54.4
+      "away": 46.7,
+      "home": 53.3
     },
     "expected_score": {
       "away": 2.9,
-      "home": 2.8
+      "home": 2.6
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -616,14 +616,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.95,
           "closer_name": "Cade Smith"
         },
-        "bat_score": 43.3,
+        "bat_score": 40.5,
         "bat_detail": {
           "recent_avg": 0.27,
           "runs_per_g": 5.3,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
           "season_ops": 0.736,
-          "season_slg": 0.428,
+          "season_slg": null,
           "season_avg": 0.27,
           "n_games": 9,
           "source": "prev_day",
@@ -713,13 +713,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 58.4,
-        "total": 55.2
+        "total": 54.4
       }
     },
     "scores": {
       "away_offense": 46.7,
       "away_defense": 63.2,
-      "home_offense": 43.3,
+      "home_offense": 40.5,
       "home_defense": 62.2
     },
     "actual_score": {
@@ -745,7 +745,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 0.0pt (≤5.0pt) / 최고 확률 54.4% (≤62.0%)",
+    "low_confidence_reason": "SP 점수 차이 0.0pt (≤5.0pt) / 최고 확률 53.3% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
