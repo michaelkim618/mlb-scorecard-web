@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-11T06:57:01.753936+00:00",
+  "updated_at": "2026-10-11T07:40:23.605328+00:00",
   "news": [
+    {
+      "title": "Guardians erase 0-2 hole, complete ALDS comeback to punch ALCS ticket",
+      "link": "https://www.mlb.com/news/guardians-win-alds-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x3rpj6c573yi7cjvqwes",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-11T07:22:00+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Guardians-Rays ALCS Game 1 FAQ (Mon., 8 ET, TBS/HBO Max)",
+      "link": "https://www.mlb.com/news/guardians-vs-rays-alcs-game-1-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t4wkbgchvnegpufqf3pj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry and Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-11T07:17:59+00:00",
+      "time_ago": "22m ago"
+    },
     {
       "title": "Dodgers-Brewers NLCS Game 1 FAQ (8 p.m. ET, FOX/FOX One)",
       "link": "https://www.mlb.com/news/dodgers-brewers-nl-championship-series-game-1-starting-lineups-and-pitching-matchup",
@@ -12,33 +38,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T06:45:00+00:00",
-      "time_ago": "12m ago"
-    },
-    {
-      "title": "Guardians erase 0-2 hole, complete ALDS comeback to punch ALCS ticket",
-      "link": "https://www.mlb.com/news/guardians-win-alds-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x3rpj6c573yi7cjvqwes",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-11T06:41:00+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "The AL-best Rays are a formidable foe. How do the Guards match up?",
       "link": "https://www.mlb.com/news/how-do-guardians-match-up-with-rays-in-2026-alcs",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791697697/mlb/do2gywqceuhzmujugahj",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pomg0xr07s1wg4omozdq",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Martin Gallegos",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T06:27:32+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "What fatigue? Williams fans 12, flirts with no-no 2 days after closing Game 4",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T06:06:00+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "6 incredible stats from the Guardians' 21-K, Ramírez-fueled clincher",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T06:05:52+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'The heartbeat of Cleveland,' Ramírez sends stadium into frenzy with go-ahead HR",
@@ -77,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-11T06:01:00+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "For minority owner Kelce, Ramírez's Game 5 HR 'one of the coolest moments of my life'",
@@ -90,20 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-11T05:34:33+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "White Sox magical season ends in Game 5 of ALDS: 'This team will be back'",
-      "link": "https://www.mlb.com/news/white-sox-lose-2026-alds-to-guardians",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aghbcvxajdta4pdupvkz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-11T05:29:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
