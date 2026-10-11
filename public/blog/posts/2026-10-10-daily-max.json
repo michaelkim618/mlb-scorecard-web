@@ -1,11 +1,11 @@
 {
-  "title": "Oct 10 Results + Oct 11 Preview: Perfect Start, But We've Been Here Before",
-  "summary": "Model goes 1-0 on Oct 10. Tomorrow: Brewers backed against Skubal in a tough spot.",
+  "title": "Oct 10 Results + Oct 11 Preview: Perfect Pitch on a Quiet Night",
+  "summary": "Clean sweep on Oct 10 with Cleveland. Tomorrow, we're betting against Skubal in Milwaukee.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## October 10 Recap: Clean Slate\n\nLook, I've been doing this long enough to know that a 1-0 day doesn't make you a genius. But I'll take it. The model liked Cleveland at home against the Sox, gave them a modest 53% edge, and they delivered. Nothing fancy, just solid home playoff baseball in October—the kind we've seen a thousand times at Progressive Field."
+      "value": "## Looking Back: October 10th\n\nSometimes the best days are the quiet ones. One game on the slate, one pick to make, and one checkmark in the win column. The Guardians took care of business at home against the Sox, just like we thought they would at 53%. Nothing fancy, nothing dramatic—just a solid call that hit when it needed to."
     },
     {
       "type": "stat_row",
@@ -16,21 +16,46 @@
         },
         {
           "label": "Accuracy",
-          "value": "100%"
+          "value": "100.0%"
         },
         {
-          "label": "Average Confidence",
-          "value": "53%"
+          "label": "Games",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "October 10 Prediction Results",
+      "data": [
+        {
+          "name": "Guardians",
+          "probability": 53,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes)"
         }
       ]
     },
     {
       "type": "table",
-      "title": "October 10 Results",
+      "title": "October 10 Complete Results",
       "headers": [
-        "Matchup",
-        "Our Pick",
-        "Confidence",
+        "Game",
+        "Pick",
+        "Probability",
         "Result"
       ],
       "rows": [
@@ -44,43 +69,22 @@
     },
     {
       "type": "text",
-      "value": "## What Worked\n\nThe Guardians pick wasn't about overthinking it. Home team, playoff atmosphere, decent pitching matchup. Sometimes the simplest read is the right one. I've seen teams try to get too cute in October—this wasn't that. Cleveland came through like we thought they would.\n\nOne day doesn't tell the whole story, though. Anyone who's covered baseball for more than a season knows variance is real, especially in small samples. So we tip our cap, bank the win, and move on to Saturday."
-    },
-    {
-      "type": "text",
-      "value": "## October 11 Preview: The Brewers Spot\n\nNow here's where it gets interesting. The model is giving us Milwaukee at 61% against the Dodgers tomorrow, and I'll admit—this one raised my eyebrows. You've got Tarik Skubal on the mound for LA, a guy who just won the Cy Young, going up against Jacob Misiorowski for the Brewers."
+      "value": "## Tomorrow's Spotlight: October 11th\n\nNow here's where it gets interesting. The Dodgers roll into Milwaukee, and they're sending Tarik Skubal to the mound—one of the most dominant arms in baseball right now. You'd think that'd make LA the easy play, right?\n\nNot so fast.\n\nOur model is leaning Brewers at 61%, and I've seen enough baseball to know that home teams with live arms can absolutely ambush even the best visitors. Jacob Misiorowski gets the ball for Milwaukee, and American Family Field has a way of amplifying young pitchers when the crowd gets behind them."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick",
-      "value": "Milwaukee Brewers (61%)",
-      "sub": "vs Dodgers · Skubal vs Misiorowski · American Family Field"
+      "title": "⭐ Tomorrow's Top Pick - October 11",
+      "value": "Milwaukee Brewers",
+      "sub": "61% win probability · Misiorowski vs Skubal"
     },
     {
       "type": "text",
-      "value": "## The Skubal Factor\n\nSkubal's elite, no question. But here's what the numbers are telling us: even great pitchers have off days, and Milwaukee at home in October is a different animal. I've seen enough playoff baseball to know that regular season dominance doesn't always translate when the stakes get higher and the crowds get louder.\n\nMisiorowski isn't a household name yet, but he's got swing-and-miss stuff, and American Family Field plays fair. The Brewers have been in these moments before—2018, 2019, 2021—and they know how to make noise in October."
+      "value": "## The Misiorowski Factor\n\nI'll be honest—betting against Tarik Skubal feels like stepping in front of a freight train. The guy's been unhittable at times this season. But that 61% confidence in Milwaukee tells me the model sees something in the matchup, probably in how the Brewers have performed at home and how Misiorowski stacks up in this particular spot.\n\nThis is the kind of pick that separates the data-driven approach from gut feelings. Sometimes you have to trust the numbers even when conventional wisdom says otherwise. We're not picking the Brewers because they're the better team—we're picking them because the situation favors them enough to move the needle to 61%."
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nA 61% edge isn't screaming certainty, and it shouldn't be. This is playoff baseball against one of the game's best pitchers. But the model sees something here—home field, matchup dynamics, Milwaukee's track record in these spots—and I've learned not to dismiss that.\n\nWe'll see how it plays tomorrow. One game at a time, just like it's always been."
-    },
-    {
-      "type": "stat_row",
-      "stats": [
-        {
-          "label": "Tomorrow's Games",
-          "value": "1"
-        },
-        {
-          "label": "Top Pick Confidence",
-          "value": "61%"
-        },
-        {
-          "label": "Featured Pitcher",
-          "value": "Skubal"
-        }
-      ]
+      "value": "## The Bottom Line\n\nPerfect night on October 10th keeps the momentum rolling. Tomorrow's a different animal entirely—going contrarian against one of baseball's elite pitchers isn't for the faint of heart. But if you've been around long enough, you know that October baseball is about matchups, not reputations.\n\nLet's see if Milwaukee can make us look smart."
     }
   ],
   "slug": "2026-10-10-daily-max",
