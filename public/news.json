@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-11T21:45:48.240828+00:00",
+  "updated_at": "2026-10-11T22:13:04.340065+00:00",
   "news": [
+    {
+      "title": "After near no-no, Rasmussen has a simple plan for ALCS encore",
+      "link": "https://www.mlb.com/news/drew-rasmussen-alds-lessons-alcs-game-1-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y3gtt9o7ac8xc6dh1k30",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-11T21:57:30+00:00",
+      "time_ago": "15m ago"
+    },
     {
       "title": "Where could Jazz Chisholm Jr. land in free agency?",
       "link": "https://www.mlb.com/news/jazz-chisholm-jr-free-agency-profile-team-fits",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T21:17:22+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "Dodgers-Brewers NLCS Game 1 FAQ, lineups (8 p.m. ET, FOX/FOX One)",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T19:02:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "How will Anthopoulos address free agency, other pressing offseason issues?",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T19:00:15+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Brewers' roster unchanged for NLCS clash with Dodgers",
@@ -77,7 +90,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-11T15:58:33+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "Dodgers add lefty Wrobleski to NLCS roster, leave off speedster Kim",
@@ -90,20 +103,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-11T15:50:15+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Guardians erase 0-2 hole, complete ALDS comeback to punch ALCS ticket",
-      "link": "https://www.mlb.com/news/guardians-win-alds-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x3rpj6c573yi7cjvqwes",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-11T07:22:00+00:00",
-      "time_ago": "14h ago"
+      "time_ago": "6h ago"
     }
   ]
 }
