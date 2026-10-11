@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-11T22:13:04.340065+00:00",
+  "updated_at": "2026-10-11T22:45:12.510894+00:00",
   "news": [
+    {
+      "title": "Why isn't Yelich in Brewers' starting lineup for NLCS Game 1?",
+      "link": "https://www.mlb.com/news/christian-yelich-out-of-starting-lineup-for-game-1-of-nlcs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791755894/mlb/u89torin9ctwsxmjh7ck",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-11T22:13:36+00:00",
+      "time_ago": "31m ago"
+    },
     {
       "title": "After near no-no, Rasmussen has a simple plan for ALCS encore",
       "link": "https://www.mlb.com/news/drew-rasmussen-alds-lessons-alcs-game-1-2026",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T21:57:30+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "Where could Jazz Chisholm Jr. land in free agency?",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T21:17:22+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Dodgers-Brewers NLCS Game 1 FAQ, lineups (8 p.m. ET, FOX/FOX One)",
@@ -38,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-11T20:39:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Notes: McClanahan (left forearm tightness) shut down for season",
@@ -51,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-10-11T19:32:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Guardians-Rays ALCS Game 1 FAQ (Mon., 8 ET, TBS/HBO Max)",
@@ -90,19 +103,6 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-11T15:58:33+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Dodgers add lefty Wrobleski to NLCS roster, leave off speedster Kim",
-      "link": "https://www.mlb.com/news/dodgers-2026-nlcs-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aztci45nxnkzqiempwjw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-11T15:50:15+00:00",
       "time_ago": "6h ago"
     }
   ]
