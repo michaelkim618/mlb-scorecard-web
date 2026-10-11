@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-10-11T22:59:49.535337+00:00",
+  "updated_at": "2026-10-11T23:33:08.499754+00:00",
   "news": [
+    {
+      "title": "Why isn't Yelich in Brewers' starting lineup for NLCS Game 1?",
+      "link": "https://www.mlb.com/news/christian-yelich-out-of-starting-lineup-for-game-1-of-nlcs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791755894/mlb/u89torin9ctwsxmjh7ck",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-11T23:20:00+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "5 years after Rays stole Caminero from Guards, the question remains: HOW?",
+      "link": "https://www.mlb.com/news/junior-caminero-facing-team-that-traded-him-to-rays-in-2026-alcs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ipzdpln4etflsjwsjzdj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-11T23:08:00+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "Ramírez relishing another chance to carry Guardians to World Series berth",
+      "link": "https://www.mlb.com/news/jose-ramirez-has-chance-to-reach-world-series-for-second-time",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eb3lw0rbrpxfujzhnyf6",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-11T23:04:21+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "Dodgers add lefty Wrobleski to NLCS roster, leave off speedster Kim",
+      "link": "https://www.mlb.com/news/dodgers-2026-nlcs-roster",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aztci45nxnkzqiempwjw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-11T23:04:00+00:00",
+      "time_ago": "29m ago"
+    },
     {
       "title": "Guardians tab well-traveled Griffin to open ALCS in St. Pete",
       "link": "https://www.mlb.com/news/foster-griffin-guardians-alcs-game-1-start",
@@ -12,20 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T22:42:29+00:00",
-      "time_ago": "17m ago"
-    },
-    {
-      "title": "Why isn't Yelich in Brewers' starting lineup for NLCS Game 1?",
-      "link": "https://www.mlb.com/news/christian-yelich-out-of-starting-lineup-for-game-1-of-nlcs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791755894/mlb/u89torin9ctwsxmjh7ck",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-11T22:13:36+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "After near no-no, Rasmussen has a simple plan for ALCS encore",
@@ -64,46 +103,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-10-11T19:32:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Guardians-Rays ALCS Game 1 FAQ (Mon., 8 ET, TBS/HBO Max)",
-      "link": "https://www.mlb.com/news/guardians-vs-rays-alcs-game-1-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t4wkbgchvnegpufqf3pj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry and Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-11T19:02:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "How will Anthopoulos address free agency, other pressing offseason issues?",
-      "link": "https://www.mlb.com/news/alex-anthopoulos-addresses-braves-offseason-questions",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hk1gvboo8omzhopifpa4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-11T19:00:15+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Brewers' roster unchanged for NLCS clash with Dodgers",
-      "link": "https://www.mlb.com/news/brewers-2026-nlcs-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rjgf6ktsu6swajd6i5t7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-11T15:58:33+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
