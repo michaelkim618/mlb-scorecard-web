@@ -1,0 +1,95 @@
+{
+  "title": "Oct 10 Results + Oct 11 Preview: Perfect Start, But We've Been Here Before",
+  "summary": "Model goes 1-0 on Oct 10. Tomorrow: Brewers backed against Skubal in a tough spot.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## October 10 Recap: Clean Slate\n\nLook, I've been doing this long enough to know that a 1-0 day doesn't make you a genius. But I'll take it. The model liked Cleveland at home against the Sox, gave them a modest 53% edge, and they delivered. Nothing fancy, just solid home playoff baseball in October—the kind we've seen a thousand times at Progressive Field."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Oct 10 Record",
+          "value": "1-0"
+        },
+        {
+          "label": "Accuracy",
+          "value": "100%"
+        },
+        {
+          "label": "Average Confidence",
+          "value": "53%"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "October 10 Results",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Sox @ Guardians",
+          "Guardians",
+          "53%",
+          "✓ Hit"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## What Worked\n\nThe Guardians pick wasn't about overthinking it. Home team, playoff atmosphere, decent pitching matchup. Sometimes the simplest read is the right one. I've seen teams try to get too cute in October—this wasn't that. Cleveland came through like we thought they would.\n\nOne day doesn't tell the whole story, though. Anyone who's covered baseball for more than a season knows variance is real, especially in small samples. So we tip our cap, bank the win, and move on to Saturday."
+    },
+    {
+      "type": "text",
+      "value": "## October 11 Preview: The Brewers Spot\n\nNow here's where it gets interesting. The model is giving us Milwaukee at 61% against the Dodgers tomorrow, and I'll admit—this one raised my eyebrows. You've got Tarik Skubal on the mound for LA, a guy who just won the Cy Young, going up against Jacob Misiorowski for the Brewers."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Tomorrow's Top Pick",
+      "value": "Milwaukee Brewers (61%)",
+      "sub": "vs Dodgers · Skubal vs Misiorowski · American Family Field"
+    },
+    {
+      "type": "text",
+      "value": "## The Skubal Factor\n\nSkubal's elite, no question. But here's what the numbers are telling us: even great pitchers have off days, and Milwaukee at home in October is a different animal. I've seen enough playoff baseball to know that regular season dominance doesn't always translate when the stakes get higher and the crowds get louder.\n\nMisiorowski isn't a household name yet, but he's got swing-and-miss stuff, and American Family Field plays fair. The Brewers have been in these moments before—2018, 2019, 2021—and they know how to make noise in October."
+    },
+    {
+      "type": "text",
+      "value": "## The Bottom Line\n\nA 61% edge isn't screaming certainty, and it shouldn't be. This is playoff baseball against one of the game's best pitchers. But the model sees something here—home field, matchup dynamics, Milwaukee's track record in these spots—and I've learned not to dismiss that.\n\nWe'll see how it plays tomorrow. One game at a time, just like it's always been."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Tomorrow's Games",
+          "value": "1"
+        },
+        {
+          "label": "Top Pick Confidence",
+          "value": "61%"
+        },
+        {
+          "label": "Featured Pitcher",
+          "value": "Skubal"
+        }
+      ]
+    }
+  ],
+  "slug": "2026-10-10-daily-max",
+  "author": "Max",
+  "author_emoji": "📰",
+  "author_role": "Senior Reporter",
+  "author_color": "#16A34A",
+  "date": "2026-10-10",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#16A34A"
+}

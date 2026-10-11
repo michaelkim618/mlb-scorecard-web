@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-10-10-daily-max",
+      "title": "Oct 10 Results + Oct 11 Preview: Perfect Start, But We've Been Here Before",
+      "author": "Max",
+      "author_emoji": "📰",
+      "author_color": "#16A34A",
+      "author_role": "Senior Reporter",
+      "date": "2026-10-10",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#16A34A",
+      "read_time": "3 min",
+      "summary": "Model goes 1-0 on Oct 10. Tomorrow: Brewers backed against Skubal in a tough spot."
+    },
+    {
       "slug": "2026-10-09-daily-doc",
       "title": "Oct 10 Preview: When the Pythagorean Expectation Meets Reality",
       "author": "Doc",
