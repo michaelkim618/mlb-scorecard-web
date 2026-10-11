@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-11T04:50:28.707830+00:00",
+  "updated_at": "2026-10-11T05:35:44.413538+00:00",
   "news": [
+    {
+      "title": "One pitch -- and a good one -- was the difference for Burke, White Sox season",
+      "link": "https://www.mlb.com/news/sean-burke-allows-homer-to-jose-ramirez-in-game-5-alds-loss",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/asoqeoqsmz6lzfz2lhuz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rhett Bollinger",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-11T05:07:04+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "Starting Pitcher Power Rankings: LCS edition",
+      "link": "https://www.mlb.com/news/starting-pitcher-power-rankings-for-2026-league-championship-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yfcypfvjldge03w2wpfd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Manny Randhawa",
+      "tag": "Rankings",
+      "tag_color": "#4F46E5",
+      "pub_date": "2026-10-11T04:51:22+00:00",
+      "time_ago": "44m ago"
+    },
     {
       "title": "Power Rankings: Who's on top among final four teams?",
       "link": "https://www.mlb.com/news/mlb-postseason-power-rankings-for-league-championship-series-2026",
@@ -12,7 +38,7 @@
       "tag": "Rankings",
       "tag_color": "#4F46E5",
       "pub_date": "2026-10-11T04:14:19+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Who has the edge in NLCS? Our experts are divided",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T04:14:06+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Storylines to follow as Dodgers, Brewers meet for NLCS rematch",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T04:14:00+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "What fatigue? Williams fans 12, flirts with no-no 2 days after closing Game 4",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T03:35:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Rojas (back) expected to be on Dodgers' NLCS roster",
@@ -64,7 +90,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-11T03:19:49+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Guardians erase 0-2 hole, complete ALDS comeback to punch ALCS ticket",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T03:17:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "What you need to know about the League Championship Series matchups",
-      "link": "https://www.mlb.com/news/mlb-2026-league-championship-series-matchups",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tcto9eltnim6sblkpisf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-11T03:08:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Can Ohtani repeat history with an NLCS offensive breakout vs. Brewers?",
-      "link": "https://www.mlb.com/news/shohei-ohtani-looks-to-get-bat-going-vs-brewers-in-nlcs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791685972/mlb/cnfexr4s6aeydkkldx0x",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-11T02:58:38+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
