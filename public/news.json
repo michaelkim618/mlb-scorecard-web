@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T18:19:14.877420+00:00",
+  "updated_at": "2026-10-11T18:44:23.557988+00:00",
   "news": [
     {
       "title": "McClanahan (left forearm tightness) shut down for season",
@@ -12,7 +12,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-10-11T18:04:48+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "39m ago"
     },
     {
       "title": "Guardians-Rays ALCS Game 1 FAQ (Mon., 8 ET, TBS/HBO Max)",
@@ -25,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T17:42:00+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Brewers' roster unchanged for NLCS clash with Dodgers",
@@ -64,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T14:22:48+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Guardians erase 0-2 hole, complete ALDS comeback to punch ALCS ticket",
@@ -77,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T07:22:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Dodgers-Brewers NLCS Game 1 FAQ (8 p.m. ET, FOX/FOX One)",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T06:27:32+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "12h ago"
     }
   ]
 }
