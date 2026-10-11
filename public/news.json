@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-11T04:05:38.233161+00:00",
+  "updated_at": "2026-10-11T04:50:28.707830+00:00",
   "news": [
+    {
+      "title": "Power Rankings: Who's on top among final four teams?",
+      "link": "https://www.mlb.com/news/mlb-postseason-power-rankings-for-league-championship-series-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oyqhba4gir9cpmij42ur",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "Rankings",
+      "tag_color": "#4F46E5",
+      "pub_date": "2026-10-11T04:14:19+00:00",
+      "time_ago": "36m ago"
+    },
+    {
+      "title": "Who has the edge in NLCS? Our experts are divided",
+      "link": "https://www.mlb.com/news/predictions-for-dodgers-brewers-2026-mlb-nlcs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cfzwxlmk86wmvuboehfs",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-11T04:14:06+00:00",
+      "time_ago": "36m ago"
+    },
+    {
+      "title": "Storylines to follow as Dodgers, Brewers meet for NLCS rematch",
+      "link": "https://www.mlb.com/news/2026-nlcs-game-1-storylines-what-to-watch-for",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/moaaxjftuqfeglluue5y",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-11T04:14:00+00:00",
+      "time_ago": "36m ago"
+    },
     {
       "title": "What fatigue? Williams fans 12, flirts with no-no 2 days after closing Game 4",
       "link": "https://www.mlb.com/news/gavin-williams-ties-cleveland-postseason-strikeout-record",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T03:35:00+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rojas (back) expected to be on Dodgers' NLCS roster",
@@ -25,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-11T03:19:49+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Guardians erase 0-2 hole, complete ALDS comeback to punch ALCS ticket",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T03:17:00+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "What you need to know about the League Championship Series matchups",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T03:08:00+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Can Ohtani repeat history with an NLCS offensive breakout vs. Brewers?",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T02:58:38+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "White Sox special season ends with defeat in Game 5 of ALDS",
-      "link": "https://www.mlb.com/news/white-sox-lose-2026-alds-to-guardians",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aghbcvxajdta4pdupvkz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-11T02:57:16+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Are you ready for it? Travis Kelce, Donovan Mitchell cheer for Cleveland at ALDS G5",
-      "link": "https://www.mlb.com/news/travis-kelce-donovan-mitchell-attend-alds-game-5-in-cleveland",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x1b0zt5oqze19wwrvb56",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-11T02:52:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Want small ball? Clutch hits? Homers? The Rays can do it all -- and they're not done yet",
-      "link": "https://www.mlb.com/news/how-the-rays-score-runs-in-many-different-ways",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yjkli1iiflfqdd2fsxbc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-11T02:49:00+00:00",
       "time_ago": "1h ago"
     }
   ]
