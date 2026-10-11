@@ -1,17 +1,17 @@
 {
-  "title": "Oct 10 Results + Oct 11 Preview: Perfect Start to October Baseball",
-  "summary": "Cleveland delivers as expected. Now we turn to Milwaukee's home stand.",
+  "title": "Oct 10 Results + Oct 11 Preview: Perfect Start to the Postseason",
+  "summary": "Nailed the Guardians pick at 53%. Tomorrow: Brewers host Dodgers in a pitcher's duel.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## October 10 Recap: When Experience Meets Execution\n\nYou know, I've been doing this long enough to appreciate a clean slate when I see one. Yesterday we went 1-0, and while the sample size was small, the execution was textbook. The Guardians took care of business at home against the Sox, just like we projected at 53% confidence. Nothing fancy, nothing lucky—just good baseball played the way it's supposed to be in October."
+      "value": "## A Clean Sweep to Start October\n\nYou know, I've been doing this long enough to appreciate a perfect day when it comes. October 10th gave us just that—a clean 1-0 record with the Guardians coming through at Progressive Field. Nothing flashy, just solid baseball and a model that caught the right side of a close one."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Oct 10 W-L",
+          "label": "Oct 10 Record",
           "value": "1-0"
         },
         {
@@ -19,18 +19,18 @@
           "value": "100.0%"
         },
         {
-          "label": "Games Analyzed",
-          "value": "1"
+          "label": "Avg Confidence",
+          "value": "53%"
         }
       ]
     },
     {
       "type": "table",
-      "title": "October 10 Results Breakdown",
+      "title": "October 10 Full Results",
       "headers": [
         "Game",
         "Pick",
-        "Confidence",
+        "Probability",
         "Result"
       ],
       "rows": [
@@ -38,37 +38,18 @@
           "Sox @ Guardians",
           "Guardians",
           "53%",
-          "✓ Hit"
+          "✓"
         ]
       ]
     },
     {
       "type": "text",
-      "value": "## The Cleveland Story\n\nThere's something about Cleveland in October that reminds me of teams from a different era. They don't beat you with flash—they grind you down with fundamentals and home-field execution. The 53% confidence wasn't a slam dunk, but it reflected what the data was telling us: a slight edge for the home team that knew how to leverage it.\n\nI've seen plenty of postseason series where the visiting team comes in hot and steals Game 1. This wasn't one of those nights. The Guardians controlled the tempo from the first pitch, and our model caught that edge before the game even started."
-    },
-    {
-      "type": "text",
-      "value": "## Looking Ahead: October 11 Top Pick\n\nNow we shift our focus to Milwaukee, where things get interesting. The Dodgers roll into town, and on paper, you'd think Los Angeles has every advantage. But here's what I've learned over the years: October baseball at Miller Park—excuse me, American Family Field—is a different beast entirely.\n\nOur model is leaning Brewers at 61% confidence, and I'll tell you why that number makes sense."
-    },
-    {
-      "type": "highlight_box",
-      "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - October 11",
-      "value": "Milwaukee Brewers (61%)",
-      "sub": "vs Los Angeles Dodgers • Home advantage meets pitching depth"
-    },
-    {
-      "type": "text",
-      "value": "## The Pitching Matchup: Skubal vs Misiorowski\n\nTarik Skubal for the Dodgers—now there's a name that commands respect. The guy has been dealing all season, and Los Angeles didn't acquire him to lose playoff games. But Jacob Misiorowski on the Milwaukee side? If you've been paying attention to what the Brewers have been developing, you know this kid has the stuff to hang with anyone.\n\nI've seen this script before: veteran arm for the visiting team, rising talent at home with something to prove. The edge goes to Milwaukee not because Skubal isn't excellent—he is—but because Misiorowski has been lights-out in this park, and the Brewers' offense has shown they can manufacture runs in tight games."
-    },
-    {
-      "type": "text",
-      "value": "## Why 61% Feels Right\n\nSix out of ten times, Milwaukee wins this game. That's what the model says, and from where I sit, it tracks. The Brewers have home-field advantage, a starter who's been terrific in high-leverage situations, and a bullpen that's fresher than people think.\n\nThis isn't a coinflip, but it's not a lock either. The Dodgers are too talented to dismiss. But if I'm putting my reputation on the line—and after 20-plus years of covering this game, I am—I'm riding with Milwaukee tomorrow.\n\nLet's see if we can make it 2-0 to start this October run."
+      "value": "## The Guardians Did What They Do\n\nThe Sox-Guardians matchup wasn't a coin flip, but it was close—53% confidence on Cleveland. I've seen enough October baseball to know that home field in a tight series can be the difference, and the Guardians have been playing fundamental baseball all season. They didn't need to blow anyone away; they just needed to execute, and they did.\n\nThat's postseason baseball in a nutshell. The margins are razor-thin, and the team that makes fewer mistakes usually punches their ticket to the next round."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "October 10 Prediction Results",
+      "title": "October 10 Prediction Performance",
       "data": [
         {
           "name": "Guardians",
@@ -86,9 +67,28 @@
         {
           "key": "result",
           "color": "#16A34A",
-          "label": "Correct (1=Yes)"
+          "label": "Correct (1=Yes, 0=No)"
         }
       ]
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Spotlight: Dodgers at Brewers\n\nNow we turn our attention to October 11, and this one's got some juice. The Dodgers head to Milwaukee, and our model is leaning Brewers at 61% confidence. What makes this interesting is the pitching matchup we're looking at."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Tomorrow's Top Pick",
+      "value": "Milwaukee Brewers",
+      "sub": "61% win probability · Misiorowski vs Skubal"
+    },
+    {
+      "type": "text",
+      "value": "## The Pitching Matchup That Has My Attention\n\nTarik Skubal on the mound for Los Angeles is no joke—the guy's been one of the best arms in baseball. But here's the thing: Jacob Misiorowski at home in Milwaukee is a different animal. I've seen enough of these playoff series to know that young arms with something to prove in front of their home crowd can rise to the occasion.\n\nThe Brewers have been excellent at American Family Field this year, and that 61% confidence from the model reflects not just Misiorowski's ability, but the entire ecosystem around him—the defense, the bullpen depth, and that crowd energy that can rattle even the most experienced visitors.\n\nSkubal's got the pedigree, sure. But October has a way of leveling the playing field. The Brewers aren't going to be intimidated by a big name, and that home cooking could be the edge they need."
+    },
+    {
+      "type": "text",
+      "value": "## What I'm Watching\n\nHere's what'll determine this one: early run support and pitch efficiency. If Misiorowski can work efficiently through five or six innings and hand it to Milwaukee's bullpen with a lead, the Brewers are in excellent shape. On the flip side, if Skubal finds his groove early and the Dodgers can manufacture runs the way they're capable of, that 61% can flip in a hurry.\n\nI've seen this script before—powerful visiting team, confident home underdog, October atmosphere. It usually comes down to who executes in the middle innings. That's where games are won and lost this time of year.\n\nStay sharp, and let's see if we can keep this momentum rolling into Saturday."
     }
   ],
   "slug": "2026-10-10-daily-max",
