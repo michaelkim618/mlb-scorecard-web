@@ -1,18 +1,44 @@
 {
-  "updated_at": "2026-10-12T02:36:21.326236+00:00",
+  "updated_at": "2026-10-12T03:42:35.471678+00:00",
   "news": [
     {
-      "title": "Miz battles traffic, grinds into the 5th vs. vaunted LA lineup",
+      "title": "Brewers take Game 1 in NLCS rematch against defending champs",
+      "link": "https://www.mlb.com/news/brewers-win-nlcs-game-1-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cemrkgky5xankjb35h99",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-12T03:27:00+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "Skubal loses steam second time through in NLCS loss to Brewers",
+      "link": "https://www.mlb.com/news/tarik-skubal-start-vs-brewers-in-nlcs-game-1-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791770710/mlb/mvc5fhp9vmkztmspw2ca",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-12T03:16:00+00:00",
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "Miz grinds into the 5th, keeps LA in check in Crew's Game 1 win",
       "link": "https://www.mlb.com/news/jacob-misiorowski-dodgers-brewers-nlcs-game-1",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g0bd18hvkgoozbkrjibz",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Adam McCalvy",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-12T02:23:53+00:00",
-      "time_ago": "12m ago"
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-12T03:13:00+00:00",
+      "time_ago": "29m ago"
     },
     {
       "title": "Guardians tab well-traveled Griffin to open ALCS: 'It was a no-brainer'",
@@ -25,19 +51,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-12T02:06:00+00:00",
-      "time_ago": "30m ago"
-    },
-    {
-      "title": "LIVE: Brewers score with long ball AND small ball (FOX/FOX One)",
-      "link": "https://www.mlb.com/stories/game/849809",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jublvnptcdwiy8ymiasz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-12T01:35:39+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-12T01:30:17+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Guardians-Rays ALCS Game 1 FAQ (Mon., 8 ET, TBS/HBO Max)",
@@ -64,19 +77,19 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-12T00:27:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
-      "title": "Why isn't Yelich in Brewers' starting lineup for NLCS Game 1?",
-      "link": "https://www.mlb.com/news/christian-yelich-out-of-starting-lineup-for-game-1-of-nlcs",
+      "title": "Guardians-Rays ALCS position-by-position breakdown",
+      "link": "https://www.mlb.com/news/guardians-rays-alcs-position-by-position-breakdown",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791755894/mlb/u89torin9ctwsxmjh7ck",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bfyzvycvlnjfol6obmil",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-11T23:20:00+00:00",
+      "author": "Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-11T23:52:47+00:00",
       "time_ago": "3h ago"
     },
     {
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T23:08:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Ramírez relishing another chance to carry Guardians to World Series berth",
-      "link": "https://www.mlb.com/news/jose-ramirez-has-chance-to-reach-world-series-for-second-time",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eb3lw0rbrpxfujzhnyf6",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-11T23:04:21+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
