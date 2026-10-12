@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-12T00:07:36.297753+00:00",
+  "updated_at": "2026-10-12T00:39:32.161779+00:00",
   "news": [
+    {
+      "title": "Guardians-Rays ALCS Game 1 FAQ (Mon., 8 ET, TBS/HBO Max)",
+      "link": "https://www.mlb.com/news/guardians-vs-rays-alcs-game-1-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t4wkbgchvnegpufqf3pj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry and Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-12T00:27:00+00:00",
+      "time_ago": "12m ago"
+    },
     {
       "title": "LIVE: Dodgers-Brewers NLCS Game 1 on FOX/FOX One",
       "link": "https://www.mlb.com/news/dodgers-brewers-nl-championship-series-game-1-starting-lineups-and-pitching-matchup",
@@ -12,20 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T23:46:00+00:00",
-      "time_ago": "21m ago"
-    },
-    {
-      "title": "Guardians-Rays ALCS Game 1 FAQ (Mon., 8 ET, TBS/HBO Max)",
-      "link": "https://www.mlb.com/news/guardians-vs-rays-alcs-game-1-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t4wkbgchvnegpufqf3pj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry and Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-11T23:25:00+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "Why isn't Yelich in Brewers' starting lineup for NLCS Game 1?",
@@ -38,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-11T23:20:00+00:00",
-      "time_ago": "47m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "5 years after Rays stole Caminero from Guards, the question remains: HOW?",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-11T23:08:00+00:00",
-      "time_ago": "59m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Ramírez relishing another chance to carry Guardians to World Series berth",
