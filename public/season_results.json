@@ -18121,6 +18121,30 @@
       "away_bp_score": 75.0,
       "home_bp_score": 72.9,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-10-11",
+      "away": "Los Angeles Dodgers",
+      "home": "Milwaukee Brewers",
+      "game_number": 1,
+      "pick": "Los Angeles Dodgers",
+      "pick_prob": 50.0,
+      "actual_winner": "Milwaukee Brewers",
+      "away_score": 1,
+      "home_score": 2,
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "hot",
+      "away_sp_era": 2.32,
+      "home_sp_era": 2.16,
+      "away_bp_era": 3.24,
+      "home_bp_era": 2.89,
+      "away_sp_score": 72.0,
+      "home_sp_score": 59.0,
+      "away_bp_score": 67.4,
+      "home_bp_score": 73.2,
+      "bat_source": "lineup"
     }
   ]
 }
