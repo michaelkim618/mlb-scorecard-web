@@ -1201,7 +1201,7 @@ window.PREDICTIONS_DATA = [
           "recent_era": 3.08,
           "recent_appearances": 0,
           "recent_ip": 0.0,
-          "team_era": 3.44,
+          "team_era": 3.57,
           "bp_ip": 356.7,
           "bp_count": 7,
           "closer_era": 1.95,
