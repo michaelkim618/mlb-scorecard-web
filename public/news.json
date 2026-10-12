@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T22:20:20.125544+00:00",
+  "updated_at": "2026-10-12T22:33:39.115369+00:00",
   "news": [
     {
       "title": "LIVE: Dodgers, Brewers exchange early blows in Game 2 (FOX/FS1/FOX One)",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-12T21:31:40+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Guardians-Rays ALCS Game 1 FAQ, lineups (8 ET, TBS/HBO Max)",
@@ -80,19 +80,6 @@
       "time_ago": "7h ago"
     },
     {
-      "title": "4 storylines for NLCS Game 2 & ALCS Game 1",
-      "link": "https://www.mlb.com/news/2026-alcs-game-1-nlcs-game-2-storylines-to-follow",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lkwnovhxztmsi4bol5w0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-12T14:15:00+00:00",
-      "time_ago": "8h ago"
-    },
-    {
       "title": "Without best stuff, Miz grinds into the 5th, then Crew's lockdown 'pen takes over",
       "link": "https://www.mlb.com/news/jacob-misiorowski-dodgers-brewers-nlcs-game-1",
       "summary": "",
@@ -104,6 +91,19 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-12T06:37:00+00:00",
       "time_ago": "15h ago"
+    },
+    {
+      "title": "Brewers take Game 1 in NLCS rematch against defending champs",
+      "link": "https://www.mlb.com/news/brewers-win-nlcs-game-1-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cemrkgky5xankjb35h99",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-12T06:04:00+00:00",
+      "time_ago": "16h ago"
     }
   ]
 }
