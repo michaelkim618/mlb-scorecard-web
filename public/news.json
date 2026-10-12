@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-12T06:13:22.970459+00:00",
+  "updated_at": "2026-10-12T06:57:19.996943+00:00",
   "news": [
+    {
+      "title": "Without best stuff, Miz grinds into the 5th, then Crew's lockdown 'pen takes over",
+      "link": "https://www.mlb.com/news/jacob-misiorowski-dodgers-brewers-nlcs-game-1",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g0bd18hvkgoozbkrjibz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-12T06:37:00+00:00",
+      "time_ago": "20m ago"
+    },
     {
       "title": "Brewers take Game 1 in NLCS rematch against defending champs",
       "link": "https://www.mlb.com/news/brewers-win-nlcs-game-1-2026",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-12T06:04:00+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "Dodgers-Brewers NLCS Game 2 FAQ (Mon., 5 ET, FOX/FS1)",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-12T06:03:12+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "Late-night work pays off for 'baseball rat' Turang in Game 1 star turn",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-12T05:51:35+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "With minimal support, Skubal loses steam 2nd time through in NLCS loss to Brewers",
@@ -51,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-12T05:38:00+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Dodgers feel good with postseason ace Yamamoto set for Game 2",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-12T05:19:53+00:00",
-      "time_ago": "53m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Miz is mortal, but 'Brewers ball' bests Dodgers ... and other key takeaways from Game 1",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-12T04:18:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Storylines to follow as NLCS rolls on and ALCS gets underway",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-12T03:58:42+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Our expert picks for the Guardians-Rays ALCS",
-      "link": "https://www.mlb.com/news/2026-mlb-alcs-picks-guardians-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/azhzwvvbbxmzjzeu6ojy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa and Jared Greenspan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-12T03:40:00+00:00",
       "time_ago": "2h ago"
     }
   ]
