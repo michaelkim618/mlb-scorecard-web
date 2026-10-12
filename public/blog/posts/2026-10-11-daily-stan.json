@@ -1,11 +1,11 @@
 {
-  "title": "Oct 11 Results + Oct 12 Preview: One Miss, But the Numbers Say Double Down",
-  "summary": "0-1 on Oct 11, but the data supports running it back with LA on Oct 12",
+  "title": "Oct 11 Results + Oct 12 Preview: The Numbers Don't Lie—Back to the Drawing Board",
+  "summary": "0-1 on Oct 11, but the data says double down on LA for Oct 12",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Oct 11 Results: The Numbers Don't Lie\n\nLet's cut straight to the data—we went 0-1 yesterday with a 0.0% win rate. The Dodgers fell short in Milwaukee despite our 50% confidence level. One game, one miss, but here's what the numbers tell me: small sample sizes create variance, and variance is noise."
+      "value": "## Oct 11 Results: A 0% Day\n\nLet's cut straight to the data—yesterday was a complete miss. 0-1 record, 0.0% accuracy. The Dodgers pick at 50% confidence didn't deliver. When you're looking at a coin flip probability and it lands wrong, that's exactly what the numbers predicted: high variance, low confidence."
     },
     {
       "type": "stat_row",
@@ -15,7 +15,7 @@
           "value": "0-1"
         },
         {
-          "label": "Win Rate",
+          "label": "Accuracy",
           "value": "0.0%"
         },
         {
@@ -26,25 +26,25 @@
     },
     {
       "type": "table",
-      "title": "Oct 11 Complete Results Breakdown",
+      "title": "Oct 11 Game-by-Game Breakdown",
       "headers": [
-        "Matchup",
-        "Our Pick",
-        "Confidence",
-        "Outcome"
+        "Game",
+        "Pick",
+        "Probability",
+        "Result"
       ],
       "rows": [
         [
           "Dodgers @ Brewers",
           "Dodgers",
           "50%",
-          "✗ Miss"
+          "✗"
         ]
       ]
     },
     {
       "type": "text",
-      "value": "## The Statistical Reality Check\n\nA 50% confidence pick means we're essentially calling a coin flip with slight edge indicators. When you're at 50%, you expect to hit roughly half over a sufficient sample. One game at 50% confidence tells us exactly nothing about model accuracy. That's Statistics 101."
+      "value": "## The 50% Problem\n\nHere's what the data tells us: a 50% pick is essentially a toss-up. No edge, no statistical advantage. The model called it dead even, and Milwaukee came out on top. That's baseball variance in its purest form. The key takeaway? When confidence is at 50%, we're looking at maximum uncertainty."
     },
     {
       "type": "chart",
@@ -67,63 +67,45 @@
         {
           "key": "result",
           "color": "#DC2626",
-          "label": "Correct (1=Yes, 0=No)"
+          "label": "Correct (0=No)"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## Oct 12 Preview: The Rematch Proposition\n\nHere's where it gets interesting from an analytical standpoint—we're running the exact same matchup back. Dodgers at Brewers, Game 2. The model is giving us the same 50% read, but now we have different pitching variables in the equation."
+      "value": "## Oct 12 Preview: Running It Back\n\nThe model is sending us right back to the same matchup. Dodgers at Brewers, Game 2. But here's what's different in the data: we're still at 50% confidence, which means the pitching matchup and situational factors are keeping this dead even.\n\nYoshinobu Yamamoto gets the ball for LA against Logan Henderson. The sample size on Henderson in high-leverage October baseball is limited, which creates uncertainty in the model. Yamamoto's postseason metrics show volatility—the kind that makes 50% the mathematically honest projection."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - Oct 12",
-      "value": "Los Angeles Dodgers",
-      "sub": "50% Win Probability · Yamamoto vs Henderson"
+      "title": "⭐ Oct 12 Top Pick",
+      "value": "Los Angeles Dodgers @ Milwaukee Brewers",
+      "sub": "Pick: Dodgers | 50% Win Probability | Yamamoto vs Henderson"
     },
     {
       "type": "text",
-      "value": "## The Pitching Matchup: Where the Edge Lives\n\nYoshinobu Yamamoto takes the ball for LA against Logan Henderson. Here's the data point that matters: Yamamoto brings elite-level stuff with a track record of high strikeout rates. Henderson is less proven at this stage. The pitcher differential creates the slight edge that pushes us back to the Dodgers at 50%."
+      "value": "## The Statistical Reality\n\nLook, the numbers are clear: 50% confidence means we're back in coin-flip territory. The model isn't showing favoritism—it's showing equilibrium. Series tied 0-0 after Game 1, home field advantage for Milwaukee, but the Dodgers' playoff roster depth keeps this balanced.\n\nThe data says this is another pure toss-up. No statistical edge, just variance waiting to play out. That's what October baseball looks like when two evenly matched teams go head-to-head."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "LA Win Prob",
+          "label": "Oct 12 Picks",
+          "value": "1"
+        },
+        {
+          "label": "Top Pick Confidence",
           "value": "50%"
         },
         {
-          "label": "Away SP",
-          "value": "Yamamoto"
-        },
-        {
-          "label": "Home SP",
-          "value": "Henderson"
+          "label": "Games on Slate",
+          "value": "1"
         }
       ]
     },
     {
-      "type": "table",
-      "title": "Oct 12 Top Pick Details",
-      "headers": [
-        "Team",
-        "Pitcher",
-        "Win Probability",
-        "Pick Confidence"
-      ],
-      "rows": [
-        [
-          "Dodgers (Away)",
-          "Yoshinobu Yamamoto",
-          "50%",
-          "Top Pick"
-        ]
-      ]
-    },
-    {
       "type": "text",
-      "value": "## Bottom Line: Trust the Process, Not Single Data Points\n\nOne loss at 50% confidence doesn't move the needle on model validity. What matters is long-term win rate across hundreds of picks. Tomorrow we get another crack at this series with a superior pitching edge for LA. The data says lean Dodgers—so that's exactly where we're going.\n\nCheck back after Oct 12 for the numbers on how this one plays out."
+      "value": "## Bottom Line\n\n0-1 yesterday stings, but the model called it exactly what it was: a 50-50 proposition. We're running it back with the same matchup and the same probability. The numbers don't guarantee wins—they quantify uncertainty. And right now, uncertainty is at maximum levels.\n\nLet's see if the variance swings our way on Oct 12."
     }
   ],
   "slug": "2026-10-11-daily-stan",

@@ -1318,12 +1318,12 @@
         },
         "bp_score": 74.8,
         "bp_detail": {
-          "bullpen_era": 2.78,
-          "recent_era": 2.78,
+          "bullpen_era": 2.55,
+          "recent_era": 2.55,
           "recent_appearances": 0,
           "recent_ip": 0.0,
-          "team_era": 3.46,
-          "bp_ip": 346.7,
+          "team_era": 3.41,
+          "bp_ip": 310.7,
           "bp_count": 6,
           "closer_era": 1.44,
           "closer_name": "Bryan Baker"
