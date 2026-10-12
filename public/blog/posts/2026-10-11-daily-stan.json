@@ -1,11 +1,11 @@
 {
-  "title": "Oct 11 Results + Oct 12 Preview: The Numbers Don't Lie—Back to the Drawing Board",
-  "summary": "0-1 on Oct 11, but the data says double down on LA for Oct 12",
+  "title": "Oct 11 Results + Oct 12 Preview: 0-1 Start, But the Numbers Tell a Bigger Story",
+  "summary": "Oct 11 went 0-1 with the Dodgers miss. Oct 12 brings redemption opportunity at 50%.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Oct 11 Results: A 0% Day\n\nLet's cut straight to the data—yesterday was a complete miss. 0-1 record, 0.0% accuracy. The Dodgers pick at 50% confidence didn't deliver. When you're looking at a coin flip probability and it lands wrong, that's exactly what the numbers predicted: high variance, low confidence."
+      "value": "## Oct 11 Results: The Cold, Hard Numbers\n\nLet's not sugarcoat it—0-1 is 0-1. The Dodgers pick at 50% confidence didn't materialize, and when you're running at 0.0% accuracy, there's nowhere to hide in the data. But here's what the numbers actually tell us: a 50% probability pick is essentially a coin flip, and variance is part of the game."
     },
     {
       "type": "stat_row",
@@ -19,14 +19,14 @@
           "value": "0.0%"
         },
         {
-          "label": "Picks Made",
+          "label": "Total Picks",
           "value": "1"
         }
       ]
     },
     {
       "type": "table",
-      "title": "Oct 11 Game-by-Game Breakdown",
+      "title": "Oct 11 Full Results Breakdown",
       "headers": [
         "Game",
         "Pick",
@@ -43,13 +43,9 @@
       ]
     },
     {
-      "type": "text",
-      "value": "## The 50% Problem\n\nHere's what the data tells us: a 50% pick is essentially a toss-up. No edge, no statistical advantage. The model called it dead even, and Milwaukee came out on top. That's baseball variance in its purest form. The key takeaway? When confidence is at 50%, we're looking at maximum uncertainty."
-    },
-    {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Oct 11 Pick Performance",
+      "title": "Oct 11 Pick Confidence vs Outcome",
       "data": [
         {
           "name": "Dodgers",
@@ -66,46 +62,50 @@
         },
         {
           "key": "result",
-          "color": "#DC2626",
-          "label": "Correct (0=No)"
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## Oct 12 Preview: Running It Back\n\nThe model is sending us right back to the same matchup. Dodgers at Brewers, Game 2. But here's what's different in the data: we're still at 50% confidence, which means the pitching matchup and situational factors are keeping this dead even.\n\nYoshinobu Yamamoto gets the ball for LA against Logan Henderson. The sample size on Henderson in high-leverage October baseball is limited, which creates uncertainty in the model. Yamamoto's postseason metrics show volatility—the kind that makes 50% the mathematically honest projection."
+      "value": "## The Statistical Reality\n\nWhen you make a 50% confidence pick, you're essentially saying the game is a toss-up. Missing on one doesn't invalidate the model—it's the expected outcome half the time. What matters is long-term accuracy across a statistically significant sample size. One game? That's noise, not signal."
+    },
+    {
+      "type": "text",
+      "value": "## Oct 12 Preview: Running It Back\n\nHere's where it gets interesting from an analytical standpoint: we're going right back to the same matchup. Dodgers at Brewers, Game 2. The probability model? Still sitting at 50%. The difference? Yoshinobu Yamamoto takes the mound for LA against Logan Henderson."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Oct 12 Top Pick",
+      "title": "⭐ Tomorrow's Top Pick - Oct 12",
       "value": "Los Angeles Dodgers @ Milwaukee Brewers",
-      "sub": "Pick: Dodgers | 50% Win Probability | Yamamoto vs Henderson"
+      "sub": "Pick: Dodgers • 50% Win Probability • Yamamoto vs Henderson"
     },
     {
       "type": "text",
-      "value": "## The Statistical Reality\n\nLook, the numbers are clear: 50% confidence means we're back in coin-flip territory. The model isn't showing favoritism—it's showing equilibrium. Series tied 0-0 after Game 1, home field advantage for Milwaukee, but the Dodgers' playoff roster depth keeps this balanced.\n\nThe data says this is another pure toss-up. No statistical edge, just variance waiting to play out. That's what October baseball looks like when two evenly matched teams go head-to-head."
+      "value": "## The Pitcher Matchup By The Numbers\n\nYoshinobu Yamamoto brings electric stuff to the table—we're talking about a pitcher with elite spin rates and swing-and-miss capability. Logan Henderson is the less experienced arm here, which typically shows up in the underlying metrics. But here's the thing: in playoff baseball, traditional stats get compressed. Small sample size variance explodes. That's why we're still at 50% confidence."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Oct 12 Picks",
-          "value": "1"
-        },
-        {
-          "label": "Top Pick Confidence",
+          "label": "Pick Confidence",
           "value": "50%"
         },
         {
-          "label": "Games on Slate",
+          "label": "Games Analyzed",
           "value": "1"
+        },
+        {
+          "label": "Starting Pitchers",
+          "value": "Yamamoto vs Henderson"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## Bottom Line\n\n0-1 yesterday stings, but the model called it exactly what it was: a 50-50 proposition. We're running it back with the same matchup and the same probability. The numbers don't guarantee wins—they quantify uncertainty. And right now, uncertainty is at maximum levels.\n\nLet's see if the variance swings our way on Oct 12."
+      "value": "## What The Model Sees\n\nThe 50% probability reflects what the data is telling us: this series is legitimately even. Home field advantage for Milwaukee offsets some of the Dodgers' talent edge. The pitching matchup favors LA on paper, but Henderson at home in a playoff environment creates uncertainty the model accounts for.\n\nBottom line: we're making the same pick because the underlying fundamentals haven't changed. Variance went against us on Oct 11. Let's see what the numbers say after Oct 12."
     }
   ],
   "slug": "2026-10-11-daily-stan",
