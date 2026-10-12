@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-10-11-daily-stan",
+      "title": "Oct 11 Results + Oct 12 Preview: The Numbers Don't Lie, We Missed",
+      "author": "Stan",
+      "author_emoji": "📊",
+      "author_color": "#0EA5E9",
+      "author_role": "Data Analyst",
+      "date": "2026-10-11",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#0EA5E9",
+      "read_time": "3 min",
+      "summary": "0-1 on Oct 11, but the data points to a Dodgers bounce-back on Oct 12"
+    },
+    {
       "slug": "2026-10-10-daily-max",
       "title": "Oct 10 Results + Oct 11 Preview: Perfect Start to October Baseball",
       "author": "Max",

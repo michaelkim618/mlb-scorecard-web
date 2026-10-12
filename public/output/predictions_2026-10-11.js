@@ -341,7 +341,7 @@ window.PREDICTIONS_DATA = [
       "home": 50.0
     },
     "expected_score": {
-      "away": 2.8,
+      "away": 3.2,
       "home": 2.3
     },
     "blend_detail": null,
@@ -354,9 +354,9 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": false,
       "any_cold_sp": false,
       "eff_weights": {
-        "sp": 0.31,
+        "sp": 0.28,
         "bp": 0.24,
-        "bat": 0.3,
+        "bat": 0.33,
         "sit": 0.15
       },
       "away": {
@@ -439,14 +439,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.69,
           "closer_name": "Tanner Scott"
         },
-        "bat_score": 47.2,
+        "bat_score": 52.4,
         "bat_detail": {
           "recent_avg": 0.295,
           "runs_per_g": 5.0,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
           "season_ops": 0.808,
-          "season_slg": null,
+          "season_slg": 0.451,
           "season_avg": 0.295,
           "n_games": 9,
           "source": "prev_day",
@@ -536,7 +536,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 67.4,
-        "total": 62.8
+        "total": 63.7
       },
       "home": {
         "sp_score": 59.0,
@@ -610,14 +610,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.63,
           "closer_name": "Trevor Megill"
         },
-        "bat_score": 36.6,
+        "bat_score": 37.3,
         "bat_detail": {
           "recent_avg": 0.261,
           "runs_per_g": 4.4,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
           "season_ops": 0.737,
-          "season_slg": null,
+          "season_slg": 0.407,
           "season_avg": 0.261,
           "n_games": 9,
           "source": "prev_day",
@@ -707,13 +707,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 73.1,
-        "total": 57.8
+        "total": 57.4
       }
     },
     "scores": {
-      "away_offense": 47.2,
+      "away_offense": 52.4,
       "away_defense": 69.7,
-      "home_offense": 36.6,
+      "home_offense": 37.3,
       "home_defense": 66.1
     },
     "actual_score": {

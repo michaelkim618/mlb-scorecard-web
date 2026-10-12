@@ -1,0 +1,120 @@
+{
+  "title": "Oct 11 Results + Oct 12 Preview: The Numbers Don't Lie, We Missed",
+  "summary": "0-1 on Oct 11, but the data points to a Dodgers bounce-back on Oct 12",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Oct 11 Results: A Statistical Outlier\n\nLet me give it to you straight—we went 0-1 yesterday. That's a 0.0% success rate, which statistically speaking, is as low as it gets. The Dodgers pick at 50% confidence didn't materialize, but here's what the data tells us: single-game samples are noise, not signal."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Oct 11 W-L",
+          "value": "0-1"
+        },
+        {
+          "label": "Accuracy",
+          "value": "0.0%"
+        },
+        {
+          "label": "Games Analyzed",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Oct 11 Full Results Breakdown",
+      "headers": [
+        "Game",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Dodgers @ Brewers",
+          "Dodgers",
+          "50%",
+          "✗ Miss"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The 50% Confidence Factor\n\nThat 50% pick? In statistical terms, that's a coin flip. When we're at 50%, we're telling you the model sees variance, not certainty. The Brewers executed, the Dodgers didn't. That's baseball's randomness variable at work."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Oct 11 Pick Performance",
+      "data": [
+        {
+          "name": "Dodgers",
+          "probability": 50,
+          "result": 0
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#DC2626",
+          "label": "Correct (0=No, 1=Yes)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Oct 12 Preview: Running It Back\n\nHere's where it gets interesting from an analytical standpoint—we're going back to the same matchup. Dodgers @ Brewers, Game 2. Same 50% confidence level. Why? The underlying metrics haven't shifted dramatically enough to warrant a different projection."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Tomorrow's Top Pick - Oct 12",
+      "value": "Los Angeles Dodgers",
+      "sub": "50% win probability · Yamamoto vs Henderson"
+    },
+    {
+      "type": "text",
+      "value": "## Pitcher Matchup Analysis\n\nYoshinobu Yamamoto takes the ball for LA, while Logan Henderson counters for Milwaukee. From a pure data perspective, this is another evenly-matched contest. The 50% number isn't indecision—it's what happens when two competitive rosters meet in October baseball.\n\n**Key Statistical Considerations:**\n- Yamamoto's postseason sample size is still building\n- Henderson's regular season metrics show solid control\n- Home field advantage: quantifiable but not dominant in this series\n\nThe model processes hundreds of variables, and right now, they're pointing to equilibrium. In a situation like this, we follow the data, even if yesterday's outcome didn't go our way."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Tomorrow's Games",
+          "value": "1"
+        },
+        {
+          "label": "Top Pick Confidence",
+          "value": "50%"
+        },
+        {
+          "label": "Pitching Matchup",
+          "value": "Competitive"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Bottom Line\n\nZero wins on Oct 11 stings, no question. But we're not in the business of emotional reactions—we're in the business of long-term statistical performance. One-game losing streaks are built into any model's expected variance. The question isn't whether we'll have misses; it's whether our hit rate over 100+ picks validates the methodology.\n\nOct 12 gives us another data point. Same teams, fresh game, and the numbers say it's still a toss-up. Trust the process, track the results, and let's see what the scoreboard says tomorrow."
+    }
+  ],
+  "slug": "2026-10-11-daily-stan",
+  "author": "Stan",
+  "author_emoji": "📊",
+  "author_role": "Data Analyst",
+  "author_color": "#0EA5E9",
+  "date": "2026-10-11",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#0EA5E9"
+}
