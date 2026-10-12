@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-10-12T03:42:35.471678+00:00",
+  "updated_at": "2026-10-12T04:27:15.175460+00:00",
   "news": [
+    {
+      "title": "Miz is mortal, but 'Brewers ball' bests Dodgers ... and other key takeaways from Game 1",
+      "link": "https://www.mlb.com/news/takeaways-from-brewers-win-over-dodgers-in-nlcs-game-1",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791777002/mlb/vqklylhvpmebqo0hhy1v",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-12T04:18:00+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Storylines to follow as NLCS rolls on and ALCS gets underway",
+      "link": "https://www.mlb.com/news/2026-alcs-game-1-nlcs-game-2-storylines-to-follow",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lkwnovhxztmsi4bol5w0",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-12T03:58:42+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "Our expert picks for the Guardians-Rays ALCS",
+      "link": "https://www.mlb.com/news/2026-mlb-alcs-picks-guardians-rays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/azhzwvvbbxmzjzeu6ojy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa and Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-12T03:40:00+00:00",
+      "time_ago": "47m ago"
+    },
+    {
+      "title": "Knight moves: Guardians bring medieval ritual to ALCS",
+      "link": "https://www.mlb.com/news/austin-hedges-leads-guardians-knight-of-the-day-celebration",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/b7u06ax5clplji757qhm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-12T03:36:15+00:00",
+      "time_ago": "51m ago"
+    },
     {
       "title": "Brewers take Game 1 in NLCS rematch against defending champs",
       "link": "https://www.mlb.com/news/brewers-win-nlcs-game-1-2026",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-12T03:27:00+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Skubal loses steam second time through in NLCS loss to Brewers",
@@ -25,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-12T03:16:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Miz grinds into the 5th, keeps LA in check in Crew's Game 1 win",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-12T03:13:00+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Guardians tab well-traveled Griffin to open ALCS: 'It was a no-brainer'",
@@ -51,59 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-12T02:06:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "ALCS rotation matchup: Taxed Guardians vs. well-rested Rays",
-      "link": "https://www.mlb.com/news/how-the-guardians-and-rays-rotations-lineup-for-alcs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ontzwqvvilhql8n5kvs6",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry and Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-12T01:30:17+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Guardians-Rays ALCS Game 1 FAQ (Mon., 8 ET, TBS/HBO Max)",
-      "link": "https://www.mlb.com/news/guardians-vs-rays-alcs-game-1-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t4wkbgchvnegpufqf3pj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry and Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-12T00:27:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Guardians-Rays ALCS position-by-position breakdown",
-      "link": "https://www.mlb.com/news/guardians-rays-alcs-position-by-position-breakdown",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bfyzvycvlnjfol6obmil",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-11T23:52:47+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "5 years after Rays stole Caminero from Guards, the question remains: HOW?",
-      "link": "https://www.mlb.com/news/junior-caminero-facing-team-that-traded-him-to-rays-in-2026-alcs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ipzdpln4etflsjwsjzdj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-11T23:08:00+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }
