@@ -1,8 +1,47 @@
 {
-  "updated_at": "2026-10-12T23:43:58.345037+00:00",
+  "updated_at": "2026-10-13T00:30:37.216531+00:00",
   "news": [
     {
-      "title": "12-pitch walk ... vs. Yamamoto?! Bauers outlasts ace before Crew's captain cashes in",
+      "title": "Messick, once a fan at The Trop, will take the hill there as Guardians' ALCS Game 2 starter",
+      "link": "https://www.mlb.com/news/parker-messick-guardians-starter-game-2-2026-alcs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791846794/mlb/tx9rnouzreqnctsgbp3r",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-13T00:13:40+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Guardians swap in Cecconi for Schneemann, bolstering staff for ALCS",
+      "link": "https://www.mlb.com/news/guardians-2026-alcs-roster",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mhnip7qljrddk2xv9m0r",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-13T00:01:00+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "LIVE: Guardians-Rays ALCS Game 1 on TBS/HBO Max",
+      "link": "https://www.mlb.com/news/guardians-vs-rays-alcs-game-1-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791836256/mlb/t4wkbgchvnegpufqf3pj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry and Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-12T23:45:00+00:00",
+      "time_ago": "45m ago"
+    },
+    {
+      "title": "A 12-pitch walk that took 7-plus minutes was too much for Yamamoto to overcome",
       "link": "https://www.mlb.com/news/jake-bauers-12-pitch-walk-christian-yelich-single-yoshinobu-yamamoto",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/d6lojujix19ldbopehyt",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-12T23:24:16+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Peralta looks to continue dominant run with ALCS Game 2 start",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-12T23:15:05+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yamamoto's start grinds to halt in 3rd with 12-pitch walk followed by 2-run single",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-12T23:13:19+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Hopkins in, Cleavinger out on Rays' ALCS roster",
@@ -54,32 +93,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "LIVE: Contreras coming up big in back-and-forth Game 2 (FOX/FS1/FOX One)",
-      "link": "https://www.mlb.com/stories/game/849812",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/llnlnc4cqjgpy1jasbkw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-12T21:31:40+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Guardians-Rays ALCS Game 1 FAQ, lineups (8 ET, TBS/HBO Max)",
-      "link": "https://www.mlb.com/news/guardians-vs-rays-alcs-game-1-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791836256/mlb/t4wkbgchvnegpufqf3pj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry and Tim Stebbins",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-12T20:09:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
       "title": "Turang's Game 1 HR not just clutch, it was the type of blast only Ohtani hits",
       "link": "https://www.mlb.com/news/brice-turang-nlcs-game-1-home-run",
       "summary": "",
@@ -90,19 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-12T15:35:18+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "Guardians-Rays ALCS position-by-position breakdown",
-      "link": "https://www.mlb.com/news/guardians-rays-alcs-position-by-position-breakdown",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bfyzvycvlnjfol6obmil",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-12T14:55:00+00:00",
       "time_ago": "8h ago"
     }
   ]
