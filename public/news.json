@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-13T01:28:53.613959+00:00",
+  "updated_at": "2026-10-13T01:56:30.937423+00:00",
   "news": [
+    {
+      "title": "Contreras shines as Dodgers' stars slump ... and other key takeaways from Game 2",
+      "link": "https://www.mlb.com/news/key-takeaways-from-brewers-win-over-dodgers-in-nlcs-game-2",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tk2ev9ixzekqjktxnkrn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-13T01:30:20+00:00",
+      "time_ago": "26m ago"
+    },
     {
       "title": "A 12-pitch walk that took 7-plus minutes was too much for Yamamoto to overcome",
       "link": "https://www.mlb.com/news/jake-bauers-12-pitch-walk-christian-yelich-single-yoshinobu-yamamoto",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T01:22:00+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "34m ago"
     },
     {
       "title": "Crew overcomes 3 deficits in seesaw Game 2, tightens grip on NLCS",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T01:13:00+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "LIVE: Rays jump out to quick lead in Game 1 (TBS/HBO Max)",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T00:37:09+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yamamoto's Game 2 start grinds to halt in 3rd inning",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-12T23:15:05+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Hopkins in, Cleavinger out on Rays' ALCS roster",
-      "link": "https://www.mlb.com/news/rays-2026-alcs-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eh99w4t6a3cubnabnqrf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-12T22:41:00+00:00",
       "time_ago": "2h ago"
     }
   ]
