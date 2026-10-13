@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T02:19:39.626538+00:00",
+  "updated_at": "2026-10-13T02:38:39.314696+00:00",
   "news": [
     {
       "title": "Contreras shines as Dodgers' stars slump ... and other key takeaways from Game 2",
@@ -12,7 +12,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T01:30:20+00:00",
-      "time_ago": "49m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Pitching prospect Huggins growing his game with the help of this A's Hall of Famer",
+      "link": "https://www.mlb.com/news/athletics-prospect-kenya-huggins-mentor-dave-stewart",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vk892u1lxlmdy1jmg6dd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jonathan Mayo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-13T01:30:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "A 12-pitch walk that took 7-plus minutes was too much for Yamamoto to overcome",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T01:22:00+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Crew overcomes 3 deficits in seesaw Game 2, tightens grip on NLCS",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T00:37:09+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Yamamoto's Game 2 start grinds to halt in 3rd inning",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T00:28:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Messick, once a fan at The Trop, will take the hill there as Guardians' ALCS Game 2 starter",
@@ -91,19 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T00:01:00+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Peralta looks to continue dominant run with ALCS Game 2 start",
-      "link": "https://www.mlb.com/news/freddy-peralta-to-start-alcs-game-2-for-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/waaadtifyrawuc2jc1gn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-12T23:15:05+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
