@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T19:22:59.730225+00:00",
+  "updated_at": "2026-10-13T19:48:36.763279+00:00",
   "news": [
     {
       "title": "Brewers-Dodgers NLCS Game 3 FAQ (Wed., 8 p.m. ET, FS1/FOX One)",
@@ -41,20 +41,7 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "LIVE: Ask former Brewers slugger Eric Thames questions on Chatting Practice",
-      "link": "https://www.mlb.com/chattingpractice",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/drfmekgbvoa9tyxy1buc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-13T17:18:33+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Contreras shines as Dodgers' stars slump ... and other key takeaways from Game 2",
+      "title": "4 takeaways from Crew's win in Game 2",
       "link": "https://www.mlb.com/news/key-takeaways-from-brewers-win-over-dodgers-in-nlcs-game-2",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oiwggjobcdlapufpedo4",
@@ -64,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T16:45:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Mariners considering Espada for manager vacancy (source)",
@@ -103,7 +90,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T13:29:16+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
+    },
+    {
+      "title": "Guardians-Rays ALCS Game 2 FAQ (8 ET, TBS/HBO Max)",
+      "link": "https://www.mlb.com/news/guardians-vs-rays-alcs-game-2-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nlbiix8y2hh9mpjxdefg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-13T06:16:19+00:00",
+      "time_ago": "13h ago"
     }
   ]
 }
