@@ -1,0 +1,139 @@
+{
+  "title": "Oct 12 Results + Oct 13 Preview: When the Numbers Don't Hit",
+  "summary": "0-2 performance on Oct 12. Breaking down the misses and tomorrow's 53% Rays pick.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Oct 12 Results: A Complete Whiff\n\nLet me give it to you straight—yesterday was a statistical anomaly in the worst way possible. We went 0-for-2, posting a 0.0% accuracy rate. Both picks missed, including a 63% confidence play on the Rays that didn't materialize. These are the days that remind us why we track long-term performance metrics."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Oct 12 W-L",
+          "value": "0-2"
+        },
+        {
+          "label": "Accuracy",
+          "value": "0.0%"
+        },
+        {
+          "label": "Picks Made",
+          "value": "2"
+        },
+        {
+          "label": "Avg Confidence",
+          "value": "56.5%"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Oct 12 Full Game Results",
+      "headers": [
+        "Matchup",
+        "Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Dodgers @ Brewers",
+          "Dodgers",
+          "50%",
+          "✗"
+        ],
+        [
+          "Guardians @ Rays",
+          "Rays",
+          "63%",
+          "✗"
+        ]
+      ]
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Oct 12 Prediction Confidence vs Results",
+      "data": [
+        {
+          "name": "Dodgers",
+          "probability": 50,
+          "result": 0
+        },
+        {
+          "name": "Rays",
+          "probability": 63,
+          "result": 0
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Data Breakdown\n\nThe Rays pick at 63% confidence was particularly frustrating from a statistical standpoint. That's a scenario where our model identified significant edge, yet variance won out. The Dodgers pick was essentially a coin flip at 50%, so that miss stings less from a pure probability perspective.\n\nWhat concerns me more: we had zero margin for error and hit neither. Small sample size, yes, but 0-2 days require immediate review of recent input variables."
+    },
+    {
+      "type": "text",
+      "value": "## Oct 13 Preview: Back to the Rays Well\n\nHere's where it gets interesting from a statistical perspective—tomorrow's top pick has us right back on the Tampa Bay Rays. Same team, new game, 53% confidence level. The matchup features Parker Messick taking the mound for Cleveland against Freddy Peralta for Tampa Bay."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Tomorrow's Top Pick - Oct 13",
+      "value": "Tampa Bay Rays (53%)",
+      "sub": "Guardians @ Rays · Messick vs Peralta"
+    },
+    {
+      "type": "text",
+      "value": "## The Numbers on Tomorrow's Pick\n\nThe 53% confidence interval tells you everything you need to know—this is a marginal edge play. Peralta's home splits and Messick's limited track record create a narrow but quantifiable advantage for Tampa Bay. After yesterday's 63% Rays pick failed, the model is actually *lowering* its confidence on Tampa Bay tomorrow, which speaks to proper Bayesian updating of our priors.\n\nThis isn't revenge betting. This is following the data to a similar conclusion with adjusted expectations. The 10-point confidence drop from 63% to 53% reflects real information incorporation from yesterday's outcome."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Pick",
+          "value": "Rays"
+        },
+        {
+          "label": "Win Prob",
+          "value": "53%"
+        },
+        {
+          "label": "Away SP",
+          "value": "Messick"
+        },
+        {
+          "label": "Home SP",
+          "value": "Peralta"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Bottom Line\n\nYesterday: 0-2, brutal efficiency. Tomorrow: One pick at 53%, modest confidence, same team that let us down 24 hours ago. This is where discipline meets data. We don't chase losses, we follow probability matrices. See you after first pitch.\n\n*— Stan*"
+    }
+  ],
+  "slug": "2026-10-12-daily-stan",
+  "author": "Stan",
+  "author_emoji": "📊",
+  "author_role": "Data Analyst",
+  "author_color": "#0EA5E9",
+  "date": "2026-10-12",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#0EA5E9"
+}

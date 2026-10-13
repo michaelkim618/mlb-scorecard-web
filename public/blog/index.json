@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-10-12-daily-stan",
+      "title": "Oct 12 Results + Oct 13 Preview: When the Numbers Don't Hit",
+      "author": "Stan",
+      "author_emoji": "📊",
+      "author_color": "#0EA5E9",
+      "author_role": "Data Analyst",
+      "date": "2026-10-12",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#0EA5E9",
+      "read_time": "3 min",
+      "summary": "0-2 performance on Oct 12. Breaking down the misses and tomorrow's 53% Rays pick."
+    },
+    {
       "slug": "2026-10-11-daily-stan",
       "title": "Oct 11 Results + Oct 12 Preview: Zero for One, But the Numbers Tell a Story",
       "author": "Stan",
