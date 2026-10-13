@@ -1,11 +1,11 @@
 {
-  "title": "Oct 12 Results + Oct 13 Preview: Zero for Two, But the Data Never Lies",
-  "summary": "Oct 12 went 0-2, but Oct 13 brings fresh probability analysis with the Rays at 53%",
+  "title": "Oct 12 Results + Oct 13 Preview: 0-for-2, The Numbers Don't Lie",
+  "summary": "Oct 12 went 0-2. Oct 13 model backs Rays 53% with Peralta on the mound.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Oct 12 Results: The Numbers Tell a Tough Story\n\nLet me hit you with the raw data from yesterday: 0-2. That's a 0.0% success rate. Not great, not terrible—just what happens when you're playing the probability game. The Dodgers missed at 50% confidence and the Rays missed at 63%. Variance happens, but let's break down exactly where the model stood."
+      "value": "## Oct 12 Results: Complete Whiff\n\nLet's cut straight to the data. October 12 was a statistical disaster. We went 0-for-2, posting a 0.0% accuracy rate. When you miss on both picks in a two-game slate, there's no spinning the numbers. The model underperformed, and we need to examine what went wrong."
     },
     {
       "type": "stat_row",
@@ -15,12 +15,12 @@
           "value": "0-2"
         },
         {
-          "label": "Win Rate",
+          "label": "Accuracy",
           "value": "0.0%"
         },
         {
-          "label": "Avg Confidence",
-          "value": "56.5%"
+          "label": "Games Analyzed",
+          "value": "2"
         }
       ]
     },
@@ -28,8 +28,8 @@
       "type": "table",
       "title": "Oct 12 Full Game Results",
       "headers": [
-        "Matchup",
-        "Our Pick",
+        "Game",
+        "Pick",
         "Confidence",
         "Result"
       ],
@@ -51,7 +51,7 @@
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Oct 12 Prediction Confidence vs Results",
+      "title": "Oct 12 Pick Confidence vs Results",
       "data": [
         {
           "name": "Dodgers",
@@ -80,43 +80,46 @@
     },
     {
       "type": "text",
-      "value": "## The Statistical Reality Check\n\nHere's what the numbers show: a 50% pick is essentially a coin flip, and a 63% pick still loses 37% of the time. That's not excuses—that's probability theory. When you're making calls in this range, you're going to see days like Oct 12. The key metric? Sample size. One day at 0-2 doesn't invalidate the methodology."
+      "value": "## The Data Breakdown\n\nThe Rays pick at 63% confidence was our highest conviction play, yet it failed to materialize. The Dodgers pick sat at exactly 50% - essentially a coin flip - and also missed. When your high-confidence pick (63%) performs identically to your low-confidence pick (50%), that's a red flag in the model's predictive variance. \n\nSample size matters here. Two games is statistically insignificant for drawing long-term conclusions, but it's data we must acknowledge and learn from."
     },
     {
       "type": "text",
-      "value": "## Oct 13 Preview: Back to the Data Well\n\nTomorrow's slate brings us right back to a familiar matchup: Guardians at Rays. The model is calling for Tampa Bay again, this time at 53% confidence. Look at the pitching matchup—Parker Messick for Cleveland versus Freddy Peralta for Tampa Bay. That's a significant edge in the data."
+      "value": "## Oct 13 Preview: Tomorrow's Top Pick\n\nThe model has recalibrated for October 13. We're running the same Guardians-Rays matchup back, but this time with different starting pitchers and updated variables."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Oct 13 Top Pick",
+      "title": "⭐ Tomorrow's Top Pick - Oct 13",
       "value": "Tampa Bay Rays",
-      "sub": "53% win probability · Peralta vs Messick edge"
+      "sub": "53% win probability · Freddy Peralta vs Parker Messick"
     },
     {
-      "type": "stat_row",
-      "stats": [
-        {
-          "label": "Pick",
-          "value": "Rays"
-        },
-        {
-          "label": "Confidence",
-          "value": "53%"
-        },
-        {
-          "label": "Away SP",
-          "value": "Messick"
-        },
-        {
-          "label": "Home SP",
-          "value": "Peralta"
-        }
+      "type": "table",
+      "title": "Oct 13 Top Pick Details",
+      "headers": [
+        "Matchup",
+        "Pick",
+        "Confidence",
+        "Away SP",
+        "Home SP"
+      ],
+      "rows": [
+        [
+          "Guardians @ Rays",
+          "Rays",
+          "53%",
+          "Parker Messick",
+          "Freddy Peralta"
+        ]
       ]
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nThe data from Oct 12 wasn't kind to us, but here's what matters: we're running a probability-based system, not a crystal ball. A 53% edge tomorrow is marginal but measurable. Freddy Peralta's metrics give the Rays a slight advantage, and that's what we're backing. The math doesn't care about yesterday's results—it only cares about today's edges.\n\nLet's see what Oct 13 brings. The model has spoken."
+      "value": "## Pitcher Matchup Analysis\n\nFreddy Peralta takes the mound for Tampa Bay against Cleveland's Parker Messick. The model gives the Rays a 53% edge - a modest advantage, but statistically meaningful. This isn't a high-conviction play like yesterday's 63% pick that missed, but the pitching matchup and home field advantage tilt the probability in Tampa Bay's direction.\n\nMessick versus Peralta presents a clear differential in the data. While 53% represents only a slight edge, playoff baseball often comes down to marginal advantages. The model sees value here, even if it's not screaming confidence."
+    },
+    {
+      "type": "text",
+      "value": "## The Bottom Line\n\nOct 12: 0-2, 0.0% accuracy. The numbers are what they are.\n\nOct 13: Backing the Rays at 53% with Peralta on the bump. Lower conviction than yesterday's miss, but the probability model still favors Tampa Bay.\n\nWe track every result, good or bad. That's how the data gets better.\n\n*- Stan*"
     }
   ],
   "slug": "2026-10-12-daily-stan",
