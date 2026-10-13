@@ -1,11 +1,11 @@
 {
-  "title": "Oct 12 Results + Oct 13 Preview: Zero for Two, But the Numbers Tell a Story",
-  "summary": "Oct 12 went 0-2, but tomorrow's data points to Rays value at 53% confidence",
+  "title": "Oct 12 Results + Oct 13 Preview: 0-for-2, The Numbers Don't Lie",
+  "summary": "Oct 12 went 0-2. Breaking down what went wrong and tomorrow's 53% Rays play.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Oct 12 Results: The Numbers Weren't There\n\nLet me hit you with the raw data from yesterday—we went 0-2, posting a 0.0% accuracy rate. Both picks missed, and when you look at the confidence intervals, neither was above 65%, which historically correlates with our highest success rates. The Dodgers pick at 50% was essentially a coin flip, and the Rays at 63% fell just short of our sweet spot threshold."
+      "value": "## Oct 12 Results: Complete Whiff\n\nLet's cut straight to the data—October 12 was a statistical disaster. We went 0-for-2, posting a 0.0% accuracy rate. When the numbers speak this clearly, there's no room for spin. Both picks missed, and the model needs recalibration."
     },
     {
       "type": "stat_row",
@@ -19,14 +19,14 @@
           "value": "0.0%"
         },
         {
-          "label": "Avg Confidence",
-          "value": "56.5%"
+          "label": "Picks Made",
+          "value": "2"
         }
       ]
     },
     {
       "type": "table",
-      "title": "Oct 12 Full Game Results",
+      "title": "Oct 12 Game-by-Game Results",
       "headers": [
         "Game",
         "Pick",
@@ -80,60 +80,26 @@
     },
     {
       "type": "text",
-      "value": "## Breaking Down the Misses\n\nThe Dodgers pick at 50% was statistically a toss-up—that's what happens when the model sees two evenly matched teams. The Rays pick at 63% had more conviction, but variance is part of the game. Over a 162-game sample, 63% confidence picks historically convert at around 61-64%, which means we expect 36-39% to miss. That's exactly what we saw here.\n\nKey takeaway: When confidence levels are below 65%, expect higher volatility in outcomes."
+      "value": "## The Breakdown: What the Numbers Tell Us\n\nThe Dodgers pick at 50% was essentially a coin flip—low confidence, and it showed. But the Rays at 63%? That one stings from an analytical standpoint. A 63% confidence interval should convert at a higher rate over sample size. One game doesn't invalidate the model, but two consecutive misses warrant scrutiny.\n\nKey takeaway: Even high-percentage plays fail. That's variance. The question is whether our probability assignments are accurately calibrated over the long term."
     },
     {
       "type": "text",
-      "value": "## Oct 13 Preview: Rays Again, Lower Confidence\n\nTomorrow's top pick brings us back to the same matchup—Guardians at Rays—but the model's confidence has dropped to 53%. That's a 10 percentage point decrease from yesterday's 63%, which tells me the data inputs have shifted. Let's look at the pitching matchup driving this number."
+      "value": "## Oct 13 Preview: Back to the Rays\n\nHere's where it gets interesting from a statistical perspective—tomorrow's top pick brings us right back to the Tampa Bay Rays. They're facing the Cleveland Guardians with a 53% win probability. Yes, we're going back to the well after yesterday's miss."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Tomorrow's Top Pick - Oct 13",
-      "value": "Tampa Bay Rays (53%)",
-      "sub": "vs Guardians · Peralta (TB) vs Messick (CLE)"
-    },
-    {
-      "type": "table",
-      "title": "Oct 13 Pitching Matchup Data",
-      "headers": [
-        "Team",
-        "Starter",
-        "Role"
-      ],
-      "rows": [
-        [
-          "Cleveland Guardians",
-          "Parker Messick",
-          "Away SP"
-        ],
-        [
-          "Tampa Bay Rays",
-          "Freddy Peralta",
-          "Home SP"
-        ]
-      ]
+      "value": "Tampa Bay Rays",
+      "sub": "53% win probability · Freddy Peralta on the mound vs Parker Messick"
     },
     {
       "type": "text",
-      "value": "## The Numbers on Tomorrow's Pick\n\nAt 53% confidence, this is barely above the break-even threshold. Freddy Peralta on the mound gives the Rays a statistical edge—his strikeout rate and home splits typically boost win probability by 4-6 percentage points compared to league average. Parker Messick's metrics are less established, which introduces uncertainty into the model.\n\nThe 53% figure suggests this is a marginal edge play. In a large sample size, these picks convert at roughly 53-55%, meaning we need volume to see the edge materialize. One-off results will show high variance.\n\n**Bottom line:** The data gives Tampa Bay a slight advantage, but don't expect high conviction here. This is a numbers game that plays out over dozens of similar spots."
+      "value": "## Pitcher Matchup Analysis\n\n**Freddy Peralta (Rays)** takes the ball for Tampa Bay against Cleveland's **Parker Messick**. The 53% probability suggests this is nearly a pick'em, with a slight edge to the home side. Peralta's advanced metrics and Tampa's home field advantage tip the scales just enough to warrant the play.\n\nFrom a pure numbers perspective, 53% means we need this pick to hit 53 times out of 100 for proper calibration. One game is just one data point in that larger sample."
     },
     {
-      "type": "stat_row",
-      "stats": [
-        {
-          "label": "Tomorrow's Games",
-          "value": "1"
-        },
-        {
-          "label": "Top Pick Confidence",
-          "value": "53%"
-        },
-        {
-          "label": "Confidence vs Yesterday",
-          "value": "-10%"
-        }
-      ]
+      "type": "text",
+      "value": "## The Bottom Line\n\nOct 12: 0-2, 0.0% accuracy. The data is unforgiving.\n\nOct 13: We're back with Rays at 53%. Low confidence, but the edge is there.\n\nIn this business, you trust the process and let the sample size play out. On to the next data point."
     }
   ],
   "slug": "2026-10-12-daily-stan",
