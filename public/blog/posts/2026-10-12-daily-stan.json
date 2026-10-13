@@ -1,11 +1,11 @@
 {
   "title": "Oct 12 Results + Oct 13 Preview: 0-for-2, The Numbers Don't Lie",
-  "summary": "Oct 12 went 0-2 (0.0%). Analyzing the misses and tomorrow's Rays pick at 53%.",
+  "summary": "Oct 12 went 0-2. Breaking down what went wrong and the Oct 13 Rays pick at 53%.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Oct 12 Results: Complete Whiff\n\nLet me give it to you straight—yesterday was a statistical anomaly we don't want to repeat. The model went 0-for-2, posting a 0.0% accuracy rate. When you're looking at two predictions and both miss, that's not just bad luck, that's a data point worth examining."
+      "value": "## Oct 12 Results: Complete Whiff\n\nLet's cut straight to the data – October 12 was a 0-2 day. Zero wins, two losses, 0.0% accuracy. When you're a data analyst, you don't sugarcoat the numbers. We missed on both picks, and the model needs recalibration."
     },
     {
       "type": "stat_row",
@@ -19,7 +19,7 @@
           "value": "0.0%"
         },
         {
-          "label": "Games Analyzed",
+          "label": "Picks Made",
           "value": "2"
         }
       ]
@@ -38,19 +38,19 @@
           "Dodgers @ Brewers",
           "Dodgers",
           "50%",
-          "✗"
+          "✗ Miss"
         ],
         [
           "Guardians @ Rays",
           "Rays",
           "63%",
-          "✗"
+          "✗ Miss"
         ]
       ]
     },
     {
       "type": "text",
-      "value": "## Breaking Down The Misses\n\nThe Dodgers pick at 50% was essentially a coin flip—no edge there. But the Rays pick at 63% confidence? That one stings from a statistical standpoint. When you're sitting at 63% probability and it doesn't hit, that's within the 37% variance window, but two misses in a two-game slate puts us at the wrong end of the distribution curve."
+      "value": "## What The Numbers Tell Us\n\nThe Dodgers pick at 50% was essentially a coin flip – no edge there. But the Rays at 63%? That's where it stings. A 63% confidence level should convert at a higher rate over time, but variance is part of the game. Small sample size alert: 2 games is statistically insignificant for drawing long-term conclusions."
     },
     {
       "type": "chart",
@@ -84,39 +84,39 @@
     },
     {
       "type": "text",
-      "value": "## Oct 13 Preview: Running It Back\n\nHere's where it gets interesting from a statistical perspective. Tomorrow's top pick? Tampa Bay Rays again. Same team that just burned us at 63%, now registering at 53% confidence against Cleveland. The matchup features Parker Messick taking the mound for the Guardians against Freddy Peralta for the Rays."
+      "value": "## Oct 13 Preview: Back to the Rays\n\nHere's where it gets interesting from a statistical perspective – we're going back to the Tampa Bay Rays. Same matchup, Guardians @ Rays, but this time at 53% confidence. The pitcher matchup features Parker Messick for Cleveland and Freddy Peralta for Tampa Bay.\n\nPeralta's numbers are what's driving this pick. We're not letting one bad day influence the model – that would be emotional, not analytical."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Oct 13 Top Pick",
       "value": "Tampa Bay Rays (53%)",
-      "sub": "vs Guardians • Messick vs Peralta • Home field advantage"
+      "sub": "vs Guardians · Peralta on the mound · Slight edge in the data"
     },
     {
-      "type": "text",
-      "value": "## The Numbers on Tomorrow's Pick\n\nA 53% confidence level means we're looking at a slight edge, not a slam dunk. Freddy Peralta's home splits and Messick's road performance metrics are driving this probability. After an 0-2 day, some might shy away from the Rays, but that's emotional reasoning, not data-driven analysis.\n\nThe model doesn't care about yesterday's results. Each game is an independent event. That's Statistics 101."
-    },
-    {
-      "type": "stat_row",
-      "stats": [
-        {
-          "label": "Tomorrow's Games",
-          "value": "1"
-        },
-        {
-          "label": "Top Pick Confidence",
-          "value": "53%"
-        },
-        {
-          "label": "Edge Over Coin Flip",
-          "value": "+3%"
-        }
+      "type": "table",
+      "title": "Oct 13 Top Pick Details",
+      "headers": [
+        "Team",
+        "Pitcher",
+        "Win Probability"
+      ],
+      "rows": [
+        [
+          "Cleveland Guardians",
+          "Parker Messick",
+          "47%"
+        ],
+        [
+          "Tampa Bay Rays",
+          "Freddy Peralta",
+          "53%"
+        ]
       ]
     },
     {
       "type": "text",
-      "value": "## Bottom Line\n\nOct 12 was a washout—0-2, nothing to sugarcoat there. But sample size matters. Two games is statistically insignificant for model evaluation. Oct 13 brings a fresh slate with the Rays at 53%. It's not a high-confidence play, but the numbers show a marginal edge.\n\nLet's see what the data delivers tomorrow."
+      "value": "## The Bottom Line\n\n53% is a marginal edge – let's be clear about that. This isn't a high-conviction play like yesterday's 63% pick that didn't convert. But over a large enough sample, 53-47 edges add up. That's what the data says.\n\nOct 12 was rough at 0-2, but we're not adjusting the model based on two data points. That's not how statistical analysis works. Oct 13 is a new slate, and the Rays at 53% represent the best probability play available."
     }
   ],
   "slug": "2026-10-12-daily-stan",
