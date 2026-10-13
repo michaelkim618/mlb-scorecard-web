@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-13T06:05:15.211312+00:00",
+  "updated_at": "2026-10-13T06:55:25.186130+00:00",
   "news": [
+    {
+      "title": "Guardians-Rays ALCS Game 2 FAQ (8 ET, TBS/HBO Max)",
+      "link": "https://www.mlb.com/news/guardians-vs-rays-alcs-game-2-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nlbiix8y2hh9mpjxdefg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-13T06:16:19+00:00",
+      "time_ago": "39m ago"
+    },
     {
       "title": "Guards come up big late to rally past Rays in ALCS opener",
       "link": "https://www.mlb.com/news/guardians-win-alcs-game-1-2026",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T06:00:00+00:00",
-      "time_ago": "5m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "'Hosey' does it: Ramírez's havoc on basepaths key to Guards' 4th straight win",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T05:42:17+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Think dodging J-Ram to challenge DeLauter is a good plan? Think again",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T05:37:16+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "What happened to Rays' offense after red-hot start to Game 1?",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T05:19:24+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Messick, once a fan at The Trop, will take the hill there as Guardians' ALCS Game 2 starter",
@@ -90,20 +103,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-10-13T04:45:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "3 storylines to watch for Game 2 of ALCS",
-      "link": "https://www.mlb.com/news/alcs-game-2-2026-storylines-to-follow",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/chsm7ysskrpkhqvqpbtt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-13T04:25:37+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
