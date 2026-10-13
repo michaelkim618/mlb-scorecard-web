@@ -1094,7 +1094,7 @@ window.PREDICTIONS_DATA = [
       "home": 63.0
     },
     "expected_score": {
-      "away": 2.5,
+      "away": 2.3,
       "home": 2.4
     },
     "blend_detail": null,
@@ -1107,9 +1107,9 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": false,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.24,
+        "sp": 0.31,
         "bp": 0.27,
-        "bat": 0.42,
+        "bat": 0.35,
         "sit": 0.15
       },
       "away": {
@@ -1207,14 +1207,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.95,
           "closer_name": "Cade Smith"
         },
-        "bat_score": 43.3,
+        "bat_score": 40.5,
         "bat_detail": {
           "recent_avg": 0.27,
           "runs_per_g": 5.3,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
           "season_ops": 0.736,
-          "season_slg": 0.428,
+          "season_slg": null,
           "season_avg": 0.27,
           "n_games": 9,
           "source": "prev_day",
@@ -1304,7 +1304,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 57.9,
-        "total": 51.7
+        "total": 50.8
       },
       "home": {
         "sp_score": 72.0,
@@ -1392,7 +1392,7 @@ window.PREDICTIONS_DATA = [
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
           "season_ops": 0.685,
-          "season_slg": 0.369,
+          "season_slg": null,
           "season_avg": 0.211,
           "n_games": 9,
           "source": "prev_day",
@@ -1486,7 +1486,7 @@ window.PREDICTIONS_DATA = [
       }
     },
     "scores": {
-      "away_offense": 43.3,
+      "away_offense": 40.5,
       "away_defense": 54.5,
       "home_offense": 35.0,
       "home_defense": 73.5
@@ -1508,16 +1508,11 @@ window.PREDICTIONS_DATA = [
     "notes": "Tampa Bay Rays IL: Edwin Uceta, Gavin Lux, Jacob Melton, Jonathan Heasley, Ryan Pepiot",
     "kalshi_prob": null,
     "edge": null,
-    "value_bet": "⏭️ 패스 (SP↔BAT충돌+Kalshi없음 — 시장 미검증, 신뢰불가)",
+    "value_bet": "마켓 없음",
     "extreme_edge": false,
     "consensus": false,
-    "sp_bat_conflict": true,
-    "sp_bat_conflict_detail": {
-      "sp_favors": "Tampa Bay Rays",
-      "bat_favors": "Cleveland Guardians",
-      "sp_gap": -36.0,
-      "bat_gap": 8.3
-    },
+    "sp_bat_conflict": false,
+    "sp_bat_conflict_detail": null,
     "low_confidence": false,
     "low_confidence_reason": null,
     "opener_game": {
