@@ -1,11 +1,11 @@
 {
-  "title": "Oct 12 Results + Oct 13 Preview: 0-for-2, The Numbers Don't Lie",
-  "summary": "Oct 12 went 0-2. Breaking down what went wrong and tomorrow's 53% Rays play.",
+  "title": "Oct 12 Results + Oct 13 Preview: Zero for Two, But the Data Never Lies",
+  "summary": "Oct 12 went 0-2, but Oct 13 brings fresh probability analysis with the Rays at 53%",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Oct 12 Results: Complete Whiff\n\nLet's cut straight to the data—October 12 was a statistical disaster. We went 0-for-2, posting a 0.0% accuracy rate. When the numbers speak this clearly, there's no room for spin. Both picks missed, and the model needs recalibration."
+      "value": "## Oct 12 Results: The Numbers Tell a Tough Story\n\nLet me hit you with the raw data from yesterday: 0-2. That's a 0.0% success rate. Not great, not terrible—just what happens when you're playing the probability game. The Dodgers missed at 50% confidence and the Rays missed at 63%. Variance happens, but let's break down exactly where the model stood."
     },
     {
       "type": "stat_row",
@@ -15,21 +15,21 @@
           "value": "0-2"
         },
         {
-          "label": "Accuracy",
+          "label": "Win Rate",
           "value": "0.0%"
         },
         {
-          "label": "Picks Made",
-          "value": "2"
+          "label": "Avg Confidence",
+          "value": "56.5%"
         }
       ]
     },
     {
       "type": "table",
-      "title": "Oct 12 Game-by-Game Results",
+      "title": "Oct 12 Full Game Results",
       "headers": [
-        "Game",
-        "Pick",
+        "Matchup",
+        "Our Pick",
         "Confidence",
         "Result"
       ],
@@ -80,26 +80,43 @@
     },
     {
       "type": "text",
-      "value": "## The Breakdown: What the Numbers Tell Us\n\nThe Dodgers pick at 50% was essentially a coin flip—low confidence, and it showed. But the Rays at 63%? That one stings from an analytical standpoint. A 63% confidence interval should convert at a higher rate over sample size. One game doesn't invalidate the model, but two consecutive misses warrant scrutiny.\n\nKey takeaway: Even high-percentage plays fail. That's variance. The question is whether our probability assignments are accurately calibrated over the long term."
+      "value": "## The Statistical Reality Check\n\nHere's what the numbers show: a 50% pick is essentially a coin flip, and a 63% pick still loses 37% of the time. That's not excuses—that's probability theory. When you're making calls in this range, you're going to see days like Oct 12. The key metric? Sample size. One day at 0-2 doesn't invalidate the methodology."
     },
     {
       "type": "text",
-      "value": "## Oct 13 Preview: Back to the Rays\n\nHere's where it gets interesting from a statistical perspective—tomorrow's top pick brings us right back to the Tampa Bay Rays. They're facing the Cleveland Guardians with a 53% win probability. Yes, we're going back to the well after yesterday's miss."
+      "value": "## Oct 13 Preview: Back to the Data Well\n\nTomorrow's slate brings us right back to a familiar matchup: Guardians at Rays. The model is calling for Tampa Bay again, this time at 53% confidence. Look at the pitching matchup—Parker Messick for Cleveland versus Freddy Peralta for Tampa Bay. That's a significant edge in the data."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - Oct 13",
+      "title": "⭐ Oct 13 Top Pick",
       "value": "Tampa Bay Rays",
-      "sub": "53% win probability · Freddy Peralta on the mound vs Parker Messick"
+      "sub": "53% win probability · Peralta vs Messick edge"
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Pick",
+          "value": "Rays"
+        },
+        {
+          "label": "Confidence",
+          "value": "53%"
+        },
+        {
+          "label": "Away SP",
+          "value": "Messick"
+        },
+        {
+          "label": "Home SP",
+          "value": "Peralta"
+        }
+      ]
     },
     {
       "type": "text",
-      "value": "## Pitcher Matchup Analysis\n\n**Freddy Peralta (Rays)** takes the ball for Tampa Bay against Cleveland's **Parker Messick**. The 53% probability suggests this is nearly a pick'em, with a slight edge to the home side. Peralta's advanced metrics and Tampa's home field advantage tip the scales just enough to warrant the play.\n\nFrom a pure numbers perspective, 53% means we need this pick to hit 53 times out of 100 for proper calibration. One game is just one data point in that larger sample."
-    },
-    {
-      "type": "text",
-      "value": "## The Bottom Line\n\nOct 12: 0-2, 0.0% accuracy. The data is unforgiving.\n\nOct 13: We're back with Rays at 53%. Low confidence, but the edge is there.\n\nIn this business, you trust the process and let the sample size play out. On to the next data point."
+      "value": "## The Bottom Line\n\nThe data from Oct 12 wasn't kind to us, but here's what matters: we're running a probability-based system, not a crystal ball. A 53% edge tomorrow is marginal but measurable. Freddy Peralta's metrics give the Rays a slight advantage, and that's what we're backing. The math doesn't care about yesterday's results—it only cares about today's edges.\n\nLet's see what Oct 13 brings. The model has spoken."
     }
   ],
   "slug": "2026-10-12-daily-stan",
