@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-13T16:23:02.178399+00:00",
+  "updated_at": "2026-10-13T17:22:50.358399+00:00",
   "news": [
+    {
+      "title": "Contreras shines as Dodgers' stars slump ... and other key takeaways from Game 2",
+      "link": "https://www.mlb.com/news/key-takeaways-from-brewers-win-over-dodgers-in-nlcs-game-2",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oiwggjobcdlapufpedo4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-13T16:45:00+00:00",
+      "time_ago": "37m ago"
+    },
     {
       "title": "3 storylines to follow in Game 2 of ALCS",
       "link": "https://www.mlb.com/news/alcs-game-2-2026-storylines-to-follow",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T14:55:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Will Arias cause a domino effect? Plus 7 more offseason questions",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T13:54:14+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Yankees searching for answers after another season falls short of standard",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T13:29:16+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Guardians-Rays ALCS Game 2 FAQ (8 ET, TBS/HBO Max)",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T06:16:19+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Guards come up big late to rally past Rays in ALCS opener",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T06:00:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "'Hosey' does it: Ramírez's havoc on basepaths key to Guards' 4th straight win",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T05:42:17+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Think dodging J-Ram to challenge DeLauter is a good plan? Think again",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T05:37:16+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "What happened to Rays' offense after red-hot start to Game 1?",
-      "link": "https://www.mlb.com/news/junior-caminero-jonny-deluca-not-enough-in-rays-game-1-alcs-loss",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bh0jgq9ynwmffgrbkur9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-13T05:19:24+00:00",
       "time_ago": "11h ago"
     }
   ]
