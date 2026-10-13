@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-13T02:46:24.041777+00:00",
+  "updated_at": "2026-10-13T03:05:43.718011+00:00",
   "news": [
+    {
+      "title": "A 12-pitch walk that took 7-plus minutes was too much for Yamamoto to overcome",
+      "link": "https://www.mlb.com/news/jake-bauers-12-pitch-walk-christian-yelich-single-yoshinobu-yamamoto",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/d6lojujix19ldbopehyt",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Sweet",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-13T02:58:00+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Yamamoto's Game 2 start grinds to halt in 3rd inning",
+      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-exits-nlcs-game-2-vs-brewers-in-3rd-inning",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791843899/mlb/efxftr46ht5gy7pwgajp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Christina De Nicola",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-13T02:22:00+00:00",
+      "time_ago": "43m ago"
+    },
     {
       "title": "Contreras shines as Dodgers' stars slump ... and other key takeaways from Game 2",
       "link": "https://www.mlb.com/news/key-takeaways-from-brewers-win-over-dodgers-in-nlcs-game-2",
@@ -25,19 +51,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T01:30:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "A 12-pitch walk that took 7-plus minutes was too much for Yamamoto to overcome",
-      "link": "https://www.mlb.com/news/jake-bauers-12-pitch-walk-christian-yelich-single-yoshinobu-yamamoto",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/d6lojujix19ldbopehyt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-13T01:22:00+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -67,19 +80,6 @@
       "time_ago": "2h ago"
     },
     {
-      "title": "Yamamoto's Game 2 start grinds to halt in 3rd inning",
-      "link": "https://www.mlb.com/news/yoshinobu-yamamoto-exits-nlcs-game-2-vs-brewers-in-3rd-inning",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791843899/mlb/efxftr46ht5gy7pwgajp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Christina De Nicola",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-13T00:28:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
       "title": "Messick, once a fan at The Trop, will take the hill there as Guardians' ALCS Game 2 starter",
       "link": "https://www.mlb.com/news/parker-messick-guardians-starter-game-2-2026-alcs",
       "summary": "",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T00:01:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
