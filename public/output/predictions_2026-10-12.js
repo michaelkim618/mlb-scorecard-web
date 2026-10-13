@@ -337,11 +337,11 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 51.5,
-      "home": 48.5
+      "away": 50.0,
+      "home": 50.0
     },
     "expected_score": {
-      "away": 3.0,
+      "away": 2.7,
       "home": 2.1
     },
     "blend_detail": null,
@@ -354,9 +354,9 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": false,
       "any_cold_sp": false,
       "eff_weights": {
-        "sp": 0.3,
+        "sp": 0.33,
         "bp": 0.24,
-        "bat": 0.31,
+        "bat": 0.28,
         "sit": 0.15
       },
       "away": {
@@ -446,14 +446,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.69,
           "closer_name": "Tanner Scott"
         },
-        "bat_score": 51.9,
+        "bat_score": 46.7,
         "bat_detail": {
           "recent_avg": 0.289,
           "runs_per_g": 5.0,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
           "season_ops": 0.807,
-          "season_slg": 0.451,
+          "season_slg": null,
           "season_avg": 0.289,
           "n_games": 9,
           "source": "prev_day",
@@ -543,7 +543,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 67.4,
-        "total": 63.8
+        "total": 62.9
       },
       "home": {
         "sp_score": 72.0,
@@ -617,14 +617,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.63,
           "closer_name": "Trevor Megill"
         },
-        "bat_score": 34.5,
+        "bat_score": 33.8,
         "bat_detail": {
           "recent_avg": 0.25,
           "runs_per_g": 4.4,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
           "season_ops": 0.714,
-          "season_slg": 0.407,
+          "season_slg": null,
           "season_avg": 0.25,
           "n_games": 9,
           "source": "prev_day",
@@ -714,13 +714,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 73.1,
-        "total": 60.8
+        "total": 61.8
       }
     },
     "scores": {
-      "away_offense": 51.9,
+      "away_offense": 46.7,
       "away_defense": 69.4,
-      "home_offense": 34.5,
+      "home_offense": 33.8,
       "home_defense": 72.6
     },
     "actual_score": {
@@ -746,7 +746,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 0.6pt (≤5.0pt) / 최고 확률 51.5% (≤62.0%)",
+    "low_confidence_reason": "SP 점수 차이 0.6pt (≤5.0pt) / 최고 확률 50.0% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
@@ -1094,7 +1094,7 @@ window.PREDICTIONS_DATA = [
       "home": 63.0
     },
     "expected_score": {
-      "away": 2.5,
+      "away": 2.3,
       "home": 2.4
     },
     "blend_detail": null,
@@ -1107,9 +1107,9 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": false,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.24,
+        "sp": 0.31,
         "bp": 0.27,
-        "bat": 0.42,
+        "bat": 0.35,
         "sit": 0.15
       },
       "away": {
@@ -1207,14 +1207,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.95,
           "closer_name": "Cade Smith"
         },
-        "bat_score": 43.3,
+        "bat_score": 40.5,
         "bat_detail": {
           "recent_avg": 0.27,
           "runs_per_g": 5.3,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
           "season_ops": 0.736,
-          "season_slg": 0.428,
+          "season_slg": null,
           "season_avg": 0.27,
           "n_games": 9,
           "source": "prev_day",
@@ -1304,7 +1304,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 57.9,
-        "total": 51.7
+        "total": 50.8
       },
       "home": {
         "sp_score": 72.0,
@@ -1392,7 +1392,7 @@ window.PREDICTIONS_DATA = [
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
           "season_ops": 0.685,
-          "season_slg": 0.369,
+          "season_slg": null,
           "season_avg": 0.211,
           "n_games": 9,
           "source": "prev_day",
@@ -1403,7 +1403,7 @@ window.PREDICTIONS_DATA = [
             "Jonathan Aranda(0.732)",
             "Junior Caminero(0.800)",
             "Ryan Vilade(0.559)",
-            "Victor Mesa Jr.(0.791)",
+            "Victor Mesa(0.791)",
             "Jonny DeLuca(0.807)",
             "Ben Williamson(0.527)",
             "Taylor Walls(0.652)",
@@ -1436,7 +1436,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 683748,
-              "name": "Victor Mesa Jr.",
+              "name": "Victor Mesa",
               "ops": 0.791,
               "avg": 0.273
             },
@@ -1486,7 +1486,7 @@ window.PREDICTIONS_DATA = [
       }
     },
     "scores": {
-      "away_offense": 43.3,
+      "away_offense": 40.5,
       "away_defense": 54.5,
       "home_offense": 35.0,
       "home_defense": 73.5
@@ -1508,16 +1508,11 @@ window.PREDICTIONS_DATA = [
     "notes": "Tampa Bay Rays IL: Edwin Uceta, Gavin Lux, Jacob Melton, Jonathan Heasley, Ryan Pepiot",
     "kalshi_prob": null,
     "edge": null,
-    "value_bet": "⏭️ 패스 (SP↔BAT충돌+Kalshi없음 — 시장 미검증, 신뢰불가)",
+    "value_bet": "마켓 없음",
     "extreme_edge": false,
     "consensus": false,
-    "sp_bat_conflict": true,
-    "sp_bat_conflict_detail": {
-      "sp_favors": "Tampa Bay Rays",
-      "bat_favors": "Cleveland Guardians",
-      "sp_gap": -36.0,
-      "bat_gap": 8.3
-    },
+    "sp_bat_conflict": false,
+    "sp_bat_conflict_detail": null,
     "low_confidence": false,
     "low_confidence_reason": null,
     "opener_game": {
