@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-13T21:55:48.405461+00:00",
+  "updated_at": "2026-10-13T22:34:25.460118+00:00",
   "news": [
+    {
+      "title": "Here's the root of Ohtani's slump. Is there time to fix it?",
+      "link": "https://www.mlb.com/news/shohei-ohtani-struggles-2026-postseason",
+      "summary": "Dodgers star hasn't hit a home run since Aug. 18",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rh1qbbnvbe0sw0ca8qej",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mike Petriello",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-13T21:42:00+00:00",
+      "time_ago": "52m ago"
+    },
     {
       "title": "Guardians-Rays ALCS Game 2 FAQ, lineups (8 ET, TBS/HBO Max)",
       "link": "https://www.mlb.com/news/guardians-vs-rays-alcs-game-2-starting-lineups-and-pitching-matchup",
@@ -12,7 +25,20 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-13T20:29:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Venezuela's championship DNA sparking Brewers' October run",
+      "link": "https://www.mlb.com/news/brewers-venezuelan-players-world-baseball-classic-nlcs-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/clqravgscargnjstvs9g",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ricardo Montes de Oca",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-13T18:28:55+00:00",
+      "time_ago": "4h ago"
     },
     {
       "title": "Brewers-Dodgers NLCS Game 3 FAQ (Wed., 8 p.m. ET, FS1/FOX One)",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T18:20:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Down, but not out: 4 ways resilient Dodgers can get back in NLCS",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T18:04:41+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Uribe 'ready to go' for every postseason game in Crew's shutdown 'pen",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T17:59:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "4 takeaways from Crew's win in Game 2",
@@ -67,43 +93,17 @@
       "time_ago": "5h ago"
     },
     {
-      "title": "Mariners considering Espada for manager vacancy (source)",
-      "link": "https://www.mlb.com/news/joe-espada-to-interview-for-mariners-manager-position",
+      "title": "These three high-upside Phillies prospects could be big leaguers soon",
+      "link": "https://www.mlb.com/news/phillies-prospects-who-could-contribute-in-2027",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791867415/mlb/emtifbbwieffxrl6yhwy",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rxbf88ogpanb5bpi5nmx",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Mark Feinsand, Daniel Kramer and Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-13T15:00:10+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "3 storylines to follow in Game 2 of ALCS",
-      "link": "https://www.mlb.com/news/alcs-game-2-2026-storylines-to-follow",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/chsm7ysskrpkhqvqpbtt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-13T14:55:00+00:00",
+      "author": "Todd Zolecki",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-13T15:22:11+00:00",
       "time_ago": "7h ago"
-    },
-    {
-      "title": "Yankees searching for answers after another season falls short of standard",
-      "link": "https://www.mlb.com/news/yankees-seek-end-to-17-year-world-series-title-drought",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/poewtvkthgjefmdgnt4z",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-13T13:29:16+00:00",
-      "time_ago": "8h ago"
     }
   ]
 }
