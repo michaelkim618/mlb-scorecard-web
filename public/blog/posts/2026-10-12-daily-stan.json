@@ -1,11 +1,11 @@
 {
-  "title": "Oct 12 Results + Oct 13 Preview: When the Numbers Don't Hit",
-  "summary": "0-2 performance on Oct 12. Breaking down the misses and tomorrow's 53% Rays pick.",
+  "title": "Oct 12 Results + Oct 13 Preview: 0-for-2, The Numbers Don't Lie",
+  "summary": "Oct 12 went 0-2 (0.0%). Analyzing the misses and tomorrow's Rays pick at 53%.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Oct 12 Results: A Complete Whiff\n\nLet me give it to you straight—yesterday was a statistical anomaly in the worst way possible. We went 0-for-2, posting a 0.0% accuracy rate. Both picks missed, including a 63% confidence play on the Rays that didn't materialize. These are the days that remind us why we track long-term performance metrics."
+      "value": "## Oct 12 Results: Complete Whiff\n\nLet me give it to you straight—yesterday was a statistical anomaly we don't want to repeat. The model went 0-for-2, posting a 0.0% accuracy rate. When you're looking at two predictions and both miss, that's not just bad luck, that's a data point worth examining."
     },
     {
       "type": "stat_row",
@@ -19,12 +19,8 @@
           "value": "0.0%"
         },
         {
-          "label": "Picks Made",
+          "label": "Games Analyzed",
           "value": "2"
-        },
-        {
-          "label": "Avg Confidence",
-          "value": "56.5%"
         }
       ]
     },
@@ -32,7 +28,7 @@
       "type": "table",
       "title": "Oct 12 Full Game Results",
       "headers": [
-        "Matchup",
+        "Game",
         "Pick",
         "Confidence",
         "Result"
@@ -51,6 +47,10 @@
           "✗"
         ]
       ]
+    },
+    {
+      "type": "text",
+      "value": "## Breaking Down The Misses\n\nThe Dodgers pick at 50% was essentially a coin flip—no edge there. But the Rays pick at 63% confidence? That one stings from a statistical standpoint. When you're sitting at 63% probability and it doesn't hit, that's within the 37% variance window, but two misses in a two-game slate puts us at the wrong end of the distribution curve."
     },
     {
       "type": "chart",
@@ -84,47 +84,39 @@
     },
     {
       "type": "text",
-      "value": "## The Data Breakdown\n\nThe Rays pick at 63% confidence was particularly frustrating from a statistical standpoint. That's a scenario where our model identified significant edge, yet variance won out. The Dodgers pick was essentially a coin flip at 50%, so that miss stings less from a pure probability perspective.\n\nWhat concerns me more: we had zero margin for error and hit neither. Small sample size, yes, but 0-2 days require immediate review of recent input variables."
-    },
-    {
-      "type": "text",
-      "value": "## Oct 13 Preview: Back to the Rays Well\n\nHere's where it gets interesting from a statistical perspective—tomorrow's top pick has us right back on the Tampa Bay Rays. Same team, new game, 53% confidence level. The matchup features Parker Messick taking the mound for Cleveland against Freddy Peralta for Tampa Bay."
+      "value": "## Oct 13 Preview: Running It Back\n\nHere's where it gets interesting from a statistical perspective. Tomorrow's top pick? Tampa Bay Rays again. Same team that just burned us at 63%, now registering at 53% confidence against Cleveland. The matchup features Parker Messick taking the mound for the Guardians against Freddy Peralta for the Rays."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - Oct 13",
+      "title": "⭐ Oct 13 Top Pick",
       "value": "Tampa Bay Rays (53%)",
-      "sub": "Guardians @ Rays · Messick vs Peralta"
+      "sub": "vs Guardians • Messick vs Peralta • Home field advantage"
     },
     {
       "type": "text",
-      "value": "## The Numbers on Tomorrow's Pick\n\nThe 53% confidence interval tells you everything you need to know—this is a marginal edge play. Peralta's home splits and Messick's limited track record create a narrow but quantifiable advantage for Tampa Bay. After yesterday's 63% Rays pick failed, the model is actually *lowering* its confidence on Tampa Bay tomorrow, which speaks to proper Bayesian updating of our priors.\n\nThis isn't revenge betting. This is following the data to a similar conclusion with adjusted expectations. The 10-point confidence drop from 63% to 53% reflects real information incorporation from yesterday's outcome."
+      "value": "## The Numbers on Tomorrow's Pick\n\nA 53% confidence level means we're looking at a slight edge, not a slam dunk. Freddy Peralta's home splits and Messick's road performance metrics are driving this probability. After an 0-2 day, some might shy away from the Rays, but that's emotional reasoning, not data-driven analysis.\n\nThe model doesn't care about yesterday's results. Each game is an independent event. That's Statistics 101."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Pick",
-          "value": "Rays"
+          "label": "Tomorrow's Games",
+          "value": "1"
         },
         {
-          "label": "Win Prob",
+          "label": "Top Pick Confidence",
           "value": "53%"
         },
         {
-          "label": "Away SP",
-          "value": "Messick"
-        },
-        {
-          "label": "Home SP",
-          "value": "Peralta"
+          "label": "Edge Over Coin Flip",
+          "value": "+3%"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nYesterday: 0-2, brutal efficiency. Tomorrow: One pick at 53%, modest confidence, same team that let us down 24 hours ago. This is where discipline meets data. We don't chase losses, we follow probability matrices. See you after first pitch.\n\n*— Stan*"
+      "value": "## Bottom Line\n\nOct 12 was a washout—0-2, nothing to sugarcoat there. But sample size matters. Two games is statistically insignificant for model evaluation. Oct 13 brings a fresh slate with the Rays at 53%. It's not a high-confidence play, but the numbers show a marginal edge.\n\nLet's see what the data delivers tomorrow."
     }
   ],
   "slug": "2026-10-12-daily-stan",
