@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-13T03:05:43.718011+00:00",
+  "updated_at": "2026-10-13T03:18:41.734572+00:00",
   "news": [
+    {
+      "title": "Lowe’s late clutch knock helps carry Guards past Rays in ALCS opener",
+      "link": "https://www.mlb.com/news/guardians-win-alcs-game-1-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zw5uivdhaf5vvtspkiht",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-13T03:09:00+00:00",
+      "time_ago": "9m ago"
+    },
     {
       "title": "A 12-pitch walk that took 7-plus minutes was too much for Yamamoto to overcome",
       "link": "https://www.mlb.com/news/jake-bauers-12-pitch-walk-christian-yelich-single-yoshinobu-yamamoto",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T02:58:00+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "20m ago"
     },
     {
       "title": "Yamamoto's Game 2 start grinds to halt in 3rd inning",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T02:22:00+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "56m ago"
     },
     {
       "title": "Contreras shines as Dodgers' stars slump ... and other key takeaways from Game 2",
@@ -64,19 +77,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T01:13:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "LIVE: Guardians use long ball to push Rays in Game 1 (TBS/HBO Max)",
-      "link": "https://www.mlb.com/stories/game/849820",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g0hhhdplh9vbv7xj2dck",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-13T00:37:09+00:00",
       "time_ago": "2h ago"
     },
     {
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T00:13:40+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Guardians swap in Cecconi for Schneemann, bolstering staff for ALCS",
