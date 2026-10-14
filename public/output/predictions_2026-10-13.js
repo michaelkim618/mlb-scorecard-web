@@ -341,8 +341,8 @@ window.PREDICTIONS_DATA = [
       "home": 50.0
     },
     "expected_score": {
-      "away": 2.7,
-      "home": 1.6
+      "away": 2.5,
+      "home": 1.8
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -354,9 +354,9 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": false,
       "any_cold_sp": false,
       "eff_weights": {
-        "sp": 0.31,
+        "sp": 0.38,
         "bp": 0.22,
-        "bat": 0.32,
+        "bat": 0.25,
         "sit": 0.15
       },
       "away": {
@@ -446,14 +446,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.95,
           "closer_name": "Cade Smith"
         },
-        "bat_score": 44.1,
+        "bat_score": 41.2,
         "bat_detail": {
           "recent_avg": 0.268,
           "runs_per_g": 5.3,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
           "season_ops": 0.746,
-          "season_slg": 0.428,
+          "season_slg": null,
           "season_avg": 0.268,
           "n_games": 9,
           "source": "prev_day",
@@ -543,10 +543,10 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 57.9,
-        "total": 56.2
+        "total": 56.3
       },
       "home": {
-        "sp_score": 53.4,
+        "sp_score": 54.6,
         "sp_detail": {
           "era": 1.76,
           "whip": 0.87,
@@ -614,7 +614,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 72.8,
+        "bp_score": 74.4,
         "bp_detail": {
           "bullpen_era": 2.55,
           "recent_era": 2.55,
@@ -626,14 +626,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.44,
           "closer_name": "Bryan Baker"
         },
-        "bat_score": 25.6,
+        "bat_score": 28.8,
         "bat_detail": {
           "recent_avg": 0.241,
           "runs_per_g": 3.8,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
           "season_ops": 0.709,
-          "season_slg": 0.369,
+          "season_slg": null,
           "season_avg": 0.241,
           "n_games": 9,
           "source": "prev_day",
@@ -723,14 +723,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 61.6,
-        "total": 50.0
+        "total": 53.6
       }
     },
     "scores": {
-      "away_offense": 44.1,
+      "away_offense": 41.2,
       "away_defense": 64.5,
-      "home_offense": 25.6,
-      "home_defense": 63.1
+      "home_offense": 28.8,
+      "home_defense": 64.5
     },
     "actual_score": {
       "away": 1,
@@ -755,7 +755,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 2.6pt (≤5.0pt) / 최고 확률 50.0% (≤62.0%)",
+    "low_confidence_reason": "SP 점수 차이 1.4pt (≤5.0pt) / 최고 확률 50.0% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
