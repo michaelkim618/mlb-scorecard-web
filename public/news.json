@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T05:58:05.857169+00:00",
+  "updated_at": "2026-10-14T06:32:33.754568+00:00",
   "news": [
     {
       "title": "'When they smell blood, they take it and run': Rays create havoc to even up ALCS",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-14T05:40:00+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "Guards head home with series tied after costly error on Rays' turf",
@@ -25,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-14T05:38:42+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "Rays-Guardians ALCS Game 3 FAQ (Thurs., 6 ET, TBS/HBO Max)",
@@ -38,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-14T05:30:59+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Spoiler alert: 'Fastball Freddy' went fastball-heavy -- and Guards still couldn't hit it",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-14T05:24:00+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rays pounce after Guards' mistakes, rally in the most Rays way imaginable",
@@ -64,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-14T05:13:52+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "With retro swag and a finger wag, 'Devil' Rays throw it back",
@@ -77,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-14T05:00:39+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "3 storylines to follow in Game 3 of the NLCS",
@@ -90,10 +90,10 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-14T04:01:14+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
-      "title": "Brewers-Dodgers NLCS Game 3 FAQ (Wed., 8 p.m. ET, FS1/FOX One)",
+      "title": "Brewers-Dodgers NLCS Game 3 FAQ (8 p.m. ET, FS1/FOX One)",
       "link": "https://www.mlb.com/news/brewers-dodgers-nl-championship-series-game-3-starting-lineups-and-pitching-matchup",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791915619/mlb/t8n1ji12dfsofjluxa4p",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-14T02:13:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
