@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-13T23:49:29.757667+00:00",
+  "updated_at": "2026-10-14T00:02:34.742764+00:00",
   "news": [
+    {
+      "title": "LIVE: Guardians-Rays ALCS Game 2 on TBS/HBO Max",
+      "link": "https://www.mlb.com/news/guardians-vs-rays-alcs-game-2-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nlbiix8y2hh9mpjxdefg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-14T00:00:00+00:00",
+      "time_ago": "2m ago"
+    },
+    {
+      "title": "Brewers' Game 3 battery is all thanks to ... J.J. Hardy?",
+      "link": "https://www.mlb.com/news/j-j-hardy-s-trade-tree-has-lasting-impact-for-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fuf0hemmnemglyd96zay",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-13T23:49:31+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Ohtani will be in NLCS Game 3 lineup, per Dave Roberts",
+      "link": "https://www.mlb.com/news/shohei-ohtani-nlcs-game-3-lineup-dodgers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qjrbesbrwk41zn201maf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-13T23:49:29+00:00",
+      "time_ago": "13m ago"
+    },
     {
       "title": "Here's the root of Ohtani's slump. Is there time to fix it?",
       "link": "https://www.mlb.com/news/shohei-ohtani-struggles-2026-postseason",
@@ -13,19 +52,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T21:42:00+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Guardians-Rays ALCS Game 2 FAQ, lineups (8 ET, TBS/HBO Max)",
-      "link": "https://www.mlb.com/news/guardians-vs-rays-alcs-game-2-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nlbiix8y2hh9mpjxdefg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-13T20:29:00+00:00",
-      "time_ago": "3h ago"
     },
     {
       "title": "Venezuela's championship DNA sparking Brewers' October run",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T17:59:00+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "4 takeaways from Crew's win in Game 2",
-      "link": "https://www.mlb.com/news/key-takeaways-from-brewers-win-over-dodgers-in-nlcs-game-2",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oiwggjobcdlapufpedo4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-13T16:45:00+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "These three high-upside Phillies prospects could be big leaguers soon",
-      "link": "https://www.mlb.com/news/phillies-prospects-who-could-contribute-in-2027",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rxbf88ogpanb5bpi5nmx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-13T15:22:11+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "6h ago"
     }
   ]
 }
