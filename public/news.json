@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T18:26:49.255984+00:00",
+  "updated_at": "2026-10-14T18:48:03.241703+00:00",
   "news": [
     {
       "title": "These are the 2026 Gold Glove Award finalists",
@@ -25,7 +25,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-10-14T16:41:02+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Minor League Baseball announces 2026 industry award winners",
@@ -38,7 +38,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-10-14T16:40:20+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Hot corner, lasting legacy: Junior hoping to follow J-Ram's lead",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-14T15:43:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
