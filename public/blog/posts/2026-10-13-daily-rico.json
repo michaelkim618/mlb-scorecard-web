@@ -1,0 +1,99 @@
+{
+  "title": "Oct 13 Results + Oct 14 Preview: Let's Call It What It Was—A Disaster",
+  "summary": "Oct 13 went 0-1. No sugarcoating. But Oct 14's Dodgers pick? That's redemption waiting.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Let Me Be Honest: Yesterday Was Trash\n\nLook, I'm not here to spin fairy tales or feed you corporate nonsense. October 13 was a complete whiff. Zero wins, one loss. **0.0% accuracy**. The Guardians let us down against the Rays, and there's no point pretending otherwise. Some days the model eats, some days it gets eaten. Yesterday? We were the meal."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Oct 13 W-L",
+          "value": "0-1"
+        },
+        {
+          "label": "Accuracy",
+          "value": "0.0%"
+        },
+        {
+          "label": "Pride Level",
+          "value": "Bruised"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Oct 13 Full Results Breakdown",
+      "headers": [
+        "Game",
+        "Pick",
+        "Probability",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Guardians @ Rays",
+          "Guardians",
+          "50%",
+          "✗ Miss"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Guardians Disaster: What Went Wrong\n\nA 50% confidence pick that couldn't even deliver a coin flip result. The Guardians offense disappeared when it mattered most, and the Rays capitalized like a playoff team should. Here's the controversial take nobody wants to hear: **maybe we were trying to get cute with an underdog pick when the smart money was elsewhere**.\n\nBut here's the thing—one loss doesn't break a season. It's October baseball. Chaos is the baseline. The real test is how you bounce back."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Oct 13 Prediction Performance",
+      "data": [
+        {
+          "name": "Guardians",
+          "probability": 50,
+          "result": 0
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#DC2626",
+          "label": "Correct (0=No, 1=Yes)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Redemption Arc: Dodgers vs Brewers\n\nNow let's talk about October 14, because this is where we separate the believers from the doubters. **Milwaukee Brewers at Los Angeles Dodgers**. And let me be brutally clear: the Dodgers are the play.\n\nRobert Gasser for Milwaukee against Blake Snell for LA? In the postseason? At Dodger Stadium? The model gives LA a **57% win probability**, and frankly, that feels conservative. Snell in October is a different animal, and the Dodgers' lineup has been relentless."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Oct 14 Top Pick",
+      "value": "Los Angeles Dodgers",
+      "sub": "57% win probability · Blake Snell vs Robert Gasser"
+    },
+    {
+      "type": "text",
+      "value": "## Why the Dodgers Will Deliver\n\nHere's the hot take: **the Brewers are overmatched in this pitching duel**. Gasser is talented, sure, but he's facing a Dodgers lineup that feasts on young arms in high-pressure situations. Meanwhile, Snell has been here before—he thrives when the lights are brightest.\n\nThe 57% confidence might not scream lock of the century, but in playoff baseball, edges are razor-thin. This is one of them. The Dodgers at home, with their ace on the mound, against a Brewers squad that's good but not great? That's where smart money lands.\n\n### The Blunt Truth\n\nAfter going 0-1 yesterday, we need this. The model needs it. You need it. And guess what? The Dodgers are going to deliver it. Bank on LA tomorrow, and let's turn this ship around.\n\nSee you after the game. And yeah, it better be a win."
+    }
+  ],
+  "slug": "2026-10-13-daily-rico",
+  "author": "Rico",
+  "author_emoji": "🎭",
+  "author_role": "Drama Critic",
+  "author_color": "#DC2626",
+  "date": "2026-10-13",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#DC2626"
+}
