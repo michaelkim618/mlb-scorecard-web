@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-10-14T02:06:21.680976+00:00",
+  "updated_at": "2026-10-14T03:09:50.912852+00:00",
   "news": [
+    {
+      "title": "Rays create havoc on basepaths, get stellar start from Peralta to even ALCS",
+      "link": "https://www.mlb.com/news/rays-win-alcs-game-2-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hjfzjudijipqbdgggxby",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-14T02:55:00+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "'Fastball Freddy' more fitting than ever as Peralta tops 99 in scoreless start",
+      "link": "https://www.mlb.com/news/freddy-peralta-pitches-scoreless-ball-in-2026-alcs-game-2",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791942572/mlb/ztt0wznk5r4vv3bdtodm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-14T02:52:00+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Brewers-Dodgers NLCS Game 3 FAQ (Wed., 8 p.m. ET, FS1/FOX One)",
+      "link": "https://www.mlb.com/news/brewers-dodgers-nl-championship-series-game-3-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791915619/mlb/t8n1ji12dfsofjluxa4p",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen, Adam McCalvy and AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-14T02:13:00+00:00",
+      "time_ago": "56m ago"
+    },
+    {
+      "title": "Dodgers need Snell to step up on big stage, just as he's done in the past",
+      "link": "https://www.mlb.com/news/blake-snell-faces-brewers-in-nlcs-game-3",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791939342/mlb/xbnoqdqji93yidutm9pw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Christina De Nicola",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-14T02:07:20+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Ohtani 'adamant' he is good to go, will be in NLCS Game 3 lineup",
       "link": "https://www.mlb.com/news/shohei-ohtani-nlcs-game-3-lineup-dodgers",
@@ -12,20 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-14T01:45:00+00:00",
-      "time_ago": "21m ago"
-    },
-    {
-      "title": "LIVE: Rays strike first with 4th-inning breakthrough (TBS/HBO Max)",
-      "link": "https://www.mlb.com/stories/game/849813",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ugjjaywphvrehb14szzv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-14T01:37:05+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Finally fully healthy, Mitchell a vital cog in Crew's postseason machine",
@@ -38,20 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-14T01:25:34+00:00",
-      "time_ago": "40m ago"
-    },
-    {
-      "title": "Brewers-Dodgers NLCS Game 3 FAQ (Wed., 8 p.m. ET, FS1/FOX One)",
-      "link": "https://www.mlb.com/news/brewers-dodgers-nl-championship-series-game-3-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791915619/mlb/t8n1ji12dfsofjluxa4p",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen, Adam McCalvy and AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-14T01:08:00+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Fall League prospects who could earn 40-man roster spots",
@@ -64,7 +90,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-14T00:26:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Here's the root of Ohtani's slump. Is there time to fix it?",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-14T00:23:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Brewers' Game 3 battery is all thanks to ... J.J. Hardy?",
-      "link": "https://www.mlb.com/news/j-j-hardy-s-trade-tree-has-lasting-impact-for-brewers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fuf0hemmnemglyd96zay",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-13T23:49:31+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Venezuela's championship DNA sparking Brewers' October run",
-      "link": "https://www.mlb.com/news/brewers-venezuelan-players-world-baseball-classic-nlcs-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/clqravgscargnjstvs9g",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ricardo Montes de Oca",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-13T18:28:55+00:00",
-      "time_ago": "7h ago"
     }
   ]
 }
