@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-14T23:06:12.768333+00:00",
+  "updated_at": "2026-10-14T23:22:44.007678+00:00",
   "news": [
+    {
+      "title": "Reliever-turned-starter Jax excited for first playoff starting assignment",
+      "link": "https://www.mlb.com/news/griffin-jax-to-make-first-career-playoff-start-for-rays-in-alcs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fewoirlxb7rfiw6ackbk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-10-14T23:16:20+00:00",
+      "time_ago": "6m ago"
+    },
+    {
+      "title": "One stat from each farm system that caught our eye in 2026",
+      "link": "https://www.mlb.com/news/best-prospect-stat-from-each-mlb-farm-system-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/r0zebjwgc2vkyacwnhzr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jim Callis and Jonathan Mayo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-14T23:00:00+00:00",
+      "time_ago": "22m ago"
+    },
     {
       "title": "Rays-Guardians ALCS Game 3 FAQ (Thurs., 1 ET, TBS/HBO Max)",
       "link": "https://www.mlb.com/news/rays-vs-guardians-alcs-game-3-starting-lineups-and-pitching-matchup",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-14T19:52:00+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "Updated Thursday start times: 1 ET (ALCS Game 3), 8 ET (NLCS Game 4)",
-      "link": "https://www.mlb.com/news/updated-alcs-nlcs-start-times-oct-15",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nrx4ldrnsxorncf9wflq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-14T19:14:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "3 storylines to follow in Game 3 of the NLCS",
-      "link": "https://www.mlb.com/news/nlcs-game-3-2026-storylines-to-follow",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uupjycq9oxqcztijjubk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-14T19:05:00+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }
