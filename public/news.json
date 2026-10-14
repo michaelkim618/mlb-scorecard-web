@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-14T03:09:50.912852+00:00",
+  "updated_at": "2026-10-14T04:08:13.022266+00:00",
   "news": [
+    {
+      "title": "3 storylines to follow in Game 3 of the NLCS",
+      "link": "https://www.mlb.com/news/nlcs-game-3-2026-storylines-to-follow",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uupjycq9oxqcztijjubk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-14T04:01:14+00:00",
+      "time_ago": "6m ago"
+    },
+    {
+      "title": "'Fastball Freddy' more fitting than ever as Peralta tops 99 in scoreless start",
+      "link": "https://www.mlb.com/news/freddy-peralta-pitches-scoreless-ball-in-2026-alcs-game-2",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791948440/mlb/ztt0wznk5r4vv3bdtodm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-14T03:48:00+00:00",
+      "time_ago": "20m ago"
+    },
     {
       "title": "Rays create havoc on basepaths, get stellar start from Peralta to even ALCS",
       "link": "https://www.mlb.com/news/rays-win-alcs-game-2-2026",
@@ -11,21 +37,8 @@
       "author": "Keegan Matheson",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-14T02:55:00+00:00",
-      "time_ago": "14m ago"
-    },
-    {
-      "title": "'Fastball Freddy' more fitting than ever as Peralta tops 99 in scoreless start",
-      "link": "https://www.mlb.com/news/freddy-peralta-pitches-scoreless-ball-in-2026-alcs-game-2",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791942572/mlb/ztt0wznk5r4vv3bdtodm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-14T02:52:00+00:00",
-      "time_ago": "17m ago"
+      "pub_date": "2026-10-14T03:16:00+00:00",
+      "time_ago": "52m ago"
     },
     {
       "title": "Brewers-Dodgers NLCS Game 3 FAQ (Wed., 8 p.m. ET, FS1/FOX One)",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-14T02:13:00+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Dodgers need Snell to step up on big stage, just as he's done in the past",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-14T02:07:20+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Ohtani 'adamant' he is good to go, will be in NLCS Game 3 lineup",
@@ -64,7 +77,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-14T01:45:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Finally fully healthy, Mitchell a vital cog in Crew's postseason machine",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-14T01:25:34+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Fall League prospects who could earn 40-man roster spots",
@@ -90,20 +103,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-14T00:26:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Here's the root of Ohtani's slump. Is there time to fix it?",
-      "link": "https://www.mlb.com/news/shohei-ohtani-struggles-2026-postseason",
-      "summary": "Dodgers star hasn't hit a home run since Aug. 18",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rh1qbbnvbe0sw0ca8qej",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mike Petriello",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-14T00:23:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
