@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-14T01:31:37.318586+00:00",
+  "updated_at": "2026-10-14T02:06:21.680976+00:00",
   "news": [
+    {
+      "title": "Ohtani 'adamant' he is good to go, will be in NLCS Game 3 lineup",
+      "link": "https://www.mlb.com/news/shohei-ohtani-nlcs-game-3-lineup-dodgers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yvnzoj3nbsisbufqsxj1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-14T01:45:00+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "LIVE: Rays strike first with 4th-inning breakthrough (TBS/HBO Max)",
+      "link": "https://www.mlb.com/stories/game/849813",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ugjjaywphvrehb14szzv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-14T01:37:05+00:00",
+      "time_ago": "29m ago"
+    },
     {
       "title": "Finally fully healthy, Mitchell a vital cog in Crew's postseason machine",
       "link": "https://www.mlb.com/news/garrett-mitchell-a-key-part-of-brewers-nlcs-run",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-14T01:25:34+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "40m ago"
     },
     {
       "title": "Brewers-Dodgers NLCS Game 3 FAQ (Wed., 8 p.m. ET, FS1/FOX One)",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-14T01:08:00+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Fall League prospects who could earn 40-man roster spots",
@@ -54,19 +80,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "LIVE: Guardians-Rays ALCS Game 2 on TBS/HBO Max",
-      "link": "https://www.mlb.com/news/guardians-vs-rays-alcs-game-2-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nlbiix8y2hh9mpjxdefg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-14T00:00:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Brewers' Game 3 battery is all thanks to ... J.J. Hardy?",
       "link": "https://www.mlb.com/news/j-j-hardy-s-trade-tree-has-lasting-impact-for-brewers",
       "summary": "",
@@ -77,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T23:49:31+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Ohtani will be in NLCS Game 3 lineup, per Dave Roberts",
-      "link": "https://www.mlb.com/news/shohei-ohtani-nlcs-game-3-lineup-dodgers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qjrbesbrwk41zn201maf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-13T23:49:29+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Venezuela's championship DNA sparking Brewers' October run",
