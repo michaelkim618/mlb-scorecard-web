@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-14T01:18:09.955547+00:00",
+  "updated_at": "2026-10-14T01:31:37.318586+00:00",
   "news": [
+    {
+      "title": "Finally fully healthy, Mitchell a vital cog in Crew's postseason machine",
+      "link": "https://www.mlb.com/news/garrett-mitchell-a-key-part-of-brewers-nlcs-run",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791938063/mlb/flelkglwcea1doj4spj8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-14T01:25:34+00:00",
+      "time_ago": "6m ago"
+    },
     {
       "title": "Brewers-Dodgers NLCS Game 3 FAQ (Wed., 8 p.m. ET, FS1/FOX One)",
       "link": "https://www.mlb.com/news/brewers-dodgers-nl-championship-series-game-3-starting-lineups-and-pitching-matchup",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-14T01:08:00+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "23m ago"
     },
     {
       "title": "Fall League prospects who could earn 40-man roster spots",
@@ -25,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-14T00:26:00+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Here's the root of Ohtani's slump. Is there time to fix it?",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-14T00:23:00+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "LIVE: Guardians-Rays ALCS Game 2 on TBS/HBO Max",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-13T18:28:55+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Down, but not out: 4 ways resilient Dodgers can get back in NLCS",
-      "link": "https://www.mlb.com/news/how-dodgers-can-get-back-on-track-in-nlcs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/k1t1rdxy41pg3fv161gk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-13T18:04:41+00:00",
       "time_ago": "7h ago"
     }
   ]
