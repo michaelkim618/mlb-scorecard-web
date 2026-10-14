@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-14T19:06:21.066928+00:00",
+  "updated_at": "2026-10-14T19:36:23.879746+00:00",
   "news": [
+    {
+      "title": "Updated Thursday start times: 1 ET (ALCS Game 3), 8 ET (NLCS Game 4)",
+      "link": "https://www.mlb.com/news/updated-alcs-nlcs-start-times-oct-15",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nrx4ldrnsxorncf9wflq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-14T19:14:00+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "3 storylines to follow in Game 3 of the NLCS",
+      "link": "https://www.mlb.com/news/nlcs-game-3-2026-storylines-to-follow",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uupjycq9oxqcztijjubk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-14T19:05:00+00:00",
+      "time_ago": "31m ago"
+    },
     {
       "title": "These are the 2026 Gold Glove Award finalists",
       "link": "https://www.mlb.com/news/2026-gold-glove-award-finalists",
@@ -12,7 +38,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-10-14T17:07:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Minor League Baseball honors 2026 Golden Bobblehead Award winners",
@@ -51,19 +77,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-14T16:10:21+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Rays-Guardians ALCS Game 3 time moved up to 1 p.m. ET due to weather",
-      "link": "https://www.mlb.com/news/rays-guardians-alcs-game-3-game-time-change",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pb2wpucicub5prh86zwf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-14T16:03:11+00:00",
       "time_ago": "3h ago"
     },
     {
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-14T15:58:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Here are the teams in search of new managers, GMs",
-      "link": "https://www.mlb.com/news/manager-rumors-and-candidates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ojkicjxvvftqrlb8nq0q",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-14T15:43:00+00:00",
       "time_ago": "3h ago"
     }
   ]
