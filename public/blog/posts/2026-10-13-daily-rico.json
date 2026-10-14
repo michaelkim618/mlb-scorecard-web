@@ -1,34 +1,34 @@
 {
-  "title": "Oct 13 Results + Oct 14 Preview: Let's Talk About That Disaster",
-  "summary": "Oct 13 was a humbling 0-1 nightmare. Time to rebound with Dodgers on Oct 14.",
+  "title": "Oct 13 Results + Oct 14 Preview: When Your Only Pick Crashes and Burns",
+  "summary": "Oct 13: 0-1, zero wins. Let me be honest—that was embarrassing.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Let Me Be Honest: That Was Embarrassing\n\nOkay, let's not sugarcoat this—October 13 was an absolute trainwreck. We went 0-1. Zero wins. One loss. A perfect storm of getting it completely wrong. The Guardians were supposed to show up against the Rays, and instead they laid an egg so spectacular it belongs in a museum of failures.\n\nBut here's the thing nobody wants to hear: sometimes you swing and miss. Sometimes the model gets humbled. And you know what? I'm not going to make excuses. We picked Cleveland at 50%, they lost, and now we move on. That's baseball, baby."
+      "value": "## Let Me Be Honest: That Was Brutal\n\nOne pick. ONE. And we missed it. The Guardians were supposed to show up against the Rays with 50% confidence, and instead they decided to play like they forgot baseball was a competitive sport. When you go 0-for-1, there's nowhere to hide. No silver linings, no moral victories. Just pure, unfiltered failure."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Oct 13 W-L",
+          "label": "Oct 13 Record",
           "value": "0-1"
         },
         {
-          "label": "Accuracy",
+          "label": "Win Rate",
           "value": "0.0%"
         },
         {
           "label": "Embarrassment Level",
-          "value": "High"
+          "value": "MAX"
         }
       ]
     },
     {
       "type": "table",
-      "title": "Oct 13 Full Results Breakdown",
+      "title": "Oct 13 Game Results",
       "headers": [
-        "Game",
+        "Matchup",
         "Our Pick",
         "Confidence",
         "Result"
@@ -38,49 +38,32 @@
           "Guardians @ Rays",
           "Guardians",
           "50%",
-          "✗ Miss"
+          "✗ MISS"
         ]
       ]
     },
     {
       "type": "text",
-      "value": "## The Guardians-Rays Autopsy\n\nA 50% confidence pick? That should've been our first warning sign. When you're essentially flipping a coin, don't be shocked when it lands on tails. The Guardians couldn't generate offense, and the Rays—bless them—actually showed up to play baseball. Revolutionary concept, I know.\n\nThe brutal truth? We had no business being confident in that game, and the results prove it. One game, one miss, and a harsh reminder that October baseball is an entirely different beast."
+      "value": "## The Guardians Let Us Down\n\nHere's the thing about 50% confidence picks—they're basically a coin flip. But when that coin lands on tails and you're sitting there with egg on your face, it stings twice as much. Cleveland had every opportunity to make this right, and they folded. That's baseball, baby. Cruel, unforgiving, and ready to humble you at every turn.\n\nBut you know what? We dust off and move forward. Because tomorrow is a new day, and tomorrow we've got something spicy brewing in Los Angeles."
     },
     {
       "type": "text",
-      "value": "## Oct 14 Preview: Redemption Time With The Dodgers\n\nNow let's talk about tomorrow, because dwelling on yesterday is for losers. We've got Brewers traveling to Los Angeles to face the Dodgers, and if you're not paying attention to this pitching matchup, you're sleeping at the wheel.\n\nRobert Gasser for Milwaukee against Blake Snell for LA. On paper, this shouldn't even be close. Snell—when he's locked in—is an absolute nightmare for opposing lineups. The Dodgers at home in October? That's the kind of advantage that makes Vegas smile."
+      "value": "## Oct 14 Preview: Redemption in Chavez Ravine\n\nForget yesterday. Tomorrow we're backing the Dodgers at home against Milwaukee with 57% confidence. Blake Snell on the mound for LA, Robert Gasser trying to keep the Brewers competitive. This isn't rocket science—Snell at Dodger Stadium is money, and the Brewers are walking into a buzzsaw."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick",
+      "title": "⭐ Oct 14 Top Pick",
       "value": "Los Angeles Dodgers",
-      "sub": "57% win probability · Snell vs Gasser · Home field dominance"
+      "sub": "57% win probability · Blake Snell vs Robert Gasser · Home advantage"
     },
     {
       "type": "text",
-      "value": "## Why The Dodgers Will Bounce Us Back\n\nLet me be provocative here: 57% confidence might actually be too conservative. The Dodgers have the better pitcher, the better lineup, and home field advantage in a playoff atmosphere. Gasser is talented, sure, but he's walking into a buzzsaw.\n\nThe Milwaukee offense has been inconsistent, and asking them to solve Blake Snell in Dodger Stadium during October? Good luck with that. LA smells blood in the water, and they're going to feast.\n\nWe're riding with the Dodgers tomorrow, and I'm not apologizing for it. After the Guardians debacle, we need a statement win. This is it."
-    },
-    {
-      "type": "stat_row",
-      "stats": [
-        {
-          "label": "Dodgers Win Prob",
-          "value": "57%"
-        },
-        {
-          "label": "Key Factor",
-          "value": "Snell"
-        },
-        {
-          "label": "Confidence",
-          "value": "High"
-        }
-      ]
+      "value": "## Why the Dodgers Will Bounce Us Back\n\nLet me tell you why this pick is different from yesterday's disaster. Blake Snell isn't some middle-of-the-rotation arm—he's a difference-maker when he's locked in. Robert Gasser? He's got potential, but this isn't the spot where potential beats pedigree. \n\nThe Dodgers at home, in October, with their backs potentially against the wall? That's a recipe for dominance. Milwaukee has been scrappy all year, but scrappy doesn't cut it when you're facing an elite pitcher in a hostile environment.\n\n57% confidence might not sound sexy, but it's honest. It's realistic. And after going 0-1 yesterday with a 50-50 toss-up, I'll take the slight edge with the better team every single time."
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nOct 13 stung. It should sting. But that's why we preview tomorrow—because one bad day doesn't define a season, and it certainly doesn't shake our process. The Dodgers are the play on Oct 14, and if you disagree, well, that's what makes this fun.\n\nLet's get that win back. See you tomorrow when we watch LA do exactly what we expect them to do.\n\n—Rico"
+      "value": "## The Bottom Line\n\nOct 13 was a disaster. No sugarcoating it. But Oct 14 is about redemption. The Dodgers are our path back to respectability, and Blake Snell is the arm we're riding. \n\nSee you tomorrow when we're back in the win column.\n\n— Rico"
     }
   ],
   "slug": "2026-10-13-daily-rico",
