@@ -1,11 +1,11 @@
 {
-  "title": "Oct 13 Results + Oct 14 Preview: Let's Call It What It Was—A Disaster",
-  "summary": "Oct 13 went 0-1. No sugarcoating. But Oct 14's Dodgers pick? That's redemption waiting.",
+  "title": "Oct 13 Results + Oct 14 Preview: When You Go 0-1, You Own It",
+  "summary": "Oct 13 was brutal (0-1). But Oct 14? Dodgers-Brewers is where we bounce back.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Let Me Be Honest: Yesterday Was Trash\n\nLook, I'm not here to spin fairy tales or feed you corporate nonsense. October 13 was a complete whiff. Zero wins, one loss. **0.0% accuracy**. The Guardians let us down against the Rays, and there's no point pretending otherwise. Some days the model eats, some days it gets eaten. Yesterday? We were the meal."
+      "value": "## Let Me Be Honest: Yesterday Was Garbage\n\nLook, I'm not here to sugarcoat anything. October 13 was a disaster. We went 0-1. That's a perfect zero percent success rate. The Guardians let us down against the Rays, and there's no spinning that into something positive. When you're wrong, you're wrong. Period."
     },
     {
       "type": "stat_row",
@@ -19,8 +19,8 @@
           "value": "0.0%"
         },
         {
-          "label": "Pride Level",
-          "value": "Bruised"
+          "label": "Confidence Level",
+          "value": "50%"
         }
       ]
     },
@@ -30,7 +30,7 @@
       "headers": [
         "Game",
         "Pick",
-        "Probability",
+        "Confidence",
         "Result"
       ],
       "rows": [
@@ -44,47 +44,43 @@
     },
     {
       "type": "text",
-      "value": "## The Guardians Disaster: What Went Wrong\n\nA 50% confidence pick that couldn't even deliver a coin flip result. The Guardians offense disappeared when it mattered most, and the Rays capitalized like a playoff team should. Here's the controversial take nobody wants to hear: **maybe we were trying to get cute with an underdog pick when the smart money was elsewhere**.\n\nBut here's the thing—one loss doesn't break a season. It's October baseball. Chaos is the baseline. The real test is how you bounce back."
-    },
-    {
-      "type": "chart",
-      "chart_type": "bar",
-      "title": "Oct 13 Prediction Performance",
-      "data": [
-        {
-          "name": "Guardians",
-          "probability": 50,
-          "result": 0
-        }
-      ],
-      "x_key": "name",
-      "bars": [
-        {
-          "key": "probability",
-          "color": "#0EA5E9",
-          "label": "Win Probability (%)"
-        },
-        {
-          "key": "result",
-          "color": "#DC2626",
-          "label": "Correct (0=No, 1=Yes)"
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "value": "## Tomorrow's Redemption Arc: Dodgers vs Brewers\n\nNow let's talk about October 14, because this is where we separate the believers from the doubters. **Milwaukee Brewers at Los Angeles Dodgers**. And let me be brutally clear: the Dodgers are the play.\n\nRobert Gasser for Milwaukee against Blake Snell for LA? In the postseason? At Dodger Stadium? The model gives LA a **57% win probability**, and frankly, that feels conservative. Snell in October is a different animal, and the Dodgers' lineup has been relentless."
+      "value": "## The Guardians Choked, Plain and Simple\n\nA 50% confidence pick that missed? Yeah, it stings, but let's call it what it was—a coin flip that landed tails. The Guardians couldn't get it done in Tampa, and honestly, maybe we should've seen it coming. But here's the thing about being a Drama Critic: you take your losses on the chin and move forward with even hotter takes.\n\nThe model's not perfect. Never claimed it was. But one bad day doesn't define a season, and it sure as hell doesn't define what's coming tomorrow."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Oct 14 Top Pick",
-      "value": "Los Angeles Dodgers",
-      "sub": "57% win probability · Blake Snell vs Robert Gasser"
+      "value": "Los Angeles Dodgers over Milwaukee Brewers",
+      "sub": "57% Win Probability • Snell vs Gasser"
     },
     {
       "type": "text",
-      "value": "## Why the Dodgers Will Deliver\n\nHere's the hot take: **the Brewers are overmatched in this pitching duel**. Gasser is talented, sure, but he's facing a Dodgers lineup that feasts on young arms in high-pressure situations. Meanwhile, Snell has been here before—he thrives when the lights are brightest.\n\nThe 57% confidence might not scream lock of the century, but in playoff baseball, edges are razor-thin. This is one of them. The Dodgers at home, with their ace on the mound, against a Brewers squad that's good but not great? That's where smart money lands.\n\n### The Blunt Truth\n\nAfter going 0-1 yesterday, we need this. The model needs it. You need it. And guess what? The Dodgers are going to deliver it. Bank on LA tomorrow, and let's turn this ship around.\n\nSee you after the game. And yeah, it better be a win."
+      "value": "## Tomorrow's Redemption: Dodgers Are the Play\n\nHere's where we get back on track. October 14 brings us Brewers at Dodgers, and I'm telling you right now—Los Angeles is the pick. 57% confidence might not sound like a lock, but when you've got Blake Snell on the mound at home versus Robert Gasser, the math starts making a lot more sense.\n\nSnell's been elite when he's locked in, and Dodger Stadium is his fortress. Gasser? He's got potential, sure, but this is the postseason spotlight, and the Brewers are walking into a buzzsaw. Milwaukee's got fight, I'll give them that, but the Dodgers have championship DNA flowing through their veins right now."
+    },
+    {
+      "type": "text",
+      "value": "## Why This Pick Matters\n\nLet me be provocative for a second: if you're not riding with the Dodgers tomorrow, you're overthinking it. Yes, we missed yesterday. Yes, confidence is only at 57%. But this is about context. Home field advantage, superior pitching matchup, and a team that knows how to perform when the lights are brightest.\n\nThe Brewers are scrappy, but scrappy doesn't win championships. Talent does. Execution does. And tomorrow, the Dodgers have both in spades.\n\nSo yeah, October 13 was a disaster. But October 14? That's our bounce-back game. Book it."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Dodgers Win Prob",
+          "value": "57%"
+        },
+        {
+          "label": "Home SP",
+          "value": "B. Snell"
+        },
+        {
+          "label": "Away SP",
+          "value": "R. Gasser"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Bottom Line\n\nZero wins yesterday hurts. No question. But if you're in this for the long game, you know one loss doesn't break the model. Tomorrow's slate is lean, but it's focused. Dodgers over Brewers. That's the play. That's the redemption arc.\n\nLet's get back to winning. See you on the other side of October 14."
     }
   ],
   "slug": "2026-10-13-daily-rico",
