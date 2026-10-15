@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-15T01:43:45.421209+00:00",
+  "updated_at": "2026-10-15T03:50:46.623331+00:00",
   "news": [
+    {
+      "title": "Clutch homers have Brewers 1 win away from 1st World Series appearance in 44 years",
+      "link": "https://www.mlb.com/news/brewers-win-nlcs-game-3-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t3cs303cersdws9u4yjg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-15T03:35:00+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "The best comeback attempts from 3-0 holes in playoffs",
+      "link": "https://www.mlb.com/news/best-3-0-comeback-attempts-in-postseason",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lnrhy96hkhg55y7gdfef",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harrigan",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-15T03:15:00+00:00",
+      "time_ago": "35m ago"
+    },
     {
       "title": "Chourio's history-making 1st-pitch HR comes 1 year to the day after he did the same thing!",
       "link": "https://www.mlb.com/news/jackson-chourio-hits-first-pitch-home-run-in-nlcs-game-3",
@@ -11,8 +37,47 @@
       "author": "Christina De Nicola",
       "tag": "Highlight",
       "tag_color": "#D97706",
-      "pub_date": "2026-10-15T01:33:00+00:00",
-      "time_ago": "10m ago"
+      "pub_date": "2026-10-15T03:12:00+00:00",
+      "time_ago": "38m ago"
+    },
+    {
+      "title": "Battle won! Again! Bauers takes Snell deep on 11th pitch for go-ahead HR",
+      "link": "https://www.mlb.com/news/jake-bauers-hits-go-ahead-hr-off-blake-snell-in-11-pitch-at-bat-in-nlcs-game-3",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pjsasetlwxjednqhz2lg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-15T02:50:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Long, Dickerson will not return to Phillies staff in '27 (sources)",
+      "link": "https://www.mlb.com/news/phillies-part-ways-with-kevin-long-bobby-dickerson",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pv3olahunyimwiv4ezud",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-15T02:48:04+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "The one thing that bugs Brewers star is a praying mantis on his shoulder",
+      "link": "https://www.mlb.com/news/jackson-chourio-notices-praying-mantis-on-his-shoulder",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/moxxvid0fz0nwr52uiqm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Chiusano",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-15T01:46:37+00:00",
+      "time_ago": "2h ago"
     },
     {
       "title": "After 'freak accident', Armstrong back at Trop pitching in playoffs",
@@ -25,20 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-15T00:31:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "LIVE: Brewers-Dodgers NLCS Game 3 on FS1/FOX One",
-      "link": "https://www.mlb.com/news/brewers-dodgers-nl-championship-series-game-3-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791915619/mlb/t8n1ji12dfsofjluxa4p",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen, Adam McCalvy and AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-15T00:00:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Reliever-turned-starter Jax excited for first playoff starting assignment",
@@ -51,59 +103,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-10-14T23:16:20+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "One stat from each farm system that caught our eye in 2026",
-      "link": "https://www.mlb.com/news/best-prospect-stat-from-each-mlb-farm-system-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/r0zebjwgc2vkyacwnhzr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jim Callis and Jonathan Mayo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-14T23:00:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Padres' offseason storylines include Sheets' health, Pivetta's contract",
-      "link": "https://www.mlb.com/news/a-j-preller-craig-stammen-discuss-padres-offseason",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792016119/mlb/av3dgugczilzuvoatmnk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-14T22:45:49+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "'Whenever you need me': Smith a busy man at back end of Guardians' bullpen",
-      "link": "https://www.mlb.com/news/cade-smith-busy-at-back-end-of-bullpen-for-guardians",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fhfzbagoez4dqviyxoel",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-14T21:55:25+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Rays-Guardians ALCS Game 3 FAQ (Thurs., 1 ET, TBS/HBO Max)",
-      "link": "https://www.mlb.com/news/rays-vs-guardians-alcs-game-3-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jnrftlv1ewfq05bo0hg1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-14T21:45:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
