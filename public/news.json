@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-15T01:10:09.025814+00:00",
+  "updated_at": "2026-10-15T01:43:45.421209+00:00",
   "news": [
+    {
+      "title": "Chourio's history-making 1st-pitch HR comes 1 year to the day after he did the same thing!",
+      "link": "https://www.mlb.com/news/jackson-chourio-hits-first-pitch-home-run-in-nlcs-game-3",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xb1z12uphljvdwhi7ioz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Christina De Nicola",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-15T01:33:00+00:00",
+      "time_ago": "10m ago"
+    },
     {
       "title": "After 'freak accident', Armstrong back at Trop pitching in playoffs",
       "link": "https://www.mlb.com/news/shawn-armstrong-back-tropicana-field-guardians-after-injury",
@@ -12,7 +25,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-15T00:31:00+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "LIVE: Brewers-Dodgers NLCS Game 3 on FS1/FOX One",
@@ -38,10 +51,10 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-10-14T23:16:20+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
-      "title": "Here's one stat from each farm system that caught our eye in 2026",
+      "title": "One stat from each farm system that caught our eye in 2026",
       "link": "https://www.mlb.com/news/best-prospect-stat-from-each-mlb-farm-system-2026",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/r0zebjwgc2vkyacwnhzr",
@@ -91,19 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-14T21:45:00+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "'Adamant' he is good to go, Ohtani batting 6th in Game 3",
-      "link": "https://www.mlb.com/news/shohei-ohtani-nlcs-game-3-lineup-dodgers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yvnzoj3nbsisbufqsxj1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-14T20:41:00+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }
