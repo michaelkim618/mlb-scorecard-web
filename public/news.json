@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-10-15T21:14:39.412565+00:00",
+  "updated_at": "2026-10-15T21:35:30.330963+00:00",
   "news": [
-    {
-      "title": "Ohtani back in leadoff spot for NLCS Game 4",
-      "link": "https://www.mlb.com/news/shohei-ohtani-leading-off-in-game-4-of-2026-nlcs-vs-brewers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/izvvwa7nikcuagegvvhs",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-15T20:55:35+00:00",
-      "time_ago": "19m ago"
-    },
     {
       "title": "Brewers-Dodgers NLCS Game 4 lineups, FAQ (8 ET, FS1/FOX One)",
       "link": "https://www.mlb.com/news/brewers-dodgers-nl-championship-series-game-4-starting-lineups-and-pitching-matchup",
@@ -24,8 +11,21 @@
       "author": "Sonja Chen, Adam McCalvy and AJ Cassavell",
       "tag": "Roster",
       "tag_color": "#0284C7",
-      "pub_date": "2026-10-15T20:43:00+00:00",
-      "time_ago": "31m ago"
+      "pub_date": "2026-10-15T21:19:00+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Ohtani back in leadoff spot for NLCS Game 4",
+      "link": "https://www.mlb.com/news/shohei-ohtani-leading-off-in-game-4-of-2026-nlcs-vs-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/izvvwa7nikcuagegvvhs",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-15T21:15:00+00:00",
+      "time_ago": "20m ago"
     },
     {
       "title": "Huge go-ahead HR (and bigger bat flip) flips ALCS back in Guardians’ favor",
@@ -64,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T16:34:42+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Brewers are winning with the opposite of small ball",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T15:34:10+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "Stay or go? Breaking down Bichette's upcoming opt-in decision",
