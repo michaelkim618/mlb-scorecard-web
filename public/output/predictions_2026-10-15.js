@@ -850,122 +850,122 @@ window.PREDICTIONS_DATA = [
       "losses": 3,
       "streak": -3
     },
-    "away_pitcher": "Dustin May (TBD)",
-    "away_pitcher_id": 669160,
+    "away_pitcher": "Shane Drohan",
+    "away_pitcher_id": 675660,
     "away_pitcher_stats": {
       "wins": 7,
-      "losses": 9,
-      "era": "4.70"
+      "losses": 5,
+      "era": "4.19"
     },
     "away_pitcher_gamelog": [
       {
-        "date": "2026-08-19",
-        "opp": "vs SEA",
-        "decision": "L",
-        "ip": "2.0",
-        "er": 7,
-        "h": 7,
-        "bb": 2,
-        "so": 1,
-        "era": 31.5
+        "date": "2026-08-13",
+        "opp": "@ LAD",
+        "decision": null,
+        "ip": "5.1",
+        "er": 3,
+        "h": 3,
+        "bb": 3,
+        "so": 5,
+        "era": 5.06
       },
       {
-        "date": "2026-08-26",
-        "opp": "@ NYM",
+        "date": "2026-08-18",
+        "opp": "vs SEA",
         "decision": null,
-        "ip": "0.1",
+        "ip": "2.0",
         "er": 0,
-        "h": 0,
-        "bb": 0,
-        "so": 0,
+        "h": 1,
+        "bb": 2,
+        "so": 1,
         "era": 0.0
       },
       {
-        "date": "2026-08-30",
-        "opp": "vs TEX",
+        "date": "2026-08-23",
+        "opp": "vs ATL",
         "decision": "L",
-        "ip": "4.1",
-        "er": 4,
-        "h": 6,
-        "bb": 3,
-        "so": 4,
-        "era": 8.31
-      },
-      {
-        "date": "2026-09-05",
-        "opp": "@ CIN",
-        "decision": null,
-        "ip": "3.2",
+        "ip": "5.0",
         "er": 2,
-        "h": 5,
-        "bb": 0,
+        "h": 8,
+        "bb": 3,
         "so": 5,
-        "era": 4.91
+        "era": 3.6
       },
       {
-        "date": "2026-09-11",
-        "opp": "vs CIN",
+        "date": "2026-08-29",
+        "opp": "vs TEX",
         "decision": "W",
-        "ip": "6.0",
-        "er": 0,
-        "h": 2,
+        "ip": "5.0",
+        "er": 1,
+        "h": 6,
         "bb": 1,
         "so": 6,
+        "era": 1.8
+      },
+      {
+        "date": "2026-09-04",
+        "opp": "@ CIN",
+        "decision": null,
+        "ip": "4.0",
+        "er": 6,
+        "h": 5,
+        "bb": 2,
+        "so": 5,
+        "era": 13.5
+      },
+      {
+        "date": "2026-09-12",
+        "opp": "vs CIN",
+        "decision": null,
+        "ip": "3.2",
+        "er": 5,
+        "h": 5,
+        "bb": 2,
+        "so": 4,
+        "era": 12.27
+      },
+      {
+        "date": "2026-09-16",
+        "opp": "@ PIT",
+        "decision": null,
+        "ip": "0.2",
+        "er": 0,
+        "h": 2,
+        "bb": 0,
+        "so": 0,
         "era": 0.0
       },
       {
         "date": "2026-09-18",
         "opp": "@ BAL",
         "decision": null,
-        "ip": "2.1",
-        "er": 3,
-        "h": 6,
+        "ip": "1.2",
+        "er": 0,
+        "h": 0,
         "bb": 1,
-        "so": 4,
-        "era": 11.57
+        "so": 2,
+        "era": 0.0
       },
       {
-        "date": "2026-09-22",
+        "date": "2026-09-24",
         "opp": "@ PHI",
         "decision": null,
-        "ip": "2.0",
-        "er": 2,
-        "h": 1,
+        "ip": "2.2",
+        "er": 1,
+        "h": 3,
         "bb": 2,
         "so": 2,
-        "era": 9.0
+        "era": 3.38
       },
       {
-        "date": "2026-09-26",
+        "date": "2026-09-27",
         "opp": "vs STL",
         "decision": null,
-        "ip": "3.0",
-        "er": 2,
-        "h": 3,
-        "bb": 1,
-        "so": 5,
-        "era": 6.0
-      },
-      {
-        "date": "2026-10-06",
-        "opp": "@ SD",
-        "decision": null,
-        "ip": "3.0",
-        "er": 2,
-        "h": 3,
-        "bb": 2,
-        "so": 3,
-        "era": 6.0
-      },
-      {
-        "date": "2026-10-12",
-        "opp": "vs LAD",
-        "decision": null,
-        "ip": "1.0",
+        "ip": "1.2",
         "er": 0,
         "h": 0,
         "bb": 0,
-        "so": 1,
+        "so": 2,
         "era": 0.0
       }
     ],
@@ -1095,14 +1095,14 @@ window.PREDICTIONS_DATA = [
     },
     "expected_score": {
       "away": 2.3,
-      "home": 2.9
+      "home": 3.1
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
       "bat_source": "prev_day",
-      "away_handedness": "R",
+      "away_handedness": "L",
       "home_handedness": "R",
       "bullpen_game": true,
       "any_cold_sp": true,
@@ -1113,17 +1113,17 @@ window.PREDICTIONS_DATA = [
         "sit": 0.15
       },
       "away": {
-        "sp_score": 45.0,
+        "sp_score": 32.0,
         "sp_detail": {
-          "era": 7.16,
-          "whip": 1.63,
-          "k9": 10.1,
-          "avg_ip": 2.8,
-          "qs_rate": 10.0,
-          "last3_era": 7.15,
+          "era": 5.12,
+          "whip": 1.55,
+          "k9": 9.1,
+          "avg_ip": 3.2,
+          "qs_rate": 0.0,
+          "last3_era": 5.23,
           "last_start_era": 0.0,
           "last2_eras": [
-            6.0,
+            3.38,
             0.0
           ],
           "recent_avg_era": 0.0,
@@ -1131,8 +1131,61 @@ window.PREDICTIONS_DATA = [
           "trend": "cold",
           "n_games": 10,
           "sample_confidence": 1.0,
-          "rest_days": 3,
-          "rest_note": "short_rest"
+          "rest_days": 18,
+          "rest_note": "extra_rest",
+          "age": 27,
+          "fb_velo": 94.9,
+          "pitch_arsenal": [
+            "FB",
+            "SI",
+            "SL",
+            "CB",
+            "CT",
+            "CH"
+          ],
+          "secondary_pitches": [
+            "SL",
+            "CB",
+            "CH"
+          ],
+          "pitches_detail": [
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 26.7,
+              "velo": 94.9
+            },
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 21.9,
+              "velo": 94.9
+            },
+            {
+              "code": "SL",
+              "abbr": "SL",
+              "pct": 21.6,
+              "velo": 86.5
+            },
+            {
+              "code": "CU",
+              "abbr": "CB",
+              "pct": 12.9,
+              "velo": 80.7
+            },
+            {
+              "code": "FC",
+              "abbr": "CT",
+              "pct": 11.7,
+              "velo": 90.9
+            },
+            {
+              "code": "CH",
+              "abbr": "CH",
+              "pct": 5.0,
+              "velo": 86.2
+            }
+          ]
         },
         "bp_score": 73.2,
         "bp_detail": {
@@ -1243,7 +1296,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 71.6,
-        "total": 52.1
+        "total": 48.0
       },
       "home": {
         "sp_score": 57.5,
@@ -1336,7 +1389,7 @@ window.PREDICTIONS_DATA = [
           "season_avg": 0.282,
           "n_games": 9,
           "source": "prev_day",
-          "handedness": "R",
+          "handedness": "L",
           "splits_used": false,
           "lineup_ops": [
             "Mookie Betts(1.016)",
@@ -1427,7 +1480,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 36.6,
-      "away_defense": 63.3,
+      "away_defense": 52.6,
       "home_offense": 45.1,
       "home_defense": 62.5
     },
@@ -1437,10 +1490,10 @@ window.PREDICTIONS_DATA = [
     },
     "lineup_confirmed": false,
     "sp_tbd": {
-      "away": true,
+      "away": false,
       "home": false,
       "both": false,
-      "any": true
+      "any": false
     },
     "actual_winner": null,
     "model_winner": "Los Angeles Dodgers",

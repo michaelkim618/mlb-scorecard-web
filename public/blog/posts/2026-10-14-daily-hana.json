@@ -1,17 +1,17 @@
 {
-  "title": "Oct 14 Results + Oct 15 Preview: Sometimes You Just Tip Your Cap",
-  "summary": "Oct 14 brought a tough miss, but Oct 15's Rays-Guardians matchup tells a different story",
+  "title": "Oct 14 Results + Oct 15 Preview: One Swing Can Change Everything",
+  "summary": "The Dodgers didn't come through, but here's what we learned for tomorrow's slate",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Here's the Thing About October Baseball\n\nLook, I'm not going to sugarcoat it—yesterday was rough. We went 0-for-1 on October 14th, and when you're dealing with a single-game slate in the postseason, there's nowhere to hide. The Dodgers were supposed to have the edge at home against Milwaukee, and instead, the Brewers reminded everyone why October baseball is beautifully, maddeningly unpredictable.\n\nBut here's what I love about this process: every miss teaches us something. Every swing and miss in the prediction game makes the next call sharper."
+      "value": "## Looking Back at October 14\n\nHere's the thing about playoff baseball—it doesn't care about your percentages. We had one game on the slate yesterday, and the model liked the Dodgers at 56%. They didn't pull through, and that's the reality of October. Every pitch matters, every swing can change everything."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Oct 14 W-L",
+          "label": "Oct 14 Record",
           "value": "0-1"
         },
         {
@@ -19,14 +19,14 @@
           "value": "0.0%"
         },
         {
-          "label": "Games Predicted",
+          "label": "Games Analyzed",
           "value": "1"
         }
       ]
     },
     {
       "type": "table",
-      "title": "October 14 Game Results",
+      "title": "October 14 Results Breakdown",
       "headers": [
         "Matchup",
         "Our Pick",
@@ -38,32 +38,57 @@
           "Brewers @ Dodgers",
           "Dodgers",
           "56%",
-          "✗ Miss"
+          "✗"
         ]
       ]
     },
     {
       "type": "text",
-      "value": "## What Happened in LA\n\nWe liked the Dodgers at 56% confidence—not a screaming pick, but a solid lean based on home field and the overall metrics. Milwaukee had other plans. That's postseason baseball for you. The margin for error shrinks, the pressure amplifies, and sometimes the underdog just outplays the favorite.\n\nNo excuses, just facts. We move forward."
+      "value": "## What Happened\n\nThe Brewers came into Chavez Ravine and took care of business. Sometimes in this game, the underdog has the better night, and that's exactly what happened. The model saw a slight edge for the Dodgers at home, but Milwaukee had other plans.\n\nThis is why we love October baseball—it's unpredictable, it's dramatic, and it reminds us that nothing is guaranteed."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Oct 14 Pick Performance",
+      "data": [
+        {
+          "name": "Dodgers",
+          "probability": 56,
+          "result": 0
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
     },
     {
       "type": "text",
-      "value": "## Tomorrow's Story: Rays at Guardians\n\nNow let's talk about October 15th, because this is where it gets interesting. We've got Tampa Bay traveling to Cleveland, and our model is leaning toward the Rays at 54%. It's essentially a coin flip with a slight edge—the kind of game that comes down to execution and which pitcher can handle the moment better."
+      "value": "## Tomorrow's Top Pick: October 15\n\nNow let's turn the page to October 15, where we've got an intriguing matchup between the Tampa Bay Rays and Cleveland Guardians. The model is giving us a lean toward Tampa Bay, and while it's not a screaming pick at 54%, there's a story here worth paying attention to."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - October 15",
+      "title": "⭐ Tomorrow's Top Pick",
       "value": "Tampa Bay Rays",
-      "sub": "54% win probability • Griffin Jax vs Gavin Williams"
+      "sub": "54% win probability vs Cleveland Guardians"
     },
     {
       "type": "text",
-      "value": "## The Pitching Matchup That Matters\n\nGriffin Jax takes the ball for Tampa Bay, while Gavin Williams gets the nod for Cleveland. Here's the thing about this matchup—it's not about overwhelming stuff or veteran savvy. It's about who can limit the damage and keep their team in striking distance.\n\nThe Rays have built their entire identity on doing more with less, on finding edges in the margins. That 54% confidence reflects a tight game where small decisions—a stolen base, a defensive shift, a manager's gut call—could swing the outcome.\n\nCleveland at home is always tough, but Tampa Bay's got that scrappy energy that plays well in October. We're riding with the Rays, but expect a nail-biter."
+      "value": "## The Pitching Matchup\n\nGriffin Jax takes the mound for Tampa Bay, going up against Gavin Williams for Cleveland. This is the kind of matchup where the margins are razor-thin, which is why we're seeing a 54% edge rather than something more decisive.\n\nJax has been solid for the Rays, and Williams brings his own arsenal for the Guardians. The model sees a slight advantage for Tampa Bay, likely factoring in recent form and matchup dynamics."
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nYesterday didn't go our way. Tomorrow's a new opportunity. That's the beautiful thing about baseball—there's always another game, another chance to get it right. The Rays-Guardians matchup might not have the star power of other postseason games, but it's got everything that makes October special: evenly matched teams, quality pitching, and everything on the line.\n\nLet's see if Tampa Bay can deliver.\n\n*— Hana*"
+      "value": "## The Bottom Line\n\nYesterday didn't go our way, but that's part of the journey. Every miss teaches us something, every game gives us more data, and every new day brings fresh opportunities.\n\nFor October 15, we're riding with Tampa Bay in what should be a competitive game. The 54% confidence tells you everything you need to know—this one could go either way, but the model sees a slight edge for the Rays.\n\nLet's see what tomorrow brings. That's the beauty of baseball—there's always another game, another chance, another story waiting to unfold."
     }
   ],
   "slug": "2026-10-14-daily-hana",
