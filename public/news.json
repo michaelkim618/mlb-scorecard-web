@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-15T22:03:16.296093+00:00",
+  "updated_at": "2026-10-15T22:30:11.037629+00:00",
   "news": [
+    {
+      "title": "Guards' rare aggressiveness at Deadline paying off during playoff run",
+      "link": "https://www.mlb.com/news/nathaniel-lowe-jo-adell-trades-paying-off-for-guardians-during-alcs-run",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oicfap209guxwv9061rv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-10-15T22:05:57+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "Lifted early out of caution, Williams still adds to historic postseason ledger",
+      "link": "https://www.mlb.com/news/gavin-williams-strikes-out-nine-in-guardians-alcs-game-3-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/s3vzgptageh8cmqhk3x4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-15T22:00:27+00:00",
+      "time_ago": "29m ago"
+    },
     {
       "title": "Back to basics: Ohtani returns to leadoff spot for NLCS Game 4",
       "link": "https://www.mlb.com/news/shohei-ohtani-leading-off-in-game-4-of-2026-nlcs-vs-brewers",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T21:56:00+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "34m ago"
     },
     {
       "title": "Simpson's electric skills on full display on two-strike, two-run triple",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T21:45:11+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "44m ago"
     },
     {
       "title": "Brewers-Dodgers NLCS Game 4 lineups, FAQ (8 ET, FS1/FOX One)",
@@ -38,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-15T21:19:00+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Go-ahead HR from unlikely source flips ALCS back in Guardians’ favor",
@@ -51,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-15T21:14:00+00:00",
-      "time_ago": "49m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Dombrowski offers insights into the Phillies' offseason agenda",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T19:09:47+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Four NPB stars who could be Major League-bound",
-      "link": "https://www.mlb.com/news/teruaki-sato-leads-npb-stars-who-could-soon-come-to-majors",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jmgfcxa7j1js87apwxd4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-15T16:34:42+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Brewers are winning with the opposite of small ball",
-      "link": "https://www.mlb.com/news/brewers-not-playing-small-ball-in-2026-postseason",
-      "summary": "No LCS team has ever walked, whiffed and homered this often",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jellxhhsykkfbjuxbsbo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mike Petriello",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-15T15:48:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
