@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T00:11:19.398976+00:00",
+  "updated_at": "2026-10-15T00:39:13.776100+00:00",
   "news": [
     {
       "title": "LIVE: Brewers-Dodgers NLCS Game 3 on FS1/FOX One",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T00:00:00+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "39m ago"
     },
     {
       "title": "Reliever-turned-starter Jax excited for first playoff starting assignment",
@@ -25,7 +25,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-10-14T23:16:20+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "One stat from each farm system that caught our eye in 2026",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-14T20:25:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
