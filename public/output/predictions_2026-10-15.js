@@ -725,7 +725,7 @@ window.PREDICTIONS_DATA = [
     },
     "actual_score": {
       "away": 0,
-      "home": 0
+      "home": 1
     },
     "lineup_confirmed": true,
     "sp_tbd": {

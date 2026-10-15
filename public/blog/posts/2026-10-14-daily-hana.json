@@ -1,17 +1,17 @@
 {
-  "title": "Oct 14 Results + Oct 15 Preview: Sometimes You Take the L and Learn",
-  "summary": "A tough 0-1 day in LA, but tomorrow brings a fresh slate with the Rays in Cleveland",
+  "title": "Oct 14 Results + Oct 15 Preview: Sometimes You Just Tip Your Cap",
+  "summary": "Oct 14 brought a tough miss, but Oct 15's Rays-Guardians matchup tells a different story",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Here's the Thing About Yesterday\n\nSometimes baseball just doesn't go the way the numbers suggest it should. We had one game on the slate Monday—Brewers visiting the Dodgers—and we backed LA with 56% confidence. The baseball gods had other plans. Milwaukee pulled off the upset, and we're sitting at 0-1 for the day.\n\nNot the start to the week we were hoping for, but here's what I love about this game: tomorrow always brings new opportunities."
+      "value": "## Here's the Thing About October Baseball\n\nLook, I'm not going to sugarcoat it—yesterday was rough. We went 0-for-1 on October 14th, and when you're dealing with a single-game slate in the postseason, there's nowhere to hide. The Dodgers were supposed to have the edge at home against Milwaukee, and instead, the Brewers reminded everyone why October baseball is beautifully, maddeningly unpredictable.\n\nBut here's what I love about this process: every miss teaches us something. Every swing and miss in the prediction game makes the next call sharper."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Oct 14 Record",
+          "label": "Oct 14 W-L",
           "value": "0-1"
         },
         {
@@ -19,7 +19,7 @@
           "value": "0.0%"
         },
         {
-          "label": "Games Analyzed",
+          "label": "Games Predicted",
           "value": "1"
         }
       ]
@@ -44,26 +44,26 @@
     },
     {
       "type": "text",
-      "value": "## The Dodgers Miss: What Happened?\n\nLook, 56% confidence isn't a slam dunk—it never was meant to be. That's basically saying it's a coin flip with a slight edge to the home team. The Dodgers had the home field advantage and the better overall roster construction, but the Brewers showed up ready to play.\n\nThat's October baseball for you. The margins are razor-thin, and any team can beat any team on any given night. The model called it close because it *was* close."
+      "value": "## What Happened in LA\n\nWe liked the Dodgers at 56% confidence—not a screaming pick, but a solid lean based on home field and the overall metrics. Milwaukee had other plans. That's postseason baseball for you. The margin for error shrinks, the pressure amplifies, and sometimes the underdog just outplays the favorite.\n\nNo excuses, just facts. We move forward."
     },
     {
       "type": "text",
-      "value": "## Looking Ahead: October 15th Preview\n\nHere's where things get interesting. Tomorrow we're heading to Cleveland, where the Guardians host the Tampa Bay Rays. Our model likes Tampa Bay in this one—not by a ton, but enough to make them our top pick for Tuesday."
+      "value": "## Tomorrow's Story: Rays at Guardians\n\nNow let's talk about October 15th, because this is where it gets interesting. We've got Tampa Bay traveling to Cleveland, and our model is leaning toward the Rays at 54%. It's essentially a coin flip with a slight edge—the kind of game that comes down to execution and which pitcher can handle the moment better."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Tomorrow's Top Pick - October 15",
       "value": "Tampa Bay Rays",
-      "sub": "54% win probability vs Cleveland Guardians"
+      "sub": "54% win probability • Griffin Jax vs Gavin Williams"
     },
     {
       "type": "text",
-      "value": "## The Pitching Matchup to Watch\n\nGriffin Jax takes the ball for Tampa Bay, while Gavin Williams counters for Cleveland. This is one of those matchups where experience and execution could tip the scales either way.\n\nThe Rays are getting a narrow nod here at 54%—again, we're talking about a tight game where small details matter. But there's something about Tampa Bay's approach in these situations that gives them a slight edge in our projection model.\n\nCleveland at home is never an easy out, especially at Progressive Field. The Guardians have been scrappy all year, and their home crowd will be buzzing. But the numbers point us toward the visitors in this American League showdown."
+      "value": "## The Pitching Matchup That Matters\n\nGriffin Jax takes the ball for Tampa Bay, while Gavin Williams gets the nod for Cleveland. Here's the thing about this matchup—it's not about overwhelming stuff or veteran savvy. It's about who can limit the damage and keep their team in striking distance.\n\nThe Rays have built their entire identity on doing more with less, on finding edges in the margins. That 54% confidence reflects a tight game where small decisions—a stolen base, a defensive shift, a manager's gut call—could swing the outcome.\n\nCleveland at home is always tough, but Tampa Bay's got that scrappy energy that plays well in October. We're riding with the Rays, but expect a nail-biter."
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nYesterday stung—no way around it. Going 0-1 on a single-game slate means there's nowhere to hide. But that's also what makes tomorrow exciting. We get a fresh chance with Rays-Guardians, a close matchup where our edge might be small, but it's still an edge.\n\nThe beauty of baseball is that every day the slate wipes clean. Let's see if Tampa Bay can get us back in the win column.\n\n*See you tomorrow with the results.* ⚾"
+      "value": "## The Bottom Line\n\nYesterday didn't go our way. Tomorrow's a new opportunity. That's the beautiful thing about baseball—there's always another game, another chance to get it right. The Rays-Guardians matchup might not have the star power of other postseason games, but it's got everything that makes October special: evenly matched teams, quality pitching, and everything on the line.\n\nLet's see if Tampa Bay can deliver.\n\n*— Hana*"
     }
   ],
   "slug": "2026-10-14-daily-hana",
