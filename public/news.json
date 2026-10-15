@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-15T06:14:59.394558+00:00",
+  "updated_at": "2026-10-15T07:05:42.946092+00:00",
   "news": [
+    {
+      "title": "Bauers refuses to give up – not on his career, not against a pair of Dodgers aces",
+      "link": "https://www.mlb.com/news/jake-bauers-hits-go-ahead-hr-off-blake-snell-in-11-pitch-at-bat-in-nlcs-game-3",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pjsasetlwxjednqhz2lg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-15T06:26:00+00:00",
+      "time_ago": "39m ago"
+    },
     {
       "title": "Brewers keep October magic rolling, on cusp of 1st World Series in 44 years",
       "link": "https://www.mlb.com/news/brewers-win-nlcs-game-3-2026",
@@ -11,8 +24,34 @@
       "author": "AJ Cassavell",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-15T06:08:00+00:00",
-      "time_ago": "6m ago"
+      "pub_date": "2026-10-15T06:23:00+00:00",
+      "time_ago": "42m ago"
+    },
+    {
+      "title": "Rays-Guardians ALCS Game 3 FAQ (1 ET, TBS/HBO Max)",
+      "link": "https://www.mlb.com/news/rays-vs-guardians-alcs-game-3-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jnrftlv1ewfq05bo0hg1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-15T06:11:00+00:00",
+      "time_ago": "54m ago"
+    },
+    {
+      "title": "Chourio's history-making 1st-pitch HR comes 1 year to the day after he did the same thing!",
+      "link": "https://www.mlb.com/news/jackson-chourio-hits-first-pitch-home-run-in-nlcs-game-3",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xb1z12uphljvdwhi7ioz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Christina De Nicola",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-15T06:00:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "LA facing long odds after rough 7th flips script on Snell's Game 3 start",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T05:49:43+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Can Brewers' 'pen hold up? Can Glasnow get L.A. on track? Key takeaways after Game 3",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T04:20:11+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "6 big contract decisions to keep an eye on this offseason",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T03:58:03+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Bauers refuses to give up – not on his career, not against a pair of Dodgers aces",
-      "link": "https://www.mlb.com/news/jake-bauers-hits-go-ahead-hr-off-blake-snell-in-11-pitch-at-bat-in-nlcs-game-3",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pjsasetlwxjednqhz2lg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-15T03:55:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "The best comeback attempts from 3-0 holes in playoffs",
-      "link": "https://www.mlb.com/news/best-3-0-comeback-attempts-in-postseason",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lnrhy96hkhg55y7gdfef",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harrigan",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-15T03:15:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Chourio's history-making 1st-pitch HR comes 1 year to the day after he did the same thing!",
-      "link": "https://www.mlb.com/news/jackson-chourio-hits-first-pitch-home-run-in-nlcs-game-3",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xb1z12uphljvdwhi7ioz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Christina De Nicola",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-15T03:12:00+00:00",
       "time_ago": "3h ago"
     }
   ]
