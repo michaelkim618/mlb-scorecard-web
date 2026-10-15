@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-15T07:05:42.946092+00:00",
+  "updated_at": "2026-10-15T07:38:19.728543+00:00",
   "news": [
+    {
+      "title": "Brewers-Dodgers NLCS Game 4 FAQ (8 ET, FS1/FOX One)",
+      "link": "https://www.mlb.com/news/brewers-dodgers-nl-championship-series-game-4-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/z8mwbn0qkcp9gwaihngj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen, Adam McCalvy and AJ Cassavell",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-15T07:07:21+00:00",
+      "time_ago": "30m ago"
+    },
     {
       "title": "Bauers refuses to give up – not on his career, not against a pair of Dodgers aces",
       "link": "https://www.mlb.com/news/jake-bauers-hits-go-ahead-hr-off-blake-snell-in-11-pitch-at-bat-in-nlcs-game-3",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T06:26:00+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Brewers keep October magic rolling, on cusp of 1st World Series in 44 years",
@@ -25,7 +38,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T06:23:00+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Slumping Smith, Shohei give Dodgers big ABs from bottom of order",
+      "link": "https://www.mlb.com/news/will-smith-shohei-ohtani-provide-spark-after-being-moved-down-in-lineup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792042932/mlb/la4lmekwwbqze21ha0k5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Courtney Hollmon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-15T06:14:18+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Rays-Guardians ALCS Game 3 FAQ (1 ET, TBS/HBO Max)",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T06:11:00+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Chourio's history-making 1st-pitch HR comes 1 year to the day after he did the same thing!",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T04:20:11+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "6 big contract decisions to keep an eye on this offseason",
-      "link": "https://www.mlb.com/news/options-and-opt-outs-to-watch-ahead-of-2027-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ifpaajzolxjectjwj2qn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-15T04:10:53+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Storylines to track as ALCS, NLCS stakes continue to rise",
-      "link": "https://www.mlb.com/news/2026-alcs-game-3-nlcs-game-4-storylines",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/agblsccdlmizh2r6e0d9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-15T03:58:03+00:00",
       "time_ago": "3h ago"
     }
   ]
