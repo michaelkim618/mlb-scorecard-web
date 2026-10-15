@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-15T18:48:07.381620+00:00",
+  "updated_at": "2026-10-15T19:19:40.146458+00:00",
   "news": [
+    {
+      "title": "Turner must play better shortstop in '27 or change positions, Dombrowski says",
+      "link": "https://www.mlb.com/news/dave-dombrowski-trea-turner-status-shortstop-entering-2027-phillies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sgncjxvmeoadymz1yns3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-15T19:09:47+00:00",
+      "time_ago": "9m ago"
+    },
     {
       "title": "Brewers-Dodgers NLCS Game 4 FAQ (8 ET, FS1/FOX One)",
       "link": "https://www.mlb.com/news/brewers-dodgers-nl-championship-series-game-4-starting-lineups-and-pitching-matchup",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T18:02:00+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "LIVE: Rays, Guardians exchange blows in pivotal Game 3 (TBS/HBO Max)",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T14:13:53+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "These 5 rookies could win a Gold Glove after excellent debuts",
@@ -91,19 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T13:27:11+00:00",
       "time_ago": "5h ago"
-    },
-    {
-      "title": "Bauers refuses to give up – not on his career, not against a pair of Dodgers aces",
-      "link": "https://www.mlb.com/news/jake-bauers-hits-go-ahead-hr-off-blake-snell-in-11-pitch-at-bat-in-nlcs-game-3",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pjsasetlwxjednqhz2lg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-15T06:26:00+00:00",
-      "time_ago": "12h ago"
     }
   ]
 }
