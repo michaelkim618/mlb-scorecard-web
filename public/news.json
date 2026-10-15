@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T18:09:01.694879+00:00",
+  "updated_at": "2026-10-15T18:30:06.430683+00:00",
   "news": [
     {
       "title": "Brewers-Dodgers NLCS Game 4 FAQ (8 ET, FS1/FOX One)",
@@ -12,7 +12,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T18:02:00+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "LIVE: Guardians strike first vs. Rays in pivotal Game 3 (TBS/HBO Max)",
+      "link": "https://www.mlb.com/stories/game/849818",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ikkvl4zmz1xsibuonwcz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-15T17:43:43+00:00",
+      "time_ago": "46m ago"
     },
     {
       "title": "Four NPB stars who could be Major League-bound",
@@ -25,19 +38,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T16:34:42+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Rays-Guardians ALCS Game 3 (LIVE on TBS/HBO Max)",
-      "link": "https://www.mlb.com/news/rays-vs-guardians-alcs-game-3-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jnrftlv1ewfq05bo0hg1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-15T16:32:00+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -77,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T14:13:53+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "These 5 rookies could win a Gold Glove after excellent debuts",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T13:27:11+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Bauers refuses to give up – not on his career, not against a pair of Dodgers aces",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T06:26:00+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "12h ago"
     }
   ]
 }
