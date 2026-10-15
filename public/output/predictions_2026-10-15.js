@@ -2,7 +2,7 @@
 window.PREDICTIONS_DATA = [
   {
     "date": "2026-10-15",
-    "status": "Preview",
+    "status": "Live",
     "game_time": "10:00 AM PT",
     "game_number": 1,
     "doubleheader": false,
@@ -348,7 +348,7 @@ window.PREDICTIONS_DATA = [
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "team_stats",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": false,
@@ -439,48 +439,104 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.44,
           "closer_name": "Bryan Baker"
         },
-        "bat_score": 31.4,
+        "bat_score": 30.9,
         "bat_detail": {
-          "recent_avg": 0.246,
-          "runs_per_g": 4.4,
-          "hr_per_g": 1.1,
-          "bb_per_g": 2.9,
-          "season_ops": 0.72,
-          "season_avg": 0.25,
-          "season_slg": 0.4,
-          "n_games": 10,
+          "recent_avg": 0.251,
+          "runs_per_g": 3.8,
+          "hr_per_g": 0.7,
+          "bb_per_g": 3.0,
+          "season_ops": 0.725,
+          "season_slg": null,
+          "season_avg": 0.251,
+          "n_games": 9,
+          "source": "prev_day",
+          "handedness": "R",
+          "splits_used": false,
+          "lineup_ops": [
+            "Yandy Díaz(0.628)",
+            "Jonathan Aranda(0.732)",
+            "Junior Caminero(0.800)",
+            "Victor Mesa Jr.(0.791)",
+            "Chandler Simpson(0.704)",
+            "Liam Hicks(0.743)",
+            "Jonny DeLuca(0.807)",
+            "Richie Palacios(0.672)",
+            "Taylor Walls(0.652)"
+          ],
+          "lineup_players": [
+            {
+              "id": 650490,
+              "name": "Yandy Díaz",
+              "ops": 0.628,
+              "avg": 0.175
+            },
+            {
+              "id": 666018,
+              "name": "Jonathan Aranda",
+              "ops": 0.732,
+              "avg": 0.206
+            },
+            {
+              "id": 691406,
+              "name": "Junior Caminero",
+              "ops": 0.8,
+              "avg": 0.257
+            },
+            {
+              "id": 683748,
+              "name": "Victor Mesa Jr.",
+              "ops": 0.791,
+              "avg": 0.273
+            },
+            {
+              "id": 802415,
+              "name": "Chandler Simpson",
+              "ops": 0.704,
+              "avg": 0.333
+            },
+            {
+              "id": 689414,
+              "name": "Liam Hicks",
+              "ops": 0.743,
+              "avg": 0.258
+            },
+            {
+              "id": 676356,
+              "name": "Jonny DeLuca",
+              "ops": 0.807,
+              "avg": 0.286
+            },
+            {
+              "id": 680700,
+              "name": "Richie Palacios",
+              "ops": 0.672,
+              "avg": 0.231
+            },
+            {
+              "id": 670764,
+              "name": "Taylor Walls",
+              "ops": 0.652,
+              "avg": 0.241
+            }
+          ],
+          "bat_trend": "hot",
           "last5_rpg": 4.6,
           "last5_avg": 0.254,
-          "bat_trend": "stable",
           "home_split": {
             "recent_avg": 0.227,
             "runs_per_g": 4.9,
             "hr_per_g": 1.0,
-            "bb_per_g": 3.1,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 4.6,
-            "last5_avg": 0.206,
-            "bat_trend": "cold"
+            "n_games": 10
           },
           "away_split": {
             "recent_avg": 0.246,
             "runs_per_g": 4.4,
             "hr_per_g": 1.1,
-            "bb_per_g": 2.9,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 4.6,
-            "last5_avg": 0.254,
-            "bat_trend": "stable"
+            "n_games": 10
           }
         },
         "sit_score": 58.6,
-        "total": 51.8
+        "total": 51.6
       },
       "home": {
         "sp_score": 51.5,
@@ -561,61 +617,117 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.95,
           "closer_name": "Cade Smith"
         },
-        "bat_score": 39.3,
+        "bat_score": 40.5,
         "bat_detail": {
-          "recent_avg": 0.244,
-          "runs_per_g": 4.8,
-          "hr_per_g": 1.4,
-          "bb_per_g": 2.6,
-          "season_ops": 0.72,
-          "season_avg": 0.25,
-          "season_slg": 0.4,
-          "n_games": 10,
-          "last5_rpg": 6.2,
-          "last5_avg": 0.273,
-          "bat_trend": "hot",
+          "recent_avg": 0.27,
+          "runs_per_g": 5.3,
+          "hr_per_g": 1.6,
+          "bb_per_g": 3.0,
+          "season_ops": 0.736,
+          "season_slg": null,
+          "season_avg": 0.27,
+          "n_games": 9,
+          "source": "prev_day",
+          "handedness": "R",
+          "splits_used": false,
+          "lineup_ops": [
+            "Steven Kwan(0.793)",
+            "José Ramírez(0.725)",
+            "Chase DeLauter(0.811)",
+            "Jo Adell(0.716)",
+            "Nathaniel Lowe(0.625)",
+            "Travis Bazzana(0.657)",
+            "Patrick Bailey(0.609)",
+            "Petey Halpin(0.800)",
+            "Brayan Rocchio(0.886)"
+          ],
+          "lineup_players": [
+            {
+              "id": 680757,
+              "name": "Steven Kwan",
+              "ops": 0.793,
+              "avg": 0.333
+            },
+            {
+              "id": 608070,
+              "name": "José Ramírez",
+              "ops": 0.725,
+              "avg": 0.286
+            },
+            {
+              "id": 800050,
+              "name": "Chase DeLauter",
+              "ops": 0.811,
+              "avg": 0.237
+            },
+            {
+              "id": 666176,
+              "name": "Jo Adell",
+              "ops": 0.716,
+              "avg": 0.263
+            },
+            {
+              "id": 663993,
+              "name": "Nathaniel Lowe",
+              "ops": 0.625,
+              "avg": 0.227
+            },
+            {
+              "id": 683953,
+              "name": "Travis Bazzana",
+              "ops": 0.657,
+              "avg": 0.167
+            },
+            {
+              "id": 672275,
+              "name": "Patrick Bailey",
+              "ops": 0.609,
+              "avg": 0.188
+            },
+            {
+              "id": 690984,
+              "name": "Petey Halpin",
+              "ops": 0.8,
+              "avg": 0.375
+            },
+            {
+              "id": 677587,
+              "name": "Brayan Rocchio",
+              "ops": 0.886,
+              "avg": 0.353
+            }
+          ],
+          "bat_trend": "cold",
+          "last5_rpg": 5.2,
+          "last5_avg": 0.241,
           "home_split": {
             "recent_avg": 0.244,
             "runs_per_g": 4.8,
             "hr_per_g": 1.4,
-            "bb_per_g": 2.6,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 6.2,
-            "last5_avg": 0.273,
-            "bat_trend": "hot"
+            "n_games": 10
           },
           "away_split": {
             "recent_avg": 0.253,
             "runs_per_g": 5.1,
             "hr_per_g": 1.6,
-            "bb_per_g": 4.0,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 5.2,
-            "last5_avg": 0.241,
-            "bat_trend": "stable"
+            "n_games": 10
           }
         },
         "sit_score": 58.4,
-        "total": 54.3
+        "total": 54.6
       }
     },
     "scores": {
-      "away_offense": 31.4,
+      "away_offense": 30.9,
       "away_defense": 62.0,
-      "home_offense": 39.3,
+      "home_offense": 40.5,
       "home_defense": 62.2
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -626,9 +738,9 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Tampa Bay Rays",
     "model_correct": null,
     "notes": "Tampa Bay Rays IL: Edwin Uceta, Gavin Lux, Jacob Melton, Jonathan Heasley, Ryan Pepiot",
-    "kalshi_prob": null,
-    "edge": null,
-    "value_bet": "⏭️ 패스 (라인업 미확정)",
+    "kalshi_prob": 54.0,
+    "edge": -4.0,
+    "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,

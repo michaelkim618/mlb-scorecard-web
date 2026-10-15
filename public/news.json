@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-10-15T13:08:05.064571+00:00",
+  "updated_at": "2026-10-15T16:55:21.248978+00:00",
   "news": [
+    {
+      "title": "Four NPB stars who could be Major League-bound",
+      "link": "https://www.mlb.com/news/teruaki-sato-leads-npb-stars-who-could-soon-come-to-majors",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jmgfcxa7j1js87apwxd4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-15T16:34:42+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "Rays-Guardians ALCS Game 3 (LIVE on TBS/HBO Max)",
+      "link": "https://www.mlb.com/news/rays-vs-guardians-alcs-game-3-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jnrftlv1ewfq05bo0hg1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-15T16:32:00+00:00",
+      "time_ago": "23m ago"
+    },
+    {
+      "title": "Brewers are winning with the opposite of small ball",
+      "link": "https://www.mlb.com/news/brewers-not-playing-small-ball-in-2026-postseason",
+      "summary": "No LCS team has ever walked, whiffed and homered this often",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jellxhhsykkfbjuxbsbo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mike Petriello",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-15T15:48:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "How Dodgers pitching would line up to make historic 3-0 comeback",
+      "link": "https://www.mlb.com/news/how-dodgers-pitching-would-line-up-to-make-3-0-comeback",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p5tgd5sq5bw9pacje1y8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-15T15:34:10+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Stay or go? Breaking down Bichette's upcoming opt-in decision",
+      "link": "https://www.mlb.com/news/bo-bichette-facing-mets-contract-opt-in-decision-for-2026-27-offseason",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gzxxh95biun4y92sgkv9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-15T14:13:53+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "These 5 rookies could win a Gold Glove after excellent debuts",
+      "link": "https://www.mlb.com/news/2026-rookies-who-were-named-gold-glove-finalists",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cxajricsxksk0cmzzn4y",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-15T13:27:11+00:00",
+      "time_ago": "3h ago"
+    },
     {
       "title": "Brewers-Dodgers NLCS Game 4 FAQ (8 ET, FS1/FOX One)",
       "link": "https://www.mlb.com/news/brewers-dodgers-nl-championship-series-game-4-starting-lineups-and-pitching-matchup",
@@ -12,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T07:07:21+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "Bauers refuses to give up – not on his career, not against a pair of Dodgers aces",
@@ -25,85 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T06:26:00+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Brewers keep October magic rolling, on cusp of 1st World Series in 44 years",
-      "link": "https://www.mlb.com/news/brewers-win-nlcs-game-3-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t3cs303cersdws9u4yjg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-15T06:23:00+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Slumping Smith, Shohei give Dodgers big ABs from bottom of order",
-      "link": "https://www.mlb.com/news/will-smith-shohei-ohtani-provide-spark-after-being-moved-down-in-lineup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792042932/mlb/la4lmekwwbqze21ha0k5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Courtney Hollmon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-15T06:14:18+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Rays-Guardians ALCS Game 3 FAQ (1 ET, TBS/HBO Max)",
-      "link": "https://www.mlb.com/news/rays-vs-guardians-alcs-game-3-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jnrftlv1ewfq05bo0hg1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-15T06:11:00+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Chourio's history-making 1st-pitch HR comes 1 year to the day after he did the same thing!",
-      "link": "https://www.mlb.com/news/jackson-chourio-hits-first-pitch-home-run-in-nlcs-game-3",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xb1z12uphljvdwhi7ioz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Christina De Nicola",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-15T06:00:00+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "LA facing long odds after rough 7th flips script on Snell's Game 3 start",
-      "link": "https://www.mlb.com/news/dodgers-lose-nlcs-game-3-to-brewers-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kewahqggaxaillufrqrr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-15T05:49:43+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "Can Brewers' 'pen hold up? Can Glasnow get L.A. on track? Key takeaways after Game 3",
-      "link": "https://www.mlb.com/news/key-takeaways-from-brewers-win-over-dodgers-in-nlcs-game-3",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pdy9iocshshemigvbmc0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-15T04:20:11+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "10h ago"
     }
   ]
 }

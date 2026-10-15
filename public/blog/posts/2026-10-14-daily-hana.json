@@ -1,17 +1,17 @@
 {
-  "title": "Oct 14 Results + Oct 15 Preview: When the Dodgers Had Other Plans",
-  "summary": "We missed on LA, but here's why Tampa Bay looks interesting for Oct 15",
+  "title": "Oct 14 Results + Oct 15 Preview: Sometimes You Take the L and Learn",
+  "summary": "A tough 0-1 day in LA, but tomorrow brings a fresh slate with the Rays in Cleveland",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Here's the Thing About October Baseball\n\nSometimes you look at the numbers, trust the process, and still walk away empty-handed. That was Oct 14 in a nutshell. We had the Dodgers at 56% against Milwaukee, and well... the Brewers had their own script to write that night.\n\nZero wins, one loss. Not the day we wanted, but that's playoff baseball for you."
+      "value": "## Here's the Thing About Yesterday\n\nSometimes baseball just doesn't go the way the numbers suggest it should. We had one game on the slate Monday—Brewers visiting the Dodgers—and we backed LA with 56% confidence. The baseball gods had other plans. Milwaukee pulled off the upset, and we're sitting at 0-1 for the day.\n\nNot the start to the week we were hoping for, but here's what I love about this game: tomorrow always brings new opportunities."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Oct 14 W-L",
+          "label": "Oct 14 Record",
           "value": "0-1"
         },
         {
@@ -25,37 +25,12 @@
       ]
     },
     {
-      "type": "chart",
-      "chart_type": "bar",
-      "title": "Oct 14 Prediction Results",
-      "data": [
-        {
-          "name": "Dodgers",
-          "probability": 56,
-          "result": 0
-        }
-      ],
-      "x_key": "name",
-      "bars": [
-        {
-          "key": "probability",
-          "color": "#0EA5E9",
-          "label": "Win Probability (%)"
-        },
-        {
-          "key": "result",
-          "color": "#16A34A",
-          "label": "Correct (1=Yes)"
-        }
-      ]
-    },
-    {
       "type": "table",
-      "title": "Oct 14 Full Results Breakdown",
+      "title": "October 14 Game Results",
       "headers": [
-        "Game",
+        "Matchup",
         "Our Pick",
-        "Probability",
+        "Confidence",
         "Result"
       ],
       "rows": [
@@ -69,26 +44,26 @@
     },
     {
       "type": "text",
-      "value": "## The Story Behind the Miss\n\nLook, a 56% edge isn't exactly betting-the-house territory, and the Brewers showed up ready to play. Sometimes the favorite doesn't come through, especially in October when every team is dangerous enough to have gotten this far.\n\nNo excuses, just context. We move forward."
+      "value": "## The Dodgers Miss: What Happened?\n\nLook, 56% confidence isn't a slam dunk—it never was meant to be. That's basically saying it's a coin flip with a slight edge to the home team. The Dodgers had the home field advantage and the better overall roster construction, but the Brewers showed up ready to play.\n\nThat's October baseball for you. The margins are razor-thin, and any team can beat any team on any given night. The model called it close because it *was* close."
     },
     {
       "type": "text",
-      "value": "## Looking Ahead to Oct 15: Tampa Bay's Moment?\n\nHere's where things get interesting. Tomorrow we've got the Rays traveling to Cleveland to face the Guardians, and our model is giving Tampa Bay a slight edge at 54%.\n\nGriffin Jax takes the ball for the Rays against Gavin Williams for Cleveland. It's a close one—the kind of game where pitching matchups and small details make all the difference."
+      "value": "## Looking Ahead: October 15th Preview\n\nHere's where things get interesting. Tomorrow we're heading to Cleveland, where the Guardians host the Tampa Bay Rays. Our model likes Tampa Bay in this one—not by a ton, but enough to make them our top pick for Tuesday."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Oct 15 Top Pick",
+      "title": "⭐ Tomorrow's Top Pick - October 15",
       "value": "Tampa Bay Rays",
-      "sub": "54% win probability · Griffin Jax vs Gavin Williams"
+      "sub": "54% win probability vs Cleveland Guardians"
     },
     {
       "type": "text",
-      "value": "## Why Tampa Bay?\n\nThe edge is slim, but it's there. Griffin Jax has been solid for the Rays, and while Cleveland has home-field advantage, the matchup numbers favor Tampa Bay just enough to give them the nod.\n\nIs this a coin flip dressed up with percentages? Maybe a little. But that's October baseball—tight margins, big moments, and every call matters.\n\nLet's see if the Rays can deliver what the Dodgers couldn't."
+      "value": "## The Pitching Matchup to Watch\n\nGriffin Jax takes the ball for Tampa Bay, while Gavin Williams counters for Cleveland. This is one of those matchups where experience and execution could tip the scales either way.\n\nThe Rays are getting a narrow nod here at 54%—again, we're talking about a tight game where small details matter. But there's something about Tampa Bay's approach in these situations that gives them a slight edge in our projection model.\n\nCleveland at home is never an easy out, especially at Progressive Field. The Guardians have been scrappy all year, and their home crowd will be buzzing. But the numbers point us toward the visitors in this American League showdown."
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nOct 14 stung a bit, but we're not panicking over one miss in a small sample. Tomorrow brings fresh opportunity, and Tampa Bay looks like our best shot.\n\nAs always, we follow the data, tell the stories, and see where the baseball gods take us.\n\n*See you after first pitch.* ⚾"
+      "value": "## The Bottom Line\n\nYesterday stung—no way around it. Going 0-1 on a single-game slate means there's nowhere to hide. But that's also what makes tomorrow exciting. We get a fresh chance with Rays-Guardians, a close matchup where our edge might be small, but it's still an edge.\n\nThe beauty of baseball is that every day the slate wipes clean. Let's see if Tampa Bay can get us back in the win column.\n\n*See you tomorrow with the results.* ⚾"
     }
   ],
   "slug": "2026-10-14-daily-hana",
