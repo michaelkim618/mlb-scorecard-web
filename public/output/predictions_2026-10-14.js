@@ -337,12 +337,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 44.3,
-      "home": 55.7
+      "away": 45.9,
+      "home": 54.1
     },
     "expected_score": {
       "away": 2.3,
-      "home": 3.3
+      "home": 3.0
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -438,14 +438,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.63,
           "closer_name": "Trevor Megill"
         },
-        "bat_score": 37.3,
+        "bat_score": 36.6,
         "bat_detail": {
           "recent_avg": 0.261,
           "runs_per_g": 4.4,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
           "season_ops": 0.737,
-          "season_slg": 0.407,
+          "season_slg": null,
           "season_avg": 0.261,
           "n_games": 9,
           "source": "prev_day",
@@ -535,7 +535,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 71.6,
-        "total": 53.8
+        "total": 53.6
       },
       "home": {
         "sp_score": 59.0,
@@ -610,14 +610,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.69,
           "closer_name": "Tanner Scott"
         },
-        "bat_score": 50.2,
+        "bat_score": 45.1,
         "bat_detail": {
           "recent_avg": 0.282,
           "runs_per_g": 5.0,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
           "season_ops": 0.794,
-          "season_slg": 0.451,
+          "season_slg": null,
           "season_avg": 0.282,
           "n_games": 9,
           "source": "prev_day",
@@ -707,13 +707,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 68.9,
-        "total": 58.7
+        "total": 57.1
       }
     },
     "scores": {
-      "away_offense": 37.3,
+      "away_offense": 36.6,
       "away_defense": 59.1,
-      "home_offense": 50.2,
+      "home_offense": 45.1,
       "home_defense": 60.7
     },
     "actual_score": {
@@ -739,7 +739,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 55.7% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 54.1% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
