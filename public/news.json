@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-15T04:55:15.908343+00:00",
+  "updated_at": "2026-10-15T05:43:59.896494+00:00",
   "news": [
+    {
+      "title": "Can Brewers' 'pen hold up? Can Glasnow get L.A. on track? Key takeaways after Game 3",
+      "link": "https://www.mlb.com/news/key-takeaways-from-brewers-win-over-dodgers-in-nlcs-game-3",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pdy9iocshshemigvbmc0",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-15T04:20:11+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "6 big contract decisions to keep an eye on this offseason",
       "link": "https://www.mlb.com/news/options-and-opt-outs-to-watch-ahead-of-2027-season",
@@ -12,7 +25,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T04:10:53+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Storylines to track as ALCS, NLCS stakes continue to rise",
+      "link": "https://www.mlb.com/news/2026-alcs-game-3-nlcs-game-4-storylines",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/agblsccdlmizh2r6e0d9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-15T03:58:03+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Bauers refuses to give up – not on his career, not against a pair of Dodgers aces",
@@ -38,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-15T03:35:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "The best comeback attempts from 3-0 holes in playoffs",
@@ -51,7 +77,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-15T03:15:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Chourio's history-making 1st-pitch HR comes 1 year to the day after he did the same thing!",
@@ -64,19 +90,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-15T03:12:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Long, Dickerson will not return to Phillies staff in '27 (sources)",
-      "link": "https://www.mlb.com/news/phillies-part-ways-with-kevin-long-bobby-dickerson",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pv3olahunyimwiv4ezud",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-15T02:48:04+00:00",
       "time_ago": "2h ago"
     },
     {
@@ -91,19 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-15T01:46:37+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "After 'freak accident', Armstrong back at Trop pitching in playoffs",
-      "link": "https://www.mlb.com/news/shawn-armstrong-back-tropicana-field-guardians-after-injury",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lrirphjnuv9grolcijvy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-15T00:31:00+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }
