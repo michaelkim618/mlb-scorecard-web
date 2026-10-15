@@ -1,0 +1,103 @@
+{
+  "title": "Oct 14 Results + Oct 15 Preview: When the Dodgers Had Other Plans",
+  "summary": "We missed on LA, but here's why Tampa Bay looks interesting for Oct 15",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Here's the Thing About October Baseball\n\nSometimes you look at the numbers, trust the process, and still walk away empty-handed. That was Oct 14 in a nutshell. We had the Dodgers at 56% against Milwaukee, and well... the Brewers had their own script to write that night.\n\nZero wins, one loss. Not the day we wanted, but that's playoff baseball for you."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Oct 14 W-L",
+          "value": "0-1"
+        },
+        {
+          "label": "Accuracy",
+          "value": "0.0%"
+        },
+        {
+          "label": "Games Analyzed",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Oct 14 Prediction Results",
+      "data": [
+        {
+          "name": "Dodgers",
+          "probability": 56,
+          "result": 0
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes)"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Oct 14 Full Results Breakdown",
+      "headers": [
+        "Game",
+        "Our Pick",
+        "Probability",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Brewers @ Dodgers",
+          "Dodgers",
+          "56%",
+          "✗ Miss"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Story Behind the Miss\n\nLook, a 56% edge isn't exactly betting-the-house territory, and the Brewers showed up ready to play. Sometimes the favorite doesn't come through, especially in October when every team is dangerous enough to have gotten this far.\n\nNo excuses, just context. We move forward."
+    },
+    {
+      "type": "text",
+      "value": "## Looking Ahead to Oct 15: Tampa Bay's Moment?\n\nHere's where things get interesting. Tomorrow we've got the Rays traveling to Cleveland to face the Guardians, and our model is giving Tampa Bay a slight edge at 54%.\n\nGriffin Jax takes the ball for the Rays against Gavin Williams for Cleveland. It's a close one—the kind of game where pitching matchups and small details make all the difference."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Oct 15 Top Pick",
+      "value": "Tampa Bay Rays",
+      "sub": "54% win probability · Griffin Jax vs Gavin Williams"
+    },
+    {
+      "type": "text",
+      "value": "## Why Tampa Bay?\n\nThe edge is slim, but it's there. Griffin Jax has been solid for the Rays, and while Cleveland has home-field advantage, the matchup numbers favor Tampa Bay just enough to give them the nod.\n\nIs this a coin flip dressed up with percentages? Maybe a little. But that's October baseball—tight margins, big moments, and every call matters.\n\nLet's see if the Rays can deliver what the Dodgers couldn't."
+    },
+    {
+      "type": "text",
+      "value": "## The Bottom Line\n\nOct 14 stung a bit, but we're not panicking over one miss in a small sample. Tomorrow brings fresh opportunity, and Tampa Bay looks like our best shot.\n\nAs always, we follow the data, tell the stories, and see where the baseball gods take us.\n\n*See you after first pitch.* ⚾"
+    }
+  ],
+  "slug": "2026-10-14-daily-hana",
+  "author": "Hana",
+  "author_emoji": "🌸",
+  "author_role": "Story Writer",
+  "author_color": "#EC4899",
+  "date": "2026-10-14",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#EC4899"
+}
