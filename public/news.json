@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-10-16T06:48:53.039018+00:00",
+  "updated_at": "2026-10-16T07:24:46.404489+00:00",
   "news": [
+    {
+      "title": "Ashby's 9-out save the cherry on top of dominant NLCS for Crew's 'pen",
+      "link": "https://www.mlb.com/news/aaron-ashby-brewers-bullpen-caps-dominant-nlcs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792132147/mlb/jntnqexdtzw7f1fhkqlh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Christina De Nicola",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-16T07:18:20+00:00",
+      "time_ago": "6m ago"
+    },
+    {
+      "title": "Mitchell keeps proving doubters wrong -- all the way to the World Series",
+      "link": "https://www.mlb.com/news/garrett-mitchell-hits-go-ahead-homer-to-send-brewers-to-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792132554/mlb/wc0xslabteetilbninwd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-16T07:03:51+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "Rays-Guardians ALCS Game 4 lineups, FAQ (6 ET, TBS/HBO Max)",
+      "link": "https://www.mlb.com/news/when-is-rays-vs-guardians-alcs-game-4-date-time-and-lineups",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t7cgfdkhafc2ibdlcfqt",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-16T06:55:00+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "Ohtani's 1st HR in nearly 2 months not enough for LA in NLCS loss",
+      "link": "https://www.mlb.com/news/shohei-ohtani-leading-off-in-game-4-of-2026-nlcs-vs-brewers",
+      "summary": "Two-way star \"looking forward to having a better season next year\" after injury-plagued '26",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792120849/mlb/ozrtskhmwgsvizinvdaw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Courtney Hollmon",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-10-16T06:43:00+00:00",
+      "time_ago": "41m ago"
+    },
     {
       "title": "The real McCoy: Padres prospect rockets 118.2 mph homer in Fall League",
       "link": "https://www.mlb.com/news/padres-prospect-alex-mccoy-slugs-118-2-mph-homer-in-arizona-fall-league",
@@ -12,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-16T06:41:00+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Will LA target Skubal in free agency? Here are the questions facing Dodgers this offseason",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-16T06:40:31+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "44m ago"
     },
     {
       "title": "Fascinating facts and stats from Brewers' comeback sweep",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-16T06:38:18+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "46m ago"
     },
     {
       "title": "Brewers end Dodgers' three-peat bid with an NLCS sweep of their own",
@@ -51,58 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-16T06:12:00+00:00",
-      "time_ago": "36m ago"
-    },
-    {
-      "title": "Dodgers left to ponder state of team core as cracks emerge in NLCS sweep",
-      "link": "https://www.mlb.com/news/dodgers-lose-2026-nlcs-to-brewers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792119861/mlb/qcnzdgjk3zh4qwds0tve",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-16T05:56:48+00:00",
-      "time_ago": "52m ago"
-    },
-    {
-      "title": "Milwaukee, you have a World Series! 44 years later, this one's for the believers",
-      "link": "https://www.mlb.com/news/brewers-sweep-dodgers-in-nlcs-to-reach-2026-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792122117/mlb/u9yvfnrhmtwyawwxms5p",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-16T05:53:00+00:00",
-      "time_ago": "55m ago"
-    },
-    {
-      "title": "Bauers takes home NLCS MVP after series filled with signature moments",
-      "link": "https://www.mlb.com/news/jake-bauers-wins-2026-nlcs-mvp",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qarjenbfxf9uhznouczm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Christina De Nicola",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-10-16T05:32:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "4 key takeaways as Brewers set sights on 1st World Series title",
-      "link": "https://www.mlb.com/news/key-takeaways-from-brewers-nlcs-sweep-of-dodgers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792127846/mlb/vmjjj8aoo7smqe4rleiz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Paul Casella",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-16T05:17:00+00:00",
       "time_ago": "1h ago"
     }
   ]
