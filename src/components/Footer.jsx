@@ -33,9 +33,9 @@ export default function Footer() {
             <div style={{ color: "#fff", fontWeight: 600, fontSize: 12, textTransform: "uppercase", letterSpacing: "0.8px", marginBottom: 14 }}>
               Picks
             </div>
-            {["Today's Picks", "Season Archive", "Top Picks", "Model Accuracy"].map(link => (
+            {[["Today's Picks", "/#slate"], ["Season Archive", "/history.html"], ["Top Picks", "/#slate"], ["Track Record", "/record"]].map(([link, href]) => (
               <div key={link} style={{ marginBottom: 8 }}>
-                <a href="#" style={{ color: "rgba(255,255,255,0.55)", fontSize: 13, textDecoration: "none" }}
+                <a href={href} style={{ color: "rgba(255,255,255,0.55)", fontSize: 13, textDecoration: "none" }}
                   onMouseEnter={e => e.target.style.color = "#fff"}
                   onMouseLeave={e => e.target.style.color = "rgba(255,255,255,0.55)"}>
                   {link}
@@ -48,9 +48,9 @@ export default function Footer() {
             <div style={{ color: "#fff", fontWeight: 600, fontSize: 12, textTransform: "uppercase", letterSpacing: "0.8px", marginBottom: 14 }}>
               Content
             </div>
-            {["Blog", "News", "Community", "Newsletter"].map(link => (
+            {[["Articles", "/articles"], ["News", "/#news"], ["Community", "/community"], ["Privacy", "/privacy"]].map(([link, href]) => (
               <div key={link} style={{ marginBottom: 8 }}>
-                <a href="#" style={{ color: "rgba(255,255,255,0.55)", fontSize: 13, textDecoration: "none" }}
+                <a href={href} style={{ color: "rgba(255,255,255,0.55)", fontSize: 13, textDecoration: "none" }}
                   onMouseEnter={e => e.target.style.color = "#fff"}
                   onMouseLeave={e => e.target.style.color = "rgba(255,255,255,0.55)"}>
                   {link}

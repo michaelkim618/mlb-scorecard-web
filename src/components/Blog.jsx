@@ -16,7 +16,7 @@ export default function Blog() {
             <p className="t-caption" style={{ color: "var(--color-muted)", marginTop: 4 }}>Analysis · Game Reviews · Methodology</p>
           </div>
           <button
-            onClick={() => navigate("/blog")}
+            onClick={() => navigate("/articles")}
             style={{
               background: "none", border: "none", cursor: "pointer",
               color: "var(--color-primary)", fontSize: 13, fontWeight: 600, padding: 0,
@@ -38,7 +38,7 @@ export default function Blog() {
           {latest.map((post) => (
             <div
               key={post.slug}
-              onClick={() => navigate(`/blog/${post.slug}`)}
+              onClick={() => navigate(`/articles/${post.slug}`)}
               className="blog-row"
               style={{
                 display: "grid", gridTemplateColumns: "80px 1fr auto",

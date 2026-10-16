@@ -1,0 +1,13 @@
+{
+  "redirects": [
+    { "source": "/blog", "destination": "/articles", "permanent": false },
+    { "source": "/blog/", "destination": "/articles", "permanent": false },
+    { "source": "/blog/:slug([^/.]+)", "destination": "/articles/:slug", "permanent": false }
+  ],
+  "rewrites": [
+    {
+      "source": "/((?!assets/|output/|blog/|_vercel/|.*\\.[A-Za-z0-9]+$).*)",
+      "destination": "/index.html"
+    }
+  ]
+}
