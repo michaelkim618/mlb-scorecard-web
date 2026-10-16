@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-10-16T20:01:19.783292+00:00",
+  "updated_at": "2026-10-16T20:53:31.178056+00:00",
   "news": [
+    {
+      "title": "Inbox: Progress report on Phils No. 2 prospect Miller?",
+      "link": "https://www.mlb.com/news/phillies-prospect-aidan-miller-in-arizona-fall-league",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ut5lo9amyjxay4eb6v4m",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jonathan Mayo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-16T20:12:17+00:00",
+      "time_ago": "41m ago"
+    },
+    {
+      "title": "Rays-Guardians ALCS Game 4 lineups, FAQ (8 ET, TBS/HBO Max)",
+      "link": "https://www.mlb.com/news/when-is-rays-vs-guardians-alcs-game-4-date-time-and-lineups",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t7cgfdkhafc2ibdlcfqt",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-16T20:05:00+00:00",
+      "time_ago": "48m ago"
+    },
+    {
+      "title": "Who should Brewers want to face in the World Series?",
+      "link": "https://www.mlb.com/news/brewers-to-face-rays-or-guardians-in-2026-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/laeknewiod5q14vqaz0c",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Sweet",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-16T19:51:19+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Top Japanese prospect Shoki Oda announces plans to forego NPB for future MLB career",
+      "link": "https://www.mlb.com/news/shoki-oda-to-skip-npb-draft-to-pursue-mlb-dreams",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g4aev83tmfvnabwsx6bj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Michael Clair and Ayako Oikawa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-16T18:55:00+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Milwaukee backs Brewers as NBA's Bucks shift time of home opener for World Series",
       "link": "https://www.mlb.com/news/milwaukee-bucks-change-time-of-home-opener-brewers-world-series",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-16T18:14:36+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "The Brewers have ‘gamers’ … and some potential Hall of Famers",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-16T17:10:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "How might ALCS Game 4 pitching plans shape up?",
@@ -41,19 +93,6 @@
       "time_ago": "5h ago"
     },
     {
-      "title": "Rays-Guardians ALCS Game 4 lineups, FAQ (8 ET, TBS/HBO Max)",
-      "link": "https://www.mlb.com/news/when-is-rays-vs-guardians-alcs-game-4-date-time-and-lineups",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t7cgfdkhafc2ibdlcfqt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-16T14:38:00+00:00",
-      "time_ago": "5h ago"
-    },
-    {
       "title": "Padres face series of questions this winter after latest postseason exit",
       "link": "https://www.mlb.com/news/padres-questions-to-address-this-offseason",
       "summary": "",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-16T14:28:30+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Yankees 'bizarro right-hander' building on first pro action in the desert",
-      "link": "https://www.mlb.com/news/yankees-prospect-mack-estrada-logging-lost-innings-arizona-fall-league",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a8tbpli5jtchwiskhx1g",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jonathan Mayo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-16T14:26:39+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Five burning questions for Yankees entering pivotal offseason",
-      "link": "https://www.mlb.com/news/yankees-biggest-questions-for-2026-27-offseason",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ajj5i2meq2e7xmxprzas",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-16T13:12:01+00:00",
       "time_ago": "6h ago"
-    },
-    {
-      "title": "After 13 seasons, 2-time World Series champ Rojas calls it a career",
-      "link": "https://www.mlb.com/news/miguel-rojas-announces-retirement",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kvdis5jskwvymubcyn5j",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Courtney Hollmon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-16T07:35:12+00:00",
-      "time_ago": "12h ago"
     }
   ]
 }
