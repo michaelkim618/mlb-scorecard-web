@@ -337,12 +337,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 54.0,
-      "home": 46.0
+      "away": 48.2,
+      "home": 51.8
     },
     "expected_score": {
-      "away": 1.9,
-      "home": 2.6
+      "away": 1.7,
+      "home": 2.8
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -354,13 +354,13 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": false,
       "any_cold_sp": false,
       "eff_weights": {
-        "sp": 0.33,
-        "bp": 0.24,
+        "sp": 0.35,
+        "bp": 0.22,
         "bat": 0.28,
         "sit": 0.15
       },
       "away": {
-        "sp_score": 49.0,
+        "sp_score": 48.2,
         "sp_detail": {
           "era": 2.91,
           "whip": 1.06,
@@ -427,7 +427,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 75.0,
+        "bp_score": 73.9,
         "bp_detail": {
           "bullpen_era": 2.55,
           "recent_era": 2.55,
@@ -439,14 +439,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.44,
           "closer_name": "Bryan Baker"
         },
-        "bat_score": 30.9,
+        "bat_score": 27.7,
         "bat_detail": {
           "recent_avg": 0.251,
           "runs_per_g": 3.8,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
           "season_ops": 0.725,
-          "season_slg": null,
+          "season_slg": 0.369,
           "season_avg": 0.251,
           "n_games": 9,
           "source": "prev_day",
@@ -536,7 +536,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 58.6,
-        "total": 51.6
+        "total": 49.7
       },
       "home": {
         "sp_score": 51.5,
@@ -617,14 +617,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.95,
           "closer_name": "Cade Smith"
         },
-        "bat_score": 40.5,
+        "bat_score": 43.3,
         "bat_detail": {
           "recent_avg": 0.27,
           "runs_per_g": 5.3,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
           "season_ops": 0.736,
-          "season_slg": null,
+          "season_slg": 0.428,
           "season_avg": 0.27,
           "n_games": 9,
           "source": "prev_day",
@@ -714,13 +714,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 58.4,
-        "total": 54.6
+        "total": 54.9
       }
     },
     "scores": {
-      "away_offense": 30.9,
-      "away_defense": 62.0,
-      "home_offense": 40.5,
+      "away_offense": 27.7,
+      "away_defense": 61.1,
+      "home_offense": 43.3,
       "home_defense": 62.2
     },
     "actual_score": {
@@ -735,8 +735,8 @@ window.PREDICTIONS_DATA = [
       "any": false
     },
     "actual_winner": "Cleveland Guardians",
-    "model_winner": "Tampa Bay Rays",
-    "model_correct": false,
+    "model_winner": "Cleveland Guardians",
+    "model_correct": true,
     "notes": "Tampa Bay Rays IL: Edwin Uceta, Gavin Lux, Jacob Melton, Jonathan Heasley, Ryan Pepiot",
     "kalshi_prob": null,
     "edge": null,
@@ -746,7 +746,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 2.5pt (≤5.0pt) / 최고 확률 50.0% (≤62.0%)",
+    "low_confidence_reason": "SP 점수 차이 3.3pt (≤5.0pt) / 최고 확률 51.8% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false

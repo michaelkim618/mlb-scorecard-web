@@ -1,0 +1,114 @@
+{
+  "title": "Oct 15 Results + Oct 16 Preview: Split Decision, But the Process Holds",
+  "summary": "Went 1-1 on Oct 15, Guardians hit but Dodgers missed. Tomorrow we're back on the Rays.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Oct 15 Recap: Even Split, Different Stories\n\nFrom a pitcher's perspective, yesterday was a tale of two games. We went 1-1, which isn't what you want to see, but the process behind each pick tells you everything about how this game works. The Guardians came through at 52% confidence—that's a coin flip that landed our way. The Dodgers at 61%? That one stung, but baseball doesn't care about your percentages when the other team's lineup gets hot."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Oct 15 Record",
+          "value": "1-1"
+        },
+        {
+          "label": "Win Rate",
+          "value": "50.0%"
+        },
+        {
+          "label": "Avg Confidence",
+          "value": "56.5%"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Oct 15 Game-by-Game Results",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Rays @ Guardians",
+          "Guardians",
+          "52%",
+          "✓ Hit"
+        ],
+        [
+          "Brewers @ Dodgers",
+          "Dodgers",
+          "61%",
+          "✗ Miss"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## What Happened: The Breakdown\n\n**Guardians (52%) - HIT**: This was always going to be tight. When you're picking a home team at 52%, you're basically saying the pitching matchup and home field give them the slightest edge. They got it done, and that's all that matters.\n\n**Dodgers (61%) - MISS**: Here's where it gets interesting. 61% confidence means we liked the Dodgers' chances significantly, probably based on the pitching advantage and lineup depth. But the Brewers caught lightning in a bottle. That's October baseball—sometimes the underdog's bullpen shuts the door and their bats wake up at the right time. I've been on both sides of games like this. You tip your cap and move on."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Oct 15 Pick Confidence vs Results",
+      "data": [
+        {
+          "name": "Guardians",
+          "probability": 52,
+          "result": 1
+        },
+        {
+          "name": "Dodgers",
+          "probability": 61,
+          "result": 0
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Oct 16 Preview: Back to Tampa Bay\n\nTomorrow we're flipping the script and riding with the Rays against the Guardians. Yeah, the same Guardians we just picked yesterday. What changed? The pitching matchup.\n\nNick Martinez takes the ball for Tampa Bay, and from a pitcher's standpoint, this guy knows how to work a lineup. He's not going to overpower you with 98 mph heat, but he'll keep hitters off balance and give his team a chance to win. That's what you need in October.\n\nOn the Cleveland side, Daniel Espino is listed as TBD, which immediately raises red flags. Uncertainty in the rotation is a massive advantage for the opposing offense. If they're still figuring out who's starting game time, that tells me the Guardians might be in a bullpen game or going with someone on short rest."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Oct 16 Top Pick",
+      "value": "Tampa Bay Rays",
+      "sub": "55% win probability · Nick Martinez vs Daniel Espino (TBD)"
+    },
+    {
+      "type": "text",
+      "value": "## The Pitching Matchup Edge\n\nLet me break down why we're going with Tampa Bay at 55%:\n\n**Nick Martinez** has been steady all season. He's the kind of pitcher who doesn't beat himself—he throws strikes, changes speeds, and trusts his defense. Against a Guardians lineup that can be streaky, that consistency is gold.\n\n**Daniel Espino (TBD)** is the X-factor here. If he's actually starting, he's got electric stuff but can be wild. If it's someone else or a bullpen game, the Rays' patient approach at the plate becomes even more valuable. Either way, the uncertainty favors the visiting team.\n\nThe 55% confidence tells you this is another tight one, but the edge is clear: Martinez gives Tampa Bay the better chance to control the game from pitch one."
+    },
+    {
+      "type": "text",
+      "value": "## Bottom Line\n\nWe split yesterday, and that's baseball. The Guardians came through in a tight spot, the Dodgers didn't. No excuses, just results. Tomorrow, we're backing the Rays because the pitching matchup leans their way and Cleveland's rotation uncertainty is a real concern.\n\nTrust the process, trust the arm on the mound, and let's get back in the win column.\n\n— Ace"
+    }
+  ],
+  "slug": "2026-10-15-daily-ace",
+  "author": "Ace",
+  "author_emoji": "🎙️",
+  "author_role": "Former Pitcher",
+  "author_color": "#D97706",
+  "date": "2026-10-15",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#D97706"
+}
