@@ -50,12 +50,13 @@ export default function LandingPage() {
             Win probabilities for every MLB game — with the whole record in the open.
           </h1>
           <p className="t-body" style={{ color: "rgba(255,255,255,0.72)", maxWidth: 620, marginBottom: 28 }}>
-            Members get each day's picks and the reasoning behind them. Anyone can check how the model has
-            actually done: every graded game, hit or miss, is listed on the track record.
+            Free to join during the beta — sign in to see each day's picks and the reasoning behind them.
+            Anyone can check how the model has actually done: every graded game, hit or miss, is listed on
+            the track record.
           </p>
           <WaitlistForm dark id="waitlist" />
           <p className="t-caption" style={{ marginTop: 18 }}>
-            <Link to="/signin" style={{ color: "rgba(255,255,255,0.8)" }}>Already a member? Sign in →</Link>
+            <Link to="/signin" style={{ color: "rgba(255,255,255,0.8)" }}>Free during the beta — sign in or create an account →</Link>
           </p>
         </div>
       </header>
@@ -116,9 +117,9 @@ export default function LandingPage() {
 
         <section style={{ ...wrap, padding: "48px 24px 64px" }}>
           <div style={{ background: "#fff", border: "1px solid var(--color-border)", borderRadius: "var(--radius-xl)", padding: "36px 28px", textAlign: "center" }}>
-            <h2 className="t-display-md" style={{ color: "var(--color-ink)" }}>Memberships open with the 2027 season.</h2>
+            <h2 className="t-display-md" style={{ color: "var(--color-ink)" }}>Free to join during the beta. Paid memberships are planned for the 2027 season.</h2>
             <p className="t-body" style={{ color: "var(--color-muted)", margin: "8px auto 22px", maxWidth: 520 }}>
-              Join the waitlist and you'll hear first — one email, when it opens.
+              Join the waitlist and you'll hear first — one email, before anything changes.
             </p>
             <div style={{ display: "flex", justifyContent: "center" }}><WaitlistForm /></div>
           </div>
