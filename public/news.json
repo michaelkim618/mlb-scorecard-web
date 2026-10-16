@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-16T03:46:36.401633+00:00",
+  "updated_at": "2026-10-16T04:45:42.524913+00:00",
   "news": [
+    {
+      "title": "Milwaukee, you have a World Series! Brewers sweep Dodgers to end 44-year wait",
+      "link": "https://www.mlb.com/news/brewers-sweep-dodgers-in-nlcs-to-reach-2026-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792122117/mlb/u9yvfnrhmtwyawwxms5p",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-16T04:38:00+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "ALCS Game 4 storylines as Rays, Guards bid to face Brewers in Fall Classic",
+      "link": "https://www.mlb.com/news/2026-alcs-game-4-storylines",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rvhbkdsex47yhrkobpv4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-16T04:35:29+00:00",
+      "time_ago": "10m ago"
+    },
     {
       "title": "Bauers takes home NLCS MVP after series filled with signature moments",
       "link": "https://www.mlb.com/news/jake-bauers-wins-2026-nlcs-mvp",
@@ -11,8 +37,21 @@
       "author": "Christina De Nicola",
       "tag": "Trade",
       "tag_color": "#7C3AED",
-      "pub_date": "2026-10-16T03:32:41+00:00",
-      "time_ago": "13m ago"
+      "pub_date": "2026-10-16T03:41:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "What you need to know about the 2026 World Series",
+      "link": "https://www.mlb.com/news/2026-mlb-world-series-faq-schedule-times-teams-and-more",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dsugltzbdw73cgwavx1u",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-16T03:36:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Ohtani's 1st HR in nearly 2 months not enough for LA in NLCS loss",
@@ -25,33 +64,20 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-16T03:17:00+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Brewers end Dodgers' three-peat bid with an NLCS sweep of their own",
       "link": "https://www.mlb.com/news/brewers-win-nlcs-2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jmew6tyeumrji1rquyl6",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oqaalxybhxbgrbhyh1bh",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "AJ Cassavell",
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-16T03:15:00+00:00",
-      "time_ago": "31m ago"
-    },
-    {
-      "title": "Milwaukee, you have a World Series! Brewers sweep Dodgers to end 44-year wait",
-      "link": "https://www.mlb.com/news/brewers-sweep-dodgers-in-nlcs-to-reach-2026-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lxurzck0y3kete1liwcw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-16T03:14:15+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Good luck charm? Praying mantis pays Chourio a visit",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-16T00:04:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Rays-Guardians ALCS Game 4 lineups, FAQ (6 ET Fri., TBS/HBO Max)",
@@ -77,32 +103,6 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-15T23:50:19+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Smith tosses latest round of calm perfection with 4-out save in Game 3",
-      "link": "https://www.mlb.com/news/cade-smith-four-out-save-guardians-game-3-alcs-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/v7mlutt4dfnl6qmgcsux",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-15T23:29:02+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "With rain in forecast Friday, how might ALCS Game 4 pitching plans shape up?",
-      "link": "https://www.mlb.com/news/rays-and-guardians-pitching-plans-for-alcs-game-4",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/afi1ugdxejbfbuaejwx0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry, Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-15T23:03:21+00:00",
       "time_ago": "4h ago"
     }
   ]
