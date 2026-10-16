@@ -4,7 +4,7 @@ import { supabase } from "../lib/supabase";
 import { joinWaitlist, readSource } from "../lib/waitlist";
 
 const MESSAGES = {
-  done: "You're on the list. We'll email you before the 2027 season opens.",
+  done: "You're on the list. We'll email you before paid memberships open.",
   already: "You're already on the list — nothing more to do.",
   invalid: "That doesn't look like an email address.",
   error: "Something went wrong saving that. Please try again in a minute.",
@@ -75,7 +75,7 @@ export default function WaitlistForm({ dark = false, id }) {
             : finished ? "var(--color-win)" : dark ? "rgba(255,255,255,0.6)" : "var(--color-muted)",
         }}
       >
-        {MESSAGES[state] ?? "One email when the 2027 season opens. No spam — unsubscribe any time."}
+        {MESSAGES[state] ?? "One email before paid memberships open. No spam — unsubscribe any time."}
       </p>
     </form>
   );
