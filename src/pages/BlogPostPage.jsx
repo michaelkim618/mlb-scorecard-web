@@ -4,7 +4,8 @@ import {
   BarChart, Bar, LineChart, Line,
   XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer,
 } from "recharts";
-import NavBar from "../components/NavBar";
+import SiteNav from "../components/SiteNav";
+import usePageMeta from "../hooks/usePageMeta";
 import Footer from "../components/Footer";
 import { useBlogPost, useBlogIndex } from "../hooks/useBlog";
 
@@ -244,6 +245,11 @@ export default function BlogPostPage() {
   const { slug } = useParams();
   const navigate = useNavigate();
   const { post, loading, error } = useBlogPost(slug);
+  usePageMeta({
+    title: post ? `${post.title} — MLB Scorecard` : "MLB Scorecard",
+    description: post?.summary,
+    path: `/articles/${slug}`,
+  });
   const { posts: allPosts } = useBlogIndex();
 
   // Prev / Next
@@ -253,7 +259,7 @@ export default function BlogPostPage() {
 
   return (
     <div style={{ minHeight: "100vh", background: "var(--color-canvas-alt)", paddingTop: "var(--nav-height)" }}>
-      <NavBar />
+      <SiteNav />
 
       <div style={{ maxWidth: 740, margin: "0 auto", padding: "32px 24px 60px" }}>
         {loading && (
@@ -262,7 +268,7 @@ export default function BlogPostPage() {
         {error && (
           <div style={{ textAlign: "center", padding: "80px 0" }}>
             <div style={{ color: "var(--color-loss)", marginBottom: 16 }}>Post not found.</div>
-            <button onClick={() => navigate("/blog")} style={{
+            <button onClick={() => navigate("/articles")} style={{
               background: "var(--color-primary)", color: "#fff",
               border: "none", borderRadius: "var(--radius-full)", padding: "10px 20px",
               fontWeight: 600, cursor: "pointer",
@@ -273,7 +279,7 @@ export default function BlogPostPage() {
         {!loading && !error && post && (
           <>
             {/* Back button */}
-            <button onClick={() => navigate("/blog")} style={{
+            <button onClick={() => navigate("/articles")} style={{
               display: "flex", alignItems: "center", gap: 6,
               background: "none", border: "none", cursor: "pointer",
               color: "var(--color-muted)", fontSize: 13, fontWeight: 500,
@@ -344,7 +350,7 @@ export default function BlogPostPage() {
             {/* Prev / Next navigation */}
             <div style={{ display: "flex", gap: 12, marginTop: 8 }}>
               {prevPost && (
-                <button onClick={() => navigate(`/blog/${prevPost.slug}`)} style={{
+                <button onClick={() => navigate(`/articles/${prevPost.slug}`)} style={{
                   flex: 1, textAlign: "left", background: "var(--color-canvas)",
                   border: "1px solid var(--color-border)", borderRadius: "var(--radius-md)",
                   padding: "14px 16px", cursor: "pointer", transition: "all 0.12s",
@@ -357,7 +363,7 @@ export default function BlogPostPage() {
                 </button>
               )}
               {nextPost && (
-                <button onClick={() => navigate(`/blog/${nextPost.slug}`)} style={{
+                <button onClick={() => navigate(`/articles/${nextPost.slug}`)} style={{
                   flex: 1, textAlign: "right", background: "var(--color-canvas)",
                   border: "1px solid var(--color-border)", borderRadius: "var(--radius-md)",
                   padding: "14px 16px", cursor: "pointer", transition: "all 0.12s",

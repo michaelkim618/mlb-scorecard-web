@@ -46,7 +46,8 @@ export default function NavBar() {
     { label: "Season Stats", href: "#stats", page: false },
     { label: "History", href: "/history.html", page: false, external: true },
     { label: "News", href: "#news", page: false },
-    { label: "Blog", href: "/blog", page: true },
+    { label: "Track Record", href: "/record", page: true },
+    { label: "Articles", href: "/articles", page: true },
     { label: "Community", href: "/community", page: true },
   ];
 

@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import NavBar from "../components/NavBar";
+import SiteNav from "../components/SiteNav";
+import usePageMeta from "../hooks/usePageMeta";
 import Footer from "../components/Footer";
 import { useBlogIndex } from "../hooks/useBlog";
 
@@ -98,6 +99,11 @@ function PostCard({ post, onClick }) {
 }
 
 export default function BlogListPage() {
+  usePageMeta({
+    title: "Articles — MLB Scorecard",
+    description: "Daily game reviews, previews and methodology notes from the MLB Scorecard desk.",
+    path: "/articles",
+  });
   const navigate = useNavigate();
   const { posts, loading, error } = useBlogIndex();
   const [authorFilter, setAuthorFilter] = useState("All");
@@ -111,7 +117,7 @@ export default function BlogListPage() {
 
   return (
     <div style={{ minHeight: "100vh", background: "var(--color-canvas-alt)", paddingTop: "var(--nav-height)" }}>
-      <NavBar />
+      <SiteNav />
 
       {/* Hero header */}
       <div style={{
@@ -222,7 +228,7 @@ export default function BlogListPage() {
               <PostCard
                 key={post.slug}
                 post={post}
-                onClick={() => navigate(`/blog/${post.slug}`)}
+                onClick={() => navigate(`/articles/${post.slug}`)}
               />
             ))}
           </div>

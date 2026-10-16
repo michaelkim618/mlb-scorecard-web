@@ -29,6 +29,7 @@ const seed = () => ({
     { id: "c4", user_id: "u1", likes_count: 0, created_at: iso(240), content: "Anyone else fading the Nats here?" },
   ],
   likes: [{ user_id: "u1", comment_id: "c3" }],
+  waitlist: [],
 });
 
 // Built lazily on first use. Nothing runs at import time, so a production
@@ -111,6 +112,17 @@ class Query {
 
     if (this.op === "insert") {
       const list = Array.isArray(this.payload) ? this.payload : [this.payload];
+      // waitlist has a unique index on lower(email); the real insert fails with 23505.
+      if (this.table === "waitlist") {
+        const taken = new Set(rows.map((r) => r.email.toLowerCase()));
+        for (const r of list) {
+          const key = String(r.email).toLowerCase();
+          if (taken.has(key)) {
+            return { data: null, error: { code: "23505", message: "duplicate key value violates unique constraint \"waitlist_email_lower_idx\"" } };
+          }
+          taken.add(key);
+        }
+      }
       list.forEach((r) => rows.push({
         id: r.id ?? `gen-${++seq}`,
         created_at: r.created_at ?? new Date().toISOString(),

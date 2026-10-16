@@ -121,3 +121,11 @@
     min-width: 0 !important;
   }
 }
+
+/* Public nav: logo + "Sign in" is all a phone has room for. With the two text
+   links as well, "Sign in" ends up past the right edge of the fixed bar —
+   unreachable, and it creates no scrollbar to hint that it exists. The landing
+   page links to both destinations in its own body. */
+@media (max-width: 560px) {
+  .public-nav-link { display: none; }
+}

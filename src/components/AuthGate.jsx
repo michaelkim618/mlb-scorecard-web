@@ -114,6 +114,10 @@ export default function AuthGate({ children }) {
           </span>
         </div>
 
+        <a href="/" style={{ display: "inline-block", marginTop: 18, color: "#64748b", fontSize: 13, textDecoration: "none" }}>
+          ← Back to MLB Scorecard
+        </a>
+
         {error && (
           <div style={{ ...styles.error, color: error.startsWith("✅") ? "#22c55e" : "#ef4444" }}>
             {error}
