@@ -216,71 +216,71 @@ window.PREDICTIONS_DATA = [
         "era": 4.91
       }
     ],
-    "home_pitcher": "Daniel Espino (TBD)",
-    "home_pitcher_id": 682982,
+    "home_pitcher": "Shawn Armstrong",
+    "home_pitcher_id": 542888,
     "home_pitcher_stats": {
-      "wins": 0,
-      "losses": 0,
-      "era": "4.11"
+      "wins": 2,
+      "losses": 1,
+      "era": "4.58"
     },
     "home_pitcher_gamelog": [
       {
-        "date": "2026-09-09",
-        "opp": "@ BAL",
+        "date": "2026-07-20",
+        "opp": "vs MIN",
         "decision": null,
         "ip": "1.0",
         "er": 0,
         "h": 1,
+        "bb": 1,
+        "so": 1,
+        "era": 0.0
+      },
+      {
+        "date": "2026-07-21",
+        "opp": "vs MIN",
+        "decision": null,
+        "ip": "0.2",
+        "er": 0,
+        "h": 2,
         "bb": 0,
         "so": 1,
         "era": 0.0
       },
       {
-        "date": "2026-09-12",
-        "opp": "@ MIN",
+        "date": "2026-07-24",
+        "opp": "@ TB",
         "decision": null,
-        "ip": "2.0",
-        "er": 0,
-        "h": 1,
-        "bb": 0,
-        "so": 2,
-        "era": 0.0
-      },
-      {
-        "date": "2026-09-14",
-        "opp": "vs CWS",
-        "decision": null,
-        "ip": "0.1",
-        "er": 1,
-        "h": 1,
-        "bb": 0,
-        "so": 1,
-        "era": 27.0
-      },
-      {
-        "date": "2026-09-18",
-        "opp": "vs OAK",
-        "decision": null,
-        "ip": "1.0",
+        "ip": "0.2",
         "er": 3,
         "h": 1,
-        "bb": 3,
-        "so": 1,
-        "era": 27.0
+        "bb": 2,
+        "so": 0,
+        "era": 40.5
       },
       {
-        "date": "2026-09-24",
+        "date": "2026-09-23",
         "opp": "@ BOS",
         "decision": null,
-        "ip": "1.0",
+        "ip": "0.1",
         "er": 0,
         "h": 0,
         "bb": 0,
-        "so": 2,
+        "so": 0,
         "era": 0.0
       },
       {
         "date": "2026-09-25",
+        "opp": "@ KC",
+        "decision": null,
+        "ip": "1.0",
+        "er": 0,
+        "h": 1,
+        "bb": 0,
+        "so": 0,
+        "era": 0.0
+      },
+      {
+        "date": "2026-09-26",
         "opp": "@ KC",
         "decision": null,
         "ip": "1.0",
@@ -291,14 +291,14 @@ window.PREDICTIONS_DATA = [
         "era": 0.0
       },
       {
-        "date": "2026-10-03",
+        "date": "2026-10-05",
         "opp": "vs CWS",
         "decision": null,
-        "ip": "0.2",
+        "ip": "1.1",
         "er": 0,
-        "h": 1,
-        "bb": 1,
-        "so": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 1,
         "era": 0.0
       },
       {
@@ -306,30 +306,30 @@ window.PREDICTIONS_DATA = [
         "opp": "@ CWS",
         "decision": null,
         "ip": "0.2",
-        "er": 1,
-        "h": 2,
-        "bb": 1,
-        "so": 2,
-        "era": 13.5
-      },
-      {
-        "date": "2026-10-12",
-        "opp": "@ TB",
-        "decision": null,
-        "ip": "1.0",
         "er": 0,
         "h": 0,
         "bb": 0,
-        "so": 3,
+        "so": 1,
         "era": 0.0
       },
       {
-        "date": "2026-10-15",
-        "opp": "vs TB",
+        "date": "2026-10-08",
+        "opp": "@ CWS",
         "decision": null,
-        "ip": "1.0",
+        "ip": "1.2",
         "er": 0,
         "h": 0,
+        "bb": 0,
+        "so": 2,
+        "era": 0.0
+      },
+      {
+        "date": "2026-10-13",
+        "opp": "@ TB",
+        "decision": null,
+        "ip": "1.2",
+        "er": 0,
+        "h": 1,
         "bb": 0,
         "so": 1,
         "era": 0.0
@@ -337,11 +337,11 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 55.0,
-      "home": 45.0
+      "away": 54.0,
+      "home": 46.0
     },
     "expected_score": {
-      "away": 2.0,
+      "away": 2.1,
       "home": 2.6
     },
     "blend_detail": null,
@@ -354,9 +354,9 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": false,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.33,
-        "bp": 0.27,
-        "bat": 0.33,
+        "sp": 0.2,
+        "bp": 0.46,
+        "bat": 0.19,
         "sit": 0.15
       },
       "away": {
@@ -543,17 +543,17 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 58.6,
-        "total": 52.1
+        "total": 53.6
       },
       "home": {
-        "sp_score": 45.0,
+        "sp_score": 19.0,
         "sp_detail": {
-          "era": 4.66,
-          "whip": 1.24,
-          "k9": 13.0,
+          "era": 2.7,
+          "whip": 0.9,
+          "k9": 7.2,
           "avg_ip": 1.0,
           "qs_rate": 0.0,
-          "last3_era": 2.08,
+          "last3_era": 0.0,
           "last_start_era": 0.0,
           "last2_eras": [
             0.0,
@@ -564,8 +564,45 @@ window.PREDICTIONS_DATA = [
           "trend": "cold",
           "n_games": 10,
           "sample_confidence": 1.0,
-          "rest_days": 1,
-          "rest_note": "short_rest"
+          "rest_days": 3,
+          "rest_note": "short_rest",
+          "age": 36,
+          "fb_velo": 93.7,
+          "pitch_arsenal": [
+            "FB",
+            "SW",
+            "CT",
+            "SI"
+          ],
+          "secondary_pitches": [
+            "SW"
+          ],
+          "pitches_detail": [
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 30.9,
+              "velo": 93.5
+            },
+            {
+              "code": "ST",
+              "abbr": "SW",
+              "pct": 28.0,
+              "velo": 84.5
+            },
+            {
+              "code": "FC",
+              "abbr": "CT",
+              "pct": 24.0,
+              "velo": 90.0
+            },
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 17.0,
+              "velo": 93.7
+            }
+          ]
         },
         "bp_score": 72.9,
         "bp_detail": {
@@ -676,14 +713,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 58.4,
-        "total": 53.7
+        "total": 53.8
       }
     },
     "scores": {
       "away_offense": 30.9,
       "away_defense": 61.6,
       "home_offense": 40.5,
-      "home_defense": 59.0
+      "home_defense": 46.0
     },
     "actual_score": {
       "away": null,
@@ -692,26 +729,31 @@ window.PREDICTIONS_DATA = [
     "lineup_confirmed": false,
     "sp_tbd": {
       "away": false,
-      "home": true,
+      "home": false,
       "both": false,
-      "any": true
+      "any": false
     },
     "actual_winner": null,
     "model_winner": "Tampa Bay Rays",
     "model_correct": null,
     "notes": "Tampa Bay Rays IL: Edwin Uceta, Gavin Lux, Jacob Melton, Jonathan Heasley, Ryan Pepiot",
     "kalshi_prob": 49.0,
-    "edge": -0.3,
+    "edge": 1.0,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
-    "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
+    "sp_bat_conflict": true,
+    "sp_bat_conflict_detail": {
+      "sp_favors": "Tampa Bay Rays",
+      "bat_favors": "Cleveland Guardians",
+      "sp_gap": 29.3,
+      "bat_gap": -9.6
+    },
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 3.3pt (≤5.0pt) / 최고 확률 51.3% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 50.0% (≤62.0%)",
     "opener_game": {
       "away": false,
-      "home": false
+      "home": true
     },
     "model_version": "v17"
   }
