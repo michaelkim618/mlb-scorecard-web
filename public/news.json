@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-16T22:09:20.556215+00:00",
+  "updated_at": "2026-10-16T22:43:33.913851+00:00",
   "news": [
+    {
+      "title": "A bottle of Cooper Pratt to go with that? Brewers customize champagne for clincher",
+      "link": "https://www.mlb.com/news/brewers-celebrate-world-series-berth-with-custom-champagne-bottles",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mau3dq9gdvj6a3np9zuo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-16T21:54:50+00:00",
+      "time_ago": "48m ago"
+    },
     {
       "title": "Rays-Guardians ALCS Game 4 lineups, FAQ (8 ET, TBS/HBO Max)",
       "link": "https://www.mlb.com/news/when-is-rays-vs-guardians-alcs-game-4-date-time-and-lineups",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-16T20:12:17+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Who should Brewers want to face in the World Series?",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-16T18:14:36+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "The Brewers have ‘gamers’ … and some potential Hall of Famers",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-16T17:10:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Padres face series of questions this winter after latest postseason exit",
-      "link": "https://www.mlb.com/news/padres-questions-to-address-this-offseason",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/r9vw9cvghy0ckyoi27aa",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-16T14:28:30+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "5h ago"
     }
   ]
 }
