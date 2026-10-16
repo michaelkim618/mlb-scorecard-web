@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-16T18:33:02.628707+00:00",
+  "updated_at": "2026-10-16T18:55:44.059651+00:00",
   "news": [
+    {
+      "title": "Milwaukee backs Brewers as NBA's Bucks shift time of home opener for World Series",
+      "link": "https://www.mlb.com/news/milwaukee-bucks-change-time-of-home-opener-brewers-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jtcq9qywxvoyqbopgvje",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-16T18:14:36+00:00",
+      "time_ago": "41m ago"
+    },
+    {
+      "title": "The Brewers have ‘gamers’ … and some potential Hall of Famers",
+      "link": "https://www.mlb.com/news/the-brewers-have-gamers-but-do-they-have-hall-of-famers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pkzycqa2zrzluje2hlis",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-16T17:10:00+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "How might ALCS Game 4 pitching plans shape up?",
       "link": "https://www.mlb.com/news/rays-and-guardians-pitching-plans-for-alcs-game-4",
@@ -25,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-16T14:38:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Padres face series of questions this winter after latest postseason exit",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-16T07:35:12+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Ashby's 9-out save the cherry on top of dominant NLCS for Crew's 'pen",
-      "link": "https://www.mlb.com/news/aaron-ashby-brewers-bullpen-caps-dominant-nlcs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792132147/mlb/jntnqexdtzw7f1fhkqlh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Christina De Nicola",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-16T07:18:20+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Mitchell keeps proving doubters wrong -- all the way to the World Series",
-      "link": "https://www.mlb.com/news/garrett-mitchell-hits-go-ahead-homer-to-send-brewers-to-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792132554/mlb/wc0xslabteetilbninwd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-16T07:03:51+00:00",
       "time_ago": "11h ago"
     }
   ]
