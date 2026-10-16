@@ -1,11 +1,11 @@
 {
-  "title": "Oct 15 Results + Oct 16 Preview: Split Day, But the Process Was Sharp",
-  "summary": "Went 1-1 on Oct 15. Tomorrow's rematch in Cleveland has my attention.",
+  "title": "Oct 15 Results + Oct 16 Preview: Split Decision, Guardians Delivered",
+  "summary": "Oct 15 went 1-1 as Cleveland hit. Tomorrow we flip to Tampa Bay in the rematch.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Oct 15 Recap: A Clean Split\n\nFrom the mound perspective, yesterday was a perfect example of why you trust your mechanics even when results split. We went 1-1, hitting 50% exactly. The Guardians pick was solid—they took care of business at home like we expected. The Dodgers miss? That's baseball. Milwaukee's pitching showed up when it mattered."
+      "value": "## Oct 15 Results: Even Money\n\nFrom the mound, you learn quick that not every pitch lands where you want it. Yesterday we went 1-1, splitting our card right down the middle. The Guardians came through like a well-placed fastball—our 52% confidence played out exactly as the model projected. The Dodgers miss at 61%? That one stings more, but that's baseball."
     },
     {
       "type": "stat_row",
@@ -19,12 +19,8 @@
           "value": "50.0%"
         },
         {
-          "label": "Hits",
-          "value": "1"
-        },
-        {
-          "label": "Misses",
-          "value": "1"
+          "label": "Avg Confidence",
+          "value": "56.5%"
         }
       ]
     },
@@ -55,7 +51,7 @@
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Oct 15 Pick Performance",
+      "title": "Oct 15 Pick Confidence vs Results",
       "data": [
         {
           "name": "Guardians",
@@ -84,47 +80,26 @@
     },
     {
       "type": "text",
-      "value": "## What I Saw on the Mound\n\nThe Guardians win wasn't flashy, but it was effective. That 52% confidence meant we saw a tight game, and Cleveland's home advantage made the difference. The Dodgers miss at 61% stings a bit more—that was our higher conviction play. But when you've been in the game long enough, you know that 61% isn't a lock. It means you lose that game about 4 out of 10 times. Yesterday was one of those four.\n\nNo adjustments needed to the approach. The arm feels good, and we're throwing strikes."
+      "value": "## What Worked, What Didn't\n\nThe **Guardians pick** was textbook execution. At 52%, we weren't screaming conviction, but the home edge and pitching matchup tilted just enough. They delivered.\n\nThe **Dodgers miss** is where I take you inside the film room. At 61% confidence, we liked their odds significantly. Sometimes the better team on paper doesn't execute. Brewers came to play, simple as that. You tip your cap and move on—just like when a batter takes you deep on your best heater."
     },
     {
       "type": "text",
-      "value": "## Oct 16 Preview: Back to Cleveland\n\nHere's what's interesting—we're going right back to the same matchup. Rays at Guardians, but this time we're flipping the script. After backing Cleveland yesterday, the model likes Tampa Bay today at 54%. It's essentially a coin flip with a slight edge to the visitors."
+      "value": "## Oct 16 Preview: The Rematch in Cleveland\n\nTomorrow we've got an interesting flip. Same venue, different story. We're going **Rays at 54%** in Cleveland—a confidence swing back to Tampa Bay after backing the Guardians yesterday.\n\nWhat changed? The arms on the bump."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Tomorrow's Top Pick - Oct 16",
-      "value": "Tampa Bay Rays",
-      "sub": "54% win probability · @ Cleveland Guardians"
+      "value": "Tampa Bay Rays @ Cleveland Guardians",
+      "sub": "Pick: Rays 54% • Martinez vs Armstrong"
     },
     {
       "type": "text",
-      "value": "## The Pitching Matchup: Martinez vs Armstrong\n\nThis is where my pitcher's eye really focuses. Nick Martinez gets the ball for Tampa Bay, while Shawn Armstrong goes for Cleveland. Now, if Armstrong is starting, that tells me something about Cleveland's rotation depth or strategy. Armstrong has primarily been a reliever throughout his career—a converted starter scenario or a bullpen game is likely in play here.\n\nMartinez has been serviceable for the Rays, and facing a potential bullpen game situation could give Tampa Bay the edge. When you're facing a parade of arms instead of one established starter, it can work both ways. Sometimes it disrupts timing, but other times you get favorable matchups throughout the lineup.\n\nAt 54%, we're talking about a razor-thin edge. This is about process, not guarantees."
-    },
-    {
-      "type": "stat_row",
-      "stats": [
-        {
-          "label": "Pick",
-          "value": "Rays"
-        },
-        {
-          "label": "Confidence",
-          "value": "54%"
-        },
-        {
-          "label": "Away SP",
-          "value": "N. Martinez"
-        },
-        {
-          "label": "Home SP",
-          "value": "S. Armstrong"
-        }
-      ]
+      "value": "## Pitcher's Perspective: Martinez vs Armstrong\n\n**Nick Martinez** takes the ball for Tampa Bay. As a former pitcher, I respect his versatility—he's transitioned between starting and relief roles with success. He commands the zone, limits hard contact, and keeps his team in games. That's the profile you want in a tight matchup.\n\n**Shawn Armstrong** for Cleveland is primarily a reliever being asked to open or start here. That's a different animal. When you're built for one-inning bursts and suddenly managing multiple trips through a lineup, the margin for error shrinks fast. Hitters get comfortable seeing you a second and third time.\n\nThe pitching edge tilts to Tampa Bay here, and that 54% confidence reflects it. It's not a massive gap, but from the mound, I'll take the starter with the clearer role definition every time."
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nOct 15 gave us a split—nothing to celebrate, nothing to panic about. The process was clean, and that's what matters over the long haul. For Oct 16, we're taking the Rays in what's essentially a toss-up game with a slight analytical edge.\n\nIn my pitching days, I learned that you can't win them all, but you can control your mechanics, your preparation, and your approach. Same thing applies here. Trust the numbers, respect the game, and let the results take care of themselves.\n\nSee you after first pitch."
+      "value": "## The Bottom Line\n\nOct 15 was a split—no shame in that when you're making the right process plays. Oct 16 brings us back to Cleveland, but this time we're riding the Rays. Martinez gives them the edge on the mound, and in October baseball, starting pitching is your foundation.\n\nLet's get back in the win column.\n\n— Ace"
     }
   ],
   "slug": "2026-10-15-daily-ace",
