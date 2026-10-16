@@ -1,17 +1,17 @@
 {
-  "title": "Oct 15 Results + Oct 16 Preview: Split Day, But the Process Holds",
-  "summary": "Went 1-1 on Oct 15. Tomorrow we're backing the Rays in a bullpen game rematch.",
+  "title": "Oct 15 Results + Oct 16 Preview: Split Decision, Back to the Lab",
+  "summary": "Went 1-1 on Oct 15. Guardians delivered, Dodgers didn't. Rays-Guardians rematch up next.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Oct 15 Recap: The Guardians Delivered\n\nWent 1-1 yesterday, which is exactly what happens when you're dealing with tight probability splits. From a pitcher's perspective, the Guardians game played out like we expected—their staff executed when it mattered. The Dodgers miss? That's baseball. Even a 61% confidence pick loses 4 out of 10 times. You can't let one result shake your process."
+      "value": "## Oct 15 Recap: Even Money\n\nFrom the mound, you learn quick that not every pitch works. Today was one of those days—went 1-1, splitting the slate at 50%. The Guardians pick cashed at 52%, but the Dodgers let us down at 61% confidence. That's baseball. You trust your stuff, accept the results, and make adjustments."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Oct 15 W-L",
+          "label": "Record",
           "value": "1-1"
         },
         {
@@ -19,39 +19,15 @@
           "value": "50.0%"
         },
         {
-          "label": "Picks Made",
+          "label": "Games Analyzed",
           "value": "2"
         }
       ]
     },
     {
-      "type": "table",
-      "title": "Oct 15 Full Results Breakdown",
-      "headers": [
-        "Matchup",
-        "Our Pick",
-        "Confidence",
-        "Outcome"
-      ],
-      "rows": [
-        [
-          "Rays @ Guardians",
-          "Guardians",
-          "52%",
-          "✓ Hit"
-        ],
-        [
-          "Brewers @ Dodgers",
-          "Dodgers",
-          "61%",
-          "✗ Miss"
-        ]
-      ]
-    },
-    {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Oct 15 Pick Confidence vs Results",
+      "title": "Oct 15 Prediction Performance",
       "data": [
         {
           "name": "Guardians",
@@ -74,32 +50,56 @@
         {
           "key": "result",
           "color": "#16A34A",
-          "label": "Hit (1=Yes, 0=No)"
+          "label": "Correct (1=Yes, 0=No)"
         }
       ]
     },
     {
-      "type": "text",
-      "value": "## What Went Right and Wrong\n\nThe **Guardians pick** was never going to be a slam dunk at 52%, but when you're backing the home team with slightly better pitching matchups in October, you take it. They executed.\n\nThe **Dodgers miss** stings a bit more at 61% confidence, but let me tell you something from my days on the mound—October baseball is a different animal. Momentum shifts, one bad inning changes everything, and the Brewers showed up. Can't overthink it."
+      "type": "table",
+      "title": "Full Oct 15 Results Breakdown",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Rays @ Guardians",
+          "Guardians",
+          "52%",
+          "✓ Hit"
+        ],
+        [
+          "Brewers @ Dodgers",
+          "Dodgers",
+          "61%",
+          "✗ Miss"
+        ]
+      ]
     },
     {
       "type": "text",
-      "value": "## Oct 16 Preview: Rays @ Guardians Rematch\n\nHere's where it gets interesting. We're flipping the script and backing Tampa Bay tomorrow at 54% confidence. Why? **Nick Martinez** is getting the start for the Rays against **Shawn Armstrong** for Cleveland.\n\nArmstrong as a starter tells me Cleveland is in a bullpen game situation. Martinez has been solid—he's a guy who can give you length and keep hitters off balance with his changeup and cutter mix. When you're facing a bullpen day in the postseason, you want your starter to eat innings and put pressure on their relievers early. Martinez can do that."
+      "value": "## What Worked, What Didn't\n\n**Guardians (✓)**: Cleveland came through at home, exactly as projected. A narrow 52% edge, but when you're working the corners, you take those tight margins. The home park advantage and bullpen depth played out.\n\n**Dodgers (✗)**: This one stings. 61% confidence should hold more often than not, but the Brewers had other plans. Sometimes the opposing lineup just sees the ball better than expected. You tip your cap and move on."
+    },
+    {
+      "type": "text",
+      "value": "## Oct 16 Preview: Rays-Guardians Rematch\n\nHere's where it gets interesting. Same teams, different day. Nick Martinez takes the ball for Tampa Bay against Shawn Armstrong for Cleveland. The model's flipping the script—now favoring the Rays at 54% after backing the Guardians yesterday."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Oct 16 Top Pick",
+      "title": "⭐ Tomorrow's Top Pick - Oct 16",
       "value": "Tampa Bay Rays",
-      "sub": "54% win probability · Martinez vs Armstrong (bullpen game)"
+      "sub": "54% win probability vs Guardians · Martinez vs Armstrong"
     },
     {
       "type": "text",
-      "value": "## The Pitching Matchup Edge\n\nFrom a pitcher's perspective, this matchup favors Tampa. Armstrong is a reliever being asked to open—that means Cleveland is piecing together innings. Martinez, on the other hand, is built to go 5-6 innings if his pitch count cooperates.\n\nIn October, the team that controls the game early usually controls the bullpen usage late. If Martinez can give Tampa 5 strong, the Rays pen can take over with a lead and short assignments. Cleveland will be mixing and matching from pitch one. That's an edge."
+      "value": "## Pitcher's Perspective: Martinez vs Armstrong\n\nNick Martinez brings versatility to the bump—he can start, he can relieve, and he's seen every role in the book. That experience matters in October. Armstrong's typically a reliever making a spot start situation, which changes the dynamic completely.\n\nFrom a pitcher's view, when you're facing a guy out of his normal routine, you can exploit the rhythm issue. Martinez has better command of his arsenal in a traditional starter's role. Armstrong's effective in short bursts, but stretching him out is a different animal.\n\nThe Rays at 54% feels right. It's essentially a coin flip with a slight edge based on the pitching matchup. In playoff baseball, I'll take the experienced starter over the bullpen arm every time."
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nI'm not chasing yesterday's loss. I'm following the process. The 54% confidence isn't screaming certainty, but the pitching setup favors Tampa Bay. When you've got a traditional starter against a bullpen game, and the probabilities are close, I'm taking the team with the defined role on the mound.\n\nLet's get back in the win column tomorrow. Trust the arm, trust the process."
+      "value": "## The Bottom Line\n\nOct 15 was a wash—one hit, one miss. That's the grind. Oct 16 brings a rematch with better pitching circumstances for Tampa Bay. Trust the process, trust the arm talent, and let's get back over .500.\n\nKeep grinding. See you after first pitch."
     }
   ],
   "slug": "2026-10-15-daily-ace",
