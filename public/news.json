@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-17T03:36:37.927356+00:00",
+  "updated_at": "2026-10-17T04:43:07.925338+00:00",
   "news": [
+    {
+      "title": "How Friday's postponement impacts Guardians' ALCS pitching plans",
+      "link": "https://www.mlb.com/news/guardians-pitching-plans-game-4-alcs-postponed",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/s82qwxycynvxqqw3kcrn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-17T03:32:21+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Swing adjustment yielding grand results for Rangers' Walcott in Fall League",
       "link": "https://www.mlb.com/news/rangers-sebastian-walcott-reaping-success-with-swing-adjustment-in-fall-league",
@@ -12,10 +25,10 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-17T03:01:52+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "1h ago"
     },
     {
-      "title": "Rainout gives Rays options, but they're sticking with Martinez for G4",
+      "title": "Postponement gives Rays options, but they're sticking with Martinez for G4",
       "link": "https://www.mlb.com/news/rays-nick-martinez-alcs-game-4-starter-rainout-2026",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dobl2iiiwtgj0ytobobd",
@@ -25,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-17T03:00:40+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rays-Guardians ALCS Game 4 lineups, FAQ (Sat., 8 ET, TBS/HBO Max)",
@@ -38,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-17T02:54:00+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Gold Glove finalist nod rewards Simpson's 180 on 'D.' Here's how he did it",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-17T02:18:49+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "ALCS Game 4 postponed, moved to Saturday (8 p.m. ET); Game 5 Sunday (5 p.m. ET)",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-17T01:56:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Brewers' Made goes yard in first Winter League plate appearance at home in Dominican Republic",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-17T01:47:01+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "ALCS Game 4 storylines coming off Friday's postponement",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-17T01:44:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Who should Brewers want to face in the World Series?",
-      "link": "https://www.mlb.com/news/brewers-to-face-rays-or-guardians-in-2026-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/laeknewiod5q14vqaz0c",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-17T01:13:00+00:00",
       "time_ago": "2h ago"
     }
   ]
