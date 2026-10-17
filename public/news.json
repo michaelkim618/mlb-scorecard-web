@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T00:02:52.343692+00:00",
+  "updated_at": "2026-10-17T00:38:04.572560+00:00",
   "news": [
     {
       "title": "World Series game times announced",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-16T23:27:00+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rays-Guardians ALCS Game 4 will be delayed (TBS/HBO Max)",
@@ -25,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-16T23:23:00+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "A bottle of Cooper Pratt to go with that? Brewers customize champagne for clincher",
@@ -64,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-16T20:12:17+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Who should Brewers want to face in the World Series?",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-16T18:14:36+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     }
   ]
 }
