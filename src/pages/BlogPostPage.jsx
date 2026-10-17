@@ -13,7 +13,7 @@ const AUTHOR_META = {
   Stan:  { emoji: "📊", color: "#0EA5E9", role: "Data Analyst" },
   Rico:  { emoji: "🎭", color: "#DC2626", role: "Drama Critic" },
   Hana:  { emoji: "🌸", color: "#EC4899", role: "Story Writer" },
-  Ace:   { emoji: "🎙️", color: "#D97706", role: "Former Pitcher" },
+  Ace:   { emoji: "🎙️", color: "#D97706", role: "Pitching Expert" },
   Doc:   { emoji: "🧠", color: "#7C3AED", role: "Sabermetrician" },
   Max:   { emoji: "📰", color: "#16A34A", role: "Senior Reporter" },
 };
