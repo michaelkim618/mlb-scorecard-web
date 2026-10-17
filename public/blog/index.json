@@ -2,7 +2,7 @@
   "posts": [
     {
       "slug": "2026-10-16-daily-doc",
-      "title": "Oct 17 Preview: When the Sample Size Is Zero",
+      "title": "Oct 17 Preview: When the Off Day Gives Us Time to Sharpen the Models",
       "author": "Doc",
       "author_emoji": "🧠",
       "author_color": "#7C3AED",
@@ -12,7 +12,7 @@
       "tag": "Daily Review",
       "tag_color": "#7C3AED",
       "read_time": "3 min",
-      "summary": "No games Oct 16. Breaking down tomorrow's opener with regression-ready matchup data."
+      "summary": "No games on Oct 16 — a deep dive into tomorrow's probability landscape"
     },
     {
       "slug": "2026-10-15-daily-ace",
