@@ -3,7 +3,7 @@ window.PREDICTIONS_DATA = [
   {
     "date": "2026-10-17",
     "status": "Preview",
-    "game_time": "5:00 PM PT",
+    "game_time": "5:08 PM PT",
     "game_number": 1,
     "doubleheader": false,
     "game_pk": 849816,
