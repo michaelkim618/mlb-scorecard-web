@@ -2,7 +2,7 @@
 window.PREDICTIONS_DATA = [
   {
     "date": "2026-10-16",
-    "status": "Preview",
+    "status": "Final",
     "game_time": "5:00 PM PT",
     "game_number": 1,
     "doubleheader": false,
@@ -341,8 +341,8 @@ window.PREDICTIONS_DATA = [
       "home": 46.0
     },
     "expected_score": {
-      "away": 2.1,
-      "home": 2.6
+      "away": 1.9,
+      "home": 2.8
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -355,12 +355,12 @@ window.PREDICTIONS_DATA = [
       "any_cold_sp": true,
       "eff_weights": {
         "sp": 0.2,
-        "bp": 0.46,
-        "bat": 0.19,
+        "bp": 0.45,
+        "bat": 0.2,
         "sit": 0.15
       },
       "away": {
-        "sp_score": 48.3,
+        "sp_score": 47.6,
         "sp_detail": {
           "era": 4.28,
           "whip": 1.12,
@@ -434,7 +434,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 75.0,
+        "bp_score": 73.9,
         "bp_detail": {
           "bullpen_era": 2.55,
           "recent_era": 2.55,
@@ -446,14 +446,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.44,
           "closer_name": "Bryan Baker"
         },
-        "bat_score": 30.9,
+        "bat_score": 27.7,
         "bat_detail": {
           "recent_avg": 0.251,
           "runs_per_g": 3.8,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
           "season_ops": 0.725,
-          "season_slg": null,
+          "season_slg": 0.369,
           "season_avg": 0.251,
           "n_games": 9,
           "source": "prev_day",
@@ -463,7 +463,7 @@ window.PREDICTIONS_DATA = [
             "Yandy Díaz(0.628)",
             "Jonathan Aranda(0.732)",
             "Junior Caminero(0.800)",
-            "Victor Mesa(0.791)",
+            "Victor Mesa Jr.(0.791)",
             "Chandler Simpson(0.704)",
             "Liam Hicks(0.743)",
             "Jonny DeLuca(0.807)",
@@ -491,7 +491,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 683748,
-              "name": "Victor Mesa",
+              "name": "Victor Mesa Jr.",
               "ops": 0.791,
               "avg": 0.273
             },
@@ -543,7 +543,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 58.6,
-        "total": 53.6
+        "total": 52.1
       },
       "home": {
         "sp_score": 19.0,
@@ -616,14 +616,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.95,
           "closer_name": "Cade Smith"
         },
-        "bat_score": 40.5,
+        "bat_score": 43.3,
         "bat_detail": {
           "recent_avg": 0.27,
           "runs_per_g": 5.3,
           "hr_per_g": 1.6,
           "bb_per_g": 3.0,
           "season_ops": 0.736,
-          "season_slg": null,
+          "season_slg": 0.428,
           "season_avg": 0.27,
           "n_games": 9,
           "source": "prev_day",
@@ -713,20 +713,20 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 58.4,
-        "total": 53.8
+        "total": 54.0
       }
     },
     "scores": {
-      "away_offense": 30.9,
-      "away_defense": 61.6,
-      "home_offense": 40.5,
+      "away_offense": 27.7,
+      "away_defense": 60.8,
+      "home_offense": 43.3,
       "home_defense": 46.0
     },
     "actual_score": {
       "away": null,
       "home": null
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -746,8 +746,8 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict_detail": {
       "sp_favors": "Tampa Bay Rays",
       "bat_favors": "Cleveland Guardians",
-      "sp_gap": 29.3,
-      "bat_gap": -9.6
+      "sp_gap": 28.6,
+      "bat_gap": -15.6
     },
     "low_confidence": true,
     "low_confidence_reason": "최고 확률 50.0% (≤62.0%)",
