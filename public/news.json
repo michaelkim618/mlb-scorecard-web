@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-17T00:57:09.841864+00:00",
+  "updated_at": "2026-10-17T01:28:18.398792+00:00",
   "news": [
+    {
+      "title": "Who should Brewers want to face in the World Series?",
+      "link": "https://www.mlb.com/news/brewers-to-face-rays-or-guardians-in-2026-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/laeknewiod5q14vqaz0c",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Sweet",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-17T01:13:00+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "ALCS Game 4 postponed, moved to Saturday (8 p.m. ET); Game 5 Sunday (5 p.m. ET)",
+      "link": "https://www.mlb.com/news/alcs-game-4-moved-from-friday",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cqrxfx1drsppzgke9u3q",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-17T01:11:26+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "World Series game times announced",
       "link": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
@@ -11,21 +37,21 @@
       "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-16T23:27:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-10-17T01:09:00+00:00",
+      "time_ago": "19m ago"
     },
     {
-      "title": "Rays-Guardians ALCS Game 4 will be delayed (TBS/HBO Max)",
-      "link": "https://www.mlb.com/news/when-is-rays-vs-guardians-alcs-game-4-date-time-and-lineups",
+      "title": "This can't be real, right? Matching NLCS stats will blow your mind",
+      "link": "https://www.mlb.com/news/dodgers-brewers-had-exact-match-in-stats-in-2025-and-2026-nlcs",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t7cgfdkhafc2ibdlcfqt",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ca0pp5uljlz5l1a7fwsc",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
+      "author": "Brent Maguire",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-16T23:23:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-10-17T00:34:00+00:00",
+      "time_ago": "54m ago"
     },
     {
       "title": "A bottle of Cooper Pratt to go with that? Brewers customize champagne for clincher",
@@ -51,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-10-16T20:57:24+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Inbox: Progress report on Phils No. 2 prospect Miller?",
@@ -64,19 +90,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-16T20:12:17+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Who should Brewers want to face in the World Series?",
-      "link": "https://www.mlb.com/news/brewers-to-face-rays-or-guardians-in-2026-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/laeknewiod5q14vqaz0c",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-16T19:51:19+00:00",
       "time_ago": "5h ago"
     },
     {
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-16T18:55:00+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Milwaukee backs Brewers as NBA's Bucks shift time of home opener for World Series",
-      "link": "https://www.mlb.com/news/milwaukee-bucks-change-time-of-home-opener-brewers-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jtcq9qywxvoyqbopgvje",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-16T18:14:36+00:00",
       "time_ago": "6h ago"
     }
   ]
