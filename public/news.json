@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T22:20:47.699047+00:00",
+  "updated_at": "2026-10-18T22:32:30.240831+00:00",
   "news": [
     {
       "title": "LIVE: Rays get off to hot start in Game 5 (TBS/HBO Max)",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T22:04:43+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "27m ago"
     },
     {
       "title": "World Series game times announced",
@@ -38,59 +38,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T19:26:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
-      "title": "Rays slip past Guards in Game 4 to knot up ALCS",
-      "link": "https://www.mlb.com/news/rays-win-alcs-game-4-2026",
+      "title": "Why Pratt's dream postseason run has been more than 'frickin' fun'",
+      "link": "https://www.mlb.com/news/cooper-pratt-s-childhood-hard-work-translating-to-2026-postseason-results",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uqj5qpgd7ujml5rq5lsp",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ljip0xgf4sb6vlbugjqp",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Keegan Matheson",
+      "author": "Adam McCalvy",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-18T06:55:00+00:00",
-      "time_ago": "15h ago"
-    },
-    {
-      "title": "Here's where Rays, Guards stand as ALCS resets after Game 4",
-      "link": "https://www.mlb.com/news/takeaways-after-rays-tie-alcs-at-2-with-guardians",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qxp6pqdumwhwqgjaxndk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-18T06:49:15+00:00",
-      "time_ago": "15h ago"
-    },
-    {
-      "title": "'Just a reliever'? Peralta's two huge outs help Rays even ALCS",
-      "link": "https://www.mlb.com/news/freddy-peralta-relief-appearance-rays-alcs-game-4-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yfkwquiv14rerzn4jis5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-18T06:30:00+00:00",
-      "time_ago": "15h ago"
-    },
-    {
-      "title": "'Three Little Ones' come up big for Rays on this night",
-      "link": "https://www.mlb.com/news/junior-caminero-yandy-diaz-jonathan-aranda-lead-rays-in-2026-alcs-game-4",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/adgfy8lpp1wtzldojbst",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-18T05:36:00+00:00",
-      "time_ago": "16h ago"
+      "pub_date": "2026-10-18T13:31:42+00:00",
+      "time_ago": "9h ago"
     },
     {
       "title": "Guardians just one part of huge weekend for Ohio sports",
@@ -104,6 +65,45 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T05:35:12+00:00",
       "time_ago": "16h ago"
+    },
+    {
+      "title": "Will extra rest help or hurt Brewers in World Series?",
+      "link": "https://www.mlb.com/news/impact-of-extra-rest-before-world-series",
+      "summary": "12 of the past 16 teams to clinch pennant first lost in World Series",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qpygdgbhpircwykahtxp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-18T04:03:00+00:00",
+      "time_ago": "18h ago"
+    },
+    {
+      "title": "Mets top-ranked prospect carries power surge into Winter League competition",
+      "link": "https://www.mlb.com/news/mets-prospect-jefferson-rojas-homers-twice-in-winter-league",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cmb8wiewfmacl0j4cuie",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rob Terranova",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-18T01:19:20+00:00",
+      "time_ago": "21h ago"
+    },
+    {
+      "title": "D-backs prospect Forbes sweeping through the Fall League with new offering",
+      "link": "https://www.mlb.com/news/d-backs-prospect-patrick-forbes-adding-sweeper-in-fall-league",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/q7kt9udocdkzvijhcb59",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sam Dykstra",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-18T00:13:54+00:00",
+      "time_ago": "22h ago"
     }
   ]
 }
