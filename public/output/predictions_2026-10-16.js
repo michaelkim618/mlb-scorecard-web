@@ -106,17 +106,6 @@ window.PREDICTIONS_DATA = [
     },
     "away_pitcher_gamelog": [
       {
-        "date": "2026-08-11",
-        "opp": "@ OAK",
-        "decision": "W",
-        "ip": "9.0",
-        "er": 4,
-        "h": 8,
-        "bb": 0,
-        "so": 5,
-        "era": 4.0
-      },
-      {
         "date": "2026-08-18",
         "opp": "vs TOR",
         "decision": "L",
@@ -214,6 +203,17 @@ window.PREDICTIONS_DATA = [
         "bb": 1,
         "so": 3,
         "era": 4.91
+      },
+      {
+        "date": "2026-10-17",
+        "opp": "@ CLE",
+        "decision": null,
+        "ip": "1.0",
+        "er": 1,
+        "h": 2,
+        "bb": 0,
+        "so": 0,
+        "era": 9.0
       }
     ],
     "home_pitcher": "Shawn Armstrong",
@@ -224,17 +224,6 @@ window.PREDICTIONS_DATA = [
       "era": "4.58"
     },
     "home_pitcher_gamelog": [
-      {
-        "date": "2026-07-20",
-        "opp": "vs MIN",
-        "decision": null,
-        "ip": "1.0",
-        "er": 0,
-        "h": 1,
-        "bb": 1,
-        "so": 1,
-        "era": 0.0
-      },
       {
         "date": "2026-07-21",
         "opp": "vs MIN",
@@ -333,6 +322,17 @@ window.PREDICTIONS_DATA = [
         "bb": 0,
         "so": 1,
         "era": 0.0
+      },
+      {
+        "date": "2026-10-17",
+        "opp": "vs TB",
+        "decision": null,
+        "ip": "1.0",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 1,
+        "era": 0.0
       }
     ],
     "pred_model": "scorecard",
@@ -342,7 +342,7 @@ window.PREDICTIONS_DATA = [
     },
     "expected_score": {
       "away": 2.1,
-      "home": 2.6
+      "home": 2.7
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -351,7 +351,7 @@ window.PREDICTIONS_DATA = [
       "bat_source": "prev_day",
       "away_handedness": "R",
       "home_handedness": "R",
-      "bullpen_game": false,
+      "bullpen_game": true,
       "any_cold_sp": true,
       "eff_weights": {
         "sp": 0.2,
@@ -360,22 +360,22 @@ window.PREDICTIONS_DATA = [
         "sit": 0.15
       },
       "away": {
-        "sp_score": 48.3,
+        "sp_score": 42.0,
         "sp_detail": {
-          "era": 4.28,
-          "whip": 1.12,
-          "k9": 6.4,
-          "avg_ip": 5.5,
+          "era": 4.44,
+          "whip": 1.18,
+          "k9": 6.6,
+          "avg_ip": 4.7,
           "qs_rate": 50.0,
-          "last3_era": 3.8,
-          "last_start_era": 4.91,
+          "last3_era": 5.4,
+          "last_start_era": 9.0,
           "last2_eras": [
-            13.5,
-            4.91
+            4.91,
+            9.0
           ],
-          "recent_avg_era": 4.91,
-          "recent_bad_start": false,
-          "trend": "stable",
+          "recent_avg_era": 9.0,
+          "recent_bad_start": true,
+          "trend": "cold",
           "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 9,
@@ -543,13 +543,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 58.6,
-        "total": 53.6
+        "total": 52.4
       },
       "home": {
-        "sp_score": 19.0,
+        "sp_score": 19.5,
         "sp_detail": {
           "era": 2.7,
-          "whip": 0.9,
+          "whip": 0.7,
           "k9": 7.2,
           "avg_ip": 1.0,
           "qs_rate": 0.0,
@@ -713,14 +713,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 58.4,
-        "total": 53.8
+        "total": 53.9
       }
     },
     "scores": {
       "away_offense": 30.9,
-      "away_defense": 61.6,
+      "away_defense": 58.5,
       "home_offense": 40.5,
-      "home_defense": 46.0
+      "home_defense": 46.2
     },
     "actual_score": {
       "away": null,
@@ -737,16 +737,16 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Tampa Bay Rays",
     "model_correct": null,
     "notes": "Tampa Bay Rays IL: Edwin Uceta, Gavin Lux, Jacob Melton, Jonathan Heasley, Ryan Pepiot",
-    "kalshi_prob": 49.0,
-    "edge": 1.0,
-    "value_bet": "➖ 시장과 유사",
+    "kalshi_prob": 63.0,
+    "edge": -13.0,
+    "value_bet": "⏭️ 패스 (박빙 경기 — 예측 신뢰도 낮음)",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": true,
     "sp_bat_conflict_detail": {
       "sp_favors": "Tampa Bay Rays",
       "bat_favors": "Cleveland Guardians",
-      "sp_gap": 29.3,
+      "sp_gap": 22.5,
       "bat_gap": -9.6
     },
     "low_confidence": true,
