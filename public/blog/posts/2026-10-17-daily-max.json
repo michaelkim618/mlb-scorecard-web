@@ -1,11 +1,11 @@
 {
-  "title": "Oct 17 Results + Oct 18 Preview: Perfect Start to the Postseason Run",
-  "summary": "Oct 17: 1-0 clean sweep. Oct 18: Rays-Guardians rematch brewing.",
+  "title": "Oct 17 Results + Oct 18 Preview: Perfect Night, Same Matchup Tomorrow",
+  "summary": "Rays came through at 54%. Back to the same well on Oct 18.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Yesterday's Scorecard: Clean Sweep\n\nYou know, in twenty-some years of covering this game, I've learned that perfection is fleeting. But we'll take it when it comes. The model went 1-for-1 on October 17th, and honestly, watching the Rays take care of business in Cleveland felt like watching an old script play out exactly as written."
+      "value": "## A Clean Sweep on October 17\n\nYou know, in all my years covering this game, there's something satisfying about a perfect night—even when it's just one pick. The Rays took care of business in Cleveland, and our model called it at 54%. Not a screaming edge, but enough to lean on Tampa Bay's steady approach. When you've been around long enough, you learn to appreciate the wins that don't require drama."
     },
     {
       "type": "stat_row",
@@ -19,39 +19,14 @@
           "value": "100.0%"
         },
         {
-          "label": "Games Predicted",
-          "value": "1"
-        }
-      ]
-    },
-    {
-      "type": "chart",
-      "chart_type": "bar",
-      "title": "Oct 17 Prediction Results",
-      "data": [
-        {
-          "name": "Rays",
-          "probability": 54,
-          "result": 1
-        }
-      ],
-      "x_key": "name",
-      "bars": [
-        {
-          "key": "probability",
-          "color": "#0EA5E9",
-          "label": "Win Probability (%)"
-        },
-        {
-          "key": "result",
-          "color": "#16A34A",
-          "label": "Correct (1=Yes)"
+          "label": "Win Prob",
+          "value": "54%"
         }
       ]
     },
     {
       "type": "table",
-      "title": "Full Oct 17 Results",
+      "title": "October 17 Full Results",
       "headers": [
         "Game",
         "Pick",
@@ -63,32 +38,28 @@
           "Rays @ Guardians",
           "Rays",
           "54%",
-          "✓"
+          "✓ Hit"
         ]
       ]
     },
     {
       "type": "text",
-      "value": "## The Rays Formula Still Works\n\nTampa Bay came through with a 54% edge, which—let me tell you—is the kind of modest confidence number that actually wins ballgames. I've seen too many sure things turn into sure losses over the years. Give me a coin flip with a slight edge and decent pitching any day of the week.\n\nThe Guardians have had the Rays' number before, especially at home, but October baseball is a different animal. Experience matters when the lights get bright."
-    },
-    {
-      "type": "text",
-      "value": "## Looking Ahead: Oct 18 Rematch\n\nHere's where it gets interesting. Same two clubs, same ballpark, but we're flipping the script—barely. The model likes Tampa Bay again at 50%, which is essentially telling us to grab some popcorn because this one's a toss-up."
+      "value": "## The Same Dance, Different Night\n\nHere's where it gets interesting. We're going back to the exact same matchup on October 18—Rays at Guardians, Game 2 of what I'm assuming is a series. Drew Rasmussen gets the ball for Tampa Bay against Cleveland's Parker Messick. The model likes the Rays again, though at 50% we're essentially calling it a coin flip.\n\nI've seen this story before. A team wins Game 1, the model liked them then and still likes them now, but the probability tightens up. That's baseball telling you that Cleveland isn't going quietly, and Messick will have something to prove after watching his team drop the opener."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - Oct 18",
+      "title": "⭐ Tomorrow's Top Pick - October 18",
       "value": "Tampa Bay Rays @ Cleveland Guardians",
-      "sub": "Pick: Rays 50% • Rasmussen vs Messick"
+      "sub": "Pick: Rays (50%) · Rasmussen vs Messick"
     },
     {
       "type": "text",
-      "value": "## The Pitching Matchup\n\nDrew Rasmussen gets the ball for Tampa Bay. If you've followed his career arc like I have, you know he's evolved into one of those pitchers who just knows how to manage a game. Not overpowering, just effective.\n\nParker Messick counters for Cleveland. Younger arm, still writing his October resume. I've seen this movie before—veteran savvy versus hungry youth. Sometimes the kid steals the show. Sometimes experience writes a masterclass.\n\nAt 50-50, the model is basically shrugging and saying 'your guess is as good as mine.' But if I'm being honest, backing the team that just won on the road, with a pitcher who's been there before? I've made worse bets on slimmer margins."
+      "value": "## The Pitching Matchup Worth Watching\n\nDrew Rasmussen has always been one of those pitchers who does more with less—good command, keeps hitters off balance, doesn't beat himself. Parker Messick is the younger arm with something to prove. When you get a 50-50 split from the model, it usually means the pitching matchup is closer than the casual fan might think.\n\nThe Rays have been here before. They know how to win these tight series on the road. The Guardians, meanwhile, have home field and the motivation of evening things up. This is October baseball at its finest—two evenly matched clubs, and whoever executes better wins."
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nPerfect day yesterday. Dead-even proposition tomorrow. That's baseball in October—you take your wins when they come and you trust the process when the numbers get tight.\n\nI'll be watching this Rasmussen-Messick duel with real interest. Sometimes the games that look closest on paper deliver the most convincing results on the field.\n\n*—Max*"
+      "value": "## The Bottom Line\n\nWe went 1-0 on October 17. Clean, simple, professional. For October 18, we're riding Tampa Bay again in the same building, but this time the edge is razor-thin at 50%. I've learned that sometimes the model is telling you to trust the process rather than the percentage. The Rays won Game 1, they've got Rasmussen on the mound, and they're built for moments like this.\n\nI've seen enough baseball to know that 50% doesn't mean stay away—it means respect both sides and trust your homework. We did our homework. The pick is Tampa Bay.\n\n— Max"
     }
   ],
   "slug": "2026-10-17-daily-max",
