@@ -207,13 +207,13 @@ window.PREDICTIONS_DATA = [
       {
         "date": "2026-10-17",
         "opp": "@ CLE",
-        "decision": null,
-        "ip": "4.1",
+        "decision": "W",
+        "ip": "5.1",
         "er": 1,
         "h": 2,
-        "bb": 1,
+        "bb": 2,
         "so": 3,
-        "era": 2.08
+        "era": 1.69
       }
     ],
     "home_pitcher": "Shawn Armstrong",
@@ -362,18 +362,18 @@ window.PREDICTIONS_DATA = [
       "away": {
         "sp_score": 48.8,
         "sp_detail": {
-          "era": 4.14,
+          "era": 4.06,
           "whip": 1.12,
-          "k9": 6.7,
-          "avg_ip": 5.0,
+          "k9": 6.5,
+          "avg_ip": 5.1,
           "qs_rate": 50.0,
-          "last3_era": 4.57,
-          "last_start_era": 2.08,
+          "last3_era": 4.37,
+          "last_start_era": 1.69,
           "last2_eras": [
             4.91,
-            2.08
+            1.69
           ],
-          "recent_avg_era": 2.08,
+          "recent_avg_era": 1.69,
           "recent_bad_start": false,
           "trend": "cold",
           "n_games": 10,
@@ -737,9 +737,9 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Tampa Bay Rays",
     "model_correct": null,
     "notes": "Tampa Bay Rays IL: Edwin Uceta, Gavin Lux, Jacob Melton, Jonathan Heasley, Ryan Pepiot",
-    "kalshi_prob": 54.0,
-    "edge": -4.0,
-    "value_bet": "➖ 시장과 유사",
+    "kalshi_prob": null,
+    "edge": null,
+    "value_bet": "마켓 없음",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": true,
