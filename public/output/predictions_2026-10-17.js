@@ -2,7 +2,7 @@
 window.PREDICTIONS_DATA = [
   {
     "date": "2026-10-17",
-    "status": "Preview",
+    "status": "Final",
     "game_time": "5:08 PM PT",
     "game_number": 1,
     "doubleheader": false,
@@ -106,17 +106,6 @@ window.PREDICTIONS_DATA = [
     },
     "away_pitcher_gamelog": [
       {
-        "date": "2026-08-11",
-        "opp": "@ OAK",
-        "decision": "W",
-        "ip": "9.0",
-        "er": 4,
-        "h": 8,
-        "bb": 0,
-        "so": 5,
-        "era": 4.0
-      },
-      {
         "date": "2026-08-18",
         "opp": "vs TOR",
         "decision": "L",
@@ -214,6 +203,17 @@ window.PREDICTIONS_DATA = [
         "bb": 1,
         "so": 3,
         "era": 4.91
+      },
+      {
+        "date": "2026-10-17",
+        "opp": "@ CLE",
+        "decision": "W",
+        "ip": "5.1",
+        "er": 1,
+        "h": 2,
+        "bb": 2,
+        "so": 3,
+        "era": 1.69
       }
     ],
     "home_pitcher": "Shawn Armstrong",
@@ -224,17 +224,6 @@ window.PREDICTIONS_DATA = [
       "era": "4.58"
     },
     "home_pitcher_gamelog": [
-      {
-        "date": "2026-07-20",
-        "opp": "vs MIN",
-        "decision": null,
-        "ip": "1.0",
-        "er": 0,
-        "h": 1,
-        "bb": 1,
-        "so": 1,
-        "era": 0.0
-      },
       {
         "date": "2026-07-21",
         "opp": "vs MIN",
@@ -333,6 +322,17 @@ window.PREDICTIONS_DATA = [
         "bb": 0,
         "so": 1,
         "era": 0.0
+      },
+      {
+        "date": "2026-10-17",
+        "opp": "vs TB",
+        "decision": null,
+        "ip": "1.0",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 1,
+        "era": 0.0
       }
     ],
     "pred_model": "scorecard",
@@ -341,41 +341,41 @@ window.PREDICTIONS_DATA = [
       "home": 46.0
     },
     "expected_score": {
-      "away": 2.2,
-      "home": 2.6
+      "away": 1.9,
+      "home": 2.8
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "team_stats",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "R",
-      "bullpen_game": false,
+      "bullpen_game": true,
       "any_cold_sp": true,
       "eff_weights": {
         "sp": 0.2,
-        "bp": 0.46,
-        "bat": 0.19,
+        "bp": 0.45,
+        "bat": 0.2,
         "sit": 0.15
       },
       "away": {
-        "sp_score": 48.3,
+        "sp_score": 48.1,
         "sp_detail": {
-          "era": 4.28,
+          "era": 4.06,
           "whip": 1.12,
-          "k9": 6.4,
-          "avg_ip": 5.5,
+          "k9": 6.5,
+          "avg_ip": 5.1,
           "qs_rate": 50.0,
-          "last3_era": 3.8,
-          "last_start_era": 4.91,
+          "last3_era": 4.37,
+          "last_start_era": 1.69,
           "last2_eras": [
-            13.5,
-            4.91
+            4.91,
+            1.69
           ],
-          "recent_avg_era": 4.91,
+          "recent_avg_era": 1.69,
           "recent_bad_start": false,
-          "trend": "stable",
+          "trend": "cold",
           "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 10,
@@ -434,7 +434,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 75.0,
+        "bp_score": 73.9,
         "bp_detail": {
           "bullpen_era": 2.55,
           "recent_era": 2.55,
@@ -446,54 +446,110 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.44,
           "closer_name": "Bryan Baker"
         },
-        "bat_score": 31.4,
+        "bat_score": 27.7,
         "bat_detail": {
-          "recent_avg": 0.246,
-          "runs_per_g": 4.4,
-          "hr_per_g": 1.1,
-          "bb_per_g": 2.9,
-          "season_ops": 0.72,
-          "season_avg": 0.25,
-          "season_slg": 0.4,
-          "n_games": 10,
+          "recent_avg": 0.251,
+          "runs_per_g": 3.8,
+          "hr_per_g": 0.7,
+          "bb_per_g": 3.0,
+          "season_ops": 0.725,
+          "season_slg": 0.369,
+          "season_avg": 0.251,
+          "n_games": 9,
+          "source": "prev_day",
+          "handedness": "R",
+          "splits_used": false,
+          "lineup_ops": [
+            "Yandy Díaz(0.628)",
+            "Jonathan Aranda(0.732)",
+            "Chandler Simpson(0.704)",
+            "Junior Caminero(0.800)",
+            "Liam Hicks(0.743)",
+            "Victor Mesa Jr.(0.791)",
+            "Jonny DeLuca(0.807)",
+            "Richie Palacios(0.672)",
+            "Taylor Walls(0.652)"
+          ],
+          "lineup_players": [
+            {
+              "id": 650490,
+              "name": "Yandy Díaz",
+              "ops": 0.628,
+              "avg": 0.175
+            },
+            {
+              "id": 666018,
+              "name": "Jonathan Aranda",
+              "ops": 0.732,
+              "avg": 0.206
+            },
+            {
+              "id": 802415,
+              "name": "Chandler Simpson",
+              "ops": 0.704,
+              "avg": 0.333
+            },
+            {
+              "id": 691406,
+              "name": "Junior Caminero",
+              "ops": 0.8,
+              "avg": 0.257
+            },
+            {
+              "id": 689414,
+              "name": "Liam Hicks",
+              "ops": 0.743,
+              "avg": 0.258
+            },
+            {
+              "id": 683748,
+              "name": "Victor Mesa Jr.",
+              "ops": 0.791,
+              "avg": 0.273
+            },
+            {
+              "id": 676356,
+              "name": "Jonny DeLuca",
+              "ops": 0.807,
+              "avg": 0.286
+            },
+            {
+              "id": 680700,
+              "name": "Richie Palacios",
+              "ops": 0.672,
+              "avg": 0.231
+            },
+            {
+              "id": 670764,
+              "name": "Taylor Walls",
+              "ops": 0.652,
+              "avg": 0.241
+            }
+          ],
+          "bat_trend": "hot",
           "last5_rpg": 4.6,
           "last5_avg": 0.254,
-          "bat_trend": "stable",
           "home_split": {
             "recent_avg": 0.227,
             "runs_per_g": 4.9,
             "hr_per_g": 1.0,
-            "bb_per_g": 3.1,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 4.6,
-            "last5_avg": 0.206,
-            "bat_trend": "cold"
+            "n_games": 10
           },
           "away_split": {
             "recent_avg": 0.246,
             "runs_per_g": 4.4,
             "hr_per_g": 1.1,
-            "bb_per_g": 2.9,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 4.6,
-            "last5_avg": 0.254,
-            "bat_trend": "stable"
+            "n_games": 10
           }
         },
         "sit_score": 58.6,
-        "total": 53.7
+        "total": 52.2
       },
       "home": {
-        "sp_score": 21.5,
+        "sp_score": 22.0,
         "sp_detail": {
           "era": 2.7,
-          "whip": 0.9,
+          "whip": 0.7,
           "k9": 7.2,
           "avg_ip": 1.0,
           "qs_rate": 0.0,
@@ -560,78 +616,139 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.95,
           "closer_name": "Cade Smith"
         },
-        "bat_score": 39.3,
+        "bat_score": 43.3,
         "bat_detail": {
-          "recent_avg": 0.244,
-          "runs_per_g": 4.8,
-          "hr_per_g": 1.4,
-          "bb_per_g": 2.6,
-          "season_ops": 0.72,
-          "season_avg": 0.25,
-          "season_slg": 0.4,
-          "n_games": 10,
-          "last5_rpg": 6.2,
-          "last5_avg": 0.273,
-          "bat_trend": "hot",
+          "recent_avg": 0.27,
+          "runs_per_g": 5.3,
+          "hr_per_g": 1.6,
+          "bb_per_g": 3.0,
+          "season_ops": 0.736,
+          "season_slg": 0.428,
+          "season_avg": 0.27,
+          "n_games": 9,
+          "source": "prev_day",
+          "handedness": "R",
+          "splits_used": false,
+          "lineup_ops": [
+            "Steven Kwan(0.793)",
+            "José Ramírez(0.725)",
+            "Chase DeLauter(0.811)",
+            "Jo Adell(0.716)",
+            "Nathaniel Lowe(0.625)",
+            "Travis Bazzana(0.657)",
+            "Patrick Bailey(0.609)",
+            "Petey Halpin(0.800)",
+            "Brayan Rocchio(0.886)"
+          ],
+          "lineup_players": [
+            {
+              "id": 680757,
+              "name": "Steven Kwan",
+              "ops": 0.793,
+              "avg": 0.333
+            },
+            {
+              "id": 608070,
+              "name": "José Ramírez",
+              "ops": 0.725,
+              "avg": 0.286
+            },
+            {
+              "id": 800050,
+              "name": "Chase DeLauter",
+              "ops": 0.811,
+              "avg": 0.237
+            },
+            {
+              "id": 666176,
+              "name": "Jo Adell",
+              "ops": 0.716,
+              "avg": 0.263
+            },
+            {
+              "id": 663993,
+              "name": "Nathaniel Lowe",
+              "ops": 0.625,
+              "avg": 0.227
+            },
+            {
+              "id": 683953,
+              "name": "Travis Bazzana",
+              "ops": 0.657,
+              "avg": 0.167
+            },
+            {
+              "id": 672275,
+              "name": "Patrick Bailey",
+              "ops": 0.609,
+              "avg": 0.188
+            },
+            {
+              "id": 690984,
+              "name": "Petey Halpin",
+              "ops": 0.8,
+              "avg": 0.375
+            },
+            {
+              "id": 677587,
+              "name": "Brayan Rocchio",
+              "ops": 0.886,
+              "avg": 0.353
+            }
+          ],
+          "bat_trend": "cold",
+          "last5_rpg": 5.2,
+          "last5_avg": 0.241,
           "home_split": {
             "recent_avg": 0.244,
             "runs_per_g": 4.8,
             "hr_per_g": 1.4,
-            "bb_per_g": 2.6,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 6.2,
-            "last5_avg": 0.273,
-            "bat_trend": "hot"
+            "n_games": 10
           },
           "away_split": {
             "recent_avg": 0.253,
             "runs_per_g": 5.1,
             "hr_per_g": 1.6,
-            "bb_per_g": 4.0,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 5.2,
-            "last5_avg": 0.241,
-            "bat_trend": "stable"
+            "n_games": 10
           }
         },
         "sit_score": 58.4,
-        "total": 54.1
+        "total": 54.6
       }
     },
     "scores": {
-      "away_offense": 31.4,
-      "away_defense": 61.6,
-      "home_offense": 39.3,
-      "home_defense": 47.2
+      "away_offense": 27.7,
+      "away_defense": 61.0,
+      "home_offense": 43.3,
+      "home_defense": 47.5
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 7,
+      "home": 3
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Tampa Bay Rays",
     "model_winner": "Tampa Bay Rays",
-    "model_correct": null,
+    "model_correct": true,
     "notes": "Tampa Bay Rays IL: Edwin Uceta, Gavin Lux, Jacob Melton, Jonathan Heasley, Ryan Pepiot",
-    "kalshi_prob": null,
-    "edge": null,
-    "value_bet": "⏭️ 패스 (라인업 미확정)",
+    "kalshi_prob": 45.0,
+    "edge": 5.0,
+    "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
-    "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
+    "sp_bat_conflict": true,
+    "sp_bat_conflict_detail": {
+      "sp_favors": "Tampa Bay Rays",
+      "bat_favors": "Cleveland Guardians",
+      "sp_gap": 26.1,
+      "bat_gap": -15.6
+    },
     "low_confidence": true,
     "low_confidence_reason": "최고 확률 50.0% (≤62.0%)",
     "opener_game": {
