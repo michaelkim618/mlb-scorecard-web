@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-18T05:37:09.614536+00:00",
+  "updated_at": "2026-10-18T06:23:59.171691+00:00",
   "news": [
+    {
+      "title": "'Just a reliever'? Peralta's two huge outs help Rays even ALCS",
+      "link": "https://www.mlb.com/news/freddy-peralta-relief-appearance-rays-alcs-game-4-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yfkwquiv14rerzn4jis5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-18T05:45:33+00:00",
+      "time_ago": "38m ago"
+    },
+    {
+      "title": "'Three Little Ones' come up big for Rays on this night",
+      "link": "https://www.mlb.com/news/junior-caminero-yandy-diaz-jonathan-aranda-lead-rays-in-2026-alcs-game-4",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/adgfy8lpp1wtzldojbst",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-18T05:36:00+00:00",
+      "time_ago": "47m ago"
+    },
+    {
+      "title": "Guardians just one part of huge weekend for Ohio sports",
+      "link": "https://www.mlb.com/news/guardians-browns-and-buckeyes-all-play-in-big-ohio-sports-weekend",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mwywuxjmchchlkeuthrc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-18T05:35:12+00:00",
+      "time_ago": "48m ago"
+    },
     {
       "title": "Halpin's latest playoff moment? Tracking Caminero's 'funky' blast with wild circus catch",
       "link": "https://www.mlb.com/news/petey-halpin-crazy-catch-guardians-alcs-game-4-loss-rays",
@@ -12,7 +51,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-18T05:20:32+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Martinez does 'a lot of Nick things' in rewarding Rays' confidence",
@@ -25,20 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T05:16:00+00:00",
-      "time_ago": "21m ago"
-    },
-    {
-      "title": "Timing couldn't be better for Rays' Big Three to finally deliver",
-      "link": "https://www.mlb.com/news/junior-caminero-yandy-diaz-jonathan-aranda-lead-rays-in-2026-alcs-game-4",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/adgfy8lpp1wtzldojbst",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-18T05:02:00+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "3 storylines to watch in tonight's pivotal ALCS Game 5",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T05:01:38+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rays slip past Guards in Game 4 to knot up ALCS",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T04:52:00+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Will extra rest help or hurt Brewers in World Series?",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T04:03:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "World Series game times announced",
-      "link": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792293620/mlb/q4ae0iojstppohv2dzkc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-18T03:17:00+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Mets top-ranked prospect carries power surge into Winter League competition",
-      "link": "https://www.mlb.com/news/mets-prospect-jefferson-rojas-homers-twice-in-winter-league",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cmb8wiewfmacl0j4cuie",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Rob Terranova",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-18T01:19:20+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }
