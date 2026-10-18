@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-18T00:32:49.958157+00:00",
+  "updated_at": "2026-10-18T01:26:35.009263+00:00",
   "news": [
+    {
+      "title": "LIVE: Guards, Rays both get on the board early in Game 4 (TBS/HBO Max)",
+      "link": "https://www.mlb.com/stories/game/849816",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yr2bc8s7v8aixtba3uxl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-18T00:58:35+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "Will extra rest help or hurt Brewers in World Series?",
+      "link": "https://www.mlb.com/news/impact-of-extra-rest-before-world-series",
+      "summary": "12 of the past 16 teams to clinch pennant first lost in World Series",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qpygdgbhpircwykahtxp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-18T00:49:00+00:00",
+      "time_ago": "37m ago"
+    },
     {
       "title": "D-backs prospect Patrick Forbes sweeping through the Fall League with new offering",
       "link": "https://www.mlb.com/news/d-backs-prospect-patrick-forbes-adding-sweeper-in-fall-league",
@@ -12,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-18T00:13:54+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "World Series game times announced",
@@ -25,19 +51,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-17T23:46:00+00:00",
-      "time_ago": "46m ago"
-    },
-    {
-      "title": "LIVE: Rays-Guardians ALCS Game 4, TBS/HBO Max",
-      "link": "https://www.mlb.com/news/when-is-rays-vs-guardians-alcs-game-4-date-time-and-lineups",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t7cgfdkhafc2ibdlcfqt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-17T23:24:00+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -51,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-17T21:20:23+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "This catchy, viral song has become the theme of the World Series-bound Brewers",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-17T14:59:10+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "From Pope Hats to playoffs: an ode to the '26 White Sox",
@@ -77,7 +90,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-17T13:13:49+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "12h ago"
     },
     {
       "title": "Q&A: PCA reflects on MVP-caliber season, embracing Cubs history",
@@ -90,20 +103,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-10-17T12:21:27+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "How Friday's postponement impacts Guardians' ALCS pitching plans",
-      "link": "https://www.mlb.com/news/guardians-pitching-plans-game-4-alcs-postponed",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/s82qwxycynvxqqw3kcrn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-17T03:32:21+00:00",
-      "time_ago": "21h ago"
+      "time_ago": "13h ago"
     }
   ]
 }
