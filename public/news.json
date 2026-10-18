@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-18T03:43:25.068815+00:00",
+  "updated_at": "2026-10-18T04:48:58.623229+00:00",
   "news": [
     {
-      "title": "Martinez rewards Rays' confidence with stellar ALCS start",
-      "link": "https://www.mlb.com/news/nick-martinez-allows-1-run-in-2026-alcs-game-4",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792290399/mlb/dqvyqbh5qrkggi8cs2pe",
+      "title": "Will extra rest help or hurt Brewers in World Series?",
+      "link": "https://www.mlb.com/news/impact-of-extra-rest-before-world-series",
+      "summary": "12 of the past 16 teams to clinch pennant first lost in World Series",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qpygdgbhpircwykahtxp",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Jake Rill",
+      "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-18T03:37:00+00:00",
-      "time_ago": "6m ago"
+      "pub_date": "2026-10-18T04:03:00+00:00",
+      "time_ago": "45m ago"
     },
     {
       "title": "Timing couldn't be better for Rays' Big Three to finally deliver",
@@ -24,8 +24,21 @@
       "author": "Adam Berry",
       "tag": "Highlight",
       "tag_color": "#D97706",
-      "pub_date": "2026-10-18T03:34:52+00:00",
-      "time_ago": "8m ago"
+      "pub_date": "2026-10-18T03:57:00+00:00",
+      "time_ago": "51m ago"
+    },
+    {
+      "title": "Martinez rewards Rays' confidence with stellar ALCS start",
+      "link": "https://www.mlb.com/news/nick-martinez-allows-1-run-in-2026-alcs-game-4",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792290399/mlb/dqvyqbh5qrkggi8cs2pe",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-18T03:41:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Rays slip past Guards in Game 4 to knot up ALCS",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T03:28:00+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "World Series game times announced",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T03:17:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Mets top-ranked prospect carries power surge into Winter League competition",
@@ -64,20 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T01:19:20+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Will extra rest help or hurt Brewers in World Series?",
-      "link": "https://www.mlb.com/news/impact-of-extra-rest-before-world-series",
-      "summary": "12 of the past 16 teams to clinch pennant first lost in World Series",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qpygdgbhpircwykahtxp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-18T00:49:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "D-backs prospect Patrick Forbes sweeping through the Fall League with new offering",
@@ -90,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-18T00:13:54+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "‘Like something out of a movie’: Cutch flashes back to 2013 Wild Card Game on 6-1-1 Podcast",
@@ -103,7 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-17T21:20:23+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     }
   ]
 }
