@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-10-17-daily-max",
+      "title": "Oct 17 Results + Oct 18 Preview: Perfect Day, Déjà Vu Tomorrow",
+      "author": "Max",
+      "author_emoji": "📰",
+      "author_color": "#16A34A",
+      "author_role": "Senior Reporter",
+      "date": "2026-10-17",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#16A34A",
+      "read_time": "3 min",
+      "summary": "We nailed the Rays pick yesterday at 54%. Tomorrow? Same matchup, tighter odds."
+    },
+    {
       "slug": "2026-10-16-daily-doc",
       "title": "Oct 17 Preview: When the Off Day Gives Us Time to Sharpen the Models",
       "author": "Doc",

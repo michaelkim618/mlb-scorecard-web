@@ -1,0 +1,99 @@
+{
+  "title": "Oct 17 Results + Oct 18 Preview: Perfect Day, Déjà Vu Tomorrow",
+  "summary": "We nailed the Rays pick yesterday at 54%. Tomorrow? Same matchup, tighter odds.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Another Day, Another Rays Win\n\nYou know, I've been covering this game long enough to remember when a 54% confidence pick felt like a coin flip. But the Rays came through yesterday against Cleveland, and honestly? It wasn't even that close. When Tampa Bay gets their pitching dialed in, they're a different animal—even on the road in October."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Oct 17 Record",
+          "value": "1-0"
+        },
+        {
+          "label": "Accuracy",
+          "value": "100.0%"
+        },
+        {
+          "label": "Picks Hit",
+          "value": "1/1"
+        }
+      ]
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Oct 17 Prediction Performance",
+      "data": [
+        {
+          "name": "Rays @ Guardians",
+          "probability": 54,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes)"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Oct 17 Full Results Breakdown",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Rays @ Guardians",
+          "Rays",
+          "54%",
+          "✓ Hit"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Numbers Don't Lie (But They Do Whisper)\n\nA perfect day is a perfect day, no matter how you slice it. The model locked in on Tampa Bay with 54% confidence, and they delivered. I've seen playoff series turn on less. The Guardians have been scrappy all year, but when you're facing a Rays team that's found its rhythm, scrappy only gets you so far."
+    },
+    {
+      "type": "text",
+      "value": "## Oct 18 Preview: Here We Go Again\n\nNow here's where it gets interesting. Same two teams. Same venue. But the model's coming in at exactly 50% for the Rays tomorrow. Drew Rasmussen gets the ball for Tampa Bay—a guy I've watched grind through some tough October innings. Cleveland counters with Parker Messick, and if you've been paying attention, you know this kid's got some serious stuff.\n\nA 50% pick is basically the model shrugging its shoulders and saying 'your guess is as good as mine.' But I've been around long enough to know that momentum matters, especially in a series like this. The Rays just took Game 1, they've got the veteran arm on the mound, and Cleveland's going to be feeling the pressure to even things up at home."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Tomorrow's Top Pick - Oct 18",
+      "value": "Tampa Bay Rays @ Cleveland Guardians",
+      "sub": "Pick: Rays (50%) · Rasmussen vs Messick · First pitch TBD"
+    },
+    {
+      "type": "text",
+      "value": "## The Veteran's Take\n\nLook, a 50-50 split is as honest as it gets. The model isn't going to manufacture confidence where there isn't any, and I respect that. But if you're asking me—and you kind of are by reading this—I'd lean toward experience here. Rasmussen in October is a different pitcher than Rasmussen in July. He knows what's at stake.\n\nMessick's got talent, no question. But this is his first real taste of postseason pressure at this level, and Progressive Field is going to be electric. Sometimes that energy lifts you. Sometimes it crushes you. We'll find out which tomorrow.\n\nStay sharp out there. October baseball doesn't give you mulligans."
+    }
+  ],
+  "slug": "2026-10-17-daily-max",
+  "author": "Max",
+  "author_emoji": "📰",
+  "author_role": "Senior Reporter",
+  "author_color": "#16A34A",
+  "date": "2026-10-17",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#16A34A"
+}
