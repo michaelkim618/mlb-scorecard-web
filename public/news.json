@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T07:02:15.155484+00:00",
+  "updated_at": "2026-10-18T07:20:53.514440+00:00",
   "news": [
     {
       "title": "Rays slip past Guards in Game 4 to knot up ALCS",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T06:55:00+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "25m ago"
     },
     {
       "title": "Here's where Rays, Guards stand as ALCS resets after Game 4",
@@ -25,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T06:49:15+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "31m ago"
     },
     {
       "title": "With ALCS evened, Guardians look to flush Game 4 and hand ball to Messick",
@@ -38,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T06:35:00+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "Rays-Guardians ALCS Game 5 (5 ET on TBS/HBO Max)",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T06:30:12+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "'Just a reliever'? Peralta's two huge outs help Rays even ALCS",
@@ -64,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T06:30:00+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "'Three Little Ones' come up big for Rays on this night",
@@ -103,7 +103,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-18T05:20:32+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
