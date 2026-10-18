@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-18T21:37:34.258466+00:00",
+  "updated_at": "2026-10-18T22:20:47.699047+00:00",
   "news": [
     {
-      "title": "LIVE on TBS/HBO Max: Rays-Guardians ALCS Game 5",
-      "link": "https://www.mlb.com/news/rays-vs-guardians-alcs-game-5-starting-lineups-and-pitching-matchup",
+      "title": "LIVE: Rays get off to hot start in Game 5 (TBS/HBO Max)",
+      "link": "https://www.mlb.com/stories/game/849817",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rrqng9wna6nv1uvoax2x",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/by9fikmucev3dlg1vb6a",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
+      "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-18T21:00:00+00:00",
-      "time_ago": "37m ago"
+      "pub_date": "2026-10-18T22:04:43+00:00",
+      "time_ago": "16m ago"
     },
     {
       "title": "World Series game times announced",
@@ -25,19 +25,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T20:42:00+00:00",
-      "time_ago": "55m ago"
-    },
-    {
-      "title": "Guardians pair Messick with Bailey to keep catcher's hot bat in Game 5 lineup",
-      "link": "https://www.mlb.com/news/patrick-bailey-parker-messick-guardians-lineup-game-5-2026-alcs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g0hwniojys63jlsgli62",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-18T20:26:14+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -64,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T06:55:00+00:00",
-      "time_ago": "14h ago"
+      "time_ago": "15h ago"
     },
     {
       "title": "Here's where Rays, Guards stand as ALCS resets after Game 4",
@@ -77,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T06:49:15+00:00",
-      "time_ago": "14h ago"
+      "time_ago": "15h ago"
     },
     {
       "title": "'Just a reliever'? Peralta's two huge outs help Rays even ALCS",
@@ -103,6 +90,19 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-18T05:36:00+00:00",
+      "time_ago": "16h ago"
+    },
+    {
+      "title": "Guardians just one part of huge weekend for Ohio sports",
+      "link": "https://www.mlb.com/news/guardians-browns-and-buckeyes-all-play-in-big-ohio-sports-weekend",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mwywuxjmchchlkeuthrc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-18T05:35:12+00:00",
       "time_ago": "16h ago"
     }
   ]

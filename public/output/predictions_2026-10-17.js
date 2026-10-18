@@ -225,17 +225,6 @@ window.PREDICTIONS_DATA = [
     },
     "home_pitcher_gamelog": [
       {
-        "date": "2026-07-21",
-        "opp": "vs MIN",
-        "decision": null,
-        "ip": "0.2",
-        "er": 0,
-        "h": 2,
-        "bb": 0,
-        "so": 1,
-        "era": 0.0
-      },
-      {
         "date": "2026-07-24",
         "opp": "@ TB",
         "decision": null,
@@ -332,6 +321,17 @@ window.PREDICTIONS_DATA = [
         "h": 0,
         "bb": 0,
         "so": 1,
+        "era": 0.0
+      },
+      {
+        "date": "2026-10-18",
+        "opp": "vs TB",
+        "decision": null,
+        "ip": "1.0",
+        "er": 0,
+        "h": 1,
+        "bb": 0,
+        "so": 0,
         "era": 0.0
       }
     ],
@@ -546,11 +546,11 @@ window.PREDICTIONS_DATA = [
         "total": 53.7
       },
       "home": {
-        "sp_score": 22.0,
+        "sp_score": 21.6,
         "sp_detail": {
-          "era": 2.7,
-          "whip": 0.7,
-          "k9": 7.2,
+          "era": 2.61,
+          "whip": 0.58,
+          "k9": 6.1,
           "avg_ip": 1.0,
           "qs_rate": 0.0,
           "last3_era": 0.0,
@@ -713,14 +713,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 58.4,
-        "total": 54.4
+        "total": 54.3
       }
     },
     "scores": {
       "away_offense": 30.9,
       "away_defense": 61.9,
       "home_offense": 40.5,
-      "home_defense": 47.5
+      "home_defense": 47.2
     },
     "actual_score": {
       "away": 7,
@@ -737,16 +737,16 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Tampa Bay Rays",
     "model_correct": true,
     "notes": "Tampa Bay Rays IL: Edwin Uceta, Gavin Lux, Jacob Melton, Jonathan Heasley, Ryan Pepiot",
-    "kalshi_prob": 21.0,
-    "edge": 29.0,
+    "kalshi_prob": 14.0,
+    "edge": 36.0,
     "value_bet": "⏭️ 패스 (박빙 경기 — 예측 신뢰도 낮음)",
-    "extreme_edge": false,
+    "extreme_edge": true,
     "consensus": false,
     "sp_bat_conflict": true,
     "sp_bat_conflict_detail": {
       "sp_favors": "Tampa Bay Rays",
       "bat_favors": "Cleveland Guardians",
-      "sp_gap": 26.8,
+      "sp_gap": 27.2,
       "bat_gap": -9.6
     },
     "low_confidence": true,
