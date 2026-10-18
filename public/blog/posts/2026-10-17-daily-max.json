@@ -1,17 +1,17 @@
 {
-  "title": "Oct 17 Results + Oct 18 Preview: Perfect Day, Déjà Vu Tomorrow",
-  "summary": "We nailed the Rays pick yesterday at 54%. Tomorrow? Same matchup, tighter odds.",
+  "title": "Oct 17 Results + Oct 18 Preview: When Simple Works Just Fine",
+  "summary": "Perfect 1-0 on Oct 17. Rays did what we expected. Same matchup brewing for Oct 18.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Another Day, Another Rays Win\n\nYou know, I've been covering this game long enough to remember when a 54% confidence pick felt like a coin flip. But the Rays came through yesterday against Cleveland, and honestly? It wasn't even that close. When Tampa Bay gets their pitching dialed in, they're a different animal—even on the road in October."
+      "value": "## A Clean Sweep on Friday\n\nYou know, after covering this game for as long as I have, the perfect days almost feel suspicious. But I'll take them. We went 1-for-1 on October 17th, and the Rays-Guardians matchup played out exactly how the model suggested it would. Sometimes baseball is refreshingly predictable."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Oct 17 Record",
+          "label": "Oct 17 W-L",
           "value": "1-0"
         },
         {
@@ -19,15 +19,19 @@
           "value": "100.0%"
         },
         {
-          "label": "Picks Hit",
-          "value": "1/1"
+          "label": "Confidence",
+          "value": "54%"
         }
       ]
     },
     {
+      "type": "text",
+      "value": "## The Rays Got It Done\n\nWe leaned Tampa Bay at 54% confidence against Cleveland, and they delivered. Not a nail-biter, not a controversy—just solid execution. Drew Rasmussen has been in these spots before, and it showed. I've seen enough October baseball to know that experience matters, even when the percentages are close to a coin flip."
+    },
+    {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Oct 17 Prediction Performance",
+      "title": "Oct 17 Prediction Results",
       "data": [
         {
           "name": "Rays @ Guardians",
@@ -51,11 +55,11 @@
     },
     {
       "type": "table",
-      "title": "Oct 17 Full Results Breakdown",
+      "title": "Oct 17 Full Results",
       "headers": [
-        "Matchup",
-        "Our Pick",
-        "Confidence",
+        "Game",
+        "Pick",
+        "Prob",
         "Result"
       ],
       "rows": [
@@ -63,28 +67,28 @@
           "Rays @ Guardians",
           "Rays",
           "54%",
-          "✓ Hit"
+          "✓"
         ]
       ]
     },
     {
       "type": "text",
-      "value": "## The Numbers Don't Lie (But They Do Whisper)\n\nA perfect day is a perfect day, no matter how you slice it. The model locked in on Tampa Bay with 54% confidence, and they delivered. I've seen playoff series turn on less. The Guardians have been scrappy all year, but when you're facing a Rays team that's found its rhythm, scrappy only gets you so far."
-    },
-    {
-      "type": "text",
-      "value": "## Oct 18 Preview: Here We Go Again\n\nNow here's where it gets interesting. Same two teams. Same venue. But the model's coming in at exactly 50% for the Rays tomorrow. Drew Rasmussen gets the ball for Tampa Bay—a guy I've watched grind through some tough October innings. Cleveland counters with Parker Messick, and if you've been paying attention, you know this kid's got some serious stuff.\n\nA 50% pick is basically the model shrugging its shoulders and saying 'your guess is as good as mine.' But I've been around long enough to know that momentum matters, especially in a series like this. The Rays just took Game 1, they've got the veteran arm on the mound, and Cleveland's going to be feeling the pressure to even things up at home."
+      "value": "## Tomorrow's Slate: Déjà Vu All Over Again\n\nHere's where it gets interesting. We've got the same matchup on October 18th—Rays traveling to Cleveland once more. But the model's confidence has actually dropped to 50%. Dead even. That tells me the pitching matchup and recent form have shifted just enough to make this a true toss-up.\n\nRasmussen gets the ball again for Tampa Bay, while Cleveland counters with Parker Messick. I remember when a 50% pick meant you just stayed away, but these days? Sometimes the model sees something in the margins that's worth exploring."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - Oct 18",
+      "title": "⭐ Oct 18 Top Pick",
       "value": "Tampa Bay Rays @ Cleveland Guardians",
-      "sub": "Pick: Rays (50%) · Rasmussen vs Messick · First pitch TBD"
+      "sub": "Pick: Rays 50% • Rasmussen vs Messick"
     },
     {
       "type": "text",
-      "value": "## The Veteran's Take\n\nLook, a 50-50 split is as honest as it gets. The model isn't going to manufacture confidence where there isn't any, and I respect that. But if you're asking me—and you kind of are by reading this—I'd lean toward experience here. Rasmussen in October is a different pitcher than Rasmussen in July. He knows what's at stake.\n\nMessick's got talent, no question. But this is his first real taste of postseason pressure at this level, and Progressive Field is going to be electric. Sometimes that energy lifts you. Sometimes it crushes you. We'll find out which tomorrow.\n\nStay sharp out there. October baseball doesn't give you mulligans."
+      "value": "## The Historical Angle\n\nBack-to-back games between the same teams always create fascinating dynamics. Cleveland will be looking to adjust after Friday's loss. The Guardians have a young, scrappy roster that doesn't stay down long. But Tampa Bay has that organizational discipline—they don't beat themselves, and they capitalize on mistakes.\n\nMessick is the wild card here. Less October experience than Rasmussen, but that can cut both ways. Sometimes the kid who doesn't know any better just goes out and deals."
+    },
+    {
+      "type": "text",
+      "value": "## The Bottom Line\n\nWe're riding a perfect record from Oct 17, but I'm not getting ahead of myself. Tomorrow's 50-50 pick on the Rays is more about value than certainty. When two evenly matched teams meet in October, I'll lean toward the one with the steadier hand—and right now, that's Tampa Bay.\n\nCheck back tomorrow to see if the rematch delivers the same result, or if Cleveland flips the script.\n\n— Max"
     }
   ],
   "slug": "2026-10-17-daily-max",
