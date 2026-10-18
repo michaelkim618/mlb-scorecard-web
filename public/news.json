@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-18T20:28:17.512935+00:00",
+  "updated_at": "2026-10-18T20:56:28.455697+00:00",
   "news": [
+    {
+      "title": "World Series game times announced",
+      "link": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792293620/mlb/q4ae0iojstppohv2dzkc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-18T20:42:00+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "Guardians pair Messick with Bailey to keep catcher's hot bat in Game 5 lineup",
+      "link": "https://www.mlb.com/news/patrick-bailey-parker-messick-guardians-lineup-game-5-2026-alcs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g0hwniojys63jlsgli62",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-18T20:26:14+00:00",
+      "time_ago": "30m ago"
+    },
     {
       "title": "'We did it': After 22-year journey, Attanasio brings World Series back to Milwaukee",
       "link": "https://www.mlb.com/news/brewers-owner-mark-attanasio-on-world-series-berth",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T06:55:00+00:00",
-      "time_ago": "13h ago"
+      "time_ago": "14h ago"
     },
     {
       "title": "Here's where Rays, Guards stand as ALCS resets after Game 4",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T06:49:15+00:00",
-      "time_ago": "13h ago"
+      "time_ago": "14h ago"
     },
     {
       "title": "With ALCS evened, Guardians look to flush Game 4 and hand ball to Messick",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T06:35:00+00:00",
-      "time_ago": "13h ago"
+      "time_ago": "14h ago"
     },
     {
       "title": "'Just a reliever'? Peralta's two huge outs help Rays even ALCS",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T06:30:00+00:00",
-      "time_ago": "13h ago"
-    },
-    {
-      "title": "'Three Little Ones' come up big for Rays on this night",
-      "link": "https://www.mlb.com/news/junior-caminero-yandy-diaz-jonathan-aranda-lead-rays-in-2026-alcs-game-4",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/adgfy8lpp1wtzldojbst",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-18T05:36:00+00:00",
-      "time_ago": "14h ago"
-    },
-    {
-      "title": "Guardians just one part of huge weekend for Ohio sports",
-      "link": "https://www.mlb.com/news/guardians-browns-and-buckeyes-all-play-in-big-ohio-sports-weekend",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mwywuxjmchchlkeuthrc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-18T05:35:12+00:00",
       "time_ago": "14h ago"
     }
   ]
