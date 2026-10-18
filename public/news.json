@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-18T22:41:11.988113+00:00",
+  "updated_at": "2026-10-18T23:24:31.423124+00:00",
   "news": [
+    {
+      "title": "Arizona Fall League Week 2 top performers",
+      "link": "https://www.mlb.com/news/arizona-fall-league-top-performers-week-2-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ufygxkhpijk3vbov9xsq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ben Weinrib",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-18T23:00:00+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "Messick struggles with command as Game 5 becomes shortest start of career",
+      "link": "https://www.mlb.com/news/parker-messick-two-innings-guardians-game-5-alcs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zksmn0pkvygdw3nk8rvq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-18T22:37:24+00:00",
+      "time_ago": "47m ago"
+    },
     {
       "title": "LIVE: Rays get off to hot start in Game 5 (TBS/HBO Max)",
       "link": "https://www.mlb.com/stories/game/849817",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T22:04:43+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "World Series game times announced",
@@ -25,13 +51,13 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T20:42:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "'We did it': After 22-year journey, Attanasio brings World Series back to Milwaukee",
       "link": "https://www.mlb.com/news/brewers-owner-mark-attanasio-on-world-series-berth",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xu1l6voombzxel3mqhko",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tpsch5asxtxvytxk9ys2",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Adam McCalvy",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T04:03:00+00:00",
-      "time_ago": "18h ago"
-    },
-    {
-      "title": "Mets top-ranked prospect carries power surge into Winter League competition",
-      "link": "https://www.mlb.com/news/mets-prospect-jefferson-rojas-homers-twice-in-winter-league",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cmb8wiewfmacl0j4cuie",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Rob Terranova",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-18T01:19:20+00:00",
-      "time_ago": "21h ago"
-    },
-    {
-      "title": "D-backs prospect Forbes sweeping through the Fall League with new offering",
-      "link": "https://www.mlb.com/news/d-backs-prospect-patrick-forbes-adding-sweeper-in-fall-league",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/q7kt9udocdkzvijhcb59",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sam Dykstra",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-18T00:13:54+00:00",
-      "time_ago": "22h ago"
+      "time_ago": "19h ago"
     }
   ]
 }
