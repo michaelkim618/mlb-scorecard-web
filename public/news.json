@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-18T20:56:28.455697+00:00",
+  "updated_at": "2026-10-18T21:21:54.247683+00:00",
   "news": [
+    {
+      "title": "LIVE on TBS/HBO Max: Rays-Guardians ALCS Game 5",
+      "link": "https://www.mlb.com/news/rays-vs-guardians-alcs-game-5-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rrqng9wna6nv1uvoax2x",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-18T21:00:00+00:00",
+      "time_ago": "21m ago"
+    },
     {
       "title": "World Series game times announced",
       "link": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T20:42:00+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "39m ago"
     },
     {
       "title": "Guardians pair Messick with Bailey to keep catcher's hot bat in Game 5 lineup",
@@ -25,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-18T20:26:14+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "'We did it': After 22-year journey, Attanasio brings World Series back to Milwaukee",
@@ -39,19 +52,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T19:26:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Rays-Guardians ALCS Game 5 lineups, FAQ (5 ET on TBS/HBO Max)",
-      "link": "https://www.mlb.com/news/rays-vs-guardians-alcs-game-5-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rrqng9wna6nv1uvoax2x",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-18T18:05:00+00:00",
-      "time_ago": "2h ago"
     },
     {
       "title": "Rays slip past Guards in Game 4 to knot up ALCS",
@@ -80,19 +80,6 @@
       "time_ago": "14h ago"
     },
     {
-      "title": "With ALCS evened, Guardians look to flush Game 4 and hand ball to Messick",
-      "link": "https://www.mlb.com/news/guardians-lose-game-4-2026-alcs-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bkieuszhwmh7migbjxox",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-18T06:35:00+00:00",
-      "time_ago": "14h ago"
-    },
-    {
       "title": "'Just a reliever'? Peralta's two huge outs help Rays even ALCS",
       "link": "https://www.mlb.com/news/freddy-peralta-relief-appearance-rays-alcs-game-4-2026",
       "summary": "",
@@ -104,6 +91,19 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T06:30:00+00:00",
       "time_ago": "14h ago"
+    },
+    {
+      "title": "'Three Little Ones' come up big for Rays on this night",
+      "link": "https://www.mlb.com/news/junior-caminero-yandy-diaz-jonathan-aranda-lead-rays-in-2026-alcs-game-4",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/adgfy8lpp1wtzldojbst",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-18T05:36:00+00:00",
+      "time_ago": "15h ago"
     }
   ]
 }
