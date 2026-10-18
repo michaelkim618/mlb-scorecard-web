@@ -463,7 +463,7 @@ window.PREDICTIONS_DATA = [
             "Yandy Díaz(0.628)",
             "Jonathan Aranda(0.732)",
             "Junior Caminero(0.800)",
-            "Victor Mesa(0.791)",
+            "Victor Mesa Jr.(0.791)",
             "Chandler Simpson(0.704)",
             "Liam Hicks(0.743)",
             "Jonny DeLuca(0.807)",
@@ -491,7 +491,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 683748,
-              "name": "Victor Mesa",
+              "name": "Victor Mesa Jr.",
               "ops": 0.791,
               "avg": 0.273
             },
