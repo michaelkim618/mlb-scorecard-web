@@ -18313,6 +18313,30 @@
       "away_bp_score": 73.9,
       "home_bp_score": 72.9,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-10-18",
+      "away": "Tampa Bay Rays",
+      "home": "Cleveland Guardians",
+      "game_number": 1,
+      "pick": "Tampa Bay Rays",
+      "pick_prob": 51.3,
+      "actual_winner": "Tampa Bay Rays",
+      "away_score": 3,
+      "home_score": 1,
+      "correct": true,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "stable",
+      "away_sp_era": 1.98,
+      "home_sp_era": 3.2,
+      "away_bp_era": 2.55,
+      "home_bp_era": 3.08,
+      "away_sp_score": 70.9,
+      "home_sp_score": 48.0,
+      "away_bp_score": 73.9,
+      "home_bp_score": 72.9,
+      "bat_source": "prev_day"
     }
   ]
 }
