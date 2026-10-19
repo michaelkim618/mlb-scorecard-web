@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-19T14:18:19.586590+00:00",
+  "updated_at": "2026-10-19T14:47:52.977103+00:00",
   "news": [
+    {
+      "title": "What Mariners players want to see in their next manager",
+      "link": "https://www.mlb.com/news/mariners-discuss-ideal-qualities-2027-manager",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jnovt91bcvyulxzpqvhb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-19T14:29:24+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "NPB MVP, Triple Crown winner Sato to enter MLB posting system",
+      "link": "https://www.mlb.com/news/teruaki-sato-mlb-posting-system",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/l0vqhrgnqdggr1qib0yj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-10-19T14:17:33+00:00",
+      "time_ago": "30m ago"
+    },
     {
       "title": "What Mets learned from Peralta's disappointing tenure -- and his rebound with Rays",
       "link": "https://www.mlb.com/news/what-went-wrong-during-freddy-peralta-s-mets-tenure",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-19T13:58:00+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "Why Ashby's run as Brewers' fireman is reaching historic heights",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-19T13:48:39+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "Is a reunion in store for Bieber and Blue Jays this offseason?",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-19T02:28:36+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "12h ago"
     },
     {
       "title": "Rasmussen puts Rays on his back again to build on historic postseason",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-19T02:27:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Guardians facing elimination, and they'll need a revised pitching plan to avoid it",
-      "link": "https://www.mlb.com/news/parker-messick-two-innings-guardians-game-5-alcs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zksmn0pkvygdw3nk8rvq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-19T02:24:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Rays' ruthless efficiency powering postseason run -- and perhaps AL pennant",
-      "link": "https://www.mlb.com/news/rays-all-around-efficiency-powering-postseason-run",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792376644/mlb/fsrlvfljr3byomgrmwer",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-19T02:23:41+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "12h ago"
     }
   ]
 }

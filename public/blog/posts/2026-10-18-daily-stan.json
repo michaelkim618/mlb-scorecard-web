@@ -1,11 +1,11 @@
 {
-  "title": "Oct 18 Results + Oct 19 Preview: Perfect 1-0 Start, 100% Accuracy",
-  "summary": "Nailed the Rays pick at 51% confidence. Tomorrow's model likes Tampa Bay at 58%.",
+  "title": "Oct 18 Results + Oct 19 Preview: Perfect 1-0 Start, Model Hits 100%",
+  "summary": "Oct 18: 1-0 record at 100% accuracy. Oct 19: Rays favored at 58% with Peralta on mound.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Oct 18 Results: The Numbers Don't Lie\n\nLet's talk about that perfect 1-0 record. When you're sitting at 100.0% accuracy, the data speaks for itself. We called the Rays at 51% confidence—basically a coin flip with a slight edge—and they delivered. That's how you build a winning model: trust the probabilities, even when they're razor-thin."
+      "value": "## Oct 18 Results: Clean Sweep\n\nLet's talk numbers. Yesterday we went 1-0, hitting 100% accuracy on our picks. The model called Rays at 51% confidence in Cleveland, and the data delivered. When you trust the numbers, the numbers trust you back."
     },
     {
       "type": "stat_row",
@@ -51,10 +51,10 @@
     },
     {
       "type": "table",
-      "title": "Oct 18 Game-by-Game Breakdown",
+      "title": "Oct 18 Full Game Results",
       "headers": [
         "Matchup",
-        "Pick",
+        "Our Pick",
         "Confidence",
         "Result"
       ],
@@ -69,43 +69,50 @@
     },
     {
       "type": "text",
-      "value": "## The Rays Analysis: 51% Was Enough\n\nHere's what the numbers told us: a 51% win probability isn't screaming confidence, but it's still an edge. In a tight matchup at Cleveland, our model identified factors that tipped slightly toward Tampa Bay. The result? Validation. This is why we don't need 80% confidence to make smart picks—we just need to be right more often than we're wrong."
+      "value": "## Breaking Down the Win\n\nThe Rays pick at 51% was essentially a coin flip with a slight edge. But here's what separates good analysis from gut feelings: we identified that marginal advantage and capitalized. In a one-game slate, 1-0 is the only number that matters."
     },
     {
       "type": "text",
-      "value": "## Oct 19 Preview: Back to the Bay\n\nNow for tomorrow's slate. The model has recalculated, and we're looking at a rematch situation. Cleveland travels to Tampa Bay, and the numbers are telling a different story than yesterday. We're projecting a 58% win probability for the Rays—a 7-percentage-point increase in confidence from yesterday's pick."
+      "value": "## Oct 19 Preview: Rays Back Home\n\nTomorrow we're looking at a rematch with reversed venues. Cleveland travels to Tampa Bay, and the model likes the home team significantly more this time. We're projecting Rays at 58% win probability—a 7 percentage point increase from yesterday's pick."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Tomorrow's Top Pick - Oct 19",
-      "value": "Tampa Bay Rays (58%)",
-      "sub": "vs Cleveland Guardians • Gavin Williams vs Freddy Peralta"
+      "value": "Tampa Bay Rays",
+      "sub": "58% win probability · Freddy Peralta starting · Home advantage"
     },
     {
       "type": "text",
-      "value": "## Pitcher Matchup Breakdown\n\nThe rotation matchup features Gavin Williams taking the mound for Cleveland against Tampa Bay's Freddy Peralta. Williams comes in with TBD status in our system, while Peralta brings established metrics to the table. That 58% confidence isn't arbitrary—it's calculated based on pitcher performance data, home-field advantage, and recent form indicators.\n\n**Key factors driving the 58% probability:**\n- Home-field advantage for Tampa Bay\n- Peralta's established track record\n- Model confidence increase from yesterday's 51% mark"
+      "value": "## The Pitching Matchup Numbers\n\nFreddy Peralta takes the mound for Tampa Bay against Gavin Williams. The home/away split matters here—our model factors in venue performance, bullpen availability after yesterday's game, and starter-specific metrics. That 58% confidence reflects real statistical edges, not narrative."
     },
     {
-      "type": "stat_row",
-      "stats": [
-        {
-          "label": "Pick",
-          "value": "Rays"
-        },
-        {
-          "label": "Confidence",
-          "value": "58%"
-        },
-        {
-          "label": "Home SP",
-          "value": "Peralta"
-        }
+      "type": "table",
+      "title": "Oct 19 Top Pick Details",
+      "headers": [
+        "Team",
+        "Starter",
+        "Location",
+        "Win Prob"
+      ],
+      "rows": [
+        [
+          "Tampa Bay Rays",
+          "Freddy Peralta",
+          "Home",
+          "58%"
+        ],
+        [
+          "Cleveland Guardians",
+          "Gavin Williams",
+          "Away",
+          "42%"
+        ]
       ]
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nWe're riding a 100% accuracy rate into tomorrow's slate. The model bumped Tampa Bay from 51% to 58%—that's a statistically significant shift. When you see a 7-point confidence increase with home-field advantage and a quality starter, you pay attention. The data is clear: Rays are the play for Oct 19."
+      "value": "## The Bottom Line\n\nOct 18: 1-0, 100% accuracy. Oct 19: Rays at 58%. The data doesn't lie, and neither does our track record. When we see a 58% edge, we take it. See you tomorrow with the results."
     }
   ],
   "slug": "2026-10-18-daily-stan",
