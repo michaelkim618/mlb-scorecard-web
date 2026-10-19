@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-18T23:48:02.002296+00:00",
+  "updated_at": "2026-10-19T00:18:00.829745+00:00",
   "news": [
     {
-      "title": "Arizona Fall League Week 2 top performers",
-      "link": "https://www.mlb.com/news/arizona-fall-league-top-performers-week-2-2026",
+      "title": "Rasmussen adds to historic postseason as Rays go home with ALCS lead",
+      "link": "https://www.mlb.com/news/drew-rasmussen-dominates-as-rays-win-game-5-of-2026-alcs",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ufygxkhpijk3vbov9xsq",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792366835/mlb/znv29kq43rboxzuhwl9p",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Ben Weinrib",
+      "author": "Adam Berry",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-18T23:00:00+00:00",
-      "time_ago": "48m ago"
+      "pub_date": "2026-10-19T00:08:36+00:00",
+      "time_ago": "9m ago"
     },
     {
       "title": "Messick struggles with command as Game 5 becomes shortest start of career",
@@ -24,34 +24,47 @@
       "author": "Tim Stebbins",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-18T22:37:24+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-10-19T00:06:00+00:00",
+      "time_ago": "12m ago"
     },
     {
-      "title": "LIVE: Rays get off to hot start in Game 5 (TBS/HBO Max)",
-      "link": "https://www.mlb.com/stories/game/849817",
+      "title": "Behind Rasmussen gem, rejuvenated Rays return home 1 win from World Series",
+      "link": "https://www.mlb.com/news/rays-win-alcs-game-5-2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/by9fikmucev3dlg1vb6a",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ojvph8komebaanpss1my",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "",
+      "author": "Keegan Matheson",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-18T22:04:43+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-10-19T00:00:32+00:00",
+      "time_ago": "17m ago"
     },
     {
       "title": "World Series game times announced",
       "link": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792293620/mlb/q4ae0iojstppohv2dzkc",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792367966/mlb/q4ae0iojstppohv2dzkc",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-18T20:42:00+00:00",
-      "time_ago": "3h ago"
+      "pub_date": "2026-10-18T23:58:00+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "Arizona Fall League Week 2 top performers",
+      "link": "https://www.mlb.com/news/arizona-fall-league-top-performers-week-2-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ufygxkhpijk3vbov9xsq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ben Weinrib",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-18T23:00:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "'We did it': After 22-year journey, Attanasio brings World Series back to Milwaukee",
@@ -91,19 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T05:35:12+00:00",
       "time_ago": "18h ago"
-    },
-    {
-      "title": "Will extra rest help or hurt Brewers in World Series?",
-      "link": "https://www.mlb.com/news/impact-of-extra-rest-before-world-series",
-      "summary": "12 of the past 16 teams to clinch pennant first lost in World Series",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qpygdgbhpircwykahtxp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-18T04:03:00+00:00",
-      "time_ago": "19h ago"
     }
   ]
 }
