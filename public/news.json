@@ -1,11 +1,24 @@
 {
-  "updated_at": "2026-10-19T22:32:02.312086+00:00",
+  "updated_at": "2026-10-19T22:51:00.898402+00:00",
   "news": [
+    {
+      "title": "Boone to return as Yankees manager in '27, final year of his contract (source)",
+      "link": "https://www.mlb.com/news/aaron-boone-return-yankees-manager-2027",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jzco7olwe0ihqzxt0mqn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brent Maguire",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-19T22:27:09+00:00",
+      "time_ago": "23m ago"
+    },
     {
       "title": "Guardians-Rays ALCS Game 6 lineups, FAQ (8 ET on TBS/HBO Max)",
       "link": "https://www.mlb.com/news/guardians-vs-rays-alcs-game-6-starting-lineups-pitching-matchup",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wu42v3wqf6s9259fxon5",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792447543/mlb/wu42v3wqf6s9259fxon5",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-19T17:35:00+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "O's tab longtime exec Jared Banner as new general manager",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-19T14:46:00+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "Tigers' offseason starts with key decision on Jansen's option",
-      "link": "https://www.mlb.com/news/tigers-club-option-for-veteran-closer-kenley-jansen-2027",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/orxd3qcpzpg98llteamy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Beck",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-19T14:45:09+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "8h ago"
     }
   ]
 }
