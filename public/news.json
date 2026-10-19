@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-19T00:18:00.829745+00:00",
+  "updated_at": "2026-10-19T00:41:17.239939+00:00",
   "news": [
+    {
+      "title": "Behind Rasmussen gem, rejuvenated Rays return home 1 win from World Series",
+      "link": "https://www.mlb.com/news/rays-win-alcs-game-5-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ojvph8komebaanpss1my",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-19T00:22:00+00:00",
+      "time_ago": "19m ago"
+    },
     {
       "title": "Rasmussen adds to historic postseason as Rays go home with ALCS lead",
       "link": "https://www.mlb.com/news/drew-rasmussen-dominates-as-rays-win-game-5-of-2026-alcs",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-19T00:08:36+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "32m ago"
     },
     {
       "title": "Messick struggles with command as Game 5 becomes shortest start of career",
@@ -25,20 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-19T00:06:00+00:00",
-      "time_ago": "12m ago"
-    },
-    {
-      "title": "Behind Rasmussen gem, rejuvenated Rays return home 1 win from World Series",
-      "link": "https://www.mlb.com/news/rays-win-alcs-game-5-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ojvph8komebaanpss1my",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-19T00:00:32+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "35m ago"
     },
     {
       "title": "World Series game times announced",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T23:58:00+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Arizona Fall League Week 2 top performers",
@@ -77,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T19:26:00+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Why Pratt's dream postseason run has been more than 'frickin' fun'",
@@ -90,20 +90,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-18T13:31:42+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
-      "title": "Guardians just one part of huge weekend for Ohio sports",
-      "link": "https://www.mlb.com/news/guardians-browns-and-buckeyes-all-play-in-big-ohio-sports-weekend",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mwywuxjmchchlkeuthrc",
+      "title": "Will extra rest help or hurt Brewers in World Series?",
+      "link": "https://www.mlb.com/news/impact-of-extra-rest-before-world-series",
+      "summary": "12 of the past 16 teams to clinch pennant first lost in World Series",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qpygdgbhpircwykahtxp",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Aiden Stepansky",
+      "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-18T05:35:12+00:00",
-      "time_ago": "18h ago"
+      "pub_date": "2026-10-18T04:03:00+00:00",
+      "time_ago": "20h ago"
     }
   ]
 }
