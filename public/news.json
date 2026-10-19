@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-19T23:30:36.414018+00:00",
+  "updated_at": "2026-10-19T23:53:34.243618+00:00",
   "news": [
+    {
+      "title": "LIVE: Guardians-Rays ALCS Game 6 on TBS/HBO Max",
+      "link": "https://www.mlb.com/news/guardians-vs-rays-alcs-game-6-starting-lineups-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792447543/mlb/wu42v3wqf6s9259fxon5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-19T23:38:00+00:00",
+      "time_ago": "15m ago"
+    },
     {
       "title": "Boone to return as Yankees manager in '27, final year of his contract (source)",
       "link": "https://www.mlb.com/news/aaron-boone-return-yankees-manager-2027",
@@ -13,19 +26,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-19T22:27:09+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Guardians-Rays ALCS Game 6 lineups, FAQ (8 ET on TBS/HBO Max)",
-      "link": "https://www.mlb.com/news/guardians-vs-rays-alcs-game-6-starting-lineups-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792447543/mlb/wu42v3wqf6s9259fxon5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-19T20:22:00+00:00",
-      "time_ago": "3h ago"
     },
     {
       "title": "What Dodgers can learn from Ohtani's injury-plagued 2026",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-19T17:35:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "O's tab longtime exec Jared Banner as new general manager",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-19T14:46:00+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     }
   ]
 }
