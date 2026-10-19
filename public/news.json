@@ -1,18 +1,31 @@
 {
-  "updated_at": "2026-10-19T13:46:43.415273+00:00",
+  "updated_at": "2026-10-19T14:10:31.537586+00:00",
   "news": [
     {
-      "title": "Catching up with Rangers prospects making noise in Arizona Fall League",
-      "link": "https://www.mlb.com/news/sebastian-walcott-jacob-johnson-and-rangers-prospects-playing-in-afl",
+      "title": "What Mets learned from Peralta's disappointing tenure -- and his rebound with Rays",
+      "link": "https://www.mlb.com/news/what-went-wrong-during-freddy-peralta-s-mets-tenure",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792362720/mlb/p4ahdtlvukkhs7hwu01j",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/geywwmhend0yyrxbm9vb",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Kennedi Landry",
+      "author": "Anthony DiComo",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-19T13:23:56+00:00",
-      "time_ago": "22m ago"
+      "pub_date": "2026-10-19T13:58:00+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Why Ashby's run as Brewers' fireman is reaching historic heights",
+      "link": "https://www.mlb.com/news/brewers-aaron-ashby-having-dominant-postseason",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mdwrytzkpzdikbapjbse",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-19T13:48:39+00:00",
+      "time_ago": "21m ago"
     },
     {
       "title": "Is a reunion in store for Bieber and Blue Jays this offseason?",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-19T13:17:02+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "Winning formula in Game 5? 'Rays baseball at its finest'",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-19T02:54:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "3 storylines to watch as Guards-Rays clash in ALCS Game 6",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-19T02:23:41+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Yandy declares the ALCS over: 'We're going to win tomorrow'",
-      "link": "https://www.mlb.com/news/yandy-diaz-declares-rays-will-win-game-6-of-2026-alcs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792370385/mlb/mb13sghkmpfkak7ifkge",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-19T02:17:00+00:00",
       "time_ago": "11h ago"
     }
   ]
