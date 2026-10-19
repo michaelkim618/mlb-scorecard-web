@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-10-18-daily-stan",
+      "title": "Oct 18 Results + Oct 19 Preview: Perfect 1-0 Start, 100% Accuracy",
+      "author": "Stan",
+      "author_emoji": "📊",
+      "author_color": "#0EA5E9",
+      "author_role": "Data Analyst",
+      "date": "2026-10-18",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#0EA5E9",
+      "read_time": "3 min",
+      "summary": "Oct 18: 1-0 record at 100% accuracy. Oct 19: Rays favored at 58% with Peralta on mound."
+    },
+    {
       "slug": "2026-10-17-daily-max",
       "title": "Oct 17 Results + Oct 18 Preview: Perfect Night, Same Matchup Tomorrow",
       "author": "Max",

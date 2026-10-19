@@ -1,0 +1,120 @@
+{
+  "title": "Oct 18 Results + Oct 19 Preview: Perfect 1-0 Start, 100% Accuracy",
+  "summary": "Oct 18: 1-0 record at 100% accuracy. Oct 19: Rays favored at 58% with Peralta on mound.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Oct 18 Results: Perfect Execution\n\nLet's talk numbers. Yesterday's model delivered exactly what we built it for: a clean 1-0 record with 100.0% accuracy. The Rays at Guardians pick hit at 51% confidence—a tight margin that paid off. When you're dealing with near coin-flip probabilities, one win feels like three."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Oct 18 W-L",
+          "value": "1-0"
+        },
+        {
+          "label": "Accuracy",
+          "value": "100.0%"
+        },
+        {
+          "label": "Games Analyzed",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Oct 18 Full Results Breakdown",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Rays @ Guardians",
+          "Rays",
+          "51%",
+          "✓ Hit"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The 51% Win: Risk Assessment\n\nA 51% confidence pick is essentially a statistical toss-up with a slight edge. The model identified marginal advantages in the Rays' favor—likely bullpen depth, recent form metrics, or platoon splits. These razor-thin edges separate long-term winners from break-even bettors. We trust the process, not gut feelings."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Oct 18 Prediction Confidence vs Outcome",
+      "data": [
+        {
+          "name": "Rays",
+          "probability": 51,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Oct 19 Preview: Rays at 58% Confidence\n\nTomorrow's slate brings us a rematch: Guardians traveling to Tampa Bay. The model likes the Rays at 58%—a significantly stronger signal than yesterday's 51%. Key factors: home field advantage reversal and Freddy Peralta taking the mound for Tampa Bay."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Oct 19 Top Pick",
+      "value": "Tampa Bay Rays (58%)",
+      "sub": "vs Guardians · Freddy Peralta pitching · Home advantage"
+    },
+    {
+      "type": "text",
+      "value": "## Pitcher Matchup Analysis\n\n**Freddy Peralta (Rays)** brings elite strikeout upside—historically in the 11+ K/9 range when sharp. His fastball-curveball combination creates swing-and-miss opportunities.\n\n**Gavin Williams (Guardians)** shows TBD status, which adds uncertainty to Cleveland's pitching edge. When starter status is unclear, the model weights bullpen exposure more heavily—advantage Tampa Bay.\n\nThe 58% confidence reflects not just Peralta's presence, but also the Guardians' rotation ambiguity and Tampa Bay's home splits."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Pick",
+          "value": "Rays"
+        },
+        {
+          "label": "Confidence",
+          "value": "58%"
+        },
+        {
+          "label": "Edge",
+          "value": "+8% vs 50/50"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Numbers Don't Lie\n\nFrom 51% yesterday to 58% tomorrow—that seven-point jump represents meaningful signal in our model. We're not chasing huge favorites; we're identifying value where the market might be underpricing team strength. Two-game sample size means nothing yet, but the process is sound.\n\nLet's see if we can push to 2-0."
+    }
+  ],
+  "slug": "2026-10-18-daily-stan",
+  "author": "Stan",
+  "author_emoji": "📊",
+  "author_role": "Data Analyst",
+  "author_color": "#0EA5E9",
+  "date": "2026-10-18",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#0EA5E9"
+}
