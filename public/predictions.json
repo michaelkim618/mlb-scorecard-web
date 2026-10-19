@@ -96,96 +96,96 @@
       "losses": 2,
       "streak": 2
     },
-    "away_pitcher": "Gavin Williams (TBD)",
-    "away_pitcher_id": 668909,
+    "away_pitcher": "Shawn Armstrong",
+    "away_pitcher_id": 542888,
     "away_pitcher_stats": {
-      "wins": 14,
-      "losses": 8,
-      "era": "3.76"
+      "wins": 2,
+      "losses": 1,
+      "era": "4.58"
     },
     "away_pitcher_gamelog": [
       {
-        "date": "2026-08-25",
-        "opp": "@ LAA",
+        "date": "2026-07-24",
+        "opp": "@ TB",
         "decision": null,
-        "ip": "1.1",
-        "er": 5,
-        "h": 6,
-        "bb": 1,
-        "so": 3,
-        "era": 33.75
+        "ip": "0.2",
+        "er": 3,
+        "h": 1,
+        "bb": 2,
+        "so": 0,
+        "era": 40.5
       },
       {
-        "date": "2026-09-01",
-        "opp": "vs TOR",
-        "decision": "W",
-        "ip": "7.0",
-        "er": 0,
-        "h": 2,
-        "bb": 1,
-        "so": 13,
-        "era": 0.0
-      },
-      {
-        "date": "2026-09-06",
-        "opp": "vs DET",
+        "date": "2026-09-23",
+        "opp": "@ BOS",
         "decision": null,
-        "ip": "6.0",
-        "er": 2,
-        "h": 4,
-        "bb": 3,
-        "so": 11,
-        "era": 3.0
-      },
-      {
-        "date": "2026-09-14",
-        "opp": "vs CWS",
-        "decision": "L",
-        "ip": "5.0",
-        "er": 2,
-        "h": 4,
-        "bb": 3,
-        "so": 7,
-        "era": 3.6
-      },
-      {
-        "date": "2026-09-20",
-        "opp": "vs OAK",
-        "decision": "W",
-        "ip": "7.0",
+        "ip": "0.1",
         "er": 0,
-        "h": 3,
-        "bb": 1,
-        "so": 9,
+        "h": 0,
+        "bb": 0,
+        "so": 0,
         "era": 0.0
       },
       {
         "date": "2026-09-25",
         "opp": "@ KC",
         "decision": null,
-        "ip": "3.1",
-        "er": 4,
-        "h": 5,
-        "bb": 4,
-        "so": 4,
-        "era": 10.8
+        "ip": "1.0",
+        "er": 0,
+        "h": 1,
+        "bb": 0,
+        "so": 0,
+        "era": 0.0
+      },
+      {
+        "date": "2026-09-26",
+        "opp": "@ KC",
+        "decision": null,
+        "ip": "1.0",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 1,
+        "era": 0.0
       },
       {
         "date": "2026-10-05",
         "opp": "vs CWS",
         "decision": null,
-        "ip": "5.0",
-        "er": 2,
-        "h": 4,
-        "bb": 3,
-        "so": 11,
-        "era": 3.6
+        "ip": "1.1",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 1,
+        "era": 0.0
+      },
+      {
+        "date": "2026-10-07",
+        "opp": "@ CWS",
+        "decision": null,
+        "ip": "0.2",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 1,
+        "era": 0.0
       },
       {
         "date": "2026-10-08",
         "opp": "@ CWS",
         "decision": null,
-        "ip": "1.0",
+        "ip": "1.2",
+        "er": 0,
+        "h": 0,
+        "bb": 0,
+        "so": 2,
+        "era": 0.0
+      },
+      {
+        "date": "2026-10-13",
+        "opp": "@ TB",
+        "decision": null,
+        "ip": "1.2",
         "er": 0,
         "h": 1,
         "bb": 0,
@@ -193,26 +193,26 @@
         "era": 0.0
       },
       {
-        "date": "2026-10-10",
-        "opp": "vs CWS",
-        "decision": "W",
-        "ip": "5.2",
+        "date": "2026-10-17",
+        "opp": "vs TB",
+        "decision": null,
+        "ip": "1.0",
         "er": 0,
-        "h": 1,
-        "bb": 2,
-        "so": 12,
+        "h": 0,
+        "bb": 0,
+        "so": 1,
         "era": 0.0
       },
       {
-        "date": "2026-10-15",
+        "date": "2026-10-18",
         "opp": "vs TB",
-        "decision": "W",
-        "ip": "5.0",
-        "er": 2,
-        "h": 2,
-        "bb": 1,
-        "so": 9,
-        "era": 3.6
+        "decision": null,
+        "ip": "1.1",
+        "er": 0,
+        "h": 1,
+        "bb": 0,
+        "so": 0,
+        "era": 0.0
       }
     ],
     "home_pitcher": "Freddy Peralta",
@@ -336,12 +336,12 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 41.7,
-      "home": 58.3
+      "away": 41.8,
+      "home": 58.2
     },
     "expected_score": {
       "away": 2.5,
-      "home": 1.7
+      "home": 1.9
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -351,34 +351,71 @@
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": false,
-      "any_cold_sp": false,
+      "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.35,
-        "bp": 0.22,
-        "bat": 0.28,
+        "sp": 0.2,
+        "bp": 0.45,
+        "bat": 0.2,
         "sit": 0.15
       },
       "away": {
-        "sp_score": 45.0,
+        "sp_score": 19.1,
         "sp_detail": {
-          "era": 3.3,
-          "whip": 1.1,
-          "k9": 15.5,
-          "avg_ip": 4.6,
-          "qs_rate": 30.0,
-          "last3_era": 3.6,
-          "last_start_era": 3.6,
+          "era": 2.53,
+          "whip": 0.56,
+          "k9": 5.9,
+          "avg_ip": 1.1,
+          "qs_rate": 0.0,
+          "last3_era": 0.0,
+          "last_start_era": 0.0,
           "last2_eras": [
             0.0,
-            3.6
+            0.0
           ],
-          "recent_avg_era": 3.6,
+          "recent_avg_era": 0.0,
           "recent_bad_start": false,
-          "trend": "stable",
+          "trend": "cold",
           "n_games": 10,
           "sample_confidence": 1.0,
-          "rest_days": 4,
-          "rest_note": null
+          "rest_days": 1,
+          "rest_note": "short_rest",
+          "age": 36,
+          "fb_velo": 93.7,
+          "pitch_arsenal": [
+            "FB",
+            "SW",
+            "CT",
+            "SI"
+          ],
+          "secondary_pitches": [
+            "SW"
+          ],
+          "pitches_detail": [
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 30.9,
+              "velo": 93.5
+            },
+            {
+              "code": "ST",
+              "abbr": "SW",
+              "pct": 28.0,
+              "velo": 84.5
+            },
+            {
+              "code": "FC",
+              "abbr": "CT",
+              "pct": 24.0,
+              "velo": 90.0
+            },
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 17.0,
+              "velo": 93.7
+            }
+          ]
         },
         "bp_score": 72.9,
         "bp_detail": {
@@ -489,7 +526,7 @@
           }
         },
         "sit_score": 57.9,
-        "total": 51.8
+        "total": 53.4
       },
       "home": {
         "sp_score": 53.4,
@@ -669,12 +706,12 @@
           }
         },
         "sit_score": 61.6,
-        "total": 51.1
+        "total": 57.8
       }
     },
     "scores": {
       "away_offense": 40.5,
-      "away_defense": 59.0,
+      "away_defense": 46.0,
       "home_offense": 25.5,
       "home_defense": 63.1
     },
@@ -684,26 +721,31 @@
     },
     "lineup_confirmed": false,
     "sp_tbd": {
-      "away": true,
+      "away": false,
       "home": false,
       "both": false,
-      "any": true
+      "any": false
     },
     "actual_winner": null,
     "model_winner": "Tampa Bay Rays",
     "model_correct": null,
     "notes": "Tampa Bay Rays IL: Edwin Uceta, Gavin Lux, Jacob Melton, Jonathan Heasley, Ryan Pepiot",
     "kalshi_prob": 57.0,
-    "edge": 1.3,
+    "edge": 1.2,
     "value_bet": "➖ 시장과 유사",
     "extreme_edge": false,
     "consensus": false,
-    "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
+    "sp_bat_conflict": true,
+    "sp_bat_conflict_detail": {
+      "sp_favors": "Tampa Bay Rays",
+      "bat_favors": "Cleveland Guardians",
+      "sp_gap": -34.3,
+      "bat_gap": 15.0
+    },
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 58.3% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 58.2% (≤62.0%)",
     "opener_game": {
-      "away": false,
+      "away": true,
       "home": false
     },
     "model_version": "v17"
