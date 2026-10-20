@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-10-19-daily-stan",
+      "title": "Oct 19 Results: Perfect 100% Accuracy on Monday",
+      "author": "Stan",
+      "author_emoji": "📊",
+      "author_color": "#0EA5E9",
+      "author_role": "Data Analyst",
+      "date": "2026-10-19",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#0EA5E9",
+      "read_time": "3 min",
+      "summary": "Complete breakdown of our 1-0 performance with 100% accuracy on Oct 19"
+    },
+    {
       "slug": "2026-10-18-daily-stan",
       "title": "Oct 18 Results + Oct 19 Preview: Perfect 1-0 Day, Model Hits 100%",
       "author": "Stan",
