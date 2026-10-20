@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-20T07:15:54.518998+00:00",
+  "updated_at": "2026-10-20T07:49:00.531179+00:00",
   "news": [
+    {
+      "title": "Rays-Brewers World Series Game 1 FAQ (Fri., 8 ET on FOX)",
+      "link": "https://www.mlb.com/news/rays-brewers-world-series-game-1-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ppk5aqsb4uk3h1ucyebn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry, Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-20T07:30:00+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "On 18th anniversary of first World Series berth, Rays reach third as AL's best team",
+      "link": "https://www.mlb.com/news/rays-reach-world-series-on-18th-anniversary-of-first-al-pennant",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792466060/mlb/k1v9wulpbakavdkbvi70",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-20T07:14:00+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "'We've got one more bite!' Rays celebrate pennant, aim to keep good times going",
+      "link": "https://www.mlb.com/news/rays-celebrate-berth-in-2026-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792469051/mlb/dofrmgefqccdwddaejsr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-20T07:11:57+00:00",
+      "time_ago": "37m ago"
+    },
     {
       "title": "'It hurts': Guards' incredible run ends 2 wins shy of World Series",
       "link": "https://www.mlb.com/news/guardians-lose-2026-alcs-to-rays",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-20T07:06:48+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "Why this World Series is unlike any we've seen in some time",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-20T06:44:35+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yandy makes good on prediction, delivers knockout blow in pennant clincher",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-20T06:40:55+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "ALCS MVP 'Fastball Freddy' pitches Rays to World Series, where his old team awaits",
@@ -51,7 +90,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-10-20T06:30:00+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Junior's major moment: Caminero savors 1st playoff homer AND strikes familiar pose",
@@ -64,45 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-20T06:09:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Despite ALCS heartbreak, young cornerstones have Guardians believing 'we’ll be back'",
-      "link": "https://www.mlb.com/news/travis-bazzana-chase-delauter-guardians-young-talent-2026-alcs-loss",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ctdc20mnpehggl61xtok",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-20T05:45:05+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Rays finish off Guards to set up World Series clash vs. Crew",
-      "link": "https://www.mlb.com/news/rays-win-alcs-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ocligspylhf0hxc3wx9y",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-20T05:23:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "On 18th anniversary of first World Series berth, Rays reach third as AL's best team",
-      "link": "https://www.mlb.com/news/rays-reach-world-series-on-18th-anniversary-of-first-al-pennant",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792466060/mlb/k1v9wulpbakavdkbvi70",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-20T05:18:00+00:00",
       "time_ago": "1h ago"
     }
   ]
