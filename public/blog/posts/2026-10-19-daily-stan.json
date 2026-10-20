@@ -1,11 +1,11 @@
 {
-  "title": "Oct 19 Results: Perfect 100% Accuracy on Monday",
-  "summary": "Complete breakdown of our 1-0 performance with 100% accuracy on Oct 19",
+  "title": "Oct 19 Results: Perfect 100% Win Rate",
+  "summary": "Oct 19 delivered a flawless 1-0 record with 100% accuracy on our picks",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## The Numbers Tell the Story\n\nLet's cut right to the data: 1-0, 100% accuracy. That's what the October 19th slate delivered. When you're working with a single-game card, there's no margin for error—and the analytics came through."
+      "value": "## The Numbers Tell the Story\n\nLet's dive into the data from October 19th. We posted a perfect 1-0 record with 100% accuracy. When you're dealing with a single-game slate, execution becomes everything—and the model delivered exactly what the probability suggested."
     },
     {
       "type": "stat_row",
@@ -26,12 +26,30 @@
     },
     {
       "type": "text",
-      "value": "## Game Breakdown: By the Numbers\n\nOur model identified the Rays as a 61% probability winner against the Guardians. Not overwhelming odds, but statistically significant enough to warrant confidence. The outcome validated the projection."
+      "value": "## Game-by-Game Breakdown\n\nHere's what the data showed us heading into the matchup, and how it played out:"
+    },
+    {
+      "type": "table",
+      "title": "Oct 19 Full Results",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Win Prob",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Guardians @ Rays",
+          "Rays",
+          "61%",
+          "✓ Hit"
+        ]
+      ]
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "October 19 Prediction Performance",
+      "title": "Win Probability vs Outcome",
       "data": [
         {
           "name": "Rays",
@@ -54,48 +72,30 @@
       ]
     },
     {
-      "type": "table",
-      "title": "Complete Game Results - October 19",
-      "headers": [
-        "Matchup",
-        "Our Pick",
-        "Probability",
-        "Outcome"
-      ],
-      "rows": [
-        [
-          "Guardians @ Rays",
-          "Rays",
-          "61%",
-          "✓ Hit"
-        ]
-      ]
-    },
-    {
       "type": "text",
-      "value": "## What the Data Showed\n\nThe 61% probability for Tampa Bay wasn't arbitrary. The model factored in home-field advantage, recent performance metrics, and pitching matchup analytics. When your confidence interval sits above 60%, historically that translates to winning baseball over the long term."
+      "value": "## Statistical Deep Dive\n\nThe Rays came in with a 61% win probability—a solid edge, but not overwhelming. When you're looking at probabilities in the 60-65% range, you're essentially saying the model sees a clear advantage but acknowledges variance. That 61% translated to a win, which is exactly what we expect over a large sample size.\n\nA single game doesn't validate a model, but it does validate the process. The data pointed to Tampa Bay, and Tampa Bay delivered."
     },
     {
       "type": "highlight_box",
       "color": "#16A34A",
-      "title": "✓ Hit Rate Alert",
-      "value": "100% Success Rate",
-      "sub": "1 for 1 on October 19 predictions"
+      "title": "✓ Perfect Execution",
+      "value": "1-0 Record",
+      "sub": "100% accuracy on Oct 19 picks"
     },
     {
       "type": "text",
-      "value": "## Looking Ahead: Tomorrow's Slate\n\nHere's where the numbers get interesting: there are zero games scheduled for October 20th. No data to analyze, no probabilities to calculate, no predictions to make. It's a complete off-day across MLB.\n\nThis gives us time to recalibrate our models and prepare for the next slate of games with fresh analytics."
+      "value": "## What the 100% Really Means\n\nLook, I'm a numbers guy, so let me be clear: a 100% win rate on one game is statistically interesting but not predictive of future performance. What matters is that we're following the model, trusting the probabilities, and letting the law of large numbers work in our favor.\n\nThe real metric to watch? Long-term accuracy trends. One perfect day is great, but it's the cumulative win rate over dozens and hundreds of games that tells the real story."
+    },
+    {
+      "type": "text",
+      "value": "## Tomorrow's Slate\n\nNo games scheduled for October 20th. The schedule gives us a breather, which means we'll be back with fresh analysis when games resume. Use this downtime to review the trends, study the data, and prepare for the next slate."
     },
     {
       "type": "highlight_box",
-      "color": "#6B7280",
+      "color": "#94A3B8",
       "title": "📊 Tomorrow's Schedule",
-      "value": "0 Games Scheduled",
-      "sub": "No predictions available for October 20"
-    },
-    {
-      "type": "text",
-      "value": "## The Bottom Line\n\n100% accuracy on a 1-game slate. Sample size? Small. Statistical significance? Limited. But in this business, you take the wins where you can document them. One prediction, one correct outcome. The data doesn't get cleaner than that.\n\nStay tuned for the next game day when we'll have more matchups to analyze and more probabilities to calculate."
+      "value": "No Games",
+      "sub": "Off day across MLB—next picks coming soon"
     }
   ],
   "slug": "2026-10-19-daily-stan",

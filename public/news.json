@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-10-20T13:23:34.823571+00:00",
+  "updated_at": "2026-10-20T17:50:53.254936+00:00",
   "news": [
+    {
+      "title": "Why this World Series is unlike any we've seen in some time",
+      "link": "https://www.mlb.com/news/interesting-facts-about-rays-brewers-world-series-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/omftp5udrf2dsmljxd1y",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sarah Langs",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-20T16:00:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Your cheat sheet for sounding like a World Series expert",
+      "link": "https://www.mlb.com/news/brewers-vs-rays-world-series-preview",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ofn0vtqx126n9g97rscg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brent Maguire and Shanthi Sepe-Chepuru",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-20T14:35:00+00:00",
+      "time_ago": "3h ago"
+    },
+    {
+      "title": "Dombrowski eyes ways to keep Phillies' veterans fresh, bolster outfield",
+      "link": "https://www.mlb.com/news/dave-dombrowski-discusses-phillies-2027-roster-plans",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792444595/mlb/ru5mzhzypqkgibzodlod",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-20T14:18:24+00:00",
+      "time_ago": "3h ago"
+    },
+    {
+      "title": "Is Volpe the Yankees' No. 1 option for 2B in 2027?",
+      "link": "https://www.mlb.com/news/anthony-volpe-s-role-with-2027-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792450476/mlb/so5oped7haacx6miqnzl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-20T14:17:23+00:00",
+      "time_ago": "3h ago"
+    },
+    {
+      "title": "'Murph Ball,' heartbreak and the Fall Classic: Frelick and the Crew know who they are",
+      "link": "https://www.mlb.com/news/sal-frelick-ready-for-first-world-series-with-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/olezubyvpaabyirzhgth",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mike Lupica",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-20T14:12:02+00:00",
+      "time_ago": "3h ago"
+    },
     {
       "title": "Rays-Brewers World Series Game 1 FAQ (Fri., 8 ET on FOX)",
       "link": "https://www.mlb.com/news/rays-brewers-world-series-game-1-starting-lineups-and-pitching-matchup",
@@ -12,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-20T07:30:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "On 18th anniversary of first World Series berth, Rays reach third as AL's best team",
@@ -25,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-20T07:14:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "'We've got one more bite!' Rays celebrate pennant, aim to keep good times going",
@@ -38,72 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-20T07:11:57+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "'It hurts': Guards' incredible run ends 2 wins shy of World Series",
-      "link": "https://www.mlb.com/news/guardians-lose-2026-alcs-to-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792463331/mlb/vkuw5jp0kr0zdjlnxkcb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-20T07:06:48+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Why this World Series is unlike any we've seen in some time",
-      "link": "https://www.mlb.com/news/interesting-facts-about-rays-brewers-world-series-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/omftp5udrf2dsmljxd1y",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sarah Langs",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-20T06:44:35+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Yandy makes good on prediction, delivers knockout blow in pennant clincher",
-      "link": "https://www.mlb.com/news/yandy-diaz-homers-backs-up-prediction-in-rays-alcs-game-6-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nbvlsv3lablnvwu6mmlq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-20T06:40:55+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "ALCS MVP 'Fastball Freddy' pitches Rays to World Series, where his old team awaits",
-      "link": "https://www.mlb.com/news/freddy-peralta-wins-2026-alcs-mvp",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mo4y9zdpxux3nzxwkc7h",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-10-20T06:30:00+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Junior's major moment: Caminero savors 1st playoff homer AND strikes familiar pose",
-      "link": "https://www.mlb.com/news/junior-caminero-hits-first-postseason-hr-in-2026-alcs-game-6",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/r2nmpvj8w4ehurhlrpux",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-20T06:09:00+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "10h ago"
     }
   ]
 }
