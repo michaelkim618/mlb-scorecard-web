@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-20T05:03:18.900228+00:00",
+  "updated_at": "2026-10-20T05:47:08.200915+00:00",
   "news": [
+    {
+      "title": "Rays finish off Guards to set up World Series clash vs. Crew",
+      "link": "https://www.mlb.com/news/rays-win-alcs-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ocligspylhf0hxc3wx9y",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-20T05:23:00+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "On 18th anniversary of first World Series berth, Rays reach third as AL's best team",
+      "link": "https://www.mlb.com/news/rays-reach-world-series-on-18th-anniversary-of-first-al-pennant",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792466060/mlb/k1v9wulpbakavdkbvi70",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-20T05:18:00+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "Back to the beginning: Both LCS MVPs face teams they debuted with in Fall Classic",
+      "link": "https://www.mlb.com/news/freddy-peralta-jake-bauers-facing-former-teams-in-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rdyyw3pxatroaks9hey1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brent Maguire",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-10-20T05:11:13+00:00",
+      "time_ago": "35m ago"
+    },
     {
       "title": "This year's World Series champ will be a 1st-time winner ... either way",
       "link": "https://www.mlb.com/news/rays-brewers-each-vying-for-first-world-series-title",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-20T04:48:11+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Look who's back! Glasnow, Arozarena among Game 6 attendees at Trop",
@@ -25,20 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-20T04:16:00+00:00",
-      "time_ago": "47m ago"
-    },
-    {
-      "title": "On 18th anniversary of first World Series berth, Rays reach third as AL's best team",
-      "link": "https://www.mlb.com/news/rays-reach-world-series-on-18th-anniversary-of-first-al-pennant",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792466060/mlb/k1v9wulpbakavdkbvi70",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-20T04:11:00+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Will extra rest help or hurt Brewers in World Series?",
@@ -64,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-20T03:40:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Rays finish off Guards to set up World Series clash vs. Crew",
-      "link": "https://www.mlb.com/news/rays-win-alcs-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ocligspylhf0hxc3wx9y",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-20T03:35:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "ALCS MVP 'Fastball Freddy' pitches Rays to World Series, where his old team awaits",
@@ -90,20 +103,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-10-20T03:24:15+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Teams that have never won a World Series",
-      "link": "https://www.mlb.com/news/mlb-teams-yet-to-win-world-series-title-c221751514",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/i2xf9yqes5qu0uvlmg2g",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-20T03:20:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
