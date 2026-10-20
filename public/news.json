@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-20T18:04:38.064633+00:00",
+  "updated_at": "2026-10-20T18:25:47.454127+00:00",
   "news": [
+    {
+      "title": "Brewers chasing rare feat in quest for 1st WS title",
+      "link": "https://www.mlb.com/news/brewers-seeking-unique-history-across-north-american-sports",
+      "summary": "Milwaukee win would make MLB first NA league where team with better record won every series",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oo6dbsl6ylxsozllomn8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-20T17:47:15+00:00",
+      "time_ago": "38m ago"
+    },
+    {
+      "title": "3 HOFers, a Game 163 and a future Commissioner: The wild story of the Brewers' 1st season -- in Seattle",
+      "link": "https://www.mlb.com/news/how-the-seattle-pilots-became-the-milwaukee-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/r77ssqvcscifpoykfmbz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Manny Randhawa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-20T17:05:52+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Can the Miz get his groove -- and his whiffs -- back?",
+      "link": "https://www.mlb.com/news/can-jacob-misiorowski-find-his-whiffs-in-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ahsadead0cukkqsj1mmv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "David Adler",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-20T16:58:13+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Why this World Series is unlike any we've seen in some time",
       "link": "https://www.mlb.com/news/interesting-facts-about-rays-brewers-world-series-matchup",
@@ -13,6 +52,19 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-20T16:00:00+00:00",
       "time_ago": "2h ago"
+    },
+    {
+      "title": "Rays-Brewers World Series position-by-position breakdown",
+      "link": "https://www.mlb.com/news/rays-brewers-2026-world-series-position-by-position-breakdown",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ejpnjlwrkt8wnrzg02ha",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mike Petriello",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-20T15:03:00+00:00",
+      "time_ago": "3h ago"
     },
     {
       "title": "Your cheat sheet for sounding like a World Series expert",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-20T14:18:24+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Is Volpe the Yankees' No. 1 option for 2B in 2027?",
@@ -51,59 +103,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-20T14:17:23+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "'Murph Ball,' heartbreak and the Fall Classic: Frelick and the Crew know who they are",
-      "link": "https://www.mlb.com/news/sal-frelick-ready-for-first-world-series-with-brewers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/olezubyvpaabyirzhgth",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mike Lupica",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-20T14:12:02+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Rays-Brewers World Series Game 1 FAQ (Fri., 8 ET on FOX)",
-      "link": "https://www.mlb.com/news/rays-brewers-world-series-game-1-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ppk5aqsb4uk3h1ucyebn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry, Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-20T07:30:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "On 18th anniversary of first World Series berth, Rays reach third as AL's best team",
-      "link": "https://www.mlb.com/news/rays-reach-world-series-on-18th-anniversary-of-first-al-pennant",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792466060/mlb/k1v9wulpbakavdkbvi70",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-20T07:14:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "'We've got one more bite!' Rays celebrate pennant, aim to keep good times going",
-      "link": "https://www.mlb.com/news/rays-celebrate-berth-in-2026-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792469051/mlb/dofrmgefqccdwddaejsr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-20T07:11:57+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
