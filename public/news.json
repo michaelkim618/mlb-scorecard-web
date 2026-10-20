@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-20T20:17:43.027520+00:00",
+  "updated_at": "2026-10-20T20:47:26.875858+00:00",
   "news": [
+    {
+      "title": "Rays set themselves up for perfect pitching scenario by winning ALCS in 6 games",
+      "link": "https://www.mlb.com/news/rays-starters-lined-up-rest-bullpen-after-winning-2026-alcs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/curwwsajvvm9zl8jqg1g",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-20T20:32:55+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "Watch LIVE: Top prospects in Arizona Fall League action",
+      "link": "https://www.mlb.com/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kdikhgkw7v8w8wdorlio",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rob Terranova, Brendan Samson and Michael Avallone",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-20T20:26:00+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "Mets include Cubs' Mallee in coaching staff search (source)",
+      "link": "https://www.mlb.com/news/mets-to-interview-cubs-john-mallee-for-coaching-staff-role",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/smob1jnfkbwyrzqozbuh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-20T20:04:23+00:00",
+      "time_ago": "43m ago"
+    },
     {
       "title": "Brewers chasing rare feat in quest for 1st WS title",
       "link": "https://www.mlb.com/news/brewers-seeking-unique-history-across-north-american-sports",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-20T17:47:15+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "3 HOFers, a Game 163 and a future Commissioner: The wild story of the Brewers' 1st season -- in Seattle",
@@ -65,45 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-20T15:03:00+00:00",
       "time_ago": "5h ago"
-    },
-    {
-      "title": "Your cheat sheet for sounding like a World Series expert",
-      "link": "https://www.mlb.com/news/brewers-vs-rays-world-series-preview",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ofn0vtqx126n9g97rscg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brent Maguire and Shanthi Sepe-Chepuru",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-20T14:35:00+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Dombrowski eyes ways to keep Phillies' veterans fresh, bolster outfield",
-      "link": "https://www.mlb.com/news/dave-dombrowski-discusses-phillies-2027-roster-plans",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792444595/mlb/ru5mzhzypqkgibzodlod",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-20T14:18:24+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Is Volpe the Yankees' No. 1 option for 2B in 2027?",
-      "link": "https://www.mlb.com/news/anthony-volpe-s-role-with-2027-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792450476/mlb/so5oped7haacx6miqnzl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-20T14:17:23+00:00",
-      "time_ago": "6h ago"
     }
   ]
 }
