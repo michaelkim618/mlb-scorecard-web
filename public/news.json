@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-20T04:04:43.401563+00:00",
+  "updated_at": "2026-10-20T05:03:18.900228+00:00",
   "news": [
+    {
+      "title": "This year's World Series champ will be a 1st-time winner ... either way",
+      "link": "https://www.mlb.com/news/rays-brewers-each-vying-for-first-world-series-title",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792470327/mlb/bk9h9qlmtpbrwen0nwke",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-20T04:48:11+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "Look who's back! Glasnow, Arozarena among Game 6 attendees at Trop",
+      "link": "https://www.mlb.com/news/tyler-glasnow-randy-arozarena-attend-2026-alcs-game-6-at-trop",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rtwvppoclqsb0pftv4nf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-20T04:16:00+00:00",
+      "time_ago": "47m ago"
+    },
     {
       "title": "On 18th anniversary of first World Series berth, Rays reach third as AL's best team",
       "link": "https://www.mlb.com/news/rays-reach-world-series-on-18th-anniversary-of-first-al-pennant",
@@ -11,8 +37,21 @@
       "author": "Adam Berry",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-20T03:52:00+00:00",
-      "time_ago": "12m ago"
+      "pub_date": "2026-10-20T04:11:00+00:00",
+      "time_ago": "52m ago"
+    },
+    {
+      "title": "Will extra rest help or hurt Brewers in World Series?",
+      "link": "https://www.mlb.com/news/impact-of-extra-rest-before-world-series",
+      "summary": "12 of the past 16 teams to clinch pennant first lost in World Series",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qpygdgbhpircwykahtxp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-20T04:03:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "What you need to know about the 2026 World Series",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-20T03:40:00+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Rays finish off Guards to set up World Series clash vs. Crew",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-20T03:35:00+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "ALCS MVP 'Fastball Freddy' pitches Rays to World Series, where his old team awaits",
@@ -51,20 +90,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-10-20T03:24:15+00:00",
-      "time_ago": "40m ago"
-    },
-    {
-      "title": "Look who's back! Glasnow, Arozarena among Game 6 attendees at Trop",
-      "link": "https://www.mlb.com/news/tyler-glasnow-randy-arozarena-attend-2026-alcs-game-6-at-trop",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rtwvppoclqsb0pftv4nf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-20T03:24:00+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Teams that have never won a World Series",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-20T03:20:00+00:00",
-      "time_ago": "44m ago"
-    },
-    {
-      "title": "Take your time, Junior! Caminero savors clutch first HR of postseason",
-      "link": "https://www.mlb.com/news/junior-caminero-hits-first-postseason-hr-in-2026-alcs-game-6",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ghactqj4roypu36vbxct",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-20T03:15:42+00:00",
-      "time_ago": "49m ago"
-    },
-    {
-      "title": "No. 1 vs. No. 1: World Series matchups between each league’s top seed",
-      "link": "https://www.mlb.com/news/mlb-world-series-matchups-between-no-1-teams",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ngfj7ci9v2dmu5ay2plj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-20T03:12:00+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     }
   ]
 }
