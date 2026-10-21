@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-21T00:13:49.269420+00:00",
+  "updated_at": "2026-10-21T00:42:52.278425+00:00",
   "news": [
+    {
+      "title": "Savvy trades, sharp scouting key to construction of this year's World Series rosters",
+      "link": "https://www.mlb.com/news/how-the-world-series-teams-were-built-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/otea4cvibjh3qxh2zwzo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jim Callis",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-10-21T00:11:00+00:00",
+      "time_ago": "31m ago"
+    },
     {
       "title": "Watch top prospects in Arizona Fall League action",
       "link": "https://www.mlb.com/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-20T23:28:00+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Why this World Series is unlike any we've seen in some time",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-20T20:32:55+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Mets include Cubs' Mallee in coaching staff search (source)",
@@ -91,19 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-20T16:58:13+00:00",
       "time_ago": "7h ago"
-    },
-    {
-      "title": "Rays-Brewers World Series position-by-position breakdown",
-      "link": "https://www.mlb.com/news/rays-brewers-2026-world-series-position-by-position-breakdown",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ejpnjlwrkt8wnrzg02ha",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mike Petriello",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-20T15:03:00+00:00",
-      "time_ago": "9h ago"
     }
   ]
 }
