@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-21T19:03:36.526936+00:00",
+  "updated_at": "2026-10-21T19:29:10.022399+00:00",
   "news": [
+    {
+      "title": "Cashman returning for 30th season as Yankees GM",
+      "link": "https://www.mlb.com/news/brian-cashman-returning-as-yankees-general-manager",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mwclhoyq1ds96lgoa38w",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-21T19:08:00+00:00",
+      "time_ago": "21m ago"
+    },
     {
       "title": "Angels decline Suzuki's option, will seek new manager",
       "link": "https://www.mlb.com/news/angels-decline-manager-kurt-suzuki-contract-option",
@@ -8,11 +21,24 @@
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/huo56y1eb4mqnyagbgl9",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "",
+      "author": "Rhett Bollinger",
       "tag": "Roster",
       "tag_color": "#0284C7",
-      "pub_date": "2026-10-21T18:35:43+00:00",
-      "time_ago": "27m ago"
+      "pub_date": "2026-10-21T19:04:00+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "40 kids to compete in finals of MLB's Pitch, Hit & Run at 2026 World Series",
+      "link": "https://www.mlb.com/news/mlb-pitch-hit-run-finals-to-take-place-at-2026-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qjl86eygsy3omu76gzdd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-21T18:55:43+00:00",
+      "time_ago": "33m ago"
     },
     {
       "title": "How the Brewers might pitch to Caminero in the World Series",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-21T18:35:00+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "Brewers have been MLB's best team under Pat Murphy. Can he lead them to a World Series win?",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-21T16:57:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "A message from the Uecker Family",
-      "link": "https://www.mlb.com/news/uecker-family-delivers-message-before-2026-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e8mzykgrt03wlpyerxco",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-21T16:52:51+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Can the Miz get his groove -- and his whiffs -- back?",
-      "link": "https://www.mlb.com/news/can-jacob-misiorowski-find-his-whiffs-in-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hqkykztpipqqsiecdbfs",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "David Adler",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-21T16:45:00+00:00",
       "time_ago": "2h ago"
     }
   ]
