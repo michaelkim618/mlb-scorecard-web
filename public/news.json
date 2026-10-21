@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-21T18:31:11.801945+00:00",
+  "updated_at": "2026-10-21T18:48:55.756946+00:00",
   "news": [
+    {
+      "title": "Angels decline Suzuki's option, will seek new manager",
+      "link": "https://www.mlb.com/news/angels-decline-manager-kurt-suzuki-contract-option",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/huo56y1eb4mqnyagbgl9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-21T18:35:43+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "How the Brewers might pitch to Caminero in the World Series",
+      "link": "https://www.mlb.com/news/how-teams-are-pitching-to-junior-caminero-in-the-postseason",
+      "summary": "Cleveland overwhelmed Rays slugger with high fastballs in ALCS",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ipzt42oer9nmrtlykhsx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-21T18:35:00+00:00",
+      "time_ago": "13m ago"
+    },
     {
       "title": "Brewers have been MLB's best team under Pat Murphy. Can he lead them to a World Series win?",
       "link": "https://www.mlb.com/news/pat-murphy-leads-brewers-to-nl-pennant-world-series-berth",
@@ -12,20 +38,33 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-21T17:57:34+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "51m ago"
     },
     {
-      "title": "How many Simpson sprints can you fit into one Caminero trot?",
+      "title": "A video aligned Simpson sprinting to 1B and Caminero's HR trot -- the result was hilarious",
       "link": "https://www.mlb.com/news/chandler-simpson-bunt-singles-vs-junior-caminero-home-run-trot",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mdege0tjdhra2wmssrgi",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Max Ralph",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-21T17:43:11+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Here are MLB's 7 best 17-year-old prospects",
+      "link": "https://www.mlb.com/news/these-are-the-best-17-year-old-mlb-prospects",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pcszksdotn4mofp1evmg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ben Weinrib",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-21T17:43:11+00:00",
-      "time_ago": "48m ago"
+      "pub_date": "2026-10-21T17:36:51+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "In the first World Series with ABS, will any hitters challenge?",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-21T16:45:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "How did this high-flying victory celebration come to be? 'We both wish we could dunk'",
-      "link": "https://www.mlb.com/news/richie-palacios-taylor-walls-talk-basketball-inspired-celebration",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tep2ufgdjomzvodgfueq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-21T16:30:23+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Savvy trades, sharp scouting key to construction of this year's World Series rosters",
-      "link": "https://www.mlb.com/news/how-the-world-series-teams-were-built-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/otea4cvibjh3qxh2zwzo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jim Callis",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-10-21T16:15:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Cashman returning for 30th season as Yankees GM",
-      "link": "https://www.mlb.com/news/brian-cashman-returning-as-yankees-general-manager",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mwclhoyq1ds96lgoa38w",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-21T16:06:13+00:00",
       "time_ago": "2h ago"
     }
   ]
