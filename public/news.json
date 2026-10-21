@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-21T21:31:51.839984+00:00",
+  "updated_at": "2026-10-21T21:52:42.014732+00:00",
   "news": [
+    {
+      "title": "For longtime Brewers employees, the wait for another World Series run is finally over",
+      "link": "https://www.mlb.com/news/brewers-longtime-employees-who-work-for-2026-world-series-team",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vn4rbougooizbbn6y6ya",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-21T21:20:09+00:00",
+      "time_ago": "32m ago"
+    },
+    {
+      "title": "What do the '82 Brewers think of the '26 Brewers and their World Series run?",
+      "link": "https://www.mlb.com/news/1982-brewers-discuss-2026-team-before-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pi00j5wtye4r845tdoka",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-21T20:37:19+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Cashman returning for 30th season as Yankees GM",
       "link": "https://www.mlb.com/news/brian-cashman-returning-as-yankees-general-manager",
@@ -51,10 +77,10 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-21T18:35:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
-      "title": "Crew has been MLB's best team under Pat Murphy. Can he lead them to a World Series win?",
+      "title": "Crew has been MLB's best team under Pat Murphy. Can he lead them to World Series win?",
       "link": "https://www.mlb.com/news/pat-murphy-leads-brewers-to-nl-pennant-world-series-berth",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/exuwl15cubu7j7qsoiar",
@@ -77,32 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-21T17:43:11+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Here are MLB's 7 best 17-year-old prospects",
-      "link": "https://www.mlb.com/news/these-are-the-best-17-year-old-mlb-prospects",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pcszksdotn4mofp1evmg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ben Weinrib",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-21T17:36:51+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "In the first World Series with ABS, will any hitters challenge?",
-      "link": "https://www.mlb.com/news/who-will-challenge-in-first-abs-world-series",
-      "summary": "Rays and Brewers seem to have similar postseason strategies",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/awuvfgv66lpqzt5mvkqq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mike Petriello",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-21T16:57:00+00:00",
       "time_ago": "4h ago"
     }
   ]
