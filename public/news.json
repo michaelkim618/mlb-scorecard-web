@@ -1,18 +1,70 @@
 {
-  "updated_at": "2026-10-21T11:21:49.513212+00:00",
+  "updated_at": "2026-10-21T12:09:55.050681+00:00",
   "news": [
     {
-      "title": "Watch top prospects in Arizona Fall League action",
-      "link": "https://www.mlb.com/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
+      "title": "These are the 5 most pressing offseason questions for Dodgers",
+      "link": "https://www.mlb.com/news/dodgers-most-pressing-offseason-questions",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kdikhgkw7v8w8wdorlio",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792546001/mlb/gdl3jpng2obr2ae6g8vd",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Rob Terranova and Brendan Samson",
+      "author": "Sonja Chen",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-21T04:49:00+00:00",
-      "time_ago": "6h ago"
+      "pub_date": "2026-10-21T11:49:19+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "With Trout moving to left field, who could replace star in center?",
+      "link": "https://www.mlb.com/news/angels-options-to-replace-mike-trout-in-center-field",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/krhyc69g7rlhejwbf6wo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rhett Bollinger",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-21T11:41:43+00:00",
+      "time_ago": "28m ago"
+    },
+    {
+      "title": "Here’s why pitching is Cubs’ top priority this offseason",
+      "link": "https://www.mlb.com/news/rebuilding-rotation-cubs-priority-before-2027-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xvfdkf7wg6vjykimkisd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-21T11:18:42+00:00",
+      "time_ago": "51m ago"
+    },
+    {
+      "title": "These two pitchers have Marlins tenure (and high school alma mater) in common",
+      "link": "https://www.mlb.com/news/victor-vodnik-ricky-nolasco-connected-by-marlins-high-school",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ikdhcjpe5h96qygt7smf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Christina De Nicola",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-21T11:01:21+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Next step for Wood: Consistency across 162 games",
+      "link": "https://www.mlb.com/news/james-wood-aiming-to-be-more-consistent-in-2027",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gel0vytyys6clqlqdaws",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jessica Camerato",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-21T10:53:52+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "How the Brewers might pitch to Caminero in the World Series",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-21T02:00:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "1 big offseason question for each eliminated postseason team",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-21T02:00:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "Woodruff would love World Series roster spot, but understands why it might not happen",
@@ -51,59 +103,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-21T01:33:59+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "What Guardians' ALCS loss revealed heading into pivotal offseason",
-      "link": "https://www.mlb.com/news/guardians-take-lessons-from-2026-alcs-elimination",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ludqcsywpsvydu75d5f7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-21T01:31:50+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "Savvy trades, sharp scouting key to construction of this year's World Series rosters",
-      "link": "https://www.mlb.com/news/how-the-world-series-teams-were-built-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/otea4cvibjh3qxh2zwzo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jim Callis",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-10-21T00:11:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Why this World Series is unlike any we've seen in some time",
-      "link": "https://www.mlb.com/news/interesting-facts-about-rays-brewers-world-series-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nwr2zoxhlhmrmdgtgf9m",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sarah Langs",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-20T21:00:00+00:00",
-      "time_ago": "14h ago"
-    },
-    {
-      "title": "Rays set themselves up for perfect pitching scenario by winning ALCS in 6 games",
-      "link": "https://www.mlb.com/news/rays-starters-lined-up-rest-bullpen-after-winning-2026-alcs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/curwwsajvvm9zl8jqg1g",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-20T20:32:55+00:00",
-      "time_ago": "14h ago"
+      "time_ago": "10h ago"
     }
   ]
 }
