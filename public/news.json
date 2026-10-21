@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T19:47:51.578534+00:00",
+  "updated_at": "2026-10-21T20:16:03.753406+00:00",
   "news": [
     {
       "title": "Cashman returning for 30th season as Yankees GM",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-21T19:08:00+00:00",
-      "time_ago": "39m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Angels decline Suzuki's option, will seek new manager",
@@ -25,7 +25,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-21T19:04:00+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "40 kids to compete in finals of MLB's Pitch, Hit & Run at 2026 World Series",
@@ -38,10 +38,10 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-21T18:55:43+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     },
     {
-      "title": "How the Brewers might pitch to Caminero in the World Series",
+      "title": "To beat Rays, Brewers need to stop Caminero. Here's how they can",
       "link": "https://www.mlb.com/news/how-teams-are-pitching-to-junior-caminero-in-the-postseason",
       "summary": "Cleveland overwhelmed Rays slugger with high fastballs in ALCS",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ipzt42oer9nmrtlykhsx",
@@ -54,7 +54,7 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Brewers have been MLB's best team under Pat Murphy. Can he lead them to a World Series win?",
+      "title": "Crew has been MLB's best team under Pat Murphy. Can he lead them to a World Series win?",
       "link": "https://www.mlb.com/news/pat-murphy-leads-brewers-to-nl-pennant-world-series-berth",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/exuwl15cubu7j7qsoiar",
@@ -64,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-21T17:57:34+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "A video aligned Simpson sprinting to 1B and Caminero's HR trot -- the result was hilarious",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-21T16:57:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
