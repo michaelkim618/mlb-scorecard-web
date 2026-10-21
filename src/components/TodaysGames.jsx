@@ -4,14 +4,19 @@ import { usePreviewPredictions } from "../hooks/usePreviewPredictions";
 import useLiveScores from "../hooks/useLiveScores";
 import GameCard from "./GameCard";
 
+// 오늘 날짜(LA 기준). predictions.json 안의 날짜를 "오늘"로 간주하면
+// 경기 없는 날(오프데이)에 과거 데이터(예: 9/25)가 그대로 노출되므로,
+// 실제 오늘 날짜로 필터링한다.
+const TODAY_PT = new Date().toLocaleDateString("en-CA", { timeZone: "America/Los_Angeles" });
+
 export default function TodaysGames() {
   const [activeTab, setActiveTab] = useState("today"); // "today" | "tomorrow"
 
   // ── 오늘 예측 ────────────────────────────────────────────────────────
-  const { games, seasonW, seasonL, loading, error, dataDate } = usePredictions(null);
-  const TODAY_DISPLAY = dataDate
+  const { games, seasonW, seasonL, loading, error, dataDate } = usePredictions(TODAY_PT);
+  const TODAY_DISPLAY = (dataDate && games.length > 0)
     ? new Date(dataDate + "T12:00:00").toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })
-    : new Date().toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
+    : new Date(TODAY_PT + "T12:00:00").toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
   const { scores, lastUpdated } = useLiveScores(TODAY_DISPLAY);
 
   // ── 내일 미리보기 ────────────────────────────────────────────────────
@@ -110,7 +115,7 @@ export default function TodaysGames() {
               <div style={{ display: "flex", flexDirection: "column", gap: 8 }}>
                 {games.length === 0 ? (
                   <div style={{ textAlign: "center", padding: "40px 0", color: "var(--color-muted)" }}>
-                    No games found for today.
+                    No games scheduled today. Predictions return on the next game day.
                   </div>
                 ) : (
                   games.map((game, i) => {
