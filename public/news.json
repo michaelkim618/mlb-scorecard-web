@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-21T18:10:43.166572+00:00",
+  "updated_at": "2026-10-21T18:31:11.801945+00:00",
   "news": [
+    {
+      "title": "Brewers have been MLB's best team under Pat Murphy. Can he lead them to a World Series win?",
+      "link": "https://www.mlb.com/news/pat-murphy-leads-brewers-to-nl-pennant-world-series-berth",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/exuwl15cubu7j7qsoiar",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-21T17:57:34+00:00",
+      "time_ago": "33m ago"
+    },
+    {
+      "title": "How many Simpson sprints can you fit into one Caminero trot?",
+      "link": "https://www.mlb.com/news/chandler-simpson-bunt-singles-vs-junior-caminero-home-run-trot",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mdege0tjdhra2wmssrgi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-21T17:43:11+00:00",
+      "time_ago": "48m ago"
+    },
     {
       "title": "In the first World Series with ABS, will any hitters challenge?",
       "link": "https://www.mlb.com/news/who-will-challenge-in-first-abs-world-series",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-21T16:30:23+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Savvy trades, sharp scouting key to construction of this year's World Series rosters",
@@ -64,7 +90,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-10-21T16:15:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Cashman returning for 30th season as Yankees GM",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-21T16:06:13+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Everything to know about the Tarik Skubal free agency frenzy",
-      "link": "https://www.mlb.com/news/tarik-skubal-2026-free-agent-profile",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sldxuoyg5zqnnikmrmbc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-21T15:44:53+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Here’s why pitching is Cubs’ top priority this offseason",
-      "link": "https://www.mlb.com/news/rebuilding-rotation-cubs-priority-before-2027-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xvfdkf7wg6vjykimkisd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-21T11:18:42+00:00",
-      "time_ago": "6h ago"
     }
   ]
 }
