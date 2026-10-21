@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-21T22:13:39.607987+00:00",
+  "updated_at": "2026-10-21T22:31:07.071727+00:00",
   "news": [
+    {
+      "title": "Ohtani won't need surgery, expects to return to 2-way form. How that looks is up in the air",
+      "link": "https://www.mlb.com/news/shohei-ohtani-health-updates-2026-offseason",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uhzxa97sultdskvriapk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-10-21T22:20:23+00:00",
+      "time_ago": "10m ago"
+    },
     {
       "title": "For longtime Brewers employees, the wait for another World Series run is finally over",
       "link": "https://www.mlb.com/news/brewers-longtime-employees-who-work-for-2026-world-series-team",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-21T21:20:09+00:00",
-      "time_ago": "53m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "What do the '82 Brewers think of the '26 Brewers and their World Series run?",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-21T17:57:34+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "A video aligned Simpson sprinting to 1B and Caminero's HR trot -- the result was hilarious",
-      "link": "https://www.mlb.com/news/chandler-simpson-bunt-singles-vs-junior-caminero-home-run-trot",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mdege0tjdhra2wmssrgi",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-21T17:43:11+00:00",
       "time_ago": "4h ago"
     }
   ]
