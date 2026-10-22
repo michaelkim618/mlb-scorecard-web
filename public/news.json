@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-10-22T13:32:15.840150+00:00",
+  "updated_at": "2026-10-22T17:54:17.886824+00:00",
   "news": [
+    {
+      "title": "Rays-Brewers World Series position-by-position breakdown",
+      "link": "https://www.mlb.com/news/rays-brewers-2026-world-series-position-by-position-breakdown",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ejpnjlwrkt8wnrzg02ha",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mike Petriello",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-22T17:05:00+00:00",
+      "time_ago": "49m ago"
+    },
+    {
+      "title": "Longtime catcher Mitch Garver retiring after 10 seasons (source)",
+      "link": "https://www.mlb.com/news/mitch-garver-retires",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a6lvshdj9gi1ronast7g",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-22T16:21:08+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Benzinger, 1990 WS champion with Reds, passes away at 63",
+      "link": "https://www.mlb.com/news/todd-benzinger-passes-away",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hjbxyl86gzpziqktunod",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Cincinnati Reds",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-22T15:59:55+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Venable named Sporting News AL Manager of the Year",
+      "link": "https://www.mlb.com/news/will-venable-named-2026-sporting-news-al-manager-of-the-year",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/h6lc4fw74k3ux8nyavuz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-22T15:41:19+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "The Rays didn't even mean to scout him ... now he's integral to this World Series run",
+      "link": "https://www.mlb.com/news/jonathan-aranda-journey-to-major-leagues",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wmmdsynqiubavgjgow4h",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-22T15:35:00+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "5 fun Miz facts: Get to know the man behind the triple-digit heat",
+      "link": "https://www.mlb.com/news/jacob-misiorowski-background-hobbies",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ydld9awuhhqdzue9pglo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Sweet",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-22T15:14:53+00:00",
+      "time_ago": "2h ago"
+    },
     {
       "title": "World Series could turn into a track meet. Can either team slow the other down?",
       "link": "https://www.mlb.com/news/world-series-2026-brewers-rays-speed-stolen-bases-matchup",
@@ -12,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-22T04:00:00+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "A's new baseball ops president Smith 'so excited to build on' young core",
-      "link": "https://www.mlb.com/news/taylor-smith-introduced-as-athletics-president-of-baseball-operations",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792634923/mlb/wlyl1sypepzwghifhkvv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Martín Gallegos",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-22T02:27:44+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "13h ago"
     },
     {
       "title": "Rushing undergoes surgery to repair partially torn UCL in right elbow",
@@ -38,71 +103,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-10-22T01:39:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Angels decline Suzuki's option, will seek new manager, permanent GM",
-      "link": "https://www.mlb.com/news/angels-decline-manager-kurt-suzuki-contract-option",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/huo56y1eb4mqnyagbgl9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Rhett Bollinger",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-22T00:04:00+00:00",
-      "time_ago": "13h ago"
-    },
-    {
-      "title": "The Rays didn't even mean to scout him ... now he's integral to this World Series run",
-      "link": "https://www.mlb.com/news/jonathan-aranda-journey-to-major-leagues",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792625398/mlb/ormltiypoovkfnhtmk80",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-22T00:00:07+00:00",
-      "time_ago": "13h ago"
-    },
-    {
-      "title": "Each team's top performer from the 2026 Draft",
-      "link": "https://www.mlb.com/news/2026-draft-top-performer-for-each-team",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lkfnn9bhzdrw6oqwcqcd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sam Dykstra, Jim Callis and Jonathan Mayo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-22T00:00:00+00:00",
-      "time_ago": "13h ago"
-    },
-    {
-      "title": "Ohtani won't need surgery, expects to return to 2-way form. How that looks is up in the air",
-      "link": "https://www.mlb.com/news/shohei-ohtani-health-updates-2026-offseason",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uhzxa97sultdskvriapk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-10-21T22:20:23+00:00",
-      "time_ago": "15h ago"
-    },
-    {
-      "title": "For longtime Brewers employees, the wait for another World Series run is finally over",
-      "link": "https://www.mlb.com/news/brewers-longtime-employees-who-work-for-2026-world-series-team",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vn4rbougooizbbn6y6ya",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-21T21:20:09+00:00",
       "time_ago": "16h ago"
     }
   ]
