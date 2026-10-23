@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-23T19:39:19.624673+00:00",
+  "updated_at": "2026-10-23T20:00:06.011120+00:00",
   "news": [
+    {
+      "title": "Did you know? Cash and Murph have already met in the World Series once before...",
+      "link": "https://www.mlb.com/news/pat-murphy-kevin-cash-1998-college-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qiahbx4iatvynofitfsb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-23T19:35:43+00:00",
+      "time_ago": "24m ago"
+    },
     {
       "title": "MLBx brings baseball to India with event in Mumbai",
       "link": "https://www.mlb.com/news/mlbx-mumbai-brings-baseball-to-india",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-23T19:24:06+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "35m ago"
     },
     {
       "title": "MLB Pipeline Pitching Lab: Tekoah Roby",
@@ -90,19 +103,6 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-23T15:39:31+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "After remarkable recovery, Woodruff earns spot on Brewers' World Series roster",
-      "link": "https://www.mlb.com/news/brandon-woodruff-brewers-2026-world-series-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mcr3ogtscpsm6es0ezsv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-23T15:36:00+00:00",
       "time_ago": "4h ago"
     }
   ]
