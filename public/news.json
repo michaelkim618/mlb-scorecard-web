@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-23T01:48:43.375963+00:00",
+  "updated_at": "2026-10-23T04:06:11.546842+00:00",
   "news": [
+    {
+      "title": "'We're incredibly lucky to have him': Cash the right man to lead Rays",
+      "link": "https://www.mlb.com/news/kevin-cash-evolving-his-style-as-rays-manager",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/foslxubmd0eirdkymo8h",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-23T01:59:10+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "MLB provides immersive World Series preview with one-of-a-kind display inside Oculus",
+      "link": "https://www.mlb.com/news/major-league-baseball-displays-world-series-preview-in-the-oculus",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/axzpc8p2tojsmmeyb4ox",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-23T01:49:15+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Simpson's slick feet go all the way back to middle school",
+      "link": "https://www.mlb.com/news/chandler-simpson-brings-famous-speed-to-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792717797/mlb/ig6fusgjf2oyqwluteny",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-23T01:43:25+00:00",
+      "time_ago": "2h ago"
+    },
     {
       "title": "Bauers, Díaz reunite in World Series 8 years after trade that altered their careers",
       "link": "https://www.mlb.com/news/jake-bauers-yandy-diaz-discuss-2018-trade-world-series",
@@ -12,20 +51,46 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-10-23T01:26:45+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "2h ago"
     },
     {
-      "title": "Small-town West Virginia boy Kyle West has sights set on big-city Yankees",
-      "link": "https://www.mlb.com/news/yankees-prospect-kyle-west-road-to-bronx-runs-through-arizona-fall-league",
+      "title": "3 burning questions ahead of World Series Game 1",
+      "link": "https://www.mlb.com/news/2026-world-series-game-1-storylines-rays-brewers",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cducczgpekthufoxoze9",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792724570/mlb/y0a6hfbpkcl4gkcl5w70",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Jesse Borek",
+      "author": "Will Leitch",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-23T01:15:07+00:00",
-      "time_ago": "33m ago"
+      "pub_date": "2026-10-23T01:10:30+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Our experts make their World Series predictions",
+      "link": "https://www.mlb.com/news/expert-predictions-for-the-rays-brewers-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wu4jr6qcbxdozjh2upib",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-23T01:09:55+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Ranking the 10 best hitters in this year's World Series",
+      "link": "https://www.mlb.com/news/2026-world-series-hitter-power-rankings",
+      "summary": "It's a Fall Classic edition of the Hitter Power Rankings",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ckebzqk5ouqutl4vjwof",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Andrew Simon",
+      "tag": "Rankings",
+      "tag_color": "#4F46E5",
+      "pub_date": "2026-10-23T01:09:43+00:00",
+      "time_ago": "2h ago"
     },
     {
       "title": "How team dinners 'made a huge impact' on AL champion Rays",
@@ -38,71 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-23T00:29:26+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Meet the true X-factors in this World Series: The roofs",
-      "link": "https://www.mlb.com/news/ground-rules-for-roofs-rays-brewers-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ofbtgzo9zrjjyqkg2brv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry and Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-23T00:16:34+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "How the former Top 100 prospects in this year's World Series stack up",
-      "link": "https://www.mlb.com/news/2026-world-series-players-ranked-as-prospects",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g4czzdcds15cmtpbtwgf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jonathan Mayo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-22T23:40:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Rays-Brewers World Series Game 1 FAQ (Fri., 8 ET on FOX)",
-      "link": "https://www.mlb.com/news/rays-brewers-world-series-game-1-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wojfomdptkxpnxomgfs7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince, Adam Berry and Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-22T23:13:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Ribs, brat rangoon and, of course, beer: Brewers bringing 'flair' with World Series menu",
-      "link": "https://www.mlb.com/news/brewers-unveil-special-ballpark-menu-for-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792709044/mlb/yvcbwbumtgdn8ixvetmv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-22T23:01:32+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Rays tab Martinez over Rasmussen in Game 1",
-      "link": "https://www.mlb.com/news/rays-name-nick-martinez-world-series-game-1-starter",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ag6c7yote63yfmvhnpgr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-22T22:45:00+00:00",
       "time_ago": "3h ago"
     }
   ]
