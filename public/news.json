@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-23T22:33:02.837725+00:00",
+  "updated_at": "2026-10-23T22:59:48.798306+00:00",
   "news": [
+    {
+      "title": "'Last Man Standing': Murphy gets FaceTime call from idol Springsteen",
+      "link": "https://www.mlb.com/news/pat-murphy-gets-facetime-call-from-bruce-springsteen",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nwkprgprfivuphhbyz5h",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-23T22:41:07+00:00",
+      "time_ago": "18m ago"
+    },
     {
       "title": "Cleavinger back on Rays' World Series roster",
       "link": "https://www.mlb.com/news/rays-2026-world-series-roster",
@@ -38,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-23T20:49:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Woodruff makes unexpected comeback to join World Series roster",
@@ -51,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-23T20:44:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Did you know? Cash and Murph have already met in the World Series once before...",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-23T19:35:43+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "MLBx brings baseball to India with event in Mumbai",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-23T17:28:40+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Where does Stanton fit in Yankees' plans for 2027?",
-      "link": "https://www.mlb.com/news/giancarlo-stanton-yankees-role-2027-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iriljps9z2rrhocw3pcq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-23T17:10:53+00:00",
       "time_ago": "5h ago"
     }
   ]
