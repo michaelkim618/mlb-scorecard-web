@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-23T01:07:59.992042+00:00",
+  "updated_at": "2026-10-23T01:48:43.375963+00:00",
   "news": [
+    {
+      "title": "Bauers, Díaz reunite in World Series 8 years after trade that altered their careers",
+      "link": "https://www.mlb.com/news/jake-bauers-yandy-diaz-discuss-2018-trade-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zy1etbik9kttiervqkgo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-10-23T01:26:45+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "Small-town West Virginia boy Kyle West has sights set on big-city Yankees",
+      "link": "https://www.mlb.com/news/yankees-prospect-kyle-west-road-to-bronx-runs-through-arizona-fall-league",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cducczgpekthufoxoze9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jesse Borek",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-23T01:15:07+00:00",
+      "time_ago": "33m ago"
+    },
+    {
+      "title": "How team dinners 'made a huge impact' on AL champion Rays",
+      "link": "https://www.mlb.com/news/rays-enjoy-team-dinners-throughout-2026-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792714012/mlb/anmbcweqsyesomvnw9iw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-23T00:29:26+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Meet the true X-factors in this World Series: The roofs",
       "link": "https://www.mlb.com/news/ground-rules-for-roofs-rays-brewers-world-series",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-23T00:16:34+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "How the former Top 100 prospects in this year's World Series stack up",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-22T23:40:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Rays-Brewers World Series Game 1 FAQ (Fri., 8 ET on FOX)",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-22T23:13:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Ribs, brat rangoon and, of course, beer: Brewers bringing 'flair' with World Series menu",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-22T22:45:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "As deadline nears, odds of Woodruff making Crew's WS roster 'literally a 50-50 tossup'",
-      "link": "https://www.mlb.com/news/brandon-woodruff-brewers-2026-world-series-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mcr3ogtscpsm6es0ezsv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-10-22T22:34:46+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Neander, Arnold put 19-year friendship aside as teams square off for title",
-      "link": "https://www.mlb.com/news/matt-arnold-erik-neander-worked-together-with-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zqyvnbcy97xpl0y0izvb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry and Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-22T22:20:24+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Vogt affirms he'll be back as Guardians' skipper in 2027",
-      "link": "https://www.mlb.com/news/stephen-vogt-to-remain-as-guardians-manager-in-2027",
-      "summary": "Pitching coach Willis will also return next season as coaching staff likely to remain intact",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792705778/mlb/c8yudftlp5q5dwktmmwj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-22T22:01:02+00:00",
       "time_ago": "3h ago"
     }
   ]
