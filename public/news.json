@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-23T00:02:19.063811+00:00",
+  "updated_at": "2026-10-23T00:23:31.540582+00:00",
   "news": [
+    {
+      "title": "Meet the true X-factors in this World Series: The roofs",
+      "link": "https://www.mlb.com/news/ground-rules-for-roofs-rays-brewers-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ofbtgzo9zrjjyqkg2brv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry and Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-23T00:16:34+00:00",
+      "time_ago": "6m ago"
+    },
+    {
+      "title": "How the former Top 100 prospects in this year's World Series stack up",
+      "link": "https://www.mlb.com/news/2026-world-series-players-ranked-as-prospects",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g4czzdcds15cmtpbtwgf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jonathan Mayo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-22T23:40:00+00:00",
+      "time_ago": "43m ago"
+    },
     {
       "title": "Rays-Brewers World Series Game 1 FAQ (Fri., 8 ET on FOX)",
       "link": "https://www.mlb.com/news/rays-brewers-world-series-game-1-starting-lineups-and-pitching-matchup",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-22T23:13:00+00:00",
-      "time_ago": "49m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Ribs, brat rangoon and, of course, beer: Brewers bringing 'flair' with World Series menu",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-22T22:20:24+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Vogt affirms he'll be back as Guardians' skipper in 2027",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-22T22:01:02+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Yes, Misiorowski also teared up watching that viral interview of young fan after NLCS win",
-      "link": "https://www.mlb.com/news/jacob-misiorowski-reacts-to-young-fan-interviewed-after-brewers-nlcs-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mogcfiboc6ng3tqwkol4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-22T21:14:56+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Winners of the 2026 Fielding Bible Awards announced",
-      "link": "https://www.mlb.com/news/fielding-bible-award-winners-for-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uu88gvkhrx20whyhcxif",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Shanthi Sepe-Chupuru",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-10-22T19:13:23+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }
