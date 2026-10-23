@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-23T12:42:47.019750+00:00",
+  "updated_at": "2026-10-23T13:08:35.722008+00:00",
   "news": [
+    {
+      "title": "The World Series could hinge on this strength-on-strength matchup",
+      "link": "https://www.mlb.com/news/rays-defense-vs-brewers-offense-in-2026-world-series",
+      "summary": "The Brewers are hard to defend. But nobody defends like the Rays",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/s0ejjlbkqcnfzxi1sy7h",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mike Petriello",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-23T12:44:00+00:00",
+      "time_ago": "24m ago"
+    },
     {
       "title": "'We're incredibly lucky to have him': Cash the right man to lead Rays",
       "link": "https://www.mlb.com/news/kevin-cash-evolving-his-style-as-rays-manager",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-23T01:59:10+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "MLB provides immersive World Series preview with one-of-a-kind display inside Oculus",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-23T01:49:15+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Simpson's slick feet go all the way back to middle school",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-23T01:43:25+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Bauers, Díaz reunite in World Series 8 years after trade that altered their careers",
@@ -91,19 +104,6 @@
       "tag_color": "#4F46E5",
       "pub_date": "2026-10-23T01:09:43+00:00",
       "time_ago": "11h ago"
-    },
-    {
-      "title": "How team dinners 'made a huge impact' on AL champion Rays",
-      "link": "https://www.mlb.com/news/rays-enjoy-team-dinners-throughout-2026-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792714012/mlb/anmbcweqsyesomvnw9iw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-23T00:29:26+00:00",
-      "time_ago": "12h ago"
     }
   ]
 }
