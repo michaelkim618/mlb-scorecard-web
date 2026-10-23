@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-23T20:12:44.370165+00:00",
+  "updated_at": "2026-10-23T20:35:14.224844+00:00",
   "news": [
+    {
+      "title": "Rays-Brewers World Series Game 1 FAQ, lineups (Fri., 8 ET on FOX/FOX One)",
+      "link": "https://www.mlb.com/news/rays-brewers-world-series-game-1-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wojfomdptkxpnxomgfs7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince, Adam Berry and Adam McCalvy",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-23T20:23:00+00:00",
+      "time_ago": "12m ago"
+    },
     {
       "title": "Did you know? Cash and Murph have already met in the World Series once before...",
       "link": "https://www.mlb.com/news/pat-murphy-kevin-cash-1998-college-world-series",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-23T19:35:43+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "MLBx brings baseball to India with event in Mumbai",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-23T19:24:06+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "MLB Pipeline Pitching Lab: Tekoah Roby",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-23T17:28:40+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Where does Stanton fit in Yankees' plans for 2027?",
@@ -64,7 +77,7 @@
       "tag": "Rankings",
       "tag_color": "#4F46E5",
       "pub_date": "2026-10-23T16:35:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "How the former Top 100 prospects in this year's World Series stack up",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-23T16:28:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Caminero damages videoboard with BP homer before World Series Game 1",
@@ -90,19 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-23T16:08:37+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "He's in: Woodruff added to Crew's World Series roster",
-      "link": "https://www.mlb.com/news/brewers-2026-world-series-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yxqlfugnradkqsccydml",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-23T15:39:31+00:00",
       "time_ago": "4h ago"
     }
   ]
