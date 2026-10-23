@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-23T21:33:41.742912+00:00",
+  "updated_at": "2026-10-23T21:57:02.682762+00:00",
   "news": [
+    {
+      "title": "Cleavinger back on Rays' World Series roster",
+      "link": "https://www.mlb.com/news/rays-2026-world-series-roster",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nuhghjc2zwjfkz0uucxq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-23T21:30:00+00:00",
+      "time_ago": "27m ago"
+    },
     {
       "title": "Rays-Brewers World Series Game 1 FAQ, lineups (8 ET on FOX/FOX One)",
       "link": "https://www.mlb.com/news/rays-brewers-world-series-game-1-starting-lineups-and-pitching-matchup",
@@ -12,7 +25,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-23T20:49:00+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "He's in: Woodruff added to Crew's World Series roster",
@@ -25,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-23T20:44:00+00:00",
-      "time_ago": "49m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Did you know? Cash and Murph have already met in the World Series once before...",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-23T19:35:43+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "MLBx brings baseball to India with event in Mumbai",
@@ -90,19 +103,6 @@
       "tag": "Rankings",
       "tag_color": "#4F46E5",
       "pub_date": "2026-10-23T16:35:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "How the former Top 100 prospects in this year's World Series stack up",
-      "link": "https://www.mlb.com/news/2026-world-series-players-ranked-as-prospects",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g4czzdcds15cmtpbtwgf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jonathan Mayo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-23T16:28:00+00:00",
       "time_ago": "5h ago"
     }
   ]
