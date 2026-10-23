@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-23T18:49:09.811146+00:00",
+  "updated_at": "2026-10-23T19:35:24.610075+00:00",
   "news": [
+    {
+      "title": "MLBx brings baseball to India with event in Mumbai",
+      "link": "https://www.mlb.com/news/mlbx-mumbai-brings-baseball-to-india",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xu14ryeqbig9plpwrrzn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Manny Randhawa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-23T19:24:06+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "MLB Pipeline Pitching Lab: Tekoah Roby",
+      "link": "https://www.mlb.com/news/tekoah-roby-pitching-breakdown",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gbhhxuibuq5hjlsqmqyg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sam Dykstra",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-23T17:28:40+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Where does Stanton fit in Yankees' plans for 2027?",
+      "link": "https://www.mlb.com/news/giancarlo-stanton-yankees-role-2027-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iriljps9z2rrhocw3pcq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-23T17:10:53+00:00",
+      "time_ago": "2h ago"
+    },
     {
       "title": "Ranking the 10 best hitters in this year's World Series",
       "link": "https://www.mlb.com/news/2026-world-series-hitter-power-rankings",
@@ -12,7 +51,7 @@
       "tag": "Rankings",
       "tag_color": "#4F46E5",
       "pub_date": "2026-10-23T16:35:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "How the former Top 100 prospects in this year's World Series stack up",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-23T16:28:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Caminero damages videoboard with BP homer before World Series Game 1",
@@ -38,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-23T16:08:37+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "He's in: Woodruff added to Crew's World Series roster",
@@ -64,45 +103,6 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-23T15:36:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Rays-Brewers World Series Game 1 FAQ (Fri., 8 ET on FOX/FOX One)",
-      "link": "https://www.mlb.com/news/rays-brewers-world-series-game-1-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wojfomdptkxpnxomgfs7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince, Adam Berry and Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-23T15:32:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Cleavinger back on Rays' World Series roster",
-      "link": "https://www.mlb.com/news/rays-2026-world-series-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nuhghjc2zwjfkz0uucxq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-23T15:31:25+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "There for Milwaukee's World Series in '50s, Torre is watching this one closely",
-      "link": "https://www.mlb.com/news/joe-torre-on-1950s-world-series-in-milwaukee",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lqek5pnnzgdoaekirk08",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sweeny Murti",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-23T15:08:58+00:00",
       "time_ago": "3h ago"
     }
   ]
