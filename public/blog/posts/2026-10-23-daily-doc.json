@@ -1,11 +1,11 @@
 {
-  "title": "Oct 23 Results + Oct 24 Preview: Perfect Regression to Excellence",
-  "summary": "1-0 sweep on Oct 23. Brewers deliver expected value. Oct 24 rematch analysis inside.",
+  "title": "Oct 23 Results + Oct 24 Preview: Perfect Information Coefficient",
+  "summary": "100% accuracy on Oct 23 slate. Brewers model consensus validated with single-game precision.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Oct 23 Recap: A Sample Size of One, Done Right\n\nIn sabermetrics, we're taught to resist small sample theater. But when your singular pick converts at 100% efficiency, you take the W and update your priors accordingly. The model posted a clean 1-0 slate on October 23rd, with Milwaukee doing exactly what the regression indicators suggested they would against Tampa Bay."
+      "value": "## Oct 23 Results: Maximum Likelihood Achieved\n\nIn a limited sample size of n=1, our model posted a flawless 1-0 record, though any statistician worth their salt knows we shouldn't over-index on single-day variance. That said, when your Bayesian prior aligns perfectly with observed outcomes, you take the W and move forward with updated priors."
     },
     {
       "type": "stat_row",
@@ -19,7 +19,7 @@
           "value": "100.0%"
         },
         {
-          "label": "Model Confidence",
+          "label": "Confidence Level",
           "value": "55%"
         }
       ]
@@ -51,12 +51,12 @@
     },
     {
       "type": "table",
-      "title": "Oct 23 Full Results Breakdown",
+      "title": "Oct 23 Complete Results",
       "headers": [
         "Matchup",
         "Pick",
-        "Confidence",
-        "Result"
+        "Probability",
+        "Outcome"
       ],
       "rows": [
         [
@@ -69,43 +69,26 @@
     },
     {
       "type": "text",
-      "value": "## The Milwaukee Blueprint Executed\n\nThe 55% confidence interval on Milwaukee wasn't screaming conviction, but the underlying metrics supported home field advantage and run differential expectations. When you're calibrating probability estimates, a 55% edge that converts is worth exactly as much as a 95% edge—it's one unit of expected value realized. The Brewers' pitching staff continues to suppress quality contact at elite rates, and American Family Field's park factors played precisely to expectation."
+      "value": "## Statistical Context: The 55% Sweet Spot\n\nOur Brewers selection carried just 55% win probability—a modest edge that reflects the proper epistemic humility when dealing with high-variance environments. This wasn't a slam-dunk 70% play; it was a marginal edge properly quantified. Milwaukee's home field advantage and pitching matchup tilted the expected value calculation in their favor, and the result validated our regression model's coefficients."
     },
     {
       "type": "text",
-      "value": "## Oct 24 Preview: Rematch Dynamics and Pitcher Variance\n\nTomorrow brings an immediate rematch, which introduces fascinating questions about sample autocorrelation. Do yesterday's results inform today's probability distribution? The model says: barely. We're projecting Milwaukee again, but confidence has actually *decreased* to 50%—a true coin flip with microscopic edge."
+      "value": "## Oct 24 Preview: Sequential Matchup Analysis\n\nInteresting developments in tomorrow's slate: we're seeing the same Rays-Brewers pairing for a second consecutive game. From a modeling perspective, this creates fascinating autocorrelation questions. How much does yesterday's outcome inform today's probability distribution? The answer: less than you'd think, given independent pitching matchups.\n\nDrew Rasmussen takes the ball for Tampa Bay against Milwaukee's Logan Henderson. This represents a fresh sample from our probability distribution, requiring updated regression inputs based on pitcher-specific metrics rather than team-level priors from yesterday's contest."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Tomorrow's Top Pick - Oct 24",
+      "title": "⭐ Oct 24 Top Pick",
       "value": "Milwaukee Brewers",
-      "sub": "50% win probability · Rasmussen vs Henderson · True toss-up territory"
+      "sub": "50% win probability · Rasmussen vs Henderson"
     },
     {
       "type": "text",
-      "value": "## Pitcher Matchup: Rasmussen vs Henderson\n\nDrew Rasmussen brings Tampa Bay's trademark command-over-stuff philosophy. His walk rate metrics remain elite, but the Brewers' disciplined approach at the plate (top-10 in chase rate) neutralizes that edge. Logan Henderson counters with swing-and-miss upside—his whiff percentage grades above average, particularly on breaking balls.\n\nThe WAR projections here are essentially symmetrical. Neither pitcher provides multi-win separation talent, which pushes us back toward home field advantage as the deciding micro-edge. At 50% confidence, this is a model recommendation that admits uncertainty—exactly the kind of intellectual honesty that separates long-term profitable handicapping from narrative-driven guesswork.\n\nExpect tight run environment. Expect bullpen leverage situations. Expect one-run game variance to determine outcome."
-    },
-    {
-      "type": "stat_row",
-      "stats": [
-        {
-          "label": "Model Edge",
-          "value": "0.0%"
-        },
-        {
-          "label": "Expected Runs",
-          "value": "7.5-8.5"
-        },
-        {
-          "label": "Leverage Index",
-          "value": "High"
-        }
-      ]
+      "value": "## The Equilibrium Pick: True 50-50 Proposition\n\nTomorrow's model output represents what sabermetricians dream about: a pure toss-up. At exactly 50% win probability, this isn't a strong recommendation—it's an acknowledgment that our feature set identifies no meaningful edge. Rasmussen brings a respectable skill set to the mound, while Henderson's underlying metrics suggest competence without dominance.\n\nWhen the model speaks at 50%, the intellectually honest response isn't to force conviction where none exists. It's to recognize that baseball's inherent randomness occasionally produces scenarios where the best prediction is maximum uncertainty. We're selecting Milwaukee based on infinitesimal home field adjustments in our park factor regression, but make no mistake: this is essentially a coin flip with stadium-specific weighting."
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nOct 23 delivered efficient conversion of modest probability advantage. Oct 24 presents a true test of process over results—when the model says \"50%,\" it's acknowledging that coin flips exist in baseball. We're backing Milwaukee based on microscopic park factor and bullpen depth advantages, but make no mistake: this is variance territory.\n\nStay process-focused. Trust the regression. See you after first pitch."
+      "value": "## Expected Value Considerations\n\nFrom a WAR-adjacent framework, neither starting pitcher profiles as a true difference-maker in this matchup. Rasmussen's strikeout and walk rates suggest league-average production, while Henderson's limited track record introduces additional variance into our posterior distribution. The bullpen depth charts and recent usage patterns show minimal separation between these clubs.\n\nIn betting market terms, a 50% model probability should align with -110/-110 pricing or we've identified market inefficiency. Any significant deviation from pick'em odds would suggest either our model missed relevant signal or the broader market has information we don't.\n\nMoving forward with realistic expectations: tomorrow's pick carries maximum uncertainty and minimum edge. We're playing the long game of marginal gains, and sometimes that means acknowledging when our regression to the mean calculation lands exactly at the mean."
     }
   ],
   "slug": "2026-10-23-daily-doc",
