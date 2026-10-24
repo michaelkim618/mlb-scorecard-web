@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-24T00:12:18.591790+00:00",
+  "updated_at": "2026-10-24T00:52:18.043100+00:00",
   "news": [
+    {
+      "title": "For Rasmussen's G2 start, he'll face team he'd otherwise be rooting for",
+      "link": "https://www.mlb.com/news/drew-rasmussen-to-face-former-team-in-game-2-of-2026-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792796154/mlb/ks12nu6zhdjhz3rmvev4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-24T00:43:40+00:00",
+      "time_ago": "8m ago"
+    },
     {
       "title": "LIVE: Rays-Brewers World Series Game 1 on FOX/FOX One",
       "link": "https://www.mlb.com/news/rays-brewers-world-series-game-1-starting-lineups-and-pitching-matchup",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-24T00:00:00+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "Junior Caminero's batting practice sessions are becoming a demolition derby",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-23T23:41:00+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'Last Man Standing': Murphy gets FaceTime call from idol Springsteen",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-23T22:41:07+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Cleavinger back on Rays' World Series roster",
@@ -51,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-23T21:30:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "3 keys heading into Game 1 of the World Series",
@@ -67,6 +80,19 @@
       "time_ago": "3h ago"
     },
     {
+      "title": "Brewers broadcasters to sport Bob Uecker's jackets during World Series Game 1",
+      "link": "https://www.mlb.com/news/brewers-announcers-wearing-bob-uecker-jackets-during-2026-world-series-game-1",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zlzqmxbmlgfx54ug7z7p",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-23T20:58:36+00:00",
+      "time_ago": "3h ago"
+    },
+    {
       "title": "Woodruff makes unexpected comeback to join World Series roster",
       "link": "https://www.mlb.com/news/brewers-2026-world-series-roster",
       "summary": "",
@@ -77,32 +103,6 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-23T20:44:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Did you know? Cash and Murph have already met in the World Series once before...",
-      "link": "https://www.mlb.com/news/pat-murphy-kevin-cash-1998-college-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qiahbx4iatvynofitfsb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-23T19:35:43+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "MLBx brings baseball to India with event in Mumbai",
-      "link": "https://www.mlb.com/news/mlbx-mumbai-brings-baseball-to-india",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xu14ryeqbig9plpwrrzn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-23T19:24:06+00:00",
       "time_ago": "4h ago"
     }
   ]
