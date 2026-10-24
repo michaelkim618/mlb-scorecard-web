@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-24T04:50:14.043296+00:00",
+  "updated_at": "2026-10-24T05:35:40.467017+00:00",
   "news": [
+    {
+      "title": "In Game 2, Rasmussen will try to beat team he'd otherwise be rooting for",
+      "link": "https://www.mlb.com/news/drew-rasmussen-to-face-former-team-in-game-2-of-2026-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792796154/mlb/ks12nu6zhdjhz3rmvev4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-24T04:44:00+00:00",
+      "time_ago": "51m ago"
+    },
     {
       "title": "3 key questions for World Series Game 2",
       "link": "https://www.mlb.com/news/2026-world-series-game-2-storylines-rays-vs-brewers",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-24T04:37:18+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Crew strikes early, hangs on to take Game 1 in front of raucous fans",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-24T04:05:00+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "4 key takeaways after Brewers win a thriller to start World Series",
@@ -38,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-24T03:59:18+00:00",
-      "time_ago": "50m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Brewers won their first World Series game in 44 years. And then they won it again",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-24T03:51:10+00:00",
-      "time_ago": "59m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "It took all of 1 pitch for a World Series record",
@@ -64,19 +77,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-24T03:51:00+00:00",
-      "time_ago": "59m ago"
-    },
-    {
-      "title": "For Rasmussen's G2 start, he'll face team he'd otherwise be rooting for",
-      "link": "https://www.mlb.com/news/drew-rasmussen-to-face-former-team-in-game-2-of-2026-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792796154/mlb/ks12nu6zhdjhz3rmvev4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-24T03:45:00+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-24T00:58:03+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Junior Caminero's batting practice sessions are becoming a demolition derby",
