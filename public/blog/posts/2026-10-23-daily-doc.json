@@ -1,26 +1,30 @@
 {
-  "title": "Oct 23 Results + Oct 24 Preview: Perfect Information Coefficient",
-  "summary": "100% accuracy on Oct 23 slate. Brewers model consensus validated with single-game precision.",
+  "title": "Oct 23 Results + Oct 24 Preview: Perfect Efficiency in Small Sample Theater",
+  "summary": "Model goes 1-0 on Oct 23; Brewers-Rays rematch brings familiar variance patterns",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Oct 23 Results: Maximum Likelihood Achieved\n\nIn a limited sample size of n=1, our model posted a flawless 1-0 record, though any statistician worth their salt knows we shouldn't over-index on single-day variance. That said, when your Bayesian prior aligns perfectly with observed outcomes, you take the W and move forward with updated priors."
+      "value": "## Oct 23 Results: Maximum Accuracy, Minimum Sample\n\nIn the perpetual tension between sample size and outcome, yesterday provided the least statistically meaningful perfect record possible: 1-0. The model projected Milwaukee at 55% against Tampa Bay, and variance cooperated. Let's be clear—a single correct prediction tells us virtually nothing about model skill, but it does keep our cumulative win rate climbing. We'll take the green check mark while acknowledging the underlying statistical reality."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Oct 23 W-L",
+          "label": "Oct 23 Record",
           "value": "1-0"
         },
         {
-          "label": "Accuracy",
+          "label": "Win Rate",
           "value": "100.0%"
         },
         {
-          "label": "Confidence Level",
-          "value": "55%"
+          "label": "Sample Size",
+          "value": "n=1"
+        },
+        {
+          "label": "Confidence Interval",
+          "value": "Wide"
         }
       ]
     },
@@ -51,11 +55,11 @@
     },
     {
       "type": "table",
-      "title": "Oct 23 Complete Results",
+      "title": "Complete Oct 23 Results Breakdown",
       "headers": [
         "Matchup",
         "Pick",
-        "Probability",
+        "Confidence",
         "Outcome"
       ],
       "rows": [
@@ -63,32 +67,36 @@
           "Rays @ Brewers",
           "Brewers",
           "55%",
-          "✓ Hit"
+          "✓ Win"
         ]
       ]
     },
     {
       "type": "text",
-      "value": "## Statistical Context: The 55% Sweet Spot\n\nOur Brewers selection carried just 55% win probability—a modest edge that reflects the proper epistemic humility when dealing with high-variance environments. This wasn't a slam-dunk 70% play; it was a marginal edge properly quantified. Milwaukee's home field advantage and pitching matchup tilted the expected value calculation in their favor, and the result validated our regression model's coefficients."
+      "value": "## The 55% Win Probability Zone\n\nYesterday's projection fell into what I call the \"statistical honesty zone\"—close enough to 50% that we're essentially admitting the game could go either way, but with enough lean to identify marginal value. A 55% projection converting to a win is exactly what should happen 55% of the time over infinite trials. One instance? Noise. But directionally correct noise is always preferable."
     },
     {
       "type": "text",
-      "value": "## Oct 24 Preview: Sequential Matchup Analysis\n\nInteresting developments in tomorrow's slate: we're seeing the same Rays-Brewers pairing for a second consecutive game. From a modeling perspective, this creates fascinating autocorrelation questions. How much does yesterday's outcome inform today's probability distribution? The answer: less than you'd think, given independent pitching matchups.\n\nDrew Rasmussen takes the ball for Tampa Bay against Milwaukee's Logan Henderson. This represents a fresh sample from our probability distribution, requiring updated regression inputs based on pitcher-specific metrics rather than team-level priors from yesterday's contest."
+      "value": "## Oct 24 Preview: Same Teams, Different Variance Draw\n\nThe baseball gods have granted us an immediate rematch: Rays at Brewers, take two. But the underlying probabilities have shifted to a perfect coin flip at 50%. This is the model's way of saying the expected value differential has evaporated. The pitching matchup—Drew Rasmussen against Logan Henderson—presents more uncertainty than yesterday's arms."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Oct 24 Top Pick",
-      "value": "Milwaukee Brewers",
-      "sub": "50% win probability · Rasmussen vs Henderson"
+      "title": "⭐ Tomorrow's Top Pick - Oct 24",
+      "value": "Milwaukee Brewers (50%)",
+      "sub": "vs Tampa Bay Rays • Rasmussen vs Henderson • Pure Toss-Up Territory"
     },
     {
       "type": "text",
-      "value": "## The Equilibrium Pick: True 50-50 Proposition\n\nTomorrow's model output represents what sabermetricians dream about: a pure toss-up. At exactly 50% win probability, this isn't a strong recommendation—it's an acknowledgment that our feature set identifies no meaningful edge. Rasmussen brings a respectable skill set to the mound, while Henderson's underlying metrics suggest competence without dominance.\n\nWhen the model speaks at 50%, the intellectually honest response isn't to force conviction where none exists. It's to recognize that baseball's inherent randomness occasionally produces scenarios where the best prediction is maximum uncertainty. We're selecting Milwaukee based on infinitesimal home field adjustments in our park factor regression, but make no mistake: this is essentially a coin flip with stadium-specific weighting."
+      "value": "## Pitcher Matchup Analysis: Rasmussen vs Henderson\n\nDrew Rasmussen brings a track record of volatility—high strikeout upside paired with occasional command lapses. Logan Henderson profiles as a back-end starter with middling peripherals. Neither pitcher provides a significant platoon advantage or park factor edge at American Family Field. When the model returns a 50% probability, it's signaling that observable skill differentials are minimal. We're in pure variance territory."
     },
     {
       "type": "text",
-      "value": "## Expected Value Considerations\n\nFrom a WAR-adjacent framework, neither starting pitcher profiles as a true difference-maker in this matchup. Rasmussen's strikeout and walk rates suggest league-average production, while Henderson's limited track record introduces additional variance into our posterior distribution. The bullpen depth charts and recent usage patterns show minimal separation between these clubs.\n\nIn betting market terms, a 50% model probability should align with -110/-110 pricing or we've identified market inefficiency. Any significant deviation from pick'em odds would suggest either our model missed relevant signal or the broader market has information we don't.\n\nMoving forward with realistic expectations: tomorrow's pick carries maximum uncertainty and minimum edge. We're playing the long game of marginal gains, and sometimes that means acknowledging when our regression to the mean calculation lands exactly at the mean."
+      "value": "## The 50% Projection Dilemma\n\nHere's the sabermetric truth: a 50% pick is simultaneously our most honest projection and our least useful recommendation. There's no expected value edge. No Kelly Criterion would suggest a bet. Yet for tracking purposes, we log it as Milwaukee based on home field's marginal historical value. Consider this pick a placeholder for \"these teams are statistically indistinguishable today.\""
+    },
+    {
+      "type": "text",
+      "value": "## Expected Value Framework\n\nWith yesterday's 55% pick converting and today's projection sitting at the median, we're seeing the model operate across its full probability spectrum. The key metric isn't whether we go 2-0—it's whether our projected probabilities calibrate correctly over time. A properly calibrated model should see 50% picks win exactly half the time, 60% picks win 60% of the time, and so forth. Two games gives us nothing. Two hundred games gives us calibration curves.\n\nStay sharp. Trust the process. Respect the variance."
     }
   ],
   "slug": "2026-10-23-daily-doc",
