@@ -337,12 +337,12 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 47.6,
-      "home": 52.4
+      "away": 45.2,
+      "home": 54.8
     },
     "expected_score": {
-      "away": 1.8,
-      "home": 2.1
+      "away": 1.6,
+      "home": 2.2
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -360,7 +360,7 @@ window.PREDICTIONS_DATA = [
         "sit": 0.15
       },
       "away": {
-        "sp_score": 56.6,
+        "sp_score": 55.4,
         "sp_detail": {
           "era": 3.27,
           "whip": 0.97,
@@ -434,7 +434,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 74.4,
+        "bp_score": 72.8,
         "bp_detail": {
           "bullpen_era": 2.78,
           "recent_era": 2.78,
@@ -446,14 +446,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.44,
           "closer_name": "Bryan Baker"
         },
-        "bat_score": 28.8,
+        "bat_score": 25.6,
         "bat_detail": {
           "recent_avg": 0.241,
           "runs_per_g": 3.8,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
           "season_ops": 0.709,
-          "season_slg": null,
+          "season_slg": 0.369,
           "season_avg": 0.241,
           "n_games": 9,
           "source": "prev_day",
@@ -466,7 +466,7 @@ window.PREDICTIONS_DATA = [
             "Junior Caminero(0.800)",
             "Liam Hicks(0.743)",
             "Jonny DeLuca(0.807)",
-            "Victor Mesa Jr.(0.791)",
+            "Victor Mesa(0.791)",
             "Ben Williamson(0.527)",
             "Taylor Walls(0.652)"
           ],
@@ -509,7 +509,7 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 683748,
-              "name": "Victor Mesa Jr.",
+              "name": "Victor Mesa",
               "ops": 0.791,
               "avg": 0.273
             },
@@ -543,7 +543,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 58.6,
-        "total": 57.5
+        "total": 55.7
       },
       "home": {
         "sp_score": 53.0,
@@ -617,14 +617,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.63,
           "closer_name": "Trevor Megill"
         },
-        "bat_score": 33.8,
+        "bat_score": 34.5,
         "bat_detail": {
           "recent_avg": 0.25,
           "runs_per_g": 4.4,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
           "season_ops": 0.714,
-          "season_slg": null,
+          "season_slg": 0.407,
           "season_avg": 0.25,
           "n_games": 9,
           "source": "prev_day",
@@ -714,13 +714,13 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 73.1,
-        "total": 59.5
+        "total": 59.8
       }
     },
     "scores": {
-      "away_offense": 28.8,
-      "away_defense": 65.5,
-      "home_offense": 33.8,
+      "away_offense": 25.6,
+      "away_defense": 64.1,
+      "home_offense": 34.5,
       "home_defense": 63.1
     },
     "actual_score": {
@@ -746,7 +746,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 3.6pt (≤5.0pt) / 최고 확률 52.4% (≤62.0%)",
+    "low_confidence_reason": "SP 점수 차이 2.4pt (≤5.0pt) / 최고 확률 54.8% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false

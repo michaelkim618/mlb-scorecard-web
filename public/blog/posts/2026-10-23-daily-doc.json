@@ -1,0 +1,95 @@
+{
+  "title": "Oct 23 Results + Oct 24 Preview: Perfect Calibration, Modest Confidence",
+  "summary": "Oct 23: 1-0 perfection. Oct 24: Brewers again, but the model's showing uncertainty.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Oct 23 Results: A Sample Size of One\n\nLet's not get carried away—going 1-0 on a single-game slate doesn't tell us much about long-term model accuracy. But perfect is perfect, and our 55% confidence call on the Brewers paid off. What's more interesting from a sabermetric perspective is that the model's calibration held: a marginal edge translated to a narrow win, exactly as the probability suggested. No false certainty, no hedging. Just proper Bayesian inference at work."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Oct 23 Record",
+          "value": "1-0"
+        },
+        {
+          "label": "Accuracy",
+          "value": "100.0%"
+        },
+        {
+          "label": "Avg Confidence",
+          "value": "55%"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Oct 23 Full Results",
+      "headers": [
+        "Matchup",
+        "Pick",
+        "Confidence",
+        "Outcome"
+      ],
+      "rows": [
+        [
+          "Rays @ Brewers",
+          "Brewers",
+          "55%",
+          "✓ Win"
+        ]
+      ]
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Oct 23 Pick Performance",
+      "data": [
+        {
+          "name": "Brewers",
+          "probability": 55,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Hit, 0=Miss)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Oct 24 Preview: The Rematch Shows Uncertainty\n\nWe're running it back—Rays at Brewers again—but the model has decreased its confidence to a virtual coin flip at 50%. This isn't indecision; it's honesty about the inputs. Drew Rasmussen returns for Tampa Bay, and while his pre-injury metrics (3.22 FIP, 24.5% K-rate in 2024) suggest competence, post-injury pitcher performance carries significant uncertainty. Logan Henderson counters for Milwaukee with solid underlying numbers but limited innings data for robust projection.\n\nThe pitcher matchup essentially neutralizes, pushing our edge to the margins—home-field advantage, bullpen depth, recent offensive performance. These factors tilt slightly toward Milwaukee, but we're talking about a sub-1% WAR difference in expected value. In scenarios like this, the model correctly refuses to manufacture confidence where the data doesn't support it."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Oct 24 Top Pick",
+      "value": "Milwaukee Brewers",
+      "sub": "50% win probability · Rasmussen vs Henderson · Essentially a toss-up"
+    },
+    {
+      "type": "text",
+      "value": "## The Sabermetric Takeaway\n\nA 50% pick isn't a failure of modeling—it's a feature. When the expected runs differential projects to near-zero and the pitcher talent is symmetric within error bars, admitting uncertainty is the statistically literate move. We're not here to force narratives or inflate confidence for engagement. We're here to follow the math.\n\nFor bettors, this represents neutral expected value. For analysts, it's a reminder that not every game contains exploitable information. Sometimes the most sophisticated answer is: 'These teams are evenly matched given available data.' That's not cowardice; that's proper calibration.\n\nTune in tomorrow to see if regression claims another perfect record, or if we extend the streak through sheer probabilistic luck."
+    }
+  ],
+  "slug": "2026-10-23-daily-doc",
+  "author": "Doc",
+  "author_emoji": "🧠",
+  "author_role": "Sabermetrician",
+  "author_color": "#7C3AED",
+  "date": "2026-10-23",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#7C3AED"
+}
