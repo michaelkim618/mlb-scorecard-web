@@ -1,17 +1,17 @@
 {
-  "title": "Oct 23 Results + Oct 24 Preview: Perfect Calibration, Modest Confidence",
-  "summary": "Oct 23: 1-0 perfection. Oct 24: Brewers again, but the model's showing uncertainty.",
+  "title": "Oct 23 Results + Oct 24 Preview: Perfect Sample Size of One",
+  "summary": "Model went 1-0 on Oct 23. Milwaukee rematch headlines Oct 24 slate with coin-flip metrics.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Oct 23 Results: A Sample Size of One\n\nLet's not get carried away—going 1-0 on a single-game slate doesn't tell us much about long-term model accuracy. But perfect is perfect, and our 55% confidence call on the Brewers paid off. What's more interesting from a sabermetric perspective is that the model's calibration held: a marginal edge translated to a narrow win, exactly as the probability suggested. No false certainty, no hedging. Just proper Bayesian inference at work."
+      "value": "## Oct 23 Results: Small Sample, Perfect Outcomes\n\nIn statistical analysis, we're trained to be skeptical of small sample sizes—and a 1-0 record is about as small as it gets. But perfect is perfect, and the model's selection of Milwaukee over Tampa Bay at 55% confidence hit cleanly. The Brewers' win validates our pitcher matchup metrics and home field adjustments, though one data point proves nothing about long-term edge. Let's review the numbers before turning our attention to tomorrow's slate."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Oct 23 Record",
+          "label": "Oct 23 W-L",
           "value": "1-0"
         },
         {
@@ -31,14 +31,14 @@
         "Matchup",
         "Pick",
         "Confidence",
-        "Outcome"
+        "Result"
       ],
       "rows": [
         [
           "Rays @ Brewers",
           "Brewers",
           "55%",
-          "✓ Win"
+          "✓"
         ]
       ]
     },
@@ -63,24 +63,28 @@
         {
           "key": "result",
           "color": "#16A34A",
-          "label": "Correct (1=Hit, 0=Miss)"
+          "label": "Correct (1=Yes)"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## Oct 24 Preview: The Rematch Shows Uncertainty\n\nWe're running it back—Rays at Brewers again—but the model has decreased its confidence to a virtual coin flip at 50%. This isn't indecision; it's honesty about the inputs. Drew Rasmussen returns for Tampa Bay, and while his pre-injury metrics (3.22 FIP, 24.5% K-rate in 2024) suggest competence, post-injury pitcher performance carries significant uncertainty. Logan Henderson counters for Milwaukee with solid underlying numbers but limited innings data for robust projection.\n\nThe pitcher matchup essentially neutralizes, pushing our edge to the margins—home-field advantage, bullpen depth, recent offensive performance. These factors tilt slightly toward Milwaukee, but we're talking about a sub-1% WAR difference in expected value. In scenarios like this, the model correctly refuses to manufacture confidence where the data doesn't support it."
+      "value": "## Oct 24 Preview: The Rematch Problem\n\nTomorrow brings us right back to Tampa Bay at Milwaukee—a rematch that presents interesting analytical challenges. Our model projects the Brewers again, but at just 50% confidence, which is essentially a coin flip once you account for vig and variance.\n\nThe pitcher matchup features Drew Rasmussen for the Rays against Logan Henderson for Milwaukee. Rasmussen's peripherals show solid command metrics (BB/9 in the 2.1 range historically), while Henderson represents more of a projection play with limited MLB sample size. The model's 50% confidence reflects this uncertainty—we're splitting hairs between two relatively even propositions."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
-      "title": "⭐ Oct 24 Top Pick",
-      "value": "Milwaukee Brewers",
-      "sub": "50% win probability · Rasmussen vs Henderson · Essentially a toss-up"
+      "title": "⭐ Tomorrow's Top Pick",
+      "value": "Milwaukee Brewers vs Tampa Bay Rays",
+      "sub": "50% win probability · Henderson vs Rasmussen · True toss-up territory"
     },
     {
       "type": "text",
-      "value": "## The Sabermetric Takeaway\n\nA 50% pick isn't a failure of modeling—it's a feature. When the expected runs differential projects to near-zero and the pitcher talent is symmetric within error bars, admitting uncertainty is the statistically literate move. We're not here to force narratives or inflate confidence for engagement. We're here to follow the math.\n\nFor bettors, this represents neutral expected value. For analysts, it's a reminder that not every game contains exploitable information. Sometimes the most sophisticated answer is: 'These teams are evenly matched given available data.' That's not cowardice; that's proper calibration.\n\nTune in tomorrow to see if regression claims another perfect record, or if we extend the streak through sheer probabilistic luck."
+      "value": "## The Statistical Reality of 50% Picks\n\nLet's be clear about what a 50% confidence pick means from a WAR-adjacent expected value framework: we're projecting essentially zero edge. In a portfolio approach to betting or prediction tracking, these are the picks you either skip entirely or use as tiebreakers when other factors (bullpen availability, lineup construction, weather) provide additional signal.\n\nThe fact that we're seeing a rematch with decreased confidence suggests the model is appropriately adjusting for information revealed in Game 1. Milwaukee won, but perhaps not in a way that strongly predicts Game 2 outcomes. We'll track this carefully—rematch dynamics often expose model weaknesses or strengths in ways single matchups cannot."
+    },
+    {
+      "type": "text",
+      "value": "## Key Factors to Monitor\n\n**Bullpen Availability**: Did Milwaukee's win require heavy bullpen usage that depletes their relief depth?\n\n**Platoon Advantages**: Henderson's splits against right-handed heavy Tampa Bay lineups could be decisive.\n\n**Park Factors**: American Family Field's neutral rating means we're not getting artificial inflation from environment.\n\nThe academic in me says pass on 50% propositions. The pragmatist says track it anyway for model calibration data. Tomorrow we'll see which approach wisdom favors."
     }
   ],
   "slug": "2026-10-23-daily-doc",
