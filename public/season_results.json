@@ -18385,6 +18385,30 @@
       "away_bp_score": 72.8,
       "home_bp_score": 73.2,
       "bat_source": "lineup"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "Tampa Bay Rays",
+      "home": "Milwaukee Brewers",
+      "game_number": 1,
+      "pick": "Tampa Bay Rays",
+      "pick_prob": 51.1,
+      "actual_winner": "Milwaukee Brewers",
+      "away_score": 4,
+      "home_score": 5,
+      "correct": false,
+      "high_conf": false,
+      "away_sp_trend": "hot",
+      "home_sp_trend": "cold",
+      "away_sp_era": 1.73,
+      "home_sp_era": 2.5,
+      "away_bp_era": 2.78,
+      "home_bp_era": 2.89,
+      "away_sp_score": 70.9,
+      "home_sp_score": 59.0,
+      "away_bp_score": 73.9,
+      "home_bp_score": 73.2,
+      "bat_source": "lineup"
     }
   ]
 }

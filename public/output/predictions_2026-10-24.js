@@ -2,7 +2,7 @@
 window.PREDICTIONS_DATA = [
   {
     "date": "2026-10-24",
-    "status": "Preview",
+    "status": "Final",
     "game_time": "5:00 PM PT",
     "game_number": 1,
     "doubleheader": false,
@@ -106,17 +106,6 @@ window.PREDICTIONS_DATA = [
     },
     "away_pitcher_gamelog": [
       {
-        "date": "2026-08-19",
-        "opp": "vs TOR",
-        "decision": "W",
-        "ip": "5.0",
-        "er": 5,
-        "h": 7,
-        "bb": 2,
-        "so": 5,
-        "era": 9.0
-      },
-      {
         "date": "2026-08-24",
         "opp": "@ DET",
         "decision": "W",
@@ -214,6 +203,17 @@ window.PREDICTIONS_DATA = [
         "bb": 1,
         "so": 6,
         "era": 1.29
+      },
+      {
+        "date": "2026-10-24",
+        "opp": "@ MIL",
+        "decision": null,
+        "ip": "3.2",
+        "er": 3,
+        "h": 6,
+        "bb": 2,
+        "so": 4,
+        "era": 7.36
       }
     ],
     "home_pitcher": "Logan Henderson",
@@ -224,17 +224,6 @@ window.PREDICTIONS_DATA = [
       "era": "2.47"
     },
     "home_pitcher_gamelog": [
-      {
-        "date": "2026-08-10",
-        "opp": "@ SD",
-        "decision": "L",
-        "ip": "6.1",
-        "er": 3,
-        "h": 5,
-        "bb": 1,
-        "so": 7,
-        "era": 4.26
-      },
       {
         "date": "2026-08-16",
         "opp": "@ LAD",
@@ -333,48 +322,59 @@ window.PREDICTIONS_DATA = [
         "bb": 2,
         "so": 2,
         "era": 4.5
+      },
+      {
+        "date": "2026-10-24",
+        "opp": "vs TB",
+        "decision": null,
+        "ip": "3.0",
+        "er": 3,
+        "h": 3,
+        "bb": 1,
+        "so": 4,
+        "era": 9.0
       }
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 50.0,
-      "home": 50.0
+      "away": 51.1,
+      "home": 48.9
     },
     "expected_score": {
       "away": 1.7,
-      "home": 2.0
+      "home": 2.1
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": false,
-      "any_cold_sp": false,
+      "any_cold_sp": true,
       "eff_weights": {
         "sp": 0.38,
-        "bp": 0.22,
-        "bat": 0.25,
+        "bp": 0.25,
+        "bat": 0.3,
         "sit": 0.15
       },
       "away": {
-        "sp_score": 71.4,
+        "sp_score": 70.9,
         "sp_detail": {
-          "era": 1.98,
-          "whip": 0.86,
-          "k9": 9.0,
-          "avg_ip": 6.4,
+          "era": 1.73,
+          "whip": 0.87,
+          "k9": 9.1,
+          "avg_ip": 6.2,
           "qs_rate": 80.0,
-          "last3_era": 1.1,
-          "last_start_era": 1.29,
+          "last3_era": 2.01,
+          "last_start_era": 7.36,
           "last2_eras": [
-            3.0,
-            1.29
+            1.29,
+            7.36
           ],
-          "recent_avg_era": 1.29,
-          "recent_bad_start": false,
+          "recent_avg_era": 7.36,
+          "recent_bad_start": true,
           "trend": "hot",
           "n_games": 10,
           "sample_confidence": 1.0,
@@ -426,7 +426,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 74.4,
+        "bp_score": 73.9,
         "bp_detail": {
           "bullpen_era": 2.78,
           "recent_era": 2.78,
@@ -438,15 +438,15 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.44,
           "closer_name": "Bryan Baker"
         },
-        "bat_score": 28.8,
+        "bat_score": 27.7,
         "bat_detail": {
-          "recent_avg": 0.241,
+          "recent_avg": 0.251,
           "runs_per_g": 3.8,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
-          "season_ops": 0.709,
-          "season_slg": null,
-          "season_avg": 0.241,
+          "season_ops": 0.725,
+          "season_slg": 0.369,
+          "season_avg": 0.251,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -457,9 +457,9 @@ window.PREDICTIONS_DATA = [
             "Chandler Simpson(0.704)",
             "Junior Caminero(0.800)",
             "Liam Hicks(0.743)",
+            "Richie Palacios(0.672)",
             "Jonny DeLuca(0.807)",
-            "Victor Mesa(0.791)",
-            "Ben Williamson(0.527)",
+            "Victor Mesa Jr.(0.791)",
             "Taylor Walls(0.652)"
           ],
           "lineup_players": [
@@ -494,6 +494,12 @@ window.PREDICTIONS_DATA = [
               "avg": 0.258
             },
             {
+              "id": 680700,
+              "name": "Richie Palacios",
+              "ops": 0.672,
+              "avg": 0.231
+            },
+            {
               "id": 676356,
               "name": "Jonny DeLuca",
               "ops": 0.807,
@@ -501,15 +507,9 @@ window.PREDICTIONS_DATA = [
             },
             {
               "id": 683748,
-              "name": "Victor Mesa",
+              "name": "Victor Mesa Jr.",
               "ops": 0.791,
               "avg": 0.273
-            },
-            {
-              "id": 810938,
-              "name": "Ben Williamson",
-              "ops": 0.527,
-              "avg": 0.138
             },
             {
               "id": 670764,
@@ -535,25 +535,25 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 58.6,
-        "total": 59.5
+        "total": 62.5
       },
       "home": {
-        "sp_score": 72.0,
+        "sp_score": 59.0,
         "sp_detail": {
-          "era": 2.35,
-          "whip": 0.84,
+          "era": 2.5,
+          "whip": 0.85,
           "k9": 8.5,
-          "avg_ip": 5.7,
-          "qs_rate": 50.0,
-          "last3_era": 2.62,
-          "last_start_era": 4.5,
+          "avg_ip": 5.4,
+          "qs_rate": 40.0,
+          "last3_era": 4.09,
+          "last_start_era": 9.0,
           "last2_eras": [
-            1.8,
-            4.5
+            4.5,
+            9.0
           ],
-          "recent_avg_era": 4.5,
-          "recent_bad_start": false,
-          "trend": "hot",
+          "recent_avg_era": 9.0,
+          "recent_bad_start": true,
+          "trend": "cold",
           "n_games": 10,
           "sample_confidence": 1.0,
           "rest_days": 12,
@@ -609,14 +609,14 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.63,
           "closer_name": "Trevor Megill"
         },
-        "bat_score": 33.8,
+        "bat_score": 34.5,
         "bat_detail": {
           "recent_avg": 0.25,
           "runs_per_g": 4.4,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
           "season_ops": 0.714,
-          "season_slg": null,
+          "season_slg": 0.407,
           "season_avg": 0.25,
           "n_games": 9,
           "source": "prev_day",
@@ -706,39 +706,39 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 73.1,
-        "total": 62.9
+        "total": 62.0
       }
     },
     "scores": {
-      "away_offense": 28.8,
-      "away_defense": 72.9,
-      "home_offense": 33.8,
-      "home_defense": 72.6
+      "away_offense": 27.7,
+      "away_defense": 72.4,
+      "home_offense": 34.5,
+      "home_defense": 66.1
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 4,
+      "home": 5
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
       "both": false,
       "any": false
     },
-    "actual_winner": null,
-    "model_winner": "Milwaukee Brewers",
-    "model_correct": null,
+    "actual_winner": "Milwaukee Brewers",
+    "model_winner": "Tampa Bay Rays",
+    "model_correct": false,
     "notes": "Tampa Bay Rays IL: Edwin Uceta, Gavin Lux, Jacob Melton, Jonathan Heasley, Ryan Pepiot / Milwaukee Brewers IL: Angel Zerpa, Brian Fitzpatrick, Quinn Priester",
-    "kalshi_prob": 53.0,
-    "edge": -3.0,
-    "value_bet": "➖ 시장과 유사",
+    "kalshi_prob": null,
+    "edge": null,
+    "value_bet": "마켓 없음",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "SP 점수 차이 0.6pt (≤5.0pt) / 최고 확률 50.0% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 51.1% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
