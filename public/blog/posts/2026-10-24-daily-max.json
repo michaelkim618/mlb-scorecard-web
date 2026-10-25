@@ -1,11 +1,11 @@
 {
-  "title": "Oct 24 Results: Sometimes the Cards Just Don't Fall Your Way",
-  "summary": "Oct 24 brought a humbling 0-1 night. I've been around long enough to know these happen.",
+  "title": "Oct 24 Results: Sometimes the Underdog Reminds You Why We Love This Game",
+  "summary": "A 0-1 start to the weekend as Milwaukee had other plans for our Rays pick",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## The Night That Was\n\nLook, I've been covering this game long enough to know that some nights just don't go your way. October 24th was one of those nights—a clean 0-for-1 that stings a bit, but also reminds you why baseball remains the most humbling sport on the planet. We had one game on the slate, backed the Rays at 52%, and Milwaukee had other ideas."
+      "value": "## Another October Lesson\n\nYou know, I've been doing this long enough to remember when a 52% edge felt like a coin flip with slightly better odds. Today proved that all over again. We rode with Tampa Bay against Milwaukee, and the Brewers decided to remind everyone why they've been competitive for the better part of two decades now."
     },
     {
       "type": "stat_row",
@@ -26,33 +26,15 @@
     },
     {
       "type": "text",
-      "value": "## The Miss: Rays @ Brewers\n\nWe liked Tampa Bay in this one, though admittedly it was about as close to a coin flip as you'll see—52% confidence. When you're splitting hairs like that, you're essentially saying 'this could go either way,' and boy, did it ever go the other way. The Brewers took care of business at home, and our Rays pick went down in flames.\n\nHere's the thing about October baseball that I've learned over three decades: momentum is real, home field matters more than the regular season, and sometimes the team that looks better on paper just doesn't execute. That 52% told you everything you needed to know—this was never a lock."
-    },
-    {
-      "type": "table",
-      "title": "Oct 24 Full Results",
-      "headers": [
-        "Matchup",
-        "Our Pick",
-        "Confidence",
-        "Result"
-      ],
-      "rows": [
-        [
-          "Rays @ Brewers",
-          "Rays",
-          "52%",
-          "✗ Miss"
-        ]
-      ]
+      "value": "## The Breakdown\n\nWhen you're dealing with a pick that's barely above 50-50, you're essentially saying the teams are evenly matched. That's what we had here. The Rays came in with slight statistical advantages, but baseball doesn't care much for spreadsheets when the first pitch is thrown."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Today's Prediction Performance",
+      "title": "Today's Prediction Results",
       "data": [
         {
-          "name": "Rays",
+          "name": "Rays @ Brewers",
           "probability": 52,
           "result": 0
         }
@@ -72,19 +54,37 @@
       ]
     },
     {
+      "type": "table",
+      "title": "October 24 Full Results",
+      "headers": [
+        "Game",
+        "Our Pick",
+        "Probability",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Rays @ Brewers",
+          "Rays",
+          "52%",
+          "✗ Miss"
+        ]
+      ]
+    },
+    {
       "type": "text",
-      "value": "## The Bigger Picture\n\nOne game, one loss. It happens. I've seen hot streaks that make you feel invincible and cold snaps that make you question everything you know about the sport. The key is not letting either define you. We'll review the data, see what we might have missed in the matchup analysis, and move forward.\n\nThe beauty and curse of a single-game slate? There's nowhere to hide. Your record is your record. Tonight it's 0-1, and that's baseball."
+      "value": "## What We Saw\n\nThe margin was razor-thin on this one from the start. A 52% probability isn't a statement of confidence—it's a recognition that both clubs had legitimate paths to victory. Milwaukee found theirs, Tampa Bay didn't. That's October baseball in a nutshell.\n\nI've seen enough seasons to know that a single-game slate with a near-toss-up probability isn't where you build your legacy. It's where you tip your cap, make your notes, and get ready for the next series."
     },
     {
       "type": "highlight_box",
       "color": "#94A3B8",
-      "title": "🔮 Tomorrow's Slate",
+      "title": "💤 Tomorrow's Schedule",
       "value": "No Games Scheduled",
-      "sub": "A rare day off to reset and prepare for what's ahead"
+      "sub": "Rest day across the league—we'll be back when the action resumes"
     },
     {
       "type": "text",
-      "value": "## What's Next\n\nNo games tomorrow means a chance to take a breath, reset the mental approach, and dive deep into the upcoming matchups. I've always believed these quiet days in the schedule are gifts—time to sharpen the analysis, review what's working and what isn't, and come back stronger.\n\nWe'll be back soon with fresh picks and hopefully better results. That's the promise of this game: there's always another day, another pitch, another chance to get it right."
+      "value": "## Looking Ahead\n\nWith no games on the docket for tomorrow, it's a good time to reset. One game, one miss, and plenty of baseball still ahead. The beauty of this sport has always been that there's another pitch, another inning, another day.\n\nWe'll dig into the numbers, study the trends, and be ready when the first pitch is thrown next. Because if there's one thing I've learned in all these years, it's that the game always gives you another chance to get it right.\n\nStay sharp out there."
     }
   ],
   "slug": "2026-10-24-daily-max",
