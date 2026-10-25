@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-25T00:24:42.243245+00:00",
+  "updated_at": "2026-10-25T00:43:59.827622+00:00",
   "news": [
+    {
+      "title": "LIVE: Rays waste no time, score 4 in 1st (FOX/FOX One)",
+      "link": "https://www.mlb.com/stories/game/849802",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jzjv2bivchsqyoqe5oli",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-25T00:31:20+00:00",
+      "time_ago": "12m ago"
+    },
     {
       "title": "Jennie Finch Empowerment Award recipients take center stage at World Series",
       "link": "https://www.mlb.com/news/jennie-finch-empowerment-award-recipients-honored-at-2026-world-series",
@@ -12,20 +25,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-10-25T00:06:15+00:00",
-      "time_ago": "18m ago"
-    },
-    {
-      "title": "LIVE on FOX/FOX One: Rays-Brewers World Series Game 2",
-      "link": "https://www.mlb.com/news/rays-brewers-world-series-game-2-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ijvtwgve4ispm1518w4w",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince, Adam Berry and Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-24T23:58:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "MLB App launches for iPhone Duo just in time for World Series",
