@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-25T03:50:50.350458+00:00",
+  "updated_at": "2026-10-25T04:59:08.310725+00:00",
   "news": [
     {
-      "title": "Frelick's clutch left-on-left blast helps Crew erase yet another playoff deficit",
-      "link": "https://www.mlb.com/news/sal-frelick-game-tying-home-run-2026-world-series-game-2",
+      "title": "Key takeaways as Brewers take commanding 2-0 lead in World Series",
+      "link": "https://www.mlb.com/news/key-takeaways-from-world-series-game-2-2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/q6axebigmnwk8gljwgag",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e5nxwfzttgn7sju91qh9",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-25T03:00:12+00:00",
-      "time_ago": "50m ago"
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-25T04:11:08+00:00",
+      "time_ago": "48m ago"
     },
     {
       "title": "First World Series HR comes from Hicks, capping 4-run first",
@@ -24,8 +24,34 @@
       "author": "Bryan Hoch",
       "tag": "Highlight",
       "tag_color": "#D97706",
-      "pub_date": "2026-10-25T01:00:00+00:00",
-      "time_ago": "2h ago"
+      "pub_date": "2026-10-25T03:57:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Methodical Brewers chip away at Rays, rally to seize 2-0 lead",
+      "link": "https://www.mlb.com/news/brewers-win-world-series-game-2-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/v7b3cdo91kmqes6y7bvc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-25T03:55:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Frelick's clutch left-on-left blast helps Crew erase yet another playoff deficit",
+      "link": "https://www.mlb.com/news/sal-frelick-game-tying-home-run-2026-world-series-game-2",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/q6axebigmnwk8gljwgag",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-25T03:54:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Flight crew on way to Tampa Bay will have a very special relationship to Crew",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-25T00:58:01+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "MLB highlights youth initiatives during pregame ceremony",
@@ -51,20 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-25T00:47:51+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "LIVE: Crew claws back in Game 2 (FOX/FOX One)",
-      "link": "https://www.mlb.com/stories/game/849802",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vqctxfcxhxhtrfg0999s",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-25T00:31:20+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Jennie Finch Empowerment Award recipients take center stage at World Series",
@@ -77,7 +90,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-10-25T00:06:15+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "MLB App launches for iPhone Duo just in time for World Series",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-24T22:44:00+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "This lifelong Brewers fan walks to EVERY home game (yes, even the World Series)",
-      "link": "https://www.mlb.com/news/brewers-fan-walks-to-every-home-game-including-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aokbnx7rt0th5nehiroh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-24T21:52:48+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     }
   ]
 }
