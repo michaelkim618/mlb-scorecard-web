@@ -1,11 +1,11 @@
 {
-  "title": "Oct 24 Results: Sometimes You Just Miss",
-  "summary": "Oct 24 brought us a humbling 0-1 night. We've seen worse, but that doesn't make it sting less.",
+  "title": "Oct 24 Results: Sometimes the Cards Just Don't Fall Your Way",
+  "summary": "Oct 24 brought a humbling 0-1 night. I've been around long enough to know these happen.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## A Night to Forget\n\nLook, I've been doing this long enough to know that some nights just don't go your way. October 24th was one of those nights. We had one game on the slate, felt decent about our Rays pick at 52%, and... well, Milwaukee had other plans. That's baseball, folks."
+      "value": "## The Night That Was\n\nLook, I've been covering this game long enough to know that some nights just don't go your way. October 24th was one of those nights—a clean 0-for-1 that stings a bit, but also reminds you why baseball remains the most humbling sport on the planet. We had one game on the slate, backed the Rays at 52%, and Milwaukee had other ideas."
     },
     {
       "type": "stat_row",
@@ -26,16 +26,16 @@
     },
     {
       "type": "text",
-      "value": "## What Happened in Milwaukee\n\nThe Rays came into American Family Field as our lean pick—nothing flashy, just a 52% probability. Basically a coin flip with the slightest edge. When you're dealing with margins that thin, you know you're playing with fire. The Brewers took care of business at home, and our model took the L.\n\nI've seen plenty of October baseball where the home team finds that extra gear. The postseason does funny things to probabilities."
+      "value": "## The Miss: Rays @ Brewers\n\nWe liked Tampa Bay in this one, though admittedly it was about as close to a coin flip as you'll see—52% confidence. When you're splitting hairs like that, you're essentially saying 'this could go either way,' and boy, did it ever go the other way. The Brewers took care of business at home, and our Rays pick went down in flames.\n\nHere's the thing about October baseball that I've learned over three decades: momentum is real, home field matters more than the regular season, and sometimes the team that looks better on paper just doesn't execute. That 52% told you everything you needed to know—this was never a lock."
     },
     {
       "type": "table",
-      "title": "Oct 24 Game Results",
+      "title": "Oct 24 Full Results",
       "headers": [
         "Matchup",
         "Our Pick",
         "Confidence",
-        "Outcome"
+        "Result"
       ],
       "rows": [
         [
@@ -49,7 +49,7 @@
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Today's Prediction Breakdown",
+      "title": "Today's Prediction Performance",
       "data": [
         {
           "name": "Rays",
@@ -66,25 +66,25 @@
         },
         {
           "key": "result",
-          "color": "#DC2626",
-          "label": "Correct (0=No, 1=Yes)"
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Reality Check\n\nHere's the thing about a 52% pick—you're essentially saying \"this could go either way, but we're leaning this direction.\" When it doesn't hit, you can't act surprised. The model did its job; it identified a marginal edge. Sometimes that edge doesn't materialize.\n\nI remember the 2003 playoffs when the Marlins went on their run. They won plenty of games they had no business winning on paper. That's October for you."
+      "value": "## The Bigger Picture\n\nOne game, one loss. It happens. I've seen hot streaks that make you feel invincible and cold snaps that make you question everything you know about the sport. The key is not letting either define you. We'll review the data, see what we might have missed in the matchup analysis, and move forward.\n\nThe beauty and curse of a single-game slate? There's nowhere to hide. Your record is your record. Tonight it's 0-1, and that's baseball."
     },
     {
       "type": "highlight_box",
-      "color": "#DC2626",
-      "title": "📊 The Numbers",
-      "value": "0-1 on October 24",
-      "sub": "Our only pick didn't connect, but that's the game"
+      "color": "#94A3B8",
+      "title": "🔮 Tomorrow's Slate",
+      "value": "No Games Scheduled",
+      "sub": "A rare day off to reset and prepare for what's ahead"
     },
     {
       "type": "text",
-      "value": "## Looking Ahead\n\nNo games scheduled for tomorrow, which gives us all a chance to reset. Sometimes a day off is exactly what you need after a rough night. The model will be ready when the next slate comes around.\n\nIn my years covering this game, I've learned that you can't let one bad night—or even one bad week—shake your foundation. You trust the process, you learn what you can, and you move forward. That's been true since the days of box scores in newspapers, and it's still true now.\n\nWe'll be back when the games return. Until then, enjoy the breather."
+      "value": "## What's Next\n\nNo games tomorrow means a chance to take a breath, reset the mental approach, and dive deep into the upcoming matchups. I've always believed these quiet days in the schedule are gifts—time to sharpen the analysis, review what's working and what isn't, and come back stronger.\n\nWe'll be back soon with fresh picks and hopefully better results. That's the promise of this game: there's always another day, another pitch, another chance to get it right."
     }
   ],
   "slug": "2026-10-24-daily-max",
