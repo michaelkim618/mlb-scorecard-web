@@ -1,11 +1,11 @@
 {
-  "title": "Oct 24 Results: Sometimes the Game Humbles You",
-  "summary": "Oct 24 brought a reality check - breaking down what went wrong in Milwaukee",
+  "title": "Oct 24 Results: Sometimes the House Wins",
+  "summary": "Oct 24 brought us a humbling 0-1 day. I've seen worse, but this one stung.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## A Tough Night in Milwaukee\n\nYou know, I've been doing this long enough to recognize when the baseball gods decide to remind you who's really in charge. Thursday night gave us exactly one game to analyze, and we went down swinging. The Rays came into Milwaukee as our 52% pick, and well... let's just say the Brewers had other plans."
+      "value": "## Well, That Didn't Go According to Plan\n\nThirty-plus years covering this game, and you'd think I'd be used to nights like this. But when you go 0-for-1, there's nowhere to hide. The Rays were supposed to edge out the Brewers with a razor-thin 52% probability, and instead, Milwaukee reminded us all why October baseball is the great equalizer."
     },
     {
       "type": "stat_row",
@@ -26,36 +26,11 @@
     },
     {
       "type": "text",
-      "value": "## Breaking Down the Numbers\n\nA 52% probability isn't exactly ringing the bell with confidence - it's essentially a coin flip with a slight edge. These are the picks that separate the good nights from the rough ones. When you're dealing with margins that thin, variance becomes your worst enemy."
-    },
-    {
-      "type": "chart",
-      "chart_type": "bar",
-      "title": "Oct 24 Prediction Performance",
-      "data": [
-        {
-          "name": "Rays",
-          "probability": 52,
-          "result": 0
-        }
-      ],
-      "x_key": "name",
-      "bars": [
-        {
-          "key": "probability",
-          "color": "#0EA5E9",
-          "label": "Win Probability (%)"
-        },
-        {
-          "key": "result",
-          "color": "#16A34A",
-          "label": "Correct (1=Yes, 0=No)"
-        }
-      ]
+      "value": "## The Miss That Mattered\n\nLook, a 52% probability is basically a coin flip with delusions of grandeur. I've been around long enough to know that when your model is that close to 50-50, you're not making a prediction—you're making a prayer. The Rays had the metrics on paper, but the Brewers had something else: execution when it counted."
     },
     {
       "type": "table",
-      "title": "Complete Oct 24 Results",
+      "title": "Oct 24 Full Results",
       "headers": [
         "Matchup",
         "Our Pick",
@@ -72,19 +47,44 @@
       ]
     },
     {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Today's Prediction Breakdown",
+      "data": [
+        {
+          "name": "Rays",
+          "probability": 52,
+          "result": 0
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#DC2626",
+          "label": "Correct (0=No, 1=Yes)"
+        }
+      ]
+    },
+    {
       "type": "text",
-      "value": "## What This Tells Us\n\nI've seen plenty of 0-for nights over the years, and here's what I've learned: they're part of the game. When you're picking near 50-50 propositions, you're basically acknowledging that either team could take it. The Brewers playing at home probably had more in the tank than our model gave them credit for.\n\nThe real lesson? When the probability sits that close to the middle, it's a signal to tread carefully. These aren't the games you mortgage the house on - they're the ones that keep you honest."
+      "value": "## The Historical Perspective\n\nI've covered enough baseball to fill a library, and here's what I know: 0-1 days happen. They happened to the best handicappers in the '80s, the sharpest analysts in the '90s, and they'll keep happening as long as humans try to predict what happens when leather meets lumber. The key isn't avoiding these days—it's how you respond to them.\n\nWhen your confidence level is sitting at 52%, you're essentially admitting the game could go either way. That's not weakness; that's honesty. The Brewers capitalized on their home field, their pitching delivered, and sometimes that's all there is to it."
     },
     {
       "type": "highlight_box",
-      "color": "#6B7280",
-      "title": "📅 Tomorrow's Schedule",
-      "value": "No Games Scheduled",
-      "sub": "A rare day to catch our breath and reset for the weekend"
+      "color": "#EF4444",
+      "title": "📊 Today's Takeaway",
+      "value": "Marginal edges don't always cash",
+      "sub": "When the probability is this close to even, execution trumps prediction every time"
     },
     {
       "type": "text",
-      "value": "## Looking Ahead\n\nWith no games on the slate for Friday, it's a good time to step back and recalibrate. The beauty of baseball's long season is that there's always another game, another chance to get it right. We'll be back when the schedule picks up again, armed with fresh analysis and hopefully a bit more luck.\n\nSometimes the best thing you can do after a miss is take a breath, review what happened, and come back sharper. That's exactly what we'll be doing."
+      "value": "## Looking Ahead\n\nNo games on the schedule for tomorrow, which gives us all a chance to reset. Sometimes the best thing that can happen after an 0-1 night is a day off. Time to review the tape, reassess the models, and remember that this game has been humbling folks a lot smarter than me since 1869.\n\nWe'll be back when the schedule resumes, with sharper analysis and, hopefully, better results. Until then, tip your cap to the Brewers and remember—that's why they play the games."
     }
   ],
   "slug": "2026-10-24-daily-max",
