@@ -336,12 +336,12 @@
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 51.1,
-      "home": 48.9
+      "away": 52.5,
+      "home": 47.5
     },
     "expected_score": {
-      "away": 1.7,
-      "home": 2.1
+      "away": 1.9,
+      "home": 2.0
     },
     "blend_detail": null,
     "ml_mc_agree": null,
@@ -353,13 +353,13 @@
       "bullpen_game": false,
       "any_cold_sp": true,
       "eff_weights": {
-        "sp": 0.38,
-        "bp": 0.25,
-        "bat": 0.3,
+        "sp": 0.33,
+        "bp": 0.27,
+        "bat": 0.33,
         "sit": 0.15
       },
       "away": {
-        "sp_score": 70.9,
+        "sp_score": 72.0,
         "sp_detail": {
           "era": 1.73,
           "whip": 0.87,
@@ -425,7 +425,7 @@
             }
           ]
         },
-        "bp_score": 73.9,
+        "bp_score": 75.0,
         "bp_detail": {
           "bullpen_era": 2.78,
           "recent_era": 2.78,
@@ -437,14 +437,14 @@
           "closer_era": 1.44,
           "closer_name": "Bryan Baker"
         },
-        "bat_score": 27.7,
+        "bat_score": 30.9,
         "bat_detail": {
           "recent_avg": 0.251,
           "runs_per_g": 3.8,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
           "season_ops": 0.725,
-          "season_slg": 0.369,
+          "season_slg": null,
           "season_avg": 0.251,
           "n_games": 9,
           "source": "prev_day",
@@ -534,7 +534,7 @@
           }
         },
         "sit_score": 58.6,
-        "total": 62.5
+        "total": 63.0
       },
       "home": {
         "sp_score": 59.0,
@@ -608,14 +608,14 @@
           "closer_era": 2.63,
           "closer_name": "Trevor Megill"
         },
-        "bat_score": 34.5,
+        "bat_score": 33.8,
         "bat_detail": {
           "recent_avg": 0.25,
           "runs_per_g": 4.4,
           "hr_per_g": 0.8,
           "bb_per_g": 3.0,
           "season_ops": 0.714,
-          "season_slg": 0.407,
+          "season_slg": null,
           "season_avg": 0.25,
           "n_games": 9,
           "source": "prev_day",
@@ -705,13 +705,13 @@
           }
         },
         "sit_score": 73.1,
-        "total": 62.0
+        "total": 61.4
       }
     },
     "scores": {
-      "away_offense": 27.7,
-      "away_defense": 72.4,
-      "home_offense": 34.5,
+      "away_offense": 30.9,
+      "away_defense": 73.5,
+      "home_offense": 33.8,
       "home_defense": 66.1
     },
     "actual_score": {
@@ -737,7 +737,7 @@
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 51.1% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 52.5% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
