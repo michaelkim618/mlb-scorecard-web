@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-10-25T05:50:49.427692+00:00",
+  "updated_at": "2026-10-25T06:34:57.305850+00:00",
   "news": [
+    {
+      "title": "Club built on doing little things right is suddenly getting them wrong",
+      "link": "https://www.mlb.com/news/rays-struggle-with-fundamentals-in-2026-world-series-game-2",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792901400/mlb/dggbvved079mozqnnonx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-25T06:29:09+00:00",
+      "time_ago": "5m ago"
+    },
+    {
+      "title": "Ashby might be Milwaukee's hottest pitcher, but his demeanor? Ice cold",
+      "link": "https://www.mlb.com/news/aaron-ashby-scoreless-innings-streak-world-series-game-2",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iq0uc1jutbzidqf3hn39",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-25T06:24:27+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "With surprise game-tying blast, Frelick provides Crew's 'favorite swing of the year'",
+      "link": "https://www.mlb.com/news/sal-frelick-game-tying-home-run-2026-world-series-game-2",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/q6axebigmnwk8gljwgag",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-25T05:56:00+00:00",
+      "time_ago": "38m ago"
+    },
+    {
+      "title": "Fiery Caminero airs frustrations about Rays' miscues as focus shifts to Game 3",
+      "link": "https://www.mlb.com/news/junior-caminero-rays-miscues-2026-world-series-game-2",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/r35cb6ht1dyh0ef5c1ps",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-25T05:48:37+00:00",
+      "time_ago": "46m ago"
+    },
+    {
+      "title": "Methodical Brewers chip away at Rays, rally to seize 2-0 lead",
+      "link": "https://www.mlb.com/news/brewers-win-world-series-game-2-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cbdlaget3dkvq80nghwg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-25T05:42:00+00:00",
+      "time_ago": "52m ago"
+    },
     {
       "title": "Key takeaways as Brewers take commanding 2-0 lead in World Series",
       "link": "https://www.mlb.com/news/key-takeaways-from-world-series-game-2-2026",
@@ -12,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-25T04:11:08+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "First World Series HR comes from Hicks, capping 4-run first",
@@ -25,33 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-25T03:57:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Methodical Brewers chip away at Rays, rally to seize 2-0 lead",
-      "link": "https://www.mlb.com/news/brewers-win-world-series-game-2-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/v7b3cdo91kmqes6y7bvc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-25T03:55:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Frelick's clutch left-on-left blast helps Crew erase yet another playoff deficit",
-      "link": "https://www.mlb.com/news/sal-frelick-game-tying-home-run-2026-world-series-game-2",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/q6axebigmnwk8gljwgag",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-25T03:54:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Flight crew on way to Tampa Bay will have a very special relationship to Crew",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-25T00:58:01+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "MLB highlights youth initiatives during pregame ceremony",
-      "link": "https://www.mlb.com/news/mlb-youth-baseball-players-ceremony-game-2-2026-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sfwbqlbb0epsqiwwt1ko",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-25T00:47:51+00:00",
       "time_ago": "5h ago"
-    },
-    {
-      "title": "Jennie Finch Empowerment Award recipients take center stage at World Series",
-      "link": "https://www.mlb.com/news/jennie-finch-empowerment-award-recipients-honored-at-2026-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jbq0glorvgmemqf5qjxy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-10-25T00:06:15+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "MLB App launches for iPhone Duo just in time for World Series",
-      "link": "https://www.mlb.com/news/mlb-app-launches-for-iphone-duo",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cj340yctkqdzmhhd6atb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-24T22:44:00+00:00",
-      "time_ago": "7h ago"
     }
   ]
 }
