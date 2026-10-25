@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-25T18:01:06.810174+00:00",
+  "updated_at": "2026-10-25T18:36:54.547142+00:00",
   "news": [
+    {
+      "title": "What makes Walls such a great shortstop? For one, 'he cheats' (kind of)",
+      "link": "https://www.mlb.com/news/taylor-walls-great-defense-for-rays-in-2026-mlb-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lumx1rutvk0qmbdiex4s",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-25T17:21:41+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "How the Rays can send the World Series back to Milwaukee",
       "link": "https://www.mlb.com/news/rays-keys-to-extending-world-series-vs-brewers-after-game-2",
@@ -15,6 +28,19 @@
       "time_ago": "1h ago"
     },
     {
+      "title": "Turang made shocking pitch to Brewers to land 1st pro contract ... or did he?",
+      "link": "https://www.mlb.com/news/brice-turang-s-surprising-pitch-to-brewers-for-first-pro-contract",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792945740/mlb/pa3bekl1rfe2ezjeulx3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-25T16:40:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
       "title": "Key takeaways as Brewers take commanding 2-0 lead in World Series",
       "link": "https://www.mlb.com/news/key-takeaways-from-world-series-game-2-2026",
       "summary": "",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-25T15:05:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Comeback Crew has been must-see all October -- and '82 squad loves every minute",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-25T07:23:14+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Brewers-Rays World Series Game 3 FAQ (Monday, 8 ET, FOX/FOX One)",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-25T06:29:09+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Ashby might be Milwaukee's hottest pitcher, but his demeanor? Ice cold",
-      "link": "https://www.mlb.com/news/aaron-ashby-scoreless-innings-streak-world-series-game-2",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iq0uc1jutbzidqf3hn39",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-25T06:24:27+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "With surprise game-tying blast, Frelick provides Crew's 'favorite swing of the year'",
-      "link": "https://www.mlb.com/news/sal-frelick-game-tying-home-run-2026-world-series-game-2",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/q6axebigmnwk8gljwgag",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-25T05:56:00+00:00",
       "time_ago": "12h ago"
     }
   ]
