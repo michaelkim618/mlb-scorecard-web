@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-24T23:51:25.052435+00:00",
+  "updated_at": "2026-10-25T00:24:42.243245+00:00",
   "news": [
+    {
+      "title": "Jennie Finch Empowerment Award recipients take center stage at World Series",
+      "link": "https://www.mlb.com/news/jennie-finch-empowerment-award-recipients-honored-at-2026-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kzko41onhhxixrk5hc93",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Sweet",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-10-25T00:06:15+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "LIVE on FOX/FOX One: Rays-Brewers World Series Game 2",
+      "link": "https://www.mlb.com/news/rays-brewers-world-series-game-2-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ijvtwgve4ispm1518w4w",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince, Adam Berry and Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-24T23:58:00+00:00",
+      "time_ago": "26m ago"
+    },
     {
       "title": "MLB App launches for iPhone Duo just in time for World Series",
       "link": "https://www.mlb.com/news/mlb-app-launches-for-iphone-duo",
@@ -25,20 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-24T21:52:48+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Rays-Brewers World Series Game 2 FAQ, lineups (8 ET, FOX/FOX One)",
-      "link": "https://www.mlb.com/news/rays-brewers-world-series-game-2-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ijvtwgve4ispm1518w4w",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince, Adam Berry and Adam McCalvy",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-24T20:36:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "He threw the only immaculate inning in postseason history ... and didn't know until 30 years later",
@@ -51,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-10-24T19:59:35+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "With an eye on defensive growth, 'sky's the limit' for De Paula",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-24T16:23:05+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "8h ago"
     },
     {
       "title": "Yankees agree to 3-year extension with pitching coach Blake (report)",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-24T15:16:56+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "It took all of 1 pitch for a World Series record",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-24T07:09:00+00:00",
-      "time_ago": "16h ago"
-    },
-    {
-      "title": "None of Rays' best relievers pitched in Game 1 -- and that could be a good thing",
-      "link": "https://www.mlb.com/news/rays-bullpen-management-game-1-world-series-loss",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iylwzasfgwqazuhm5ic4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-24T07:03:02+00:00",
-      "time_ago": "16h ago"
+      "time_ago": "17h ago"
     }
   ]
 }
