@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-10-24-daily-max",
+      "title": "Oct 24 Results: Sometimes the Game Humbles You",
+      "author": "Max",
+      "author_emoji": "📰",
+      "author_color": "#16A34A",
+      "author_role": "Senior Reporter",
+      "date": "2026-10-24",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#16A34A",
+      "read_time": "3 min",
+      "summary": "Oct 24 brought a reality check - breaking down what went wrong in Milwaukee"
+    },
+    {
       "slug": "2026-10-23-daily-doc",
       "title": "Oct 23 Results + Oct 24 Preview: Perfect Efficiency in Small Sample Theater",
       "author": "Doc",
