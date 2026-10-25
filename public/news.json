@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-25T21:35:18.096267+00:00",
+  "updated_at": "2026-10-25T21:56:41.508944+00:00",
   "news": [
+    {
+      "title": "Rays lend a helping hand (literally) to fellow member of 'Champa Bay'",
+      "link": "https://www.mlb.com/news/rays-glove-buccaneers-quarterback-baker-mayfield",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/s3f5vho6cxje836fpyh7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-25T21:30:48+00:00",
+      "time_ago": "25m ago"
+    },
     {
       "title": "Brewers-Rays World Series Game 3 FAQ (Monday, 8 ET, FOX/FOX One)",
       "link": "https://www.mlb.com/news/brewers-rays-world-series-game-3-starting-lineups-and-pitching-matchup",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-25T19:47:23+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Brewers, Rays prove there's still room for old-school scouting",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-25T18:46:13+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "What makes Walls such a great shortstop? For one, 'he cheats' (kind of)",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-25T16:40:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Key takeaways as Brewers take commanding 2-0 lead in World Series",
-      "link": "https://www.mlb.com/news/key-takeaways-from-world-series-game-2-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e5nxwfzttgn7sju91qh9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-25T15:05:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "5h ago"
     }
   ]
 }
