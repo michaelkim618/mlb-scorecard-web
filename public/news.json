@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-26T19:49:38.306602+00:00",
+  "updated_at": "2026-10-26T20:14:18.763084+00:00",
   "news": [
+    {
+      "title": "Mets set to add Mariano Duncan to coaching staff (source)",
+      "link": "https://www.mlb.com/news/mariano-duncan-promoted-by-mets",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dfnvnoeimg8cimbfl11v",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-26T19:28:40+00:00",
+      "time_ago": "45m ago"
+    },
     {
       "title": "Brewers prep for potential 'roof ball' as World Series shifts to Tampa Bay",
       "link": "https://www.mlb.com/news/brewers-practice-plays-off-tropicana-field-roof",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-26T14:52:48+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Maddon to return to Trop to throw out Game 3 1st pitch",
@@ -25,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-26T14:51:00+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "These Mets made their case for recognition this awards season",
@@ -51,7 +64,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-10-26T13:02:58+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "With World Series start, Gasser is living his dream -- and his dad's",
@@ -90,19 +103,6 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-26T00:18:30+00:00",
-      "time_ago": "19h ago"
-    },
-    {
-      "title": "MLBx takes over Mumbai in star-studded sport crossover",
-      "link": "https://www.mlb.com/news/mlbx-mumbai-brings-together-baseball-softball-and-cricket-stars",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ob6olkqrb0un4lyvntsm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-25T23:59:07+00:00",
       "time_ago": "19h ago"
     }
   ]
