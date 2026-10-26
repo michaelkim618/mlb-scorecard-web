@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-26T22:34:13.693350+00:00",
+  "updated_at": "2026-10-26T22:49:06.307121+00:00",
   "news": [
+    {
+      "title": "Phillies hire Fatse to be new hitting coach (source)",
+      "link": "https://www.mlb.com/news/phillies-hire-peter-fatse-as-new-hitting-coach",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793052822/mlb/o3szvojlm76apjgllbem",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Paul Casella",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-26T22:29:37+00:00",
+      "time_ago": "19m ago"
+    },
     {
       "title": "LIVE: Lindor accepts 2026 Clemente Award, in spirit of his idol and countryman",
       "link": "https://www.mlb.com/news/francisco-lindor-2026-clemente-award",
@@ -12,7 +25,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-10-26T22:16:00+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "33m ago"
     },
     {
       "title": "Brewers-Rays World Series Game 3 FAQ, lineups (Monday, 8 ET, FOX/FOX One)",
@@ -25,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-26T20:41:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Former Ray -- and 2020 World Series hero -- gives back to cause near and dear to him",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-26T20:39:24+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Mets set to add Mariano Duncan to coaching staff (source)",
@@ -91,19 +104,6 @@
       "tag_color": "#16A34A",
       "pub_date": "2026-10-26T13:30:17+00:00",
       "time_ago": "9h ago"
-    },
-    {
-      "title": "With World Series start, Gasser is living his dream -- and his dad's",
-      "link": "https://www.mlb.com/news/robert-gasser-living-his-dream-dad-s-in-2026-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792976668/mlb/j6ptpbtx5m42ngkiascb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-26T01:47:18+00:00",
-      "time_ago": "20h ago"
     }
   ]
 }
