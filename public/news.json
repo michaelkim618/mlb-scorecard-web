@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-26T01:32:52.579172+00:00",
+  "updated_at": "2026-10-26T04:03:40.889280+00:00",
   "news": [
+    {
+      "title": "With World Series start, Gasser is living his dream -- and his dad's",
+      "link": "https://www.mlb.com/news/robert-gasser-living-his-dream-dad-s-in-2026-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792976668/mlb/j6ptpbtx5m42ngkiascb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-26T01:47:18+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "3 pressing questions for World Series Game 3",
+      "link": "https://www.mlb.com/news/2026-world-series-game-3-storylines-brewers-vs-rays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wyw2i4dllp5ltuytfwtm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-26T01:41:55+00:00",
+      "time_ago": "2h ago"
+    },
     {
       "title": "A pen, a napkin and a ninja: How Murphy draws up the Crew's winning lineups",
       "link": "https://www.mlb.com/news/pat-murphy-draws-out-starting-lineups-on-napkins",
@@ -12,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-26T00:18:30+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "MLBx takes over Mumbai in star-studded sport crossover",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-25T23:59:07+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Arizona Fall League Week 3 top performers",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-25T23:20:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Rays lend a helping hand (literally) to fellow member of 'Champa Bay'",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-25T21:30:48+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "Brewers-Rays World Series Game 3 FAQ (Monday, 8 ET, FOX/FOX One)",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-25T20:19:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "In tatters 2 years ago, rejuvenated Trop will host first World Series since '08",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-25T19:58:57+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "'Fastball Freddy' benefiting from historic velo bump this postseason",
-      "link": "https://www.mlb.com/news/freddy-peralta-velocity-increase-2026-postseason",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/u1trbfppuk6lxownk04m",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-25T19:47:23+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Brewers, Rays prove there's still room for old-school scouting",
-      "link": "https://www.mlb.com/news/brewers-rays-scouting-investment-world-series-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a85kbu2sdu7xolhn0kja",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-25T18:46:13+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "8h ago"
     }
   ]
 }
