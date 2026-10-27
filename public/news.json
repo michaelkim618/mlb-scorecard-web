@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-27T06:07:02.733259+00:00",
+  "updated_at": "2026-10-27T06:38:44.425982+00:00",
   "news": [
+    {
+      "title": "'I want it right now': Woodruff seizes chance to finish off Crew's Game 3 win",
+      "link": "https://www.mlb.com/news/brandon-woodruff-gets-final-out-in-2026-world-series-game-3",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rawbfumfzp6xppde1ggy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-27T06:30:07+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Key takeaways after Brewers slug their way to 3-0 World Series lead",
+      "link": "https://www.mlb.com/news/key-takeaways-from-world-series-game-3-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gzsdyti29vmybrbodifk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-27T06:26:00+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Gasser not just unbothered, he's nearly perfect in Game 3 showcase",
+      "link": "https://www.mlb.com/news/robert-gasser-throws-six-scoreless-innings-in-world-series-game-3",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/joyxcw09ogpctumny3gi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-27T06:15:29+00:00",
+      "time_ago": "23m ago"
+    },
     {
       "title": "EIGHT runs with two outs in 5th? Brewers' ‘drag 'em’ approach on full display",
       "link": "https://www.mlb.com/news/brewers-win-world-series-game-3-historic-inning",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-27T05:55:24+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Brewers' 8-run 5th in Game 3 a 'knife in the chest' to Rays",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-27T05:54:00+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "44m ago"
     },
     {
       "title": "After two 1-run losses, blowout at Trop puts Rays' season on brink",
@@ -38,7 +77,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-27T05:44:58+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "53m ago"
+    },
+    {
+      "title": "Brewers-Rays World Series Game 4 FAQ (8 ET, FOX/FOX One)",
+      "link": "https://www.mlb.com/news/brewers-rays-world-series-game-4-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yojkjamaaxscoa9ru31j",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince, Adam Berry, Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-27T05:38:47+00:00",
+      "time_ago": "59m ago"
     },
     {
       "title": "Longoria tapped for first pitch ahead of Rays' must-win Game 4",
@@ -51,59 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-27T05:24:24+00:00",
-      "time_ago": "42m ago"
-    },
-    {
-      "title": "With historic romp, unrelenting Crew just 1 win from 1st World Series title",
-      "link": "https://www.mlb.com/news/brewers-win-world-series-game-3-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/avjflnfoxdirau7k3cgt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-27T04:48:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "3 big questions for a World Series Game 4 that could seal Brewers' first title",
-      "link": "https://www.mlb.com/news/2026-world-series-game-4-storylines-brewers-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ry0boh2upvgp1wqzpzpd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-27T04:33:58+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Key takeaways after Brewers slug their way to 3-0 World Series lead",
-      "link": "https://www.mlb.com/news/key-takeaways-from-world-series-game-3-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gzsdyti29vmybrbodifk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-27T03:33:25+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Simpson's speed actually costs him SB -- then enables SPECTACULAR catch",
-      "link": "https://www.mlb.com/news/chandler-simpson-makes-great-running-catch-in-2026-world-series-game-3",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793062624/mlb/tanq0jtjsl5bdwx9zvo9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-27T03:11:00+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
