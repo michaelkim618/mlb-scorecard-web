@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-10-27T05:19:20.917196+00:00",
+  "updated_at": "2026-10-27T06:07:02.733259+00:00",
   "news": [
+    {
+      "title": "EIGHT runs with two outs in 5th? Brewers' ‘drag 'em’ approach on full display",
+      "link": "https://www.mlb.com/news/brewers-win-world-series-game-3-historic-inning",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793076128/mlb/b3jifkcpap1dxsprcoaz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-27T05:55:24+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Brewers' 8-run 5th in Game 3 a 'knife in the chest' to Rays",
+      "link": "https://www.mlb.com/news/rays-allow-eight-runs-to-brewers-in-fifth-inning-of-world-series-game-3",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/utldbfpiluzf2yxfegqf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-27T05:54:00+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "After two 1-run losses, blowout at Trop puts Rays' season on brink",
+      "link": "https://www.mlb.com/news/rays-lose-game-3-of-2026-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793070040/mlb/ijf23cawg1ad95ydgf7j",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-27T05:44:58+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "Longoria tapped for first pitch ahead of Rays' must-win Game 4",
+      "link": "https://www.mlb.com/news/evan-longoria-to-throw-first-pitch-at-world-series-game-4-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a6vj98p0leecjkuvfcv0",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-27T05:24:24+00:00",
+      "time_ago": "42m ago"
+    },
     {
       "title": "With historic romp, unrelenting Crew just 1 win from 1st World Series title",
       "link": "https://www.mlb.com/news/brewers-win-world-series-game-3-2026",
@@ -12,7 +64,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-27T04:48:00+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "3 big questions for a World Series Game 4 that could seal Brewers' first title",
+      "link": "https://www.mlb.com/news/2026-world-series-game-4-storylines-brewers-rays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ry0boh2upvgp1wqzpzpd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-27T04:33:58+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Key takeaways after Brewers slug their way to 3-0 World Series lead",
@@ -25,19 +90,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-27T03:33:25+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Game 3 unravels for Rays with Brewers' historic 8-run 5th",
-      "link": "https://www.mlb.com/news/rays-allow-eight-runs-to-brewers-in-fifth-inning-of-world-series-game-3",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nho2cp76muexc7cokabc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-27T03:19:00+00:00",
       "time_ago": "2h ago"
     },
     {
@@ -52,58 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-27T03:11:00+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "From crab claws to tomahawks, World Series fans can get fancy at the Trop",
-      "link": "https://www.mlb.com/news/rays-unveil-world-series-food-options-at-tropicana-field",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ifu6mehvxuvinu58rcj9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-27T01:44:38+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Mariners holding in-person interviews with Espada, Kanzler for manager (source)",
-      "link": "https://www.mlb.com/news/mariners-interviewing-joe-espada-jason-kanzler-for-manager",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nep5fton3kxedrbia9ml",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-27T00:23:46+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Maddon takes hill for first pitch ... then calls to bullpen for Shields",
-      "link": "https://www.mlb.com/news/20261026-joe-maddon-first-pitch-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793059848/mlb/j9i2suq0fwtfn4awqflf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-27T00:11:00+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Lindor wins 2026 Clemente Award, in spirit of his idol and countryman",
-      "link": "https://www.mlb.com/news/francisco-lindor-2026-clemente-award",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lmxxhsabpff61pw7ohwr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-10-26T23:51:00+00:00",
-      "time_ago": "5h ago"
     }
   ]
 }
