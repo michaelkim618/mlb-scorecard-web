@@ -1,26 +1,26 @@
 {
-  "title": "Oct 26 Results + Oct 27 Preview: A 0% Day, But the Numbers Tell a Deeper Story",
-  "summary": "Oct 26 went 0-1, but we're doubling down on the Rays with stronger 54% confidence for Oct 27.",
+  "title": "Oct 26 Results + Oct 27 Preview: Zero Wins, but the Data Tells a Different Story",
+  "summary": "0-1 on Oct 26, but 52% margins are coin flips. Oct 27 brings a stronger 54% Rays pick.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Oct 26 Results: The Numbers Don't Lie\n\nLet's get straight to it—Oct 26 was a rough day at the office. We went 0-1, posting a 0.0% accuracy rate. Our pick on the Rays at 52% confidence didn't land. When you're operating on razor-thin margins like 52%, you're essentially looking at a coin flip with a slight edge. The variance caught us this time."
+      "value": "## Oct 26 Results: The Numbers Don't Lie\n\nLet's cut straight to it—we went 0-1 yesterday. But before you close this tab, look at the actual data. Our Brewers @ Rays pick landed on Tampa Bay at 52% confidence. That's essentially a coin flip with a 2% edge. When you're operating in margin-of-error territory, variance is expected. This is statistics, not magic."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Oct 26 W-L",
+          "label": "Oct 26 Record",
           "value": "0-1"
         },
         {
-          "label": "Accuracy",
+          "label": "Win Rate",
           "value": "0.0%"
         },
         {
-          "label": "Games Analyzed",
-          "value": "1"
+          "label": "Avg Confidence",
+          "value": "52%"
         }
       ]
     },
@@ -28,28 +28,28 @@
       "type": "table",
       "title": "Oct 26 Full Results Breakdown",
       "headers": [
-        "Game",
-        "Pick",
+        "Matchup",
+        "Our Pick",
         "Confidence",
-        "Result"
+        "Outcome"
       ],
       "rows": [
         [
           "Brewers @ Rays",
           "Rays",
           "52%",
-          "✗"
+          "✗ Miss"
         ]
       ]
     },
     {
       "type": "text",
-      "value": "## What the Data Shows\n\nHere's the reality: a 52% confidence pick means we expected the Rays to win 52 times out of 100 in that exact scenario. Losing one game at that probability isn't a model failure—it's variance playing out. The key metric to watch is long-term performance across hundreds of picks, not single-game results.\n\nThat said, 0-1 stings. I'm not here to sugarcoat the numbers."
+      "value": "## The 52% Reality Check\n\nHere's what the numbers actually tell us: a 52% pick means we expect to win roughly 52 times out of 100. On any single game, you're looking at near-even odds. The sample size of one game is statistically meaningless. Over 100 iterations of this exact scenario, we'd expect 52 wins and 48 losses—and that 4-game edge is where value lives.\n\nThe Brewers pulled it out, but that doesn't invalidate the model. It validates the importance of understanding probability distributions."
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Oct 26 Prediction Performance",
+      "title": "Oct 26 Pick Confidence vs Result",
       "data": [
         {
           "name": "Rays",
@@ -67,26 +67,30 @@
         {
           "key": "result",
           "color": "#DC2626",
-          "label": "Correct (0=Miss)"
+          "label": "Correct (0=No, 1=Yes)"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## Oct 27 Preview: Running It Back with Higher Confidence\n\nHere's where it gets interesting. We've got the same matchup—Brewers at Rays—and the model is actually *more* confident in Tampa Bay for Oct 27. We're projecting 54% win probability, up 2 percentage points from yesterday.\n\nGriffin Jax gets the nod for the Rays. The Brewers haven't announced their starter yet (listed as TBD), which adds some uncertainty, but our model factors in expected performance based on likely candidates and bullpen usage patterns."
+      "value": "## Oct 27 Preview: Same Matchup, Better Edge\n\nHere's where it gets interesting. We're looking at Brewers @ Rays again on Oct 27, but the model now shows Tampa Bay at 54% confidence—a 2-point improvement over yesterday. Still not a huge edge, but it's movement in the right direction.\n\nThe pitching matchup shows Griffin Jax on the mound for the Rays, while Milwaukee's starter is TBD. That uncertainty factors into our model, but the 54% confidence suggests our baseline metrics favor Tampa Bay's offensive and defensive profile in this spot."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Oct 27 Top Pick",
-      "value": "Tampa Bay Rays",
-      "sub": "54% win probability · Griffin Jax starting · vs TBD"
+      "value": "Tampa Bay Rays (54%)",
+      "sub": "vs Brewers · Home SP: Griffin Jax · Away SP: TBD"
+    },
+    {
+      "type": "text",
+      "value": "## The Statistical Perspective\n\nLet's be clear: 54% is still a modest edge. We're not talking about a 70% slam dunk here. But in a sport where the best teams win roughly 60% of their games over a full season, finding consistent 54% edges is how you build long-term value.\n\nThe key metrics driving this pick:\n- Home field advantage for Tampa Bay\n- Griffin Jax's recent performance data\n- Milwaukee's uncertainty at the starting pitcher position\n- Head-to-head historical trends in this matchup\n\nThis is a data play, not a gut feeling. Variance will happen game to game, but over time, these edges compound."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Pick",
+          "label": "Oct 27 Top Pick",
           "value": "Rays"
         },
         {
@@ -94,18 +98,14 @@
           "value": "54%"
         },
         {
-          "label": "Home SP",
-          "value": "Griffin Jax"
-        },
-        {
-          "label": "Away SP",
-          "value": "TBD"
+          "label": "Expected Edge",
+          "value": "+4%"
         }
       ]
     },
     {
       "type": "text",
-      "value": "## The Analytical Angle\n\nWhy are we more confident on Oct 27? A few data points:\n\n- **Pitching edge**: Griffin Jax provides a known quantity versus an unknown/uncertain Brewers starter\n- **Home field factor**: Rays continue to hold the home advantage at Tropicana Field\n- **Regression potential**: After yesterday's loss, historical patterns suggest the Rays' underlying metrics support a bounce-back scenario\n\nThe 54% probability still isn't a slam dunk—this is a competitive matchup. But when the model shows increased confidence in the same team for a continuation series, that's a signal worth following.\n\n## Bottom Line\n\nOct 26: 0-1, 0.0%. Not what we wanted.\n\nOct 27: Rays at 54%. The numbers say run it back.\n\nLet's see if the data vindicates itself tomorrow. Check back for results."
+      "value": "## Bottom Line\n\nOct 26 was a loss, but the process was sound. A 52% edge played out on the wrong side of variance—that's probability in action. Oct 27 gives us another crack at this matchup with a slightly improved 54% confidence level. \n\nRemember: we're playing the long game here. One game is a data point. One hundred games is a trend. Stay disciplined, trust the numbers, and let the sample size work in our favor.\n\n*Let's see what Oct 27 brings.*"
     }
   ],
   "slug": "2026-10-26-daily-stan",
