@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-27T01:46:31.117121+00:00",
+  "updated_at": "2026-10-27T02:21:43.604871+00:00",
   "news": [
+    {
+      "title": "From crab claws to tomahawks, World Series fans can get fancy at the Trop",
+      "link": "https://www.mlb.com/news/rays-unveil-world-series-food-options-at-tropicana-field",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ifu6mehvxuvinu58rcj9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-27T01:44:38+00:00",
+      "time_ago": "37m ago"
+    },
     {
       "title": "Simpson's speed actually costs him SB -- then enables SPECTACULAR catch",
       "link": "https://www.mlb.com/news/chandler-simpson-makes-great-running-catch-in-2026-world-series-game-3",
@@ -12,20 +25,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-27T01:11:41+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "1h ago"
     },
     {
-      "title": "LIVE: Yelich opens scoring with single in 3rd (FOX/FOX One)",
+      "title": "LIVE: Brewers break it open with 8-run 5th (FOX/FOX One)",
       "link": "https://www.mlb.com/stories/game/849804",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vu3yocakfaasisqqfnaz",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zf1pmuhutevtbyrawchc",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-27T01:02:46+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Mariners holding in-person interviews with Espada, Kanzler for manager (source)",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-27T00:11:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Lindor wins 2026 Clemente Award, in spirit of his idol and countryman",
@@ -64,7 +77,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-10-26T23:51:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Phillies hire Fatse to be new hitting coach (source)",
@@ -91,19 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-26T20:39:24+00:00",
       "time_ago": "5h ago"
-    },
-    {
-      "title": "Mets set to add Mariano Duncan to coaching staff (source)",
-      "link": "https://www.mlb.com/news/mariano-duncan-promoted-by-mets",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dfnvnoeimg8cimbfl11v",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-26T19:28:40+00:00",
-      "time_ago": "6h ago"
     }
   ]
 }
