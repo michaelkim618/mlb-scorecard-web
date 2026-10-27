@@ -1,0 +1,29 @@
+{
+  "predictions": [],
+  "results": false,
+  "lineup_refreshed": [
+    "17:00"
+  ],
+  "predictions_frozen": [
+    "17:00"
+  ],
+  "frozen_predictions": {
+    "17:00": [
+      {
+        "game_pk": "849803",
+        "win_prob": {
+          "away": 40.2,
+          "home": 59.8
+        },
+        "model_winner": "Tampa Bay Rays",
+        "value_bet": "⚠️ VB주의(선발Hot·장기휴식12일·edge부족 13.8%p<18.0%p)",
+        "edge": 13.8,
+        "sp_bat_conflict": false,
+        "sp_bat_conflict_detail": null,
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 59.8% (≤62.0%)",
+        "extreme_edge": false
+      }
+    ]
+  }
+}
