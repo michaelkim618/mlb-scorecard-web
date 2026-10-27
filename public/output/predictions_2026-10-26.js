@@ -2,7 +2,7 @@
 window.PREDICTIONS_DATA = [
   {
     "date": "2026-10-26",
-    "status": "Preview",
+    "status": "Final",
     "game_time": "5:00 PM PT",
     "game_number": 1,
     "doubleheader": false,
@@ -106,17 +106,6 @@ window.PREDICTIONS_DATA = [
     },
     "away_pitcher_gamelog": [
       {
-        "date": "2026-08-14",
-        "opp": "@ LAD",
-        "decision": "L",
-        "ip": "6.1",
-        "er": 3,
-        "h": 8,
-        "bb": 1,
-        "so": 7,
-        "era": 4.26
-      },
-      {
         "date": "2026-08-20",
         "opp": "vs SEA",
         "decision": null,
@@ -214,6 +203,17 @@ window.PREDICTIONS_DATA = [
         "bb": 1,
         "so": 3,
         "era": 0.0
+      },
+      {
+        "date": "2026-10-26",
+        "opp": "@ TB",
+        "decision": "W",
+        "ip": "6.0",
+        "er": 0,
+        "h": 1,
+        "bb": 1,
+        "so": 3,
+        "era": 0.0
       }
     ],
     "home_pitcher": "Freddy Peralta",
@@ -224,17 +224,6 @@ window.PREDICTIONS_DATA = [
       "era": "4.42"
     },
     "home_pitcher_gamelog": [
-      {
-        "date": "2026-08-26",
-        "opp": "@ DET",
-        "decision": "W",
-        "ip": "6.0",
-        "er": 0,
-        "h": 2,
-        "bb": 0,
-        "so": 4,
-        "era": 0.0
-      },
       {
         "date": "2026-09-01",
         "opp": "vs NYM",
@@ -333,44 +322,55 @@ window.PREDICTIONS_DATA = [
         "bb": 3,
         "so": 3,
         "era": 1.69
+      },
+      {
+        "date": "2026-10-26",
+        "opp": "vs MIL",
+        "decision": "L",
+        "ip": "4.2",
+        "er": 5,
+        "h": 7,
+        "bb": 3,
+        "so": 4,
+        "era": 9.64
       }
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 47.8,
-      "home": 52.2
+      "away": 47.9,
+      "home": 52.1
     },
     "expected_score": {
-      "away": 1.7,
-      "home": 2.0
+      "away": 2.1,
+      "home": 2.3
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "team_stats",
+      "bat_source": "lineup",
       "away_handedness": "L",
       "home_handedness": "R",
       "bullpen_game": false,
       "any_cold_sp": false,
       "eff_weights": {
-        "sp": 0.38,
-        "bp": 0.22,
-        "bat": 0.25,
+        "sp": 0.33,
+        "bp": 0.24,
+        "bat": 0.28,
         "sit": 0.15
       },
       "away": {
-        "sp_score": 49.5,
+        "sp_score": 50.0,
         "sp_detail": {
-          "era": 2.45,
-          "whip": 1.09,
-          "k9": 8.4,
+          "era": 1.94,
+          "whip": 0.96,
+          "k9": 7.8,
           "avg_ip": 5.1,
           "qs_rate": 30.0,
-          "last3_era": 1.0,
+          "last3_era": 0.64,
           "last_start_era": 0.0,
           "last2_eras": [
-            2.25,
+            0.0,
             0.0
           ],
           "recent_avg_era": 0.0,
@@ -426,7 +426,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 72.5,
+        "bp_score": 73.2,
         "bp_detail": {
           "bullpen_era": 2.89,
           "recent_era": 2.89,
@@ -438,65 +438,121 @@ window.PREDICTIONS_DATA = [
           "closer_era": 2.63,
           "closer_name": "Trevor Megill"
         },
-        "bat_score": 28.6,
+        "bat_score": 34.5,
         "bat_detail": {
-          "recent_avg": 0.227,
-          "runs_per_g": 4.5,
-          "hr_per_g": 0.7,
-          "bb_per_g": 4.7,
-          "season_ops": 0.72,
+          "recent_avg": 0.25,
+          "runs_per_g": 4.4,
+          "hr_per_g": 0.8,
+          "bb_per_g": 3.0,
+          "season_ops": 0.714,
+          "season_slg": 0.407,
           "season_avg": 0.25,
-          "season_slg": 0.4,
-          "n_games": 10,
-          "last5_rpg": 3.4,
-          "last5_avg": 0.203,
-          "bat_trend": "cold",
+          "n_games": 9,
+          "source": "prev_day",
+          "handedness": "R",
+          "splits_used": false,
+          "lineup_ops": [
+            "Jackson Chourio(0.894)",
+            "Jake Bauers(0.764)",
+            "Christian Yelich(0.613)",
+            "William Contreras(0.718)",
+            "Brice Turang(0.859)",
+            "Garrett Mitchell(0.626)",
+            "Cooper Pratt(0.748)",
+            "Sal Frelick(0.532)",
+            "David Hamilton(0.672)"
+          ],
+          "lineup_players": [
+            {
+              "id": 694192,
+              "name": "Jackson Chourio",
+              "ops": 0.894,
+              "avg": 0.333
+            },
+            {
+              "id": 641343,
+              "name": "Jake Bauers",
+              "ops": 0.764,
+              "avg": 0.229
+            },
+            {
+              "id": 592885,
+              "name": "Christian Yelich",
+              "ops": 0.613,
+              "avg": 0.171
+            },
+            {
+              "id": 661388,
+              "name": "William Contreras",
+              "ops": 0.718,
+              "avg": 0.237
+            },
+            {
+              "id": 668930,
+              "name": "Brice Turang",
+              "ops": 0.859,
+              "avg": 0.316
+            },
+            {
+              "id": 669003,
+              "name": "Garrett Mitchell",
+              "ops": 0.626,
+              "avg": 0.182
+            },
+            {
+              "id": 806198,
+              "name": "Cooper Pratt",
+              "ops": 0.748,
+              "avg": 0.333
+            },
+            {
+              "id": 686217,
+              "name": "Sal Frelick",
+              "ops": 0.532,
+              "avg": 0.16
+            },
+            {
+              "id": 666152,
+              "name": "David Hamilton",
+              "ops": 0.672,
+              "avg": 0.292
+            }
+          ],
+          "bat_trend": "hot",
+          "last5_rpg": 5.2,
+          "last5_avg": 0.285,
           "home_split": {
             "recent_avg": 0.312,
             "runs_per_g": 7.3,
             "hr_per_g": 1.6,
-            "bb_per_g": 3.9,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 6.6,
-            "last5_avg": 0.305,
-            "bat_trend": "stable"
+            "n_games": 10
           },
           "away_split": {
             "recent_avg": 0.227,
             "runs_per_g": 4.5,
             "hr_per_g": 0.7,
-            "bb_per_g": 4.7,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 3.4,
-            "last5_avg": 0.203,
-            "bat_trend": "cold"
+            "n_games": 10
           }
         },
         "sit_score": 71.6,
-        "total": 52.6
+        "total": 54.5
       },
       "home": {
-        "sp_score": 54.9,
+        "sp_score": 49.0,
         "sp_detail": {
-          "era": 0.89,
-          "whip": 0.91,
-          "k9": 6.9,
-          "avg_ip": 5.1,
-          "qs_rate": 40.0,
-          "last3_era": 0.82,
-          "last_start_era": 1.69,
+          "era": 1.82,
+          "whip": 1.09,
+          "k9": 7.1,
+          "avg_ip": 4.9,
+          "qs_rate": 30.0,
+          "last3_era": 2.95,
+          "last_start_era": 9.64,
           "last2_eras": [
-            0.0,
-            1.69
+            1.69,
+            9.64
           ],
-          "recent_avg_era": 1.69,
-          "recent_bad_start": false,
+          "recent_avg_era": 9.64,
+          "recent_bad_start": true,
           "trend": "hot",
           "n_games": 10,
           "sample_confidence": 1.0,
@@ -550,7 +606,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 74.8,
+        "bp_score": 75.0,
         "bp_detail": {
           "bullpen_era": 2.78,
           "recent_era": 2.78,
@@ -562,80 +618,136 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.44,
           "closer_name": "Bryan Baker"
         },
-        "bat_score": 29.7,
+        "bat_score": 35.0,
         "bat_detail": {
-          "recent_avg": 0.227,
-          "runs_per_g": 4.9,
-          "hr_per_g": 1.0,
-          "bb_per_g": 3.1,
-          "season_ops": 0.72,
-          "season_avg": 0.25,
-          "season_slg": 0.4,
-          "n_games": 10,
+          "recent_avg": 0.225,
+          "runs_per_g": 3.8,
+          "hr_per_g": 0.7,
+          "bb_per_g": 3.0,
+          "season_ops": 0.682,
+          "season_slg": 0.369,
+          "season_avg": 0.225,
+          "n_games": 9,
+          "source": "prev_day",
+          "handedness": "L",
+          "splits_used": false,
+          "lineup_ops": [
+            "Yandy Díaz(0.628)",
+            "Ryan Vilade(0.559)",
+            "Chandler Simpson(0.704)",
+            "Junior Caminero(0.800)",
+            "Ben Williamson(0.527)",
+            "Jonny DeLuca(0.807)",
+            "Victor Mesa Jr.(0.791)",
+            "Nick Fortes(0.668)",
+            "Taylor Walls(0.652)"
+          ],
+          "lineup_players": [
+            {
+              "id": 650490,
+              "name": "Yandy Díaz",
+              "ops": 0.628,
+              "avg": 0.175
+            },
+            {
+              "id": 668723,
+              "name": "Ryan Vilade",
+              "ops": 0.559,
+              "avg": 0.133
+            },
+            {
+              "id": 802415,
+              "name": "Chandler Simpson",
+              "ops": 0.704,
+              "avg": 0.333
+            },
+            {
+              "id": 691406,
+              "name": "Junior Caminero",
+              "ops": 0.8,
+              "avg": 0.257
+            },
+            {
+              "id": 810938,
+              "name": "Ben Williamson",
+              "ops": 0.527,
+              "avg": 0.138
+            },
+            {
+              "id": 676356,
+              "name": "Jonny DeLuca",
+              "ops": 0.807,
+              "avg": 0.286
+            },
+            {
+              "id": 683748,
+              "name": "Victor Mesa Jr.",
+              "ops": 0.791,
+              "avg": 0.273
+            },
+            {
+              "id": 663743,
+              "name": "Nick Fortes",
+              "ops": 0.668,
+              "avg": 0.19
+            },
+            {
+              "id": 670764,
+              "name": "Taylor Walls",
+              "ops": 0.652,
+              "avg": 0.241
+            }
+          ],
+          "bat_trend": "hot",
           "last5_rpg": 4.6,
-          "last5_avg": 0.206,
-          "bat_trend": "cold",
+          "last5_avg": 0.254,
           "home_split": {
             "recent_avg": 0.227,
             "runs_per_g": 4.9,
             "hr_per_g": 1.0,
-            "bb_per_g": 3.1,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 4.6,
-            "last5_avg": 0.206,
-            "bat_trend": "cold"
+            "n_games": 10
           },
           "away_split": {
             "recent_avg": 0.246,
             "runs_per_g": 4.4,
             "hr_per_g": 1.1,
-            "bb_per_g": 2.9,
-            "season_ops": 0.72,
-            "season_avg": 0.25,
-            "season_slg": 0.4,
-            "n_games": 10,
-            "last5_rpg": 4.6,
-            "last5_avg": 0.254,
-            "bat_trend": "stable"
+            "n_games": 10
           }
         },
         "sit_score": 61.6,
-        "total": 54.0
+        "total": 53.2
       }
     },
     "scores": {
-      "away_offense": 28.6,
-      "away_defense": 61.0,
-      "home_offense": 29.7,
-      "home_defense": 64.8
+      "away_offense": 34.5,
+      "away_defense": 61.6,
+      "home_offense": 35.0,
+      "home_defense": 62.0
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 10,
+      "home": 1
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Milwaukee Brewers",
     "model_winner": "Tampa Bay Rays",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Milwaukee Brewers IL: Angel Zerpa, Brian Fitzpatrick, Quinn Priester / Tampa Bay Rays IL: Edwin Uceta, Gavin Lux, Jacob Melton, Jonathan Heasley, Ryan Pepiot",
     "kalshi_prob": null,
     "edge": null,
-    "value_bet": "⏭️ 패스 (라인업 미확정)",
+    "value_bet": "마켓 없음",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 54.2% (≤62.0%)",
+    "low_confidence_reason": "SP 점수 차이 1.0pt (≤5.0pt) / 최고 확률 54.1% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
