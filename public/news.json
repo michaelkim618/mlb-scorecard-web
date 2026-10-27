@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-27T12:51:26.272257+00:00",
+  "updated_at": "2026-10-27T13:24:44.868312+00:00",
   "news": [
+    {
+      "title": "Q&A: Smith discusses his new role as youngest head of baseball ops in MLB",
+      "link": "https://www.mlb.com/news/q-a-with-athletics-president-of-baseball-operations-taylor-smith",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bxiuk5vt4lddrxtf7qup",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Martín Gallegos",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-27T12:46:09+00:00",
+      "time_ago": "38m ago"
+    },
     {
       "title": "Tolle knocks it out of the park as World Series correspondent ... is anyone surprised?",
       "link": "https://www.mlb.com/news/payton-tolle-world-series-player-correspondent-highlights",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-27T12:36:12+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "After two 1-run losses, blowout at Trop puts Rays' season on brink",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-27T06:15:29+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "EIGHT runs with two outs in 5th? Brewers' ‘drag 'em’ approach on full display",
-      "link": "https://www.mlb.com/news/brewers-win-world-series-game-3-historic-inning",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793076128/mlb/b3jifkcpap1dxsprcoaz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-27T05:55:24+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     }
   ]
 }

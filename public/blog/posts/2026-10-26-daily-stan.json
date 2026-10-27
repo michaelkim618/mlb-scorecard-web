@@ -1,0 +1,120 @@
+{
+  "title": "Oct 26 Results + Oct 27 Preview: A 0% Day, But the Numbers Tell a Deeper Story",
+  "summary": "Oct 26 went 0-1, but we're doubling down on the Rays with stronger 54% confidence for Oct 27.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Oct 26 Results: The Numbers Don't Lie\n\nLet's get straight to it—Oct 26 was a rough day at the office. We went 0-1, posting a 0.0% accuracy rate. Our pick on the Rays at 52% confidence didn't land. When you're operating on razor-thin margins like 52%, you're essentially looking at a coin flip with a slight edge. The variance caught us this time."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Oct 26 W-L",
+          "value": "0-1"
+        },
+        {
+          "label": "Accuracy",
+          "value": "0.0%"
+        },
+        {
+          "label": "Games Analyzed",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Oct 26 Full Results Breakdown",
+      "headers": [
+        "Game",
+        "Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Brewers @ Rays",
+          "Rays",
+          "52%",
+          "✗"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## What the Data Shows\n\nHere's the reality: a 52% confidence pick means we expected the Rays to win 52 times out of 100 in that exact scenario. Losing one game at that probability isn't a model failure—it's variance playing out. The key metric to watch is long-term performance across hundreds of picks, not single-game results.\n\nThat said, 0-1 stings. I'm not here to sugarcoat the numbers."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Oct 26 Prediction Performance",
+      "data": [
+        {
+          "name": "Rays",
+          "probability": 52,
+          "result": 0
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#DC2626",
+          "label": "Correct (0=Miss)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## Oct 27 Preview: Running It Back with Higher Confidence\n\nHere's where it gets interesting. We've got the same matchup—Brewers at Rays—and the model is actually *more* confident in Tampa Bay for Oct 27. We're projecting 54% win probability, up 2 percentage points from yesterday.\n\nGriffin Jax gets the nod for the Rays. The Brewers haven't announced their starter yet (listed as TBD), which adds some uncertainty, but our model factors in expected performance based on likely candidates and bullpen usage patterns."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Oct 27 Top Pick",
+      "value": "Tampa Bay Rays",
+      "sub": "54% win probability · Griffin Jax starting · vs TBD"
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Pick",
+          "value": "Rays"
+        },
+        {
+          "label": "Confidence",
+          "value": "54%"
+        },
+        {
+          "label": "Home SP",
+          "value": "Griffin Jax"
+        },
+        {
+          "label": "Away SP",
+          "value": "TBD"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Analytical Angle\n\nWhy are we more confident on Oct 27? A few data points:\n\n- **Pitching edge**: Griffin Jax provides a known quantity versus an unknown/uncertain Brewers starter\n- **Home field factor**: Rays continue to hold the home advantage at Tropicana Field\n- **Regression potential**: After yesterday's loss, historical patterns suggest the Rays' underlying metrics support a bounce-back scenario\n\nThe 54% probability still isn't a slam dunk—this is a competitive matchup. But when the model shows increased confidence in the same team for a continuation series, that's a signal worth following.\n\n## Bottom Line\n\nOct 26: 0-1, 0.0%. Not what we wanted.\n\nOct 27: Rays at 54%. The numbers say run it back.\n\nLet's see if the data vindicates itself tomorrow. Check back for results."
+    }
+  ],
+  "slug": "2026-10-26-daily-stan",
+  "author": "Stan",
+  "author_emoji": "📊",
+  "author_role": "Data Analyst",
+  "author_color": "#0EA5E9",
+  "date": "2026-10-26",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#0EA5E9"
+}

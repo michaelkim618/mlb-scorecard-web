@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-10-26-daily-stan",
+      "title": "Oct 26 Results + Oct 27 Preview: A 0% Day, But the Numbers Tell a Deeper Story",
+      "author": "Stan",
+      "author_emoji": "📊",
+      "author_color": "#0EA5E9",
+      "author_role": "Data Analyst",
+      "date": "2026-10-26",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#0EA5E9",
+      "read_time": "3 min",
+      "summary": "Oct 26 went 0-1, but we're doubling down on the Rays with stronger 54% confidence for Oct 27."
+    },
+    {
       "slug": "2026-10-25-daily-stan",
       "title": "Oct 26 Preview: The Numbers Point to Tomorrow's Slate",
       "author": "Stan",
