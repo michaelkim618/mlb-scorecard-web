@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-27T12:31:38.642356+00:00",
+  "updated_at": "2026-10-27T12:51:26.272257+00:00",
   "news": [
+    {
+      "title": "Tolle knocks it out of the park as World Series correspondent ... is anyone surprised?",
+      "link": "https://www.mlb.com/news/payton-tolle-world-series-player-correspondent-highlights",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793046519/mlb/lfip2fkqrwepkqavqiul",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-27T12:36:12+00:00",
+      "time_ago": "15m ago"
+    },
     {
       "title": "After two 1-run losses, blowout at Trop puts Rays' season on brink",
       "link": "https://www.mlb.com/news/rays-lose-game-3-of-2026-world-series",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-27T06:45:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "1 unprecedented inning not only way Crew rewriting Fall Classic record books",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-27T06:38:44+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "Chourio the youngest with 4-hit game in Series since ... 80 years ago!",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-27T06:33:34+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "'I want it right now': Woodruff seizes chance in 1st pitching appearance since July",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-27T05:55:24+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Brewers' 8-run 5th in Game 3 a 'knife in the chest' to Rays",
-      "link": "https://www.mlb.com/news/rays-allow-eight-runs-to-brewers-in-fifth-inning-of-world-series-game-3",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/utldbfpiluzf2yxfegqf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-27T05:54:00+00:00",
       "time_ago": "6h ago"
     }
   ]
