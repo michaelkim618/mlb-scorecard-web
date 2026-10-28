@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-28T06:44:42.152068+00:00",
+  "updated_at": "2026-10-28T07:10:52.678251+00:00",
   "news": [
+    {
+      "title": "After costly errors sink Brewers, they hope Miz can provide title-winning bounceback",
+      "link": "https://www.mlb.com/news/brewers-errors-world-series-game-4-loss-rays-jacob-misiorowski",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xdk17rnwlawgsn1llfwz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-28T06:58:57+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Key takeaways as Rays stay alive with thrilling Game 4 walk-off",
+      "link": "https://www.mlb.com/news/key-takeaways-from-world-series-game-4-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qowxu7hexqtzlgcrrvgs",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-28T06:57:00+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Brewers-Rays World Series Game 5 FAQ (8 ET, FOX/FOX One)",
+      "link": "https://www.mlb.com/news/brewers-rays-world-series-game-5-starting-lineups-and-pitching-matchup",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hgs99wemrigt8vq5qf5c",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince, Adam Berry, Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-28T06:46:08+00:00",
+      "time_ago": "24m ago"
+    },
     {
       "title": "Battle-tested 'pen proves Rays 'never out of the fight' in gritty Game 4",
       "link": "https://www.mlb.com/news/rays-bullpen-matches-brewers-in-2026-world-series-game-4-win",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-28T06:28:02+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "18 straight 0's: Ashby makes playoff history with record scoreless relief streak",
@@ -25,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-28T06:08:00+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "3 big questions for Game 5 with Rays starting to regain some mojo",
@@ -38,19 +77,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-28T05:46:10+00:00",
-      "time_ago": "58m ago"
-    },
-    {
-      "title": "Key takeaways as Rays stay alive with thrilling Game 4 walk-off",
-      "link": "https://www.mlb.com/news/key-takeaways-from-world-series-game-4-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qowxu7hexqtzlgcrrvgs",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-28T05:12:06+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-28T04:59:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Game 4 joins other crazy World Series finishes",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-28T04:52:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Rays live to fight another day thanks to Williamson's walk-off single",
-      "link": "https://www.mlb.com/news/rays-win-world-series-game-4-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/joxfxly9p8x7qjkl4hba",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-10-28T04:50:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Teams with the best records in a postseason",
-      "link": "https://www.mlb.com/news/best-mlb-single-season-postseason-winning-percentages",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sai0aipifc9z2etkzsgj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Dylan Svoboda",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-28T04:47:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
