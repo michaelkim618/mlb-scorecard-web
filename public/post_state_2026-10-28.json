@@ -1,0 +1,34 @@
+{
+  "predictions": [],
+  "results": false,
+  "lineup_refreshed": [
+    "17:00"
+  ],
+  "predictions_frozen": [
+    "17:00"
+  ],
+  "frozen_predictions": {
+    "17:00": [
+      {
+        "game_pk": "849799",
+        "win_prob": {
+          "away": 43.0,
+          "home": 57.0
+        },
+        "model_winner": "Tampa Bay Rays",
+        "value_bet": "⏭️ 패스 (SP↔BAT충돌+시장역방향 edge +14.0%p — 신뢰불가)",
+        "edge": 14.0,
+        "sp_bat_conflict": true,
+        "sp_bat_conflict_detail": {
+          "sp_favors": "Tampa Bay Rays",
+          "bat_favors": "Milwaukee Brewers",
+          "sp_gap": -16.8,
+          "bat_gap": 8.3
+        },
+        "low_confidence": true,
+        "low_confidence_reason": "최고 확률 57.0% (≤62.0%)",
+        "extreme_edge": false
+      }
+    ]
+  }
+}
