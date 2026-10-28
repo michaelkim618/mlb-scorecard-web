@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-28T18:59:49.470623+00:00",
+  "updated_at": "2026-10-28T19:25:14.058301+00:00",
   "news": [
+    {
+      "title": "Rasmussen, on 3 days’ rest, gets Game 5 nod",
+      "link": "https://www.mlb.com/news/drew-rasmussen-2026-world-series-game-5-start",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ssd23hrltubm9ssaxrua",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-28T19:11:49+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "3 big questions for Game 5 with Rays starting to regain some mojo",
+      "link": "https://www.mlb.com/news/2026-world-series-game-5-storylines-brewers-rays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oruwsskerqfluplz8ifq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-28T19:10:00+00:00",
+      "time_ago": "15m ago"
+    },
     {
       "title": "With parallels to '04 Red Sox, here's the Rays' path to their own historic comeback",
       "link": "https://www.mlb.com/news/how-rays-might-pull-off-world-series-history",
@@ -15,19 +41,6 @@
       "time_ago": "2h ago"
     },
     {
-      "title": "3 big questions for Game 5 with Rays starting to regain some mojo",
-      "link": "https://www.mlb.com/news/2026-world-series-game-5-storylines-brewers-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bbnsilsbbny8qyugkyxa",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-28T15:30:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
       "title": "4 takeaways from a thrilling Game 4",
       "link": "https://www.mlb.com/news/key-takeaways-from-world-series-game-4-2026",
       "summary": "",
@@ -38,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-28T15:00:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Caminero expected to be fine despite exiting Game 4 with apparent injury",
@@ -52,19 +65,6 @@
       "tag_color": "#DC2626",
       "pub_date": "2026-10-28T13:59:28+00:00",
       "time_ago": "5h ago"
-    },
-    {
-      "title": "Which Cubs can take home hardware?",
-      "link": "https://www.mlb.com/news/cubs-award-candidates-for-2026-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e8rkd7bezicndquvax2a",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-28T11:21:12+00:00",
-      "time_ago": "7h ago"
     },
     {
       "title": "'We’ve got one more day': Rays walk it off to force Game 5",

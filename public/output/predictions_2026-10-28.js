@@ -216,132 +216,132 @@ window.PREDICTIONS_DATA = [
         "era": 1.8
       }
     ],
-    "home_pitcher": "Nick Martinez (TBD)",
-    "home_pitcher_id": 607259,
+    "home_pitcher": "Drew Rasmussen",
+    "home_pitcher_id": 656876,
     "home_pitcher_stats": {
-      "wins": 15,
-      "losses": 6,
-      "era": "3.10"
+      "wins": 16,
+      "losses": 5,
+      "era": "2.67"
     },
     "home_pitcher_gamelog": [
       {
-        "date": "2026-08-29",
+        "date": "2026-08-24",
+        "opp": "@ DET",
+        "decision": "W",
+        "ip": "6.0",
+        "er": 1,
+        "h": 3,
+        "bb": 0,
+        "so": 5,
+        "era": 1.5
+      },
+      {
+        "date": "2026-08-30",
         "opp": "vs SD",
         "decision": null,
         "ip": "6.0",
-        "er": 3,
-        "h": 7,
-        "bb": 0,
-        "so": 4,
-        "era": 4.5
-      },
-      {
-        "date": "2026-09-04",
-        "opp": "@ TEX",
-        "decision": "W",
-        "ip": "6.1",
-        "er": 3,
-        "h": 5,
+        "er": 2,
+        "h": 4,
         "bb": 2,
-        "so": 4,
-        "era": 4.26
+        "so": 6,
+        "era": 3.0
       },
       {
-        "date": "2026-09-10",
-        "opp": "@ ATL",
+        "date": "2026-09-05",
+        "opp": "@ TEX",
         "decision": null,
-        "ip": "6.1",
-        "er": 0,
-        "h": 2,
+        "ip": "7.0",
+        "er": 1,
+        "h": 3,
         "bb": 0,
-        "so": 3,
-        "era": 0.0
+        "so": 7,
+        "era": 1.29
       },
       {
-        "date": "2026-09-16",
+        "date": "2026-09-11",
+        "opp": "vs HOU",
+        "decision": null,
+        "ip": "7.0",
+        "er": 1,
+        "h": 8,
+        "bb": 0,
+        "so": 4,
+        "era": 1.29
+      },
+      {
+        "date": "2026-09-17",
         "opp": "vs OAK",
         "decision": "W",
         "ip": "5.0",
-        "er": 2,
-        "h": 5,
-        "bb": 0,
+        "er": 0,
+        "h": 4,
+        "bb": 2,
         "so": 3,
-        "era": 3.6
+        "era": 0.0
       },
       {
         "date": "2026-09-22",
         "opp": "@ NYY",
-        "decision": "L",
+        "decision": "W",
+        "ip": "6.2",
+        "er": 1,
+        "h": 1,
+        "bb": 3,
+        "so": 11,
+        "era": 1.35
+      },
+      {
+        "date": "2026-10-03",
+        "opp": "vs NYY",
+        "decision": "W",
+        "ip": "8.0",
+        "er": 0,
+        "h": 1,
+        "bb": 2,
+        "so": 10,
+        "era": 0.0
+      },
+      {
+        "date": "2026-10-12",
+        "opp": "vs CLE",
+        "decision": null,
         "ip": "6.0",
         "er": 2,
-        "h": 5,
-        "bb": 1,
+        "h": 8,
+        "bb": 0,
         "so": 7,
         "era": 3.0
       },
       {
-        "date": "2026-09-27",
-        "opp": "@ PHI",
-        "decision": "L",
-        "ip": "2.2",
-        "er": 4,
-        "h": 7,
-        "bb": 1,
-        "so": 1,
-        "era": 13.5
-      },
-      {
-        "date": "2026-10-07",
-        "opp": "@ NYY",
-        "decision": null,
-        "ip": "3.2",
-        "er": 2,
-        "h": 5,
-        "bb": 1,
-        "so": 3,
-        "era": 4.91
-      },
-      {
-        "date": "2026-10-17",
+        "date": "2026-10-18",
         "opp": "@ CLE",
         "decision": "W",
-        "ip": "5.1",
+        "ip": "7.0",
         "er": 1,
-        "h": 2,
-        "bb": 2,
-        "so": 3,
-        "era": 1.69
+        "h": 4,
+        "bb": 1,
+        "so": 6,
+        "era": 1.29
       },
       {
-        "date": "2026-10-23",
+        "date": "2026-10-24",
         "opp": "@ MIL",
-        "decision": "L",
-        "ip": "5.0",
-        "er": 2,
-        "h": 5,
-        "bb": 0,
-        "so": 5,
-        "era": 3.6
-      },
-      {
-        "date": "2026-10-27",
-        "opp": "vs MIL",
         "decision": null,
-        "ip": "2.0",
-        "er": 0,
-        "h": 1,
-        "bb": 0,
-        "so": 1,
-        "era": 0.0
+        "ip": "3.2",
+        "er": 3,
+        "h": 6,
+        "bb": 2,
+        "so": 4,
+        "era": 7.36
       }
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 50.9,
-      "home": 49.1
+      "away": 46.0,
+      "home": 54.0
     },
     "expected_score": {
-      "away": 2.1,
+      "away": 1.9,
       "home": 1.8
     },
     "blend_detail": null,
@@ -352,11 +352,11 @@ window.PREDICTIONS_DATA = [
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": false,
-      "any_cold_sp": true,
+      "any_cold_sp": false,
       "eff_weights": {
         "sp": 0.38,
-        "bp": 0.25,
-        "bat": 0.3,
+        "bp": 0.22,
+        "bat": 0.25,
         "sit": 0.15
       },
       "away": {
@@ -528,29 +528,74 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 71.6,
-        "total": 58.1
+        "total": 54.3
       },
       "home": {
-        "sp_score": 44.3,
+        "sp_score": 70.9,
         "sp_detail": {
-          "era": 3.54,
-          "whip": 1.06,
-          "k9": 6.3,
-          "avg_ip": 4.8,
-          "qs_rate": 40.0,
-          "last3_era": 4.34,
-          "last_start_era": 0.0,
+          "era": 1.73,
+          "whip": 0.87,
+          "k9": 9.1,
+          "avg_ip": 6.2,
+          "qs_rate": 80.0,
+          "last3_era": 2.01,
+          "last_start_era": 7.36,
           "last2_eras": [
-            3.6,
-            0.0
+            1.29,
+            7.36
           ],
-          "recent_avg_era": 0.0,
-          "recent_bad_start": false,
-          "trend": "cold",
+          "recent_avg_era": 7.36,
+          "recent_bad_start": true,
+          "trend": "hot",
           "n_games": 10,
           "sample_confidence": 1.0,
-          "rest_days": 1,
-          "rest_note": "short_rest"
+          "rest_days": 4,
+          "rest_note": null,
+          "age": 31,
+          "fb_velo": 95.8,
+          "pitch_arsenal": [
+            "CT",
+            "FB",
+            "SI",
+            "CH",
+            "CB"
+          ],
+          "secondary_pitches": [
+            "CH",
+            "CB"
+          ],
+          "pitches_detail": [
+            {
+              "code": "FC",
+              "abbr": "CT",
+              "pct": 28.9,
+              "velo": 90.0
+            },
+            {
+              "code": "FF",
+              "abbr": "FB",
+              "pct": 28.0,
+              "velo": 95.8
+            },
+            {
+              "code": "SI",
+              "abbr": "SI",
+              "pct": 23.8,
+              "velo": 95.3
+            },
+            {
+              "code": "CH",
+              "abbr": "CH",
+              "pct": 13.3,
+              "velo": 89.6
+            },
+            {
+              "code": "CU",
+              "abbr": "CB",
+              "pct": 3.5,
+              "velo": 80.1
+            }
+          ]
         },
         "bp_score": 73.4,
         "bp_detail": {
@@ -661,14 +706,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 61.6,
-        "total": 52.7
+        "total": 59.3
       }
     },
     "scores": {
       "away_offense": 33.8,
       "away_defense": 60.6,
       "home_offense": 27.7,
-      "home_defense": 58.9
+      "home_defense": 72.2
     },
     "actual_score": {
       "away": null,
@@ -677,23 +722,23 @@ window.PREDICTIONS_DATA = [
     "lineup_confirmed": false,
     "sp_tbd": {
       "away": false,
-      "home": true,
+      "home": false,
       "both": false,
-      "any": true
+      "any": false
     },
     "actual_winner": null,
-    "model_winner": "Milwaukee Brewers",
+    "model_winner": "Tampa Bay Rays",
     "model_correct": null,
     "notes": "Milwaukee Brewers IL: Angel Zerpa, Brian Fitzpatrick, Quinn Priester / Tampa Bay Rays IL: Edwin Uceta, Gavin Lux, Jacob Melton, Jonathan Heasley, Ryan Pepiot",
-    "kalshi_prob": 40.0,
-    "edge": 9.1,
+    "kalshi_prob": 41.0,
+    "edge": 13.0,
     "value_bet": "⏭️ 패스 (박빙 경기 — 예측 신뢰도 낮음)",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 50.9% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 58.4% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
