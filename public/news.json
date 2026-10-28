@@ -1,57 +1,31 @@
 {
-  "updated_at": "2026-10-28T04:46:12.990603+00:00",
+  "updated_at": "2026-10-28T05:58:41.634968+00:00",
   "news": [
     {
-      "title": "Ashby makes history with record scoreless streak for reliever in postseason",
-      "link": "https://www.mlb.com/news/aaron-ashby-postseason-consecutive-scoreless-innings-reliever-record",
+      "title": "3 big questions for Game 5 with Rays starting to regain some mojo",
+      "link": "https://www.mlb.com/news/2026-world-series-game-5-storylines-brewers-rays",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tkpoxu2cdhvkkk47hwxn",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bbnsilsbbny8qyugkyxa",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Anthony DiComo",
+      "author": "Will Leitch",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-28T04:37:00+00:00",
-      "time_ago": "9m ago"
+      "pub_date": "2026-10-28T05:46:10+00:00",
+      "time_ago": "12m ago"
     },
     {
-      "title": "Rays live to fight another day thanks to Williamson's walk-off single",
-      "link": "https://www.mlb.com/news/rays-win-world-series-game-4-2026",
+      "title": "Key takeaways as Rays stay alive with thrilling Game 4 walk-off",
+      "link": "https://www.mlb.com/news/key-takeaways-from-world-series-game-4-2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mwzcgbqsdixzfcxwlqfu",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qowxu7hexqtzlgcrrvgs",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Anthony Castrovince",
+      "author": "",
       "tag": "Highlight",
       "tag_color": "#D97706",
-      "pub_date": "2026-10-28T04:35:42+00:00",
-      "time_ago": "10m ago"
-    },
-    {
-      "title": "Crew honors Ueck as World Series pauses for powerful Stand Up To Cancer moment",
-      "link": "https://www.mlb.com/news/stand-up-to-cancer-at-world-series-game-4-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y09i6g6g4b7inbnqquoa",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Alyson Footer and Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-28T02:38:06+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Longoria tosses first pitch ahead of Rays' must-win Game 4",
-      "link": "https://www.mlb.com/news/evan-longoria-to-throw-first-pitch-at-world-series-game-4-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793147572/mlb/acrxuil2yhjcgabi1tyy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-28T00:23:00+00:00",
-      "time_ago": "4h ago"
+      "pub_date": "2026-10-28T05:12:06+00:00",
+      "time_ago": "46m ago"
     },
     {
       "title": "Here's one more way 'Wild Bill' is dominating during Brewers' postseason run",
@@ -63,47 +37,73 @@
       "author": "Max Ralph",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-28T00:06:00+00:00",
-      "time_ago": "4h ago"
+      "pub_date": "2026-10-28T04:59:00+00:00",
+      "time_ago": "59m ago"
     },
     {
-      "title": "AUSL champ Talons celebrated ahead of WS G4: 'It's such an honor'",
-      "link": "https://www.mlb.com/news/ausl-champion-utah-talons-honored-at-world-series-game-4",
+      "title": "Game 4 joins other crazy World Series finishes",
+      "link": "https://www.mlb.com/news/craziest-finishes-in-world-series-history",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dmun9p9ma37t5z8c8ytf",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/grybdcli3jrcylvwwevb",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Bryan Hoch",
+      "author": "Sarah Langs, Andrew Simon and Manny Randhawa",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-27T23:52:15+00:00",
-      "time_ago": "4h ago"
+      "pub_date": "2026-10-28T04:52:00+00:00",
+      "time_ago": "1h ago"
     },
     {
-      "title": "After up-and-down '26, Bleday eyes consistency with Reds",
-      "link": "https://www.mlb.com/news/jj-bleday-reds-2026-season-2027-outlook",
+      "title": "Rays live to fight another day thanks to Williamson's walk-off single",
+      "link": "https://www.mlb.com/news/rays-win-world-series-game-4-2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zq2l5artggsrzonciqbl",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/joxfxly9p8x7qjkl4hba",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-27T15:31:48+00:00",
-      "time_ago": "13h ago"
+      "author": "Anthony Castrovince",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-28T04:50:00+00:00",
+      "time_ago": "1h ago"
     },
     {
-      "title": "Phillies hire Fatse as new hitting coach",
-      "link": "https://www.mlb.com/news/phillies-hire-peter-fatse-as-new-hitting-coach",
+      "title": "Teams with the best records in a postseason",
+      "link": "https://www.mlb.com/news/best-mlb-single-season-postseason-winning-percentages",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793052822/mlb/o3szvojlm76apjgllbem",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sai0aipifc9z2etkzsgj",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Paul Casella",
+      "author": "Dylan Svoboda",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-10-27T15:25:00+00:00",
-      "time_ago": "13h ago"
+      "pub_date": "2026-10-28T04:47:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "The best comeback attempts from 3-0 holes in playoffs",
+      "link": "https://www.mlb.com/news/best-3-0-comeback-attempts-in-postseason",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lnrhy96hkhg55y7gdfef",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harrigan",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-28T04:42:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Ashby makes history with record scoreless streak for reliever in postseason",
+      "link": "https://www.mlb.com/news/aaron-ashby-postseason-consecutive-scoreless-innings-reliever-record",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tkpoxu2cdhvkkk47hwxn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-28T04:37:00+00:00",
+      "time_ago": "1h ago"
     }
   ]
 }
