@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-28T05:58:41.634968+00:00",
+  "updated_at": "2026-10-28T06:44:42.152068+00:00",
   "news": [
+    {
+      "title": "Battle-tested 'pen proves Rays 'never out of the fight' in gritty Game 4",
+      "link": "https://www.mlb.com/news/rays-bullpen-matches-brewers-in-2026-world-series-game-4-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793163107/mlb/e5sqhspufapqot7mqha5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-28T06:28:02+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "18 straight 0's: Ashby makes playoff history with record scoreless relief streak",
+      "link": "https://www.mlb.com/news/aaron-ashby-postseason-consecutive-scoreless-innings-reliever-record",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tkpoxu2cdhvkkk47hwxn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-28T06:08:00+00:00",
+      "time_ago": "36m ago"
+    },
     {
       "title": "3 big questions for Game 5 with Rays starting to regain some mojo",
       "link": "https://www.mlb.com/news/2026-world-series-game-5-storylines-brewers-rays",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-28T05:46:10+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Key takeaways as Rays stay alive with thrilling Game 4 walk-off",
@@ -25,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-28T05:12:06+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Here's one more way 'Wild Bill' is dominating during Brewers' postseason run",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-28T04:59:00+00:00",
-      "time_ago": "59m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Game 4 joins other crazy World Series finishes",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-28T04:47:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "The best comeback attempts from 3-0 holes in playoffs",
-      "link": "https://www.mlb.com/news/best-3-0-comeback-attempts-in-postseason",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lnrhy96hkhg55y7gdfef",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harrigan",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-28T04:42:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Ashby makes history with record scoreless streak for reliever in postseason",
-      "link": "https://www.mlb.com/news/aaron-ashby-postseason-consecutive-scoreless-innings-reliever-record",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tkpoxu2cdhvkkk47hwxn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-28T04:37:00+00:00",
       "time_ago": "1h ago"
     }
   ]
