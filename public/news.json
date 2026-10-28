@@ -1,8 +1,86 @@
 {
-  "updated_at": "2026-10-28T07:10:52.678251+00:00",
+  "updated_at": "2026-10-28T08:00:10.603690+00:00",
   "news": [
     {
-      "title": "After costly errors sink Brewers, they hope Miz can provide title-winning bounceback",
+      "title": "'We’ve got one more day': Rays walk it off to force Game 5",
+      "link": "https://www.mlb.com/news/rays-win-world-series-game-4-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/joxfxly9p8x7qjkl4hba",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-28T07:48:00+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Rays' 'next man up' attitude serves them well in comeback win",
+      "link": "https://www.mlb.com/news/rays-rally-in-12th-to-win-game-4-of-2026-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rfonxv7hn2gnu8xefxqv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-28T07:44:44+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "Placed in a tough spot, rookie lefty Drohan can't stifle Rays rally in 12th",
+      "link": "https://www.mlb.com/news/shane-drohan-allows-walk-off-in-12th-inning-of-world-series-game-4",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ayx9pqectugknzduzg1q",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-28T07:37:15+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "After fighting for their lives with 7 pitchers in Game 4, what's Rays' Game 5 plan?",
+      "link": "https://www.mlb.com/news/what-is-rays-pitching-plan-after-game-4-thriller",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vkoruqpvif14yhjt206i",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-28T07:30:59+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "Rallying Rays join rare company by forcing Game 5 facing 3-0 deficit",
+      "link": "https://www.mlb.com/news/stats-facts-from-rays-win-2026-world-series-game-4",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e02k5tedeknuwzt2gwmo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sarah Langs",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-28T07:29:45+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "Pratt unshaken after losing out on potential World Series-winning HR",
+      "link": "https://www.mlb.com/news/cooper-pratt-homers-12th-inning-brewers-world-series-game-4-loss-rays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/n9isuxmarflx9dqd0kdx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-28T07:21:35+00:00",
+      "time_ago": "38m ago"
+    },
+    {
+      "title": "Costly errors sink Brewers, but they hope Miz can provide title-winning bounceback",
       "link": "https://www.mlb.com/news/brewers-errors-world-series-game-4-loss-rays-jacob-misiorowski",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xdk17rnwlawgsn1llfwz",
@@ -12,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-28T06:58:57+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Key takeaways as Rays stay alive with thrilling Game 4 walk-off",
@@ -25,85 +103,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-28T06:57:00+00:00",
-      "time_ago": "13m ago"
-    },
-    {
-      "title": "Brewers-Rays World Series Game 5 FAQ (8 ET, FOX/FOX One)",
-      "link": "https://www.mlb.com/news/brewers-rays-world-series-game-5-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hgs99wemrigt8vq5qf5c",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince, Adam Berry, Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-28T06:46:08+00:00",
-      "time_ago": "24m ago"
-    },
-    {
-      "title": "Battle-tested 'pen proves Rays 'never out of the fight' in gritty Game 4",
-      "link": "https://www.mlb.com/news/rays-bullpen-matches-brewers-in-2026-world-series-game-4-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793163107/mlb/e5sqhspufapqot7mqha5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-28T06:28:02+00:00",
-      "time_ago": "42m ago"
-    },
-    {
-      "title": "18 straight 0's: Ashby makes playoff history with record scoreless relief streak",
-      "link": "https://www.mlb.com/news/aaron-ashby-postseason-consecutive-scoreless-innings-reliever-record",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tkpoxu2cdhvkkk47hwxn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "Standings",
-      "tag_color": "#0EA5E9",
-      "pub_date": "2026-10-28T06:08:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "3 big questions for Game 5 with Rays starting to regain some mojo",
-      "link": "https://www.mlb.com/news/2026-world-series-game-5-storylines-brewers-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bbnsilsbbny8qyugkyxa",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-28T05:46:10+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Here's one more way 'Wild Bill' is dominating during Brewers' postseason run",
-      "link": "https://www.mlb.com/news/william-contreras-showing-mastery-of-abs-challenge-system-in-postseason",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wd2nustmumnye4eaw9rf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-28T04:59:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Game 4 joins other crazy World Series finishes",
-      "link": "https://www.mlb.com/news/craziest-finishes-in-world-series-history",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/grybdcli3jrcylvwwevb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sarah Langs, Andrew Simon and Manny Randhawa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-28T04:52:00+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
