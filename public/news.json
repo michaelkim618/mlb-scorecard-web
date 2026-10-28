@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-28T21:13:07.171537+00:00",
+  "updated_at": "2026-10-28T21:30:25.485150+00:00",
   "news": [
+    {
+      "title": "Will we see Ashby again in World Series Game 5? Murphy not tipping his hand",
+      "link": "https://www.mlb.com/news/aaron-ashby-brewers-world-series-game-5",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vlhi7svznqiizhc0ufn1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-28T21:19:52+00:00",
+      "time_ago": "10m ago"
+    },
     {
       "title": "Brewers-Rays World Series Game 5 lineups, FAQ (8 ET, FOX/FOX One)",
       "link": "https://www.mlb.com/news/brewers-rays-world-series-game-5-starting-lineups-and-pitching-matchup",
@@ -12,7 +25,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-28T20:35:00+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "Cash was right, Caminero is playing in pivotal Game 5",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-28T07:48:00+00:00",
-      "time_ago": "13h ago"
-    },
-    {
-      "title": "Rays' 'next man up' attitude serves them well in comeback win",
-      "link": "https://www.mlb.com/news/rays-rally-in-12th-to-win-game-4-of-2026-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iukqrqrhb8jhagnbxxy6",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-28T07:44:44+00:00",
       "time_ago": "13h ago"
     }
   ]
