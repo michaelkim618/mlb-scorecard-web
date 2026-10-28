@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-28T22:28:42.816208+00:00",
+  "updated_at": "2026-10-28T22:44:48.479654+00:00",
   "news": [
+    {
+      "title": "Ashby available for Game 5? 'Yes,' says Crew's pitching coordinator",
+      "link": "https://www.mlb.com/news/aaron-ashby-brewers-world-series-game-5",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vlhi7svznqiizhc0ufn1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan and Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-28T22:29:00+00:00",
+      "time_ago": "15m ago"
+    },
     {
       "title": "Cash was right, Caminero is playing in pivotal Game 5",
       "link": "https://www.mlb.com/news/junior-caminero-injury-status-world-series-game-5",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-28T21:55:00+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "Rasmussen, on 3 days’ rest, gets Game 5 nod",
@@ -28,19 +41,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Will we see Ashby again in World Series Game 5? Murphy not tipping his hand",
-      "link": "https://www.mlb.com/news/aaron-ashby-brewers-world-series-game-5",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vlhi7svznqiizhc0ufn1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-28T21:19:52+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Brewers-Rays World Series Game 5 lineups, FAQ (8 ET, FOX/FOX One)",
       "link": "https://www.mlb.com/news/brewers-rays-world-series-game-5-starting-lineups-and-pitching-matchup",
       "summary": "",
@@ -51,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-28T20:35:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "3 big questions for Game 5 with Rays starting to regain some mojo",
