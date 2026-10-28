@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-28T00:49:39.644814+00:00",
+  "updated_at": "2026-10-28T01:30:23.042507+00:00",
   "news": [
+    {
+      "title": "LIVE: Rays, Brewers trade runs early in Game 4 (FOX/FOX One)",
+      "link": "https://www.mlb.com/stories/game/849803",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dsdcbeqq8kqytr9e4kqo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-10-28T01:19:11+00:00",
+      "time_ago": "11m ago"
+    },
     {
       "title": "Longoria tosses first pitch ahead of Rays' must-win Game 4",
       "link": "https://www.mlb.com/news/evan-longoria-to-throw-first-pitch-at-world-series-game-4-2026",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-28T00:23:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Here's one more way 'Wild Bill' is dominating during Brewers' postseason run",
@@ -25,20 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-28T00:06:00+00:00",
-      "time_ago": "43m ago"
-    },
-    {
-      "title": "LIVE on FOX/FOX One: Brewers-Rays World Series Game 4",
-      "link": "https://www.mlb.com/news/brewers-rays-world-series-game-4-starting-lineups-and-pitching-matchup",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yojkjamaaxscoa9ru31j",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince, Adam Berry, Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-28T00:00:00+00:00",
-      "time_ago": "49m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "AUSL champ Talons celebrated ahead of WS G4: 'It's such an honor'",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-27T23:52:15+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Vote tonight for the World Series MVP Award",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-27T15:25:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "4 takeaways from Crew's Game 3 dominance",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-27T14:20:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     }
   ]
 }
