@@ -1,11 +1,11 @@
 {
-  "title": "Oct 27 Results + Oct 28 Preview: Perfect Day, Now Let's Get Controversial",
-  "summary": "Nailed the Rays pick at 63%. Tomorrow? We're flipping sides and I don't care what you think.",
+  "title": "Oct 27 Results + Oct 28 Preview: Perfect Day, But Let's Not Get Cocky",
+  "summary": "Nailed the Rays pick at 63%. Tomorrow? Back to Milwaukee with zero confidence.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Let Me Be Honest: That Was Too Easy\n\nPerfect 1-0 day. The Rays came through at 63% confidence and honestly? It felt like taking candy from a baby. But here's where it gets spicy—tomorrow we're doing a complete 180 on the same matchup, and if you're confused, you're not paying attention."
+      "value": "## Let Me Be Honest: One Perfect Day Means Nothing\n\nYeah, we went 1-0 yesterday. Yeah, the Rays came through at 63% confidence. And yeah, I can already hear some of you getting excited about a 'hot streak.' Stop it. One win is one win. This isn't the time to start thinking we've cracked some code or found the secret formula. Baseball is chaos wrapped in statistics, and yesterday we just happened to be on the right side of variance."
     },
     {
       "type": "stat_row",
@@ -20,9 +20,13 @@
         },
         {
           "label": "Confidence Level",
-          "value": "63%"
+          "value": "Fleeting"
         }
       ]
+    },
+    {
+      "type": "text",
+      "value": "## The Rays Did What They Were Supposed To Do\n\nThe Tampa Bay Rays beat the Brewers at home. Groundbreaking stuff, right? We picked them at 63% confidence, which in the world of baseball predictions is basically saying 'they'll probably win, but don't bet your mortgage.' They won. Great. Moving on.\n\nWhat's interesting isn't that we got it right—it's that the model had enough conviction to actually lean one way. In a sport where a .600 winning percentage makes you a dynasty, 63% confidence is practically screaming at you."
     },
     {
       "type": "chart",
@@ -45,17 +49,17 @@
         {
           "key": "result",
           "color": "#16A34A",
-          "label": "Correct (1=Yes)"
+          "label": "Correct (1=Yes, 0=No)"
         }
       ]
     },
     {
       "type": "table",
-      "title": "Oct 27 Full Results Breakdown",
+      "title": "Oct 27 Full Game Results",
       "headers": [
         "Matchup",
         "Our Pick",
-        "Probability",
+        "Confidence",
         "Result"
       ],
       "rows": [
@@ -69,39 +73,18 @@
     },
     {
       "type": "text",
-      "value": "## The Hot Take You Didn't Ask For\n\nYesterday the Rays were the play. Today? Burn that take to the ground. We're riding with Milwaukee at a razor-thin 51% edge, and yeah, I know how that sounds. Same teams, opposite pick, basically a coin flip probability.\n\nBut here's the thing nobody wants to admit: this IS what the data says. Jacob Misiorowski gets the ball for the Brewers against Nick Martinez, and the model sees something different than yesterday's setup. Are we overthinking it? Maybe. Do I care? Absolutely not."
+      "value": "## Tomorrow's Pick Is Going To Make You Uncomfortable\n\nHere's where it gets spicy. After watching the Rays beat Milwaukee yesterday, the model wants us to flip the script and back the Brewers in the same series. At 51% confidence. You read that right—51%.\n\nThis is essentially a coin flip with an attitude. Jacob Misiorowski on the mound for Milwaukee against Nick Martinez (who apparently is TBD but also confirmed, because baseball scheduling makes total sense). The model sees something here that gives Milwaukee the slightest of edges."
     },
     {
       "type": "highlight_box",
       "color": "#F59E0B",
       "title": "⭐ Oct 28 Top Pick",
       "value": "Milwaukee Brewers",
-      "sub": "51% win probability · Misiorowski vs Martinez · Same teams, different story"
+      "sub": "51% win probability • Misiorowski vs Martinez • Good luck with this one"
     },
     {
       "type": "text",
-      "value": "## Why This Isn't As Crazy As It Looks\n\nLook, I get the skepticism. \"Rico, you just picked the Rays yesterday and now you're fading them?\" Yes. And?\n\nPitching matchups matter. Home field matters. Sample sizes matter. The model doesn't have memory or loyalty—it just crunches numbers and tells you what's what. Yesterday's win doesn't make today's pick wrong, and if you can't handle that level of volatility, maybe stick to betting on the weather.\n\nIs 51% close? Uncomfortably so. But when the edge is there, you take it. That's the game."
-    },
-    {
-      "type": "stat_row",
-      "stats": [
-        {
-          "label": "Brewers Win Prob",
-          "value": "51%"
-        },
-        {
-          "label": "Edge vs Market",
-          "value": "Minimal"
-        },
-        {
-          "label": "Controversy Level",
-          "value": "Maximum"
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "value": "## Bottom Line\n\nWe went 1-0 yesterday with a clean Rays win. Tomorrow we're betting against them in the rematch. If that makes you uncomfortable, good. The best picks usually do.\n\nMisiorowski versus Martinez isn't getting the headlines, but it's getting our money. See you on the other side of another hot take vindication.\n\n*—Rico*"
+      "value": "## Why This Pick Should Terrify You\n\nLet's be brutally honest about what a 51% confidence pick actually means. It means the model looked at every variable it could find—pitching matchups, recent form, home field advantage, probably the alignment of Jupiter's moons—and came back with 'meh, maybe Milwaukee?'\n\nThis is not a conviction play. This is not a 'back up the truck' situation. This is the algorithm shrugging its digital shoulders and saying 'if I absolutely have to pick someone, I guess the Brewers won't completely embarrass us.'\n\nJacob Misiorowski is a name that sounds like it was generated by an AI that watched too many 1980s baseball cards. Nick Martinez is listed as TBD, which could mean anything from 'game-time decision' to 'we literally haven't decided if he's pitching.' And somehow, in this mess of uncertainty, we're supposed to trust that Milwaukee has a 1% edge.\n\n## The Controversial Take You Didn't Ask For\n\nYou want a hot take? Here it is: 51% confidence picks are the most honest picks in sports betting. Everyone else is out here pretending they've got 70%, 80%, 90% locks on games. They're selling you certainty in an uncertain world. We're telling you the truth—this game could go either way, but if forced to choose, we'll take the Brewers.\n\nThat's not cowardice. That's transparency. And if you can't handle a pick that's basically admitting 'we have no idea but here's our best guess,' then maybe you should stick to sports with more predictable outcomes. Like chess. Or tic-tac-toe.\n\n## Bottom Line\n\nWe went 1-0 yesterday. Fantastic. Tomorrow we're throwing a dart at a board and calling it analysis. The Brewers at 51% is what we've got. Take it or leave it, but don't come crying to me when it hits or misses—because at these odds, both outcomes are basically the same thing.\n\nWelcome to October baseball, where everything's made up and the percentages barely matter."
     }
   ],
   "slug": "2026-10-27-daily-rico",
