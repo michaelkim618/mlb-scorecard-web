@@ -337,26 +337,26 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 46.0,
-      "home": 54.0
+      "away": 43.0,
+      "home": 57.0
     },
     "expected_score": {
-      "away": 1.9,
-      "home": 1.8
+      "away": 2.0,
+      "home": 1.7
     },
     "blend_detail": null,
     "ml_mc_agree": null,
     "ml_mc_conflict_level": null,
     "scorecard": {
-      "bat_source": "prev_day",
+      "bat_source": "lineup",
       "away_handedness": "R",
       "home_handedness": "R",
       "bullpen_game": false,
       "any_cold_sp": false,
       "eff_weights": {
-        "sp": 0.38,
+        "sp": 0.31,
         "bp": 0.22,
-        "bat": 0.25,
+        "bat": 0.32,
         "sit": 0.15
       },
       "away": {
@@ -531,7 +531,7 @@ window.PREDICTIONS_DATA = [
         "total": 54.3
       },
       "home": {
-        "sp_score": 70.9,
+        "sp_score": 69.8,
         "sp_detail": {
           "era": 1.73,
           "whip": 0.87,
@@ -597,7 +597,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 73.4,
+        "bp_score": 72.3,
         "bp_detail": {
           "bullpen_era": 2.78,
           "recent_era": 2.78,
@@ -609,15 +609,15 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.44,
           "closer_name": "Bryan Baker"
         },
-        "bat_score": 27.7,
+        "bat_score": 25.5,
         "bat_detail": {
-          "recent_avg": 0.236,
+          "recent_avg": 0.225,
           "runs_per_g": 3.8,
           "hr_per_g": 0.7,
           "bb_per_g": 3.0,
-          "season_ops": 0.7,
+          "season_ops": 0.684,
           "season_slg": null,
-          "season_avg": 0.236,
+          "season_avg": 0.225,
           "n_games": 9,
           "source": "prev_day",
           "handedness": "R",
@@ -629,8 +629,8 @@ window.PREDICTIONS_DATA = [
             "Liam Hicks(0.743)",
             "Jonny DeLuca(0.807)",
             "Chandler Simpson(0.704)",
+            "Ben Williamson(0.527)",
             "Ryan Vilade(0.559)",
-            "Richie Palacios(0.672)",
             "Taylor Walls(0.652)"
           ],
           "lineup_players": [
@@ -671,16 +671,16 @@ window.PREDICTIONS_DATA = [
               "avg": 0.333
             },
             {
+              "id": 810938,
+              "name": "Ben Williamson",
+              "ops": 0.527,
+              "avg": 0.138
+            },
+            {
               "id": 668723,
               "name": "Ryan Vilade",
               "ops": 0.559,
               "avg": 0.133
-            },
-            {
-              "id": 680700,
-              "name": "Richie Palacios",
-              "ops": 0.672,
-              "avg": 0.231
             },
             {
               "id": 670764,
@@ -706,20 +706,20 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 61.6,
-        "total": 59.3
+        "total": 58.0
       }
     },
     "scores": {
       "away_offense": 33.8,
       "away_defense": 60.6,
-      "home_offense": 27.7,
-      "home_defense": 72.2
+      "home_offense": 25.5,
+      "home_defense": 71.0
     },
     "actual_score": {
-      "away": null,
-      "home": null
+      "away": 0,
+      "home": 0
     },
-    "lineup_confirmed": false,
+    "lineup_confirmed": true,
     "sp_tbd": {
       "away": false,
       "home": false,
@@ -730,15 +730,20 @@ window.PREDICTIONS_DATA = [
     "model_winner": "Tampa Bay Rays",
     "model_correct": null,
     "notes": "Milwaukee Brewers IL: Angel Zerpa, Brian Fitzpatrick, Quinn Priester / Tampa Bay Rays IL: Edwin Uceta, Gavin Lux, Jacob Melton, Jonathan Heasley, Ryan Pepiot",
-    "kalshi_prob": 41.0,
-    "edge": 13.0,
-    "value_bet": "⏭️ 패스 (박빙 경기 — 예측 신뢰도 낮음)",
+    "kalshi_prob": 43.0,
+    "edge": 14.0,
+    "value_bet": "⏭️ 패스 (SP↔BAT충돌+시장역방향 edge +14.0%p — 신뢰불가)",
     "extreme_edge": false,
     "consensus": false,
-    "sp_bat_conflict": false,
-    "sp_bat_conflict_detail": null,
+    "sp_bat_conflict": true,
+    "sp_bat_conflict_detail": {
+      "sp_favors": "Tampa Bay Rays",
+      "bat_favors": "Milwaukee Brewers",
+      "sp_gap": -16.8,
+      "bat_gap": 8.3
+    },
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 58.4% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 57.0% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
