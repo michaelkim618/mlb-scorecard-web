@@ -1,0 +1,103 @@
+{
+  "title": "Oct 27 Results + Oct 28 Preview: Perfect Record, But Let's Not Get Cocky",
+  "summary": "Nailed the Rays pick at 63%. Tomorrow? Brewers revenge game with Misiorowski on the bump.",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Let Me Be Honest: One Day Doesn't Make Us Geniuses\n\nYeah, we went 1-0 yesterday. Yeah, we hit 100% accuracy. And yeah, the Rays came through exactly like we said they would at 63% confidence. But before you start building statues, let's pump the brakes. One perfect day doesn't erase the grind, and it sure as hell doesn't guarantee tomorrow.\n\nThe Rays pick was clean. We called it, they delivered, and anyone who tailed made money. That's what we're here for. But here's the provocative truth nobody wants to hear: **a 63% edge isn't a lock, it's just slightly better than a coin flip with an attitude.**"
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Oct 27 W-L",
+          "value": "1-0"
+        },
+        {
+          "label": "Accuracy",
+          "value": "100.0%"
+        },
+        {
+          "label": "Games Analyzed",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Oct 27 Prediction Performance",
+      "data": [
+        {
+          "name": "Rays",
+          "probability": 63,
+          "result": 1
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Hit (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Oct 27 Full Results Breakdown",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Brewers @ Rays",
+          "Rays",
+          "63%",
+          "✓ Hit"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Rays Pick: What Actually Happened\n\nWe backed Tampa Bay at home against Milwaukee with 63% confidence. Nothing flashy, nothing crazy. Just a solid read on the matchup, the pitching, and the situational dynamics. The Rays did their job, and so did we.\n\nBut here's the blunt take: **this wasn't some genius-level prediction.** The data pointed one way, we followed it, and variance didn't screw us. That's baseball analytics in a nutshell. Sometimes you're right, sometimes you're wrong, and sometimes you get lucky. Yesterday? We were right."
+    },
+    {
+      "type": "text",
+      "value": "## Oct 28 Preview: The Brewers Clap Back\n\nNow here's where it gets interesting. Tomorrow we're flipping the script—**backing Milwaukee at 51% in the same matchup.** Yeah, you read that right. We liked Tampa yesterday, we like Milwaukee tomorrow.\n\nWhy? Because baseball isn't static. Different pitchers, different dynamics, different edge. Jacob Misiorowski gets the ball for the Brewers against Nick Martinez (who may or may not actually start, because TBD is MLB's favorite acronym). That 51% edge is razor-thin, but it's there.\n\n**Hot take alert:** This is basically a toss-up dressed up as a pick. If you're looking for a slam-dunk lock, keep scrolling. But if you understand that marginal edges compound over time, this is exactly the kind of play that separates long-term winners from chasers."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#F59E0B",
+      "title": "⭐ Oct 28 Top Pick",
+      "value": "Milwaukee Brewers",
+      "sub": "51% edge · Misiorowski vs Martinez (TBD) · @ Tampa Bay"
+    },
+    {
+      "type": "text",
+      "value": "## The Misiorowski Factor\n\nJacob Misiorowski isn't a household name, and that's exactly why this pick might have value. The market sleeps on lesser-known arms, and that creates opportunity. Is he dominant? Not necessarily. But does he give Milwaukee a puncher's chance in a game that Vegas probably has close to even? Absolutely.\n\nMeanwhile, Nick Martinez being listed as TBD is classic late-October chaos. Uncertainty breeds opportunity, and we're exploiting it."
+    },
+    {
+      "type": "text",
+      "value": "## Bottom Line: Stay Disciplined\n\nWe nailed yesterday. Tomorrow's a coin flip with a slight edge. That's the reality of this game. If you're expecting 100% days every day, you're in the wrong sport. Baseball humbles everyone eventually.\n\nBut here's what separates pros from amateurs: **trusting the process even when the edge is small.** A 51% pick isn't sexy. It won't get Twitter hype. But stack enough 51% wins together, and you're printing money.\n\nLet's see if the Brewers make us look smart or if the Rays sweep the series and make me eat these words. Either way, we'll be here tomorrow with the honest truth.\n\n**Trust the data. Question everything. Let's ride.**"
+    }
+  ],
+  "slug": "2026-10-27-daily-rico",
+  "author": "Rico",
+  "author_emoji": "🎭",
+  "author_role": "Drama Critic",
+  "author_color": "#DC2626",
+  "date": "2026-10-27",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#DC2626"
+}
