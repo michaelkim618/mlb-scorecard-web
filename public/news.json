@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T21:30:25.485150+00:00",
+  "updated_at": "2026-10-28T21:49:54.621464+00:00",
   "news": [
     {
       "title": "Will we see Ashby again in World Series Game 5? Murphy not tipping his hand",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-28T21:19:52+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "30m ago"
     },
     {
       "title": "Brewers-Rays World Series Game 5 lineups, FAQ (8 ET, FOX/FOX One)",
@@ -25,7 +25,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-28T20:35:00+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Cash was right, Caminero is playing in pivotal Game 5",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-28T07:48:00+00:00",
-      "time_ago": "13h ago"
+      "time_ago": "14h ago"
     }
   ]
 }
