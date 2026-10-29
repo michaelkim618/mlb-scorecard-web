@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "2026-10-28-daily-hana",
+      "title": "Oct 28 Results: When the Model Misses the Mark",
+      "author": "Hana",
+      "author_emoji": "🌸",
+      "author_color": "#EC4899",
+      "author_role": "Story Writer",
+      "date": "2026-10-28",
+      "type": "daily",
+      "tag": "Daily Review",
+      "tag_color": "#EC4899",
+      "read_time": "3 min",
+      "summary": "A tough day at the office—breaking down what went wrong on Oct 28"
+    },
+    {
       "slug": "2026-10-27-daily-rico",
       "title": "Oct 27 Results + Oct 28 Preview: Perfect Day, But Let's Talk About Tomorrow",
       "author": "Rico",

@@ -1,0 +1,106 @@
+{
+  "title": "Oct 28 Results: When the Model Misses the Mark",
+  "summary": "A tough day at the office—breaking down what went wrong on Oct 28",
+  "read_time": "3 min",
+  "content": [
+    {
+      "type": "text",
+      "value": "## Here's the Thing About Bad Days\n\nLook, I'm not going to sugarcoat this one. October 28th was a rough day for our predictions. Sometimes the baseball gods have other plans, and today was one of those days where our model and reality didn't exactly see eye to eye."
+    },
+    {
+      "type": "stat_row",
+      "stats": [
+        {
+          "label": "Today W-L",
+          "value": "0-1"
+        },
+        {
+          "label": "Accuracy",
+          "value": "0.0%"
+        },
+        {
+          "label": "Games Analyzed",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## The Only Game in Town\n\nWith just one game on the slate, we had all our focus on Brewers at Rays. We liked Tampa Bay with a 57% confidence level—not overwhelming, but enough to lean their way. The Brewers, though? They had other ideas."
+    },
+    {
+      "type": "chart",
+      "chart_type": "bar",
+      "title": "Today's Prediction Performance",
+      "data": [
+        {
+          "name": "Rays",
+          "probability": 57,
+          "result": 0
+        }
+      ],
+      "x_key": "name",
+      "bars": [
+        {
+          "key": "probability",
+          "color": "#0EA5E9",
+          "label": "Win Probability (%)"
+        },
+        {
+          "key": "result",
+          "color": "#16A34A",
+          "label": "Correct (1=Yes, 0=No)"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Oct 28 Game-by-Game Breakdown",
+      "headers": [
+        "Matchup",
+        "Our Pick",
+        "Confidence",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Brewers @ Rays",
+          "Rays",
+          "57%",
+          "✗ Miss"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "value": "## What Happened?\n\nThe beauty and heartbreak of baseball is that a 57% probability still means the other team wins 43% of the time. That's not some distant possibility—it's nearly a coin flip. The Brewers came in as underdogs and proved exactly why you play the games instead of just running the numbers.\n\nOur model considered the pitching matchups, home field advantage, recent form—all the usual suspects. But baseball has a funny way of humbling even the most sophisticated predictions."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#EF4444",
+      "title": "💭 The Reality Check",
+      "value": "Even our best picks will fail 40-45% of the time",
+      "sub": "That's the nature of baseball—and why we keep improving our model"
+    },
+    {
+      "type": "text",
+      "value": "## Looking Ahead\n\nHere's where I wish I had better news: there are no games scheduled for tomorrow. So we'll take this miss, learn from it, and come back stronger when the action returns.\n\nDays like this remind us why we do what we do. It's not about being perfect—it's about being transparent, learning from the misses, and constantly refining our approach. Every wrong prediction teaches us something, and this one's going into the data bank.\n\nWe'll be back soon with fresh predictions and renewed energy. Until then, thanks for sticking with us through the ups and downs. That's what makes this journey worth taking."
+    },
+    {
+      "type": "highlight_box",
+      "color": "#6B7280",
+      "title": "⚾ Tomorrow's Schedule",
+      "value": "No games scheduled",
+      "sub": "Check back soon for our next predictions"
+    }
+  ],
+  "slug": "2026-10-28-daily-hana",
+  "author": "Hana",
+  "author_emoji": "🌸",
+  "author_role": "Story Writer",
+  "author_color": "#EC4899",
+  "date": "2026-10-28",
+  "type": "daily",
+  "tag": "Daily Review",
+  "tag_color": "#EC4899"
+}
