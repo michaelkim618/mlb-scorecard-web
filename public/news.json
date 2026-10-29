@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-29T07:31:48.480344+00:00",
+  "updated_at": "2026-10-29T08:09:26.132728+00:00",
   "news": [
+    {
+      "title": "'It’s reality now': Crew execs, former players embrace title decades in the making",
+      "link": "https://www.mlb.com/news/brewers-executives-former-players-2026-world-series-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e6tyks1ulf0p5reetfeh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-29T08:03:42+00:00",
+      "time_ago": "5m ago"
+    },
+    {
+      "title": "Rasmussen lauds Rays, ponders 2027 after starting Game 5 on short rest",
+      "link": "https://www.mlb.com/news/drew-rasmussen-2026-world-series-game-5-start",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gqfmd37hg0itkm60rtz1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-29T07:33:00+00:00",
+      "time_ago": "36m ago"
+    },
     {
       "title": "After dream season, Rays' World Series wishes crash back down to earth",
       "link": "https://www.mlb.com/news/rays-lose-2026-world-series-to-brewers",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T07:24:00+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "'Rock of our clubhouse': Martinez reflects on season with Rays, future",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T07:21:27+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "One of the best postseason performances ever? Ashby just did it",
@@ -38,7 +64,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T07:17:38+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "51m ago"
+    },
+    {
+      "title": "Believe it, Milwaukee! Brewers are World Series champs for 1st time",
+      "link": "https://www.mlb.com/news/brewers-beat-rays-game-5-win-2026-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/b3wn4pwaw1srwczmcpxs",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-29T07:07:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "'How awesome is this?': Pratt sets World Series rookie record to help Crew to 1st title",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T06:58:00+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Crew shouts out family (and Ueck) with custom bottles of celebratory bubbly",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T06:29:18+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Champs twice in one year! Brewers' Venezuelan trio pulls off rare feat with WBC, WS wins",
-      "link": "https://www.mlb.com/news/jackson-chourio-william-contreras-antonio-senzatela-2026-world-baseball-classic-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dgisfofgmjomcrlvua41",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-29T06:20:30+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "'Long time coming': Miz's scoreless start sets up historic clinch",
-      "link": "https://www.mlb.com/news/jacob-misiorowski-2026-world-series-game-5-start",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ih1trje7uyz9c1yxamso",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-29T06:10:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Mighty Brewers prove they're an unbeatable crew, capture first World Series!",
-      "link": "https://www.mlb.com/news/brewers-win-world-series-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793255627/mlb/ovdxwsfmgo7zz3lvw7z2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-29T06:07:00+00:00",
       "time_ago": "1h ago"
     }
   ]
