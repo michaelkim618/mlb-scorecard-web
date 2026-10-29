@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-29T00:13:50.497261+00:00",
+  "updated_at": "2026-10-29T00:32:26.746979+00:00",
   "news": [
+    {
+      "title": "'Get up, get up, gone!' Davis pays tribute to Ueck on Pratt HR call",
+      "link": "https://www.mlb.com/news/joe-davis-tribute-bob-uecker-2026-world-series-game-4",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sdhwdi7hkzgxcigcvge0",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-29T00:09:03+00:00",
+      "time_ago": "23m ago"
+    },
     {
       "title": "LIVE: Brewers-Rays World Series Game 5 (FOX/FOX One)",
       "link": "https://www.mlb.com/news/brewers-rays-world-series-game-5-starting-lineups-and-pitching-matchup",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T00:00:00+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "32m ago"
     },
     {
       "title": "Ashby available for Game 5? 'Yes,' says Crew's pitching coordinator",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-28T22:29:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Cash was right, Caminero is playing in pivotal Game 5",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-28T21:28:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "3 big questions for Game 5 with Rays starting to regain some mojo",
@@ -91,19 +104,6 @@
       "tag_color": "#D97706",
       "pub_date": "2026-10-28T15:00:00+00:00",
       "time_ago": "9h ago"
-    },
-    {
-      "title": "'We’ve got one more day': Rays walk it off to force Game 5",
-      "link": "https://www.mlb.com/news/rays-win-world-series-game-4-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/joxfxly9p8x7qjkl4hba",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-28T07:48:00+00:00",
-      "time_ago": "16h ago"
     }
   ]
 }
