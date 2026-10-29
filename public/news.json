@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-10-29T06:52:20.234161+00:00",
+  "updated_at": "2026-10-29T07:31:48.480344+00:00",
   "news": [
+    {
+      "title": "After dream season, Rays' World Series wishes crash back down to earth",
+      "link": "https://www.mlb.com/news/rays-lose-2026-world-series-to-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/drrgkcnm6ajlkrb8pum1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-29T07:24:00+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "'Rock of our clubhouse': Martinez reflects on season with Rays, future",
+      "link": "https://www.mlb.com/news/nick-martinez-future-with-rays-unclear-after-serving-as-clubhouse-leader-in-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/h81tt8eoht6bsebjjnqo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-29T07:21:27+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "One of the best postseason performances ever? Ashby just did it",
+      "link": "https://www.mlb.com/news/aaron-ashby-delivers-historic-playoff-run-to-aid-brewers-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wkhdwmdodsvwkuddhtjf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-29T07:17:38+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "'How awesome is this?': Pratt sets World Series rookie record to help Crew to 1st title",
+      "link": "https://www.mlb.com/news/cooper-pratt-world-series-rookie-record-six-straight-hits",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793256958/mlb/mpmz2irzxdc2iqo3siqx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-29T06:58:00+00:00",
+      "time_ago": "33m ago"
+    },
     {
       "title": "Crew shouts out family (and Ueck) with custom bottles of celebratory bubbly",
       "link": "https://www.mlb.com/news/brewers-celebratory-champagne-bottles-families-bob-uecker",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T06:29:18+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Champs twice in one year! Brewers' Venezuelan trio pulls off rare feat with WBC, WS wins",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T06:20:30+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'Long time coming': Miz's scoreless start sets up historic clinch",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T06:10:00+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Mighty Brewers prove they're an unbeatable crew, capture first World Series!",
@@ -51,58 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T06:07:00+00:00",
-      "time_ago": "45m ago"
-    },
-    {
-      "title": "Party in Milwaukee! Brewers' parade set for Friday",
-      "link": "https://www.mlb.com/news/brewers-2026-world-series-championship-parade",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793251459/mlb/hon3exncpvyrbzfr29vn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-29T05:54:59+00:00",
-      "time_ago": "57m ago"
-    },
-    {
-      "title": "'I've waited my whole life for this': Brewers fans take in title-clinching win",
-      "link": "https://www.mlb.com/news/brewers-fans-celebrate-world-series-title-at-american-family-field",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nrisxnld3w0r8oodkoaj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Zach Sweet",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-29T05:40:05+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Extra rest a boon to Brewers in World Series",
-      "link": "https://www.mlb.com/news/impact-of-extra-rest-before-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mln7zl4sxeoyiyxqsjrr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-29T05:39:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Contreras honored with World Series MVP for prowess behind the plate",
-      "link": "https://www.mlb.com/news/william-contreras-wins-2026-world-series-mvp",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/osggcqdepufukurhrqpp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-10-29T05:18:00+00:00",
       "time_ago": "1h ago"
     }
   ]

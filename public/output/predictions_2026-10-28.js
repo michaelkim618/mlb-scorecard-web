@@ -2,7 +2,7 @@
 window.PREDICTIONS_DATA = [
   {
     "date": "2026-10-28",
-    "status": "Preview",
+    "status": "Final",
     "game_time": "5:00 PM PT",
     "game_number": 1,
     "doubleheader": false,
@@ -106,17 +106,6 @@ window.PREDICTIONS_DATA = [
     },
     "away_pitcher_gamelog": [
       {
-        "date": "2026-08-21",
-        "opp": "vs ATL",
-        "decision": "W",
-        "ip": "6.0",
-        "er": 0,
-        "h": 4,
-        "bb": 2,
-        "so": 6,
-        "era": 0.0
-      },
-      {
         "date": "2026-08-27",
         "opp": "@ NYM",
         "decision": "W",
@@ -214,6 +203,17 @@ window.PREDICTIONS_DATA = [
         "bb": 1,
         "so": 3,
         "era": 1.8
+      },
+      {
+        "date": "2026-10-28",
+        "opp": "@ TB",
+        "decision": "W",
+        "ip": "5.2",
+        "er": 0,
+        "h": 2,
+        "bb": 1,
+        "so": 2,
+        "era": 0.0
       }
     ],
     "home_pitcher": "Drew Rasmussen",
@@ -224,17 +224,6 @@ window.PREDICTIONS_DATA = [
       "era": "2.67"
     },
     "home_pitcher_gamelog": [
-      {
-        "date": "2026-08-24",
-        "opp": "@ DET",
-        "decision": "W",
-        "ip": "6.0",
-        "er": 1,
-        "h": 3,
-        "bb": 0,
-        "so": 5,
-        "era": 1.5
-      },
       {
         "date": "2026-08-30",
         "opp": "vs SD",
@@ -333,6 +322,17 @@ window.PREDICTIONS_DATA = [
         "bb": 2,
         "so": 4,
         "era": 7.36
+      },
+      {
+        "date": "2026-10-28",
+        "opp": "vs MIL",
+        "decision": "L",
+        "ip": "4.0",
+        "er": 1,
+        "h": 2,
+        "bb": 0,
+        "so": 4,
+        "era": 2.25
       }
     ],
     "pred_model": "scorecard",
@@ -362,18 +362,18 @@ window.PREDICTIONS_DATA = [
       "away": {
         "sp_score": 53.0,
         "sp_detail": {
-          "era": 2.2,
-          "whip": 1.1,
-          "k9": 10.3,
+          "era": 2.22,
+          "whip": 1.05,
+          "k9": 9.6,
           "avg_ip": 4.9,
-          "qs_rate": 30.0,
-          "last3_era": 1.66,
-          "last_start_era": 1.8,
+          "qs_rate": 20.0,
+          "last3_era": 1.48,
+          "last_start_era": 0.0,
           "last2_eras": [
-            2.08,
-            1.8
+            1.8,
+            0.0
           ],
-          "recent_avg_era": 1.8,
+          "recent_avg_era": 0.0,
           "recent_bad_start": false,
           "trend": "hot",
           "n_games": 10,
@@ -533,19 +533,19 @@ window.PREDICTIONS_DATA = [
       "home": {
         "sp_score": 69.8,
         "sp_detail": {
-          "era": 1.73,
-          "whip": 0.87,
-          "k9": 9.1,
-          "avg_ip": 6.2,
-          "qs_rate": 80.0,
-          "last3_era": 2.01,
-          "last_start_era": 7.36,
+          "era": 1.79,
+          "whip": 0.88,
+          "k9": 9.2,
+          "avg_ip": 6.0,
+          "qs_rate": 70.0,
+          "last3_era": 2.2,
+          "last_start_era": 2.25,
           "last2_eras": [
-            1.29,
-            7.36
+            7.36,
+            2.25
           ],
-          "recent_avg_era": 7.36,
-          "recent_bad_start": true,
+          "recent_avg_era": 2.25,
+          "recent_bad_start": false,
           "trend": "hot",
           "n_games": 10,
           "sample_confidence": 1.0,
@@ -716,8 +716,8 @@ window.PREDICTIONS_DATA = [
       "home_defense": 71.0
     },
     "actual_score": {
-      "away": 0,
-      "home": 0
+      "away": 4,
+      "home": 1
     },
     "lineup_confirmed": true,
     "sp_tbd": {
@@ -726,13 +726,13 @@ window.PREDICTIONS_DATA = [
       "both": false,
       "any": false
     },
-    "actual_winner": null,
+    "actual_winner": "Milwaukee Brewers",
     "model_winner": "Tampa Bay Rays",
-    "model_correct": null,
+    "model_correct": false,
     "notes": "Milwaukee Brewers IL: Angel Zerpa, Brian Fitzpatrick, Quinn Priester / Tampa Bay Rays IL: Edwin Uceta, Gavin Lux, Jacob Melton, Jonathan Heasley, Ryan Pepiot",
-    "kalshi_prob": 43.0,
-    "edge": 14.0,
-    "value_bet": "⏭️ 패스 (SP↔BAT충돌+시장역방향 edge +14.0%p — 신뢰불가)",
+    "kalshi_prob": null,
+    "edge": null,
+    "value_bet": "마켓 없음",
     "extreme_edge": false,
     "consensus": false,
     "sp_bat_conflict": true,
