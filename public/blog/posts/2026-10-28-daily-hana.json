@@ -1,11 +1,11 @@
 {
-  "title": "Oct 28 Results: When the Only Shot Misses",
-  "summary": "A tough 0-1 day as our Rays pick didn't pan out—here's what happened.",
+  "title": "Oct 28 Results: When the Numbers Humble You",
+  "summary": "A tough night in Tampa — breaking down what went wrong on Oct 28",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Here's the Thing About One-Game Slates\n\nWhen you only get one swing, you better make it count. Unfortunately, October 28th wasn't our day. We had one game on the board, put our faith in the Rays at home with a 57% confidence level, and... well, Milwaukee had other plans.\n\nIt's the kind of day that reminds you why baseball is beautiful and frustrating in equal measure. No do-overs, no second chances to balance the ledger. Just one game, one call, and one outcome we didn't see coming."
+      "value": "## Here's the Thing About Baseball\n\nSometimes the game reminds you why they play it on the field and not on a spreadsheet. October 28th was one of those nights — a single game on the schedule, and we swung and missed."
     },
     {
       "type": "stat_row",
@@ -26,11 +26,11 @@
     },
     {
       "type": "text",
-      "value": "## The Only Game in Town\n\nThe Brewers traveled down to Tampa Bay, and we liked the Rays' chances at Tropicana Field. At 57%, it wasn't a slam-dunk prediction—more of a 'slight edge' situation. But when you're picking just one game, you go with what the numbers tell you.\n\nMilwaukee, however, had different ideas. They came into Tampa and took care of business, leaving us with a clean 0-for-1 on the day."
+      "value": "## The Tampa Bay Story\n\nWe backed the Rays at home with 57% confidence against the Brewers. On paper, it made sense — home field advantage, solid pitching matchup, the numbers leaning our way. But the Brewers had other plans, and that's the beautiful frustration of this game we love."
     },
     {
       "type": "table",
-      "title": "October 28 Game Results",
+      "title": "Oct 28 Game Results",
       "headers": [
         "Matchup",
         "Our Pick",
@@ -49,7 +49,7 @@
     {
       "type": "chart",
       "chart_type": "bar",
-      "title": "Prediction Breakdown",
+      "title": "Today's Prediction Breakdown",
       "data": [
         {
           "name": "Rays",
@@ -73,22 +73,18 @@
     },
     {
       "type": "text",
-      "value": "## What We Can Learn\n\nSingle-game slates are unforgiving. There's no opportunity to let a strong pick in one game balance out a miss in another. Every prediction stands alone, exposed.\n\nThe 57% confidence level tells its own story—this wasn't a game where we felt overwhelming conviction. It was close enough that the Brewers absolutely had a path to victory, and they found it. Sometimes the 43% chance is the one that comes through.\n\nThat's baseball. That's why we keep score."
-    },
-    {
-      "type": "text",
-      "value": "## Looking Ahead\n\nThe good news? We get to turn the page. The tough news? There are no games scheduled for October 29th, so we'll have to wait a bit before we can get back in the batter's box.\n\nWhen the games return, we'll be ready. One tough day doesn't define a season, and it certainly doesn't change our approach. We trust the process, we trust the data, and we'll be back with fresh picks when the schedule resumes."
+      "value": "## What We're Learning\n\nA 57% confidence pick isn't a guarantee — it never is. That means we expected the Rays to win about 3 out of every 5 times in this scenario. Tonight just happened to be one of those other 2 times. The math doesn't change, but it's a good reminder that even when the odds are in your favor, baseball has a way of keeping you honest."
     },
     {
       "type": "highlight_box",
-      "color": "#94A3B8",
-      "title": "📅 Tomorrow's Schedule",
-      "value": "No Games Scheduled",
-      "sub": "The MLB slate takes a breather—we'll be back when the games return"
+      "color": "#EF4444",
+      "title": "💭 The Reality Check",
+      "value": "Every miss is a chance to refine the model",
+      "sub": "We'll dig into the data and come back stronger"
     },
     {
       "type": "text",
-      "value": "## The Bottom Line\n\nA 0-1 day stings, especially when it's your only chance to get one right. But here's what matters: we made the call based on solid analysis, the confidence level reflected the reality of a close matchup, and now we move forward.\n\nBaseball has a way of humbling you just when you need it most. We'll take the lesson, learn from it, and come back stronger when the games resume.\n\nUntil then, we'll be here—analyzing, preparing, and getting ready for the next pitch.\n\n*— Hana*"
+      "value": "## Looking Ahead\n\nHere's where I'd normally preview tomorrow's top picks, but the schedule gods have given us a day off. No games tomorrow means time to reset, review, and get ready for the next opportunity.\n\nStay tuned — we'll be back with fresh analysis when the games return to the diamond."
     }
   ],
   "slug": "2026-10-28-daily-hana",
