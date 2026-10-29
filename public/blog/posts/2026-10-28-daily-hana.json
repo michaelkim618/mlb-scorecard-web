@@ -1,17 +1,17 @@
 {
-  "title": "Oct 28 Results: When the Numbers Tell a Humbling Story",
-  "summary": "A tough night in Tampa Bay as our lone prediction missed the mark completely.",
+  "title": "Oct 28 Results: Sometimes Baseball Breaks Your Heart",
+  "summary": "A tough 0-1 day as our Rays prediction missed the mark—here's what happened.",
   "read_time": "3 min",
   "content": [
     {
       "type": "text",
-      "value": "## Here's the Thing About Baseball\n\nSometimes you swing for the fences and come up empty. That's exactly what happened on October 28th, and honestly? There's no sugar-coating it. We had one game on the docket, put our faith in the Tampa Bay Rays with 57% confidence, and watched the Brewers prove us wrong."
+      "value": "## Here's the Thing About Baseball\n\nSome days, the numbers look perfect. The matchup seems clear. Everything points in one direction. And then baseball reminds you why we love this game—because anything can happen.\n\nOct 28 gave us exactly one game to analyze, and unfortunately, we didn't get it right. But that's the beauty and the heartbreak of this sport all rolled into one."
     },
     {
       "type": "stat_row",
       "stats": [
         {
-          "label": "Today's Record",
+          "label": "Today W-L",
           "value": "0-1"
         },
         {
@@ -26,7 +26,7 @@
     },
     {
       "type": "text",
-      "value": "## The Game That Got Away\n\nThe Brewers walked into Tropicana Field as the underdog in our model's eyes. We leaned toward Tampa Bay with that 57% probability — not overwhelming confidence, but enough to make the call. Milwaukee had other plans. Sometimes the story the numbers tell and the story that unfolds on the diamond are two completely different novels."
+      "value": "## The Game That Got Away\n\nWe liked the Rays at home with a 57% win probability against the Brewers. It wasn't a slam-dunk prediction—57% tells you it's close—but the numbers suggested Tampa Bay had the edge.\n\nThe Brewers had other ideas. They came into Tropicana Field and took care of business, proving once again that probabilities are guides, not guarantees."
     },
     {
       "type": "chart",
@@ -48,8 +48,8 @@
         },
         {
           "key": "result",
-          "color": "#DC2626",
-          "label": "Correct (1=Yes, 0=No)"
+          "color": "#16A34A",
+          "label": "Correct (1=Yes)"
         }
       ]
     },
@@ -73,18 +73,18 @@
     },
     {
       "type": "text",
-      "value": "## What This Tells Us\n\nA 0-for-1 night stings, no question about it. But here's what matters: we're transparent about every swing and every miss. That 57% probability wasn't a guarantee — it was a calculated edge that simply didn't play out this time. The Brewers came to play, and they earned their victory in Tampa Bay.\n\nThis is the beauty and brutality of baseball predictions. Even when the math points one direction, nine innings of actual baseball can tell a completely different story."
+      "value": "## What We Learned\n\nA 0-1 day stings, there's no sugarcoating it. But here's what matters: we're transparent about every pick, every result. The wins and the losses.\n\nWhen you're picking games based on data and probabilities, you're going to have days like this. A 57% probability means there's a 43% chance the other team wins—and today, that 43% came through. That's not an excuse; it's just baseball.\n\nThe key is staying disciplined, trusting the process, and learning from what the data tells us after the fact."
     },
     {
       "type": "highlight_box",
-      "color": "#EF4444",
-      "title": "📊 Reality Check",
-      "value": "0-1 on the day",
-      "sub": "Sometimes the best prediction is admitting when you missed"
+      "color": "#6B7280",
+      "title": "📅 Tomorrow's Schedule",
+      "value": "No Games Scheduled",
+      "sub": "Time to rest, reset, and get ready for the next slate"
     },
     {
       "type": "text",
-      "value": "## Looking Ahead\n\nHere's where I'd normally dive into tomorrow's top picks and get you excited about the next slate of games. But October 29th? The diamond goes dark. No games scheduled. Consider it a collective breath, a moment for both us and the teams to regroup.\n\nWe'll be back when the games return, armed with fresh data, refined models, and the same commitment to calling it like we see it — wins, losses, and everything in between.\n\nUntil then, remember: in baseball, there's always another game. And in predictions, there's always another chance to get it right."
+      "value": "## The Road Ahead\n\nWith no games scheduled for tomorrow, we've got time to dig deeper into the trends, refine our models, and come back stronger. Every miss is a chance to get better.\n\nThat's the thing about following baseball over a full season—it's a marathon, not a sprint. One tough day doesn't define us. How we respond does.\n\nWe'll be back with fresh analysis when the games resume. Until then, keep the faith, trust the process, and remember: even the best hitters fail seven out of ten times.\n\n*See you at the next first pitch,*\n\n*— Hana*"
     }
   ],
   "slug": "2026-10-28-daily-hana",
