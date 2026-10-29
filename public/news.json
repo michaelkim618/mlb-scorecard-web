@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-29T22:40:50.223695+00:00",
+  "updated_at": "2026-10-29T22:53:29.233867+00:00",
   "news": [
+    {
+      "title": "Royals decline Estévez's club option, exercise Gonsolin's option",
+      "link": "https://www.mlb.com/news/royals-decline-carlos-estevez-s-club-option-exercise-tony-gonsolin-s-option",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/opbiqtpdc3t39yvpniab",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Perla Paredes",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-29T22:33:05+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "Imai does not exercise opt out, will stay with Astros in '27",
+      "link": "https://www.mlb.com/news/tatsuya-imai-declines-opt-out-will-return-to-astros-in-2027",
+      "summary": "Club denies option on RHP Weiss; decision looms on 3B Paredes",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lbzl1nrdn9kpikgz6yum",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-29T22:24:24+00:00",
+      "time_ago": "29m ago"
+    },
     {
       "title": "Mariners pick up Muñoz's option; Robles becomes free agent",
       "link": "https://www.mlb.com/news/andres-munoz-s-option-picked-up-by-mariners",
@@ -12,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-29T22:03:00+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Twins outright Banda, Gray and Sabato to clear roster space",
@@ -38,7 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-10-29T20:45:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "White Sox to name Roffe director of amateur scouting (source)",
@@ -78,32 +104,6 @@
       "tag_color": "#D97706",
       "pub_date": "2026-10-29T19:17:00+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "A's trade RHP prospect to Red Sox for outfielder Eaton",
-      "link": "https://www.mlb.com/news/nate-eaton-red-sox-athletics-trade",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zxkqtx5xau0eittbyfa7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Martín Gallegos",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-10-29T19:04:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Party in Milwaukee! Brewers' parade set for Friday",
-      "link": "https://www.mlb.com/news/brewers-2026-world-series-championship-parade",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793251459/mlb/hon3exncpvyrbzfr29vn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-29T18:07:00+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }
