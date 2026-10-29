@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T20:27:56.255595+00:00",
+  "updated_at": "2026-10-29T20:45:08.137613+00:00",
   "news": [
     {
       "title": "The Brewers are 1st-time champs. Nearly all of their players are, too.",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T19:32:01+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Mariners pick up Muñoz's option; Robles becomes free agent",
@@ -77,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T17:36:28+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Huge year for Contreras brothers ends with World Series embrace",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T16:35:26+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Helsley to remain with O's, opting into '27 player option (source)",
@@ -103,7 +103,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-29T15:42:55+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     }
   ]
 }

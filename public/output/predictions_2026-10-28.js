@@ -337,8 +337,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 43.0,
-      "home": 57.0
+      "away": 42.3,
+      "home": 57.7
     },
     "expected_score": {
       "away": 2.0,
@@ -354,9 +354,9 @@ window.PREDICTIONS_DATA = [
       "bullpen_game": false,
       "any_cold_sp": false,
       "eff_weights": {
-        "sp": 0.31,
+        "sp": 0.38,
         "bp": 0.22,
-        "bat": 0.32,
+        "bat": 0.25,
         "sit": 0.15
       },
       "away": {
@@ -531,7 +531,7 @@ window.PREDICTIONS_DATA = [
         "total": 54.3
       },
       "home": {
-        "sp_score": 69.8,
+        "sp_score": 70.3,
         "sp_detail": {
           "era": 1.79,
           "whip": 0.88,
@@ -597,7 +597,7 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 72.3,
+        "bp_score": 72.8,
         "bp_detail": {
           "bullpen_era": 2.78,
           "recent_era": 2.78,
@@ -609,7 +609,7 @@ window.PREDICTIONS_DATA = [
           "closer_era": 1.44,
           "closer_name": "Bryan Baker"
         },
-        "bat_score": 25.5,
+        "bat_score": 26.5,
         "bat_detail": {
           "recent_avg": 0.225,
           "runs_per_g": 3.8,
@@ -706,14 +706,14 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 61.6,
-        "total": 58.0
+        "total": 58.6
       }
     },
     "scores": {
       "away_offense": 33.8,
       "away_defense": 60.6,
-      "home_offense": 25.5,
-      "home_defense": 71.0
+      "home_offense": 26.5,
+      "home_defense": 71.5
     },
     "actual_score": {
       "away": 4,
@@ -729,21 +729,16 @@ window.PREDICTIONS_DATA = [
     "actual_winner": "Milwaukee Brewers",
     "model_winner": "Tampa Bay Rays",
     "model_correct": false,
-    "notes": "Milwaukee Brewers IL: Angel Zerpa, Brian Fitzpatrick, Quinn Priester / Tampa Bay Rays IL: Edwin Uceta, Gavin Lux, Jacob Melton, Jonathan Heasley, Ryan Pepiot",
+    "notes": "Milwaukee Brewers IL: Angel Zerpa, Brian Fitzpatrick, Quinn Priester / Tampa Bay Rays IL: Edwin Uceta, Jacob Melton, Jonathan Heasley, Ryan Pepiot",
     "kalshi_prob": null,
     "edge": null,
     "value_bet": "마켓 없음",
     "extreme_edge": false,
     "consensus": false,
-    "sp_bat_conflict": true,
-    "sp_bat_conflict_detail": {
-      "sp_favors": "Tampa Bay Rays",
-      "bat_favors": "Milwaukee Brewers",
-      "sp_gap": -16.8,
-      "bat_gap": 8.3
-    },
+    "sp_bat_conflict": false,
+    "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 57.0% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 57.7% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
