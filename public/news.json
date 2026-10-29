@@ -1,18 +1,83 @@
 {
-  "updated_at": "2026-10-29T14:59:31.943462+00:00",
+  "updated_at": "2026-10-29T18:51:21.256491+00:00",
   "news": [
     {
-      "title": "King declines player option with Padres to become free agent (source)",
+      "title": "King opts out of deal with Padres to become free agent (source)",
       "link": "https://www.mlb.com/news/michael-king-free-agent-2027",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ohww7kflprhko3e7nxdh",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Max Ralph",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-10-29T18:22:00+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "Party in Milwaukee! Brewers' parade set for Friday",
+      "link": "https://www.mlb.com/news/brewers-2026-world-series-championship-parade",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793251459/mlb/hon3exncpvyrbzfr29vn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Manny Randhawa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-29T18:07:00+00:00",
+      "time_ago": "44m ago"
+    },
+    {
+      "title": "Milwaukee Public Schools to close for Brewers' championship parade",
+      "link": "https://www.mlb.com/news/milwaukee-public-schools-to-close-for-brewers-championship-parade",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793295037/mlb/euaaf6ygm81bxzravcct",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-29T17:36:28+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Huge year for Contreras brothers ends with World Series embrace",
+      "link": "https://www.mlb.com/news/contreras-brothers-finish-huge-2026-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/czflb2zw2avu8f1jhgos",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-29T16:35:26+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Helsley to remain with O's, opting into '27 player option (source)",
+      "link": "https://www.mlb.com/news/ryan-helsley-orioles-2027-player-option",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zyzi8spxn76ett5lj44b",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
       "tag": "Roster",
       "tag_color": "#0284C7",
-      "pub_date": "2026-10-29T14:26:42+00:00",
-      "time_ago": "32m ago"
+      "pub_date": "2026-10-29T15:42:55+00:00",
+      "time_ago": "3h ago"
+    },
+    {
+      "title": "After watching his brother win World Series, Tylor Megill can take inspiration",
+      "link": "https://www.mlb.com/news/tylor-megill-inspired-by-world-series-champion-brother-trevor-megill",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qbfanszkzbaduuix5sqy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-29T15:12:31+00:00",
+      "time_ago": "3h ago"
     },
     {
       "title": "These Brewers World Series artifacts are heading to the Hall of Fame",
@@ -25,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T13:33:06+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "A closer look at just how dominant the Brewers were this October",
@@ -38,72 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T08:26:19+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "A look at what went wrong in Fall Classic, as Rays met their match in Brewers",
-      "link": "https://www.mlb.com/news/takeaways-from-rays-world-series-loss-to-brewers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yejw49oin1khca1nqnpl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-29T08:26:12+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "'It’s reality now': Crew execs, former players embrace title decades in the making",
-      "link": "https://www.mlb.com/news/brewers-executives-former-players-2026-world-series-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e6tyks1ulf0p5reetfeh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-29T08:03:42+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Rasmussen lauds Rays, ponders 2027 after starting Game 5 on short rest",
-      "link": "https://www.mlb.com/news/drew-rasmussen-2026-world-series-game-5-start",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gqfmd37hg0itkm60rtz1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-29T07:33:00+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "After dream season, Rays' World Series wishes crash back down to earth",
-      "link": "https://www.mlb.com/news/rays-lose-2026-world-series-to-brewers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/drrgkcnm6ajlkrb8pum1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-29T07:24:00+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "'Rock of our clubhouse': Martinez reflects on season with Rays, future",
-      "link": "https://www.mlb.com/news/nick-martinez-future-with-rays-unclear-after-serving-as-clubhouse-leader-in-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/h81tt8eoht6bsebjjnqo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-29T07:21:27+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "10h ago"
     }
   ]
 }
