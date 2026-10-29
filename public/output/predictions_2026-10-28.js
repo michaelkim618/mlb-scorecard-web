@@ -337,8 +337,8 @@ window.PREDICTIONS_DATA = [
     ],
     "pred_model": "scorecard",
     "win_prob": {
-      "away": 42.3,
-      "home": 57.7
+      "away": 42.7,
+      "home": 57.3
     },
     "expected_score": {
       "away": 2.0,
@@ -419,15 +419,15 @@ window.PREDICTIONS_DATA = [
             }
           ]
         },
-        "bp_score": 68.2,
+        "bp_score": 69.4,
         "bp_detail": {
-          "bullpen_era": 2.89,
-          "recent_era": 2.89,
+          "bullpen_era": 2.82,
+          "recent_era": 2.82,
           "recent_appearances": 0,
           "recent_ip": 0.0,
           "team_era": 3.27,
-          "bp_ip": 401.3,
-          "bp_count": 6,
+          "bp_ip": 345.0,
+          "bp_count": 5,
           "closer_era": 2.63,
           "closer_name": "Trevor Megill"
         },
@@ -528,7 +528,7 @@ window.PREDICTIONS_DATA = [
           }
         },
         "sit_score": 71.6,
-        "total": 54.3
+        "total": 54.6
       },
       "home": {
         "sp_score": 70.3,
@@ -603,7 +603,7 @@ window.PREDICTIONS_DATA = [
           "recent_era": 2.78,
           "recent_appearances": 0,
           "recent_ip": 0.0,
-          "team_era": 3.46,
+          "team_era": 3.3,
           "bp_ip": 346.7,
           "bp_count": 6,
           "closer_era": 1.44,
@@ -711,7 +711,7 @@ window.PREDICTIONS_DATA = [
     },
     "scores": {
       "away_offense": 33.8,
-      "away_defense": 60.6,
+      "away_defense": 61.2,
       "home_offense": 26.5,
       "home_defense": 71.5
     },
@@ -738,7 +738,7 @@ window.PREDICTIONS_DATA = [
     "sp_bat_conflict": false,
     "sp_bat_conflict_detail": null,
     "low_confidence": true,
-    "low_confidence_reason": "최고 확률 57.7% (≤62.0%)",
+    "low_confidence_reason": "최고 확률 57.3% (≤62.0%)",
     "opener_game": {
       "away": false,
       "home": false
