@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-29T08:09:26.132728+00:00",
+  "updated_at": "2026-10-29T08:43:45.895838+00:00",
   "news": [
+    {
+      "title": "A closer look at just how dominant the Brewers were this October",
+      "link": "https://www.mlb.com/news/key-stats-from-brewers-2026-world-series-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/askumhtyqgtbv0tehvl1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sarah Langs",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-29T08:26:19+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "A look at what went wrong in Fall Classic, as Rays met their match in Brewers",
+      "link": "https://www.mlb.com/news/takeaways-from-rays-world-series-loss-to-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yejw49oin1khca1nqnpl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-29T08:26:12+00:00",
+      "time_ago": "17m ago"
+    },
     {
       "title": "'It’s reality now': Crew execs, former players embrace title decades in the making",
       "link": "https://www.mlb.com/news/brewers-executives-former-players-2026-world-series-win",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T08:03:42+00:00",
-      "time_ago": "5m ago"
+      "time_ago": "40m ago"
     },
     {
       "title": "Rasmussen lauds Rays, ponders 2027 after starting Game 5 on short rest",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T07:33:00+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "After dream season, Rays' World Series wishes crash back down to earth",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T07:24:00+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "'Rock of our clubhouse': Martinez reflects on season with Rays, future",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T07:21:27+00:00",
-      "time_ago": "47m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "One of the best postseason performances ever? Ashby just did it",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T07:17:38+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Believe it, Milwaukee! Brewers are World Series champs for 1st time",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T07:07:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "'How awesome is this?': Pratt sets World Series rookie record to help Crew to 1st title",
-      "link": "https://www.mlb.com/news/cooper-pratt-world-series-rookie-record-six-straight-hits",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793256958/mlb/mpmz2irzxdc2iqo3siqx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-29T06:58:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Crew shouts out family (and Ueck) with custom bottles of celebratory bubbly",
-      "link": "https://www.mlb.com/news/brewers-celebratory-champagne-bottles-families-bob-uecker",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/abujmm7bhcftwles9buf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-29T06:29:18+00:00",
       "time_ago": "1h ago"
     }
   ]
