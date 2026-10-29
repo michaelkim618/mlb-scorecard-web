@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-29T19:07:13.560024+00:00",
+  "updated_at": "2026-10-29T19:29:46.152199+00:00",
   "news": [
+    {
+      "title": "Mariners pick up Muñoz's option; Robles becomes free agent",
+      "link": "https://www.mlb.com/news/andres-munoz-s-option-picked-up-by-mariners",
+      "summary": "Miller's option declined but still under club control",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/enjmeswmeyotiazwpmzf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-29T19:06:50+00:00",
+      "time_ago": "22m ago"
+    },
     {
       "title": "A's trade RHP prospect to Red Sox for outfielder Eaton",
       "link": "https://www.mlb.com/news/nate-eaton-red-sox-athletics-trade",
@@ -8,11 +21,11 @@
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zxkqtx5xau0eittbyfa7",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "",
+      "author": "Martín Gallegos",
       "tag": "Trade",
       "tag_color": "#7C3AED",
-      "pub_date": "2026-10-29T18:48:37+00:00",
-      "time_ago": "18m ago"
+      "pub_date": "2026-10-29T19:04:00+00:00",
+      "time_ago": "25m ago"
     },
     {
       "title": "King opts out of deal with Padres to become free agent (source)",
@@ -25,7 +38,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-10-29T18:22:00+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Party in Milwaukee! Brewers' parade set for Friday",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T15:12:31+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "These Brewers World Series artifacts are heading to the Hall of Fame",
-      "link": "https://www.mlb.com/news/brewers-world-series-artifacts-heading-to-hall-of-fame",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zhyrbuyxyfiorw2kdu0w",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-29T13:33:06+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
