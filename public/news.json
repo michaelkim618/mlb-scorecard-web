@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-10-29T04:57:46.598530+00:00",
+  "updated_at": "2026-10-29T06:04:29.224997+00:00",
   "news": [
+    {
+      "title": "Party in Milwaukee! Brewers' parade set for Friday",
+      "link": "https://www.mlb.com/news/brewers-2026-world-series-championship-parade",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793251459/mlb/hon3exncpvyrbzfr29vn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Manny Randhawa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-29T05:54:59+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "'I've waited my whole life for this': Brewers fans take in title-clinching win",
+      "link": "https://www.mlb.com/news/brewers-fans-celebrate-world-series-title-at-american-family-field",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nrisxnld3w0r8oodkoaj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Zach Sweet",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-29T05:40:05+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "Extra rest a boon to Brewers in World Series",
+      "link": "https://www.mlb.com/news/impact-of-extra-rest-before-world-series",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mln7zl4sxeoyiyxqsjrr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-29T05:39:00+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "Contreras honored with World Series MVP for prowess behind the plate",
+      "link": "https://www.mlb.com/news/william-contreras-wins-2026-world-series-mvp",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/osggcqdepufukurhrqpp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-10-29T05:18:00+00:00",
+      "time_ago": "46m ago"
+    },
     {
       "title": "Watch the end of every World Series since 1943",
       "link": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-10/28/d4c6958c-9621499a-94f2db94-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
@@ -12,20 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T04:26:53+00:00",
-      "time_ago": "30m ago"
-    },
-    {
-      "title": "Contreras honored with World Series MVP for prowess behind the plate",
-      "link": "https://www.mlb.com/news/william-contreras-wins-2026-world-series-mvp",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/osggcqdepufukurhrqpp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-10-29T04:07:00+00:00",
-      "time_ago": "50m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Check out all the top plays from the 2026 World Series",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T04:06:02+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Pratt the latest rookie to make a name for himself in postseason",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T03:57:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Best rookie postseason performances",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T03:55:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Brothers who have won World Series titles",
-      "link": "https://www.mlb.com/news/brothers-who-won-the-world-series",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t7ywuk3sakgxvcvd5z8g",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-29T03:50:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Contreras, Ashby had an October to remember",
-      "link": "https://www.mlb.com/news/best-playoff-performances-in-mlb-history-c296028438",
-      "summary": "These stars enjoyed Octobers that will never be forgotten",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zg9knbmoyf9sqwfouugj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matt Kelly and Manny Randhawa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-29T03:49:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Rasmussen, on 3 days’ rest, gets Rays into middle innings in Game 5",
-      "link": "https://www.mlb.com/news/drew-rasmussen-2026-world-series-game-5-start",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/erlpqbpgrlyohln5emnt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-29T03:35:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
