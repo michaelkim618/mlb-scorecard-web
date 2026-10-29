@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-29T01:22:27.892862+00:00",
+  "updated_at": "2026-10-29T01:53:46.279316+00:00",
   "news": [
+    {
+      "title": "Rasmussen, on 3 days’ rest, gets Rays into middle innings in Game 5",
+      "link": "https://www.mlb.com/news/drew-rasmussen-2026-world-series-game-5-start",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/erlpqbpgrlyohln5emnt",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-29T01:35:00+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Red-hot Pratt sets World Series rookie record with hit in six straight at-bats",
+      "link": "https://www.mlb.com/news/cooper-pratt-world-series-rookie-record-six-straight-hits",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sxppzrumryp3jtq9yukh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-29T01:33:23+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "New MLB Network doc marks 25th anniversary of D-backs' 2001 World Series title",
+      "link": "https://www.mlb.com/news/new-mlb-network-documentary-spotlights-d-backs-2001-world-series-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793235233/mlb/ru2fiqol6pniqmjmzj31",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Courtney Hollmon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-29T01:27:39+00:00",
+      "time_ago": "26m ago"
+    },
     {
       "title": "LIVE: Guess who? Pratt gets Crew going in Game 5 (FOX/FOX One)",
       "link": "https://www.mlb.com/stories/game/849799",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T01:16:43+00:00",
-      "time_ago": "5m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "'Get up, get up, gone!' Davis pays tribute to Ueck on Pratt HR call",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-28T22:29:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Cash was right, Caminero is playing in pivotal Game 5",
@@ -52,45 +91,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-28T21:55:00+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "Rasmussen, on 3 days’ rest, gets Game 5 nod",
-      "link": "https://www.mlb.com/news/drew-rasmussen-2026-world-series-game-5-start",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ssd23hrltubm9ssaxrua",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-28T21:28:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "3 big questions for Game 5 with Rays starting to regain some mojo",
-      "link": "https://www.mlb.com/news/2026-world-series-game-5-storylines-brewers-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oruwsskerqfluplz8ifq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-28T19:10:00+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "With parallels to '04 Red Sox, here's the Rays' path to their own historic comeback",
-      "link": "https://www.mlb.com/news/how-rays-might-pull-off-world-series-history",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793205291/mlb/d5mpcbey6fodsyvde5t6",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-28T16:56:40+00:00",
-      "time_ago": "8h ago"
     },
     {
       "title": "4 takeaways from a thrilling Game 4",
