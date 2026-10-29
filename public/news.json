@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-29T19:45:47.602578+00:00",
+  "updated_at": "2026-10-29T19:59:37.071970+00:00",
   "news": [
+    {
+      "title": "The Brewers are 1st-time champs. Nearly all of their players are, too.",
+      "link": "https://www.mlb.com/news/first-time-champs-on-2026-brewers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ncfhcugt42lpuu98wyiy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-29T19:32:01+00:00",
+      "time_ago": "27m ago"
+    },
     {
       "title": "Mariners pick up Muñoz's option; Robles becomes free agent",
       "link": "https://www.mlb.com/news/andres-munoz-s-option-picked-up-by-mariners",
@@ -12,7 +25,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-29T19:06:50+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "A's trade RHP prospect to Red Sox for outfielder Eaton",
@@ -25,7 +38,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-10-29T19:04:00+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "King opts out of deal with Padres to become free agent (source)",
@@ -90,19 +103,6 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-29T15:42:55+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "After watching his brother win World Series, Tylor Megill can take inspiration",
-      "link": "https://www.mlb.com/news/tylor-megill-inspired-by-world-series-champion-brother-trevor-megill",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qbfanszkzbaduuix5sqy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-29T15:12:31+00:00",
       "time_ago": "4h ago"
     }
   ]
