@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-29T21:31:50.169013+00:00",
+  "updated_at": "2026-10-29T21:56:14.330693+00:00",
   "news": [
+    {
+      "title": "Twins outright Banda, Gray and Sabato to clear roster space",
+      "link": "https://www.mlb.com/news/twins-outright-anthony-banda-tristan-gray-and-aaron-sabato",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j8p3z1qdecxhqyx2yzkh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-29T21:28:46+00:00",
+      "time_ago": "27m ago"
+    },
     {
       "title": "King opts out of deal with Padres to become free agent (source)",
       "link": "https://www.mlb.com/news/michael-king-free-agent-2027",
@@ -12,7 +25,20 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-10-29T20:45:00+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "White Sox to name Roffe director of amateur scouting (source)",
+      "link": "https://www.mlb.com/news/matt-roffe-to-be-white-sox-director-of-amateur-scouting",
+      "summary": "New executive spent past 5 seasons in Brewers front office",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jrxxchrvwhn4lictm5g0",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-29T20:01:10+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "The Brewers are 1st-time champs. Nearly all of their players are, too.",
@@ -25,7 +51,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T19:32:01+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "The most clutch postseason performances",
+      "link": "https://www.mlb.com/news/most-clutch-postseason-performances",
+      "summary": "These players came through in October's biggest moments",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iq0uc1jutbzidqf3hn39",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matt Kelly",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-10-29T19:17:00+00:00",
+      "time_ago": "2h ago"
     },
     {
       "title": "Mariners pick up Muñoz's option; Robles becomes free agent",
@@ -65,45 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T18:07:00+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "Milwaukee Public Schools to close for Brewers' championship parade",
-      "link": "https://www.mlb.com/news/milwaukee-public-schools-to-close-for-brewers-championship-parade",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793295037/mlb/euaaf6ygm81bxzravcct",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-29T17:36:28+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Huge year for Contreras brothers ends with World Series embrace",
-      "link": "https://www.mlb.com/news/contreras-brothers-finish-huge-2026-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/czflb2zw2avu8f1jhgos",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-29T16:35:26+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Helsley to remain with O's, opting into '27 player option (source)",
-      "link": "https://www.mlb.com/news/ryan-helsley-orioles-2027-player-option",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zyzi8spxn76ett5lj44b",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-29T15:42:55+00:00",
-      "time_ago": "5h ago"
     }
   ]
 }
