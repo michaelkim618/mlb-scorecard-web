@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-30T18:45:15.935065+00:00",
+  "updated_at": "2026-10-30T19:06:17.510216+00:00",
   "news": [
+    {
+      "title": "Opt-outs and option decisions for 2027",
+      "link": "https://www.mlb.com/news/mlb-players-with-2027-options-and-opt-outs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cbmhdz5wyjkvhjjzd82y",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harrigan",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-30T18:51:00+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "A parade 44 years in the making, Brewers celebrate title with fans",
+      "link": "https://www.mlb.com/news/brewers-2026-world-series-championship-parade",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bkowlvm6ewmustoa2jhi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-30T18:39:00+00:00",
+      "time_ago": "27m ago"
+    },
     {
       "title": "Cubs eager to target pitching market as free agency kicks off",
       "link": "https://www.mlb.com/news/cubs-pitching-free-agency",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-30T15:00:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Alcantara's club option exercised for 2027 season",
-      "link": "https://www.mlb.com/news/marlins-exercise-sandy-alcantara-team-option",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/agcditqzkv2alzuxjcxj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Christina De Nicola",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-30T14:30:44+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Marlins outright 3 relievers, 2 catchers to Triple-A",
-      "link": "https://www.mlb.com/news/tyler-zuber-zach-brzykcy-wikelman-gonzalez-brian-navarreto-logan-driscoll-outrighted",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jqqdbzsxjkwpmeutkmzv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Christina De Nicola",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-30T14:26:24+00:00",
       "time_ago": "4h ago"
     }
   ]
