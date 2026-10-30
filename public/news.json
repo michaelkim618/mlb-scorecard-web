@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-30T13:17:43.860041+00:00",
+  "updated_at": "2026-10-30T13:42:55.460910+00:00",
   "news": [
+    {
+      "title": "These Red Sox could be honored during Awards Season",
+      "link": "https://www.mlb.com/news/red-sox-2026-awards-season-preview",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qgr6nqggicj25vgwtlfv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-10-30T13:28:20+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "NPB ERA leader to enter MLB posting system",
+      "link": "https://www.mlb.com/news/kaima-taira-will-enter-mlb-posting-system",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793365305/mlb/p5oq3civnnzidyab7i8i",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-30T13:13:47+00:00",
+      "time_ago": "29m ago"
+    },
     {
       "title": "Presenting the 2026 All-Postseason Team",
       "link": "https://www.mlb.com/news/2026-mlb-all-postseason-team",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-30T00:39:10+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "13h ago"
     },
     {
       "title": "Bichette bypassing opt-out, returning to Mets for 2027 season (source)",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T23:32:42+00:00",
-      "time_ago": "13h ago"
+      "time_ago": "14h ago"
     },
     {
       "title": "Braves exercise club options on Acuña and Albies",
@@ -77,33 +103,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-29T23:26:16+00:00",
-      "time_ago": "13h ago"
-    },
-    {
-      "title": "Royals decline Estévez's club option, exercise Gonsolin's option",
-      "link": "https://www.mlb.com/news/royals-decline-carlos-estevez-s-club-option-exercise-tony-gonsolin-s-option",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/opbiqtpdc3t39yvpniab",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Perla Paredes",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-29T22:33:05+00:00",
       "time_ago": "14h ago"
-    },
-    {
-      "title": "Mariners pick up Muñoz's option; Robles becomes free agent",
-      "link": "https://www.mlb.com/news/andres-munoz-s-option-picked-up-by-mariners",
-      "summary": "Miller's option declined but still under club control",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/enjmeswmeyotiazwpmzf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-29T22:03:00+00:00",
-      "time_ago": "15h ago"
     }
   ]
 }
