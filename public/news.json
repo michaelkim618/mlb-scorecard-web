@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-30T02:19:14.348496+00:00",
+  "updated_at": "2026-10-30T02:50:54.337011+00:00",
   "news": [
     {
       "title": "Crew celebrates title at Packers game -- complete with a Lambeau Leap",
-      "link": "https://www.mlb.com/news/sal-frelick-does-laumbeau-leap-as-brewers-go-to-packers-game",
+      "link": "https://www.mlb.com/news/sal-frelick-does-lambeau-leap-as-brewers-go-to-packers-game",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fuzwpzw53lguyeoa8mit",
       "source": "MLB.com",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-30T02:08:52+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "Bichette bypassing opt-out, returning to Mets for 2027 season (source)",
@@ -25,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T23:32:42+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Braves exercise club options on Acuña and Albies",
@@ -38,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-29T23:26:16+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Royals decline Estévez's club option, exercise Gonsolin's option",
@@ -51,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-29T22:33:05+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Imai does not exercise opt out, will stay with Astros in '27",
@@ -64,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-29T22:24:24+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Mariners pick up Muñoz's option; Robles becomes free agent",
@@ -90,7 +90,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-29T21:28:46+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "King opts out of deal with Padres to become free agent (source)",
@@ -103,7 +103,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-10-29T20:45:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     }
   ]
 }
