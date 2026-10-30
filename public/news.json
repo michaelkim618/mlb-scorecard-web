@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-30T02:50:54.337011+00:00",
+  "updated_at": "2026-10-30T04:57:19.754252+00:00",
   "news": [
+    {
+      "title": "Presenting the 2026 All-Postseason Team",
+      "link": "https://www.mlb.com/news/2026-mlb-all-postseason-team",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rujljoa2nacnqkyrknop",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan ",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-30T02:44:28+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "The best moment from each series during the playoffs",
+      "link": "https://www.mlb.com/news/best-postseason-moments-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/b2w2bv29faucuvjr9oqx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-10-30T02:43:59+00:00",
+      "time_ago": "2h ago"
+    },
     {
       "title": "Crew celebrates title at Packers game -- complete with a Lambeau Leap",
       "link": "https://www.mlb.com/news/sal-frelick-does-lambeau-leap-as-brewers-go-to-packers-game",
@@ -12,7 +38,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-30T02:08:52+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Cubs eager to target pitching market as free agency kicks off",
+      "link": "https://www.mlb.com/news/cubs-pitching-free-agency",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sgpfu9exyhqitsnihden",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-30T00:39:10+00:00",
+      "time_ago": "4h ago"
     },
     {
       "title": "Bichette bypassing opt-out, returning to Mets for 2027 season (source)",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-29T23:32:42+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Braves exercise club options on Acuña and Albies",
@@ -38,7 +77,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-29T23:26:16+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Royals decline Estévez's club option, exercise Gonsolin's option",
@@ -51,20 +90,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-29T22:33:05+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Imai does not exercise opt out, will stay with Astros in '27",
-      "link": "https://www.mlb.com/news/tatsuya-imai-declines-opt-out-will-return-to-astros-in-2027",
-      "summary": "Club denies option on RHP Weiss; decision looms on 3B Paredes",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lbzl1nrdn9kpikgz6yum",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-29T22:24:24+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "Mariners pick up Muñoz's option; Robles becomes free agent",
@@ -77,32 +103,6 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-29T22:03:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Twins outright Banda, Gray and Sabato to clear roster space",
-      "link": "https://www.mlb.com/news/twins-outright-anthony-banda-tristan-gray-and-aaron-sabato",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j8p3z1qdecxhqyx2yzkh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-29T21:28:46+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "King opts out of deal with Padres to become free agent (source)",
-      "link": "https://www.mlb.com/news/michael-king-free-agent-2027",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ohww7kflprhko3e7nxdh",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph, AJ Cassavell",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-10-29T20:45:00+00:00",
       "time_ago": "6h ago"
     }
   ]
