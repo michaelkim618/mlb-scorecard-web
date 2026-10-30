@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-30T13:47:36.883017+00:00",
+  "updated_at": "2026-10-30T14:23:02.916687+00:00",
   "news": [
+    {
+      "title": "Milwaukee to celebrate 1st World Series title with championship parade today (11 ET)",
+      "link": "https://www.mlb.com/brewers/news/brewers-2026-world-series-championship-parade",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lwjxfvtelrsy2bbqlnvn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-30T14:14:53+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "A Padres guide to awards season, free agency",
+      "link": "https://www.mlb.com/news/padres-guide-to-awards-season-free-agency",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793314389/mlb/wobdxoyd9qlnovmol197",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-10-30T13:42:02+00:00",
+      "time_ago": "41m ago"
+    },
     {
       "title": "These Red Sox could be honored during Awards Season",
       "link": "https://www.mlb.com/news/red-sox-2026-awards-season-preview",
@@ -12,7 +38,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-10-30T13:28:20+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "54m ago"
     },
     {
       "title": "NPB ERA leader to enter MLB posting system",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-30T13:13:47+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Presenting the 2026 All-Postseason Team",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-30T02:08:52+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "12h ago"
     },
     {
       "title": "Cubs eager to target pitching market as free agency kicks off",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-10-30T00:39:10+00:00",
       "time_ago": "13h ago"
-    },
-    {
-      "title": "Bichette bypassing opt-out, returning to Mets for 2027 season (source)",
-      "link": "https://www.mlb.com/news/bo-bichette-player-option-mets",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j7q5sb8arryx2krlpxty",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-29T23:32:42+00:00",
-      "time_ago": "14h ago"
-    },
-    {
-      "title": "Braves exercise club options on Acuña and Albies",
-      "link": "https://www.mlb.com/news/ronald-acuna-jr-ozzie-albies-club-options-exercised-by-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xev3dycl2i3croqw5blp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-29T23:26:16+00:00",
-      "time_ago": "14h ago"
     }
   ]
 }
