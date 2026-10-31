@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-31T20:35:34.079013+00:00",
+  "updated_at": "2026-10-31T21:21:46.231781+00:00",
   "news": [
+    {
+      "title": "Opt-outs and option decisions for 2027",
+      "link": "https://www.mlb.com/news/mlb-players-with-2027-options-and-opt-outs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cbmhdz5wyjkvhjjzd82y",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harrigan",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-10-31T21:14:00+00:00",
+      "time_ago": "7m ago"
+    },
     {
       "title": "An inside look at how Brewers won their first World Series title",
       "link": "https://www.mlb.com/news/brewers-world-series-win-on-this-week-in-baseball",
@@ -38,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-31T14:16:21+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "Which long World Series title drought is most likely to end next?",
@@ -51,20 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-31T12:05:00+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "Opt-outs and option decisions for 2027",
-      "link": "https://www.mlb.com/news/mlb-players-with-2027-options-and-opt-outs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cbmhdz5wyjkvhjjzd82y",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harrigan",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-31T04:00:00+00:00",
-      "time_ago": "16h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "Pederson, Higashioka, Junis free agents after mutual options declined (sources)",
@@ -103,7 +103,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-10-31T01:17:12+00:00",
-      "time_ago": "19h ago"
+      "time_ago": "20h ago"
     }
   ]
 }
