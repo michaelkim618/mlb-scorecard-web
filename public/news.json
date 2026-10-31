@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T00:16:00.631355+00:00",
+  "updated_at": "2026-10-31T00:54:10.668526+00:00",
   "news": [
     {
       "title": "Opt-outs and option decisions for 2027",
@@ -11,8 +11,21 @@
       "author": "Thomas Harrigan",
       "tag": "Roster",
       "tag_color": "#0284C7",
-      "pub_date": "2026-10-30T22:21:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-10-31T00:44:00+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "He's waited his entire life for a Brewers title. Now, his celebration has gone viral",
+      "link": "https://www.mlb.com/news/brewers-fan-celebrates-world-series-win",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fwjzfk1biuq7bj7l30cz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-31T00:22:54+00:00",
+      "time_ago": "31m ago"
     },
     {
       "title": "A parade 44 years in the making, Brewers celebrate title with fans",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-30T22:20:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Rays decline Martinez and Mullins' contract options, making them free agents",
@@ -54,19 +67,6 @@
       "time_ago": "3h ago"
     },
     {
-      "title": "Astros' search for a GM could be nearing an end",
-      "link": "https://www.mlb.com/news/astros-general-manager-search-update",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x9efqrgckzek1yj57uuk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-30T19:28:08+00:00",
-      "time_ago": "4h ago"
-    },
-    {
       "title": "New hitting coach looks to bring 'grind-you-down' approach to Phillies' lineup",
       "link": "https://www.mlb.com/news/peter-fatse-phillies-hitting-coach-strategy",
       "summary": "",
@@ -77,7 +77,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-30T18:42:07+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "Inbox: Drafting top choices for the Fall League HR Derby",
@@ -90,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-10-30T18:33:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "King opts out of deal with Padres to become free agent",
@@ -103,7 +103,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-10-30T17:22:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     }
   ]
 }
