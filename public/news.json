@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T20:09:26.963679+00:00",
+  "updated_at": "2026-10-31T20:24:06.795337+00:00",
   "news": [
     {
       "title": "An inside look at how Brewers won their first World Series title",
@@ -25,7 +25,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-31T14:16:21+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "Which long World Series title drought is most likely to end next?",
@@ -90,7 +90,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-10-31T01:17:12+00:00",
-      "time_ago": "18h ago"
+      "time_ago": "19h ago"
     },
     {
       "title": "Astros hire Flores as next general manager",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-31T01:14:00+00:00",
-      "time_ago": "18h ago"
+      "time_ago": "19h ago"
     }
   ]
 }
