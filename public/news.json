@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-31T11:51:04.655570+00:00",
+  "updated_at": "2026-10-31T12:55:03.974114+00:00",
   "news": [
+    {
+      "title": "Which long World Series title drought is most likely to end next?",
+      "link": "https://www.mlb.com/news/which-world-series-drought-will-end-next",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/q8cavywlmto44sm5kxxg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-10-31T12:05:00+00:00",
+      "time_ago": "50m ago"
+    },
     {
       "title": "Opt-outs and option decisions for 2027",
       "link": "https://www.mlb.com/news/mlb-players-with-2027-options-and-opt-outs",
@@ -12,7 +25,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-31T04:00:00+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "8h ago"
     },
     {
       "title": "Pederson, Higashioka, Junis free agents after mutual options declined (sources)",
@@ -25,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-31T03:35:04+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "The most jaw-dropping metrics of the 2026 postseason",
@@ -38,20 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-31T02:26:02+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "Which long World Series title drought is most likely to end next?",
-      "link": "https://www.mlb.com/news/which-world-series-drought-will-end-next",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/q8cavywlmto44sm5kxxg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-31T02:24:38+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "Dustin May has been traded to or from the last 2 World Series winners. How rare is that?",
@@ -64,7 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-10-31T01:17:12+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Astros hire Flores as next general manager",
@@ -77,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-31T01:14:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "He's waited his entire life for a Brewers title. Now, his celebration has gone viral",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-31T00:22:54+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "12h ago"
     },
     {
       "title": "Rangers' Walcott will venture into outfield during Arizona Fall League",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-30T23:14:30+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "13h ago"
     }
   ]
 }
