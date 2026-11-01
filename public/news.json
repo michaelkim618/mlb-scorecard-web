@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T07:54:22.727223+00:00",
+  "updated_at": "2026-11-01T08:50:54.163103+00:00",
   "news": [
     {
       "title": "Live from New York, it's the Brewers on Saturday Night Live!",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-01T05:12:53+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Gold Glove winners announced tonight! Here are the finalists",
@@ -25,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-01T04:00:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Rasmussen ($20M club option) returns to Rays for '27 after stellar season, playoff heroics",
@@ -38,7 +38,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-11-01T03:58:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Pivetta becomes free agent after Padres decline '27 team option (source)",
@@ -51,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-01T02:27:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "How did last year's top free agents fare in 2026?",
@@ -64,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-01T01:48:07+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "7 storylines to watch as the Hot Stove ignites",
@@ -77,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-01T01:47:23+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "Here are the top 30 names to watch in free agency",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-01T00:58:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "Orioles decline Robert's '27 team option after injury-plagued season",
@@ -103,7 +103,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-10-31T23:09:50+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     }
   ]
 }
