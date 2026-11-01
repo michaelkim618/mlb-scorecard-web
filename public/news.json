@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-01T18:29:17.374796+00:00",
+  "updated_at": "2026-11-01T18:49:28.065073+00:00",
   "news": [
+    {
+      "title": "Si Hwan Roh leads next crop of MLB-bound KBO stars",
+      "link": "https://www.mlb.com/news/si-hwan-roh-and-the-kbo-stars-who-could-be-mlb-bound",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xuvmqac6kftkgyb5ujty",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-01T18:18:15+00:00",
+      "time_ago": "31m ago"
+    },
     {
       "title": "Live from New York, it's the Brewers on Saturday Night Live!",
       "link": "https://www.mlb.com/news/christian-yelich-brice-turang-pat-murphy-saturday-night-live-world-series",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-01T01:48:07+00:00",
-      "time_ago": "16h ago"
+      "time_ago": "17h ago"
     },
     {
       "title": "7 storylines to watch as the Hot Stove ignites",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-01T01:47:23+00:00",
-      "time_ago": "16h ago"
+      "time_ago": "17h ago"
     },
     {
       "title": "Here are the top 30 names to watch in free agency",
@@ -91,19 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-11-01T00:58:00+00:00",
       "time_ago": "17h ago"
-    },
-    {
-      "title": "Orioles decline Robert's '27 team option after injury-plagued season",
-      "link": "https://www.mlb.com/news/luis-robert-jr-2027-team-option-declined-by-orioles",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iziuspj4fkdzd3z7qvrv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-10-31T23:09:50+00:00",
-      "time_ago": "19h ago"
     }
   ]
 }
