@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-01T19:03:33.976512+00:00",
+  "updated_at": "2026-11-01T19:18:25.481478+00:00",
   "news": [
+    {
+      "title": "Koosman, iconic Mets southpaw who clinched '69 WS, passes away at 83",
+      "link": "https://www.mlb.com/news/jerry-koosman-passes-away-at-83",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sz3nvzuec3sp4iso5mih",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bill Ladson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-01T19:06:53+00:00",
+      "time_ago": "11m ago"
+    },
     {
       "title": "Si Hwan Roh leads next crop of MLB-bound KBO stars",
       "link": "https://www.mlb.com/news/si-hwan-roh-and-the-kbo-stars-who-could-be-mlb-bound",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-01T18:18:15+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Live from New York, it's the Brewers on Saturday Night Live!",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-01T05:12:53+00:00",
-      "time_ago": "13h ago"
+      "time_ago": "14h ago"
     },
     {
       "title": "Gold Glove winners announced tonight! Here are the finalists",
@@ -91,19 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-11-01T01:47:23+00:00",
       "time_ago": "17h ago"
-    },
-    {
-      "title": "Here are the top 30 names to watch in free agency",
-      "link": "https://www.mlb.com/news/ranking-the-free-agents-for-2026-27-offseason",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793296425/mlb/hox8r8xpxjiauio9kmgi",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-01T00:58:00+00:00",
-      "time_ago": "18h ago"
     }
   ]
 }
