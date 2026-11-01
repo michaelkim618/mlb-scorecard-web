@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T21:20:14.690426+00:00",
+  "updated_at": "2026-11-01T21:56:33.595820+00:00",
   "news": [
     {
       "title": "Red Sox exercise club option on reliever Whitlock",
@@ -12,7 +12,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-01T20:22:00+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Right-handed ace Itoh officially posted by Japanese club",
@@ -25,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-01T19:39:12+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Koosman, iconic Mets southpaw who clinched '69 WS, passes away at 83",
@@ -103,7 +103,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-01T02:27:00+00:00",
-      "time_ago": "18h ago"
+      "time_ago": "19h ago"
     }
   ]
 }
