@@ -1,17 +1,56 @@
 {
-  "updated_at": "2026-11-01T01:45:27.715240+00:00",
+  "updated_at": "2026-11-01T02:29:58.979618+00:00",
   "news": [
     {
-      "title": "Opt-outs and option decisions for 2027",
-      "link": "https://www.mlb.com/news/mlb-players-with-2027-options-and-opt-outs",
+      "title": "Pivetta becomes free agent after Padres decline '27 team option (source)",
+      "link": "https://www.mlb.com/news/nick-pivetta-2027-team-option-declined-by-padres",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cbmhdz5wyjkvhjjzd82y",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/keqilyy0utmhoaz2kl50",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Thomas Harrigan",
+      "author": "Manny Randhawa",
       "tag": "Roster",
       "tag_color": "#0284C7",
-      "pub_date": "2026-11-01T00:42:00+00:00",
+      "pub_date": "2026-11-01T02:16:19+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "How did last year's top free agents fare in 2026?",
+      "link": "https://www.mlb.com/news/how-did-top-free-agents-fare-in-2026-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aeapufujcdklvnxvb4sb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-01T01:48:07+00:00",
+      "time_ago": "41m ago"
+    },
+    {
+      "title": "7 storylines to watch as the Hot Stove ignites",
+      "link": "https://www.mlb.com/news/storylines-to-follow-in-2026-mlb-offseason",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rdrhswikpow0pluzl0vm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Feinsand",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-01T01:47:23+00:00",
+      "time_ago": "42m ago"
+    },
+    {
+      "title": "Here are the top 30 names to watch in free agency",
+      "link": "https://www.mlb.com/news/ranking-the-free-agents-for-2026-27-offseason",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793296425/mlb/hox8r8xpxjiauio9kmgi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Feinsand",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-01T00:58:00+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -25,7 +64,7 @@
       "tag": "Standings",
       "tag_color": "#0EA5E9",
       "pub_date": "2026-10-31T23:23:42+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Orioles decline Robert's '27 team option after injury-plagued season",
@@ -38,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-10-31T23:09:50+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Pagán, Suárez headline trio of Reds to enter free agency",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-10-31T22:18:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Brewers, Rays face roster decisions this offseason after World Series",
@@ -64,46 +103,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-10-31T22:11:54+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "An inside look at how Brewers won their first World Series title",
-      "link": "https://www.mlb.com/news/brewers-world-series-win-on-this-week-in-baseball",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mln7zl4sxeoyiyxqsjrr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-31T16:27:16+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "Top 5 highlights from a historically elite Cubs defense",
-      "link": "https://www.mlb.com/news/top-5-cubs-defense-highlights-of-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793400129/mlb/xl7kcso594qjqy0mw2vt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-10-31T14:33:27+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Way-too-early look at how Dodgers' roster could shape up in '27",
-      "link": "https://www.mlb.com/news/way-too-early-dodgers-2027-roster-projection",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793409177/mlb/uivqy1auieykpgtj9j1m",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-10-31T14:16:21+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
