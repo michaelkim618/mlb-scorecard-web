@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T23:15:57.831023+00:00",
+  "updated_at": "2026-11-02T23:38:43.597847+00:00",
   "news": [
     {
       "title": "Watch LIVE as BBWAA Awards finalists are announced (MLB Network)",
@@ -11,8 +11,47 @@
       "author": "Brian Murphy",
       "tag": "Award",
       "tag_color": "#16A34A",
-      "pub_date": "2026-11-02T23:08:00+00:00",
-      "time_ago": "7m ago"
+      "pub_date": "2026-11-02T23:33:00+00:00",
+      "time_ago": "5m ago"
+    },
+    {
+      "title": "Ranking all 30 teams by MVP Award wins",
+      "link": "https://www.mlb.com/news/mlb-teams-with-most-mvp-award-wins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dnxsjafk9evrpvsiqlcu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Andrew Simon",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-02T23:26:00+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Yankees extend qualifying offer to Bednar, but not Chisholm",
+      "link": "https://www.mlb.com/news/david-bednar-receives-qualifying-offer-from-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ie4htpzuxbc0coxiceli",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-02T23:05:13+00:00",
+      "time_ago": "33m ago"
+    },
+    {
+      "title": "Cubs extend qualifying offer to free-agent headliner Suzuki",
+      "link": "https://www.mlb.com/news/cubs-extend-qualifying-offer-to-free-agent-seiya-suzuki",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793659497/mlb/ae9eivkwa6seepf3toz0",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-02T22:56:54+00:00",
+      "time_ago": "41m ago"
     },
     {
       "title": "O's decline Mountcastle's option; Kjerstad clears waivers, becomes free agent",
@@ -25,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-02T22:35:00+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Padres extend qualifying offer to hard-throwing lefty Morejon",
@@ -65,45 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-11-02T21:52:00+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Cubs, reliever Webb finalize 1-year deal with club option",
-      "link": "https://www.mlb.com/news/jacob-webb-contract-with-cubs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zoebofgzxepiqmh8lvib",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-02T21:47:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Lowe receives qualifying offer after stellar debut season in Pittsburgh",
-      "link": "https://www.mlb.com/news/pirates-brandon-lowe-qualifying-offer",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ltxealkzw5pnrqvtldsl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-02T20:47:19+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "White Sox claim INF Pauley off waivers from Marlins",
-      "link": "https://www.mlb.com/news/graham-pauley-claimed-off-waivers-white-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mwclbbs0zu2f2xpeynrk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-02T20:16:00+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
