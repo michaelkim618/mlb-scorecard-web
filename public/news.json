@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-02T00:03:52.114776+00:00",
+  "updated_at": "2026-11-02T00:55:07.468106+00:00",
   "news": [
+    {
+      "title": "Former Astro Ausmus in the running for open managerial role (sources)",
+      "link": "https://www.mlb.com/news/brad-ausmus-among-astros-options-for-new-manager",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793575867/mlb/fl4rcitt5jzow5mqv2mj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-02T00:08:34+00:00",
+      "time_ago": "46m ago"
+    },
     {
       "title": "Three key LHPs returning to Padres' bullpen",
       "link": "https://www.mlb.com/news/yuki-matsui-wandy-peralta-kyle-hart-return-padres-2027",
@@ -12,7 +25,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-11-01T23:52:19+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Pivetta becomes free agent after Padres decline '27 team option",
@@ -25,7 +38,20 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-01T23:51:00+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Arizona Fall League Week 4 top performers",
+      "link": "https://www.mlb.com/news/arizona-fall-league-top-performers-week-4-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fqdlzxxvzuskpvmdgybj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brendan Samson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-01T23:40:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Si Hwan Roh leads next crop of MLB-bound KBO stars",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-01T22:18:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "NPB ERA leader enters MLB posting system",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-01T22:11:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Here are the top 30 names to watch in free agency",
@@ -77,33 +103,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-01T21:47:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Red Sox exercise club option on reliever Whitlock",
-      "link": "https://www.mlb.com/news/garrett-whitlock-red-sox-pick-up-team-option",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ohtbzsypokq141tixg7b",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-11-01T20:22:00+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "Right-handed ace Itoh officially posted by Japanese club",
-      "link": "https://www.mlb.com/news/hiromi-itoh-posted-hokkaido-nippon-ham-fighters",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nskpyl3iokktk5qpwrib",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brent Maguire",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-01T19:39:12+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }
