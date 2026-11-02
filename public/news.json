@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-02T22:40:38.529282+00:00",
+  "updated_at": "2026-11-02T22:51:33.503909+00:00",
   "news": [
+    {
+      "title": "Watch LIVE as BBWAA Awards finalists are announced (MLB Network)",
+      "link": "https://www.mlb.com/news/2026-bbwaa-awards-finalists",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mokvaaqxpr0vkmuyd8l7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-02T22:47:00+00:00",
+      "time_ago": "4m ago"
+    },
+    {
+      "title": "O's decline Mountcastle's option; Kjerstad clears waivers, becomes free agent",
+      "link": "https://www.mlb.com/news/orioles-decline-ryan-mountcastle-option-heston-kjerstad-clears-waivers-becomes-free-agent",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eksrvsjejs5cpid3zbbf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-11-02T22:35:00+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "Padres extend qualifying offer to hard-throwing lefty Morejon",
       "link": "https://www.mlb.com/news/adrian-morejon-receives-padres-qualifying-offer",
@@ -12,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-11-02T22:12:58+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Rays exercise club option for newly minted Gold Glove winner Walls",
@@ -25,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-02T21:54:10+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "8 players receive qualifying offer",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-02T21:52:00+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "Cubs, reliever Webb finalize 1-year deal with club option",
@@ -51,7 +77,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-02T21:47:00+00:00",
-      "time_ago": "53m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Lowe receives qualifying offer after stellar debut season in Pittsburgh",
@@ -64,32 +90,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-02T20:47:19+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "O's decline Mountcastle's option; Kjerstad clears waivers, becomes free agent (sources)",
-      "link": "https://www.mlb.com/news/orioles-decline-ryan-mountcastle-option-heston-kjerstad-clears-waivers-becomes-free-agent",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eksrvsjejs5cpid3zbbf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-11-02T20:23:22+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "BBWAA Awards finalists to be announced tonight (MLB Network, 6 ET)",
-      "link": "https://www.mlb.com/news/2026-bbwaa-awards-finalists",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xpgxw2ftugez0wqrxq46",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-11-02T20:23:12+00:00",
       "time_ago": "2h ago"
     },
     {
