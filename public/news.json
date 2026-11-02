@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-02T22:13:56.620630+00:00",
+  "updated_at": "2026-11-02T22:25:44.559030+00:00",
   "news": [
+    {
+      "title": "Padres extend qualifying offer to hard-throwing lefty Morejon",
+      "link": "https://www.mlb.com/news/adrian-morejon-receives-padres-qualifying-offer",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gzqh66vvsjzkbjuerin1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-11-02T22:12:58+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "Rays exercise club option for newly minted Gold Glove winner Walls",
+      "link": "https://www.mlb.com/news/taylor-walls-option-exercised-by-rays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fiyqx2vthgwlxeq252fn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-11-02T21:54:10+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "8 players receive qualifying offer",
+      "link": "https://www.mlb.com/news/qualifying-offer-candidates-and-decisions-2026-27",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ye96ygt6gxpaupsxpuhd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harrigan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-02T21:52:00+00:00",
+      "time_ago": "33m ago"
+    },
     {
       "title": "Cubs, reliever Webb finalize 1-year deal with club option",
       "link": "https://www.mlb.com/news/jacob-webb-contract-with-cubs",
@@ -12,7 +51,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-02T21:47:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Lowe receives qualifying offer after stellar debut season in Pittsburgh",
@@ -38,7 +77,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-02T20:23:22+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "BBWAA Awards finalists to be announced tonight (MLB Network, 6 ET)",
@@ -51,7 +90,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-02T20:23:12+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "White Sox claim INF Pauley off waivers from Marlins",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-02T20:16:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Skenes creates more connections, smiles during latest trip to Japan",
-      "link": "https://www.mlb.com/news/paul-skenes-creates-more-connections-smiles-during-latest-trip-to-japan",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iph9q407kn6ma25xpfig",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Mackey",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-02T17:13:54+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Contemporary Baseball Era Committee unveil 8 candidates up for Hall",
-      "link": "https://www.mlb.com/news/hall-of-fame-2026-contemporary-baseball-era-ballot-nominees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793636800/mlb/q0rld422tg3lgfku9siq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-11-02T16:03:28+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "This team 'badly' wants Skubal (report)",
-      "link": "https://www.mlb.com/news/tarik-skubal-rumors",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sldxuoyg5zqnnikmrmbc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-02T15:27:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
