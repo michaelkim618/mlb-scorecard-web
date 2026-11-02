@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T01:38:40.084345+00:00",
+  "updated_at": "2026-11-02T02:00:47.843104+00:00",
   "news": [
     {
       "title": "LIVE on ESPN: Gold Glove Award winners being announced",
@@ -11,8 +11,8 @@
       "author": "Shanthi Sepe-Chepuru",
       "tag": "Award",
       "tag_color": "#16A34A",
-      "pub_date": "2026-11-02T01:20:57+00:00",
-      "time_ago": "17m ago"
+      "pub_date": "2026-11-02T01:52:00+00:00",
+      "time_ago": "8m ago"
     },
     {
       "title": "Former Astro Ausmus in the running for open managerial role (sources)",
@@ -38,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-11-01T23:52:19+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Pivetta becomes free agent after Padres decline '27 team option",
@@ -51,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-01T23:51:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Arizona Fall League Week 4 top performers",
@@ -64,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-01T23:40:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Si Hwan Roh leads next crop of MLB-bound KBO stars",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-01T21:59:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
