@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-02T17:16:25.250315+00:00",
+  "updated_at": "2026-11-02T17:54:20.292411+00:00",
   "news": [
+    {
+      "title": "Skenes creates more connections, smiles during latest trip to Japan",
+      "link": "https://www.mlb.com/news/paul-skenes-creates-more-connections-smiles-during-latest-trip-to-japan",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iph9q407kn6ma25xpfig",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Mackey",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-02T17:13:54+00:00",
+      "time_ago": "40m ago"
+    },
     {
       "title": "Contemporary Baseball Era Committee unveil 8 candidates up for Hall",
       "link": "https://www.mlb.com/news/hall-of-fame-2026-contemporary-baseball-era-ballot-nominees",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-02T15:27:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "The latest MLB rumors and free-agent news",
@@ -91,19 +104,6 @@
       "tag_color": "#16A34A",
       "pub_date": "2026-11-02T04:00:00+00:00",
       "time_ago": "13h ago"
-    },
-    {
-      "title": "Where could Bauers land in free agency after breakout year?",
-      "link": "https://www.mlb.com/news/jake-bauers-2026-free-agent-profile",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/z6fzotavznhfvk2l4hb6",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-02T03:00:30+00:00",
-      "time_ago": "14h ago"
     }
   ]
 }
