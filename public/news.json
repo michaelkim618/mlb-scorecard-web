@@ -1,31 +1,18 @@
 {
-  "updated_at": "2026-11-02T16:25:26.023790+00:00",
+  "updated_at": "2026-11-02T16:40:42.810984+00:00",
   "news": [
     {
       "title": "Contemporary Baseball Era Committee unveil 8 candidates up for Hall",
       "link": "https://www.mlb.com/news/hall-of-fame-2026-contemporary-baseball-era-ballot-nominees",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/q0rld422tg3lgfku9siq",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793636800/mlb/q0rld422tg3lgfku9siq",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Manny Randhawa",
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-11-02T16:03:28+00:00",
-      "time_ago": "21m ago"
-    },
-    {
-      "title": "Watch LIVE: Astros welcome new GM Randy Flores",
-      "link": "https://www.mlb.com/news/randy-flores-introduced-as-astros-general-manager",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fdui92hntzniknktzfog",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-02T15:50:15+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "This team 'badly' wants Skubal (report)",
@@ -38,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-02T15:27:00+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "The latest MLB rumors and free-agent news",
@@ -104,6 +91,19 @@
       "tag_color": "#16A34A",
       "pub_date": "2026-11-02T04:00:00+00:00",
       "time_ago": "12h ago"
+    },
+    {
+      "title": "Where could Bauers land in free agency after breakout year?",
+      "link": "https://www.mlb.com/news/jake-bauers-2026-free-agent-profile",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/z6fzotavznhfvk2l4hb6",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Feinsand",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-02T03:00:30+00:00",
+      "time_ago": "13h ago"
     }
   ]
 }
