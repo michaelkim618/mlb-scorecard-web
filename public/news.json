@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-11-02T15:00:30.725507+00:00",
+  "updated_at": "2026-11-02T16:25:26.023790+00:00",
   "news": [
+    {
+      "title": "Contemporary Baseball Era Committee unveil 8 candidates up for Hall",
+      "link": "https://www.mlb.com/news/hall-of-fame-2026-contemporary-baseball-era-ballot-nominees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/q0rld422tg3lgfku9siq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Manny Randhawa",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-11-02T16:03:28+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "Watch LIVE: Astros welcome new GM Randy Flores",
+      "link": "https://www.mlb.com/news/randy-flores-introduced-as-astros-general-manager",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fdui92hntzniknktzfog",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-02T15:50:15+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "This team 'badly' wants Skubal (report)",
+      "link": "https://www.mlb.com/news/tarik-skubal-rumors",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sldxuoyg5zqnnikmrmbc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-02T15:27:00+00:00",
+      "time_ago": "58m ago"
+    },
+    {
+      "title": "The latest MLB rumors and free-agent news",
+      "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vxratg7ukxkgi6djn8ml",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-02T15:16:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Entering year 4 as Mets' POBO, Stearns faces crucial offseason ahead",
+      "link": "https://www.mlb.com/news/david-stearns-mets-entering-important-offseason",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793410977/mlb/rukrv6zkrimuyvyrzigf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-02T15:15:39+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "D-backs' big offseason question: What to do with Marte?",
+      "link": "https://www.mlb.com/news/d-backs-have-decision-to-make-with-ketel-marte",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fnpnhexdzp7lnakaa6mc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Steve Gilbert",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-02T15:15:15+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Durbin, Abreu and Rafaela give Sox 3 Gold Glovers for 1st time since ‘18",
       "link": "https://www.mlb.com/news/caleb-durbin-wilyer-abreu-ceddanne-rafaela-win-gold-glove-awards",
@@ -12,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-02T04:15:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Bellinger's rock-solid LF defense rewarded with 2nd career Gold Glove",
-      "link": "https://www.mlb.com/news/cody-bellinger-wins-2026-gold-glove-award",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j1vodjl7iakbzxvwpxys",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-02T04:15:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "12h ago"
     },
     {
       "title": "PCA, Bregman both win their second Gold Glove Award",
@@ -38,71 +103,6 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-02T04:00:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Giants pick up Minor League lefty Neubeck from Nats in exchange for Furman",
-      "link": "https://www.mlb.com/news/giants-trade-nate-furman-to-nationals-for-tony-neubeck",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nlenzqbeipqmkhczv1zm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Maria Guardado",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-02T03:45:18+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Where could Bauers land in free agency after breakout year?",
-      "link": "https://www.mlb.com/news/jake-bauers-2026-free-agent-profile",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/z6fzotavznhfvk2l4hb6",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-02T03:00:30+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "What's in store for Peralta's free agency after late-season surge?",
-      "link": "https://www.mlb.com/news/freddy-peralta-2026-free-agent-profile",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793572812/mlb/hfvlgzwjcstzhu8ekuge",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-02T03:00:02+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "Olson, Dubón both win 2nd straight Gold Gloves",
-      "link": "https://www.mlb.com/news/matt-olson-mauricio-dubon-braves-2026-gold-glove-awards",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fcduyzga5o0gmmdxzjdj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-02T02:48:37+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "Who's the best free-agent starter after Skubal? Let's dive in",
-      "link": "https://www.mlb.com/news/best-2026-free-agent-starters-other-than-tarik-skubal",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oinjhyudbadwnxgphhde",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Travis Sawchik",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-02T02:44:01+00:00",
       "time_ago": "12h ago"
     }
   ]
