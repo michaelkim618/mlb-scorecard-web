@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-03T01:07:29.183702+00:00",
+  "updated_at": "2026-11-03T01:29:40.880471+00:00",
   "news": [
+    {
+      "title": "After historic season, PCA named NL MVP finalist",
+      "link": "https://www.mlb.com/news/pete-crow-armstrong-2026-nl-mvp-finalist",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/chpr5ehdxgjwt3lg0axi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-03T01:03:31+00:00",
+      "time_ago": "26m ago"
+    },
     {
       "title": "Here are the finalists for MVP, Cy Young, Rookie of the Year, more",
       "link": "https://www.mlb.com/news/2026-bbwaa-awards-finalists",
@@ -12,7 +25,20 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-03T01:03:00+00:00",
-      "time_ago": "4m ago"
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "Even a banged-up Ohtani dazzles enough to earn nod as MVP finalist",
+      "link": "https://www.mlb.com/news/shohei-ohtani-finalist-for-2026-nl-mvp-award",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793663017/mlb/fusldtrvrlbcoutru0q8",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-03T01:02:46+00:00",
+      "time_ago": "26m ago"
     },
     {
       "title": "Rays well represented with 3 finalists for BBWAA Awards",
@@ -25,7 +51,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-03T00:56:30+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "33m ago"
     },
     {
       "title": "Tigers decline Jansen's option, bring back a pair of key arms",
@@ -38,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-03T00:51:22+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Checking in on top prospects in winter ball",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-03T00:41:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "Blue Jays decline Straw's $8 million option amid roster moves",
@@ -64,7 +90,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-03T00:11:17+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Astros exercise option on Paredes, outright OF Meyers",
@@ -77,32 +103,6 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-02T23:25:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Yankees extend qualifying offer to Bednar, but not Chisholm",
-      "link": "https://www.mlb.com/news/david-bednar-receives-qualifying-offer-from-yankees",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ie4htpzuxbc0coxiceli",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-02T23:05:13+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Cubs extend qualifying offer to free-agent headliner Suzuki",
-      "link": "https://www.mlb.com/news/cubs-extend-qualifying-offer-to-free-agent-seiya-suzuki",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793659497/mlb/ae9eivkwa6seepf3toz0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-02T22:56:54+00:00",
       "time_ago": "2h ago"
     }
   ]
