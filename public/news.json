@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T00:51:50.741006+00:00",
+  "updated_at": "2026-11-03T01:07:29.183702+00:00",
   "news": [
     {
       "title": "Here are the finalists for MVP, Cy Young, Rookie of the Year, more",
@@ -8,11 +8,50 @@
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p9aqa1wzbday62z9lziq",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Brian Murphy",
+      "author": "Theo DeRosa",
       "tag": "Award",
       "tag_color": "#16A34A",
-      "pub_date": "2026-11-03T00:38:00+00:00",
-      "time_ago": "13m ago"
+      "pub_date": "2026-11-03T01:03:00+00:00",
+      "time_ago": "4m ago"
+    },
+    {
+      "title": "Rays well represented with 3 finalists for BBWAA Awards",
+      "link": "https://www.mlb.com/news/junior-caminero-kevin-cash-bryan-baker-finalists-2026-bbwaa-awards",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cxj29r06bpjnyvcr8wkx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-03T00:56:30+00:00",
+      "time_ago": "10m ago"
+    },
+    {
+      "title": "Tigers decline Jansen's option, bring back a pair of key arms",
+      "link": "https://www.mlb.com/news/kenley-jansen-drew-anderson-jacob-waguespack-tigers-moves",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jlq5oeaklgtetnwdo0vo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-11-03T00:51:22+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Checking in on top prospects in winter ball",
+      "link": "https://www.mlb.com/news/top-prospects-in-winter-ball-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/d45owjtpxtgnps496ngb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Crowley",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-03T00:41:00+00:00",
+      "time_ago": "26m ago"
     },
     {
       "title": "Blue Jays decline Straw's $8 million option amid roster moves",
@@ -25,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-03T00:11:17+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "56m ago"
     },
     {
       "title": "Astros exercise option on Paredes, outright OF Meyers",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-02T23:05:13+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Cubs extend qualifying offer to free-agent headliner Suzuki",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-02T22:56:54+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "O's decline Mountcastle's option; Kjerstad clears waivers, becomes free agent",
-      "link": "https://www.mlb.com/news/orioles-decline-ryan-mountcastle-option-heston-kjerstad-clears-waivers-becomes-free-agent",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eksrvsjejs5cpid3zbbf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-11-02T22:35:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "18 players who have accepted qualifying offers",
-      "link": "https://www.mlb.com/news/players-who-have-accepted-qualifying-offers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y6zzznavr6mprwkzhent",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Andrew Simon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-02T22:18:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Padres extend qualifying offer to hard-throwing lefty Morejon",
-      "link": "https://www.mlb.com/news/adrian-morejon-receives-padres-qualifying-offer",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gzqh66vvsjzkbjuerin1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-11-02T22:12:58+00:00",
       "time_ago": "2h ago"
     }
   ]
