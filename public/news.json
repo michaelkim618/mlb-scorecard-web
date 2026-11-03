@@ -1,31 +1,44 @@
 {
-  "updated_at": "2026-11-02T23:59:04.996450+00:00",
+  "updated_at": "2026-11-03T00:51:50.741006+00:00",
   "news": [
     {
-      "title": "Watch LIVE as BBWAA Awards finalists are announced (MLB Network)",
+      "title": "Here are the finalists for MVP, Cy Young, Rookie of the Year, more",
       "link": "https://www.mlb.com/news/2026-bbwaa-awards-finalists",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mokvaaqxpr0vkmuyd8l7",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p9aqa1wzbday62z9lziq",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Brian Murphy",
       "tag": "Award",
       "tag_color": "#16A34A",
-      "pub_date": "2026-11-02T23:33:00+00:00",
-      "time_ago": "26m ago"
+      "pub_date": "2026-11-03T00:38:00+00:00",
+      "time_ago": "13m ago"
     },
     {
-      "title": "Ranking all 30 teams by MVP Award wins",
-      "link": "https://www.mlb.com/news/mlb-teams-with-most-mvp-award-wins",
+      "title": "Blue Jays decline Straw's $8 million option amid roster moves",
+      "link": "https://www.mlb.com/news/blue-jays-decline-myles-straw-2027-club-option",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dnxsjafk9evrpvsiqlcu",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wwkdjctyfiap90kjv2rg",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Andrew Simon",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-11-02T23:26:00+00:00",
-      "time_ago": "33m ago"
+      "author": "Keegan Matheson",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-11-03T00:11:17+00:00",
+      "time_ago": "40m ago"
+    },
+    {
+      "title": "Astros exercise option on Paredes, outright OF Meyers",
+      "link": "https://www.mlb.com/news/jake-meyers-outrighted-by-astros",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/m8snq1rnsalz3ngter0t",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-11-02T23:25:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Yankees extend qualifying offer to Bednar, but not Chisholm",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-02T23:05:13+00:00",
-      "time_ago": "53m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Cubs extend qualifying offer to free-agent headliner Suzuki",
@@ -64,7 +77,20 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-02T22:35:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "18 players who have accepted qualifying offers",
+      "link": "https://www.mlb.com/news/players-who-have-accepted-qualifying-offers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y6zzznavr6mprwkzhent",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Andrew Simon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-02T22:18:00+00:00",
+      "time_ago": "2h ago"
     },
     {
       "title": "Padres extend qualifying offer to hard-throwing lefty Morejon",
@@ -77,32 +103,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-11-02T22:12:58+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Rays exercise club option for newly minted Gold Glove winner Walls",
-      "link": "https://www.mlb.com/news/taylor-walls-option-exercised-by-rays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fiyqx2vthgwlxeq252fn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-11-02T21:54:10+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "8 players receive qualifying offer",
-      "link": "https://www.mlb.com/news/qualifying-offer-candidates-and-decisions-2026-27",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dq7kseaoz2nyv78ahsuj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harrigan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-02T21:52:00+00:00",
       "time_ago": "2h ago"
     }
   ]
