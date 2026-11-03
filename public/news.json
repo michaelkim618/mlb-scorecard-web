@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-03T14:49:52.105199+00:00",
+  "updated_at": "2026-11-03T15:23:01.228370+00:00",
   "news": [
+    {
+      "title": "Which free agents could help Red Sox take next step? Here are 5 potential fits",
+      "link": "https://www.mlb.com/news/free-agents-who-could-be-good-fits-with-2027-red-sox",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wt2top0j5zefwrugojxn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-03T14:57:48+00:00",
+      "time_ago": "25m ago"
+    },
     {
       "title": "'I can do all of it': Braves prospect showcasing entire skill set in Fall League",
       "link": "https://www.mlb.com/news/braves-prospect-isaiah-drake-has-sights-set-on-the-the-show-in-arizona-fall-league",
@@ -12,20 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-03T14:39:47+00:00",
-      "time_ago": "10m ago"
-    },
-    {
-      "title": "How could Reds fill gap at closer? Here are 3 ideas",
-      "link": "https://www.mlb.com/news/reds-potential-closer-options-for-2027",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rnyrju0fm1r47jfrywkt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-03T14:28:57+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Which free agents make sense for Bucs in '27? Here's 5 to consider",
@@ -38,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-03T14:23:13+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "Brewers pick up WS MVP Contreras' option, extend QO to NLCS MVP Bauers",
@@ -51,7 +51,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-03T02:53:40+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "12h ago"
     },
     {
       "title": "1 snub for each BBWAA Award who deserves recognition",
@@ -64,7 +64,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-03T02:14:19+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "13h ago"
     },
     {
       "title": "The top bat in this free-agent class? These 7 have a case",
@@ -77,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-03T02:13:43+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "13h ago"
     },
     {
       "title": "Crew eyes more hardware with Miz, Murph, Megill, Turang named BBWAA Award finalists",
@@ -90,7 +90,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-03T01:19:37+00:00",
-      "time_ago": "13h ago"
+      "time_ago": "14h ago"
     },
     {
       "title": "After historic season, PCA named NL MVP finalist",
@@ -103,7 +103,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-03T01:03:31+00:00",
-      "time_ago": "13h ago"
+      "time_ago": "14h ago"
     }
   ]
 }
