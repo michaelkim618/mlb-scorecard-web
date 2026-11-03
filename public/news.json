@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-03T01:29:40.880471+00:00",
+  "updated_at": "2026-11-03T01:41:32.438415+00:00",
   "news": [
+    {
+      "title": "Crew eyes more hardware with Miz, Murph, Megill, Turang named BBWAA Award finalists",
+      "link": "https://www.mlb.com/news/jacob-misiorowski-pat-murphy-brice-turang-trevor-megill-announced-as-bbwaa-award-finalists",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hhorsabzvxlwqklq4ax1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-03T01:19:37+00:00",
+      "time_ago": "21m ago"
+    },
     {
       "title": "After historic season, PCA named NL MVP finalist",
       "link": "https://www.mlb.com/news/pete-crow-armstrong-2026-nl-mvp-finalist",
@@ -12,7 +25,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-03T01:03:31+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Here are the finalists for MVP, Cy Young, Rookie of the Year, more",
@@ -25,7 +38,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-03T01:03:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Even a banged-up Ohtani dazzles enough to earn nod as MVP finalist",
@@ -38,7 +51,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-03T01:02:46+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Rays well represented with 3 finalists for BBWAA Awards",
@@ -51,7 +64,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-03T00:56:30+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "Tigers decline Jansen's option, bring back a pair of key arms",
@@ -64,7 +77,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-03T00:51:22+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Checking in on top prospects in winter ball",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-03T00:41:00+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Blue Jays decline Straw's $8 million option amid roster moves",
@@ -91,19 +104,6 @@
       "tag_color": "#0284C7",
       "pub_date": "2026-11-03T00:11:17+00:00",
       "time_ago": "1h ago"
-    },
-    {
-      "title": "Astros exercise option on Paredes, outright OF Meyers",
-      "link": "https://www.mlb.com/news/jake-meyers-outrighted-by-astros",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/m8snq1rnsalz3ngter0t",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-11-02T23:25:00+00:00",
-      "time_ago": "2h ago"
     }
   ]
 }
