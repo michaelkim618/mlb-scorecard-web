@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-03T21:52:58.364018+00:00",
+  "updated_at": "2026-11-03T22:12:37.560527+00:00",
   "news": [
+    {
+      "title": "Finally healthy, Barriera 'falling in love with' baseball all over again in AFL",
+      "link": "https://www.mlb.com/news/brandon-barriera-eager-to-prove-himself-in-afl",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iocyixwdio7oibugk1te",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jesse Borek",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-03T21:01:33+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "'We'll see what happens': Martinez hits free agency after helping Rays win pennant",
+      "link": "https://www.mlb.com/news/nick-martinez-enters-free-agency-after-helping-rays-win-al-pennant",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/no4n2jwfl0rnxcxtwdya",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-03T20:28:14+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Rays have 'every intention' of Rasmussen leading '27 rotation",
       "link": "https://www.mlb.com/news/erik-neander-talks-drew-rasmussen-2027-rays",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-03T18:05:04+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Mariners hire Jason Kanzler as next manager",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-03T17:54:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Cardinals acquire left-hander Eduardo Rivera in trade with Red Sox",
-      "link": "https://www.mlb.com/news/eduardo-rivera-traded-to-cardinals-from-red-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ruz3wuw9sjtrrz5wisvk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-03T17:26:11+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Top 7 bats on free-agent market this offseason",
-      "link": "https://www.mlb.com/news/best-hitters-in-2026-2027-mlb-free-agent-class",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/y4z27mjzaknmvk6as4zw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harrigan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-03T17:10:00+00:00",
       "time_ago": "4h ago"
     }
   ]
