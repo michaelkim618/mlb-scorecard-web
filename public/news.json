@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-03T20:00:16.150717+00:00",
+  "updated_at": "2026-11-03T20:13:23.181192+00:00",
   "news": [
+    {
+      "title": "Rays have 'every intention' of Rasmussen leading '27 rotation",
+      "link": "https://www.mlb.com/news/erik-neander-talks-drew-rasmussen-2027-rays",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eryvbtjppmrpos9lvmir",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-03T19:44:58+00:00",
+      "time_ago": "28m ago"
+    },
     {
       "title": "Tigers bring righty reliever Petit back into fold",
       "link": "https://www.mlb.com/news/tigers-add-pitcher-rj-petit-from-rockies",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-03T18:05:04+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Mariners hire Jason Kanzler as next manager",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-03T17:10:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Padres' offseason goals illuminated after flurry of roster moves",
-      "link": "https://www.mlb.com/news/padres-rotation-bullpen-offseason-goals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/l4tcdctmigz2nrs0t4c7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-11-03T16:29:35+00:00",
       "time_ago": "3h ago"
     }
   ]
