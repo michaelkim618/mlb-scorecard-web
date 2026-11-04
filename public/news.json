@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-11-04T12:50:21.915750+00:00",
+  "updated_at": "2026-11-04T13:09:28.580200+00:00",
   "news": [
+    {
+      "title": "Goodman's goal for '27: Help Rockies' pitchers find every available edge",
+      "link": "https://www.mlb.com/news/hunter-goodman-looks-to-help-rockies-pitchers-in-2027",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793762678/mlb/r91rkut4yw2kxygnleco",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harding",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-04T12:47:11+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "Baldwin prepping for fatherhood and a return to action for White Sox",
+      "link": "https://www.mlb.com/news/brooks-baldwin-injury-update",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/isn8shc185y5xtuw416j",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-04T12:41:55+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "2024 18th-round pick Banks continues to raise profile in AFL",
+      "link": "https://www.mlb.com/news/teo-banks-impressing-in-2026-arizona-fall-league",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793755603/mlb/guhm43cgbp0oytzxqxql",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Perla Paredes",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-04T12:36:28+00:00",
+      "time_ago": "33m ago"
+    },
+    {
+      "title": "Always solid at third, Bregman found another level. Here's how",
+      "link": "https://www.mlb.com/news/alex-bregman-found-another-level-on-defense-in-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793752290/mlb/qcufdz0rohssrgcttjce",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-04T12:27:20+00:00",
+      "time_ago": "42m ago"
+    },
+    {
+      "title": "Here's what recent roster moves could mean for Marlins",
+      "link": "https://www.mlb.com/news/javier-sanoja-third-base-after-marlins-roster-moves",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793737773/mlb/jo90obnit5f47tc8c3po",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Christina De Nicola",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-11-04T12:17:16+00:00",
+      "time_ago": "52m ago"
+    },
     {
       "title": "An early look at the 2027 Power Rankings",
       "link": "https://www.mlb.com/news/mlb-early-offseason-power-rankings-2027",
@@ -25,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-04T02:54:35+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "Here are potential suitors for free-agent pitcher Nick Martinez",
@@ -38,72 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-04T02:52:19+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "MLB increases cap and floor in latest proposal, sets 2028 target",
-      "link": "https://www.mlb.com/news/mlb-increases-cap-and-floor-in-latest-proposal-sets-2028-target",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/kh8jhi3byo6gui9tapv7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-04T00:33:34+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "Ranking '26 rookies based on long-term value",
-      "link": "https://www.mlb.com/news/ranking-2026-rookies-based-on-long-term-value",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/r42shozhsgqkcjss05js",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jim Callis",
-      "tag": "Rankings",
-      "tag_color": "#4F46E5",
-      "pub_date": "2026-11-04T00:20:00+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "What one big swing can tell us about Ohtani bouncing back",
-      "link": "https://www.mlb.com/news/shohei-ohtani-nlcs-home-run-good-sign-for-2027",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/maayk9392vtdbjdshsam",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "David Adler",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-04T00:06:30+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "Max Clark's fashion game on display with fans at MLB Flagship Store",
-      "link": "https://www.mlb.com/news/max-clark-meets-fans-at-mlb-flagship-store-in-new-york-city",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/snzlnmsku2gf9evxqneb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-03T23:17:08+00:00",
-      "time_ago": "13h ago"
-    },
-    {
-      "title": "Top prospect duo of Miller-Walcott following in Harper-Trout footsteps in Arizona Fall League",
-      "link": "https://www.mlb.com/news/sebastian-walcott-and-aidan-miller-standing-out-in-the-arizona-fall-league",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793753442/mlb/gortpkgfhloys7ivioli",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jesse Borek",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-03T21:55:42+00:00",
-      "time_ago": "14h ago"
+      "time_ago": "10h ago"
     }
   ]
 }
