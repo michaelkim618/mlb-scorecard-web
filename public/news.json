@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-04T13:55:53.877091+00:00",
+  "updated_at": "2026-11-04T14:46:45.367982+00:00",
   "news": [
+    {
+      "title": "Pat Murphy patiently waits his turn, then reaches baseball summitt",
+      "link": "https://www.mlb.com/news/pat-murphy-gets-his-break-after-long-wait-earns-world-series-glory",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hiwzfckmc6grykndarye",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mike Lupica",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-04T14:05:54+00:00",
+      "time_ago": "40m ago"
+    },
     {
       "title": "These 3 Dodgers prospects could make an impact next season",
       "link": "https://www.mlb.com/news/josue-de-paula-jackson-ferris-mike-sirota-dodgers-prospects-to-watch",
@@ -12,19 +25,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-04T13:43:01+00:00",
-      "time_ago": "12m ago"
-    },
-    {
-      "title": "Goodman's goal for '27: Help Rockies' pitchers find every available edge",
-      "link": "https://www.mlb.com/news/hunter-goodman-looks-to-help-rockies-pitchers-in-2027",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793762678/mlb/r91rkut4yw2kxygnleco",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harding",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-04T12:47:11+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -38,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-04T12:41:55+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "2024 18th-round pick Banks continues to raise profile in AFL",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-04T12:36:28+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Always solid at third, Bregman found another level. Here's how",
@@ -64,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-04T12:27:20+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Here's what recent roster moves could mean for Marlins",
@@ -77,7 +77,20 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-04T12:17:16+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Which prospects might the Giants protect from the Rule 5 Draft?",
+      "link": "https://www.mlb.com/news/prospects-giants-could-protect-from-2026-rule-5-draft",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793769553/mlb/az77m29akhridntbqkv3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-04T05:17:00+00:00",
+      "time_ago": "9h ago"
     },
     {
       "title": "An early look at the 2027 Power Rankings",
@@ -90,19 +103,6 @@
       "tag": "Rankings",
       "tag_color": "#4F46E5",
       "pub_date": "2026-11-04T03:20:56+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Team-by-team breakdown of every free agent",
-      "link": "https://www.mlb.com/news/2026-2027-mlb-free-agents-for-every-team",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dlwtwrykujfbwnffhku1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harrigan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-04T02:54:35+00:00",
       "time_ago": "11h ago"
     }
   ]
