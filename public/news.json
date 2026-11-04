@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-11-04T15:59:31.776683+00:00",
+  "updated_at": "2026-11-04T20:20:23.783158+00:00",
   "news": [
+    {
+      "title": "Hot Stove rumors: Gunnar, Mets, Rasmussen, Marte",
+      "link": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-4",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789343780/mlb/lxgodlfit1qxjhpzyftf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-04T18:21:52+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "A's hire former Brewers exec Cam Castro as GM",
+      "link": "https://www.mlb.com/news/cam-castro-new-a-s-gm",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mzscur64d12yr1mk81pu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Martin Gallegos",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-04T18:05:00+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "An early look at the 2027 Power Rankings",
+      "link": "https://www.mlb.com/news/mlb-early-offseason-power-rankings-2027",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kq2difoymhgzz16stqsd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "Rankings",
+      "tag_color": "#4F46E5",
+      "pub_date": "2026-11-04T17:35:00+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Former Ranger Teixeira elected to House seat in Texas",
+      "link": "https://www.mlb.com/news/mark-teixeira-house-seat-texas",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/et7zestgc3u2a6hjpvj0",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-04T17:06:06+00:00",
+      "time_ago": "3h ago"
+    },
+    {
+      "title": "Here are the rosters for Sunday's AFL Fall Stars Game",
+      "link": "https://www.mlb.com/news/2026-arizona-fall-league-fall-stars-game-rosters",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wm4gzcdag1xucowe2rii",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sam Dykstra",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-11-04T16:01:59+00:00",
+      "time_ago": "4h ago"
+    },
     {
       "title": "Pat Murphy patiently waits his turn, then reaches baseball summitt",
       "link": "https://www.mlb.com/news/pat-murphy-gets-his-break-after-long-wait-earns-world-series-glory",
@@ -12,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-04T14:05:54+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "These 3 Dodgers prospects could make an impact next season",
@@ -25,33 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-04T13:43:01+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Baldwin prepping for fatherhood and a return to action for White Sox",
-      "link": "https://www.mlb.com/news/brooks-baldwin-injury-update",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/isn8shc185y5xtuw416j",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-04T12:41:55+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "2024 18th-round pick Banks continues to raise profile in AFL",
-      "link": "https://www.mlb.com/news/teo-banks-impressing-in-2026-arizona-fall-league",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793755603/mlb/guhm43cgbp0oytzxqxql",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Perla Paredes",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-04T12:36:28+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "Always solid at third, Bregman found another level. Here's how",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-04T12:27:20+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Here's what recent roster moves could mean for Marlins",
-      "link": "https://www.mlb.com/news/javier-sanoja-third-base-after-marlins-roster-moves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793737773/mlb/jo90obnit5f47tc8c3po",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Christina De Nicola",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-11-04T12:17:16+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Which prospects might the Giants protect from the Rule 5 Draft?",
-      "link": "https://www.mlb.com/news/prospects-giants-could-protect-from-2026-rule-5-draft",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793769553/mlb/az77m29akhridntbqkv3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-04T05:17:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "An early look at the 2027 Power Rankings",
-      "link": "https://www.mlb.com/news/mlb-early-offseason-power-rankings-2027",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kq2difoymhgzz16stqsd",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "Rankings",
-      "tag_color": "#4F46E5",
-      "pub_date": "2026-11-04T03:20:56+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "7h ago"
     }
   ]
 }
