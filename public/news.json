@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-04T23:31:16.123052+00:00",
+  "updated_at": "2026-11-04T23:50:21.951068+00:00",
   "news": [
+    {
+      "title": "Pujols, Ensberg to interview for Astros manager opening (sources)",
+      "link": "https://www.mlb.com/news/albert-pujols-astros-manager-opening-interview",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nrjvype8qxz98m14xdd1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-04T23:29:00+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "For Padres pitching prospect Peña, AFL excellence could put him on verge of MLB debut",
+      "link": "https://www.mlb.com/news/padres-francis-pena-excelling-in-arizona-fall-league-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yyfycenm36hqfhstb8kj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sam Dykstra",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-04T23:24:30+00:00",
+      "time_ago": "25m ago"
+    },
     {
       "title": "Mariners hire emerging talent Kanzler as next manager",
       "link": "https://www.mlb.com/news/jason-kanzler-mariners-manager",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-04T22:37:00+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "How Vladdy can get his groove back in '27",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-11-04T21:01:50+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Pujols to interview for Astros manager opening (sources)",
-      "link": "https://www.mlb.com/news/albert-pujols-astros-manager-opening-interview",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nrjvype8qxz98m14xdd1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-04T20:57:42+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Hot Stove rumors: Gunnar, Mets, Rasmussen, Marte",
-      "link": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-4",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1789343780/mlb/lxgodlfit1qxjhpzyftf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-04T18:21:52+00:00",
-      "time_ago": "5h ago"
     }
   ]
 }
