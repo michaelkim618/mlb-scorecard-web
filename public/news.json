@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-04T21:38:11.499319+00:00",
+  "updated_at": "2026-11-04T22:01:04.118475+00:00",
   "news": [
+    {
+      "title": "LIVE: Mariners introducing Jason Kanzler as next manager",
+      "link": "https://www.mlb.com/news/jason-kanzler-mariners-manager",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xzfknnzxzpcesgx780ua",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-04T21:39:00+00:00",
+      "time_ago": "22m ago"
+    },
     {
       "title": "How Vladdy can get his groove back in '27",
       "link": "https://www.mlb.com/news/vladimir-guerrero-jr-keys-to-bounceback-season-in-2027",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-04T21:08:59+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "How can Sánchez overcome 2026 struggles with sinker?",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-04T21:08:52+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "The unique swing behind Spencer Jones' success",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-04T21:08:49+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "4 big questions for Mets' rotation this offseason",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-04T21:08:44+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "Joe Torres named Reds' new pitching coach",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-04T21:01:50+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "Pujols to interview for Astros manager opening (sources)",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-04T20:57:42+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Hot Stove rumors: Gunnar, Mets, Rasmussen, Marte",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-04T18:21:52+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "A's hire former Brewers exec Cam Castro as GM",
-      "link": "https://www.mlb.com/news/cam-castro-new-a-s-gm",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mzscur64d12yr1mk81pu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Martin Gallegos",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-04T18:05:00+00:00",
       "time_ago": "3h ago"
     }
   ]
