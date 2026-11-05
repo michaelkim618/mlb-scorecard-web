@@ -1,31 +1,57 @@
 {
-  "updated_at": "2026-11-05T16:13:33.188145+00:00",
+  "updated_at": "2026-11-05T20:30:50.262353+00:00",
   "news": [
     {
-      "title": "Young: Payroll won't be impediment to improving Rangers",
-      "link": "https://www.mlb.com/news/chris-young-discusses-rangers-plan-for-2026-27-offseason",
+      "title": "Mets to honor Koosman with jersey patch in 2027",
+      "link": "https://www.mlb.com/news/mets-to-wear-jerry-koosman-memorial-patch-in-2027",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793839781/mlb/dtgu4ugx4nblikx6ki9s",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f8n6kzwykufyelwg8mhn",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Kennedi Landry",
+      "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-11-05T12:40:52+00:00",
+      "pub_date": "2026-11-05T18:11:03+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "How 3 stars went from prospect trade chips to MVP finalists",
+      "link": "https://www.mlb.com/news/2026-mlb-mvp-candidates-traded",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/udtrnwjh9rtao5j6lf4e",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-05T17:30:00+00:00",
       "time_ago": "3h ago"
     },
     {
-      "title": "What D-backs are looking for from AFL, winter ball participants",
-      "link": "https://www.mlb.com/news/demetrio-crisantes-patrick-forbes-in-d-backs-arizona-fall-league",
+      "title": "He's got 0 homers ... but he's still a Silver Slugger finalist",
+      "link": "https://www.mlb.com/news/chandler-simpson-named-2026-silver-slugger-award-outfield-finalist",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/movqswho9opvzng2v2jm",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yxwwjahtfxpphi7udpyj",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Courtney Hollmon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-05T12:26:48+00:00",
-      "time_ago": "3h ago"
+      "author": "Jared Greenspan",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-11-05T16:20:09+00:00",
+      "time_ago": "4h ago"
+    },
+    {
+      "title": "Here are the 2026 Silver Slugger Award finalists",
+      "link": "https://www.mlb.com/news/2026-silver-slugger-award-finalists",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wv5gzxiistlapslthvqo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Manny Randhawa",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-05T16:13:03+00:00",
+      "time_ago": "4h ago"
     },
     {
       "title": "3 reasons Braves should hold on to Ronald Acuña Jr.",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-05T11:54:34+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "8h ago"
     },
     {
       "title": "One year before free agency, what does future hold for Kwan?",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-05T11:48:39+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "8h ago"
     },
     {
       "title": "Here's why Seiya should make Toronto his next home",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-05T11:41:13+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "8h ago"
     },
     {
       "title": "What to expect from Japanese superstar Sato in the Majors",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-05T03:30:37+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "Kanzler's 'unique path' arrives in Seattle as Mariners' new manager",
-      "link": "https://www.mlb.com/news/mariners-introduce-jason-kanzler-as-new-manager",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793843796/mlb/vve8gelacpwrhwpskfhc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-05T03:07:00+00:00",
-      "time_ago": "13h ago"
-    },
-    {
-      "title": "How 3 stars went from prospect trade chips to MVP finalists",
-      "link": "https://www.mlb.com/news/2026-mlb-mvp-candidates-traded",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/udtrnwjh9rtao5j6lf4e",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-05T03:00:33+00:00",
-      "time_ago": "13h ago"
+      "time_ago": "17h ago"
     }
   ]
 }
