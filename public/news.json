@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-05T20:58:41.778093+00:00",
+  "updated_at": "2026-11-05T21:10:13.065770+00:00",
   "news": [
+    {
+      "title": "What to expect from Japanese superstar Sato in the Majors",
+      "link": "https://www.mlb.com/news/what-to-expect-from-teruaki-sato-in-majors",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793845917/mlb/myqzdjcyskuro9m9yjou",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "David Adler",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-05T21:00:00+00:00",
+      "time_ago": "10m ago"
+    },
     {
       "title": "The latest MLB rumors and free-agent news",
       "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-05T20:53:00+00:00",
-      "time_ago": "5m ago"
+      "time_ago": "17m ago"
     },
     {
       "title": "Mets to honor Koosman with jersey patch in 2027",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-05T11:48:39+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "Here's why Seiya should make Toronto his next home",
-      "link": "https://www.mlb.com/news/seiya-suzuki-blue-jays-perfect-match-free-agency",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793821824/mlb/li0mnyciia3rjqb1kypy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-05T11:41:13+00:00",
       "time_ago": "9h ago"
     }
   ]
