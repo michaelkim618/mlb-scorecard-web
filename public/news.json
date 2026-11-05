@@ -1,83 +1,44 @@
 {
-  "updated_at": "2026-11-05T11:42:38.339702+00:00",
+  "updated_at": "2026-11-05T12:38:26.830985+00:00",
   "news": [
     {
-      "title": "How does Yanks' No. 1 prospect Kilby look? His AFL teammates, coaches are eager to share",
-      "link": "https://www.mlb.com/news/yankees-prospect-dax-kilby-impresses-in-arizona-fall-league",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aizrqgdq9bjrikconsom",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jesse Borek",
+      "title": "Grading bold season predictions for all 30 MLB teams",
+      "link": "https://www.espn.com/mlb/story/_/id/50359998/grading-bold-2026-season-predictions",
+      "summary": "It's time to see if what we said about each club going into the season was accurate or not -- and what it means for 2027.",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1102%2Fr1740166_1296x729_16%2D9.jpg",
+      "source": "ESPN",
+      "source_color": "#D50A0A",
+      "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-11-05T06:12:14+00:00",
-      "time_ago": "5h ago"
+      "pub_date": "2026-11-05T12:18:19+00:00",
+      "time_ago": "20m ago"
     },
     {
-      "title": "What to expect from Japanese superstar Sato in the Majors",
-      "link": "https://www.mlb.com/news/what-to-expect-from-teruaki-sato-in-majors",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793845917/mlb/myqzdjcyskuro9m9yjou",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "David Adler",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-05T03:30:37+00:00",
-      "time_ago": "8h ago"
+      "title": "Your guide to MLB free agency: Rankings and contract projections for the top 50 free agents",
+      "link": "https://www.espn.com/mlb/story/_/id/50359247/rankings-contract-projections-top-mlb-free-agents",
+      "summary": "How much will the biggest stars get paid this winter? Kiley McDaniel breaks down the 2026-27 free agent class.",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1030%2Fmlb_ranking_the_top_50_free_agents_16x9.jpg",
+      "source": "ESPN",
+      "source_color": "#D50A0A",
+      "author": "",
+      "tag": "Rankings",
+      "tag_color": "#4F46E5",
+      "pub_date": "2026-11-05T12:17:49+00:00",
+      "time_ago": "20m ago"
     },
     {
-      "title": "Kanzler's 'unique path' arrives in Seattle as Mariners' new manager",
-      "link": "https://www.mlb.com/news/mariners-introduce-jason-kanzler-as-new-manager",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793843796/mlb/vve8gelacpwrhwpskfhc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-05T03:07:00+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "Now that Mariners have manager, they shift focus to rest of coaching staff",
-      "link": "https://www.mlb.com/news/after-mariners-hire-jason-kanzler-as-manager-they-look-to-find-rest-of-coaching-staff",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kq5tydea6x0juvgdnawj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-05T03:05:28+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "How 3 stars went from prospect trade chips to MVP finalists",
-      "link": "https://www.mlb.com/news/2026-mlb-mvp-candidates-traded",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/udtrnwjh9rtao5j6lf4e",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
+      "title": "Offseason rumors and intel: What we're hearing as free agency begins",
+      "link": "https://www.espn.com/mlb/story/_/id/50328890/mlb-early-free-agency-buzz-intel-skubal-trade-rumors",
+      "summary": "Who could land Tarik Skubal? Which ace could be traded? Here's the latest as the hot stove ignites.",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1101%2Fr1739467_1296x729_16%2D9.jpg",
+      "source": "ESPN",
+      "source_color": "#D50A0A",
+      "author": "",
       "tag": "Trade",
       "tag_color": "#7C3AED",
-      "pub_date": "2026-11-05T03:00:33+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "10 free agents who raised their stock in 2026",
-      "link": "https://www.mlb.com/news/mlb-free-agents-that-raised-stock-in-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vnjzu161bqgwqyrlbcqm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brent Maguire",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-05T03:00:00+00:00",
-      "time_ago": "8h ago"
+      "pub_date": "2026-11-05T12:17:49+00:00",
+      "time_ago": "20m ago"
     },
     {
       "title": "Pujols to interview for Astros' managerial opening, sources say",
@@ -89,8 +50,8 @@
       "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-11-05T02:44:59+00:00",
-      "time_ago": "8h ago"
+      "pub_date": "2026-11-05T12:17:42+00:00",
+      "time_ago": "20m ago"
     },
     {
       "title": "Guardians' Clase exploited by 'serial liar,' his attorneys say at trial",
@@ -102,8 +63,47 @@
       "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-11-05T02:44:59+00:00",
-      "time_ago": "8h ago"
+      "pub_date": "2026-11-05T12:17:42+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "Kanzler rides atypical path to Mariners job: 'He left us no choice'",
+      "link": "https://www.espn.com/mlb/story/_/id/50384326/mariners-introduce-first-manager-jason-kanzler",
+      "summary": "Jason Kanzler comes from an analytics and data-friendly background, something the club seemed to want after firing Dan Wilson.",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1105%2Fr1741360_1296x729_16%2D9.jpg",
+      "source": "ESPN",
+      "source_color": "#D50A0A",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-05T12:17:42+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "Athletics tab Brewers' Castro as new GM amid front office rebuild",
+      "link": "https://www.espn.com/mlb/story/_/id/50380662/athletics-hire-brewers-cam-castro-new-general-manager",
+      "summary": "The Athletics have hired the Brewers' Cam Castro to be their new GM. Castro served as Milwaukee's senior vice president of player development and performance.",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1021%2Fr1403854_1296x729_16%2D9.jpg",
+      "source": "ESPN",
+      "source_color": "#D50A0A",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-05T12:17:42+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "↔️ Free agency tracker: Offseason trades, moves",
+      "link": "https://www.espn.com/mlb/story/_/id/50328768/free-agency-tracker-offseason-trades-moves-2026-2027",
+      "summary": "We've got you covered on all the major MLB hot stove signings and trades.",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0802%2Fr1696679_1296x729_16%2D9.jpg",
+      "source": "ESPN",
+      "source_color": "#D50A0A",
+      "author": "",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-05T12:17:42+00:00",
+      "time_ago": "20m ago"
     }
   ]
 }
