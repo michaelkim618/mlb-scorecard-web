@@ -1,18 +1,70 @@
 {
-  "updated_at": "2026-11-05T03:02:39.492786+00:00",
+  "updated_at": "2026-11-05T03:40:14.226006+00:00",
   "news": [
     {
-      "title": "Reds hire Guardians assistant Joe Torres as pitching coach",
-      "link": "https://www.mlb.com/news/joe-torres-hired-as-reds-pitching-coach",
+      "title": "What to expect from Japanese superstar Sato in the Majors",
+      "link": "https://www.mlb.com/news/what-to-expect-from-teruaki-sato-in-majors",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ghcnmw8j4dggz26j1fho",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793845917/mlb/myqzdjcyskuro9m9yjou",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Mark Sheldon",
+      "author": "David Adler",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-11-05T02:03:00+00:00",
-      "time_ago": "59m ago"
+      "pub_date": "2026-11-05T03:30:37+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Kanzler's 'unique path' arrives in Seattle as Mariners' new manager",
+      "link": "https://www.mlb.com/news/mariners-introduce-jason-kanzler-as-new-manager",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793843796/mlb/vve8gelacpwrhwpskfhc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-05T03:07:00+00:00",
+      "time_ago": "33m ago"
+    },
+    {
+      "title": "Now that Mariners have manager, they shift focus to rest of coaching staff",
+      "link": "https://www.mlb.com/news/after-mariners-hire-jason-kanzler-as-manager-they-look-to-find-rest-of-coaching-staff",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kq5tydea6x0juvgdnawj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-05T03:05:28+00:00",
+      "time_ago": "34m ago"
+    },
+    {
+      "title": "How 3 stars went from prospect trade chips to MVP finalists",
+      "link": "https://www.mlb.com/news/2026-mlb-mvp-candidates-traded",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/udtrnwjh9rtao5j6lf4e",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-05T03:00:33+00:00",
+      "time_ago": "39m ago"
+    },
+    {
+      "title": "10 free agents who raised their stock in 2026",
+      "link": "https://www.mlb.com/news/mlb-free-agents-that-raised-stock-in-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vnjzu161bqgwqyrlbcqm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brent Maguire",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-05T03:00:00+00:00",
+      "time_ago": "40m ago"
     },
     {
       "title": "Breaking down the Fall Stars Game participants by organization",
@@ -25,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-05T00:30:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Pujols, Ensberg to interview for Astros manager opening (sources)",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-04T23:29:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "For Padres pitching prospect Peña, AFL excellence could put him on verge of MLB debut",
@@ -51,59 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-04T23:24:30+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Mariners hire emerging talent Kanzler as next manager",
-      "link": "https://www.mlb.com/news/jason-kanzler-mariners-manager",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xzfknnzxzpcesgx780ua",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-04T22:37:00+00:00",
       "time_ago": "4h ago"
-    },
-    {
-      "title": "How Vladdy can get his groove back in '27",
-      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-keys-to-bounceback-season-in-2027",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bcv1jnte3fbgegda72kk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-04T21:08:59+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "How can Sánchez overcome 2026 struggles with sinker?",
-      "link": "https://www.mlb.com/news/cristopher-sanchez-struggles-sinker-phillies-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/li3jfricrhgzetybc7lt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-04T21:08:52+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "The unique swing behind Spencer Jones' success",
-      "link": "https://www.mlb.com/news/yankees-spencer-jones-has-extreme-swing",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bpnqq7ll9vajsamzxgwc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan ",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-04T21:08:49+00:00",
-      "time_ago": "5h ago"
     }
   ]
 }
