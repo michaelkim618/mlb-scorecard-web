@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-05T21:31:22.627589+00:00",
+  "updated_at": "2026-11-05T21:42:17.554910+00:00",
   "news": [
+    {
+      "title": "Mets adding Johnny Washington to staff as co-hitting coach (source)",
+      "link": "https://www.mlb.com/news/johnny-washington-mets-co-hitting-coach",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nkvjcncrh1jlp2cwz4hw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-05T21:08:00+00:00",
+      "time_ago": "34m ago"
+    },
     {
       "title": "What to expect from Japanese superstar Sato in the Majors",
       "link": "https://www.mlb.com/news/what-to-expect-from-teruaki-sato-in-majors",
@@ -12,7 +25,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-05T21:00:00+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "42m ago"
+    },
+    {
+      "title": "Royals to hire Mense from Giants to be assistant hitting coach (source)",
+      "link": "https://www.mlb.com/news/hunter-mense-royals-assistant-hitting-coach",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gjussjqgxw3wfh5otezi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-05T20:55:00+00:00",
+      "time_ago": "47m ago"
     },
     {
       "title": "The latest MLB rumors and free-agent news",
@@ -25,7 +51,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-05T20:53:00+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "49m ago"
+    },
+    {
+      "title": "Marlins plan to 'hit strikes hard' under new hitting coach",
+      "link": "https://www.mlb.com/news/dillon-lawson-talks-hitting-philosophy-marlins-hitting-coach",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a6tt6weho7omo7eps84g",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Christina De Nicola",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-05T20:48:01+00:00",
+      "time_ago": "54m ago"
     },
     {
       "title": "Mets to honor Koosman with jersey patch in 2027",
@@ -65,45 +104,6 @@
       "tag_color": "#D97706",
       "pub_date": "2026-11-05T16:20:09+00:00",
       "time_ago": "5h ago"
-    },
-    {
-      "title": "Here are the 2026 Silver Slugger Award finalists",
-      "link": "https://www.mlb.com/news/2026-silver-slugger-award-finalists",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wv5gzxiistlapslthvqo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-11-05T16:13:03+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "3 reasons Braves should hold on to Ronald Acuña Jr.",
-      "link": "https://www.mlb.com/news/why-braves-should-not-trade-ronald-acuna-jr",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dnrkdjp5bbqowjhcefh5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-05T11:54:34+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "One year before free agency, what does future hold for Kwan?",
-      "link": "https://www.mlb.com/news/guardians-outlook-on-steven-kwan-one-year-before-free-agency",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vwxjkhsvulwdpv8sjgc2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-05T11:48:39+00:00",
-      "time_ago": "9h ago"
     }
   ]
 }
