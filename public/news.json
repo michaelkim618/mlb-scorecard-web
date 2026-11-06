@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-06T03:36:00.731840+00:00",
+  "updated_at": "2026-11-06T05:53:57.965543+00:00",
   "news": [
+    {
+      "title": "This offseason's best free-agent starters, ranked",
+      "link": "https://www.mlb.com/news/free-agent-starting-pitcher-power-rankings-for-2026-2027",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nlmjt0qdjokvrhypyqml",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Andrew Simon",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-06T05:00:00+00:00",
+      "time_ago": "53m ago"
+    },
+    {
+      "title": "Breaking down the free-agent class by tiers",
+      "link": "https://www.mlb.com/news/tiers-of-mlb-s-2026-27-free-agent-players",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dyjj6fyxpulpwv54qs6n",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Feinsand",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-06T05:00:00+00:00",
+      "time_ago": "53m ago"
+    },
     {
       "title": "New GM Castro, POBO Smith give glimpse into vision for A's",
       "link": "https://www.mlb.com/news/cam-castro-introduced-as-athletics-general-manager",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-06T02:14:43+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Which Kyle Tucker will the Dodgers get in 2027?",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-06T00:02:19+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "These internal options could fill Cubs' corner-outfield spots in 2027",
@@ -38,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-05T22:03:13+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "Is that a Soto homering in a Nats uniform? Juan's younger brother goes deep in Fall League",
@@ -51,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-11-05T22:01:53+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "Breaking down Aaron Ashby's remarkable 2026 season",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-05T22:00:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "‘Where I’m supposed to be’: Akil Baddoo pumped to land with Pirates",
@@ -77,33 +103,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-11-05T21:34:17+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Mets adding Johnny Washington to staff as co-hitting coach (source)",
-      "link": "https://www.mlb.com/news/johnny-washington-mets-co-hitting-coach",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nkvjcncrh1jlp2cwz4hw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-05T21:08:00+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "What to expect from Japanese superstar Sato in the Majors",
-      "link": "https://www.mlb.com/news/what-to-expect-from-teruaki-sato-in-majors",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793845917/mlb/myqzdjcyskuro9m9yjou",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "David Adler",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-05T21:00:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "8h ago"
     }
   ]
 }
