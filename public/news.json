@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-06T23:41:36.849174+00:00",
+  "updated_at": "2026-11-06T23:45:41.452896+00:00",
   "news": [
+    {
+      "title": "Mariners closing in on new bench coach (source)",
+      "link": "https://www.mlb.com/news/mariners-bench-coach-tanner-swanson",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794005291/mlb/qcag9t2qcyhki4slgep5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-06T23:01:49+00:00",
+      "time_ago": "43m ago"
+    },
     {
       "title": "Witt becomes first 3-time winner of Heart & Hustle Award",
       "link": "https://www.mlb.com/news/bobby-witt-jr-2026-heart-hustle-award-winner",
@@ -12,7 +25,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-06T22:54:00+00:00",
-      "time_ago": "47m ago"
+      "time_ago": "51m ago"
     },
     {
       "title": "What's next for Ewing after strong rookie season?",
@@ -91,19 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-11-06T17:07:33+00:00",
       "time_ago": "6h ago"
-    },
-    {
-      "title": "Could Holliday be an O's trade candidate this winter?",
-      "link": "https://www.mlb.com/news/jackson-holliday-offseason-trade-candidate-orioles",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ues6qe3xzgu1umz8l1tf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-06T15:54:06+00:00",
-      "time_ago": "7h ago"
     }
   ]
 }
