@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-06T01:25:16.105988+00:00",
+  "updated_at": "2026-11-06T01:40:44.062142+00:00",
   "news": [
+    {
+      "title": "Which Kyle Tucker will the Dodgers get in 2027?",
+      "link": "https://www.mlb.com/news/kyle-tucker-2027-outlook-and-analysis",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wl8zhzzgkuz3ztu0j1jx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Shanthi Sepe-Chepuru",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-06T00:02:19+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "These internal options could fill Cubs' corner-outfield spots in 2027",
       "link": "https://www.mlb.com/news/internal-options-to-fill-cubs-corner-outfield-spots",
@@ -31,7 +44,7 @@
       "title": "Breaking down Aaron Ashby's remarkable 2026 season",
       "link": "https://www.mlb.com/news/aaron-ashby-2026-analysis",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tkpoxu2cdhvkkk47hwxn",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vcsopfz2biebgh8wygtj",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Brent Maguire",
@@ -64,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-11-05T21:34:17+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Mets adding Johnny Washington to staff as co-hitting coach (source)",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-05T21:00:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "The latest MLB rumors and free-agent news",
-      "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vxratg7ukxkgi6djn8ml",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-05T20:53:00+00:00",
       "time_ago": "4h ago"
     }
   ]
