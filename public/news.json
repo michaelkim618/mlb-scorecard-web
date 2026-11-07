@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-07T22:50:30.269425+00:00",
+  "updated_at": "2026-11-07T23:33:20.481507+00:00",
   "news": [
+    {
+      "title": "Breaking down the AFL Home Run Derby participants",
+      "link": "https://www.mlb.com/news/2026-arizona-fall-league-home-run-derby",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/arwbnyum6p7uxhuqfcdp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Crowley",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-07T23:05:00+00:00",
+      "time_ago": "28m ago"
+    },
     {
       "title": "Yankees' Triple-A affiliate announces new identity",
       "link": "https://www.mlb.com/news/yankees-triple-a-affiliate-rebrands-as-highlanders",
@@ -15,19 +28,6 @@
       "time_ago": "2h ago"
     },
     {
-      "title": "Breaking down the AFL Home Run Derby participants",
-      "link": "https://www.mlb.com/news/2026-arizona-fall-league-home-run-derby",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/arwbnyum6p7uxhuqfcdp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Crowley",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-07T19:14:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
       "title": "Next step for White Sox: Build on high energy from 2026",
       "link": "https://www.mlb.com/news/white-sox-looking-to-build-on-2026-season",
       "summary": "",
@@ -38,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-07T13:59:35+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "5 questions for the World Series champion Brewers this offseason",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-07T13:51:10+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "PCA, Bellinger awarded Platinum Gloves; Team Gold Gloves to Cubs & Jays",
@@ -64,7 +64,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-07T04:32:00+00:00",
-      "time_ago": "18h ago"
+      "time_ago": "19h ago"
     },
     {
       "title": "How will Skubal fare in his 30s? History offers some clues",
@@ -77,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-07T03:04:05+00:00",
-      "time_ago": "19h ago"
+      "time_ago": "20h ago"
     },
     {
       "title": "Ranking all 30 MLB rosters as the offseason gets going",
@@ -90,7 +90,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-07T03:04:00+00:00",
-      "time_ago": "19h ago"
+      "time_ago": "20h ago"
     },
     {
       "title": "Cerfolio named Cardinals' new general manager",
