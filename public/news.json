@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-07T14:13:03.037531+00:00",
+  "updated_at": "2026-11-07T14:43:05.216779+00:00",
   "news": [
+    {
+      "title": "Next step for White Sox: Build on high energy from 2026",
+      "link": "https://www.mlb.com/news/white-sox-looking-to-build-on-2026-season",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/o4yyv7pxxmjob4ew3636",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-07T13:59:35+00:00",
+      "time_ago": "43m ago"
+    },
+    {
+      "title": "5 questions for the World Series champion Brewers this offseason",
+      "link": "https://www.mlb.com/news/brewers-2026-27-offseason-questions",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793997864/mlb/iljw6bqm9jiu2lzszidr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-07T13:51:10+00:00",
+      "time_ago": "51m ago"
+    },
     {
       "title": "Here are 10 of the funniest Minor League Baseball jerseys ever",
       "link": "https://www.mlb.com/news/weirdest-minor-league-jerseys",
@@ -25,7 +51,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-07T04:32:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "How will Skubal fare in his 30s? History offers some clues",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-06T23:36:00+00:00",
-      "time_ago": "14h ago"
+      "time_ago": "15h ago"
     },
     {
       "title": "Mariners closing in on new bench coach (source)",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-06T23:01:49+00:00",
-      "time_ago": "15h ago"
-    },
-    {
-      "title": "Witt becomes first 3-time winner of Heart & Hustle Award",
-      "link": "https://www.mlb.com/news/bobby-witt-jr-2026-heart-hustle-award-winner",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/agu9pjwwne4kv7wvnm3d",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Perla Paredes",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-11-06T22:54:00+00:00",
-      "time_ago": "15h ago"
-    },
-    {
-      "title": "Gold (Glove) carpet rolls out for Mattingly, Turang, Winfield at MLB NYC flagship store",
-      "link": "https://www.mlb.com/news/don-mattingly-brice-turang-dave-winfield-greet-fans-at-gold-glove-meet-and-greet",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cbf9mohqqu319zdahw9e",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Elizabeth Muratore",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-06T22:48:25+00:00",
       "time_ago": "15h ago"
     }
   ]
