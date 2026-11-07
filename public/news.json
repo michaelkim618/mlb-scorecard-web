@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-07T03:05:44.853482+00:00",
+  "updated_at": "2026-11-07T05:15:22.354792+00:00",
   "news": [
+    {
+      "title": "Here are 10 of the funniest Minor League Baseball jerseys ever",
+      "link": "https://www.mlb.com/news/weirdest-minor-league-jerseys",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yu7un8qyhdvalv0trfje",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Benjamin Hill",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-07T04:59:00+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "How will Skubal fare in his 30s? History offers some clues",
+      "link": "https://www.mlb.com/news/tarik-skubal-projection-scenarios-for-free-agent-deal",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qxa313kox9xww70vcv1o",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harrigan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-07T03:04:05+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Ranking all 30 MLB rosters as the offseason gets going",
+      "link": "https://www.mlb.com/news/where-every-mlb-team-starts-2026-2027-offseason",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/imkw4xqwhr0hb8srt9aw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mike Petriello",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-11-07T03:04:00+00:00",
+      "time_ago": "2h ago"
+    },
     {
       "title": "Mariners closing in on new bench coach (source)",
       "link": "https://www.mlb.com/news/mariners-bench-coach-tanner-swanson",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-06T23:01:49+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "Witt becomes first 3-time winner of Heart & Hustle Award",
@@ -25,7 +64,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-06T22:54:00+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "Gold (Glove) carpet rolls out for Mattingly, Turang, Winfield at MLB NYC flagship store",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-06T22:48:25+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "What's next for Ewing after strong rookie season?",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-06T20:57:43+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "8h ago"
     },
     {
       "title": "How aggressive should Blue Jays be in fortifying 2027 rotation?",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-06T20:50:19+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Guards bring back familiar face in waiver claim Tena",
-      "link": "https://www.mlb.com/news/guardians-claim-jose-tena-waivers-nationals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zmxzkldnduj4gmma2eug",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-06T20:44:28+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Inbox: '26 draftees in Arizona Fall League? Breakout performers?",
-      "link": "https://www.mlb.com/news/arizona-fall-league-pipeline-inbox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aogsgmebw7mkyrgltmrz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jim Callis",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-06T19:28:33+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "Dodgers part ways with hitting coach Bates (source)",
-      "link": "https://www.mlb.com/news/dodgers-part-ways-hitting-coach-aaron-bates",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/m6imqvytho6ghbydl5vo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-06T18:03:11+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "8h ago"
     }
   ]
 }
