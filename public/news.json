@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-08T07:03:36.069186+00:00",
+  "updated_at": "2026-11-08T07:46:07.290859+00:00",
   "news": [
     {
-      "title": "Rosters for Sunday's AFL Fall Stars Game announced",
+      "title": "Here are the rosters for Sunday's AFL Fall Stars Game",
       "link": "https://www.mlb.com/news/2026-arizona-fall-league-fall-stars-game-rosters",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wm4gzcdag1xucowe2rii",
@@ -12,7 +12,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-08T05:14:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Blue Jays' prospect Aaron Parker wins Arizona Fall League Home Run Derby",
@@ -38,7 +38,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-08T02:09:26+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Breaking down the best free agent at every position",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-08T02:08:58+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "How much do the Dodgers need to re-sign Skubal?",
@@ -64,7 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-08T02:06:56+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Revisiting PCA's best games from a season for the record books",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-07T20:35:16+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     }
   ]
 }
