@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T14:49:07.186926+00:00",
+  "updated_at": "2026-11-08T18:16:22.028682+00:00",
   "news": [
     {
       "title": "Here are the rosters for Sunday's AFL Fall Stars Game",
@@ -12,10 +12,10 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-08T05:14:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "13h ago"
     },
     {
-      "title": "Blue Jays' prospect Aaron Parker wins Arizona Fall League Home Run Derby",
+      "title": "Blue Jays prospect Aaron Parker wins Arizona Fall League Home Run Derby",
       "link": "https://www.mlb.com/news/2026-arizona-fall-league-home-run-derby",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ulrextswtj3cvdko0wdj",
@@ -25,10 +25,10 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-08T03:55:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "14h ago"
     },
     {
-      "title": "He's never been an All-Star, but here's why he might be the best non-Skubal free agent",
+      "title": "He's never been an All-Star, but he might be the best hitter in the free-agent class",
       "link": "https://www.mlb.com/news/seiya-suzuki-free-agent-profile",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xt843pyccj74rf4kjmop",
@@ -38,7 +38,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-08T02:09:26+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "16h ago"
     },
     {
       "title": "Breaking down the best free agent at every position",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-08T02:08:58+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "16h ago"
     },
     {
       "title": "How much do the Dodgers need to re-sign Skubal?",
@@ -64,7 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-08T02:06:56+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "16h ago"
     },
     {
       "title": "Revisiting PCA's best games from a season for the record books",
@@ -77,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-08T02:02:38+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "16h ago"
     },
     {
       "title": "Making the Hall of Fame case for the long, varied career of Bill White",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-08T02:01:41+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "16h ago"
     },
     {
       "title": "Yankees' Triple-A affiliate announces new identity",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-07T20:35:16+00:00",
-      "time_ago": "18h ago"
+      "time_ago": "21h ago"
     }
   ]
 }
