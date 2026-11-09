@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-09T01:02:50.871473+00:00",
+  "updated_at": "2026-11-09T01:17:57.459681+00:00",
   "news": [
+    {
+      "title": "Watch LIVE: '26 AFL Fall Stars Game",
+      "link": "https://www.mlb.com/news/arizona-fall-league-fall-stars-game-2026-watch-live",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kggxgdhxhbw9ucjmfftt",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com staff",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-09T00:57:00+00:00",
+      "time_ago": "20m ago"
+    },
     {
       "title": "Sale's 3 seasons with Braves have been historically great",
       "link": "https://www.mlb.com/news/chris-sale-historic-success-with-braves",
@@ -54,19 +67,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Here are the rosters for tonight's AFL Fall Stars Game (8 ET on MLB Network)",
-      "link": "https://www.mlb.com/news/2026-arizona-fall-league-fall-stars-game-rosters",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wm4gzcdag1xucowe2rii",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sam Dykstra",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-11-08T05:14:00+00:00",
-      "time_ago": "19h ago"
-    },
-    {
       "title": "Blue Jays prospect Aaron Parker wins Arizona Fall League Home Run Derby",
       "link": "https://www.mlb.com/news/2026-arizona-fall-league-home-run-derby",
       "summary": "",
@@ -90,7 +90,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-08T02:09:26+00:00",
-      "time_ago": "22h ago"
+      "time_ago": "23h ago"
     },
     {
       "title": "Breaking down the best free agent at every position",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-08T02:08:58+00:00",
-      "time_ago": "22h ago"
+      "time_ago": "23h ago"
     }
   ]
 }
