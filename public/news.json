@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-11-08T23:55:54.933220+00:00",
+  "updated_at": "2026-11-09T00:21:32.456671+00:00",
   "news": [
+    {
+      "title": "Sale's 3 seasons with Braves have been historically great",
+      "link": "https://www.mlb.com/news/chris-sale-historic-success-with-braves",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hea9cprugpwzkdd7zoi1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-08T23:50:10+00:00",
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "Could the Yankees’ rotation be even better in 2027?",
+      "link": "https://www.mlb.com/news/yankees-2027-rotation-outlook",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791248296/mlb/vyhbgztokjddchrpjdbs",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-08T23:47:04+00:00",
+      "time_ago": "34m ago"
+    },
+    {
+      "title": "Why a new changeup is key for Andrew Painter",
+      "link": "https://www.mlb.com/news/new-changeup-key-for-phillies-andrew-painter",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/msjkcr0pkig1rtrqbt9s",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-08T23:45:30+00:00",
+      "time_ago": "36m ago"
+    },
+    {
+      "title": "The future is now for World Series champion Brewers",
+      "link": "https://www.mlb.com/news/future-of-brewers-young-core-after-2026-world-series-title",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/byila7gcey25lkcsiomw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Manny Randhawa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-08T23:42:39+00:00",
+      "time_ago": "38m ago"
+    },
     {
       "title": "Here are the rosters for tonight's AFL Fall Stars Game (8 ET on MLB Network)",
       "link": "https://www.mlb.com/news/2026-arizona-fall-league-fall-stars-game-rosters",
@@ -12,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-08T05:14:00+00:00",
-      "time_ago": "18h ago"
+      "time_ago": "19h ago"
     },
     {
       "title": "Blue Jays prospect Aaron Parker wins Arizona Fall League Home Run Derby",
@@ -38,7 +90,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-08T02:09:26+00:00",
-      "time_ago": "21h ago"
+      "time_ago": "22h ago"
     },
     {
       "title": "Breaking down the best free agent at every position",
@@ -51,59 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-08T02:08:58+00:00",
-      "time_ago": "21h ago"
-    },
-    {
-      "title": "How much do the Dodgers need to re-sign Skubal?",
-      "link": "https://www.mlb.com/news/is-signing-tarik-skubal-vital-for-the-dodgers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794017501/mlb/mc1plqfj34w37rkcm421",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-08T02:06:56+00:00",
-      "time_ago": "21h ago"
-    },
-    {
-      "title": "Revisiting PCA's best games from a season for the record books",
-      "link": "https://www.mlb.com/news/pete-crow-armstrong-s-best-games-of-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793928869/mlb/cd68yitpfhmqjv8agikp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-08T02:02:38+00:00",
-      "time_ago": "21h ago"
-    },
-    {
-      "title": "Making the Hall of Fame case for the long, varied career of Bill White",
-      "link": "https://www.mlb.com/news/bill-white-case-for-hall-of-fame-on-contemporary-baseball-era-ballot",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793988358/mlb/ujfjpg4bkwbnmiamvume",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-08T02:01:41+00:00",
-      "time_ago": "21h ago"
-    },
-    {
-      "title": "Yankees' Triple-A affiliate announces new identity",
-      "link": "https://www.mlb.com/news/yankees-triple-a-affiliate-rebrands-as-highlanders",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jok3zzq05ehufutvf0mv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Benjamin Hill",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-07T20:35:16+00:00",
-      "time_ago": "1d ago"
+      "time_ago": "22h ago"
     }
   ]
 }
