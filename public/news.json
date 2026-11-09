@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-09T06:56:04.127640+00:00",
+  "updated_at": "2026-11-09T07:47:43.391405+00:00",
   "news": [
+    {
+      "title": "Here's how every prospect fared in the AFL Fall Stars Game",
+      "link": "https://www.mlb.com/news/2026-arizona-fall-league-fall-stars-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rlln4sqlqixulv1maa6p",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jesse Borek and Tim Crowley",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-09T06:59:00+00:00",
+      "time_ago": "48m ago"
+    },
     {
       "title": "These were the top performers in the AFL Fall Stars Game",
       "link": "https://www.mlb.com/news/afl-fall-stars-game-2026-top-performers",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-09T06:18:00+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Fall Stars Game sparks pair of nostalgic moments for O'Dowd father and son",
@@ -25,19 +38,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-09T05:18:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "NL prospects rally to win AFL Fall Stars Game",
-      "link": "https://www.mlb.com/news/arizona-fall-league-fall-stars-game-2026-watch-live",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794197346/mlb/kggxgdhxhbw9ucjmfftt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com staff",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-09T04:32:00+00:00",
       "time_ago": "2h ago"
     },
     {
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-09T02:34:08+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "6 storylines to watch during Awards Week",
@@ -64,7 +64,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-09T02:33:20+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "What to expect at GM Meetings this week in Vegas",
@@ -77,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-09T02:32:38+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Sale's 3 seasons with Braves have been historically great",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-08T23:47:04+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "8h ago"
     }
   ]
 }
