@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-10T15:07:27.900759+00:00",
+  "updated_at": "2026-11-10T15:18:24.243261+00:00",
   "news": [
+    {
+      "title": "5 teams to watch at GM Meetings as Skubal sweepstakes begin",
+      "link": "https://www.mlb.com/news/mlb-teams-to-watch-gm-meetings-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zfk09qqoan5iea5ortwu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Feinsand",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-10T15:00:00+00:00",
+      "time_ago": "18m ago"
+    },
     {
       "title": "4 storylines to follow as Padres' busy offseason kicks off at GM Meetings",
       "link": "https://www.mlb.com/news/padres-2026-mlb-general-managers-meetings",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-10T14:49:20+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "29m ago"
     },
     {
       "title": "Here’s what Phillies could address at GM Meetings",
@@ -77,19 +90,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-10T02:44:00+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "5 teams to watch at GM Meetings as Skubal sweepstakes begin",
-      "link": "https://www.mlb.com/news/mlb-teams-to-watch-gm-meetings-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zfk09qqoan5iea5ortwu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-10T02:37:26+00:00",
       "time_ago": "12h ago"
     },
     {
