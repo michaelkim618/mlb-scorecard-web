@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-10T00:32:58.929914+00:00",
+  "updated_at": "2026-11-10T00:49:02.827683+00:00",
   "news": [
+    {
+      "title": "Rookie royalty! McGonigle brings ROY honors back to Detroit",
+      "link": "https://www.mlb.com/news/kevin-mcgonigle-wins-2026-al-rookie-of-the-year",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kmlvfgncqmti6eai6gvd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-10T00:35:05+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Here are the Rookie of the Year vote totals",
+      "link": "https://www.mlb.com/news/2026-mlb-rookie-of-the-year-voting-totals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w1hnbqgk89fur40pgypl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-10T00:34:38+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "Messick finishes 2nd behind McGonigle in AL Rookie of the Year Award voting",
+      "link": "https://www.mlb.com/news/parker-messick-second-al-rookie-of-the-year-award-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kbifltk4snuvalgpxd2t",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-10T00:33:16+00:00",
+      "time_ago": "15m ago"
+    },
     {
       "title": "Rookie of the Year announcement kicks off Awards Week (LIVE on MLB Network, MLB+)",
       "link": "https://www.mlb.com/news/2026-mlb-rookie-of-the-year-award-winners",
@@ -12,7 +51,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-10T00:25:00+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "24m ago"
     },
     {
       "title": "Is there an early favorite in Skubal sweepstakes?",
@@ -25,20 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-10T00:16:00+00:00",
-      "time_ago": "16m ago"
-    },
-    {
-      "title": "Every Cubs player to be voted NL MVP",
-      "link": "https://www.mlb.com/news/cubs-mvp-award-winners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gx6lpxc6ipqgmvwh68rs",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Casey Drottar",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-11-09T22:09:41+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "33m ago"
     },
     {
       "title": "With Bednar a free agent, who will be Yankees' closer in 2027?",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-11-09T20:29:00+00:00",
       "time_ago": "4h ago"
-    },
-    {
-      "title": "Relearning 2B in Fall League can only benefit this Dodgers outfield prospect",
-      "link": "https://www.mlb.com/news/charles-davalan-second-base-arizona-fall-league",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c9psm85luyugpp6gkoj5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jim Callis",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-09T20:00:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Student names all 121 WS winners in order from memory",
-      "link": "https://www.mlb.com/news/college-student-recites-every-world-series-winner",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cwc9r5uwlchi7jtzohnm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matt Monagan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-09T17:40:22+00:00",
-      "time_ago": "6h ago"
     }
   ]
 }
