@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-11-10T16:09:49.053107+00:00",
+  "updated_at": "2026-11-10T20:21:13.461652+00:00",
   "news": [
+    {
+      "title": "The latest MLB rumors and free-agent news",
+      "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vxratg7ukxkgi6djn8ml",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-10T19:54:00+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "Rookie royalty! McGonigle brings ROY honors back to Detroit",
+      "link": "https://www.mlb.com/news/kevin-mcgonigle-wins-2026-al-rookie-of-the-year",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kmlvfgncqmti6eai6gvd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-10T19:33:00+00:00",
+      "time_ago": "48m ago"
+    },
+    {
+      "title": "Former MLB, NBA stars and more hit the links to celebrate 20 years of Compton Youth Academy",
+      "link": "https://www.mlb.com/news/mlb-youth-academy-celebrity-golf-invitational-honors-compton-youth-academy",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/q0rg6xja7h3ojj4zzayc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Rhett Bollinger",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-10T19:22:00+00:00",
+      "time_ago": "59m ago"
+    },
+    {
+      "title": "Breslow keeping options open when it comes to Boston's shortstop",
+      "link": "https://www.mlb.com/news/craig-breslow-red-sox-shortstop-trevor-story-franklin-arias",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qxydj9xdjbx40cg7qnpx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-11-10T18:11:14+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "There are 6 Manager of the Year finalists -- here's why each one has a case to win",
+      "link": "https://www.mlb.com/news/mlb-manager-of-the-year-candidates-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eaa2ikjo8jghpromw1lw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-10T16:53:00+00:00",
+      "time_ago": "3h ago"
+    },
+    {
+      "title": "Hot Stove rumors: Padres, Skubal, Seiya, Morejon, Yanks",
+      "link": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-10",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793821824/mlb/li0mnyciia3rjqb1kypy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-10T16:32:54+00:00",
+      "time_ago": "3h ago"
+    },
     {
       "title": "Bob Boone, champ with 1980 Phils and father of Aaron and Bret, dies at 78",
       "link": "https://www.mlb.com/news/bob-boone-dies",
@@ -11,8 +89,8 @@
       "author": "Rhett Bollinger",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-11-10T16:02:11+00:00",
-      "time_ago": "7m ago"
+      "pub_date": "2026-11-10T16:09:00+00:00",
+      "time_ago": "4h ago"
     },
     {
       "title": "'27 Rookie of the Year candidates -- one from each team",
@@ -25,85 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-10T16:00:00+00:00",
-      "time_ago": "9m ago"
-    },
-    {
-      "title": "3rd Manager of the Year Award in reach for Murphy: 'The switch never goes off'",
-      "link": "https://www.mlb.com/news/pat-murphy-leads-brewers-to-nl-pennant-world-series-berth",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/exuwl15cubu7j7qsoiar",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-11-10T15:16:00+00:00",
-      "time_ago": "53m ago"
-    },
-    {
-      "title": "5 teams to watch at GM Meetings as Skubal sweepstakes begin",
-      "link": "https://www.mlb.com/news/mlb-teams-to-watch-gm-meetings-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zfk09qqoan5iea5ortwu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-10T15:00:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "4 storylines to follow as Padres' busy offseason kicks off at GM Meetings",
-      "link": "https://www.mlb.com/news/padres-2026-mlb-general-managers-meetings",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dhaa2vqu6d3oukqyipst",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-10T14:49:20+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Here’s what Phillies could address at GM Meetings",
-      "link": "https://www.mlb.com/news/phillies-2026-offseason-priorities-gm-meetings",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mt3fhqg1sinimqwq4aqu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-10T13:37:12+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Say Hey Kid to be featured on 2027 USPS stamp",
-      "link": "https://www.mlb.com/news/united-states-postal-service-willie-mays-stamp-2027",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794317312/mlb/iecgsqjndopofb6ceqzg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-10T13:33:55+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Former MLB, NBA stars and more hit the links to celebrate 20 years of Compton Youth Academy",
-      "link": "https://www.mlb.com/news/mlb-youth-academy-celebrity-golf-invitational-honors-compton-youth-academy",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/q0rg6xja7h3ojj4zzayc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Rhett Bollinger",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-10T02:57:28+00:00",
-      "time_ago": "13h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
