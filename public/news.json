@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-10T01:57:15.367294+00:00",
+  "updated_at": "2026-11-10T02:19:36.846848+00:00",
   "news": [
+    {
+      "title": "Breakout '26 nets Wetherholt 3rd-place finish in NL Rookie of the Year voting",
+      "link": "https://www.mlb.com/news/jj-wetherholt-third-nl-rookie-of-the-year-award-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yined0zlibu5v0qpswfn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-10T02:01:00+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Messick finishes 2nd behind McGonigle in AL Rookie of the Year Award voting",
+      "link": "https://www.mlb.com/news/parker-messick-second-al-rookie-of-the-year-award-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kbifltk4snuvalgpxd2t",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-10T01:46:00+00:00",
+      "time_ago": "33m ago"
+    },
     {
       "title": "'27 Rookie of the Year candidates -- one from each team",
       "link": "https://www.mlb.com/news/each-team-2027-rookie-of-the-year-candidate",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-10T01:15:00+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "They became ROY vote-getters -- again",
@@ -25,7 +51,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-10T01:11:00+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Ranking every Rookie of the Year winner",
+      "link": "https://www.mlb.com/news/all-time-mlb-rookie-of-the-year-rankings-c300201298",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/d4gfhjncrbzvoqug5rka",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matt Kelly",
+      "tag": "Rankings",
+      "tag_color": "#4F46E5",
+      "pub_date": "2026-11-10T01:09:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Tolle finishes in 3rd place for AL Rookie of the Year Award",
@@ -38,7 +77,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-10T01:04:38+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Stewart wins NL Rookie of the Year after historic 32-homer output",
@@ -51,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-11-10T01:00:26+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Does 2026 boast an all-time great rookie class?",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-10T01:00:00+00:00",
-      "time_ago": "57m ago"
-    },
-    {
-      "title": "Benge finishes 2nd in NL Rookie of the Year voting",
-      "link": "https://www.mlb.com/news/carson-benge-second-in-national-league-rookie-of-the-year",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794265845/mlb/jmk8bahhfuohholbvzlo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-10T00:59:26+00:00",
-      "time_ago": "57m ago"
-    },
-    {
-      "title": "Wetherholt finishes 3rd in NL Rookie of the Year Award voting",
-      "link": "https://www.mlb.com/news/jj-wetherholt-third-nl-rookie-of-the-year-award-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yined0zlibu5v0qpswfn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa and Adrian Garro",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-11-10T00:57:01+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Here are the Rookie of the Year vote totals",
-      "link": "https://www.mlb.com/news/2026-mlb-rookie-of-the-year-voting-totals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w1hnbqgk89fur40pgypl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-10T00:55:00+00:00",
       "time_ago": "1h ago"
     }
   ]
