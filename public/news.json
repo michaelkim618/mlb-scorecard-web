@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T03:04:26.931869+00:00",
+  "updated_at": "2026-11-10T03:41:38.872590+00:00",
   "news": [
     {
       "title": "Former MLB, NBA stars and more hit the links to celebrate 20 years of Compton Youth Academy",
@@ -12,7 +12,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-10T02:57:28+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "44m ago"
+    },
+    {
+      "title": "Stewart wins NL Rookie of the Year after historic 32-homer output",
+      "link": "https://www.mlb.com/news/sal-stewart-2026-nl-rookie-of-the-year",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gpnnhkneao9fzyrrpeea",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Sheldon",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-11-10T02:46:00+00:00",
+      "time_ago": "55m ago"
     },
     {
       "title": "Rookie royalty! McGonigle brings ROY honors back to Detroit",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-10T02:44:00+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "5 teams to watch at GM Meetings as Skubal sweepstakes begin",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-10T02:37:26+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Here are the finalists for MVP, Cy Young, Rookie of the Year, more",
@@ -51,7 +64,20 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-10T02:32:00+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "The case for each 2026 Manager of the Year finalist",
+      "link": "https://www.mlb.com/news/mlb-manager-of-the-year-candidates-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eaa2ikjo8jghpromw1lw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-10T02:23:59+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "Tigers' all-around star and Reds' throwback slugger named Rookies of the Year",
@@ -64,7 +90,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-11-10T02:07:00+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Messick finishes 2nd behind McGonigle in AL Rookie of the Year Award voting",
@@ -77,32 +103,6 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-10T01:46:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Benge finishes 2nd in NL Rookie of the Year voting",
-      "link": "https://www.mlb.com/news/carson-benge-second-in-national-league-rookie-of-the-year",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794265845/mlb/jmk8bahhfuohholbvzlo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-10T01:46:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "'27 Rookie of the Year candidates -- one from each team",
-      "link": "https://www.mlb.com/news/each-team-2027-rookie-of-the-year-candidate",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c2tcerxcn8hcojs5hxgq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jonathan Mayo and Jim Callis",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-10T01:15:00+00:00",
       "time_ago": "1h ago"
     }
   ]
