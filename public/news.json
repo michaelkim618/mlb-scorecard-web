@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-11-09T23:54:52.539150+00:00",
+  "updated_at": "2026-11-10T00:20:49.894999+00:00",
   "news": [
     {
-      "title": "Rookie of the Year announcement kicks off Awards Week (7 p.m. ET on MLB Network, MLB+)",
+      "title": "Is there an early favorite in Skubal sweepstakes?",
+      "link": "https://www.mlb.com/news/tarik-skubal-rumors",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sldxuoyg5zqnnikmrmbc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-10T00:16:00+00:00",
+      "time_ago": "4m ago"
+    },
+    {
+      "title": "Rookie of the Year announcement kicks off Awards Week (LIVE on MLB Network, MLB+)",
       "link": "https://www.mlb.com/news/2026-mlb-rookie-of-the-year-award-winners",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zybtisf1r7gwjsm8er04",
@@ -12,7 +25,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-09T23:27:37+00:00",
-      "time_ago": "27m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "Every Cubs player to be voted NL MVP",
@@ -25,7 +38,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-09T22:09:41+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "With Bednar a free agent, who will be Yankees' closer in 2027?",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-09T21:58:09+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Hot Stove rumors: Phillies, Acuña, Seager, deGrom, Skubal, Yanks",
@@ -51,20 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-09T21:07:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Is there an early favorite in Skubal sweepstakes?",
-      "link": "https://www.mlb.com/news/tarik-skubal-rumors",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sldxuoyg5zqnnikmrmbc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-09T21:05:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "The latest MLB rumors and free-agent news",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-09T20:00:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Student names all 121 WS winners in order from memory",
