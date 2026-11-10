@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-10T23:07:46.564845+00:00",
+  "updated_at": "2026-11-10T23:37:10.399066+00:00",
   "news": [
+    {
+      "title": "Manager of the Year winners to be revealed at 7 p.m. ET on MLB Network, MLB+",
+      "link": "https://www.mlb.com/news/2026-mlb-manager-of-the-year-award-winners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eaa2ikjo8jghpromw1lw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-10T23:32:09+00:00",
+      "time_ago": "5m ago"
+    },
+    {
+      "title": "'He's been fun to watch': Braves' Southisene has not missed a beat since returning to action in desert",
+      "link": "https://www.mlb.com/news/tate-southisene-is-healthy-and-thriving-in-arizona-fall-league",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xurrd2dis5rvw0hcukql",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jesse Borek",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-10T23:00:00+00:00",
+      "time_ago": "37m ago"
+    },
     {
       "title": "Dodgers hire Guerrero from Marlins to be hitting coach",
       "link": "https://www.mlb.com/news/pedro-guerrero-hired-as-dodgers-hitting-coach",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-10T22:30:00+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Hot Stove rumors: Padres, Skubal, Seiya, Morejon, Yanks",
@@ -64,7 +90,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-10T20:18:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Rookie royalty! McGonigle brings ROY honors back to Detroit",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-10T19:33:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Breslow keeping options open when it comes to Boston's shortstop",
-      "link": "https://www.mlb.com/news/craig-breslow-red-sox-shortstop-trevor-story-franklin-arias",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qxydj9xdjbx40cg7qnpx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Ian Browne",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-11-10T18:11:14+00:00",
       "time_ago": "4h ago"
-    },
-    {
-      "title": "There are 6 Manager of the Year finalists -- here's why each one has a case to win",
-      "link": "https://www.mlb.com/news/mlb-manager-of-the-year-candidates-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eaa2ikjo8jghpromw1lw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-10T16:53:00+00:00",
-      "time_ago": "6h ago"
     }
   ]
 }
