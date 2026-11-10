@@ -1,31 +1,18 @@
 {
-  "updated_at": "2026-11-10T20:57:09.928131+00:00",
+  "updated_at": "2026-11-10T21:07:51.246950+00:00",
   "news": [
     {
-      "title": "Mets will meet with Skubal next week (report)",
-      "link": "https://www.mlb.com/news/tarik-skubal-mets-meeting",
+      "title": "Hot Stove rumors: Padres, Skubal, Seiya, Morejon, Yanks",
+      "link": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-10",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xjdwenala2ovtw6blg2c",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-10T20:48:03+00:00",
-      "time_ago": "9m ago"
-    },
-    {
-      "title": "Mets set to meet with Skubal (report)",
-      "link": "https://www.mlb.com/news/tarik-skubal-rumors",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sldxuoyg5zqnnikmrmbc",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793821824/mlb/li0mnyciia3rjqb1kypy",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "MLB.com",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-11-10T20:18:00+00:00",
-      "time_ago": "39m ago"
+      "pub_date": "2026-11-10T20:58:00+00:00",
+      "time_ago": "9m ago"
     },
     {
       "title": "The latest MLB rumors and free-agent news",
@@ -37,8 +24,34 @@
       "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-11-10T19:54:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-11-10T20:58:00+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Mets will meet with Skubal next week (source)",
+      "link": "https://www.mlb.com/news/tarik-skubal-mets-meeting",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xjdwenala2ovtw6blg2c",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-10T20:48:03+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Set to meet with Skubal, have Mets emerged as favorites to sign FA lefty?",
+      "link": "https://www.mlb.com/news/tarik-skubal-rumors",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sldxuoyg5zqnnikmrmbc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-10T20:18:00+00:00",
+      "time_ago": "49m ago"
     },
     {
       "title": "Rookie royalty! McGonigle brings ROY honors back to Detroit",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-10T16:53:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Hot Stove rumors: Padres, Skubal, Seiya, Morejon, Yanks",
-      "link": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-10",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793821824/mlb/li0mnyciia3rjqb1kypy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-10T16:32:54+00:00",
       "time_ago": "4h ago"
     }
   ]
