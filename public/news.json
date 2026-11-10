@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-10T15:23:38.808921+00:00",
+  "updated_at": "2026-11-10T15:41:29.259042+00:00",
   "news": [
+    {
+      "title": "3rd Manager of the Year Award in reach for Murphy: 'The switch never goes off'",
+      "link": "https://www.mlb.com/news/pat-murphy-leads-brewers-to-nl-pennant-world-series-berth",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/exuwl15cubu7j7qsoiar",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-10T15:16:00+00:00",
+      "time_ago": "25m ago"
+    },
     {
       "title": "5 teams to watch at GM Meetings as Skubal sweepstakes begin",
       "link": "https://www.mlb.com/news/mlb-teams-to-watch-gm-meetings-2026",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-10T15:00:00+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "41m ago"
     },
     {
       "title": "4 storylines to follow as Padres' busy offseason kicks off at GM Meetings",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-10T14:49:20+00:00",
-      "time_ago": "34m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "Here’s what Phillies could address at GM Meetings",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-10T13:37:12+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Say Hey Kid to be featured on 2027 USPS stamp",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-10T13:33:55+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Former MLB, NBA stars and more hit the links to celebrate 20 years of Compton Youth Academy",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-10T02:44:00+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "Here are the finalists for MVP, Cy Young, Rookie of the Year, more",
-      "link": "https://www.mlb.com/news/2026-bbwaa-awards-finalists",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p9aqa1wzbday62z9lziq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-11-10T02:32:00+00:00",
       "time_ago": "12h ago"
     }
   ]
