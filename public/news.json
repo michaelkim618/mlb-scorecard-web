@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-10T02:19:36.846848+00:00",
+  "updated_at": "2026-11-10T02:38:11.471648+00:00",
   "news": [
+    {
+      "title": "Here are the finalists for MVP, Cy Young, Rookie of the Year, more",
+      "link": "https://www.mlb.com/news/2026-bbwaa-awards-finalists",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/p9aqa1wzbday62z9lziq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-10T02:32:00+00:00",
+      "time_ago": "6m ago"
+    },
+    {
+      "title": "Tigers' all-around star and Reds' throwback slugger named Rookies of the Year",
+      "link": "https://www.mlb.com/news/2026-mlb-rookie-of-the-year-award-winners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yhgzcfvll7xujm917gz1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Manny Randhawa",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-11-10T02:07:00+00:00",
+      "time_ago": "31m ago"
+    },
     {
       "title": "Breakout '26 nets Wetherholt 3rd-place finish in NL Rookie of the Year voting",
       "link": "https://www.mlb.com/news/jj-wetherholt-third-nl-rookie-of-the-year-award-2026",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-10T02:01:00+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "Messick finishes 2nd behind McGonigle in AL Rookie of the Year Award voting",
@@ -25,7 +51,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-10T01:46:00+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "52m ago"
     },
     {
       "title": "'27 Rookie of the Year candidates -- one from each team",
@@ -77,32 +103,6 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-10T01:04:38+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Stewart wins NL Rookie of the Year after historic 32-homer output",
-      "link": "https://www.mlb.com/news/sal-stewart-2026-nl-rookie-of-the-year",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gpnnhkneao9fzyrrpeea",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-11-10T01:00:26+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Does 2026 boast an all-time great rookie class?",
-      "link": "https://www.mlb.com/news/best-rookie-classes-in-mlb-since-1947-c295885062",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cr2bgd6yzzrwhwln3c4h",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Andrew Simon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-10T01:00:00+00:00",
       "time_ago": "1h ago"
     }
   ]
