@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-11T00:48:14.457251+00:00",
+  "updated_at": "2026-11-11T00:57:35.564145+00:00",
   "news": [
+    {
+      "title": "Manager of the Year Awards recognize leaders of surprising upstart, dominant juggernaut",
+      "link": "https://www.mlb.com/news/2026-mlb-manager-of-the-year-award-winners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qmfuhcylmgyxmwgjwucp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-11T00:53:00+00:00",
+      "time_ago": "4m ago"
+    },
+    {
+      "title": "Venable the 6th White Sox skipper to win Manager of the Year",
+      "link": "https://www.mlb.com/news/will-venable-wins-al-manager-of-year-award-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hgf8afk4a1j0kjcueyqb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-11T00:47:27+00:00",
+      "time_ago": "10m ago"
+    },
     {
       "title": "Tracy finishes 3rd for AL Manager of the Year Award",
       "link": "https://www.mlb.com/news/chad-tracy-third-place-al-manager-of-the-year-2026",
@@ -12,7 +38,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-11T00:38:35+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "19m ago"
     },
     {
       "title": "Cash finishes as runner-up for AL Manager of the Year",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-11T00:33:43+00:00",
-      "time_ago": "14m ago"
+      "time_ago": "23m ago"
     },
     {
       "title": "Here are the Manager of the Year vote totals",
@@ -38,20 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-11T00:29:23+00:00",
-      "time_ago": "18m ago"
-    },
-    {
-      "title": "This year's Manager of the Year winners are ... (Watch on MLB Network, MLB+)",
-      "link": "https://www.mlb.com/news/2026-mlb-manager-of-the-year-award-winners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/prswlp7rqbcot3qgqlvf",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-11T00:22:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "28m ago"
     },
     {
       "title": "Cubs' Brown undergoes neck surgery, eyes 2027 return",
@@ -64,7 +77,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-11-11T00:10:53+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "46m ago"
     },
     {
       "title": "Tigers to prioritize bullpen improvements, strikeouts this offseason",
@@ -77,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-11T00:10:20+00:00",
-      "time_ago": "37m ago"
-    },
-    {
-      "title": "'He's been fun to watch': Braves' Southisene has not missed a beat since returning to action in desert",
-      "link": "https://www.mlb.com/news/tate-southisene-is-healthy-and-thriving-in-arizona-fall-league",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xurrd2dis5rvw0hcukql",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jesse Borek",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-10T23:00:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "47m ago"
     },
     {
       "title": "Dodgers hire Guerrero from Marlins to be hitting coach",
