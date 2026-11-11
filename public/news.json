@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-11T02:01:41.491458+00:00",
+  "updated_at": "2026-11-11T02:27:49.859526+00:00",
   "news": [
+    {
+      "title": "White Sox moving Taylor to rotation: 'We think it’s time'",
+      "link": "https://www.mlb.com/news/grant-taylor-to-white-sox-rotation-in-2027",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w39a9jklenfi1otrwzdt",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Scott Merkin",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-11T01:48:39+00:00",
+      "time_ago": "39m ago"
+    },
+    {
+      "title": "Mets to meet with Skubal next week as Stearns says 'no question' team will add pitching",
+      "link": "https://www.mlb.com/news/tarik-skubal-mets-meeting",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xjdwenala2ovtw6blg2c",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-11T01:41:00+00:00",
+      "time_ago": "46m ago"
+    },
     {
       "title": "Fried has surgery to remove bone spur from pitching elbow",
       "link": "https://www.mlb.com/news/max-fried-elbow-surgery-to-be-ready-for-spring-training",
@@ -12,7 +38,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-11-11T01:39:44+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "Dodgers confirm pursuit of Skubal reunion this offseason",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-11T01:30:34+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "Manager of the Year Awards recognize leaders of surprising upstart, dominant juggernaut",
@@ -38,7 +64,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-11T01:24:00+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Elias on trade buzz: O's core players 'very unlikely' to be dealt",
@@ -51,7 +77,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-11T01:20:21+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Murphy wins record 3rd straight Manager of the Year Award … from his hospital bed",
@@ -64,7 +90,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-11T01:03:00+00:00",
-      "time_ago": "58m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Mozeliak happy to assist Angels' new ownership in GM search, offseason",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-11T00:59:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Here are the Manager of the Year vote totals",
-      "link": "https://www.mlb.com/news/2026-mlb-manager-of-the-year-voting-totals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dltfmmecqyzho6sq04ce",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-11T00:55:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Venable the 6th White Sox skipper to win Manager of the Year",
-      "link": "https://www.mlb.com/news/will-venable-wins-al-manager-of-year-award-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hgf8afk4a1j0kjcueyqb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Scott Merkin",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-11T00:47:27+00:00",
       "time_ago": "1h ago"
     }
   ]
