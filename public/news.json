@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-11T01:35:32.784012+00:00",
+  "updated_at": "2026-11-11T02:01:41.491458+00:00",
   "news": [
+    {
+      "title": "Fried has surgery to remove bone spur from pitching elbow",
+      "link": "https://www.mlb.com/news/max-fried-elbow-surgery-to-be-ready-for-spring-training",
+      "summary": "Left-hander expected to be ready for Spring Training; Judge 'in a good place' with recovery from rib fracture",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qrdyth468ev4ublr9sbh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-11-11T01:39:44+00:00",
+      "time_ago": "21m ago"
+    },
     {
       "title": "Dodgers confirm pursuit of Skubal reunion this offseason",
       "link": "https://www.mlb.com/news/dodgers-tarik-skubal-free-agency-2026-general-managers-meetings",
@@ -12,7 +25,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-11T01:30:34+00:00",
-      "time_ago": "4m ago"
+      "time_ago": "31m ago"
+    },
+    {
+      "title": "Manager of the Year Awards recognize leaders of surprising upstart, dominant juggernaut",
+      "link": "https://www.mlb.com/news/2026-mlb-manager-of-the-year-award-winners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qmfuhcylmgyxmwgjwucp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-11T01:24:00+00:00",
+      "time_ago": "37m ago"
     },
     {
       "title": "Elias on trade buzz: O's core players 'very unlikely' to be dealt",
@@ -25,10 +51,10 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-11T01:20:21+00:00",
-      "time_ago": "15m ago"
+      "time_ago": "41m ago"
     },
     {
-      "title": "Murphy becomes 1st to earn NL manager award in 3 straight years",
+      "title": "Murphy wins record 3rd straight Manager of the Year Award … from his hospital bed",
       "link": "https://www.mlb.com/news/pat-murphy-wins-third-straight-nl-manager-of-the-year-award",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794358458/mlb/rppiqovm5ay2urpaxxp6",
@@ -38,7 +64,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-11T01:03:00+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Mozeliak happy to assist Angels' new ownership in GM search, offseason",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-11T00:59:00+00:00",
-      "time_ago": "36m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Here are the Manager of the Year vote totals",
@@ -64,20 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-11T00:55:00+00:00",
-      "time_ago": "40m ago"
-    },
-    {
-      "title": "Manager of the Year Awards recognize leaders of surprising upstart, dominant juggernaut",
-      "link": "https://www.mlb.com/news/2026-mlb-manager-of-the-year-award-winners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qmfuhcylmgyxmwgjwucp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-11-11T00:53:00+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Venable the 6th White Sox skipper to win Manager of the Year",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-11T00:47:27+00:00",
-      "time_ago": "48m ago"
-    },
-    {
-      "title": "Cubs' Brown undergoes neck surgery, eyes 2027 return",
-      "link": "https://www.mlb.com/news/ben-brown-cubs-cervical-spine-surgery-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cr5myjdqgc86zhrhius6",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Shanthi Sepe-Chepuru",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-11-11T00:10:53+00:00",
       "time_ago": "1h ago"
     }
   ]
