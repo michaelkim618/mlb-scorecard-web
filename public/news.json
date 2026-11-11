@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-11T00:30:52.422152+00:00",
+  "updated_at": "2026-11-11T00:48:14.457251+00:00",
   "news": [
+    {
+      "title": "Tracy finishes 3rd for AL Manager of the Year Award",
+      "link": "https://www.mlb.com/news/chad-tracy-third-place-al-manager-of-the-year-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qehe33mrhatgfe0fmgi9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-11T00:38:35+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Cash finishes as runner-up for AL Manager of the Year",
+      "link": "https://www.mlb.com/news/kevin-cash-second-place-2026-al-manager-of-the-year-award",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794354852/mlb/pmqlsck5i2pkhla5jjzy",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam Berry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-11T00:33:43+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "Here are the Manager of the Year vote totals",
+      "link": "https://www.mlb.com/news/2026-mlb-manager-of-the-year-voting-totals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dltfmmecqyzho6sq04ce",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-11T00:29:23+00:00",
+      "time_ago": "18m ago"
+    },
     {
       "title": "This year's Manager of the Year winners are ... (Watch on MLB Network, MLB+)",
       "link": "https://www.mlb.com/news/2026-mlb-manager-of-the-year-award-winners",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-11T00:22:00+00:00",
-      "time_ago": "8m ago"
+      "time_ago": "26m ago"
     },
     {
       "title": "Cubs' Brown undergoes neck surgery, eyes 2027 return",
@@ -25,7 +64,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-11-11T00:10:53+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "Tigers to prioritize bullpen improvements, strikeouts this offseason",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-11T00:10:20+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "'He's been fun to watch': Braves' Southisene has not missed a beat since returning to action in desert",
@@ -65,45 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-11-10T22:30:00+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Hot Stove rumors: Padres, Skubal, Seiya, Morejon, Yanks",
-      "link": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-10",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793821824/mlb/li0mnyciia3rjqb1kypy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-10T20:58:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "The latest MLB rumors and free-agent news",
-      "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vxratg7ukxkgi6djn8ml",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-10T20:58:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Mets will meet with Skubal next week (source)",
-      "link": "https://www.mlb.com/news/tarik-skubal-mets-meeting",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xjdwenala2ovtw6blg2c",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-10T20:48:03+00:00",
-      "time_ago": "3h ago"
     }
   ]
 }
