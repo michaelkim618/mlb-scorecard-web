@@ -1,73 +1,47 @@
 {
-  "updated_at": "2026-11-11T16:04:32.815510+00:00",
+  "updated_at": "2026-11-11T20:04:21.438770+00:00",
   "news": [
     {
-      "title": "4 known teams, 2 mystery clubs to meet with Skubal",
-      "link": "https://www.mlb.com/news/tarik-skubal-rumors",
+      "title": "The latest MLB rumors and free-agent news",
+      "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sldxuoyg5zqnnikmrmbc",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vxratg7ukxkgi6djn8ml",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-11T19:32:00+00:00",
+      "time_ago": "32m ago"
+    },
+    {
+      "title": "Hot Stove rumors: Seager, Skubal, OF trade candidates, Yanks, Cubs",
+      "link": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-11",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aolfpxidtcluf25kx1jq",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-11T15:52:00+00:00",
-      "time_ago": "12m ago"
-    },
-    {
-      "title": "Yankees showing interest in Alec Bohm (report)",
-      "link": "https://www.mlb.com/news/yankees-alec-bohm-free-agent-interest",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xbxr79rleghjrnlvkglu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-11T15:38:05+00:00",
-      "time_ago": "26m ago"
-    },
-    {
-      "title": "Rangers staying 'very open-minded' as offseason begins -- including on trading stars",
-      "link": "https://www.mlb.com/news/rangers-could-consider-trading-corey-seager-other-stars",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794376678/mlb/nk6cwaayi01ki17vassz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Kennedi Landry",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-11T06:12:41+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "Padres sign right-hander Ryan Weiss to 1-year deal with option for '28",
-      "link": "https://www.mlb.com/news/ryan-weiss-contract-with-padres",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xgf6hperhpwabxat6oqr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
       "tag": "Trade",
       "tag_color": "#7C3AED",
-      "pub_date": "2026-11-11T06:06:00+00:00",
-      "time_ago": "9h ago"
+      "pub_date": "2026-11-11T19:17:00+00:00",
+      "time_ago": "47m ago"
     },
     {
-      "title": "Pagán agrees to 1-year, $11 million deal with Tigers (source)",
-      "link": "https://www.mlb.com/news/emilio-pagan-contract-with-tigers",
+      "title": "Blue Jays eye Skubal, but how realistic is a deal?",
+      "link": "https://www.mlb.com/news/blue-jays-tarik-skubal-free-agency-interest-2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ta5kj5cw6wew9ocowmar",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jx6n4v2acvx4wqzzwm5e",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Manny Randhawa",
+      "author": "Keegan Matheson",
       "tag": "Trade",
       "tag_color": "#7C3AED",
-      "pub_date": "2026-11-11T05:58:00+00:00",
-      "time_ago": "10h ago"
+      "pub_date": "2026-11-11T18:48:16+00:00",
+      "time_ago": "1h ago"
     },
     {
-      "title": "Here's the case for each Cy Young Award finalist",
+      "title": "Here's the case for each Cy Young Award finalist (MLB Network, 7 p.m. ET)",
       "link": "https://www.mlb.com/news/making-a-case-for-each-2026-mlb-cy-young-award-finalist",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/my2goll1wft9tdti7pfg",
@@ -76,8 +50,47 @@
       "author": "MLB.com",
       "tag": "Award",
       "tag_color": "#16A34A",
-      "pub_date": "2026-11-11T05:00:00+00:00",
-      "time_ago": "11h ago"
+      "pub_date": "2026-11-11T18:30:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "All you need to know about the 2026 MLB Awards show (MLB Network/MLB.com, 9 ET)",
+      "link": "https://www.mlb.com/news/when-is-the-mlb-awards-show-date-time-channel",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vkh04cdvr0wlksgkvvxb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-11T17:35:00+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Yankees showing interest in Alec Bohm (source)",
+      "link": "https://www.mlb.com/news/yankees-alec-bohm-free-agent-interest",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xbxr79rleghjrnlvkglu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-11T17:05:00+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Astros hire Brad Ausmus as next manager",
+      "link": "https://www.mlb.com/news/brad-ausmus-astros-manager",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mqsrshuyjluzchdjgjcu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian McTaggart",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-11T16:32:00+00:00",
+      "time_ago": "3h ago"
     },
     {
       "title": "The best skills available on the free-agent market",
@@ -89,21 +102,8 @@
       "author": "Jared Greenspan",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-11-11T05:00:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Mariners inform veteran Crawford they do not intend to bring him back (source)",
-      "link": "https://www.mlb.com/news/j-p-crawford-will-not-be-back-with-mariners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qutnndrzwyhdbm61rgey",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-11T04:55:08+00:00",
-      "time_ago": "11h ago"
+      "pub_date": "2026-11-11T16:00:00+00:00",
+      "time_ago": "4h ago"
     }
   ]
 }
