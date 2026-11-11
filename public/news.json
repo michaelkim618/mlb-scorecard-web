@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-11T05:21:40.083291+00:00",
+  "updated_at": "2026-11-11T06:50:23.072619+00:00",
   "news": [
+    {
+      "title": "Rangers staying 'very open-minded' as offseason begins -- including on trading stars",
+      "link": "https://www.mlb.com/news/rangers-could-consider-trading-corey-seager-other-stars",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794376678/mlb/nk6cwaayi01ki17vassz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kennedi Landry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-11T06:12:41+00:00",
+      "time_ago": "37m ago"
+    },
+    {
+      "title": "Padres sign right-hander Ryan Weiss to 1-year deal with option for '28",
+      "link": "https://www.mlb.com/news/ryan-weiss-contract-with-padres",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xgf6hperhpwabxat6oqr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-11T06:06:00+00:00",
+      "time_ago": "44m ago"
+    },
+    {
+      "title": "Pagán agrees to 1-year, $11 million deal with Tigers (source)",
+      "link": "https://www.mlb.com/news/emilio-pagan-contract-with-tigers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ta5kj5cw6wew9ocowmar",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Manny Randhawa",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-11T05:58:00+00:00",
+      "time_ago": "52m ago"
+    },
     {
       "title": "Here's the case for each Cy Young Award finalist",
       "link": "https://www.mlb.com/news/making-a-case-for-each-2026-mlb-cy-young-award-finalist",
@@ -12,7 +51,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-11T05:00:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "The best skills available on the free-agent market",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-11T05:00:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Mariners inform veteran Crawford they do not intend to bring him back (source)",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-11T04:55:08+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Venable the 6th White Sox skipper to win Manager of the Year",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-11T04:37:00+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Dombrowski weighs in on Phillies' needs at GM Meetings",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-11T04:23:24+00:00",
-      "time_ago": "58m ago"
-    },
-    {
-      "title": "3 known teams, 3 mystery clubs to meet with Skubal",
-      "link": "https://www.mlb.com/news/tarik-skubal-rumors",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sldxuoyg5zqnnikmrmbc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-11T04:12:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Padres sign right-hander Ryan Weiss to 1-year deal with option for '28",
-      "link": "https://www.mlb.com/news/ryan-weiss-contract-with-padres",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xgf6hperhpwabxat6oqr",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-11T03:55:26+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Could Reds explore a contract extension for Stewart soon?",
-      "link": "https://www.mlb.com/news/sal-stewart-reds-possible-contract-extension",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/i2afeaajo5he1irjstoq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-11T03:13:48+00:00",
       "time_ago": "2h ago"
     }
   ]
