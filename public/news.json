@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-11T22:53:23.276134+00:00",
+  "updated_at": "2026-11-11T23:17:02.777496+00:00",
   "news": [
+    {
+      "title": "Rangers hire Tommy Joseph as hitting coach",
+      "link": "https://www.mlb.com/news/tommy-joseph-hired-as-rangers-hitting-coach",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zfx4n93ikgqeimmrj8ph",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-11T21:38:54+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Donald Hooton Sr., founder of Taylor Hooton Foundation, passes away at 76",
+      "link": "https://www.mlb.com/news/donald-hooton-sr-dies-at-76",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ix9jdlvotsmg5f5uhmsz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-11T21:24:45+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "The latest MLB rumors and free-agent news",
       "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
@@ -25,7 +51,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-11T19:17:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Blue Jays eye Skubal, but how realistic is a deal?",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-11T17:05:00+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "Astros hire Brad Ausmus as next manager",
-      "link": "https://www.mlb.com/news/brad-ausmus-astros-manager",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mqsrshuyjluzchdjgjcu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-11T16:32:00+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "The best skills available on the free-agent market",
-      "link": "https://www.mlb.com/news/mlb-free-agent-market-breakdown-2026-27",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g2kpf7cycdyjbzxrotqw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-11T16:00:00+00:00",
       "time_ago": "6h ago"
     }
   ]
