@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-12T02:20:21.178324+00:00",
+  "updated_at": "2026-11-12T02:36:04.321779+00:00",
   "news": [
+    {
+      "title": "Varland named 1st BBWAA AL Reliever of the Year",
+      "link": "https://www.mlb.com/news/louis-varland-wins-bbwaa-al-reliever-of-the-year-award",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794448588/mlb/rpvwx40lyigpulbp57t3",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-12T02:26:11+00:00",
+      "time_ago": "9m ago"
+    },
+    {
+      "title": "Miz adds NL Cy Young Award to World Series title",
+      "link": "https://www.mlb.com/news/jacob-misiorowski-wins-2026-national-league-cy-young-award",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nufyh10kax7hrvt38ov9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-12T02:01:00+00:00",
+      "time_ago": "35m ago"
+    },
     {
       "title": "WATCH live: The 2026 MLB Awards show in Las Vegas (MLB Network/MLB.com)",
       "link": "https://www.mlb.com/news/when-is-the-mlb-awards-show-date-time-channel",
@@ -12,7 +38,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-12T01:54:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "In Vegas, baseball execs mining for hidden gems",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-12T01:54:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "Both 2026 Cys won in sophomore season. Here’s how rare that is",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-12T01:35:46+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Pair of flamethrowers are unanimous Cy Young winners for just 3rd time in history",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-12T01:04:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Miz adds NL Cy Young Award to World Series title",
-      "link": "https://www.mlb.com/news/jacob-misiorowski-wins-2026-national-league-cy-young-award",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nufyh10kax7hrvt38ov9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-11-12T01:03:06+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Here are the Cy Young Award vote totals",
-      "link": "https://www.mlb.com/news/2026-mlb-cy-young-award-voting-results",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lywelq3ntntgei8zlslp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-11-12T00:55:00+00:00",
       "time_ago": "1h ago"
     }
   ]
