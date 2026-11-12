@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-12T16:37:51.885272+00:00",
+  "updated_at": "2026-11-12T20:42:11.639338+00:00",
   "news": [
+    {
+      "title": "Relief stalwart Phillips inks 3-year deal with Braves",
+      "link": "https://www.mlb.com/news/evan-phillips-three-year-contract-with-braves",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bihdwr9ejqc2jixgfd1l",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo Derosa",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-12T20:25:34+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "The latest MLB rumors and free-agent news",
+      "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jx6n4v2acvx4wqzzwm5e",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-12T20:25:00+00:00",
+      "time_ago": "17m ago"
+    },
     {
       "title": "Here's the case for each MVP Award finalist (MLB Network, 7 p.m. ET)",
       "link": "https://www.mlb.com/news/the-case-for-each-2026-mlb-mvp-finalist",
@@ -11,8 +37,47 @@
       "author": "MLB.com",
       "tag": "Award",
       "tag_color": "#16A34A",
-      "pub_date": "2026-11-12T15:20:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-11-12T20:15:00+00:00",
+      "time_ago": "27m ago"
+    },
+    {
+      "title": "Hot Stove rumors: Jazz, Goodman, Sato, Suzuki, Abrams",
+      "link": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-12",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/u1ttirikm3ecbcantrxd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-12T18:30:13+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Let Lindor walk you through his iconic NLDS grand slam",
+      "link": "https://www.mlb.com/news/francisco-lindor-talks-nlds-grand-slam-on-6-1-1-podcast",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cqkswtbmq0zgpkoy6fia",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-11-12T17:31:19+00:00",
+      "time_ago": "3h ago"
+    },
+    {
+      "title": "Phils have interest in Sato in search for outfielder (sources)",
+      "link": "https://www.mlb.com/news/phillies-interest-teruaki-sato-free-agent-outfielder",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ytlsldoumwudnpii5vtt",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Todd Zolecki",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-12T15:48:58+00:00",
+      "time_ago": "4h ago"
     },
     {
       "title": "Dipoto hasn't ruled out dealing a starting pitcher",
@@ -25,7 +90,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-12T12:48:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "Will Brewers trade World Series MVP Contreras?",
@@ -38,72 +103,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-12T12:43:52+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Rookie of the Year winner McGonigle eyes bigger things in '27",
-      "link": "https://www.mlb.com/news/kevin-mcgonigle-has-big-goals-for-2027-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794439282/mlb/epzbv7pp4o0qog4njb5o",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Beck",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-12T12:40:42+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Does Jurickson Profar have a place on the Braves in '27?",
-      "link": "https://www.mlb.com/news/braves-options-for-jurickson-profar",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794442065/mlb/spmduodbe7dadbtpfa2r",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-12T12:36:04+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Stearns: Mets 'not looking to add' new 2B, optimistic Semien can bounce back",
-      "link": "https://www.mlb.com/news/mets-looking-for-improvement-from-marcus-semien-and-second-basemen",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794451037/mlb/tawclx9vvty3qkzbnxvu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-12T12:26:54+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "At MLB Awards in Vegas, baseball's best deliver 1 more dazzling show for 2026",
-      "link": "https://www.mlb.com/news/top-players-honored-at-2026-mlb-awards",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jwdheddxerjrfdz20dvo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-11-12T05:26:45+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Neander named Executive of the Year for second time",
-      "link": "https://www.mlb.com/news/erik-neander-executive-of-the-year",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/q9kctoj6htjp00bsowjy",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam Berry and Mark Feinsand",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-12T04:44:00+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "7h ago"
     }
   ]
 }
