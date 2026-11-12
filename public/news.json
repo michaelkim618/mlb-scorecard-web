@@ -1,31 +1,96 @@
 {
-  "updated_at": "2026-11-12T00:54:51.608156+00:00",
+  "updated_at": "2026-11-12T01:24:40.690879+00:00",
   "news": [
     {
-      "title": "Messick finishes third in AL Cy Young Award voting",
-      "link": "https://www.mlb.com/news/parker-messick-finishes-third-in-al-cy-young-award-voting",
+      "title": "Ranking every Cy Young Award season",
+      "link": "https://www.mlb.com/news/ranking-the-best-cy-young-award-winners-c300079624",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aq6efnn65p0at6rategv",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ujxfmpdyb94zdrj5zjx4",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Tim Stebbins",
+      "author": "Andrew Simon",
       "tag": "Award",
       "tag_color": "#16A34A",
-      "pub_date": "2026-11-12T00:36:55+00:00",
-      "time_ago": "17m ago"
+      "pub_date": "2026-11-12T01:09:00+00:00",
+      "time_ago": "15m ago"
     },
     {
-      "title": "Cease finishes runner-up for AL Cy Young Award",
-      "link": "https://www.mlb.com/news/dylan-cease-runner-up-al-cy-young-2026",
+      "title": "9 reasons why Misiorowski's season was one of a kind",
+      "link": "https://www.mlb.com/news/stats-to-explain-jacob-misiorowski-special-2026-season",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tkkgwpzhkv7c005wwald",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ywbptihkogfoucqlevnp",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Keegan Matheson",
+      "author": "Sarah Langs",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-12T01:04:00+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "Miz adds NL Cy Young Award to World Series title",
+      "link": "https://www.mlb.com/news/jacob-misiorowski-wins-2026-national-league-cy-young-award",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nufyh10kax7hrvt38ov9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
       "tag": "Award",
       "tag_color": "#16A34A",
-      "pub_date": "2026-11-12T00:29:06+00:00",
-      "time_ago": "25m ago"
+      "pub_date": "2026-11-12T01:03:06+00:00",
+      "time_ago": "21m ago"
+    },
+    {
+      "title": "Here are the Cy Young Award vote totals",
+      "link": "https://www.mlb.com/news/2026-mlb-cy-young-award-voting-results",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lywelq3ntntgei8zlslp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-12T00:55:00+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "Pair of flamethrowers are unanimous Cy Young winners for just 3rd time in history",
+      "link": "https://www.mlb.com/news/2026-mlb-cy-young-award-winners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ea2h7clsai3prxy0iiml",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-11-12T00:54:00+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "Here's what you need to know about the Fall League playoffs",
+      "link": "https://www.mlb.com/news/watch-arizona-fall-league-playoffs-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ledknss6mbk03fndajcr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ben Weinrib",
+      "tag": "Standings",
+      "tag_color": "#0EA5E9",
+      "pub_date": "2026-11-12T00:40:00+00:00",
+      "time_ago": "44m ago"
+    },
+    {
+      "title": "Rangers hire Tommy Joseph as hitting coach",
+      "link": "https://www.mlb.com/news/tommy-joseph-hired-as-rangers-hitting-coach",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zfx4n93ikgqeimmrj8ph",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Kennedi Landry",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-12T00:31:00+00:00",
+      "time_ago": "53m ago"
     },
     {
       "title": "Schlittler caps 1st full season with Yankees' 7th AL Cy Young Award",
@@ -38,72 +103,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-12T00:27:24+00:00",
-      "time_ago": "27m ago"
-    },
-    {
-      "title": "Here are the Cy Young Award vote totals",
-      "link": "https://www.mlb.com/news/2026-mlb-cy-young-award-voting-results",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lywelq3ntntgei8zlslp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-11-12T00:21:06+00:00",
-      "time_ago": "33m ago"
-    },
-    {
-      "title": "This year's Cy Young Award winners are ... (LIVE on MLB Network, MLB+)",
-      "link": "https://www.mlb.com/news/2026-mlb-cy-young-award-winners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tvp5famwdvanbpcrq72t",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-11-12T00:16:00+00:00",
-      "time_ago": "38m ago"
-    },
-    {
-      "title": "Trading Marte back on table as D-backs look to get over hump in '27",
-      "link": "https://www.mlb.com/news/mike-hazen-discusses-ketel-marte-d-backs-needs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794437208/mlb/ftnuilzhwext8q0soo2x",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-11T23:25:35+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Toolsy D-backs 2025 draftee enjoys spin through Fall League",
-      "link": "https://www.mlb.com/news/road-to-recovery-brings-d-backs-prospect-nathan-hall-through-arizona",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oiclcrr9xadyqh2nl3vx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jesse Borek",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-11-11T22:13:45+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Rangers hire Tommy Joseph as hitting coach",
-      "link": "https://www.mlb.com/news/tommy-joseph-hired-as-rangers-hitting-coach",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zfx4n93ikgqeimmrj8ph",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-11T21:38:54+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "57m ago"
     }
   ]
 }
