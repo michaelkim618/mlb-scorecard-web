@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-12T00:27:52.793190+00:00",
+  "updated_at": "2026-11-12T00:54:51.608156+00:00",
   "news": [
+    {
+      "title": "Messick finishes third in AL Cy Young Award voting",
+      "link": "https://www.mlb.com/news/parker-messick-finishes-third-in-al-cy-young-award-voting",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aq6efnn65p0at6rategv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-12T00:36:55+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Cease finishes runner-up for AL Cy Young Award",
+      "link": "https://www.mlb.com/news/dylan-cease-runner-up-al-cy-young-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tkkgwpzhkv7c005wwald",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-12T00:29:06+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "Schlittler caps 1st full season with Yankees' 7th AL Cy Young Award",
+      "link": "https://www.mlb.com/news/cam-schlittler-wins-2026-al-cy-young-award",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/igppvrq7ofvdrusy0zaf",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-12T00:27:24+00:00",
+      "time_ago": "27m ago"
+    },
     {
       "title": "Here are the Cy Young Award vote totals",
       "link": "https://www.mlb.com/news/2026-mlb-cy-young-award-voting-results",
@@ -12,7 +51,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-12T00:21:06+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "33m ago"
     },
     {
       "title": "This year's Cy Young Award winners are ... (LIVE on MLB Network, MLB+)",
@@ -25,7 +64,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-12T00:16:00+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "Trading Marte back on table as D-backs look to get over hump in '27",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-11T21:38:54+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Donald Hooton Sr., founder of Taylor Hooton Foundation, passes away at 76",
-      "link": "https://www.mlb.com/news/donald-hooton-sr-dies-at-76",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ix9jdlvotsmg5f5uhmsz",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-11T21:24:45+00:00",
       "time_ago": "3h ago"
-    },
-    {
-      "title": "MLB and Mo Willems teaming up for a new Pigeon adventure",
-      "link": "https://www.mlb.com/news/mlb-teams-up-with-mo-willems-for-new-pigeon-book",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j0i5ies7cy0ybsuv3cfp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-11T21:05:57+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "The latest MLB rumors and free-agent news",
-      "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vxratg7ukxkgi6djn8ml",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-11T19:32:00+00:00",
-      "time_ago": "4h ago"
     }
   ]
 }
