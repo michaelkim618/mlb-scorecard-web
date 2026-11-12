@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-12T03:32:33.984288+00:00",
+  "updated_at": "2026-11-12T04:03:57.144174+00:00",
   "news": [
+    {
+      "title": "Baker, Miller pick up Reliever of the Year honors at MLB Awards",
+      "link": "https://www.mlb.com/news/bryan-baker-mason-miller-2026-relievers-of-the-year-mlb-awards",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hbkgfir3sdknwnibpa09",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-12T03:50:37+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "Witt becomes first 3-time winner of Heart & Hustle Award",
+      "link": "https://www.mlb.com/news/bobby-witt-jr-2026-heart-hustle-award-winner",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/agu9pjwwne4kv7wvnm3d",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Perla Paredes",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-12T03:45:00+00:00",
+      "time_ago": "18m ago"
+    },
     {
       "title": "Yordan unseats Ohtani for Outstanding DH, first new winner in 6 years",
       "link": "https://www.mlb.com/news/yordan-alvarez-wins-2026-outstanding-designated-hitter-award",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-12T03:27:48+00:00",
-      "time_ago": "4m ago"
+      "time_ago": "36m ago"
     },
     {
       "title": "Neander becomes two-time Executive of the Year winner",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-12T03:22:12+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "41m ago"
     },
     {
       "title": "Cowser's game-ending homer robbery named Premier Play of Year",
@@ -38,7 +64,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-11-12T03:18:47+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "Yordan, Wheeler named Comeback Players of the Year",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-12T02:58:40+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Schlittler caps 1st full season with Yankees' 7th AL Cy Young Award",
@@ -64,19 +90,6 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-12T02:55:00+00:00",
-      "time_ago": "37m ago"
-    },
-    {
-      "title": "Varland named 1st BBWAA AL Reliever of the Year",
-      "link": "https://www.mlb.com/news/louis-varland-wins-bbwaa-al-reliever-of-the-year-award",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794448588/mlb/rpvwx40lyigpulbp57t3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-12T02:26:11+00:00",
       "time_ago": "1h ago"
     },
     {
@@ -90,20 +103,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-12T02:01:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "WATCH live: The 2026 MLB Awards show in Las Vegas (MLB Network/MLB.com)",
-      "link": "https://www.mlb.com/news/when-is-the-mlb-awards-show-date-time-channel",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fbw81daa7darpj5usxq8",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-11-12T01:54:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     }
   ]
 }
