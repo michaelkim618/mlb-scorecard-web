@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-12T21:31:37.184906+00:00",
+  "updated_at": "2026-11-12T21:40:07.557540+00:00",
   "news": [
+    {
+      "title": "Relief stalwart Phillips inks 3-year deal with Braves",
+      "link": "https://www.mlb.com/news/evan-phillips-three-year-contract-with-braves",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ijrqf2vukl4xmlngqo7h",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-12T21:18:00+00:00",
+      "time_ago": "22m ago"
+    },
     {
       "title": "The latest MLB rumors and free-agent news",
       "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
@@ -12,20 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-12T20:42:00+00:00",
-      "time_ago": "49m ago"
-    },
-    {
-      "title": "Relief stalwart Phillips inks 3-year deal with Braves",
-      "link": "https://www.mlb.com/news/evan-phillips-three-year-contract-with-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bihdwr9ejqc2jixgfd1l",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo Derosa",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-12T20:25:34+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "58m ago"
     },
     {
       "title": "Here's the case for each MVP Award finalist (MLB Network, 7 p.m. ET)",
