@@ -1,18 +1,31 @@
 {
-  "updated_at": "2026-11-11T23:36:49.990844+00:00",
+  "updated_at": "2026-11-12T00:27:52.793190+00:00",
   "news": [
     {
-      "title": "This year's Cy Young Award winners are ... (Watch on MLB Network, MLB+ at 7 p.m. ET)",
-      "link": "https://www.mlb.com/news/2026-mlb-cy-young-award-winners",
+      "title": "Here are the Cy Young Award vote totals",
+      "link": "https://www.mlb.com/news/2026-mlb-cy-young-award-voting-results",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/my2goll1wft9tdti7pfg",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lywelq3ntntgei8zlslp",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "MLB.com",
       "tag": "Award",
       "tag_color": "#16A34A",
-      "pub_date": "2026-11-11T23:31:36+00:00",
-      "time_ago": "5m ago"
+      "pub_date": "2026-11-12T00:21:06+00:00",
+      "time_ago": "6m ago"
+    },
+    {
+      "title": "This year's Cy Young Award winners are ... (LIVE on MLB Network, MLB+)",
+      "link": "https://www.mlb.com/news/2026-mlb-cy-young-award-winners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tvp5famwdvanbpcrq72t",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-12T00:16:00+00:00",
+      "time_ago": "11m ago"
     },
     {
       "title": "Trading Marte back on table as D-backs look to get over hump in '27",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-11T23:25:35+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Toolsy D-backs 2025 draftee enjoys spin through Fall League",
@@ -38,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-11-11T22:13:45+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Rangers hire Tommy Joseph as hitting coach",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-11T21:38:54+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Donald Hooton Sr., founder of Taylor Hooton Foundation, passes away at 76",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-11T21:24:45+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "MLB and Mo Willems teaming up for a new Pigeon adventure",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-11T21:05:57+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "The latest MLB rumors and free-agent news",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-11T19:32:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Hot Stove rumors: Seager, Skubal, OF trade candidates, Yanks, Cubs",
-      "link": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-11",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aolfpxidtcluf25kx1jq",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-11T19:17:00+00:00",
       "time_ago": "4h ago"
     }
   ]
