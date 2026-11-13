@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-11-13T00:58:54.114673+00:00",
+  "updated_at": "2026-11-13T01:23:14.059428+00:00",
   "news": [
+    {
+      "title": "With 40-40 season, PCA left no doubt in winning NL MVP",
+      "link": "https://www.mlb.com/news/pete-crow-armstrong-wins-2026-nl-mvp",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ghtgedgg9w7hdli1hhkb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-13T01:20:00+00:00",
+      "time_ago": "3m ago"
+    },
+    {
+      "title": "Turang finishes 3rd behind PCA, Ohtani in NL MVP voting",
+      "link": "https://www.mlb.com/news/brice-turang-finishes-3rd-in-2026-nl-mvp-voting",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qarngdpzlyppctmpxfzo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-13T01:06:28+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Most Valuable MVP: Ranking every winner",
+      "link": "https://www.mlb.com/news/greatest-mvp-seasons-in-mlb-history-c300194658",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/ymcx67qhah3gqgvknx5i",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-13T01:05:00+00:00",
+      "time_ago": "18m ago"
+    },
+    {
+      "title": "Here are the MVP Award vote totals",
+      "link": "https://www.mlb.com/news/2026-mlb-mvp-award-voting-results",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qmz2pbfwv43ypmuzh1ad",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-13T00:58:00+00:00",
+      "time_ago": "25m ago"
+    },
+    {
+      "title": "Ohtani finishes 2nd for NL MVP after stellar (though injury-dampened) campaign",
+      "link": "https://www.mlb.com/news/shohei-ohtani-finishes-second-in-nl-mvp-voting-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794526913/mlb/euyxe6q5e9drbrejnb8b",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-11-13T00:54:48+00:00",
+      "time_ago": "28m ago"
+    },
     {
       "title": "First-time MVP winners (both unanimous!) usher in new era of superstars",
       "link": "https://www.mlb.com/news/2026-mlb-mvp-award-winners",
@@ -12,7 +77,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-13T00:52:00+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "31m ago"
     },
     {
       "title": "Witt places 3rd in race for AL MVP, behind Alvarez, Caminero",
@@ -25,85 +90,20 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-13T00:42:37+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "40m ago"
     },
     {
-      "title": "Caminero finishes as runner-up in AL MVP Award voting",
-      "link": "https://www.mlb.com/news/junior-caminero-second-place-2026-al-most-valuable-player-award",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fdbxwooboh55jxvvp35e",
+      "title": "Winners of multiple major year-end awards",
+      "link": "https://www.mlb.com/news/mlb-winners-of-multiple-major-year-end-awards-c300750168",
+      "summary": "Players and skippers who have won 2 or more of the big 5",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gawfq9dznaqkxmi0o2tb",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Adam Berry",
+      "author": "Do-Hyoung Park, Daniel Kramer and Chad Thornburg",
       "tag": "Award",
       "tag_color": "#16A34A",
-      "pub_date": "2026-11-13T00:35:27+00:00",
-      "time_ago": "23m ago"
-    },
-    {
-      "title": "Yordan caps awards season sweep with AL MVP",
-      "link": "https://www.mlb.com/news/yordan-alvarez-wins-2026-al-mvp-award",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zca9nhh4egelvlcuhnjg",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian McTaggart",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-11-13T00:33:58+00:00",
-      "time_ago": "24m ago"
-    },
-    {
-      "title": "Here are the MVP Award vote totals",
-      "link": "https://www.mlb.com/news/2026-mlb-mvp-award-voting-results",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qmz2pbfwv43ypmuzh1ad",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-11-13T00:29:07+00:00",
-      "time_ago": "29m ago"
-    },
-    {
-      "title": "Giants hire James Rowson as offensive coordinator",
-      "link": "https://www.mlb.com/news/james-rowson-giants-offensive-coordinator",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794428615/mlb/j7jhqgheuljjewmnpjj2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Maria Guardado",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-12T23:27:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Relief stalwart Phillips inks 3-year deal with Braves",
-      "link": "https://www.mlb.com/news/evan-phillips-three-year-contract-with-braves",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ijrqf2vukl4xmlngqo7h",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-12T21:18:00+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Move from backstop to mound restarts clock for hard-throwing Yanks prospect",
-      "link": "https://www.mlb.com/news/antonio-gomez-on-transition-from-catching-to-pitching",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794447628/mlb/qfhnk33gxharavdy26tp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jim Callis",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-11-12T21:10:50+00:00",
-      "time_ago": "3h ago"
+      "pub_date": "2026-11-13T00:38:00+00:00",
+      "time_ago": "45m ago"
     }
   ]
 }
