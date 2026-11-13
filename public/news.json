@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-11-13T03:32:17.630962+00:00",
+  "updated_at": "2026-11-13T05:45:14.253628+00:00",
   "news": [
+    {
+      "title": "Ranking the top 10 bats on the free-agent market",
+      "link": "https://www.mlb.com/news/free-agent-hitter-power-rankings-2026-2027",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/px0bmerck2nbcv9i2dcz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Andrew Simon",
+      "tag": "Rankings",
+      "tag_color": "#4F46E5",
+      "pub_date": "2026-11-13T04:01:44+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "The latest MLB rumors and free-agent news",
+      "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jx6n4v2acvx4wqzzwm5e",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-13T04:00:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Hot Stove rumors: Jazz, Goodman, Sato, Suzuki, Abrams",
+      "link": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-12",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/u1ttirikm3ecbcantrxd",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-13T03:55:13+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Unanimous MVP winners add to historic Awards Week",
+      "link": "https://www.mlb.com/news/facts-stats-from-yordan-alvarez-pete-crow-armstrong-mvp-wins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qss072wiuahb3lxbhhb5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sarah Langs",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-13T03:36:50+00:00",
+      "time_ago": "2h ago"
+    },
     {
       "title": "With 40-40 season, PCA left no doubt in winning NL MVP",
       "link": "https://www.mlb.com/news/pete-crow-armstrong-wins-2026-nl-mvp",
@@ -12,7 +64,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-13T02:57:00+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Yordan caps awards season sweep with AL MVP",
@@ -25,10 +77,10 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-13T02:46:00+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "2h ago"
     },
     {
-      "title": "Is this team Skubal's inevitable destination?",
+      "title": "In Skubal sweepstakes, there may only be one team ‘even in the conversation’",
       "link": "https://www.mlb.com/news/tarik-skubal-rumors",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sldxuoyg5zqnnikmrmbc",
@@ -38,72 +90,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-13T02:35:00+00:00",
-      "time_ago": "57m ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Contreras brothers continue epic year with Latin Grammys appearance",
       "link": "https://www.mlb.com/news/willson-and-william-contreras-attend-2026-latin-grammys",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qkgagd5bfk5ix6potdny",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vtoczs5loaptnxyeir4m",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Brent Maguire",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-13T02:28:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "GM Meetings lay groundwork for 'crazy couple of weeks'",
-      "link": "https://www.mlb.com/news/2026-general-manager-meetings-takeaways",
-      "summary": "Skubal front and center as teams seek starting pitching",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1788929745/mlb/w7xpyzkeicgcl734lkkt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-13T01:28:31+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Every franchise's BBWAA award winners",
-      "link": "https://www.mlb.com/news/major-award-winners-for-every-mlb-team",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bzcusabbazbrtfbifqrx",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-11-13T01:17:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "First-time MVP winners (both unanimous!) usher in new era of superstars",
-      "link": "https://www.mlb.com/news/2026-mlb-mvp-award-winners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qss072wiuahb3lxbhhb5",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony Castrovince",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-11-13T01:15:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "All for one: Unanimous MVP Award winners",
-      "link": "https://www.mlb.com/news/players-who-won-unanimous-mvp-awards",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/beizqgha2f97ajsjqkii",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-11-13T01:07:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
