@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T01:54:07.615182+00:00",
+  "updated_at": "2026-11-14T02:32:33.542023+00:00",
   "news": [
     {
       "title": "Watch LIVE: Top prospects in Arizona Fall League semifinals",
@@ -11,8 +11,8 @@
       "author": "Ben Weinrib",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-11-14T01:39:00+00:00",
-      "time_ago": "15m ago"
+      "pub_date": "2026-11-14T02:20:00+00:00",
+      "time_ago": "12m ago"
     },
     {
       "title": "Marsh to resume baseball activities after October wrist surgery",
@@ -25,7 +25,7 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-11-14T01:08:45+00:00",
-      "time_ago": "45m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "After falling just short twice, will Piniella be elected to the Hall?",
@@ -77,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-13T20:09:04+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "A deeper look into Astros' hiring of Ausmus as manager",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-13T19:11:17+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     }
   ]
 }
