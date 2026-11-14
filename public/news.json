@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-14T21:38:43.972784+00:00",
+  "updated_at": "2026-11-14T22:14:47.517425+00:00",
   "news": [
+    {
+      "title": "Watch top prospects face off for Fall League championship (Live at 8 p.m. ET)",
+      "link": "https://www.mlb.com/news/2026-arizona-fall-league-championship-game",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a999clcdojrfjtetmjsk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jim Callis",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-14T21:58:00+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "In a thin market for power bats, where can the Blue Jays turn?",
       "link": "https://www.mlb.com/news/how-blue-jays-can-address-need-for-power-in-2026-mlb-offseason",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-14T20:58:14+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Here are the 2026 AFL award winners",
@@ -25,7 +38,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-14T18:02:06+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Guards prized prospect caps first year as dad with Fall League MVP honors",
@@ -38,7 +51,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-14T18:01:49+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Top first-time candidates to win MVP, Cy Young in 2027",
@@ -77,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-14T16:11:11+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     },
     {
       "title": "What we learned about Halos' offseason outlook from GM Meetings",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-14T16:07:44+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "There's no 'off' in offseason during hectic week for World Series champs",
-      "link": "https://www.mlb.com/news/brewers-keeping-busy-in-offseason-after-2026-world-series-win",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794628126/mlb/sexsp2e6lnc0w2yexbj6",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Adam McCalvy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-14T15:39:36+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     }
   ]
 }
