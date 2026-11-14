@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-14T20:50:15.774568+00:00",
+  "updated_at": "2026-11-14T21:05:57.390780+00:00",
   "news": [
+    {
+      "title": "In a thin market for power bats, where can the Blue Jays turn?",
+      "link": "https://www.mlb.com/news/how-blue-jays-can-address-need-for-power-in-2026-mlb-offseason",
+      "summary": "Toronto finished last in Majors in home runs, runs scored in 2026 after impressive '25 season",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sz63g6ged5h6qcmvfcth",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Manny Randhawa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-14T20:58:14+00:00",
+      "time_ago": "7m ago"
+    },
     {
       "title": "Top first-time candidates to win MVP, Cy Young in 2027",
       "link": "https://www.mlb.com/news/mlb-candidates-to-win-first-mvp-cy-young-2027",
@@ -67,6 +80,19 @@
       "time_ago": "5h ago"
     },
     {
+      "title": "Everything you need to know about Baseball Hall of Fame voting",
+      "link": "https://www.mlb.com/news/baseball-hall-of-fame-voting-guide-dates-ballot-rules",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/inigk5gwwkjiw9yrhfji",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-14T15:12:00+00:00",
+      "time_ago": "5h ago"
+    },
+    {
       "title": "How will Royals divide catching duties between Salvy, Jensen in '27?",
       "link": "https://www.mlb.com/news/royals-plan-for-carter-jensen-salvador-perez-at-catcher-in-2027",
       "summary": "",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-11-14T14:23:00+00:00",
       "time_ago": "6h ago"
-    },
-    {
-      "title": "Watch top prospects face off for Fall League championship (Live at 8 p.m. ET)",
-      "link": "https://www.mlb.com/news/2026-arizona-fall-league-championship-game",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a999clcdojrfjtetmjsk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jim Callis",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-14T06:14:07+00:00",
-      "time_ago": "14h ago"
-    },
-    {
-      "title": "How Gunnar could become an MVP candidate once again",
-      "link": "https://www.mlb.com/news/gunnar-henderson-outlook-for-orioles-in-2027",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xz8ckebqmw9rclwuvm0j",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "Award",
-      "tag_color": "#16A34A",
-      "pub_date": "2026-11-14T03:00:09+00:00",
-      "time_ago": "17h ago"
     }
   ]
 }
