@@ -1,18 +1,31 @@
 {
-  "updated_at": "2026-11-14T14:21:09.006527+00:00",
+  "updated_at": "2026-11-14T14:49:25.290956+00:00",
   "news": [
     {
-      "title": "Shelton's move to 1B, strong offensive AFL showing should help push toward Majors",
-      "link": "https://www.mlb.com/news/colby-shelton-has-strong-showing-in-2026-arizona-fall-league",
+      "title": "What roster upgrades might Miami target this offseason?",
+      "link": "https://www.mlb.com/news/marlins-2026-2027-offseason-targets",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wmd3jfo8u8avoallzyh7",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uijtm6ohmhgcmc3dwrn5",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Scott Merkin",
+      "author": "Christina De Nicola",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-11-14T14:35:25+00:00",
+      "time_ago": "14m ago"
+    },
+    {
+      "title": "Pitching prospect Flesland has strong '26 campaign across Minors, AFL",
+      "link": "https://www.mlb.com/news/stu-flesland-iii-impresses-in-minor-leagues-and-arizona-fall-league-in-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ecvhyb8f2mpxjcbjfrna",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harding",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-11-14T14:17:21+00:00",
-      "time_ago": "3m ago"
+      "pub_date": "2026-11-14T14:31:47+00:00",
+      "time_ago": "17m ago"
     },
     {
       "title": "'Respect 70': Maddon presents strong HOF case on Contemporary Baseball Era ballot",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-14T14:15:12+00:00",
-      "time_ago": "5m ago"
+      "time_ago": "34m ago"
     },
     {
       "title": "Top prospects set to face off for Fall League championship",
@@ -90,19 +103,6 @@
       "tag": "Injury",
       "tag_color": "#DC2626",
       "pub_date": "2026-11-14T01:08:45+00:00",
-      "time_ago": "13h ago"
-    },
-    {
-      "title": "After falling just short twice, will Piniella be elected to the Hall?",
-      "link": "https://www.mlb.com/news/lou-piniella-baseball-hall-of-fame-case",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fhc2zfhskj9v32aqo0ol",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Sheldon",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-14T00:35:13+00:00",
       "time_ago": "13h ago"
     }
   ]
