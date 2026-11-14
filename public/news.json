@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T21:05:57.390780+00:00",
+  "updated_at": "2026-11-14T21:38:43.972784+00:00",
   "news": [
     {
       "title": "In a thin market for power bats, where can the Blue Jays turn?",
@@ -12,7 +12,33 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-14T20:58:14+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "40m ago"
+    },
+    {
+      "title": "Here are the 2026 AFL award winners",
+      "link": "https://www.mlb.com/news/2026-arizona-fall-league-award-winners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/miaptfunvuicdlzs4fsu",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Crowley",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-14T18:02:06+00:00",
+      "time_ago": "3h ago"
+    },
+    {
+      "title": "Guards prized prospect caps first year as dad with Fall League MVP honors",
+      "link": "https://www.mlb.com/news/guardians-welbyn-francisca-2026-arizona-fall-league-mvp",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j5kirfnqwzojslsaqmsx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jesse Borek",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-14T18:01:49+00:00",
+      "time_ago": "3h ago"
     },
     {
       "title": "Top first-time candidates to win MVP, Cy Young in 2027",
@@ -25,7 +51,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-14T17:15:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Balancing two-way play with health top of mind for Ohtani, Dodgers",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-14T16:20:11+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Is four-time World Series champ Bochy a HOF slam dunk?",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-14T16:11:11+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "What we learned about Halos' offseason outlook from GM Meetings",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-14T16:07:44+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "There's no 'off' in offseason during hectic week for World Series champs",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-11-14T15:39:36+00:00",
       "time_ago": "5h ago"
-    },
-    {
-      "title": "Everything you need to know about Baseball Hall of Fame voting",
-      "link": "https://www.mlb.com/news/baseball-hall-of-fame-voting-guide-dates-ballot-rules",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/inigk5gwwkjiw9yrhfji",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-14T15:12:00+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "title": "How will Royals divide catching duties between Salvy, Jensen in '27?",
-      "link": "https://www.mlb.com/news/royals-plan-for-carter-jensen-salvador-perez-at-catcher-in-2027",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yah72lxpa6bbmdxkkdlj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Perla Paredes",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-14T14:23:00+00:00",
-      "time_ago": "6h ago"
     }
   ]
 }
