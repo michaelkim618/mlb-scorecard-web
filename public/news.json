@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-15T00:06:49.781825+00:00",
+  "updated_at": "2026-11-15T00:32:28.839879+00:00",
   "news": [
+    {
+      "title": "The latest MLB rumors and free-agent news",
+      "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jx6n4v2acvx4wqzzwm5e",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-15T00:17:00+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "Hot Stove rumors: Padres, Marte, young bats in trade talks, Dodgers",
+      "link": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-14",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793572812/mlb/hfvlgzwjcstzhu8ekuge",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-15T00:10:19+00:00",
+      "time_ago": "22m ago"
+    },
     {
       "title": "Watch top prospects face off for Fall League championship (Live at 8 p.m. ET)",
       "link": "https://www.mlb.com/news/2026-arizona-fall-league-championship-game",
@@ -64,7 +90,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-14T17:15:00+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "7h ago"
     },
     {
       "title": "Balancing two-way play with health top of mind for Ohtani, Dodgers",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-14T16:20:11+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "Is four-time World Series champ Bochy a HOF slam dunk?",
-      "link": "https://www.mlb.com/news/bruce-bochy-baseball-hall-of-fame-case",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794621795/mlb/arhmqberdjerierku0vm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Maria Guardado",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-14T16:11:11+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "title": "What we learned about Halos' offseason outlook from GM Meetings",
-      "link": "https://www.mlb.com/news/angels-biggest-takeaways-from-2026-gm-meetings",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x7klbhl5upqwlq3xkcoj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Rhett Bollinger",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-14T16:07:44+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "8h ago"
     }
   ]
 }
