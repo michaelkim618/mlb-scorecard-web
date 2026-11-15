@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-15T15:25:16.390960+00:00",
+  "updated_at": "2026-11-15T19:17:53.951552+00:00",
   "news": [
+    {
+      "title": "Hill agrees to 1-year deal to return to Yankees (source)",
+      "link": "https://www.mlb.com/news/tim-hill-deal-with-yankees",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j69cafgdastxukysoqj4",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-15T16:26:00+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Hot Stove rumors: Padres, Marte, young bats in trade talks, Dodgers",
+      "link": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-14",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793572812/mlb/hfvlgzwjcstzhu8ekuge",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-15T16:05:00+00:00",
+      "time_ago": "3h ago"
+    },
+    {
+      "title": "How to shake off a disappointing 2026? Fix 'atrocious' defense",
+      "link": "https://www.mlb.com/news/how-the-mariners-can-fix-defensive-issues-in-2027",
+      "summary": "Mariners need internal improvement, external additions to patch 30th-ranked unit",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ojxu8ripakfspcvdkqut",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mike Petriello",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-15T15:25:00+00:00",
+      "time_ago": "3h ago"
+    },
     {
       "title": "5 ways the Blue Jays can (internally) improve on offense in 2027",
       "link": "https://www.mlb.com/news/how-blue-jays-can-improve-on-offense-in-2027",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-15T14:31:15+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "The nasty pitch that could help Chapman evolve",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-15T14:12:21+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "What sparked Jackson Merrill's huge second half in 2026?",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-15T14:11:39+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "7 Cubs starters are free agents. Now what?",
@@ -51,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-15T14:10:48+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Is this free agent the perfect fit at 2B for Yankees?",
@@ -64,46 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-15T13:58:46+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Can McFarlane establish himself as long-term setup option?",
-      "link": "https://www.mlb.com/news/alex-mcfarlane-outlook-for-phillies-2027",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/l6lovwit0tkjorco7jio",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-11-15T13:29:56+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Which version of Kyle Harrison will Crew get in ’27?",
-      "link": "https://www.mlb.com/news/kyle-harrison-2027-outlook-brewers-inconsistent-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/up8ullh1jwfmlzkvunye",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Theo DeRosa",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-15T13:28:32+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Peoria Javelinas steamroll way to record eighth Arizona Fall League championship",
-      "link": "https://www.mlb.com/news/2026-arizona-fall-league-championship-game",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/czzmdsmnbf88demvu97b",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jesse Borek",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-15T05:16:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "5h ago"
     }
   ]
 }
