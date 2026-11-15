@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-15T14:11:40.187440+00:00",
+  "updated_at": "2026-11-15T14:25:22.995693+00:00",
   "news": [
+    {
+      "title": "The nasty pitch that could help Chapman evolve",
+      "link": "https://www.mlb.com/news/aroldis-chapman-evolving-with-nasty-splitter",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rymxotmzxwg2grpmhker",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan ",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-15T14:12:21+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "What sparked Jackson Merrill's huge second half in 2026?",
+      "link": "https://www.mlb.com/news/jackson-merrill-breakdown-2026-season-padres",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/m7c9kuync6mnv8zoetiw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-15T14:11:39+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "7 Cubs starters are free agents. Now what?",
+      "link": "https://www.mlb.com/news/cubs-starting-rotation-candidates-2027",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pnlkq2ofjrmjam56r0ac",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Shanthi Sepe-Chepuru",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-15T14:10:48+00:00",
+      "time_ago": "14m ago"
+    },
     {
       "title": "Is this free agent the perfect fit at 2B for Yankees?",
       "link": "https://www.mlb.com/news/brandon-lowe-makes-sense-for-yankees-in-free-agency",
@@ -12,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-15T13:58:46+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "26m ago"
     },
     {
       "title": "Can McFarlane establish himself as long-term setup option?",
@@ -25,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-15T13:29:56+00:00",
-      "time_ago": "41m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "Which version of Kyle Harrison will Crew get in ’27?",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-15T13:28:32+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "56m ago"
     },
     {
       "title": "Peoria Javelinas steamroll way to record eighth Arizona Fall League championship",
@@ -51,19 +90,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-15T05:16:00+00:00",
-      "time_ago": "8h ago"
-    },
-    {
-      "title": "RHP prospect Lambert hoping to ride AFL excellence to Mets' roster",
-      "link": "https://www.mlb.com/news/mets-prospect-ryan-lambert-arizona-fall-league",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/apv9t5yx3iyr8okixhkj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sam Dykstra",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-11-15T04:16:00+00:00",
       "time_ago": "9h ago"
     },
     {
@@ -77,33 +103,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-15T03:22:10+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Who will go where? 1 free-agent fit for every team",
-      "link": "https://www.mlb.com/news/one-free-agent-fit-for-every-team-this-offseason",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wsowhkssdxgmfyrgdjmu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-15T03:12:47+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "O’s talk to D-backs about Marte; no deal imminent (source)",
-      "link": "https://www.mlb.com/news/orioles-interest-in-ketel-marte-trade-with-diamondbacks",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794704608/mlb/gnoh6kiitpxgegxuvllw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-15T01:24:10+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "11h ago"
     }
   ]
 }
