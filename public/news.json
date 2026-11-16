@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-16T16:43:49.178867+00:00",
+  "updated_at": "2026-11-16T17:12:11.158939+00:00",
   "news": [
+    {
+      "title": "Here are all the players on the 2027 Hall of Fame ballot",
+      "link": "https://www.mlb.com/news/baseball-hall-of-fame-ballot-2027",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jfyyrzfu9ybtlsyuzywi",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-16T17:04:53+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Breaking down 12 of the top free-agent relievers",
+      "link": "https://www.mlb.com/news/reviewing-the-top-mlb-free-agent-relief-pitchers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ayts0gcp682hlv9qdnyn",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-16T16:45:00+00:00",
+      "time_ago": "27m ago"
+    },
     {
       "title": "Here is 1 trade candidate for all 30 teams",
       "link": "https://www.mlb.com/news/trade-candidates-for-every-team-2026-27-offseason",
@@ -12,7 +38,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-16T16:15:00+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "How Ohtani creates a roster-building puzzle for the Dodgers",
@@ -25,85 +51,59 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-16T14:12:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "The Skubal Tiers: Every MLB team's likelihood of signing Tarik Skubal -- and their backup plans",
-      "link": "https://www.espn.com/mlb/story/_/id/50454235/tarik-skubal-all-30-teams-backup-plans",
-      "summary": "Dodger or Met blue? We break down all 30 clubs' chances of landing the offseason's biggest free agent -- and who their Plan B should be.",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fmlb_tarik_skubal_tiers_cr_16x9.jpg",
-      "source": "ESPN",
-      "source_color": "#D50A0A",
-      "author": "",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-16T13:04:49+00:00",
       "time_ago": "3h ago"
     },
     {
-      "title": "Free agency: Rankings and contract projections for the top 50 free agents",
-      "link": "https://www.espn.com/mlb/story/_/id/50359247/rankings-contract-projections-top-mlb-free-agents",
-      "summary": "How much will the biggest stars get paid this winter? Kiley McDaniel breaks down the 2026-27 free agent class.",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1030%2Fmlb_ranking_the_top_50_free_agents_16x9.jpg",
-      "source": "ESPN",
-      "source_color": "#D50A0A",
-      "author": "",
-      "tag": "Rankings",
-      "tag_color": "#4F46E5",
-      "pub_date": "2026-11-16T13:04:49+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Who could make a splash this MLB offseason? Passan's perfect moves for 17 teams that could go big",
-      "link": "https://www.espn.com/mlb/story/_/id/50433101/offseason-2026-27-free-agency-passan-biggest-trades-signings",
-      "summary": "Who most needs an ace? Which contender should make a blockbuster trade? Jeff Passan digs in.",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1110%2Fr1744061_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "source_color": "#D50A0A",
-      "author": "",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-16T12:19:09+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "What we learned about all 30 teams at the MLB GM meetings",
-      "link": "https://www.espn.com/mlb/story/_/id/50461703/free-agency-offseason-2026-27-gm-meetings-lessons",
-      "summary": "With a wild winter ahead, here are the top offseason priorities straight from every front office.",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1112%2Fr1744844_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "source_color": "#D50A0A",
-      "author": "",
+      "title": "These 7 free-agent reunions would make perfect sense",
+      "link": "https://www.mlb.com/news/mlb-potential-free-agent-reunions-for-2027",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kivh4ne7v0sldoiecprl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Will Leitch",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-11-16T12:17:31+00:00",
-      "time_ago": "4h ago"
+      "pub_date": "2026-11-16T03:23:55+00:00",
+      "time_ago": "13h ago"
     },
     {
-      "title": "Sources: Reliever Hill, Yankees agree to $2.25M contract",
-      "link": "https://www.espn.com/mlb/story/_/id/50492078/tim-hill-yankees-agree-1-year-225m-deal-sources-say",
-      "summary": "Left-hander Tim Hill is staying with the Yankees, agreeing to a one-year, $2.25 million contract, sources told ESPN.",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1105%2Fr1571238_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "source_color": "#D50A0A",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-16T12:17:06+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Walker, who began rocky 2026 season as Giants' closer, traded to Brewers",
-      "link": "https://www.espn.com/mlb/story/_/id/50496867/brewers-acquire-ryan-walker-giants-2-minor-leaguers",
-      "summary": "The Brewers acquired reliever Ryan Walker from the Giants in exchange for right-handers Blake Holub and Gavin Perry.",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0812%2Fr1372630_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "source_color": "#D50A0A",
-      "author": "",
+      "title": "Brewers add reliever Ryan Walker in trade with Giants",
+      "link": "https://www.mlb.com/news/ryan-walker-traded-to-brewers-from-giants",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/n3j8ygt5mssmwr2heyzv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Adam McCalvy",
       "tag": "Trade",
       "tag_color": "#7C3AED",
-      "pub_date": "2026-11-16T12:17:06+00:00",
-      "time_ago": "4h ago"
+      "pub_date": "2026-11-16T01:42:00+00:00",
+      "time_ago": "15h ago"
+    },
+    {
+      "title": "Arizona Fall League Week 6 top performers",
+      "link": "https://www.mlb.com/news/arizona-fall-league-top-performers-week-6-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/i8ubszezwwcgx4gwqxcm",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ben Weinrib",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-16T00:54:00+00:00",
+      "time_ago": "16h ago"
+    },
+    {
+      "title": "Sandoval enjoys 'last dance' stateside, complete with one final dramatic moment",
+      "link": "https://www.mlb.com/news/pablo-sandoval-gets-emotional-send-off-at-loandepot-park",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pcy05offm5xma2mqpvhr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Perla Paredes and Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-16T00:32:32+00:00",
+      "time_ago": "16h ago"
     }
   ]
 }
