@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-15T23:53:52.150645+00:00",
+  "updated_at": "2026-11-16T00:13:07.590853+00:00",
   "news": [
+    {
+      "title": "Arizona Fall League Week 6 top performers",
+      "link": "https://www.mlb.com/news/arizona-fall-league-top-performers-week-6-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rh5vp3ga6lz3u7cj97ur",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ben Weinrib",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-15T23:55:00+00:00",
+      "time_ago": "18m ago"
+    },
     {
       "title": "Rojas gets worthy send-off during final pro game in Miami",
       "link": "https://www.mlb.com/news/miguel-rojas-plays-in-last-professional-baseball-game",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-15T23:41:02+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "32m ago"
     },
     {
       "title": "Brewers add reliever Ryan Walker in trade with Giants",
@@ -25,7 +38,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-15T23:22:30+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Hill agrees to 1-year deal to return to Yankees (source)",
@@ -51,7 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-15T16:05:00+00:00",
-      "time_ago": "7h ago"
+      "time_ago": "8h ago"
     },
     {
       "title": "How to shake off a disappointing 2026? Fix 'atrocious' defense",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-15T14:12:21+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "title": "How Merrill put together huge second half in 2026",
-      "link": "https://www.mlb.com/news/jackson-merrill-breakdown-2026-season-padres",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/m7c9kuync6mnv8zoetiw",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-15T14:11:39+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     }
   ]
 }
