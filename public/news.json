@@ -1,17 +1,30 @@
 {
-  "updated_at": "2026-11-16T00:33:04.081398+00:00",
+  "updated_at": "2026-11-16T01:11:06.287679+00:00",
   "news": [
     {
       "title": "Arizona Fall League Week 6 top performers",
       "link": "https://www.mlb.com/news/arizona-fall-league-top-performers-week-6-2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rh5vp3ga6lz3u7cj97ur",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/i8ubszezwwcgx4gwqxcm",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Ben Weinrib",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-11-15T23:55:00+00:00",
+      "pub_date": "2026-11-16T00:54:00+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "Sandoval enjoys 'last dance' stateside, complete with one final dramatic moment",
+      "link": "https://www.mlb.com/news/pablo-sandoval-gets-emotional-send-off-at-loandepot-park",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pcy05offm5xma2mqpvhr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Perla Paredes and Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-16T00:32:32+00:00",
       "time_ago": "38m ago"
     },
     {
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-15T23:41:02+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Brewers add reliever Ryan Walker in trade with Giants",
@@ -64,7 +77,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-15T16:05:00+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "How to shake off a disappointing 2026? Fix 'atrocious' defense",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-15T14:31:15+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "The nasty pitch that could help Aroldis evolve",
-      "link": "https://www.mlb.com/news/aroldis-chapman-evolving-with-nasty-splitter",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rymxotmzxwg2grpmhker",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan ",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-15T14:12:21+00:00",
       "time_ago": "10h ago"
     }
   ]
