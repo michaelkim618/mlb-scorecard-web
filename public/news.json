@@ -1,8 +1,34 @@
 {
-  "updated_at": "2026-11-17T16:39:21.686455+00:00",
+  "updated_at": "2026-11-17T16:58:40.626744+00:00",
   "news": [
     {
-      "title": "White Sox reach 3-year deal with veteran RHP May (source)",
+      "title": "Top reliever will test market after declining qualifying offer from Padres (source)",
+      "link": "https://www.mlb.com/news/adrian-morejon-declines-qualifying-offer",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vt8i9pwowqzylogpotyl",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brent Maguire",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-17T16:54:30+00:00",
+      "time_ago": "4m ago"
+    },
+    {
+      "title": "Would this free agent and ballpark be the perfect match?",
+      "link": "https://www.mlb.com/news/luis-arraez-at-coors-field",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rfectbgygaq6fp5xf1rp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Manny Randhawa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-17T16:45:00+00:00",
+      "time_ago": "13m ago"
+    },
+    {
+      "title": "May, White Sox agree on 3-year deal (source)",
       "link": "https://www.mlb.com/news/dustin-may-white-sox-contract",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sjotzkzxnihzqbghuejd",
@@ -12,7 +38,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-17T16:18:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "40m ago"
     },
     {
       "title": "How would Marte fit in with O's crowded infield? Does that matter?",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-17T15:51:55+00:00",
-      "time_ago": "47m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Back in manager's seat, Ausmus brings a new perspective",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-17T15:43:48+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Mets waste no time, meet with top prize Skubal (report)",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-17T14:57:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Outfielder, lefty reliever on Phillies' shopping list this offseason",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-17T14:45:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Top prospect Hernandez dazzled in pro debut; where does he go from here?",
-      "link": "https://www.mlb.com/news/seth-hernandez-working-on-strength-conditioning-in-offseason",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794765803/mlb/lhjiazuzppvschddcocl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-17T14:31:30+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Mets make in-person pitch to Skubal (report)",
-      "link": "https://www.mlb.com/news/tarik-skubal-rumors",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sldxuoyg5zqnnikmrmbc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-17T04:41:00+00:00",
-      "time_ago": "11h ago"
     }
   ]
 }
