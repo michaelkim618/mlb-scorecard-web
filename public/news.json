@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T22:34:12.790206+00:00",
+  "updated_at": "2026-11-17T22:44:36.976800+00:00",
   "news": [
     {
       "title": "Top free-agent catcher accepts qualifying offer to remain with Twins",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-17T21:59:00+00:00",
-      "time_ago": "35m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "Qualifying offer decisions were due today -- here's where things stand",
@@ -25,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-17T21:56:00+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "Hot Stove rumors: Gore, Yankees, Arozarena, Duran, Skubal",
@@ -38,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-17T21:54:00+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Phillies protect rising prospect Rincon from Rule 5 Draft",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-17T21:47:15+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "57m ago"
     },
     {
       "title": "Prospects on the 40-man bubble -- 1 from each team",
@@ -64,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-17T21:39:00+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Arozarena turns down Mariners' qualifying offer, will test free agency",
@@ -77,32 +77,32 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-17T21:34:15+00:00",
-      "time_ago": "59m ago"
-    },
-    {
-      "title": "Sources: Yankees' Bednar, Twins' Jeffers accept $23.15M offer to return",
-      "link": "https://www.espn.com/mlb/story/_/id/50513467/sources-yankees-bednar-twins-jeffers-accept-2315m-offer",
-      "summary": "Yankees closer David Bednar and Twins catcher Ryan Jeffers accepted the qualifying offer, returning to their respective teams on a one-year deal worth $23.15M.",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1102%2Fr1739951_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "source_color": "#D50A0A",
-      "author": "",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-17T21:27:42+00:00",
       "time_ago": "1h ago"
     },
     {
-      "title": "Sources: White Sox, May agree to 3-year, $52.5M contract",
-      "link": "https://www.espn.com/mlb/story/_/id/50511537/source-white-sox-dustin-reach-3-year-525m-contract",
-      "summary": "The White Sox and free agent starting pitcher Dustin May have agreed on a 3-year, $52.5M contract. The right-hander went 7-9 with a 4.70 ERA last season.",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1027%2Fr1737131_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "source_color": "#D50A0A",
+      "title": "The latest MLB rumors and free-agent news",
+      "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jx6n4v2acvx4wqzzwm5e",
+      "source": "MLB.com",
+      "source_color": "#002D72",
       "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-11-17T21:27:42+00:00",
+      "pub_date": "2026-11-17T21:20:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Rogers rejects O's qualifying offer, remains free agent",
+      "link": "https://www.mlb.com/news/trevor-rogers-rejects-orioles-qualifying-offer-remains-free-agent",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jslqxw5fmwveoaan3gp7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-17T21:16:44+00:00",
       "time_ago": "1h ago"
     }
   ]
