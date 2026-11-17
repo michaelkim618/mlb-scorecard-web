@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-11-17T21:52:14.838191+00:00",
+  "updated_at": "2026-11-17T22:08:32.946676+00:00",
   "news": [
     {
-      "title": "Prospects on the 40-man bubble -- 1 from each team",
-      "link": "https://www.mlb.com/news/prospects-on-40-man-roster-bubble-2026",
+      "title": "Qualifying offer decisions were due today -- here's where things stand",
+      "link": "https://www.mlb.com/news/qualifying-offer-candidates-and-decisions-2026-27",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/flwg7x08p7egglbtwb4o",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qvorj7cftuy2yotfznmm",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Sam Dykstra, Jim Callis and Jonathan Mayo",
+      "author": "Thomas Harrigan",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-11-17T21:39:00+00:00",
-      "time_ago": "13m ago"
+      "pub_date": "2026-11-17T21:56:00+00:00",
+      "time_ago": "12m ago"
     },
     {
       "title": "Hot Stove rumors: Gore, Yankees, Arozarena, Duran, Skubal",
@@ -24,86 +24,86 @@
       "author": "MLB.com",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-11-17T21:27:00+00:00",
-      "time_ago": "25m ago"
+      "pub_date": "2026-11-17T21:54:00+00:00",
+      "time_ago": "14m ago"
     },
     {
-      "title": "Top free-agent catcher accepts qualifying offer to remain with Twins",
-      "link": "https://www.mlb.com/news/ryan-jeffers-accepts-twins-qualifying-offer",
+      "title": "Phillies protect rising prospect Rincon from Rule 5 Draft",
+      "link": "https://www.mlb.com/news/bryan-rincon-phillies-40-man-roster-rule-5-draft2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yuadxhukvbrf8yhnwvjv",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uaidm5dpmfqyl84tjkqv",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Matthew Leach",
+      "author": "Todd Zolecki",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-11-17T21:25:00+00:00",
-      "time_ago": "27m ago"
+      "pub_date": "2026-11-17T21:47:15+00:00",
+      "time_ago": "21m ago"
     },
     {
-      "title": "The latest MLB rumors and free-agent news",
-      "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
+      "title": "Prospects on the 40-man bubble -- 1 from each team",
+      "link": "https://www.mlb.com/news/prospects-on-40-man-roster-bubble-2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jx6n4v2acvx4wqzzwm5e",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/flwg7x08p7egglbtwb4o",
       "source": "MLB.com",
       "source_color": "#002D72",
+      "author": "Sam Dykstra, Jim Callis and Jonathan Mayo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-17T21:39:00+00:00",
+      "time_ago": "29m ago"
+    },
+    {
+      "title": "Arozarena turns down Mariners' qualifying offer, will test free agency",
+      "link": "https://www.mlb.com/news/randy-arozarena-rejects-mariners-qualifying-offer",
+      "summary": "Club has serious interest in free-agent OF Suzuki (source)",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hzp1rm1fod8ac1okbcri",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-17T21:34:15+00:00",
+      "time_ago": "34m ago"
+    },
+    {
+      "title": "Sources: Yankees' Bednar, Twins' Jeffers accept $23.15M offer to return",
+      "link": "https://www.espn.com/mlb/story/_/id/50513467/sources-yankees-bednar-twins-jeffers-accept-2315m-offer",
+      "summary": "Yankees closer David Bednar and Twins catcher Ryan Jeffers accepted the qualifying offer, returning to their respective teams on a one-year deal worth $23.15M.",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1102%2Fr1739951_1296x729_16%2D9.jpg",
+      "source": "ESPN",
+      "source_color": "#D50A0A",
+      "author": "",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-17T21:27:42+00:00",
+      "time_ago": "40m ago"
+    },
+    {
+      "title": "Sources: White Sox, May agree to 3-year, $52.5M contract",
+      "link": "https://www.espn.com/mlb/story/_/id/50511537/source-white-sox-dustin-reach-3-year-525m-contract",
+      "summary": "The White Sox and free agent starting pitcher Dustin May have agreed on a 3-year, $52.5M contract. The right-hander went 7-9 with a 4.70 ERA last season.",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1027%2Fr1737131_1296x729_16%2D9.jpg",
+      "source": "ESPN",
+      "source_color": "#D50A0A",
       "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-11-17T21:20:00+00:00",
-      "time_ago": "32m ago"
+      "pub_date": "2026-11-17T21:27:42+00:00",
+      "time_ago": "40m ago"
     },
     {
-      "title": "Rogers rejects O's qualifying offer, remains free agent",
-      "link": "https://www.mlb.com/news/trevor-rogers-rejects-orioles-qualifying-offer-remains-free-agent",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jslqxw5fmwveoaan3gp7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jake Rill",
+      "title": "Bettors linked to Clase wagered on Ortiz pitches, FanDuel attorney testifies",
+      "link": "https://www.espn.com/espn/betting/story/_/id/50506345/witness-testimony-bettors-linked-emmanuel-clase-wagered-luis-ortiz-pitches",
+      "summary": "Bettors risked thousands of dollars on the result of specific pitches ahead of two Cleveland Guardians games in June 2025, according to witness testimony Monday in the federal gambling trial of Emmanu...",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1117%2Fr1746934_1296x729_16%2D9.jpg",
+      "source": "ESPN",
+      "source_color": "#D50A0A",
+      "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-11-17T21:16:44+00:00",
-      "time_ago": "35m ago"
-    },
-    {
-      "title": "Bednar returning to Yankees after accepting qualifying offer",
-      "link": "https://www.mlb.com/news/david-bednar-accepts-yankees-qualifying-offer",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cyufvqyohj1cefsjqclb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-17T21:13:09+00:00",
-      "time_ago": "39m ago"
-    },
-    {
-      "title": "Qualifying offer decisions were due today -- here's where things stand",
-      "link": "https://www.mlb.com/news/qualifying-offer-candidates-and-decisions-2026-27",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qvorj7cftuy2yotfznmm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harrigan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-17T21:08:00+00:00",
-      "time_ago": "44m ago"
-    },
-    {
-      "title": "Nationals DFA Gray, add Susana, Sykora to 40-man",
-      "link": "https://www.mlb.com/news/nationals-add-jarlin-susana-travis-sykora-to-roster-designate-josiah-gray",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/b4wulf90gk2pgnsjfxzn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jessica Camerato",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-17T21:00:17+00:00",
-      "time_ago": "51m ago"
+      "pub_date": "2026-11-17T21:27:42+00:00",
+      "time_ago": "40m ago"
     }
   ]
 }
