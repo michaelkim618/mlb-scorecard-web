@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-17T23:04:27.639514+00:00",
+  "updated_at": "2026-11-17T23:15:04.708784+00:00",
   "news": [
+    {
+      "title": "Here’s every ranked prospect that needed to be protected ahead of today's 40-man deadline",
+      "link": "https://www.mlb.com/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/n0q9izvzsdfo224eqhm0",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com staff",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-17T23:11:00+00:00",
+      "time_ago": "4m ago"
+    },
     {
       "title": "Bednar returning to Yankees after accepting qualifying offer",
       "link": "https://www.mlb.com/news/david-bednar-accepts-yankees-qualifying-offer",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-17T22:54:00+00:00",
-      "time_ago": "10m ago"
+      "time_ago": "21m ago"
     },
     {
       "title": "Red Sox introduce long-coveted free-agent prize Bauers",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-17T22:51:33+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "23m ago"
     },
     {
       "title": "Top free-agent catcher accepts qualifying offer to remain with Twins",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-17T21:34:15+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "The latest MLB rumors and free-agent news",
-      "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jx6n4v2acvx4wqzzwm5e",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-17T21:20:00+00:00",
       "time_ago": "1h ago"
     }
   ]
