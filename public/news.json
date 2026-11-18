@@ -1,18 +1,44 @@
 {
-  "updated_at": "2026-11-18T16:35:59.599009+00:00",
+  "updated_at": "2026-11-18T16:58:51.424462+00:00",
   "news": [
     {
-      "title": "KC trading All-Star 3B Garcia to Seattle for RHP Miller in 6-player swap (source)",
+      "title": "The latest MLB rumors and free-agent news",
+      "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jx6n4v2acvx4wqzzwm5e",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-18T16:38:00+00:00",
+      "time_ago": "20m ago"
+    },
+    {
+      "title": "Royals swing big trade with Mariners headlined by Bryce Miller (source)",
+      "link": "https://www.mlb.com/news/bryce-miller-royals-mariners-trade",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bcyds7fvesen4v24xyak",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-18T16:25:34+00:00",
+      "time_ago": "33m ago"
+    },
+    {
+      "title": "Royals-Mariners blockbuster: All-Star 3B Garcia traded to Seattle in 6-player swap",
       "link": "https://www.mlb.com/news/maikel-garcia-traded-from-royals-to-mariners",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ft25lfvktn6nozga616t",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "",
-      "tag": "Award",
-      "tag_color": "#16A34A",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
       "pub_date": "2026-11-18T16:14:09+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "44m ago"
     },
     {
       "title": "Dodgers, Blue Jays join Mets in meeting Skubal. When might he sign?",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-18T05:37:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Palacios brothers host camp for Brooklyn kids -- with help from some big league friends",
@@ -78,32 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-11-18T03:00:00+00:00",
       "time_ago": "13h ago"
-    },
-    {
-      "title": "Vladdy gets traded -- in Dominican Winter League",
-      "link": "https://www.mlb.com/news/vladimir-guerrero-jr-dominican-winter-league-trade",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dzrjejb9apmzj9whugz7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-18T02:52:08+00:00",
-      "time_ago": "13h ago"
-    },
-    {
-      "title": "These ranked prospects got 40-man roster spots",
-      "link": "https://www.mlb.com/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/n0q9izvzsdfo224eqhm0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com staff",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-11-18T02:15:00+00:00",
-      "time_ago": "14h ago"
     }
   ]
 }
