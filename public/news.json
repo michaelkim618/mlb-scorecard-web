@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-18T16:08:39.901301+00:00",
+  "updated_at": "2026-11-18T16:35:59.599009+00:00",
   "news": [
+    {
+      "title": "KC trading All-Star 3B Garcia to Seattle for RHP Miller in 6-player swap (source)",
+      "link": "https://www.mlb.com/news/maikel-garcia-traded-from-royals-to-mariners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ft25lfvktn6nozga616t",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-18T16:14:09+00:00",
+      "time_ago": "21m ago"
+    },
     {
       "title": "Dodgers, Blue Jays join Mets in meeting Skubal. When might he sign?",
       "link": "https://www.mlb.com/news/tarik-skubal-rumors-november-17-free-agent-update",
@@ -12,7 +25,20 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-18T14:31:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "2 more clubs follow Mets with Skubal meetings, but is there a clear favorite? (reports)",
+      "link": "https://www.mlb.com/news/tarik-skubal-rumors",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sldxuoyg5zqnnikmrmbc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-18T14:28:00+00:00",
+      "time_ago": "2h ago"
     },
     {
       "title": "Top free-agent catcher accepts qualifying offer to remain with Twins",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-18T05:33:46+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Here's the 2026 All-Arizona Fall League Team",
@@ -77,33 +103,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-18T02:15:00+00:00",
-      "time_ago": "13h ago"
-    },
-    {
-      "title": "What effect will qualifying offer decisions have on market?",
-      "link": "https://www.mlb.com/news/mlb-qualifying-offer-deadline-reaction-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nelpyrbwrqdvlf19t7ny",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-18T00:44:28+00:00",
-      "time_ago": "15h ago"
-    },
-    {
-      "title": "Yankees add RHP Lagrange to 40-man roster; RHP Hampton claimed",
-      "link": "https://www.mlb.com/news/chase-hampton-claimed-by-yankees-from-orioles",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/usxq6eewq7ms55tmddis",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-11-18T00:38:00+00:00",
-      "time_ago": "15h ago"
+      "time_ago": "14h ago"
     }
   ]
 }
