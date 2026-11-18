@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-18T04:40:16.827591+00:00",
+  "updated_at": "2026-11-18T06:34:51.585900+00:00",
   "news": [
+    {
+      "title": "Top free-agent catcher accepts qualifying offer to remain with Twins",
+      "link": "https://www.mlb.com/news/ryan-jeffers-accepts-twins-qualifying-offer",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yuadxhukvbrf8yhnwvjv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-18T05:37:00+00:00",
+      "time_ago": "57m ago"
+    },
+    {
+      "title": "Palacios brothers host camp for Brooklyn kids -- with help from some big league friends",
+      "link": "https://www.mlb.com/news/richie-and-joshua-palacios-host-baseball-camp-in-brooklyn",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/etupvxhodycpgwkpc8zw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ayako Oikawa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-18T05:33:46+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Here's the 2026 All-Arizona Fall League Team",
       "link": "https://www.mlb.com/news/all-arizona-fall-league-team-2026",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-18T03:00:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Vladdy gets traded -- in Dominican Winter League",
@@ -25,7 +51,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-18T02:52:08+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "These ranked prospects got 40-man roster spots",
@@ -38,7 +64,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-18T02:15:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "What effect will qualifying offer decisions have on market?",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-18T00:44:28+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Yankees add RHP Lagrange to 40-man roster; RHP Hampton claimed",
@@ -64,7 +90,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-18T00:38:00+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Silver Slugger Awards feature 13 first-time winners",
@@ -77,33 +103,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-18T00:05:15+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Mets add SS Rojas (No. 1 prospect) to 40-man roster",
-      "link": "https://www.mlb.com/news/jefferson-rojas-added-to-mets-40-man-roster",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wjo5kwmyulxbrw1wwwjk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Perla Paredes",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-11-17T23:56:12+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Bednar returning to Yankees after accepting qualifying offer",
-      "link": "https://www.mlb.com/news/david-bednar-accepts-yankees-qualifying-offer",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cyufvqyohj1cefsjqclb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Bryan Hoch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-17T22:54:00+00:00",
-      "time_ago": "5h ago"
+      "time_ago": "6h ago"
     }
   ]
 }
