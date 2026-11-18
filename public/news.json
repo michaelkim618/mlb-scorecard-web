@@ -1,18 +1,44 @@
 {
-  "updated_at": "2026-11-17T23:55:38.508967+00:00",
+  "updated_at": "2026-11-18T00:52:54.408576+00:00",
   "news": [
     {
-      "title": "Here’s every ranked prospect that needed to be protected ahead of today's 40-man deadline",
+      "title": "Here's a look at which ranked prospects got 40-man roster spots",
       "link": "https://www.mlb.com/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/n0q9izvzsdfo224eqhm0",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "MLB.com staff",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-17T23:47:00+00:00",
-      "time_ago": "8m ago"
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-11-18T00:36:00+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Here are the 2026 Silver Slugger winners, with first-timers at the forefront",
+      "link": "https://www.mlb.com/news/2026-silver-slugger-award-winners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x9szd1inkn185mqitwmg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brent Maguire",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-18T00:05:15+00:00",
+      "time_ago": "47m ago"
+    },
+    {
+      "title": "Mets add SS Rojas (No. 1 prospect) to 40-man roster",
+      "link": "https://www.mlb.com/news/jefferson-rojas-added-to-mets-40-man-roster",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wjo5kwmyulxbrw1wwwjk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Perla Paredes",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-11-17T23:56:12+00:00",
+      "time_ago": "56m ago"
     },
     {
       "title": "Bednar returning to Yankees after accepting qualifying offer",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-17T22:51:33+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Top free-agent catcher accepts qualifying offer to remain with Twins",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-17T21:59:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Qualifying offer decisions were due today -- here's where things stand",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-17T21:56:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Hot Stove rumors: Gore, Yankees, Arozarena, Duran, Skubal",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-17T21:54:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Phillies protect rising prospect Rincon from Rule 5 Draft",
-      "link": "https://www.mlb.com/news/bryan-rincon-phillies-40-man-roster-rule-5-draft2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uaidm5dpmfqyl84tjkqv",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Todd Zolecki",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-17T21:47:15+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Arozarena turns down Mariners' qualifying offer, will test free agency",
-      "link": "https://www.mlb.com/news/randy-arozarena-rejects-mariners-qualifying-offer",
-      "summary": "Club has serious interest in free-agent OF Suzuki (source)",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hzp1rm1fod8ac1okbcri",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-17T21:34:15+00:00",
       "time_ago": "2h ago"
     }
   ]
