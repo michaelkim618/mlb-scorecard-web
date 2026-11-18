@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T01:05:52.835304+00:00",
+  "updated_at": "2026-11-18T01:32:46.406993+00:00",
   "news": [
     {
       "title": "Here's a look at which ranked prospects got 40-man roster spots",
@@ -12,7 +12,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-18T00:54:00+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "What effect will qualifying offer decisions have on market?",
@@ -25,18 +25,18 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-18T00:44:28+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "48m ago"
     },
     {
-      "title": "Here are the 2026 Silver Slugger winners, with first-timers at the forefront",
+      "title": "Silver Slugger Awards feature 13 first-time winners",
       "link": "https://www.mlb.com/news/2026-silver-slugger-award-winners",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x9szd1inkn185mqitwmg",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Brent Maguire",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
+      "tag": "Award",
+      "tag_color": "#16A34A",
       "pub_date": "2026-11-18T00:05:15+00:00",
       "time_ago": "1h ago"
     },
