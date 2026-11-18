@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-18T02:59:00.006417+00:00",
+  "updated_at": "2026-11-18T03:14:21.630699+00:00",
   "news": [
+    {
+      "title": "Here's the 2026 All-Arizona Fall League Team",
+      "link": "https://www.mlb.com/news/all-arizona-fall-league-team-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qhwahfkwn4iizude6lrv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jonathan Mayo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-18T03:00:00+00:00",
+      "time_ago": "14m ago"
+    },
     {
       "title": "Vladdy gets traded -- in Dominican Winter League",
       "link": "https://www.mlb.com/news/vladimir-guerrero-jr-dominican-winter-league-trade",
@@ -12,10 +25,10 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-18T02:52:08+00:00",
-      "time_ago": "6m ago"
+      "time_ago": "22m ago"
     },
     {
-      "title": "Here's a look at which ranked prospects got 40-man roster spots",
+      "title": "These ranked prospects got 40-man roster spots",
       "link": "https://www.mlb.com/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/n0q9izvzsdfo224eqhm0",
@@ -25,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-18T02:15:00+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "What effect will qualifying offer decisions have on market?",
@@ -51,7 +64,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-18T00:05:15+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Bednar returning to Yankees after accepting qualifying offer",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-17T21:59:00+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Qualifying offer decisions were due today -- here's where things stand",
-      "link": "https://www.mlb.com/news/qualifying-offer-candidates-and-decisions-2026-27",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qvorj7cftuy2yotfznmm",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harrigan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-17T21:56:00+00:00",
       "time_ago": "5h ago"
     }
   ]
