@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-19T00:37:30.160788+00:00",
+  "updated_at": "2026-11-19T01:01:59.723972+00:00",
   "news": [
+    {
+      "title": "Commissioner Manfred ‘can’t imagine’ owners ratifying a deal without salary cap and floor",
+      "link": "https://www.mlb.com/news/commissioner-rob-manfred-discusses-salary-cap-and-floor-proposals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/kh8jhi3byo6gui9tapv7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Feinsand",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-19T00:36:18+00:00",
+      "time_ago": "25m ago"
+    },
     {
       "title": "After solidifying infield in Garcia deal, where do Mariners go next?",
       "link": "https://www.mlb.com/news/mariners-plan-for-2026-27-offseason-after-maikel-garcia-trade",
@@ -12,7 +25,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-19T00:21:27+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "40m ago"
     },
     {
       "title": "These 12 sleeper prospects earned 40-man roster spots",
@@ -25,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-19T00:00:00+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "May, White Sox agree on 3-year deal (source)",
@@ -38,7 +51,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-18T22:44:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Dodgers, Blue Jays join Mets in meeting Skubal. When might he sign?",
@@ -51,7 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-18T22:42:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Sonny Gray reunites with Twins on 2-year deal",
@@ -90,19 +103,6 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-18T21:44:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "A meal fit for a home run king? Brewers prospect goes viral with massive sandwich",
-      "link": "https://www.mlb.com/news/brewers-prospect-andrew-fischer-creates-viral-italian-deli-sandwich",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bgeyihtvv9ceekq46wlu",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Benjamin Hill",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-18T21:31:00+00:00",
       "time_ago": "3h ago"
     }
   ]
