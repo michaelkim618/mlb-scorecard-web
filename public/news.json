@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-19T00:11:33.879732+00:00",
+  "updated_at": "2026-11-19T00:37:30.160788+00:00",
   "news": [
+    {
+      "title": "After solidifying infield in Garcia deal, where do Mariners go next?",
+      "link": "https://www.mlb.com/news/mariners-plan-for-2026-27-offseason-after-maikel-garcia-trade",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795043324/mlb/bpwukckwn4us80z1v4xo",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-19T00:21:27+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "These 12 sleeper prospects earned 40-man roster spots",
       "link": "https://www.mlb.com/news/top-sleeper-prospects-added-to-40-man-rosters-2026",
@@ -12,7 +25,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-19T00:00:00+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "May, White Sox agree on 3-year deal (source)",
@@ -51,7 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-18T22:23:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Royals-Mariners blockbuster: All-Star 3B Garcia traded to Seattle in 6-player swap",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-18T21:31:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Royals trade former All-Star Garcia to Mariners for package headlined by Bryce Miller",
-      "link": "https://www.mlb.com/news/bryce-miller-royals-mariners-trade",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bcyds7fvesen4v24xyak",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Perla Paredes",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-18T21:05:00+00:00",
       "time_ago": "3h ago"
     }
   ]
