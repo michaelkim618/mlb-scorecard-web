@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-19T16:40:45.589244+00:00",
+  "updated_at": "2026-11-19T17:06:56.317332+00:00",
   "news": [
+    {
+      "title": "The latest MLB rumors and free-agent news",
+      "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jx6n4v2acvx4wqzzwm5e",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-19T16:44:00+00:00",
+      "time_ago": "22m ago"
+    },
+    {
+      "title": "Hot Stove Rumors: Lowe, Cubs, Sato, Mariners, Mets, Bubic",
+      "link": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-19",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dvtj8uhmiijp89dow8pq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-19T16:38:56+00:00",
+      "time_ago": "28m ago"
+    },
     {
       "title": "All-Trade Rumor Team: Checking in on potential movers at every position",
       "link": "https://www.mlb.com/news/trade-candidates-2027-mlb-offseason-every-position",
@@ -12,7 +38,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-19T16:15:00+00:00",
-      "time_ago": "25m ago"
+      "time_ago": "51m ago"
     },
     {
       "title": "After short stint with Rangers to end season, what's next for O'Hoppe?",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-19T12:59:57+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "The case for -- and against -- dealing Burleson or Winn",
@@ -38,7 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-19T12:46:43+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Pagán brings a veteran leadership to back end of Detroit's bullpen",
@@ -51,32 +77,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-19T12:24:12+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "A reunion in San Diego? Skubal to Mets? MLB offseason dominoes for biggest free agents",
-      "link": "https://www.espn.com/mlb/story/_/id/50512061/offseason-free-agency-signings-predictions",
-      "summary": "Based on what ESPN's Jeff Passan is hearing, we predict where the top names available will land -- and how they impact each other.",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1118%2Fr1747781_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "source_color": "#D50A0A",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-19T12:23:05+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Everything Jeff Passan is hearing about MLB free agency",
-      "link": "https://www.espn.com/mlb/story/_/id/50512111/passan-offseason-preview-2026-27-free-agent-updates",
-      "summary": "The hot stove is about to get blazing hot. Here's what will shape the coming weeks of offseason moves.",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1117%2Fr1747178_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "source_color": "#D50A0A",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-19T12:23:05+00:00",
       "time_ago": "4h ago"
     },
     {
