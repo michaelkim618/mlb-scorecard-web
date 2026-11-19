@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T02:10:40.182941+00:00",
+  "updated_at": "2026-11-19T02:41:31.100768+00:00",
   "news": [
     {
       "title": "Vladdy Jr. hoping to suit up in Dominican Winter League -- if Blue Jays will let him",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-19T01:19:06+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Commissioner Manfred ‘can’t imagine’ owners ratifying a deal without salary cap and floor",
@@ -25,7 +25,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-19T00:36:18+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "After solidifying infield in Garcia deal, where do Mariners go next?",
@@ -38,7 +38,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-19T00:21:27+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "12 sleeper prospects who earned 40-man roster spots",
@@ -67,43 +67,43 @@
       "time_ago": "3h ago"
     },
     {
-      "title": "Welcome back: Twins reunite with veteran RHP Gray on two-year deal",
-      "link": "https://www.espn.com/mlb/story/_/id/50523817/twins-sign-veteran-right-hander-sonny-gray-two-year-deal",
-      "summary": "The Twins have signed free agent right-hander Sonny Gray to a two-year contract, the team announced. The deal is for $55 million and includes an opt-out after the first season, sources told ESPN's Jef...",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1102%2Fr1739950_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "source_color": "#D50A0A",
-      "author": "",
+      "title": "Sonny Gray reunites with Twins on 2-year deal",
+      "link": "https://www.mlb.com/news/sonny-gray-free-agent-contract-twins",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pzp5vpbcebiykgr813hg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
       "tag": "Trade",
       "tag_color": "#7C3AED",
-      "pub_date": "2026-11-18T22:29:39+00:00",
-      "time_ago": "3h ago"
+      "pub_date": "2026-11-18T22:23:00+00:00",
+      "time_ago": "4h ago"
     },
     {
-      "title": "Playing hardball: Commish says MLB owners won't OK deal without cap as lockout looms",
-      "link": "https://www.espn.com/mlb/story/_/id/50523785/rob-manfred-says-mlb-owners-compromise-salary-cap",
-      "summary": "Commissioner Rob Manfred said owners will not accept any deal without a salary cap, leaving MLB on track for a lockout that could threaten the 2027 season.",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2014%2F0130%2Fmlb_g_baseball01jr_1296x729.jpg",
-      "source": "ESPN",
-      "source_color": "#D50A0A",
-      "author": "",
+      "title": "Royals-Mariners blockbuster: All-Star 3B Garcia traded to Seattle in 6-player swap",
+      "link": "https://www.mlb.com/news/maikel-garcia-traded-from-royals-to-mariners",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ft25lfvktn6nozga616t",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Daniel Kramer",
       "tag": "Trade",
       "tag_color": "#7C3AED",
-      "pub_date": "2026-11-18T22:29:39+00:00",
-      "time_ago": "3h ago"
+      "pub_date": "2026-11-18T22:07:00+00:00",
+      "time_ago": "4h ago"
     },
     {
-      "title": "Sources: Mets considered Skubal front-runner as teams ramp up pursuit of ace lefty",
-      "link": "https://www.espn.com/mlb/story/_/id/50521652/sources-mets-final-teams-bidding-tarik-skubal",
-      "summary": "Tarik Skubal has met with multiple teams that are expected to pursue him, but the Mets are considered the favorite to land the star pitcher, sources told ESPN.",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1101%2Fr1739467_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "source_color": "#D50A0A",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-18T22:29:39+00:00",
-      "time_ago": "3h ago"
+      "title": "Busy Red Sox boost catching depth, acquire Fortes from division rival Rays",
+      "link": "https://www.mlb.com/news/nick-fortes-red-sox-rays-trade",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fotctuat7a55priyujgc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Ian Browne",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-18T21:44:00+00:00",
+      "time_ago": "4h ago"
     }
   ]
 }
