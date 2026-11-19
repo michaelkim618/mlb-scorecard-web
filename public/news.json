@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T13:41:38.021310+00:00",
+  "updated_at": "2026-11-19T14:12:18.054510+00:00",
   "news": [
     {
       "title": "This winter's most buzzworthy trade candidates, around the diamond",
@@ -12,7 +12,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-19T03:02:13+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "After challenging rookie campaign, Canady excited for 2nd season in AUSL",
@@ -25,20 +25,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-19T03:01:26+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "At 7-foot-2, he's the tallest pitcher ever to appear in a professional game",
       "link": "https://www.mlb.com/news/james-boeree-pitcher-over-7-feet-tall",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xy8wjvbn9gvyrkt16lfa",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dujs7ow3zyhyezxtivzr",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Matt Monagan",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-19T03:01:21+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Breaking down the surprisingly robust second-base market",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-19T03:01:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Vladdy Jr. hoping to suit up in Dominican Winter League -- if Blue Jays will let him",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-19T00:10:20+00:00",
-      "time_ago": "13h ago"
+      "time_ago": "14h ago"
     }
   ]
 }
