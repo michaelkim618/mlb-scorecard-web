@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-11-19T17:06:56.317332+00:00",
+  "updated_at": "2026-11-19T21:15:32.606567+00:00",
   "news": [
+    {
+      "title": "Breaking down the surprisingly robust second-base market",
+      "link": "https://www.mlb.com/news/second-base-free-agents-trade-targets-2026-2027",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rq0wi5hrmonfb2shegl9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brent Maguire",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-19T21:00:00+00:00",
+      "time_ago": "15m ago"
+    },
+    {
+      "title": "Examining the Yankees' options at third base for 2027",
+      "link": "https://www.mlb.com/news/yankees-free-agent-and-trade-possibilities-at-third-base-for-2027",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qufqhvodzqwbo63eeqat",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-11-19T20:57:39+00:00",
+      "time_ago": "17m ago"
+    },
+    {
+      "title": "The Phillies need a right-handed bat. This stat shows why",
+      "link": "https://www.mlb.com/news/why-the-phillies-need-a-right-handed-hitter",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gzeaeyb1tzou1gup1slr",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-19T20:55:43+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "After turning heads with Team Italy, Cervelli is back to managing in the D.R.",
+      "link": "https://www.mlb.com/news/francisco-cervelli-hired-manager-aguilas-cibaenas-dominican-winter-league",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ktsmp3hkk5qwa4pynym9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "David Venn",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-19T17:48:23+00:00",
+      "time_ago": "3h ago"
+    },
     {
       "title": "The latest MLB rumors and free-agent news",
       "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-19T16:44:00+00:00",
-      "time_ago": "22m ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Hot Stove Rumors: Lowe, Cubs, Sato, Mariners, Mets, Bubic",
@@ -25,10 +77,10 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-19T16:38:56+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "4h ago"
     },
     {
-      "title": "All-Trade Rumor Team: Checking in on potential movers at every position",
+      "title": "All-Trade-Rumor Team: Checking in on potential movers at every position",
       "link": "https://www.mlb.com/news/trade-candidates-2027-mlb-offseason-every-position",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ar3jgcwabius35gipo7c",
@@ -38,7 +90,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-19T16:15:00+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "After short stint with Rangers to end season, what's next for O'Hoppe?",
@@ -51,59 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-19T12:59:57+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "The case for -- and against -- dealing Burleson or Winn",
-      "link": "https://www.mlb.com/news/cardinals-options-alec-burleson-masyn-winn",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/srtxlv5qtducu4dwfsgj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-19T12:46:43+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Pagán brings a veteran leadership to back end of Detroit's bullpen",
-      "link": "https://www.mlb.com/news/emilio-pagan-discusses-signing-with-tigers",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hcywvi3fvr3rgld5pn9c",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jason Beck",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-19T12:24:12+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Ted Turner’s case for Hall made through the power of television",
-      "link": "https://www.mlb.com/news/ted-turner-s-case-for-hall-of-fame-on-contemporary-baseball-era-ballot",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795038609/mlb/kq4kwl3zpmadgvsuzls7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Bowman",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-11-19T12:20:36+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Big 2027 could be in store for these Guardians prospects",
-      "link": "https://www.mlb.com/news/guardians-prospects-who-performed-well-in-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/imrbv0al1bmzx2s2n6b0",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-19T12:12:01+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "8h ago"
     }
   ]
 }
