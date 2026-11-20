@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T21:55:06.967388+00:00",
+  "updated_at": "2026-11-20T22:03:58.291334+00:00",
   "news": [
     {
       "title": "The latest MLB rumors and free-agent news",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-20T21:43:00+00:00",
-      "time_ago": "12m ago"
+      "time_ago": "20m ago"
     },
     {
       "title": "Hot Stove Rumors: Skubal, Mets, King, Peralta, Braves, Pivetta",
@@ -25,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-20T21:39:00+00:00",
-      "time_ago": "16m ago"
+      "time_ago": "24m ago"
     },
     {
       "title": "Tigers agree to six-year extension with newly converted starter Troy Melton (source)",
@@ -38,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-20T21:36:27+00:00",
-      "time_ago": "18m ago"
+      "time_ago": "27m ago"
     },
     {
       "title": "Mets reportedly offer Skubal 9-year deal",
@@ -51,10 +51,10 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-20T21:35:00+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "28m ago"
     },
     {
-      "title": "MLB offers concession following MLBPA’s international draft proposal",
+      "title": "MLB offers concession on domestic draft; MLBPA makes international draft proposal",
       "link": "https://www.mlb.com/news/international-draft-proposal-in-cba-negotiations",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/kh8jhi3byo6gui9tapv7",
@@ -64,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-20T21:26:42+00:00",
-      "time_ago": "28m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "Padres agree to three-year extension with slugger Sheets (source)",
@@ -77,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-11-20T21:15:00+00:00",
-      "time_ago": "40m ago"
+      "time_ago": "48m ago"
     },
     {
       "title": "Ohtani, New Balance extend partnership for entirety of superstar's career",
@@ -90,20 +90,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-20T20:59:29+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
-      "title": "These players might join free-agent pool soon",
-      "link": "https://www.mlb.com/news/non-tender-candidates-to-join-2026-2027-mlb-free-agent-class",
+      "title": "Cardinals non-tender former first-round pick Nolan Gorman (report)",
+      "link": "https://www.mlb.com/news/nolan-gorman-non-tendered-by-cardinals",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gty2gajrdqctxk5ms5hv",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cg8yxc6fkyskuwmhiwne",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Thomas Harrigan",
+      "author": "MLB.com",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-11-20T19:57:00+00:00",
-      "time_ago": "1h ago"
+      "pub_date": "2026-11-20T19:53:20+00:00",
+      "time_ago": "2h ago"
     }
   ]
 }
