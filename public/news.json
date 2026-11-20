@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-20T22:57:55.362411+00:00",
+  "updated_at": "2026-11-20T23:16:00.320676+00:00",
   "news": [
+    {
+      "title": "Blue Jays non-tender fan favorite Davis Schneider after rough '26",
+      "link": "https://www.mlb.com/news/blue-jays-non-tender-davis-schneider",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795214809/mlb/e3kzipyzaxu7bsezq3xp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-20T23:02:12+00:00",
+      "time_ago": "13m ago"
+    },
     {
       "title": "Dodgers acquire INF Royce Lewis from Twins (source)",
       "link": "https://www.mlb.com/news/royce-lewis-dodgers-twins-trade",
@@ -12,7 +25,20 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-20T22:50:00+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "26m ago"
+    },
+    {
+      "title": "Cardinals non-tender former first-round pick Nolan Gorman",
+      "link": "https://www.mlb.com/news/nolan-gorman-non-tendered-by-cardinals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cg8yxc6fkyskuwmhiwne",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Manny Randhawa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-20T22:50:00+00:00",
+      "time_ago": "26m ago"
     },
     {
       "title": "Tigers agree to six-year extension with newly converted starter Troy Melton (source)",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-20T22:31:00+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "45m ago"
     },
     {
       "title": "Yankees non-tender former Rookie of the Year Luis Gil, reliever Fernando Cruz",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-20T22:25:43+00:00",
-      "time_ago": "32m ago"
+      "time_ago": "50m ago"
     },
     {
       "title": "Rockies acquire reliever Lee from Blue Jays, DFA Herget",
@@ -51,7 +77,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-20T22:15:02+00:00",
-      "time_ago": "42m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "The latest MLB rumors and free-agent news",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-20T21:39:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Mets reportedly offer Skubal 9-year deal",
-      "link": "https://www.mlb.com/news/tarik-skubal-rumors",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sldxuoyg5zqnnikmrmbc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-20T21:35:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "MLB offers concession on domestic draft; MLBPA makes international draft proposal",
-      "link": "https://www.mlb.com/news/international-draft-proposal-in-cba-negotiations",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/kh8jhi3byo6gui9tapv7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mark Feinsand",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-20T21:26:42+00:00",
       "time_ago": "1h ago"
     }
   ]
