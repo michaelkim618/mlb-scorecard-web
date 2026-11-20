@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-20T22:26:59.671413+00:00",
+  "updated_at": "2026-11-20T22:47:54.606782+00:00",
   "news": [
+    {
+      "title": "Dodgers acquire INF Royce Lewis from Twins (source)",
+      "link": "https://www.mlb.com/news/royce-lewis-dodgers-twins-trade",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/spdwasyngyawzv0ptfad",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-20T22:36:00+00:00",
+      "time_ago": "11m ago"
+    },
+    {
+      "title": "Tigers agree to six-year extension with newly converted starter Troy Melton (source)",
+      "link": "https://www.mlb.com/news/tigers-troy-melton-contract-extension",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qynti3bmf9dhut02kem7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jason Beck",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-20T22:31:00+00:00",
+      "time_ago": "16m ago"
+    },
+    {
+      "title": "Yankees non-tender former Rookie of the Year Luis Gil, reliever Fernando Cruz",
+      "link": "https://www.mlb.com/news/yankees-non-tender-decisions-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f1huirfvxl6hds6hkhuz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-20T22:25:43+00:00",
+      "time_ago": "22m ago"
+    },
     {
       "title": "Rockies acquire reliever Lee from Blue Jays, DFA Herget",
       "link": "https://www.mlb.com/news/chase-lee-acquired-by-rockies-from-blue-jays",
@@ -12,7 +51,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-20T22:15:02+00:00",
-      "time_ago": "11m ago"
+      "time_ago": "32m ago"
     },
     {
       "title": "The latest MLB rumors and free-agent news",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-20T21:43:00+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Hot Stove Rumors: Skubal, Mets, King, Peralta, Braves, Pivetta",
@@ -38,20 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-20T21:39:00+00:00",
-      "time_ago": "47m ago"
-    },
-    {
-      "title": "Tigers agree to six-year extension with newly converted starter Troy Melton (source)",
-      "link": "https://www.mlb.com/news/tigers-troy-melton-contract-extension",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qynti3bmf9dhut02kem7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-20T21:36:27+00:00",
-      "time_ago": "50m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Mets reportedly offer Skubal 9-year deal",
@@ -64,7 +90,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-20T21:35:00+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "MLB offers concession on domestic draft; MLBPA makes international draft proposal",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-20T21:26:42+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Padres agree to three-year extension with slugger Sheets (source)",
-      "link": "https://www.mlb.com/news/gavin-sheets-padres-contract-extension",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w9rtzjymrzmvycoabppc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "AJ Cassavell",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-11-20T21:15:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Ohtani, New Balance extend partnership for entirety of superstar's career",
-      "link": "https://www.mlb.com/news/shohei-ohtani-new-balance-extend-partnership-for-rest-of-career",
-      "summary": "Sports Research Lab also named for two-way sensation",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tavcef43ioy2acde9oq6",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-20T20:59:29+00:00",
       "time_ago": "1h ago"
     }
   ]
