@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-21T01:40:34.110645+00:00",
+  "updated_at": "2026-11-21T01:53:49.587955+00:00",
   "news": [
+    {
+      "title": "Twins shuffle roster, non-tender Ober, Larnach, Wallner",
+      "link": "https://www.mlb.com/news/twins-non-tender-bailey-ober",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qgtkbd4b7wboh48zbi0b",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matthew Leach",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-11-21T01:22:00+00:00",
+      "time_ago": "31m ago"
+    },
     {
       "title": "11 of the most intriguing players to join free-agent pool",
       "link": "https://www.mlb.com/news/non-tender-candidates-to-join-2026-2027-mlb-free-agent-class",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-21T00:54:00+00:00",
-      "time_ago": "46m ago"
+      "time_ago": "59m ago"
     },
     {
       "title": "D-backs trade for right-hander Oviedo from Red Sox",
@@ -25,7 +38,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-21T00:48:00+00:00",
-      "time_ago": "52m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Cubs add backstop Bart off waivers",
@@ -64,7 +77,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-11-20T23:51:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Yankees non-tender former Rookie of the Year Gil, reliever Cruz",
@@ -80,29 +93,16 @@
       "time_ago": "2h ago"
     },
     {
-      "title": "Twins non-tender longtime players Ober, Larnach, Wallner",
-      "link": "https://www.mlb.com/news/twins-non-tender-bailey-ober",
+      "title": "Dodgers acquire INF Royce Lewis from Twins",
+      "link": "https://www.mlb.com/news/royce-lewis-dodgers-twins-trade",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qgtkbd4b7wboh48zbi0b",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/spdwasyngyawzv0ptfad",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-20T23:27:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "↔️ Free agency tracker: Offseason trades, moves",
-      "link": "https://www.espn.com/mlb/story/_/id/50328768/free-agency-tracker-offseason-trades-moves-2026-2027",
-      "summary": "We've got you covered on all the major MLB hot stove signings and trades.",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0802%2Fr1696679_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "source_color": "#D50A0A",
-      "author": "",
+      "author": "Sonja Chen",
       "tag": "Trade",
       "tag_color": "#7C3AED",
-      "pub_date": "2026-11-20T23:24:21+00:00",
+      "pub_date": "2026-11-20T23:13:00+00:00",
       "time_ago": "2h ago"
     }
   ]
