@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-21T01:53:49.587955+00:00",
+  "updated_at": "2026-11-21T02:36:02.170047+00:00",
   "news": [
+    {
+      "title": "Cubs add C Bart off waivers, trade for RHP Roxby in flurry of moves",
+      "link": "https://www.mlb.com/news/joey-bart-deal-with-cubs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gymltuquctgq7j7w42rb",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Courtney Hollman",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-21T01:40:00+00:00",
+      "time_ago": "56m ago"
+    },
     {
       "title": "Twins shuffle roster, non-tender Ober, Larnach, Wallner",
       "link": "https://www.mlb.com/news/twins-non-tender-bailey-ober",
@@ -12,20 +25,20 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-21T01:22:00+00:00",
-      "time_ago": "31m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "11 of the most intriguing players to join free-agent pool",
       "link": "https://www.mlb.com/news/non-tender-candidates-to-join-2026-2027-mlb-free-agent-class",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786488666/mlb/zkkjxonimlq9txmif227",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uzqkaetwuhaopaugia4a",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Thomas Harrigan",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-21T00:54:00+00:00",
-      "time_ago": "59m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "D-backs trade for right-hander Oviedo from Red Sox",
@@ -41,19 +54,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Cubs add backstop Bart off waivers",
-      "link": "https://www.mlb.com/news/joey-bart-deal-with-cubs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gymltuquctgq7j7w42rb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-21T00:29:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Complete list of non-tendered players",
       "link": "https://www.mlb.com/news/non-tendered-mlb-free-agents-2026-2027",
       "summary": "",
@@ -64,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-21T00:09:41+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Padres agree to three-year extension with slugger Sheets",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-20T23:31:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Dodgers acquire INF Royce Lewis from Twins",
@@ -103,7 +103,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-20T23:13:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     }
   ]
 }
