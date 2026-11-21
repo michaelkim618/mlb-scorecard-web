@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T22:16:27.261922+00:00",
+  "updated_at": "2026-11-21T23:00:23.875976+00:00",
   "news": [
     {
       "title": "The latest MLB rumors and free-agent news",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-21T21:38:00+00:00",
-      "time_ago": "38m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Hot Stove Rumors: Webb, Peralta, Mets, Yankees, Cubs, White Sox",
@@ -25,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-21T20:52:22+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Ewing agrees to 8-year, $95 million extension with Mets (source)",
@@ -64,7 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-21T18:36:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Examining Sabean's case for Hall of Fame enshrinement",
@@ -103,7 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-21T03:00:00+00:00",
-      "time_ago": "19h ago"
+      "time_ago": "20h ago"
     }
   ]
 }
