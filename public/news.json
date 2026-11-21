@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-21T23:30:45.665629+00:00",
+  "updated_at": "2026-11-21T23:44:20.727232+00:00",
   "news": [
+    {
+      "title": "Might LA deal Teo to give De Paula a longer look in '27?",
+      "link": "https://www.mlb.com/news/josue-de-paula-arrival-creates-left-field-question-for-dodgers-with-teoscar-hernandez",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795230063/mlb/vqkpoukteublglrpwvtj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-21T23:34:13+00:00",
+      "time_ago": "10m ago"
+    },
     {
       "title": "The latest MLB rumors and free-agent news",
       "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-21T21:38:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Hot Stove Rumors: Webb, Peralta, Mets, Yankees, Cubs, White Sox",
@@ -64,7 +77,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-21T18:36:00+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Examining Sabean's case for Hall of Fame enshrinement",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-21T03:11:00+00:00",
-      "time_ago": "20h ago"
-    },
-    {
-      "title": "2 free-agent outfielders, nearly identical stats. But who’s the better investment?",
-      "link": "https://www.mlb.com/news/randy-arozarena-vs-seiya-suzuki-free-agent-breakdown",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/l3esjcplgn0e51hncxl7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Mike Petriello",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-21T03:00:00+00:00",
       "time_ago": "20h ago"
     }
   ]
