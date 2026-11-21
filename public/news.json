@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-21T00:42:17.796193+00:00",
+  "updated_at": "2026-11-21T00:53:11.338462+00:00",
   "news": [
+    {
+      "title": "D-backs trade for right-hander Oviedo from Red Sox",
+      "link": "https://www.mlb.com/news/johan-oviedo-traded-to-d-backs-from-red-sox",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ywcosxbzc49erljuus7t",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Steve Gilbert",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-21T00:48:00+00:00",
+      "time_ago": "5m ago"
+    },
     {
       "title": "Cubs add backstop Bart off waivers",
       "link": "https://www.mlb.com/news/joey-bart-deal-with-cubs",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-21T00:29:00+00:00",
-      "time_ago": "13m ago"
+      "time_ago": "24m ago"
     },
     {
       "title": "Complete list of non-tendered players",
@@ -25,20 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-21T00:09:41+00:00",
-      "time_ago": "32m ago"
-    },
-    {
-      "title": "D-backs trade for right-hander Oviedo from Red Sox",
-      "link": "https://www.mlb.com/news/johan-oviedo-traded-to-d-backs-from-red-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ywcosxbzc49erljuus7t",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-20T23:53:39+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "43m ago"
     },
     {
       "title": "Padres agree to three-year extension with slugger Sheets",
@@ -51,7 +51,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-11-20T23:51:00+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Yankees non-tender former Rookie of the Year Gil, reliever Cruz",
