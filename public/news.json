@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-21T00:53:11.338462+00:00",
+  "updated_at": "2026-11-21T01:18:03.815500+00:00",
   "news": [
+    {
+      "title": "11 of the most intriguing players to join free-agent pool",
+      "link": "https://www.mlb.com/news/non-tender-candidates-to-join-2026-2027-mlb-free-agent-class",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1786488666/mlb/zkkjxonimlq9txmif227",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harrigan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-21T00:54:00+00:00",
+      "time_ago": "24m ago"
+    },
     {
       "title": "D-backs trade for right-hander Oviedo from Red Sox",
       "link": "https://www.mlb.com/news/johan-oviedo-traded-to-d-backs-from-red-sox",
@@ -12,7 +25,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-21T00:48:00+00:00",
-      "time_ago": "5m ago"
+      "time_ago": "30m ago"
     },
     {
       "title": "Cubs add backstop Bart off waivers",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-21T00:29:00+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "49m ago"
     },
     {
       "title": "Complete list of non-tendered players",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-21T00:09:41+00:00",
-      "time_ago": "43m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Padres agree to three-year extension with slugger Sheets",
@@ -80,29 +93,16 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Dodgers acquire INF Royce Lewis from Twins",
-      "link": "https://www.mlb.com/news/royce-lewis-dodgers-twins-trade",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/spdwasyngyawzv0ptfad",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
+      "title": "↔️ Free agency tracker: Offseason trades, moves",
+      "link": "https://www.espn.com/mlb/story/_/id/50328768/free-agency-tracker-offseason-trades-moves-2026-2027",
+      "summary": "We've got you covered on all the major MLB hot stove signings and trades.",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0802%2Fr1696679_1296x729_16%2D9.jpg",
+      "source": "ESPN",
+      "source_color": "#D50A0A",
+      "author": "",
       "tag": "Trade",
       "tag_color": "#7C3AED",
-      "pub_date": "2026-11-20T23:13:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Blue Jays non-tender fan favorite Davis Schneider after rough '26",
-      "link": "https://www.mlb.com/news/blue-jays-non-tender-davis-schneider",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795214809/mlb/e3kzipyzaxu7bsezq3xp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-20T23:02:12+00:00",
+      "pub_date": "2026-11-20T23:24:21+00:00",
       "time_ago": "1h ago"
     }
   ]
