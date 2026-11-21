@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-11-21T15:56:22.122146+00:00",
+  "updated_at": "2026-11-21T19:59:38.319007+00:00",
   "news": [
+    {
+      "title": "Ewing agrees to 8-year, $95 million extension with Mets (source)",
+      "link": "https://www.mlb.com/news/a-j-ewing-contract-extension-mets",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nkpdwqsioqswd8nggdzp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-21T19:08:00+00:00",
+      "time_ago": "51m ago"
+    },
+    {
+      "title": "Gardner’s inclusion on HOF ballot reflective of legacy as an essential Yankee",
+      "link": "https://www.mlb.com/news/brett-gardner-yankees-2027-national-baseball-hall-of-fame-ballot",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/snptwn1xcusatbb1qwya",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-21T19:00:26+00:00",
+      "time_ago": "59m ago"
+    },
+    {
+      "title": "The earliest MLB contract extensions",
+      "link": "https://www.mlb.com/news/earliest-contract-extensions-in-mlb-history-c269677352",
+      "summary": "10 players have signed deals before big league debut",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hurpnimn9lmrbm6dmoyk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Matt Kelly",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-21T18:36:00+00:00",
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "Examining Sabean's case for Hall of Fame enshrinement",
+      "link": "https://www.mlb.com/news/brian-sabean-hall-of-fame-case",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795230344/mlb/euq6b7v5citqpeumrnxx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Maria Guardado",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-11-21T15:01:18+00:00",
+      "time_ago": "4h ago"
+    },
     {
       "title": "The latest MLB rumors and free-agent news",
       "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
@@ -12,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-21T14:27:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Skubal changed after entering Dodgers pitching lab — here’s how",
@@ -25,10 +77,10 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-21T03:11:00+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "16h ago"
     },
     {
-      "title": "Two free-agent outfielders, identical stat lines. Which one will teams covet more?",
+      "title": "2 free-agent outfielders, nearly identical stats. But who’s the better investment?",
       "link": "https://www.mlb.com/news/randy-arozarena-vs-seiya-suzuki-free-agent-breakdown",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/l3esjcplgn0e51hncxl7",
@@ -38,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-21T03:00:00+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "16h ago"
     },
     {
       "title": "Giants agree to 1-year deal with Doval, trade Koss to Rays for Minor League RHP",
@@ -51,59 +103,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-21T02:59:52+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "Dodgers acquire INF Royce Lewis from Twins",
-      "link": "https://www.mlb.com/news/royce-lewis-dodgers-twins-trade",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/spdwasyngyawzv0ptfad",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-21T02:31:00+00:00",
-      "time_ago": "13h ago"
-    },
-    {
-      "title": "Cubs add C Bart off waivers, trade for RHP Roxby in flurry of moves",
-      "link": "https://www.mlb.com/news/joey-bart-deal-with-cubs",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gymltuquctgq7j7w42rb",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Courtney Hollman",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-21T01:40:00+00:00",
-      "time_ago": "14h ago"
-    },
-    {
-      "title": "11 of the most intriguing players to join free-agent pool",
-      "link": "https://www.mlb.com/news/non-tender-candidates-to-join-2026-2027-mlb-free-agent-class",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uzqkaetwuhaopaugia4a",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harrigan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-21T00:54:00+00:00",
-      "time_ago": "15h ago"
-    },
-    {
-      "title": "D-backs trade for right-hander Oviedo from Red Sox",
-      "link": "https://www.mlb.com/news/johan-oviedo-traded-to-d-backs-from-red-sox",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ywcosxbzc49erljuus7t",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Steve Gilbert",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-21T00:48:00+00:00",
-      "time_ago": "15h ago"
+      "time_ago": "16h ago"
     }
   ]
 }
