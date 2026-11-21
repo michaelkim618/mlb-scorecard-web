@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-21T21:21:22.675872+00:00",
+  "updated_at": "2026-11-21T21:45:27.875422+00:00",
   "news": [
+    {
+      "title": "The latest MLB rumors and free-agent news",
+      "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792119557/mlb/tmz0yxx4twxqsmqwyvjt",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-21T21:38:00+00:00",
+      "time_ago": "7m ago"
+    },
     {
       "title": "Hot Stove Rumors: Webb, Peralta, Mets, Yankees, Cubs, White Sox",
       "link": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-21",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-21T20:52:22+00:00",
-      "time_ago": "29m ago"
+      "time_ago": "53m ago"
     },
     {
       "title": "Ewing agrees to 8-year, $95 million extension with Mets (source)",
@@ -51,7 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-21T18:36:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Examining Sabean's case for Hall of Fame enshrinement",
@@ -64,19 +77,6 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-11-21T15:01:18+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "The latest MLB rumors and free-agent news",
-      "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792119557/mlb/tmz0yxx4twxqsmqwyvjt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-21T14:27:00+00:00",
       "time_ago": "6h ago"
     },
     {
