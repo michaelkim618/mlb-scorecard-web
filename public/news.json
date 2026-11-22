@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T21:25:04.286115+00:00",
+  "updated_at": "2026-11-22T21:55:30.172057+00:00",
   "news": [
     {
       "title": "Former ROY Gil agrees to 1-year deal with Tigers (source)",
@@ -8,11 +8,76 @@
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j0hsqzddejbto5h6cfw7",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "MLB.com",
+      "author": "Jason Beck",
       "tag": "Injury",
       "tag_color": "#DC2626",
-      "pub_date": "2026-11-22T20:34:49+00:00",
-      "time_ago": "50m ago"
+      "pub_date": "2026-11-22T21:22:00+00:00",
+      "time_ago": "33m ago"
+    },
+    {
+      "title": "The signature HR swing of the Blue Jays' best slugger",
+      "link": "https://www.mlb.com/news/kazuma-okamoto-has-a-home-run-specialty",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/suurvmlmtiurykan4rgc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "David Adler",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-22T21:19:40+00:00",
+      "time_ago": "35m ago"
+    },
+    {
+      "title": "How Bregman turned a slow start into an award-winning season",
+      "link": "https://www.mlb.com/news/how-alex-bregman-delivered-award-winning-1st-season-with-cubs",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c7ehoilank8kvmp1w3u9",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-22T21:19:16+00:00",
+      "time_ago": "36m ago"
+    },
+    {
+      "title": "Who's on first? It can't be Rice AND García -- so here are some solutions",
+      "link": "https://www.mlb.com/news/ben-rice-luis-garcia-jr-yankees-first-base-options-for-2027",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795272267/mlb/twhg6ecbl0bsvzcu8hqh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-22T21:09:00+00:00",
+      "time_ago": "46m ago"
+    },
+    {
+      "title": "Why Schwarber's path to 500 home runs would be nearly unprecedented",
+      "link": "https://www.mlb.com/news/kyle-schwarber-s-unusual-path-to-500-home-runs",
+      "summary": "Slugger had 153 homers through age-28 season; now 115 HR shy of 500",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ovksuxevc3vynqbcjwnq",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harrigan",
+      "tag": "Highlight",
+      "tag_color": "#D97706",
+      "pub_date": "2026-11-22T21:08:15+00:00",
+      "time_ago": "47m ago"
+    },
+    {
+      "title": "Looking back at 7 big Braves contract extensions",
+      "link": "https://www.mlb.com/news/notable-braves-contract-extensions",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795138691/mlb/mkagjitqaoeydtwsgoht",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Manny Randhawa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-22T21:07:59+00:00",
+      "time_ago": "47m ago"
     },
     {
       "title": "The latest MLB rumors and free-agent news",
@@ -38,72 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-22T17:47:24+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Want the nastiest pitches? Sign these free agents",
-      "link": "https://www.mlb.com/news/the-best-pitches-on-the-2026-27-free-agent-market",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wr1wgvtd566sr8aejidl",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "David Adler",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-22T02:41:07+00:00",
-      "time_ago": "18h ago"
-    },
-    {
-      "title": "Which version of these top free agents will their next teams be getting?",
-      "link": "https://www.mlb.com/news/mlb-free-agents-in-2026-2027-class-who-are-toughest-to-project",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fs0u2fbw0oyvujcwu9qc",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harrigan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-22T02:40:48+00:00",
-      "time_ago": "18h ago"
-    },
-    {
-      "title": "Skubal changed after entering Dodgers pitching lab — here’s how",
-      "link": "https://www.mlb.com/news/tarik-skubal-changes-after-dodgers-trade",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795226564/mlb/klrh4htud16zs1nc3ybk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "David Adler",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-22T01:04:00+00:00",
-      "time_ago": "20h ago"
-    },
-    {
-      "title": "A deep dive into 1 of the best free-agent starting pitchers not named Skubal",
-      "link": "https://www.mlb.com/news/trevor-rogers-keys-to-success-in-2027",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zskzt72o0qmpsdq5b7wn",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan ",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-22T01:03:59+00:00",
-      "time_ago": "20h ago"
-    },
-    {
-      "title": "Might LA deal Teo to give De Paula a longer look in '27?",
-      "link": "https://www.mlb.com/news/josue-de-paula-arrival-creates-left-field-question-for-dodgers-with-teoscar-hernandez",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795230063/mlb/vqkpoukteublglrpwvtj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-21T23:34:13+00:00",
-      "time_ago": "21h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
