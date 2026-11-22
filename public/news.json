@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-22T20:26:32.010192+00:00",
+  "updated_at": "2026-11-22T20:38:35.612377+00:00",
   "news": [
+    {
+      "title": "Former ROY Gil agrees to 1-year deal with Tigers (source)",
+      "link": "https://www.mlb.com/news/luis-gil-tigers-deal",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j0hsqzddejbto5h6cfw7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "Injury",
+      "tag_color": "#DC2626",
+      "pub_date": "2026-11-22T20:34:49+00:00",
+      "time_ago": "3m ago"
+    },
     {
       "title": "The latest MLB rumors and free-agent news",
       "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
@@ -90,20 +103,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-21T23:34:13+00:00",
-      "time_ago": "20h ago"
-    },
-    {
-      "title": "Hot Stove Rumors: Webb, Peralta, Mets, Yankees, Cubs, White Sox",
-      "link": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-21",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wvtbj83l8bkbcq1vvjqp",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-21T20:52:22+00:00",
-      "time_ago": "23h ago"
+      "time_ago": "21h ago"
     }
   ]
 }
