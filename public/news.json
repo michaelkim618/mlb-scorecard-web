@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T01:27:16.144480+00:00",
+  "updated_at": "2026-11-22T01:46:07.317975+00:00",
   "news": [
     {
       "title": "Skubal changed after entering Dodgers pitching lab — here’s how",
@@ -12,7 +12,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-22T01:04:00+00:00",
-      "time_ago": "23m ago"
+      "time_ago": "42m ago"
     },
     {
       "title": "Might LA deal Teo to give De Paula a longer look in '27?",
@@ -25,7 +25,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-21T23:34:13+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "The latest MLB rumors and free-agent news",
@@ -38,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-21T21:38:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Hot Stove Rumors: Webb, Peralta, Mets, Yankees, Cubs, White Sox",
@@ -52,6 +52,19 @@
       "tag_color": "#64748B",
       "pub_date": "2026-11-21T20:52:22+00:00",
       "time_ago": "4h ago"
+    },
+    {
+      "title": "What the Padres' improved infield defense might mean for their offseason",
+      "link": "https://www.mlb.com/news/is-the-padres-improved-infield-defense-sustainable",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vip4p618dojqvfp3tjg6",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jared Greenspan ",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-21T20:01:10+00:00",
+      "time_ago": "5h ago"
     },
     {
       "title": "Ewing agrees to 8-year, $95 million extension with Mets (source)",
@@ -80,30 +93,17 @@
       "time_ago": "6h ago"
     },
     {
-      "title": "The earliest MLB contract extensions",
-      "link": "https://www.mlb.com/news/earliest-contract-extensions-in-mlb-history-c269677352",
-      "summary": "10 players have signed deals before big league debut",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hurpnimn9lmrbm6dmoyk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matt Kelly",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-21T18:36:00+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Examining Sabean's case for Hall of Fame enshrinement",
-      "link": "https://www.mlb.com/news/brian-sabean-hall-of-fame-case",
+      "title": "Ohtani, Alvarez and Contreras lead 2026 All-World Team",
+      "link": "https://www.mlb.com/news/2026-mlb-all-world-team",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795230344/mlb/euq6b7v5citqpeumrnxx",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dhoxig1t2px1l976u8dm",
       "source": "MLB.com",
       "source_color": "#002D72",
-      "author": "Maria Guardado",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-11-21T15:01:18+00:00",
-      "time_ago": "10h ago"
+      "author": "Michael Clair",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-21T16:14:17+00:00",
+      "time_ago": "9h ago"
     }
   ]
 }
