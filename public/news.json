@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-23T19:22:49.281639+00:00",
+  "updated_at": "2026-11-23T19:54:42.587422+00:00",
   "news": [
+    {
+      "title": "Miller won't return as Astros' pitching coach in '27 (source)",
+      "link": "https://www.mlb.com/news/josh-miller-will-not-return-astros-pitching-coach",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/r43wfnzvmfykvjrycpij",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Tim Stebbins",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-23T19:28:30+00:00",
+      "time_ago": "26m ago"
+    },
     {
       "title": "With Commissioner Manfred on hand, parade celebrates ‘year of Venezuela in baseball’",
       "link": "https://www.mlb.com/news/mlb-commissioner-rob-manfred-joins-team-venezuela-to-celebrate-world-baseball-classic-title",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-23T18:45:46+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Brewers' portion of total postseason shares tops $41 million",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-23T18:26:54+00:00",
-      "time_ago": "55m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Dodgers take a flier on reliever Stephenson to bulk up bullpen options (source)",
@@ -90,19 +103,6 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-23T15:30:08+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "Where does Blue Jays' rotation stand before potential additions?",
-      "link": "https://www.mlb.com/news/blue-jays-starting-rotation-projection-ahead-of-2027",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/d3d1tm1h1zoyxaq6fa76",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-23T15:14:36+00:00",
       "time_ago": "4h ago"
     }
   ]
