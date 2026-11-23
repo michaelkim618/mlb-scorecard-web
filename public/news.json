@@ -1,18 +1,31 @@
 {
-  "updated_at": "2026-11-23T01:15:57.426213+00:00",
+  "updated_at": "2026-11-23T01:51:55.261389+00:00",
   "news": [
+    {
+      "title": "Rotation a 'blank canvas,' here are SD's options with Skubal no longer in play",
+      "link": "https://www.mlb.com/news/padres-starting-pitching-plans-after-missing-out-on-tarik-skubal",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795396070/mlb/qouizo98puynf8nevkof",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-11-23T01:18:53+00:00",
+      "time_ago": "33m ago"
+    },
     {
       "title": "With Skubal off the market, will it open free-agent floodgates?",
       "link": "https://www.mlb.com/news/what-tarik-skubal-deal-means-for-free-agent-market",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ftnugxt6kadpohzw9xec",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/milhyedjdbirjkeaxizt",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Mark Feinsand",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-23T00:51:30+00:00",
-      "time_ago": "24m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Mets make the big splash, agree with Skubal for 9 years, $450M (sources)",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-23T00:27:00+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "These 7 teams have the prospects to swing a big trade this offseason",
@@ -38,7 +51,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-23T00:24:00+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "5 immediate takeaways from Skubal's deal with Mets",
@@ -51,59 +64,46 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-23T00:19:41+00:00",
-      "time_ago": "56m ago"
-    },
-    {
-      "title": "Tarik Skubal to the Mets! Grading the record $450 million deal",
-      "link": "https://www.espn.com/mlb/story/_/id/50521081/tarik-skubal-new-york-mets-grade-record-contract",
-      "summary": "New York has landed this offseason's most prized free agent. How did the Mets fare in handing out the mind-boggling contract?",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1119%2Fmlb_skubal%2Dmets_16x9.jpg",
-      "source": "ESPN",
-      "source_color": "#D50A0A",
-      "author": "",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-23T00:16:27+00:00",
-      "time_ago": "59m ago"
-    },
-    {
-      "title": "↔️ Free agency tracker: Offseason trades, moves",
-      "link": "https://www.espn.com/mlb/story/_/id/50328768/free-agency-tracker-offseason-trades-moves-2026-2027",
-      "summary": "We've got you covered on all the major MLB hot stove signings and trades.",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0802%2Fr1696679_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "source_color": "#D50A0A",
-      "author": "",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-23T00:14:27+00:00",
       "time_ago": "1h ago"
     },
     {
-      "title": "Big Apple blockbuster: Mets, Skubal reach record 9-year, $450M contract, sources say",
-      "link": "https://www.espn.com/mlb/story/_/id/50565674/sources-mets-skubal-agree-9-year-450m-contract",
-      "summary": "Tarik Skubal and the Mets agreed to a nine-year, $450 million contract, sources told ESPN. It is the richest deal for a pitcher, both by total and average annual value.",
-      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1027%2Fr1737049_2_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "source_color": "#D50A0A",
-      "author": "",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-23T00:14:26+00:00",
+      "title": "Servais joins Rockies as senior director of baseball operations",
+      "link": "https://www.mlb.com/news/scott-servais-returns-to-rockies-front-office",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795387064/mlb/nfyid33ecgmy9cs2yvrv",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harding",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-23T00:10:00+00:00",
       "time_ago": "1h ago"
     },
     {
-      "title": "Sources: Tigers stay busy, add '24 AL Rookie of Year Gil to pitching mix",
-      "link": "https://www.espn.com/mlb/story/_/id/50565569/sources-free-agent-luis-gil-agrees-deal-tigers",
-      "summary": "Luis Gil and the Tigers are in agreement on a one-year, $2.3 million contract, sources told ESPN, as he lands a job just days after the Yankees nontendered him.",
-      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0401%2Fr1637311_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "source_color": "#D50A0A",
-      "author": "",
-      "tag": "Injury",
-      "tag_color": "#DC2626",
-      "pub_date": "2026-11-23T00:14:26+00:00",
+      "title": "Mets got the biggest prize in Skubal ... but they may be just getting started",
+      "link": "https://www.mlb.com/news/how-tarik-skubal-deal-affects-mets-offseason-plans",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lbfjpggolm0g9jk1j4ez",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-22T23:59:02+00:00",
       "time_ago": "1h ago"
+    },
+    {
+      "title": "Will Padres finally leapfrog Dodgers for NL West crown in '27?",
+      "link": "https://www.mlb.com/news/will-padres-overtake-dodgers-to-win-nl-west-2027",
+      "summary": "Dynastic Dodgers have an aging roster, but San Diego needs starting pitching",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795128408/mlb/bfemnpfer0lju5kjgmp1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Manny Randhawa",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-11-22T23:48:00+00:00",
+      "time_ago": "2h ago"
     }
   ]
 }
