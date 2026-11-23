@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-23T17:36:41.782682+00:00",
+  "updated_at": "2026-11-23T18:35:17.806873+00:00",
   "news": [
+    {
+      "title": "Dodgers take a flier on reliever Stephenson to bulk up bullpen options (source)",
+      "link": "https://www.mlb.com/news/robert-stephenson-dodgers-minor-league-contract",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ziquj0agkgjypj1v4w7a",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Sonja Chen",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-11-23T18:05:16+00:00",
+      "time_ago": "30m ago"
+    },
     {
       "title": "Hot Stove Rumors: Skubal fallout, King, Peralta, Sato, Morejon, Webb",
       "link": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-23",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-23T17:19:17+00:00",
-      "time_ago": "17m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "The latest MLB rumors and free-agent news",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-23T17:16:00+00:00",
-      "time_ago": "20m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "1B Goldschmidt agrees to deal with busy Mets (source)",
@@ -38,7 +51,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-23T16:16:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Nats lefty Tolman wins 2026 Tony Conigliaro Award",
@@ -51,7 +64,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-23T15:30:08+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Where does Blue Jays' rotation stand before potential additions?",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-23T15:14:36+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "There’s a new ace reportedly available via trade. Here’s why the Cubs are a perfect match",
@@ -77,7 +90,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-23T14:57:47+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Examining Dodgers' rotation options after not re-signing Skubal",
@@ -90,20 +103,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-23T02:31:27+00:00",
-      "time_ago": "15h ago"
-    },
-    {
-      "title": "1 team at each position most in need of an upgrade for 2027",
-      "link": "https://www.mlb.com/news/mlb-teams-that-need-to-make-an-offseason-upgrade-2026-27",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/h20cygkjhablo7oe8vc1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brian Murphy",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-23T02:28:44+00:00",
-      "time_ago": "15h ago"
+      "time_ago": "16h ago"
     }
   ]
 }
