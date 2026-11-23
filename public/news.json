@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-23T02:03:52.814706+00:00",
+  "updated_at": "2026-11-23T02:55:40.362871+00:00",
   "news": [
+    {
+      "title": "Examining Dodgers' rotation options after not re-signing Skubal",
+      "link": "https://www.mlb.com/news/dodgers-rotation-plans-without-tarik-skubal",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795399970/mlb/jafb9khfxzo0yphtsktx",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-23T02:31:27+00:00",
+      "time_ago": "24m ago"
+    },
+    {
+      "title": "1 team at each position most in need of an upgrade for 2027",
+      "link": "https://www.mlb.com/news/mlb-teams-that-need-to-make-an-offseason-upgrade-2026-27",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/h20cygkjhablo7oe8vc1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-23T02:28:44+00:00",
+      "time_ago": "26m ago"
+    },
     {
       "title": "Rotation a 'blank canvas,' here are SD's options with Skubal no longer in play",
       "link": "https://www.mlb.com/news/padres-starting-pitching-plans-after-missing-out-on-tarik-skubal",
@@ -12,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-23T01:18:53+00:00",
-      "time_ago": "44m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "With Skubal off the market, will it open free-agent floodgates?",
@@ -25,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-23T00:51:30+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Mets make the big splash, agree with Skubal for 9 years, $450M (sources)",
@@ -38,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-23T00:27:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "These 7 teams have the prospects to swing a big trade this offseason",
@@ -51,7 +77,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-23T00:24:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "5 immediate takeaways from Skubal's deal with Mets",
@@ -64,7 +90,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-23T00:19:41+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Servais joins Rockies as senior director of baseball operations",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-23T00:10:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Mets got the biggest prize in Skubal ... but they may be just getting started",
-      "link": "https://www.mlb.com/news/how-tarik-skubal-deal-affects-mets-offseason-plans",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lbfjpggolm0g9jk1j4ez",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Anthony DiComo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-22T23:59:02+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Will Padres finally leapfrog Dodgers for NL West crown in '27?",
-      "link": "https://www.mlb.com/news/will-padres-overtake-dodgers-to-win-nl-west-2027",
-      "summary": "Dynastic Dodgers have an aging roster, but San Diego needs starting pitching",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795128408/mlb/bfemnpfer0lju5kjgmp1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Manny Randhawa",
-      "tag": "Roster",
-      "tag_color": "#0284C7",
-      "pub_date": "2026-11-22T23:48:00+00:00",
       "time_ago": "2h ago"
     }
   ]
