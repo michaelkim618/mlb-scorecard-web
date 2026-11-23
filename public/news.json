@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-22T23:42:56.943179+00:00",
+  "updated_at": "2026-11-23T00:07:28.835615+00:00",
   "news": [
+    {
+      "title": "Mets got the biggest prize in Skubal ... but they may be just getting started",
+      "link": "https://www.mlb.com/news/how-tarik-skubal-deal-affects-mets-offseason-plans",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lbfjpggolm0g9jk1j4ez",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-22T23:59:02+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Will Padres finally leapfrog Dodgers for NL West crown in '27?",
+      "link": "https://www.mlb.com/news/will-padres-overtake-dodgers-to-win-nl-west-2027",
+      "summary": "Dynastic Dodgers have an aging roster, but San Diego needs starting pitching",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795128408/mlb/bfemnpfer0lju5kjgmp1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Manny Randhawa",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-11-22T23:48:00+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "How can Scott get even better for Mets?",
+      "link": "https://www.mlb.com/news/christian-scott-outlook-for-mets-in-2027",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tvi3h17qxpe3fh5qlx1k",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-22T23:45:00+00:00",
+      "time_ago": "22m ago"
+    },
     {
       "title": "5 reasons why Skubal is so dominant",
       "link": "https://www.mlb.com/news/what-makes-tarik-skubal-so-dominant",
@@ -64,45 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-22T22:14:05+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Tarik Skubal to the Mets! Grading the record $450 million deal",
-      "link": "https://www.espn.com/mlb/story/_/id/50521081/tarik-skubal-new-york-mets-grade-record-contract",
-      "summary": "New York has landed this offseason's most prized free agent. How did the Mets fare in handing out the contract?",
-      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1119%2Fmlb_skubal%2Dmets_16x9.jpg",
-      "source": "ESPN",
-      "source_color": "#D50A0A",
-      "author": "",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-22T22:14:05+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "The latest MLB rumors and free-agent news",
-      "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792119557/mlb/tmz0yxx4twxqsmqwyvjt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-22T22:13:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
-      "title": "Skubal joining Mets for 9 years, $450M (source)",
-      "link": "https://www.mlb.com/news/tarik-skubal-mets-contract",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tfbgcdyl80a9in2mpsxk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harrigan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-22T22:09:00+00:00",
       "time_ago": "1h ago"
     }
   ]
