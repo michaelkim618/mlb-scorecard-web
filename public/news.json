@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-23T18:57:14.264929+00:00",
+  "updated_at": "2026-11-23T19:22:49.281639+00:00",
   "news": [
+    {
+      "title": "With Commissioner Manfred on hand, parade celebrates ‘year of Venezuela in baseball’",
+      "link": "https://www.mlb.com/news/mlb-commissioner-rob-manfred-joins-team-venezuela-to-celebrate-world-baseball-classic-title",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/usrxsldcqxzohnsbbvz1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "David Venn",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-23T18:45:46+00:00",
+      "time_ago": "37m ago"
+    },
     {
       "title": "Brewers' portion of total postseason shares tops $41 million",
       "link": "https://www.mlb.com/news/2026-mlb-postseason-shares",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-23T18:26:54+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "55m ago"
     },
     {
       "title": "Dodgers take a flier on reliever Stephenson to bulk up bullpen options (source)",
@@ -25,7 +38,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-23T18:05:16+00:00",
-      "time_ago": "51m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Hot Stove Rumors: Skubal fallout, King, Peralta, Sato, Morejon, Webb",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-23T17:19:17+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "The latest MLB rumors and free-agent news",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-23T17:16:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "1B Goldschmidt agrees to deal with busy Mets (source)",
@@ -64,7 +77,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-23T16:16:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Nats lefty Tolman wins 2026 Tony Conigliaro Award",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-23T15:14:36+00:00",
-      "time_ago": "3h ago"
-    },
-    {
-      "title": "There’s a new ace reportedly available via trade. Here’s why the Cubs are a perfect match",
-      "link": "https://www.mlb.com/news/why-logan-webb-is-a-fit-for-the-cubs-via-potential-trade",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rn2foheodpmzzgsa3u9b",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-23T14:57:47+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     }
   ]
 }
