@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-24T03:09:45.069047+00:00",
+  "updated_at": "2026-11-24T03:25:53.151679+00:00",
   "news": [
+    {
+      "title": "Royals sign lefty Thielbar to 1-year deal",
+      "link": "https://www.mlb.com/news/caleb-thielbar-deal-with-royals",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/o9o9kzlupcwud6x9dlvt",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Shanthi Sepe-Chepuru and Perla Paredes",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-24T03:02:00+00:00",
+      "time_ago": "23m ago"
+    },
     {
       "title": "Astros tab Martinez to replace Miller, add Bates as hitting coach (source)",
       "link": "https://www.mlb.com/news/josh-miller-will-not-return-astros-pitching-coach",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-24T02:22:00+00:00",
-      "time_ago": "47m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Why the 2026 rookie class might have been the best ever",
@@ -25,19 +38,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-24T00:26:12+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Royals sign lefty Thielbar to 1-year deal",
-      "link": "https://www.mlb.com/news/caleb-thielbar-deal-with-royals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/o9o9kzlupcwud6x9dlvt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Shanthi Sepe-Chepuru",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-24T00:24:41+00:00",
       "time_ago": "2h ago"
     },
     {
