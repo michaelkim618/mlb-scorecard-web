@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T15:05:39.868834+00:00",
+  "updated_at": "2026-11-24T15:37:33.102066+00:00",
   "news": [
     {
       "title": "The latest MLB rumors and free-agent news",
@@ -11,8 +11,21 @@
       "author": "",
       "tag": "MLB News",
       "tag_color": "#64748B",
-      "pub_date": "2026-11-24T14:27:00+00:00",
-      "time_ago": "38m ago"
+      "pub_date": "2026-11-24T15:34:00+00:00",
+      "time_ago": "3m ago"
+    },
+    {
+      "title": "Cubs, Japanese slugger Sato reach 6-year, $120 million deal (source)",
+      "link": "https://www.mlb.com/news/teruaki-sato-cubs-contract",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hihvuqo2e9gcsmmhnaho",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "David Adler",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-24T15:30:00+00:00",
+      "time_ago": "7m ago"
     },
     {
       "title": "Cubs reach multiyear deal with lefty Rogers as rotation revamp begins (source)",
@@ -25,7 +38,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-24T05:09:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "From 8 hand surgeries to a slam and a no-no, meet the teen inspired by Jim Abbott",
@@ -90,20 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-24T02:22:00+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "Why the 2026 rookie class might have been the best ever",
-      "link": "https://www.mlb.com/news/analyzing-success-of-2026-mlb-rookie-class",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cw9p4lhtusd8l1yhi58k",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jonathan Mayo",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-24T00:26:12+00:00",
-      "time_ago": "14h ago"
+      "time_ago": "13h ago"
     }
   ]
 }
