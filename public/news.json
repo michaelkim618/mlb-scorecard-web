@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-24T16:03:56.433578+00:00",
+  "updated_at": "2026-11-24T17:07:56.234289+00:00",
   "news": [
+    {
+      "title": "O's add 'Fastball Freddy' to rotation on largest deal for pitcher in franchise history (source)",
+      "link": "https://www.mlb.com/news/freddy-peralta-orioles-contract",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/yaglikre1vi5fpllxjk5",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Feinsand",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-24T16:58:00+00:00",
+      "time_ago": "9m ago"
+    },
     {
       "title": "Bubic agrees to 1-year, $17.5 million deal with Guardians (source)",
       "link": "https://www.mlb.com/news/kris-bubic-guardians-contract",
@@ -11,8 +24,47 @@
       "author": "",
       "tag": "Trade",
       "tag_color": "#7C3AED",
-      "pub_date": "2026-11-24T15:51:07+00:00",
-      "time_ago": "12m ago"
+      "pub_date": "2026-11-24T16:48:00+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Yankees reach 1-year deal with lefty reliever Suter",
+      "link": "https://www.mlb.com/news/brent-suter-yankees-contract",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gjbzfft32z5qnilhg33x",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Bryan Hoch",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-24T16:48:00+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "The latest MLB rumors and free-agent news",
+      "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ohww7kflprhko3e7nxdh",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-24T16:37:00+00:00",
+      "time_ago": "30m ago"
+    },
+    {
+      "title": "Cubs, Japanese slugger Sato reach 6-year, $120 million deal (source)",
+      "link": "https://www.mlb.com/news/teruaki-sato-cubs-contract",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hihvuqo2e9gcsmmhnaho",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jordan Bastian",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-24T16:19:00+00:00",
+      "time_ago": "48m ago"
     },
     {
       "title": "What to expect from Japanese superstar Sato in the Majors",
@@ -25,33 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-24T15:40:00+00:00",
-      "time_ago": "23m ago"
-    },
-    {
-      "title": "The latest MLB rumors and free-agent news",
-      "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/us2r6s8iuwjiu4c15xus",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-24T15:34:00+00:00",
-      "time_ago": "29m ago"
-    },
-    {
-      "title": "Cubs, Japanese slugger Sato reach 6-year, $120 million deal (source)",
-      "link": "https://www.mlb.com/news/teruaki-sato-cubs-contract",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hihvuqo2e9gcsmmhnaho",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "David Adler",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-24T15:30:00+00:00",
-      "time_ago": "33m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Cubs reach multiyear deal with lefty Rogers as rotation revamp begins (source)",
@@ -64,7 +90,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-24T05:09:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "From 8 hand surgeries to a slam and a no-no, meet the teen inspired by Jim Abbott",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-24T05:00:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "Royals sign lefty Thielbar to 1-year deal",
-      "link": "https://www.mlb.com/news/caleb-thielbar-deal-with-royals",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/o9o9kzlupcwud6x9dlvt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Shanthi Sepe-Chepuru and Perla Paredes",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-24T03:02:00+00:00",
-      "time_ago": "13h ago"
-    },
-    {
-      "title": "This international star is bringing a unique pitch to MLB",
-      "link": "https://www.mlb.com/news/kaima-taira-bringing-unique-fastball-to-mlb",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iwjczpmqnw13hyuyekf3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "David Adler",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-24T03:00:15+00:00",
-      "time_ago": "13h ago"
+      "time_ago": "12h ago"
     }
   ]
 }
