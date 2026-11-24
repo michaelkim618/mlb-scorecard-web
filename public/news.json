@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-24T18:27:41.048470+00:00",
+  "updated_at": "2026-11-24T18:36:04.135088+00:00",
   "news": [
+    {
+      "title": "Tigers agree to 1-year deal with versatile infielder Kim (source)",
+      "link": "https://www.mlb.com/news/ha-seong-kim-tigers-contract",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tvcnoapnntlvk3vsesl1",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-24T18:26:14+00:00",
+      "time_ago": "9m ago"
+    },
     {
       "title": "Looking at Cubs' roster needs after Sato, Rogers deals",
       "link": "https://www.mlb.com/news/cubs-2027-roster-after-deals-with-teruaki-sato-trevor-rogers",
@@ -12,7 +25,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-24T17:57:29+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "38m ago"
     },
     {
       "title": "O's add 'Fastball Freddy' to rotation on largest deal for pitcher in franchise history (source)",
@@ -91,19 +104,6 @@
       "tag_color": "#64748B",
       "pub_date": "2026-11-24T15:40:00+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Cubs reach multiyear deal with lefty Rogers as rotation revamp begins (source)",
-      "link": "https://www.mlb.com/news/trevor-rogers-cubs-contract",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dlsasdej6iqy0mmvucax",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jordan Bastian",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-24T05:09:00+00:00",
-      "time_ago": "13h ago"
     }
   ]
 }
