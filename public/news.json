@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-24T15:37:33.102066+00:00",
+  "updated_at": "2026-11-24T16:03:56.433578+00:00",
   "news": [
+    {
+      "title": "Bubic agrees to 1-year, $17.5 million deal with Guardians (source)",
+      "link": "https://www.mlb.com/news/kris-bubic-guardians-contract",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wtarxcd5act1xxmgevuz",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-24T15:51:07+00:00",
+      "time_ago": "12m ago"
+    },
+    {
+      "title": "What to expect from Japanese superstar Sato in the Majors",
+      "link": "https://www.mlb.com/news/what-to-expect-from-teruaki-sato-in-majors",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793845917/mlb/myqzdjcyskuro9m9yjou",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "David Adler",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-24T15:40:00+00:00",
+      "time_ago": "23m ago"
+    },
     {
       "title": "The latest MLB rumors and free-agent news",
       "link": "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
@@ -12,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-24T15:34:00+00:00",
-      "time_ago": "3m ago"
+      "time_ago": "29m ago"
     },
     {
       "title": "Cubs, Japanese slugger Sato reach 6-year, $120 million deal (source)",
@@ -25,7 +51,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-24T15:30:00+00:00",
-      "time_ago": "7m ago"
+      "time_ago": "33m ago"
     },
     {
       "title": "Cubs reach multiyear deal with lefty Rogers as rotation revamp begins (source)",
@@ -51,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-24T05:00:00+00:00",
-      "time_ago": "10h ago"
+      "time_ago": "11h ago"
     },
     {
       "title": "Royals sign lefty Thielbar to 1-year deal",
@@ -64,7 +90,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-24T03:02:00+00:00",
-      "time_ago": "12h ago"
+      "time_ago": "13h ago"
     },
     {
       "title": "This international star is bringing a unique pitch to MLB",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-24T03:00:15+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "5 grizzled veteran free agents with something left to prove",
-      "link": "https://www.mlb.com/news/veteran-free-agents-that-can-make-an-impact-in-2027",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ftrejctnjh5w89go7bun",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Will Leitch",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-24T03:00:12+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "Astros tab Martinez to replace Miller, add Bates as hitting coach (source)",
-      "link": "https://www.mlb.com/news/josh-miller-will-not-return-astros-pitching-coach",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mjhb6fxbylttfnazhfg2",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Tim Stebbins",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-24T02:22:00+00:00",
       "time_ago": "13h ago"
     }
   ]
