@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-25T23:26:00.213324+00:00",
+  "updated_at": "2026-11-25T23:44:07.015221+00:00",
   "news": [
+    {
+      "title": "Tigers agree to 1-year deal with veteran righty Gausman (source)",
+      "link": "https://www.mlb.com/news/kevin-gausman-tigers-deal",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qyhe2yfdxvyrwy5vx714",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "David Adler",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-25T23:36:27+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Guardians bringing back lefty Griffin on 3-year, $48 million deal (source)",
+      "link": "https://www.mlb.com/news/foster-griffin-guardians-contract",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iqcvxwh1xxnj4sx3yuof",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Aiden Stepansky",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-25T23:36:20+00:00",
+      "time_ago": "7m ago"
+    },
+    {
+      "title": "Mets make the big splash, sign Skubal for 9 years, $450M",
+      "link": "https://www.mlb.com/news/tarik-skubal-mets-contract",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tfbgcdyl80a9in2mpsxk",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony DiComo",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-25T23:22:00+00:00",
+      "time_ago": "22m ago"
+    },
     {
       "title": "Padres adding free-agent reliever Romero on 3-year deal (sources)",
       "link": "https://www.mlb.com/news/jojo-romero-padres-contract",
@@ -12,7 +51,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-25T23:07:00+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "Veteran backstop Sánchez joining Marlins on 1-year contract (source)",
@@ -25,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-25T23:06:11+00:00",
-      "time_ago": "19m ago"
+      "time_ago": "37m ago"
     },
     {
       "title": "Hot Stove Rumors: Arozarena, Suzuki, Morejon, Blue Jays, Orioles",
@@ -54,19 +93,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Three 200-K aces? Only 1 team's projected for it",
-      "link": "https://www.mlb.com/news/phillies-projected-for-three-200-strikeout-pitchers-in-2027",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795576468/mlb/ica4ewkzealojgega8eo",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "David Adler",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-11-25T21:09:39+00:00",
-      "time_ago": "2h ago"
-    },
-    {
       "title": "Where can Braves turn to fill shortstop in 2027?",
       "link": "https://www.mlb.com/news/braves-options-for-2027-shortstop",
       "summary": "",
@@ -77,32 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-25T21:07:40+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "The big bullpen question looming over Yankees' offseason",
-      "link": "https://www.mlb.com/news/yankees-bullpen-moves-and-free-agent-reliever-options-for-2027",
-      "summary": "Yankees have landed Bednar, Loáisiga, Hill, Suter; reportedly eyeing Morejon",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gzqh66vvsjzkbjuerin1",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harrigan",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-25T21:03:07+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "This rookie had one of the best seasons by any reliever in 2026. Here's how he did it",
-      "link": "https://www.mlb.com/news/bradgley-rodriguez-2026-analysis",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eofcdv8tuuypvwttjf3a",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Brent Maguire",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-25T21:01:00+00:00",
       "time_ago": "2h ago"
     }
   ]
