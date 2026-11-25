@@ -1,11 +1,50 @@
 {
-  "updated_at": "2026-11-25T03:53:05.866191+00:00",
+  "updated_at": "2026-11-25T04:22:37.560099+00:00",
   "news": [
+    {
+      "title": "Mariners bringing back old friend Carlos Santana on Minor League deal (source)",
+      "link": "https://www.mlb.com/news/carlos-santana-mariners-minor-league-deal",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795577601/mlb/gpfxj6qcrnzwkdummuoc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-25T04:02:38+00:00",
+      "time_ago": "19m ago"
+    },
+    {
+      "title": "Small ball is having a moment. Will more teams take note?",
+      "link": "https://www.mlb.com/news/small-ball-moment-brewers-2026-championship",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lpmq55san8hdrrz8bpxg",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-25T03:25:06+00:00",
+      "time_ago": "57m ago"
+    },
+    {
+      "title": "Let's build a lineup of MLB's best 25-and-under stars",
+      "link": "https://www.mlb.com/news/best-players-in-mlb-25-and-under-heading-into-2027",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/iwpiaxzm84numxa1fotj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Brian Murphy",
+      "tag": "Roster",
+      "tag_color": "#0284C7",
+      "pub_date": "2026-11-25T03:22:41+00:00",
+      "time_ago": "59m ago"
+    },
     {
       "title": "4 questions about free-agent market after flurry of deals",
       "link": "https://www.mlb.com/news/mlb-free-agency-questions-entering-thanksgiving",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ysibr3jkzyndwbysmgmy",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t94wjdzznryyeav4gl1b",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Mark Feinsand",
@@ -25,7 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-25T02:00:18+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "These Statcast leaders jumped off the page in the Fall League",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-25T01:15:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Tyrone Taylor agrees to deal with White Sox, sticking in Chicago (source)",
@@ -64,46 +103,7 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-24T23:17:23+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Newest Mariner already has seal of approval -- and catchy nickname -- from J-Rod",
-      "link": "https://www.mlb.com/news/maikel-garcia-introduced-by-mariners",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vzezlfdpdkzkd9oqam3k",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Daniel Kramer",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-24T23:13:11+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "title": "Here's what to know about Kaima Taira and how the Blue Jays could utilize him",
-      "link": "https://www.mlb.com/news/kaima-taira-profile-blue-jays",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uhhnrcd8bkwn0axfvef4",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Keegan Matheson",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-24T21:44:05+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "title": "Take a trip to Japan (and into the sumo ring!) with Paul Skenes and Livvy Dunne",
-      "link": "https://www.mlb.com/news/paul-skenes-livvy-dunne-visit-japan",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rvuldr5imsjviaz98pf9",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-24T21:19:53+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "5h ago"
     }
   ]
 }
