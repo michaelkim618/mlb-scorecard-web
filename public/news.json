@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-25T23:12:06.577458+00:00",
+  "updated_at": "2026-11-25T23:26:00.213324+00:00",
   "news": [
+    {
+      "title": "Padres adding free-agent reliever Romero on 3-year deal (sources)",
+      "link": "https://www.mlb.com/news/jojo-romero-padres-contract",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/spqsvcxd9k36nao8i2my",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "AJ Cassavell",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-25T23:07:00+00:00",
+      "time_ago": "19m ago"
+    },
     {
       "title": "Veteran backstop Sánchez joining Marlins on 1-year contract (source)",
       "link": "https://www.mlb.com/news/gary-sanchez-marlins-contract",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-25T23:06:11+00:00",
-      "time_ago": "5m ago"
+      "time_ago": "19m ago"
     },
     {
       "title": "Hot Stove Rumors: Arozarena, Suzuki, Morejon, Blue Jays, Orioles",
@@ -41,19 +54,6 @@
       "time_ago": "1h ago"
     },
     {
-      "title": "Padres adding free-agent reliever Romero on 3-year deal (source)",
-      "link": "https://www.mlb.com/news/jojo-romero-padres-contract",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/spqsvcxd9k36nao8i2my",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Max Ralph",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-25T21:39:00+00:00",
-      "time_ago": "1h ago"
-    },
-    {
       "title": "Three 200-K aces? Only 1 team's projected for it",
       "link": "https://www.mlb.com/news/phillies-projected-for-three-200-strikeout-pitchers-in-2027",
       "summary": "",
@@ -64,6 +64,19 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-11-25T21:09:39+00:00",
+      "time_ago": "2h ago"
+    },
+    {
+      "title": "Where can Braves turn to fill shortstop in 2027?",
+      "link": "https://www.mlb.com/news/braves-options-for-2027-shortstop",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wgjjbmbcbsnqq2wpzp5e",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-25T21:07:40+00:00",
       "time_ago": "2h ago"
     },
     {
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-25T21:01:00+00:00",
-      "time_ago": "2h ago"
-    },
-    {
-      "title": "Reds bring back catcher Stephenson on 2-year deal with player option",
-      "link": "https://www.mlb.com/news/tyler-stephenson-reds-contract",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/std5oo3h4qyhoshhymul",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-25T20:52:00+00:00",
       "time_ago": "2h ago"
     }
   ]
