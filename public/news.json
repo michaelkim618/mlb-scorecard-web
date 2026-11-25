@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-25T15:21:57.247701+00:00",
+  "updated_at": "2026-11-25T15:52:41.974017+00:00",
   "news": [
+    {
+      "title": "Royals agree to 2-year, $20M deal with free-agent infielder Bohm (source)",
+      "link": "https://www.mlb.com/news/alec-bohm-royals-contract",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/l2jtxx8d6iuhglwllmpj",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Theo DeRosa",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-25T15:44:00+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "A $120 million contract and an MVP Award? All in a day's work for Sato",
+      "link": "https://www.mlb.com/news/teruaki-sato-wins-npb-mvp-award-after-agreeing-to-cubs-contract",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793845917/mlb/myqzdjcyskuro9m9yjou",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Max Ralph",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-25T14:55:52+00:00",
+      "time_ago": "56m ago"
+    },
+    {
+      "title": "After big Peralta signing, could O's still add to rotation mix?",
+      "link": "https://www.mlb.com/news/orioles-rotation-landscape-after-freddy-peralta-signing",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/prlbpic01tymfikrlews",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Jake Rill",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-25T14:55:22+00:00",
+      "time_ago": "57m ago"
+    },
     {
       "title": "Australian Baseball League now available on MLB.TV",
       "link": "https://www.mlb.com/news/australian-baseball-league-on-mlb-tv-for-2026-27-season",
@@ -25,7 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-25T06:32:00+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "Small ball is having a moment. Will more teams take note?",
@@ -38,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-25T03:25:06+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "12h ago"
     },
     {
       "title": "Let's build a lineup of MLB's best 25-and-under stars",
@@ -51,7 +90,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-25T03:22:41+00:00",
-      "time_ago": "11h ago"
+      "time_ago": "12h ago"
     },
     {
       "title": "4 questions about free-agent market after flurry of deals",
@@ -64,46 +103,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-25T02:33:13+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "Reds, Stephenson agree on 3-year deal to bring catcher back to Cincinnati (source)",
-      "link": "https://www.mlb.com/news/tyler-stephenson-reds-contract",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/std5oo3h4qyhoshhymul",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Aiden Stepansky",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-25T02:00:18+00:00",
       "time_ago": "13h ago"
-    },
-    {
-      "title": "These Statcast leaders jumped off the page in the Fall League",
-      "link": "https://www.mlb.com/news/arizona-fall-league-statcast-final-leaders-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/twtgzcyuuj862jemi6qk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sam Dykstra",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-25T01:15:00+00:00",
-      "time_ago": "14h ago"
-    },
-    {
-      "title": "Tyrone Taylor agrees to deal with White Sox, sticking in Chicago (source)",
-      "link": "https://www.mlb.com/news/tyrone-taylor-white-sox-free-agent-contract",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e8s3bejz6fi5rj5kisxk",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Jared Greenspan and Matthew Leach",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-24T23:35:00+00:00",
-      "time_ago": "15h ago"
     }
   ]
 }
