@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-26T05:21:28.027812+00:00",
+  "updated_at": "2026-11-26T07:35:04.952541+00:00",
   "news": [
     {
-      "title": "Reliever Puk heading to Nationals on 1-year deal (report)",
+      "title": "Reliever Puk heading to Nationals on 1-year deal (source)",
       "link": "https://www.mlb.com/news/a-j-puk-contract-nationals",
       "summary": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fg2a1dtyihmjacxfmedg",
@@ -11,8 +11,8 @@
       "author": "Brent Maguire",
       "tag": "Trade",
       "tag_color": "#7C3AED",
-      "pub_date": "2026-11-26T05:01:00+00:00",
-      "time_ago": "20m ago"
+      "pub_date": "2026-11-26T05:21:00+00:00",
+      "time_ago": "2h ago"
     },
     {
       "title": "26 things Sarah Langs is thankful for from the 2026 baseball season (which was the best!)",
@@ -25,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-26T05:00:00+00:00",
-      "time_ago": "21m ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Twins add righty reliever Ginkel on 2-year deal (sources)",
@@ -38,7 +38,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-26T04:27:00+00:00",
-      "time_ago": "54m ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "The most unlikely and unusual pitcher wins of 2026",
@@ -51,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-26T04:11:53+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "3h ago"
     },
     {
       "title": "Rockies continue to bolster starting pitching, add Peterson, Sandoval (sources)",
@@ -64,20 +64,20 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-26T03:09:00+00:00",
-      "time_ago": "2h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "The SP market is moving fast. Which teams still need one, and who's out there?",
       "link": "https://www.mlb.com/news/starting-pitching-free-agent-market-update-before-thanksgiving-2026",
       "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fr9l2rhtbg4l69dcuygt",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/l7glbotingxnkx4ywm3f",
       "source": "MLB.com",
       "source_color": "#002D72",
       "author": "Thomas Harrigan",
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-26T01:50:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Ohtani plans to remain 2-way player, make up for 'this year's frustration'",
@@ -90,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-26T01:41:47+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "Guardians bringing back lefty Griffin on 3-year, $48 million deal (source)",
@@ -103,7 +103,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-26T01:16:00+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "6h ago"
     }
   ]
 }
