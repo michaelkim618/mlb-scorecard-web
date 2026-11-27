@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-27T16:54:05.707665+00:00",
+  "updated_at": "2026-11-27T17:03:48.786241+00:00",
   "news": [
+    {
+      "title": "RHP Jiménez continues comeback story, agrees to Minors deal with Rangers (source)",
+      "link": "https://www.mlb.com/news/joe-jimenez-minor-league-contract-with-rangers",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/trknkecpmhzomqdr67iw",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Mark Bowman",
+      "tag": "Trade",
+      "tag_color": "#7C3AED",
+      "pub_date": "2026-11-27T16:47:10+00:00",
+      "time_ago": "16m ago"
+    },
     {
       "title": "Mets finalize Ewing's 8-year, $95 million extension",
       "link": "https://www.mlb.com/news/a-j-ewing-contract-extension-mets",
@@ -25,7 +38,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-11-27T14:58:48+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Feeling healthy, free agent Woodruff sets sights on pitching in '27",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-27T14:54:52+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Shaw’s ’26 outfield trial may open path back to Cubs’ starting lineup",
@@ -91,19 +104,6 @@
       "tag_color": "#0284C7",
       "pub_date": "2026-11-27T14:18:59+00:00",
       "time_ago": "2h ago"
-    },
-    {
-      "title": "Hot Stove Rumors: Arozarena, Suzuki, Morejon, Blue Jays, Orioles",
-      "link": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-25",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vzoetdmhokslqdz6nbny",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "MLB.com",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-27T03:03:00+00:00",
-      "time_ago": "13h ago"
     }
   ]
 }
