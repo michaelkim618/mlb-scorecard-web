@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-27T15:25:26.880431+00:00",
+  "updated_at": "2026-11-27T16:19:11.666965+00:00",
   "news": [
+    {
+      "title": "Mets finalize Ewing's 8-year, $95 million extension",
+      "link": "https://www.mlb.com/news/a-j-ewing-contract-extension-mets",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nkpdwqsioqswd8nggdzp",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-27T15:16:00+00:00",
+      "time_ago": "1h ago"
+    },
     {
       "title": "Root of success: Dodgers prospect thriving with revamped arsenal",
       "link": "https://www.mlb.com/news/zach-root-dodgers-prospect-development-qa",
@@ -12,7 +25,7 @@
       "tag": "Highlight",
       "tag_color": "#D97706",
       "pub_date": "2026-11-27T14:58:48+00:00",
-      "time_ago": "26m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Feeling healthy, free agent Woodruff sets sights on pitching in '27",
@@ -25,7 +38,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-27T14:54:52+00:00",
-      "time_ago": "30m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Shaw’s ’26 outfield trial may open path back to Cubs’ starting lineup",
@@ -38,7 +51,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-27T14:47:38+00:00",
-      "time_ago": "37m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Which righty starter could balance Red Sox's rotation?",
@@ -51,7 +64,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-27T14:34:33+00:00",
-      "time_ago": "50m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Which free-agent starters are on Braves' wish list?",
@@ -64,7 +77,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-27T14:28:44+00:00",
-      "time_ago": "56m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Arms aplenty, but questions remain: Where Yankees' roster stands",
@@ -77,7 +90,7 @@
       "tag": "Roster",
       "tag_color": "#0284C7",
       "pub_date": "2026-11-27T14:18:59+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "2h ago"
     },
     {
       "title": "Hot Stove Rumors: Arozarena, Suzuki, Morejon, Blue Jays, Orioles",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-27T03:03:00+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "title": "The 16 most jaw-dropping Statcast feats of 2026",
-      "link": "https://www.mlb.com/news/top-statcast-plays-of-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795731680/mlb/aageaoo40rr7omkyg0q7",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "David Adler",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-27T01:56:06+00:00",
       "time_ago": "13h ago"
     }
   ]
