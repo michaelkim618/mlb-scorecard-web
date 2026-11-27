@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-27T02:44:23.349764+00:00",
+  "updated_at": "2026-11-27T03:07:30.792732+00:00",
   "news": [
+    {
+      "title": "Hot Stove Rumors: Arozarena, Suzuki, Morejon, Blue Jays, Orioles",
+      "link": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-25",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vzoetdmhokslqdz6nbny",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "MLB.com",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-27T03:03:00+00:00",
+      "time_ago": "4m ago"
+    },
     {
       "title": "The 16 most jaw-dropping Statcast feats of 2026",
       "link": "https://www.mlb.com/news/top-statcast-plays-of-2026",
@@ -12,7 +25,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-27T01:56:06+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "1h ago"
     },
     {
       "title": "Presenting the 2026 ... All-Awardless Team!",
@@ -25,7 +38,20 @@
       "tag": "Award",
       "tag_color": "#16A34A",
       "pub_date": "2026-11-27T01:55:37+00:00",
-      "time_ago": "48m ago"
+      "time_ago": "1h ago"
+    },
+    {
+      "title": "The SP market is moving fast. Which teams still need one, and who's out there?",
+      "link": "https://www.mlb.com/news/starting-pitching-free-agent-market-update-before-thanksgiving-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/l7glbotingxnkx4ywm3f",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Thomas Harrigan",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-27T01:50:00+00:00",
+      "time_ago": "1h ago"
     },
     {
       "title": "From 17 to 25, here is the best prospect at each age",
@@ -64,7 +90,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-26T16:52:00+00:00",
-      "time_ago": "9h ago"
+      "time_ago": "10h ago"
     },
     {
       "title": "Veteran backstop Sánchez joining Marlins on 1-year contract (sources)",
@@ -77,33 +103,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-26T14:49:00+00:00",
-      "time_ago": "11h ago"
-    },
-    {
-      "title": "26 things Sarah Langs is thankful for from the 2026 baseball season (which was the best!)",
-      "link": "https://www.mlb.com/news/things-to-be-thankful-for-from-2026-mlb-season",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rr3vrwzsyg3kfprdxwgj",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sarah Langs",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-26T05:00:00+00:00",
-      "time_ago": "21h ago"
-    },
-    {
-      "title": "Twins add righty reliever Ginkel on 2-year deal (sources)",
-      "link": "https://www.mlb.com/news/kevin-ginkel-twins-deal",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wou3fk7pegjvfmrpuuwt",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Matthew Leach",
-      "tag": "Trade",
-      "tag_color": "#7C3AED",
-      "pub_date": "2026-11-26T04:27:00+00:00",
-      "time_ago": "22h ago"
+      "time_ago": "12h ago"
     }
   ]
 }
