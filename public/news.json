@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-27T01:51:35.100561+00:00",
+  "updated_at": "2026-11-27T02:04:53.236945+00:00",
   "news": [
+    {
+      "title": "The 16 most jaw-dropping Statcast feats of 2026",
+      "link": "https://www.mlb.com/news/top-statcast-plays-of-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795731680/mlb/aageaoo40rr7omkyg0q7",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "David Adler",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-27T01:56:06+00:00",
+      "time_ago": "8m ago"
+    },
+    {
+      "title": "Presenting the 2026 ... All-Awardless Team!",
+      "link": "https://www.mlb.com/news/mlb-all-awardless-team-2026",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oltopiumayyvgoscmxmc",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Anthony Castrovince",
+      "tag": "Award",
+      "tag_color": "#16A34A",
+      "pub_date": "2026-11-27T01:55:37+00:00",
+      "time_ago": "9m ago"
+    },
     {
       "title": "From 17 to 25, here is the best prospect at each age",
       "link": "https://www.mlb.com/news/best-mlb-prospects-by-age-2026",
@@ -38,7 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-26T16:52:00+00:00",
-      "time_ago": "8h ago"
+      "time_ago": "9h ago"
     },
     {
       "title": "Veteran backstop Sánchez joining Marlins on 1-year contract (sources)",
@@ -64,7 +90,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-26T05:00:00+00:00",
-      "time_ago": "20h ago"
+      "time_ago": "21h ago"
     },
     {
       "title": "Twins add righty reliever Ginkel on 2-year deal (sources)",
@@ -78,32 +104,6 @@
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-26T04:27:00+00:00",
       "time_ago": "21h ago"
-    },
-    {
-      "title": "The most unlikely and unusual pitcher wins of 2026",
-      "link": "https://www.mlb.com/news/most-unusual-pitcher-wins-of-2026",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sj5dtoqyfnrj7f6npsx3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sarah Langs",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-26T04:11:53+00:00",
-      "time_ago": "21h ago"
-    },
-    {
-      "title": "Rockies continue to bolster starting pitching, add Peterson, Sandoval (sources)",
-      "link": "https://www.mlb.com/news/david-peterson-rockies-deal",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dqk15accyexfqy9ikcl3",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Thomas Harding",
-      "tag": "MLB News",
-      "tag_color": "#64748B",
-      "pub_date": "2026-11-26T03:09:00+00:00",
-      "time_ago": "22h ago"
     }
   ]
 }
