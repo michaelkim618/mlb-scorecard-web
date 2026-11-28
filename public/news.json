@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-28T01:33:32.798069+00:00",
+  "updated_at": "2026-11-28T01:50:07.120035+00:00",
   "news": [
+    {
+      "title": "Here's how Chisholm can find the sweet spot in Toronto",
+      "link": "https://www.mlb.com/news/how-jazz-chisholm-jr-impacts-blue-jays-2027",
+      "summary": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lpoakc5ap2yvuxrgpgrt",
+      "source": "MLB.com",
+      "source_color": "#002D72",
+      "author": "Keegan Matheson",
+      "tag": "MLB News",
+      "tag_color": "#64748B",
+      "pub_date": "2026-11-28T01:09:59+00:00",
+      "time_ago": "40m ago"
+    },
     {
       "title": "D-backs nab Japanese righty Takahashi on 1-year deal (source)",
       "link": "https://www.mlb.com/news/kona-takahashi-diamondbacks-deal",
@@ -38,7 +51,7 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-27T21:45:00+00:00",
-      "time_ago": "3h ago"
+      "time_ago": "4h ago"
     },
     {
       "title": "Sato already had some Cubs connections before signing 6-year contract",
@@ -51,7 +64,7 @@
       "tag": "Trade",
       "tag_color": "#7C3AED",
       "pub_date": "2026-11-27T20:49:53+00:00",
-      "time_ago": "4h ago"
+      "time_ago": "5h ago"
     },
     {
       "title": "D-backs trade for 2021's No. 1 overall Draft pick, send utility man to Pirates",
@@ -90,19 +103,6 @@
       "tag": "MLB News",
       "tag_color": "#64748B",
       "pub_date": "2026-11-27T15:16:00+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "title": "Root of success: Dodgers prospect thriving with revamped arsenal",
-      "link": "https://www.mlb.com/news/zach-root-dodgers-prospect-development-qa",
-      "summary": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ixt1zobdezau7g0mruls",
-      "source": "MLB.com",
-      "source_color": "#002D72",
-      "author": "Sonja Chen",
-      "tag": "Highlight",
-      "tag_color": "#D97706",
-      "pub_date": "2026-11-27T14:58:48+00:00",
       "time_ago": "10h ago"
     }
   ]
